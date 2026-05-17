@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: taian.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20200127_%E6%B3%B0%E5%AE%89%E5%B1%B1%E8%84%9A%E4%B8%8B.jpg
 latitude: 36.200297
+loc_type: city
 longitude: 117.080932
+score: 0.57
 title: Tai'an
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Tai'an exists for one reason: Mount Tai. Taishan is the most revered of China's Five Sacred Mountains and a UNESCO World Heritage Site, and the city at its base has served pilgrims, emperors, and travelers for thousands of years. The climb begins at Dai Temple in the center of town, a sprawling complex that is itself worth a visit before you start the ascent.

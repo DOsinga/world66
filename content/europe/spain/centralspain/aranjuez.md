@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: aranjuez.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Aranjuez_PalacioReal_PlazaToros.jpg
 latitude: 40.032229
+loc_type: city
 longitude: -3.60401
+score: 0.58
 title: Aranjuez
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Aranjuez sits about 50 kilometres south of [Madrid](/europe/spain/centralspain/madrid) on the banks of the Tagus, and has been a royal retreat since the time of Philip II. The town is officially designated a Royal Site, and it shows — the scale and grandeur of the place is entirely out of proportion to its modest size.

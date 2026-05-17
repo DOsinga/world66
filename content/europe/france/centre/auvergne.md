@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: auvergne.jpg
+image_license: CC BY-SA 2.0 fr
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_puy_de_dome_sud.jpg
 latitude: 45.710013
+loc_type: region
 longitude: 3.15318
+score: 0.57
 title: Auvergne
 type: location
-score: 0.57
-loc_type: region
 ---
 
 The Auvergne is the volcanic heart of [France](/europe/france) — a rugged, sparsely populated region of extinct volcanoes, crater lakes and deep river gorges in the Massif Central. The Chaîne des Puys, a chain of 80 dormant volcanoes stretching north-south, was designated a UNESCO World Heritage Site in 2018. You can hike to the top of the Puy de Dôme, the highest in the chain, and look out across a landscape that feels nothing like the France of postcards.

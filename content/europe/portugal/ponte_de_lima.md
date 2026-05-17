@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: ponte_de_lima.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_Ponte_de_Lima.jpg
 latitude: 41.767502
+loc_type: city
 longitude: -8.583099
+score: 0.58
 title: Ponte de Lima
 type: location
-score: 0.58
-loc_type: city
 ---
 
 The Romans are supposed to have thought the Lima was the mythical river Lethe, so beautiful it took men's memories away. The story goes that the legionaries would not cross until their commander swam to the far bank and proved he still remembered their names.

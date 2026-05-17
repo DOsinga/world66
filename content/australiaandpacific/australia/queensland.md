@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: queensland.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Litoria_infrafrenata_-_Julatten.jpg
 latitude: -22.164678
+loc_type: region
 longitude: 144.58449
 score: 0.57
 title: Queensland
 type: location
-loc_type: region
 ---
 
 Queensland is Australia's second-largest state by area and the one most visitors picture when they think of tropical Australia. The state runs from the Gold Coast and Sunshine Coast in the southeast — relatively built-up, beach-and-surf territory — through Brisbane up to the tropics, where the Great Barrier Reef and the Daintree rainforest are the main draws.

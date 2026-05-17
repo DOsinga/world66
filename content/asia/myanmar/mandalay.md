@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: mandalay.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mandalay_-_The_worship_of_Buddha.jpg
 latitude: 21.959683
+loc_type: city
 longitude: 96.094874
 score: 0.56
 title: Mandalay
 type: location
-loc_type: city
 ---
 
 **Mandalay** is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. 

@@ -1,12 +1,15 @@
 ---
-title: Aland Islands
-type: location
-latitude: 60.216622
-longitude: 19.943864
 done:
   location_cleanup: 2026-04-07
-score: 0.58
+image: alandislands.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Aaland_Archipelago,_Finland_(ASTER).jpg
+latitude: 60.216622
 loc_type: region
+longitude: 19.943864
+score: 0.58
+title: Aland Islands
+type: location
 ---
 
 The Åland Islands are an archipelago of over 6,000 islands and skerries in the Baltic Sea, halfway between Finland and Sweden. Politically Finnish but culturally and linguistically Swedish, the islands have a degree of autonomy unique in Europe: their own parliament, their own flag, their own postal stamps, and Swedish as the sole official language. They are also permanently demilitarised under international treaty — a status that has held since 1856.

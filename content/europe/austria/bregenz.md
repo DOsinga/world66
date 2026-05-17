@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: bregenz.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bregenz_am_Morgen_vom_Seibel,_B%C3%B6hringer.jpg
 latitude: 47.5026
+loc_type: city
 longitude: 9.7473
+score: 0.59
 title: Bregenz
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Bregenz is the capital of Vorarlberg, Austria's westernmost province, sitting on the eastern shore of Lake Constance (Bodensee) where the lake meets the alpine foothills. It is a compact, attractive town, and the lake gives it an almost coastal feel — unusual for landlocked Austria.

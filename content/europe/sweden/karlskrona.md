@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
+image: karlskrona.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fredrikskyrkan1.jpg
 latitude: 56.162107
+loc_type: city
 longitude: 15.586642
 score: 0.57
 title: Karlskrona
 type: location
-loc_type: city
 ---
 
 Karlskrona was founded in 1680 when King Karl XI needed a southern naval base that wouldn't freeze in winter. He chose a cluster of islands at the southeastern tip of Sweden, laid out a baroque city on a grid, and built Sweden's great war fleet here. The whole thing — dockyard, churches, fortifications, artisan quarters — was designated a UNESCO World Heritage Site in 1998, and it remains one of the best-preserved naval cities in the world.

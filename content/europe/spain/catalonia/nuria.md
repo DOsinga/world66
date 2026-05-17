@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: nuria.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nuria13.jpg
 latitude: 42.3977
+loc_type: city
 longitude: 2.1547
+score: 0.58
 title: Vall de Núria
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Vall de Núria is not a town but a high mountain sanctuary at 2,000 metres in the eastern Pyrenees, accessible only by the **Cremallera de Núria** rack railway — Spain's only surviving rack line. The valley is car-free and snowbound in winter, ringed by peaks that top 2,900 metres.

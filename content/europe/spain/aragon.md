@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: aragon.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Metro_Aragon_01.jpg
 latitude: 41.378729
+loc_type: region
 longitude: -0.763937
 score: 0.57
 title: Aragon
 type: location
-loc_type: region
 ---
 
 Aragon is one of the northern regions of Spain, crossed by the river Ebro. If you are a fan of hiking or skiing, you can head to the Pyrenees (here at their highest) or the seldom-explored mountains in the south of Aragon. In the Pyrenean valleys you might see sword dances, which are still performed here.

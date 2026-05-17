@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: tarasconsurari.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Tarascon_-_Le_Cast%C3%A9lla_2.jpg
 latitude: 42.845802
+loc_type: city
 longitude: 1.606759
+score: 0.56
 title: Tarascon-sur-Ariège
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Tarascon-sur-Ariège is a small town in the Ariège valley between Foix and the Spanish border. It is pleasant enough in itself — stone houses along the river, a ruined castle on the hill above — but the real draw is the prehistoric cave art in the surrounding valleys.

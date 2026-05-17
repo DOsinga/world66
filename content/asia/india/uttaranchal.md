@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: uttaranchal.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Auli,_India.jpg
 latitude: 30.041738
+loc_type: region
 longitude: 79.089691
 score: 0.57
 title: Uttaranchal
 type: location
-loc_type: region
 ---
 
 Uttaranchal (officially Uttarakhand since 2006) occupies the Himalayan foothills and mountains of northern India, bordering Tibet and Nepal. It is one of the most important pilgrimage regions in the Hindu world — the Char Dham (Badrinath, Kedarnath, Gangotri, and Yamunotri) draw millions of pilgrims each year, and Haridwar and Rishikesh are among the holiest cities in India.

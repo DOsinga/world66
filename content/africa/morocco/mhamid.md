@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: mhamid.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:M%27hamid-CafeUndShop.jpg
 latitude: 29.825084
+loc_type: city
 longitude: -5.719808
+score: 0.57
 title: M'Hamid
 type: location
-score: 0.57
-loc_type: city
 ---
 
 M'Hamid el Ghizlane is the last village before the Sahara on the Draa Valley road, about 100 km south of Zagora. The drive to get here is remarkable: you pass through Zagora (with its famous sign counting down the days to Timbuktu by camel), round the Jebel Zagora, follow the Draa River through a corridor of palm groves, ancient kasbahs, and ksour villages, and arrive at a small adobe settlement half-swallowed by sand.

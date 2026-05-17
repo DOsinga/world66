@@ -1,17 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: florida.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_Key_and_Sailboats,_Florida,_2025.jpg
 latitude: 27.756767
+loc_type: region
 longitude: -81.463983
-score: 0.56
 quick_facts:
-  Population: "22 million"
-  Coastline: "1,350 miles"
-  Natural Springs: "700+"
+  Coastline: 1,350 miles
   Lightning Strikes: Most in the US
+  Natural Springs: 700+
+  Population: 22 million
+score: 0.56
 title: Florida
 type: location
-loc_type: region
 ---
 
 Florida is a place people come to reinvent themselves — or simply to escape winter. It has built its entire identity around tourism and does not pretend otherwise. More than 60 million visitors a year flood the state, yet it still manages to surprise: pull off the interstate into the scrub pines of the Panhandle, or paddle a flat-bottomed boat through the Everglades at dawn, and you'll find something altogether different from the theme-park version of Florida most people imagine.

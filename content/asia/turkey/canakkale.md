@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: canakkale.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg
 latitude: 40.054989
+loc_type: region
 longitude: 26.927829
+score: 0.56
 title: Canakkale
 type: location
-score: 0.56
-loc_type: region
 ---
 
 Canakkale sits on the narrowest part of the Dardanelles — just over a kilometre across — the strait that separates Europe from Asia and links the Aegean Sea to the south with the Sea of Marmara to the north.

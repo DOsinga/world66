@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: taipa.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Taipa_Building_-_panoramio.jpg
 latitude: 22.152726
+loc_type: city
 longitude: 113.558394
+score: 0.57
 title: Taipa
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Taipa is one of the two main islands that make up Macau's territory alongside the peninsula. It is now largely continuous with Macau city via the Cotai Strip — the reclaimed land between Taipa and [Coloane](/asia/china/macau/coloane) that has become a dense concentration of casino resorts. The original village of Taipa, however, retains a pleasant Portuguese colonial character that is worth seeking out.

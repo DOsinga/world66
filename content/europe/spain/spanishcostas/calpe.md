@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: calpe.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Calpe-Marina-Alta-2019.jpg
 latitude: 38.644325
+loc_type: city
 longitude: 0.046012
+score: 0.58
 title: Calpe
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Calpe (Calp in Valencian) is a small coastal town on the Costa Blanca dominated by the Penon de Ifach, a massive 332-metre limestone rock jutting out of the sea. The rock is a nature reserve and the climb to the top — about an hour each way through a tunnel and along a steep trail — rewards you with views stretching to [Ibiza](/europe/spain/balearicislands/ibiza) on a clear day.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: provins.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:0_Provins_-_Le_centre_historique_de_la_ville_basse.JPG
 latitude: 48.560296
+loc_type: city
 longitude: 3.298809
+score: 0.6
 title: Provins
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Provins is a medieval market town about 80 kilometres southeast of [Paris](/europe/france/paris), and one of the best-preserved examples of a medieval city in France. It was listed as a UNESCO World Heritage Site in 2001, not for any single monument but for the extraordinary completeness of its medieval urban fabric — the ramparts, the towers, the underground vaults, all still intact.

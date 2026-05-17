@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+image: chongqing.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chongqing_Nightscape.jpg
 latitude: 30.05518
+loc_type: city
 longitude: 107.874871
 score: 0.57
 title: Chongqing
 type: location
-loc_type: city
 ---
 
 Chongqing stands at the confluence of the Jialing and Yangtze rivers, a vast, hilly city known as the "Mountain City" and the "City of Fog." It is the largest municipality in China by area, sprawling across 82,000 square kilometres with a population of over 30 million. In 1997 it became China's fourth municipality directly under the central government, alongside Beijing, Shanghai, and Tianjin.

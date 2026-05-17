@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: laspezia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Spezia.jpg
 latitude: 44.1024
+loc_type: city
 longitude: 9.824
+score: 0.61
 title: La Spezia
 type: location
-score: 0.61
-loc_type: city
 ---
 
 La Spezia is the main transport hub for the [Cinque Terre](/europe/italy/liguria/laspezia), the string of five cliff-hugging villages that draw visitors from across the world. The city itself is a working port with a gritty, unpretentious character that most travellers overlook in their rush to catch the train north. That's their loss — the old centre around Via del Prione has good restaurants, a lively market, and a relaxed evening passeggiata.

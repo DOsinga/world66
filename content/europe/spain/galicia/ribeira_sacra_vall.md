@@ -1,12 +1,15 @@
 ---
-title: Ribeira Sacra
-type: location
-latitude: 42.4
-longitude: -7.65
 done:
   location_cleanup: 2026-04-05
-score: 0.58
+image: ribeira_sacra_vall.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:DO_Ribeira_Sacra_location.svg
+latitude: 42.4
 loc_type: region
+longitude: -7.65
+score: 0.58
+title: Ribeira Sacra
+type: location
 ---
 
 The Ribeira Sacra is a river-canyon region in the interior of Galicia, where the Sil and Miño rivers have carved deep gorges through the granite hills south of Lugo and north of Ourense. It is one of the most atmospheric landscapes in north-western Spain: steep, forested canyons dropping to the green water of the reservoirs below, terraced vineyards clinging to the hillsides at impossible angles, and a scattering of medieval monasteries perched on the high ground above the rivers — the "sacred banks" that give the region its name.

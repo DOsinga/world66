@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: bimini.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bimini_in_Bahamas_(%2Bglow).svg
 latitude: 25.7267
+loc_type: city
 longitude: -79.269
+score: 0.56
 title: Bimini
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Bimini is the westernmost district of the [Bahamas](/northamerica/bahamas), a chain of low-lying islands just 80 kilometres east of Miami. It is famous for big-game fishing — Ernest Hemingway spent long summers here in the 1930s, and the marlin and tuna fishing remains world-class — but the islands have a relaxed, end-of-the-road feel that goes beyond the sportfishing crowd.

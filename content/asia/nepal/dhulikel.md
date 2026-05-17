@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: dhulikel.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_Great_Himalayan_Range_from_Dhulikhel,_Nepal_in_2025.jpg
 latitude: 27.6206
+loc_type: city
 longitude: 85.5561
+score: 0.57
 title: Dhulikhel
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Dhulikhel is an ancient Newar town perched on the eastern rim of the Kathmandu Valley, about 30 km from the capital. On a clear day, the panorama of Himalayan peaks from Langtang to Everest is one of the best viewpoints in [Nepal](/asia/nepal) — and far quieter than Nagarkot.

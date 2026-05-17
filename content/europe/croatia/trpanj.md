@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: trpanj.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:House_of_Ghetaldic-Gondulic,_Dubrovnik.jpg
 latitude: 43.008044
+loc_type: city
 longitude: 17.273354
+score: 0.56
 title: Trpanj
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Trpanj is a quiet little harbour town on the north-western tip of the [Pelješac peninsula](/europe/croatia/peljesac), facing the mainland across a narrow channel. It has managed to stay out of the mass-tourism circuit — there is one proper hotel, a handful of konobas, and a waterfront that fills up with fishing boats and small ferries rather than cruise-ship crowds.

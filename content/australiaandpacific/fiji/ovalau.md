@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ovalau.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:St_johns_ovalau.jpg
 latitude: -17.683982
+loc_type: city
 longitude: 178.788679
+score: 0.59
 title: Ovalau
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Ovalau is a volcanic island in the Koro Sea, part of the Lomaiviti Group in central Fiji. It is best known as the site of Levuka, Fiji's first colonial capital and the country's oldest town. Levuka was the centre of European activity in Fiji before the capital was moved to Suva in 1882, and it retains a remarkable collection of 19th-century wooden buildings along its main street — enough to earn UNESCO World Heritage status in 2013.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: bajacalifornia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pargo_Coconaco_(Hoplopagrus_guentherii),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_24.jpg
 latitude: 30.033892
+loc_type: city
 longitude: -115.142511
+score: 0.56
 title: Baja California
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Baja California is the 1,300-kilometre peninsula that hangs south from the US border between the Pacific Ocean and the Gulf of California. It is mostly rugged, arid, and sparsely populated — a spine of mountains running through desert, with the sea on both sides. For travelers willing to make the drive, it is one of the most dramatic landscapes in North America.

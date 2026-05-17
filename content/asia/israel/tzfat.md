@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: tzfat.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Safed1.jpg
 latitude: 32.96463
+loc_type: city
 longitude: 35.502451
+score: 0.57
 title: Tzfat
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Tzfat (Safed) sits high in the mountains of the Upper Galilee, at around 900 meters — cool in summer, occasionally snowy in winter. It has been one of the four holy cities of Judaism for centuries and was the center of Jewish mysticism (Kabbalah) in the 16th century, when Rabbi Joseph Karo compiled the Shulchan Aruch here and the mystic Isaac Luria developed Kabbalistic doctrine that spread across the Jewish world.

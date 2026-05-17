@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: portimao.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Col%C3%A9gio_dos_Jesu%C3%ADtas_(2).jpg
 latitude: 37.137581
+loc_type: city
 longitude: -8.536843
 score: 0.58
 title: Portimao
 type: location
-loc_type: city
 ---
 
 Portimão sits on the western Algarve coast where the Arade River meets the sea, a proper working town that has managed to stay real even as the tourist industry has grown up around it. For centuries this was a sardine-fishing port — the canneries that once lined the waterfront have been converted into museums and restaurants, but the boats still go out and the fish market still smells like fish. The long sandy beach at Praia da Rocha, just a couple of kilometres south, is one of the finest on the Algarve, backed by ochre cliffs and dotted with rock stacks worn into strange shapes by the Atlantic.

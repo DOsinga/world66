@@ -1,10 +1,16 @@
 ---
+done:
+  location_enrich: '2026-05-17'
+image: hengdian.jpg
+image_attribution: kanegen from Tokyo, Japan
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Hengdian_World_Studios_005.jpg
 latitude: 29.1791
+loc_type: feature
 longitude: 120.2981
 sources:
 - https://en.wikipedia.org/wiki/Hengdian_World_Studios
 title: Hengdian World Studios
-loc_type: feature
 type: location
 ---
 

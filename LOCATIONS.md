@@ -198,17 +198,13 @@ Do not publish a POI without coordinates. If you cannot determine them, leave th
 
 ## Sources
 
-The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded.
+The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded. Any time we discover a source, add it to the list for future reference, both for pois & locs
 
 ```yaml
 sources:
   - https://en.wikivoyage.org/wiki/Hubei
   - https://en.wikipedia.org/wiki/Hubei
 ```
-
-Wikivoyage is the most useful source for coverage gaps — it lists destinations per region and gives a sense of what a thorough travel guide should include. Wikipedia is useful for historical and geographic context. Add the source when you first write or substantially update a page; update it if the reference URL changes.
-
-Sources are not shown to site visitors — they are internal references for content editors and batch workflows.
 
 ## Principles
 

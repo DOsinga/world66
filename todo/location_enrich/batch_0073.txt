@@ -1,5 +1,0 @@
-northamerica/dominicanrepublic/la_romana
-europe/spain/balearicislands/mallorca/magaluf
-europe/ireland/killarney
-asia/india/rajasthan/chittorgarh
-northamerica/unitedstates/illinois/carbondale

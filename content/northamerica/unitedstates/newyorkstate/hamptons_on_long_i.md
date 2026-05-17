@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: hamptons_on_long_i.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Hampton_Thames_boatyards_1928.png
 latitude: 40.9632
 loc_type: region
 longitude: -72.1846

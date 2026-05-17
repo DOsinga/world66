@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: transylvania.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:001537-asteroid_shape_model_(1537)_Transylvania.png
 latitude: 46.597162
 loc_type: region
 longitude: 24.374029

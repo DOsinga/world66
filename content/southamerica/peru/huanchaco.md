@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-21'
-image: huanchaco.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:PhotomontageHuanchaco.jpg
 latitude: -8.0795
 loc_type: region
 longitude: -79.1203

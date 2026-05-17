@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: clermontferrant.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Ville_de_Clermont-Ferrand.jpg
 latitude: 45.777455
 loc_type: city
 longitude: 3.081943

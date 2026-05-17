@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: tainan.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_Tainan(2012)_(cropped).jpg
 latitude: 22.991235
 loc_type: city
 longitude: 120.184982

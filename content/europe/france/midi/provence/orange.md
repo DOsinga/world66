@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: orange.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Orange_logo.svg
 latitude: 44.137131
 loc_type: city
 longitude: 4.807878

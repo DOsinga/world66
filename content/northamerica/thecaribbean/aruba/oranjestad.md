@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: oranjestad.jpg
-image_license: CC-BY-SA-3.0
-image_source: https://en.wikipedia.org/wiki/File:Sightings_in_Oranjestad.jpg
 latitude: 12.5092
 loc_type: city
 longitude: -70.0086

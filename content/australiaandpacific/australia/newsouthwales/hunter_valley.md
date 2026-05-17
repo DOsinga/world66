@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: hunter_valley.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Newcastle_-_Bulk_carrier_passing_Nobbys.jpg
 latitude: -32.450678
 loc_type: city
 longitude: 150.926241

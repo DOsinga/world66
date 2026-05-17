@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: kakheti.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Black_Rock_Lake_%E1%83%90.jpg
 latitude: 41.737352
 loc_type: city
 longitude: 45.672178

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: portoroz.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Portoroz_(3956393456).jpg
 latitude: 45.514649
 loc_type: city
 longitude: 13.591011

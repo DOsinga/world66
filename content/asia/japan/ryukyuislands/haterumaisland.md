@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: haterumaisland.jpg
-image_license: Attribution
-image_source: https://commons.wikimedia.org/wiki/File:Haterumajima_Island_Aerial_photograph.2009.jpg
 latitude: 24.058746
 loc_type: city
 longitude: 123.782155

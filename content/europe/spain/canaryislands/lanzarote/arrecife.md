@@ -1,7 +1,4 @@
 ---
-image: arrecife.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Arrecife,_Lanzarote_2011.JPG
 latitude: 28.964
 loc_type: city
 longitude: -13.5499

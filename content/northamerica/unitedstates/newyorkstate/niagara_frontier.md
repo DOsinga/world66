@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: niagara_frontier.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:NiagaraRiverNASA.jpg
 latitude: 43.0261
 loc_type: region
 longitude: -78.8734

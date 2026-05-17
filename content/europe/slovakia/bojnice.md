@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: bojnice.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Slovakia_Bojnice_(The_photo_is_made_of_a_glider_%22Duo_Discus_xlt%22)_(8698340484).jpg
 latitude: 48.779959
 loc_type: city
 longitude: 18.582199

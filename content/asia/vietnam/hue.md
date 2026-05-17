@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-20'
-image: hue.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Colors-i54-ring.png
 latitude: 16.4639
 loc_type: region
 longitude: 107.5863

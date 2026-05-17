@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: chejuisland.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Jeju_Island.jpg
 latitude: 33.489
 loc_type: city
 longitude: 126.4983

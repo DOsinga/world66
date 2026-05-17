@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-21'
-image: kotakinabalu.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Kota_Kinabalu_City.jpg
 latitude: 5.978007
 loc_type: city
 longitude: 116.072899

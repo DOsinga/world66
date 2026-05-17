@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: pensacola.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Collage_of_images_from_around_Pensacola.jpg
 latitude: 30.421309
 loc_type: region
 longitude: -87.216915

@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
-image: takamatsu.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Hanazyukai20220729_7a.jpg
 latitude: 34.3428
 loc_type: city
 longitude: 134.0466

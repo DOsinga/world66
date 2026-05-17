@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: north_frisian_islands.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Nordfriesisches_Wattenmeer_D_und_DK-en.png
 latitude: 54.7174
 loc_type: city
 longitude: 8.4958

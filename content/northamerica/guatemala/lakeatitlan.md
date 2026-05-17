@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-20'
-image: lakeatitlan.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Lago_de_Atitlan_seen_from_orbit.jpg
 latitude: 14.689
 loc_type: region
 longitude: -91.2008

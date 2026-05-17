@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-08
-image: livorno.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Livorno,_veduta_aerea_2015.jpg
 latitude: 42.790238
 loc_type: city
 longitude: 10.340224

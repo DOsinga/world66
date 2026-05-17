@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: newyorkstate.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:September_14_2001.jpg
 latitude: 43.156168
 loc_type: region
 longitude: -75.844995

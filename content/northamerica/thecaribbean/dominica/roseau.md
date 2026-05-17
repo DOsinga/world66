@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: roseau.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Roseau_Dominica.jpg
 latitude: 15.301
 loc_type: city
 longitude: -61.3883

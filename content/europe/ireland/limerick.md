@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: limerick.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Limerickcitycollage3.jpg
 latitude: 52.6638
 loc_type: city
 longitude: -8.6267

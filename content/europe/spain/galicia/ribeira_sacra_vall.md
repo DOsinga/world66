@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: ribeira_sacra_vall.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:DO_Ribeira_Sacra_location.svg
 latitude: 42.4
 loc_type: region
 longitude: -7.65

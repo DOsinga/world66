@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
-image: outerbanks.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:NCOuterBanks-EO.jpg
 latitude: 35.566904
 loc_type: region
 longitude: -75.468837

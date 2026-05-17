@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: vitilevu.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Vitilevu_topo.jpg
 latitude: -17.793383
 loc_type: region
 longitude: 177.978225

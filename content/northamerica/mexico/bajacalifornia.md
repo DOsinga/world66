@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: bajacalifornia.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Pargo_Coconaco_(Hoplopagrus_guentherii),_Cabo_Pulmo,_Baja_California,_M%C3%A9xico,_2024-12-19,_DD_24.jpg
 latitude: 30.033892
 loc_type: city
 longitude: -115.142511

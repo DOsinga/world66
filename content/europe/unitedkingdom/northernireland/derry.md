@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: derry.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:DerryMontage3.JPG
 latitude: 54.997868
 loc_type: city
 longitude: -7.321306

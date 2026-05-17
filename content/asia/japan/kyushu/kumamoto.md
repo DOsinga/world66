@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-20'
-image: kumamoto.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Mount_Tatsuda-yama_(Kumamoto)_1.jpg
 latitude: 32.645
 loc_type: city
 longitude: 130.6341

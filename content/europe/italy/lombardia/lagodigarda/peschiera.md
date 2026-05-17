@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: peschiera.jpg
-image_license: CC BY-SA 3.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Peschiera_del_Garda.jpg
 latitude: 45.44
 loc_type: city
 longitude: 10.6896

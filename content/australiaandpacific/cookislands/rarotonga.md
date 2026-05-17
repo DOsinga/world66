@@ -1,10 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: rarotonga.jpg
 image_attribution: 'Photographer: Unknown'
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Rarotonga_Island.jpg
 latitude: -21.236831
 loc_type: region
 longitude: -159.777474

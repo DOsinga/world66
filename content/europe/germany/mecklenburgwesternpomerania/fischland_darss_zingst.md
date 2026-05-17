@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: fischland_darss_zingst.jpg
-image_license: CC BY 3.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Fischland,_Dar%C3%9F,_Zingst(MV750T).png
 latitude: 54.41
 loc_type: region
 longitude: 12.57

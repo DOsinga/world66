@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: waikato.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Landscape_of_Waikato_Region_06.jpg
 latitude: -37.7833
 loc_type: region
 longitude: 175.2833

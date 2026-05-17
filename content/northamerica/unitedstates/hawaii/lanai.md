@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: lanai.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:LanaiLandsat.jpg
 latitude: 20.8306
 loc_type: city
 longitude: -156.9029

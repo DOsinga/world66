@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: bimini.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Bimini_in_Bahamas_(%2Bglow).svg
 latitude: 25.7267
 loc_type: city
 longitude: -79.269

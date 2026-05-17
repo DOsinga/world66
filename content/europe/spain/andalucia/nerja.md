@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: nerja.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Nerja.jpg
 latitude: 36.746856
 loc_type: city
 longitude: -3.879016

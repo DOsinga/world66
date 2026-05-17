@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
-image: st_just_in_penwith.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:St_Just_Market_Square_Bank_Square_and_Plein_An_Gwarry.png
 latitude: 50.124369
 loc_type: city
 longitude: -5.679704

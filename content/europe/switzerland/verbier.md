@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: verbier.jpg
-image_license: GFDL
-image_source: https://commons.wikimedia.org/wiki/File:Verbier_View.JPG
 latitude: 46.096101
 loc_type: city
 longitude: 7.228676

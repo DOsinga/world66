@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: lakevico.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Vico_Lake_1.jpg
 latitude: 42.320498
 loc_type: city
 longitude: 12.174887

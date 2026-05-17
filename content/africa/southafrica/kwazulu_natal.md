@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: kwazulu_natal.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Durban_harbour_skyline.jpg
 latitude: -28.503833
 loc_type: city
 longitude: 30.887501

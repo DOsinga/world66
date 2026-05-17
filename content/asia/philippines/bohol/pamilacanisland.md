@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: pamilacanisland.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Pamilacan_Island_(Landsat).jpg
 latitude: 9.4903
 loc_type: city
 longitude: 123.9164

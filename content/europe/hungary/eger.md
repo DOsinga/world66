@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-image: eger.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Eger_montage.JPG
 latitude: 47.898989
 loc_type: city
 longitude: 20.374367

@@ -2,10 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-20'
-image: andalucia.jpg
 image_attribution: Euskal Bizikleta
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Simple_ruin,_almond_trees_plantation,_Andalusia,_Spain.jpg
 latitude: 37.5443
 loc_type: region
 longitude: -4.7278

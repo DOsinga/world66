@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: kochi.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Kochi_Skyline.jpg
 latitude: 9.967903
 loc_type: city
 longitude: 76.244438

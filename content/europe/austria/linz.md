@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: linz.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Linz_Blick_von_Freinbergstrasse_32-2_(cropped).jpg
 latitude: 48.3069
 loc_type: city
 longitude: 14.2858

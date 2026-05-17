@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: hisaronu.jpg
-image_license: PD
-image_source: https://en.wikipedia.org/wiki/File:Hisaronu.jpg
 latitude: 36.5547
 loc_type: city
 longitude: 29.1167

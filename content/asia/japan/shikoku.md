@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: shikoku.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Satellite_image_of_Shikoku_in_April_2018.png
 latitude: 33.560875
 loc_type: region
 longitude: 133.371886

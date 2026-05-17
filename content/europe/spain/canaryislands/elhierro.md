@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: elhierro.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Santa_Cruz_de_Tenerife_SPOT_1320.jpg
 latitude: 27.743508
 loc_type: city
 longitude: -18.03818

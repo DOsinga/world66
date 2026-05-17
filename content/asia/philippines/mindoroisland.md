@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: mindoroisland.jpg
-image_license: Attribution
-image_source: https://commons.wikimedia.org/wiki/File:Mindoro_Island_S2-2020.jpg
 latitude: 12.8692
 loc_type: region
 longitude: 121.1345

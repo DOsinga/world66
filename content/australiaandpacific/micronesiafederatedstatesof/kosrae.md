@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: kosrae.jpg
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:Kosrae.png
 latitude: 5.325
 loc_type: city
 longitude: 162.9817

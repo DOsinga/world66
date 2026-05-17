@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
-image: yap.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:%C3%8Eles_Yap.svg
 latitude: 9.537
 loc_type: city
 longitude: 138.129

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: liguria.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Liguria_in_Italy.svg
 latitude: 44.477762
 loc_type: region
 longitude: 8.70263

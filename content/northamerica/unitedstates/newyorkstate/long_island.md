@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: long_island.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Montauk_01.jpg
 latitude: 40.7282
 loc_type: region
 longitude: -73.7949

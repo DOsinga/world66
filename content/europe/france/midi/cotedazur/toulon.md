@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: toulon.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Montage_Toulon.JPG
 latitude: 43.125731
 loc_type: city
 longitude: 5.930492

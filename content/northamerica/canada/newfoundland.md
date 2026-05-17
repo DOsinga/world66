@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: newfoundland.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:2022-09-02_01_Wide_harbor_view_of_Fortune,_Newfoundland_Canada.jpg
 latitude: 49.121191
 loc_type: region
 longitude: -56.64034

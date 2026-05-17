@@ -2,9 +2,6 @@
 done:
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
-image: aruba.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Donkeys_of_San_Nicolas,_Aruba_-_2.jpg
 latitude: 12.5093
 loc_type: region
 longitude: -69.9688

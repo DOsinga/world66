@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: toirano.jpg
-image_license: CC BY 2.5
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Toirano_dalle_grotte.JPG
 latitude: 44.12753
 loc_type: city
 longitude: 8.20485

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: pag_island.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Island_Pag_-_panoramio_-_pepanos_(7).jpg
 latitude: 44.45
 loc_type: city
 longitude: 15.05

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: tequila.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0244.jpg
 latitude: 21.11582
 loc_type: city
 longitude: -103.810137

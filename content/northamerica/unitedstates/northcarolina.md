@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: northcarolina.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Snow_in_Coastal_North_Carolina_2010-02-14.jpg
 latitude: 35.672964
 loc_type: region
 longitude: -79.039292

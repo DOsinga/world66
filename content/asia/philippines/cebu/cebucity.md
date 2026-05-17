@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
-image: cebucity.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Cebu_city_skyline_2025.jpg
 latitude: 10.3157
 loc_type: city
 longitude: 123.8854

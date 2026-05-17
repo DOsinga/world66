@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: tongatapu.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Tonga_ESA363260.jpg
 latitude: -21.166707
 loc_type: region
 longitude: -175.1982

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: southern_alps.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:South_Island.jpg
 latitude: 44.5
 loc_type: region
 longitude: 6.5

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: kanazawacity.jpg
-image_license: CC BY 2.1 jp
-image_source: https://commons.wikimedia.org/wiki/File:%E6%9C%9B%E6%B9%96%E5%8F%B0%EF%BC%92.jpg
 latitude: 36.5613
 loc_type: city
 longitude: 136.6562

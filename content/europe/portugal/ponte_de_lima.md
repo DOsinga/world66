@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: ponte_de_lima.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_Ponte_de_Lima.jpg
 latitude: 41.767502
 loc_type: city
 longitude: -8.583099

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: menorca.jpg
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:Bandera_de_Menorca.svg
 latitude: 39.949257
 loc_type: region
 longitude: 4.049964

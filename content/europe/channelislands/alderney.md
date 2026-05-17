@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: alderney.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Alderney_by_Sentinel-2.jpg
 latitude: 49.7235
 loc_type: city
 longitude: -2.196

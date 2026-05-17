@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: garni.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:GarniCollection2021.jpg
 latitude: 40.122331
 loc_type: city
 longitude: 44.742019

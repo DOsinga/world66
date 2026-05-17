@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: epirus.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Epirus_antiquus_tabula.jpg
 latitude: 39.550159
 loc_type: city
 longitude: 20.748637

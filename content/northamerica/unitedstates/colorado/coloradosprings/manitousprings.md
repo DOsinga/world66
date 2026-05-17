@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: manitousprings.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Manitou_Springs_City_Hall.JPG
 latitude: 38.8586
 loc_type: city
 longitude: -104.9179

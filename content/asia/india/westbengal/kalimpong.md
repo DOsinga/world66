@@ -1,7 +1,4 @@
 ---
-image: kalimpong.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:View_of_Kalimpong,_India.jpg
 latitude: 27.065985
 loc_type: city
 longitude: 88.467995

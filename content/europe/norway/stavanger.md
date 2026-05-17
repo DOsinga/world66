@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
-image: stavanger.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Breiavatnet_-_Stavanger,_Norway_2021-08-01_(02).jpg
 latitude: 58.969968
 loc_type: city
 longitude: 5.73181

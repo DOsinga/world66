@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: kalsoy.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Faroe_stamp_348_kalsoy.jpg
 latitude: 62.298151
 loc_type: region
 longitude: -6.74299

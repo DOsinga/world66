@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: lagomera.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:(Isla_de_la_Gomera)_La_Palma_%26_La_Gomera_Islands,_Canary_Islands_(cropped).jpg
 latitude: 28.119236
 loc_type: region
 longitude: -17.225747

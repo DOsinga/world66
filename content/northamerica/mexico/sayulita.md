@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: sayulita.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Entrada_a_Sayulita_02.jpg
 latitude: 20.8689
 loc_type: city
 longitude: -105.4407

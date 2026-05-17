@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: jajce.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Jajce_(kola%C5%BE).jpg
 latitude: 44.3403
 loc_type: city
 longitude: 17.2703

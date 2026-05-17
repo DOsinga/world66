@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: tibet.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Tibet-claims.jpg
 latitude: 29.855644
 loc_type: region
 longitude: 90.874981

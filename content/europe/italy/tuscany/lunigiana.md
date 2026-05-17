@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-02
-image: lunigiana.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Pontremoli.JPG
 latitude: 44.25
 loc_type: region
 longitude: 9.95

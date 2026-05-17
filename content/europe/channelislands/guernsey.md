@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: guernsey.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Guernsey_from_the_air_-_geograph.ci_-_371.jpg
 latitude: 49.458
 loc_type: region
 longitude: -2.535

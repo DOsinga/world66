@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: eysturoy.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Position_of_Eysturoy_on_Faroe_map.png
 latitude: 62.19887
 loc_type: region
 longitude: -6.817845

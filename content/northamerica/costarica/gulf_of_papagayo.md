@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: gulf_of_papagayo.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Gulf_of_Papagayo_NASA.jpg
 loc_type: region
 score: 0.64
 title: Gulf of Papagayo

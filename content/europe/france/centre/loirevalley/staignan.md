@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: staignan.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Chartres_Saint-Aignan_Xy5.JPG
 latitude: 47.2667
 loc_type: city
 longitude: 1.3667

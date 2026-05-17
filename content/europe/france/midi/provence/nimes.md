@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: nimes.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Nimes_2012_(8579722371).jpg
 latitude: 43.837425
 loc_type: city
 longitude: 4.360069

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: emiliaromagna.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Emilia-Romagna_in_Italy.svg
 latitude: 44.525696
 loc_type: region
 longitude: 11.039437

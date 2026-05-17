@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: plymouth.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Plymouth_City.JPG
 latitude: 41.9584
 loc_type: city
 longitude: -70.6673

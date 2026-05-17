@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: tierradelfuego.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:NASA_Tierra_del_Fuego_image.jpg
 latitude: -54.3815
 loc_type: city
 longitude: -67.5679

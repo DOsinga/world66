@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: dourovalley.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Douro_region_logo.svg
 latitude: 41.287796
 loc_type: city
 longitude: -7.740175

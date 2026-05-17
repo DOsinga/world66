@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
-image: quebec.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Gazania_krebsiana,_Quebec_city,_Quebec,_Canada_131.jpg
 latitude: 52.476089
 loc_type: region
 longitude: -71.825867

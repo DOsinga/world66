@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: aranislands.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Aran_Islands_location.svg
 latitude: 53.120352
 loc_type: region
 longitude: -9.705632

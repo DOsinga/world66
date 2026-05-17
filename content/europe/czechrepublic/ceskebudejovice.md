@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: ceskebudejovice.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Ceske_Budejovice_kolaz.png
 latitude: 48.974736
 loc_type: city
 longitude: 14.474285

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-image: rosenheim.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Rosenheim,_X,_aufgehellt.jpeg
 latitude: 47.853927
 loc_type: city
 longitude: 12.127262

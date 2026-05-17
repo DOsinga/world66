@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: languedoc.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Languedoc_(fr%C3%A9gate),_S%C3%A8te.jpg
 latitude: 43.654203
 loc_type: region
 longitude: 3.67467

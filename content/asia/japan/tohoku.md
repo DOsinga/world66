@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: tohoku.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Tohoku_Region_in_Japan.svg
 latitude: 39.173618
 loc_type: region
 longitude: 140.731915

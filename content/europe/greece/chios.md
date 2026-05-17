@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: chios.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:ChiosPrefecture.jpg
 latitude: 38.375813
 loc_type: city
 longitude: 26.064655

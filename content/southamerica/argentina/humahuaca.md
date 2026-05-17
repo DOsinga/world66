@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: humahuaca.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:HumahuacaCityMontage.jpg
 latitude: -23.204027
 loc_type: city
 longitude: -65.348776

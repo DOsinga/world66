@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-image: oudeschild.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Oudeschild_dorp.jpg
 latitude: 53.038389
 loc_type: city
 longitude: 4.845691

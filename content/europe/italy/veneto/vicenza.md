@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: vicenza.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Collage_Vicenza.jpg
 latitude: 45.634859
 loc_type: city
 longitude: 11.406354

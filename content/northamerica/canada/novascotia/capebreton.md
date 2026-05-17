@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: capebreton.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Wfm_cape_breton_island_pseudocolour.jpg
 latitude: 46.295
 loc_type: city
 longitude: -60.9361

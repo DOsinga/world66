@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: tutuila.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:TutuilaFromSpace.jpg
 latitude: -14.306479
 loc_type: city
 longitude: -170.759739

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: pulausamosir.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Toba_zoom.jpg
 latitude: 2.593629
 loc_type: city
 longitude: 98.801082

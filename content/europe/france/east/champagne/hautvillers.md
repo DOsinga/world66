@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: hautvillers.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Town_Hall_Hautvillers.jpg
 latitude: 49.083047
 loc_type: city
 longitude: 3.943338

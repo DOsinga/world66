@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: spitsbergen.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Spitsbergen.png
 latitude: 78.719852
 loc_type: region
 longitude: 20.349333

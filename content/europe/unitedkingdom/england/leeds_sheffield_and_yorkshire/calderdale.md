@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: calderdale.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Mytholmroyd_(26951020410).jpg
 latitude: 53.7205
 loc_type: region
 longitude: -1.9623

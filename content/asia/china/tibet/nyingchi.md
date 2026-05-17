@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: nyingchi.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Nyingchi_city_June_2019.jpg
 latitude: 29.5488
 loc_type: city
 longitude: 94.6385

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: figueiradafoz.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Figueira_da_Foz_-_Portugal_(12303340164)_(cropped).jpg
 latitude: 40.148581
 loc_type: city
 longitude: -8.855655

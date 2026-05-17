@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-image: erlangen.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Erlangen_08-2012.jpg
 latitude: 49.589157
 loc_type: city
 longitude: 10.981207

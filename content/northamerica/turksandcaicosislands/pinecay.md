@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: pinecay.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Turks_and_Caicos_Islands_-_Pine_Cay.PNG
 latitude: 21.88
 loc_type: city
 longitude: -72.107

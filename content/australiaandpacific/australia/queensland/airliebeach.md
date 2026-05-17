@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: airliebeach.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Airlie_Beach_is_a_departure_point_for_the_Great_Barrier_Reef.jpg
 latitude: -20.272494
 loc_type: city
 longitude: 148.718147

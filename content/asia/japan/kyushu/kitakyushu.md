@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: kitakyushu.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Kitakyushu_Montage.jpg
 latitude: 33.883
 loc_type: region
 longitude: 130.8749

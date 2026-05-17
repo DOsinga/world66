@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: taveuni.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:TaveuniNASA.jpg
 latitude: -16.826149
 loc_type: city
 longitude: -179.935461

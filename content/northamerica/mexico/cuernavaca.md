@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: cuernavaca.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Montaje_de_Cuernavaca.jpg
 latitude: 18.933132
 loc_type: city
 longitude: -99.259958

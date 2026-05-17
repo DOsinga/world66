@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
-image: bodo.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Bod%C3%B8_Town_Hall,_South_view_20150608_1.jpg
 latitude: 67.2844
 loc_type: city
 longitude: 14.3818

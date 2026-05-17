@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: beijing.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg
 latitude: 39.905714
 loc_type: city
 longitude: 116.391297

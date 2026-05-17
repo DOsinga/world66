@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-02
-image: calabria.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Calabria_in_Italy.svg
 latitude: 39.056
 loc_type: region
 longitude: 16.5942

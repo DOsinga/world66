@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: hameln.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Hameln_in_HM.svg
 latitude: 52.104
 loc_type: city
 longitude: 9.3562

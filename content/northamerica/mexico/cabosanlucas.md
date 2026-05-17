@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: cabosanlucas.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Collage_Cabo_San_Lucas.jpg
 latitude: 22.893888
 loc_type: city
 longitude: -109.92006

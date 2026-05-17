@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-21'
-image: curitiba.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Curitiba.jpg
 latitude: -25.4296
 loc_type: city
 longitude: -49.2713

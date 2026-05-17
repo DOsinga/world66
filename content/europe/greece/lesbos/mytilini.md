@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: mytilini.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Mytilene_Montage_L.png
 latitude: 39.103735
 loc_type: city
 longitude: 26.554788

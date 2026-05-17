@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: nantes.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_depuis_Butte_Sainte-Anne.jpg
 latitude: 47.218637
 loc_type: city
 longitude: -1.554136

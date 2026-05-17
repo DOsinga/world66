@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
-image: belgrade.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_Belgrad.jpg
 latitude: 44.8153
 loc_type: city
 longitude: 20.4457

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: flores.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Flores,_Guatemala_-_Calle.jpg
 latitude: -8.6574
 loc_type: region
 longitude: 121.0794

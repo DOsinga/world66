@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: extremadura.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Extremadura_in_Spain_(including_Canarias).svg
 latitude: 39.174843
 loc_type: region
 longitude: -6.152989

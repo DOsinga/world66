@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: passau.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:PassauCollection2025.jpg
 latitude: 48.574823
 loc_type: city
 longitude: 13.460974

@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
-image: staugustine.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg
 latitude: 29.8943
 loc_type: city
 longitude: -81.3145

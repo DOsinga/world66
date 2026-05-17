@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: stykkisholmur.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Sveitarf%C3%A9lagi%C3%B0_Stykkish%C3%B3lmur_Loc.svg
 latitude: 65.074258
 loc_type: city
 longitude: -22.730295

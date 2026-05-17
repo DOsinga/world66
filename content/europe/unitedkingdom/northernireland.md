@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: northernireland.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Northern_Ireland_in_the_UK_and_Europe.svg
 latitude: 54.586
 loc_type: region
 longitude: -6.9592

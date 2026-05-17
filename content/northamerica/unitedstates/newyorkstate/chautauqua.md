@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: chautauqua.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Chautauqua_(pemberton0201).jpg
 latitude: 42.2894
 loc_type: city
 longitude: -79.4217

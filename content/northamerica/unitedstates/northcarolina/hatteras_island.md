@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: hatteras_island.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Cape_hatteras_1989.jpg
 latitude: 35.4849
 loc_type: city
 longitude: -75.4806

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: larnaca.jpg
-image_license: FAL
-image_source: https://commons.wikimedia.org/wiki/File:Larnaca_01-2017_img27_Finikoudes.jpg
 latitude: 34.923609
 loc_type: city
 longitude: 33.623618

@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: neworleans.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:New_Orleans_from_the_Air_September_2019_-_Central_Business_District_Skyline_(cropped).jpg
 latitude: 29.956142
 loc_type: city
 longitude: -90.073393

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: thanjavur.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Thanjavur_2.jpg
 latitude: 10.659037
 loc_type: city
 longitude: 79.201428

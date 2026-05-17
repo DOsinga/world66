@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: cherrapunji.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Cherrapunji.jpg
 latitude: 25.277734
 loc_type: city
 longitude: 91.729242

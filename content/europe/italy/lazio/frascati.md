@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: frascati.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Frascati.jpg
 latitude: 41.808245
 loc_type: city
 longitude: 12.680368

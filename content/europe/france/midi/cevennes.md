@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: cevennes.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:MC_cevenes.jpg
 latitude: 44.350931
 loc_type: region
 longitude: 3.858481

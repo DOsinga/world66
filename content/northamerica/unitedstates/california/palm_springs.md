@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: palm_springs.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Palm_Springs_from_the_Museum_Trail.jpg
 latitude: 33.824627
 loc_type: city
 longitude: -116.540303

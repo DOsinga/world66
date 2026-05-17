@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: healdsburg.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Healdsburg_Carnegie_Library,_221_Matheson_St.,_Healdsburg,_CA_7-3-2010_4-29-17_PM.JPG
 latitude: 38.610681
 loc_type: city
 longitude: -122.870138

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: tenerife.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Tenerife,_Canary_Islands_ESA23970088.jpeg
 latitude: 28.2916
 loc_type: region
 longitude: -16.6291

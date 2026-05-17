@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: kalaharidesert.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Kalahari.png
 latitude: -23.0
 loc_type: region
 longitude: 22.0

@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
-image: hyderabad.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_hyderabad_drone.png
 latitude: 17.360589
 loc_type: city
 longitude: 78.474061

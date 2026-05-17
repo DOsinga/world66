@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: southampton.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:View_across_Ocean_Village_Marina_(geograph_5432669).jpg
 latitude: 32.2652
 loc_type: city
 longitude: -64.8534

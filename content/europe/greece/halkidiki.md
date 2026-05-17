@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: halkidiki.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:2010_Dimi_Chalkidikis_numbered.svg
 latitude: 40.331
 loc_type: city
 longitude: 23.3621

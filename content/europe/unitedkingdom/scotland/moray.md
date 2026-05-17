@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: moray.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Green_Moray_Eel_(Gymnothorax_funebris),_Cozumel.jpg
 latitude: 57.65
 loc_type: city
 longitude: -3.3167

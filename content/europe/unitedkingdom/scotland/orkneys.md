@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: orkneys.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Orkney_Islands_by_Sentinel-2.jpg
 latitude: 58.9809
 loc_type: region
 longitude: -2.9605

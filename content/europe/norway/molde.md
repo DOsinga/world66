@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: molde.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_Molde_(2023-10-26_11-31-23).jpg
 latitude: 62.6016
 loc_type: city
 longitude: 8.1386

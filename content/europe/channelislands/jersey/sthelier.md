@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: sthelier.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Saint_H%C3%A9lyi_p%C3%A8lerinnage_2011_08.jpg
 latitude: 49.188
 loc_type: city
 longitude: -2.104

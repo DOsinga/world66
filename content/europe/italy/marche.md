@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: marche.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Marches_in_Italy.svg
 latitude: 43.345839
 loc_type: region
 longitude: 13.141587

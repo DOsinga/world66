@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: puigcerd.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Puigcerd%C3%A1_-_DSC_0490.JPG
 latitude: 42.431797
 loc_type: city
 longitude: 1.927869

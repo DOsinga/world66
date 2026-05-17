@@ -1,7 +1,4 @@
 ---
-image: gipuzkoa.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Gipuzkoa_in_Spain_(plus_Canarias).svg
 latitude: 43.144528
 loc_type: region
 longitude: -2.203796

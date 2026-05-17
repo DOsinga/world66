@@ -1,10 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: dalmatia.jpg
 image_attribution: Scuola veneta
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Dalmatia_(Kotor).svg
 latitude: 43.538796
 loc_type: region
 longitude: 16.175236

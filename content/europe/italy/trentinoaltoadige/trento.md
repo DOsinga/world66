@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: trento.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Trento_visione_d%27insieme_6.jpg
 latitude: 46.066423
 loc_type: city
 longitude: 11.12576

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: capecoast.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Cape_Coast_Montage.jpg
 latitude: 5.107467
 loc_type: city
 longitude: -1.243079

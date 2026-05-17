@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: santiagodecuba.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Santiago_de_cuba_al_atardecer.jpg
 latitude: 20.0247
 loc_type: city
 longitude: -75.8219

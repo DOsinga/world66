@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: badmergentheim.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Bad_Mergentheim_Historischer_Stadtkern_Deutschordensschloss_Luftbild.jpg
 latitude: 49.490791
 loc_type: city
 longitude: 9.77317

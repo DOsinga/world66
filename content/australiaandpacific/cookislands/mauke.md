@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: mauke.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Mauke_Aerial.jpg
 latitude: -20.160399
 loc_type: city
 longitude: -157.341222

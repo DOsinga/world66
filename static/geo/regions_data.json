@@ -2484,7 +2484,7 @@
  "york": {
   "name": "Yorkshire & Lake District",
   "parent": "England",
-  "n_locs": 64,
+  "n_locs": 67,
   "is_split": true,
   "top_locations": [
    {
@@ -2537,7 +2537,7 @@
  "oxford": {
   "name": "Cotswolds & South West",
   "parent": "England",
-  "n_locs": 47,
+  "n_locs": 50,
   "is_split": true,
   "top_locations": [
    {
@@ -2590,7 +2590,7 @@
  "cambridge": {
   "name": "East Anglia",
   "parent": "England",
-  "n_locs": 26,
+  "n_locs": 22,
   "is_split": true,
   "top_locations": [
    {
@@ -2643,7 +2643,7 @@
  "london": {
   "name": "London and around",
   "parent": "England",
-  "n_locs": 35,
+  "n_locs": 23,
   "is_split": true,
   "top_locations": [
    {
@@ -2656,15 +2656,6 @@
     "image_url": "/content-image/europe/unitedkingdom/england/london.jpg"
    },
    {
-    "title": "Brighton",
-    "snippet": "Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and th...",
-    "path": "europe/unitedkingdom/england/south_east/brighton",
-    "score": 0.67,
-    "lat": 50.821463,
-    "lon": -0.140056,
-    "image_url": "/content-image/europe/unitedkingdom/england/south_east/brighton.jpg"
-   },
-   {
     "title": "Windsor",
     "snippet": "Windsor exists because of its castle, and the castle is reason enough to come. Windsor Castle is the oldest and largest occupied castle in the world, a royal residence for nearly a thousand years, and it dominates the town from every angle. The State Apartments, St George's Ch...",
     "path": "europe/unitedkingdom/england/south_east/windsor",
@@ -2674,29 +2665,38 @@
     "image_url": "/content-image/europe/unitedkingdom/england/south_east/windsor.jpg"
    },
    {
-    "title": "Canterbury",
-    "snippet": "Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has...",
-    "path": "europe/unitedkingdom/england/south_east/canterbury",
-    "score": 0.63,
-    "lat": 51.280028,
-    "lon": 1.080253,
-    "image_url": "/content-image/europe/unitedkingdom/england/south_east/canterbury.jpg"
+    "title": "Chichester",
+    "snippet": "Chichester is a small cathedral city in West Sussex, close to Portsmouth and the South Downs. The Roman walls that encircle the city centre are still largely intact, and the street plan follows the Roman grid, with four main streets meeting at the medieval Market Cross in the...",
+    "path": "europe/unitedkingdom/england/south_east/chichester",
+    "score": 0.53,
+    "lat": 50.836486,
+    "lon": -0.779172,
+    "image_url": null
    },
    {
-    "title": "Rochester",
-    "snippet": "Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rocheste...",
-    "path": "europe/unitedkingdom/england/south_east/rochester",
-    "score": 0.53,
-    "lat": 51.3884,
-    "lon": 0.5049,
-    "image_url": "/content-image/europe/unitedkingdom/england/south_east/rochester.jpg"
+    "title": "Marlow",
+    "snippet": "Marlow is one of the prettiest towns on the Thames, a place where Georgian facades line the high street and a graceful suspension bridge frames the river. It sits in the Chiltern Hills of Buckinghamshire, about an hour west of London, and has long attracted writers \u2014 Mary Shel...",
+    "path": "europe/unitedkingdom/england/south_east/marlow",
+    "score": 0.51,
+    "lat": 51.571871,
+    "lon": -0.776965,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/marlow.jpg"
+   },
+   {
+    "title": "Hove",
+    "snippet": "Hove sits immediately west of Brighton along the Sussex coast, separated in administrative terms since the two merged into a single unitary authority in 1997, though most locals still maintain the distinction with some feeling. Where Brighton pitches itself at weekenders seeki...",
+    "path": "europe/unitedkingdom/england/south_east/hove",
+    "score": 0.49,
+    "lat": 50.828692,
+    "lon": -0.174574,
+    "image_url": null
    }
   ]
  },
  "cornwall": {
   "name": "Cornwall & Devon",
   "parent": "England",
-  "n_locs": 32,
+  "n_locs": 29,
   "is_split": true,
   "top_locations": [
    {
@@ -2742,6 +2742,59 @@
     "score": 0.58,
     "lat": 50.5707,
     "lon": -3.9188,
+    "image_url": null
+   }
+  ]
+ },
+ "brighton": {
+  "name": "South of England",
+  "parent": "England",
+  "n_locs": 13,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Brighton",
+    "snippet": "Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and th...",
+    "path": "europe/unitedkingdom/england/south_east/brighton",
+    "score": 0.67,
+    "lat": 50.821463,
+    "lon": -0.140056,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/brighton.jpg"
+   },
+   {
+    "title": "Canterbury",
+    "snippet": "Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has...",
+    "path": "europe/unitedkingdom/england/south_east/canterbury",
+    "score": 0.63,
+    "lat": 51.280028,
+    "lon": 1.080253,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/canterbury.jpg"
+   },
+   {
+    "title": "Rochester",
+    "snippet": "Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rocheste...",
+    "path": "europe/unitedkingdom/england/south_east/rochester",
+    "score": 0.53,
+    "lat": 51.3884,
+    "lon": 0.5049,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/rochester.jpg"
+   },
+   {
+    "title": "Dover",
+    "snippet": "When you think of Dover, you probably think of white cliffs \u2014 those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel...",
+    "path": "europe/unitedkingdom/england/south_east/dover",
+    "score": 0.51,
+    "lat": 51.125127,
+    "lon": 1.313423,
+    "image_url": null
+   },
+   {
+    "title": "Hastings",
+    "snippet": "Hastings is best known for the battle that changed English history in 1066, though that actually took place six miles inland at what is now called Battle. The town itself is an ancient Sussex seaside settlement, nestled in the folds of the High Weald as it meets the sea.",
+    "path": "europe/unitedkingdom/england/south_east/hastings",
+    "score": 0.5,
+    "lat": 50.855098,
+    "lon": 0.582178,
     "image_url": null
    }
   ]
@@ -6419,21 +6472,65 @@
    }
   ]
  },
- "poland": {
-  "name": "Poland",
+ "warsaw": {
+  "name": "Warsaw & Central Poland",
   "parent": "Poland",
-  "n_locs": 41,
-  "is_split": false,
+  "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
-    "title": "Krakow",
-    "snippet": "Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast Market Square \u2014 one of Europe's largest medieval plazas \u2014 is ringed by townhouses and churches that survived the Second World War intact, wh...",
-    "path": "europe/poland/krakow",
-    "score": 0.75,
-    "lat": 50.061947,
-    "lon": 19.936856,
-    "image_url": "/content-image/europe/poland/krakow.jpg"
+    "title": "Warsaw",
+    "snippet": "Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, w...",
+    "path": "europe/poland/warsaw",
+    "score": 0.61,
+    "lat": 52.233374,
+    "lon": 21.071149,
+    "image_url": null
    },
+   {
+    "title": "Kazimierz Dolny",
+    "snippet": "Kazimierz Dolny is a small town on the Vistula River, about two hours south of Warsaw. It has been a favourite weekend escape for artists and Warsaw residents for over a century \u2014 the combination of Renaissance architecture, riverside setting, and wooded hills makes it one of...",
+    "path": "europe/poland/kazimierzdolny",
+    "score": 0.58,
+    "lat": 51.322006,
+    "lon": 21.947372,
+    "image_url": "/content-image/europe/poland/kazimierzdolny.jpg"
+   },
+   {
+    "title": "Sandomierz",
+    "snippet": "Sandomierz is one of Poland's oldest and best-preserved towns, perched on a loess bluff above the Vistula river. The Old Town survived both the Mongol invasions and the Second World War largely intact, leaving a compact medieval centre that feels far removed from the busier to...",
+    "path": "europe/poland/sandomierz",
+    "score": 0.53,
+    "lat": 50.679307,
+    "lon": 21.749506,
+    "image_url": "/content-image/europe/poland/sandomierz.jpg"
+   },
+   {
+    "title": "Lublin",
+    "snippet": "Lublin is the largest city in eastern Poland, a university town with a substantial medieval old town and a history shaped by its position on the border between Catholic and Orthodox, Polish and Ukrainian, Christian and Jewish worlds. Before the Second World War, over a third o...",
+    "path": "europe/poland/lublin",
+    "score": 0.51,
+    "lat": 51.250559,
+    "lon": 22.570102,
+    "image_url": null
+   },
+   {
+    "title": "Lowicz",
+    "snippet": "\u0141owicz is the folk capital of Poland. This small town between Warsaw and \u0141\u00f3d\u017a is famous for its colourful Corpus Christi processions, where locals dress in elaborate traditional costumes and carpet the streets with flower petals. The tradition has been alive for centuries, and...",
+    "path": "europe/poland/lowicz",
+    "score": 0.42,
+    "lat": 52.101224,
+    "lon": 19.947461,
+    "image_url": null
+   }
+  ]
+ },
+ "gdansk": {
+  "name": "Gda\u0144sk & Baltic Coast",
+  "parent": "Poland",
+  "n_locs": 11,
+  "is_split": true,
+  "top_locations": [
    {
     "title": "Gdansk",
     "snippet": "Gdansk is one of the most historically loaded cities in Europe \u2014 and one of the most beautiful. It was here, on 1 September 1939, that the Second World War began, with German guns opening fire on the Polish garrison at Westerplatte. And it was here, in 1980, that Lech Walesa c...",
@@ -6453,6 +6550,50 @@
     "image_url": null
    },
    {
+    "title": "Trojmiasto",
+    "snippet": "Trojmiasto \u2014 the \"Tri-City\" \u2014 is the Polish name for the urban strip of Gdansk, Sopot, and Gdynia stretching along the Baltic coast. The three cities have distinct characters but blend into one continuous conurbation, connected by commuter rail and an increasingly busy motorway.",
+    "path": "europe/poland/trojmiasto",
+    "score": 0.57,
+    "lat": 54.44948,
+    "lon": 18.733495,
+    "image_url": null
+   },
+   {
+    "title": "Toru\u0144",
+    "snippet": "Toru\u0144 is one of the best-preserved medieval cities in Poland, a UNESCO World Heritage Site sitting on the Vistula River. It escaped the destruction of the Second World War almost entirely and its Gothic old town remains largely intact \u2014 red-brick churches, a ruined Teutonic Kn...",
+    "path": "europe/poland/torun",
+    "score": 0.57,
+    "lat": 53.010272,
+    "lon": 18.604809,
+    "image_url": null
+   },
+   {
+    "title": "Sopot",
+    "snippet": "Sopot is the smallest of the three cities that make up the Tr\u00f3jmiasto \u2014 the conurbation shared with Gda\u0144sk and Gdynia \u2014 and it punches well above its weight as a resort town. In summer it fills with visitors from across Poland who come for the beach, the cafes, and the general...",
+    "path": "europe/poland/sopot",
+    "score": 0.56,
+    "lat": 54.4448,
+    "lon": 18.5685,
+    "image_url": null
+   }
+  ]
+ },
+ "krakow": {
+  "name": "Krak\u00f3w & Southern Poland",
+  "parent": "Poland",
+  "n_locs": 14,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Krakow",
+    "snippet": "Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast Market Square \u2014 one of Europe's largest medieval plazas \u2014 is ringed by townhouses and churches that survived the Second World War intact, wh...",
+    "path": "europe/poland/krakow",
+    "score": 0.75,
+    "lat": 50.061947,
+    "lon": 19.936856,
+    "image_url": "/content-image/europe/poland/krakow.jpg"
+   },
+   {
     "title": "Wieliczka",
     "snippet": "Wieliczka is a small town just 14 kilometres southeast of Krak\u00f3w, and its fame rests almost entirely on what lies beneath it: a vast, centuries-old salt mine that descends nine levels into the earth and stretches for over 300 kilometres of tunnels. The Wieliczka Salt Mine is a...",
     "path": "europe/poland/wieliczka",
@@ -6462,13 +6603,119 @@
     "image_url": null
    },
    {
-    "title": "Warsaw",
-    "snippet": "Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, w...",
-    "path": "europe/poland/warsaw",
-    "score": 0.61,
-    "lat": 52.233374,
-    "lon": 21.071149,
+    "title": "Zakopane",
+    "snippet": "Zakopane is Poland's premier mountain resort town, perched at 850 metres in the Tatra foothills near the Slovak border. It has drawn Polish artists, writers, and holidaymakers since the late 19th century and remains enormously popular in both winter (skiing) and summer (hiking...",
+    "path": "europe/poland/zakopane",
+    "score": 0.6,
+    "lat": 49.2969,
+    "lon": 19.9505,
     "image_url": null
+   },
+   {
+    "title": "Krynica-Zdr\u00f3j",
+    "snippet": "Krynica-Zdr\u00f3j is Poland's largest and best-known spa town, tucked into the Beskid S\u0105decki mountains in the far south of the country. It has been drawing visitors to its mineral springs since the early 19th century, and the town retains a gentle, slightly old-fashioned spa-reso...",
+    "path": "europe/poland/krynicazdroj",
+    "score": 0.49,
+    "lat": 49.420614,
+    "lon": 20.959418,
+    "image_url": null
+   },
+   {
+    "title": "Lancut",
+    "snippet": "Lancut is a small town in southeastern Poland that would be entirely unremarkable if not for one thing: its castle. The Lancut Castle is one of the finest aristocratic residences in Poland, a sprawling palace surrounded by an English-style landscape park. Built in the early se...",
+    "path": "europe/poland/lancut",
+    "score": 0.47,
+    "lat": 50.0696,
+    "lon": 22.2335,
+    "image_url": "/content-image/europe/poland/lancut.jpg"
+   }
+  ]
+ },
+ "wroclaw": {
+  "name": "Wroc\u0142aw & West",
+  "parent": "Poland",
+  "n_locs": 7,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Wroclaw",
+    "snippet": "Wroclaw is the cultural and intellectual capital of Lower Silesia, a city of 12 islands and 112 bridges where the Odra River splinters into tributaries and canals that cut through parks, Gothic churches, and one of the largest market squares in Europe. It has the energy of a u...",
+    "path": "europe/poland/wroclaw",
+    "score": 0.6,
+    "lat": 51.109,
+    "lon": 17.0327,
+    "image_url": null
+   },
+   {
+    "title": "Poznan",
+    "snippet": "Poznan is one of Poland's oldest and most important cities, the birthplace of the Polish nation and a place where history and a youthful university energy coexist in a way that feels entirely natural. The Old Market Square, one of the largest in Europe, is ringed by colourful...",
+    "path": "europe/poland/poznan",
+    "score": 0.55,
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "image_url": null
+   },
+   {
+    "title": "G\u00f6rlitz",
+    "snippet": "G\u00f6rlitz is Germany's easternmost city, sitting right on the Polish border \u2014 the Neisse River separates it from its Polish twin, Zgorzelec. What makes G\u00f6rlitz extraordinary is that it survived the Second World War almost entirely intact. The result is a town with over 4,000 lis...",
+    "path": "europe/germany/saxony/grlitz",
+    "score": 0.55,
+    "lat": 51.1563,
+    "lon": 14.991,
+    "image_url": null
+   },
+   {
+    "title": "Jelenia G\u00f3ra",
+    "snippet": "Jelenia G\u00f3ra sits in the Jelenia G\u00f3ra Valley in southwestern Poland, surrounded by the Karkonosze Mountains \u2014 the highest range in the Sudetes. The town serves as the main gateway to Karkonosze National Park and makes a comfortable base for hiking in summer and skiing in winter.",
+    "path": "europe/poland/jelenia_gra",
+    "score": 0.5,
+    "lat": 50.9002,
+    "lon": 15.7349,
+    "image_url": null
+   },
+   {
+    "title": "Szczecin",
+    "snippet": "Szczecin (known in German as Stettin) is a major port city in northwestern Poland, close to the German border on the Oder river. It has a complicated past: for most of its history it was a German city, the capital of Pomerania, and the birthplace of Catherine the Great. After...",
+    "path": "europe/poland/szczecin",
+    "score": 0.46,
+    "lat": 53.430182,
+    "lon": 14.550962,
+    "image_url": null
+   }
+  ]
+ },
+ "mikolajki": {
+  "name": "Masuria & Lake District",
+  "parent": "Poland",
+  "n_locs": 3,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Mikolajki",
+    "snippet": "Miko\u0142ajki is a small resort town in the heart of Poland's Masurian Lake District, the region of forested hills and interconnected lakes that stretches across the northeast of the country. The town sits on a narrow isthmus between Lake Miko\u0142ajskie and Lake Ta\u0142ty, and in summer...",
+    "path": "europe/poland/mikolajki",
+    "score": 0.49,
+    "lat": 53.798182,
+    "lon": 21.577246,
+    "image_url": null
+   },
+   {
+    "title": "Olsztyn",
+    "snippet": "Olsztyn is the capital of the Warmia-Masuria region in northeastern Poland, a city of about 170,000 set among the lakes and forests that make this corner of the country so appealing. Its most famous resident was Nicolaus Copernicus, who served as administrator of Warmia from t...",
+    "path": "europe/poland/olsztyn",
+    "score": 0.46,
+    "lat": 53.7766,
+    "lon": 20.4778,
+    "image_url": "/content-image/europe/poland/olsztyn.jpg"
+   },
+   {
+    "title": "Mragowo",
+    "snippet": "Mragowo is a small town in Poland's Masurian Lake District, wedged between lakes Juno and Czos. It makes a good base for exploring the surrounding countryside of forests and waterways.",
+    "path": "europe/poland/mragowo",
+    "score": 0.43,
+    "lat": 53.8661,
+    "lon": 21.3046,
+    "image_url": "/content-image/europe/poland/mragowo.jpg"
    }
   ]
  },
@@ -13017,7 +13264,7 @@
  "kefalonia": {
   "name": "Ionian Islands",
   "parent": "Greece",
-  "n_locs": 26,
+  "n_locs": 22,
   "is_split": true,
   "top_locations": [
    {
@@ -13070,7 +13317,7 @@
  "thessaloniki": {
   "name": "Northern Greece",
   "parent": "Greece",
-  "n_locs": 19,
+  "n_locs": 20,
   "is_split": true,
   "top_locations": [
    {
@@ -13083,15 +13330,6 @@
     "image_url": "/content-image/europe/greece/thessaloniki.jpg"
    },
    {
-    "title": "Skiathos",
-    "snippet": "Skiathos is the most developed of the Sporades islands, and for good reason \u2014 it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough co...",
-    "path": "europe/greece/skiathos",
-    "score": 0.74,
-    "lat": 39.169298,
-    "lon": 23.455251,
-    "image_url": "/content-image/europe/greece/skiathos.jpg"
-   },
-   {
     "title": "Thassos",
     "snippet": "Thassos is the northernmost Greek island, a short ferry ride from Kavala or Keramoti on the Macedonian coast. It is one of the greenest islands in the Aegean \u2014 pine forests cover the mountainous interior, dropping to sandy beaches and coves around the coast.",
     "path": "europe/greece/thassos_island",
@@ -13101,15 +13339,6 @@
     "image_url": "/content-image/europe/greece/thassos_island.jpg"
    },
    {
-    "title": "Skopelos",
-    "snippet": "Skopelos is the greenest island in the Aegean. Dense pine forests run right down to the waterline, covering nearly the entire island and giving it a lush, almost un-Greek character. It sits in the northern Sporades, between Skiathos and Alonnisos, and while it gained internati...",
-    "path": "europe/greece/skopelos",
-    "score": 0.7,
-    "lat": 39.140174,
-    "lon": 23.681376,
-    "image_url": "/content-image/europe/greece/skopelos.jpg"
-   },
-   {
     "title": "Halkidiki",
     "snippet": "Halkidiki is a three-pronged peninsula southeast of Thessaloniki, and the closest thing northern Greece has to the island beach experience without actually getting on a ferry. Three long fingers of land -- Kassandra, Sithonia, and Athos -- reach south into the Aegean, each wit...",
     "path": "europe/greece/halkidiki",
@@ -13117,13 +13346,31 @@
     "lat": 40.331,
     "lon": 23.3621,
     "image_url": "/content-image/europe/greece/halkidiki.jpg"
+   },
+   {
+    "title": "Kalambaka",
+    "snippet": "Kalambaka is the town at the foot of the Meteora, one of the most extraordinary landscapes in Greece. The Meteora are massive sandstone pinnacles that rise from the Thessaly plain, topped by medieval monasteries that seem to defy gravity. Six monasteries are still active today...",
+    "path": "europe/greece/kalambaka",
+    "score": 0.64,
+    "lat": 39.703014,
+    "lon": 21.62536,
+    "image_url": null
+   },
+   {
+    "title": "Pilion",
+    "snippet": "The Pelion peninsula (also spelled Pilion) curves into the Aegean Sea east of Volos, its spine draped in thick chestnut and apple orchards that give way to dramatic clifftops above the sea. In Greek mythology this was the home of the centaurs, and it still feels a little wild:...",
+    "path": "europe/greece/pilion",
+    "score": 0.59,
+    "lat": 39.365088,
+    "lon": 23.135561,
+    "image_url": null
    }
   ]
  },
  "athens": {
   "name": "Athens & Around",
   "parent": "Greece",
-  "n_locs": 21,
+  "n_locs": 24,
   "is_split": true,
   "top_locations": [
    {
@@ -13145,6 +13392,15 @@
     "image_url": "/content-image/europe/greece/hydra.jpg"
    },
    {
+    "title": "Skiathos",
+    "snippet": "Skiathos is the most developed of the Sporades islands, and for good reason \u2014 it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough co...",
+    "path": "europe/greece/skiathos",
+    "score": 0.74,
+    "lat": 39.169298,
+    "lon": 23.455251,
+    "image_url": "/content-image/europe/greece/skiathos.jpg"
+   },
+   {
     "title": "Delphi",
     "snippet": "Delphi was once considered the centre of the world. Set dramatically on the slopes of Mount Parnassus, overlooking the vast olive-covered plain of Phocis, it served for centuries as the most important oracle in the ancient Greek world. A priestess of Apollo, the Pythia, would...",
     "path": "europe/greece/delphi",
@@ -13161,24 +13417,33 @@
     "lat": 37.596,
     "lon": 23.0794,
     "image_url": "/content-image/europe/greece/epidaurus.jpg"
-   },
-   {
-    "title": "Nauplia",
-    "snippet": "Nafplio (or Navplion, Nauplia or Navplio, depending on what you read; but, definitely, it is \u039d\u03b1\u03cd\u03c0\u03bb\u03b9\u03bf) is on the eastern shores of the Peloponnese. The first capital city of independent Greece in 1823, Nafplio is today a very attractive town of 12,000. The narrow streets of the...",
-    "path": "europe/greece/nauplia",
-    "score": 0.7,
-    "lat": 37.565923,
-    "lon": 22.806878,
-    "image_url": "/content-image/europe/greece/nauplia.jpg"
    }
   ]
  },
- "samos": {
-  "name": "Northeast Aegean",
+ "kos": {
+  "name": "Kos & Samos",
   "parent": "Greece",
-  "n_locs": 7,
+  "n_locs": 9,
   "is_split": true,
   "top_locations": [
+   {
+    "title": "Kos",
+    "snippet": "Kos is one of islands in the Dodecanese and probably only rivalled by Rhodos when it comes down to popularity. The capital of Kos, which also bears the name Kos, is on the eastern side of the island. Although its a fairly modern city (not in the least because of the annual inv...",
+    "path": "europe/greece/kos",
+    "score": 0.69,
+    "lat": 36.793693,
+    "lon": 27.084827,
+    "image_url": "/content-image/europe/greece/kos.jpg"
+   },
+   {
+    "title": "Patmos",
+    "snippet": "Patmos is a small, steep island in the Dodecanese where St. John is said to have written the Book of Revelation. That spiritual legacy earned the island a UNESCO World Heritage designation, but Patmos is far more than a pilgrimage site. It is one of the most quietly elegant is...",
+    "path": "europe/greece/patmos",
+    "score": 0.69,
+    "lat": 37.3094,
+    "lon": 26.5458,
+    "image_url": "/content-image/europe/greece/patmos.jpg"
+   },
    {
     "title": "Samos",
     "snippet": "Samos is a green, mountainous island in the eastern Aegean, sitting less than two kilometres off the Turkish coast at its closest point \u2014 on a clear day you can see Ku\u015fadas\u0131 across the narrow strait. It is one of the lushest of the Greek islands: pine forests, olive groves, vi...",
@@ -13205,33 +13470,33 @@
     "lat": 39.175842,
     "lon": 25.998914,
     "image_url": null
-   },
-   {
-    "title": "Mytilini",
-    "snippet": "Mytilini is probably the most visited city on Lesbos, not in the least because this is one of the few places in the eastern part that can be reached fairly easy by public transport (both boat and bus). It's a busy coastal city with old markets, an old harbour, small caf\u00e9s (whe...",
-    "path": "europe/greece/lesbos/mytilini",
-    "score": 0.57,
-    "lat": 39.103735,
-    "lon": 26.554788,
-    "image_url": null
-   },
-   {
-    "title": "Plomari",
-    "snippet": "Plomari is the ouzo capital of Greece, and it wears that title proudly. Several distilleries operate here, including the well-known Barbayiannis and the smaller Ouzo Giovanni, which still uses traditional copper pot stills. You can visit the factories, sample the goods, and le...",
-    "path": "europe/greece/lesbos/plomari",
-    "score": 0.54,
-    "lat": 38.975389,
-    "lon": 26.368424,
-    "image_url": null
    }
   ]
  },
- "lindos": {
-  "name": "Dodecanese",
+ "rhodes": {
+  "name": "Rhodes",
   "parent": "Greece",
-  "n_locs": 2,
+  "n_locs": 4,
   "is_split": true,
   "top_locations": [
+   {
+    "title": "Rhodes",
+    "snippet": "Rhodes is the largest of the Dodecanese islands and officially the sunniest spot in Europe. That statistic alone explains a lot about the place: the light here is extraordinary, turning the medieval stone walls of Rhodes Old Town golden in the late afternoon and making the sea...",
+    "path": "europe/greece/rhodes",
+    "score": 0.78,
+    "lat": 36.4341,
+    "lon": 28.2176,
+    "image_url": "/content-image/europe/greece/rhodes.jpg"
+   },
+   {
+    "title": "Rhodes City",
+    "snippet": "Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centu...",
+    "path": "europe/greece/rhodes/rhodescity",
+    "score": 0.78,
+    "lat": 36.4438,
+    "lon": 28.2274,
+    "image_url": "/content-image/europe/greece/rhodes/rhodescity.jpg"
+   },
    {
     "title": "Lindos",
     "snippet": "Lindos is one of the most beautiful villages on Rhodes and one of the island's major tourist attractions. Whitewashed houses with pebble-mosaic courtyards climb a hillside above a turquoise bay, crowned by an ancient Acropolis that has been continuously fortified since the 4th...",
@@ -13252,10 +13517,63 @@
    }
   ]
  },
+ "santorini": {
+  "name": "Santorini & Heraklion",
+  "parent": "Greece",
+  "n_locs": 6,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Santorini",
+    "snippet": "Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera \u2014 the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that form...",
+    "path": "europe/greece/santorini",
+    "score": 0.91,
+    "lat": 36.407111,
+    "lon": 25.456664,
+    "image_url": "/content-image/europe/greece/santorini.jpg"
+   },
+   {
+    "title": "Milos",
+    "snippet": "Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes \u2014 coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around Sarakiniko, where wind-eroded white pumice looks like a moonscape...",
+    "path": "europe/greece/milos",
+    "score": 0.78,
+    "lat": 36.709344,
+    "lon": 24.506834,
+    "image_url": "/content-image/europe/greece/milos.jpg"
+   },
+   {
+    "title": "Amorgos",
+    "snippet": "Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here \u2014 ferries from Naxo...",
+    "path": "europe/greece/amorgos",
+    "score": 0.69,
+    "lat": 36.8525,
+    "lon": 25.8985,
+    "image_url": "/content-image/europe/greece/amorgos.jpg"
+   },
+   {
+    "title": "Ios",
+    "snippet": "Ios is a small, mountainous Cycladic island famous for two rather contrasting things: its beautiful beaches and its relentless party scene. For decades it has attracted a young, international crowd looking for sun by day and bars by night, and in July and August the island is...",
+    "path": "europe/greece/ios",
+    "score": 0.67,
+    "lat": 36.717324,
+    "lon": 25.333112,
+    "image_url": "/content-image/europe/greece/ios.jpg"
+   },
+   {
+    "title": "Sikinos",
+    "snippet": "Sikinos is one of the quietest islands in the Cyclades \u2014 a place that most island-hoppers skip entirely, which is precisely its appeal. There are two places to stay: a pension near the port of Alopronia, or up in the Hora (Kastro), the old hilltop village that sits on a ridge...",
+    "path": "europe/greece/sikinos",
+    "score": 0.62,
+    "lat": 36.6756,
+    "lon": 25.1162,
+    "image_url": null
+   }
+  ]
+ },
  "mykonos": {
   "name": "Cyclades",
   "parent": "Greece",
-  "n_locs": 11,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
    {
@@ -13286,117 +13604,29 @@
     "image_url": "/content-image/europe/greece/paros.jpg"
    },
    {
-    "title": "Amorgos",
-    "snippet": "Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here \u2014 ferries from Naxo...",
-    "path": "europe/greece/amorgos",
-    "score": 0.69,
-    "lat": 36.8525,
-    "lon": 25.8985,
-    "image_url": "/content-image/europe/greece/amorgos.jpg"
-   },
-   {
-    "title": "Patmos",
-    "snippet": "Patmos is a small, steep island in the Dodecanese where St. John is said to have written the Book of Revelation. That spiritual legacy earned the island a UNESCO World Heritage designation, but Patmos is far more than a pilgrimage site. It is one of the most quietly elegant is...",
-    "path": "europe/greece/patmos",
-    "score": 0.69,
-    "lat": 37.3094,
-    "lon": 26.5458,
-    "image_url": "/content-image/europe/greece/patmos.jpg"
-   }
-  ]
- },
- "santorini": {
-  "name": "Santorini & Heraklion",
-  "parent": "Greece",
-  "n_locs": 6,
-  "is_split": true,
-  "top_locations": [
-   {
-    "title": "Santorini",
-    "snippet": "Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera \u2014 the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that form...",
-    "path": "europe/greece/santorini",
-    "score": 0.91,
-    "lat": 36.407111,
-    "lon": 25.456664,
-    "image_url": "/content-image/europe/greece/santorini.jpg"
-   },
-   {
-    "title": "Agios Nikolaos",
-    "snippet": "Agios Nikolaos is the capital of eastern Crete's Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settl...",
-    "path": "europe/greece/crete/agios_nikolaos",
-    "score": 0.69,
-    "lat": 35.190858,
-    "lon": 25.717889,
+    "title": "Antiparos",
+    "snippet": "Antiparos is the quiet neighbour of Paros \u2014 a small Cycladic island reached by a short ferry from Parikia, with a pace of life that feels several decades behind the rest of the Aegean. The main town (Chora) is a cluster of whitewashed houses around a 15th-century Venetian kast...",
+    "path": "europe/greece/antiparos",
+    "score": 0.64,
+    "lat": 36.994353,
+    "lon": 25.048208,
     "image_url": null
    },
    {
-    "title": "Iraklion",
-    "snippet": "Iraklion (Heraklion) is the capital of Crete and the largest city on the island \u2014 a working port city of 150,000 people that most visitors pass through on their way somewhere prettier. Don't make that mistake. Iraklion has the best Minoan collection in the world, a still-funct...",
-    "path": "europe/greece/crete/iraklion",
-    "score": 0.65,
-    "lat": 35.3387,
-    "lon": 25.1442,
-    "image_url": "/content-image/europe/greece/crete/iraklion.jpg"
-   },
-   {
-    "title": "Sitia",
-    "snippet": "Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The waterfront promenade is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town h...",
-    "path": "europe/greece/crete/sitia",
+    "title": "Tinos",
+    "snippet": "Tinos is one of the most important pilgrimage sites in the Greek Orthodox world. The Church of Panagia Evangelistria in Tinos town houses a revered icon of the Virgin Mary, and on the Feast of the Assumption (15 August) thousands of pilgrims crawl on their knees up the main st...",
+    "path": "europe/greece/tinos",
     "score": 0.61,
-    "lat": 35.206218,
-    "lon": 26.101482,
+    "lat": 37.601713,
+    "lon": 25.154022,
     "image_url": null
-   },
-   {
-    "title": "Kritsa",
-    "snippet": "Kritsa is a mountain village about 12 kilometres southwest of Agios Nikolaos, built in amphitheatre fashion on a jutting promontory. The white-washed houses stacked up the hillside make it one of the most photogenic villages in Crete, and you can see it from a distance as you...",
-    "path": "europe/greece/crete/kritsa",
-    "score": 0.6,
-    "lat": 35.155763,
-    "lon": 25.646143,
-    "image_url": null
-   }
-  ]
- },
- "rhodes": {
-  "name": "Rhodes & Kos",
-  "parent": "Greece",
-  "n_locs": 3,
-  "is_split": true,
-  "top_locations": [
-   {
-    "title": "Rhodes",
-    "snippet": "Rhodes is the largest of the Dodecanese islands and officially the sunniest spot in Europe. That statistic alone explains a lot about the place: the light here is extraordinary, turning the medieval stone walls of Rhodes Old Town golden in the late afternoon and making the sea...",
-    "path": "europe/greece/rhodes",
-    "score": 0.78,
-    "lat": 36.4341,
-    "lon": 28.2176,
-    "image_url": "/content-image/europe/greece/rhodes.jpg"
-   },
-   {
-    "title": "Rhodes City",
-    "snippet": "Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centu...",
-    "path": "europe/greece/rhodes/rhodescity",
-    "score": 0.78,
-    "lat": 36.4438,
-    "lon": 28.2274,
-    "image_url": "/content-image/europe/greece/rhodes/rhodescity.jpg"
-   },
-   {
-    "title": "Kos",
-    "snippet": "Kos is one of islands in the Dodecanese and probably only rivalled by Rhodos when it comes down to popularity. The capital of Kos, which also bears the name Kos, is on the eastern side of the island. Although its a fairly modern city (not in the least because of the annual inv...",
-    "path": "europe/greece/kos",
-    "score": 0.69,
-    "lat": 36.793693,
-    "lon": 27.084827,
-    "image_url": "/content-image/europe/greece/kos.jpg"
    }
   ]
  },
  "crete": {
   "name": "Western Crete",
   "parent": "Greece",
-  "n_locs": 4,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
    {
@@ -13407,15 +13637,6 @@
     "lat": 35.308495,
     "lon": 24.463342,
     "image_url": "/content-image/europe/greece/crete.jpg"
-   },
-   {
-    "title": "Milos",
-    "snippet": "Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes \u2014 coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around Sarakiniko, where wind-eroded white pumice looks like a moonscape...",
-    "path": "europe/greece/milos",
-    "score": 0.78,
-    "lat": 36.709344,
-    "lon": 24.506834,
-    "image_url": "/content-image/europe/greece/milos.jpg"
    },
    {
     "title": "Hania",
@@ -13434,6 +13655,24 @@
     "lat": 35.367647,
     "lon": 24.473608,
     "image_url": "/content-image/europe/greece/crete/rethimno.jpg"
+   },
+   {
+    "title": "Agios Nikolaos",
+    "snippet": "Agios Nikolaos is the capital of eastern Crete's Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settl...",
+    "path": "europe/greece/crete/agios_nikolaos",
+    "score": 0.69,
+    "lat": 35.190858,
+    "lon": 25.717889,
+    "image_url": null
+   },
+   {
+    "title": "Iraklion",
+    "snippet": "Iraklion (Heraklion) is the capital of Crete and the largest city on the island \u2014 a working port city of 150,000 people that most visitors pass through on their way somewhere prettier. Don't make that mistake. Iraklion has the best Minoan collection in the world, a still-funct...",
+    "path": "europe/greece/crete/iraklion",
+    "score": 0.65,
+    "lat": 35.3387,
+    "lon": 25.1442,
+    "image_url": "/content-image/europe/greece/crete/iraklion.jpg"
    }
   ]
  },
@@ -15334,7 +15573,7 @@
  "luxor": {
   "name": "Upper Nile",
   "parent": "Egypt",
-  "n_locs": 8,
+  "n_locs": 4,
   "is_split": true,
   "top_locations": [
    {
@@ -15356,38 +15595,29 @@
     "image_url": "/content-image/africa/egypt/aswan.jpg"
    },
    {
-    "title": "Sharm el-Sheikh",
-    "snippet": "Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth \u2014 the coral reefs of Ras Mohammed National Park, the Strait of Tiran, and the Aqaba coa...",
-    "path": "africa/egypt/sharmelsheikh",
-    "score": 0.63,
-    "lat": 27.864442,
-    "lon": 34.295447,
+    "title": "Dendara",
+    "snippet": "Dendara (Dendera) is home to one of the best-preserved temples in all of Egypt. The Temple of Hathor, built largely by the Ptolemies and finished during the early Roman period, stands virtually intact \u2014 a rarity in a country where most ancient buildings survive only as ruins....",
+    "path": "africa/egypt/dendara",
+    "score": 0.53,
+    "lat": 26.1451,
+    "lon": 32.6717,
     "image_url": null
    },
    {
-    "title": "Dahab",
-    "snippet": "Dahab is the Sinai's laid-back antidote to the package-tour glitz of Sharm el Sheikh. Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Back...",
-    "path": "africa/egypt/dahab",
-    "score": 0.6,
-    "lat": 28.5091,
-    "lon": 34.5131,
-    "image_url": null
-   },
-   {
-    "title": "Hurghada",
-    "snippet": "Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef sys...",
-    "path": "africa/egypt/hurghada",
-    "score": 0.57,
-    "lat": 27.2222,
-    "lon": 33.8307,
-    "image_url": "/content-image/africa/egypt/hurghada.jpg"
+    "title": "Asyut",
+    "snippet": "Asyut is Egypt's largest city in Upper Egypt outside of Luxor, sitting on the west bank of the Nile about 380 km south of Cairo. It's primarily a transport and commercial hub rather than a tourist destination, but it does have some points of interest for those passing through.",
+    "path": "africa/egypt/asyut",
+    "score": 0.32,
+    "lat": 27.183282,
+    "lon": 31.185384,
+    "image_url": "/content-image/africa/egypt/asyut.jpg"
    }
   ]
  },
  "cairo": {
   "name": "Lower Nile",
   "parent": "Egypt",
-  "n_locs": 14,
+  "n_locs": 11,
   "is_split": true,
   "top_locations": [
    {
@@ -15418,6 +15648,58 @@
     "image_url": null
    },
    {
+    "title": "Alexandria",
+    "snippet": "Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.",
+    "path": "africa/egypt/alexandria",
+    "score": 0.6,
+    "lat": 31.199181,
+    "lon": 29.895172,
+    "image_url": "/content-image/africa/egypt/alexandria.jpg"
+   },
+   {
+    "title": "Minya",
+    "snippet": "Minya is a mid-sized city on the Nile roughly halfway between Cairo and Asyut, and most travelers pass straight through \u2014 which is a mistake. The surrounding area contains some of the most vivid ancient Egyptian remains in the country, away from the crowds of Luxor.",
+    "path": "africa/egypt/minya",
+    "score": 0.44,
+    "lat": 28.21254,
+    "lon": 30.912374,
+    "image_url": null
+   }
+  ]
+ },
+ "siwa": {
+  "name": "Western Desert",
+  "parent": "Egypt",
+  "n_locs": 2,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Siwa",
+    "snippet": "Siwa is an oasis town deep in the Western Desert of Egypt, close to the Libyan border and about 560 km from Cairo. It is one of Egypt's most remote and distinctive destinations \u2014 a place where Berber culture persists, locals speak Siwi rather than Arabic, and the pace of life...",
+    "path": "africa/egypt/siwa",
+    "score": 0.58,
+    "lat": 29.203466,
+    "lon": 25.519227,
+    "image_url": "/content-image/africa/egypt/siwa.jpg"
+   },
+   {
+    "title": "Marsa Matruh",
+    "snippet": "Marsa Matruh sits on Egypt's Mediterranean coast, about 290 kilometres west of Alexandria and roughly halfway to the Libyan border. It is a summer resort town, popular with Egyptian families escaping the heat of Cairo, and the beaches here are genuinely striking \u2014 white sand,...",
+    "path": "africa/egypt/marsa_matroh",
+    "score": 0.45,
+    "lat": 31.3543,
+    "lon": 27.2373,
+    "image_url": "/content-image/africa/egypt/marsa_matroh.jpg"
+   }
+  ]
+ },
+ "sinai_peninsula": {
+  "name": "Sinai Peninsula",
+  "parent": "Egypt",
+  "n_locs": 2,
+  "is_split": true,
+  "top_locations": [
+   {
     "title": "Sinai Peninsula",
     "snippet": "The Sinai Peninsula is a triangular wedge of desert and mountains wedged between Africa and Asia, connecting the two continents while belonging fully to neither. To the west lies the Gulf of Suez; to the east, the Gulf of Aqaba. The Mediterranean closes it off in the north. It...",
     "path": "africa/egypt/sinaidesert",
@@ -15427,13 +15709,48 @@
     "image_url": null
    },
    {
-    "title": "Alexandria",
-    "snippet": "Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.",
-    "path": "africa/egypt/alexandria",
+    "title": "Dahab",
+    "snippet": "Dahab is the Sinai's laid-back antidote to the package-tour glitz of Sharm el Sheikh. Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Back...",
+    "path": "africa/egypt/dahab",
     "score": 0.6,
-    "lat": 31.199181,
-    "lon": 29.895172,
-    "image_url": "/content-image/africa/egypt/alexandria.jpg"
+    "lat": 28.5091,
+    "lon": 34.5131,
+    "image_url": null
+   }
+  ]
+ },
+ "sharm_el_sheikh": {
+  "name": "Red Sea Coast",
+  "parent": "Egypt",
+  "n_locs": 3,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Sharm el-Sheikh",
+    "snippet": "Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth \u2014 the coral reefs of Ras Mohammed National Park, the Strait of Tiran, and the Aqaba coa...",
+    "path": "africa/egypt/sharmelsheikh",
+    "score": 0.63,
+    "lat": 27.864442,
+    "lon": 34.295447,
+    "image_url": null
+   },
+   {
+    "title": "Hurghada",
+    "snippet": "Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef sys...",
+    "path": "africa/egypt/hurghada",
+    "score": 0.57,
+    "lat": 27.2222,
+    "lon": 33.8307,
+    "image_url": "/content-image/africa/egypt/hurghada.jpg"
+   },
+   {
+    "title": "Safaga",
+    "snippet": "Safaga sits on the Egyptian Red Sea coast about 60 km south of Hurghada, and it's one of those places where the working port and the tourist town have grown up side by side without quite resolving the tension between them. Container ships and ferries bound for Saudi Arabia sha...",
+    "path": "africa/egypt/safaga",
+    "score": 0.47,
+    "lat": 26.7633,
+    "lon": 33.9384,
+    "image_url": null
    }
   ]
  },

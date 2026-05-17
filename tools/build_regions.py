@@ -444,7 +444,8 @@ def build_regions() -> tuple[list[dict], dict[str, dict]]:
     for su in subunits:
         su_locs = assigned.get(su["su_a3"], [])
         total = sum(l.importance for l in su_locs)
-        if total <= BUDGET or len(su_locs) < 4:
+        has_manual = su["su_a3"] in load_manual_splits()
+        if (total <= BUDGET or len(su_locs) < 4) and not has_manual:
             # Whole-subunit region: keep the Natural Earth subunit name.
             regions.append({
                 "name": su["name"],

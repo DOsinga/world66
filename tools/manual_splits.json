@@ -1,5 +1,37 @@
 {
   "_comment": "Override Voronoi seed points for specific Natural Earth subunits (SU_A3 codes). Each entry is a list of [lon, lat] seed points — one per desired region. The Voronoi is built from all locations as usual, but these fixed seeds replace k-means for centroid initialisation. Regions are named after the highest-scoring city in each Voronoi cell.",
+  "EGY": [
+    [31.2, 30.2],
+    [32.7, 25.5],
+    [34.2, 29.5],
+    [33.5, 26.5],
+    [26.0, 28.0]
+  ],
+  "ENG": [
+    [-1.1, 54.0],
+    [-1.8, 51.8],
+    [0.1, 52.2],
+    [-0.2, 51.5],
+    [-5.0, 50.3],
+    [0.5, 51.0]
+  ],
+  "GRC": [
+    [20.5, 38.3],
+    [22.9, 40.6],
+    [23.7, 38.0],
+    [27.0, 37.8],
+    [25.3, 37.4],
+    [25.5, 36.4],
+    [28.2, 36.3],
+    [24.5, 35.3]
+  ],
+  "POL": [
+    [20.0, 50.0],
+    [18.7, 54.5],
+    [21.1, 52.2],
+    [17.0, 51.3],
+    [21.5, 53.8]
+  ],
   "SCT": [
     [-3.2, 55.9],
     [-4.0, 57.4],

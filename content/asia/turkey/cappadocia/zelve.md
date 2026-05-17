@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: zelve.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Zelve_Cappadocia.JPG
 latitude: 38.690615
+loc_type: city
 longitude: 34.871202
+score: 0.7
 title: Zelve
 type: location
-score: 0.7
-loc_type: city
 ---
 
 The Zelve monastery complex is situated about 10 km out from [Goreme](/asia/turkey/cappadocia/goreme) on the road to [Avanos](/asia/turkey/cappadocia/avanos). Although the churches here lack the elaborate frescoes of Goreme and other sites there's still plenty here to see. The series of valleys can provide you with a couple of hours walking, climbing and crawling about and in addition to the marked highlights (the Fish and Grape churches) there are innumerable rooms and passages to look at.

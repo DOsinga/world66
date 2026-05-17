@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: valdemossa.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Valldemossa_2003.jpg
 lat: 39.7101
+loc_type: city
 long: 2.6218
+score: 0.66
 title: Valldemossa
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Valldemossa is a small mountain village tucked into the Serra de Tramuntana, easily reached by bus from [Palma](/europe/spain/balearicislands/mallorca/palma1) or from Sóller. It looks down over the rugged north-west coast of Mallorca with views that stop you in your tracks.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
+image: volterra.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Volterra_from_above._June_2024.jpg
 latitude: 43.4003
+loc_type: city
 longitude: 10.86
 score: 0.66
 title: Volterra
 type: location
-loc_type: city
 ---
 
 Volterra sits 545 metres above sea level on a dramatic ridge in the Tuscan hills, looking out over the Cecina and Era valleys. It is less visited than [Siena](/europe/italy/tuscany/siena) or [San Gimignano](/europe/italy/tuscany/sangimignano), which is precisely the point — you can walk its narrow stone streets without feeling like you are in a theme park.

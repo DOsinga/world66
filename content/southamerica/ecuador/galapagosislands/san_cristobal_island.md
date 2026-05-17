@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
+image: san_cristobal_island.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Paisaje_en_Punta_Pitt,_isla_de_San_Crist%C3%B3bal,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-24,_DD_75.JPG
 latitude: -0.8205
+loc_type: region
 longitude: -89.4248
 score: 0.8
 title: San Cristóbal Island
 type: location
-loc_type: region
 ---
 
 San Cristóbal is the oldest island in the Galápagos archipelago and the one with the most history. Darwin made landfall here in 1835 — his first stop in the islands — and found what he later described as the most extraordinary assemblage of creatures on earth. Two centuries later the island still delivers on that promise.

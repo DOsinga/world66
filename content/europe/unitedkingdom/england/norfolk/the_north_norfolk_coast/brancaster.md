@@ -1,11 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-11'
-image: brancaster.jpg
-image_attribution: Pauline E
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Brancaster_Bay_-_geograph.org.uk_-_4164715.jpg
+  location_enrich: '2026-05-16'
 latitude: 52.9634
 loc_type: city
 longitude: 0.6395

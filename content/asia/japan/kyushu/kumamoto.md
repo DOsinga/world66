@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-20'
+image: kumamoto.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mount_Tatsuda-yama_(Kumamoto)_1.jpg
 latitude: 32.645
+loc_type: city
 longitude: 130.6341
 score: 0.66
 title: Kumamoto
 type: location
-loc_type: city
 ---
 
 The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of **Aso-san** rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determination — and the ongoing restoration of its great castle has become a symbol of that resilience.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: lijiang.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Black_Dragon_%E9%BB%91%E9%BE%99%E6%BD%AD_(5496141333).jpg
 latitude: 26.859587
+loc_type: city
 longitude: 100.22498
+score: 0.69
 title: Lijiang
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Lijiang sits in the northwest corner of Yunnan Province at 2,400 metres, where the Tibetan plateau begins to rise and three of Asia's great rivers — the Yangtze, the Mekong, and the Salween — flow in near-parallel canyons just a few dozen kilometres apart. The old town (Dayan) was inscribed as a UNESCO World Heritage Site in 1997, recognised for its remarkably well-preserved network of cobblestone lanes, wooden merchant houses, and stone bridges channelling the Yulong river through the settlement.

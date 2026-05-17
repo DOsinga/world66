@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: bergamo.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Upper_City_of_Bergamo._View_from_Via_al_Castello._Italy.jpg
 latitude: 45.6983
+loc_type: city
 longitude: 9.6773
 score: 0.66
 title: Bergamo
 type: location
-loc_type: city
 ---
 
 Bergamo is two cities stacked on top of each other, and they couldn't be more different. Città Alta — the upper town — sits on a hill encircled by massive Venetian walls, its medieval lanes lined with churches, towers, and palaces. Città Bassa is the working northern Italian city down below: efficient, commercial, and considerably less romantic. Most visitors head straight up the funicular and barely come back down.

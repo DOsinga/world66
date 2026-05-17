@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+image: tobago.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Td-map.png
 latitude: 11.25
+loc_type: city
 longitude: -60.6667
 score: 0.66
 title: Tobago
 type: location
-loc_type: city
 ---
 
 Tobago is the quieter, smaller sister island of Trinidad, about 30 km to the northeast. Where Trinidad is bustling and multicultural, Tobago is laidback and beach-focused — a proper Caribbean island with palm-fringed bays, coral reefs, and rainforest-covered hills.

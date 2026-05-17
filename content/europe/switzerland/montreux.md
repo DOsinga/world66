@@ -1,12 +1,15 @@
 ---
-title: Montreux
-type: location
-latitude: 46.4311
-longitude: 6.913
 done:
   location_cleanup: 2026-04-07
-score: 0.73
+image: montreux.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Montreux_(Svizzera)_Panoramica_del_centro_della_citt%C3%A0_dal_lago.jpg
+latitude: 46.4311
 loc_type: city
+longitude: 6.913
+score: 0.73
+title: Montreux
+type: location
 ---
 
 Montreux sits on the northeastern shore of Lake Geneva, sheltered by mountains on three sides and blessed with the mildest climate in [Switzerland](/europe/switzerland). The lakefront promenade, lined with palm trees and flower beds, has an almost Mediterranean feel — this is the "Swiss Riviera," and the town has been attracting artists, writers, and wealthy visitors since the 19th century.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: huaraz.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Huascaran_Huandoy_Chopicalqui_seen_from_Huaraz.JPG
 latitude: -9.5279
+loc_type: city
 longitude: -77.5278
+score: 0.66
 title: Huaraz
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Huaraz is the trekking capital of Peru and the gateway to the Cordillera Blanca, the highest tropical mountain range in the world. At 3,050 metres above sea level, it sits in a broad valley flanked by snow-capped peaks that turn pink at sunset — a sight that never gets old, even after a week of sore legs and altitude headaches.

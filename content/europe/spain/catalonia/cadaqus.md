@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: cadaqus.jpg
+image_license: CC BY-SA 3.0 es
+image_source: https://commons.wikimedia.org/wiki/File:Cadaques_Pueblo_Marinero.JPG
 latitude: 42.289348
+loc_type: city
 longitude: 3.275216
+score: 0.68
 title: Cadaqués
 type: location
-score: 0.68
-loc_type: city
 ---
 
 Cadaqués is one of the most beautiful villages on the Catalan Costa Brava — a whitewashed fishing port tucked into a rocky bay on the Cap de Creus peninsula. Its relative inaccessibility (a winding mountain road with no train connection) kept it from the worst of coastal overdevelopment and gave it a character that larger resorts have lost.

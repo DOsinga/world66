@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: herculaneum.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Antigua_ciudad_de_Herculano,_Italia,_2023-03-27,_DD_135-138_PAN.jpg
 latitude: 40.805361
+loc_type: city
 longitude: 14.347104
+score: 0.68
 title: Herculaneum
 type: location
-score: 0.68
-loc_type: city
 ---
 
 *Europe > Italy > Campania > Herculaneum*

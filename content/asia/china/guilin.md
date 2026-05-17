@@ -1,12 +1,15 @@
 ---
-title: Guilin
-type: location
-latitude: 25.277989
-longitude: 110.291062
 done:
   location_cleanup: 2026-04-05
-score: 0.72
+image: guilin.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Xiangshan_Scenic_Area_89468-Guilin_(31130832628).jpg
+latitude: 25.277989
 loc_type: city
+longitude: 110.291062
+score: 0.72
+title: Guilin
+type: location
 ---
 
 Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting — the dreamlike karst region of **Guangxi**, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have seen it whether you know it or not: on the back of the 20-yuan note, on every scroll and screen of "mountains and water" in a Chinese museum, in a thousand ink-wash paintings. What is surprising when you get here is how accurate those paintings are. The mountains really do look like that.

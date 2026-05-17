@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-21'
+image: ljubljana.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ljubljana_Old_Town,_Slovenia_(Old_Camera)_(33286165680).jpg
 latitude: 46.050027
+loc_type: city
 longitude: 14.506929
 score: 0.69
 title: Ljubljana
 type: location
-loc_type: city
 ---
 
 Ljubljana is Slovenia's capital and largest city, with a population of around 300,000. It has the feel of a small Central European city that happens to be a national capital — compact, walkable, and genuinely pleasant without trying too hard. The Ljubljanica River flows through the old town, lined with outdoor cafes. A castle sits on the hill above.

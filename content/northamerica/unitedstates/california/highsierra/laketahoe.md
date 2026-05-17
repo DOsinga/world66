@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: laketahoe.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tahoe_North_Shore_from_the_East_Shore.jpg
 latitude: 39.088541
+loc_type: city
 longitude: -120.050353
 score: 0.69
 title: Lake Tahoe
 type: location
-loc_type: city
 ---
 
 <<<<<<< HEAD

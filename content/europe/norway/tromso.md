@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+image: tromso.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Troms%C3%B8_sentrum_(5835702754).jpg
 latitude: 69.651635
+loc_type: city
 longitude: 18.955859
 score: 0.75
 title: Tromsø
 type: location
-loc_type: city
 ---
 
 Tromsø is the largest city in northern Norway, sitting at almost 70 degrees North on an island in the Tromsø Sound. It is the world's northernmost city of its size, and still manages to claim the world's northernmost botanical garden, brewery, and university. The North Atlantic Current keeps winters surprisingly mild by Arctic standards, while summers bring continuous daylight from mid-May to late July.

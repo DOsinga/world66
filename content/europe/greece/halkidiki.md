@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: halkidiki.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2010_Dimi_Chalkidikis_numbered.svg
 latitude: 40.331
+loc_type: city
 longitude: 23.3621
+score: 0.67
 title: Halkidiki
 type: location
-score: 0.67
-loc_type: city
 ---
 
 Halkidiki is a three-pronged peninsula southeast of [Thessaloniki](/europe/greece/thessaloniki), and the closest thing northern Greece has to the island beach experience without actually getting on a ferry. Three long fingers of land -- Kassandra, Sithonia, and Athos -- reach south into the Aegean, each with a distinct character.

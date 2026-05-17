@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: kobe.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kobe_Port_Tower_and_Maritime_Museum,_November_2016.jpg
 latitude: 34.693238
+loc_type: city
 longitude: 135.194376
+score: 0.66
 title: Kobe
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Kobe sits between the Rokko mountains and Osaka Bay, a port city that has been open to foreign influence longer than almost anywhere else in Japan. Together with [Osaka](/asia/japan/honshu/osaka) and [Kyoto](/asia/japan/honshu/kyoto) it forms the heart of the Kansai region, and it is about three hours and twenty minutes from [Tokyo](/asia/japan/tokyo) by Shinkansen.

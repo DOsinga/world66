@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-21'
+image: monteverde.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Monteverdeskyline01.jpg
 latitude: 10.3025
+loc_type: city
 longitude: -84.8245
 score: 0.7
 title: Monteverde
 type: location
-loc_type: city
 ---
 
 Monteverde is one of [Costa Rica](/northamerica/costarica)'s most visited destinations, and for good reason. The cloud forest reserve here protects some of the most biodiverse habitat on earth — orchids, bromeliads, mosses, and hundreds of bird species including the resplendent quetzal.

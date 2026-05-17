@@ -2,12 +2,15 @@
 done:
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
+image: aruba.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Donkeys_of_San_Nicolas,_Aruba_-_2.jpg
 latitude: 12.5093
+loc_type: region
 longitude: -69.9688
 score: 0.74
 title: Aruba
 type: location
-loc_type: region
 ---
 
 Aruba is the driest and sunniest island in the Caribbean, and it leans into that identity. The southern coast is all calm turquoise water and wide white beaches. The northern coast is wild — rugged limestone cliffs, crashing surf, and a landscape of cactus and divi-divi trees bent sideways by the trade winds. It looks more like a desert than a tropical island.

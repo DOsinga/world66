@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: paphos.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Paphos_Marine,_Cyprus_-_panoramio.jpg
 latitude: 34.774399
+loc_type: city
 longitude: 32.423159
 score: 0.66
 title: Paphos
 type: location
-loc_type: city
 ---
 
 With its only population of 27.000 inhabitants Paphos is the capital of Cyprus' western region. Most of the inhabitants work as employees in various branches of tourism, because there is not much industry.

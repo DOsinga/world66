@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: moab.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kingdoms_around_Israel_830_map.svg
 latitude: 38.5738
+loc_type: city
 longitude: -109.5462
+score: 0.7
 title: Moab
 type: location
-score: 0.7
-loc_type: city
 ---
 
 Moab is the outdoor adventure capital of the American Southwest, a small desert town surrounded by some of the most spectacular red rock landscapes on the planet. Arches National Park is ten minutes away, Canyonlands National Park thirty. Two thousand natural stone arches, towering mesas, and the Colorado River flowing through it all — the scenery is relentless.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-19'
+image: quebeccity.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Quebec_City,_Canada.jpg
 latitude: 46.813743
+loc_type: city
 longitude: -71.208406
 score: 0.71
 title: Québec City
 type: location
-loc_type: city
 ---
 
 Québec City is the most European city in North America. Founded in 1608 by Samuel de Champlain, it has preserved its old walled centre almost intact — the only fortified city north of Mexico, and a UNESCO World Heritage Site since 1985. Walking the narrow streets of [Vieux-Québec](/northamerica/canada/quebec/quebeccity/things_to_do/vieux_quebec), with its 17th and 18th-century stone buildings, you could be in a provincial French city. Except for the weather.

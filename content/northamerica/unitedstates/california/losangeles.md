@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: losangeles.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg
 latitude: 34.053691
+loc_type: region
 longitude: -118.242766
 score: 0.67
 title: Los Angeles
 type: location
-loc_type: region
 ---
 
 L.A. is the quintessential American 21st century city – embracing and absorbing everything in its path – from culture to food to people – and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.

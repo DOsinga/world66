@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: oxford.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Museum_of_Oxford_(5652685943).jpg
 latitude: 51.752013
+loc_type: city
 longitude: -1.25785
 score: 0.74
 title: Oxford
 type: location
-loc_type: city
 ---
 
 Oxford is one of England's most visited cities, and the reason is immediately apparent: the medieval university buildings that fill the old centre are among the most beautiful in the world. The thirty-odd colleges of the University of Oxford — founded in the 12th century and growing ever since — occupy a dense cluster of Gothic quadrangles, cloisters, chapels, and gardens in the middle of the city. When accessible to visitors, which varies by college and term time, they reward unhurried exploration.

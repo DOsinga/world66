@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: quito.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:FACHADA_ASAMBLEA_NACIONAL._QUITO,_20_DE_FEBRERO_2020._01.jpg
 latitude: -0.220164
+loc_type: city
 longitude: -78.512327
 score: 0.7
 title: Quito
 type: location
-loc_type: city
 ---
 
 Quito is one of the highest capitals in the world, at an elevation of more than 2,000 meter. Big mountains, including an active volcano loom over the city. 

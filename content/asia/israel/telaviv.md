@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
+image: telaviv.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sarona_CBD_01_(cropped).jpg
 latitude: 32.0853
+loc_type: city
 longitude: 34.7818
 score: 0.67
 title: Tel Aviv
 type: location
-loc_type: city
 ---
 
 Tel Aviv is the most modern and westernised city in Israel, and deliberately, defiantly so. Jerusalem is the religious and political capital; Tel Aviv is the party capital, the beach capital, and the capital of Israeli secular life. Walking the streets at night — past sidewalk cafes, bars running until 5am, and the steady thump from clubs on Lilinblum Street — it is difficult to believe you are in the holy land at all.

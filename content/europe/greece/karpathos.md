@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: karpathos.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Karpathos_Menetes_Pigadia_MO3.jpg
 latitude: 35.613661
+loc_type: city
 longitude: 27.119257
+score: 0.68
 title: Karpathos
 type: location
-score: 0.68
-loc_type: city
 ---
 
 Karpathos is the second-largest of the Dodecanese islands, lying midway between [Rhodes](/europe/greece/rhodes) and [Crete](/europe/greece/crete) in the southeastern Aegean. It is mountainous, rugged, and far less developed than its famous neighbours — which is exactly its appeal.

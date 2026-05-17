@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
+image: hangzhou.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_(cropped).jpg
 latitude: 30.248963
+loc_type: city
 longitude: 120.205234
 score: 0.68
 title: Hangzhou
 type: location
-loc_type: city
 ---
 
 Hangzhou is one of China's most celebrated cities, famous since Marco Polo reportedly called it the finest city in the world. The claim still has some force: West Lake, right at the city's centre, is a genuinely beautiful expanse of water ringed by pagodas, willow-lined causeways and wooded hills. It's been a place of literary and artistic pilgrimage for a thousand years, and even with the crowds it manages to feel serene in the early morning.

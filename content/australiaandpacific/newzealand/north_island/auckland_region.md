@@ -1,12 +1,15 @@
 ---
-title: Auckland Region
-type: location
-latitude: -36.8667
-longitude: 174.7624
 done:
   location_cleanup: 2026-04-06
-score: 0.69
+image: auckland_region.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Auckland_Region_location_in_New_Zealand.svg
+latitude: -36.8667
 loc_type: region
+longitude: 174.7624
+score: 0.69
+title: Auckland Region
+type: location
 ---
 
 The Auckland Region stretches across the narrowest part of New Zealand's North Island, bounded by the Waitemata Harbour to the east and the Manukau Harbour to the west. Home to over a third of New Zealand's population, it encompasses the sprawling city of Auckland, the beaches and suburbs of North Shore City, the forested Waitakere Ranges to the west, and the ferry-linked village of Devonport across the harbour.

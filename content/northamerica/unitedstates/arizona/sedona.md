@@ -1,10 +1,13 @@
 ---
-title: Sedona
-type: location
+image: sedona.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Rock_-_Sedona_AZ-1.jpg
 latitude: 34.868861
+loc_type: city
 longitude: -111.761439
 score: 0.73
-loc_type: city
+title: Sedona
+type: location
 ---
 
 Sedona was voted "The Most Beautiful Place in America" by USA's

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: killarney.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Killarney_Cathedral,_2021-06-21,_02.jpg
 latitude: 52.059575
+loc_type: city
 longitude: -9.505322
+score: 0.68
 title: Killarney
 type: location
-score: 0.68
-loc_type: city
 ---
 
 Killarney is the main base for exploring southwest Ireland's lake and mountain scenery — the national park, the Gap of Dunloe, and the Ring of Kerry all start from here. The town itself is not especially beautiful, but it has been hosting visitors for over two hundred years and does it well: there are pubs, restaurants, and places to stay in every price range.

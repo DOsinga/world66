@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: koror.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Main_St,_Koror,_Palau_-_panoramio_(1).jpg
 latitude: 7.226
+loc_type: city
 longitude: 134.1312
+score: 0.7
 title: Koror
 type: location
-score: 0.7
-loc_type: city
 ---
 
 Koror is Palau's main island and the country's commercial heart — the place where nearly everyone stays, eats, and gears up for the underwater adventures that make Palau famous. It is a compact, walkable town with a mix of Japanese colonial relics, concrete shophouses, and dive shops lining the main road. Don't mistake busyness for charm: Koror is a functional base, not a destination in itself.

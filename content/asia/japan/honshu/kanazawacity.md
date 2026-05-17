@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: kanazawacity.jpg
+image_license: CC BY 2.1 jp
+image_source: https://commons.wikimedia.org/wiki/File:%E6%9C%9B%E6%B9%96%E5%8F%B0%EF%BC%92.jpg
 latitude: 36.5613
+loc_type: city
 longitude: 136.6562
+score: 0.73
 title: Kanazawa
 type: location
-score: 0.73
-loc_type: city
 ---
 
 Kanazawa is one of the best-preserved castle towns in Japan, sitting on the Sea of Japan coast between the Japanese Alps and the Noto Peninsula. Because it escaped bombing in World War II, whole districts of samurai and geisha houses survive intact — something that is increasingly rare in urban Japan. The city was the seat of the wealthy Maeda clan for nearly three centuries, and their patronage left it rich in crafts, gardens, and culture.

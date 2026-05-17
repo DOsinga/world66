@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: miyakoisland.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Miyakojima_sky_view.jpg
 latitude: 24.813957
+loc_type: city
 longitude: 125.305579
+score: 0.72
 title: Miyako Island
 type: location
-score: 0.72
-loc_type: city
 ---
 
 Miyako Island has some of the most beautiful beaches in Japan — white coral sand, turquoise water so clear you can see the bottom from the bridges that connect the island to its smaller neighbours. The island sits about 300 kilometres southwest of Okinawa's main island, far enough south that the water stays warm well into autumn.

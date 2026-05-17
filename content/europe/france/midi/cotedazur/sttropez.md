@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: sttropez.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Saint-Tropez_-_Vue_g%C3%A9n%C3%A9rale,_%C3%A9glise,_phare.jpg
 latitude: 43.272719
+loc_type: city
 longitude: 6.640523
+score: 0.71
 title: St Tropez
 type: location
-score: 0.71
-loc_type: city
 ---
 
 St Tropez is a small fishing village that became one of the most famous resorts in the world, mostly by accident — Brigitte Bardot filmed And God Created Woman here in 1956 and the jet set followed. The village itself is genuinely charming, with painted shutters and a citadel from the 16th century overlooking the bay. Walk up to the citadel's small graveyard for views of the sea and a sense of how the place must have felt before the yachts arrived.

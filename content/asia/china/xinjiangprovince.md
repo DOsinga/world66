@@ -6,6 +6,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xinjiang
 title: Xinjiang
 type: location
+image: xinjiangprovince.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Flowers_arround_Lake_Sailimu,_aka_Sayram_-_Flickr_-_George_Lu.jpg
+image_license: CC BY 2.0
+image_attribution: George Lu
 ---
 
 Xinjiang is China's largest administrative division, a region the size of Western Europe occupying the country's far northwest. It is also one of the world's great crossroads — the point where the Chinese empire met the Central Asian steppe, where the Silk Road split into northern and southern branches around the Taklamakan Desert, where Buddhism, Islam, and Chinese culture pressed against each other for centuries. The landscape ranges from the world's second-lowest point (the Turpan Depression) to some of the highest passes in the Karakoram. No brief description does it justice.

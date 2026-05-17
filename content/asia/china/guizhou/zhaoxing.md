@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhaoxing
 title: Zhaoxing
 type: location
+image: zhaoxing.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Zhaoxing_001.jpg
+image_license: CC BY 2.0
+image_attribution: Rutger van der Maar
 ---
 
 Zhaoxing is the largest Dong village in China and the most striking example of traditional Dong architecture anywhere in the province. [Five drum towers](/asia/china/guizhou/zhaoxing/drum_towers) rise above the tiled rooftops of this valley settlement — each tower belonging to a different clan, each built from timber without a single nail using joinery techniques that have been refined over centuries. The drum towers are functional meeting places: the fireplace at the base of each is where clan decisions are made, where old men play cards in winter, where village life actually organises itself. They are also, especially at evening when the lanterns inside them glow through the wooden lattice, extraordinarily beautiful.

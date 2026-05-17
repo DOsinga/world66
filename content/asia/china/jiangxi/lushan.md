@@ -6,6 +6,10 @@ loc_type: feature
 longitude: 115.982353
 title: Lushan
 type: location
+image: lushan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lushan_Mountain_Celetial_Cave.JPG
+image_license: CC BY 3.0
+image_attribution: Gisling
 ---
 
 Lushan (庐山) is one of China's most celebrated mountains — a UNESCO World Heritage Site that combines dramatic scenery with layers of cultural and political history. The mist-wrapped peaks above Poyang Lake have inspired Chinese painters and poets for two millennia, and the list of historical figures associated with the mountain reads like a compressed tour through Chinese history.

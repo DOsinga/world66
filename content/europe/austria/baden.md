@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: baden.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Baden_Panorama_01.jpg
 latitude: 48.0077
+loc_type: city
 longitude: 16.2344
+score: 0.55
 title: Baden bei Wien
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Baden bei Wien is a spa town about 25 km south of [Vienna](/europe/austria/vienna), set at the edge of the Vienna Woods where hot sulphur springs have drawn visitors since Roman times. The town reached its peak of fashionability in the early 19th century, when the Habsburg court spent summers here, and Beethoven composed parts of his Ninth Symphony in a house on Frauengasse.

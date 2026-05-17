@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: prato.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Duomo_Prato_01.jpg
 latitude: 43.935718
+loc_type: city
 longitude: 11.094147
+score: 0.55
 title: Prato
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Prato is a textile city just 17 km from [Florence](/europe/italy/tuscany/florence), so close that the two nearly merge. Most visitors to Tuscany skip it entirely, which is a shame — behind the industrial outskirts lies a walled medieval centre with a cathedral, an imperial castle built by Frederick II, and the Museo di Palazzo Pretorio with a fine collection of Filippo Lippi paintings.

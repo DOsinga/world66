@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
+image: lyon.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lyon-part-dieu-2023.jpg
 latitude: 45.757814
+loc_type: city
 longitude: 4.832011
 score: 0.54
 title: Lyon
 type: location
-loc_type: city
 ---
 
 Lyon is the second-largest urban area in France and, for many, the country's most satisfying city after Paris — a place with 2,000 years of history stacked in layers, a UNESCO-listed historic centre of extraordinary beauty, and a fanatical devotion to good food that has earned it the widely-held title of **gastronomic capital of France**. It sits at the confluence of the **Rhône** and **Saône**, in the east of the country, halfway between Paris and Marseille, with the Alps rising to the east and the Beaujolais wine country to the north.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: callander.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Looking_down_Main_Street_in_Callander,_Scotland.jpg
 latitude: 56.243694
+loc_type: city
 longitude: -4.214803
+score: 0.55
 title: Callander
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Callander is one of the two gateway towns to the Trossachs, the other being Aberfoyle. Sitting on the River Teith at the edge of the Highlands, it is a handsome stone-built town that fills with walkers, cyclists, and day-trippers in summer.

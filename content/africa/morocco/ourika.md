@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: ourika.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Ourika_Duras.jpg
 latitude: 31.378
+loc_type: city
 longitude: -7.8048
+score: 0.55
 title: Ourika
 type: location
-score: 0.55
-loc_type: city
 ---
 
 The Ourika Valley is one of the finest day trips from [Marrakesh](/africa/morocco/marrakesh) — a narrow gorge cutting into the High Atlas where Berber villages cling to red rock cliffs above a fast-running river. It takes about an hour to get there, and the contrast with the city is immediate.

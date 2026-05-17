@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: greatzimbabwe.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg
 latitude: -20.2709
+loc_type: city
 longitude: 30.9332
+score: 0.55
 title: Great Zimbabwe
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Great Zimbabwe is the largest stone ruin in sub-Saharan Africa south of the Sahara, and one of the most important archaeological sites on the continent. Built between the eleventh and fifteenth centuries, it was the capital of a wealthy Shona trading state that controlled gold and ivory routes between the interior and the Indian Ocean coast. The name Zimbabwe — "houses of stone" — gave the modern country its name at independence in 1980.

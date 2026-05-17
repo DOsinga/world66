@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: ptuj.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Ptuj_Town_Hall.jpg
 latitude: 46.41981
+loc_type: city
 longitude: 15.871738
+score: 0.56
 title: Ptuj
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Ptuj is the oldest town in Slovenia, with town rights dating back to 977, and it wears that age well. The compact historic centre clusters beneath a hilltop castle and is filled with the kind of detail that rewards slow walking: carved stone doorways, wrought-iron window grills, and patrician houses lining quiet streets.

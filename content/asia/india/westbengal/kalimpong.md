@@ -1,10 +1,13 @@
 ---
-title: Kalimpong
-type: location
+image: kalimpong.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Kalimpong,_India.jpg
 latitude: 27.065985
+loc_type: city
 longitude: 88.467995
 score: 0.55
-loc_type: city
+title: Kalimpong
+type: location
 ---
 
 *Asia > India > West Bengal > Kalimpong*

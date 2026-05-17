@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: harar.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:City_Gate,_Harar_Jugol_(14464345823).jpg
 latitude: 9.31184
+loc_type: city
 longitude: 42.128445
+score: 0.56
 title: Harar
 type: location
-score: 0.56
-loc_type: city
 ---
 
 The old walled city of Harar used to be strictly off limits for non-Muslims. It was one of the most holy cities in the country and remains the fourth holiest city in Islam.

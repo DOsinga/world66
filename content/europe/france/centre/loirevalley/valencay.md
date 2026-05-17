@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: valencay.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Chateau_Valencay_20050726.jpg
 latitude: 47.1615
+loc_type: city
 longitude: 1.5666
+score: 0.54
 title: Valençay
 type: location
-score: 0.54
-loc_type: city
 ---
 
 The Château de Valençay rivals [Chambord](/europe/france/centre/loirevalley/chambord) in scale but draws a fraction of the visitors — a real advantage if you prefer your Loire châteaux without the crowds. The building is a handsome blend of Renaissance and classical styles, set above beautifully designed English-style gardens with formal parterres, a deer park, and a children's playground.

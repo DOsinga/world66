@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: barbuda.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:New_Barbuda_Airport_in_July_2023.jpg
 latitude: 17.6266
+loc_type: city
 longitude: -61.7713
+score: 0.54
 title: Barbuda
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Barbuda is [Antigua's](/northamerica/antiguaandbarbuda) quieter, flatter, and almost empty sister island, lying about 50 kilometres to the north. Fewer than 2,000 people live here, nearly all of them in the single village of Codrington. The rest of the island is scrubland, lagoons, and some of the most spectacular beaches in the Caribbean.

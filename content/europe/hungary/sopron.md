@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: sopron.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Storno-h%C3%A1z_T%C5%B1ztorony_%C3%A9s_V%C3%A1rosh%C3%A1za.jpg
 latitude: 47.680306
+loc_type: city
 longitude: 16.598346
+score: 0.56
 title: Sopron
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Sopron is a historic city in northwestern Hungary, just a few kilometres from the Austrian border. Its old town is remarkably intact — one of the best-preserved medieval city centres in Hungary — with a horseshoe of medieval and Baroque streets circling the old Roman settlement of Scarbantia. The Firewatch Tower, rising from the Roman city gate, has become the symbol of the city.

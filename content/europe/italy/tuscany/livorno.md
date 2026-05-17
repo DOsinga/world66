@@ -1,12 +1,15 @@
 ---
-title: Livorno
-type: location
-latitude: 42.790238
-longitude: 10.340224
 done:
   location_cleanup: 2026-04-08
-score: 0.55
+image: livorno.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Livorno,_veduta_aerea_2015.jpg
+latitude: 42.790238
 loc_type: city
+longitude: 10.340224
+score: 0.55
+title: Livorno
+type: location
 ---
 
 Livorno is Tuscany's port city, built by the Medici in the late 16th century as a grand commercial harbour and designed from scratch by the architect Bernardo Buontalenti. It has none of the medieval charm of [Florence](/europe/italy/tuscany/florence) or [Siena](/europe/italy/tuscany/siena), but it has character of a different kind — a cosmopolitan, slightly rough-edged trading city with canals, fortresses, and a long history of religious tolerance.

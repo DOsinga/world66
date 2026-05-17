@@ -1,12 +1,15 @@
 ---
-title: Karakoram Highway
-type: location
-latitude: 36.448842
-longitude: 74.893065
 done:
   location_cleanup: 2026-04-06
-score: 0.54
+image: karakoram_highway.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:KKH.png
+latitude: 36.448842
 loc_type: region
+longitude: 74.893065
+score: 0.54
+title: Karakoram Highway
+type: location
 ---
 
 Travel Guide

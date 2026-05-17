@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: mindelo.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2006.07.12.cv.sv.mindelo.palacio.jpg
 latitude: 16.887
+loc_type: city
 longitude: -24.9812
+score: 0.56
 title: Mindelo
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Mindelo is the cultural capital of Cape Verde and one of the most appealing small cities in West Africa. Set around a wide natural harbor on [Sao Vicente](/africa/capeverde/saovicente), it has a faded colonial elegance -- pastel buildings, cobblestone streets, a waterfront promenade -- and a music scene that punches absurdly above its weight. This is where Cesaria Evora grew up, and live music still pours out of bars and clubs every weekend night. Morna, coladeira, funana -- you can hear it all within a few blocks.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: frascati.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Frascati.jpg
 latitude: 41.808245
+loc_type: city
 longitude: 12.680368
+score: 0.55
 title: Frascati
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times — the Romans called the area *Tusculanum* — and the legacy is a string of Renaissance and Baroque villas with extraordinary gardens. Today it is best known for its white wine, Frascati DOC, which you can drink directly from the source.

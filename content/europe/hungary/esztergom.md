@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: esztergom.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:EsztergomMontage2.JPG
 latitude: 47.7857
+loc_type: city
 longitude: 18.7403
+score: 0.56
 title: Esztergom
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Esztergom is Hungary's holiest city. It stands on a bluff above the Danube where the country meets Slovakia, dominated by a basilica so enormous it can be spotted from twenty kilometres away. King István — St Stephen — was born and crowned here in the year 1000, making Esztergom the cradle of Christian Hungary and its first capital. The Archbishop of Esztergom remains the head of the Hungarian Catholic Church, and the city has held that role without interruption for over a thousand years.

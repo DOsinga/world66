@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: comacchio.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Gate_to_Comacchio.jpg
 latitude: 44.696379
+loc_type: city
 longitude: 12.180427
+score: 0.54
 title: Comacchio
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Comacchio is like a small [Venice](/europe/italy/veneto/venice), just 30 km north of [Ravenna](/europe/italy/emiliaromagna/ravenna). The town is located in the Valli, a series of lakes and marshes that make for wonderful walks and bicycle rides.

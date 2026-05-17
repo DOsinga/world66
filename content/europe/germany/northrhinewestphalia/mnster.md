@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: mnster.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Muenster_Innenstadt.jpg
 latitude: 51.96251
+loc_type: city
 longitude: 7.625188
+score: 0.54
 title: Münster
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Münster (267,000 inhabitants) is an attractive city in the Münsterland, a flat green region dotted with charming little castles and ideal for cycling. If you arrive by train, don't be put off by the unattractive surroundings of the station — move on to the city centre and you'll find a different world entirely.

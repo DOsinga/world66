@@ -1,5 +1,0 @@
-asia/iraq/ninevah
-southamerica/argentina/bahiablanca
-northamerica/unitedstates/utah/bullfrog_marina
-northamerica/unitedstates/ohio/marion
-asia/cyprus/limassol

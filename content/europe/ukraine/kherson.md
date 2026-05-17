@@ -1,10 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-12'
-latitude: 46.542172
+  location_enrich: '2026-05-17'
+image: kherson.jpg
+image_attribution: peatc on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/94442743@N00/7783769726
+latitude: 46.6425
 loc_type: city
-longitude: 33.407933
+longitude: 32.625
 score: 0.18
 title: Kherson
 type: location

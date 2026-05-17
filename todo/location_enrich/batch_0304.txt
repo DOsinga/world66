@@ -1,5 +1,5 @@
 northamerica/panama/contadora
-asia/china/sichuanprovince/chengdu/dujiangyan
+asia/china/sichuanprovince/dujiangyan
 northamerica/elsalvador/sanmiguel
 europe/unitedkingdom/england/south_east/crawley
 europe/italy/veneto/bassoveronese

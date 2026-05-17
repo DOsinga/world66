@@ -1,5 +1,5 @@
 southamerica/argentina/jujuy
 australiaandpacific/newcaledonia/hienghene
-africa/mauritius/souillac/surinam
+africa/mauritius/surinam
 australiaandpacific/newzealand/north_island/northland/cape_reinga
 northamerica/dominicanrepublic/samana

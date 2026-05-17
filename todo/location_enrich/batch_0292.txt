@@ -1,5 +1,5 @@
 europe/ireland/maynooth
-asia/philippines/manila/paranuaque
+asia/philippines/paranuaque
 australiaandpacific/australia/newsouthwales/katoomba
 europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford
 asia/philippines/subic

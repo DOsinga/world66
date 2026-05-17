@@ -1,5 +1,5 @@
 australiaandpacific/cookislands/mitiaro
 northamerica/unitedstates/california/northcoast/fortbragg
-europe/ireland/dublin/skerries
+europe/ireland/skerries
 europe/bulgaria/velikoturnovo
 northamerica/mexico/guerreronegro

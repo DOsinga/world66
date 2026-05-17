@@ -6,8 +6,8 @@ latitude: 52.540292
 longitude: 13.414078
 snippet: Sprawling former brewery turned cultural village
 tags:
-- nightlife
-- history
+- things_to_do
+- prenzlauerberg
 - architecture
 title: Kulturbrauerei
 type: poi

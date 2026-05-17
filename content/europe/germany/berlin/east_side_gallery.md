@@ -10,6 +10,8 @@ tags:
 - sight
 title: East Side Gallery
 type: poi
+story: >
+  The famous "fraternal kiss" image — Brezhnev and Honecker locked in a socialist embrace — was painted by Russian artist Dmitri Vrubel from a 1979 photograph taken at the 30th anniversary of the GDR. Vrubel added the German caption "God, help me survive this deadly love." The painting has been defaced multiple times and repainted; the current version is a 2009 restoration done by Vrubel himself.
 url: https://www.eastsidegallery-berlin.de
 ---
 

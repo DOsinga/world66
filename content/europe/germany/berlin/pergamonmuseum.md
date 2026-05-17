@@ -7,10 +7,13 @@ opening_hours: Daily 10am-6pm, Thu until 8pm
 phone: +49 30 266424242
 tags:
 - things_to_do
+- berlinmitte
 - museum
 title: Pergamon Museum
 type: poi
 snippet: "Ancient world reconstructions including the Ishtar Gate"
+story: >
+  The Pergamon Altar was excavated by German archaeologist Carl Humann in what is now Turkey between 1878 and 1886. The Ottoman Empire had been using the marble blocks as building material — Humann found decorated friezes mixed into a Byzantine lime kiln. The German excavation rights were agreed in exchange for help building the Istanbul–Izmir railway. Turkey has been requesting the altar's return since the 1990s.
 url: www.smb.museum/pergamonmuseum
 ---
 

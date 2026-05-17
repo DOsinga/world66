@@ -1,6 +1,6 @@
 ---
 title: Schöneberg
-type: location
+type: neighbourhood
 latitude: 52.4821
 longitude: 13.3552
 done:

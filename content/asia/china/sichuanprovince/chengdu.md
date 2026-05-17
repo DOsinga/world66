@@ -8,7 +8,7 @@ longitude: 104.0668
 score: 0.71
 title: Chengdu
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas — usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another pot of jasmine, and asks why you are in such a hurry.
@@ -19,4 +19,4 @@ Then there is the food, which is reason enough on its own to come. Sichuan cooki
 
 The reconstructed Qing lanes of **[Jinli](/asia/china/sichuanprovince/chengdu/things_to_do/jinli)** and **[Kuanzhai Xiangzi](/asia/china/sichuanprovince/chengdu/things_to_do/kuanzhai_xiangzi)** are unashamedly touristy but pretty in the evening when the lanterns come on. **[Tianfu Square](/asia/china/sichuanprovince/chengdu/things_to_do/tianfu_square)** at the city centre is dominated by one of the few remaining giant statues of Mao still standing, arm raised in greeting.
 
-Chengdu is also the gateway. From here you can reach the giant Buddha at Leshan, the sacred Taoist mountain of Qingcheng Shan, the irrigation works at **[Dujiangyan](/asia/china/sichuanprovince/chengdu/dujiangyan)**, and the alpine lakes of Jiuzhaigou. It is also the standard staging point for overland travel into Tibet and across western Sichuan to the Tibetan plateau — flights to Lhasa leave daily, and the long mountain road to Litang and beyond starts here.
+Chengdu is also the gateway. From here you can reach the giant Buddha at Leshan, the sacred Taoist mountain of Qingcheng Shan, the irrigation works at **[Dujiangyan](/asia/china/sichuanprovince/dujiangyan)**, and the alpine lakes of Jiuzhaigou. It is also the standard staging point for overland travel into Tibet and across western Sichuan to the Tibetan plateau — flights to Lhasa leave daily, and the long mountain road to Litang and beyond starts here.

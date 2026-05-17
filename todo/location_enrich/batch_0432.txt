@@ -1,5 +1,8 @@
 europe/france/alpes/courthezon
 europe/unitedkingdom/england/south_east/dover
-europe/unitedkingdom/scotland/glasgow/renfrew
 europe/france/east/burgundy/autun
 africa/benin/abomey
+asia/china/macau
+asia/srilanka/tissamaharama
+europe/italy/puglia/bari
+northamerica/unitedstates/colorado/coloradosprings

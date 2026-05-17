@@ -6,7 +6,7 @@ longitude: 81.2878
 title: Tissamaharama
 type: location
 score: 0.48
-loc_type: region
+loc_type: city
 ---
 
 Tissamaharama — usually shortened to Tissa — is a small town in the deep south of [Sri Lanka](/asia/srilanka), serving as the main gateway to Yala National Park. Most visitors pass through on their way to the park, but the town itself has a quiet appeal, centred around its ancient artificial lake, Tissa Wewa, which was built by King Kavantissa in the third century BC.

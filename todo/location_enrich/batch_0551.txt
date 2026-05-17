@@ -1,4 +1,4 @@
-northamerica/unitedstates/california/sandiego/oceanside
+northamerica/unitedstates/california/oceanside
 africa/egypt/dendara
 europe/unitedkingdom/england/eastern_england/ely
 northamerica/unitedstates/kansas/lawrence

@@ -8,7 +8,7 @@ longitude: -123.3656
 score: 0.64
 title: Victoria
 type: location
-loc_type: region
+loc_type: city
 ---
 
 *North America > Canada > [British Columbia](/northamerica/canada/britishcolumbia) > Victoria*
@@ -23,4 +23,4 @@ Victoria has the mildest climate in Canada. Snow is rare, summers are dry and pl
 
 ## Destinations in Victoria
 
-[Chemainus](/northamerica/canada/britishcolumbia/victoria/chemainus)
+[Chemainus](/northamerica/canada/britishcolumbia/chemainus)

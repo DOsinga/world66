@@ -6,7 +6,7 @@ longitude: 38.97724
 title: Krasnodar
 type: location
 score: 0.34
-loc_type: region
+loc_type: city
 ---
 
 Krasnodar is the informal capital of southern Russia, a sprawling city of over a million people on the Kuban River. Founded as a Cossack fort in 1793, it serves as the gateway to the Black Sea coast and the Caucasus mountains.

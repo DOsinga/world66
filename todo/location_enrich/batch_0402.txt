@@ -1,5 +1,5 @@
 europe/hungary/nyiregyhaza
 europe/austria/bad_gastein
 australiaandpacific/australia/westernaustralia/broome
-africa/nigeria/yola/hong
+africa/nigeria/hong
 europe/germany/bavaria/rosenheim

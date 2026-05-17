@@ -7,11 +7,10 @@ image_attribution: Der Robert on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/37719992@N03/9350451234
 latitude: 59.9639
-loc_type: city
 longitude: 10.6685
 score: 0.57
 title: Holmenkollen
-type: location
+type: neighbourhood
 ---
 
 Holmenkollen is Oslo's hilltop neighbourhood famous for its ski jump — a landmark visible from much of the city and a defining feature of Norway's sporting identity. The area sits on the western heights above Oslo, surrounded by forest, and is where Norwegians come to ski, hike, and breathe cooler air.

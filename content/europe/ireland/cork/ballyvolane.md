@@ -7,11 +7,10 @@ image_attribution: jf1234 on Flickr
 image_license: CC BY-SA 2.0
 image_source: https://www.flickr.com/photos/18154819@N00/1320565714
 latitude: 51.918043
-loc_type: city
 longitude: -8.453875
 score: 0.38
 title: Ballyvolane
-type: location
+type: neighbourhood
 ---
 
 Ballyvolane is a residential suburb in the north of [Cork](/europe/ireland/cork) city, easily reached from the city centre on bus 7 (stops between Eason's and the Savoy on Patrick Street). It is not a tourist destination as such, but it has a Dunnes Stores shopping centre and the [Fox & Hounds](/europe/ireland/cork/ballyvolane/fox_and_hounds) pub for local colour.

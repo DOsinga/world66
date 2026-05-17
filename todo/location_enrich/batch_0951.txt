@@ -2,4 +2,7 @@ australiaandpacific/newzealand/north_island/manawatu
 northamerica/unitedstates/rhodeisland/coventry
 europe/sweden/trollhttan
 europe/spain/spanishcostas/benidorm
-asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1
+asia/iraq/arbil
+asia/vietnam/hue
+europe/poland/zakopane
+northamerica/unitedstates/texas/houston

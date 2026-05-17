@@ -1,36 +1,14 @@
 ---
-address: Baan Nai Fun1 , Moo 3 , Soi 2, 135/48 Pa-Dead , 50100 Chiang Mai Thailand
+address: Baan Nai Fun, Moo 3, Soi 2, 135/48 Pa Daed, Chiang Mai 50100
 email: egmond@bangkokbiking.com
-phone: +66(0)53282055  +66(0)810320011
+phone: +66 53 282055
+snippet: Multi-day guided cycling tours through the Chiang Mai countryside — flat
+  routes through villages, rice fields, and mountain valleys.
 tags:
 - things_to_do
-- landmark
 title: Chiang Mai Biking
 type: poi
 url: www.chiangmaibiking.com
 ---
 
-We did the Chiang Mai Treasures 3 day cycling excursion with our tour guide Fokke.
-Everything on this trip was excellent, from the start to the end.
-The bikes are al new and in very good shape, the idyllic situated resorts are very nice and the food was fantastic.
-Since our guide used to be a chef he knew exactly what to order so that even our children (10 & 11) liked al the Thai food he gave to them.
-The tour is very relaxed and also flat, even our children had no problems with the 45 km biking per day.
-If you want to see a lot of local culture and beautiful nature ypu have to make this trip.
-For us it was a unforgetable experience that will be in our minds forever.
-
-**Contributors**
-February 04, 2010
-
-type: Cycling
-
-
-
-
-
-tel: +66(0)53282055 +66(0)810320011
-
-url: [www.chiangmaibiking.com](http://www.chiangmaibiking.com)
-
-address: Baan Nai Fun1 , Moo 3 , Soi 2, 135/48 Pa-Dead , 50100 Chiang Mai Thailand
-
-email: egmond@bangkokbiking.com
+Chiang Mai Biking offers guided cycling excursions ranging from single-day rides to multi-day tours through the valleys and villages surrounding the city. Routes are mostly flat and are designed for all fitness levels, including families with children. The three-day Chiang Mai Treasures tour covers around 45 km per day, passing through rural communities, temples, and rice fields well off the tourist circuit, with nights at small local resorts. Bikes are modern and well-maintained. Hotel pickup is available.

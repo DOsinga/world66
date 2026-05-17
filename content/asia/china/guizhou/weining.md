@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Weining
 title: Weining
 type: location
+image: weining.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Caohai_lake.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nihongarden
 ---
 
 Weining is a county town in the far northwest of Guizhou, at over 2,200 metres on the plateau edge, and it has a single attraction that makes the journey worthwhile: [Cao Hai Lake](/asia/china/guizhou/weining/cao_hai_lake), a high-altitude wetland that serves as a wintering ground for black-necked cranes. The cranes — the only cranes that breed and winter at high altitude — begin arriving in late October from their summer range in Tibet and Qinghai and remain until early spring. At peak season, several hundred individuals can be visible from the lake shore, along with over 170 other bird species. The local farmers who work the fields around the lake have traditionally treated the cranes as auspicious, and the relationship between the village economy and the wetland has sustained both.

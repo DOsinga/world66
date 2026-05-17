@@ -6,6 +6,8 @@ longitude: 98.992
 price: ~900–1,100 THB
 snippet: Small personal school run by a Chiang Mai native — strong focus on northern
   Thai dishes that most cooking schools don't teach, including khao soi and sai oua.
+tags:
+- cooking_classes
 title: Gap's Thai Culinary Art School
 type: poi
 ---

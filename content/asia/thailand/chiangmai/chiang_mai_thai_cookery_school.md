@@ -6,6 +6,8 @@ longitude: 98.996
 price: ~1,100–1,500 THB
 snippet: The city's oldest cooking school, founded in 1993 — flexible half-day to
   three-day courses with a strong reputation for teaching technique, not just recipes.
+tags:
+- cooking_classes
 title: Chiang Mai Thai Cookery School
 type: poi
 ---

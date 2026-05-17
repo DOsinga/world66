@@ -6,6 +6,8 @@ longitude: 98.99
 price: ~1,000 THB
 snippet: Central location near the old city, morning market visit included, covers
   five dishes with clear instruction and take-home recipe cards.
+tags:
+- cooking_classes
 title: My Thai Cooking School
 type: poi
 ---

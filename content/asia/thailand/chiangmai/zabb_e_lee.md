@@ -6,6 +6,8 @@ longitude: 98.985
 price: ~800 THB
 snippet: Good-value half-day class in a traditional Thai house near the old city —
   covers four classic dishes with a relaxed, hands-on approach.
+tags:
+- cooking_classes
 title: Zabb E Lee Thai Cooking School
 type: poi
 ---

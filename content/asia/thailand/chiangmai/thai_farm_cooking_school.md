@@ -6,6 +6,8 @@ longitude: 98.962
 price: ~800–900 THB
 snippet: Organic farm-based school north of the city — grow, harvest, and cook your
   own ingredients in an open-air kitchen surrounded by rice paddies.
+tags:
+- cooking_classes
 title: Thai Farm Cooking School
 type: poi
 ---

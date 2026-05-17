@@ -14,4 +14,4 @@ Liaoning is the southernmost of China's three northeastern provinces, the gatewa
 
 [Dalian](/asia/china/liaoning/dalian), at the tip of the Liaodong Peninsula, is something else entirely — a coastal city with European-style boulevards, good seafood, and a beach culture that the rest of the northeast lacks. It was successively Russian and Japanese before becoming Chinese again, and the architectural traces of all three eras are still visible. The seafood markets are reason enough to make the trip.
 
-Liaoning is also the departure point for Dandong, on the North Korean border, where you can look across the Yalu River at Sinuiju — one of the stranger vantage points in Asia.
+Liaoning is also the departure point for [Dandong](/asia/china/liaoning/dandong), on the North Korean border, where you can look across the Yalu River at Sinuiju — one of the stranger vantage points in Asia.

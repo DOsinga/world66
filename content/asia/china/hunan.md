@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: hunan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg
 latitude: 27.6662
+loc_type: city
 longitude: 111.7487
+score: 0.51
 title: Hunan
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Hunan province sits in south-central China, a place most travellers pass through on their way to [Guilin](/asia/china/guilin) or the Yangtze. That is a mistake. Hunan's star attraction is [Wulingyuan](/asia/china/hunan/wulingyuan_1), a UNESCO World Heritage Site where over 3,100 sandstone pillars rise more than 200 metres above forested gorges — the landscape that inspired the floating mountains in Avatar. The pillars are often wrapped in mist, and the area includes ravines, waterfalls, natural bridges (one rising 360 metres above the valley floor), and some forty caves. Yellow Dragon Cave, extending over 11 kilometres, features a 50-metre underground waterfall.

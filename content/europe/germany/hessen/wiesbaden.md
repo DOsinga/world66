@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+image: wiesbaden.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Wiesbaden_BW_2017-04-24_20-51-36.jpg
 latitude: 50.082038
+loc_type: city
 longitude: 8.241656
 score: 0.52
 title: Wiesbaden
 type: location
-loc_type: city
 ---
 
 Wiesbaden, the capital of Hesse, sits between the Taunus highlands to the north and the Rhine to the south. Its 26 hot springs were already noted by Roman writers, and the city has been a fashionable spa destination since the 18th century — Dostoyevsky gambled away his fortune at the Kurhaus casino, and the grand Wilhelminian-era buildings along the Wilhelmstrasse still carry that old-world elegance.

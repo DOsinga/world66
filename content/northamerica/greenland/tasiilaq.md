@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: tasiilaq.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tasiilaq_-_Greenland_summer_2009.jpg
 latitude: 65.614075
+loc_type: city
 longitude: -37.63922
+score: 0.51
 title: Tasiilaq
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Tasiilaq is the largest town on the east coast of Greenland, and the main base for exploring a region that most visitors to Greenland never see. Also known by its older name, Ammassalik — meaning "the place with capelin" — the town sits just south of the Arctic Circle in a sheltered fjord with a narrow sea entrance, ringed by steep mountains. Arriving by helicopter, the first view is of brightly-coloured houses clinging to the mountainsides above the fjord: one of the more dramatic introductions to any town on earth.

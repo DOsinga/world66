@@ -1,12 +1,15 @@
 ---
-title: San Luis Potosí
-type: location
-latitude: 22.1565
-longitude: -100.9855
 done:
   location_cleanup: 2026-04-06
-score: 0.51
+image: sanluispotosi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cerro_del_Fraile_-_Matehuala,_San_Luis_Potos%C3%AD,_M%C3%A9xico.jpg
+latitude: 22.1565
 loc_type: city
+longitude: -100.9855
+score: 0.51
+title: San Luis Potosí
+type: location
 ---
 
 San Luis Potosí is a colonial city of about a million people in central Mexico, capital of the state of the same name. Founded in the late 1500s as a silver and gold mining settlement at 1,877 metres elevation, it was one of the wealthiest cities in New Spain and its centre shows it: grand plazas, baroque churches of real ambition, and wide pedestrian streets lined with 18th-century buildings.

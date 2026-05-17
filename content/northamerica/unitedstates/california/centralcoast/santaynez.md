@@ -1,10 +1,13 @@
 ---
-title: Santa Ynez
-type: location
+image: santaynez.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Santa_Ynez.jpg
 latitude: 34.616114
+loc_type: city
 longitude: -120.093375
 score: 0.51
-loc_type: city
+title: Santa Ynez
+type: location
 ---
 
 More than 30 wineries here include some of California's most honored vintner names. Follow Highway 101 or scenic Highway 154, the back road along the old stagecoach route. Los Olivos, once a stagecoach stop, maintains its Old West feel. 

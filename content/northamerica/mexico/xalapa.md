@@ -1,10 +1,13 @@
 ---
+image: xalapa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Xalapa_montage.jpg
 latitude: 19.540834
+loc_type: city
 longitude: -96.914637
 score: 0.51
 title: Xalapa
 type: location
-loc_type: city
 ---
 
 Xalapa earns its nickname "the Athens of Veracruz" honestly. The capital of Veracruz state is a university town first and foremost, and the influence of the Universidad Veracruzana gives the city a cultural energy that far exceeds what you might expect from its size. The Museo de Antropologia de Xalapa is the second most important anthropology museum in Mexico after the one in Mexico City, housing an extraordinary collection of Olmec colossal heads and Totonac sculptures in a beautifully designed modernist building. Do not skip it.

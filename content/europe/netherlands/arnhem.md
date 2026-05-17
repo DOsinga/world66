@@ -1,14 +1,17 @@
 ---
-title: Arnhem
-type: location
 description: Dutch city on the Rhine, known for the WWII Battle of Arnhem, trolleybuses,
   and a lively centre with great museums nearby.
-latitude: 51.9851
-longitude: 5.8987
 done:
   location_cleanup: 2026-04-06
-score: 0.52
+image: arnhem.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Musis_Sacrum,_late_afternoon_-_panoramio.jpg
+latitude: 51.9851
 loc_type: city
+longitude: 5.8987
+score: 0.52
+title: Arnhem
+type: location
 ---
 
 Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of *A Bridge Too Far* -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airborne Museum in nearby Oosterbeek, and a few memorials are all that remain.

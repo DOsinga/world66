@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: newcastle_upon_tyne.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Newcastle-upon-Tyne-bridges-and-skyline_cropped.jpg
 latitude: 54.973847
+loc_type: city
 longitude: -1.613157
+score: 0.52
 title: Newcastle upon Tyne
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Newcastle is a city that punches well above its weight. Compact enough to walk across in twenty minutes, it packs in more culture, nightlife, and architectural variety than cities twice its size. The Quayside along the Tyne is the showpiece — the Gateshead Millennium Bridge, the BALTIC Centre for Contemporary Art, and the Sage Gateshead concert hall all face each other across the river, with the old bridges and the castle keep as backdrop.

@@ -1,12 +1,15 @@
 ---
-title: Prespa
-type: location
-latitude: 40.7511
-longitude: 21.0999
 done:
   location_cleanup: 2026-04-07
-score: 0.52
+image: prespa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:HS_Prespa_A434_2019_G1.jpg
+latitude: 40.7511
 loc_type: city
+longitude: 21.0999
+score: 0.52
+title: Prespa
+type: location
 ---
 
 *Europe > Greece > Prespa*

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: ravensburg.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Ravensburg_in_RV.svg
 latitude: 47.781101
+loc_type: city
 longitude: 9.612468
+score: 0.51
 title: Ravensburg
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Ravensburg is a well-preserved medieval town in Upper Swabia, about 45 minutes by train south of Ulm and a short hop from [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance). The old centre is remarkably intact, with towers, gateways, and half-timbered houses that make it one of the more picturesque small towns in Baden-Wurttemberg.

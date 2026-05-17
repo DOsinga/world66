@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: aalborg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aalborg_from_the_Aalborg_tower.jpg
 latitude: 57.046263
+loc_type: city
 longitude: 9.921526
+score: 0.51
 title: Aalborg
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Aalborg sits on the Limfjord in northern Jutland. The local tourist board calls it "the little Paris of the North" — a stretch, perhaps, but the location by the water is genuinely lovely, and the city has more to offer than its size suggests.

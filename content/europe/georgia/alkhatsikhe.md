@@ -1,10 +1,13 @@
 ---
-title: Akhaltsikhe
-type: location
+image: alkhatsikhe.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Akhaltsike,_view_from_Rabati.jpg
 latitude: 41.639513
+loc_type: city
 longitude: 42.985923
 score: 0.51
-loc_type: city
+title: Akhaltsikhe
+type: location
 ---
 
 Located in the south, almost on the border with Turkey, Akhaltsikhe is dominated by an old fort, the Rabati, that towers over the city. The Rabati can be visited and it's a nice hike up the mountain. You get great views over the city and the surrounding hills. The museum closes at three - or so we were told. The fort houses a mosque and a ruined medressa. There is also a military hospital you are not allowed to visit.

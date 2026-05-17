@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: verdun.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Porte_Verdun.JPG
 latitude: 49.1589
+loc_type: city
 longitude: 5.3867
 score: 0.51
 title: Verdun
 type: location
-loc_type: city
 ---
 
 Verdun is a small city on the Meuse River in eastern France, roughly halfway between Paris and Strasbourg. Its name is known worldwide for the devastating battle fought here in 1916 — one of the longest and bloodiest engagements of the First World War, with an estimated 700,000 casualties on both sides. The battlefields and memorials in the hills north of the city are the principal reason to visit.

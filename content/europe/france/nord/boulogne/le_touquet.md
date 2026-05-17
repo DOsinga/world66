@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: le_touquet.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Plage_du_Touquet_-_panoramio_(19).jpg
 latitude: 50.520008
+loc_type: city
 longitude: 1.586453
+score: 0.51
 title: Le Touquet
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Le Touquet-Paris-Plage is a seaside resort on the Opal Coast, about 30 km south of [Boulogne](/europe/france/nord/boulogne). It was developed in the late 19th century as a fashionable retreat for wealthy Parisians and the English gentry, and something of that elegance lingers in the Art Deco villas and the pine-shaded avenues behind the seafront.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
+image: dover.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dover_from_the_top_of_Dover_Castle_-_geograph.org.uk_-_4061940.jpg
 latitude: 51.125127
+loc_type: city
 longitude: 1.313423
 score: 0.51
 title: Dover
 type: location
-loc_type: city
 ---
 
 When you think of Dover, you probably think of white cliffs — those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel has taken much of the traffic and the town itself has seen better days.

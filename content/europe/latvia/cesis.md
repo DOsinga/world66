@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: cesis.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Skats_no_Vidzemes_koncertz%C4%81le_C%C4%93sis_jumta_-_panoramio_(2).jpg
 latitude: 57.313171
+loc_type: city
 longitude: 25.274855
+score: 0.51
 title: Cesis
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Cesis is the most appealing town in the Gauja Valley and arguably the best-preserved medieval settlement in the Baltics. It's about 90 minutes from Riga by train and makes an easy day trip, though an overnight stay lets you see it more slowly.

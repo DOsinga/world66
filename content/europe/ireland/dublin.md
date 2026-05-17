@@ -25,5 +25,5 @@ Summers are mild but rarely warm; rain is never far away. Bring a waterproof coa
 
 ## Destinations in Dublin
 
-- [Skerries](/europe/ireland/dublin/skerries)
+- [Skerries](/europe/ireland/skerries)
 - [South County (Killiney / Dalkey / Dún Laoghaire)](/europe/ireland/dublin/southcountykillineydalkeydunlaoghaire)

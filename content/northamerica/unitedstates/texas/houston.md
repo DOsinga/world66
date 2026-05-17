@@ -23,5 +23,5 @@ Be warned: Houston summers are brutal. Heat, humidity, and the threat of hurrica
 [Montrose](/northamerica/unitedstates/texas/houston/montrose) |
 [Museum District](/northamerica/unitedstates/texas/houston/museumdistrict) |
 [Galveston Island](/northamerica/unitedstates/texas/houston/galvestonisland) |
-[Brazosport Area](/northamerica/unitedstates/texas/houston/brazosportarea) |
+[Brazosport Area](/northamerica/unitedstates/texas/brazosportarea) |
 [Fort Bend County](/northamerica/unitedstates/texas/houston/fortbendcounty)

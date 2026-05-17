@@ -17,6 +17,6 @@ D.G.Khan Contain one of the Pakistan's main Textile Industry. All five rivers of
 
 ## Destinations in Dera Ghazi Khan
 
-[TAUNSA SHARIF](/asia/pakistan/dera_ghazi_khan/taunsa_sharif)
+[TAUNSA SHARIF](/asia/pakistan/taunsa_sharif)
 [Rajan pur](/asia/pakistan/dera_ghazi_khan/rajan_pur)
 [Basti Fauja](/asia/pakistan/dera_ghazi_khan/basti_fauja)

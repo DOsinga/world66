@@ -13,4 +13,4 @@ Teramo is the provincial capital of the Teramo province in Abruzzo, sitting in a
 
 The city has Roman origins — you can still see remains of a Roman theatre and an amphitheatre in the centre. The Cathedral of San Berardo is the main landmark, a mix of Romanesque and Gothic styles built over earlier Roman structures, with a fine polyptych altarpiece inside. Just outside town, in the village of Valle San Giovanni, the ruins of an early medieval monastery are quietly impressive.
 
-Teramo makes a good base for exploring [Gran Sasso e Monti della Laga National Park](/europe/italy/abruzzo), which is visible from much of the city. The coast at [Pineto](/europe/italy/abruzzo/teramo/pineto) is about 30 kilometres east.
+Teramo makes a good base for exploring [Gran Sasso e Monti della Laga National Park](/europe/italy/abruzzo), which is visible from much of the city. The coast at [Pineto](/europe/italy/abruzzo/pineto) is about 30 kilometres east.

@@ -23,4 +23,4 @@ Today, Girona, apart from its historic charm, is a bustling, lively city, with a
 
 ## Destinations in Girona
 
-[Banyoles](/europe/spain/catalonia/girona/banyoles)
+[Banyoles](/europe/spain/catalonia/banyoles)

@@ -23,11 +23,11 @@ The food scene reflects the city's demographics — Vancouver has the largest Ch
 
 ## Destinations in Vancouver
 
-[Delta](/northamerica/canada/britishcolumbia/vancouver/delta)
-[Richmond](/northamerica/canada/britishcolumbia/vancouver/richmond)
-[North Vancouver](/northamerica/canada/britishcolumbia/vancouver/northvancouver)
-[Langley](/northamerica/canada/britishcolumbia/vancouver/langley)
-[Burnaby](/northamerica/canada/britishcolumbia/vancouver/burnaby)
-[Golden Ears](/northamerica/canada/britishcolumbia/vancouver/goldenears)
-[New Westminster](/northamerica/canada/britishcolumbia/vancouver/newwestminster)
+[Delta](/northamerica/canada/britishcolumbia/delta)
+[Richmond](/northamerica/canada/britishcolumbia/richmond)
+[North Vancouver](/northamerica/canada/britishcolumbia/northvancouver)
+[Langley](/northamerica/canada/britishcolumbia/langley)
+[Burnaby](/northamerica/canada/britishcolumbia/burnaby)
+[Golden Ears](/northamerica/canada/britishcolumbia/goldenears)
+[New Westminster](/northamerica/canada/britishcolumbia/newwestminster)
 [Coquitlam](/northamerica/canada/britishcolumbia/vancouver/coquitlam)

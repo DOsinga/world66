@@ -13,4 +13,4 @@ Sligo is a market town of about 20,000 people in the northwest of Ireland, set b
 
 The town is closely associated with W.B. Yeats, who spent much of his childhood here and drew on the landscape of Sligo Bay, Lough Gill, and the surrounding hills throughout his poetry. The Yeats Memorial Building and several sites connected to the poet are scattered around town. Yeats is buried in nearby Drumcliff churchyard, beneath Ben Bulben.
 
-Sligo's tightly packed streets are pleasant for wandering. The pubs have good traditional music, the farmers' market on Saturday mornings is lively, and the coast at [Rosses Point](/europe/ireland/sligo/rossespoint) and Strandhill — both within a short drive — offers beaches, surfing, and views across Sligo Bay to the Ox Mountains.
+Sligo's tightly packed streets are pleasant for wandering. The pubs have good traditional music, the farmers' market on Saturday mornings is lively, and the coast at [Rosses Point](/europe/ireland/rossespoint) and Strandhill — both within a short drive — offers beaches, surfing, and views across Sligo Bay to the Ox Mountains.

@@ -1,5 +1,4 @@
 ---
-booking_url: https://www.gaps-house.com
 duration: 4–5 hours
 latitude: 18.782
 longitude: 98.992

@@ -1,5 +1,4 @@
 ---
-booking_url: https://www.zabb-e-lee.com
 duration: 4 hours
 latitude: 18.793
 longitude: 98.985

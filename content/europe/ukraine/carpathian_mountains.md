@@ -1,12 +1,15 @@
 ---
-title: Carpathian Mountains
-type: location
-latitude: 48.25
-longitude: 24.5
 done:
   location_cleanup: 2026-04-06
-score: 0.53
+image: carpathian_mountains.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Morskie_Oko_in_2020.jpg
+latitude: 48.25
 loc_type: region
+longitude: 24.5
+score: 0.53
+title: Carpathian Mountains
+type: location
 ---
 
 The Ukrainian Carpathians form the easternmost arc of the Carpathian mountain range, running through the western oblasts of Lviv, Ivano-Frankivsk, Zakarpattia, and Chernivtsi. They are lower and gentler than the Alps — the highest peak, Mount Hoverla, reaches only 2,061 metres — but they are beautifully forested, sparsely populated, and refreshingly untouched by mass tourism.

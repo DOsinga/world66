@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: caloundra.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Kings_Beach,_Caloundra_(1)_(cropped).jpg
 latitude: -26.798163
+loc_type: city
 longitude: 153.135443
+score: 0.52
 title: Caloundra
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Caloundra sits at the southern end of Queensland's Sunshine Coast, where the Pumicestone Passage separates the mainland from Bribie Island. It is a relaxed seaside town with a string of beaches — from the calm swimming waters of Bulcock Beach in the town centre to the surf breaks at Kings Beach, Dicky Beach, and Moffat Beach further north.

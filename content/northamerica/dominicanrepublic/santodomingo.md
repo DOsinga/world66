@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: santodomingo.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:SantoDomingoedit.JPG
 latitude: 18.4861
+loc_type: city
 longitude: -69.9312
+score: 0.53
 title: Santo Domingo
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Santo Domingo is the oldest European-founded city in the Americas, and it wears its history proudly. The Zona Colonial — the historic heart — is packed with firsts: the oldest street in the New World (Calle de las Damas), the oldest cathedral (Santa Maria la Menor), the oldest chapel. Add to that a large number of buildings that may not hold records but are still impressively old, and you have a compelling reason to leave the beach for a day.

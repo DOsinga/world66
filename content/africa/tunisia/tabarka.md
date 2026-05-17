@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: tabarka.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ile_de_tabarka_1.jpg
 lat: 36.9546
+loc_type: city
 long: 8.7574
+score: 0.53
 title: Tabarka
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Tabarka sits in the far northwest of Tunisia, squeezed between the forested Kroumirie mountains and the Mediterranean. The setting is genuinely pretty, and the town has grown into a low-key resort without losing too much of its character.

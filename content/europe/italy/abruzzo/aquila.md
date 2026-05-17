@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: aquila.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:L%27Aquila_2011_by-RaBoe-197.jpg
 latitude: 42.34892
+loc_type: city
 longitude: 13.397967
+score: 0.53
 title: L’Aquila
 type: location
-score: 0.53
-loc_type: city
 ---
 
 L’Aquila sits in a broad valley at 700 metres altitude, ringed by the highest peaks of the Apennines. The city was founded in the 13th century, legend says by the inhabitants of 99 surrounding castles — hence the recurring motif of 99 that runs through the city: 99 churches, 99 piazzas, 99 fountains. The famous Fontana delle 99 Cannelle, near the old city walls, has 99 stone-carved faces each spouting water.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: sumatra.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mud_Cow_Racing_-_Pacu_Jawi_-_West_Sumatra,_Indonesia.jpg
 latitude: -0.143294
+loc_type: region
 longitude: 101.624102
 score: 0.53
 title: Sumatra
 type: location
-loc_type: region
 ---
 
 Sumatra is the westernmost of Indonesia's main islands, 1,800 km long and 400 km wide — the sixth-largest island in the world. Most of its interior is still mountainous rainforest, with active volcanoes along the Bukit Barisan spine and some of the last remaining habitat of the Sumatran tiger, rhinoceros, and orangutan. About 30% of the original primary forest survives; the rest has been converted to rubber, palm oil, and rice.

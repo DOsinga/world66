@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: varazze.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Varazze_1.jpg
 latitude: 44.3593
+loc_type: city
 longitude: 8.575327
+score: 0.53
 title: Varazze
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Varazze is a small Ligurian resort town on a broad bay between the headlands of Punta di Mola and Punta dell'Aspera. It has a decent beach, a busy tourist marina with moorings for some 300 boats, and a pleasant historic centre that climbs towards the hills. The Romans established a settlement here — called Ad Navalia for the ships built on this shore — and the shipbuilding tradition persisted into modern times. Behind the town, the slopes of the Beigua mountains are covered with mimosa and maritime pine, broken by cliffs that drop straight to the sea.

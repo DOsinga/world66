@@ -1,12 +1,15 @@
 ---
-title: Calabria
-type: location
-latitude: 39.056
-longitude: 16.5942
 done:
   location_cleanup: 2026-04-02
-score: 0.53
+image: calabria.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Calabria_in_Italy.svg
+latitude: 39.056
 loc_type: region
+longitude: 16.5942
+score: 0.53
+title: Calabria
+type: location
 ---
 
 Calabria is the toe of Italy's boot, a mountainous peninsula wedged between the Tyrrhenian and Ionian seas. It is one of Italy's poorest regions and one of its least-visited, which is exactly what makes it rewarding. The beaches are uncrowded, the food is fierce with chili, and the hilltop towns feel like they belong to another century.

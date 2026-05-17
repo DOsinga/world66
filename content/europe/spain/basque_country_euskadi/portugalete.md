@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: portugalete.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Portugalete_Vizcaya_Bridge_001.jpg
 latitude: 43.319
+loc_type: city
 longitude: -3.0199
+score: 0.53
 title: Portugalete
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Portugalete is a small town on the left bank of the Nervión estuary, about 14 kilometres downstream from [Bilbao](/europe/spain/basque_country_euskadi/bilbao). Its star attraction is the Vizcaya Bridge (Puente Colgante), the world's oldest transporter bridge, built in 1893 and now a UNESCO World Heritage Site. The bridge carries a gondola platform across the river to Getxo, suspended from a high iron framework — you can ride the gondola across for a couple of euros, or pay a bit more to walk across the upper walkway for panoramic views of the estuary and the Cantabrian coast.

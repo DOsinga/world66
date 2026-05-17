@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-16'
+image: karakorum.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_05.jpg
 latitude: 47.203657
 loc_type: city
 longitude: 102.843645

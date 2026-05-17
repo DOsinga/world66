@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: saariselk.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kaunisp%C3%A4%C3%A4.jpg
 latitude: 68.421398
+loc_type: city
 longitude: 27.417764
+score: 0.53
 title: Saariselkä
 type: location
-score: 0.53
-loc_type: city
 ---
 
 **Saariselka** is a small fell village in Finnish Lapland, well above the Arctic Circle. It is the main gateway to the Urho Kekkonen National Park, one of Finland's largest wilderness areas — a vast expanse of fells, forests, and rivers stretching all the way to the Russian border.

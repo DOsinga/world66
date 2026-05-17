@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: panama_city_beach.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Panama_City_Beach,_Florida_(J.S._Clark).jpg
 latitude: 30.176591
+loc_type: city
 longitude: -85.805386
+score: 0.52
 title: Panama City Beach
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Panama City Beach sits on Florida's northwest Panhandle, where the Gulf of Mexico meets St. Andrews Bay. The beaches here are genuinely beautiful -- wide stretches of white quartz sand and clear emerald water that look more like the Caribbean than the typical American South. It is a drive-to destination, drawing families from across the southeastern United States and snowbirds from the north.

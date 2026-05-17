@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: pinardelrio.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Pinar_Collage.jpg
 latitude: 22.4167
+loc_type: city
 longitude: -83.6956
+score: 0.53
 title: Pinar del Río
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Pinar del Río sits about 200 kilometres west of Havana, and most visitors treat it as a base rather than a destination in itself. The city is pleasant enough — colonial architecture lines the main boulevard, and it has a low-key charm — but it can't compete with swinging Havana for atmosphere. What it does offer is access to some of Cuba's most spectacular countryside.

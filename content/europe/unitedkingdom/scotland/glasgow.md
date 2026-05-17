@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: glasgow.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_14.jpg
 latitude: 55.861155
+loc_type: region
 longitude: -4.250169
 score: 0.53
 title: Glasgow
 type: location
-loc_type: region
 ---
 
 Glasgow is one of the large cities of Britain, the third most visited city after London and Edinburgh (by tourists) and probably the friendliest city in the UK, thanks mainly to the warmth, vibrancy and energy of its inhabitants. Once "The second biggest city of the British Empire" and in the forefront of the industrial revolution, the city has undergone a transformation and rejuvenation bringing it into the 21st century, while still maintaining its history. It was the European City of Culture in 1991. Glasgow's carefully preserved Victorian architecture is the largest collection of its kind in the UK and is among the finest you will ever see and has earned the city the honour through 1999 as being the UK City of Architecture and Design. You will find yourself looking upwards and admiring the architecture in the first couple of days of your visit to Glasgow.

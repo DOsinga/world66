@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+image: beirut.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Beirut_close_to_plane_descent.jpg
 latitude: 33.889226
+loc_type: city
 longitude: 35.502558
 score: 0.53
 title: Beirut
 type: location
-loc_type: city
 ---
 
 Beirut is a city that refuses to stay down. Built on a rocky promontory at the centre of Lebanon's coast, it has been destroyed and rebuilt so many times that resilience is practically its defining characteristic. The civil war (1975-1990) leveled much of the city centre. Reconstruction was well underway when the catastrophic port explosion of August 2020 devastated entire neighbourhoods. Economic collapse, political crisis and the 2024 conflict have all taken their toll. And yet Beirut remains vibrant, compelling and alive in a way few cities can match.

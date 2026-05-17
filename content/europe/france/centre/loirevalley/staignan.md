@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: staignan.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Chartres_Saint-Aignan_Xy5.JPG
 latitude: 47.2667
+loc_type: city
 longitude: 1.3667
+score: 0.53
 title: St. Aignan
 type: location
-score: 0.53
-loc_type: city
 ---
 
 St. Aignan is a small town in the Loir-et-Cher department, sitting on the south bank of the Cher river in the heart of the Loire Valley. The old town climbs the hill above the river in a series of narrow lanes lined with Renaissance and medieval houses, giving it a more authentic feel than the larger chateau towns nearby.

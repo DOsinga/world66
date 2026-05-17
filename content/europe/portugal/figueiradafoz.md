@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: figueiradafoz.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Figueira_da_Foz_-_Portugal_(12303340164)_(cropped).jpg
 latitude: 40.148581
+loc_type: city
 longitude: -8.855655
+score: 0.53
 title: Figueira da Foz
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Figueira da Foz sits where the Mondego River meets the Atlantic, a Portuguese beach town with one of the widest sand beaches in Europe. The beach stretches for kilometres, backed by a promenade, a casino, and the kind of mid-century resort architecture that gives the town a pleasantly old-fashioned air.

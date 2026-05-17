@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: manizales.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Manizales_Montage_L.jpg
 latitude: 5.0742
+loc_type: city
 longitude: -75.5081
 score: 0.54
 title: Manizales
 type: location
-loc_type: city
 ---
 
 Manizales sits high in the Colombian Andes, spread across a narrow ridge in the Cordillera Central with the snow-capped Nevado del Ruiz volcano looming to the south. At around 2,150 metres, the air is cool and the views are dramatic — this is coffee country at its most vertical.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: dendara.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Denderah_Outside.JPG
 latitude: 26.1451
+loc_type: city
 longitude: 32.6717
+score: 0.53
 title: Dendara
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Dendara (Dendera) is home to one of the best-preserved temples in all of Egypt. The Temple of Hathor, built largely by the Ptolemies and finished during the early Roman period, stands virtually intact — a rarity in a country where most ancient buildings survive only as ruins. It sits about 60 km north of Luxor, near the town of Qena, and makes an easy day trip.

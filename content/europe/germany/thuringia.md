@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: thuringia.jpg
-image_license: FAL
-image_source: https://commons.wikimedia.org/wiki/File:Thuringia_Suhl_asv2020-07_img06_Cross_Church.jpg
 latitude: 50.901472
 loc_type: region
 longitude: 11.037784

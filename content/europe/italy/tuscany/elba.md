@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: elba.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Elba_2.jpg
 latitude: 42.790238
 loc_type: region
 longitude: 10.340224

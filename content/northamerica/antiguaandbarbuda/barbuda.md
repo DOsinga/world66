@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: barbuda.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:New_Barbuda_Airport_in_July_2023.jpg
 latitude: 17.6266
 loc_type: city
 longitude: -61.7713

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: chianciano_terme.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Panorama_Chianciano_Terme.jpg
 latitude: 43.058255
 loc_type: city
 longitude: 11.828429

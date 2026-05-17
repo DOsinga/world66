@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: aluasi__railway_t.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Alausi.jpg
 latitude: -2.2005
 loc_type: city
 longitude: -78.8469

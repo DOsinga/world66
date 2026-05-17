@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: baltistan.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Kashmir_Region_November_2019.jpg
 latitude: 35.5
 loc_type: city
 longitude: 75.6

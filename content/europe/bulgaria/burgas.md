@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: burgas.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Burgas-Collage_D.jpg
 latitude: 42.493662
 loc_type: city
 longitude: 27.472128

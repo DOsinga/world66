@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: grandcayman.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Grand_cayman.jpg
 latitude: 19.3133
 loc_type: region
 longitude: -81.2546

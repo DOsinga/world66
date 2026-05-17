@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: grandturk.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Grand_Turk_from_the_air.jpg
 latitude: 21.4655
 loc_type: region
 longitude: -71.139

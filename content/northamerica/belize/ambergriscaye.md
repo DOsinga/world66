@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: ambergriscaye.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Ambergris_Caye_from_space.jpg
 latitude: 17.9248
 loc_type: city
 longitude: -87.9714

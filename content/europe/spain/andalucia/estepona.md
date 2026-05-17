@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: estepona.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Estepona_aerial.jpg
 latitude: 36.426807
 loc_type: city
 longitude: -5.146848

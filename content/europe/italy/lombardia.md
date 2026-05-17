@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
-image: lombardia.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Lombardy_in_Italy.svg
 latitude: 45.4654
 loc_type: region
 longitude: 9.1859

@@ -2,9 +2,6 @@
 done:
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
-image: kuching.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Kuching_Skyline.jpg
 latitude: 1.5598
 loc_type: city
 longitude: 110.3453

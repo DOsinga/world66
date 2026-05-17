@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: piemonte.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Piedmont_in_Italy.svg
 latitude: 45.0522
 loc_type: region
 longitude: 7.5155

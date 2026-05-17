@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: manisleof.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Isle_of_Man_by_Sentinel-2.jpg
 latitude: 54.2361
 loc_type: region
 longitude: -4.5481

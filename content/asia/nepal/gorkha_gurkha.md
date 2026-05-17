@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: gorkha_gurkha.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Nepali_soldiers_Le_Bon_1885.jpg
 latitude: 28.0
 loc_type: city
 longitude: 84.6333

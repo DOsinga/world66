@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: phonesavanh.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:4.1.75.PhonAnsicht.jpg
 latitude: 19.449774
 loc_type: city
 longitude: 103.183655

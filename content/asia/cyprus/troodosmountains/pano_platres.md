@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: pano_platres.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Platres_village_(Cyprus).JPG
 latitude: 34.888621
 loc_type: city
 longitude: 32.864864

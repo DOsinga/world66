@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: gyor.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Gy%C5%91r_montage1.jpg
 latitude: 47.6835
 loc_type: city
 longitude: 17.6343

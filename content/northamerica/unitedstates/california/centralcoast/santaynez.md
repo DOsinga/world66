@@ -1,7 +1,4 @@
 ---
-image: santaynez.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Santa_Ynez.jpg
 latitude: 34.616114
 loc_type: city
 longitude: -120.093375

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: murnau_am_staffelsee.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Murnau2007.jpg
 latitude: 47.6779
 loc_type: city
 longitude: 11.2012

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: lanzarote.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Lanzarote%27s_Lunar-Like_Landscape.jpg
 latitude: 29.0397
 loc_type: region
 longitude: -13.6363

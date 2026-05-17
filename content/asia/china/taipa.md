@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: taipa.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Taipa_Building_-_panoramio.jpg
 latitude: 22.152726
 loc_type: city
 longitude: 113.558394

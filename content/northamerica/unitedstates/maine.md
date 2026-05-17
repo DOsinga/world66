@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-02
-image: maine.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:2021-07-20_02_Maine_Marine_Patrol_Boat_at_Winter_Harbor_ME_USA.jpg
 latitude: 45.2538
 loc_type: region
 longitude: -69.4455

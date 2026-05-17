@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: basseterre.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Monts_Cara%C3%AFbes_depuis_le_Fort_Louis_Delgr%C3%A8s_%C3%A0_Basse-Terre.jpg
 latitude: 16.0078
 loc_type: city
 longitude: -61.7068

@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-21'
-image: liege.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Liege_View_03.jpg
 latitude: 50.470813
 loc_type: city
 longitude: 5.773566

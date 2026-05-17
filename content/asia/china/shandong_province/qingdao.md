@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
-image: qingdao.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Qingdao_Harbour_51341-Qingdao_(49055637186).jpg
 latitude: 36.066325
 loc_type: city
 longitude: 120.377766

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: cagliari.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Cagliari_collage.png
 latitude: 39.217199
 loc_type: city
 longitude: 9.113311

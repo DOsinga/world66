@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: patagonia.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Pat_map.PNG
 latitude: -46.0
 loc_type: region
 longitude: -69.0

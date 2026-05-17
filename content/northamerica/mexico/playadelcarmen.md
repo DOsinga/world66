@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
   poi_cleanup: '2026-04-21'
-image: playadelcarmen.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:PlayadelCarmen3.png
 latitude: 20.6461
 loc_type: city
 longitude: -87.0806

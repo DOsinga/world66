@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: shetland.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Adelie_penguins_in_the_South_Shetland_Islands.jpg
 latitude: 60.333333
 loc_type: region
 longitude: -1.333333

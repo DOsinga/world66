@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: hallingdal.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Joachim_Frich_Fra_Hallingdal.jpg
 latitude: 60.660362
 loc_type: region
 longitude: 8.59

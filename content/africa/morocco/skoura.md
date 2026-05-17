@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: skoura.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Morocco,_Souss-Massa-Draa_Region,_Ouarzazate_Province,_Skoura_(9).JPG
 latitude: 31.060412
 loc_type: city
 longitude: -6.55755

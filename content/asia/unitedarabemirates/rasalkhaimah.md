@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: rasalkhaimah.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Hilton_Ras_Al_Khaimah_Beach_Resort.png
 latitude: 25.7895
 loc_type: city
 longitude: 55.9432

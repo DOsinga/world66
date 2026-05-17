@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: bonito.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Sarda_sarda.jpg
 latitude: -21.1267
 loc_type: city
 longitude: -56.4836

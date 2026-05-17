@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: narooma.jpg
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:NaroomaBridgePrincesHighway.jpg
 latitude: -36.219015
 loc_type: city
 longitude: 150.131724

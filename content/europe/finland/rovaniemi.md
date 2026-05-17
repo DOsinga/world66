@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
-image: rovaniemi.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Rovaniemi_Montage.jpg
 latitude: 66.502554
 loc_type: city
 longitude: 25.730391

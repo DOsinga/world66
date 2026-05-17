@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: grandbaie.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Grand_Baie,_La_Croisette.jpg
 latitude: -20.01302
 loc_type: city
 longitude: 57.584627

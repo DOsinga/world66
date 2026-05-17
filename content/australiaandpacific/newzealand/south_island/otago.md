@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: otago.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Otago_Region_location_in_New_Zealand.svg
 latitude: -45.3975
 loc_type: region
 longitude: 170.1779

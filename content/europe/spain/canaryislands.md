@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: canaryislands.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Senecio_leucanthemifolius_on_the_beach_close_to_%C3%93rzola_on_Lanzarote,_June_2013_(4).jpg
 latitude: 28.293578
 loc_type: region
 longitude: -16.621447

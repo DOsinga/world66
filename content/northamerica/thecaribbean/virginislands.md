@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: virginislands.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Patch_of_the_United_States_Virgin_Islands_Police_Department.png
 latitude: 18.3358
 loc_type: region
 longitude: -64.8963

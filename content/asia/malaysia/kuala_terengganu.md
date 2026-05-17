@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: kuala_terengganu.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Kuala_Terengganu_skyline.jpg
 latitude: 5.3296
 loc_type: city
 longitude: 103.1383

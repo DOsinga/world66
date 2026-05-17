@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: okinawaisland.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Okinawa_Island-ISS042.jpg
 latitude: 26.474895
 loc_type: region
 longitude: 127.911469

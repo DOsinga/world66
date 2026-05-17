@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
-image: bilbao.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Collage_de_Bilbao,_Pa%C3%ADs_Vasco,_Espa%C3%B1a.png
 latitude: 43.263
 loc_type: city
 longitude: -2.935

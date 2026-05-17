@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: rhodes.jpg
-image_license: Attribution
-image_source: https://commons.wikimedia.org/wiki/File:Rhodes_sentinel2_(cropped).jpg
 latitude: 36.4341
 loc_type: region
 longitude: 28.2176

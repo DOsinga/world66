@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: navarre.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Bandera_de_Navarra.svg
 latitude: 42.702794
 loc_type: region
 longitude: -1.708623

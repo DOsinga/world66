@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: esztergom.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:EsztergomMontage2.JPG
 latitude: 47.7857
 loc_type: city
 longitude: 18.7403

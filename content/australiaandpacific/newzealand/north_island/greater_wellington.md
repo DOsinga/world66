@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
-image: greater_wellington.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Wellington_Region_location_in_New_Zealand.svg
 latitude: -41.223547
 loc_type: region
 longitude: 175.415758

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: ourika.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Ourika_Duras.jpg
 latitude: 31.378
 loc_type: city
 longitude: -7.8048

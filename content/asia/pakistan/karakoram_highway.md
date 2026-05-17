@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: karakoram_highway.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:KKH.png
 latitude: 36.448842
 loc_type: region
 longitude: 74.893065

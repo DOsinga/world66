@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: lemans.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Montage_du_Mans.jpg
 latitude: 48.007385
 loc_type: city
 longitude: 0.196785

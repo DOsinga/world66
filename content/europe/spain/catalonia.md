@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: catalonia.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:NASA_Satellite_Catalonia.jpg
 latitude: 41.5912
 loc_type: region
 longitude: 1.5209

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: socotra.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Socotra_satview.jpg
 latitude: 12.5
 loc_type: city
 longitude: 53.833333

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: aragon.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Metro_Aragon_01.jpg
 latitude: 41.378729
 loc_type: region
 longitude: -0.763937

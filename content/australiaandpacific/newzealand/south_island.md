@@ -1,8 +1,5 @@
 ---
-image: south_island.jpg
 image_attribution: ravas51
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:South_Island_satelite_photo.jpg
 latitude: -43.586562
 loc_type: region
 longitude: 171.212329

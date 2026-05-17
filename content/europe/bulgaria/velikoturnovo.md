@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: velikoturnovo.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Collage_of_views_of_VT_G.png
 latitude: 43.082058
 loc_type: city
 longitude: 25.632131

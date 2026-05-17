@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: vagar.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Position_of_V%C3%A1gar_on_Faroe_map.png
 latitude: 62.089898
 loc_type: region
 longitude: -7.234584

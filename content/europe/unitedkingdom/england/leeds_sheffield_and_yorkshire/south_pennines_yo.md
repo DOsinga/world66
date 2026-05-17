@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: south_pennines_yo.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Spennines.jpg
 latitude: 53.7
 loc_type: city
 longitude: -2.0

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: vilanculos.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Vilanculos_from_the_air3.jpg
 latitude: -21.998996
 loc_type: city
 longitude: 35.320475

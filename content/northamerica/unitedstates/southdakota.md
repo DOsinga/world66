@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: southdakota.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Dry_and_parched_earth_in_the_badlands_of_South_Dakota,_8b27697a.jpg
 latitude: 44.647176
 loc_type: region
 longitude: -100.348761

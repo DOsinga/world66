@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 40.054989
+loc_type: region
 longitude: 26.927829
+score: 0.56
 title: Canakkale
 type: location
-score: 0.56
-loc_type: city
 image: canakkale.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg

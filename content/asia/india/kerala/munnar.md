@@ -1,7 +1,4 @@
 ---
-image: munnar.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Munnar_Overview.jpg
 latitude: 10.086996
 loc_type: city
 longitude: 77.060091

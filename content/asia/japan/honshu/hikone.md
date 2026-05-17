@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-08
-image: hikone.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:View_of_hikone-jo_from_sawayama-jo_ruins.JPG
 latitude: 35.271701
 loc_type: city
 longitude: 136.263448

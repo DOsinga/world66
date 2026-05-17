@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: franchecomte.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:2023-08_-_H%C3%B4pital_Nord-Franche-Comt%C3%A9_-_Tr%C3%A9venans_-_115.jpg
 latitude: 47.142585
 loc_type: region
 longitude: 6.132022

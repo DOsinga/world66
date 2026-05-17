@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: taranaki.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Taranaki_Region_location_in_New_Zealand.svg
 latitude: -39.3848
 loc_type: region
 longitude: 174.1974

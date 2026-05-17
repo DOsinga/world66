@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: stellenbosch.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Stellenbosch_aerial_photo_from_north-west_2024-01.jpg
 latitude: -33.934444
 loc_type: city
 longitude: 18.869167

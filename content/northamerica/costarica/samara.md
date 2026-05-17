@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: samara.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0.jpg
 latitude: 9.8839
 loc_type: city
 longitude: -85.5296

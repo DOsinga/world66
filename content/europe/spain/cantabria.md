@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: cantabria.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Cantabria.JPG
 latitude: 43.159566
 loc_type: region
 longitude: -4.087838

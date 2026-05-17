@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: martigny.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Martigny_-_2022.jpg
 latitude: 46.1031
 loc_type: city
 longitude: 7.0727

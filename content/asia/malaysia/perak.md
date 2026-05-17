@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: perak.jpg
-image_license: CC BY-SA 3.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Silver_crystal.jpg
 latitude: 4.812181
 loc_type: city
 longitude: 100.979791

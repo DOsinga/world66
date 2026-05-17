@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-20'
-image: kavala.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Kavala_(2).JPG
 latitude: 40.9369
 loc_type: city
 longitude: 24.4123

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: llanberis.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Llanberis_from_above.JPG
 latitude: 53.121276
 loc_type: city
 longitude: -4.127748

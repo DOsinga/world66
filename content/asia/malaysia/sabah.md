@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: sabah.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Saliwangan_Sabah_Diesel-lokomotive-6105-01.jpg
 latitude: 5.425736
 loc_type: region
 longitude: 117.032639

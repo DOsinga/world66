@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: yonaguniisland.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Map-yonaguni.png
 latitude: 24.455595
 loc_type: city
 longitude: 122.987606

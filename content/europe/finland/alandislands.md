@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: alandislands.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Aaland_Archipelago,_Finland_(ASTER).jpg
 latitude: 60.216622
 loc_type: region
 longitude: 19.943864

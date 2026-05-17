@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
-image: spa.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Medicinal_spa_of_Hark%C3%A1ny.jpg
 latitude: 50.4921
 loc_type: city
 longitude: 5.8628

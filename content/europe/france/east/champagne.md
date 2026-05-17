@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: champagne.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Glass_of_champagne.jpg
 latitude: 49.0
 loc_type: region
 longitude: 4.0

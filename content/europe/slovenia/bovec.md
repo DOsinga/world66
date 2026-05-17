@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: bovec.jpg
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:Bovec_aerial_view.jpg
 latitude: 46.3386
 loc_type: city
 longitude: 13.5524

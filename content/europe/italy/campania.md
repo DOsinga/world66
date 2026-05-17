@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: campania.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Campania_in_Italy.svg
 latitude: 40.839565
 loc_type: region
 longitude: 14.252243

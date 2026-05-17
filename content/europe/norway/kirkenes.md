@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-20'
-image: kirkenes.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Kirkenes_2013_06_10_2082_(10412267505).jpg
 latitude: 69.727148
 loc_type: city
 longitude: 30.044897

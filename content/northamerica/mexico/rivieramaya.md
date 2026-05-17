@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: rivieramaya.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:RivieraMayaMap.svg
 latitude: 20.621933
 loc_type: region
 longitude: -87.075707

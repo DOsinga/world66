@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: taketomiisland.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Yaeyama_map.png
 latitude: 24.3263
 loc_type: city
 longitude: 124.089

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: sassari.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Sassari_collage_nuovo.png
 latitude: 40.723475
 loc_type: city
 longitude: 8.561267

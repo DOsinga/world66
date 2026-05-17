@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: lonavala.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Mumbai_Pune_Expressway2.jpg
 latitude: 18.750369
 loc_type: city
 longitude: 73.406944

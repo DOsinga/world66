@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: frisianislands.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Waddeneilanden.PNG
 latitude: 53.712386
 loc_type: region
 longitude: 7.23402

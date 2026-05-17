@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: kristiansund.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Storkaia_i_Kristiansund.jpg
 latitude: 63.1109
 loc_type: city
 longitude: 7.7281

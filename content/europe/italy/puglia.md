@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: puglia.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Apulia_in_Italy.svg
 latitude: 40.984254
 loc_type: region
 longitude: 16.621003

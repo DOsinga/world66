@@ -4,9 +4,6 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-20'
-image: tampere.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Tampere.lippu.svg
 latitude: 61.497793
 loc_type: city
 longitude: 23.761637

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: antiparos.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Antiparos-collage-b.jpg
 latitude: 36.994353
 loc_type: city
 longitude: 25.048208

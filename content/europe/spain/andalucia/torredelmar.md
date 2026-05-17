@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
-image: torredelmar.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Torre_del_Mar_2009-08-14c.jpg
 latitude: 36.7414
 loc_type: city
 longitude: -4.0946

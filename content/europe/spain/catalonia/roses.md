@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: roses.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Rosa_rubiginosa_1.jpg
 latitude: 42.263202
 loc_type: city
 longitude: 3.175533

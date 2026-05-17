@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: romanticroad.jpg
-image_license: CC BY-SA 3.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Karte_Romantische_Stra%C3%9Fe_2016.png
 latitude: 49.167757
 loc_type: region
 longitude: 10.331195

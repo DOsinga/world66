@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: basqueregion.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Mapa_provincias_Euskal_Herria.svg
 latitude: 43.3776
 loc_type: region
 longitude: -1.7388

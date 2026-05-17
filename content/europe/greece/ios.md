@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: ios.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Ios_collage.png
 latitude: 36.717324
 loc_type: city
 longitude: 25.333112

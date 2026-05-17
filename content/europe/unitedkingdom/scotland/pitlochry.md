@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: pitlochry.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Pitlochry_Town_Hall_(geograph_6571567).jpg
 latitude: 56.701969
 loc_type: city
 longitude: -3.730685

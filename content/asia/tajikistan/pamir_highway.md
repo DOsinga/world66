@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: pamir_highway.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Pamir_Highway_Route.jpg
 latitude: 37.490482
 loc_type: region
 longitude: 71.530706

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: lazio.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Lazio_in_Italy.svg
 latitude: 41.980165
 loc_type: region
 longitude: 12.766797

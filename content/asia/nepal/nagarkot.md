@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: nagarkot.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:2015-03-18_Nagarkot_Hotel_Galaxy_DSCF2094.jpg
 latitude: 27.718508
 loc_type: city
 longitude: 85.51973

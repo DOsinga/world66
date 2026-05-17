@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: crete.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Island_of_Crete,_Greece.JPG
 latitude: 35.308495
 loc_type: region
 longitude: 24.463342

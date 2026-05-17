@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-15'
-image: windward.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Upwind_downwind_example.png
 latitude: 12.4878
 loc_type: city
 longitude: -61.4417

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: chalong.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Tambon_830106.png
 latitude: 7.84652
 loc_type: city
 longitude: 98.334415

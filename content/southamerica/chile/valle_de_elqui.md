@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: valle_de_elqui.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Rio-elqui.png
 latitude: -30.13
 loc_type: region
 longitude: -70.5

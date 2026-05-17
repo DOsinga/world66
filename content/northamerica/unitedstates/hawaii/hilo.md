@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: hilo.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Hawaii_County_Hawaii_Incorporated_and_Unincorporated_areas_Hilo_Highlighted.svg
 latitude: 19.7197
 loc_type: city
 longitude: -155.0885

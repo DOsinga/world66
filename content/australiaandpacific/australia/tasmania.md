@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: tasmania.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Tasmania_2.jpg
 latitude: -42.035067
 loc_type: region
 longitude: 146.636689

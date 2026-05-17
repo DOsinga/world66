@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: dorg.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Citt%C3%A0_di_Dorgali.jpg
 latitude: 40.290551
 loc_type: city
 longitude: 9.585857

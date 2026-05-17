@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: volterra.jpg
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Volterra_from_above._June_2024.jpg
 latitude: 43.4003
 loc_type: city
 longitude: 10.86

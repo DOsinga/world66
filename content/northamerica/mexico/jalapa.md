@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: jalapa.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Xalapa_montage.jpg
 latitude: 19.5438
 loc_type: city
 longitude: -96.9102

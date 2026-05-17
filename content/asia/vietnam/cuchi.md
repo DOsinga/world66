@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: cuchi.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:%E1%BA%A4p_Ch%E1%BB%A3,_T%C3%A2n_Ph%C3%BA_Trung,_C%E1%BB%A7_Chi,_TPHCM,_Vietnam_-_panoramio.jpg
 latitude: 10.974416
 loc_type: city
 longitude: 106.494897

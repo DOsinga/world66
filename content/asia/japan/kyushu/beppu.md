@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-image: beppu.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Beppu_Montage_2.jpg
 latitude: 33.284575
 loc_type: city
 longitude: 131.491306

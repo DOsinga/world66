@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: tampabayarea.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Landsat_8_Natural_Color_Composite_of_Tampa_Bay.jpg
 latitude: 27.897992
 loc_type: region
 longitude: -82.519064

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: saariselk.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Kaunisp%C3%A4%C3%A4.jpg
 latitude: 68.421398
 loc_type: city
 longitude: 27.417764

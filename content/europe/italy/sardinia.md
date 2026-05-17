@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: sardinia.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Sardinia_in_Italy.svg
 latitude: 40.091281
 loc_type: region
 longitude: 9.030577

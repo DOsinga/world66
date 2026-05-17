@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: auckland_region.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Auckland_Region_location_in_New_Zealand.svg
 latitude: -36.8667
 loc_type: region
 longitude: 174.7624

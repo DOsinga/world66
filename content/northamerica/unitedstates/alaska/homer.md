@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: homer.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Homer_British_Museum.jpg
 latitude: 59.6454
 loc_type: city
 longitude: -151.5446

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: krkisland.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Bascanska_draga_07.jpg
 latitude: 45.090196
 loc_type: region
 longitude: 14.549668

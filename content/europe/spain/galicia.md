@@ -2,9 +2,6 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
-image: galicia.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Galicia_in_Spain_(including_Canarias).svg
 latitude: 42.5751
 loc_type: region
 longitude: -8.1339

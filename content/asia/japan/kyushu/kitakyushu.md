@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 33.883
+loc_type: region
 longitude: 130.8749
+score: 0.55
 title: Kitakyushu
 type: location
-score: 0.55
-loc_type: city
 image: kitakyushu.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kitakyushu_Montage.jpg

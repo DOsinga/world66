@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: tombstone.jpg
-image_license: CC BY 2.5
-image_source: https://commons.wikimedia.org/wiki/File:Gravestone_of_Andrew_Drake.jpg
 latitude: 31.7129
 loc_type: city
 longitude: -110.0676

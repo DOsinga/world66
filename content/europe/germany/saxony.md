@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: saxony.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Water_mill_Rosenm%C3%BChle_in_Lower_Saxony,_Germany.jpg
 latitude: 50.9296
 loc_type: region
 longitude: 13.4585

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: b_a_n_s_k.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:SK_BS_Trinity_Square.PNG
 latitude: 48.458093
 loc_type: city
 longitude: 18.898841

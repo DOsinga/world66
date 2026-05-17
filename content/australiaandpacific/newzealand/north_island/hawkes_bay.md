@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: hawkes_bay.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Napier_and_bay.jpg
 latitude: -39.5
 loc_type: region
 longitude: 176.9

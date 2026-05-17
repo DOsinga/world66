@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: stjulian.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Malta-stjulians-hotels-207.jpg
 latitude: 35.919922
 loc_type: city
 longitude: 14.487712

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: vergina.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:DE_Verginas.svg
 latitude: 40.4871
 loc_type: city
 longitude: 22.3173

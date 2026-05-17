@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: baler.jpg
-image_license: CC BY 3.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Fendt_714_Vario_with_a_Claas-baler.jpg
 latitude: 15.759086
 loc_type: city
 longitude: 121.562725

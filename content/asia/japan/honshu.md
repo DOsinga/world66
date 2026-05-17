@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: honshu.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Satellite_image_of_Honshu_in_May_2003.png
 latitude: 36.2048
 loc_type: region
 longitude: 138.2529

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: southaustralia.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Satellite_image_of_Spencer_Gulf_and_Gulf_St_Vincent,_South_Australia_(NASA_image).png
 latitude: -30.534367
 loc_type: region
 longitude: 135.630121

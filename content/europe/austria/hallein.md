@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: hallein.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Hallein_vom_Barmstoa2.jpg
 latitude: 47.682152
 loc_type: city
 longitude: 13.095631

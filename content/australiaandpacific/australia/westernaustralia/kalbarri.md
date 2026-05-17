@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: kalbarri.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Kalbarri.jpg
 latitude: -27.710999
 loc_type: city
 longitude: 114.163816

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: east_frisian_islands.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Eastfrisianmap.png
 latitude: 53.712386
 loc_type: region
 longitude: 7.23402

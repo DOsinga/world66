@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: molokai.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Map_of_Hawaii_highlighting_Molokai.svg
 latitude: 21.1345
 loc_type: region
 longitude: -157.0072

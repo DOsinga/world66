@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: dordogne.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:P%C3%A9rigueux_pr%C3%A9fecture_(2).JPG
 latitude: 45.14292
 loc_type: region
 longitude: 0.632126

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: rugen.jpg
-image_license: CC BY-SA 2.0 de
-image_source: https://commons.wikimedia.org/wiki/File:Ruegen_-_Uebersichtskarte.png
 latitude: 54.452902
 loc_type: city
 longitude: 13.388234

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: moab.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Kingdoms_around_Israel_830_map.svg
 latitude: 38.5738
 loc_type: city
 longitude: -109.5462

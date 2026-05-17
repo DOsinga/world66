@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: swahilicoast.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Swahili_coast.png
 latitude: -6.8167
 loc_type: city
 longitude: 39.2833

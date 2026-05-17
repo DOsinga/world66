@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-04
-image: salou.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Monumento_a_Jaime_I_en_Salou.jpg
 latitude: 41.076819
 loc_type: city
 longitude: 1.144041

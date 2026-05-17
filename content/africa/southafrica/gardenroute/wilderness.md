@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: wilderness.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Rockymountainnps_(1).jpg
 latitude: -33.993238
 loc_type: city
 longitude: 22.578632

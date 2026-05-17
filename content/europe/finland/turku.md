@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: turku.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:View_from_Turku_Cathedral_tower.jpg
 latitude: 60.451594
 loc_type: city
 longitude: 22.266999

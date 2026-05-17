@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: theazores.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Banco_de_peces_trompeta_(Macroramphosus_scolopax),_islas_Azores,_Portugal,_2020-07-27,_DD_38.jpg
 latitude: 37.7463
 loc_type: region
 longitude: -25.6629

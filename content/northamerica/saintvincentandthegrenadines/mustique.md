@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: mustique.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:ISS-47_Mustique_Island,_Grenadines_(cropped).jpg
 latitude: 12.8667
 loc_type: city
 longitude: -61.1833

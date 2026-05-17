@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: salisbury.jpg
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:The_Wardrobe,_Salisbury.jpg
 latitude: 51.069061
 loc_type: city
 longitude: -1.795413

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: dhulikel.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_Great_Himalayan_Range_from_Dhulikhel,_Nepal_in_2025.jpg
 latitude: 27.6206
 loc_type: city
 longitude: 85.5561

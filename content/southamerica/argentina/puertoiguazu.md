@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: puertoiguazu.jpg
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_Puerto_Iguazu,_Misiones,_Argentina,_6th._Jan._2011_-_Flickr_-_PhillipC.jpg
 latitude: -25.610751
 loc_type: city
 longitude: -54.57642

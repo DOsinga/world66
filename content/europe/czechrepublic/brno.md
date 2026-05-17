@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: brno.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Brno_Montage_IV.png
 latitude: 49.192244
 loc_type: city
 longitude: 16.611338

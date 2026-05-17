@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: podstrana.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Podstrana_Split_20210710_090931.jpg
 latitude: 43.490312
 loc_type: city
 longitude: 16.561561

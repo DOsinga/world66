@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
-image: sinaidesert.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Sinai-peninsula-map.jpg
 latitude: 29.5
 loc_type: region
 longitude: 34.0

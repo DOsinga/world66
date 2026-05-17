@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: ravensburg.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Ravensburg_in_RV.svg
 latitude: 47.781101
 loc_type: city
 longitude: 9.612468

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: monserrat.jpg
-image_license: CC BY-SA 2.5
-image_source: https://commons.wikimedia.org/wiki/File:MontserratMonastery02.jpg
 latitude: 16.7425
 loc_type: city
 longitude: -62.1874

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: ryukyuislands.jpg
-image_license: Copyrighted free use
-image_source: https://commons.wikimedia.org/wiki/File:Location_of_the_Ryukyu_Islands.JPG
 latitude: 26.52
 loc_type: region
 longitude: 128.053

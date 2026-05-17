@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-image: vigo.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Pazo_Qui%C3%B1ones_de_Le%C3%B3n,_Castrelos_edited.jpg
 latitude: 42.2377
 loc_type: city
 longitude: -8.7247

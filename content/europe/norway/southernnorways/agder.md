@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: agder.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Norway_Counties_Agder_Position.svg
 latitude: 58.719442
 loc_type: region
 longitude: 8.034963

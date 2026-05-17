@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: northernspain.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Espa%C3%B1a_y_Portugal.jpg
 loc_type: region
 score: 0.59
 title: Northern Spain

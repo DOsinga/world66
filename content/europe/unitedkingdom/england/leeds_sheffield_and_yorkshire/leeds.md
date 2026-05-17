@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-21'
-image: leeds.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Leeds_CBD_at_night.jpg
 latitude: 53.7974
 loc_type: city
 longitude: -1.5438

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-05'
-image: grancanaria.jpg
-image_license: Attribution
-image_source: https://commons.wikimedia.org/wiki/File:Gran_Canaria_Sentinel-2.jpg
 latitude: 27.9202
 loc_type: region
 longitude: -15.5474

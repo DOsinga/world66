@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: acre.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Acre_superimposed_over_football_fields.svg
 latitude: 32.928173
 loc_type: city
 longitude: 35.075638

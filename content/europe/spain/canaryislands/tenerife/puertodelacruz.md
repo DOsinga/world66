@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: puertodelacruz.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Puerto_de_la_Cruz_Collage.jpg
 latitude: 28.4159
 loc_type: city
 longitude: -16.5533

@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
-image: innsbruck.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCrgerstra%C3%9Fe_26%2B24_(BT0A2830).jpg
 latitude: 47.2654
 loc_type: city
 longitude: 11.3928

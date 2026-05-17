@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: matheran.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Matheran_In_Clouds.jpg
 latitude: 18.9902
 loc_type: city
 longitude: 73.27

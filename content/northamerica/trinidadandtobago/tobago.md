@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
-image: tobago.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Td-map.png
 latitude: 11.25
 loc_type: city
 longitude: -60.6667

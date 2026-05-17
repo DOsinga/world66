@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: kyushu.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Terra_Kyushu_20091028.jpg
 latitude: 33.0
 loc_type: region
 longitude: 130.5

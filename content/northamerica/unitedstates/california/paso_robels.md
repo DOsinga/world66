@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: paso_robels.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Pasorobles2.JPG
 latitude: 35.6269
 loc_type: city
 longitude: -120.6908

@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: ambrym.jpg
-image_license: Attribution
-image_source: https://commons.wikimedia.org/wiki/File:Ambryn_sentinel-2.jpg
 latitude: -16.234795
 loc_type: city
 longitude: 168.065564

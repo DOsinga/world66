@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
-image: nakuru.jpg
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Golden_life_mall,_Nakuru.jpg
 latitude: -0.3031
 loc_type: city
 longitude: 36.08

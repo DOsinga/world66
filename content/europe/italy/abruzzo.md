@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-image: abruzzo.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Abruzzo_in_Italy.svg
 latitude: 42.227681
 loc_type: region
 longitude: 13.854983

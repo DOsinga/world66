@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: de_koog.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Dekoog.JPG
 latitude: 53.099882
 loc_type: city
 longitude: 4.762646

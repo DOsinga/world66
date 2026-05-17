@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-07
-image: lourdes.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Lourdes_city.jpg
 latitude: 43.0941
 loc_type: city
 longitude: -0.0465

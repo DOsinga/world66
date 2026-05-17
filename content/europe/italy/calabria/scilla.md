@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: scilla.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Scille_%C3%A0_deux_feuilles_(massif_des_Vosges).JPG
 latitude: 38.25067
 loc_type: city
 longitude: 15.718993

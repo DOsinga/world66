@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
-image: chattanooga.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Chattanooga,_Tennessee_(2023).jpg
 latitude: 35.0457
 loc_type: city
 longitude: -85.3095

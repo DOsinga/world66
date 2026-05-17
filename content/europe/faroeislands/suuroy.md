@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image: suuroy.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Position_of_Su%C3%B0uroy_on_Faroe_map.png
 latitude: 61.5211
 loc_type: region
 longitude: -6.8142

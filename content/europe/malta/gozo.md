@@ -3,9 +3,6 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
-image: gozo.jpg
-image_license: CC BY-SA 3.0 igo
-image_source: https://commons.wikimedia.org/wiki/File:Gozo_from_space_via_laser_ESA378503_(cropped).jpg
 latitude: 36.046778
 loc_type: city
 longitude: 14.258256

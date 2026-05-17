@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: hormuz_island.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Iran%27s_Rainbow_Island.jpeg
 latitude: 27.068024
 loc_type: city
 longitude: 56.46417

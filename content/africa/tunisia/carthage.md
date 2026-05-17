@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-image: carthage.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Montage_ville_de_Carthage.png
 latitude: 36.854808
 loc_type: city
 longitude: 10.330992

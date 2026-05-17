@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: vulcano.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Aeolian_Islands_map.png
 latitude: 38.4044
 loc_type: city
 longitude: 14.9618

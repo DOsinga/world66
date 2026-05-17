@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: san_vito_di_cadore.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:S._Vito_di_Cadore_PLM.JPG
 latitude: 46.4764
 loc_type: city
 longitude: 12.2079

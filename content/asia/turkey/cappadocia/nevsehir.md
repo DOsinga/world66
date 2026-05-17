@@ -1,9 +1,6 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-image: nevsehir.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg
 latitude: 38.623507
 loc_type: city
 longitude: 34.719417

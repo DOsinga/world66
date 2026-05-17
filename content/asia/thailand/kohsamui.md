@@ -2,9 +2,6 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-image: kohsamui.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Koh_Samui_Lipa_Noi2.jpg
 latitude: 9.512
 loc_type: region
 longitude: 100.0136

@@ -1,5 +1,4 @@
 ---
-category: Sight
 done:
   poi_cleanup: '2026-04-19'
 latitude: 52.2954
@@ -12,6 +11,9 @@ story: 'The St Matthew Passion performances here began in 1922 and have continue
   the performances regularly sell out months in advance.
 
   '
+tags:
+  - things_to_do
+  - sight
 title: Grote Kerk (St Vitus Church)
 type: poi
 ---

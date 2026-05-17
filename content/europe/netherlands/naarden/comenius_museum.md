@@ -1,5 +1,4 @@
 ---
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 52.2951
@@ -11,6 +10,9 @@ story: 'Jan Amos Comenius, the 17th-century Czech philosopher and educator, spen
   an unlikely pilgrimage site for educators from across the world.
 
   '
+tags:
+  - things_to_do
+  - museum
 title: Comenius Museum
 type: poi
 ---

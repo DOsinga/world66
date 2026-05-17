@@ -999,7 +999,7 @@
   ]
  },
  "chicago": {
-  "name": "Great Lakes & Midwest",
+  "name": "Midwest",
   "parent": "United States of America",
   "n_locs": 100,
   "is_split": true,
@@ -1335,7 +1335,7 @@
   ]
  },
  "niagara_falls": {
-  "name": "Great Lakes East",
+  "name": "Great Lakes",
   "parent": "United States of America",
   "n_locs": 61,
   "is_split": true,
@@ -9665,7 +9665,7 @@
   ]
  },
  "florence": {
-  "name": "Tuscany",
+  "name": "Florence & Chianti",
   "parent": "Italy",
   "n_locs": 32,
   "is_split": true,
@@ -10001,7 +10001,7 @@
   ]
  },
  "positano": {
-  "name": "Amalfi Coast",
+  "name": "Bay of Naples",
   "parent": "Italy",
   "n_locs": 7,
   "is_split": true,
@@ -10273,7 +10273,7 @@
   ]
  },
  "siena": {
-  "name": "Southern Tuscany",
+  "name": "Siena & Val d'Orcia",
   "parent": "Italy",
   "n_locs": 18,
   "is_split": true,
@@ -10457,7 +10457,7 @@
   ]
  },
  "ischia": {
-  "name": "Naples & Islands",
+  "name": "Ischia",
   "parent": "Italy",
   "n_locs": 7,
   "is_split": true,
@@ -10505,7 +10505,7 @@
   ]
  },
  "amalfi": {
-  "name": "Amalfi & Cilento",
+  "name": "Amalfi Coast",
   "parent": "Italy",
   "n_locs": 10,
   "is_split": true,
@@ -11377,7 +11377,7 @@
   ]
  },
  "rajasthan": {
-  "name": "Rajasthan & Agra",
+  "name": "Jaipur & Agra",
   "parent": "India",
   "n_locs": 31,
   "is_split": true,
@@ -11425,7 +11425,7 @@
   ]
  },
  "udaipur": {
-  "name": "Western Rajasthan",
+  "name": "Rajasthan",
   "parent": "India",
   "n_locs": 35,
   "is_split": true,
@@ -12223,7 +12223,7 @@
   ]
  },
  "santorini": {
-  "name": "Santorini & East Crete",
+  "name": "Santorini & Heraklion",
   "parent": "Greece",
   "n_locs": 6,
   "is_split": true,
@@ -12855,7 +12855,7 @@
   ]
  },
  "loire_valley": {
-  "name": "Loire Valley & Normandy",
+  "name": "Normandy & Brittany",
   "parent": "France",
   "n_locs": 35,
   "is_split": true,
@@ -13183,7 +13183,7 @@
   ]
  },
  "provence": {
-  "name": "Marseille & Provence",
+  "name": "Marseille & C\u00f4te Bleue",
   "parent": "France",
   "n_locs": 7,
   "is_split": true,

@@ -1,5 +1,0 @@
-europe/sweden/ume
-northamerica/unitedstates/massachusetts/cambridge
-europe/denmark/kolding
-europe/greece/antiparos
-southamerica/brazil/caxias_do_sul

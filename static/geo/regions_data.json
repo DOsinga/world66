@@ -2,7 +2,7 @@
  "zimbabwe": {
   "name": "Zimbabwe",
   "parent": "Zimbabwe",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -22,14 +22,6 @@
     "lon": 31.834654
    },
    {
-    "title": "Zimbabwe",
-    "snippet": "Zimbabwe is one of southern Africa's most rewarding destinations, a country of staggering natural beauty and deep cultural heritage that has endured decades of economic turmoil with remarkable resilience. From the thundering curtain of Victoria Falls to the ancient stone ruins...",
-    "path": "africa/zimbabwe",
-    "score": 0.45,
-    "lat": -18.455496,
-    "lon": 29.746841
-   },
-   {
     "title": "Harare",
     "snippet": "Harare is Zimbabwe\u2019s capital and largest city, set at about 1,500 metres on the central plateau. It has been through very difficult times \u2014 hyperinflation, political repression, economic collapse \u2014 and the city shows the scars. But it remains a surprisingly green and pleasant...",
     "path": "africa/zimbabwe/harare",
@@ -44,23 +36,23 @@
     "score": 0.38,
     "lat": -20.15606,
     "lon": 28.588706
+   },
+   {
+    "title": "Mutare",
+    "snippet": "Mutare is the largest town in Zimbabwe's Eastern Highlands, situated in a narrow valley near the Mozambique border with forested mountains rising on all sides. It is the commercial centre for the region and a practical base for exploring some of Zimbabwe's most spectacular hig...",
+    "path": "africa/zimbabwe/easternhighlands/mutare",
+    "score": 0.36,
+    "lat": -18.974656,
+    "lon": 32.670473
    }
   ]
  },
  "zambia": {
   "name": "Zambia",
   "parent": "Zambia",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Zambia",
-    "snippet": "Zambia is one of Africa's great safari destinations, yet it remains blissfully uncrowded compared to its neighbors. This is the country where the walking safari was invented, where Victoria Falls thunders on its southern border, and where vast national parks shelter some of th...",
-    "path": "africa/zambia",
-    "score": 0.48,
-    "lat": -13.1339,
-    "lon": 28.6316
-   },
    {
     "title": "Lusaka",
     "snippet": "Lusaka is the capital city of Zambia. It doesn't have the headline sights of some African capitals, but it's a sprawling, energetic place that rewards a few days of exploration -- and it's a practical base for sorting out documents and planning onward travel across the region.",
@@ -90,7 +82,7 @@
  "yemen": {
   "name": "Yemen",
   "parent": "Yemen",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -154,7 +146,7 @@
  "hoi_an": {
   "name": "Central & South",
   "parent": "Vietnam",
-  "n_locs": 20,
+  "n_locs": 19,
   "is_split": true,
   "top_locations": [
    {
@@ -174,14 +166,6 @@
     "lon": 106.1123
    },
    {
-    "title": "Vietnam",
-    "snippet": "**Vietnam** is located in South-East Asia. The name of the country has become almost a synonym of the Vietnam War. The history of the country goes back a lot further than 'the war that wasn't won', as the Americans euphemistically call it. Vietnam is actually a country with a...",
-    "path": "asia/vietnam",
-    "score": 0.69,
-    "lat": 15.926666,
-    "lon": 107.965086
-   },
-   {
     "title": "Hue",
     "snippet": "Hue was the imperial capital of Vietnam for nearly 150 years under the Nguyen Dynasty, and the city still carries that weight. The Perfume River bisects the city \u2014 the massive Citadel and Imperial Enclosure sit on the north bank, while the French colonial quarter, markets, and...",
     "path": "asia/vietnam/hue",
@@ -196,6 +180,14 @@
     "score": 0.65,
     "lat": 10.775525,
     "lon": 106.702105
+   },
+   {
+    "title": "Mekong delta",
+    "snippet": "The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River \u2014 known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons \u2014 originates high on the Tibetan plateau and flows through China, between Myanmar and Laos, along the Lao-Thai border, and thro...",
+    "path": "asia/vietnam/mekongdelta",
+    "score": 0.65,
+    "lat": 9.750896,
+    "lon": 105.22246
    }
   ]
  },
@@ -298,7 +290,7 @@
  "venezuela": {
   "name": "Venezuela",
   "parent": "Venezuela",
-  "n_locs": 25,
+  "n_locs": 24,
   "is_split": false,
   "top_locations": [
    {
@@ -353,7 +345,7 @@
  "vanuatu": {
   "name": "Vanuatu",
   "parent": "Vanuatu",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -363,14 +355,6 @@
     "score": 0.61,
     "lat": -19.485778,
     "lon": 169.334501
-   },
-   {
-    "title": "Vanuatu",
-    "snippet": "Vanuatu is an archipelago of 83 islands strung across the South West Pacific, roughly midway between Australia and Fiji. It became independent in 1980 after nearly a century of joint British and French rule \u2014 an unusual arrangement called the New Hebrides Condominium that left...",
-    "path": "australiaandpacific/vanuatu",
-    "score": 0.6,
-    "lat": -16.525507,
-    "lon": 168.106915
    },
    {
     "title": "Espiritu Santo",
@@ -395,13 +379,21 @@
     "score": 0.54,
     "lat": -17.6739,
     "lon": 168.3648
+   },
+   {
+    "title": "Malakula",
+    "snippet": "Malakula is the second largest island in Vanuatu and one of the most culturally rich places in the entire Pacific. Over thirty distinct languages are spoken here, a density of linguistic diversity that reflects centuries of isolated communities separated by the island's rugged...",
+    "path": "australiaandpacific/vanuatu/malakula",
+    "score": 0.45,
+    "lat": -16.234392,
+    "lon": 167.499172
    }
   ]
  },
  "uzbekistan": {
   "name": "Uzbekistan",
   "parent": "Uzbekistan",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": false,
   "top_locations": [
    {
@@ -429,27 +421,27 @@
     "lon": 60.3635
    },
    {
-    "title": "Uzbekistan",
-    "snippet": "Uzbekistan is the beating heart of the ancient Silk Road. Three of its cities \u2014 Samarkand, Bukhara, and Khiva \u2014 contain some of the most magnificent Islamic architecture anywhere on earth, and together they justify any journey to Central Asia. This is a country where history i...",
-    "path": "asia/uzbekistan",
-    "score": 0.55,
-    "lat": 41.377491,
-    "lon": 64.585262
-   },
-   {
     "title": "Shakhrisabz",
     "snippet": "Shakhrisabz is Tamerlane's hometown \u2014 the place where Amir Timur was born in 1336 and where he intended to be buried. For a ruler who built one of history's great empires and left monuments all over Central Asia, it's fitting that his birthplace is a modest Uzbek town where lo...",
     "path": "asia/uzbekistan/shakhrisabz",
     "score": 0.51,
     "lat": 39.0053,
     "lon": 67.1135
+   },
+   {
+    "title": "Tashkent",
+    "snippet": "Tashkent is the capital of Uzbekistan but lacks the headline attractions of Samarkand and Bukhara. A devastating earthquake in 1966 levelled much of the old city, and the Soviets seized the moment \u2014 calling in volunteer workers from across the USSR to rebuild. Thousands came a...",
+    "path": "asia/uzbekistan/tashkent",
+    "score": 0.5,
+    "lat": 41.3123,
+    "lon": 69.2787
    }
   ]
  },
  "uruguay": {
   "name": "Uruguay",
   "parent": "Uruguay",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -469,14 +461,6 @@
     "lon": -56.19131
    },
    {
-    "title": "Uruguay",
-    "snippet": "Uruguay is a small, yet prosperous country sandwiched between Argentina and Brazil in the heart of South America. It is basically a European country, since the majority of its citizens are descended from Spanish and Italian immigrants. Spanish is the official language, but mor...",
-    "path": "southamerica/uruguay",
-    "score": 0.54,
-    "lat": -32.875555,
-    "lon": -56.020153
-   },
-   {
     "title": "Villa Serrana",
     "snippet": "Villa Serrana is a small hillside village in the Lavalleja Department, about 145 km from Montevideo and 20 km beyond Minas. Built in the 1940s as a planned retreat in the Sierra de Carap\u00e9 hills, the village was designed by architect Julio Vilamaj\u00f3 and blends into the rocky, wo...",
     "path": "southamerica/uruguay/villaserrana",
@@ -491,6 +475,14 @@
     "score": 0.39,
     "lat": -31.3889,
     "lon": -57.9609
+   },
+   {
+    "title": "La Coronilla",
+    "snippet": "La Coronilla is a tiny beach village on Uruguay's Atlantic coast, about 15 km south of the Brazilian border and just east of Parque Nacional Santa Teresa. It is the kind of place that barely shows up on maps \u2014 a handful of houses, a beach, and pine woods behind it.",
+    "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+    "score": 0.37,
+    "lat": -33.896136,
+    "lon": -53.515474
    }
   ]
  },
@@ -537,17 +529,9 @@
  "marshall_is": {
   "name": "Marshall Is.",
   "parent": "Marshall Islands",
-  "n_locs": 7,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Marshall Islands",
-    "snippet": "The Marshall Islands is one of the most remote countries on earth \u2014 a scatter of 29 atolls and 5 islands strung across a vast stretch of the central Pacific, with a total land area barely larger than Washington D.C. Most of that land sits less than two metres above sea level....",
-    "path": "australiaandpacific/marshallislands",
-    "score": 0.52,
-    "lat": 7.131474,
-    "lon": 171.184478
-   },
    {
     "title": "Majuro",
     "snippet": "Majuro is the capital atoll of the Marshall Islands, a long, narrow ring of coral islets enclosing a large lagoon in the central Pacific. Three of its islets \u2014 Delap, Uliga, and Darrit (known collectively as D-U-D) \u2014 form the urban centre, home to most of the country's populat...",
@@ -579,6 +563,14 @@
     "score": 0.41,
     "lat": 6.0,
     "lon": 169.583333
+   },
+   {
+    "title": "Kwajalein Atoll",
+    "snippet": "Kwajalein Atoll consists of 97 islands with a total land mass of just 6.5 square miles, surrounding an immense 1,100-square-mile lagoon \u2014 the largest coral atoll in the world. It is not much of a tourist draw; the biggest island is owned by the US Army and the smaller islands...",
+    "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+    "score": 0.4,
+    "lat": 9.160464,
+    "lon": 167.079554
    }
   ]
  },
@@ -641,17 +633,9 @@
  "guam": {
   "name": "Guam",
   "parent": "United States of America",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Guam",
-    "snippet": "Guam is the largest island in Micronesia and, in many ways, the odd one out \u2014 an American territory in the western Pacific, closer to Manila than to Honolulu, with an indigenous Chamorro culture that predates both. It draws visitors primarily from Japan and South Korea, who co...",
-    "path": "australiaandpacific/guam",
-    "score": 0.54,
-    "lat": 13.449994,
-    "lon": 144.765168
-   },
    {
     "title": "Hag\u00e5t\u00f1a (Agana)",
     "snippet": "Hag\u00e5t\u00f1a \u2014 the old colonial name was Agana \u2014 is the capital of Guam, though you might not guess it from its size. Only around 1,100 people actually live here, making it one of the smallest capital cities in the world. Yet it has been the centre of island life for centuries: fir...",
@@ -683,13 +667,21 @@
     "score": 0.44,
     "lat": 13.268297,
     "lon": 144.672611
+   },
+   {
+    "title": "Mangilao",
+    "snippet": "Mangilao is a village on the east coast of **Guam**, midway up the island and home to the main campus of the **University of Guam** \u2014 the largest higher-education institution in Micronesia \u2014 along with its associated **Richard F. Taitano Micronesian Area Research Center**, whi...",
+    "path": "australiaandpacific/guam/mangilao",
+    "score": 0.41,
+    "lat": 13.443991,
+    "lon": 144.805053
    }
   ]
  },
  "american_samoa": {
   "name": "American Samoa",
   "parent": "United States of America",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
    {
@@ -707,14 +699,6 @@
     "score": 0.5,
     "lat": -14.184507,
     "lon": -169.669072
-   },
-   {
-    "title": "American Samoa",
-    "snippet": "American Samoa is a small U.S. territory in the South Pacific \u2014 seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.",
-    "path": "australiaandpacific/americansamoa",
-    "score": 0.49,
-    "lat": -14.297124,
-    "lon": -170.713148
    },
    {
     "title": "Alega",
@@ -825,7 +809,7 @@
  "kaua_i": {
   "name": "Kauai",
   "parent": "Hawaii",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": true,
   "top_locations": [
    {
@@ -843,14 +827,6 @@
     "score": 0.67,
     "lat": 21.9069,
     "lon": -159.47
-   },
-   {
-    "title": "Midway Islands",
-    "snippet": "Midway Atoll is a small American territory in the north-central Pacific, roughly 1,300 miles northwest of Honolulu. It sits near the far end of the Hawaiian archipelago and consists of three low-lying coral islands \u2014 Sand Island, Eastern Island, and Spit Island \u2014 surrounded by...",
-    "path": "australiaandpacific/midwayislands",
-    "score": 0.4,
-    "lat": 28.2072,
-    "lon": -177.3735
    }
   ]
  },
@@ -953,7 +929,7 @@
  "colorado": {
   "name": "Rocky Mountains",
   "parent": "United States of America",
-  "n_locs": 55,
+  "n_locs": 54,
   "is_split": true,
   "top_locations": [
    {
@@ -1001,7 +977,7 @@
  "chicago": {
   "name": "Midwest",
   "parent": "United States of America",
-  "n_locs": 100,
+  "n_locs": 99,
   "is_split": true,
   "top_locations": [
    {
@@ -1021,14 +997,6 @@
     "lon": -94.922759
    },
    {
-    "title": "Macedonia",
-    "snippet": "Macedonia is a landlocked country in the heart of the Balkan. It is bordered by Bulgaria , Serbia , Greece and Albania . It is easiest to reach from Greece or Bulgaria.",
-    "path": "europe/macedonia",
-    "score": 0.57,
-    "lat": 41.192774,
-    "lon": -95.42562
-   },
-   {
     "title": "Grand Marais",
     "snippet": "Grand Marais is a small harbor town on the north shore of Lake Superior, in Cook County, Minnesota, about 110 miles northeast of Duluth. It is the last significant town before the Canadian border at Grand Portage and the most appealing stop on the entire North Shore Drive.",
     "path": "northamerica/unitedstates/minnesota/grand_marais",
@@ -1043,6 +1011,14 @@
     "score": 0.52,
     "lat": 43.07469,
     "lon": -89.384166
+   },
+   {
+    "title": "Minneapolis",
+    "snippet": "Minneapolis is a city that punches well above its weight in culture, food, and green space. It sits on both banks of the Mississippi River, connected by a network of parks and lakes that would make most American cities jealous. The Chain of Lakes \u2014 Cedar, Isles, Bde Maka Ska,...",
+    "path": "northamerica/unitedstates/minnesota/minneapolis",
+    "score": 0.49,
+    "lat": 44.9773,
+    "lon": -93.2655
    }
   ]
  },
@@ -1701,18 +1677,9 @@
  "pitcairn_is": {
   "name": "Pitcairn Is.",
   "parent": "United Kingdom",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Pitcairn Islands",
-    "snippet": "Pitcairn is the most remote inhabited island on Earth. It sits in the South Pacific roughly halfway between New Zealand and Peru, 2,170 kilometres southeast of Tahiti. The nearest airport is in Mangareva, French Polynesia \u2014 a 32-hour voyage by sea. There are no flights. There...",
-    "path": "australiaandpacific/pitcairnislands",
-    "score": 0.41,
-    "lat": -25.065772,
-    "lon": -130.101782
-   }
-  ]
+  "top_locations": []
  },
  "anguilla": {
   "name": "Anguilla",
@@ -1733,17 +1700,9 @@
  "falkland_is": {
   "name": "Falkland Is.",
   "parent": "United Kingdom",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Falkland Islands",
-    "snippet": "Two large islands and nearly 700 smaller ones sitting in the South Atlantic, roughly 500 kilometres east of Patagonia. The Falkland Islands are a British Overseas Territory with full internal self-government, and the landscape, culture, and accent are unmistakably British \u2014 a...",
-    "path": "southamerica/falklandislands",
-    "score": 0.53,
-    "lat": -51.7963,
-    "lon": -59.5236
-   },
    {
     "title": "Stanley",
     "snippet": "Stanley \u2014 also called Port Stanley \u2014 is the capital and only real town in the Falkland Islands, home to about 2,500 of the territory's 3,500 residents. It sits on a sheltered harbour on the east coast of East Falkland, a huddle of brightly painted houses with corrugated iron r...",
@@ -1789,17 +1748,9 @@
  "bermuda": {
   "name": "Bermuda",
   "parent": "United Kingdom",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Bermuda",
-    "snippet": "Bermuda is a small British Overseas Territory in the North Atlantic, about 1,070 km east of Cape Hatteras, North Carolina. It is not in the Caribbean \u2014 it sits well north of the Caribbean island chain \u2014 but it shares the warm, turquoise water and relaxed pace. The island chain...",
-    "path": "northamerica/bermuda",
-    "score": 0.69,
-    "lat": 32.3078,
-    "lon": -64.7505
-   },
    {
     "title": "Hamilton",
     "snippet": "Hamilton is the capital and commercial centre of Bermuda, with a population of around 1,000 in the city proper \u2014 making it one of the smallest capitals in the world by population, though much of the island's working population passes through daily. Front Street runs along the...",
@@ -1845,17 +1796,9 @@
  "turks_and_caicos_is": {
   "name": "Turks and Caicos Is.",
   "parent": "United Kingdom",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Turks and Caicos Islands",
-    "snippet": "The Turks and Caicos Islands are a British Overseas Territory of about 40 islands and cays scattered across a broad shallow bank in the Atlantic Ocean, southeast of the Bahamas. Most are uninhabited. The ones that are not have become, improbably, some of the most sought-after...",
-    "path": "northamerica/turks__caicos_isl",
-    "score": 0.77,
-    "lat": 21.694,
-    "lon": -71.797
-   },
    {
     "title": "Providenciales",
     "snippet": "Providenciales \u2014 universally called \"Provo\" \u2014 is the main tourist hub of the Turks and Caicos Islands, a British Overseas Territory in the northern Caribbean southeast of the Bahamas. It's best known for Grace Bay Beach, a 3-km arc of white sand and luminously clear turquoise...",
@@ -1887,13 +1830,21 @@
     "score": 0.55,
     "lat": 21.333,
     "lon": -71.2
+   },
+   {
+    "title": "Cockburn Town",
+    "snippet": "Cockburn Town is the sleepy administrative capital of the Turks and Caicos Islands, spread along the western shore of Grand Turk. Despite its status as the country's seat of government, it feels less like a capital than a well-preserved colonial village \u2014 which is precisely it...",
+    "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+    "score": 0.55,
+    "lat": 21.4607,
+    "lon": -71.139
    }
   ]
  },
  "montserrat": {
   "name": "Montserrat",
   "parent": "United Kingdom",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
    {
@@ -1903,31 +1854,15 @@
     "score": 0.58,
     "lat": 16.7425,
     "lon": -62.1874
-   },
-   {
-    "title": "Montserrat",
-    "snippet": "Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean \u2014 not because of beaches or resorts, but because of a volcano that changed everything.",
-    "path": "northamerica/montserrat",
-    "score": 0.54,
-    "lat": 16.7425,
-    "lon": -62.1874
    }
   ]
  },
  "jersey": {
   "name": "Jersey",
   "parent": "United Kingdom",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Channel Islands",
-    "snippet": "The Channel Islands sit closer to the coast of Normandy than to England \u2014 just 14 miles from France at their nearest point \u2014 yet they are British Crown dependencies with their own parliaments, legal systems, and tax rules. They are not part of the United Kingdom and not part o...",
-    "path": "europe/channelislands",
-    "score": 0.59,
-    "lat": 49.372,
-    "lon": -2.364
-   },
    {
     "title": "Jersey",
     "snippet": "Jersey is the largest of the Channel Islands and the most visited. It has around 110,000 residents, its own parliament (the States of Jersey), and a financial sector that makes it one of the wealthier places in Europe per capita. The main town, St Helier, is a busy commercial...",
@@ -1997,7 +1932,7 @@
  "isle_of_man": {
   "name": "Isle of Man",
   "parent": "United Kingdom",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -2007,14 +1942,6 @@
     "score": 0.58,
     "lat": 54.2361,
     "lon": -4.5481
-   },
-   {
-    "title": "Isle of Man",
-    "snippet": "The Isle of Man sits in the middle of the Irish Sea, equidistant from England, Scotland, Northern Ireland, and Wales \u2014 yet it belongs to none of them. It is a self-governing Crown dependency with its own parliament, laws, and tax system. The Tynwald, founded in 979 AD, is one...",
-    "path": "europe/isleofman",
-    "score": 0.56,
-    "lat": 54.235921,
-    "lon": -4.514767
    },
    {
     "title": "Douglas",
@@ -2237,7 +2164,7 @@
  "york": {
   "name": "Yorkshire & Lake District",
   "parent": "England",
-  "n_locs": 65,
+  "n_locs": 64,
   "is_split": true,
   "top_locations": [
    {
@@ -2525,7 +2452,7 @@
  "ukraine": {
   "name": "Ukraine",
   "parent": "Ukraine",
-  "n_locs": 21,
+  "n_locs": 20,
   "is_split": false,
   "top_locations": [
    {
@@ -2573,7 +2500,7 @@
  "uganda": {
   "name": "Uganda",
   "parent": "Uganda",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
    {
@@ -2599,21 +2526,13 @@
     "score": 0.44,
     "lat": 0.317714,
     "lon": 32.581354
-   },
-   {
-    "title": "Uganda",
-    "snippet": "*Africa > Uganda*",
-    "path": "africa/uganda",
-    "score": 0.38,
-    "lat": 1.3733,
-    "lon": 32.2903
    }
   ]
  },
  "turkmenistan": {
   "name": "Turkmenistan",
   "parent": "Turkmenistan",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -2623,14 +2542,6 @@
     "score": 0.45,
     "lat": 37.937832,
     "lon": 58.235947
-   },
-   {
-    "title": "Turkmenistan",
-    "snippet": "Turkmenistan is one of the most closed countries on earth. It sits in the heart of Central Asia, bordered by Kazakhstan, Uzbekistan, Afghanistan, Iran, and the Caspian Sea \u2014 and for decades it has turned most of its back on the outside world. Getting in is complicated. Moving...",
-    "path": "asia/turkmenistan",
-    "score": 0.35,
-    "lat": 39.376381,
-    "lon": 59.392461
    },
    {
     "title": "Mary",
@@ -2655,13 +2566,21 @@
     "score": 0.25,
     "lat": 40.005539,
     "lon": 52.993283
+   },
+   {
+    "title": "Chardzhou",
+    "snippet": "Chardzhou \u2014 now officially known as T\u00fcrkmenabat \u2014 is Turkmenistan's second-largest city, sitting on the banks of the Amu Darya river close to the Uzbekistan border. With a population of around 250,000, it is the main urban centre of eastern Turkmenistan and the country's most...",
+    "path": "asia/turkmenistan/chardzhou",
+    "score": 0.24,
+    "lat": 39.087278,
+    "lon": 63.572502
    }
   ]
  },
  "g_reme": {
   "name": "Cappadocia",
   "parent": "Turkey",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": true,
   "top_locations": [
    {
@@ -2853,7 +2772,7 @@
  "tunisia": {
   "name": "Tunisia",
   "parent": "Tunisia",
-  "n_locs": 30,
+  "n_locs": 29,
   "is_split": false,
   "top_locations": [
    {
@@ -2933,7 +2852,7 @@
  "tonga": {
   "name": "Tonga",
   "parent": "Tonga",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -2943,14 +2862,6 @@
     "score": 0.63,
     "lat": -18.65,
     "lon": -174.0
-   },
-   {
-    "title": "Tonga",
-    "snippet": "Tonga is the only Pacific island nation never colonised by a foreign power \u2014 it remained a monarchy throughout the colonial era and still is today. About 170 islands scattered across 700,000 square kilometres of ocean, of which only 36 are inhabited. The population is around 1...",
-    "path": "australiaandpacific/tonga",
-    "score": 0.57,
-    "lat": -19.916082,
-    "lon": -175.202642
    },
    {
     "title": "Vava'u Island",
@@ -2975,13 +2886,21 @@
     "score": 0.52,
     "lat": -21.166707,
     "lon": -175.1982
+   },
+   {
+    "title": "Nuku'alofa",
+    "snippet": "Nuku'alofa is the capital of Tonga and the only real town in the kingdom. It sits on the north shore of Tongatapu, the main island, and is small enough to walk across in half an hour \u2014 but it is the centre of everything: government, commerce, churches, and the waterfront.",
+    "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+    "score": 0.49,
+    "lat": -21.1343,
+    "lon": -175.2018
    }
   ]
  },
  "togo": {
   "name": "Togo",
   "parent": "Togo",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -3029,17 +2948,9 @@
  "timor_leste": {
   "name": "Timor-Leste",
   "parent": "East Timor",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Timor-Leste",
-    "snippet": "Timor-Leste \u2014 officially the Democratic Republic of Timor-Leste, still widely called East Timor \u2014 is one of the world's youngest nations, having gained independence in 2002 after a brutal 24-year Indonesian occupation. It sits at the eastern end of the island of Timor, between...",
-    "path": "asia/easttimor",
-    "score": 0.45,
-    "lat": -8.744317,
-    "lon": 126.063482
-   },
    {
     "title": "Dili",
     "snippet": "Dili is a small, unpretentious capital on the north coast, spread along a bay with hills rising steeply behind. It was badly damaged during the 1999 post-referendum violence \u2014 much of what you see was built or rebuilt after independence. The city has a distinct character: part...",
@@ -3060,17 +2971,9 @@
  "bangkok": {
   "name": "Bangkok & Central",
   "parent": "Thailand",
-  "n_locs": 24,
+  "n_locs": 23,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "Thailand",
-    "snippet": "More people visit Thailand than any other country in Southeast Asia, and it's not hard to see why. The country has excellent infrastructure, extraordinary food, a rich Buddhist culture, some of the best beaches in Asia, and a reputation for genuine hospitality. It ranges from...",
-    "path": "asia/thailand",
-    "score": 0.86,
-    "lat": 14.897192,
-    "lon": 100.83273
-   },
    {
     "title": "Bangkok",
     "snippet": "Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm o...",
@@ -3102,6 +3005,14 @@
     "score": 0.66,
     "lat": 11.662155,
     "lon": 102.568105
+   },
+   {
+    "title": "Koh Mak",
+    "snippet": "Koh Mak is a small, quiet island in the Gulf of Thailand, between the better-known islands of Koh Chang and Koh Kood. Most of the island is still owned by five families who have lived here for generations, and development has been deliberately kept small-scale \u2014 about 20 low-k...",
+    "path": "asia/thailand/kohchang/koh_mak",
+    "score": 0.65,
+    "lat": 11.816,
+    "lon": 102.492633
    }
   ]
  },
@@ -3284,7 +3195,7 @@
  "tanzania": {
   "name": "Tanzania",
   "parent": "United Republic of Tanzania",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
    {
@@ -3332,7 +3243,7 @@
  "tajikistan": {
   "name": "Tajikistan",
   "parent": "Tajikistan",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -3342,14 +3253,6 @@
     "score": 0.62,
     "lat": 37.490482,
     "lon": 71.530706
-   },
-   {
-    "title": "Tajikistan",
-    "snippet": "Tajikistan is the smallest of the Central Asian republics, and the most mountainous. Over 90 percent of the country is covered by mountains, most of it above 3,000 meters. The Pamirs \u2014 the so-called Roof of the World \u2014 dominate the east, sharing borders with China and Afghanis...",
-    "path": "asia/tajikistan",
-    "score": 0.45,
-    "lat": 38.861034,
-    "lon": 71.276093
    },
    {
     "title": "Penjikent",
@@ -3374,13 +3277,21 @@
     "score": 0.41,
     "lat": 40.2787,
     "lon": 69.62
+   },
+   {
+    "title": "Nurek",
+    "snippet": "Nurek is a small city about 70 km east of Dushanbe on the Vakhsh River, built in the 1960s to house workers constructing the Nurek Dam. The dam, completed in 1980, was the tallest in the world at 300 meters \u2014 a title it held for decades. The reservoir behind it stretches back...",
+    "path": "asia/tajikistan/nurek",
+    "score": 0.32,
+    "lat": 38.373741,
+    "lon": 69.348419
    }
   ]
  },
  "taiwan": {
   "name": "Taiwan",
   "parent": "Taiwan",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -3390,14 +3301,6 @@
     "score": 0.74,
     "lat": 25.03752,
     "lon": 121.56368
-   },
-   {
-    "title": "Taiwan",
-    "snippet": "Taiwan is a small island of about 36,000 square kilometres sitting 160km off the southeastern coast of China. The Portuguese who first mapped it in the 16th century called it Formosa \u2014 beautiful \u2014 and the name fits. A central mountain range runs almost the entire length of the...",
-    "path": "asia/taiwan",
-    "score": 0.71,
-    "lat": 23.973937,
-    "lon": 120.982018
    },
    {
     "title": "Sun Moon Lake",
@@ -3422,13 +3325,21 @@
     "score": 0.63,
     "lat": 22.991235,
     "lon": 120.184982
+   },
+   {
+    "title": "Kaohsiung",
+    "snippet": "Kaohsiung is Taiwan's second city and its main port, sitting at the southern end of the island where the climate is truly tropical. It spent most of the 20th century as a heavy industry hub \u2014 steel, shipbuilding, petrochemicals \u2014 and is still reinventing itself, but the transf...",
+    "path": "asia/taiwan/kaohsiung",
+    "score": 0.59,
+    "lat": 22.620335,
+    "lon": 120.312038
    }
   ]
  },
  "syria": {
   "name": "Syria",
   "parent": "Syria",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -3476,7 +3387,7 @@
  "zermatt": {
   "name": "Bernese Oberland",
   "parent": "Switzerland",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": true,
   "top_locations": [
    {
@@ -3668,7 +3579,7 @@
  "gothenburg": {
   "name": "Gothenburg-South Coast",
   "parent": "Sweden",
-  "n_locs": 34,
+  "n_locs": 33,
   "is_split": true,
   "top_locations": [
    {
@@ -3688,14 +3599,6 @@
     "lon": 15.586642
    },
    {
-    "title": "Sweden",
-    "snippet": "Being the largest of the Scandinavian countries, Sweden offers you many opportunities for cultural and outdoor activities. Visit the cities and explore the country's glorious past or the life in a cosmopolitan and modern society. If you need rest from the hectic city life, jus...",
-    "path": "europe/sweden",
-    "score": 0.56,
-    "lat": 59.674971,
-    "lon": 14.520858
-   },
-   {
     "title": "Kalmar",
     "snippet": "Kalmar is a handsome castle town on Sweden's southeast coast, facing the Baltic island of \u00d6land across a narrow strait. The six-kilometre \u00d6land Bridge \u2014 the longest in Scandinavia \u2014 connects the two, and most visitors to Kalmar cross over to take advantage of \u00d6land's sun, sand...",
     "path": "europe/sweden/kalmar",
@@ -3710,6 +3613,14 @@
     "score": 0.55,
     "lat": 56.7816,
     "lon": 16.6622
+   },
+   {
+    "title": "\u00d6sterlen",
+    "snippet": "\u00d6sterlen is the southeastern tip of Sweden \u2014 a gently rolling landscape of wheat fields, apple orchards, and long sandy beaches that feels a world apart from Stockholm. Technically it's not an official region at all, more a shared idea: the area roughly between Br\u00f6sarp in the...",
+    "path": "europe/sweden/sterlen",
+    "score": 0.54,
+    "lat": 55.5993,
+    "lon": 14.1141
    }
   ]
  },
@@ -3764,7 +3675,7 @@
  "eswatini": {
   "name": "eSwatini",
   "parent": "eSwatini",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -3774,14 +3685,6 @@
     "score": 0.48,
     "lat": -26.43,
     "lon": 31.18
-   },
-   {
-    "title": "Eswatini (Swaziland)",
-    "snippet": "Eswatini \u2014 renamed from Swaziland in 2018 by King Mswati III to reclaim its precolonial name \u2014 is one of Africa's smallest countries and one of its last absolute monarchies. Landlocked between South Africa and Mozambique, it covers roughly 17,000 square kilometres, about the s...",
-    "path": "africa/swaziland",
-    "score": 0.46,
-    "lat": -26.562481,
-    "lon": 31.399132
    },
    {
     "title": "Mbabane",
@@ -3812,7 +3715,7 @@
  "suriname": {
   "name": "Suriname",
   "parent": "Suriname",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
    {
@@ -3822,37 +3725,20 @@
     "score": 0.51,
     "lat": 5.8242,
     "lon": -55.1561
-   },
-   {
-    "title": "Suriname",
-    "snippet": "Suriname is a small country in South America that borders on French Guiana, Guyana and Brazil. Suriname got its independance from the Netherlands in 1975. The first 25 years were not one big success. A military coup by Desi Bouterse, some corruption affairs, etc. And although...",
-    "path": "southamerica/suriname",
-    "score": 0.47,
-    "lat": 4.141303,
-    "lon": -56.077119
    }
   ]
  },
  "s_sudan": {
   "name": "S. Sudan",
   "parent": "South Sudan",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "South Sudan",
-    "snippet": "South Sudan is the world's youngest country, gaining independence from Sudan in 2011 after decades of brutal civil war. It is also one of the most dangerous and difficult countries on earth for travelers. A new civil war broke out in 2013 and conflict has continued in various...",
-    "path": "africa/southsudan",
-    "score": 0.18,
-    "lat": 6.877,
-    "lon": 31.307
-   }
-  ]
+  "top_locations": []
  },
  "sudan": {
   "name": "Sudan",
   "parent": "Sudan",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -3900,7 +3786,7 @@
  "sri_lanka": {
   "name": "Sri Lanka",
   "parent": "Sri Lanka",
-  "n_locs": 21,
+  "n_locs": 20,
   "is_split": false,
   "top_locations": [
    {
@@ -3910,14 +3796,6 @@
     "score": 0.71,
     "lat": 6.032814,
     "lon": 80.214955
-   },
-   {
-    "title": "Sri Lanka",
-    "snippet": "Sri Lanka is an island of extraordinary variety. In the space of a few hours you can move from the frenetic energy of Colombo to the cool mist of the Hill Country, from ancient ruined cities to beaches that go on for miles. It is a small country \u2014 about the size of Ireland \u2014 b...",
-    "path": "asia/srilanka",
-    "score": 0.69,
-    "lat": 7.555494,
-    "lon": 80.713785
    },
    {
     "title": "Kandy",
@@ -3942,6 +3820,14 @@
     "score": 0.65,
     "lat": 7.9403,
     "lon": 81.0188
+   },
+   {
+    "title": "Unawatuna",
+    "snippet": "Unawatuna is the beach that everyone in southern Sri Lanka will point you to first. A crescent of golden sand curves around a sheltered bay just five kilometres east of Galle, protected by a reef that keeps the water calm enough for swimming most of the year. It is smaller and...",
+    "path": "asia/srilanka/unawatuna",
+    "score": 0.63,
+    "lat": 6.0202,
+    "lon": 80.2475
    }
   ]
  },
@@ -4028,7 +3914,7 @@
  "madrid": {
   "name": "Madrid & Castile",
   "parent": "Spain",
-  "n_locs": 24,
+  "n_locs": 23,
   "is_split": true,
   "top_locations": [
    {
@@ -4076,7 +3962,7 @@
  "malaga": {
   "name": "Costa del Sol",
   "parent": "Spain",
-  "n_locs": 21,
+  "n_locs": 20,
   "is_split": true,
   "top_locations": [
    {
@@ -4556,7 +4442,7 @@
  "south_korea": {
   "name": "South Korea",
   "parent": "South Korea",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": false,
   "top_locations": [
    {
@@ -4566,14 +4452,6 @@
     "score": 0.77,
     "lat": 37.566679,
     "lon": 126.978291
-   },
-   {
-    "title": "South Korea",
-    "snippet": "*Asia > South Korea*",
-    "path": "asia/southkorea",
-    "score": 0.74,
-    "lat": 36.638392,
-    "lon": 127.696119
    },
    {
     "title": "Busan",
@@ -4598,6 +4476,14 @@
     "score": 0.48,
     "lat": 35.8238,
     "lon": 127.1473
+   },
+   {
+    "title": "Cheongju City",
+    "snippet": "Cheongju is a mid-sized city of around 800,000 people in central Korea and the capital of North Chungcheong Province. It sits roughly equidistant between Seoul and Daejeon, and makes a practical base for exploring the region \u2014 buses to Seoul take about 90 minutes, Daejeon 30 m...",
+    "path": "asia/southkorea/cheongju_city",
+    "score": 0.43,
+    "lat": 36.642117,
+    "lon": 127.489174
    }
   ]
  },
@@ -4627,7 +4513,7 @@
  "drakensberg": {
   "name": "Drakensberg",
   "parent": "South Africa",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": true,
   "top_locations": [
    {
@@ -4730,7 +4616,7 @@
  "somalia": {
   "name": "Somalia",
   "parent": "Somalia",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -4778,7 +4664,7 @@
  "somaliland": {
   "name": "Somaliland",
   "parent": "Somaliland",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -4826,17 +4712,9 @@
  "solomon_is": {
   "name": "Solomon Is.",
   "parent": "Solomon Islands",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Solomon Islands",
-    "snippet": "Nearly 1,000 islands scattered across 1,500km of the southwest Pacific, the Solomon Islands remain one of the least-visited and most rewarding destinations in the region. This is not package tourism \u2014 getting here takes effort, logistics are genuinely challenging, and infrastr...",
-    "path": "australiaandpacific/solomonislands",
-    "score": 0.46,
-    "lat": -8.705394,
-    "lon": 159.107069
-   },
    {
     "title": "Guadalcanal",
     "snippet": "The largest island in the Solomon Islands, Guadalcanal is best known for the brutal six-month campaign fought here during World War II. The name alone carries weight \u2014 it was the first major Allied offensive against Japan in the Pacific, and the island's jungles, ridges, and s...",
@@ -4868,13 +4746,21 @@
     "score": 0.38,
     "lat": -8.0412,
     "lon": 159.2113
+   },
+   {
+    "title": "Malaita",
+    "snippet": "Malaita is the most heavily populated island in the Solomon Islands, a long, mountainous spine of jungle-covered ridges running roughly north to south. The island is known for its fiercely traditional culture \u2014 many communities here have resisted outside influence more stubbor...",
+    "path": "australiaandpacific/solomonislands/malaita",
+    "score": 0.37,
+    "lat": -8.955169,
+    "lon": 160.951441
    }
   ]
  },
  "slovakia": {
   "name": "Slovakia",
   "parent": "Slovakia",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -4884,14 +4770,6 @@
     "score": 0.63,
     "lat": 48.1559,
     "lon": 17.1314
-   },
-   {
-    "title": "Slovakia",
-    "snippet": "Slovakia is a small, landlocked country in the heart of Central Europe that consistently surprises visitors. Its capital Bratislava sits just 60 km from Vienna, making it one of the most accessible and affordable destinations in the region. But the real draw lies beyond the ca...",
-    "path": "europe/slovakia",
-    "score": 0.59,
-    "lat": 48.741152,
-    "lon": 19.452865
    },
    {
     "title": "Bansk\u00e1 Stiavnica",
@@ -4916,13 +4794,21 @@
     "score": 0.53,
     "lat": 49.2927,
     "lon": 21.2756
+   },
+   {
+    "title": "Levoca",
+    "snippet": "Levo\u010da is one of the best-preserved medieval towns in Central Europe and most visitors drive right past it on the way to Spis Castle. That's their loss. The walled old town is compact, beautiful, and almost entirely intact \u2014 Gothic churches, Renaissance townhouses, and a centr...",
+    "path": "europe/slovakia/levoca",
+    "score": 0.53,
+    "lat": 49.025087,
+    "lon": 20.58871
    }
   ]
  },
  "slovenia": {
   "name": "Slovenia",
   "parent": "Slovenia",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": false,
   "top_locations": [
    {
@@ -4932,14 +4818,6 @@
     "score": 0.83,
     "lat": 46.36842,
     "lon": 14.11006
-   },
-   {
-    "title": "Slovenia",
-    "snippet": "Slovenia is a small country that packs an extraordinary amount of diversity into its 20,000 square kilometers. Alpine peaks, turquoise lakes, underground caves, vineyards, and a short stretch of Adriatic coastline all lie within a couple of hours' drive of each other. It is on...",
-    "path": "europe/slovenia",
-    "score": 0.69,
-    "lat": 46.119944,
-    "lon": 14.815333
    },
    {
     "title": "Ljubljana",
@@ -4964,23 +4842,23 @@
     "score": 0.64,
     "lat": 46.3386,
     "lon": 13.5524
+   },
+   {
+    "title": "Koper",
+    "snippet": "Koper is the largest town on Slovenia's short Adriatic coastline, and one of the country's most underrated cities. Its compact medieval center sits on what was once an island, surrounded by the sea before land reclamation connected it to the mainland. The old town's Venetian-i...",
+    "path": "europe/slovenia/koper",
+    "score": 0.57,
+    "lat": 45.547986,
+    "lon": 13.730478
    }
   ]
  },
  "singapore": {
   "name": "Singapore",
   "parent": "Singapore",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Singapore",
-    "snippet": "Singapore is a city-state on a small island at the southern tip of the Malay Peninsula, and it works harder than almost anywhere on earth to justify its own existence. No natural resources, no agricultural land, no hinterland \u2014 just 730 square kilometres of reclaimed and origi...",
-    "path": "asia/singapore",
-    "score": 0.84,
-    "lat": 1.357107,
-    "lon": 103.819499
-   },
    {
     "title": "Sentosa",
     "snippet": "Sentosa is Singapore's playground island, a 500-hectare resort destination just off the southern coast connected to the mainland by a short causeway, a cable car, and a pedestrian boardwalk. What was once a British military fortress and later a quiet fishing village has been e...",
@@ -5018,7 +4896,7 @@
  "sierra_leone": {
   "name": "Sierra Leone",
   "parent": "Sierra Leone",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -5054,19 +4932,19 @@
     "lon": -11.7367
    },
    {
-    "title": "Sierra Leone",
-    "snippet": "Sierra Leone is one of West Africa's most overlooked destinations \u2014 a small country with stunning beaches, dense rainforest, warm people, and a complicated history it's still working through. The civil war that ravaged the country through the 1990s ended in 2002. Two decades o...",
-    "path": "africa/sierraleone",
+    "title": "Makeni",
+    "snippet": "Makeni is the largest city in northern Sierra Leone and the capital of the Bombali District, a busy market town that serves as the commercial hub for the surrounding region. The city was heavily affected during the civil war but has rebuilt steadily since, and the University o...",
+    "path": "africa/sierraleone/makeni",
     "score": 0.26,
-    "lat": 8.640035,
-    "lon": -11.840027
+    "lat": 8.888194,
+    "lon": -12.044186
    }
   ]
  },
  "mahe": {
   "name": "Inner Islands",
   "parent": "Seychelles",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": true,
   "top_locations": [
    {
@@ -5076,21 +4954,13 @@
     "score": 0.85,
     "lat": -4.6838,
     "lon": 55.4926
-   },
-   {
-    "title": "Seychelles",
-    "snippet": "The Seychelles are right in the heart of the Indian Ocean between the African East Coast and India. They are a bit closer to Africa geographically speaking but culturally and geologically speaking it is maybe closer to the Indian subcontinent. The Seychelles are the only grani...",
-    "path": "africa/seychelles",
-    "score": 0.81,
-    "lat": -4.657498,
-    "lon": 55.454015
    }
   ]
  },
  "serbia": {
   "name": "Serbia",
   "parent": "Republic of Serbia",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -5110,14 +4980,6 @@
     "lon": 19.612463
    },
    {
-    "title": "Serbia",
-    "snippet": "Serbia is a country where East meets West in the most literal sense. Shaped by Romans, Byzantines, Ottomans, and Austro-Hungarians, it has absorbed influences from all of them and turned them into something distinctly its own. The food blends Central European and Turkish tradi...",
-    "path": "europe/serbia",
-    "score": 0.48,
-    "lat": 44.024323,
-    "lon": 21.076574
-   },
-   {
     "title": "Kragujevac",
     "snippet": "Kragujevac is Serbia's fourth-largest city, with a population of around 175,000, set in the rolling hills of the \u0160umadija region in central Serbia. It holds an outsized place in the country's history: from 1818 to 1841 it served as the first capital of modern Serbia, and the c...",
     "path": "europe/serbiaandmontenegro/kragujevac",
@@ -5132,6 +4994,14 @@
     "score": 0.32,
     "lat": 44.8133,
     "lon": 20.4183
+   },
+   {
+    "title": "Lozovik",
+    "snippet": "Lozovik is a small town of about 6,000 people on the left bank of the Velika Morava river in central Serbia. The surrounding countryside is agricultural and peaceful, and the river offers fishing and walking along its banks. The local cuisine is typical of central Serbia \u2014 hea...",
+    "path": "europe/serbia/lozovik",
+    "score": 0.31,
+    "lat": 44.467749,
+    "lon": 21.100723
    }
   ]
  },
@@ -5154,7 +5024,7 @@
  "senegal": {
   "name": "Senegal",
   "parent": "Senegal",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -5182,27 +5052,27 @@
     "lon": -16.7385
    },
    {
-    "title": "Senegal",
-    "snippet": "*Africa > Senegal*",
-    "path": "africa/senegal",
-    "score": 0.49,
-    "lat": 14.475061,
-    "lon": -14.452961
-   },
-   {
     "title": "Saly",
     "snippet": "Saly is Senegal's main package-holiday resort, about ninety minutes south of Dakar on the Petite C\u00f4te. A string of hotels and apartment complexes lines a long sandy beach, backed by gardens of baobab and eucalyptus. It is a purpose-built resort rather than a town \u2014 the atmosph...",
     "path": "africa/senegal/saly",
     "score": 0.48,
     "lat": 14.441115,
     "lon": -17.01483
+   },
+   {
+    "title": "Ziguinchor",
+    "snippet": "Ziguinchor is the main town of the Casamance region, sitting on the south bank of the Casamance River about 70 km from the Atlantic coast. It is the obvious base for exploring the lush forests, mangroves, and villages of southern Senegal.",
+    "path": "africa/senegal/ziguinchor",
+    "score": 0.41,
+    "lat": 12.563493,
+    "lon": -16.272461
    }
   ]
  },
  "saudi_arabia": {
   "name": "Saudi Arabia",
   "parent": "Saudi Arabia",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
    {
@@ -5290,17 +5160,9 @@
  "san_marino": {
   "name": "San Marino",
   "parent": "San Marino",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "San Marino",
-    "snippet": "San Marino is the fifth smallest country in the world and one of the oldest republics, founded in AD 301 by a Christian stonemason fleeing Roman persecution. Perched on the slopes of Monte Titano and entirely surrounded by Italy, this microstate packs a surprising amount into...",
-    "path": "europe/sanmarino",
-    "score": 0.63,
-    "lat": 43.945862,
-    "lon": 12.458306
-   },
    {
     "title": "Borgo Maggiore",
     "snippet": "Borgo Maggiore sits at the foot of Monte Titano, directly below the historic city of San Marino. It is one of the nine municipalities of the republic, and the practical entry point for most visitors arriving by road. The weekly market held here is the largest in the country.",
@@ -5314,18 +5176,9 @@
  "samoa": {
   "name": "Samoa",
   "parent": "Samoa",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Western Samoa",
-    "snippet": "The Samoa Islands are located in the Pacific Ocean. Western Samoa is an independent country. American Samoa is part of the United States. Both groups of islands were discoverd by the same ecplorer Jacon Roggeveen and share one culture.",
-    "path": "australiaandpacific/westernsamoa",
-    "score": 0.53,
-    "lat": -13.76939,
-    "lon": -172.12005
-   }
-  ]
+  "top_locations": []
  },
  "st_vin_and_gren": {
   "name": "St. Vin. and Gren.",
@@ -5418,7 +5271,7 @@
  "rwanda": {
   "name": "Rwanda",
   "parent": "Rwanda",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -5428,14 +5281,6 @@
     "score": 0.61,
     "lat": -2.559061,
     "lon": 29.293926
-   },
-   {
-    "title": "Rwanda",
-    "snippet": "Rwanda is a small, landlocked country in East-Central Africa \u2014 roughly the size of Maryland \u2014 yet it packs in an extraordinary variety of landscapes. The \"Land of a Thousand Hills\" is exactly that: a country of steep green ridges, tea plantations, volcanic peaks, and deep crat...",
-    "path": "africa/rwanda",
-    "score": 0.56,
-    "lat": -1.9403,
-    "lon": 29.8739
    },
    {
     "title": "Musanze (Ruhengeri)",
@@ -5460,13 +5305,21 @@
     "score": 0.46,
     "lat": -1.6935,
     "lon": 29.2599
+   },
+   {
+    "title": "Cyangugu",
+    "snippet": "Cyangugu (officially renamed Rusizi) sits at the southern tip of Lake Kivu on the border with the Democratic Republic of Congo. It is a quiet border town, beautifully positioned between the lake and the steep green hills behind it, and a natural base for visiting Nyungwe Natio...",
+    "path": "africa/rwanda/chyangugu",
+    "score": 0.46,
+    "lat": -2.485,
+    "lon": 28.908
    }
   ]
  },
  "russia": {
   "name": "Russia",
   "parent": "Russia",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -5578,7 +5431,7 @@
  "romania": {
   "name": "Romania",
   "parent": "Romania",
-  "n_locs": 42,
+  "n_locs": 41,
   "is_split": false,
   "top_locations": [
    {
@@ -5626,7 +5479,7 @@
  "qatar": {
   "name": "Qatar",
   "parent": "Qatar",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -5636,14 +5489,6 @@
     "score": 0.55,
     "lat": 25.310881,
     "lon": 51.508181
-   },
-   {
-    "title": "Qatar",
-    "snippet": "*Asia > Qatar*",
-    "path": "asia/qatar",
-    "score": 0.52,
-    "lat": 25.3548,
-    "lon": 51.1839
    },
    {
     "title": "Zubarah",
@@ -5668,6 +5513,14 @@
     "score": 0.36,
     "lat": 25.003745,
     "lon": 51.410334
+   },
+   {
+    "title": "Waqra",
+    "snippet": "Waqra (also spelled Wukair) is a small coastal settlement south of Doha, between the capital and Al Wakrah. It has a little-visited fort \u2014 Al Waqra Fort \u2014 that sits quietly on the shoreline, built in the 19th century and used as a pearl trading post. The fort is in reasonable...",
+    "path": "asia/qatar/waqra",
+    "score": 0.29,
+    "lat": 25.055,
+    "lon": 51.424
    }
   ]
  },
@@ -5698,7 +5551,7 @@
  "porto": {
   "name": "Porto & North",
   "parent": "Portugal",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": true,
   "top_locations": [
    {
@@ -5890,7 +5743,7 @@
  "poland": {
   "name": "Poland",
   "parent": "Poland",
-  "n_locs": 42,
+  "n_locs": 41,
   "is_split": false,
   "top_locations": [
    {
@@ -5938,7 +5791,7 @@
  "boracay": {
   "name": "Visayas & Boracay",
   "parent": "Philippines",
-  "n_locs": 96,
+  "n_locs": 95,
   "is_split": true,
   "top_locations": [
    {
@@ -6018,7 +5871,7 @@
  "lima": {
   "name": "Northern & Central",
   "parent": "Peru",
-  "n_locs": 25,
+  "n_locs": 24,
   "is_split": true,
   "top_locations": [
    {
@@ -6114,7 +5967,7 @@
  "paraguay": {
   "name": "Paraguay",
   "parent": "Paraguay",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -6142,27 +5995,27 @@
     "lon": -57.6344
    },
    {
-    "title": "Paraguay",
-    "snippet": "Paraguay is an introvert country that borders on Bolivia, Brazil and Argentina. During a large part of this century it was one of the most notorious and durable police states, but it now is gradually getting used to being a republic.",
-    "path": "southamerica/paraguay",
-    "score": 0.42,
-    "lat": -23.316593,
-    "lon": -58.169345
-   },
-   {
     "title": "Concepci\u00f3n",
     "snippet": "Concepci\u00f3n is an attractive frontier town on the R\u00edo Paraguay in northern Paraguay. It is not really worth a detour in itself, but it is the traditional departure point for river journeys heading upstream toward the Pantanal of Brazil.",
     "path": "southamerica/paraguay/concepcion",
     "score": 0.36,
     "lat": -23.1775,
     "lon": -57.1675
+   },
+   {
+    "title": "Ciudad del Este",
+    "snippet": "Ciudad del Este is Paraguay's second city and the strangest place in the country \u2014 a chaotic frontier boomtown on the Paran\u00e1 river, 327 km east of Asunci\u00f3n, where Paraguay, Brazil and Argentina meet at the **Triple Frontier**. It was founded in 1957 to anchor the Paraguayan si...",
+    "path": "southamerica/paraguay/ciudaddeleste",
+    "score": 0.34,
+    "lat": -25.516901,
+    "lon": -54.616864
    }
   ]
  },
  "papua_new_guinea": {
   "name": "Papua New Guinea",
   "parent": "Papua New Guinea",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": false,
   "top_locations": [
    {
@@ -6190,20 +6043,20 @@
     "lon": 142.2514
    },
    {
-    "title": "Papua New Guinea",
-    "snippet": "Papua New Guinea is one of the most linguistically and culturally diverse countries on earth. More than 800 languages are spoken here \u2014 roughly a tenth of all the world's languages \u2014 in a country of fewer than ten million people. Much of the interior remains accessible only by...",
-    "path": "asia/papuanewguinea",
-    "score": 0.43,
-    "lat": -6.314993,
-    "lon": 143.95555
-   },
-   {
     "title": "Madang",
     "snippet": "Madang is often called the prettiest town in the Pacific, and the claim is not unreasonable. Set on a peninsula between lagoons and the open sea, the town is full of parks, ponds and waterways, with coconut plantations stretching along the coast in both directions. The diving...",
     "path": "asia/papuanewguinea/madang",
     "score": 0.43,
     "lat": -5.2183,
     "lon": 145.7961
+   },
+   {
+    "title": "Kavieng",
+    "snippet": "Kavieng is the capital of New Ireland Province, a small port town set on a sublime harbour at the northern tip of the island. It is one of Papua New Guinea's most popular spots for diving \u2014 the waters around Kavieng offer World War II wrecks, pristine coral walls, and big pela...",
+    "path": "asia/papuanewguinea/newireland/kavieng",
+    "score": 0.41,
+    "lat": -2.573474,
+    "lon": 150.795224
    }
   ]
  },
@@ -6274,17 +6127,9 @@
  "palau": {
   "name": "Palau",
   "parent": "Palau",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Palau",
-    "snippet": "Palau is Micronesia's westernmost island chain and is located roughly speaking between Indonesia and the Philippines . The islands offer great natural beauty, untouched wilderness, intact culture and remoteness; the ideal ingredients for a relaxing holiday. Besides the beaches...",
-    "path": "australiaandpacific/palau",
-    "score": 0.78,
-    "lat": 5.378354,
-    "lon": 132.910257
-   },
    {
     "title": "Koror",
     "snippet": "Koror is Palau's main island and the country's commercial heart \u2014 the place where nearly everyone stays, eats, and gears up for the underwater adventures that make Palau famous. It is a compact, walkable town with a mix of Japanese colonial relics, concrete shophouses, and div...",
@@ -6322,7 +6167,7 @@
  "pakistan": {
   "name": "Pakistan",
   "parent": "Pakistan",
-  "n_locs": 68,
+  "n_locs": 67,
   "is_split": false,
   "top_locations": [
    {
@@ -6370,7 +6215,7 @@
  "oman": {
   "name": "Oman",
   "parent": "Oman",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": false,
   "top_locations": [
    {
@@ -6380,14 +6225,6 @@
     "score": 0.68,
     "lat": 23.612363,
     "lon": 58.593813
-   },
-   {
-    "title": "Oman",
-    "snippet": "Oman is the quiet one on the Arabian Peninsula. While its neighbours have gone all-in on glass towers and mega-malls, Oman kept the forts, the frankincense, and the sense that people here aren't in a hurry. It is one of the safest, most welcoming countries in the Middle East,...",
-    "path": "asia/oman",
-    "score": 0.65,
-    "lat": 21.000029,
-    "lon": 57.00369
    },
    {
     "title": "Salalah",
@@ -6412,13 +6249,21 @@
     "score": 0.59,
     "lat": 26.18413,
     "lon": 56.246979
+   },
+   {
+    "title": "Sur",
+    "snippet": "Sur is one of Oman's oldest port towns, sitting on a sheltered lagoon where the Gulf of Oman meets the Arabian Sea, about 350 km south-east of Muscat. For centuries its fortune was built on the sea \u2014 Sur dhows sailed as far as East Africa, India, and the Persian Gulf, and the...",
+    "path": "asia/oman/sur",
+    "score": 0.51,
+    "lat": 22.5694,
+    "lon": 59.5297
    }
   ]
  },
  "fl_m": {
   "name": "Norwegian Fjords",
   "parent": "Norway",
-  "n_locs": 32,
+  "n_locs": 31,
   "is_split": true,
   "top_locations": [
    {
@@ -6601,7 +6446,7 @@
  "north_korea": {
   "name": "North Korea",
   "parent": "North Korea",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -6621,14 +6466,6 @@
     "lon": 126.188
    },
    {
-    "title": "North Korea",
-    "snippet": "North Korea \u2014 officially the Democratic People's Republic of Korea \u2014 is the most closed country on earth and, for that reason, one of the most compelling. Every visitor goes as a guest of the state. You will be met at the airport, escorted everywhere by two government-assigned...",
-    "path": "asia/northkorea",
-    "score": 0.19,
-    "lat": 40.373661,
-    "lon": 127.087042
-   },
-   {
     "title": "Wonsan",
     "snippet": "Wonsan is a port city on the east coast, facing the Sea of Japan, and has traditionally been one of the few places outside Pyongyang on standard North Korea tours. The beach and coastal setting offer a change of pace from monument-heavy city itineraries.",
     "path": "asia/northkorea/wonsan",
@@ -6643,13 +6480,21 @@
     "score": 0.19,
     "lat": 38.58,
     "lon": 125.27
+   },
+   {
+    "title": "Pyongyang",
+    "snippet": "Pyongyang is unlike any other capital city. It was rebuilt from near-total destruction after the Korean War and designed as an advertisement for the socialist state \u2014 wide boulevards, monumental plazas, heroic statuary, and apartment blocks in pastel colours arranged along the...",
+    "path": "asia/northkorea/pyongyang",
+    "score": 0.15,
+    "lat": 39.0194,
+    "lon": 125.7381
    }
   ]
  },
  "nigeria": {
   "name": "Nigeria",
   "parent": "Nigeria",
-  "n_locs": 23,
+  "n_locs": 22,
   "is_split": false,
   "top_locations": [
    {
@@ -6697,7 +6542,7 @@
  "niger": {
   "name": "Niger",
   "parent": "Niger",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -6707,14 +6552,6 @@
     "score": 0.35,
     "lat": 16.972556,
     "lon": 7.990739
-   },
-   {
-    "title": "Niger",
-    "snippet": "Niger is a landlocked country in the heart of Africa, at the south end of the Sahara. It borders on Chad, Nigeria, Algeria, Burkina Faso, Libya, Benin and Mali. Most people of Niger are muslims, although there are quite some differences in their practice depending on the regio...",
-    "path": "africa/niger",
-    "score": 0.29,
-    "lat": 17.735621,
-    "lon": 9.323843
    },
    {
     "title": "Koure",
@@ -6739,13 +6576,21 @@
     "score": 0.26,
     "lat": 13.8063,
     "lon": 8.9892
+   },
+   {
+    "title": "Bilma",
+    "snippet": "Bilma is about as far as you can get from anywhere in Niger. After 500 km of desert from Agadez, this remote oasis in the Kawar region is the last significant stop before the Libyan border. The salt pans here have been mined for centuries \u2014 caravans once carried Bilma salt sou...",
+    "path": "africa/niger/bilma",
+    "score": 0.24,
+    "lat": 18.686,
+    "lon": 12.916
    }
   ]
  },
  "nicaragua": {
   "name": "Nicaragua",
   "parent": "Nicaragua",
-  "n_locs": 20,
+  "n_locs": 19,
   "is_split": false,
   "top_locations": [
    {
@@ -6793,7 +6638,7 @@
  "south_island": {
   "name": "Canterbury & West Coast",
   "parent": "South I.",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": true,
   "top_locations": [
    {
@@ -6803,14 +6648,6 @@
     "score": 0.87,
     "lat": -43.586562,
     "lon": 171.212329
-   },
-   {
-    "title": "New Zealand",
-    "snippet": "New Zealand is remote by any measure \u2014 a two-island nation in the South Pacific, about 2,000km southeast of Australia. The North Island and South Island together cover roughly 268,000 sq km, home to around 5 million people. That ratio of space to population is part of the poin...",
-    "path": "australiaandpacific/newzealand",
-    "score": 0.8,
-    "lat": -41.500083,
-    "lon": 172.834408
    },
    {
     "title": "Christchurch",
@@ -6835,6 +6672,14 @@
     "score": 0.62,
     "lat": -43.8035,
     "lon": 172.9681
+   },
+   {
+    "title": "Nelson Bays",
+    "snippet": "The Nelson Bays region sits at the top of the South Island, blessed with the sunniest climate in New Zealand. It is a fruit-growing region backed by forested hills, with long golden-sand beaches along Tasman Bay and a relaxed, outdoorsy character.",
+    "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+    "score": 0.62,
+    "lat": -41.234862,
+    "lon": 173.306509
    }
   ]
  },
@@ -7048,17 +6893,9 @@
  "niue": {
   "name": "Niue",
   "parent": "New Zealand",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Niue",
-    "snippet": "Niue is one of the world's smallest nations \u2014 a single raised coral island in the South Pacific, about 2,400 km northeast of New Zealand. It calls itself the Rock of Polynesia, and the name fits. There are no beaches to speak of on most of the coast; instead, the island rises...",
-    "path": "australiaandpacific/niue",
-    "score": 0.55,
-    "lat": -19.054,
-    "lon": -169.861
-   },
    {
     "title": "Alofi",
     "snippet": "Alofi is Niue's capital and only real town, with a population of under 1,000. It sits on the west coast and looks out over a wide bay. The cliffs here are lower than on much of the island, making access to the water easier, though there is no beach \u2014 just a rocky shoreline and...",
@@ -7079,7 +6916,7 @@
  "cook_is": {
   "name": "Cook Is.",
   "parent": "New Zealand",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -7099,14 +6936,6 @@
     "lon": -159.783188
    },
    {
-    "title": "Cook Islands",
-    "snippet": "Fifteen islands scattered across an area of ocean the size of India, with a total population of around 17,000 people. That ratio \u2014 vast sea, tiny population \u2014 tells you most of what you need to know about the Cook Islands. These are not undiscovered islands dressed up as parad...",
-    "path": "australiaandpacific/cookislands",
-    "score": 0.76,
-    "lat": -19.996972,
-    "lon": -157.785871
-   },
-   {
     "title": "Atiu",
     "snippet": "Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by *makatea* \u2014 raised coral limestone \u2014 a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastl...",
     "path": "australiaandpacific/cookislands/atiu",
@@ -7121,13 +6950,21 @@
     "score": 0.5,
     "lat": -20.160399,
     "lon": -157.341222
+   },
+   {
+    "title": "Mangaia",
+    "snippet": "Mangaia is the southernmost and oldest island in the Cook Islands \u2014 geologically, one of the oldest islands in the Pacific. Like Atiu, it is ringed by a dramatic belt of makatea (raised coral limestone) that gives the coastline a jagged, fortress-like appearance. Inside the ma...",
+    "path": "australiaandpacific/cookislands/mangaia",
+    "score": 0.5,
+    "lat": -21.925029,
+    "lon": -157.918069
    }
   ]
  },
  "amsterdam": {
   "name": "Randstad",
   "parent": "Netherlands",
-  "n_locs": 71,
+  "n_locs": 70,
   "is_split": true,
   "top_locations": [
    {
@@ -7303,17 +7140,9 @@
  "nepal": {
   "name": "Nepal",
   "parent": "Nepal",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Nepal",
-    "snippet": "Travel Guide",
-    "path": "asia/nepal",
-    "score": 0.76,
-    "lat": 28.378046,
-    "lon": 83.99999
-   },
    {
     "title": "Pokhara",
     "snippet": "If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of Phewa Lake in a tranquil valley ringed by forested hills, with the snow wall of the **Annapurnas** and the perfect fish-tail summit of **Machhapuchhre...",
@@ -7345,39 +7174,30 @@
     "score": 0.63,
     "lat": 27.7215,
     "lon": 85.362
+   },
+   {
+    "title": "Pashupatinath",
+    "snippet": "Pashupatinath is Nepal's most sacred Hindu temple complex, spread along the banks of the Bagmati River on the eastern edge of Kathmandu. It is to Nepali Hindus what Varanasi is to Indian Hindus \u2014 the holiest place to be cremated, with the belief that having your ashes scattere...",
+    "path": "asia/nepal/pashupatinath",
+    "score": 0.62,
+    "lat": 27.7107,
+    "lon": 85.3481
    }
   ]
  },
  "nauru": {
   "name": "Nauru",
   "parent": "Nauru",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Nauru",
-    "snippet": "Nauru is one of the strangest places on Earth. The world's third-smallest country \u2014 only Monaco and the Vatican are smaller \u2014 sits just south of the Equator in the Central Pacific, a raised coral island barely 21 square kilometres in area. Its 11,000 or so residents live almos...",
-    "path": "australiaandpacific/nauru",
-    "score": 0.36,
-    "lat": -0.525231,
-    "lon": 166.932443
-   }
-  ]
+  "top_locations": []
  },
  "namibia": {
   "name": "Namibia",
   "parent": "Namibia",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Namibia",
-    "snippet": "Namibia, a huge but sparsely populated country, is situated in southwestern Africa. Irt is known for its contrasting landscapes. There is the brooding desolate Namib Desert, said to be the oldest in the world, with its high dunes and awe inspiring sense of space. The central p...",
-    "path": "africa/namibia",
-    "score": 0.69,
-    "lat": -23.23355,
-    "lon": 17.323111
-   },
    {
     "title": "Swakopmund",
     "snippet": "Swakopmund sits at a collision of worlds: the cold Atlantic on one side, the oldest desert on earth on the other, and in the middle a town that looks as though it was transplanted wholesale from a Bavarian market square. The German colonial architecture \u2014 turrets, towers, Juge...",
@@ -7409,13 +7229,21 @@
     "score": 0.47,
     "lat": -22.57761,
     "lon": 17.077274
+   },
+   {
+    "title": "Tsumeb, Gateway to the North and Etosha",
+    "snippet": "Tsumeb is the main town in northern Namibia and the practical gateway to Etosha National Park, roughly 70km to the west. It's a working mining town \u2014 copper, lead, zinc, and silver have been extracted here since German colonial times \u2014 and a useful stop for fuel, supplies, and...",
+    "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+    "score": 0.41,
+    "lat": -19.2512,
+    "lon": 17.7178
    }
   ]
  },
  "mozambique": {
   "name": "Mozambique",
   "parent": "Mozambique",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -7463,17 +7291,9 @@
  "marrakesh": {
   "name": "Marrakech & Atlas",
   "parent": "Morocco",
-  "n_locs": 28,
+  "n_locs": 27,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "Morocco",
-    "snippet": "Morocco is a safe place to visit. For any traveler, even post September 11th, Morocco is still a fascinating country filled with mysterious beauty and extreme contrasts. Even though it is only one hour by ferry from Spain, it seems worlds apart with a deeply traditional cultur...",
-    "path": "africa/morocco",
-    "score": 0.78,
-    "lat": 28.334772,
-    "lon": -10.371338
-   },
    {
     "title": "Marrakesh",
     "snippet": "Marrakesh is the most visceral of Morocco's imperial cities \u2014 an ochre-walled medina at the foot of the snow-capped Atlas Mountains where the medieval and the contemporary collide in spectacularly chaotic fashion. The city has been pulling in visitors for decades, and the tour...",
@@ -7505,6 +7325,14 @@
     "score": 0.61,
     "lat": 31.06,
     "lon": -7.9
+   },
+   {
+    "title": "Ouarzazate",
+    "snippet": "Ouarzazate sits at 1,160 metres in the pre-Saharan south of Morocco, where the High Atlas mountains give way to the desert steppe. It is the main town and transport hub of the region and the gateway to the Draa Valley, the Dades Gorge, and the edge of the Sahara. The Moroccan...",
+    "path": "africa/morocco/ouarzazate",
+    "score": 0.6,
+    "lat": 30.920193,
+    "lon": -6.910923
    }
   ]
  },
@@ -7566,7 +7394,7 @@
  "montenegro": {
   "name": "Montenegro",
   "parent": "Montenegro",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -7586,14 +7414,6 @@
     "lon": 18.6833
    },
    {
-    "title": "Montenegro",
-    "snippet": "Montenegro \u2014 meaning \"Black Mountain\" in Venetian Italian \u2014 packs an extraordinary amount of landscape into a country smaller than Connecticut. In a four-hour drive you can move from a medieval walled harbour town on the Adriatic, past a lake that straddles the Albanian border...",
-    "path": "europe/montenegro",
-    "score": 0.7,
-    "lat": 42.708678,
-    "lon": 19.37439
-   },
-   {
     "title": "Sveti Stefan",
     "snippet": "Sveti Stefan is the most photographed spot in Montenegro \u2014 a turreted medieval village on a small island, connected to the shore by a narrow sandy causeway, with pink-sand beaches on both sides. If you've seen a postcard of Montenegro, this is probably it.",
     "path": "europe/montenegro/sveti_stefan",
@@ -7608,23 +7428,23 @@
     "score": 0.65,
     "lat": 42.486268,
     "lon": 18.698859
+   },
+   {
+    "title": "Herceg Novi",
+    "snippet": "Herceg Novi sits at the entrance to the Bay of Kotor, just a few kilometres from the Croatian border. It's the first town you'll reach coming from Dubrovnik, and it makes for a pleasant introduction to Montenegro \u2014 less touristed than Kotor, more authentic than Budva.",
+    "path": "europe/montenegro/hercegnovi",
+    "score": 0.63,
+    "lat": 42.451762,
+    "lon": 18.536752
    }
   ]
  },
  "mongolia": {
   "name": "Mongolia",
   "parent": "Mongolia",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Mongolia",
-    "snippet": "Mongolia is one of the last places on earth where the land still feels genuinely empty. Twice the size of France but with fewer people than Sydney, it is a country of vast grasslands, crumbling desert and bone-white mountains \u2014 and a culture shaped entirely by the demands of t...",
-    "path": "asia/mongolia",
-    "score": 0.58,
-    "lat": 46.825039,
-    "lon": 103.849974
-   },
    {
     "title": "Karakorum",
     "snippet": "Karakorum (Kharkhorin in modern Mongolian) was the capital of the Mongol Empire under \u00d6gedei Khan, founded in 1235 at the crossroads of the Silk Road. For a brief period it was the most powerful city on earth, seat of an empire stretching from Korea to Hungary. Marco Polo desc...",
@@ -7656,13 +7476,21 @@
     "score": 0.47,
     "lat": 50.444229,
     "lon": 100.157935
+   },
+   {
+    "title": "Khentii",
+    "snippet": "Khentii is a vast, sparsely populated province in eastern Mongolia, rolling across forested mountains and open steppe toward the Russian and Chinese borders. It is best known as the birthplace of Genghis Khan \u2014 the town of Dadal, near the Onon River, is the traditional site \u2014...",
+    "path": "asia/mongolia/khentii",
+    "score": 0.42,
+    "lat": 47.885981,
+    "lon": 110.420104
    }
   ]
  },
  "moldova": {
   "name": "Moldova",
   "parent": "Moldova",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -7710,23 +7538,14 @@
  "monaco": {
   "name": "Monaco",
   "parent": "Monaco",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Monaco",
-    "snippet": "Monaco is one of the world's smallest countries \u2014 2.1 square kilometres wedged between France and the sea \u2014 and one of the most densely packed with wealth. The glittering yachts, the casino, the Grand Prix circuit threading through city streets: it's a place where ostentation...",
-    "path": "europe/monaco",
-    "score": 0.79,
-    "lat": 43.732349,
-    "lon": 7.427683
-   }
-  ]
+  "top_locations": []
  },
  "teotihuacan": {
   "name": "Central Highlands",
   "parent": "Mexico",
-  "n_locs": 40,
+  "n_locs": 39,
   "is_split": true,
   "top_locations": [
    {
@@ -7870,17 +7689,9 @@
  "mauritius": {
   "name": "Mauritius",
   "parent": "Mauritius",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Mauritius",
-    "snippet": "God created Mauritius and then Heaven, at least according to Mark Twain and if you are looking for what brochures call a tropical paradise, Mauritius is there for you.",
-    "path": "africa/mauritius",
-    "score": 0.76,
-    "lat": -20.275945,
-    "lon": 57.570357
-   },
    {
     "title": "Grand Baie",
     "snippet": "Grand Baie is the main tourist hub of the north coast \u2014 busy, convenient, and unashamedly commercial. The beach is pleasant but not the best on the island. What Grand Baie has is infrastructure: the highest concentration of restaurants, shops, dive operators, boat excursion co...",
@@ -7912,13 +7723,21 @@
     "score": 0.62,
     "lat": -19.7092,
     "lon": 63.4426
+   },
+   {
+    "title": "Grand Gaube",
+    "snippet": "Grand Gaube is a quiet fishing village on the northeast coast, about 15 kilometres from Grand Baie. It has a sheltered lagoon with calm water and fine views to the offshore islands \u2014 Coin de Mire (Gunner's Quoin), Flat Island, Round Island, and Snake Island \u2014 which can be visi...",
+    "path": "africa/mauritius/grand_gaube__nort",
+    "score": 0.58,
+    "lat": -20.0144,
+    "lon": 57.6608
    }
   ]
  },
  "mauritania": {
   "name": "Mauritania",
   "parent": "Mauritania",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
    {
@@ -7966,7 +7785,7 @@
  "malta": {
   "name": "Malta",
   "parent": "Malta",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": false,
   "top_locations": [
    {
@@ -7994,27 +7813,27 @@
     "lon": 14.402529
    },
    {
-    "title": "Malta",
-    "snippet": "By far the largest and most popular island historic Malta merits a minimum of four nights. Sun worshippers should know that the sandiest beaches in the nation are located on the northern coast.. The Maltese archipelago consists of three islands: Malta, Gozo and Comino. Malta,...",
-    "path": "europe/malta",
-    "score": 0.6,
-    "lat": 35.931144,
-    "lon": 14.395163
-   },
-   {
     "title": "St Julian's",
     "snippet": "St Julian's (San \u0120iljan) is Malta's nightlife capital. During the day the waterfront around Spinola Bay is pleasant enough \u2014 fishermen's boats bob in the harbour, and there are good spots for lunch \u2014 but it is after dark that the place comes alive. Paceville, the compact enter...",
     "path": "europe/malta/stjulian",
     "score": 0.6,
     "lat": 35.919922,
     "lon": 14.487712
+   },
+   {
+    "title": "Mellieha",
+    "snippet": "Mellieha sits on a ridge at the northern tip of Malta, the town climbing steeply up a limestone hill with views out over the sea in almost every direction. It is the most northerly town of any size on the island, and it matters for one reason above all others: Mellieha Bay, th...",
+    "path": "europe/malta/mellieha",
+    "score": 0.59,
+    "lat": 35.9588,
+    "lon": 14.3637
    }
   ]
  },
  "mali": {
   "name": "Mali",
   "parent": "Mali",
-  "n_locs": 17,
+  "n_locs": 16,
   "is_split": false,
   "top_locations": [
    {
@@ -8062,17 +7881,9 @@
  "south_mal_atoll": {
   "name": "Male Atolls",
   "parent": "Maldives",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "Maldives",
-    "snippet": "The Maldives is like nowhere else on earth \u2014 1,190 coral islands scattered across 90,000 square kilometres of the Indian Ocean, so flat that even a modest sea-level rise could claim much of the country within decades. The highest point in the entire nation barely clears two me...",
-    "path": "asia/maldives",
-    "score": 0.9,
-    "lat": 3.72035,
-    "lon": 73.224415
-   },
    {
     "title": "South Mal\u00e9 Atoll",
     "snippet": "South Mal\u00e9 Atoll (Kaafu South) sits directly south of Mal\u00e9 and the main airport atoll, separated by the navigable Vaadhoo Kandu channel. It is quieter than its northern neighbour, with around 30 resorts spread across smaller islands and a string of inhabited local islands at i...",
@@ -8102,7 +7913,7 @@
  "langkawi": {
   "name": "Peninsular",
   "parent": "Malaysia",
-  "n_locs": 28,
+  "n_locs": 27,
   "is_split": true,
   "top_locations": [
    {
@@ -8198,7 +8009,7 @@
  "malawi": {
   "name": "Malawi",
   "parent": "Malawi",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -8208,14 +8019,6 @@
     "score": 0.46,
     "lat": -14.0264,
     "lon": 34.8382
-   },
-   {
-    "title": "Malawi",
-    "snippet": "Malawi is a small, landlocked country in southeastern Africa \u2014 thin and elongated, running north to south along the western edge of the Great Rift Valley. The country is dominated by Lake Malawi, one of the world's great freshwater lakes, which occupies almost a fifth of the n...",
-    "path": "africa/malawi",
-    "score": 0.45,
-    "lat": -13.2543,
-    "lon": 34.3015
    },
    {
     "title": "Lilongwe",
@@ -8240,23 +8043,23 @@
     "score": 0.29,
     "lat": -11.4608,
     "lon": 34.0226
+   },
+   {
+    "title": "Chintheche",
+    "snippet": "Chintheche is situated approximately half way up Lake Malawi, 40 km south of Nkhata Bay. The road winds through the rubber plantations and picturesque forestry areas. Blue monkeys can often be seen by the side of the road. Chintheche town has a number of shops to buy local pro...",
+    "path": "africa/malawi/chintheche",
+    "score": 0.26,
+    "lat": -11.831382,
+    "lon": 34.169301
    }
   ]
  },
  "madagascar": {
   "name": "Madagascar",
   "parent": "Madagascar",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Madagascar",
-    "snippet": "*Africa > Madagascar*",
-    "path": "africa/madagascar",
-    "score": 0.62,
-    "lat": -18.92496,
-    "lon": 46.441642
-   },
    {
     "title": "Nosy Be",
     "snippet": "Madagascar's most popular island sits off the northwest coast, surrounded by warm turquoise water and dozens of smaller islands. Nosy Be draws visitors with its coral reefs, white sand beaches, and a relaxed pace that makes the mainland feel far away. The island is roughly thr...",
@@ -8288,6 +8091,14 @@
     "score": 0.43,
     "lat": -19.871403,
     "lon": 47.034667
+   },
+   {
+    "title": "Toamasina",
+    "snippet": "Toamasina is Madagascar's largest port and its second city, though little about it feels urban in a conventional sense. The central market in the heart of town is the one sight deemed worth showing to the few tourists who visit, and driving around, the economic deprivation is...",
+    "path": "africa/madagascar/toamasina",
+    "score": 0.41,
+    "lat": -18.155399,
+    "lon": 49.409835
    }
   ]
  },
@@ -8342,17 +8153,9 @@
  "luxembourg": {
   "name": "Luxembourg",
   "parent": "Luxembourg",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Luxembourg",
-    "snippet": "The Grand Duchy of Luxembourg is one of Europe's smallest countries and quietly one of its most interesting. Wedged between Belgium, Germany, and France, it covers just 2,586 square kilometres \u2014 slightly smaller than Rhode Island \u2014 yet contains a genuine capital city, four dis...",
-    "path": "europe/luxembourg",
-    "score": 0.64,
-    "lat": 49.815868,
-    "lon": 6.129675
-   },
    {
     "title": "Luxembourg City",
     "snippet": "Luxembourg City is the country's capital and its cultural, political, and financial centre. It sits on a rocky outcrop above the deep gorges of the Alzette and P\u00e9trusse rivers \u2014 a setting that gave rise to some of the most impressive fortifications in Europe, and that earned t...",
@@ -8384,13 +8187,21 @@
     "score": 0.43,
     "lat": 50.035145,
     "lon": 6.039484
+   },
+   {
+    "title": "Kaundorf",
+    "snippet": "Kaundorf is a small village in the \u00c9islek region of northern Luxembourg, set in hilly, wooded countryside near the Upper S\u00fbre lake. With just a handful of houses clustered around a quiet lane, it is the kind of place where the main activities are walking, cycling, and doing no...",
+    "path": "europe/luxembourg/kaundorf",
+    "score": 0.37,
+    "lat": 49.9201,
+    "lon": 5.9013
    }
   ]
  },
  "lithuania": {
   "name": "Lithuania",
   "parent": "Lithuania",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -8410,14 +8221,6 @@
     "lon": 23.9036
    },
    {
-    "title": "Lithuania",
-    "snippet": "Lithuania is the southernmost of the three Baltic states, sandwiched between Latvia to the north, Belarus to the east, Poland to the south, and the Russian exclave of Kaliningrad to the southwest. It's a small country \u2014 about the size of Ireland \u2014 but one with outsized history...",
-    "path": "europe/lithuania",
-    "score": 0.51,
-    "lat": 55.35,
-    "lon": 23.75
-   },
-   {
     "title": "Klaipeda",
     "snippet": "Klaipeda is Lithuania's only seaport and the country's third-largest city. Until 1919 it was the German city of Memel, part of Prussia, and German influence is visible in the half-timbered buildings of the old town and in the history museums. The city sits at the mouth of the...",
     "path": "europe/lithuania/klaipeda",
@@ -8432,23 +8235,23 @@
     "score": 0.49,
     "lat": 54.017193,
     "lon": 23.977228
+   },
+   {
+    "title": "Palanga",
+    "snippet": "Palanga is Lithuania's main seaside resort, a small town on the Baltic coast that transforms every summer into a busy holiday destination. The beach stretches for kilometers in both directions \u2014 wide, sandy, and backed by dunes and pine forests. A long wooden pier extends into...",
+    "path": "europe/lithuania/palanga",
+    "score": 0.45,
+    "lat": 55.923,
+    "lon": 21.0683
    }
   ]
  },
  "liechtenstein": {
   "name": "Liechtenstein",
   "parent": "Liechtenstein",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Liechtenstein",
-    "snippet": "Wedged between Switzerland and Austria in the Rhine Valley, Liechtenstein is one of the world's smallest countries and one of only two that are doubly landlocked \u2014 surrounded entirely by landlocked neighbours. It is a genuine principality, still ruled by Prince Hans-Adam II of...",
-    "path": "europe/liechtenstein",
-    "score": 0.6,
-    "lat": 47.141631,
-    "lon": 9.553153
-   },
    {
     "title": "Vaduz",
     "snippet": "Vaduz is the capital of Liechtenstein and the focus of most visits to the country. It is not a large place \u2014 the population is around 5,500 \u2014 but it has good museums, a pleasant pedestrian zone, and the royal castle looming above it all on a cliff.",
@@ -8470,7 +8273,7 @@
  "libya": {
   "name": "Libya",
   "parent": "Libya",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -8518,7 +8321,7 @@
  "liberia": {
   "name": "Liberia",
   "parent": "Liberia",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
    {
@@ -8538,14 +8341,6 @@
     "lon": -7.706099
    },
    {
-    "title": "Liberia",
-    "snippet": "*Africa > Liberia*",
-    "path": "africa/liberia",
-    "score": 0.22,
-    "lat": 6.428055,
-    "lon": -9.429499
-   },
-   {
     "title": "Greenville",
     "snippet": "Greenville is the capital of Sinoe County in southeastern Liberia, about 350 km from Monrovia \u2014 the first 100 km paved, the rest dirt road. The journey is an adventure in itself and can take the better part of a day.",
     "path": "africa/liberia/greenville",
@@ -8558,7 +8353,7 @@
  "lesotho": {
   "name": "Lesotho",
   "parent": "Lesotho",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
    {
@@ -8568,14 +8363,6 @@
     "score": 0.44,
     "lat": -29.8299,
     "lon": 27.6069
-   },
-   {
-    "title": "Lesotho",
-    "snippet": "Lesotho is a tiny country in Southern Africa, and landlocked within the Republic of South Africa. It used to be known as Basutoland when it was a British Protectorate. It is spectacularly scenic, and has a large mountain range (part of the Drakensberg), forming most of its bor...",
-    "path": "africa/lesotho",
-    "score": 0.41,
-    "lat": -29.603927,
-    "lon": 28.335019
    },
    {
     "title": "Maseru",
@@ -8590,7 +8377,7 @@
  "lebanon": {
   "name": "Lebanon",
   "parent": "Lebanon",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": false,
   "top_locations": [
    {
@@ -8638,7 +8425,7 @@
  "latvia": {
   "name": "Latvia",
   "parent": "Latvia",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -8658,14 +8445,6 @@
     "lon": 23.788698
    },
    {
-    "title": "Latvia",
-    "snippet": "Latvia sits in the middle of the three Baltic states, between Lithuania to the south and Estonia to the north, with the Baltic Sea to the west and Russia and Belarus to the east. It's a small country \u2014 roughly the size of Ireland \u2014 and largely flat, with forests covering nearl...",
-    "path": "europe/latvia",
-    "score": 0.51,
-    "lat": 56.840649,
-    "lon": 24.753764
-   },
-   {
     "title": "Cesis",
     "snippet": "Cesis is the most appealing town in the Gauja Valley and arguably the best-preserved medieval settlement in the Baltics. It's about 90 minutes from Riga by train and makes an easy day trip, though an overnight stay lets you see it more slowly.",
     "path": "europe/latvia/cesis",
@@ -8680,13 +8459,21 @@
     "score": 0.48,
     "lat": 57.802439,
     "lon": 23.243165
+   },
+   {
+    "title": "Ventspils",
+    "snippet": "Ventspils is a port city on Latvia's northwest coast, about 190 kilometres from Riga. It has a reputation as one of Latvia's cleanest and best-kept cities \u2014 the municipality has drawn steady income from its busy commercial harbour and, to its credit, has spent much of it on pa...",
+    "path": "europe/latvia/ventspils",
+    "score": 0.45,
+    "lat": 57.3904,
+    "lon": 21.5636
    }
   ]
  },
  "laos": {
   "name": "Laos",
   "parent": "Laos",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -8706,14 +8493,6 @@
     "lon": 102.456391
    },
    {
-    "title": "Laos",
-    "snippet": "Laos is Southeast Asia's most languid country, a place where the Mekong River sets the pace and nobody rushes. Landlocked between Thailand, Vietnam, Cambodia, China and Myanmar, it remains one of the region's least developed nations -- and that is a large part of its appeal. W...",
-    "path": "asia/laos",
-    "score": 0.61,
-    "lat": 19.8563,
-    "lon": 102.4955
-   },
-   {
     "title": "Vientiane",
     "snippet": "Southeast Asia's smallest and most laid-back capital sits on a bend in the Mekong, gazing across the river at Thailand. With around 800,000 people, Vientiane feels more like a large provincial town than a national capital -- and that is its charm. Tree-lined boulevards, crumbl...",
     "path": "asia/laos/vientiane",
@@ -8728,23 +8507,23 @@
     "score": 0.54,
     "lat": 15.120146,
     "lon": 105.804397
+   },
+   {
+    "title": "Phonsavan",
+    "snippet": "Phonsavan is a small, chilly town on the Xieng Khouang Plateau, rebuilt after the original provincial capital was destroyed by bombing during the Vietnam War. The town itself is unremarkable, but it is the base for visiting the mysterious Plain of Jars -- one of Southeast Asia...",
+    "path": "asia/laos/phonesavanh",
+    "score": 0.51,
+    "lat": 19.449774,
+    "lon": 103.183655
    }
   ]
  },
  "kyrgyzstan": {
   "name": "Kyrgyzstan",
   "parent": "Kyrgyzstan",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Kyrgyzstan",
-    "snippet": "Kyrgyzstan is Central Asia's most accessible adventure. A small, mountainous country wedged between China, Kazakhstan, Uzbekistan and Tajikistan, it offers some of the most dramatic alpine scenery on earth, a living nomadic culture and a visa-free entry policy that makes it th...",
-    "path": "asia/kyrgyzstan",
-    "score": 0.6,
-    "lat": 41.2044,
-    "lon": 74.7661
-   },
    {
     "title": "Karakol",
     "snippet": "Karakol is the main town on the eastern shore of Lake Issyk-Kul and the trekking capital of Kyrgyzstan. With a population of around 80,000, it is a quiet, leafy town that serves as the base for some of the country's best multi-day hikes, including the Ala-Kul trek, Altyn-Arash...",
@@ -8776,13 +8555,21 @@
     "score": 0.39,
     "lat": 40.768814,
     "lon": 73.298663
+   },
+   {
+    "title": "Norus",
+    "snippet": "Norus is a small ski area about 35 kilometers from Bishkek, making it the most convenient option for a day on the slopes if you are based in the capital. It is not world-class skiing by any measure, but it is easy to reach and surprisingly enjoyable for what it is.",
+    "path": "asia/kyrgyzstan/norus",
+    "score": 0.24,
+    "lat": 42.813089,
+    "lon": 74.808459
    }
   ]
  },
  "kuwait": {
   "name": "Kuwait",
   "parent": "Kuwait",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -8800,14 +8587,6 @@
     "score": 0.39,
     "lat": 29.4336,
     "lon": 48.321
-   },
-   {
-    "title": "Kuwait",
-    "snippet": "Kuwait is a small, wealthy nation wedged between Iraq and Saudi Arabia on the northwestern shore of the Persian Gulf. It is one of the richest countries on earth per capita, and its capital, Kuwait City, is a gleaming modern metropolis that rose from the desert on oil money. B...",
-    "path": "asia/kuwait",
-    "score": 0.37,
-    "lat": 29.3759,
-    "lon": 47.9774
    },
    {
     "title": "Salmiya",
@@ -8830,7 +8609,7 @@
  "kosovo": {
   "name": "Kosovo",
   "parent": "Kosovo",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -8840,14 +8619,6 @@
     "score": 0.55,
     "lat": 42.2139,
     "lon": 20.7397
-   },
-   {
-    "title": "Kosovo",
-    "snippet": "Kosovo declared independence from Serbia in 2008 and is recognized by over 100 countries, though not by all. It is small, young, and still figuring itself out \u2014 which makes it an interesting place to visit. The atmosphere is hopeful and the welcome is warm, especially toward W...",
-    "path": "europe/kosovo",
-    "score": 0.44,
-    "lat": 42.6026,
-    "lon": 20.903
    },
    {
     "title": "Peja",
@@ -8872,23 +8643,23 @@
     "score": 0.38,
     "lat": 42.3803,
     "lon": 20.4289
+   },
+   {
+    "title": "Gjilan",
+    "snippet": "Gjilan \u2014 Gnjilane in Serbian \u2014 is the main city of eastern Kosovo, the administrative centre of the Gjilan region, and the country's third-largest city. It sits in the broad Morava e Bin\u00e7\u00ebs valley, surrounded by low hills, close to the border with North Macedonia. It is a quie...",
+    "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+    "score": 0.33,
+    "lat": 42.4633,
+    "lon": 21.4694
    }
   ]
  },
  "kiribati": {
   "name": "Kiribati",
   "parent": "Kiribati",
-  "n_locs": 7,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Kiribati",
-    "snippet": "Kiribati is one of those tropical islands paradises ion the Pacific. It consists of three island groups. They are, from west to east the Gilberts Group (including Banaba and known prior to western contact as Tungaru), the Phoenix Group and the Line Islands Group.",
-    "path": "australiaandpacific/kiribati",
-    "score": 0.45,
-    "lat": 0.344861,
-    "lon": 173.664177
-   },
    {
     "title": "Tarawa",
     "snippet": "*Australia and Pacific > Kiribati > Tarawa*",
@@ -8920,13 +8691,21 @@
     "score": 0.37,
     "lat": 0.514692,
     "lon": 173.788313
+   },
+   {
+    "title": "Manihiki",
+    "snippet": "Manihiki is a remote atoll in the northern Cook Islands, about 1,200km north of Rarotonga. It consists of roughly 40 small islets ringing a large central lagoon, and the population of a few hundred lives primarily in the village of Tukao on one of the larger islets.",
+    "path": "australiaandpacific/cookislands/manihiki",
+    "score": 0.34,
+    "lat": -10.422228,
+    "lon": -160.995904
    }
   ]
  },
  "masai_mara_n_r": {
   "name": "Maasai Mara & Rift Valley",
   "parent": "Kenya",
-  "n_locs": 28,
+  "n_locs": 27,
   "is_split": true,
   "top_locations": [
    {
@@ -9022,7 +8801,7 @@
  "kazakhstan": {
   "name": "Kazakhstan",
   "parent": "Kazakhstan",
-  "n_locs": 13,
+  "n_locs": 12,
   "is_split": false,
   "top_locations": [
    {
@@ -9050,27 +8829,27 @@
     "lon": 71.4307
    },
    {
-    "title": "Kazakhstan",
-    "snippet": "Kazakhstan is the world's largest landlocked country and the ninth largest country overall \u2014 a vast expanse of steppe, desert, mountain, and lake that most travelers still haven't discovered. It borders Russia, China, Uzbekistan, Kyrgyzstan, and Turkmenistan, and stretches fro...",
-    "path": "asia/kazakhstan",
-    "score": 0.42,
-    "lat": 48.101295,
-    "lon": 66.778082
-   },
-   {
     "title": "Aksu-Zhabagly",
     "snippet": "Aksu-Zhabagly is the oldest nature reserve in Central Asia, established in 1926 at the foot of the Western Tien Shan mountains in southern Kazakhstan. The reserve ranges from 1,100 to 4,236 metres and shelters snow leopards, Tien Shan white-clawed bears, and over 1,200 plant s...",
     "path": "asia/kazakhstan/aksuzhabagly",
     "score": 0.42,
     "lat": 42.3075,
     "lon": 70.6346
+   },
+   {
+    "title": "Shymkent",
+    "snippet": "Shymkent is Kazakhstan's third-largest city and its southernmost, sitting in the fertile Arys River valley not far from the Uzbek border. It is a sprawling, fast-growing place \u2014 more Central Asian bazaar town than the modernist showpiece of Astana \u2014 with a large Uzbek populati...",
+    "path": "asia/kazakhstan/shimkent",
+    "score": 0.35,
+    "lat": 42.3147,
+    "lon": 69.5883
    }
   ]
  },
  "jordan": {
   "name": "Jordan",
   "parent": "Jordan",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
    {
@@ -9090,14 +8869,6 @@
     "lon": 35.336215
    },
    {
-    "title": "Jordan",
-    "snippet": "Jordan punches well above its weight. A small country with no oil wealth and limited natural resources, it has assembled some of the most remarkable sights in the world: a city carved from rose-red sandstone, the lowest point on earth, Roman ruins that rival anything in Italy,...",
-    "path": "asia/jordan",
-    "score": 0.67,
-    "lat": 31.166705,
-    "lon": 36.941628
-   },
-   {
     "title": "Jerash",
     "snippet": "Jerash is a must-see. Hidden under a Circassian farming town until excavations began in the 1920s, the ruins of ancient Gerasa turned out to be among the best-preserved Greco-Roman provincial cities in the world \u2014 sometimes called the \"Pompeii of the East.\"",
     "path": "asia/jordan/jerash",
@@ -9112,6 +8883,14 @@
     "score": 0.62,
     "lat": 31.951569,
     "lon": 35.923963
+   },
+   {
+    "title": "Aqaba",
+    "snippet": "Aqaba is Jordan's only coastal city and the country's sole seaport, at the northern tip of the Red Sea where Jordan, Israel, Egypt, and Saudi Arabia converge. It has a population of around 150,000. The city is the jumping-off point for the south of Jordan \u2014 Wadi Rum (65km nort...",
+    "path": "asia/jordan/aqaba",
+    "score": 0.61,
+    "lat": 29.5267,
+    "lon": 35.0075
    }
   ]
  },
@@ -9252,17 +9031,9 @@
  "nikk": {
   "name": "Tohoku & Nikko",
   "parent": "Honshu",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "Japan",
-    "snippet": "Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraord...",
-    "path": "asia/japan",
-    "score": 0.92,
-    "lat": 36.574844,
-    "lon": 139.239418
-   },
    {
     "title": "Nikk\u014d",
     "snippet": "Nikk\u014d is one of Japan's most celebrated historic sites, set in the mountains of Tochigi Prefecture about 140 km north of Tokyo. The shrine and temple complex here, built to enshrine the Tokugawa shoguns, is the most ornate in the country \u2014 extraordinary even by Japanese standa...",
@@ -9294,6 +9065,14 @@
     "score": 0.52,
     "lat": 39.571376,
     "lon": 141.425357
+   },
+   {
+    "title": "Niigata",
+    "snippet": "Niigata is the largest city on the Sea of Japan coast of Honshu, about two hours by Shinkansen from Tokyo. For most foreign visitors it is a stopover rather than a destination \u2014 the port where the ferries leave for Sado Island, or the gateway to the ski resorts of the Echigo-Y...",
+    "path": "asia/japan/honshu/niigata",
+    "score": 0.51,
+    "lat": 37.9026,
+    "lon": 139.0232
    }
   ]
  },
@@ -9571,7 +9350,7 @@
  "jamaica": {
   "name": "Jamaica",
   "parent": "Jamaica",
-  "n_locs": 13,
+  "n_locs": 12,
   "is_split": false,
   "top_locations": [
    {
@@ -9581,14 +9360,6 @@
     "score": 0.74,
     "lat": 18.2681,
     "lon": -78.3516
-   },
-   {
-    "title": "Jamaica",
-    "snippet": "Jamaica punches well above its weight. A small island \u2014 about 240 km long, 80 km wide \u2014 it has produced a disproportionate amount of the world's culture: reggae, dancehall, Rastafari, Blue Mountain coffee, and some of the fastest sprinters in history. The food is distinctive,...",
-    "path": "northamerica/jamaica",
-    "score": 0.7,
-    "lat": 18.1096,
-    "lon": -77.2975
    },
    {
     "title": "Ocho Rios",
@@ -9613,13 +9384,21 @@
     "score": 0.65,
     "lat": 18.175,
     "lon": -76.4525
+   },
+   {
+    "title": "Blue Mountains",
+    "snippet": "The Blue Mountains form the spine of eastern Jamaica, rising to 2,256 m at Blue Mountain Peak \u2014 the highest point in the Caribbean outside Hispaniola. They're named for the blue mist that hangs over them in the mornings, visible from Kingston below.",
+    "path": "northamerica/jamaica/bluemountains",
+    "score": 0.62,
+    "lat": 18.0558,
+    "lon": -76.5813
    }
   ]
  },
  "rome": {
   "name": "Rome & Lazio",
   "parent": "Italy",
-  "n_locs": 16,
+  "n_locs": 14,
   "is_split": true,
   "top_locations": [
    {
@@ -9629,22 +9408,6 @@
     "score": 0.92,
     "lat": 41.9028,
     "lon": 12.4964
-   },
-   {
-    "title": "Italy",
-    "snippet": "Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces.",
-    "path": "europe/italy",
-    "score": 0.9,
-    "lat": 42.638426,
-    "lon": 12.674297
-   },
-   {
-    "title": "Vatican City",
-    "snippet": "Vatican City is the world's smallest independent state \u2014 44 hectares enclosed within Rome, home to around 800 people and one of the most visited sites on the planet. It is the seat of the Roman Catholic Church and the residence of the Pope, and everything within its walls refl...",
-    "path": "europe/vaticancity",
-    "score": 0.82,
-    "lat": 41.9029,
-    "lon": 12.4534
    },
    {
     "title": "Tivoli",
@@ -9661,6 +9424,22 @@
     "score": 0.67,
     "lat": 42.734297,
     "lon": 12.738203
+   },
+   {
+    "title": "Lazio",
+    "snippet": "Lazio (Latium in those days) was the heart of the Roman Empire. It still is very much the province of the perennial city of Rome. Although there are other interesting sights, most tourists will head for Rome immediately. And who can blame them? Rome is one of the most beautifu...",
+    "path": "europe/italy/lazio",
+    "score": 0.55,
+    "lat": 41.980165,
+    "lon": 12.766797
+   },
+   {
+    "title": "Frascati",
+    "snippet": "Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times \u2014 the Romans called the area *Tusculanum* \u2014 and the legacy is a string of Renaissance...",
+    "path": "europe/italy/lazio/frascati",
+    "score": 0.55,
+    "lat": 41.808245,
+    "lon": 12.680368
    }
   ]
  },
@@ -10787,7 +10566,7 @@
  "israel": {
   "name": "Israel",
   "parent": "Israel",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -10815,20 +10594,20 @@
     "lon": 34.9519
    },
    {
-    "title": "Israel",
-    "snippet": "Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.",
-    "path": "asia/israel",
-    "score": 0.58,
-    "lat": 30.812425,
-    "lon": 34.859476
-   },
-   {
     "title": "Haifa",
     "snippet": "Haifa is the third biggest city of Israel and the economic powerhouse of the country. As the people in Haifa say: Jerusalem is for praying, Tel Aviv for partying, Haifa for working.",
     "path": "asia/israel/haifa",
     "score": 0.58,
     "lat": 32.819122,
     "lon": 34.998386
+   },
+   {
+    "title": "Ein Gedi",
+    "snippet": "Ein Gedi is a lush oasis nature reserve clinging to the cliffs above the Dead Sea, about 90 km southeast of Jerusalem. The contrast with the surrounding desert is dramatic: springs feed waterfalls, ibex pick their way along rocky ledges, and hyraxes sun themselves on the bould...",
+    "path": "asia/israel/ein_gedi",
+    "score": 0.58,
+    "lat": 31.452396,
+    "lon": 35.384824
    }
   ]
  },
@@ -10899,7 +10678,7 @@
  "dublin": {
   "name": "Dublin & East",
   "parent": "Ireland",
-  "n_locs": 30,
+  "n_locs": 29,
   "is_split": true,
   "top_locations": [
    {
@@ -10995,7 +10774,7 @@
  "iraq": {
   "name": "Iraq",
   "parent": "Iraq",
-  "n_locs": 15,
+  "n_locs": 14,
   "is_split": false,
   "top_locations": [
    {
@@ -11043,7 +10822,7 @@
  "iran": {
   "name": "Iran",
   "parent": "Iran",
-  "n_locs": 29,
+  "n_locs": 28,
   "is_split": false,
   "top_locations": [
    {
@@ -11091,7 +10870,7 @@
  "ubud": {
   "name": "Bali & Java",
   "parent": "Indonesia",
-  "n_locs": 63,
+  "n_locs": 62,
   "is_split": true,
   "top_locations": [
    {
@@ -11187,7 +10966,7 @@
  "hampi": {
   "name": "Hampi & Goa",
   "parent": "India",
-  "n_locs": 76,
+  "n_locs": 75,
   "is_split": true,
   "top_locations": [
    {
@@ -11505,17 +11284,9 @@
  "vik": {
   "name": "Southern Iceland",
   "parent": "Iceland",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "Iceland",
-    "snippet": "Iceland sits on the Mid-Atlantic Ridge, the boundary between the North American and Eurasian tectonic plates, and the geology makes itself known at every turn \u2014 volcanoes, geysers, hot springs, lava fields, and glaciers covering more than ten percent of the country's surface....",
-    "path": "europe/iceland",
-    "score": 0.81,
-    "lat": 64.984182,
-    "lon": -18.105901
-   },
    {
     "title": "Vik",
     "snippet": "V\u00edk \u00ed M\u00fdrdal \u2014 usually just called Vik \u2014 is a small village on Iceland's south coast, roughly 180km from Reykjavik. It sits beneath the M\u00fdrdalsj\u00f6kull glacier and the notoriously volatile Katla volcano, which lends the landscape a dramatic, slightly uneasy quality. Most people...",
@@ -11547,6 +11318,14 @@
     "score": 0.63,
     "lat": 65.259848,
     "lon": -14.004901
+   },
+   {
+    "title": "Akureyri",
+    "snippet": "Akureyri is Iceland\u2019s second-largest town, known to Icelanders as the Capital of the North. It sits at the head of Eyjafj\u00f6r\u00f0ur, the longest fjord in Iceland, about 380 km by road from Reykjav\u00edk \u2014 though a short domestic flight makes it easily accessible. Despite having only ar...",
+    "path": "europe/iceland/akureyri",
+    "score": 0.62,
+    "lat": 65.682636,
+    "lon": -18.091299
    }
   ]
  },
@@ -11601,7 +11380,7 @@
  "hungary": {
   "name": "Hungary",
   "parent": "Hungary",
-  "n_locs": 37,
+  "n_locs": 36,
   "is_split": false,
   "top_locations": [
    {
@@ -11649,7 +11428,7 @@
  "honduras": {
   "name": "Honduras",
   "parent": "Honduras",
-  "n_locs": 18,
+  "n_locs": 17,
   "is_split": false,
   "top_locations": [
    {
@@ -11745,7 +11524,7 @@
  "guyana": {
   "name": "Guyana",
   "parent": "Guyana",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -11755,14 +11534,6 @@
     "score": 0.42,
     "lat": 6.803256,
     "lon": -58.14554
-   },
-   {
-    "title": "Guyana",
-    "snippet": "Guyana, or British Guyana, was the first of the three Guyana's to be independent. Before may 1966 it was the only British colony on the South American mainland.",
-    "path": "southamerica/guyana",
-    "score": 0.39,
-    "lat": 4.84171,
-    "lon": -58.641689
    },
    {
     "title": "Baganara",
@@ -11787,13 +11558,21 @@
     "score": 0.34,
     "lat": 6.242641,
     "lon": -57.516836
+   },
+   {
+    "title": "Linden",
+    "snippet": "Linden is Guyana's second-largest town, about 100km south of Georgetown on the Demerara River. It grew up around bauxite mining in the early 20th century and the industry still defines the place: the skyline is dominated by the old processing infrastructure, and the reddish la...",
+    "path": "southamerica/guyana/linden",
+    "score": 0.33,
+    "lat": 6.010002,
+    "lon": -58.312488
    }
   ]
  },
  "guinea_bissau": {
   "name": "Guinea-Bissau",
   "parent": "Guinea-Bissau",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -11827,21 +11606,13 @@
     "score": 0.26,
     "lat": 12.17234,
     "lon": -14.655503
-   },
-   {
-    "title": "Guinea-Bissau",
-    "snippet": "Guinea-Bissau is one of the smallest and least visited countries in West Africa, and that is precisely its appeal. This is a place where the rhythms of daily life have barely been touched by tourism, where cashew trees line red-dirt roads, and where the extraordinary Bijagos a...",
-    "path": "africa/guineabissau",
-    "score": 0.24,
-    "lat": 12.0,
-    "lon": -15.0
    }
   ]
  },
  "guinea": {
   "name": "Guinea",
   "parent": "Guinea",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -11889,7 +11660,7 @@
  "guatemala": {
   "name": "Guatemala",
   "parent": "Guatemala",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": false,
   "top_locations": [
    {
@@ -11917,20 +11688,20 @@
     "lon": -91.2719
    },
    {
-    "title": "Guatemala",
-    "snippet": "Guatemala is a small country \u2014 roughly the size of Tennessee \u2014 that packs in an astonishing range of landscapes, cultures, and history. There are 37 volcanoes, highland lakes of absurd beauty, lowland jungle containing some of the greatest Maya cities ever built, a Pacific coa...",
-    "path": "northamerica/guatemala",
-    "score": 0.6,
-    "lat": 15.7835,
-    "lon": -90.2308
-   },
-   {
     "title": "Flores",
     "snippet": "Flores is a small town built on a island in Lake Pet\u00e9n Itz\u00e1, connected to the mainland town of Santa Elena by a short causeway. It is the main base for visiting Tikal, about 65 km to the north.",
     "path": "northamerica/guatemala/flores",
     "score": 0.59,
     "lat": 16.9335,
     "lon": -89.8916
+   },
+   {
+    "title": "Quetzaltenango (Xela)",
+    "snippet": "Quetzaltenango \u2014 universally called Xela (SHEH-la), from its original K'iche' name Xelaj\u00fa \u2014 is Guatemala's second city and, for many travelers, a more authentic and rewarding base than Antigua. Sitting at 2,333 metres in the western highlands, it is the cultural and commercial...",
+    "path": "northamerica/guatemala/quezaltenango",
+    "score": 0.53,
+    "lat": 14.8333,
+    "lon": -91.5167
    }
   ]
  },
@@ -11961,7 +11732,7 @@
  "kefalonia": {
   "name": "Ionian Islands",
   "parent": "Greece",
-  "n_locs": 27,
+  "n_locs": 26,
   "is_split": true,
   "top_locations": [
    {
@@ -12345,7 +12116,7 @@
  "ghana": {
   "name": "Ghana",
   "parent": "Ghana",
-  "n_locs": 28,
+  "n_locs": 27,
   "is_split": false,
   "top_locations": [
    {
@@ -12393,7 +12164,7 @@
  "romantic_road": {
   "name": "Romantic Road",
   "parent": "Germany",
-  "n_locs": 50,
+  "n_locs": 49,
   "is_split": true,
   "top_locations": [
    {
@@ -12633,7 +12404,7 @@
  "georgia": {
   "name": "Georgia",
   "parent": "Georgia",
-  "n_locs": 24,
+  "n_locs": 23,
   "is_split": false,
   "top_locations": [
    {
@@ -12681,17 +12452,9 @@
  "gambia": {
   "name": "Gambia",
   "parent": "Gambia",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Gambia",
-    "snippet": "The Gambia is Africa's smallest mainland country, a slender ribbon of land following the Gambia River for 450 kilometres inland from the Atlantic coast, entirely surrounded by Senegal. It is known as the Smiling Coast, and the nickname is earned -- Gambians are genuinely, disa...",
-    "path": "africa/gambia",
-    "score": 0.47,
-    "lat": 13.4432,
-    "lon": -15.3101
-   },
    {
     "title": "Banjul",
     "snippet": "Banjul is The Gambia's capital, though it barely feels like one. Situated on St Mary's Island at the mouth of the Gambia River, it was founded by the British in 1816 as a trading post and has never grown into a big city. The population is small -- most of the urban sprawl has...",
@@ -12721,17 +12484,9 @@
  "gabon": {
   "name": "Gabon",
   "parent": "Gabon",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Gabon",
-    "snippet": "Gabon is one of the most pristine and least-visited countries in Africa. Straddling the equator on Central Africa's Atlantic coast, nearly 90% of the country is covered in dense tropical rainforest, and almost 11% of its territory is protected in thirteen national parks. If yo...",
-    "path": "africa/gabon",
-    "score": 0.36,
-    "lat": -0.8037,
-    "lon": 11.6094
-   },
    {
     "title": "Lambarene",
     "snippet": "Lambarene was put on the map by Albert Schweitzer, and his hospital remains the main reason travellers come to this small riverside town. Located about 240 km southeast of Libreville on the Ogooue River, Lambarene has a population of around 30,000, making it one of Gabon's lar...",
@@ -12809,17 +12564,9 @@
  "chenonceau": {
   "name": "Loire Chateaux",
   "parent": "France",
-  "n_locs": 26,
+  "n_locs": 25,
   "is_split": true,
   "top_locations": [
-   {
-    "title": "France",
-    "snippet": "France is the number one tourist destination in the world. It has everything that you could ever want to see on your holidays: a great city like Paris , good beaches, more monuments than any other country, lovely nature, incredible mountain scenery, need I go on. France is als...",
-    "path": "europe/france",
-    "score": 0.95,
-    "lat": 46.603354,
-    "lon": 1.888334
-   },
    {
     "title": "Chenonceau",
     "snippet": "The Ch\u00e2teau de Chenonceau is one of the most beautiful and most visited castles in the Loire Valley. Built in the early 16th century by Thomas Bohier, finance minister to Fran\u00e7ois I, it spans the River Cher on a series of graceful arches \u2014 the gallery bridge is its most iconic...",
@@ -12851,6 +12598,14 @@
     "score": 0.66,
     "lat": 47.261479,
     "lon": 0.466713
+   },
+   {
+    "title": "Blois",
+    "snippet": "Blois is located halfway between Olreans and Tours on the north bank of the Loire. From a distance you see the characteric white houses with their red chimneys. The cathedral and the chateau are on seperate hills and dominate the city.",
+    "path": "europe/france/centre/loirevalley/blois",
+    "score": 0.65,
+    "lat": 47.587686,
+    "lon": 1.333764
    }
   ]
  },
@@ -13441,18 +13196,9 @@
  "r_union": {
   "name": "R\u00e9union",
   "parent": "France",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Reunion",
-    "snippet": "Reunion is a French department lost in the Indian Ocean. There are coconut trees and beaches in Reunion, the turquoise blue lagoons and the white barrier reef are there waiting for you to fulfil your exotic dreams.",
-    "path": "africa/reunion",
-    "score": 0.7,
-    "lat": -21.130933,
-    "lon": 55.526577
-   }
-  ]
+  "top_locations": []
  },
  "martinique": {
   "name": "Martinique",
@@ -13553,7 +13299,7 @@
  "french_guiana": {
   "name": "French Guiana",
   "parent": "France",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -13573,14 +13319,6 @@
     "lon": -52.64242
    },
    {
-    "title": "French Guiana",
-    "snippet": "French Guiana is an anomaly on the South American map: a French overseas department wedged between Brazil and Suriname, using the euro, governed from Paris, and launching rockets into space from its equatorial coastline. It is not a former colony struggling with its independen...",
-    "path": "southamerica/frenchguiana",
-    "score": 0.42,
-    "lat": 4.003988,
-    "lon": -52.999998
-   },
-   {
     "title": "Saul",
     "snippet": "Saul is a small village of a few hundred people sitting in the heart of the Guiana Amazonian Park, accessible only by light aircraft from Cayenne (about 45 minutes). It serves as the main trekking base for the territory's interior and is the best place in French Guiana to expe...",
     "path": "southamerica/frenchguiana/saul",
@@ -13595,6 +13333,14 @@
     "score": 0.41,
     "lat": 4.937154,
     "lon": -52.325874
+   },
+   {
+    "title": "Sinnamary",
+    "snippet": "Sinnamary is a small Creole town of around 3,000 people on the coast between Kourou and Saint-Laurent-du-Maroni. Unlike its neighbor Kourou, shaped by the space industry, Sinnamary has kept its quiet creole character \u2014 wooden houses along the river, a modest market, and a rela...",
+    "path": "southamerica/frenchguiana/sinnamary",
+    "score": 0.39,
+    "lat": 5.377056,
+    "lon": -52.957159
    }
   ]
  },
@@ -13638,7 +13384,7 @@
  "moorea": {
   "name": "Society Islands",
   "parent": "Fr. Polynesia",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
    {
@@ -13658,14 +13404,6 @@
     "lon": -149.4452
    },
    {
-    "title": "French Polynesia",
-    "snippet": "French Polynesia is a scattering of 118 islands and atolls across a stretch of the South Pacific larger than Western Europe. Most of them are tiny, remote, and uninhabited. The ones that are inhabited are, in many cases, extraordinarily beautiful \u2014 mountains draped in jungle d...",
-    "path": "australiaandpacific/frenchpolynesia",
-    "score": 0.79,
-    "lat": -17.679742,
-    "lon": -149.406843
-   },
-   {
     "title": "Rangiroa",
     "snippet": "Rangiroa is one of the largest atolls in the world \u2014 a thin necklace of coral islets enclosing a turquoise lagoon so vast it has its own weather. The inhabited strip runs about 10 km along the northern rim; everywhere else is open water, reef, and sky. There are no mountains,...",
     "path": "australiaandpacific/frenchpolynesia/rangiroa",
@@ -13680,6 +13418,14 @@
     "score": 0.76,
     "lat": -17.537384,
     "lon": -149.565996
+   },
+   {
+    "title": "Avatoru",
+    "snippet": "More a sleepy hamlet than a settlement, Avatoru is a series of islets connected by concrete bridges. It and neighbouring Tiputa are the only populated areas of the Rangiroa atoll, aside from the boat-accessible resort across the main lagoon.",
+    "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+    "score": 0.71,
+    "lat": -14.941972,
+    "lon": -147.706148
    }
   ]
  },
@@ -13702,7 +13448,7 @@
  "new_caledonia": {
   "name": "New Caledonia",
   "parent": "France",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -13720,14 +13466,6 @@
     "score": 0.64,
     "lat": -20.9329,
     "lon": 167.1658
-   },
-   {
-    "title": "New Caledonia",
-    "snippet": "New Caledonia is a French special collectivity in the southwest Pacific, roughly 1,500 km east of Australia. It consists of one large island \u2014 Grande Terre \u2014 and several smaller island groups: the Loyalty Islands (Lifou, Mar\u00e9, Ouv\u00e9a), the Isle of Pines, and a handful of remote...",
-    "path": "australiaandpacific/newcaledonia",
-    "score": 0.62,
-    "lat": -21.30199,
-    "lon": 165.488077
    },
    {
     "title": "Noum\u00e9a",
@@ -13781,7 +13519,7 @@
  "finland": {
   "name": "Finland",
   "parent": "Finland",
-  "n_locs": 37,
+  "n_locs": 36,
   "is_split": false,
   "top_locations": [
    {
@@ -13791,14 +13529,6 @@
     "score": 0.71,
     "lat": 67.692237,
     "lon": 26.728139
-   },
-   {
-    "title": "Finland",
-    "snippet": "Finland is a country of forest, lakes, and space. With 338,000 square kilometres and a population of just 5.5 million, it has more room per person than almost anywhere in Europe. Two-thirds of the country is covered by boreal forest. There are around 188,000 lakes. A third of...",
-    "path": "europe/finland",
-    "score": 0.66,
-    "lat": 63.246778,
-    "lon": 25.920916
    },
    {
     "title": "Helsinki",
@@ -13823,13 +13553,21 @@
     "score": 0.6,
     "lat": 60.394437,
     "lon": 25.661997
+   },
+   {
+    "title": "Savonlinna",
+    "snippet": "Located in Europe's largest lake district, Savonlinna has around 30,000 inhabitants and was built on three islands joined together by bridges. Besides the scenic natural environment the main attraction is St Olaf's Castle (Olavinlinna). This great looking fortress was founded...",
+    "path": "europe/finland/savonlinna",
+    "score": 0.57,
+    "lat": 61.869874,
+    "lon": 28.880045
    }
   ]
  },
  "fiji": {
   "name": "Fiji",
   "parent": "Fiji",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -13849,14 +13587,6 @@
     "lon": 177.955
    },
    {
-    "title": "Fiji",
-    "snippet": "Fiji is an archipelago of 333 islands scattered across the South Pacific, about halfway between New Zealand and Hawaii. Most people come for the beaches, the diving, and the reliably warm weather \u2014 and Fiji delivers all of that. But the islands also have a cultural life, a com...",
-    "path": "australiaandpacific/fiji",
-    "score": 0.72,
-    "lat": -18.12397,
-    "lon": 179.012274
-   },
-   {
     "title": "Taveuni",
     "snippet": "Taveuni is Fiji's \"Garden Island,\" the third-largest island in the archipelago and one of its most beautiful. The volcanic soil and heavy rainfall produce an almost absurdly lush landscape: dense tropical forest, cascading waterfalls, and hillsides thick with coconut palms and...",
     "path": "australiaandpacific/fiji/taveuni",
@@ -13871,13 +13601,21 @@
     "score": 0.67,
     "lat": -17.793383,
     "lon": 177.978225
+   },
+   {
+    "title": "Nadi",
+    "snippet": "Nadi is Fiji's gateway town, sitting on the dry western coast of Viti Levu about fifteen minutes south of the international airport. Nearly every visitor to Fiji passes through here, and most treat it as a transit stop before heading to the islands. That is fair enough, but Na...",
+    "path": "australiaandpacific/fiji/vitilevu/nadi",
+    "score": 0.66,
+    "lat": -17.7753,
+    "lon": 177.4356
    }
   ]
  },
  "ethiopia": {
   "name": "Ethiopia",
   "parent": "Ethiopia",
-  "n_locs": 13,
+  "n_locs": 12,
   "is_split": false,
   "top_locations": [
    {
@@ -13925,7 +13663,7 @@
  "estonia": {
   "name": "Estonia",
   "parent": "Estonia",
-  "n_locs": 21,
+  "n_locs": 20,
   "is_split": false,
   "top_locations": [
    {
@@ -13973,7 +13711,7 @@
  "eritrea": {
   "name": "Eritrea",
   "parent": "Eritrea",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -14061,7 +13799,7 @@
  "el_salvador": {
   "name": "El Salvador",
   "parent": "El Salvador",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -14089,14 +13827,6 @@
     "lon": -89.2182
    },
    {
-    "title": "El Salvador",
-    "snippet": "Once known as the coffee republic, El Salvador is the smallest country of Central America, yet it is the most populous. In the 1980's it was ravaged by a bloody civil war between the American CIA installed right wing military dictators and the socialist left peasant guerillas,...",
-    "path": "northamerica/elsalvador",
-    "score": 0.36,
-    "lat": 13.7942,
-    "lon": -88.8965
-   },
-   {
     "title": "San Miguel",
     "snippet": "San Miguel is El Salvador's third-largest city, in the eastern part of the country about 140 km from San Salvador. It serves as the commercial hub of the east and is a useful transit point for travelers heading to the Gulf of Fonseca or crossing into Honduras.",
     "path": "northamerica/elsalvador/sanmiguel",
@@ -14109,7 +13839,7 @@
  "luxor": {
   "name": "Upper Nile",
   "parent": "Egypt",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": true,
   "top_locations": [
    {
@@ -14119,14 +13849,6 @@
     "score": 0.8,
     "lat": 25.702096,
     "lon": 32.647186
-   },
-   {
-    "title": "Egypt",
-    "snippet": "Egypt is one of the world's great destinations, and has been for thousands of years. The monuments are staggering in scale and age, the Nile Valley is lush and beautiful, and the culture -- ancient and modern -- is endlessly fascinating. It is also loud, chaotic, and occasiona...",
-    "path": "africa/egypt",
-    "score": 0.77,
-    "lat": 26.254049,
-    "lon": 29.267547
    },
    {
     "title": "Aswan",
@@ -14151,6 +13873,14 @@
     "score": 0.6,
     "lat": 28.5091,
     "lon": 34.5131
+   },
+   {
+    "title": "Hurghada",
+    "snippet": "Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef sys...",
+    "path": "africa/egypt/hurghada",
+    "score": 0.57,
+    "lat": 27.2222,
+    "lon": 33.8307
    }
   ]
  },
@@ -14205,7 +13935,7 @@
  "ecuador": {
   "name": "Ecuador",
   "parent": "Ecuador",
-  "n_locs": 26,
+  "n_locs": 25,
   "is_split": false,
   "top_locations": [
    {
@@ -14215,14 +13945,6 @@
     "score": 0.7,
     "lat": -0.220164,
     "lon": -78.512327
-   },
-   {
-    "title": "Ecuador",
-    "snippet": "Ecuador is one of the smallest countries in South America and one of the most rewarding to travel. It sits exactly on the equator \u2014 the name gives that away \u2014 and its geography does something remarkable within a compact space: the Pacific coast, the high Andes, and the Amazon...",
-    "path": "southamerica/ecuador",
-    "score": 0.67,
-    "lat": -1.831239,
-    "lon": -78.183406
    },
    {
     "title": "Ba\u00f1os",
@@ -14247,6 +13969,14 @@
     "score": 0.6,
     "lat": 0.225909,
     "lon": -78.228757
+   },
+   {
+    "title": "Otavalo",
+    "snippet": "Otavalo is one of the most visited towns in Ecuador, and for good reason. Situated in the Andes about two hours north of Quito by bus, it is home to the largest and most famous indigenous market in South America. The Saturday market \u2014 and a smaller daily one at the Plaza de lo...",
+    "path": "southamerica/ecuador/otavalo",
+    "score": 0.59,
+    "lat": 0.222764,
+    "lon": -78.245427
    }
   ]
  },
@@ -14365,17 +14095,9 @@
  "djibouti": {
   "name": "Djibouti",
   "parent": "Djibouti",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Djibouti",
-    "snippet": "Djibouti is one of the smallest and least visited countries in Africa, a sliver of volcanic rock and salt flats wedged between Eritrea, Ethiopia, and Somalia at the mouth of the Red Sea. It is brutally hot, genuinely expensive, and rewards the traveler with landscapes that loo...",
-    "path": "africa/djibouti",
-    "score": 0.41,
-    "lat": 11.5721,
-    "lon": 43.1456
-   },
    {
     "title": "Djibouti City",
     "snippet": "Two thirds of Djibouti's population lives in the capital, and everything of consequence in the country flows through it. Djibouti City is not a beautiful city \u2014 it is hot, dusty, and sprawling \u2014 but it has a scruffy energy and serves as the only practical base for exploring th...",
@@ -14397,7 +14119,7 @@
  "greenland": {
   "name": "Greenland",
   "parent": "Denmark",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -14445,17 +14167,9 @@
  "faeroe_is": {
   "name": "Faeroe Is.",
   "parent": "Denmark",
-  "n_locs": 30,
+  "n_locs": 29,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Faroe Islands",
-    "snippet": "The Faroe Islands an autonomous area under Danish administration lie between Iceland and Norway. Although there are many islands in the group only 18 are inhabited with a population of about 45 000. The islands (reached by air from Denmark and Iceland or by ferry from Iceland...",
-    "path": "europe/faroeislands",
-    "score": 0.69,
-    "lat": 62.19887,
-    "lon": -6.817845
-   },
    {
     "title": "Saksun",
     "snippet": "Saksun sits at the northern end of Streymoy and is, by general agreement, one of the most beautiful villages in the Faroe Islands. The road in crosses open moorland before dropping over a final ridge to reveal the settlement below \u2014 a cluster of grass-roofed houses, a small ch...",
@@ -14487,13 +14201,21 @@
     "score": 0.61,
     "lat": 62.01014,
     "lon": -6.771571
+   },
+   {
+    "title": "Gasadalur",
+    "snippet": "Gasadalur is reached from Bour [qv] by the latest tunnel to be built in the Faroes [July 2008] - within the last four years. This has transformed the little village from its existence when the post had to be brought across the mountain and most supplies came by boat. Now there...",
+    "path": "europe/faroeislands/vagar/gasadalur",
+    "score": 0.6,
+    "lat": 62.109738,
+    "lon": -7.436009
    }
   ]
  },
  "denmark": {
   "name": "Denmark",
   "parent": "Denmark",
-  "n_locs": 33,
+  "n_locs": 32,
   "is_split": false,
   "top_locations": [
    {
@@ -14503,14 +14225,6 @@
     "score": 0.73,
     "lat": 55.6761,
     "lon": 12.5683
-   },
-   {
-    "title": "Denmark",
-    "snippet": "Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.",
-    "path": "europe/denmark",
-    "score": 0.67,
-    "lat": 55.670249,
-    "lon": 10.333328
    },
    {
     "title": "Skagen",
@@ -14535,6 +14249,14 @@
     "score": 0.56,
     "lat": 54.969843,
     "lon": 12.424946
+   },
+   {
+    "title": "Ribe",
+    "snippet": "Ribe is Denmark's oldest town, founded around 700 AD when the Vikings established a trading market here at the edge of the Jutland marshes. It is also the country's best-preserved medieval town: the entire centre is a maze of half-timbered houses, cobblestone streets, and cent...",
+    "path": "europe/denmark/ribe",
+    "score": 0.56,
+    "lat": 55.328404,
+    "lon": 8.764784
    }
   ]
  },
@@ -14589,7 +14311,7 @@
  "czechia": {
   "name": "Czechia",
   "parent": "Czechia",
-  "n_locs": 13,
+  "n_locs": 12,
   "is_split": false,
   "top_locations": [
    {
@@ -14685,17 +14407,9 @@
  "cyprus": {
   "name": "Cyprus",
   "parent": "Cyprus",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Cyprus",
-    "snippet": "Cyprus is the third-largest island in the Mediterranean \u2014 Greek in character in the south, Turkish in the north, and divided since 1974. The division is the defining fact of modern Cyprus and the first thing any traveler needs to understand: roughly 37% of the island is admini...",
-    "path": "asia/cyprus",
-    "score": 0.66,
-    "lat": 34.917416,
-    "lon": 32.889903
-   },
    {
     "title": "Paphos",
     "snippet": "With its only population of 27.000 inhabitants Paphos is the capital of Cyprus' western region. Most of the inhabitants work as employees in various branches of tourism, because there is not much industry.",
@@ -14727,6 +14441,14 @@
     "score": 0.6,
     "lat": 34.923609,
     "lon": 33.623618
+   },
+   {
+    "title": "Pano Platres",
+    "snippet": "Perched on the southern slopes of the Troodos mountains at around 1,100 metres, Pano Platres is the most popular mountain resort in Cyprus. The air is noticeably cooler here than on the coast, and the surrounding pine forests give the village a quite different character from t...",
+    "path": "asia/cyprus/troodosmountains/pano_platres",
+    "score": 0.55,
+    "lat": 34.888621,
+    "lon": 32.864864
    }
   ]
  },
@@ -14781,7 +14503,7 @@
  "plitvice_lakes": {
   "name": "Plitvice & Northern Coast",
   "parent": "Croatia",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": true,
   "top_locations": [
    {
@@ -15021,7 +14743,7 @@
  "c_te_d_ivoire": {
   "name": "C\u00f4te d'Ivoire",
   "parent": "Ivory Coast",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": false,
   "top_locations": [
    {
@@ -15049,27 +14771,27 @@
     "lon": -4.0161
    },
    {
-    "title": "Ivory Coast",
-    "snippet": "C\u00f4te d'Ivoire \u2014 usually called Ivory Coast in English \u2014 was for decades the economic powerhouse of Francophone West Africa. The cocoa and coffee boom of the 1960s and 70s built roads, hospitals, and a skyline in Abidjan that drew comparisons to Paris. That era ended badly \u2014 a...",
-    "path": "africa/ivorycoast",
-    "score": 0.35,
-    "lat": 7.989737,
-    "lon": -5.567946
-   },
-   {
     "title": "Bingerville",
     "snippet": "Bingerville is about 15 km east of Abidjan, a charming town on a plateau overlooking the lagoon. Until the 1930s it served as the capital of C\u00f4te d'Ivoire.",
     "path": "africa/ivorycoast/bingerville",
     "score": 0.34,
     "lat": 5.357773,
     "lon": -3.888559
+   },
+   {
+    "title": "Man",
+    "snippet": "Man itself is not a particularly beautiful town, but the lush green hills surrounding it make it one of the more rewarding destinations in western Ivory Coast.",
+    "path": "africa/ivorycoast/man",
+    "score": 0.32,
+    "lat": 7.410258,
+    "lon": -7.550372
    }
   ]
  },
  "manuel_antonio": {
   "name": "Pacific & Caribbean Coasts",
   "parent": "Costa Rica",
-  "n_locs": 13,
+  "n_locs": 12,
   "is_split": true,
   "top_locations": [
    {
@@ -15089,14 +14811,6 @@
     "lon": -82.7534
    },
    {
-    "title": "Costa Rica",
-    "snippet": "Costa Rica punches well above its weight. This small Central American country \u2014 roughly the size of West Virginia \u2014 holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money...",
-    "path": "northamerica/costarica",
-    "score": 0.64,
-    "lat": 9.7489,
-    "lon": -83.7534
-   },
-   {
     "title": "Quepos",
     "snippet": "Quepos is a small fishing town on Costa Rica's central Pacific coast, best known as the gateway to Manuel Antonio National Park. The town itself has a scruffy, likeable energy \u2014 a handful of funky bars and local restaurants line the main streets downtown, and the fishing fleet...",
     "path": "northamerica/costarica/quepos",
@@ -15111,6 +14825,14 @@
     "score": 0.61,
     "lat": 9.7375,
     "lon": -82.8387
+   },
+   {
+    "title": "Talamanca",
+    "snippet": "The Canton of Talamanca, in Costa Rica's Lim\u00f3n province, is the country's southern Caribbean zone \u2014 and one of its most remarkable corners. It holds roughly 3% of the world's biodiversity, packed into a landscape that runs from coral reefs and turtle-nesting beaches to cloud-d...",
+    "path": "northamerica/costarica/talamanca",
+    "score": 0.59,
+    "lat": 9.6333,
+    "lon": -82.8333
    }
   ]
  },
@@ -15165,7 +14887,7 @@
  "dem_rep_congo": {
   "name": "Dem. Rep. Congo",
   "parent": "Democratic Republic of the Congo",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -15245,17 +14967,9 @@
  "comoros": {
   "name": "Comoros",
   "parent": "Comoros",
-  "n_locs": 2,
+  "n_locs": 1,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Comoros",
-    "snippet": "The Comoros islands sit in the Mozambique Channel between Madagascar and the African mainland, and they are one of the least visited countries on earth. That is a shame and also part of the appeal. This is a place where volcanic peaks rise from turquoise water, the air smells...",
-    "path": "africa/comoros",
-    "score": 0.42,
-    "lat": -12.204518,
-    "lon": 44.283296
-   },
    {
     "title": "Ngazidja",
     "snippet": "Known to the French as Grande Comore, Ngazidja is the largest and most populous of the Comoros islands, home to around 400,000 people and to Moroni, the national capital. It is the island most visitors see first, and for many it is the only one -- which is a pity, because the...",
@@ -15269,7 +14983,7 @@
  "colombia": {
   "name": "Colombia",
   "parent": "Colombia",
-  "n_locs": 28,
+  "n_locs": 27,
   "is_split": false,
   "top_locations": [
    {
@@ -15317,7 +15031,7 @@
  "xi_an": {
   "name": "Northern China",
   "parent": "China",
-  "n_locs": 26,
+  "n_locs": 25,
   "is_split": true,
   "top_locations": [
    {
@@ -15597,7 +15311,7 @@
  "chile": {
   "name": "Chile",
   "parent": "Chile",
-  "n_locs": 25,
+  "n_locs": 24,
   "is_split": false,
   "top_locations": [
    {
@@ -15645,7 +15359,7 @@
  "chad": {
   "name": "Chad",
   "parent": "Chad",
-  "n_locs": 6,
+  "n_locs": 5,
   "is_split": false,
   "top_locations": [
    {
@@ -15681,12 +15395,12 @@
     "lon": 20.8324
    },
    {
-    "title": "Chad",
-    "snippet": "Chad is one of the most difficult countries in Africa to visit and one of the most rewarding. It is a vast, landlocked nation stretching from the Sahara Desert in the north to tropical savanna in the south, and it contains landscapes found nowhere else on earth.",
-    "path": "africa/chad",
+    "title": "Wour",
+    "snippet": "Wour is the border post on the route from Libya's al-Qatrun to the Tibesti Mountains, one of the most remote and least-traveled trans-Saharan crossings. It is not a destination in itself, but rather a necessary stop for paperwork and supplies on the way into the Tibesti.",
+    "path": "africa/chad/wour",
     "score": 0.18,
-    "lat": 15.613414,
-    "lon": 19.015617
+    "lat": 20.9167,
+    "lon": 17.0833
    }
   ]
  },
@@ -15741,17 +15455,9 @@
  "cabo_verde": {
   "name": "Cabo Verde",
   "parent": "Cabo Verde",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Cape Verde",
-    "snippet": "Cape Verde is an archipelago of ten volcanic islands scattered in the Atlantic Ocean, 500 kilometers off the west coast of Africa. It is a place where African warmth meets Portuguese colonial history, where music drifts out of every bar, and where the landscape shifts from Sah...",
-    "path": "africa/capeverde",
-    "score": 0.62,
-    "lat": 15.94,
-    "lon": -23.96
-   },
    {
     "title": "Sal",
     "snippet": "Sal is a a pretty flat and desert like island. It's the most visited island of the archipelago due to the fact that the international airport is located on it and European package-tours are dropped off here.",
@@ -15783,13 +15489,21 @@
     "score": 0.56,
     "lat": 16.099509,
     "lon": -22.800941
+   },
+   {
+    "title": "Fogo",
+    "snippet": "Fogo is dominated by its volcano \u2014 Pico do Fogo, rising to 2,829 metres, is the highest peak in Cape Verde and one of the most active volcanoes in the Atlantic. The island's landscape is dramatic and austere: dark lava fields, steep caldera walls, and a crater plain dotted wit...",
+    "path": "africa/capeverde/fogo",
+    "score": 0.54,
+    "lat": 14.9322,
+    "lon": -24.3936
    }
   ]
  },
  "banff": {
   "name": "Canadian Rockies",
   "parent": "Canada",
-  "n_locs": 37,
+  "n_locs": 36,
   "is_split": true,
   "top_locations": [
    {
@@ -15933,7 +15647,7 @@
  "cameroon": {
   "name": "Cameroon",
   "parent": "Cameroon",
-  "n_locs": 10,
+  "n_locs": 9,
   "is_split": false,
   "top_locations": [
    {
@@ -15981,7 +15695,7 @@
  "cambodia": {
   "name": "Cambodia",
   "parent": "Cambodia",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -15991,14 +15705,6 @@
     "score": 0.75,
     "lat": 13.361756,
     "lon": 103.859032
-   },
-   {
-    "title": "Cambodia",
-    "snippet": "Cambodia is one of Southeast Asia's most absorbing countries \u2014 a place where one of history's greatest civilizations left its mark in stone, and where a more recent history of extraordinary suffering is still within living memory. The contrast between Angkor's immense temples...",
-    "path": "asia/cambodia",
-    "score": 0.71,
-    "lat": 12.543322,
-    "lon": 104.814491
    },
    {
     "title": "Phnom Penh",
@@ -16023,13 +15729,21 @@
     "score": 0.52,
     "lat": 10.4822,
     "lon": 104.3167
+   },
+   {
+    "title": "Kratie",
+    "snippet": "Kratie is a quiet provincial town on the upper Mekong, roughly halfway between Phnom Penh and the Laos border. Most travellers stop here for one reason: the Irrawaddy dolphins. A small, critically endangered freshwater population survives in the deep pools at Kampi, about 15km...",
+    "path": "asia/cambodia/kratie",
+    "score": 0.5,
+    "lat": 12.678302,
+    "lon": 106.058173
    }
   ]
  },
  "myanmar": {
   "name": "Myanmar",
   "parent": "Myanmar",
-  "n_locs": 16,
+  "n_locs": 15,
   "is_split": false,
   "top_locations": [
    {
@@ -16077,7 +15791,7 @@
  "burundi": {
   "name": "Burundi",
   "parent": "Burundi",
-  "n_locs": 3,
+  "n_locs": 2,
   "is_split": false,
   "top_locations": [
    {
@@ -16095,21 +15809,13 @@
     "score": 0.26,
     "lat": -3.4264,
     "lon": 29.9246
-   },
-   {
-    "title": "Burundi",
-    "snippet": "Burundi is one of Africa's smallest countries and one of its least visited. Tucked into the heart of the continent between Tanzania to the east, Congo Kinshasa to the west, and Rwanda to the north, it sits on the great African Rift Valley with Lake Tanganyika shimmering along...",
-    "path": "africa/burundi",
-    "score": 0.25,
-    "lat": -3.3731,
-    "lon": 29.9189
    }
   ]
  },
  "burkina_faso": {
   "name": "Burkina Faso",
   "parent": "Burkina Faso",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -16157,7 +15863,7 @@
  "bulgaria": {
   "name": "Bulgaria",
   "parent": "Bulgaria",
-  "n_locs": 16,
+  "n_locs": 15,
   "is_split": false,
   "top_locations": [
    {
@@ -16193,19 +15899,19 @@
     "lon": 25.632131
    },
    {
-    "title": "Bulgaria",
-    "snippet": "Bulgaria rewards travelers who look beyond the package-holiday beach resorts. Yes, the Black Sea coast gets crowded and a little tacky in summer, but drive an hour inland and you're in a country of mountain monasteries, Ottoman-era towns, Roman ruins, and a cuisine built aroun...",
-    "path": "europe/bulgaria",
+    "title": "Burgas",
+    "snippet": "Burgas is Bulgaria's main Black Sea port \u2014 a working industrial and commercial city rather than a resort, which is what makes it worth a stop. The old town is compact and walkable, and the collection at the Regional Historical Museum gives a solid overview of the area's Thraci...",
+    "path": "europe/bulgaria/burgas",
     "score": 0.53,
-    "lat": 42.607397,
-    "lon": 25.485662
+    "lat": 42.493662,
+    "lon": 27.472128
    }
   ]
  },
  "brunei": {
   "name": "Brunei",
   "parent": "Brunei",
-  "n_locs": 5,
+  "n_locs": 4,
   "is_split": false,
   "top_locations": [
    {
@@ -16215,14 +15921,6 @@
     "score": 0.52,
     "lat": 4.9403,
     "lon": 114.948
-   },
-   {
-    "title": "Brunei",
-    "snippet": "Brunei is a sultanate the size of a large county, tucked into the northwest coast of Borneo and surrounded on three sides by the Malaysian state of Sarawak. It is one of the smallest and wealthiest countries in Asia \u2014 its oil and gas revenues have made it one of the highest pe...",
-    "path": "asia/brunei",
-    "score": 0.5,
-    "lat": 4.5353,
-    "lon": 114.7277
    },
    {
     "title": "Bangar",
@@ -16253,7 +15951,7 @@
  "salvador": {
   "name": "Northeast Coast",
   "parent": "Brazil",
-  "n_locs": 16,
+  "n_locs": 15,
   "is_split": true,
   "top_locations": [
    {
@@ -16349,17 +16047,9 @@
  "botswana": {
   "name": "Botswana",
   "parent": "Botswana",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Botswana",
-    "snippet": "Botswana is one of Africa's great wildlife destinations and one of its most expensive. This is deliberate -- the government has pursued a low-volume, high-value tourism policy that keeps the wild places genuinely wild. If you can afford it, or if you are willing to self-drive...",
-    "path": "africa/botswana",
-    "score": 0.59,
-    "lat": -23.168178,
-    "lon": 24.592874
-   },
    {
     "title": "Maun",
     "snippet": "Maun is Botswana's tourist capital and the gateway to the Okavango Delta \u2014 the main attraction in the region. A small airport handles daily flights from Gaborone, Victoria Falls, South Africa, and Namibia, making it the starting point for most safari itineraries in northern Bo...",
@@ -16391,6 +16081,14 @@
     "score": 0.38,
     "lat": -22.39776,
     "lon": 26.703289
+   },
+   {
+    "title": "Mochudi",
+    "snippet": "Mochudi is one of the larger villages in Botswana, about 35 km north of Gaborone, and the historical capital of the Bakgatla ba Kgafela people. The Bakgatla migrated here from what is now South Africa in 1871, under pressure from Boer encroachment on their lands, and settled a...",
+    "path": "africa/botswana/mochudi",
+    "score": 0.36,
+    "lat": -24.38286,
+    "lon": 26.14895
    }
   ]
  },
@@ -16493,17 +16191,9 @@
  "bolivia": {
   "name": "Bolivia",
   "parent": "Bolivia",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Bolivia",
-    "snippet": "Bolivia is a landlocked country in South America. It borders on Peru and Chile in the west, Argentina and Paraguay in the south and Brazil in the east and north. About half of the country lies in the Andean Highlands, located in the western part, where you will find the most i...",
-    "path": "southamerica/bolivia",
-    "score": 0.7,
-    "lat": -17.05687,
-    "lon": -64.991229
-   },
    {
     "title": "Potosi",
     "snippet": "Potosi was once the largest and wealthiest city in the Americas. Founded in 1545 following the discovery of silver in the Cerro Rico \u2014 the \"rich mountain\" that looms above the city \u2014 it grew with astonishing speed: by the early 17th century it had a population rivaling London...",
@@ -16535,23 +16225,23 @@
     "score": 0.54,
     "lat": -18.179655,
     "lon": -63.875825
+   },
+   {
+    "title": "Coroico",
+    "snippet": "Coroico is a small town perched on a green ridge in Bolivia\u2019s Yungas region, where the Andes drop steeply into the Amazon basin. Most travellers arrive after the famous Death Road bike ride from La Paz, but the town deserves more than a single night. The climate is warm and hu...",
+    "path": "southamerica/bolivia/coroico",
+    "score": 0.53,
+    "lat": -16.1886,
+    "lon": -67.7275
    }
   ]
  },
  "bhutan": {
   "name": "Bhutan",
   "parent": "Bhutan",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Bhutan",
-    "snippet": "Bhutan is the last great Himalayan kingdom, a country the size of Switzerland wedged between India and Tibet where Gross National Happiness is official policy and television arrived only in 1999. It is one of the most tightly controlled tourism destinations on earth, and that...",
-    "path": "asia/bhutan",
-    "score": 0.81,
-    "lat": 27.5142,
-    "lon": 90.4336
-   },
    {
     "title": "Punakha",
     "snippet": "Punakha was the capital of Bhutan until 1955 and remains one of the most rewarding destinations in the country. The town sits at the confluence of the Pho Chhu (Male River) and Mo Chhu (Female River) at around 1,200 m elevation \u2014 considerably warmer than Thimphu, which makes i...",
@@ -16583,13 +16273,21 @@
     "score": 0.64,
     "lat": 27.707913,
     "lon": 90.769744
+   },
+   {
+    "title": "Jakar",
+    "snippet": "Jakar is the main town in the Bumthang district, in the east-central part of Bhutan, and one of the most beautiful places in the country. The valley is apple country \u2014 the groves here produce juice and cider that you will find across Bhutan \u2014 and the undulating landscape dotte...",
+    "path": "asia/bhutan/jakar",
+    "score": 0.58,
+    "lat": 27.549639,
+    "lon": 90.752735
    }
   ]
  },
  "benin": {
   "name": "Benin",
   "parent": "Benin",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": false,
   "top_locations": [
    {
@@ -16637,7 +16335,7 @@
  "belize": {
   "name": "Belize",
   "parent": "Belize",
-  "n_locs": 12,
+  "n_locs": 11,
   "is_split": false,
   "top_locations": [
    {
@@ -16665,20 +16363,20 @@
     "lon": -87.9657
    },
    {
-    "title": "Belize",
-    "snippet": "Belize is a small country on the Caribbean coast of Central America, tucked between Mexico to the north and Guatemala to the west. It punches well above its weight for travelers: the second-longest barrier reef in the world, three offshore atolls, hundreds of cayes, and a jung...",
-    "path": "northamerica/belize",
-    "score": 0.63,
-    "lat": 17.1899,
-    "lon": -88.4976
-   },
-   {
     "title": "Hopkins",
     "snippet": "Hopkins is a Garifuna fishing village on the southern coast, about 45 km south of Dangriga. It's one of the best places in Belize to slow down, eat well, and experience Garifuna culture without the package-resort crowds.",
     "path": "northamerica/belize/hopkins",
     "score": 0.55,
     "lat": 16.8633,
     "lon": -88.2669
+   },
+   {
+    "title": "San Ignacio",
+    "snippet": "San Ignacio (also called Cayo) is the main town in western Belize and the base for exploring the interior. It sits on the Macal River near the Guatemalan border, and the surrounding area packs in Maya ruins, jungle caves, waterfalls, and wildlife into a compact area.",
+    "path": "northamerica/belize/sanignacio",
+    "score": 0.53,
+    "lat": 17.1562,
+    "lon": -89.0706
    }
   ]
  },
@@ -16733,7 +16431,7 @@
  "walloon": {
   "name": "Walloon",
   "parent": "Belgium",
-  "n_locs": 19,
+  "n_locs": 18,
   "is_split": false,
   "top_locations": [
    {
@@ -16797,7 +16495,7 @@
  "belarus": {
   "name": "Belarus",
   "parent": "Belarus",
-  "n_locs": 9,
+  "n_locs": 8,
   "is_split": false,
   "top_locations": [
    {
@@ -16833,12 +16531,12 @@
     "lon": 23.8258
    },
    {
-    "title": "Belarus",
-    "snippet": "The very word Belarus should inspire visions of beauty and kindness, if it does not, then most likely you have not been there. Belarus has retained its mystery, it has remained virtually closed and unexplored since the fall of Communism. Belarus is little known, little underst...",
-    "path": "europe/belarus",
+    "title": "Gomel",
+    "snippet": "Gomel, the second-largest city after Minsk, is located in the south-eastern part of Belarus, in the same area that was once the centre of the atomic energy disaster at Chernobyl. It is one of the oldest towns in the country, and although it served as a fortified military stron...",
+    "path": "europe/belarus/gomel",
     "score": 0.33,
-    "lat": 53.425061,
-    "lon": 27.697136
+    "lat": 52.423894,
+    "lon": 31.01317
    }
   ]
  },
@@ -16877,7 +16575,7 @@
  "bangladesh": {
   "name": "Bangladesh",
   "parent": "Bangladesh",
-  "n_locs": 7,
+  "n_locs": 6,
   "is_split": false,
   "top_locations": [
    {
@@ -16925,17 +16623,9 @@
  "bahrain": {
   "name": "Bahrain",
   "parent": "Bahrain",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Bahrain",
-    "snippet": "Bahrain is a tiny island kingdom in the Persian Gulf, and it punches well above its weight. Just 780 square kilometers of mostly flat desert, connected to Saudi Arabia by the 25-kilometer King Fahad Causeway, this is one of the most cosmopolitan and historically rich corners o...",
-    "path": "asia/bahrain",
-    "score": 0.54,
-    "lat": 26.0667,
-    "lon": 50.5577
-   },
    {
     "title": "Manama",
     "snippet": "Manama is arabic for 'sleepy place', but this name does not do the capital of Bahrain justice. Manama (pop. 152 000) contains the country\u2019s major hotels, best nightlife, nicest shopping and primary tourist attractions. The city is located on the northeastern corner of the isla...",
@@ -16965,7 +16655,7 @@
  "bahamas": {
   "name": "Bahamas",
   "parent": "The Bahamas",
-  "n_locs": 8,
+  "n_locs": 7,
   "is_split": false,
   "top_locations": [
    {
@@ -16975,14 +16665,6 @@
     "score": 0.76,
     "lat": 23.62,
     "lon": -75.97
-   },
-   {
-    "title": "Bahamas",
-    "snippet": "The Bahamas is an archipelago of some 700 islands and 2,400 cays scattered across 100,000 square miles of the Atlantic Ocean, beginning just 50 miles east of Florida and stretching south toward Cuba and Haiti. Only about 30 of those islands are inhabited, and the contrast betw...",
-    "path": "northamerica/bahamas",
-    "score": 0.72,
-    "lat": 25.0343,
-    "lon": -77.3963
    },
    {
     "title": "Eleuthera",
@@ -17007,13 +16689,21 @@
     "score": 0.64,
     "lat": 24.17,
     "lon": -76.44
+   },
+   {
+    "title": "Abaco",
+    "snippet": "The Abaco Islands form a boomerang-shaped chain of cays at the northern tip of the Bahamas, stretching roughly 130 miles from Walker's Cay down to Hole-in-the-Wall. This is sailing country: hundreds of protected anchorages, shallow turquoise flats, and a string of small cay se...",
+    "path": "northamerica/bahamas/abaco",
+    "score": 0.61,
+    "lat": 26.4667,
+    "lon": -77.0833
    }
   ]
  },
  "azerbaijan": {
   "name": "Azerbaijan",
   "parent": "Azerbaijan",
-  "n_locs": 30,
+  "n_locs": 29,
   "is_split": false,
   "top_locations": [
    {
@@ -17061,7 +16751,7 @@
  "hallstatt": {
   "name": "Alps & Salzkammergut",
   "parent": "Austria",
-  "n_locs": 27,
+  "n_locs": 26,
   "is_split": true,
   "top_locations": [
    {
@@ -17157,7 +16847,7 @@
  "uluru_kata_tjuta_national_park": {
   "name": "Outback & West Coast",
   "parent": "Australia",
-  "n_locs": 20,
+  "n_locs": 19,
   "is_split": true,
   "top_locations": [
    {
@@ -17377,18 +17067,9 @@
  "norfolk_island": {
   "name": "Norfolk Island",
   "parent": "Australia",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Norfolk Island",
-    "snippet": "Norfolk island was virtually uninhabited when, in 1774, Captain James Cook fell across it. If you see how small the island is and how big the Ocean around, you understand that a bit of luck was involved, even if you take into account that Cook was a great explorer.",
-    "path": "australiaandpacific/norfolkisland",
-    "score": 0.47,
-    "lat": -29.032804,
-    "lon": 167.948314
-   }
-  ]
+  "top_locations": []
  },
  "ashmore_and_cartier_is": {
   "name": "Ashmore and Cartier Is.",
@@ -17400,7 +17081,7 @@
  "armenia": {
   "name": "Armenia",
   "parent": "Armenia",
-  "n_locs": 31,
+  "n_locs": 30,
   "is_split": false,
   "top_locations": [
    {
@@ -17448,7 +17129,7 @@
  "iguazu_falls": {
   "name": "Iguazu & Northwest",
   "parent": "Argentina",
-  "n_locs": 23,
+  "n_locs": 22,
   "is_split": true,
   "top_locations": [
    {
@@ -17584,7 +17265,7 @@
  "angola": {
   "name": "Angola",
   "parent": "Angola",
-  "n_locs": 14,
+  "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
@@ -17632,23 +17313,14 @@
  "andorra": {
   "name": "Andorra",
   "parent": "Andorra",
-  "n_locs": 1,
+  "n_locs": 0,
   "is_split": false,
-  "top_locations": [
-   {
-    "title": "Andorra",
-    "snippet": "Andorra is a tiny ministate between France and Spain. High up in the Pyrenee mountains it is a unique place to visit. In winter time Andorra has some fine ski slopes to explore. In summer it is an enjoyable stop when going from Spain to France. The capital, Andorra la vella is...",
-    "path": "europe/andorra",
-    "score": 0.58,
-    "lat": 42.540717,
-    "lon": 1.573203
-   }
-  ]
+  "top_locations": []
  },
  "algeria": {
   "name": "Algeria",
   "parent": "Algeria",
-  "n_locs": 32,
+  "n_locs": 31,
   "is_split": false,
   "top_locations": [
    {
@@ -17696,7 +17368,7 @@
  "albania": {
   "name": "Albania",
   "parent": "Albania",
-  "n_locs": 23,
+  "n_locs": 22,
   "is_split": false,
   "top_locations": [
    {
@@ -17716,14 +17388,6 @@
     "lon": 19.958076
    },
    {
-    "title": "Albania",
-    "snippet": "Albania is a small country on the southeastern Adriatic coast, wedged between Montenegro, Kosovo, North Macedonia, and Greece. It spent 45 years under one of the most extreme communist regimes in the world, sealed off from outside contact until 1991. That isolation left the co...",
-    "path": "europe/albania",
-    "score": 0.58,
-    "lat": 41.000028,
-    "lon": 19.999962
-   },
-   {
     "title": "Saranda",
     "snippet": "Saranda is the main resort town of the Albanian Riviera, sitting at the southern tip of the Ionian coast a short crossing from the Greek island of Corfu. It is a useful base and a pleasant enough place, though the town itself \u2014 a ring of apartment blocks and hotels around a ba...",
     "path": "europe/albania/saranda",
@@ -17738,13 +17402,21 @@
     "score": 0.57,
     "lat": 39.745869,
     "lon": 20.020999
+   },
+   {
+    "title": "Jal\u00eb",
+    "snippet": "Jal\u00eb is a small coastal village on the Albanian Riviera, roughly halfway between Vlor\u00eb and Sarand\u00eb, about seven kilometres south of Himar\u00eb. The beach here is one of the most beautiful on this stretch of coast \u2014 a crescent of white pebbles and clear turquoise water backed by ol...",
+    "path": "europe/albania/jal",
+    "score": 0.56,
+    "lat": 40.0674,
+    "lon": 19.8163
    }
   ]
  },
  "afghanistan": {
   "name": "Afghanistan",
   "parent": "Afghanistan",
-  "n_locs": 11,
+  "n_locs": 10,
   "is_split": false,
   "top_locations": [
    {
@@ -17884,17 +17556,9 @@
  "tuvalu": {
   "name": "Tuvalu",
   "parent": "Tuvalu",
-  "n_locs": 4,
+  "n_locs": 3,
   "is_split": false,
   "top_locations": [
-   {
-    "title": "Tuvalu",
-    "snippet": "Tuvalu is one of the world's smallest and most remote nations \u2014 nine coral atolls scattered across the central Pacific, with a total land area of just 26 square kilometres and a population of around 11,000. It is also, almost certainly, the most endangered country on earth. Se...",
-    "path": "australiaandpacific/tuvalu",
-    "score": 0.44,
-    "lat": -8.640521,
-    "lon": 179.158292
-   },
    {
     "title": "Nanumanga island",
     "snippet": "Nanumanga is a small, reef-enclosed island in the northern part of Tuvalu, and one of the few islands in the country that is not a true atoll. Instead of a central lagoon, Nanumanga has two small, landlocked ponds surrounded by dense vegetation. The island is roughly oval, abo...",

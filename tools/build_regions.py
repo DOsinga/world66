@@ -40,6 +40,7 @@ CONTENT_DIR = PROJECT_DIR / "content"
 SUBUNITS_PATH = SCRIPT_DIR / "raw" / "ne_50m_admin_0_map_subunits.geojson"
 OUT_GEO = PROJECT_DIR / "static" / "geo" / "regions.geo.json"
 OUT_DATA = PROJECT_DIR / "static" / "geo" / "regions_data.json"
+NAME_OVERRIDES_PATH = SCRIPT_DIR / "region_name_overrides.json"
 
 # Tuning knobs.
 #   IMPORTANCE_K: spread between bottom and top of score range.
@@ -424,6 +425,19 @@ def build_regions() -> tuple[list[dict], dict[str, dict]]:
 
 def render_outputs(regions: list[dict]) -> None:
     OUT_GEO.parent.mkdir(parents=True, exist_ok=True)
+    # Apply human-curated name overrides from region_name_overrides.json
+    # (produced by per-country naming agents + manual dedup fixes). This
+    # makes overrides.json the single source of truth for region names —
+    # build_regions can be re-run safely without losing them.
+    overrides: dict[str, str] = {}
+    if NAME_OVERRIDES_PATH.exists():
+        overrides = json.loads(NAME_OVERRIDES_PATH.read_text())
+        for r in regions:
+            if r["id"] in overrides:
+                r["name"] = overrides[r["id"]]
+        print(f"Applied {sum(1 for r in regions if r['id'] in overrides)} name overrides",
+              file=sys.stderr)
+
     geo = {
         "type": "FeatureCollection",
         "features": [],
@@ -431,7 +445,12 @@ def render_outputs(regions: list[dict]) -> None:
     data: dict[str, dict] = {}
 
     for r in regions:
-        top = sorted(r["locs"], key=lambda l: -l.score)[:TOP_LOCATIONS_PER_REGION]
+        # Don't surface continent/country pages as "destinations in this
+        # region" — they're whole-territory pages that happen to have their
+        # centroid land in a particular cell.
+        display_locs = [l for l in r["locs"]
+                        if l.loc_type not in ("country", "continent")]
+        top = sorted(display_locs, key=lambda l: -l.score)[:TOP_LOCATIONS_PER_REGION]
         feature = {
             "type": "Feature",
             "id": r["id"],
@@ -439,7 +458,7 @@ def render_outputs(regions: list[dict]) -> None:
                 "id": r["id"],
                 "name": r["name"],
                 "parent": r["parent"],
-                "n_locs": len(r["locs"]),
+                "n_locs": len(display_locs),
                 "top": top[0].title if top else "",
             },
             "geometry": mapping(r["geom"]),
@@ -448,7 +467,7 @@ def render_outputs(regions: list[dict]) -> None:
         data[r["id"]] = {
             "name": r["name"],
             "parent": r["parent"],
-            "n_locs": len(r["locs"]),
+            "n_locs": len(display_locs),
             "is_split": r.get("is_split", False),
             "top_locations": [
                 {

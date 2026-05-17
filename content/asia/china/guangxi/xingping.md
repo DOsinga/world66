@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xingping
 title: Xingping
 type: location
+image: xingping.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Man_of_Xingping,_China_(19044876772).jpg
+image_license: CC BY 2.0
+image_attribution: Stevyn Deeves from London
 ---
 
 Xingping is a small town on the Li River between Guilin and Yangshuo, and the stretch of river that runs past it is the section that ended up on the twenty-yuan banknote — a view of karst peaks reflected in still water that has become one of the iconic images of China. The town itself has Ming dynasty architecture that predates its current tourist role, narrow lanes with tiled eaves, and a riverfront that has not yet been completely rearranged for visitors. It is quieter than Yangshuo, cheaper, and in some ways more representative of what Yangshuo was before it became what it is.

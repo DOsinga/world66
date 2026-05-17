@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - park
-latitude: 22.8204
-longitude: 108.3040
+latitude: 22.8272
+longitude: 108.3306
 ---
 
 Renmin Park (People's Park), also known as White Dragon Park for the White Dragon Lake at its centre, is the oldest public park in Nanning, laid out during the Republican era in the 1930s. It occupies a central location in Xingning District and functions as a genuine neighbourhood park — used for morning exercise, weekend gatherings, and the kind of informal public life that larger Chinese cities have been slowly designing out of existence.

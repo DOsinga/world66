@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - park
-latitude: 26.5913
-longitude: 106.6986
+latitude: 26.5991
+longitude: 106.6987
 story: >
   The Qianling Mountain park contains a troupe of wild macaques that have been interacting with Guiyang residents for generations. They have learned to intercept visitors on the path to Hongfu Temple and extract food from backpacks and pockets with a technique that combines persistence, opportunism, and a willingness to make eye contact at close range. Keep snacks secured. The macaques are not dangerous but they are bold, and giving them food makes them bolder.
 ---

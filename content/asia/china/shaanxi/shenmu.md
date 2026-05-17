@@ -8,6 +8,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Shenmu
 title: Shenmu
 type: location
+image: shenmu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Shenmu,_Yulin,_Shaanxi,_China_-_panoramio_(2).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Matthew Summerton
 ---
 
 Shenmu is a coal boomtown in northern Shaanxi, administratively part of Yulin Prefecture, that has in recent years acquired a new significance as archaeologists have excavated the Shimao Ruins nearby — a walled settlement that flourished between 2300 and 1800 BC, making it roughly contemporary with the earliest Egyptian pyramids and, at around four hundred hectares, among the largest Neolithic sites yet discovered in China. The Shimao site has yielded jade objects, carved stone faces, and evidence of a hierarchical society well in advance of what was previously thought to exist in this region at that date.

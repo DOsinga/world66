@@ -6,7 +6,7 @@ url: "www.shenzhenparty.com"
 
 Resources to help you find your way around Shenzhen
 
-### [Subway Metro](/asia/china/shenzhen/getting_around/subway_metro)
+### [Subway Metro](/asia/china/guangdong/shenzhen/getting_around/subway_metro)
 
 The Shenzhen Metro is now a good way to get around. It connects to Hong Kong. A full metro map can be found here:
 

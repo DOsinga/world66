@@ -13,4 +13,4 @@ A natural hill 85 km north-west of Xi'an that the Tang dynasty turned into the j
 
 A 5-km "spirit way" runs up to the tomb, lined with stone winged horses, ostriches, lions, and the famous sixty-one headless stone envoys. A handful of Tang dynasty subsidiary tombs around the base of the hill have been opened and turned into small museums; the wall paintings inside the tomb of Princess Yongtai are some of the best surviving Tang paintings anywhere.
 
-A long day trip from Xi'an, often combined with [Famen Temple](/asia/china/xian/famen_temple).
+A long day trip from Xi'an, often combined with [Famen Temple](/asia/china/shaanxi/xian/famen_temple).

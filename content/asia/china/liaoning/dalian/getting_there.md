@@ -11,4 +11,4 @@ Having domestic and international air connections. There’re daily flights from
 
 **By boat**
 
-Regular boats from Tianjin, Shanghai, Qingdao, Yantai and Weihai can take you to Dalian. Tickets can be bought at the ferry terminal in the east of Dalian, not far from the Friendship Hotel. Tickets are also sold at a booth in front of the railway station. Bus No.13 goes from the railway station [more..](/asia/china/dalian/gettingthere/byboat)
+Regular boats from Tianjin, Shanghai, Qingdao, Yantai and Weihai can take you to Dalian. Tickets can be bought at the ferry terminal in the east of Dalian, not far from the Friendship Hotel. Tickets are also sold at a booth in front of the railway station. Bus No.13 goes from the railway station [more..](/asia/china/liaoning/dalian/gettingthere/byboat)

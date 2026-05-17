@@ -13,4 +13,4 @@ Huayang is a tiny village in Shaanxi Province where people still live a traditio
 
 The main reason to come here is Changqing Nature Reserve, about half an hour's drive away — one of the few remaining sites in China where giant pandas can be seen in the wild. The reserve is also home to golden monkeys, golden takin and crested ibis, along with dozens of other threatened species.
 
-The nearest city is Hanzhong, reachable by air or rail from [Xi'an](/asia/china/xian). Reserve staff can arrange transport from Hanzhong to the village.
+The nearest city is Hanzhong, reachable by air or rail from [Xi'an](/asia/china/shaanxi/xian). Reserve staff can arrange transport from Hanzhong to the village.

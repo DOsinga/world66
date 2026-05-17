@@ -8,7 +8,7 @@ Most likely if one wants to go to Yangshuo they will have to go to Guiling first
 **Contributors**
 July 15, 2005
 
-### [How to get to Yangshuo?](/asia/china/yangshuo/getting_there/how_to_get_to_yang)
+### [How to get to Yangshuo?](/asia/china/guangxi/yangshuo/getting_there/how_to_get_to_yang)
 
 Dear travelers,there are some diffrent ways to get to the beatiful village-Yangshuo as below:
 
@@ -16,10 +16,10 @@ Dear travelers,there are some diffrent ways to get to the beatiful village-Yangs
 
 2: Take the train to the Guilin Railway station. After take the Bus or Taxi to Yangshuo and drive will take about two hours.
 
-3: Take the bus from Canton(Guanzhou) or Shenzhen to Yangshuo. The bus will take about 10 hours(from Canton) or 12 hours(Shenzhen) to [more..](/asia/china/yangshuo/getting_there/how_to_get_to_yang)
+3: Take the bus from Canton(Guanzhou) or Shenzhen to Yangshuo. The bus will take about 10 hours(from Canton) or 12 hours(Shenzhen) to [more..](/asia/china/guangxi/yangshuo/getting_there/how_to_get_to_yang)
 
 type: By Air
 
 
 
-[[rate it]](/asia/china/yangshuo/getting_there/how_to_get_to_yang)
+[[rate it]](/asia/china/guangxi/yangshuo/getting_there/how_to_get_to_yang)

@@ -18,4 +18,4 @@ story: >
 
 The Temple of Universal Joy (普乐寺) sits east of the Mountain Resort and is the least visited of the major outer temples, which is part of its charm. The architecture mixes Han Chinese, Mongolian, and Tibetan elements: a conventional Chinese front gate and series of halls, then a square Tibetan-style platform topped by a circular wooden pavilion that deliberately echoes the Temple of Heaven in Beijing.
 
-The view from the upper terrace is one of the best in Chengde — the distinctive shape of [Sledgehammer Peak](/asia/china/chengde/sledgehammer_peak) rises directly behind the temple, and the Mountain Resort spreads out below. Entry is much quieter than at Puning or Putuo Zongcheng.
+The view from the upper terrace is one of the best in Chengde — the distinctive shape of [Sledgehammer Peak](/asia/china/hebei/chengde/sledgehammer_peak) rises directly behind the temple, and the Mountain Resort spreads out below. Entry is much quieter than at Puning or Putuo Zongcheng.

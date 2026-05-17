@@ -10,7 +10,7 @@ If you've been in China for a while and are looking for a little Western cuisine
 **Contributors**
 July 15, 2005
 
-### [Apple Crumble](/asia/china/yangshuo/eating_out/hmn)
+### [Apple Crumble](/asia/china/guangxi/yangshuo/eating_out/hmn)
 
 One of the best things to eat in Yangshuo is the Apple Crumble in Drifters on West Street. Famous with all local western people in Yangshuo!
 

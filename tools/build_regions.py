@@ -384,31 +384,23 @@ def build_regions() -> tuple[list[dict], dict[str, dict]]:
     print(f"Budget per region: {BUDGET:,.0f}", file=sys.stderr)
 
     print("Building regions...", file=sys.stderr)
-    def name_from_top_city(su_locs: list[Loc], fallback: str) -> str:
-        for cand in sorted(su_locs, key=lambda l: -l.score):
-            if cand.loc_type in ("country", "continent"):
-                continue
-            # Only override the NE name when the city is clearly worth
-            # naming — otherwise tiny island subunits with one low-score
-            # village would replace e.g. "Bornholm" with that village name.
-            if cand.score >= 0.45:
-                return cand.title
-            break
-        return fallback
-
     regions: list[dict] = []
     for su in subunits:
         su_locs = assigned.get(su["su_a3"], [])
         total = sum(l.importance for l in su_locs)
         if total <= BUDGET or len(su_locs) < 4:
+            # Whole-subunit region: keep the Natural Earth subunit name.
             regions.append({
-                "name": name_from_top_city(su_locs, su["name"]),
+                "name": su["name"],
                 "parent": su["sovereign"] or su["name"],
                 "geom": su["geom"],
                 "locs": su_locs,
+                "is_split": False,
             })
         else:
             sub_regions = split_subunit(su, su_locs, total)
+            for r in sub_regions:
+                r["is_split"] = True
             regions.extend(sub_regions)
 
     # Assign stable ids.
@@ -457,6 +449,7 @@ def render_outputs(regions: list[dict]) -> None:
             "name": r["name"],
             "parent": r["parent"],
             "n_locs": len(r["locs"]),
+            "is_split": r.get("is_split", False),
             "top_locations": [
                 {
                     "title": l.title,

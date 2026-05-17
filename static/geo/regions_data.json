@@ -1,8 +1,9 @@
 {
- "great_zimbabwe": {
-  "name": "Great Zimbabwe",
+ "zimbabwe": {
+  "name": "Zimbabwe",
   "parent": "Zimbabwe",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Great Zimbabwe",
@@ -50,6 +51,7 @@
   "name": "Zambia",
   "parent": "Zambia",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Zambia",
@@ -89,6 +91,7 @@
   "name": "Yemen",
   "parent": "Yemen",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Shibam",
@@ -136,6 +139,7 @@
   "name": "Socotra",
   "parent": "Yemen",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Socotra",
@@ -148,9 +152,10 @@
   ]
  },
  "hoi_an": {
-  "name": "Hoi An",
+  "name": "Central & South",
   "parent": "Vietnam",
   "n_locs": 20,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hoi An",
@@ -195,9 +200,10 @@
   ]
  },
  "ha_long_bay": {
-  "name": "Ha Long Bay",
+  "name": "Ha Long Bay Area",
   "parent": "Vietnam",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ha Long Bay",
@@ -242,9 +248,10 @@
   ]
  },
  "hanoi": {
-  "name": "Hanoi",
+  "name": "Northern Vietnam",
   "parent": "Vietnam",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hanoi",
@@ -288,10 +295,11 @@
    }
   ]
  },
- "los_roques": {
-  "name": "Los Roques",
+ "venezuela": {
+  "name": "Venezuela",
   "parent": "Venezuela",
   "n_locs": 25,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Los Roques",
@@ -339,12 +347,14 @@
   "name": "Vatican",
   "parent": "Vatican",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "tanna": {
-  "name": "Tanna",
+ "vanuatu": {
+  "name": "Vanuatu",
   "parent": "Vanuatu",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tanna",
@@ -388,10 +398,11 @@
    }
   ]
  },
- "samarkand": {
-  "name": "Samarkand",
+ "uzbekistan": {
+  "name": "Uzbekistan",
   "parent": "Uzbekistan",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Samarkand",
@@ -435,10 +446,11 @@
    }
   ]
  },
- "punta_del_este": {
-  "name": "Punta del Este",
+ "uruguay": {
+  "name": "Uruguay",
   "parent": "Uruguay",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Punta del Este",
@@ -482,10 +494,11 @@
    }
   ]
  },
- "kosrae": {
-  "name": "Kosrae",
+ "micronesia": {
+  "name": "Micronesia",
   "parent": "Federated States of Micronesia",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kosrae",
@@ -521,10 +534,11 @@
    }
   ]
  },
- "majuro": {
-  "name": "Majuro",
+ "marshall_is": {
+  "name": "Marshall Is.",
   "parent": "Marshall Islands",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Marshall Islands",
@@ -568,10 +582,11 @@
    }
   ]
  },
- "saipan": {
-  "name": "Saipan",
+ "n_mariana_is": {
+  "name": "N. Mariana Is.",
   "parent": "United States of America",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Saipan",
@@ -591,10 +606,11 @@
    }
   ]
  },
- "st_thomas": {
-  "name": "St. Thomas",
+ "u_s_virgin_is": {
+  "name": "U.S. Virgin Is.",
   "parent": "United States of America",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "St. Thomas",
@@ -622,10 +638,11 @@
    }
   ]
  },
- "hag_t_a_agana": {
-  "name": "Hag\u00e5t\u00f1a (Agana)",
+ "guam": {
+  "name": "Guam",
   "parent": "United States of America",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Guam",
@@ -669,10 +686,11 @@
    }
   ]
  },
- "tutuila": {
-  "name": "Tutuila",
+ "american_samoa": {
+  "name": "American Samoa",
   "parent": "United States of America",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tutuila",
@@ -708,10 +726,11 @@
    }
   ]
  },
- "culebra": {
-  "name": "Culebra",
+ "puerto_rico": {
+  "name": "Puerto Rico",
   "parent": "United States of America",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Culebra",
@@ -759,6 +778,7 @@
   "name": "Alaska",
   "parent": "United States of America",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Alaska",
@@ -803,9 +823,10 @@
   ]
  },
  "kaua_i": {
-  "name": "Kaua'i",
+  "name": "Kauai",
   "parent": "Hawaii",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kaua'i",
@@ -834,9 +855,10 @@
   ]
  },
  "hawaii": {
-  "name": "Hawaii",
+  "name": "Big Island & Maui",
   "parent": "Hawaii",
   "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hawaii",
@@ -884,6 +906,7 @@
   "name": "Oahu",
   "parent": "Hawaii",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Oahu",
@@ -928,9 +951,10 @@
   ]
  },
  "colorado": {
-  "name": "Colorado",
+  "name": "Rocky Mountains",
   "parent": "United States of America",
   "n_locs": 55,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Colorado",
@@ -975,9 +999,10 @@
   ]
  },
  "chicago": {
-  "name": "Chicago",
+  "name": "Great Lakes & Midwest",
   "parent": "United States of America",
   "n_locs": 100,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Chicago",
@@ -1022,9 +1047,10 @@
   ]
  },
  "new_orleans": {
-  "name": "New Orleans",
+  "name": "Deep South",
   "parent": "United States of America",
   "n_locs": 124,
+  "is_split": true,
   "top_locations": [
    {
     "title": "New Orleans",
@@ -1069,9 +1095,10 @@
   ]
  },
  "new_york": {
-  "name": "New York",
+  "name": "Mid Atlantic",
   "parent": "United States of America",
   "n_locs": 96,
+  "is_split": true,
   "top_locations": [
    {
     "title": "New York",
@@ -1116,9 +1143,10 @@
   ]
  },
  "las_vegas": {
-  "name": "Las Vegas",
+  "name": "Nevada & Zion",
   "parent": "United States of America",
   "n_locs": 17,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Las Vegas",
@@ -1163,9 +1191,10 @@
   ]
  },
  "boston": {
-  "name": "Boston",
+  "name": "New England",
   "parent": "United States of America",
   "n_locs": 88,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Boston",
@@ -1210,9 +1239,10 @@
   ]
  },
  "sedona": {
-  "name": "Sedona",
+  "name": "Arizona & New Mexico",
   "parent": "United States of America",
   "n_locs": 39,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Sedona",
@@ -1257,9 +1287,10 @@
   ]
  },
  "utah": {
-  "name": "Utah",
+  "name": "Utah Canyon Country",
   "parent": "United States of America",
   "n_locs": 34,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Utah",
@@ -1304,9 +1335,10 @@
   ]
  },
  "niagara_falls": {
-  "name": "Niagara Falls",
+  "name": "Great Lakes East",
   "parent": "United States of America",
   "n_locs": 61,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Niagara Falls",
@@ -1351,9 +1383,10 @@
   ]
  },
  "charleston": {
-  "name": "Charleston",
+  "name": "Appalachian South",
   "parent": "United States of America",
   "n_locs": 97,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Charleston",
@@ -1398,9 +1431,10 @@
   ]
  },
  "san_francisco": {
-  "name": "San Francisco",
+  "name": "Northern California",
   "parent": "United States of America",
   "n_locs": 110,
+  "is_split": true,
   "top_locations": [
    {
     "title": "San Francisco",
@@ -1445,9 +1479,10 @@
   ]
  },
  "jackson_hole": {
-  "name": "Jackson Hole",
+  "name": "Northern Rockies",
   "parent": "United States of America",
   "n_locs": 34,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Jackson Hole",
@@ -1492,9 +1527,10 @@
   ]
  },
  "key_west": {
-  "name": "Key West",
+  "name": "Florida",
   "parent": "United States of America",
   "n_locs": 55,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Key West",
@@ -1539,9 +1575,10 @@
   ]
  },
  "washington": {
-  "name": "Washington",
+  "name": "Pacific Northwest",
   "parent": "United States of America",
   "n_locs": 47,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Washington",
@@ -1586,9 +1623,10 @@
   ]
  },
  "san_diego": {
-  "name": "San Diego",
+  "name": "Southern California",
   "parent": "United States of America",
   "n_locs": 71,
+  "is_split": true,
   "top_locations": [
    {
     "title": "San Diego",
@@ -1636,30 +1674,35 @@
   "name": "S. Sandwich Is.",
   "parent": "United Kingdom",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "s_georgia": {
   "name": "S. Georgia",
   "parent": "United Kingdom",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "saint_helena": {
   "name": "Saint Helena",
   "parent": "United Kingdom",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "ascension": {
   "name": "Ascension",
   "parent": "United Kingdom",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "pitcairn_is": {
   "name": "Pitcairn Is.",
   "parent": "United Kingdom",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Pitcairn Islands",
@@ -1675,6 +1718,7 @@
   "name": "Anguilla",
   "parent": "United Kingdom",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Anguilla",
@@ -1686,10 +1730,11 @@
    }
   ]
  },
- "stanley": {
-  "name": "Stanley",
+ "falkland_is": {
+  "name": "Falkland Is.",
   "parent": "United Kingdom",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Falkland Islands",
@@ -1709,10 +1754,11 @@
    }
   ]
  },
- "cayman_islands": {
-  "name": "Cayman Islands",
+ "cayman_is": {
+  "name": "Cayman Is.",
   "parent": "United Kingdom",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cayman Islands",
@@ -1740,10 +1786,11 @@
    }
   ]
  },
- "hamilton": {
-  "name": "Hamilton",
+ "bermuda": {
+  "name": "Bermuda",
   "parent": "United Kingdom",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bermuda",
@@ -1771,10 +1818,11 @@
    }
   ]
  },
- "tortola": {
-  "name": "Tortola",
+ "british_virgin_is": {
+  "name": "British Virgin Is.",
   "parent": "United Kingdom",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tortola",
@@ -1794,10 +1842,11 @@
    }
   ]
  },
- "providenciales": {
-  "name": "Providenciales",
+ "turks_and_caicos_is": {
+  "name": "Turks and Caicos Is.",
   "parent": "United Kingdom",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Turks and Caicos Islands",
@@ -1845,6 +1894,7 @@
   "name": "Montserrat",
   "parent": "United Kingdom",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Montserrat",
@@ -1868,6 +1918,7 @@
   "name": "Jersey",
   "parent": "United Kingdom",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Channel Islands",
@@ -1899,6 +1950,7 @@
   "name": "Guernsey",
   "parent": "United Kingdom",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Guernsey",
@@ -1946,6 +1998,7 @@
   "name": "Isle of Man",
   "parent": "United Kingdom",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Isle of Man",
@@ -1989,10 +2042,11 @@
    }
   ]
  },
- "snowdonia": {
-  "name": "Snowdonia",
+ "wales": {
+  "name": "Wales",
   "parent": "United Kingdom",
   "n_locs": 24,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Snowdonia",
@@ -2037,9 +2091,10 @@
   ]
  },
  "edinburgh": {
-  "name": "Edinburgh",
+  "name": "Edinburgh & East",
   "parent": "Scotland",
   "n_locs": 34,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Edinburgh",
@@ -2084,9 +2139,10 @@
   ]
  },
  "skye": {
-  "name": "Skye",
+  "name": "Hebrides & West Coast",
   "parent": "Scotland",
   "n_locs": 28,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Skye",
@@ -2130,10 +2186,11 @@
    }
   ]
  },
- "northern_ireland": {
-  "name": "Northern Ireland",
+ "n_ireland": {
+  "name": "N. Ireland",
   "parent": "United Kingdom",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Northern Ireland",
@@ -2178,9 +2235,10 @@
   ]
  },
  "york": {
-  "name": "York",
+  "name": "Yorkshire & Lake District",
   "parent": "England",
   "n_locs": 65,
+  "is_split": true,
   "top_locations": [
    {
     "title": "York",
@@ -2225,9 +2283,10 @@
   ]
  },
  "oxford": {
-  "name": "Oxford",
+  "name": "Cotswolds & South West",
   "parent": "England",
   "n_locs": 47,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Oxford",
@@ -2272,9 +2331,10 @@
   ]
  },
  "cambridge": {
-  "name": "Cambridge",
+  "name": "East Anglia",
   "parent": "England",
   "n_locs": 26,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cambridge",
@@ -2319,9 +2379,10 @@
   ]
  },
  "london": {
-  "name": "London",
+  "name": "London and around",
   "parent": "England",
   "n_locs": 35,
+  "is_split": true,
   "top_locations": [
    {
     "title": "London",
@@ -2366,9 +2427,10 @@
   ]
  },
  "cornwall": {
-  "name": "Cornwall",
+  "name": "Cornwall & Devon",
   "parent": "England",
   "n_locs": 32,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cornwall",
@@ -2412,10 +2474,11 @@
    }
   ]
  },
- "dubai": {
-  "name": "Dubai",
+ "united_arab_emirates": {
+  "name": "United Arab Emirates",
   "parent": "United Arab Emirates",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Dubai",
@@ -2459,10 +2522,11 @@
    }
   ]
  },
- "lviv": {
-  "name": "Lviv",
+ "ukraine": {
+  "name": "Ukraine",
   "parent": "Ukraine",
   "n_locs": 21,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Lviv",
@@ -2506,10 +2570,11 @@
    }
   ]
  },
- "entebbe": {
-  "name": "Entebbe",
+ "uganda": {
+  "name": "Uganda",
   "parent": "Uganda",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Entebbe",
@@ -2545,10 +2610,11 @@
    }
   ]
  },
- "ashgabat": {
-  "name": "Ashgabat",
+ "turkmenistan": {
+  "name": "Turkmenistan",
   "parent": "Turkmenistan",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ashgabat",
@@ -2593,9 +2659,10 @@
   ]
  },
  "g_reme": {
-  "name": "G\u00f6reme",
+  "name": "Cappadocia",
   "parent": "Turkey",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "G\u00f6reme",
@@ -2640,9 +2707,10 @@
   ]
  },
  "antalya": {
-  "name": "Antalya",
+  "name": "Mediterranean & Aegean Coast",
   "parent": "Turkey",
   "n_locs": 20,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Antalya",
@@ -2687,9 +2755,10 @@
   ]
  },
  "istanbul": {
-  "name": "Istanbul",
+  "name": "Istanbul & Marmara",
   "parent": "Turkey",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Istanbul",
@@ -2734,9 +2803,10 @@
   ]
  },
  "kars_ani": {
-  "name": "Kars & Ani",
+  "name": "Eastern Turkey",
   "parent": "Turkey",
   "n_locs": 8,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kars & Ani",
@@ -2780,10 +2850,11 @@
    }
   ]
  },
- "carthage": {
-  "name": "Carthage",
+ "tunisia": {
+  "name": "Tunisia",
   "parent": "Tunisia",
   "n_locs": 30,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Carthage",
@@ -2831,6 +2902,7 @@
   "name": "Tobago",
   "parent": "Trinidad and Tobago",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tobago",
@@ -2842,10 +2914,11 @@
    }
   ]
  },
- "san_fernando": {
-  "name": "San Fernando",
+ "trinidad": {
+  "name": "Trinidad",
   "parent": "Trinidad and Tobago",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "San Fernando",
@@ -2857,10 +2930,11 @@
    }
   ]
  },
- "vava_u_group": {
-  "name": "Vava'u Group",
+ "tonga": {
+  "name": "Tonga",
   "parent": "Tonga",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Vava'u Group",
@@ -2908,6 +2982,7 @@
   "name": "Togo",
   "parent": "Togo",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Togoville",
@@ -2955,6 +3030,7 @@
   "name": "Timor-Leste",
   "parent": "East Timor",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Timor-Leste",
@@ -2978,12 +3054,14 @@
   "name": "Pante Makasar",
   "parent": "East Timor",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "bangkok": {
-  "name": "Bangkok",
+  "name": "Bangkok & Central",
   "parent": "Thailand",
   "n_locs": 24,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Thailand",
@@ -3028,9 +3106,10 @@
   ]
  },
  "chiang_mai": {
-  "name": "Chiang mai",
+  "name": "Northern Thailand",
   "parent": "Thailand",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Chiang mai",
@@ -3075,9 +3154,10 @@
   ]
  },
  "koh_samui": {
-  "name": "Koh Samui",
+  "name": "Gulf Islands",
   "parent": "Thailand",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Koh Samui",
@@ -3122,9 +3202,10 @@
   ]
  },
  "phang_nga_bay": {
-  "name": "Phang Nga Bay",
+  "name": "Andaman Coast",
   "parent": "Thailand",
   "n_locs": 17,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Phang Nga Bay",
@@ -3172,6 +3253,7 @@
   "name": "Zanzibar",
   "parent": "United Republic of Tanzania",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Zanzibar",
@@ -3199,10 +3281,11 @@
    }
   ]
  },
- "swahili_coast": {
-  "name": "Swahili Coast",
+ "tanzania": {
+  "name": "Tanzania",
   "parent": "United Republic of Tanzania",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Swahili Coast",
@@ -3246,10 +3329,11 @@
    }
   ]
  },
- "pamir_highway": {
-  "name": "Pamir Highway",
+ "tajikistan": {
+  "name": "Tajikistan",
   "parent": "Tajikistan",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Pamir Highway",
@@ -3293,10 +3377,11 @@
    }
   ]
  },
- "taipei": {
-  "name": "Taipei",
+ "taiwan": {
+  "name": "Taiwan",
   "parent": "Taiwan",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Taipei",
@@ -3340,10 +3425,11 @@
    }
   ]
  },
- "arwad_island": {
-  "name": "Arwad Island",
+ "syria": {
+  "name": "Syria",
   "parent": "Syria",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Arwad Island",
@@ -3388,9 +3474,10 @@
   ]
  },
  "zermatt": {
-  "name": "Zermatt",
+  "name": "Bernese Oberland",
   "parent": "Switzerland",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Zermatt",
@@ -3435,9 +3522,10 @@
   ]
  },
  "st_moritz": {
-  "name": "St. Moritz",
+  "name": "Engadine & Ticino",
   "parent": "Switzerland",
   "n_locs": 21,
+  "is_split": true,
   "top_locations": [
    {
     "title": "St. Moritz",
@@ -3482,9 +3570,10 @@
   ]
  },
  "bern": {
-  "name": "Bern",
+  "name": "Bern & Mittelland",
   "parent": "Switzerland",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Bern",
@@ -3529,9 +3618,10 @@
   ]
  },
  "montreux": {
-  "name": "Montreux",
+  "name": "Lake Geneva & Valais",
   "parent": "Switzerland",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Montreux",
@@ -3576,9 +3666,10 @@
   ]
  },
  "gothenburg": {
-  "name": "Gothenburg",
+  "name": "Gothenburg-South Coast",
   "parent": "Sweden",
   "n_locs": 34,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Gothenburg",
@@ -3623,9 +3714,10 @@
   ]
  },
  "stockholm": {
-  "name": "Stockholm",
+  "name": "Stockholm Gotland",
   "parent": "Sweden",
   "n_locs": 27,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Stockholm",
@@ -3669,10 +3761,11 @@
    }
   ]
  },
- "ezulwini_valley": {
-  "name": "Ezulwini Valley",
+ "eswatini": {
+  "name": "eSwatini",
   "parent": "eSwatini",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ezulwini Valley",
@@ -3716,10 +3809,11 @@
    }
   ]
  },
- "paramaribo": {
-  "name": "Paramaribo",
+ "suriname": {
+  "name": "Suriname",
   "parent": "Suriname",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Paramaribo",
@@ -3743,6 +3837,7 @@
   "name": "S. Sudan",
   "parent": "South Sudan",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "South Sudan",
@@ -3758,6 +3853,7 @@
   "name": "Sudan",
   "parent": "Sudan",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kassala",
@@ -3801,10 +3897,11 @@
    }
   ]
  },
- "galle": {
-  "name": "Galle",
+ "sri_lanka": {
+  "name": "Sri Lanka",
   "parent": "Sri Lanka",
   "n_locs": 21,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Galle",
@@ -3852,6 +3949,7 @@
   "name": "Mallorca",
   "parent": "Balearic Is.",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Mallorca",
@@ -3896,9 +3994,10 @@
   ]
  },
  "ibiza": {
-  "name": "Ibiza",
+  "name": "Ibiza & Formentera",
   "parent": "Balearic Is.",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ibiza",
@@ -3927,9 +4026,10 @@
   ]
  },
  "madrid": {
-  "name": "Madrid",
+  "name": "Madrid & Castile",
   "parent": "Spain",
   "n_locs": 24,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Madrid",
@@ -3974,9 +4074,10 @@
   ]
  },
  "malaga": {
-  "name": "Malaga",
+  "name": "Costa del Sol",
   "parent": "Spain",
   "n_locs": 21,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Malaga",
@@ -4021,9 +4122,10 @@
   ]
  },
  "granada": {
-  "name": "Granada",
+  "name": "Andalusia",
   "parent": "Spain",
   "n_locs": 13,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Granada",
@@ -4068,9 +4170,10 @@
   ]
  },
  "albarrac_n": {
-  "name": "Albarrac\u00edn",
+  "name": "Aragon",
   "parent": "Spain",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Albarrac\u00edn",
@@ -4115,9 +4218,10 @@
   ]
  },
  "seville": {
-  "name": "Seville",
+  "name": "Seville & Extremadura",
   "parent": "Spain",
   "n_locs": 17,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Seville",
@@ -4162,9 +4266,10 @@
   ]
  },
  "valencia": {
-  "name": "Valencia",
+  "name": "Valencia & Costa Blanca",
   "parent": "Spain",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Valencia",
@@ -4209,9 +4314,10 @@
   ]
  },
  "barcelona": {
-  "name": "Barcelona",
+  "name": "Catalonia",
   "parent": "Spain",
   "n_locs": 25,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Barcelona",
@@ -4256,9 +4362,10 @@
   ]
  },
  "san_sebasti_n": {
-  "name": "San Sebasti\u00e1n",
+  "name": "Basque Country",
   "parent": "Spain",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "San Sebasti\u00e1n",
@@ -4303,9 +4410,10 @@
   ]
  },
  "santiago_de_compostela": {
-  "name": "Santiago de Compostela",
+  "name": "Galicia",
   "parent": "Spain",
   "n_locs": 47,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Santiago de Compostela",
@@ -4350,9 +4458,10 @@
   ]
  },
  "canary_islands": {
-  "name": "Canary Islands",
+  "name": "Tenerife & La Palma",
   "parent": "Canary Is.",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Canary Islands",
@@ -4397,9 +4506,10 @@
   ]
  },
  "lanzarote": {
-  "name": "Lanzarote",
+  "name": "Lanzarote & Gran Canaria",
   "parent": "Canary Is.",
   "n_locs": 12,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lanzarote",
@@ -4443,10 +4553,11 @@
    }
   ]
  },
- "seoul": {
-  "name": "Seoul",
+ "south_korea": {
+  "name": "South Korea",
   "parent": "South Korea",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Seoul",
@@ -4494,12 +4605,14 @@
   "name": "Ulleungdo",
   "parent": "South Korea",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "jeju_island": {
-  "name": "Jeju Island",
+ "jejudo": {
+  "name": "Jejudo",
   "parent": "South Korea",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Jeju Island",
@@ -4515,6 +4628,7 @@
   "name": "Drakensberg",
   "parent": "South Africa",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Drakensberg",
@@ -4559,9 +4673,10 @@
   ]
  },
  "cape_town": {
-  "name": "Cape Town",
+  "name": "Cape Town Region",
   "parent": "South Africa",
   "n_locs": 13,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cape Town",
@@ -4609,12 +4724,14 @@
   "name": "Prince Edward Is.",
   "parent": "South Africa",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "somalia": {
   "name": "Somalia",
   "parent": "Somalia",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bossaso",
@@ -4662,6 +4779,7 @@
   "name": "Somaliland",
   "parent": "Somaliland",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Hargeisa",
@@ -4709,6 +4827,7 @@
   "name": "Solomon Is.",
   "parent": "Solomon Islands",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Solomon Islands",
@@ -4752,10 +4871,11 @@
    }
   ]
  },
- "bratislava": {
-  "name": "Bratislava",
+ "slovakia": {
+  "name": "Slovakia",
   "parent": "Slovakia",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bratislava",
@@ -4799,10 +4919,11 @@
    }
   ]
  },
- "bled": {
-  "name": "Bled",
+ "slovenia": {
+  "name": "Slovenia",
   "parent": "Slovenia",
   "n_locs": 15,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bled",
@@ -4846,10 +4967,11 @@
    }
   ]
  },
- "sentosa": {
-  "name": "Sentosa",
+ "singapore": {
+  "name": "Singapore",
   "parent": "Singapore",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Singapore",
@@ -4897,6 +5019,7 @@
   "name": "Sierra Leone",
   "parent": "Sierra Leone",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Freetown Peninsula",
@@ -4941,9 +5064,10 @@
   ]
  },
  "mahe": {
-  "name": "Mahe",
+  "name": "Inner Islands",
   "parent": "Seychelles",
   "n_locs": 2,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Mahe",
@@ -4963,10 +5087,11 @@
    }
   ]
  },
- "belgrade": {
-  "name": "Belgrade",
+ "serbia": {
+  "name": "Serbia",
   "parent": "Republic of Serbia",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Belgrade",
@@ -5010,10 +5135,11 @@
    }
   ]
  },
- "novi_sad": {
-  "name": "Novi Sad",
+ "vojvodina": {
+  "name": "Vojvodina",
   "parent": "Republic of Serbia",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Novi Sad",
@@ -5025,10 +5151,11 @@
    }
   ]
  },
- "ile_de_gor_e": {
-  "name": "Ile de Gor\u00e9e",
+ "senegal": {
+  "name": "Senegal",
   "parent": "Senegal",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ile de Gor\u00e9e",
@@ -5072,10 +5199,11 @@
    }
   ]
  },
- "jeddah": {
-  "name": "Jeddah",
+ "saudi_arabia": {
+  "name": "Saudi Arabia",
   "parent": "Saudi Arabia",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Jeddah",
@@ -5119,10 +5247,11 @@
    }
   ]
  },
- "pr_ncipe": {
-  "name": "Pr\u00edncipe",
+ "principe": {
+  "name": "Principe",
   "parent": "S\u00e3o Tom\u00e9 and Principe",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Pr\u00edncipe",
@@ -5138,6 +5267,7 @@
   "name": "S\u00e3o Tom\u00e9",
   "parent": "S\u00e3o Tom\u00e9 and Principe",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "S\u00e3o Tom\u00e9",
@@ -5161,6 +5291,7 @@
   "name": "San Marino",
   "parent": "San Marino",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "San Marino",
@@ -5184,6 +5315,7 @@
   "name": "Samoa",
   "parent": "Samoa",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Western Samoa",
@@ -5195,10 +5327,11 @@
    }
   ]
  },
- "mustique": {
-  "name": "Mustique",
+ "st_vin_and_gren": {
+  "name": "St. Vin. and Gren.",
   "parent": "Saint Vincent and the Grenadines",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Mustique",
@@ -5242,10 +5375,11 @@
    }
   ]
  },
- "marigot_bay": {
-  "name": "Marigot Bay",
+ "saint_lucia": {
+  "name": "Saint Lucia",
   "parent": "Saint Lucia",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Marigot Bay",
@@ -5257,10 +5391,11 @@
    }
   ]
  },
- "nevis": {
-  "name": "Nevis",
+ "st_kitts_and_nevis": {
+  "name": "St. Kitts and Nevis",
   "parent": "Saint Kitts and Nevis",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nevis",
@@ -5280,10 +5415,11 @@
    }
   ]
  },
- "nyungwe_national_park": {
-  "name": "Nyungwe National Park",
+ "rwanda": {
+  "name": "Rwanda",
   "parent": "Rwanda",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nyungwe National Park",
@@ -5327,10 +5463,11 @@
    }
   ]
  },
- "irkutsk": {
-  "name": "Irkutsk",
+ "russia": {
+  "name": "Russia",
   "parent": "Russia",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Irkutsk",
@@ -5374,10 +5511,11 @@
    }
   ]
  },
- "st_petersburg": {
-  "name": "St Petersburg",
+ "russia_2": {
+  "name": "Russia",
   "parent": "Russia",
   "n_locs": 36,
+  "is_split": false,
   "top_locations": [
    {
     "title": "St Petersburg",
@@ -5421,10 +5559,11 @@
    }
   ]
  },
- "nida": {
-  "name": "Nida",
+ "kaliningrad": {
+  "name": "Kaliningrad",
   "parent": "Russia",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nida",
@@ -5436,10 +5575,11 @@
    }
   ]
  },
- "transylvania": {
-  "name": "Transylvania",
+ "romania": {
+  "name": "Romania",
   "parent": "Romania",
   "n_locs": 42,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Transylvania",
@@ -5483,10 +5623,11 @@
    }
   ]
  },
- "doha": {
-  "name": "Doha",
+ "qatar": {
+  "name": "Qatar",
   "parent": "Qatar",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Doha",
@@ -5534,6 +5675,7 @@
   "name": "Madeira",
   "parent": "Portugal",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Madeira",
@@ -5554,9 +5696,10 @@
   ]
  },
  "porto": {
-  "name": "Porto",
+  "name": "Porto & North",
   "parent": "Portugal",
   "n_locs": 15,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Porto",
@@ -5601,9 +5744,10 @@
   ]
  },
  "sintra": {
-  "name": "Sintra",
+  "name": "Lisbon & Algarve",
   "parent": "Portugal",
   "n_locs": 27,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Sintra",
@@ -5648,9 +5792,10 @@
   ]
  },
  "douro_valley": {
-  "name": "Douro Valley",
+  "name": "Douro & Minho",
   "parent": "Portugal",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Douro Valley",
@@ -5694,10 +5839,11 @@
    }
   ]
  },
- "the_azores": {
-  "name": "The Azores",
+ "azores": {
+  "name": "Azores",
   "parent": "Portugal",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "The Azores",
@@ -5741,10 +5887,11 @@
    }
   ]
  },
- "krakow": {
-  "name": "Krakow",
+ "poland": {
+  "name": "Poland",
   "parent": "Poland",
   "n_locs": 42,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Krakow",
@@ -5789,9 +5936,10 @@
   ]
  },
  "boracay": {
-  "name": "Boracay",
+  "name": "Visayas & Boracay",
   "parent": "Philippines",
   "n_locs": 96,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Boracay",
@@ -5836,9 +5984,10 @@
   ]
  },
  "palawan_island": {
-  "name": "Palawan Island",
+  "name": "Palawan",
   "parent": "Philippines",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Palawan Island",
@@ -5867,9 +6016,10 @@
   ]
  },
  "lima": {
-  "name": "Lima",
+  "name": "Northern & Central",
   "parent": "Peru",
   "n_locs": 25,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lima",
@@ -5914,9 +6064,10 @@
   ]
  },
  "cuzco": {
-  "name": "Cuzco",
+  "name": "Southern Highlands",
   "parent": "Peru",
   "n_locs": 11,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cuzco",
@@ -5964,6 +6115,7 @@
   "name": "Paraguay",
   "parent": "Paraguay",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Encarnacion",
@@ -6007,10 +6159,11 @@
    }
   ]
  },
- "rabaul": {
-  "name": "Rabaul",
+ "papua_new_guinea": {
+  "name": "Papua New Guinea",
   "parent": "Papua New Guinea",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Rabaul",
@@ -6058,6 +6211,7 @@
   "name": "Bougainville",
   "parent": "Papua New Guinea",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bougainville",
@@ -6069,10 +6223,11 @@
    }
   ]
  },
- "san_blas_islands": {
-  "name": "San Blas Islands",
+ "panama": {
+  "name": "Panama",
   "parent": "Panama",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "San Blas Islands",
@@ -6116,10 +6271,11 @@
    }
   ]
  },
- "koror": {
-  "name": "Koror",
+ "palau": {
+  "name": "Palau",
   "parent": "Palau",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Palau",
@@ -6163,10 +6319,11 @@
    }
   ]
  },
- "hunza_valley": {
-  "name": "Hunza valley",
+ "pakistan": {
+  "name": "Pakistan",
   "parent": "Pakistan",
   "n_locs": 68,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Hunza valley",
@@ -6210,10 +6367,11 @@
    }
   ]
  },
- "muscat": {
-  "name": "Muscat",
+ "oman": {
+  "name": "Oman",
   "parent": "Oman",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Muscat",
@@ -6258,9 +6416,10 @@
   ]
  },
  "fl_m": {
-  "name": "Fl\u00e5m",
+  "name": "Norwegian Fjords",
   "parent": "Norway",
   "n_locs": 32,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Fl\u00e5m",
@@ -6305,9 +6464,10 @@
   ]
  },
  "troms": {
-  "name": "Troms\u00f8",
+  "name": "Arctic Norway",
   "parent": "Norway",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Troms\u00f8",
@@ -6352,9 +6512,10 @@
   ]
  },
  "moskenes": {
-  "name": "Moskenes",
+  "name": "Lofoten",
   "parent": "Norway",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Moskenes",
@@ -6402,12 +6563,14 @@
   "name": "Jan Mayen I.",
   "parent": "Norway",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "spitsbergen": {
-  "name": "Spitsbergen",
+ "svalbard_is": {
+  "name": "Svalbard Is.",
   "parent": "Norway",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Spitsbergen",
@@ -6439,6 +6602,7 @@
   "name": "North Korea",
   "parent": "North Korea",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kaesong",
@@ -6486,6 +6650,7 @@
   "name": "Nigeria",
   "parent": "Nigeria",
   "n_locs": 23,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Calabar",
@@ -6533,6 +6698,7 @@
   "name": "Niger",
   "parent": "Niger",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Agadez",
@@ -6576,10 +6742,11 @@
    }
   ]
  },
- "san_andr_s": {
-  "name": "San Andr\u00e9s",
+ "nicaragua": {
+  "name": "Nicaragua",
   "parent": "Nicaragua",
   "n_locs": 20,
+  "is_split": false,
   "top_locations": [
    {
     "title": "San Andr\u00e9s",
@@ -6624,9 +6791,10 @@
   ]
  },
  "south_island": {
-  "name": "South Island",
+  "name": "Canterbury & West Coast",
   "parent": "South I.",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "South Island",
@@ -6671,9 +6839,10 @@
   ]
  },
  "queenstown": {
-  "name": "Queenstown",
+  "name": "Otago",
   "parent": "South I.",
   "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Queenstown",
@@ -6718,9 +6887,10 @@
   ]
  },
  "fiordland": {
-  "name": "Fiordland",
+  "name": "Fiordland & Southland",
   "parent": "South I.",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Fiordland",
@@ -6757,9 +6927,10 @@
   ]
  },
  "north_island": {
-  "name": "North Island",
+  "name": "Rotorua & Wellington",
   "parent": "North I.",
   "n_locs": 29,
+  "is_split": true,
   "top_locations": [
    {
     "title": "North Island",
@@ -6804,9 +6975,10 @@
   ]
  },
  "auckland_region": {
-  "name": "Auckland Region",
+  "name": "Auckland & Northland",
   "parent": "North I.",
   "n_locs": 15,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Auckland Region",
@@ -6854,12 +7026,14 @@
   "name": "N.Z. SubAntarctic Is.",
   "parent": "New Zealand",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "chatham_islands": {
-  "name": "Chatham Islands",
+ "chatham_is": {
+  "name": "Chatham Is.",
   "parent": "New Zealand",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Chatham Islands",
@@ -6871,10 +7045,11 @@
    }
   ]
  },
- "alofi": {
-  "name": "Alofi",
+ "niue": {
+  "name": "Niue",
   "parent": "New Zealand",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Niue",
@@ -6898,12 +7073,14 @@
   "name": "Tokelau",
   "parent": "New Zealand",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "rarotonga": {
-  "name": "Rarotonga",
+ "cook_is": {
+  "name": "Cook Is.",
   "parent": "New Zealand",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Rarotonga",
@@ -6948,9 +7125,10 @@
   ]
  },
  "amsterdam": {
-  "name": "Amsterdam",
+  "name": "Randstad",
   "parent": "Netherlands",
   "n_locs": 71,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Amsterdam",
@@ -6995,9 +7173,10 @@
   ]
  },
  "maastricht": {
-  "name": "Maastricht",
+  "name": "Southern Provinces",
   "parent": "Netherlands",
   "n_locs": 20,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Maastricht",
@@ -7045,6 +7224,7 @@
   "name": "Aruba",
   "parent": "Netherlands",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Aruba",
@@ -7064,10 +7244,11 @@
    }
   ]
  },
- "bonaire": {
-  "name": "Bonaire",
+ "caribbean_netherlands": {
+  "name": "Caribbean Netherlands",
   "parent": "Netherlands",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bonaire",
@@ -7095,10 +7276,11 @@
    }
   ]
  },
- "curacao": {
-  "name": "Curacao",
+ "cura_ao": {
+  "name": "Cura\u00e7ao",
   "parent": "Netherlands",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Curacao",
@@ -7118,10 +7300,11 @@
    }
   ]
  },
- "pokhara": {
-  "name": "Pokhara",
+ "nepal": {
+  "name": "Nepal",
   "parent": "Nepal",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nepal",
@@ -7169,6 +7352,7 @@
   "name": "Nauru",
   "parent": "Nauru",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nauru",
@@ -7180,10 +7364,11 @@
    }
   ]
  },
- "swakopmund": {
-  "name": "Swakopmund",
+ "namibia": {
+  "name": "Namibia",
   "parent": "Namibia",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Namibia",
@@ -7227,10 +7412,11 @@
    }
   ]
  },
- "vilanculos": {
-  "name": "Vilanculos",
+ "mozambique": {
+  "name": "Mozambique",
   "parent": "Mozambique",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Vilanculos",
@@ -7275,9 +7461,10 @@
   ]
  },
  "marrakesh": {
-  "name": "Marrakesh",
+  "name": "Marrakech & Atlas",
   "parent": "Morocco",
   "n_locs": 28,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Morocco",
@@ -7322,9 +7509,10 @@
   ]
  },
  "chefchaouen": {
-  "name": "Chefchaouen",
+  "name": "Imperial Cities & Sahara",
   "parent": "Morocco",
   "n_locs": 34,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Chefchaouen",
@@ -7372,12 +7560,14 @@
   "name": "W. Sahara",
   "parent": "Western Sahara",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "kotor": {
-  "name": "Kotor",
+ "montenegro": {
+  "name": "Montenegro",
   "parent": "Montenegro",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kotor",
@@ -7421,10 +7611,11 @@
    }
   ]
  },
- "karakorum": {
-  "name": "Karakorum",
+ "mongolia": {
+  "name": "Mongolia",
   "parent": "Mongolia",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Mongolia",
@@ -7468,10 +7659,11 @@
    }
   ]
  },
- "orheiul_vechi": {
-  "name": "Orheiul Vechi",
+ "moldova": {
+  "name": "Moldova",
   "parent": "Moldova",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Orheiul Vechi",
@@ -7519,6 +7711,7 @@
   "name": "Monaco",
   "parent": "Monaco",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Monaco",
@@ -7531,9 +7724,10 @@
   ]
  },
  "teotihuacan": {
-  "name": "Teotihuacan",
+  "name": "Central Highlands",
   "parent": "Mexico",
   "n_locs": 40,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Teotihuacan",
@@ -7578,9 +7772,10 @@
   ]
  },
  "puerto_vallarta": {
-  "name": "Puerto Vallarta",
+  "name": "Pacific Coast",
   "parent": "Mexico",
   "n_locs": 32,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Puerto Vallarta",
@@ -7625,9 +7820,10 @@
   ]
  },
  "yucatan": {
-  "name": "Yucatan",
+  "name": "Yucat\u00e1n & Riviera Maya",
   "parent": "Mexico",
   "n_locs": 20,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Yucatan",
@@ -7671,10 +7867,11 @@
    }
   ]
  },
- "grand_baie": {
-  "name": "Grand Baie",
+ "mauritius": {
+  "name": "Mauritius",
   "parent": "Mauritius",
   "n_locs": 15,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Mauritius",
@@ -7718,10 +7915,11 @@
    }
   ]
  },
- "saint_louis": {
-  "name": "Saint-Louis",
+ "mauritania": {
+  "name": "Mauritania",
   "parent": "Mauritania",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Saint-Louis",
@@ -7765,10 +7963,11 @@
    }
   ]
  },
- "valletta": {
-  "name": "Valletta",
+ "malta": {
+  "name": "Malta",
   "parent": "Malta",
   "n_locs": 15,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Valletta",
@@ -7812,10 +8011,11 @@
    }
   ]
  },
- "dogon_country": {
-  "name": "Dogon Country",
+ "mali": {
+  "name": "Mali",
   "parent": "Mali",
   "n_locs": 17,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Dogon Country",
@@ -7860,9 +8060,10 @@
   ]
  },
  "south_mal_atoll": {
-  "name": "South Mal\u00e9 Atoll",
+  "name": "Male Atolls",
   "parent": "Maldives",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Maldives",
@@ -7899,9 +8100,10 @@
   ]
  },
  "langkawi": {
-  "name": "Langkawi",
+  "name": "Peninsular",
   "parent": "Malaysia",
   "n_locs": 28,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Langkawi",
@@ -7946,9 +8148,10 @@
   ]
  },
  "kota_kinabalu": {
-  "name": "Kota Kinabalu",
+  "name": "Borneo",
   "parent": "Malaysia",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kota Kinabalu",
@@ -7992,10 +8195,11 @@
    }
   ]
  },
- "cape_maclear": {
-  "name": "Cape Maclear",
+ "malawi": {
+  "name": "Malawi",
   "parent": "Malawi",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cape Maclear",
@@ -8039,10 +8243,11 @@
    }
   ]
  },
- "nosy_be": {
-  "name": "Nosy Be",
+ "madagascar": {
+  "name": "Madagascar",
   "parent": "Madagascar",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Madagascar",
@@ -8086,10 +8291,11 @@
    }
   ]
  },
- "ohrid": {
-  "name": "Ohrid",
+ "north_macedonia": {
+  "name": "North Macedonia",
   "parent": "North Macedonia",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ohrid",
@@ -8133,10 +8339,11 @@
    }
   ]
  },
- "luxembourg_city": {
-  "name": "Luxembourg City",
+ "luxembourg": {
+  "name": "Luxembourg",
   "parent": "Luxembourg",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Luxembourg",
@@ -8180,10 +8387,11 @@
    }
   ]
  },
- "trakai": {
-  "name": "Trakai",
+ "lithuania": {
+  "name": "Lithuania",
   "parent": "Lithuania",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Trakai",
@@ -8227,10 +8435,11 @@
    }
   ]
  },
- "vaduz": {
-  "name": "Vaduz",
+ "liechtenstein": {
+  "name": "Liechtenstein",
   "parent": "Liechtenstein",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Liechtenstein",
@@ -8258,10 +8467,11 @@
    }
   ]
  },
- "ghadames": {
-  "name": "Ghadames",
+ "libya": {
+  "name": "Libya",
   "parent": "Libya",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ghadames",
@@ -8309,6 +8519,7 @@
   "name": "Liberia",
   "parent": "Liberia",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Monrovia",
@@ -8348,6 +8559,7 @@
   "name": "Lesotho",
   "parent": "Lesotho",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Malealea",
@@ -8375,10 +8587,11 @@
    }
   ]
  },
- "baalbek": {
-  "name": "Baalbek",
+ "lebanon": {
+  "name": "Lebanon",
   "parent": "Lebanon",
   "n_locs": 15,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Baalbek",
@@ -8422,10 +8635,11 @@
    }
   ]
  },
- "riga": {
-  "name": "Riga",
+ "latvia": {
+  "name": "Latvia",
   "parent": "Latvia",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Riga",
@@ -8469,10 +8683,11 @@
    }
   ]
  },
- "luang_prabang": {
-  "name": "Luang Prabang",
+ "laos": {
+  "name": "Laos",
   "parent": "Laos",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Luang Prabang",
@@ -8516,10 +8731,11 @@
    }
   ]
  },
- "karakol": {
-  "name": "Karakol",
+ "kyrgyzstan": {
+  "name": "Kyrgyzstan",
   "parent": "Kyrgyzstan",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kyrgyzstan",
@@ -8567,6 +8783,7 @@
   "name": "Kuwait",
   "parent": "Kuwait",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kuwait City",
@@ -8610,10 +8827,11 @@
    }
   ]
  },
- "prizren": {
-  "name": "Prizren",
+ "kosovo": {
+  "name": "Kosovo",
   "parent": "Kosovo",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Prizren",
@@ -8661,6 +8879,7 @@
   "name": "Kiribati",
   "parent": "Kiribati",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kiribati",
@@ -8705,9 +8924,10 @@
   ]
  },
  "masai_mara_n_r": {
-  "name": "Masai Mara N.R.",
+  "name": "Maasai Mara & Rift Valley",
   "parent": "Kenya",
   "n_locs": 28,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Masai Mara N.R.",
@@ -8752,9 +8972,10 @@
   ]
  },
  "mombasa": {
-  "name": "Mombasa",
+  "name": "Coast & Tsavo",
   "parent": "Kenya",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Mombasa",
@@ -8798,10 +9019,11 @@
    }
   ]
  },
- "almaty": {
-  "name": "Almaty",
+ "kazakhstan": {
+  "name": "Kazakhstan",
   "parent": "Kazakhstan",
   "n_locs": 13,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Almaty",
@@ -8845,10 +9067,11 @@
    }
   ]
  },
- "petra": {
-  "name": "Petra",
+ "jordan": {
+  "name": "Jordan",
   "parent": "Jordan",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Petra",
@@ -8896,18 +9119,21 @@
   "name": "Japan",
   "parent": "Japan",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "bonin_is": {
   "name": "Bonin Is.",
   "parent": "Japan",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "hokkaido": {
   "name": "Hokkaido",
   "parent": "Japan",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Hokkaido",
@@ -8927,10 +9153,11 @@
    }
   ]
  },
- "nagasaki": {
-  "name": "Nagasaki",
+ "kyushu": {
+  "name": "Kyushu",
   "parent": "Japan",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Nagasaki",
@@ -8978,6 +9205,7 @@
   "name": "Shikoku",
   "parent": "Japan",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Shikoku",
@@ -9022,9 +9250,10 @@
   ]
  },
  "nikk": {
-  "name": "Nikk\u014d",
+  "name": "Tohoku & Nikko",
   "parent": "Honshu",
   "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Japan",
@@ -9072,6 +9301,7 @@
   "name": "Kansai",
   "parent": "Honshu",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kansai",
@@ -9108,9 +9338,10 @@
   ]
  },
  "tokyo": {
-  "name": "Tokyo",
+  "name": "Tokyo & Around",
   "parent": "Honshu",
   "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Tokyo",
@@ -9155,9 +9386,10 @@
   ]
  },
  "takayama": {
-  "name": "Takayama",
+  "name": "Japanese Alps",
   "parent": "Honshu",
   "n_locs": 8,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Takayama",
@@ -9202,9 +9434,10 @@
   ]
  },
  "hiroshima": {
-  "name": "Hiroshima",
+  "name": "Chugoku",
   "parent": "Honshu",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hiroshima",
@@ -9233,9 +9466,10 @@
   ]
  },
  "kyoto": {
-  "name": "Kyoto",
+  "name": "Kyoto & Nara",
   "parent": "Honshu",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kyoto",
@@ -9279,10 +9513,11 @@
    }
   ]
  },
- "ryukyu_islands": {
-  "name": "Ryukyu islands",
+ "nansei_shoto": {
+  "name": "Nansei-shoto",
   "parent": "Japan",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ryukyu islands",
@@ -9330,12 +9565,14 @@
   "name": "Izu-shoto",
   "parent": "Japan",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "negril": {
-  "name": "Negril",
+ "jamaica": {
+  "name": "Jamaica",
   "parent": "Jamaica",
   "n_locs": 13,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Negril",
@@ -9380,9 +9617,10 @@
   ]
  },
  "rome": {
-  "name": "Rome",
+  "name": "Rome & Lazio",
   "parent": "Italy",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Rome",
@@ -9427,9 +9665,10 @@
   ]
  },
  "florence": {
-  "name": "Florence",
+  "name": "Tuscany",
   "parent": "Italy",
   "n_locs": 32,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Florence",
@@ -9474,9 +9713,10 @@
   ]
  },
  "puglia": {
-  "name": "Puglia",
+  "name": "Puglia & Basilicata",
   "parent": "Italy",
   "n_locs": 35,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Puglia",
@@ -9521,9 +9761,10 @@
   ]
  },
  "assisi": {
-  "name": "Assisi",
+  "name": "Umbria & Marche",
   "parent": "Italy",
   "n_locs": 17,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Assisi",
@@ -9568,9 +9809,10 @@
   ]
  },
  "venice": {
-  "name": "Venice",
+  "name": "Venice & Veneto",
   "parent": "Italy",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Venice",
@@ -9615,9 +9857,10 @@
   ]
  },
  "milan": {
-  "name": "Milan",
+  "name": "Lombardy & Piedmont",
   "parent": "Italy",
   "n_locs": 17,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Milan",
@@ -9662,9 +9905,10 @@
   ]
  },
  "verona": {
-  "name": "Verona",
+  "name": "Verona & Emilia",
   "parent": "Italy",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Verona",
@@ -9709,9 +9953,10 @@
   ]
  },
  "portofino": {
-  "name": "Portofino",
+  "name": "Ligurian Coast",
   "parent": "Italy",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Portofino",
@@ -9756,9 +10001,10 @@
   ]
  },
  "positano": {
-  "name": "Positano",
+  "name": "Amalfi Coast",
   "parent": "Italy",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Positano",
@@ -9803,9 +10049,10 @@
   ]
  },
  "tremiti_islands": {
-  "name": "Tremiti Islands",
+  "name": "Abruzzo & Molise",
   "parent": "Italy",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Tremiti Islands",
@@ -9853,6 +10100,7 @@
   "name": "Italian Riviera",
   "parent": "Italy",
   "n_locs": 66,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Italian Riviera",
@@ -9897,9 +10145,10 @@
   ]
  },
  "cortina_d_ampezzo": {
-  "name": "Cortina d'Ampezzo",
+  "name": "Dolomites",
   "parent": "Italy",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cortina d'Ampezzo",
@@ -9947,6 +10196,7 @@
   "name": "Lake Garda",
   "parent": "Italy",
   "n_locs": 12,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lake Garda",
@@ -9991,9 +10241,10 @@
   ]
  },
  "lecce": {
-  "name": "Lecce",
+  "name": "Salento",
   "parent": "Italy",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lecce",
@@ -10022,9 +10273,10 @@
   ]
  },
  "siena": {
-  "name": "Siena",
+  "name": "Southern Tuscany",
   "parent": "Italy",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Siena",
@@ -10069,9 +10321,10 @@
   ]
  },
  "lucca": {
-  "name": "Lucca",
+  "name": "Versilia Coast",
   "parent": "Italy",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lucca",
@@ -10108,9 +10361,10 @@
   ]
  },
  "pisa": {
-  "name": "Pisa",
+  "name": "Pisa & Elba",
   "parent": "Italy",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Pisa",
@@ -10155,9 +10409,10 @@
   ]
  },
  "riomaggiore": {
-  "name": "Riomaggiore",
+  "name": "Cinque Terre",
   "parent": "Italy",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Riomaggiore",
@@ -10202,9 +10457,10 @@
   ]
  },
  "ischia": {
-  "name": "Ischia",
+  "name": "Naples & Islands",
   "parent": "Italy",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ischia",
@@ -10249,9 +10505,10 @@
   ]
  },
  "amalfi": {
-  "name": "Amalfi",
+  "name": "Amalfi & Cilento",
   "parent": "Italy",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Amalfi",
@@ -10299,6 +10556,7 @@
   "name": "Pantelleria",
   "parent": "Italy",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Pantelleria",
@@ -10335,9 +10593,10 @@
   ]
  },
  "sicily": {
-  "name": "Sicily",
+  "name": "Western Sicily",
   "parent": "Sicily",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Sicily",
@@ -10382,9 +10641,10 @@
   ]
  },
  "taormina": {
-  "name": "Taormina",
+  "name": "Eastern Sicily",
   "parent": "Sicily",
   "n_locs": 15,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Taormina",
@@ -10429,9 +10689,10 @@
   ]
  },
  "sardinia": {
-  "name": "Sardinia",
+  "name": "West-Coast & Cagliari",
   "parent": "Sardinia",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Sardinia",
@@ -10479,6 +10740,7 @@
   "name": "Costa Smeralda",
   "parent": "Sardinia",
   "n_locs": 8,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Costa Smeralda",
@@ -10522,10 +10784,11 @@
    }
   ]
  },
- "tel_aviv": {
-  "name": "Tel Aviv",
+ "israel": {
+  "name": "Israel",
   "parent": "Israel",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tel Aviv",
@@ -10573,6 +10836,7 @@
   "name": "Gaza",
   "parent": "Israel",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Gaza Strip",
@@ -10584,10 +10848,11 @@
    }
   ]
  },
- "jerusalem": {
-  "name": "Jerusalem",
+ "west_bank": {
+  "name": "West Bank",
   "parent": "Israel",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Jerusalem",
@@ -10632,9 +10897,10 @@
   ]
  },
  "dublin": {
-  "name": "Dublin",
+  "name": "Dublin & East",
   "parent": "Ireland",
   "n_locs": 30,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Dublin",
@@ -10679,9 +10945,10 @@
   ]
  },
  "ring_of_kerry": {
-  "name": "Ring of Kerry",
+  "name": "Wild Atlantic Way",
   "parent": "Ireland",
   "n_locs": 26,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ring of Kerry",
@@ -10729,6 +10996,7 @@
   "name": "Iraq",
   "parent": "Iraq",
   "n_locs": 15,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Assur",
@@ -10772,10 +11040,11 @@
    }
   ]
  },
- "isfahan": {
-  "name": "Isfahan",
+ "iran": {
+  "name": "Iran",
   "parent": "Iran",
   "n_locs": 29,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Isfahan",
@@ -10820,9 +11089,10 @@
   ]
  },
  "ubud": {
-  "name": "Ubud",
+  "name": "Bali & Java",
   "parent": "Indonesia",
   "n_locs": 63,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ubud",
@@ -10867,9 +11137,10 @@
   ]
  },
  "flores": {
-  "name": "Flores",
+  "name": "Sulawesi & Flores",
   "parent": "Indonesia",
   "n_locs": 15,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Flores",
@@ -10914,9 +11185,10 @@
   ]
  },
  "hampi": {
-  "name": "Hampi",
+  "name": "Hampi & Goa",
   "parent": "India",
   "n_locs": 76,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hampi",
@@ -10964,6 +11236,7 @@
   "name": "Kerala",
   "parent": "India",
   "n_locs": 52,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kerala",
@@ -11008,9 +11281,10 @@
   ]
  },
  "gangtok": {
-  "name": "Gangtok",
+  "name": "Sikkim & Northeast",
   "parent": "India",
   "n_locs": 67,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Gangtok",
@@ -11055,9 +11329,10 @@
   ]
  },
  "ladakh": {
-  "name": "Ladakh",
+  "name": "Ladakh & Kashmir",
   "parent": "India",
   "n_locs": 53,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Ladakh",
@@ -11102,9 +11377,10 @@
   ]
  },
  "rajasthan": {
-  "name": "Rajasthan",
+  "name": "Rajasthan & Agra",
   "parent": "India",
   "n_locs": 31,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Rajasthan",
@@ -11149,9 +11425,10 @@
   ]
  },
  "udaipur": {
-  "name": "Udaipur",
+  "name": "Western Rajasthan",
   "parent": "India",
   "n_locs": 35,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Udaipur",
@@ -11199,18 +11476,21 @@
   "name": "Nicobar Is.",
   "parent": "India",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "andaman_is": {
   "name": "Andaman Is.",
   "parent": "India",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "kavaratti": {
-  "name": "Kavaratti",
+ "lakshadweep": {
+  "name": "Lakshadweep",
   "parent": "India",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kavaratti",
@@ -11223,9 +11503,10 @@
   ]
  },
  "vik": {
-  "name": "Vik",
+  "name": "Southern Iceland",
   "parent": "Iceland",
   "n_locs": 8,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Iceland",
@@ -11270,9 +11551,10 @@
   ]
  },
  "reykjavik": {
-  "name": "Reykjavik",
+  "name": "Reykjavik Region",
   "parent": "Iceland",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Reykjavik",
@@ -11316,10 +11598,11 @@
    }
   ]
  },
- "budapest": {
-  "name": "Budapest",
+ "hungary": {
+  "name": "Hungary",
   "parent": "Hungary",
   "n_locs": 37,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Budapest",
@@ -11363,10 +11646,11 @@
    }
   ]
  },
- "roat_n": {
-  "name": "Roat\u00e1n",
+ "honduras": {
+  "name": "Honduras",
   "parent": "Honduras",
   "n_locs": 18,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Roat\u00e1n",
@@ -11414,6 +11698,7 @@
   "name": "Haiti",
   "parent": "Haiti",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cap-Ha\u00eftien",
@@ -11461,6 +11746,7 @@
   "name": "Guyana",
   "parent": "Guyana",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Georgetown",
@@ -11504,10 +11790,11 @@
    }
   ]
  },
- "bijagos_islands": {
-  "name": "Bijagos Islands",
+ "guinea_bissau": {
+  "name": "Guinea-Bissau",
   "parent": "Guinea-Bissau",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bijagos Islands",
@@ -11555,6 +11842,7 @@
   "name": "Guinea",
   "parent": "Guinea",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Iles de Los",
@@ -11598,10 +11886,11 @@
    }
   ]
  },
- "lake_atitl_n": {
-  "name": "Lake Atitl\u00e1n",
+ "guatemala": {
+  "name": "Guatemala",
   "parent": "Guatemala",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Lake Atitl\u00e1n",
@@ -11649,6 +11938,7 @@
   "name": "Grenada",
   "parent": "Grenada",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Grenada",
@@ -11669,9 +11959,10 @@
   ]
  },
  "kefalonia": {
-  "name": "Kefalonia",
+  "name": "Ionian Islands",
   "parent": "Greece",
   "n_locs": 27,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Kefalonia",
@@ -11716,9 +12007,10 @@
   ]
  },
  "thessaloniki": {
-  "name": "Thessaloniki",
+  "name": "Northern Greece",
   "parent": "Greece",
   "n_locs": 19,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Thessaloniki",
@@ -11763,9 +12055,10 @@
   ]
  },
  "athens": {
-  "name": "Athens",
+  "name": "Athens & Around",
   "parent": "Greece",
   "n_locs": 21,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Athens",
@@ -11810,9 +12103,10 @@
   ]
  },
  "samos": {
-  "name": "Samos",
+  "name": "Northeast Aegean",
   "parent": "Greece",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Samos",
@@ -11857,9 +12151,10 @@
   ]
  },
  "lindos": {
-  "name": "Lindos",
+  "name": "Dodecanese",
   "parent": "Greece",
   "n_locs": 2,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Lindos",
@@ -11880,9 +12175,10 @@
   ]
  },
  "mykonos": {
-  "name": "Mykonos",
+  "name": "Cyclades",
   "parent": "Greece",
   "n_locs": 11,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Mykonos",
@@ -11927,9 +12223,10 @@
   ]
  },
  "santorini": {
-  "name": "Santorini",
+  "name": "Santorini & East Crete",
   "parent": "Greece",
   "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Santorini",
@@ -11974,9 +12271,10 @@
   ]
  },
  "rhodes": {
-  "name": "Rhodes",
+  "name": "Rhodes & Kos",
   "parent": "Greece",
   "n_locs": 3,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Rhodes",
@@ -12005,9 +12303,10 @@
   ]
  },
  "crete": {
-  "name": "Crete",
+  "name": "Western Crete",
   "parent": "Greece",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Crete",
@@ -12043,10 +12342,11 @@
    }
   ]
  },
- "elmina": {
-  "name": "Elmina",
+ "ghana": {
+  "name": "Ghana",
   "parent": "Ghana",
   "n_locs": 28,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Elmina",
@@ -12094,6 +12394,7 @@
   "name": "Romantic Road",
   "parent": "Germany",
   "n_locs": 50,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Romantic Road",
@@ -12138,9 +12439,10 @@
   ]
  },
  "cologne": {
-  "name": "Cologne",
+  "name": "Rhineland & Mosel",
   "parent": "Germany",
   "n_locs": 45,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cologne",
@@ -12185,9 +12487,10 @@
   ]
  },
  "munich": {
-  "name": "Munich",
+  "name": "Bavaria",
   "parent": "Germany",
   "n_locs": 29,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Munich",
@@ -12232,9 +12535,10 @@
   ]
  },
  "hamburg": {
-  "name": "Hamburg",
+  "name": "Northern Germany",
   "parent": "Germany",
   "n_locs": 38,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hamburg",
@@ -12279,9 +12583,10 @@
   ]
  },
  "berlin": {
-  "name": "Berlin",
+  "name": "Berlin & Saxony",
   "parent": "Germany",
   "n_locs": 37,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Berlin",
@@ -12325,10 +12630,11 @@
    }
   ]
  },
- "tbilisi": {
-  "name": "Tbilisi",
+ "georgia": {
+  "name": "Georgia",
   "parent": "Georgia",
   "n_locs": 24,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tbilisi",
@@ -12376,6 +12682,7 @@
   "name": "Gambia",
   "parent": "Gambia",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Gambia",
@@ -12415,6 +12722,7 @@
   "name": "Gabon",
   "parent": "Gabon",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Gabon",
@@ -12454,6 +12762,7 @@
   "name": "Corsica",
   "parent": "France",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Corsica",
@@ -12498,9 +12807,10 @@
   ]
  },
  "chenonceau": {
-  "name": "Chenonceau",
+  "name": "Loire Chateaux",
   "parent": "France",
   "n_locs": 26,
+  "is_split": true,
   "top_locations": [
    {
     "title": "France",
@@ -12545,9 +12855,10 @@
   ]
  },
  "loire_valley": {
-  "name": "Loire valley",
+  "name": "Loire Valley & Normandy",
   "parent": "France",
   "n_locs": 35,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Loire valley",
@@ -12592,9 +12903,10 @@
   ]
  },
  "paris": {
-  "name": "Paris",
+  "name": "Paris and around",
   "parent": "France",
   "n_locs": 23,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Paris",
@@ -12639,9 +12951,10 @@
   ]
  },
  "reims": {
-  "name": "Reims",
+  "name": "Champagne",
   "parent": "France",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Reims",
@@ -12686,9 +12999,10 @@
   ]
  },
  "chamonix": {
-  "name": "Chamonix",
+  "name": "French Alps",
   "parent": "France",
   "n_locs": 11,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Chamonix",
@@ -12733,9 +13047,10 @@
   ]
  },
  "carcassonne": {
-  "name": "Carcassonne",
+  "name": "Dordogne & Pyrenees",
   "parent": "France",
   "n_locs": 28,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Carcassonne",
@@ -12780,9 +13095,10 @@
   ]
  },
  "avignon": {
-  "name": "Avignon",
+  "name": "Provence",
   "parent": "France",
   "n_locs": 19,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Avignon",
@@ -12827,9 +13143,10 @@
   ]
  },
  "cote_d_azur": {
-  "name": "Cote d'Azur",
+  "name": "French Riviera",
   "parent": "France",
   "n_locs": 4,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cote d'Azur",
@@ -12866,9 +13183,10 @@
   ]
  },
  "provence": {
-  "name": "Provence",
+  "name": "Marseille & Provence",
   "parent": "France",
   "n_locs": 7,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Provence",
@@ -12913,9 +13231,10 @@
   ]
  },
  "nice": {
-  "name": "Nice",
+  "name": "Nice & Southern Alps",
   "parent": "France",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Nice",
@@ -12960,9 +13279,10 @@
   ]
  },
  "bordeaux": {
-  "name": "Bordeaux",
+  "name": "Bordeaux & Basque Coast",
   "parent": "France",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Bordeaux",
@@ -13007,9 +13327,10 @@
   ]
  },
  "dijon": {
-  "name": "Dijon",
+  "name": "Burgundy",
   "parent": "France",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Dijon",
@@ -13054,9 +13375,10 @@
   ]
  },
  "strasbourg": {
-  "name": "Strasbourg",
+  "name": "Alsace & Lorraine",
   "parent": "France",
   "n_locs": 10,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Strasbourg",
@@ -13104,6 +13426,7 @@
   "name": "Mayotte",
   "parent": "France",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Mayotte",
@@ -13119,6 +13442,7 @@
   "name": "R\u00e9union",
   "parent": "France",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Reunion",
@@ -13134,6 +13458,7 @@
   "name": "Martinique",
   "parent": "France",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Martinique",
@@ -13181,6 +13506,7 @@
   "name": "Guadeloupe",
   "parent": "France",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Guadeloupe",
@@ -13224,10 +13550,11 @@
    }
   ]
  },
- "devil_s_island": {
-  "name": "Devil's Island",
+ "french_guiana": {
+  "name": "French Guiana",
   "parent": "France",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Devil's Island",
@@ -13275,18 +13602,21 @@
   "name": "St. Pierre and Miquelon",
   "parent": "France",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "wallis_and_futuna_is": {
   "name": "Wallis and Futuna Is.",
   "parent": "France",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "saint_martin": {
-  "name": "Saint-Martin",
+ "st_martin": {
+  "name": "St-Martin",
   "parent": "France",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Saint-Martin",
@@ -13302,12 +13632,14 @@
   "name": "St-Barth\u00e9lemy",
   "parent": "France",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "moorea": {
-  "name": "Moorea",
+  "name": "Society Islands",
   "parent": "Fr. Polynesia",
   "n_locs": 8,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Moorea",
@@ -13355,6 +13687,7 @@
   "name": "Bora Bora",
   "parent": "Fr. Polynesia",
   "n_locs": 1,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Bora Bora",
@@ -13366,10 +13699,11 @@
    }
   ]
  },
- "ouvea": {
-  "name": "Ouvea",
+ "new_caledonia": {
+  "name": "New Caledonia",
   "parent": "France",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ouvea",
@@ -13417,12 +13751,14 @@
   "name": "Fr. S. Antarctic Lands",
   "parent": "France",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "aland_islands": {
-  "name": "Aland Islands",
+ "land": {
+  "name": "\u00c5land",
   "parent": "Finland",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Aland Islands",
@@ -13442,10 +13778,11 @@
    }
   ]
  },
- "lapland": {
-  "name": "Lapland",
+ "finland": {
+  "name": "Finland",
   "parent": "Finland",
   "n_locs": 37,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Lapland",
@@ -13489,10 +13826,11 @@
    }
   ]
  },
- "yasawa_islands": {
-  "name": "Yasawa Islands",
+ "fiji": {
+  "name": "Fiji",
   "parent": "Fiji",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Yasawa Islands",
@@ -13536,10 +13874,11 @@
    }
   ]
  },
- "lalibela": {
-  "name": "Lalibela",
+ "ethiopia": {
+  "name": "Ethiopia",
   "parent": "Ethiopia",
   "n_locs": 13,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Lalibela",
@@ -13583,10 +13922,11 @@
    }
   ]
  },
- "tallinn": {
-  "name": "Tallinn",
+ "estonia": {
+  "name": "Estonia",
   "parent": "Estonia",
   "n_locs": 21,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tallinn",
@@ -13630,10 +13970,11 @@
    }
   ]
  },
- "asmara": {
-  "name": "Asmara",
+ "eritrea": {
+  "name": "Eritrea",
   "parent": "Eritrea",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Asmara",
@@ -13681,6 +14022,7 @@
   "name": "Bioko",
   "parent": "Equatorial Guinea",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Malabo",
@@ -13704,6 +14046,7 @@
   "name": "R\u00edo Muni",
   "parent": "Equatorial Guinea",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Acalayong",
@@ -13719,6 +14062,7 @@
   "name": "El Salvador",
   "parent": "El Salvador",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "La Palma",
@@ -13763,9 +14107,10 @@
   ]
  },
  "luxor": {
-  "name": "Luxor",
+  "name": "Upper Nile",
   "parent": "Egypt",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Luxor",
@@ -13810,9 +14155,10 @@
   ]
  },
  "cairo": {
-  "name": "Cairo",
+  "name": "Lower Nile",
   "parent": "Egypt",
   "n_locs": 14,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Cairo",
@@ -13856,10 +14202,11 @@
    }
   ]
  },
- "quito": {
-  "name": "Quito",
+ "ecuador": {
+  "name": "Ecuador",
   "parent": "Ecuador",
   "n_locs": 26,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Quito",
@@ -13903,10 +14250,11 @@
    }
   ]
  },
- "san_crist_bal_island": {
-  "name": "San Crist\u00f3bal Island",
+ "gal_pagos_is": {
+  "name": "Gal\u00e1pagos Is.",
   "parent": "Ecuador",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "San Crist\u00f3bal Island",
@@ -13926,10 +14274,11 @@
    }
   ]
  },
- "punta_cana": {
-  "name": "Punta Cana",
+ "dominican_rep": {
+  "name": "Dominican Rep.",
   "parent": "Dominican Republic",
   "n_locs": 17,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Punta Cana",
@@ -13977,6 +14326,7 @@
   "name": "Dominica",
   "parent": "Dominica",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Dominica",
@@ -14016,6 +14366,7 @@
   "name": "Djibouti",
   "parent": "Djibouti",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Djibouti",
@@ -14043,10 +14394,11 @@
    }
   ]
  },
- "ilulissat": {
-  "name": "Ilulissat",
+ "greenland": {
+  "name": "Greenland",
   "parent": "Denmark",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ilulissat",
@@ -14090,10 +14442,11 @@
    }
   ]
  },
- "saksun": {
-  "name": "Saksun",
+ "faeroe_is": {
+  "name": "Faeroe Is.",
   "parent": "Denmark",
   "n_locs": 30,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Faroe Islands",
@@ -14137,10 +14490,11 @@
    }
   ]
  },
- "copenhagen": {
-  "name": "Copenhagen",
+ "denmark": {
+  "name": "Denmark",
   "parent": "Denmark",
   "n_locs": 33,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Copenhagen",
@@ -14184,10 +14538,11 @@
    }
   ]
  },
- "bornholm_island": {
-  "name": "Bornholm Island",
+ "bornholm": {
+  "name": "Bornholm",
   "parent": "Denmark",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bornholm Island",
@@ -14231,10 +14586,11 @@
    }
   ]
  },
- "prague": {
-  "name": "Prague",
+ "czechia": {
+  "name": "Czechia",
   "parent": "Czechia",
   "n_locs": 13,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Prague",
@@ -14278,10 +14634,11 @@
    }
   ]
  },
- "girne_kyrenia": {
-  "name": "Girne (Kyrenia)",
+ "n_cyprus": {
+  "name": "N. Cyprus",
   "parent": "Northern Cyprus",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Girne (Kyrenia)",
@@ -14325,10 +14682,11 @@
    }
   ]
  },
- "paphos": {
-  "name": "Paphos",
+ "cyprus": {
+  "name": "Cyprus",
   "parent": "Cyprus",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cyprus",
@@ -14372,10 +14730,11 @@
    }
   ]
  },
- "varadero": {
-  "name": "Varadero",
+ "cuba": {
+  "name": "Cuba",
   "parent": "Cuba",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Varadero",
@@ -14420,9 +14779,10 @@
   ]
  },
  "plitvice_lakes": {
-  "name": "Plitvice Lakes",
+  "name": "Plitvice & Northern Coast",
   "parent": "Croatia",
   "n_locs": 12,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Plitvice Lakes",
@@ -14467,9 +14827,10 @@
   ]
  },
  "hvar": {
-  "name": "Hvar",
+  "name": "Central Dalmatian Islands",
   "parent": "Croatia",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hvar",
@@ -14514,9 +14875,10 @@
   ]
  },
  "rovinj": {
-  "name": "Rovinj",
+  "name": "Istria",
   "parent": "Croatia",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Rovinj",
@@ -14561,9 +14923,10 @@
   ]
  },
  "dalmatia": {
-  "name": "Dalmatia",
+  "name": "Split & Central Dalmatia",
   "parent": "Croatia",
   "n_locs": 12,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Dalmatia",
@@ -14608,9 +14971,10 @@
   ]
  },
  "dubrovnik": {
-  "name": "Dubrovnik",
+  "name": "Dubrovnik Region",
   "parent": "Croatia",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Dubrovnik",
@@ -14658,6 +15022,7 @@
   "name": "C\u00f4te d'Ivoire",
   "parent": "Ivory Coast",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Grand-Bassam",
@@ -14702,9 +15067,10 @@
   ]
  },
  "manuel_antonio": {
-  "name": "Manuel Antonio",
+  "name": "Pacific & Caribbean Coasts",
   "parent": "Costa Rica",
   "n_locs": 13,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Manuel Antonio",
@@ -14749,9 +15115,10 @@
   ]
  },
  "monteverde": {
-  "name": "Monteverde",
+  "name": "Arenal & Guanacaste",
   "parent": "Costa Rica",
   "n_locs": 12,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Monteverde",
@@ -14799,6 +15166,7 @@
   "name": "Dem. Rep. Congo",
   "parent": "Democratic Republic of the Congo",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kinshasa",
@@ -14846,6 +15214,7 @@
   "name": "Congo",
   "parent": "Republic of the Congo",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Brazzaville",
@@ -14877,6 +15246,7 @@
   "name": "Comoros",
   "parent": "Comoros",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Comoros",
@@ -14896,10 +15266,11 @@
    }
   ]
  },
- "cartagena": {
-  "name": "Cartagena",
+ "colombia": {
+  "name": "Colombia",
   "parent": "Colombia",
   "n_locs": 28,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cartagena",
@@ -14944,9 +15315,10 @@
   ]
  },
  "xi_an": {
-  "name": "Xi'an",
+  "name": "Northern China",
   "parent": "China",
   "n_locs": 26,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Xi'an",
@@ -14991,9 +15363,10 @@
   ]
  },
  "everest_region": {
-  "name": "Everest Region",
+  "name": "Tibet & Southwest",
   "parent": "China",
   "n_locs": 29,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Everest Region",
@@ -15038,9 +15411,10 @@
   ]
  },
  "shanghai": {
-  "name": "Shanghai",
+  "name": "Eastern China",
   "parent": "China",
   "n_locs": 18,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Shanghai",
@@ -15084,10 +15458,11 @@
    }
   ]
  },
- "hainan_island": {
-  "name": "Hainan Island",
+ "hainan": {
+  "name": "Hainan",
   "parent": "China",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Hainan Island",
@@ -15131,10 +15506,11 @@
    }
   ]
  },
- "macau": {
-  "name": "Macau",
+ "macao": {
+  "name": "Macao",
   "parent": "China",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Macau",
@@ -15166,6 +15542,7 @@
   "name": "Hong Kong",
   "parent": "China",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Hong Kong",
@@ -15185,10 +15562,11 @@
    }
   ]
  },
- "easter_island": {
-  "name": "Easter Island",
+ "easter_i": {
+  "name": "Easter I.",
   "parent": "Chile",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Easter Island",
@@ -15200,10 +15578,11 @@
    }
   ]
  },
- "robinson_crusoe_island": {
-  "name": "Robinson Crusoe Island",
+ "isla_sala_y_gomez": {
+  "name": "Isla Sala y Gomez",
   "parent": "Chile",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Robinson Crusoe Island",
@@ -15215,10 +15594,11 @@
    }
   ]
  },
- "torres_del_paine": {
-  "name": "Torres del Paine",
+ "chile": {
+  "name": "Chile",
   "parent": "Chile",
   "n_locs": 25,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Torres del Paine",
@@ -15266,6 +15646,7 @@
   "name": "Chad",
   "parent": "Chad",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ounianga",
@@ -15313,6 +15694,7 @@
   "name": "Central African Rep.",
   "parent": "Central African Republic",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Dzanga-Sangha",
@@ -15356,10 +15738,11 @@
    }
   ]
  },
- "sal": {
-  "name": "Sal",
+ "cabo_verde": {
+  "name": "Cabo Verde",
   "parent": "Cabo Verde",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cape Verde",
@@ -15404,9 +15787,10 @@
   ]
  },
  "banff": {
-  "name": "Banff",
+  "name": "Canadian Rockies",
   "parent": "Canada",
   "n_locs": 37,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Banff",
@@ -15451,9 +15835,10 @@
   ]
  },
  "qu_bec_city": {
-  "name": "Qu\u00e9bec City",
+  "name": "Eastern Canada",
   "parent": "Canada",
   "n_locs": 63,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Qu\u00e9bec City",
@@ -15498,9 +15883,10 @@
   ]
  },
  "vancouver": {
-  "name": "Vancouver",
+  "name": "British Columbia",
   "parent": "Canada",
   "n_locs": 33,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Vancouver",
@@ -15544,10 +15930,11 @@
    }
   ]
  },
- "kribi": {
-  "name": "Kribi",
+ "cameroon": {
+  "name": "Cameroon",
   "parent": "Cameroon",
   "n_locs": 10,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Kribi",
@@ -15591,10 +15978,11 @@
    }
   ]
  },
- "siem_reap": {
-  "name": "Siem Reap",
+ "cambodia": {
+  "name": "Cambodia",
   "parent": "Cambodia",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Siem Reap",
@@ -15638,10 +16026,11 @@
    }
   ]
  },
- "bagan": {
-  "name": "Bagan",
+ "myanmar": {
+  "name": "Myanmar",
   "parent": "Myanmar",
   "n_locs": 16,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bagan",
@@ -15689,6 +16078,7 @@
   "name": "Burundi",
   "parent": "Burundi",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bujumbura",
@@ -15716,10 +16106,11 @@
    }
   ]
  },
- "ti_b_l": {
-  "name": "Ti\u00e9b\u00e9l\u00e9",
+ "burkina_faso": {
+  "name": "Burkina Faso",
   "parent": "Burkina Faso",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ti\u00e9b\u00e9l\u00e9",
@@ -15763,10 +16154,11 @@
    }
   ]
  },
- "plovdiv": {
-  "name": "Plovdiv",
+ "bulgaria": {
+  "name": "Bulgaria",
   "parent": "Bulgaria",
   "n_locs": 16,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Plovdiv",
@@ -15810,10 +16202,11 @@
    }
   ]
  },
- "bandar_seri_begawan": {
-  "name": "Bandar Seri Begawan",
+ "brunei": {
+  "name": "Brunei",
   "parent": "Brunei",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bandar Seri Begawan",
@@ -15858,9 +16251,10 @@
   ]
  },
  "salvador": {
-  "name": "Salvador",
+  "name": "Northeast Coast",
   "parent": "Brazil",
   "n_locs": 16,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Salvador",
@@ -15905,9 +16299,10 @@
   ]
  },
  "rio_de_janeiro": {
-  "name": "Rio de Janeiro",
+  "name": "Rio & Southeast",
   "parent": "Brazil",
   "n_locs": 51,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Rio de Janeiro",
@@ -15951,10 +16346,11 @@
    }
   ]
  },
- "maun": {
-  "name": "Maun",
+ "botswana": {
+  "name": "Botswana",
   "parent": "Botswana",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Botswana",
@@ -15998,10 +16394,11 @@
    }
   ]
  },
- "trebinje": {
-  "name": "Trebinje",
+ "rep_srpska": {
+  "name": "Rep. Srpska",
   "parent": "Bosnia and Herzegovina",
   "n_locs": 5,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Trebinje",
@@ -16045,10 +16442,11 @@
    }
   ]
  },
- "mostar": {
-  "name": "Mostar",
+ "fed_of_bos_herz": {
+  "name": "Fed. of Bos. & Herz.",
   "parent": "Bosnia and Herzegovina",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Mostar",
@@ -16092,10 +16490,11 @@
    }
   ]
  },
- "potosi": {
-  "name": "Potosi",
+ "bolivia": {
+  "name": "Bolivia",
   "parent": "Bolivia",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bolivia",
@@ -16139,10 +16538,11 @@
    }
   ]
  },
- "punakha": {
-  "name": "Punakha",
+ "bhutan": {
+  "name": "Bhutan",
   "parent": "Bhutan",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bhutan",
@@ -16186,10 +16586,11 @@
    }
   ]
  },
- "ganvi": {
-  "name": "Ganvi\u00e9",
+ "benin": {
+  "name": "Benin",
   "parent": "Benin",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ganvi\u00e9",
@@ -16233,10 +16634,11 @@
    }
   ]
  },
- "ambergris_caye": {
-  "name": "Ambergris Caye",
+ "belize": {
+  "name": "Belize",
   "parent": "Belize",
   "n_locs": 12,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Ambergris Caye",
@@ -16280,10 +16682,11 @@
    }
   ]
  },
- "bruges": {
-  "name": "Bruges",
+ "flemish": {
+  "name": "Flemish",
   "parent": "Belgium",
   "n_locs": 26,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bruges",
@@ -16327,10 +16730,11 @@
    }
   ]
  },
- "dinant": {
-  "name": "Dinant",
+ "walloon": {
+  "name": "Walloon",
   "parent": "Belgium",
   "n_locs": 19,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Dinant",
@@ -16378,6 +16782,7 @@
   "name": "Brussels",
   "parent": "Belgium",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Brussels",
@@ -16389,10 +16794,11 @@
    }
   ]
  },
- "minsk": {
-  "name": "Minsk",
+ "belarus": {
+  "name": "Belarus",
   "parent": "Belarus",
   "n_locs": 9,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Minsk",
@@ -16440,6 +16846,7 @@
   "name": "Barbados",
   "parent": "Barbados",
   "n_locs": 3,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Barbados",
@@ -16467,10 +16874,11 @@
    }
   ]
  },
- "cox_s_bazar": {
-  "name": "Cox's Bazar",
+ "bangladesh": {
+  "name": "Bangladesh",
   "parent": "Bangladesh",
   "n_locs": 7,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Cox's Bazar",
@@ -16514,10 +16922,11 @@
    }
   ]
  },
- "manama": {
-  "name": "Manama",
+ "bahrain": {
+  "name": "Bahrain",
   "parent": "Bahrain",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bahrain",
@@ -16553,10 +16962,11 @@
    }
   ]
  },
- "exumas": {
-  "name": "Exumas",
+ "bahamas": {
+  "name": "Bahamas",
   "parent": "The Bahamas",
   "n_locs": 8,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Exumas",
@@ -16600,10 +17010,11 @@
    }
   ]
  },
- "baku": {
-  "name": "Baku",
+ "azerbaijan": {
+  "name": "Azerbaijan",
   "parent": "Azerbaijan",
   "n_locs": 30,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Baku",
@@ -16648,9 +17059,10 @@
   ]
  },
  "hallstatt": {
-  "name": "Hallstatt",
+  "name": "Alps & Salzkammergut",
   "parent": "Austria",
   "n_locs": 27,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Hallstatt",
@@ -16695,9 +17107,10 @@
   ]
  },
  "vienna": {
-  "name": "Vienna",
+  "name": "Vienna & East",
   "parent": "Austria",
   "n_locs": 5,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Vienna",
@@ -16742,9 +17155,10 @@
   ]
  },
  "uluru_kata_tjuta_national_park": {
-  "name": "Uluru-Kata Tjuta National Park",
+  "name": "Outback & West Coast",
   "parent": "Australia",
   "n_locs": 20,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Uluru-Kata Tjuta National Park",
@@ -16789,9 +17203,10 @@
   ]
  },
  "melbourne": {
-  "name": "Melbourne",
+  "name": "Melbourne & South",
   "parent": "Australia",
   "n_locs": 35,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Melbourne",
@@ -16836,9 +17251,10 @@
   ]
  },
  "sydney": {
-  "name": "Sydney",
+  "name": "East Coast",
   "parent": "Australia",
   "n_locs": 42,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Sydney",
@@ -16886,6 +17302,7 @@
   "name": "Tasmania",
   "parent": "Australia",
   "n_locs": 13,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tasmania",
@@ -16933,30 +17350,35 @@
   "name": "Macquarie I.",
   "parent": "Australia",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "christmas_i": {
   "name": "Christmas I.",
   "parent": "Australia",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "cocos_is": {
   "name": "Cocos Is.",
   "parent": "Australia",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "heard_i_and_mcdonald_is": {
   "name": "Heard I. and McDonald Is.",
   "parent": "Australia",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "norfolk_island": {
   "name": "Norfolk Island",
   "parent": "Australia",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Norfolk Island",
@@ -16972,12 +17394,14 @@
   "name": "Ashmore and Cartier Is.",
   "parent": "Australia",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "yerevan": {
-  "name": "Yerevan",
+ "armenia": {
+  "name": "Armenia",
   "parent": "Armenia",
   "n_locs": 31,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Yerevan",
@@ -17022,9 +17446,10 @@
   ]
  },
  "iguazu_falls": {
-  "name": "Iguazu Falls",
+  "name": "Iguazu & Northwest",
   "parent": "Argentina",
   "n_locs": 23,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Iguazu Falls",
@@ -17072,6 +17497,7 @@
   "name": "Patagonia",
   "parent": "Argentina",
   "n_locs": 9,
+  "is_split": true,
   "top_locations": [
    {
     "title": "Patagonia",
@@ -17115,10 +17541,11 @@
    }
   ]
  },
- "english_harbour": {
-  "name": "English Harbour",
+ "antigua": {
+  "name": "Antigua",
   "parent": "Antigua and Barbuda",
   "n_locs": 2,
+  "is_split": false,
   "top_locations": [
    {
     "title": "English Harbour",
@@ -17142,6 +17569,7 @@
   "name": "Barbuda",
   "parent": "Antigua and Barbuda",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Barbuda",
@@ -17157,6 +17585,7 @@
   "name": "Angola",
   "parent": "Angola",
   "n_locs": 14,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Lubango",
@@ -17204,6 +17633,7 @@
   "name": "Andorra",
   "parent": "Andorra",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Andorra",
@@ -17215,10 +17645,11 @@
    }
   ]
  },
- "m_hamid": {
-  "name": "M'Hamid",
+ "algeria": {
+  "name": "Algeria",
   "parent": "Algeria",
   "n_locs": 32,
+  "is_split": false,
   "top_locations": [
    {
     "title": "M'Hamid",
@@ -17262,10 +17693,11 @@
    }
   ]
  },
- "gjirokaster": {
-  "name": "Gjirokaster",
+ "albania": {
+  "name": "Albania",
   "parent": "Albania",
   "n_locs": 23,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Gjirokaster",
@@ -17313,6 +17745,7 @@
   "name": "Afghanistan",
   "parent": "Afghanistan",
   "n_locs": 11,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Bamiyan",
@@ -17360,30 +17793,35 @@
   "name": "Siachen Glacier",
   "parent": "Kashmir",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "s_orkney_is": {
   "name": "S. Orkney Is.",
   "parent": "Antarctica",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "peter_i_i": {
   "name": "Peter I I.",
   "parent": "Antarctica",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
  "antarctica": {
   "name": "Antarctica",
   "parent": "Antarctica",
   "n_locs": 0,
+  "is_split": false,
   "top_locations": []
  },
- "st_maarten": {
-  "name": "St Maarten",
+ "sint_maarten": {
+  "name": "Sint Maarten",
   "parent": "Netherlands",
   "n_locs": 1,
+  "is_split": false,
   "top_locations": [
    {
     "title": "St Maarten",
@@ -17395,10 +17833,11 @@
    }
   ]
  },
- "yalta": {
-  "name": "Yalta",
+ "crimea": {
+  "name": "Crimea",
   "parent": "Russia",
   "n_locs": 6,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Yalta",
@@ -17446,6 +17885,7 @@
   "name": "Tuvalu",
   "parent": "Tuvalu",
   "n_locs": 4,
+  "is_split": false,
   "top_locations": [
    {
     "title": "Tuvalu",

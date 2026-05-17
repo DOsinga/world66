@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: monreale.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:MonrealeCathedral-pjt1.jpg
 latitude: 38.0826
+loc_type: city
 longitude: 13.292
+score: 0.64
 title: Monreale
 type: location
-score: 0.64
-loc_type: city
 ---
 
 The cathedral of Monreale is one of the great attractions of Sicily. The 12th-century Byzantine mosaics covering every surface of the interior are breathtaking, depicting scenes from the Old and New Testaments in shimmering gold. The cloisters, with their 228 paired columns, are equally beautiful.

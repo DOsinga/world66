@@ -9,6 +9,9 @@ score: 0.67
 title: Hue
 type: location
 loc_type: city
+image: hue.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Colors-i54-ring.png
 ---
 
 Hue was the imperial capital of Vietnam for nearly 150 years under the Nguyen Dynasty, and the city still carries that weight. The Perfume River bisects the city — the massive Citadel and Imperial Enclosure sit on the north bank, while the French colonial quarter, markets, and tourist hotels spread along the south. UNESCO declared the complex of monuments a World Heritage Site in 1993, calling Hue "a masterpiece of urban poetry."

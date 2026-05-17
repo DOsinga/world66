@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
 latitude: 55.605
+loc_type: city
 longitude: 13.0038
 score: 0.54
 title: Malmo
 type: location
-loc_type: city
 ---
 
 Malmo is Sweden's third-largest city and its most cosmopolitan after Stockholm. Sitting on the Oresund strait just 35 minutes by train from [Copenhagen](/europe/denmark/copenhagen), it has long been shaped by its proximity to Denmark and the continent, giving it a more relaxed, outward-looking character than you might expect from a Swedish city of 350,000 people.

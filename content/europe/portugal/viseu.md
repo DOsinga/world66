@@ -1,12 +1,15 @@
 ---
-title: Viseu
-type: location
-latitude: 40.657471
-longitude: -7.913866
 done:
   location_cleanup: 2026-04-06
-score: 0.54
+image: viseu.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:S%C3%A9_de_Viseu_IMG_20141226_155323-Pano_(36162491774).jpg
+latitude: 40.657471
 loc_type: city
+longitude: -7.913866
+score: 0.54
+title: Viseu
+type: location
 ---
 
 Travel Guide

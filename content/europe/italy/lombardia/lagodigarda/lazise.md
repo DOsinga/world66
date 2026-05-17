@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: lazise.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lazise_veduta.jpg
 latitude: 45.505201
+loc_type: city
 longitude: 10.733025
+score: 0.64
 title: Lazise
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Lazise is a small walled town on the eastern shore of Lake Garda. It was once the Venetians' most important outpost on the lake — a naval base and customs checkpoint — and the medieval fortifications still stand in remarkably good shape.

@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -27.710999
+loc_type: city
 longitude: 114.163816
+score: 0.52
 title: Kalbarri
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Kalbarri sits at the mouth of the Murchison River, 570 kilometres north of [Perth](/australiaandpacific/australia/westernaustralia/perth) and about 170 kilometres north of [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton). It is a small town — fishing boats, a pub, a few supermarkets — but the surrounding landscape is extraordinary. The Murchison River has carved a series of dramatic gorges through Kalbarri National Park, and the coastline to the south is a succession of red sandstone cliffs plunging into the Indian Ocean.

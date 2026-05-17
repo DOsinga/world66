@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: incline_village.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Incline_Village_Panoramic.jpg
 latitude: 39.250125
+loc_type: city
 longitude: -119.951909
+score: 0.53
 title: Incline Village
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Incline Village sits on the northeast shore of [Lake Tahoe](/northamerica/unitedstates/california/laketahoe), on the Nevada side. It is one of the more upscale communities on the lake — no chain restaurants, no strip malls, just pine forest, mountain views, and easy access to the water.

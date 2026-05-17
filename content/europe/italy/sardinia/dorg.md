@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 40.290551
+loc_type: city
 longitude: 9.585857
+score: 0.57
 title: Dorgali
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Dorgali sits on the slopes of Monte Bardia in the heart of the Barbagia region, about 15 km south of [Nuoro](/europe/italy/sardinia/nuoro). It's one of the best places in Sardinia to find traditional crafts — the town is known for its leather work, ceramics, and woven textiles, which you can buy directly from artisans' workshops.

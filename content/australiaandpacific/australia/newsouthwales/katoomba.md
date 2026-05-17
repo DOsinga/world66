@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-20'
 latitude: -33.713759
+loc_type: city
 longitude: 150.312163
 score: 0.66
 title: Katoomba
 type: location
-loc_type: city
 ---
 
 Katoomba is the gateway to the Blue Mountains, perched on the edge of the Jamison Valley about 100 km west of [Sydney](/australiaandpacific/australia/newsouthwales/sydney). The town itself has a faded Art Deco charm — old cinemas, antique shops and cafes lining the main street — but the main attraction is the landscape that drops away dramatically at the town's edge.

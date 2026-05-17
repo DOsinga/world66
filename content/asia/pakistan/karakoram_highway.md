@@ -1,12 +1,12 @@
 ---
-title: Karakoram Highway
-type: location
-latitude: 36.448842
-longitude: 74.893065
 done:
   location_cleanup: 2026-04-06
-score: 0.54
+latitude: 36.448842
 loc_type: region
+longitude: 74.893065
+score: 0.54
+title: Karakoram Highway
+type: location
 ---
 
 Travel Guide

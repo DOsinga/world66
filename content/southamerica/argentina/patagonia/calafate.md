@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: calafate.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:El_Calafate_(25825005237).jpg
 latitude: -50.34
+loc_type: city
 longitude: -72.2648
+score: 0.73
 title: El Calafate
 type: location
-score: 0.73
-loc_type: city
 ---
 
 El Calafate is the gateway town for Los Glaciares National Park, sitting on the shore of Lago Argentino about an hour's drive from the glaciers. The town itself is small and tourist-oriented, but you are not here for the town -- you are here for the ice.

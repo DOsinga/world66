@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: grimstad.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Darshanagrimstad.jpg
 latitude: 58.283997
+loc_type: city
 longitude: 8.712829
+score: 0.51
 title: Grimstad
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Grimstad is a small coastal town on Norway's southern shore, known for its tightly packed white wooden houses that tumble down toward a sheltered harbour. It was here that the young Henrik Ibsen worked as a pharmacist's apprentice in the 1840s and wrote his first play — his pharmacy has been preserved as a museum. The town has a strong literary identity, hosting an annual short story festival and maintaining a quiet cultural confidence that belies its size.

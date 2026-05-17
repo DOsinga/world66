@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
+image: alicesprings.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Alice_Springs,_2015_(01).JPG
 latitude: -23.698
+loc_type: city
 longitude: 133.8807
 score: 0.53
 title: Alice Springs
 type: location
-loc_type: city
 ---
 
 Alice Springs sits at the geographical centre of Australia, in a wide valley flanked by the red ridges of the MacDonnell Ranges on both sides. It is a town of around 25,000 people — by far the largest settlement in Central Australia — and the main hub for visitors heading to Uluru, the West MacDonnell Ranges gorges, and the Red Centre generally. The town is sometimes underestimated as a destination in itself, but it has an unusual collection of attractions and a character unlike anywhere else in the country.

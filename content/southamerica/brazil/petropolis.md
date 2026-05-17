@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: petropolis.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:0003_Vistas_de_Petr%C3%B3polis_(estado_do_Rio_de_Janeiro,_Brasil)_tiradas_da_Catedral.JPG
 latitude: -22.388
+loc_type: city
 longitude: -43.175259
+score: 0.56
 title: Petrópolis
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Petrópolis sits in the Serra da Estrela mountains about 65 kilometres north of [Rio de Janeiro](/southamerica/brazil/rio_de_janeiro), at around 800 metres above sea level. The cooler altitude made it the summer capital of Brazil from the days of Emperor Pedro II until 1962 — when the heat in Rio became unbearable, the government simply moved uphill. Today it is a city of over 300,000 people, but the imperial-era centre retains a distinct character: tree-lined avenues, canals running alongside the main streets, and a scattering of 19th-century buildings.

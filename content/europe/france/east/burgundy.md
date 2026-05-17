@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-05'
+image: burgundy.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chateau_Tanlay_facade_cour_grand_chateau.jpg
 latitude: 47.278087
+loc_type: region
 longitude: 4.222486
+score: 0.61
 title: Burgundy
 type: location
-score: 0.61
-loc_type: region
 ---
 
 Burgundy (Bourgogne) stretches south from Auxerre through the vine-covered slopes of the Côte d'Or to Mâcon, covering roughly 31,000 square kilometres of central eastern France. For most of the Middle Ages it was an independent duchy more powerful than the French crown, and that history shows: in Dijon's ducal palace, in the great Romanesque abbeys at Vézelay and Autun, in the hospice at Beaune still producing its own wine after six centuries.

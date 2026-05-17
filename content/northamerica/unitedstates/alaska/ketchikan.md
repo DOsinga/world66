@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+image: ketchikan.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ketchikan_-_panoramio.jpg
 latitude: 55.34307
+loc_type: city
 longitude: -131.646682
 score: 0.57
 title: Ketchikan
 type: location
-loc_type: city
 ---
 
 Ketchikan is Alaska's southernmost city and usually the first port of call on the Alaska Marine Highway coming north from Bellingham, Washington. It sits on the western shore of Revillagigedo Island, clinging to the mountainside above the Tongass Narrows, and gets more rain than almost anywhere in North America — expect it and embrace it. The city is compact and walkable, with a boardwalk Creek Street that was once the town's red-light district and is now its most characterful stretch of cafes, galleries, and small shops.

@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 43.0261
+loc_type: region
 longitude: -78.8734
+score: 0.6
 title: Niagara Frontier
 type: location
-score: 0.6
-loc_type: region
 ---
 
 The Niagara Frontier is the westernmost region of New York State, centred on Buffalo and Niagara Falls. It is a part of the state that has reinvented itself after decades of industrial decline — Buffalo in particular has undergone a genuine revival, with a growing food scene, restored architecture, and a pride that comes from having weathered hard times.

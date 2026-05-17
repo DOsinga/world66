@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ensenada.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Baja09flickr-05_(4258690724).jpg
 latitude: 31.865889
+loc_type: city
 longitude: -116.602983
+score: 0.56
 title: Ensenada
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Ensenada is a Pacific port city about 100 kilometers south of the US border in Baja California. It is a working town first and a tourist destination second, which is part of its appeal. The waterfront Malecon stretches along the bay, lined with seafood stalls where fish tacos are made fresh from the morning catch. Cruise ships dock here regularly, but walk a few blocks inland and you are in a Mexican city that exists entirely for itself.

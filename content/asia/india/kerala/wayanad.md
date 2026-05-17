@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: wayanad.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Blue,_Green_%26_White.jpg
 latitude: 11.715129
+loc_type: city
 longitude: 76.127118
+score: 0.6
 title: Wayanad
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Wayanad is a hilly district in the northeastern corner of Kerala, set on an elevated plateau in the Western Ghats. It is quieter and less touristy than [Munnar](/asia/india/kerala/munnar), with rolling hills, thick forests, spice plantations and a strong tribal culture that gives it a character of its own.

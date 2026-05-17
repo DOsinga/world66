@@ -1,12 +1,12 @@
 ---
-title: Navarre
-type: location
-latitude: 42.702794
-longitude: -1.708623
 done:
   location_cleanup: 2026-04-06
-score: 0.61
+latitude: 42.702794
 loc_type: region
+longitude: -1.708623
+score: 0.61
+title: Navarre
+type: location
 ---
 
 Navarre sits between the Pyrenees and the Ebro valley, a small region with an outsized history. For centuries it was an independent kingdom, caught between France and Spain, and that fierce independence still shows in everything from local politics to the food on the table.

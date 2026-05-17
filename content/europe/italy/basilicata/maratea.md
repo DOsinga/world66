@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: maratea.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Maratea03.jpg
 latitude: 39.993103
+loc_type: city
 longitude: 15.723124
+score: 0.59
 title: Maratea
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Maratea is the best [Basilicata](/europe/italy/basilicata) has to offer coastal travellers. Squeezed onto a narrow strip between mountains and the Tyrrhenian Sea, it is the region's only stretch of coastline — and it makes the most of it.

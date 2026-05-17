@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: bayeux.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bayeux_centre.jpg
 latitude: 49.2765
+loc_type: city
 longitude: -0.7025
+score: 0.62
 title: Bayeux
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Bayeux is a small, well-preserved Norman town whose name is synonymous with one object: the Bayeux Tapestry. This 70-metre embroidered linen strip, created in the 11th century, tells the story of the Norman Conquest of England in 58 scenes — essentially a medieval comic strip, vivid with horses, ships, feasting, and the Battle of Hastings. It is one of the most remarkable surviving artefacts of the Middle Ages, and the museum that houses it does it justice.

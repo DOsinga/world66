@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: papallacta.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Papallacta.JPG
 latitude: -0.377676
+loc_type: city
 longitude: -78.140888
+score: 0.54
 title: Papallacta
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Papallacta is a small Andean village perched at around 3,300 metres, about 65 km east of Quito on the road toward Tena and the Amazon lowlands. It's known for two things: its geothermal hot springs and its fresh trout, raised in the cold mountain streams nearby.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: sanchi.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG
 latitude: 23.487634
+loc_type: city
 longitude: 77.736068
+score: 0.53
 title: Sanchi
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Sanchi is a small village about 68 km northeast of Bhopal that contains one of the most remarkable concentrations of Buddhist architecture in the world — a UNESCO World Heritage Site. The hilltop complex spans nearly 1,000 years of continuous building from the 3rd century BC through the 12th century AD, and includes stupas, temples, chaityas, and monasteries in various states of preservation.

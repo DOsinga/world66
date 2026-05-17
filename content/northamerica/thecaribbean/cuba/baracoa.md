@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: baracoa.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Baracoa_Cuba_(261928859).jpeg
 latitude: 20.3469
+loc_type: city
 longitude: -74.4964
+score: 0.54
 title: Baracoa
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Baracoa is the oldest Spanish settlement in [Cuba](/northamerica/thecaribbean/cuba), founded in 1511 and cut off from the rest of the island by mountains for centuries. That isolation is part of its appeal — reaching Baracoa means crossing the spectacular La Farola highway, a winding road carved through the Sierra del Purial that is one of the great drives in the Caribbean.

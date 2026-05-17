@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: spoleto.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Spoleto_ty20060511r12040.jpg
 latitude: 42.734297
+loc_type: city
 longitude: 12.738203
 score: 0.67
 title: Spoleto
 type: location
-loc_type: city
 ---
 
 Spoleto is a hilltop town in southeastern Umbria that has been accumulating layers of history for nearly three thousand years. Roman remains sit beneath medieval walls, Romanesque churches stand next to baroque palazzi, and the whole thing perches dramatically above the Tessino valley with the Apennines as a backdrop.

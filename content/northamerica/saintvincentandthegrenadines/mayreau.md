@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: mayreau.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Saltwhistlebay.jpg
 latitude: 12.6389
+loc_type: city
 longitude: -61.3944
+score: 0.63
 title: Mayreau
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Mayreau is the smallest inhabited island in the Grenadines, home to fewer than 300 people and no cars. The entire settlement sits on a single hilltop, and from the small Catholic church at the top you can see both the Atlantic and the Caribbean at once.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: trakai.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Traku_pilis_by_Augustas_Didzgalvis.jpg
 latitude: 54.6522
+loc_type: city
 longitude: 24.934
+score: 0.62
 title: Trakai
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Trakai is Lithuania's postcard town, built on a chain of lakes about 30 kilometres west of Vilnius. The star attraction is the red-brick Island Castle, sitting on a spit of land in Lake Galve and connected to the shore by a wooden footbridge. Originally built in the 14th century and painstakingly restored in the Soviet era, it is the only island castle in Eastern Europe and looks spectacular from every angle, especially on a still day when the lake mirrors the towers.

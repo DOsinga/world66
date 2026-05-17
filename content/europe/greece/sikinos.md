@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: sikinos.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%CE%9D%CE%B1%CF%8C%CF%82_%CE%95%CF%80%CE%B9%CF%83%CE%BA%CE%BF%CF%80%CE%AE%CF%82_%CE%A3%CE%B9%CE%BA%CE%AF%CE%BD%CE%BF%CF%85_-_%CE%A3%CF%85%CE%B3%CE%BA%CF%81%CF%8C%CF%84%CE%B7%CE%BC%CE%B1.jpg
 latitude: 36.6756
+loc_type: city
 longitude: 25.1162
+score: 0.62
 title: Sikinos
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Sikinos is one of the quietest islands in the Cyclades — a place that most island-hoppers skip entirely, which is precisely its appeal. There are two places to stay: a pension near the port of Alopronia, or up in the Hora (Kastro), the old hilltop village that sits on a ridge above the sea with views in every direction.

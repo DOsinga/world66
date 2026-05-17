@@ -9,6 +9,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Sichuan
 title: Sichuan Province
 type: location
+image: sichuanprovince.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_huanglong_2.jpg
 ---
 
 Sichuan province is located in the centre of China between [Tibet](/asia/china/tibet), [Yunnan Province](/asia/china/yunnanprovince) and [Xian](/asia/china/shaanxi/xian).

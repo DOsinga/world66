@@ -3,11 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
 latitude: 10.3157
+loc_type: city
 longitude: 123.8854
 score: 0.63
 title: Cebu City
 type: location
-loc_type: city
 ---
 
 Cebu City is the second largest city in the Philippines and the main hub of the Visayas region. It is one of the oldest Spanish colonial cities in the country — founded in 1565 by Miguel López de Legazpi, six years before Manila — and Colon Street in the old centre is reputedly the oldest street in the Philippines.

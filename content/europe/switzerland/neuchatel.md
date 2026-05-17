@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: neuchatel.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vuevilledeneuchatel.jpg
 latitude: 46.9896
+loc_type: city
 longitude: 6.9293
 score: 0.6
 title: Neuchatel
 type: location
-loc_type: city
 ---
 
 Neuchâtel sits on the northwest shore of its namesake lake, the largest lake lying entirely within Switzerland, with the Jura slopes rising behind the city and a wide view south toward the Alps on a clear day. It is compact, handsome, and largely overlooked by tourists — which makes it one of the more pleasant Swiss cities to spend time in. The old town climbs the hillside in layers of golden sandstone, topped by a twelfth-century château and collegiate church that together form one of the better-preserved medieval complexes in the country.

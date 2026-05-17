@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: sulmona.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Sulmona.jpg
 latitude: 42.047423
+loc_type: city
 longitude: 13.927011
+score: 0.55
 title: Sulmona
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Sulmona sits in the Peligna Valley in central [Abruzzo](/europe/italy/abruzzo), ringed by mountains and closer to the wild heart of the Apennines than almost any other Italian town of its size. It is the natural base for exploring the Maiella National Park and the surrounding highlands.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: ooty.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ooty_lake.jpg
 latitude: 11.412677
+loc_type: city
 longitude: 76.70305
+score: 0.57
 title: Ooty
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Ooty (Udhagamandalam) is Tamil Nadu's most famous hill station, at 2,240 metres in the Nilgiri Hills, 90 km northeast of Coimbatore. The British established it as the summer capital of the Madras Presidency in the early 19th century, and it retains something of that heritage in its cottages, botanical gardens, and cool air — though it's now crowded and commercially developed in ways the colonial administrators would not recognise.

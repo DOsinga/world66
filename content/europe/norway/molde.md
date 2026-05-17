@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 62.6016
+loc_type: city
 longitude: 8.1386
+score: 0.54
 title: Molde
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Molde bills itself as the "City of Roses," though the reason for the name is not immediately obvious. What is obvious is the setting: the town sits on the north shore of the broad Romsdalsfjorden, and from the park you can count over 200 mountain peaks on both sides of the fjord. It is one of the most panoramic locations on the Norwegian coast.

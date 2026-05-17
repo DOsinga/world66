@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: st_johann_in_tirol.jpg
+image_license: CC BY-SA 3.0 at
+image_source: https://commons.wikimedia.org/wiki/File:Kath._Pfarrkirche_Mari%C3%A4_Himmelfahrt_morgens.jpg
 latitude: 47.5224
+loc_type: city
 longitude: 12.4287
+score: 0.57
 title: St. Johann in Tirol
 type: location
-score: 0.57
-loc_type: city
 ---
 
 St. Johann in Tirol is a market town in the Kitzbühel Alps, about ten kilometres east of its more famous neighbour [Kitzbühel](/europe/austria/kitzbuhel). It serves as the commercial centre of the district and offers a more affordable, less glamorous alternative for skiing and hiking in the same mountains.

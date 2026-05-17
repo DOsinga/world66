@@ -9,6 +9,9 @@ score: 0.65
 title: Melaka
 type: location
 loc_type: city
+image: melaka.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Malacca_River_Walk_2012.JPG
 ---
 
 Travel Guide

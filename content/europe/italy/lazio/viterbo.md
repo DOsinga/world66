@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: viterbo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Palazzo_dei_Papi_Viterbo.jpg
 latitude: 42.493
+loc_type: city
 longitude: 11.9488
+score: 0.56
 title: Viterbo
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Viterbo is an ancient walled city about 100 km northwest of [Rome](/europe/italy/lazio/rome), set between the lakes of Bolsena and Vico. It was once the administrative capital of Upper Latium and, for a turbulent stretch in the 13th century, the seat of the papacy itself.

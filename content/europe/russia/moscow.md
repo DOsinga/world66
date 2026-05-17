@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: moscow.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg
 latitude: 55.625578
+loc_type: city
 longitude: 37.606392
 score: 0.57
 title: Moscow
 type: location
-loc_type: city
 ---
 
 Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the **Kremlin** and **Red Square**. An afternoon on foot covers the essentials; a week is not enough for everything the city contains.

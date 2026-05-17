@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: pelagianislands.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Spiaggia_Isola_dei_Coniglio_Lampedusa.JPG
 latitude: 35.5134
+loc_type: region
 longitude: 12.6063
+score: 0.62
 title: Pelagian Islands
 type: location
-score: 0.62
-loc_type: region
 ---
 
 The islands of [Lampedusa](/europe/italy/sicily/pelagianislands/lampedusa) and [Linosa](/europe/italy/sicily/pelagianislands/linosa), together with the uninhabited rock of Lampione, make up the Pelagian archipelago. They lie some 200km south of Sicily and are geographically part of Africa.

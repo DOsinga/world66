@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: zamamiisland.jpg
+image_license: Attribution
+image_source: https://commons.wikimedia.org/wiki/File:Zamami_Island_gsi-20081122.jpg
 latitude: 26.235
+loc_type: city
 longitude: 127.3019
+score: 0.65
 title: Zamami Island
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Zamami is a small island in the Kerama group, about 40 kilometres west of Naha in [Okinawa](/asia/japan/ryukyuislands). It is the kind of place where the water is so clear you can see the coral from the ferry before you even dock.

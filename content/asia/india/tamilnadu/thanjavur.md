@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 10.659037
+loc_type: city
 longitude: 79.201428
+score: 0.54
 title: Thanjavur
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Thanjavur (Tanjore) was the capital of the Chola empire, and the Brihadeeswara Temple at its centre is the dynasty's greatest surviving monument. Built by Raja Raja Chola I around 1010 CE, the temple's vimana tower rises 66 metres above the surrounding streets — one of the tallest temple structures in India — and the whole complex is a UNESCO World Heritage Site. The scale and precision of the stonework, the Chola bronzes in the inner corridors, and the massive Nandi bull carved from a single rock are worth a long visit.

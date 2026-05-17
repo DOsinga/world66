@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -0.722442
+loc_type: city
 longitude: 36.438783
+score: 0.56
 title: Naivasha
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Naivasha is a moderately sized town about 100 km northwest of [Nairobi](/africa/kenya/nairobi), at the foot of the Great Rift Valley escarpment. It is the gateway to several of [Kenya's](/africa/kenya) most accessible natural attractions.

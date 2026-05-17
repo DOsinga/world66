@@ -9,6 +9,9 @@ score: 0.57
 title: Rabat
 type: location
 loc_type: city
+image: rabat.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Rabat_(31387775324).jpg
 ---
 
 About a million people live in the capital Rabat and its sister city Sale, but wandering around the Medina, the Kasbah or the Modern Town this is not the impression you get. Life is easy. Not many people harrass you. Shopowners are very nice. 

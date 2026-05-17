@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: albarracin.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Albarrac%C3%ADn,_Teruel,_Espa%C3%B1a,_2014-01-10,_DD_120.JPG
 latitude: 40.407283
+loc_type: city
 longitude: -1.444279
+score: 0.65
 title: Albarracín
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Albarracín is one of the most beautiful small towns in Spain, a medieval fortress settlement perched on a rocky outcrop almost entirely encircled by a gorge of the Guadalaviar River. The town's pink-hued sandstone houses, half-timbered upper storeys, and narrow cobbled streets have been so well preserved that walking through the old quarter feels genuinely like stepping back several centuries.

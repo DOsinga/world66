@@ -1,6 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: yunnanprovince.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:55936-Lijiang_(27941831943).jpg
 latitude: 25.0
 loc_type: region
 longitude: 102.0

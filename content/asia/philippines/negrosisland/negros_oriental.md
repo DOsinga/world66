@@ -1,12 +1,15 @@
 ---
-title: Negros Oriental
-type: location
-latitude: 9.3085
-longitude: 123.308
 done:
   location_cleanup: 2026-04-07
-score: 0.55
+image: negros_oriental.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Apo_island_-_panoramio.jpg
+latitude: 9.3085
 loc_type: city
+longitude: 123.308
+score: 0.55
+title: Negros Oriental
+type: location
 ---
 
 Negros Oriental is the quieter, greener half of [Negros island](/asia/philippines/negrosisland), facing Cebu across the Tañon Strait. Where the western side is all sugarcane and big-city bustle, the east is volcanic mountains, waterfalls, and a coastline that draws divers from around the world. The provincial capital, Dumaguete, is one of the most liveable small cities in the Philippines.

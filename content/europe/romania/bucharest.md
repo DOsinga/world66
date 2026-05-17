@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-21'
+image: bucharest.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Bucharest_University_Square_(cropped).jpg
 latitude: 44.4361
+loc_type: city
 longitude: 26.1027
 score: 0.56
 title: Bucharest
 type: location
-loc_type: city
 ---
 
 Bucharest was once known as the "Little Paris" for its tree-lined boulevards, Belle Époque architecture, and a café culture that rivalled the French capital in the 1930s. The Communist era tried hard to erase that identity — Ceaușescu demolished a fifth of the historic centre to build his grotesque Parliament Palace — but the old city has proven stubbornly resilient.

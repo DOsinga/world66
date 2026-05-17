@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 40.310675
+loc_type: city
 longitude: 26.406377
+score: 0.56
 title: Gallipoli
 type: location
-score: 0.56
-loc_type: city
 ---
 
 The World War One battlefields known as Gallipoli are just 15 km from Çanakkale.

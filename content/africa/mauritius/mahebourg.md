@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: mahebourg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Esplanade,_Mahebourg,_Mauritius.JPG
 latitude: -20.411104
+loc_type: city
 longitude: 57.706062
+score: 0.62
 title: Mahébourg
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Mahébourg is a fishing town on the southwest shore of Grand Port Bay, close to the international airport. It's one of the more authentic towns on the island — not heavily touristed, with a lively waterfront market and a real neighbourhood feel.

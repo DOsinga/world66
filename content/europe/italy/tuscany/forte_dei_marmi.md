@@ -1,12 +1,15 @@
 ---
-title: Forte dei Marmi
-type: location
-latitude: 43.959589
-longitude: 10.169939
 done:
   location_cleanup: 2026-04-05
-score: 0.62
+image: forte_dei_marmi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Forte_dei_Marmi.jpg
+latitude: 43.959589
 loc_type: city
+longitude: 10.169939
+score: 0.62
+title: Forte dei Marmi
+type: location
 ---
 
 **Forte dei Marmi** is a small beach resort on the **Versilia** coast of northern Tuscany, about 30 km north of Pisa. It sits on a long flat stretch of fine white sand backed by pine woods, with the dramatic marble-topped peaks of the **Apuan Alps** rising directly behind the town — and it is from those mountains that Forte dei Marmi takes its name. For centuries this was the loading port where the famous white marble of **Carrara** was shipped out, brought down from the quarries on wooden sledges and stacked on the beach. The little 18th-century **Fortino**, a Grand Ducal coastal fort on the central square, was built to protect the valuable cargo; it is still the landmark at the heart of the town and what gives the resort its name.

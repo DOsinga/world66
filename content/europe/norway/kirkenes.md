@@ -4,11 +4,11 @@ done:
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-20'
 latitude: 69.727148
+loc_type: city
 longitude: 30.044897
 score: 0.53
 title: Kirkenes
 type: location
-loc_type: city
 ---
 
 Kirkenes sits at the top of the world, a former iron-mining town 400 km north of the Arctic Circle and just a few kilometres from the Russian border. It is the end of the line for the Hurtigruten coastal ferry from Bergen — a six-day voyage up the fjords of the Norwegian coast — and for most travellers it is either the reward at the end of that trip or the jumping-off point for winter adventures in Finnmark.

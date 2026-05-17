@@ -1,12 +1,15 @@
 ---
-title: St. Simons Island
-type: location
-latitude: 31.218286
-longitude: -81.361208
 done:
   location_cleanup: 2026-04-07
-score: 0.51
+image: stsimonsisland.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:GA_St_Simons_Lighthouse_and_Keepers_Bldg01.jpg
+latitude: 31.218286
 loc_type: city
+longitude: -81.361208
+score: 0.51
+title: St. Simons Island
+type: location
 ---
 
 St. Simons Island is one of [Georgia](/northamerica/unitedstates/georgia)'s Golden Isles, accessible from Brunswick by causeway. It's a quieter and more residential alternative to beach resorts further down the coast, with a pleasant village center, good seafood restaurants, and beaches that don't get overwhelmingly crowded.

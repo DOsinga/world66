@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -33.934444
+loc_type: city
 longitude: 18.869167
+score: 0.66
 title: Stellenbosch
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Stellenbosch is the heart of South Africa's wine country, a handsome university town of Cape Dutch architecture, oak-lined streets and more than 150 wine estates within easy driving distance. It is less than an hour from [Cape Town](/africa/southafrica/capetown) and makes an easy day trip, though spending a night or two lets you properly explore the valley.

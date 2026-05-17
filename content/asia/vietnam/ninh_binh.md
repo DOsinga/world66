@@ -1,12 +1,15 @@
 ---
-title: Ninh Binh
-type: location
-latitude: 20.2513
-longitude: 105.9745
 done:
   location_cleanup: 2026-04-07
-score: 0.69
+image: ninh_binh.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tam_Coc_by_Tuan_Mai_%22007%22_(8888350545).jpg
+latitude: 20.2513
 loc_type: city
+longitude: 105.9745
+score: 0.69
+title: Ninh Binh
+type: location
 ---
 
 Ninh Binh is where Vietnam goes vertical. The province sits 90 km south of Hanoi and is carpeted with limestone karst towers — the same dramatic geology as Ha Long Bay, except here the peaks rise from rice paddies and slow rivers instead of ocean. The effect is extraordinary: boats drift between cliffs, egrets stalk through flooded fields, and Buddhist temples cling improbably to cliff faces above it all.

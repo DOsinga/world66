@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: jerusalem.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%D7%94%D7%9E%D7%A6%D7%95%D7%93%D7%94_%D7%91%D7%9C%D7%99%D7%9C%D7%94.jpg
 latitude: 31.7683
+loc_type: city
 longitude: 35.2137
 score: 0.76
 title: Jerusalem
 type: location
-loc_type: city
 ---
 
 Jerusalem is one of the oldest and most contested cities on earth — sacred to Judaism, Christianity, and Islam, and at the centre of a political dispute that has not been resolved. The UN voted in 1947 to place the city under international administration; no party accepted this. West Jerusalem came under Israeli control in 1948; East Jerusalem, including the Old City, was occupied by Israel in 1967. The status of the city remains disputed, and the de facto Israeli annexation of East Jerusalem has not been recognised by most of the international community.

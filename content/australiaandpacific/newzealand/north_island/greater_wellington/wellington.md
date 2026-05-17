@@ -2,12 +2,15 @@
 done:
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
+image: wellington.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Seddon_Statue_in_Parliament_Grounds.jpg
 latitude: -41.288795
+loc_type: city
 longitude: 174.777211
 score: 0.67
 title: Wellington
 type: location
-loc_type: city
 ---
 
 Wellington is the southernmost capital in the world, wedged between a deep harbour and a ring of forested hills. It is a compact, walkable city where you can go from parliament to a wild south coast beach in twenty minutes. The wind is relentless — Wellingtonians will tell you that with a mix of pride and resignation.

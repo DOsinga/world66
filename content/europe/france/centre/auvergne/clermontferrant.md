@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 45.777455
+loc_type: city
 longitude: 3.081943
+score: 0.55
 title: Clermont-Ferrand
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Clermont-Ferrand sits on a plateau surrounded by the volcanic peaks of the Chaîne des Puys, a landscape unlike anything else in France. The city itself is built from dark Volvic lava stone, giving it a striking, almost brooding character — especially the Gothic cathedral, which rises above the old town in deep black basalt.

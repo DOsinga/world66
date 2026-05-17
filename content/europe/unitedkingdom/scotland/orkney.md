@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 58.852057
+loc_type: city
 longitude: -3.28694
 score: 0.65
 title: Orkney
 type: location
-loc_type: city
 ---
 
 Orkney is an archipelago of about 70 islands off the northern tip of [Scotland](/europe/unitedkingdom/scotland), and it is one of the most remarkable places in Britain. People have lived here for at least 5,000 years, and the evidence is everywhere: Skara Brae, a Neolithic village older than the pyramids, sits on the shore of the Bay of Skaill with its stone beds and dressers still intact. The Ring of Brodgar and the Stones of Stenness stand in the landscape as they have for millennia. Maeshowe, a chambered cairn, was broken into by Vikings who left runic graffiti on the walls.

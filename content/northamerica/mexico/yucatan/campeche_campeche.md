@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: campeche_campeche.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Calakmul_bio_reserve.jpg
 latitude: 19.8454
+loc_type: city
 longitude: -90.5253
+score: 0.63
 title: Campeche
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Campeche is one of the best-preserved colonial cities in Mexico — a walled port where brightly painted mansions and cobblestone streets have barely changed since Spanish pirates made this place their favourite target. The historic centre was declared a UNESCO World Heritage Site in 1999, and unlike some heritage designations, this one actually shows: the overhead cables are gone, the facades are immaculate, and the atmosphere is genuinely lovely.

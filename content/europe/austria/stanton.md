@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: stanton.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:St_anton_skiroute_3_galzigbahn_v2.png
 latitude: 47.13
+loc_type: city
 longitude: 10.27
+score: 0.65
 title: St. Anton
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Non-stop on- and off-slope action in a compact village base. St. Anton has, along with Wengen and Mürren, a strong British tradition. From the 1920s, successive generations learned to ski here, adopting the distinctive feet-together Arlberg style. Sir Arnold Lunn helped start the Kandahar race here in 1928, and the resort has remained a draw for serious British skiers ever since.

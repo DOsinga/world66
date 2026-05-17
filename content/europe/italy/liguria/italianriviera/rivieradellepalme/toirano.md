@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 44.12753
+loc_type: city
 longitude: 8.20485
+score: 0.53
 title: Toirano
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Toirano is a small medieval village in the Val Varatella, best known for its remarkable caves. The karst landscape around the valley contains over fifty caves, some opening dramatically in the sheer walls of side valleys and in the spectacular Salto del Lupo gorge. The archaeological finds from these caves — including evidence of prehistoric human habitation and cave bear remains — are displayed in the Museo Preistorico della Val Varatella.

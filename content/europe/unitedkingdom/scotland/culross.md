@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: culross.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Culross,_Fife,_Scotland.JPG
 latitude: 56.055663
+loc_type: city
 longitude: -3.62837
+score: 0.54
 title: Culross
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Culross is a connoisseur's piece — a tiny village on the north bank of the Firth of Forth that looks much as it did in the 16th and 17th centuries. There is nothing in the surrounding landscape to prepare you for it; the shipyard town of Rosyth is nearby and the approach is unremarkable. Then you turn a corner and find yourself in the most complete example of a Scottish burgh from the 1600s.

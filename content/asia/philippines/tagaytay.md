@@ -1,12 +1,15 @@
 ---
-title: Tagaytay
-type: location
-latitude: 14.099261
-longitude: 120.939182
 done:
   location_cleanup: 2026-04-05
-score: 0.55
+image: tagaytay.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tagaytay_Highlands,_Philippines_(lulaymb)_3_-_Flickr.jpg
+latitude: 14.099261
 loc_type: city
+longitude: 120.939182
+score: 0.55
+title: Tagaytay
+type: location
 ---
 
 Tagaytay is a small hill town about 55 km south of **Manila** in the province of Cavite, Philippines. It sits at around 600 metres on the rim of a vast volcanic caldera, which gives it two things that make it, by a comfortable margin, the most popular weekend escape from the capital: a genuinely cool climate (daytime highs are 5–10°C lower than steamy Manila) and an extraordinary view. From the edge of the ridge, the land drops away into the circular bowl of the **Taal Caldera** and the great crater lake that fills it. In the middle of the lake sits **Volcano Island**, and on the island is a smaller crater lake — one of the handful of places on earth where you can see a lake on an island in a lake on an island in an ocean.

@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 53.192732
+loc_type: city
 longitude: -6.170357
+score: 0.54
 title: Enniskerry
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Enniskerry is a small village in County Wicklow, perched on the Glencullen River in the foothills of the Wicklow Mountains. It sits just south of the Dublin border, about 24 km from the city centre, making it an easy escape from the capital.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: riga.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Riga_(33844464828).jpg
 latitude: 56.949398
+loc_type: city
 longitude: 24.105185
 score: 0.66
 title: Riga
 type: location
-loc_type: city
 ---
 
 Riga is the capital of Latvia and home to around a third of the country's population — a concentration that makes it the undisputed centre of Latvian life. It's one of the most architecturally impressive cities in the Baltic region, and for most visitors it's the reason to come to Latvia in the first place.

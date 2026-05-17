@@ -9,6 +9,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Tibet
 type: location
+image: tibet.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Tibet-claims.jpg
 ---
 
 Tibet is the vast, high, thinly populated plateau at the top of the world — most of it sits above 4,000 metres, and its entire southern edge is the Himalaya. Politically it has been part of the People's Republic of China since 1951; culturally, linguistically, religiously and ethnically it is a place apart, with its own language (Tibetan), its own script, its own branch of Buddhism, and a landscape and sky unlike anywhere else on earth. For generations of Western travellers it has been a dream destination and the closest thing the world has to a real-life Shangri-La — a reputation that survives in spite of decades of political tension, controlled tourism, and rapid Chinese-led modernisation.

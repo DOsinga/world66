@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: oristano.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Eleanor_statue_Oristano.jpg
 latitude: 40.026568
+loc_type: city
 longitude: 8.679642
+score: 0.54
 title: Oristano
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Oristano sits on the flat Campidano plain facing the Gulf of Oristano on Sardinia's west coast. It's a provincial town with a relaxed pace and an impressive medieval centre — less touristy than [Cagliari](/europe/italy/sardinia/cagliari) or [Alghero](/europe/italy/sardinia/alghero) and none the worse for it.

@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 46.1031
+loc_type: city
 longitude: 7.0727
 score: 0.59
 title: Martigny
 type: location
-loc_type: city
 ---
 
 Martigny sits at the elbow of the Rhône Valley in the Valais, where the valley bends sharply north toward Lake Geneva. It is a small town that has been a crossroads for two thousand years — the Romans knew it as Octodurus and built an amphitheatre here, which you can still visit on the eastern edge of town, surprisingly well-preserved for a site this far from the Mediterranean.

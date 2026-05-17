@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-21'
+image: juneau.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1993_Juneau_below_gf301.jpg
 latitude: 58.301961
+loc_type: city
 longitude: -134.419675
 score: 0.61
 title: Juneau
 type: location
-loc_type: city
 ---
 
 Juneau is the capital of Alaska and one of the most unusual state capitals in the United States — it cannot be reached by road. Hemmed in by the Gastineau Channel to the east and the Coast Mountains to the west, the city is accessible only by sea or air, which gives it a frontier-meets-government-town atmosphere unlike anywhere else.

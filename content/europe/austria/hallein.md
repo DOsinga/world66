@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 47.682152
+loc_type: city
 longitude: 13.095631
+score: 0.56
 title: Hallein
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Hallein is the second largest town in the Salzburg province, sitting on the Salzach river about 16 km south of [Salzburg](/europe/austria/salzburg). The main reason to visit is the Dürrnberg salt mines above the town — the mines that gave Salzburg ("Salt Fortress") its name.

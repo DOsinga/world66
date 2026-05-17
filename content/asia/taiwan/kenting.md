@@ -1,12 +1,15 @@
 ---
-title: Kenting
-type: location
-latitude: 21.945308
-longitude: 120.798785
 done:
   location_cleanup: 2026-04-06
-score: 0.56
+image: kenting.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Maobitou_Cape_01.jpg
+latitude: 21.945308
 loc_type: city
+longitude: 120.798785
+score: 0.56
+title: Kenting
+type: location
 ---
 
 Kenting is at the very southern tip of [Taiwan](/asia/taiwan), where the island narrows and the climate tips into the tropical. Banana trees, sugar cane, and rice paddies line the roads approaching the peninsula; the water is warm enough to swim year-round.

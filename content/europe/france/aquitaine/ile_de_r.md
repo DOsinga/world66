@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 46.2005
+loc_type: region
 longitude: -1.4003
+score: 0.68
 title: Île de Ré
 type: location
-score: 0.68
-loc_type: region
 ---
 
 **Île de Ré** is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.

@@ -1,12 +1,15 @@
 ---
-title: Les Eyzies
-type: location
-latitude: 44.9397
-longitude: 1.0299
 done:
   location_cleanup: 2026-04-07
-score: 0.58
+image: leseyzies.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Les_Eyzies-de-Tayac_-_20090922.jpg
+latitude: 44.9397
 loc_type: city
+longitude: 1.0299
+score: 0.58
+title: Les Eyzies
+type: location
 ---
 
 Les Eyzies-de-Tayac is the self-proclaimed "capital of prehistory," and the claim is justified. This small village in the Vezere valley of the [Dordogne](/europe/france/aquitaine) sits at the centre of one of the densest concentrations of prehistoric sites in the world. The limestone cliffs that line the valley are riddled with caves and rock shelters that have been occupied by humans for over 250,000 years.

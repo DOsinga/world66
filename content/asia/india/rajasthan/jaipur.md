@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: jaipur.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg
 latitude: 26.9154
+loc_type: city
 longitude: 75.819
 score: 0.7
 title: Jaipur
 type: location
-loc_type: city
 ---
 
 Jaipur, the capital of Rajasthan, earned its nickname 'the Pink City' when the old town was painted terracotta-pink in 1876 for the visit of the Prince of Wales. The color has stuck, and the walled old city remains a startling sight -- a grid of broad avenues lined with uniform pink buildings, teeming with traffic, traders, and tourists.

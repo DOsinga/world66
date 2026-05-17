@@ -1,12 +1,15 @@
 ---
-title: Shimla
-type: location
-latitude: 31.1048
-longitude: 77.1734
 done:
   location_cleanup: 2026-04-07
-score: 0.61
+image: shimla.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Landscape_of_Shimla_,_Himachal_Pradesh.jpg
+latitude: 31.1048
 loc_type: city
+longitude: 77.1734
+score: 0.61
+title: Shimla
+type: location
 ---
 
 Shimla is the capital of Himachal Pradesh and, at 2,130 metres above sea level, India's most famous hill station — the summer capital of British India from 1864 until Independence, where the Raj's administration decamped each year to escape the plains heat. The colonial legacy is visible everywhere: in the mock-Tudor architecture of the Viceregal Lodge, the cast-iron bandstand on the Ridge, the pedestrianised Mall Road with its tea shops and bookstores, and the remarkable narrow-gauge railway that climbs from Kalka through 102 tunnels and 864 bridges over 96 kilometres to reach the town.

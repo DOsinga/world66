@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: troyes.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Troyes_centre_ville1.JPG
 latitude: 48.297163
+loc_type: city
 longitude: 4.074626
+score: 0.6
 title: Troyes
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Located on the banks of the Seine river, at 170 km from Paris (1h30 by

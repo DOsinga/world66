@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: nevada.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg
 latitude: 39.515882
+loc_type: region
 longitude: -116.853722
 score: 0.51
 title: Nevada
 type: location
-loc_type: region
 ---
 
 Nevada is a land of contrasts. Glittering [Las Vegas](/northamerica/unitedstates/nevada/lasvegas) rises from the southern desert, drawing millions with its casinos, shows, and neon excess. In the north, [Reno](/northamerica/unitedstates/nevada/reno) offers a smaller, scrappier version of the same, with Sierra Nevada skiing just over the mountains.

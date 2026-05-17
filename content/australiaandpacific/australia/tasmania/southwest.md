@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -42.8
+loc_type: region
 longitude: 145.9
+score: 0.59
 title: South-West
 type: location
-score: 0.59
-loc_type: region
 ---
 
 The South-West of [Tasmania](/australiaandpacific/australia/tasmania) is one of the last great temperate wilderness areas on earth. It is a vast, roadless expanse of quartzite peaks, ancient rainforest, wild rivers, and buttongrass plains — part of the Tasmanian Wilderness World Heritage Area and almost entirely uninhabited.

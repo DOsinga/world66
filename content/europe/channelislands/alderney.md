@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 49.7235
+loc_type: city
 longitude: -2.196
+score: 0.52
 title: Alderney
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Alderney is the most northerly of the main Channel Islands and, at roughly 3.5 miles by 1.5 miles, one of the smallest. It has around 2,200 residents and a pace of life that makes even Guernsey feel busy. There are sandy beaches, dramatic cliff walks, and some of the largest seabird colonies in northwest Europe — gannets, puffins, and auks nest on the surrounding stacks and islets.

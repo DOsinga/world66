@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-21'
+image: aachen.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_das_Rathaus_und_den_Dom_Aachens_aufgenommen_von_St_Jakob.jpg
 latitude: 50.776351
+loc_type: city
 longitude: 6.083862
 score: 0.57
 title: Aachen
 type: location
-loc_type: city
 ---
 
 Aachen, a small city in the north western part of Germany, is located at a short distance from both the Belgian and Dutch borders. Around the late eighth century the city became very important as the capital of the empire of Charlemagne. He made this choice partly for strategic reasons but also because of the presence of hot springs – exercising in these waters is said to be one of the emperor’s favourite pastimes. In the center of town you can find the Aachener Dom, a beautiful palace and cathedral, built for Charlemagne. Thirty Holy Roman emperors were crowned there between 936 and 1531.

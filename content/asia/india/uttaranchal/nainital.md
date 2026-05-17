@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: nainital.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg
 latitude: 29.294995
+loc_type: city
 longitude: 79.416251
+score: 0.55
 title: Nainital
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Nainital is a hill station in the Kumaon hills of [Uttarakhand](/asia/india/uttaranchal), built around a crescent-shaped lake at about 2,000 metres. It was developed as a summer retreat by the British in the 1840s and still has that hill-station character — colonial-era buildings, a promenade along the lake, and cool air even when the plains below are baking.

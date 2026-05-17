@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: italianriviera.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Port_-_Lerici,_La_Spezia,_Italy_-_August_16,_2020.jpg
 latitude: 44.14828
+loc_type: region
 longitude: 8.271494
 score: 0.74
 title: Italian Riviera
 type: location
-loc_type: region
 ---
 
 The Italian Riviera runs for about 350 km along the Ligurian coast, from Ventimiglia on the French border to La Spezia in the east. It's a landscape of steep terraced hillsides dropping to the sea, pastel-painted fishing villages, and a coastline that shifts from pebbly coves to wide sandy beaches depending on where you land.

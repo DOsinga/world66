@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: st_peter_port.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Alb%C3%A8rt_%C3%89glyise_Saint_Pi%C3%A8rre_Port_Dg%C3%A8rn%C3%A9sy.jpg
 latitude: 49.457841
+loc_type: city
 longitude: -2.534967
+score: 0.6
 title: St Peter Port
 type: location
-score: 0.6
-loc_type: city
 ---
 
 St Peter Port is one of the most handsome harbour towns in the British Isles. The capital of Guernsey climbs steeply from a working waterfront lined with yachts and ferry terminals, its lanes of granite townhouses rising toward Castle Cornet, a medieval fortress that has guarded the harbour since the 13th century. Stand on the quayside on a clear day and the French coast is visible on the horizon.

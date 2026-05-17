@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
+image: narbonne.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Narbonne_Cathedrale_Saint_Just_et_Saint_Pasteur.jpg
 latitude: 43.1836
+loc_type: city
 longitude: 3.0042
 score: 0.57
 title: Narbonne
 type: location
-loc_type: city
 ---
 
 Narbonne is one of the oldest Roman towns in France — founded in 118 BC as Narbo Martius, it was once the capital of Gallia Narbonensis and a major Mediterranean port. The sea has long since retreated, but the city retains a quiet confidence that comes from knowing it has been important for two thousand years.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: buenosaires.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Puerto_Madero,_Buenos_Aires_(40689219792)_(cropped).jpg
 latitude: -34.609558
+loc_type: city
 longitude: -58.38879
 score: 0.73
 title: Buenos Aires
 type: location
-loc_type: city
 ---
 
 Buenos Aires likes to call itself the Paris of South America. It is more accurate to say that it is the most European of South American cities — and the least European of European ones. The architecture is Haussmann-adjacent, the politics baroque, the national self-image a combination of European pretension and Latin American melancholy, and the result is one of the more fascinating cities on the continent.

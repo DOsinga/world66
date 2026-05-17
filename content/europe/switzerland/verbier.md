@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 46.096101
+loc_type: city
 longitude: 7.228676
+score: 0.69
 title: Verbier
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Verbier sits on a sun-drenched terrace high above the Val de Bagnes in the Swiss canton of Valais, facing a wall of four-thousand-metre peaks. It is one of Switzerland's premier ski resorts — and it knows it. The terrain is steep, varied, and vast, with the 4 Vallées network offering over 400 kilometres of runs stretching from gentle nursery slopes to the infamous Mont-Fort glacier descent.

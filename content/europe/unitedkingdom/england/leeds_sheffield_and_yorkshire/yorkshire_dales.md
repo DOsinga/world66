@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: yorkshire_dales.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg
 latitude: 54.261643
+loc_type: region
 longitude: -2.190951
+score: 0.64
 title: Yorkshire Dales
 type: location
-score: 0.64
-loc_type: region
 ---
 
 The Yorkshire Dales National Park covers a stretch of the Pennine hills in northern England — a landscape of broad green valleys (the dales), limestone pavements, waterfalls, and stone-walled fields dotted with sheep. It is one of the most popular walking destinations in England, easily accessible from Leeds, Manchester, or the A1, and filled with small market towns that offer good pubs and reasonably priced accommodation.

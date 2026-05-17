@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: elescorial.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg
 latitude: 40.583641
+loc_type: city
 longitude: -4.128143
+score: 0.58
 title: El Escorial
 type: location
-score: 0.58
-loc_type: city
 ---
 
 San Lorenzo de El Escorial is a small town in the Sierra de Guadarrama foothills, about 50 kilometres northwest of [Madrid](/europe/spain/centralspain/madrid). It exists because of one building: the Royal Monastery of San Lorenzo de El Escorial, built by Philip II in the late 16th century as a palace, monastery, church, and mausoleum all in one.

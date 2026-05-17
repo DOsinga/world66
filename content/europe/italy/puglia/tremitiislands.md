@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: tremitiislands.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Tremiti_1999_-Isola_di_San_Nicola_-_Santa_Maria_a_Mare-_by-RaBoe_001.jpg
 latitude: 42.1148
+loc_type: city
 longitude: 15.487124
+score: 0.65
 title: Tremiti Islands
 type: location
-score: 0.65
-loc_type: city
 ---
 
 The Tremiti Islands are a tiny archipelago in the Adriatic Sea, about 40km off the Gargano coast of [Puglia](/europe/italy/puglia). There are only three inhabited islands — San Domino, San Nicola, and Capraia — each small enough to cross on foot in under two hours. The landscape is arid limestone broken up by patches of Aleppo pine forest, with dramatic sea cliffs and hidden coves.

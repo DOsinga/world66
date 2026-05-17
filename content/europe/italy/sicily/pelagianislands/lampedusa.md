@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: lampedusa.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Lampedusa_island.jpg
 latitude: 35.5111
+loc_type: city
 longitude: 12.5963
+score: 0.59
 title: Lampedusa
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Lampedusa sits closer to Tunisia than to Sicily, and the landscape makes no secret of it. Flat, sun-scorched rock, wild rosemary, and a sea that turns an improbable shade of turquoise — this small island belongs geologically to Africa, even if it flies the Italian flag.

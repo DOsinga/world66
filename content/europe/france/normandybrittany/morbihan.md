@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 47.825981
+loc_type: city
 longitude: -2.763349
+score: 0.6
 title: Morbihan
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Morbihan is a département in southern Brittany, named after the Golfe du Morbihan — "small sea" in Breton — a sheltered inland sea dotted with dozens of islands. The gulf is a remarkable ecosystem of tidal flats, oyster beds, and bird colonies, and several of the islands can be visited by boat from Vannes, the main city.

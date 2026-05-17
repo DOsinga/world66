@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: cabarete.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Cabarete_Sosua_Dominican_Republic_People.jpg
 latitude: 19.788
+loc_type: city
 longitude: -70.513
+score: 0.56
 title: Cabarete
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Cabarete is one of the top kitesurfing and windsurfing destinations in the Caribbean, a laid-back beach town on the north coast of the [Dominican Republic](/northamerica/dominicanrepublic). Consistent trade winds, warm water, and low prices have turned it into an international hub for wind sports, with a lively scene of riders, schools, and beachfront bars.

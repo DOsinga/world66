@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: poznan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Stary_Rynek_w_Poznaniu,_widok_z_drona_(cropped).jpg
 latitude: 52.4064
+loc_type: city
 longitude: 16.9252
 score: 0.55
 title: Poznan
 type: location
-loc_type: city
 ---
 
 Poznan is one of Poland's oldest and most important cities, the birthplace of the Polish nation and a place where history and a youthful university energy coexist in a way that feels entirely natural. The Old Market Square, one of the largest in Europe, is ringed by colourful merchant houses and anchored by the Renaissance Town Hall, where every day at noon two mechanical goats butt heads from the clock tower. It is worth timing your visit for.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: delhi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg
 latitude: 28.613895
+loc_type: city
 longitude: 77.209006
 score: 0.58
 title: Delhi
 type: location
-loc_type: city
 ---
 
 Delhi is India's capital, its second-largest city, and, for a lot of travellers, the most overwhelming introduction to the country. Some people get on the first plane out; others are hooked for good. Either reaction is reasonable. What is certain is that Delhi is one of the great urban palimpsests of the world — seven or eight cities built on top of each other over a thousand years, ruled in turn by Rajputs, Delhi Sultanate dynasties, Mughals, and the British. All of those cities are still standing somewhere in the metropolis, and that is the particular fascination of the place.

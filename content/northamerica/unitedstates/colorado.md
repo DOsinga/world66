@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: colorado.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Crystal_Mill,_Colorado.jpg
 latitude: 38.725178
+loc_type: region
 longitude: -105.607716
 score: 0.72
 title: Colorado
 type: location
-loc_type: region
 ---
 
 Colorado is defined by the Rocky Mountains. The peaks run right through the middle of the state, creating a landscape of dramatic contrasts — alpine tundra above the treeline, red rock canyons in the west, and the vast high plains stretching east toward Kansas. With over 50 summits topping 14,000 feet, this is one of the most vertical places in North America, and that shapes everything about how people live and visit here.

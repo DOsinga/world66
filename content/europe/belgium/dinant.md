@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+image: dinant.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dinant_reflected.jpg
 latitude: 50.2592
+loc_type: city
 longitude: 4.9131
 score: 0.57
 title: Dinant
 type: location
-loc_type: city
 ---
 
 Dinant sits in a dramatic setting on the Meuse River, squeezed between limestone cliffs and the water. The town is dominated by its citadel, perched high above the distinctive onion-domed Collegiate Church of Notre-Dame, and makes a fine base for exploring the Belgian Ardennes.

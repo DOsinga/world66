@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: bristol.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol,_England.jpg
 latitude: 51.453802
+loc_type: city
 longitude: -2.597298
 score: 0.65
 title: Bristol
 type: location
-loc_type: city
 ---
 
 Bristol is the largest city in southwest England, with around half a million people, and it has more character than most British cities twice its size. Historically a county in its own right, it sits between Somerset and Gloucestershire and made its fortune as a major trading port — first in wine and spirits, then in shipping and engineering.

@@ -1,12 +1,15 @@
 ---
-title: Teruel
-type: location
-latitude: 40.6005
-longitude: -0.9229
 done:
   location_cleanup: 2026-04-07
-score: 0.55
+image: teruel.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Plaza_del_Torico_(Teruel).jpg
+latitude: 40.6005
 loc_type: city
+longitude: -0.9229
+score: 0.55
+title: Teruel
+type: location
 ---
 
 Teruel is a small provincial capital in Aragon, perched on a high plateau between Madrid and Valencia. It's not large and its sights aren't far apart — you can cover the highlights on foot in a day. What makes it remarkable is its collection of Mudéjar architecture: four towers decorated in elaborate geometric brickwork and glazed ceramic tiles, all dating from the 13th to 16th centuries and collectively named a UNESCO World Heritage Site.

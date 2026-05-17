@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: brussels.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg
 latitude: 50.846737
+loc_type: city
 longitude: 4.352493
 score: 0.65
 title: Brussels
 type: location
-loc_type: city
 ---
 
 Brussels wears two hats. Politically, it is the de facto capital of the European Union — home to the European Commission, the Parliament, the Council, and a vast functional neighbourhood of glass-and-steel around Schuman that lives off EU business. Culturally, it is the bilingual capital of a country that is itself oddly constructed — every sign in French and Flemish, every official bureaucracy duplicated, a layer of dry self-aware humour about the whole arrangement.

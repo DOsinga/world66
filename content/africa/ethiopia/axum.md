@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: axum.jpg
+image_license: CC BY-SA 3.0 igo
+image_source: https://commons.wikimedia.org/wiki/File:Aksum-107529.jpg
 latitude: 14.122098
+loc_type: city
 longitude: 38.732175
+score: 0.55
 title: Axum
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Axum is one of the oldest continuously inhabited cities in Africa and the historical heart of Ethiopian civilisation. For over a thousand years it was the capital of the Aksumite Empire, a trading power that connected the Roman world with India and controlled the Red Sea coast. Today it is a small, quietly atmospheric town in Tigray province, about 565 kilometres north of Addis Ababa, its ramshackle buildings painted in faded pastels.

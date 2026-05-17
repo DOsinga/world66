@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 5.107467
+loc_type: city
 longitude: -1.243079
+score: 0.54
 title: Cape Coast
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Cape Coast is the historical heart of Ghana and the place most visitors find hardest to forget. The town is dominated by Cape Coast Castle, a UNESCO World Heritage Site that served as one of the main holding points for enslaved Africans before they were shipped across the Atlantic. A guided tour through the dungeons and out through the "Door of No Return" is devastating and essential.

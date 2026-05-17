@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: datong.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Datong_Ancient_City_Wall_01.jpg
 latitude: 40.092319
+loc_type: city
 longitude: 113.295266
+score: 0.52
 title: Datong
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Datong sits on the dry, windy plateau of northern Shanxi, close to the Mongolian border and far from the polished tourist circuits of eastern China. For centuries it was a frontier garrison town, and the landscape still has that stark, edge-of-empire feel.

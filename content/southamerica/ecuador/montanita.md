@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: montanita.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Playa_Monta%C3%B1ita.jpg
 latitude: -1.828165
+loc_type: city
 longitude: -80.752906
+score: 0.59
 title: Montañita
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Montañita is a small surf village on the south coast of Ecuador's Santa Elena Peninsula, and it punches well above its weight. Two sandy streets, a cluster of cafes and surf shops, and a beach that pulls in long, consistent waves — that is essentially the whole town, and for many travelers it is more than enough.

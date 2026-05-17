@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: roscoff.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Roscoff_vue_Chapelle_St-Barbe.jpg
 latitude: 48.725582
+loc_type: city
 longitude: -3.982898
+score: 0.53
 title: Roscoff
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Roscoff is a small granite port town at the tip of northern Brittany, the French end of the ferry crossing from Plymouth. Most people arriving here drive straight on toward the rest of Brittany or south into France, which is a shame — the town is worth a few hours at least.

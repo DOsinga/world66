@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: carnac.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Kermario_Carnac.JPG
 latitude: 47.583663
+loc_type: city
 longitude: -3.079443
+score: 0.58
 title: Carnac
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Carnac is home to the most extraordinary collection of standing stones in the world. Over 3,000 menhirs arranged in 13 parallel rows stretch for several kilometres across the Breton countryside — and nobody knows with certainty why they were put there 4,000 years ago. Theories range from astronomical observatories to religious procession routes, but the honest answer is that the purpose remains a mystery.

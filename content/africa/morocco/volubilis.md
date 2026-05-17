@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: volubilis.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Volubilis_Longshot_II.jpg
 latitude: 34.073473
+loc_type: city
 longitude: -5.555366
+score: 0.65
 title: Volubilis
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Volubilis is the best preserved Roman site in Morocco and is an easy excursion from [Meknes](/africa/morocco/meknes). It is on the same winding road as [Moulay Idriss](/africa/morocco/moulayidriss), the birthplace of Moulay Idriss, the creator of the first Arab dynasty. Both sites (they are 4 km apart) are definitely worth a visit, especially if you are interested in Moroccan/Roman and Arab history. 

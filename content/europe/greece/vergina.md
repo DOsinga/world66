@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 40.4871
+loc_type: city
 longitude: 22.3173
+score: 0.56
 title: Vergina
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Vergina is a small village in northern Greece, near Veria, and home to one of the most important archaeological sites in the Greek world. The Royal Tombs of Aegae — the ancient Macedonian capital — were discovered here in 1977. Philip II of Macedon, father of Alexander the Great, is believed to be buried in Tomb II, and the golden larnax containing his bones and a stunning gold crown are displayed in the underground museum built within the burial mounds.

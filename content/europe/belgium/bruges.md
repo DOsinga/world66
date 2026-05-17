@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
+image: bruges.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Br%C3%BCgge_Blick_vom_Belfried_4.jpg
 latitude: 51.208553
+loc_type: city
 longitude: 3.226772
 score: 0.74
 title: Bruges
 type: location
-loc_type: city
 ---
 
 Bruges is one of the most beautiful cities in [Europe](/europe). It rightly deserves the name [Venice](/europe/italy/veneto/venice) of the north, canals, bridges and old city houses make it a very romantic place to visit.

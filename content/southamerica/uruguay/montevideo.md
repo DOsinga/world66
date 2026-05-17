@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-20'
+image: montevideo.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:PALACIO_LEGISLATIVO_01.JPG
 latitude: -34.905892
+loc_type: city
 longitude: -56.19131
 score: 0.59
 title: Montevideo
 type: location
-loc_type: city
 ---
 
 Montevideo is the very lively capital of Urugay. It is a stylish city with a strong European feel to it. The city was founded in 1726 on a promontory between the Rio del Plata and an inner bay; this area is still known as the Ciudad Vieja and is the area of main interest for visitors.

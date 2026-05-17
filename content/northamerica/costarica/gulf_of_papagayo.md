@@ -1,10 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+loc_type: region
+score: 0.64
 title: Gulf of Papagayo
 type: location
-score: 0.64
-loc_type: region
 ---
 
 The **Golfo de Papagayo** cuts into the northern Pacific coast of Guanacaste province, sheltered enough that its waters stay calm even when the open ocean is rough. That calm, combined with one of Costa Rica's longest dry seasons — sunshine dominates from November through May — has turned the peninsula into the country's most concentrated resort corridor.

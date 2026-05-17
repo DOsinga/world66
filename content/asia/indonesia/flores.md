@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -8.6574
+loc_type: region
 longitude: 121.0794
+score: 0.65
 title: Flores
 type: location
-score: 0.65
-loc_type: region
 ---
 
 Flores is one of Indonesia's most rewarding islands — volcanic, mountainous, and almost entirely Catholic in a country that's otherwise the world's largest Muslim nation. The Portuguese named it after its flowers, and while the flora is lush, what draws travellers here is something stranger and more dramatic: coloured crater lakes, Komodo dragons, excellent diving, and a rugged interior that rewards those who slow down.

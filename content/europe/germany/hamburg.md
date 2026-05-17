@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: hamburg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hamburg,_Landungsbr%C3%BCcken_--_2016_--_3131-7.jpg
 latitude: 53.5511
+loc_type: city
 longitude: 9.9937
 score: 0.67
 title: Hamburg
 type: location
-loc_type: city
 ---
 
 Hamburg is Germany's second city and its great port — a hard-edged northern metropolis built on shipping, trade, and a cheerful disregard for the buttoned-up south. The Elbe brings ocean-going ships a hundred kilometres inland to one of Europe's busiest harbours, and the city's character comes from that maritime traffic: red-brick warehouses, working cranes, ferries crossing the river, and a Hanseatic mercantile pride that has shaped Hamburg for eight centuries.

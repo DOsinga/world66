@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: lleyn_peninsula.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ll%C5%B7n_Peninsula_near_Nefyn,_North_Wales,_UK.jpg
 latitude: 52.8712
+loc_type: city
 longitude: -4.4788
+score: 0.54
 title: Lleyn Peninsula
 type: location
-score: 0.54
-loc_type: city
 ---
 
 The Llŷn Peninsula (pronounced "Hlin") is a narrow arm of land extending 50 km westward from Snowdonia into the Irish Sea, one of Wales's most beautiful and least-spoiled coastal regions. It is narrow enough that you can drive from the north coast to the south in minutes, but the two coasts have quite different characters: the north is more exposed and dramatic, the south more sheltered.

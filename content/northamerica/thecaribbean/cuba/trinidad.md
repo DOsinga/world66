@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: trinidad.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Td-map.png
 latitude: 21.8027
+loc_type: city
 longitude: -79.9843
+score: 0.66
 title: Trinidad
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Trinidad is Cuba's best-preserved colonial town and a UNESCO World Heritage Site — the kind of place where the 18th century feels close enough to touch. Cobblestoned streets climb the hill past pastel-painted houses with red tile roofs, wrought-iron grilles, and heavy wooden doors that open onto cool interior courtyards. At the top sits the Plaza Mayor, flanked by former sugar baron mansions now turned into museums.

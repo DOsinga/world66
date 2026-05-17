@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 38.4044
+loc_type: city
 longitude: 14.9618
+score: 0.64
 title: Vulcano
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Vulcano is the southernmost of the [Aeolian Islands](/europe/italy/sicily/aeolianislands) and the one that hits you hardest on arrival: the smell of sulphur drifts across the harbour before you've even stepped off the hydrofoil. The island is technically still active — not in a Stromboli-throwing-lava way, but in a steady, geological grumble of fumaroles, bubbling mud, and geothermally heated sea.

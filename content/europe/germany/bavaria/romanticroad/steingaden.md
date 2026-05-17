@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: steingaden.jpg
+image_license: CC BY-SA 2.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Wieskirche_boenisch_okt_2003.jpg
 latitude: 47.701707
+loc_type: city
 longitude: 10.860269
+score: 0.56
 title: Steingaden
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Steingaden is a small village at the point where the Romantic Road crosses the Deutsche Alpenstrasse. The village itself is quiet, but two churches make it an essential stop.

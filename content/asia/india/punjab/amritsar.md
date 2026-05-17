@@ -1,12 +1,15 @@
 ---
-title: Amritsar
-type: location
-latitude: 31.634
-longitude: 74.8723
 done:
   location_cleanup: 2026-04-07
-score: 0.61
+image: amritsar.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Golden_Temple_Amritsar_Gurudwara_(cropped).jpg
+latitude: 31.634
 loc_type: city
+longitude: 74.8723
+score: 0.61
+title: Amritsar
+type: location
 ---
 
 Amritsar is the spiritual heart of Sikhism and one of the most compelling cities in India. It is built around the Harmandir Sahib — the Golden Temple — a complex so serene and so strikingly beautiful that it tends to silence even the most jaded traveler. The langar (community kitchen) at the temple feeds 50,000 to 100,000 people every day, free of charge, regardless of religion. Eating here, sitting cross-legged on the floor beside pilgrims from across India and the world, is one of those experiences that actually earns the word unforgettable.

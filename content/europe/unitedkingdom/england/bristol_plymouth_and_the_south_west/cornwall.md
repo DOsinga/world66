@@ -1,12 +1,15 @@
 ---
-latitude: 50.26
-longitude: -5.05
-title: Cornwall
-type: location
 done:
   location_cleanup: 2026-04-07
-score: 0.65
+image: cornwall.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Mount_View.jpg
+latitude: 50.26
 loc_type: region
+longitude: -5.05
+score: 0.65
+title: Cornwall
+type: location
 ---
 
 Cornwall is the most south-westerly county of England, a dramatic peninsula jutting into the Atlantic with more than 300 miles of coastline. It is a place apart — Celtic in heritage, rugged in character, and stubbornly distinct from the rest of England. The landscape shifts from surf-battered cliffs and wide sandy beaches in the north to the gentler, wooded river creeks of the south coast, while the high moorland of Bodmin sits in the middle, scattered with ancient standing stones and Bronze Age settlements.

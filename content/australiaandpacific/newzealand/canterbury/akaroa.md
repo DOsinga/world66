@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: akaroa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:AkaroaDec032024_01.jpg
 latitude: -43.8035
+loc_type: city
 longitude: 172.9681
+score: 0.62
 title: Akaroa
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Akaroa sits at the head of a deep harbour on Banks Peninsula, about two hours' drive southeast of Christchurch. It is the only place in New Zealand with a French colonial past: a small party of French settlers arrived here in 1840, just weeks after the Treaty of Waitangi, and found the British had already claimed sovereignty. The colonists stayed anyway, and their legacy lingers in street names like Rue Lavaud and Rue Jolie, in the weatherboard cottages with French-style shutters, and in a certain self-conscious Gallic charm that the town plays up for visitors.

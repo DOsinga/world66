@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: brasilia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped).jpg
 latitude: -15.7939
+loc_type: city
 longitude: -47.8828
+score: 0.52
 title: Brasilia
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Brasilia is Brazil's purpose-built capital, a city that exists because someone decided it should. Inaugurated in 1960, it was designed by urbanist Lucio Costa and architect Oscar Niemeyer as a modernist utopia — a city shaped like an aeroplane when seen from above, with monumental government buildings, sweeping concrete curves, and vast open spaces where most capitals would have narrow streets.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: aegina.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:%C3%84gina_Hafenblick.jpg
 latitude: 37.724369
+loc_type: city
 longitude: 23.493811
+score: 0.63
 title: Aegina
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Stand on the Acropolis in Athens on a clear day and look south toward the sea — the island you can see is Aegina. It is the closest of the Saronic Islands to the capital, reachable in under an hour by ferry, and it draws both foreign visitors and Athenians escaping the city for the weekend.

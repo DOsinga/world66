@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -43.494176
+loc_type: city
 longitude: 171.809845
+score: 0.61
 title: Canterbury
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Canterbury is the largest region on New Zealand's South Island, stretching from the Southern Alps to the Pacific coast. Its capital, [Christchurch](/australiaandpacific/newzealand/canterbury/christchurch), is the South Island's biggest city — still rebuilding and reinventing itself after the 2011 earthquake. Beyond the city, the Canterbury Plains are wide and flat, but the western edge rises sharply into the mountains.

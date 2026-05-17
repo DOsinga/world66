@@ -1,10 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+loc_type: region
 score: 0.59
 title: Northern Spain
 type: location
-loc_type: region
 ---
 
 Northern Spain is greener, wetter, and less visited than the country's famous south — and for many travelers that is exactly the appeal. The coast between Galicia and the French border is one of the great under-known stretches of Europe: Atlantic beaches, mountain ranges tumbling into the sea, Romanesque churches in hill towns, and some of the best food in Spain.

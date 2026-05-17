@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 41.287796
+loc_type: city
 longitude: -7.740175
+score: 0.72
 title: Douro Valley
 type: location
-score: 0.72
-loc_type: city
 ---
 
 The Douro Valley is Portugal's great wine country — a steep, terraced landscape carved by the Douro River as it runs east toward the Spanish border. The schist hillsides are covered in quintas (wine estates) producing the grapes that become port wine, as well as increasingly respected table wines. The valley is a UNESCO World Heritage Site.

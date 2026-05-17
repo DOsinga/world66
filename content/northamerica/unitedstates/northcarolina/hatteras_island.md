@@ -1,12 +1,12 @@
 ---
-title: Hatteras Island
-type: location
-latitude: 35.4849
-longitude: -75.4806
 done:
   location_cleanup: '2026-04-10'
-score: 0.54
+latitude: 35.4849
 loc_type: city
+longitude: -75.4806
+score: 0.54
+title: Hatteras Island
+type: location
 ---
 
 Hatteras Island is the destination for vacationers in search of surfing, fishing, camping, birdwatching, beachcombing, or simply watching the sunset with family and friends. Part of the [Outer Banks](/northamerica/unitedstates/northcarolina/outerbanks), this long, narrow island is wilder and less developed than the northern beaches, with small villages separated by stretches of open dune and marsh.

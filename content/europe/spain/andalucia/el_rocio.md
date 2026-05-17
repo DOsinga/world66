@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: el_rocio.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:El_Roc%C3%ADo_-_View_from_the_southwest_with_horses.jpg
 latitude: 37.130708
+loc_type: city
 longitude: -6.484735
+score: 0.56
 title: El Rocio
 type: location
-score: 0.56
-loc_type: city
 ---
 
 This is an exceptional village for several reasons. The one which most inhabitants would give is that it is the destination for an annual romero or pilgrimage. There is a brotherhood connected with this which owns nearly all property in the village.

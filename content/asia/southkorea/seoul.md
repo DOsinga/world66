@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: seoul.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg
 latitude: 37.566679
+loc_type: city
 longitude: 126.978291
 score: 0.77
 title: Seoul
 type: location
-loc_type: city
 ---
 
 Seoul is one of the biggest, densest, and most relentlessly modern cities in the world. Home to roughly half of South Korea's population in its wider metropolitan area, it is a place of endless neon, twenty-four-hour street food, and 5G on the subway — and yet, tucked between the office towers, it still contains five Joseon-era palaces, a city wall, and the shrines and hanok villages that have been there for six centuries.

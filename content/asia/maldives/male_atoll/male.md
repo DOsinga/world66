@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: male.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9.jpg
 latitude: 4.1755
+loc_type: city
 longitude: 73.5093
+score: 0.65
 title: Malé
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Malé is one of the most densely packed capitals on earth — roughly 200,000 people crammed onto an island barely two kilometres across. It is noisy, crowded, and unlike anything you will see on the resort brochures. That is exactly why it is worth a visit.

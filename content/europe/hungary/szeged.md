@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: szeged.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Ferenc_M%C3%B3ra_Museum_2021-03-02,_Szeged.jpg
 latitude: 46.254631
+loc_type: city
 longitude: 20.148602
+score: 0.52
 title: Szeged
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Szeged is Hungary's third-largest city and the unofficial capital of the Great Southern Plain. It sits on the banks of the Tisza River, close to the Serbian border, and has a distinctly different feel from [Budapest](/europe/hungary/budapest) -- sunnier, more relaxed, and very much a university town. The population swells by tens of thousands during term time, which keeps the cafe and bar scene lively.

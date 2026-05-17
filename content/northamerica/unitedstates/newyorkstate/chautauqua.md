@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 42.2894
+loc_type: city
 longitude: -79.4217
+score: 0.51
 title: Chautauqua
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Chautauqua is unlike anywhere else in the United States. Tucked into the southwestern corner of New York State near Lake Erie, it is a gated community built entirely around the life of the mind — a place where lectures, concerts, opera, and religious debate have been the main attractions since 1874.

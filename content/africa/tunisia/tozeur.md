@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: tozeur.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tozeur_sud_tunisien.jpg
 latitude: 33.9239
+loc_type: city
 longitude: 8.1371
+score: 0.55
 title: Tozeur
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Tozeur sits on the northern edge of Chott el-Jerid, the vast salt lake that dominates southwestern Tunisia. Once a waystation for trans-Saharan caravans trading with the Mediterranean coast, it is now famous above all for its dates — more than 200,000 palms draw their water from hundreds of natural springs, and the groves are extraordinary.

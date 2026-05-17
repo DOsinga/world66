@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: rostock.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2018_-_Petrikirche_-_Rostock.jpg
 latitude: 54.088671
+loc_type: city
 longitude: 12.140021
+score: 0.52
 title: Rostock
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Rostock is the largest city in Mecklenburg-Western Pomerania, a former Hanseatic League trading port on the Baltic coast with a population of around 200,000. The old town retains much of its medieval character — gabled merchant houses, brick Gothic churches, and stretches of the old city wall, all rebuilt after heavy wartime damage.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: tonsberg.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_T%C3%B8nsberg_-_panoramio.jpg
 latitude: 59.2674
+loc_type: city
 longitude: 10.4076
+score: 0.54
 title: Tonsberg
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Tønsberg is Norway's oldest city, founded by the Vikings over a thousand years ago. The ruins of the medieval fortress atop Slottsfjell hill and its distinctive tower offer wide views across the Oslofjord, while the royal burial mounds at nearby Borre National Park are among Scandinavia's most important Viking-era sites. History here isn't behind glass — it's built into the landscape.

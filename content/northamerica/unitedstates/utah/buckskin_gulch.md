@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: buckskin_gulch.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Buckskin_Gulch.jpg
 latitude: 37.0047
+loc_type: city
 longitude: -111.9514
+score: 0.52
 title: Buckskin Gulch
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Buckskin Gulch is the longest slot canyon in the American Southwest — 16 miles of continuous narrows carved through sandstone, up to 500 feet deep and sometimes barely wide enough to squeeze through. It's one of those places that feels genuinely otherworldly, and the effort required to get there is part of what makes it memorable.

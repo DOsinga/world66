@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: pirenopolis.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cortejo_do_imperador_da_Festa_do_Divino_em_Piren%C3%B3polis.jpg
 latitude: -15.8501
+loc_type: city
 longitude: -49.0297
+score: 0.52
 title: Pirenópolis
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Pirenópolis is a beautifully preserved colonial mining town in the state of Goiás, about 120 kilometres from Brasília. Founded in the early eighteenth century during the gold rush, the town retains its cobblestone streets, whitewashed churches, and pastel-coloured houses, and has become a popular weekend escape for residents of the capital.

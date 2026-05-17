@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: uwajima.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Uwajima_Bay.JPG
 latitude: 33.223231
+loc_type: city
 longitude: 132.560651
+score: 0.52
 title: Uwajima
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Uwajima is a small city in the far south of Ehime prefecture on Shikoku, at the end of a railway line that terminates here after threading through the coastal mountains. It is primarily of interest for two attractions that couldn't be more different in character.

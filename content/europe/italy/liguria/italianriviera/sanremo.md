@@ -1,12 +1,12 @@
 ---
-title: Sanremo
-type: location
-latitude: 43.8198
-longitude: 7.7749
 done:
   location_cleanup: 2026-04-06
-score: 0.65
+latitude: 43.8198
 loc_type: city
+longitude: 7.7749
+score: 0.65
+title: Sanremo
+type: location
 ---
 
 Sanremo is the grand old resort of the Italian Riviera, draped across the hillside between Capo Verde and Capo Nero in an amphitheatre facing the sea. It has been drawing visitors since the 19th century — Russian aristocrats, British wintering parties, and later the Italian establishment — and still carries an air of faded Belle Époque glamour in its seafront hotels, the Casino Municipale, and the palm-lined promenades.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+image: tinos.jpg
+image_license: Copyrighted free use
+image_source: https://commons.wikimedia.org/wiki/File:Tinos_panagia_evangelistria_200707_04.jpg
 latitude: 37.601713
+loc_type: city
 longitude: 25.154022
+score: 0.61
 title: Tinos
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Tinos is one of the most important pilgrimage sites in the Greek Orthodox world. The Church of Panagia Evangelistria in Tinos town houses a revered icon of the Virgin Mary, and on the Feast of the Assumption (15 August) thousands of pilgrims crawl on their knees up the main street from the harbour to the church. It is one of the most extraordinary sights in Greece, and one that most foreign visitors know nothing about.

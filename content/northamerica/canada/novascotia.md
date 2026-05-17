@@ -1,12 +1,15 @@
 ---
-title: Nova Scotia
-type: location
-latitude: 44.682
-longitude: -63.7443
 done:
   location_cleanup: 2026-04-02
-score: 0.58
+image: novascotia.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Peggys_Cove_Nova_Scotia_02.jpg
+latitude: 44.682
 loc_type: region
+longitude: -63.7443
+score: 0.58
+title: Nova Scotia
+type: location
 ---
 
 Nova Scotia juts into the Atlantic like a lobster claw, connected to the rest of Canada by a narrow strip of land at its New Brunswick border. The sea defines everything here: the economy, the culture, the weather, and the reason to visit.

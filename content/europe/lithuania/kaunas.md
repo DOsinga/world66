@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   poi_cleanup: '2026-04-19'
+image: kaunas.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kauno_senamiestis_by_Augustas_Didzgalvis.jpg
 latitude: 54.8985
+loc_type: city
 longitude: 23.9036
 score: 0.52
 title: Kaunas
 type: location
-loc_type: city
 ---
 
 Lithuania's second city sits at the confluence of the Nemunas and Neris rivers, and many Lithuanians will tell you it is the most Lithuanian city of all. During the interwar years Kaunas served as the provisional capital, and that era left behind a remarkable collection of Art Deco and modernist architecture now recognised by UNESCO.

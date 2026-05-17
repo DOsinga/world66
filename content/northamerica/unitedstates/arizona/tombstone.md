@@ -1,12 +1,12 @@
 ---
-title: Tombstone
-type: location
-latitude: 31.7129
-longitude: -110.0676
 done:
   location_cleanup: 2026-04-07
-score: 0.52
+latitude: 31.7129
 loc_type: city
+longitude: -110.0676
+score: 0.52
+title: Tombstone
+type: location
 ---
 
 Tombstone is the most famous Wild West town in America, and it knows it. Founded in 1879 after Ed Schieffelin struck silver in the San Pedro Valley, the town exploded from nothing to 10,000 people in just a few years — making it the largest city between San Francisco and St. Louis. The mines flooded in 1882 and the boom went bust, but unlike most mining towns, Tombstone refused to disappear. Its motto, "The Town Too Tough to Die," is earned.

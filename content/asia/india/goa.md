@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: goa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:BeachFun.jpg
 latitude: 15.300454
+loc_type: region
 longitude: 74.085513
 score: 0.69
 title: Goa
 type: location
-loc_type: region
 ---
 
 Goa is India's smallest state and its most unusual. Portuguese rule lasted 450 years — until 1961, 14 years after the rest of the country became independent — and it left a lasting mark: Catholic churches, Latinate family names, a seafood-and-pork cuisine unlike anywhere else in India, and a laid-back coastal rhythm that feels more Mediterranean than subcontinental. The hippie trail arrived in the 1960s and never entirely left; today's Goa is part beach-holiday destination, part party island, part working Indian state.

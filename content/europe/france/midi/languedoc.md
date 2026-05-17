@@ -1,12 +1,12 @@
 ---
-title: Languedoc
-type: location
-latitude: 43.654203
-longitude: 3.67467
 done:
   location_cleanup: 2026-04-05
-score: 0.63
+latitude: 43.654203
 loc_type: region
+longitude: 3.67467
+score: 0.63
+title: Languedoc
+type: location
 ---
 
 Languedoc sits in the warm south of France, stretching from the Rhône delta west to the Pyrenees and north into the Massif Central. It's a region with its own language — Occitan — its own food, and a history shaped as much by Cathar heresy and royal crusades as by Mediterranean sun. Despite what the Paris-centric narrative would have you believe, this is not quite France in the usual sense. It feels older, rougher around the edges, and more interesting for it.

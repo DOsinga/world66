@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
+image: budva.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Budva_(26871774051).jpg
 latitude: 42.288566
+loc_type: city
 longitude: 18.84195
 score: 0.61
 title: Budva
 type: location
-loc_type: city
 ---
 
 Budva is Montenegro's main beach resort and its most touristy town. In July and August it is very busy — packed beaches, thumping nightclubs, and hotel prices that would make you wince. Come in May, June, or September and it's a genuinely enjoyable place: a small walled old town on a rocky peninsula surrounded by water, warm sea, and a relaxed pace.

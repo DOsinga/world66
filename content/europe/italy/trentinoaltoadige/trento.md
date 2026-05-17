@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 46.066423
+loc_type: city
 longitude: 11.12576
+score: 0.63
 title: Trento
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Trento is a prosperous city tucked into the Adige valley in the Italian Alps, with a wealth that comes from farming, wine, and high-tech industry. The town is best known for the Council of Trent (1545–1563), the Catholic Church's marathon response to the Reformation, which met in the cathedral and the Castello del Buonconsiglio over nearly two decades. The castle is now the largest museum in the Trentino region, with medieval art, archaeology, and frescoes.

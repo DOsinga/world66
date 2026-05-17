@@ -1,12 +1,15 @@
 ---
-title: Ba Be National Park
-type: location
-latitude: 22.410703
-longitude: 105.722868
 done:
   location_cleanup: 2026-04-07
-score: 0.59
+image: ba_be.jpg
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Ba_Be_Lake_6464.jpg
+latitude: 22.410703
 loc_type: city
+longitude: 105.722868
+score: 0.59
+title: Ba Be National Park
+type: location
 ---
 
 Ba Be National Park, in Bac Kan province about 250 km north of Hanoi, is centred on Ba Be Lake — the name means "three lakes", though the lake is a single continuous body of water 8 km long and up to 800 m wide. At 178 m above sea level, it is Vietnam's only significant natural mountain lake. The park covers 7,610 ha of limestone karst landscape, with peaks rising to over 1,000 m, deep river valleys, and dozens of caves, the largest being Phuong Cave, through which the Nang river flows.

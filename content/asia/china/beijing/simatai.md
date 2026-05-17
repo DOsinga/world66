@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: simatai.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_Simatai_8327.jpg
 latitude: 39.781429
+loc_type: city
 longitude: 115.625229
+score: 0.57
 title: Simatai
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Simatai is one of the few sections of the Great Wall that has been left largely unrestored, and that is exactly its appeal. The wall here is steep and crumbling in places, with watchtowers perched on narrow ridges that drop away sharply on both sides. It feels like the real thing in a way that the polished sections at Badaling never will. A hiking trail connects Simatai to the Jinshanling section, a roughly three-hour walk along the wall with some of the best views anywhere on the structure.

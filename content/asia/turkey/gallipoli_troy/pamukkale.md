@@ -1,12 +1,15 @@
 ---
-title: Pamukkale
-type: location
-latitude: 37.92
-longitude: 29.1218
 done:
   location_cleanup: 2026-04-06
-score: 0.7
+image: pamukkale.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68.jpg
+latitude: 37.92
 loc_type: city
+longitude: 29.1218
+score: 0.7
+title: Pamukkale
+type: location
 ---
 
 Pamukkale — "cotton castle" in Turkish — is one of Turkey's most extraordinary natural sights: a hillside of brilliant white travertine terraces formed over millennia by calcium-rich thermal springs. The warm, mineral-laden water flows down the slope, depositing limestone as it goes, creating a cascade of shallow turquoise pools that look like something from another planet.

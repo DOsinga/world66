@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -33.993238
+loc_type: city
 longitude: 22.578632
+score: 0.57
 title: Wilderness
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Wilderness sits on a long, wide beach between the Kaaimans River mouth and the Touw River lagoon, roughly halfway along the [Garden Route](/africa/southafrica/gardenroute). The name is apt — the setting is genuinely wild, backed by forested hills and fronted by the Indian Ocean.

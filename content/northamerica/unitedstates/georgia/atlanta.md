@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
+image: atlanta.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:A2ATL20250614-0721_(cropped).jpg
 latitude: 33.7545
+loc_type: city
 longitude: -84.3898
 score: 0.53
 title: Atlanta
 type: location
-loc_type: city
 ---
 
 Atlanta is the capital of Georgia and the largest city in the American South, a sprawling, car-dependent metropolis with a surprisingly good cultural centre. Downtown holds the Georgia Aquarium, the World of Coca-Cola museum, and Centennial Olympic Park, remnant of the 1996 Games. Midtown has the High Museum of Art and the Atlanta Botanical Garden. The Martin Luther King Jr. National Historic Site in Sweet Auburn is one of the more affecting memorial sites in the country.

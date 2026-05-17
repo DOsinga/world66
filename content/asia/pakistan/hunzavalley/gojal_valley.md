@@ -1,12 +1,15 @@
 ---
-title: Gojal Valley
-type: location
-latitude: 36.446
-longitude: 74.879
 done:
   location_cleanup: 2026-04-05
-score: 0.55
+image: gojal_valley.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Batura_Glacier.jpg
+latitude: 36.446
 loc_type: region
+longitude: 74.879
+score: 0.55
+title: Gojal Valley
+type: location
 ---
 
 Gojal, also known as **Upper Hunza**, is the highest and most remote part of the Hunza Valley, stretching along the Karakoram Highway from just beyond Attabad Lake all the way north to the Chinese border at Khunjerab Pass. At 8,500 square kilometres, it is the largest tehsil in Gilgit-Baltistan, and the least populated — around 20,000 people live here, most of them in small villages strung along the Hunza River and its tributaries, at altitudes of 2,300 to nearly 4,900 metres. The valley shares borders with China (via the famous Khunjerab, Kilik and Mintaka passes) and with the Wakhan Corridor of Afghanistan (via the Irshad Pass).

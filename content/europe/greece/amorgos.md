@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: amorgos.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Chora_Amorgos_7231.JPG
 latitude: 36.8525
+loc_type: city
 longitude: 25.8985
+score: 0.69
 title: Amorgos
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here — ferries from Naxos or Piraeus are not quick.

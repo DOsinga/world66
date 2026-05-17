@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 33.0
+loc_type: region
 longitude: 130.5
 score: 0.75
 title: Kyushu
 type: location
-loc_type: region
 ---
 
 Kyushu is the southernmost of Japan's four main islands, and the one that feels least like the rest of the country. Volcanoes still smoke here, hot springs steam from every other hillside, and centuries of trade with [China](/asia/china), Korea, and the early Europeans have left a layer of foreign influence you will not find on [Honshu](/asia/japan/honshu). It is greener, warmer, and more relaxed — a place where Japan turns its back on Tokyo and looks south.

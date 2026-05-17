@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
+image: brisbane.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brisbane_CBD_seen_from_Kangaroo_Point,_2024,_01_(2).jpg
 latitude: -27.465991
+loc_type: city
 longitude: 153.020563
 score: 0.61
 title: Brisbane
 type: location
-loc_type: city
 ---
 
 Brisbane is the capital of Queensland and Australia's third-largest city, built along the looping bends of the Brisbane River about 25 km upstream from Moreton Bay. The subtropical climate — warm and sunny for most of the year — shapes city life, and the outdoor spaces along the river are heavily used. The South Bank Parklands, built on the site of Expo 88 on the south bank of the river, contain a free riverside beach, galleries, and a good cafe strip.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: viareggio.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Viareggio.jpg
 latitude: 43.867239
+loc_type: city
 longitude: 10.250606
+score: 0.57
 title: Viareggio
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Viareggio is the largest town on the Versilia coast in northern Tuscany — an old seaside resort and boating centre with a long sand beach lined with private bathing establishments (you can buy a day pass) and a boardwalk packed with designer shops and cafés. The town's Carnival is one of the biggest in Italy, with enormous papier-mâché floats parading through the streets each February.

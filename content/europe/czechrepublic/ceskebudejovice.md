@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 48.974736
+loc_type: city
 longitude: 14.474285
+score: 0.52
 title: České Budějovice
 type: location
-score: 0.52
-loc_type: city
 ---
 
 České Budějovice is the regional capital of South Bohemia, best known internationally as the home of Budvar — Budweiser Budvar — one of Czech's most famous breweries and the source of a long-running trademark dispute with the American Anheuser-Busch. The Budvar brewery runs tours and has a good tap room on site.

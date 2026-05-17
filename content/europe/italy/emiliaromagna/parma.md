@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: parma.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Parma-pjt7.jpg
 latitude: 44.695201
+loc_type: city
 longitude: 10.097987
+score: 0.64
 title: Parma
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Parma is famous worldwide for two things: Parmigiano-Reggiano cheese and Prosciutto di Parma. But this elegant city in Emilia-Romagna has much more to offer than its culinary reputation suggests.

@@ -3,11 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
 latitude: 4.598682
+loc_type: city
 longitude: 101.090024
 score: 0.58
 title: Ipoh
 type: location
-loc_type: city
 ---
 
 Ipoh is the capital of Perak state, halfway between Kuala Lumpur and Penang on the main highway north. For most of the twentieth century it was one of the richest cities in Southeast Asia, built on the Kinta Valley's enormous tin deposits; locals still sometimes call it the City of Millionaires, and the grand colonial facades of the Old Town date from the period when Ipoh's tin barons were the wealthiest Chinese outside China. When the tin price collapsed in 1985 the boom ended, and Ipoh slid into a long, genteel sleep — which turns out to have been a blessing, because the old town has been preserved almost intact.

@@ -1,13 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: pilion.jpg
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Pilion_with_monastery_pau.JPG
 latitude: 39.365088
+loc_type: city
 longitude: 23.135561
+score: 0.59
 title: Pilion
 todo_location_cleanup: done
 type: location
-score: 0.59
-loc_type: city
 ---
 
 The Pelion peninsula (also spelled Pilion) curves into the Aegean Sea east of Volos, its spine draped in thick chestnut and apple orchards that give way to dramatic clifftops above the sea. In Greek mythology this was the home of the centaurs, and it still feels a little wild: cobbled kalderimi paths connect stone-built villages, each with a shaded central square and a church. It's popular with Greeks in summer but quiet enough the rest of the year to feel like a secret.

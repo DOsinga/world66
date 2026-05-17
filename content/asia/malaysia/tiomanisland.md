@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+image: tiomanisland.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tioman_island_(3679435126).jpg
 latitude: 2.806544
+loc_type: region
 longitude: 104.172156
 score: 0.64
 title: Tioman Island
 type: location
-loc_type: region
 ---
 
 Pulau Tioman is one of the most beautiful islands off the east coast of Peninsular Malaysia. According to local legend, the island is a dragon princess who stopped here on her way from China to Singapore, fell in love with the spot, and transformed herself into land to shelter passing travellers. The shape of the island, with its twin granite peaks, does look vaguely like a sleeping dragon if you squint.

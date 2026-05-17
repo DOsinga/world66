@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: smokymountains.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Clifftops4-7-07.jpg
 latitude: 35.63422
+loc_type: region
 longitude: -83.402366
+score: 0.64
 title: Smoky Mountains
 type: location
-score: 0.64
-loc_type: region
 ---
 
 Great Smoky Mountains National Park straddles the border between North Carolina and Tennessee, encompassing 800 square miles of which 95 percent is forested. It is the most visited national park in the United States, renowned for the diversity of its plant and animal life, the beauty of its ancient mountains, the remnants of Southern Appalachian culture, and the depth of its wilderness.

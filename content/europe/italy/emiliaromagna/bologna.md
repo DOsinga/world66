@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-21'
+image: bologna.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Torri_di_Bologna,_Bologna.jpg
 latitude: 44.49382
+loc_type: city
 longitude: 11.342633
 score: 0.69
 title: Bologna
 type: location
-loc_type: city
 ---
 
 This fine city merits more than just a one-night visit. Bologna (pop. 422,000) has gardens, museums, parks, fine buildings, churches, and miles of shopping streets -- and don't forget the great food. Sometimes called "Bologna the fat," this city is a great place to indulge yourself.

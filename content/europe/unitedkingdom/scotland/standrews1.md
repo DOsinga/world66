@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 56.34039
+loc_type: city
 longitude: -2.795584
+score: 0.68
 title: St. Andrews
 type: location
-score: 0.68
-loc_type: city
 ---
 
 St. Andrews is a compact Scottish town where medieval history, world-class golf, and a lively university all sit within walking distance of each other. Everything here is close together, and that is a large part of its charm.

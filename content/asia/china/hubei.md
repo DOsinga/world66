@@ -6,6 +6,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Hubei
 title: Hubei Province
 type: location
+image: hubei.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon.jpg
+image_license: CC0
+image_attribution: Unknown author
 ---
 
 Hubei sits at the heart of China, literally and historically. The Yangtze River cuts through it from west to east, and it was the construction of the Three Gorges Dam — the world's largest power station — that brought Hubei to global attention in the 1990s and flooded the most dramatic section of the river. The gorges still exist and are still impressive; they are just less dramatic than they were before the reservoir rose.
@@ -15,7 +19,3 @@ Hubei sits at the heart of China, literally and historically. The Yangtze River 
 West of Wuhan, the Wudang Mountains are the spiritual home of Taoist martial arts. The mountain complex of ancient temples and monasteries, founded in the Tang dynasty, is where Tai Chi is said to have originated. The setting — mist-shrouded peaks, winding paths, dramatic drops — is as striking as any sacred mountain in China.
 
 The Three Gorges Dam itself, at Yichang, is worth a stop if you are heading upriver. You can take a boat from Yichang through the gorges to Chongqing; it is one of the great river journeys in Asia, even if the scale is not quite what it once was.
-
-## Destinations in Hubei Province
-
-[Wuhan](/asia/china/hubei/wuhan)

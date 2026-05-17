@@ -7,6 +7,10 @@ longitude: 117.062222
 score: 0.6
 title: Fujian Tulou
 type: location
+image: tulou.jpg
+image_source: https://commons.wikimedia.org/wiki/File:China_Fujian_Yongding_Tulou_Fuyulou_Guesthouse.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Lennartbj
 ---
 
 The Fujian Tulou are among the most extraordinary domestic buildings anywhere in the world. These massive circular (and sometimes square or oval) earthen fortress-houses were built by the Hakka people from the 12th century onward in the mountainous western interior of Fujian, each one housing an entire clan community under one shared roof. A large tulou might be four or five storeys tall, with a diameter of 70 metres, enclosing a central courtyard with a well and an ancestral hall. The outer walls, up to 1.8 metres thick, had no ground-floor windows — a deliberate design against raids. Inside, hundreds of people lived in interconnected rooms arranged in rings. UNESCO inscribed 46 of them in 2008.

@@ -19,11 +19,3 @@ Located in the south-east of China, Jiangxi province is known for its scenic bea
 
 Also of interest is the availability of fine teas. Ningzhou produces a famous black tea, and Wuyuan produces a fine green tea. Adventurers who visit Lu Shan will have the chance to sample the highly prized Cloud-Mist tea.
 
-## Destinations in Jiangxi
-
-- [Nanchang](/asia/china/jiangxi/nanchang) — The provincial capital and "Heroes' City," where the 1927 Communist uprising began; the Tengwang Pavilion and noodle breakfasts are highlights.
-- [Jingdezhen](/asia/china/jiangxi/jingdezhen) — The porcelain capital of the world, with ancient kilns, a thriving artist community, and opportunities to try your hand at the wheel.
-- [Lushan](/asia/china/jiangxi/lushan) — A UNESCO World Heritage mountain of mist, waterfalls, and layered history from colonial hill station to Maoist politics.
-- [Wuyuan](/asia/china/jiangxi/wuyuan) — Ancient Huizhou villages, green tea country, and spring rapeseed fields that flood the valleys in yellow.
-- [Mount Longhu](/asia/china/jiangxi/mount_longhu) — The cradle of Celestial Masters Taoism, with dramatic Danxia red-rock cliffs and 2,500-year-old cliff-face coffins.
-- [Jinggangshan](/asia/china/jiangxi/jinggangshan) — Revolutionary mountain and Mao's first base, with striking forested ridges and a deeply earnest atmosphere.

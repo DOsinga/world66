@@ -31,6 +31,7 @@ from pathlib import Path
 import frontmatter
 import shapely
 from shapely.geometry import MultiPoint, MultiPolygon, Point, Polygon, shape, mapping
+from shapely.ops import unary_union
 from shapely.strtree import STRtree
 
 SCRIPT_DIR = Path(__file__).parent
@@ -234,11 +235,15 @@ def kmeans_seeds(locs: list[Loc], k: int, n_iters: int = 15) -> list[tuple[float
 
 
 def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> list[dict]:
-    """Split a high-importance subunit via Voronoi seeded by importance-weighted
-    k-means centroids. Centroids drift toward where cities actually cluster,
-    so dense areas with no single dominant city (northern Germany, the
-    Randstad, …) get their own region centred on the cluster, not snapped to
-    a far-away tourist hotspot.
+    """Split a high-importance subunit into K regions with organic borders.
+
+    1. Importance-weighted k-means picks K centroids.
+    2. Each location is labelled by its nearest centroid.
+    3. We compute the Voronoi diagram over every location (not just the K
+       centroids), then merge cells that share a label. The resulting
+       boundaries wind through the actual city tessellation instead of running
+       as straight lines between centroids.
+    4. Clip the merged regions to the subunit polygon.
 
     Returns a list of region dicts. Each region has: name, parent, geom, locs.
     """
@@ -253,11 +258,37 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    points = MultiPoint(list(centroids))
+    # Label each location by its nearest centroid.
+    labels: list[int] = []
+    for loc in locs:
+        best_i, best_d = 0, float("inf")
+        for i, (cx, cy) in enumerate(centroids):
+            d = (cx - loc.lon) ** 2 + (cy - loc.lat) ** 2
+            if d < best_d:
+                best_d, best_i = d, i
+        labels.append(best_i)
+
+    # Voronoi over every location, so cell borders track real density.
+    # Deduplicate coincident points: Voronoi treats them as one cell, which
+    # would desynchronise the cells/locs zip below.
+    coord_keys: list[tuple[float, float]] = []
+    seen_coords: dict[tuple[float, float], int] = {}
+    unique_indices: list[int] = []
+    dup_to_keeper: dict[int, int] = {}
+    for i, l in enumerate(locs):
+        key = (round(l.lon, 5), round(l.lat, 5))
+        if key in seen_coords:
+            dup_to_keeper[i] = seen_coords[key]
+            continue
+        seen_coords[key] = i
+        unique_indices.append(i)
+        coord_keys.append(key)
+
+    unique_points = MultiPoint([(locs[i].lon, locs[i].lat) for i in unique_indices])
     envelope = subunit["geom"].buffer(5.0).envelope  # generous so cells extend past borders
 
     try:
-        voronoi = shapely.voronoi_polygons(points, extend_to=envelope, ordered=True)
+        voronoi = shapely.voronoi_polygons(unique_points, extend_to=envelope, ordered=True)
         cells = list(voronoi.geoms)
     except Exception as e:
         print(f"voronoi failed for {subunit['name']}: {e}", file=sys.stderr)
@@ -268,8 +299,8 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    if len(cells) != len(centroids):
-        print(f"cell/seed mismatch in {subunit['name']}: {len(cells)} cells, {len(centroids)} centroids",
+    if len(cells) != len(unique_indices):
+        print(f"cell/loc mismatch in {subunit['name']}: {len(cells)} cells, {len(unique_indices)} unique points",
               file=sys.stderr)
         return [{
             "name": subunit["name"],
@@ -278,19 +309,27 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    # Clip each cell to the subunit polygon.
+    # Group cells by which centroid label their seed location was assigned to,
+    # then merge each group into a single (multi)polygon. Borders inside the
+    # subunit then follow the Voronoi tessellation between actual locations.
+    cells_by_label: dict[int, list] = defaultdict(list)
+    for cell, loc_i in zip(cells, unique_indices):
+        cells_by_label[labels[loc_i]].append(cell)
+
     regions = []
-    for i, (centroid, cell) in enumerate(zip(centroids, cells)):
-        clipped = cell.intersection(subunit["geom"])
+    for label, label_cells in cells_by_label.items():
+        merged = unary_union(label_cells)
+        clipped = merged.intersection(subunit["geom"])
         polys = safe_polygon_list(clipped)
         if not polys:
             continue
-        clipped_geom = polys[0] if len(polys) == 1 else MultiPolygon(polys)
+        merged_geom = polys[0] if len(polys) == 1 else MultiPolygon(polys)
         regions.append({
-            "name": None,  # set below from the cluster's top loc
+            "name": None,
             "parent": subunit["name"],
-            "geom": clipped_geom,
-            "centroid": centroid,
+            "geom": merged_geom,
+            "centroid": centroids[label],
+            "label": label,
             "locs": [],
         })
 
@@ -302,26 +341,27 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    # Assign every loc to its nearest centroid (faster than point-in-polygon and
-    # robust against floating-point gaps at cell boundaries).
-    centroid_coords = [r["centroid"] for r in regions]
-    for loc in locs:
-        best_i = 0
-        best_d = float("inf")
-        for i, (lon, lat) in enumerate(centroid_coords):
-            d = (lon - loc.lon) ** 2 + (lat - loc.lat) ** 2
-            if d < best_d:
-                best_d = d
-                best_i = i
-        regions[best_i]["locs"].append(loc)
+    # Re-assign every loc into the region matching its centroid label (the
+    # same labels used above), keeping the loc-grouping deterministic.
+    label_to_region = {r["label"]: r for r in regions}
+    for i, loc in enumerate(locs):
+        r = label_to_region.get(labels[i])
+        if r is not None:
+            r["locs"].append(loc)
 
-    # Name each region after its highest-scoring location (centroids are mass
-    # centres, not actual cities, so we can't name after the seed itself).
+    # Name each region after its highest-scoring city (centroids are mass
+    # centres, not actual cities). Skip the country/continent page if it
+    # happens to land in the cell — naming a sub-region "Iceland" because the
+    # Iceland country page is in it would be confusing.
     for r in regions:
-        if r["locs"]:
-            top = max(r["locs"], key=lambda l: l.score)
-            r["name"] = top.title
-        else:
+        named = False
+        for cand in sorted(r["locs"], key=lambda l: -l.score):
+            if cand.loc_type in ("country", "continent"):
+                continue
+            r["name"] = cand.title
+            named = True
+            break
+        if not named:
             r["name"] = subunit["name"]
 
     return regions
@@ -344,13 +384,25 @@ def build_regions() -> tuple[list[dict], dict[str, dict]]:
     print(f"Budget per region: {BUDGET:,.0f}", file=sys.stderr)
 
     print("Building regions...", file=sys.stderr)
+    def name_from_top_city(su_locs: list[Loc], fallback: str) -> str:
+        for cand in sorted(su_locs, key=lambda l: -l.score):
+            if cand.loc_type in ("country", "continent"):
+                continue
+            # Only override the NE name when the city is clearly worth
+            # naming — otherwise tiny island subunits with one low-score
+            # village would replace e.g. "Bornholm" with that village name.
+            if cand.score >= 0.45:
+                return cand.title
+            break
+        return fallback
+
     regions: list[dict] = []
     for su in subunits:
         su_locs = assigned.get(su["su_a3"], [])
         total = sum(l.importance for l in su_locs)
         if total <= BUDGET or len(su_locs) < 4:
             regions.append({
-                "name": su["name"],
+                "name": name_from_top_city(su_locs, su["name"]),
                 "parent": su["sovereign"] or su["name"],
                 "geom": su["geom"],
                 "locs": su_locs,

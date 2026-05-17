@@ -1,20 +1,17 @@
 {% extends "guide/base.html" %}
 {% load static %}
 
-{% block title %}World Regions — World66{% endblock %}
+{% block title %}Visited Places — World66{% endblock %}
 
 {% block body_style %}
 <style>
-  /* Override the guide's grid layout for #content / #page so we get a real
-     full-viewport map. The topnav stays on top; everything else fills the
-     space below it. */
   body { overflow: hidden; }
   #page, #content, main#main { all: revert; }
   #footer { display: none; }
 
   .regions-layout {
     position: fixed;
-    top: 64px;  /* matches .topnav height (14px padding + ~36px content) */
+    top: 64px;
     left: 0;
     right: 0;
     bottom: 0;
@@ -24,7 +21,7 @@
   #regions-map {
     flex: 1;
     height: 100%;
-    background: #aad3df;
+    background: #d6e6ec;
   }
 
   #regions-panel {
@@ -63,6 +60,24 @@
     margin-bottom: 1rem;
   }
 
+  .visited-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0.5rem 0 1.2rem;
+    padding: 0.6rem 0.75rem;
+    background: #f5f5f5;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .visited-row input[type="checkbox"] {
+    transform: scale(1.25);
+    cursor: pointer;
+  }
+
   .region-loc {
     border-top: 1px solid #eee;
     padding: 0.75rem 0;
@@ -97,9 +112,21 @@
     line-height: 1.4;
   }
 
+  .stats {
+    color: #888;
+    font-size: 0.8rem;
+    margin: 0 0 1rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.6rem;
+  }
+
   .leaflet-container {
     font-family: Inter, system-ui, sans-serif;
   }
+
+  /* Suppress the browser's blue focus ring on clicked polygons; the heavy
+     black border from our selected-style is the only emphasis we want. */
+  .leaflet-interactive:focus { outline: none; }
 </style>
 {% endblock %}
 
@@ -107,6 +134,7 @@
 <div class="regions-layout">
   <div id="regions-map"></div>
   <aside id="regions-panel">
+    <div class="stats" id="stats">Click a region to mark it visited.<br>Double-click to toggle without opening.</div>
     <p class="placeholder">Click a region on the map to see its top destinations.</p>
   </aside>
 </div>
@@ -115,6 +143,7 @@
 <script>
 (async function() {
   const panel = document.getElementById('regions-panel');
+  const stats = document.getElementById('stats');
   function fatal(msg) {
     panel.innerHTML = '<p class="placeholder" style="color:#a33">'+msg+'</p>';
     console.error(msg);
@@ -124,9 +153,17 @@
     fatal('JS error: ' + detail);
   });
 
+  // Persistent visited set — kept in localStorage so it survives reloads.
+  const STORE_KEY = 'world66.visited';
+  const visited = new Set(JSON.parse(localStorage.getItem(STORE_KEY) || '[]'));
+  function saveVisited() {
+    localStorage.setItem(STORE_KEY, JSON.stringify([...visited]));
+  }
+
   const map = L.map('regions-map', {
     worldCopyJump: true,
     minZoom: 2,
+    doubleClickZoom: false,  // we use dblclick to toggle visited
   }).setView([25, 10], 3);
 
   L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
@@ -149,22 +186,46 @@
   }
   console.log('regions loaded:', geo.features.length, 'data entries:', Object.keys(data).length);
 
-  // Deterministic color per parent (sovereign / country).
-  function parentColor(parent) {
+  // HSL hue stays deterministic per parent; visited toggles saturation+lightness.
+  function parentHue(parent) {
     let h = 0;
     for (let i = 0; i < parent.length; i++) h = (h * 31 + parent.charCodeAt(i)) >>> 0;
-    return `hsl(${h % 360}, 55%, 70%)`;
+    return h % 360;
+  }
+  function styleFor(feature, isSelected) {
+    const id = feature.properties.id;
+    const v = visited.has(id);
+    const hue = parentHue(feature.properties.parent || feature.properties.name);
+    return {
+      fillColor: v ? `hsl(${hue}, 65%, 50%)` : `hsl(${hue}, 18%, 78%)`,
+      fillOpacity: v ? 0.75 : 0.40,
+      weight: isSelected ? 2.2 : 0.5,
+      color: isSelected ? '#111' : (v ? '#333' : '#999'),
+    };
   }
 
   let selectedLayer = null;
-  const baseStyle = (feature) => ({
-    fillColor: parentColor(feature.properties.parent || feature.properties.name),
-    weight: 0.6,
-    color: '#444',
-    fillOpacity: 0.55,
-  });
-  const hoverStyle = { weight: 1.5, color: '#111', fillOpacity: 0.75 };
-  const selectedStyle = { weight: 2.5, color: '#000', fillOpacity: 0.85 };
+  const layersById = {};
+
+  function restyle(lyr) {
+    lyr.setStyle(styleFor(lyr.feature, lyr === selectedLayer));
+  }
+
+  function updateStats() {
+    stats.innerHTML = `<strong>${visited.size}</strong> of ${geo.features.length} regions visited.
+      <br><span style="opacity:0.8">Single-click: details. Double-click: toggle visited.</span>`;
+  }
+
+  function setVisited(id, val) {
+    if (val) visited.add(id); else visited.delete(id);
+    saveVisited();
+    const lyr = layersById[id];
+    if (lyr) restyle(lyr);
+    updateStats();
+    // If panel is on this region, sync the checkbox.
+    const cb = document.getElementById('visited-cb');
+    if (cb && cb.dataset.id === id) cb.checked = val;
+  }
 
   function renderPanel(regionId) {
     const info = data[regionId];
@@ -172,11 +233,17 @@
       panel.innerHTML = '<p class="placeholder">No data for this region.</p>';
       return;
     }
-    let html = `<h2>${escapeHtml(info.name)}</h2>`;
+    const v = visited.has(regionId);
+    let html = `<div class="stats" id="stats"></div>`;
+    html += `<h2>${escapeHtml(info.name)}</h2>`;
     if (info.parent && info.parent !== info.name) {
       html += `<div class="parent">${escapeHtml(info.parent)}</div>`;
     }
-    html += `<div class="meta">${info.n_locs} scored ${info.n_locs === 1 ? 'destination' : 'destinations'} in this region</div>`;
+    html += `<label class="visited-row">
+      <input type="checkbox" id="visited-cb" data-id="${escapeAttr(regionId)}" ${v ? 'checked' : ''}>
+      <span>I've visited this region</span>
+    </label>`;
+    html += `<div class="meta">${info.n_locs} scored ${info.n_locs === 1 ? 'destination' : 'destinations'}</div>`;
     if (info.top_locations.length === 0) {
       html += '<p class="placeholder">No destinations indexed in this region yet.</p>';
     } else {
@@ -194,6 +261,13 @@
       }
     }
     panel.innerHTML = html;
+    document.getElementById('visited-cb').addEventListener('change', (e) => {
+      setVisited(regionId, e.target.checked);
+    });
+    const s = panel.querySelector('#stats');
+    if (s) {
+      s.innerHTML = `<strong>${visited.size}</strong> of ${geo.features.length} regions visited.`;
+    }
   }
 
   function escapeHtml(s) {
@@ -203,38 +277,154 @@
   }
   function escapeAttr(s) { return escapeHtml(s); }
 
+  updateStats();
+
   let layer;
   try {
     layer = L.geoJSON(geo, {
-      style: baseStyle,
-    onEachFeature: (feature, lyr) => {
-      const id = feature.properties.id;
-      const name = feature.properties.name;
-      lyr.bindTooltip(name, { sticky: true, direction: 'top' });
-      lyr.on('mouseover', () => {
-        if (lyr !== selectedLayer) lyr.setStyle(hoverStyle);
-      });
-      lyr.on('mouseout', () => {
-        if (lyr !== selectedLayer) layer.resetStyle(lyr);
-      });
-      lyr.on('click', () => {
-        if (selectedLayer && selectedLayer !== lyr) {
-          layer.resetStyle(selectedLayer);
-        }
-        selectedLayer = lyr;
-        lyr.setStyle(selectedStyle);
-        renderPanel(id);
-        try {
-          map.fitBounds(lyr.getBounds(), { padding: [40, 40], maxZoom: 8 });
-        } catch (e) { /* tiny degenerate region */ }
-      });
-    },
+      style: (f) => styleFor(f, false),
+      onEachFeature: (feature, lyr) => {
+        const id = feature.properties.id;
+        const name = feature.properties.name;
+        layersById[id] = lyr;
+        // No bindTooltip — Leaflet 1.9.4 has a known crash on MultiPolygon
+        // tooltips (_setAriaDescribedByOnLayer reads _container.id of
+        // undefined). The side panel and search dropdown show the name.
+
+        // Detect double-clicks to toggle visited; delay single-click so a
+        // double doesn't also open the panel.
+        let clickTimer = null;
+        lyr.on('click', () => {
+          if (clickTimer) return;
+          clickTimer = setTimeout(() => {
+            clickTimer = null;
+            selectRegion(id);
+          }, 230);
+        });
+        lyr.on('dblclick', () => {
+          if (clickTimer) { clearTimeout(clickTimer); clickTimer = null; }
+          setVisited(id, !visited.has(id));
+        });
+      },
     }).addTo(map);
   } catch (e) {
     fatal('Failed to render regions layer: ' + e.message);
     return;
   }
   console.log('layer added; sublayers:', layer.getLayers().length);
+
+  function selectRegion(id) {
+    const lyr = layersById[id];
+    if (!lyr) return;
+    if (selectedLayer && selectedLayer !== lyr) {
+      const prev = selectedLayer;
+      selectedLayer = lyr;
+      restyle(prev);
+    } else {
+      selectedLayer = lyr;
+    }
+    restyle(lyr);
+    renderPanel(id);
+  }
+
+  // ===== Topnav search hijack =====
+  // Replace the global search (which hits /api/search) with a local region
+  // filter. We clone the input element to drop the base.html listeners.
+  (function hijackSearch() {
+    const form = document.querySelector('.site-search');
+    const dropdown = document.getElementById('header-search-dropdown');
+    if (!form || !dropdown) return;
+    const oldInput = form.querySelector('input[name="q"]');
+    if (!oldInput) return;
+    const input = oldInput.cloneNode(true);
+    oldInput.parentNode.replaceChild(input, oldInput);
+    input.placeholder = 'Search regions…';
+
+    form.addEventListener('submit', (e) => e.preventDefault());
+
+    const regionList = Object.entries(data).map(([id, r]) => ({
+      id, name: r.name, parent: r.parent,
+    }));
+
+    let cursor = -1;
+    let lastResults = [];
+
+    function closeDropdown() {
+      dropdown.innerHTML = '';
+      dropdown.style.display = 'none';
+      cursor = -1;
+      lastResults = [];
+    }
+
+    function render(q) {
+      const needle = q.toLowerCase();
+      const matches = regionList.filter(r =>
+        r.name.toLowerCase().includes(needle) ||
+        r.parent.toLowerCase().includes(needle)
+      ).slice(0, 12);
+      lastResults = matches;
+      if (!matches.length) { closeDropdown(); return; }
+      dropdown.innerHTML = matches.map((r, i) => `
+        <li>
+          <a href="#" data-id="${escapeAttr(r.id)}" data-idx="${i}">
+            ${escapeHtml(r.name)}
+            <span class="search-result-location">${escapeHtml(r.parent)}</span>
+          </a>
+        </li>
+      `).join('');
+      dropdown.style.display = 'block';
+      cursor = -1;
+      // Attach click handlers
+      dropdown.querySelectorAll('a').forEach(a => {
+        a.addEventListener('click', (e) => {
+          e.preventDefault();
+          const id = a.dataset.id;
+          input.value = '';
+          closeDropdown();
+          selectRegion(id);
+        });
+      });
+    }
+
+    let timer;
+    input.addEventListener('input', () => {
+      clearTimeout(timer);
+      const q = input.value.trim();
+      if (!q) { closeDropdown(); return; }
+      timer = setTimeout(() => render(q), 80);
+    });
+
+    input.addEventListener('keydown', (e) => {
+      const items = dropdown.querySelectorAll('li a');
+      if (!items.length) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        cursor = Math.min(cursor + 1, items.length - 1);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        cursor = Math.max(cursor - 1, -1);
+      } else if (e.key === 'Escape') {
+        closeDropdown();
+        return;
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        const idx = cursor >= 0 ? cursor : 0;
+        if (lastResults[idx]) {
+          input.value = '';
+          closeDropdown();
+          selectRegion(lastResults[idx].id);
+        }
+        return;
+      } else {
+        return;
+      }
+      items.forEach((a, i) => a.parentNode.classList.toggle('active', i === cursor));
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.site-search-wrap')) closeDropdown();
+    });
+  })();
 })();
 </script>
 {% endblock %}

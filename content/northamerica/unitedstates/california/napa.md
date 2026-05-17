@@ -6,7 +6,7 @@ longitude: -122.321841
 done:
   location_cleanup: 2026-04-05
 score: 0.59
-loc_type: region
+loc_type: city
 ---
 
 Napa is the largest town in the Napa Valley, about an hour's drive north of San Francisco. The valley floor is carpeted with vineyards between the Mayacamas and Vaca mountain ranges, and most visitors come to taste wine, eat well, and not much else. There are over 400 wineries in the valley, ranging from vast industrial operations to small family estates; the smaller ones are generally more rewarding to visit.

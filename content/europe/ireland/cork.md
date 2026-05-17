@@ -6,7 +6,7 @@ longitude: -8.472642
 score: 0.61
 title: Cork
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Cork is Ireland's second city and the capital of Munster, a compact and hilly place built on islands in the River Lee estuary. The city centre sits between two channels of the river, with the streets rising steeply on both banks. It has a distinct character — more relaxed than Dublin, proudly independent, and genuinely proud of its food culture, its pubs, and its hurling team.

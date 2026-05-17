@@ -2,4 +2,4 @@ northamerica/unitedstates/texas/san_angelo
 africa/mauritius/montchoisi
 europe/italy/lombardia/brescia
 europe/norway/vardo
-northamerica/unitedstates/california/sandiego/solanabeach
+northamerica/unitedstates/california/solanabeach

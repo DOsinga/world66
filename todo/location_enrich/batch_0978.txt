@@ -2,4 +2,7 @@ europe/switzerland/grindelwald
 africa/liberia/monrovia
 asia/india/maharashtra/vengurla
 asia/india/madhyapradesh/jabalpur
-europe/germany/berlin/schoneberg
+asia/japan/kyushu/kitakyushu
+europe/albania/saranda
+europe/russia/krasnodar
+southamerica/peru/chachapoyas

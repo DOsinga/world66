@@ -1,5 +1,8 @@
 europe/poland/bielsko
-europe/italy/puglia/bari/mungivacca
 southamerica/chile/concepcion
 europe/sweden/ludvika
 europe/greece/vergina
+africa/southafrica/capetown
+asia/pakistan/skardu
+europe/italy/abruzzo/teramo
+northamerica/unitedstates/california/napa

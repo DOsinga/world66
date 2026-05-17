@@ -7,7 +7,7 @@ longitude: -77.8689
 score: 0.59
 title: Chachapoyas
 type: location
-loc_type: region
+loc_type: city
 ---
 
 Chachapoyas is a small Andean city of about 30,000 people in the remote Amazonas region of northern Peru, at 2,335 metres above sea level. It is one of those places that serious Peru travellers have been whispering about for years: hard to reach, surrounded by extraordinary pre-Inca ruins, and almost entirely free of the tourist infrastructure that crowds the southern circuit of Cusco, Machu Picchu, and the Sacred Valley. The Chachapoyas civilisation — the "Warriors of the Clouds," as the Incas called them — built some of the most impressive and least-known archaeological sites in the Americas, and the surrounding cloudforest landscape is stunning.

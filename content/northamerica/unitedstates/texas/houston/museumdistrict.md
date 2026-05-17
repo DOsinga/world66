@@ -4,7 +4,7 @@ done:
 latitude: 29.7247
 longitude: -95.3878
 title: Museum District
-type: location
+type: neighbourhood
 score: 0.48
 loc_type: city
 ---

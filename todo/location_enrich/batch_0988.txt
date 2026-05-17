@@ -1,5 +1,5 @@
 europe/spain/galicia/pontevedra
-asia/pakistan/skardu/khaplu
+asia/pakistan/khaplu
 europe/lithuania/kaunas
 europe/russia/chuvashia/cheboksary
 asia/india/maharashtra/shirdi

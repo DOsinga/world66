@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - neighbourhood
 - market
+- stockbridge
 title: Stockbridge
 type: poi
 ---

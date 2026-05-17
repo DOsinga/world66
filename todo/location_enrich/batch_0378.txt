@@ -1,5 +1,5 @@
 asia/india/arunachalpradesh/dirang
 europe/norway/lofotenislands/kabelvg
-europe/ireland/sligo/rossespoint
+europe/ireland/rossespoint
 europe/sweden/arvidsjaur
-asia/japan/kyushu/kitakyushu/moji
+asia/japan/kyushu/moji

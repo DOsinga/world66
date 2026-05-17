@@ -1,17 +1,6 @@
 ---
-done:
-  poi_cleanup: '2026-04-19'
 title: Eating Out
-type: poi
+type: section
 ---
 
-If you've been in China for a while and are looking for a little Western cuisine, then Xi Jie (West St.) is the place to go. Restaurants and cafes line the street along with vendors of all sorts. If you would like Chinese food I recommend finding someplace on another street. They may or may not have English speakers, but everyplace on West St. will speak English.
-
-**Contributors**
-July 15, 2005
-
-### [Apple Crumble](/asia/china/guangxi/yangshuo/eating_out/hmn)
-
-One of the best things to eat in Yangshuo is the Apple Crumble in Drifters on West Street. Famous with all local western people in Yangshuo!
-
-type: European
+Yangshuo has an unusually wide food range for a town its size: the backpacker cafés on West Street serve pancakes and pasta, but the local Guilin cuisine is worth seeking out in the side streets and on the road toward the bus station. Beer fish (pijiu yu) — fresh river fish cooked in local beer with chilli and fermented black bean — is the dish specific to this stretch of the Li River.

@@ -24,6 +24,64 @@
     background: #d6e6ec;
   }
 
+  /* ── Map controls toolbar (bottom-left, above attribution) ── */
+  .map-toolbar {
+    position: absolute;
+    bottom: 28px;
+    left: 12px;
+    z-index: 1000;
+    display: flex;
+    gap: 6px;
+  }
+  .toolbar-group {
+    display: flex;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.18);
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+  }
+  .toolbar-btn {
+    padding: 5px 9px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #555;
+    letter-spacing: 0.02em;
+    transition: background 0.12s;
+    line-height: 1.3;
+    border-right: 1px solid #eee;
+    white-space: nowrap;
+  }
+  .toolbar-btn:last-child { border-right: none; }
+  .toolbar-btn:hover { background: #f5f5f5; }
+  .toolbar-btn.active { background: #1a1a1a; color: #fff; }
+
+  /* ── Leaflet zoom control ── */
+  .leaflet-control-zoom {
+    border: none !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.18) !important;
+    border-radius: 8px !important;
+    overflow: hidden;
+  }
+  .leaflet-control-zoom a {
+    background: #fff !important;
+    color: #333 !important;
+    border: none !important;
+    border-bottom: 1px solid #eee !important;
+    width: 32px !important;
+    height: 32px !important;
+    line-height: 32px !important;
+    font-size: 18px !important;
+    font-family: Inter, system-ui, sans-serif !important;
+    font-weight: 400 !important;
+  }
+  .leaflet-control-zoom a:last-child { border-bottom: none !important; }
+  .leaflet-control-zoom a:hover { background: #f5f5f5 !important; }
+
+  /* ── Right panel ── */
   #regions-panel {
     width: 380px;
     height: 100%;
@@ -36,7 +94,6 @@
     flex-direction: column;
   }
 
-  /* ── Global stats bar at top ── */
   #stats-bar {
     flex-shrink: 0;
     padding: 0.6rem 1.1rem;
@@ -62,7 +119,6 @@
   .stat-pill.visited { background: #d1ead9; color: #1a6b35; }
   .stat-pill.bucketlist { background: #fef3cd; color: #7a5500; }
 
-  /* ── Empty state ── */
   .panel-empty {
     flex: 1;
     display: flex;
@@ -77,7 +133,6 @@
   .panel-empty p { font-size: 0.95rem; line-height: 1.5; margin: 0; }
   .panel-empty .hint { margin-top: 0.5rem; font-size: 0.82rem; color: #bbb; }
 
-  /* ── Region detail ── */
   .region-detail {
     flex: 1;
     display: flex;
@@ -97,10 +152,7 @@
     background: linear-gradient(135deg, #e8eff4 0%, #d2e0e8 100%);
   }
 
-  .region-info {
-    padding: 1rem 1.1rem 0.5rem;
-  }
-
+  .region-info { padding: 1rem 1.1rem 0.5rem; }
   .region-parent {
     font-size: 0.75rem;
     font-weight: 600;
@@ -109,7 +161,6 @@
     color: #999;
     margin-bottom: 0.25rem;
   }
-
   .region-name {
     font-family: Fraunces, Georgia, serif;
     font-size: 1.6rem;
@@ -117,20 +168,13 @@
     margin: 0 0 0.2rem;
     color: #111;
   }
+  .region-meta { font-size: 0.8rem; color: #aaa; margin-bottom: 0.9rem; }
 
-  .region-meta {
-    font-size: 0.8rem;
-    color: #aaa;
-    margin-bottom: 0.9rem;
-  }
-
-  /* ── 3-state toggle ── */
   .state-toggle {
     display: flex;
     gap: 0.5rem;
     margin: 0 1.1rem 1rem;
   }
-
   .state-btn {
     flex: 1;
     display: flex;
@@ -150,29 +194,11 @@
   }
   .state-btn:active { transform: scale(0.95); }
   .state-btn .icon { font-size: 1.4rem; line-height: 1; }
+  .state-btn.active-none    { background: #f0f0f0; border-color: #ccc; color: #555; }
+  .state-btn.active-bucketlist { background: #fffbec; border-color: #f5c400; color: #7a5500; }
+  .state-btn.active-visited    { background: #e8f5ec; border-color: #3aaa5e; color: #1a5e33; }
 
-  .state-btn.active-none {
-    background: #f0f0f0;
-    border-color: #ccc;
-    color: #555;
-  }
-  .state-btn.active-bucketlist {
-    background: #fffbec;
-    border-color: #f5c400;
-    color: #7a5500;
-  }
-  .state-btn.active-visited {
-    background: #e8f5ec;
-    border-color: #3aaa5e;
-    color: #1a5e33;
-  }
-
-  /* ── Destination list ── */
-  .dest-list {
-    padding: 0 1.1rem 1.5rem;
-    flex: 1;
-  }
-
+  .dest-list { padding: 0 1.1rem 1.5rem; flex: 1; }
   .dest-list-label {
     font-size: 0.7rem;
     font-weight: 700;
@@ -181,7 +207,6 @@
     color: #bbb;
     margin-bottom: 0.5rem;
   }
-
   .dest-item {
     display: flex;
     align-items: flex-start;
@@ -192,44 +217,23 @@
     color: inherit;
   }
   .dest-item:hover .dest-title { text-decoration: underline; }
-
   .dest-thumb {
-    width: 52px;
-    height: 52px;
-    border-radius: 7px;
-    object-fit: cover;
-    flex-shrink: 0;
+    width: 52px; height: 52px;
+    border-radius: 7px; object-fit: cover; flex-shrink: 0;
     background: #e5e5e5;
   }
   .dest-thumb-placeholder {
-    width: 52px;
-    height: 52px;
-    border-radius: 7px;
-    flex-shrink: 0;
+    width: 52px; height: 52px;
+    border-radius: 7px; flex-shrink: 0;
     background: linear-gradient(135deg, #eef2f5 0%, #dce5eb 100%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.4rem;
-    color: #ccc;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.4rem; color: #ccc;
   }
-
   .dest-body { flex: 1; min-width: 0; }
-  .dest-title {
-    font-weight: 600;
-    font-size: 0.92rem;
-    color: #111;
-    line-height: 1.25;
-    margin-bottom: 0.2rem;
-  }
+  .dest-title { font-weight: 600; font-size: 0.92rem; color: #111; line-height: 1.25; margin-bottom: 0.2rem; }
   .dest-snippet {
-    font-size: 0.8rem;
-    color: #666;
-    line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    font-size: 0.8rem; color: #666; line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
 
   .leaflet-container { font-family: Inter, system-ui, sans-serif; }
@@ -239,7 +243,20 @@
 
 {% block content %}
 <div class="regions-layout">
-  <div id="regions-map"></div>
+  <div id="regions-map">
+    <div class="map-toolbar" id="map-toolbar" style="display:none">
+      <div class="toolbar-group" id="palette-group">
+        <button class="toolbar-btn active" data-palette="rainbow" title="Regional colours">🌈 Colours</button>
+        <button class="toolbar-btn" data-palette="slate" title="Ocean palette">🌊 Ocean</button>
+        <button class="toolbar-btn" data-palette="classic" title="Classic old-map palette">🗺️ Classic</button>
+      </div>
+      <div class="toolbar-group" id="tile-group">
+        <button class="toolbar-btn active" data-tile="voyager" title="Voyager map">Map</button>
+        <button class="toolbar-btn" data-tile="light" title="Light minimal">Light</button>
+        <button class="toolbar-btn" data-tile="dark" title="Dark">Dark</button>
+      </div>
+    </div>
+  </div>
   <aside id="regions-panel">
     <div id="stats-bar">
       <span>Explore the world</span>
@@ -258,7 +275,6 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
 <script>
 (async function() {
-  const panel = document.getElementById('regions-panel');
   const panelEmpty = document.getElementById('panel-empty');
   const regionDetail = document.getElementById('region-detail');
   const statVisited = document.getElementById('stat-visited');
@@ -270,14 +286,9 @@
     regionDetail.style.display = 'block';
     console.error(msg);
   }
-  window.addEventListener('error', (e) => {
-    const detail = e.error && e.error.stack ? e.error.stack : e.message;
-    fatal('JS error: ' + detail);
-  });
+  window.addEventListener('error', (e) => fatal('JS error: ' + (e.error?.stack || e.message)));
 
   // ── State store ──
-  // Stored as {regionId: 'visited'|'bucketlist'} in localStorage.
-  // Migrate old format (plain array of visited IDs).
   const STORE_KEY = 'world66.regions.state';
   let stateMap = {};
   try {
@@ -285,45 +296,88 @@
     if (raw) {
       stateMap = JSON.parse(raw);
     } else {
-      // Migrate legacy 'world66.visited' (array → visited state)
       const legacy = localStorage.getItem('world66.visited');
-      if (legacy) {
-        const arr = JSON.parse(legacy);
-        arr.forEach(id => { stateMap[id] = 'visited'; });
-      }
+      if (legacy) JSON.parse(legacy).forEach(id => { stateMap[id] = 'visited'; });
     }
   } catch(e) { stateMap = {}; }
 
-  function saveState() {
-    localStorage.setItem(STORE_KEY, JSON.stringify(stateMap));
-  }
-
+  function saveState() { localStorage.setItem(STORE_KEY, JSON.stringify(stateMap)); }
   function getState(id) { return stateMap[id] || 'none'; }
-
   function cycleState(id) {
     const cur = getState(id);
-    const next = cur === 'none' ? 'bucketlist' : cur === 'bucketlist' ? 'visited' : 'none';
-    setState(id, next);
+    setState(id, cur === 'none' ? 'bucketlist' : cur === 'bucketlist' ? 'visited' : 'none');
+  }
+  function updateStats() {
+    const nV = Object.values(stateMap).filter(s => s === 'visited').length;
+    const nB = Object.values(stateMap).filter(s => s === 'bucketlist').length;
+    statVisited.textContent = nV + ' visited';
+    statBucket.textContent = nB + ' on list';
   }
 
-  function updateStats() {
-    const nVisited = Object.values(stateMap).filter(s => s === 'visited').length;
-    const nBucket = Object.values(stateMap).filter(s => s === 'bucketlist').length;
-    statVisited.textContent = nVisited + (nVisited === 1 ? ' visited' : ' visited');
-    statBucket.textContent = nBucket + ' on list';
-  }
+  // ── Palettes ──
+  const PALETTES = {
+    rainbow: {
+      hue: (parent) => parentHue(parent),
+      none:       { s: 28, l: 68, op: 0.55 },
+      bucketlist: { s: 55, l: 65, op: 0.70 },
+      visited:    { s: 68, l: 44, op: 0.85 },
+    },
+    slate: {
+      hue: () => 210,
+      none:       { s: 22, l: 68, op: 0.55 },
+      bucketlist: { s: 52, l: 60, op: 0.70 },
+      visited:    { s: 78, l: 38, op: 0.85 },
+    },
+    classic: {
+      hue: (parent) => parentHue(parent),
+      none:       { s: 18, l: 74, op: 0.62 },
+      bucketlist: { s: 38, l: 64, op: 0.78 },
+      visited:    { s: 52, l: 48, op: 0.90 },
+    },
+  };
+  let currentPalette = localStorage.getItem('world66.palette') || 'rainbow';
+
+  // ── Tile layers ──
+  const TILE_DEFS = {
+    voyager: {
+      url: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png',
+      attr: '&copy; OpenStreetMap &copy; CARTO', sub: 'abcd', maxZoom: 19,
+    },
+    light: {
+      url: 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+      attr: '&copy; OpenStreetMap &copy; CARTO', sub: 'abcd', maxZoom: 19,
+    },
+    dark: {
+      url: 'https://{s}.basemaps.cartocdn.com/dark_matter_nolabels/{z}/{x}/{y}.png',
+      attr: '&copy; OpenStreetMap &copy; CARTO', sub: 'abcd', maxZoom: 19,
+    },
+  };
+  let currentTile = localStorage.getItem('world66.tile') || 'voyager';
 
   const map = L.map('regions-map', {
     worldCopyJump: true,
     minZoom: 2,
     doubleClickZoom: false,
+    zoomControl: true,
   }).setView([25, 10], 3);
 
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap &copy; CARTO',
-    subdomains: 'abcd',
-    maxZoom: 10,
-  }).addTo(map);
+  let tileLayer = null;
+  function setTile(key) {
+    const def = TILE_DEFS[key];
+    if (!def) return;
+    if (tileLayer) map.removeLayer(tileLayer);
+    tileLayer = L.tileLayer(def.url, {
+      attribution: def.attr,
+      subdomains: def.sub,
+      maxZoom: def.maxZoom,
+    }).addTo(map);
+    currentTile = key;
+    localStorage.setItem('world66.tile', key);
+    document.querySelectorAll('#tile-group .toolbar-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.tile === key);
+    });
+  }
+  setTile(currentTile);
 
   let geo, data;
   try {
@@ -348,50 +402,46 @@
   function styleFor(feature, isSelected) {
     const id = feature.properties.id;
     const state = getState(id);
-    const hue = parentHue(feature.properties.parent || feature.properties.name);
-    let fillColor, fillOpacity;
-    if (state === 'visited') {
-      fillColor = `hsl(${hue}, 68%, 46%)`;
-      fillOpacity = 0.8;
-    } else if (state === 'bucketlist') {
-      fillColor = `hsl(${hue}, 55%, 68%)`;
-      fillOpacity = 0.65;
-    } else {
-      fillColor = `hsl(${hue}, 18%, 78%)`;
-      fillOpacity = 0.40;
-    }
+    const pal = PALETTES[currentPalette];
+    const hue = pal.hue(feature.properties.parent || feature.properties.name);
+    const cfg = pal[state] || pal.none;
+    // On dark tile, borders need to be lighter
+    const isDark = currentTile === 'dark';
     return {
-      fillColor,
-      fillOpacity,
-      weight: isSelected ? 2.2 : 0.5,
-      color: isSelected ? '#111' : (state !== 'none' ? '#333' : '#999'),
+      fillColor: `hsl(${hue}, ${cfg.s}%, ${cfg.l}%)`,
+      fillOpacity: cfg.op,
+      weight: isSelected ? 2.5 : 0.7,
+      color: isSelected ? (isDark ? '#fff' : '#111') : (state !== 'none' ? (isDark ? '#aaa' : '#444') : (isDark ? '#555' : '#bbb')),
     };
   }
 
   let selectedLayer = null;
   const layersById = {};
 
-  function restyle(lyr) {
-    lyr.setStyle(styleFor(lyr.feature, lyr === selectedLayer));
+  function restyle(lyr) { lyr.setStyle(styleFor(lyr.feature, lyr === selectedLayer)); }
+  function restyleAll() { Object.values(layersById).forEach(restyle); }
+
+  function setPalette(key) {
+    if (!PALETTES[key]) return;
+    currentPalette = key;
+    localStorage.setItem('world66.palette', key);
+    document.querySelectorAll('#palette-group .toolbar-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.palette === key);
+    });
+    restyleAll();
   }
 
   function setState(id, newState) {
-    if (newState === 'none') {
-      delete stateMap[id];
-    } else {
-      stateMap[id] = newState;
-    }
+    if (newState === 'none') delete stateMap[id]; else stateMap[id] = newState;
     saveState();
     const lyr = layersById[id];
     if (lyr) restyle(lyr);
     updateStats();
-    // Sync the toggle buttons if panel is showing this region
     if (currentRegionId === id) syncToggle(id);
   }
 
-  // ── Panel rendering ──
+  // ── Panel ──
   let currentRegionId = null;
-
   const STATE_LABELS = {
     none:       { icon: '○', label: 'Not visited', cls: 'active-none' },
     bucketlist: { icon: '★', label: 'Bucket list',  cls: 'active-bucketlist' },
@@ -417,21 +467,17 @@
       regionDetail.style.display = 'flex';
       return;
     }
-
-    // Find best hero image from top locations
     const heroLoc = info.top_locations.find(l => l.image_url);
     const heroHtml = heroLoc
       ? `<img class="region-hero" src="${escapeAttr(heroLoc.image_url)}" alt="${escapeAttr(heroLoc.title)}" loading="lazy">`
       : `<div class="region-hero-placeholder"></div>`;
 
     const cur = getState(regionId);
-
     const stateToggle = ['none', 'bucketlist', 'visited'].map(s => {
       const {icon, label, cls} = STATE_LABELS[s];
       const active = s === cur ? cls : '';
       return `<button class="state-btn ${active}" data-state="${s}" data-id="${escapeAttr(regionId)}">
-        <span class="icon">${icon}</span>
-        <span>${escapeHtml(label)}</span>
+        <span class="icon">${icon}</span><span>${escapeHtml(label)}</span>
       </button>`;
     }).join('');
 
@@ -463,24 +509,17 @@
         ${locsHtml}
       </div>`;
 
-    // Wire up toggle buttons
     regionDetail.querySelectorAll('.state-btn').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const s = btn.dataset.state;
-        const id = btn.dataset.id;
-        setState(id, s);
-      });
+      btn.addEventListener('click', () => setState(btn.dataset.id, btn.dataset.state));
     });
-
     panelEmpty.style.display = 'none';
     regionDetail.style.display = 'flex';
     regionDetail.scrollTop = 0;
   }
 
   function escapeHtml(s) {
-    return String(s).replace(/[&<>"']/g, (c) => ({
-      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
-    }[c]));
+    return String(s).replace(/[&<>"']/g, c =>
+      ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   }
   function escapeAttr(s) { return escapeHtml(s); }
 
@@ -493,14 +532,10 @@
       onEachFeature: (feature, lyr) => {
         const id = feature.properties.id;
         layersById[id] = lyr;
-
         let clickTimer = null;
         lyr.on('click', () => {
           if (clickTimer) return;
-          clickTimer = setTimeout(() => {
-            clickTimer = null;
-            selectRegion(id);
-          }, 230);
+          clickTimer = setTimeout(() => { clickTimer = null; selectRegion(id); }, 230);
         });
         lyr.on('dblclick', () => {
           if (clickTimer) { clearTimeout(clickTimer); clickTimer = null; }
@@ -527,7 +562,28 @@
     renderPanel(id);
   }
 
-  // ── Topnav search hijack ──
+  // ── Toolbar wiring ──
+  document.getElementById('map-toolbar').style.display = 'flex';
+  document.querySelectorAll('#palette-group .toolbar-btn').forEach(btn => {
+    btn.addEventListener('click', () => setPalette(btn.dataset.palette));
+    if (btn.dataset.palette === currentPalette) btn.classList.add('active');
+    else btn.classList.remove('active');
+  });
+  document.querySelectorAll('#tile-group .toolbar-btn').forEach(btn => {
+    btn.addEventListener('click', () => setTile(btn.dataset.tile));
+    if (btn.dataset.tile === currentTile) btn.classList.add('active');
+    else btn.classList.remove('active');
+  });
+  document.querySelectorAll('#tile-group .toolbar-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.tile === currentTile));
+
+  // Also re-restyle when tile switches (dark mode needs lighter borders)
+  document.querySelectorAll('#tile-group .toolbar-btn').forEach(btn => {
+    const orig = btn.onclick;
+    btn.addEventListener('click', () => restyleAll());
+  });
+
+  // ── Search ──
   (function hijackSearch() {
     const form = document.querySelector('.site-search');
     const dropdown = document.getElementById('header-search-dropdown');
@@ -537,52 +593,34 @@
     const input = oldInput.cloneNode(true);
     oldInput.parentNode.replaceChild(input, oldInput);
     input.placeholder = 'Search regions…';
-
     form.addEventListener('submit', (e) => e.preventDefault());
 
-    const regionList = Object.entries(data).map(([id, r]) => ({
-      id, name: r.name, parent: r.parent,
-    }));
-
-    let cursor = -1;
-    let lastResults = [];
+    const regionList = Object.entries(data).map(([id, r]) => ({id, name: r.name, parent: r.parent}));
+    let cursor = -1, lastResults = [];
 
     function closeDropdown() {
-      dropdown.innerHTML = '';
-      dropdown.style.display = 'none';
-      cursor = -1;
-      lastResults = [];
+      dropdown.innerHTML = ''; dropdown.style.display = 'none'; cursor = -1; lastResults = [];
     }
-
     function render(q) {
       const needle = q.toLowerCase();
       const matches = regionList.filter(r =>
-        r.name.toLowerCase().includes(needle) ||
-        r.parent.toLowerCase().includes(needle)
+        r.name.toLowerCase().includes(needle) || r.parent.toLowerCase().includes(needle)
       ).slice(0, 12);
       lastResults = matches;
       if (!matches.length) { closeDropdown(); return; }
       dropdown.innerHTML = matches.map((r, i) => `
-        <li>
-          <a href="#" data-id="${escapeAttr(r.id)}" data-idx="${i}">
-            ${escapeHtml(r.name)}
-            <span class="search-result-location">${escapeHtml(r.parent)}</span>
-          </a>
-        </li>
-      `).join('');
+        <li><a href="#" data-id="${escapeAttr(r.id)}" data-idx="${i}">
+          ${escapeHtml(r.name)}
+          <span class="search-result-location">${escapeHtml(r.parent)}</span>
+        </a></li>`).join('');
       dropdown.style.display = 'block';
       cursor = -1;
       dropdown.querySelectorAll('a').forEach(a => {
         a.addEventListener('click', (e) => {
-          e.preventDefault();
-          const id = a.dataset.id;
-          input.value = '';
-          closeDropdown();
-          selectRegion(id);
+          e.preventDefault(); input.value = ''; closeDropdown(); selectRegion(a.dataset.id);
         });
       });
     }
-
     let timer;
     input.addEventListener('input', () => {
       clearTimeout(timer);
@@ -590,34 +628,20 @@
       if (!q) { closeDropdown(); return; }
       timer = setTimeout(() => render(q), 80);
     });
-
     input.addEventListener('keydown', (e) => {
       const items = dropdown.querySelectorAll('li a');
       if (!items.length) return;
-      if (e.key === 'ArrowDown') {
-        e.preventDefault();
-        cursor = Math.min(cursor + 1, items.length - 1);
-      } else if (e.key === 'ArrowUp') {
-        e.preventDefault();
-        cursor = Math.max(cursor - 1, -1);
-      } else if (e.key === 'Escape') {
-        closeDropdown();
-        return;
-      } else if (e.key === 'Enter') {
+      if (e.key === 'ArrowDown') { e.preventDefault(); cursor = Math.min(cursor+1, items.length-1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); cursor = Math.max(cursor-1, -1); }
+      else if (e.key === 'Escape') { closeDropdown(); return; }
+      else if (e.key === 'Enter') {
         e.preventDefault();
         const idx = cursor >= 0 ? cursor : 0;
-        if (lastResults[idx]) {
-          input.value = '';
-          closeDropdown();
-          selectRegion(lastResults[idx].id);
-        }
+        if (lastResults[idx]) { input.value = ''; closeDropdown(); selectRegion(lastResults[idx].id); }
         return;
-      } else {
-        return;
-      }
+      } else return;
       items.forEach((a, i) => a.parentNode.classList.toggle('active', i === cursor));
     });
-
     document.addEventListener('click', (e) => {
       if (!e.target.closest('.site-search-wrap')) closeDropdown();
     });

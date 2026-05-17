@@ -188,7 +188,7 @@
     "score": 0.67,
     "lat": 16.4639,
     "lon": 107.5863,
-    "image_url": null
+    "image_url": "/content-image/asia/vietnam/hue.jpg"
    },
    {
     "title": "Ho Chi Minh City",
@@ -201,7 +201,7 @@
    },
    {
     "title": "Mekong delta",
-    "snippet": "The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River \u2014 known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons \u2014 originates high on the Tibetan plateau and flows through China, between Myanmar and Laos, along the Lao-Thai border, and thro...",
+    "snippet": "The Mekong Delta is the southern rice bowl of Vietnam. The Mekong River \u2014 known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons \u2014 originates high on the Tibetan plateau and flows through China, between Myanmar and Laos, along the Lao-Thai border, and through...",
     "path": "asia/vietnam/mekongdelta",
     "score": 0.65,
     "lat": 9.750896,
@@ -232,7 +232,7 @@
     "score": 0.69,
     "lat": 20.2513,
     "lon": 105.9745,
-    "image_url": null
+    "image_url": "/content-image/asia/vietnam/ninh_binh.jpg"
    },
    {
     "title": "Halong City",
@@ -250,7 +250,7 @@
     "score": 0.66,
     "lat": 20.7221,
     "lon": 107.0544,
-    "image_url": null
+    "image_url": "/content-image/asia/vietnam/cat_ba_island.jpg"
    },
    {
     "title": "Haiphong",
@@ -280,7 +280,7 @@
    },
    {
     "title": "Sapa",
-    "snippet": "Sapa is a hill station in the far north-west of Vietnam, set at 1,600 metres in a spectacular valley surrounded by the Hoang Lien Son mountains \u2014 the highest range in Indochina, culminating in **Fansipan** (3,143 m), Vietnam's tallest peak. The French built it as a mountain re...",
+    "snippet": "Sapa is a hill station in the far north-west of Vietnam, set at 1,600 metres in a spectacular valley surrounded by the Hoang Lien Son mountains \u2014 the highest range in Indochina, culminating in Fansipan (3,143 m), Vietnam's tallest peak. The French built it as a mountain retrea...",
     "path": "asia/vietnam/sapa",
     "score": 0.72,
     "lat": 22.336,
@@ -442,7 +442,7 @@
     "score": 0.72,
     "lat": 39.6542,
     "lon": 66.9597,
-    "image_url": null
+    "image_url": "/content-image/asia/uzbekistan/samarkand.jpg"
    },
    {
     "title": "Bukhara",
@@ -451,7 +451,7 @@
     "score": 0.67,
     "lat": 39.775984,
     "lon": 64.415153,
-    "image_url": null
+    "image_url": "/content-image/asia/uzbekistan/bukhara.jpg"
    },
    {
     "title": "Khiva",
@@ -710,7 +710,7 @@
    },
    {
     "title": "Cetti Bay",
-    "snippet": "Cetti Bay is a rugged stretch of the southwestern coast of **Guam**, reached by the scenic coastal road that loops around the southern half of the island. The bay itself is a broad, undeveloped crescent of beach ringed by steep forested hills \u2014 not a swimming beach (strong cur...",
+    "snippet": "Cetti Bay is a rugged stretch of the southwestern coast of Guam, reached by the scenic coastal road that loops around the southern half of the island. The bay itself is a broad, undeveloped crescent of beach ringed by steep forested hills \u2014 not a swimming beach (strong current...",
     "path": "australiaandpacific/guam/cettibay",
     "score": 0.48,
     "lat": 13.316026,
@@ -737,7 +737,7 @@
    },
    {
     "title": "Mangilao",
-    "snippet": "Mangilao is a village on the east coast of **Guam**, midway up the island and home to the main campus of the **University of Guam** \u2014 the largest higher-education institution in Micronesia \u2014 along with its associated **Richard F. Taitano Micronesian Area Research Center**, whi...",
+    "snippet": "Mangilao is a village on the east coast of Guam, midway up the island and home to the main campus of the University of Guam \u2014 the largest higher-education institution in Micronesia \u2014 along with its associated Richard F. Taitano Micronesian Area Research Center, which holds the...",
     "path": "australiaandpacific/guam/mangilao",
     "score": 0.41,
     "lat": 13.443991,
@@ -856,7 +856,7 @@
     "score": 0.66,
     "lat": 57.0,
     "lon": -134.0,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/alaska/inside_passage.jpg"
    },
    {
     "title": "Juneau",
@@ -895,12 +895,12 @@
   "top_locations": [
    {
     "title": "Kaua'i",
-    "snippet": "Kaua'i is the oldest and northernmost of the main Hawaiian Islands \u2014 an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either O\u02bbahu or Maui. Its nickname, the **\"Garden Island\"**, is more than marketing: the interior is a...",
+    "snippet": "Kaua'i is the oldest and northernmost of the main Hawaiian Islands \u2014 an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either O\u02bbahu or Maui. Its nickname, the \"Garden Island\", is more than marketing: the interior is a near...",
     "path": "northamerica/unitedstates/hawaii/kauai",
     "score": 0.82,
     "lat": 22.050384,
     "lon": -159.558862,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/hawaii/kauai.jpg"
    },
    {
     "title": "Koloa",
@@ -930,7 +930,7 @@
    },
    {
     "title": "Maui",
-    "snippet": "Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **O\u02bbahu**, more developed than **Kaua\u02bbi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's mo...",
+    "snippet": "Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than O\u02bbahu, more developed than Kaua\u02bbi and the Big Island, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto \u2014 \"Maui...",
     "path": "northamerica/unitedstates/hawaii/maui",
     "score": 0.83,
     "lat": 20.802957,
@@ -944,7 +944,7 @@
     "score": 0.73,
     "lat": 20.747626,
     "lon": -156.45499,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/hawaii/kihei.jpg"
    },
    {
     "title": "Kailua-Kona",
@@ -953,7 +953,7 @@
     "score": 0.68,
     "lat": 19.6419,
     "lon": -155.9969,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/hawaii/kailuakona.jpg"
    },
    {
     "title": "Kailua-Kona",
@@ -988,7 +988,7 @@
     "score": 0.79,
     "lat": 21.304547,
     "lon": -157.855676,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/hawaii/honolulu.jpg"
    },
    {
     "title": "Haleiwa",
@@ -997,7 +997,7 @@
     "score": 0.67,
     "lat": 21.587627,
     "lon": -158.103565,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/hawaii/haleiwa.jpg"
    },
    {
     "title": "Lanai",
@@ -1041,7 +1041,7 @@
     "score": 0.71,
     "lat": 39.191113,
     "lon": -106.82356,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/colorado/aspen.jpg"
    },
    {
     "title": "Vail",
@@ -1050,7 +1050,7 @@
     "score": 0.66,
     "lat": 39.643803,
     "lon": -106.388823,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/colorado/vail.jpg"
    },
    {
     "title": "Santa Fe",
@@ -1068,7 +1068,7 @@
     "score": 0.65,
     "lat": 40.014986,
     "lon": -105.270545,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/colorado/boulder.jpg"
    }
   ]
  },
@@ -1085,7 +1085,7 @@
     "score": 0.71,
     "lat": 29.956142,
     "lon": -90.073393,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/louisiana/neworleans.jpg"
    },
    {
     "title": "Austin",
@@ -1147,7 +1147,7 @@
     "score": 0.68,
     "lat": 38.895037,
     "lon": -77.036543,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/washingtondc.jpg"
    },
    {
     "title": "New York State",
@@ -1191,7 +1191,7 @@
     "score": 0.7,
     "lat": 41.8756,
     "lon": -87.6244,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/illinois/chicago.jpg"
    },
    {
     "title": "Leavenworth",
@@ -1213,7 +1213,7 @@
    },
    {
     "title": "Madison",
-    "snippet": "Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest \u2014 a university town of about 270,000 people squeezed onto a narrow **isthmus** between two lakes, with the State Capitol at one end and the University of Wisconsin at the other. The whole...",
+    "snippet": "Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest \u2014 a university town of about 270,000 people squeezed onto a narrow isthmus between two lakes, with the State Capitol at one end and the University of Wisconsin at the other. The whole of...",
     "path": "northamerica/unitedstates/wisconsin/madison",
     "score": 0.52,
     "lat": 43.07469,
@@ -1234,7 +1234,7 @@
  "las_vegas": {
   "name": "Nevada & Zion",
   "parent": "United States of America",
-  "n_locs": 17,
+  "n_locs": 16,
   "is_split": true,
   "top_locations": [
    {
@@ -1306,7 +1306,7 @@
     "score": 0.65,
     "lat": 44.0,
     "lon": -74.0,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/newyorkstate/adirondacks.jpg"
    },
    {
     "title": "Martha's Vineyard",
@@ -1319,12 +1319,12 @@
    },
    {
     "title": "Cambridge",
-    "snippet": "**Cambridge** sits just across the Charles River from Boston, but it is its own city with its own character \u2014 more bookish, more politically progressive, and in places more interesting than its larger neighbour.",
+    "snippet": "Cambridge sits just across the Charles River from Boston, but it is its own city with its own character \u2014 more bookish, more politically progressive, and in places more interesting than its larger neighbour.",
     "path": "northamerica/unitedstates/massachusetts/cambridge",
     "score": 0.65,
     "lat": 42.3656,
     "lon": -71.104,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/massachusetts/cambridge.jpg"
    },
    {
     "title": "Bar Harbor",
@@ -1340,7 +1340,7 @@
  "sedona": {
   "name": "Arizona & New Mexico",
   "parent": "United States of America",
-  "n_locs": 39,
+  "n_locs": 40,
   "is_split": true,
   "top_locations": [
    {
@@ -1350,7 +1350,7 @@
     "score": 0.73,
     "lat": 34.868861,
     "lon": -111.761439,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/arizona/sedona.jpg"
    },
    {
     "title": "Arizona",
@@ -1398,12 +1398,12 @@
   "top_locations": [
    {
     "title": "Utah",
-    "snippet": "Utah is a state of extraordinary landscapes and of a single religion. The **Mormon Church** \u2014 officially the Church of Jesus Christ of Latter-day Saints \u2014 was founded by Joseph Smith in New York in 1830, pushed across the Mid-West by violent persecution, and finally settled in...",
+    "snippet": "Utah is a state of extraordinary landscapes and of a single religion. The Mormon Church \u2014 officially the Church of Jesus Christ of Latter-day Saints \u2014 was founded by Joseph Smith in New York in 1830, pushed across the Mid-West by violent persecution, and finally settled in the...",
     "path": "northamerica/unitedstates/utah",
     "score": 0.78,
     "lat": 39.422519,
     "lon": -111.714358,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/utah.jpg"
    },
    {
     "title": "Moab",
@@ -1412,7 +1412,7 @@
     "score": 0.7,
     "lat": 38.5738,
     "lon": -109.5462,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/utah/moab.jpg"
    },
    {
     "title": "Telluride",
@@ -1518,7 +1518,7 @@
     "score": 0.68,
     "lat": 35.6343,
     "lon": -83.4024,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/tennessee/smokymountains.jpg"
    },
    {
     "title": "Savannah",
@@ -1549,29 +1549,47 @@
    }
   ]
  },
- "san_francisco": {
-  "name": "Northern California",
+ "san_diego": {
+  "name": "Southern California",
   "parent": "United States of America",
-  "n_locs": 110,
+  "n_locs": 75,
   "is_split": true,
   "top_locations": [
    {
-    "title": "San Francisco",
-    "snippet": "San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for...",
-    "path": "northamerica/unitedstates/california/sanfrancisco",
-    "score": 0.78,
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "image_url": "/content-image/northamerica/unitedstates/california/sanfrancisco.jpg"
+    "title": "San Diego",
+    "snippet": "San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country \u2014 high 60s to mid 70s most of the year, long stretches without rain, and an Pacific that's swimmable from...",
+    "path": "northamerica/unitedstates/california/sandiego",
+    "score": 0.71,
+    "lat": 32.71742,
+    "lon": -117.162772,
+    "image_url": "/content-image/northamerica/unitedstates/california/sandiego.jpg"
    },
    {
-    "title": "Lake Tahoe",
-    "snippet": "<<<<<<< HEAD Lake Tahoe is a great cobalt-blue lake set 6,200 feet up in the Sierra Nevada, straddling the California\u2013Nevada line. It is North America's largest alpine lake \u2014 twenty-two miles long, twelve wide, and famous for the clarity of its water, which is so transparent a...",
-    "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+    "title": "Santa Barbara",
+    "snippet": "Santa Barbara earns its nickname \u2014 the American Riviera \u2014 without too much strain. The city sits where the Santa Ynez Mountains meet the Pacific Ocean 160 km north of Los Angeles, in a microclimate warm enough to support bougainvillea, palm trees, and year-round outdoor life....",
+    "path": "northamerica/unitedstates/california/santa_barbara",
     "score": 0.69,
-    "lat": 39.088541,
-    "lon": -120.050353,
+    "lat": 34.4221,
+    "lon": -119.7027,
     "image_url": null
+   },
+   {
+    "title": "Santa Barbara",
+    "snippet": "Santa Barbara is one of those rare places that genuinely seems to have it all: a 200-year-old Spanish Mission above the city, a working harbour below it, a near-perfect Mediterranean climate, south-facing beaches, the most beautiful courthouse in America, and a wine country an...",
+    "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+    "score": 0.68,
+    "lat": 34.422132,
+    "lon": -119.702667,
+    "image_url": "/content-image/northamerica/unitedstates/california/centralcoast/santabarbara.jpg"
+   },
+   {
+    "title": "Los Angeles",
+    "snippet": "L.A. is the quintessential American 21st century city \u2013 embracing and absorbing everything in its path \u2013 from culture to food to people \u2013 and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.",
+    "path": "northamerica/unitedstates/california/losangeles",
+    "score": 0.67,
+    "lat": 34.053691,
+    "lon": -118.242766,
+    "image_url": "/content-image/northamerica/unitedstates/california/losangeles.jpg"
    },
    {
     "title": "Central Coast",
@@ -1580,24 +1598,6 @@
     "score": 0.66,
     "lat": 35.269768,
     "lon": -120.653701,
-    "image_url": null
-   },
-   {
-    "title": "Carmel",
-    "snippet": "Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywher...",
-    "path": "northamerica/unitedstates/california/carmel",
-    "score": 0.65,
-    "lat": 36.5552,
-    "lon": -121.9233,
-    "image_url": "/content-image/northamerica/unitedstates/california/carmel.jpg"
-   },
-   {
-    "title": "Monterey",
-    "snippet": "Monterey is a coastal town of about 30,000 people on the central California coast, roughly two hours south of San Francisco and just north of the dramatic scenery of the Big Sur. It has a more layered history than most California towns: it was the capital of Spanish Alta Calif...",
-    "path": "northamerica/unitedstates/california/centralcoast/monterey",
-    "score": 0.65,
-    "lat": 36.6002,
-    "lon": -121.8947,
     "image_url": null
    }
   ]
@@ -1615,7 +1615,7 @@
     "score": 0.72,
     "lat": 43.4799,
     "lon": -110.7624,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/wyoming/jacksonhole.jpg"
    },
    {
     "title": "Wyoming",
@@ -1668,7 +1668,7 @@
     "score": 0.69,
     "lat": 24.5551,
     "lon": -81.78,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/florida/keywest.jpg"
    },
    {
     "title": "Miami",
@@ -1686,7 +1686,7 @@
     "score": 0.65,
     "lat": 29.8943,
     "lon": -81.3145,
-    "image_url": null
+    "image_url": "/content-image/northamerica/unitedstates/florida/northeastflorida/staugustine.jpg"
    },
    {
     "title": "Key Largo",
@@ -1743,7 +1743,7 @@
    },
    {
     "title": "Cannon Beach",
-    "snippet": "Cannon Beach is a small coastal town on the northern Oregon coast, about an hour and a half drive from Portland. The beach is broad and sandy, backed by forest-covered headlands, and dominated by **Haystack Rock** \u2014 a 72-metre sea stack rising directly from the surf just offsh...",
+    "snippet": "Cannon Beach is a small coastal town on the northern Oregon coast, about an hour and a half drive from Portland. The beach is broad and sandy, backed by forest-covered headlands, and dominated by Haystack Rock \u2014 a 72-metre sea stack rising directly from the surf just offshore....",
     "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
     "score": 0.6,
     "lat": 45.890028,
@@ -1761,55 +1761,55 @@
    }
   ]
  },
- "san_diego": {
-  "name": "Southern California",
+ "san_francisco": {
+  "name": "Northern California",
   "parent": "United States of America",
-  "n_locs": 71,
+  "n_locs": 106,
   "is_split": true,
   "top_locations": [
    {
-    "title": "San Diego",
-    "snippet": "San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country \u2014 high 60s to mid 70s most of the year, long stretches without rain, and an Pacific that's swimmable from...",
-    "path": "northamerica/unitedstates/california/sandiego",
-    "score": 0.71,
-    "lat": 32.71742,
-    "lon": -117.162772,
-    "image_url": null
+    "title": "San Francisco",
+    "snippet": "San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for...",
+    "path": "northamerica/unitedstates/california/sanfrancisco",
+    "score": 0.78,
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "image_url": "/content-image/northamerica/unitedstates/california/sanfrancisco.jpg"
    },
    {
-    "title": "Santa Barbara",
-    "snippet": "Santa Barbara earns its nickname \u2014 the American Riviera \u2014 without too much strain. The city sits where the Santa Ynez Mountains meet the Pacific Ocean 160 km north of Los Angeles, in a microclimate warm enough to support bougainvillea, palm trees, and year-round outdoor life....",
-    "path": "northamerica/unitedstates/california/santa_barbara",
+    "title": "Lake Tahoe",
+    "snippet": "<<<<<<< HEAD Lake Tahoe is a great cobalt-blue lake set 6,200 feet up in the Sierra Nevada, straddling the California\u2013Nevada line. It is North America's largest alpine lake \u2014 twenty-two miles long, twelve wide, and famous for the clarity of its water, which is so transparent a...",
+    "path": "northamerica/unitedstates/california/highsierra/laketahoe",
     "score": 0.69,
-    "lat": 34.4221,
-    "lon": -119.7027,
-    "image_url": null
+    "lat": 39.088541,
+    "lon": -120.050353,
+    "image_url": "/content-image/northamerica/unitedstates/california/highsierra/laketahoe.jpg"
    },
    {
-    "title": "Santa Barbara",
-    "snippet": "Santa Barbara is one of those rare places that genuinely seems to have it all: a 200-year-old Spanish Mission above the city, a working harbour below it, a near-perfect Mediterranean climate, south-facing beaches, the most beautiful courthouse in America, and a wine country an...",
-    "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
-    "score": 0.68,
-    "lat": 34.422132,
-    "lon": -119.702667,
-    "image_url": "/content-image/northamerica/unitedstates/california/centralcoast/santabarbara.jpg"
-   },
-   {
-    "title": "Los Angeles",
-    "snippet": "L.A. is the quintessential American 21st century city \u2013 embracing and absorbing everything in its path \u2013 from culture to food to people \u2013 and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.",
-    "path": "northamerica/unitedstates/california/losangeles",
-    "score": 0.67,
-    "lat": 34.053691,
-    "lon": -118.242766,
-    "image_url": null
-   },
-   {
-    "title": "Santa Monica",
-    "snippet": "Santa Monica sits at the western edge of Los Angeles, where the Santa Monica Mountains meet the Pacific. It is its own incorporated city within the greater metropolitan sprawl, with about 90,000 residents and a character distinct from its surroundings: more walkable, more comp...",
-    "path": "northamerica/unitedstates/california/santamonica",
+    "title": "Carmel",
+    "snippet": "Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywher...",
+    "path": "northamerica/unitedstates/california/carmel",
     "score": 0.65,
-    "lat": 34.01947,
-    "lon": -118.491227,
+    "lat": 36.5552,
+    "lon": -121.9233,
+    "image_url": "/content-image/northamerica/unitedstates/california/carmel.jpg"
+   },
+   {
+    "title": "Monterey",
+    "snippet": "Monterey is a coastal town of about 30,000 people on the central California coast, roughly two hours south of San Francisco and just north of the dramatic scenery of the Big Sur. It has a more layered history than most California towns: it was the capital of Spanish Alta Calif...",
+    "path": "northamerica/unitedstates/california/centralcoast/monterey",
+    "score": 0.65,
+    "lat": 36.6002,
+    "lon": -121.8947,
+    "image_url": null
+   },
+   {
+    "title": "Tahoe City",
+    "snippet": "Tahoe City sits on the northwest shore of Lake Tahoe, where the Truckee River begins its run toward Nevada. It is the quieter, more laid-back alternative to South Lake Tahoe \u2014 a small mountain town with a handful of good restaurants, a pebble beach, and easy access to some of...",
+    "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+    "score": 0.63,
+    "lat": 39.168937,
+    "lon": -120.143478,
     "image_url": null
    }
   ]
@@ -1914,7 +1914,7 @@
     "score": 0.68,
     "lat": 19.3133,
     "lon": -81.2546,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/caymanislands/grandcayman.jpg"
    }
   ]
  },
@@ -2176,7 +2176,7 @@
     "score": 0.69,
     "lat": 53.07123,
     "lon": -4.074173,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/wales/snowdonia.jpg"
    },
    {
     "title": "Pembrokeshire Coast National Park",
@@ -2207,7 +2207,7 @@
    },
    {
     "title": "Caernarfon",
-    "snippet": "**Caernarfon** is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal...",
+    "snippet": "Caernarfon is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal tow...",
     "path": "europe/unitedkingdom/wales/caernarfon",
     "score": 0.62,
     "lat": 53.139436,
@@ -2282,7 +2282,7 @@
     "score": 0.74,
     "lat": 57.363018,
     "lon": -6.302346,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/scotland/skye.jpg"
    },
    {
     "title": "Isle of Mull",
@@ -2344,7 +2344,7 @@
     "score": 0.68,
     "lat": 56.34039,
     "lon": -2.795584,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/scotland/standrews1.jpg"
    },
    {
     "title": "Arran",
@@ -2450,7 +2450,7 @@
     "score": 0.68,
     "lat": 54.4609,
     "lon": -3.0886,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/england/lakedistrict.jpg"
    },
    {
     "title": "Keswick",
@@ -2494,7 +2494,7 @@
     "score": 0.74,
     "lat": 51.752013,
     "lon": -1.25785,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/oxford.jpg"
    },
    {
     "title": "Bath",
@@ -2547,7 +2547,7 @@
     "score": 0.7,
     "lat": 52.205531,
     "lon": 0.118664,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/england/eastern_england/cambridge.jpg"
    },
    {
     "title": "The North Norfolk Coast",
@@ -2609,7 +2609,7 @@
     "score": 0.67,
     "lat": 50.821463,
     "lon": -0.140056,
-    "image_url": null
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/brighton.jpg"
    },
    {
     "title": "Windsor",
@@ -2706,7 +2706,7 @@
     "score": 0.68,
     "lat": 25.2048,
     "lon": 55.2708,
-    "image_url": null
+    "image_url": "/content-image/asia/unitedarabemirates/dubai.jpg"
    },
    {
     "title": "Abu Dhabi",
@@ -2728,7 +2728,7 @@
    },
    {
     "title": "Al Ain",
-    "snippet": "**Al Ain** \u2014 \"The Spring\" in Arabic \u2014 is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the deser...",
+    "snippet": "Al Ain \u2014 \"The Spring\" in Arabic \u2014 is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the desert, a...",
     "path": "asia/unitedarabemirates/al_ain",
     "score": 0.47,
     "lat": 24.2075,
@@ -2936,7 +2936,7 @@
     "score": 0.71,
     "lat": 38.400309,
     "lon": 34.699588,
-    "image_url": null
+    "image_url": "/content-image/asia/turkey/cappadocia/derinkuyu.jpg"
    }
   ]
  },
@@ -2948,12 +2948,12 @@
   "top_locations": [
    {
     "title": "Antalya",
-    "snippet": "Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called **Turquoise Coast** \u2014 the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fif...",
+    "snippet": "Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called Turquoise Coast \u2014 the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fifth-l...",
     "path": "asia/turkey/antalya",
     "score": 0.7,
     "lat": 36.886573,
     "lon": 30.703024,
-    "image_url": null
+    "image_url": "/content-image/asia/turkey/antalya.jpg"
    },
    {
     "title": "Pamukkale",
@@ -2962,7 +2962,7 @@
     "score": 0.7,
     "lat": 37.92,
     "lon": 29.1218,
-    "image_url": null
+    "image_url": "/content-image/asia/turkey/gallipoli_troy/pamukkale.jpg"
    },
    {
     "title": "Bodrum",
@@ -2971,7 +2971,7 @@
     "score": 0.69,
     "lat": 37.034399,
     "lon": 27.430651,
-    "image_url": null
+    "image_url": "/content-image/asia/turkey/bodrum.jpg"
    },
    {
     "title": "Fethiye",
@@ -3010,7 +3010,7 @@
    },
    {
     "title": "Asian Side (Kad\u0131k\u00f6y)",
-    "snippet": "Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride \u2014 it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was *\"Meet where the continents m...",
+    "snippet": "Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride \u2014 it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was \"Meet where the continents me...",
     "path": "asia/turkey/asianpart",
     "score": 0.63,
     "lat": 41.01,
@@ -3019,7 +3019,7 @@
    },
    {
     "title": "Troy",
-    "snippet": "Troy \u2014 Troia, to the Turks who live nearby \u2014 is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's *Iliad*. It sits on a low mound called Hisarl\u0131k, about 30 km south-west of \u00c7anakkale and a few kilometres from the Aegean coast, and for mo...",
+    "snippet": "Troy \u2014 Troia, to the Turks who live nearby \u2014 is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's Iliad. It sits on a low mound called Hisarl\u0131k, about 30 km south-west of \u00c7anakkale and a few kilometres from the Aegean coast, and for most...",
     "path": "asia/turkey/troy",
     "score": 0.59,
     "lat": 39.9574,
@@ -3054,7 +3054,7 @@
   "top_locations": [
    {
     "title": "Kars & Ani",
-    "snippet": "Kars is a frontier city in northeastern Turkey, cold and austere, perched on a plateau at 1,800 metres. It spent decades as a Russian garrison town \u2014 the grid-plan streets and crumbling Baltic-style mansions still show it \u2014 and Orhan Pamuk set his novel *Snow* here, capturing...",
+    "snippet": "Kars is a frontier city in northeastern Turkey, cold and austere, perched on a plateau at 1,800 metres. It spent decades as a Russian garrison town \u2014 the grid-plan streets and crumbling Baltic-style mansions still show it \u2014 and Orhan Pamuk set his novel Snow here, capturing th...",
     "path": "asia/turkey/kars__ani",
     "score": 0.57,
     "lat": 40.616453,
@@ -3134,7 +3134,7 @@
    },
    {
     "title": "Sousse",
-    "snippet": "**Sousse** is Tunisia's third-largest city and the main beach resort on its central coast \u2014 a city of about 270,000 people about 140 km south of Tunis, with a long sandy Mediterranean beach fringed by resort hotels and a **UNESCO-listed medieval Medina** at its heart. It is th...",
+    "snippet": "Sousse is Tunisia's third-largest city and the main beach resort on its central coast \u2014 a city of about 270,000 people about 140 km south of Tunis, with a long sandy Mediterranean beach fringed by resort hotels and a UNESCO-listed medieval Medina at its heart. It is the easies...",
     "path": "africa/tunisia/sousse",
     "score": 0.57,
     "lat": 35.828828,
@@ -3165,7 +3165,7 @@
     "score": 0.66,
     "lat": 11.25,
     "lon": -60.6667,
-    "image_url": null
+    "image_url": "/content-image/northamerica/trinidadandtobago/tobago.jpg"
    }
   ]
  },
@@ -3347,7 +3347,7 @@
     "score": 0.66,
     "lat": 12.054617,
     "lon": 102.337343,
-    "image_url": null
+    "image_url": "/content-image/asia/thailand/kohchang.jpg"
    },
    {
     "title": "Koh Kood",
@@ -3377,7 +3377,7 @@
   "top_locations": [
    {
     "title": "Chiang mai",
-    "snippet": "**Chiang Mai** is named the \"Rose of the North\" for the abundance of flowers that thrive in the cooler mountain climate. The surrounding of the city is blessed with an outstanding beauty in nature. If you want to get away from busy Bangkok, but still want to stay in a big city...",
+    "snippet": "Chiang Mai is named the \"Rose of the North\" for the abundance of flowers that thrive in the cooler mountain climate. The surrounding of the city is blessed with an outstanding beauty in nature. If you want to get away from busy Bangkok, but still want to stay in a big city Chi...",
     "path": "asia/thailand/chiangmai",
     "score": 0.76,
     "lat": 18.788278,
@@ -3386,7 +3386,7 @@
    },
    {
     "title": "Sukhothai",
-    "snippet": "**Sukhothai** \u2014 the name literally means \"the Dawn of Happiness\" in Pali \u2014 was the first capital of the Thai kingdom, founded in **1238** and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King **Ramkhamhaen...",
+    "snippet": "Sukhothai \u2014 the name literally means \"the Dawn of Happiness\" in Pali \u2014 was the first capital of the Thai kingdom, founded in 1238 and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King Ramkhamhaeng in the l...",
     "path": "asia/thailand/sukhothai",
     "score": 0.71,
     "lat": 17.0196,
@@ -3435,7 +3435,7 @@
     "score": 0.7,
     "lat": 9.512,
     "lon": 100.0136,
-    "image_url": null
+    "image_url": "/content-image/asia/thailand/kohsamui.jpg"
    },
    {
     "title": "Koh Phangan",
@@ -3444,7 +3444,7 @@
     "score": 0.68,
     "lat": 9.73495,
     "lon": 100.030571,
-    "image_url": null
+    "image_url": "/content-image/asia/thailand/kohphangan.jpg"
    },
    {
     "title": "Koh Tao",
@@ -3453,7 +3453,7 @@
     "score": 0.68,
     "lat": 10.092182,
     "lon": 99.839536,
-    "image_url": null
+    "image_url": "/content-image/asia/thailand/kohtao.jpg"
    },
    {
     "title": "Koh Phayam",
@@ -3497,7 +3497,7 @@
     "score": 0.79,
     "lat": 7.936602,
     "lon": 98.352929,
-    "image_url": null
+    "image_url": "/content-image/asia/thailand/phuket.jpg"
    },
    {
     "title": "Krabi",
@@ -3536,7 +3536,7 @@
   "top_locations": [
    {
     "title": "Zanzibar",
-    "snippet": "Zanzibar is an archipelago of coral islands off the coast of **Tanzania**, in the Indian Ocean about 35 km from the East African mainland. Officially a semi-autonomous part of Tanzania since 1964, it has its own president, flag, and a strong sense of being a separate place \u2014 w...",
+    "snippet": "Zanzibar is an archipelago of coral islands off the coast of Tanzania, in the Indian Ocean about 35 km from the East African mainland. Officially a semi-autonomous part of Tanzania since 1964, it has its own president, flag, and a strong sense of being a separate place \u2014 which...",
     "path": "africa/tanzania/zanzibar",
     "score": 0.75,
     "lat": -6.099971,
@@ -3841,7 +3841,7 @@
     "score": 0.73,
     "lat": 46.4979,
     "lon": 9.8392,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/stmoritz.jpg"
    },
    {
     "title": "Lugano",
@@ -3850,7 +3850,7 @@
     "score": 0.7,
     "lat": 46.005,
     "lon": 8.952,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/lugano.jpg"
    },
    {
     "title": "Zurich",
@@ -3859,7 +3859,7 @@
     "score": 0.7,
     "lat": 47.374449,
     "lon": 8.541042,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/zurich.jpg"
    },
    {
     "title": "Andermatt",
@@ -3877,7 +3877,7 @@
     "score": 0.66,
     "lat": 46.1696,
     "lon": 8.7955,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/locarno.jpg"
    }
   ]
  },
@@ -3894,7 +3894,7 @@
     "score": 0.72,
     "lat": 46.948474,
     "lon": 7.452175,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/bern.jpg"
    },
    {
     "title": "Thun",
@@ -3947,7 +3947,7 @@
     "score": 0.73,
     "lat": 46.4311,
     "lon": 6.913,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/montreux.jpg"
    },
    {
     "title": "Geneva",
@@ -3956,7 +3956,7 @@
     "score": 0.71,
     "lat": 46.2018,
     "lon": 6.1466,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/geneva.jpg"
    },
    {
     "title": "Verbier",
@@ -3965,7 +3965,7 @@
     "score": 0.69,
     "lat": 46.096101,
     "lon": 7.228676,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/verbier.jpg"
    },
    {
     "title": "Lausanne",
@@ -3974,7 +3974,7 @@
     "score": 0.68,
     "lat": 46.5218,
     "lon": 6.6327,
-    "image_url": null
+    "image_url": "/content-image/europe/switzerland/lausanne.jpg"
    },
    {
     "title": "Champ\u00e9ry",
@@ -4101,7 +4101,7 @@
   "top_locations": [
    {
     "title": "Ezulwini Valley",
-    "snippet": "The Ezulwini Valley \u2014 *Valley of Heaven* in siSwati \u2014 stretches south from Mbabane toward Lobamba and is the cultural and tourist heart of the country. The main road (MR103) through the valley is lined with craft markets, hotels, the royal residences, and the entrance to Mlilw...",
+    "snippet": "The Ezulwini Valley \u2014 Valley of Heaven in siSwati \u2014 stretches south from Mbabane toward Lobamba and is the cultural and tourist heart of the country. The main road (MR103) through the valley is lined with craft markets, hotels, the royal residences, and the entrance to Mlilwan...",
     "path": "africa/swaziland/ezulwinivalley",
     "score": 0.48,
     "lat": -26.43,
@@ -4205,7 +4205,7 @@
    },
    {
     "title": "Port Sudan",
-    "snippet": "Port Sudan is Sudan's principal seaport, a hot, low-lying city on a flat stretch of the **Red Sea** coast founded by the British in 1906 as the outlet for the railway from Khartoum. For most of the last century it was the country's economic lifeline \u2014 cotton, gum arabic, oil a...",
+    "snippet": "Port Sudan is Sudan's principal seaport, a hot, low-lying city on a flat stretch of the Red Sea coast founded by the British in 1906 as the outlet for the railway from Khartoum. For most of the last century it was the country's economic lifeline \u2014 cotton, gum arabic, oil and j...",
     "path": "africa/sudan/portsudan",
     "score": 0.23,
     "lat": 19.619217,
@@ -4227,7 +4227,7 @@
     "score": 0.71,
     "lat": 6.032814,
     "lon": 80.214955,
-    "image_url": null
+    "image_url": "/content-image/asia/srilanka/galle.jpg"
    },
    {
     "title": "Kandy",
@@ -4289,7 +4289,7 @@
     "score": 0.76,
     "lat": 39.949257,
     "lon": 4.049964,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/balearicislands/menorca.jpg"
    },
    {
     "title": "Palma",
@@ -4377,7 +4377,7 @@
     "score": 0.7,
     "lat": 40.9649,
     "lon": -5.663,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/centralspain/salamanca.jpg"
    },
    {
     "title": "Toledo",
@@ -4386,7 +4386,7 @@
     "score": 0.69,
     "lat": 39.855891,
     "lon": -4.024265,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/la_mancha/toledo.jpg"
    },
    {
     "title": "Segovia",
@@ -4404,7 +4404,7 @@
     "score": 0.66,
     "lat": 40.6565,
     "lon": -4.7002,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/centralspain/avila.jpg"
    }
   ]
  },
@@ -4430,7 +4430,7 @@
     "score": 0.7,
     "lat": 36.7421,
     "lon": -5.1666,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/andalucia/ronda.jpg"
    },
    {
     "title": "White Villages",
@@ -4474,7 +4474,7 @@
     "score": 0.82,
     "lat": 37.173499,
     "lon": -3.599534,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/andalucia/granada.jpg"
    },
    {
     "title": "Andalucia",
@@ -4483,7 +4483,7 @@
     "score": 0.8,
     "lat": 37.5443,
     "lon": -4.7278,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/andalucia.jpg"
    },
    {
     "title": "Cordoba",
@@ -4501,7 +4501,7 @@
     "score": 0.66,
     "lat": 36.746856,
     "lon": -3.879016,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/andalucia/nerja.jpg"
    },
    {
     "title": "Antequera",
@@ -4633,7 +4633,7 @@
     "score": 0.71,
     "lat": 39.4697,
     "lon": -0.3763,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/spanishcostas/valencia.jpg"
    },
    {
     "title": "Costa Blanca",
@@ -4695,7 +4695,7 @@
     "score": 0.7,
     "lat": 41.7038,
     "lon": 2.9416,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/costa_brava.jpg"
    },
    {
     "title": "Catalonia",
@@ -4713,7 +4713,7 @@
     "score": 0.69,
     "lat": 41.979301,
     "lon": 2.819944,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/catalonia/girona.jpg"
    },
    {
     "title": "Cadaqu\u00e9s",
@@ -4722,7 +4722,7 @@
     "score": 0.68,
     "lat": 42.289348,
     "lon": 3.275216,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/catalonia/cadaqus.jpg"
    }
   ]
  },
@@ -4739,20 +4739,20 @@
     "score": 0.77,
     "lat": 43.3183,
     "lon": -1.9812,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/basque_country_euskadi/sansebastian.jpg"
    },
    {
     "title": "Pamplona",
-    "snippet": "Pamplona is the city Hemingway made famous. Every July, the **San Fermin Festival** sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.",
+    "snippet": "Pamplona is the city Hemingway made famous. Every July, the San Fermin Festival sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.",
     "path": "europe/spain/navarre/pamplona",
     "score": 0.71,
     "lat": 42.8182,
     "lon": -1.644,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/navarre/pamplona.jpg"
    },
    {
     "title": "Basque Country (Euskadi)",
-    "snippet": "The **Basque Country** \u2014 *Euskadi* in the Basque language \u2014 is an autonomous community in the north of Spain, tucked between the Bay of Biscay, the Pyrenees and the French border. It is one of the most distinctive parts of Europe. The **Basques** are probably the oldest indige...",
+    "snippet": "The Basque Country \u2014 Euskadi in the Basque language \u2014 is an autonomous community in the north of Spain, tucked between the Bay of Biscay, the Pyrenees and the French border. It is one of the most distinctive parts of Europe. The Basques are probably the oldest indigenous peopl...",
     "path": "europe/spain/basque_country_euskadi",
     "score": 0.7,
     "lat": 43.0,
@@ -4761,12 +4761,12 @@
    },
    {
     "title": "Bilbao",
-    "snippet": "Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain \u2014 a gritty port on the Nervi\u00f3n river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's **Guggenheim Museum Bilbao** open...",
+    "snippet": "Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain \u2014 a gritty port on the Nervi\u00f3n river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's Guggenheim Museum Bilbao opened o...",
     "path": "europe/spain/basque_country_euskadi/bilbao",
     "score": 0.69,
     "lat": 43.263,
     "lon": -2.935,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/basque_country_euskadi/bilbao.jpg"
    },
    {
     "title": "Burgos",
@@ -4792,7 +4792,7 @@
     "score": 0.72,
     "lat": 42.880422,
     "lon": -8.545861,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/santiago_de_compostela.jpg"
    },
    {
     "title": "Galicia",
@@ -4845,7 +4845,7 @@
     "score": 0.76,
     "lat": 28.293578,
     "lon": -16.621447,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/canaryislands.jpg"
    },
    {
     "title": "Tenerife",
@@ -4854,7 +4854,7 @@
     "score": 0.72,
     "lat": 28.2916,
     "lon": -16.6291,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/canaryislands/tenerife.jpg"
    },
    {
     "title": "La Palma",
@@ -4876,7 +4876,7 @@
    },
    {
     "title": "La Gomera",
-    "snippet": "**An Ecological Paradise**",
+    "snippet": "An Ecological Paradise",
     "path": "europe/spain/canaryislands/lagomera",
     "score": 0.63,
     "lat": 28.119236,
@@ -4898,7 +4898,7 @@
     "score": 0.7,
     "lat": 29.0397,
     "lon": -13.6363,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/canaryislands/lanzarote.jpg"
    },
    {
     "title": "Gran Canaria",
@@ -4907,7 +4907,7 @@
     "score": 0.68,
     "lat": 27.9202,
     "lon": -15.5474,
-    "image_url": null
+    "image_url": "/content-image/europe/spain/canaryislands/grancanaria.jpg"
    },
    {
     "title": "Fuerteventura",
@@ -4951,7 +4951,7 @@
     "score": 0.77,
     "lat": 37.566679,
     "lon": 126.978291,
-    "image_url": null
+    "image_url": "/content-image/asia/southkorea/seoul.jpg"
    },
    {
     "title": "Busan",
@@ -4960,7 +4960,7 @@
     "score": 0.72,
     "lat": 35.179953,
     "lon": 129.075236,
-    "image_url": null
+    "image_url": "/content-image/asia/southkorea/pusan.jpg"
    },
    {
     "title": "Daegu",
@@ -5011,7 +5011,7 @@
     "score": 0.71,
     "lat": 33.489,
     "lon": 126.4983,
-    "image_url": null
+    "image_url": "/content-image/asia/southkorea/chejuisland.jpg"
    }
   ]
  },
@@ -5071,7 +5071,7 @@
  "cape_town": {
   "name": "Cape Town Region",
   "parent": "South Africa",
-  "n_locs": 13,
+  "n_locs": 14,
   "is_split": true,
   "top_locations": [
    {
@@ -5099,7 +5099,7 @@
     "score": 0.66,
     "lat": -33.15101,
     "lon": 19.615931,
-    "image_url": null
+    "image_url": "/content-image/africa/southafrica/winelands.jpg"
    },
    {
     "title": "Stellenbosch",
@@ -5111,13 +5111,13 @@
     "image_url": null
    },
    {
-    "title": "Franschhoek",
-    "snippet": "Franschhoek is a small town in the Cape Winelands, tucked at the head of a long, mountain-framed valley about 75 kilometres east of Cape Town. French Huguenot settlers arrived here in the late 17th century \u2014 the name means \"French corner\" in Dutch \u2014 and planted the first vines...",
-    "path": "africa/southafrica/franschhoek",
-    "score": 0.64,
-    "lat": -33.909167,
-    "lon": 19.119444,
-    "image_url": "/content-image/africa/southafrica/franschhoek.jpg"
+    "title": "Stellenbosch",
+    "snippet": "Stellenbosch is the heart of South Africa's wine country, a handsome university town of Cape Dutch architecture, oak-lined streets and more than 150 wine estates within easy driving distance. It is less than an hour from Cape Town and makes an easy day trip, though spending a...",
+    "path": "africa/southafrica/capetown/stellenbosch",
+    "score": 0.66,
+    "lat": -33.934444,
+    "lon": 18.869167,
+    "image_url": "/content-image/africa/southafrica/capetown/stellenbosch.jpg"
    }
   ]
  },
@@ -5362,7 +5362,7 @@
     "score": 0.69,
     "lat": 46.050027,
     "lon": 14.506929,
-    "image_url": null
+    "image_url": "/content-image/europe/slovenia/ljubljana.jpg"
    },
    {
     "title": "Lake Bohinj",
@@ -5763,7 +5763,7 @@
     "score": 0.69,
     "lat": 12.8667,
     "lon": -61.1833,
-    "image_url": null
+    "image_url": "/content-image/northamerica/saintvincentandthegrenadines/mustique.jpg"
    },
    {
     "title": "Mayreau",
@@ -5816,7 +5816,7 @@
     "score": 0.72,
     "lat": 13.9636,
     "lon": -61.0236,
-    "image_url": null
+    "image_url": "/content-image/northamerica/saintlucia/marigotbay.jpg"
    }
   ]
  },
@@ -5907,7 +5907,7 @@
   "top_locations": [
    {
     "title": "Irkutsk",
-    "snippet": "**Irkutsk** is located 60km East of the world famous *Lake Baikal*. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surr...",
+    "snippet": "Irkutsk is located 60km East of the world famous Lake Baikal. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surrounded...",
     "path": "europe/russia/irkutsk",
     "score": 0.53,
     "lat": 52.289122,
@@ -6030,7 +6030,7 @@
   "top_locations": [
    {
     "title": "Transylvania",
-    "snippet": "Transylvania is the large plateau that fills the centre and north of Romania, ringed on three sides by the great arc of the **Carpathian Mountains**. For a word so saturated with vampire associations in the English-speaking imagination, the reality is almost comically unlike i...",
+    "snippet": "Transylvania is the large plateau that fills the centre and north of Romania, ringed on three sides by the great arc of the Carpathian Mountains. For a word so saturated with vampire associations in the English-speaking imagination, the reality is almost comically unlike it: r...",
     "path": "europe/romania/transylvania",
     "score": 0.68,
     "lat": 46.597162,
@@ -6044,7 +6044,7 @@
     "score": 0.67,
     "lat": 45.7974,
     "lon": 24.1519,
-    "image_url": null
+    "image_url": "/content-image/europe/romania/sibiu.jpg"
    },
    {
     "title": "Brasov",
@@ -6185,7 +6185,7 @@
     "score": 0.67,
     "lat": 40.2112,
     "lon": -8.4295,
-    "image_url": null
+    "image_url": "/content-image/europe/portugal/coimbra.jpg"
    },
    {
     "title": "Aveiro",
@@ -6247,7 +6247,7 @@
     "score": 0.66,
     "lat": 38.5708,
     "lon": -7.9093,
-    "image_url": null
+    "image_url": "/content-image/europe/portugal/evora.jpg"
    },
    {
     "title": "Carvoeiro",
@@ -6273,7 +6273,7 @@
     "score": 0.72,
     "lat": 41.287796,
     "lon": -7.740175,
-    "image_url": null
+    "image_url": "/content-image/europe/portugal/dourovalley.jpg"
    },
    {
     "title": "Guimar\u00e3es",
@@ -6326,7 +6326,7 @@
     "score": 0.74,
     "lat": 37.7463,
     "lon": -25.6629,
-    "image_url": null
+    "image_url": "/content-image/europe/portugal/theazores.jpg"
    },
    {
     "title": "S\u00e3o Miguel",
@@ -6339,7 +6339,7 @@
    },
    {
     "title": "Sete Cidades",
-    "snippet": "**Sete Cidades** is a tiny village sitting inside a volcanic crater in the western part of S\u00e3o Miguel, between the twin lakes of Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason \u2014 the view from the crater rim down to the b...",
+    "snippet": "Sete Cidades is a tiny village sitting inside a volcanic crater in the western part of S\u00e3o Miguel, between the twin lakes of Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason \u2014 the view from the crater rim down to the blue...",
     "path": "europe/portugal/theazores/so_miguel/sete_cidades",
     "score": 0.72,
     "lat": 37.862,
@@ -6379,7 +6379,7 @@
     "score": 0.75,
     "lat": 50.061947,
     "lon": 19.936856,
-    "image_url": null
+    "image_url": "/content-image/europe/poland/krakow.jpg"
    },
    {
     "title": "Gdansk",
@@ -6450,7 +6450,7 @@
     "score": 0.67,
     "lat": 9.880782,
     "lon": 124.206461,
-    "image_url": null
+    "image_url": "/content-image/asia/philippines/bohol.jpg"
    },
    {
     "title": "Chocolate Hills",
@@ -6459,7 +6459,7 @@
     "score": 0.67,
     "lat": 9.798267,
     "lon": 124.168422,
-    "image_url": null
+    "image_url": "/content-image/asia/philippines/bohol/chocolatehills.jpg"
    },
    {
     "title": "Cebu",
@@ -6468,7 +6468,7 @@
     "score": 0.66,
     "lat": 10.47,
     "lon": 123.83,
-    "image_url": null
+    "image_url": "/content-image/asia/philippines/cebu.jpg"
    }
   ]
  },
@@ -6494,7 +6494,7 @@
     "score": 0.68,
     "lat": 9.739856,
     "lon": 118.743819,
-    "image_url": null
+    "image_url": "/content-image/asia/philippines/puerto_princesa.jpg"
    },
    {
     "title": "Zamboanga",
@@ -6515,12 +6515,12 @@
   "top_locations": [
    {
     "title": "Lima",
-    "snippet": "Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast \u2014 almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named **La Ciudad de los Reyes** (\"The City of Kings\")...",
+    "snippet": "Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast \u2014 almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named La Ciudad de los Reyes (\"The City of Kings\"), it...",
     "path": "southamerica/peru/lima",
     "score": 0.68,
     "lat": -12.045981,
     "lon": -77.030591,
-    "image_url": null
+    "image_url": "/content-image/southamerica/peru/lima.jpg"
    },
    {
     "title": "Huaraz",
@@ -6529,7 +6529,7 @@
     "score": 0.66,
     "lat": -9.5279,
     "lon": -77.5278,
-    "image_url": null
+    "image_url": "/content-image/southamerica/peru/huaraz.jpg"
    },
    {
     "title": "Kuelap",
@@ -6568,7 +6568,7 @@
   "top_locations": [
    {
     "title": "Cuzco",
-    "snippet": "**Cuzco** was the capital of the Inca empire and can be considered Peru's tourist capital today because of the rich Inca heritage. Many of the streets in the city center are lined with buildings containing whole parts of ancient Inca walls. The streets are often stepped, narrw...",
+    "snippet": "Cuzco was the capital of the Inca empire and can be considered Peru's tourist capital today because of the rich Inca heritage. Many of the streets in the city center are lined with buildings containing whole parts of ancient Inca walls. The streets are often stepped, narrwo an...",
     "path": "southamerica/peru/cuzco",
     "score": 0.83,
     "lat": -13.516954,
@@ -6582,16 +6582,16 @@
     "score": 0.74,
     "lat": -15.594596,
     "lon": -72.048777,
-    "image_url": null
+    "image_url": "/content-image/southamerica/peru/colca_canyon.jpg"
    },
    {
     "title": "Arequipa",
-    "snippet": "Arequipa is Peru's second city, built from white volcanic stone (*sillar*) quarried from the slopes of El Misti, the 5,822-metre volcano that rises picture-perfectly behind the city. They call it La Ciudad Blanca \u2014 the White City \u2014 and in the midday sun the colonial centre gle...",
+    "snippet": "Arequipa is Peru's second city, built from white volcanic stone (sillar) quarried from the slopes of El Misti, the 5,822-metre volcano that rises picture-perfectly behind the city. They call it La Ciudad Blanca \u2014 the White City \u2014 and in the midday sun the colonial centre gleam...",
     "path": "southamerica/peru/arequipa",
     "score": 0.69,
     "lat": -16.409,
     "lon": -71.5375,
-    "image_url": null
+    "image_url": "/content-image/southamerica/peru/arequipa.jpg"
    },
    {
     "title": "Nazca",
@@ -6657,7 +6657,7 @@
    },
    {
     "title": "Ciudad del Este",
-    "snippet": "Ciudad del Este is Paraguay's second city and the strangest place in the country \u2014 a chaotic frontier boomtown on the Paran\u00e1 river, 327 km east of Asunci\u00f3n, where Paraguay, Brazil and Argentina meet at the **Triple Frontier**. It was founded in 1957 to anchor the Paraguayan si...",
+    "snippet": "Ciudad del Este is Paraguay's second city and the strangest place in the country \u2014 a chaotic frontier boomtown on the Paran\u00e1 river, 327 km east of Asunci\u00f3n, where Paraguay, Brazil and Argentina meet at the Triple Frontier. It was founded in 1957 to anchor the Paraguayan side o...",
     "path": "southamerica/paraguay/ciudaddeleste",
     "score": 0.34,
     "lat": -25.516901,
@@ -6727,7 +6727,7 @@
   "top_locations": [
    {
     "title": "Bougainville",
-    "snippet": "**Bougainville** is the largest island in the Solomon Islands chain, though politically it belongs to Papua New Guinea as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a complex recent history.",
+    "snippet": "Bougainville is the largest island in the Solomon Islands chain, though politically it belongs to Papua New Guinea as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a complex recent history.",
     "path": "asia/papuanewguinea/bougainville",
     "score": 0.36,
     "lat": -6.144128,
@@ -6744,12 +6744,12 @@
   "top_locations": [
    {
     "title": "San Blas Islands",
-    "snippet": "The San Blas Islands \u2014 **Guna Yala** in the language of the indigenous people who live there \u2014 are an archipelago of around 370 palm-covered coral islets strung along the Caribbean coast of Panama. Only about 50 of them are inhabited. They belong, in any meaningful sense, not...",
+    "snippet": "The San Blas Islands \u2014 Guna Yala in the language of the indigenous people who live there \u2014 are an archipelago of around 370 palm-covered coral islets strung along the Caribbean coast of Panama. Only about 50 of them are inhabited. They belong, in any meaningful sense, not to P...",
     "path": "northamerica/panama/sanblasislands",
     "score": 0.67,
     "lat": 9.5817,
     "lon": -78.9167,
-    "image_url": null
+    "image_url": "/content-image/northamerica/panama/sanblasislands.jpg"
    },
    {
     "title": "Panama City",
@@ -6802,7 +6802,7 @@
     "score": 0.7,
     "lat": 7.226,
     "lon": 134.1312,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/palau/koror.jpg"
    },
    {
     "title": "Babeldaob",
@@ -6850,7 +6850,7 @@
    },
    {
     "title": "Gojal Valley",
-    "snippet": "Gojal, also known as **Upper Hunza**, is the highest and most remote part of the Hunza Valley, stretching along the Karakoram Highway from just beyond Attabad Lake all the way north to the Chinese border at Khunjerab Pass. At 8,500 square kilometres, it is the largest tehsil i...",
+    "snippet": "Gojal, also known as Upper Hunza, is the highest and most remote part of the Hunza Valley, stretching along the Karakoram Highway from just beyond Attabad Lake all the way north to the Chinese border at Khunjerab Pass. At 8,500 square kilometres, it is the largest tehsil in Gi...",
     "path": "asia/pakistan/hunzavalley/gojal_valley",
     "score": 0.55,
     "lat": 36.446,
@@ -6961,7 +6961,7 @@
     "score": 0.73,
     "lat": 60.394306,
     "lon": 5.325919,
-    "image_url": null
+    "image_url": "/content-image/europe/norway/bergen.jpg"
    },
    {
     "title": "\u00c5lesund",
@@ -6970,7 +6970,7 @@
     "score": 0.71,
     "lat": 62.480236,
     "lon": 6.555074,
-    "image_url": null
+    "image_url": "/content-image/europe/norway/lesund.jpg"
    },
    {
     "title": "\u00c5ndalsnes",
@@ -7005,7 +7005,7 @@
     "score": 0.75,
     "lat": 69.651635,
     "lon": 18.955859,
-    "image_url": null
+    "image_url": "/content-image/europe/norway/tromso.jpg"
    },
    {
     "title": "North Cape",
@@ -7085,7 +7085,7 @@
     "score": 0.7,
     "lat": 68.2101,
     "lon": 14.4774,
-    "image_url": null
+    "image_url": "/content-image/europe/norway/lofotenislands/kabelvg.jpg"
    },
    {
     "title": "Flakstad",
@@ -7118,7 +7118,7 @@
     "score": 0.67,
     "lat": 78.719852,
     "lon": 20.349333,
-    "image_url": null
+    "image_url": "/content-image/europe/norway/spitsbergen.jpg"
    },
    {
     "title": "Longyearbyen",
@@ -7343,7 +7343,7 @@
    },
    {
     "title": "San Juan del Sur",
-    "snippet": "**San Juan del Sur** is a small fishing town on Nicaragua's Pacific coast, about 140 km south of Managua and close to the Costa Rican border. It was for a brief period in the 1850s one of the busiest ports in the Americas \u2014 the Atlantic\u2013Pacific route across Nicaragua, running...",
+    "snippet": "San Juan del Sur is a small fishing town on Nicaragua's Pacific coast, about 140 km south of Managua and close to the Costa Rican border. It was for a brief period in the 1850s one of the busiest ports in the Americas \u2014 the Atlantic\u2013Pacific route across Nicaragua, running from...",
     "path": "northamerica/nicaragua/sanjuandelsur",
     "score": 0.53,
     "lat": 11.2527,
@@ -7360,12 +7360,12 @@
   "top_locations": [
    {
     "title": "South Island",
-    "snippet": "The **South Island** of New Zealand is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m \u2014 the highest peak in New Zealand. West of the Alps is the wild, rain-drenched West Coast; east is th...",
+    "snippet": "The South Island of New Zealand is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m \u2014 the highest peak in New Zealand. West of the Alps is the wild, rain-drenched West Coast; east is the Ca...",
     "path": "australiaandpacific/newzealand/south_island",
     "score": 0.87,
     "lat": -43.586562,
     "lon": 171.212329,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/south_island.jpg"
    },
    {
     "title": "Christchurch",
@@ -7427,7 +7427,7 @@
     "score": 0.71,
     "lat": -44.6942,
     "lon": 169.1365,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/south_island/otago/wanaka.jpg"
    },
    {
     "title": "Otago",
@@ -7436,7 +7436,7 @@
     "score": 0.69,
     "lat": -45.3975,
     "lon": 170.1779,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/south_island/otago.jpg"
    },
    {
     "title": "Dunedin",
@@ -7510,7 +7510,7 @@
   "top_locations": [
    {
     "title": "North Island",
-    "snippet": "The **North Island** of New Zealand is home to around three-quarters of the country's population. It's warmer, more urbanised, and geologically more active than the South Island \u2014 the Taupo Volcanic Zone cuts across the centre of the island, producing geysers, boiling mud pool...",
+    "snippet": "The North Island of New Zealand is home to around three-quarters of the country's population. It's warmer, more urbanised, and geologically more active than the South Island \u2014 the Taupo Volcanic Zone cuts across the centre of the island, producing geysers, boiling mud pools, a...",
     "path": "australiaandpacific/newzealand/north_island",
     "score": 0.75,
     "lat": -38.00353,
@@ -7533,7 +7533,7 @@
     "score": 0.67,
     "lat": -41.288795,
     "lon": 174.777211,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/north_island/greater_wellington/wellington.jpg"
    },
    {
     "title": "Waitomo",
@@ -7568,7 +7568,7 @@
     "score": 0.69,
     "lat": -36.8667,
     "lon": 174.7624,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/north_island/auckland_region.jpg"
    },
    {
     "title": "Bay of Islands",
@@ -7577,7 +7577,7 @@
     "score": 0.69,
     "lat": -35.255009,
     "lon": 174.162673,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/north_island/northland/bayofislands.jpg"
    },
    {
     "title": "Auckland",
@@ -7586,7 +7586,7 @@
     "score": 0.66,
     "lat": -36.8521,
     "lon": 174.7632,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/newzealand/north_island/auckland_region/auckland.jpg"
    },
    {
     "title": "Paihia",
@@ -7669,7 +7669,7 @@
     "score": 0.81,
     "lat": -21.236831,
     "lon": -159.777474,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/cookislands/rarotonga.jpg"
    },
    {
     "title": "Aitutaki",
@@ -7682,7 +7682,7 @@
    },
    {
     "title": "Atiu",
-    "snippet": "Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by *makatea* \u2014 raised coral limestone \u2014 a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastl...",
+    "snippet": "Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by makatea \u2014 raised coral limestone \u2014 a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastlin...",
     "path": "australiaandpacific/cookislands/atiu",
     "score": 0.55,
     "lat": -19.916358,
@@ -7744,7 +7744,7 @@
    },
    {
     "title": "Delft",
-    "snippet": "Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands \u2014 the name comes from *delven*, to dig, after the canal that was dug here in the 11th century \u2014 and among the best-p...",
+    "snippet": "Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands \u2014 the name comes from delven, to dig, after the canal that was dug here in the 11th century \u2014 and among the best-pre...",
     "path": "europe/netherlands/delft",
     "score": 0.63,
     "lat": 52.0116,
@@ -7788,7 +7788,7 @@
    },
    {
     "title": "Nijmegen",
-    "snippet": "**Nijmegen** is a city of about 180,000 people in the east of the Netherlands, on the south bank of the **Waal** river (the main branch of the Rhine as it enters the country). It claims to be the oldest city in the Netherlands: a Roman legionary camp was established here aroun...",
+    "snippet": "Nijmegen is a city of about 180,000 people in the east of the Netherlands, on the south bank of the Waal river (the main branch of the Rhine as it enters the country). It claims to be the oldest city in the Netherlands: a Roman legionary camp was established here around 12 BCE...",
     "path": "europe/netherlands/nijmegen",
     "score": 0.52,
     "lat": 51.847495,
@@ -7797,7 +7797,7 @@
    },
    {
     "title": "Arnhem",
-    "snippet": "Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of *A Bridge Too Far* -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airbo...",
+    "snippet": "Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of A Bridge Too Far -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airborn...",
     "path": "europe/netherlands/arnhem",
     "score": 0.52,
     "lat": 51.9851,
@@ -7828,7 +7828,7 @@
     "score": 0.74,
     "lat": 12.5093,
     "lon": -69.9688,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/aruba.jpg"
    },
    {
     "title": "Oranjestad",
@@ -7837,7 +7837,7 @@
     "score": 0.66,
     "lat": 12.5092,
     "lon": -70.0086,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/aruba/oranjestad.jpg"
    }
   ]
  },
@@ -7910,7 +7910,7 @@
   "top_locations": [
    {
     "title": "Pokhara",
-    "snippet": "If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of Phewa Lake in a tranquil valley ringed by forested hills, with the snow wall of the **Annapurnas** and the perfect fish-tail summit of **Machhapuchhre...",
+    "snippet": "If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of Phewa Lake in a tranquil valley ringed by forested hills, with the snow wall of the Annapurnas and the perfect fish-tail summit of Machhapuchhre (6,99...",
     "path": "asia/nepal/pokhara",
     "score": 0.73,
     "lat": 28.209538,
@@ -8041,7 +8041,7 @@
    },
    {
     "title": "Maputo",
-    "snippet": "**Maputo** is the capital and largest city of **Mozambique**, set on the shore of **Maputo Bay** in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as **Louren\u00e7o Marques**, named after the 16th-century Portug...",
+    "snippet": "Maputo is the capital and largest city of Mozambique, set on the shore of Maputo Bay in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as Louren\u00e7o Marques, named after the 16th-century Portuguese explorer wh...",
     "path": "africa/mozambique/maputo",
     "score": 0.48,
     "lat": -25.966213,
@@ -8085,7 +8085,7 @@
    },
    {
     "title": "Fez",
-    "snippet": "Fez is Morocco's spiritual and intellectual capital, and the most rewarding city in the country to lose yourself in. The walled medina of **Fes el-Bali** is the largest car-free urban area on earth \u2014 nine thousand alleys, dead ends, fondouks and squares packed into a bowl in t...",
+    "snippet": "Fez is Morocco's spiritual and intellectual capital, and the most rewarding city in the country to lose yourself in. The walled medina of Fes el-Bali is the largest car-free urban area on earth \u2014 nine thousand alleys, dead ends, fondouks and squares packed into a bowl in the S...",
     "path": "africa/morocco/fez",
     "score": 0.73,
     "lat": 34.0181,
@@ -8108,7 +8108,7 @@
     "score": 0.67,
     "lat": 31.587352,
     "lon": -5.591495,
-    "image_url": null
+    "image_url": "/content-image/africa/morocco/todragorge.jpg"
    },
    {
     "title": "Volubilis",
@@ -8212,7 +8212,7 @@
     "score": 0.68,
     "lat": 42.255651,
     "lon": 18.89695,
-    "image_url": null
+    "image_url": "/content-image/europe/montenegro/sveti_stefan.jpg"
    },
    {
     "title": "Perast",
@@ -8247,7 +8247,7 @@
     "score": 0.53,
     "lat": 47.203657,
     "lon": 102.843645,
-    "image_url": "/content-image/asia/mongolia/karakorum.jpg"
+    "image_url": null
    },
    {
     "title": "Ulaanbaatar",
@@ -8378,7 +8378,7 @@
     "score": 0.7,
     "lat": 17.0732,
     "lon": -96.7266,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/oaxaca.jpg"
    },
    {
     "title": "Mexico City",
@@ -8413,16 +8413,16 @@
     "score": 0.73,
     "lat": 20.640718,
     "lon": -105.220306,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/puertovallarta.jpg"
    },
    {
     "title": "Cabo San Lucas",
-    "snippet": "**Cabo San Lucas** sits at the very southern tip of the **Baja California** peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour **San Jos\u00e9 del Cabo**, 30 km to the east, it forms the resort area known simply as **Los...",
+    "snippet": "Cabo San Lucas sits at the very southern tip of the Baja California peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour San Jos\u00e9 del Cabo, 30 km to the east, it forms the resort area known simply as Los Cabos \u2014 the m...",
     "path": "northamerica/mexico/cabosanlucas",
     "score": 0.69,
     "lat": 22.893888,
     "lon": -109.92006,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/cabosanlucas.jpg"
    },
    {
     "title": "San Jose del Cabo",
@@ -8470,12 +8470,12 @@
    },
    {
     "title": "Riviera Maya",
-    "snippet": "The Riviera Maya is the marketing name for roughly 130 km of Caribbean coastline that runs south from **Canc\u00fan** airport to the town of **Tulum**, on the east side of Mexico's Yucat\u00e1n Peninsula. In the early 1990s almost all of it was jungle and fishing villages; since then it...",
+    "snippet": "The Riviera Maya is the marketing name for roughly 130 km of Caribbean coastline that runs south from Canc\u00fan airport to the town of Tulum, on the east side of Mexico's Yucat\u00e1n Peninsula. In the early 1990s almost all of it was jungle and fishing villages; since then it has bee...",
     "path": "northamerica/mexico/rivieramaya",
     "score": 0.73,
     "lat": 20.621933,
     "lon": -87.075707,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/rivieramaya.jpg"
    },
    {
     "title": "Cozumel",
@@ -8493,7 +8493,7 @@
     "score": 0.71,
     "lat": 21.1528,
     "lon": -86.8426,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/cancun.jpg"
    },
    {
     "title": "Playa del Carmen",
@@ -8502,7 +8502,7 @@
     "score": 0.7,
     "lat": 20.6461,
     "lon": -87.0806,
-    "image_url": null
+    "image_url": "/content-image/northamerica/mexico/playadelcarmen.jpg"
    }
   ]
  },
@@ -8519,7 +8519,7 @@
     "score": 0.66,
     "lat": -20.01302,
     "lon": 57.584627,
-    "image_url": null
+    "image_url": "/content-image/africa/mauritius/grandbaie.jpg"
    },
    {
     "title": "Chamarel",
@@ -8528,7 +8528,7 @@
     "score": 0.66,
     "lat": -20.425307,
     "lon": 57.391271,
-    "image_url": null
+    "image_url": "/content-image/africa/mauritius/chamarel.jpg"
    },
    {
     "title": "Mah\u00e9bourg",
@@ -8625,7 +8625,7 @@
     "score": 0.69,
     "lat": 35.899,
     "lon": 14.5137,
-    "image_url": null
+    "image_url": "/content-image/europe/malta/valletta.jpg"
    },
    {
     "title": "Gozo",
@@ -8634,7 +8634,7 @@
     "score": 0.67,
     "lat": 36.046778,
     "lon": 14.258256,
-    "image_url": null
+    "image_url": "/content-image/europe/malta/gozo.jpg"
    },
    {
     "title": "Mdina",
@@ -8643,7 +8643,7 @@
     "score": 0.66,
     "lat": 35.885892,
     "lon": 14.402529,
-    "image_url": null
+    "image_url": "/content-image/europe/malta/mdina.jpg"
    },
    {
     "title": "St Julian's",
@@ -8766,11 +8766,11 @@
     "score": 0.73,
     "lat": 6.370039,
     "lon": 99.792863,
-    "image_url": null
+    "image_url": "/content-image/asia/malaysia/langkawi.jpg"
    },
    {
     "title": "Penang",
-    "snippet": "Penang \u2014 **Pulau Pinang** in Malay \u2014 is a 280 km\u00b2 island off the north-west coast of **Peninsular Malaysia**, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by **Cap...",
+    "snippet": "Penang \u2014 Pulau Pinang in Malay \u2014 is a 280 km\u00b2 island off the north-west coast of Peninsular Malaysia, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by Captain Franc...",
     "path": "asia/malaysia/penang",
     "score": 0.72,
     "lat": 5.406501,
@@ -8819,7 +8819,7 @@
     "score": 0.66,
     "lat": 5.978007,
     "lon": 116.072899,
-    "image_url": null
+    "image_url": "/content-image/asia/malaysia/kotakinabalu.jpg"
    },
    {
     "title": "Sabah",
@@ -9330,7 +9330,7 @@
     "score": 0.66,
     "lat": 56.949398,
     "lon": 24.105185,
-    "image_url": null
+    "image_url": "/content-image/europe/latvia/riga.jpg"
    },
    {
     "title": "Jurmala",
@@ -9581,7 +9581,7 @@
   "top_locations": [
    {
     "title": "Tarawa",
-    "snippet": "*Australia and Pacific > Kiribati > Tarawa*",
+    "snippet": "Australia and Pacific > Kiribati > Tarawa",
     "path": "australiaandpacific/kiribati/tarawa",
     "score": 0.44,
     "lat": 1.484554,
@@ -9608,7 +9608,7 @@
    },
    {
     "title": "Abemama",
-    "snippet": "*Australia and Pacific > Kiribati > Abemama*",
+    "snippet": "Australia and Pacific > Kiribati > Abemama",
     "path": "australiaandpacific/kiribati/abemama",
     "score": 0.37,
     "lat": 0.514692,
@@ -9661,7 +9661,7 @@
    },
    {
     "title": "Nakuru",
-    "snippet": "Nakuru is Kenya's fourth-largest city and the unofficial capital of the Rift Valley \u2014 a busy agricultural hub on the floor of the Great Rift, ringed by volcanoes, soda lakes, and farmland. Most travellers come for one reason: **Lake Nakuru National Park**, the alkaline lake on...",
+    "snippet": "Nakuru is Kenya's fourth-largest city and the unofficial capital of the Rift Valley \u2014 a busy agricultural hub on the floor of the Great Rift, ringed by volcanoes, soda lakes, and farmland. Most travellers come for one reason: Lake Nakuru National Park, the alkaline lake on the...",
     "path": "africa/kenya/theriftvalley/nakuru",
     "score": 0.6,
     "lat": -0.3031,
@@ -9687,7 +9687,7 @@
   "top_locations": [
    {
     "title": "Mombasa",
-    "snippet": "Mombasa is Kenya\u2019s second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country\u2019s southern coast. Its Swahili name is **Mvita** \u2014 \"Island of War\" \u2014 which captures 2,000 years of conquest by Arabs, Persian...",
+    "snippet": "Mombasa is Kenya\u2019s second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country\u2019s southern coast. Its Swahili name is Mvita \u2014 \"Island of War\" \u2014 which captures 2,000 years of conquest by Arabs, Persians, P...",
     "path": "africa/kenya/thecoast/mombasa",
     "score": 0.62,
     "lat": -4.05052,
@@ -9740,7 +9740,7 @@
   "top_locations": [
    {
     "title": "Almaty",
-    "snippet": "**ALMATY** (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capi...",
+    "snippet": "ALMATY (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capital....",
     "path": "asia/kazakhstan/almaty",
     "score": 0.55,
     "lat": 43.236392,
@@ -9807,7 +9807,7 @@
     "score": 0.75,
     "lat": 29.508444,
     "lon": 35.336215,
-    "image_url": null
+    "image_url": "/content-image/asia/jordan/wadirum.jpg"
    },
    {
     "title": "Jerash",
@@ -9900,25 +9900,25 @@
     "score": 0.75,
     "lat": 33.0,
     "lon": 130.5,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/kyushu.jpg"
    },
    {
     "title": "Beppu",
-    "snippet": "As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - *onsen*, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, Oita, the city's purpose is less that of industry and commerce th...",
+    "snippet": "As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - onsen, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, Oita, the city's purpose is less that of industry and commerce than...",
     "path": "asia/japan/kyushu/beppu",
     "score": 0.66,
     "lat": 33.284575,
     "lon": 131.491306,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/kyushu/beppu.jpg"
    },
    {
     "title": "Kumamoto",
-    "snippet": "The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of **Aso-san** rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determinatio...",
+    "snippet": "The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of Aso-san rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determination \u2014...",
     "path": "asia/japan/kyushu/kumamoto",
     "score": 0.66,
     "lat": 32.645,
     "lon": 130.6341,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/kyushu/kumamoto.jpg"
    },
    {
     "title": "Kagoshima",
@@ -9944,7 +9944,7 @@
     "score": 0.69,
     "lat": 33.560875,
     "lon": 133.371886,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/shikoku.jpg"
    },
    {
     "title": "Takamatsu",
@@ -9953,7 +9953,7 @@
     "score": 0.66,
     "lat": 34.3428,
     "lon": 134.0466,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/shikoku/takamatsu.jpg"
    },
    {
     "title": "Matsuyama",
@@ -9975,7 +9975,7 @@
    },
    {
     "title": "Kotohira",
-    "snippet": "Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for **Konpira-san** (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the de...",
+    "snippet": "Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for Konpira-san (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the deity...",
     "path": "asia/japan/shikoku/kotohira",
     "score": 0.6,
     "lat": 34.1916,
@@ -10059,7 +10059,7 @@
     "score": 0.81,
     "lat": 34.693757,
     "lon": 135.501454,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/osaka.jpg"
    },
    {
     "title": "Himeji",
@@ -10068,7 +10068,7 @@
     "score": 0.73,
     "lat": 34.815353,
     "lon": 134.685479,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/himeji.jpg"
    },
    {
     "title": "Kobe",
@@ -10077,7 +10077,7 @@
     "score": 0.66,
     "lat": 34.693238,
     "lon": 135.194376,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/kobe.jpg"
    }
   ]
  },
@@ -10103,7 +10103,7 @@
     "score": 0.72,
     "lat": 35.4503,
     "lon": 139.6344,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/yokohama.jpg"
    },
    {
     "title": "Mito",
@@ -10156,7 +10156,7 @@
     "score": 0.73,
     "lat": 36.5613,
     "lon": 136.6562,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/kanazawacity.jpg"
    },
    {
     "title": "Matsumoto",
@@ -10174,7 +10174,7 @@
     "score": 0.68,
     "lat": 36.2048,
     "lon": 138.2529,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu.jpg"
    },
    {
     "title": "Nagoya",
@@ -10200,7 +10200,7 @@
     "score": 0.71,
     "lat": 34.391724,
     "lon": 132.451759,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/hiroshima.jpg"
    },
    {
     "title": "Izumo",
@@ -10253,11 +10253,11 @@
     "score": 0.66,
     "lat": 35.568002,
     "lon": 135.190638,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/honshu/amanohashidate.jpg"
    },
    {
     "title": "Nagahama",
-    "snippet": "**Nagahama** sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with *machiya* (townhouses) and *kura* (storehouses), many now c...",
+    "snippet": "Nagahama sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with machiya (townhouses) and kura (storehouses), many now converted...",
     "path": "asia/japan/honshu/nagahama",
     "score": 0.58,
     "lat": 35.380862,
@@ -10288,7 +10288,7 @@
     "score": 0.74,
     "lat": 26.52,
     "lon": 128.053,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/ryukyuislands.jpg"
    },
    {
     "title": "Taketomi Island",
@@ -10297,7 +10297,7 @@
     "score": 0.73,
     "lat": 24.3263,
     "lon": 124.089,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/ryukyuislands/taketomiisland.jpg"
    },
    {
     "title": "Okinawa Island",
@@ -10306,7 +10306,7 @@
     "score": 0.73,
     "lat": 26.474895,
     "lon": 127.911469,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/ryukyuislands/okinawaisland.jpg"
    },
    {
     "title": "Miyako Island",
@@ -10315,7 +10315,7 @@
     "score": 0.72,
     "lat": 24.813957,
     "lon": 125.305579,
-    "image_url": null
+    "image_url": "/content-image/asia/japan/ryukyuislands/miyakoisland.jpg"
    },
    {
     "title": "Ishigaki Island",
@@ -10348,7 +10348,7 @@
     "score": 0.74,
     "lat": 18.2681,
     "lon": -78.3516,
-    "image_url": null
+    "image_url": "/content-image/northamerica/jamaica/negril.jpg"
    },
    {
     "title": "Ocho Rios",
@@ -10357,7 +10357,7 @@
     "score": 0.69,
     "lat": 18.4104,
     "lon": -77.1024,
-    "image_url": null
+    "image_url": "/content-image/northamerica/jamaica/ochorios.jpg"
    },
    {
     "title": "Montego Bay",
@@ -10366,7 +10366,7 @@
     "score": 0.66,
     "lat": 18.4762,
     "lon": -77.8939,
-    "image_url": null
+    "image_url": "/content-image/northamerica/jamaica/montegobay.jpg"
    },
    {
     "title": "Port Antonio",
@@ -10419,7 +10419,7 @@
     "score": 0.67,
     "lat": 42.734297,
     "lon": 12.738203,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/umbria/spoleto.jpg"
    },
    {
     "title": "Lazio",
@@ -10432,7 +10432,7 @@
    },
    {
     "title": "Frascati",
-    "snippet": "Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times \u2014 the Romans called the area *Tusculanum* \u2014 and the legacy is a string of Renaissance...",
+    "snippet": "Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times \u2014 the Romans called the area Tusculanum \u2014 and the legacy is a string of Renaissance a...",
     "path": "europe/italy/lazio/frascati",
     "score": 0.55,
     "lat": 41.808245,
@@ -10454,7 +10454,7 @@
     "score": 0.74,
     "lat": 44.14828,
     "lon": 8.271494,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/liguria/italianriviera.jpg"
    },
    {
     "title": "Menton",
@@ -10463,7 +10463,7 @@
     "score": 0.69,
     "lat": 43.775349,
     "lon": 7.502921,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/provence/menton.jpg"
    },
    {
     "title": "Sanremo",
@@ -10596,7 +10596,7 @@
     "score": 0.69,
     "lat": 44.49382,
     "lon": 11.342633,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/emiliaromagna/bologna.jpg"
    }
   ]
  },
@@ -10613,7 +10613,7 @@
     "score": 0.76,
     "lat": 40.984254,
     "lon": 16.621003,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/puglia.jpg"
    },
    {
     "title": "Matera",
@@ -10622,7 +10622,7 @@
     "score": 0.73,
     "lat": 40.447642,
     "lon": 16.473574,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/basilicata/matera.jpg"
    },
    {
     "title": "Alberobello",
@@ -10640,7 +10640,7 @@
     "score": 0.67,
     "lat": 38.6753,
     "lon": 15.8949,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/calabria/tropea.jpg"
    },
    {
     "title": "Monopoli",
@@ -10666,7 +10666,7 @@
     "score": 0.71,
     "lat": 43.071195,
     "lon": 12.614667,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/umbria/assisi.jpg"
    },
    {
     "title": "Umbria",
@@ -10675,7 +10675,7 @@
     "score": 0.67,
     "lat": 42.965916,
     "lon": 12.490236,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/umbria.jpg"
    },
    {
     "title": "Perugia",
@@ -10684,7 +10684,7 @@
     "score": 0.67,
     "lat": 43.1107,
     "lon": 12.3908,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/umbria/perugia.jpg"
    },
    {
     "title": "Urbino",
@@ -10714,7 +10714,7 @@
   "top_locations": [
    {
     "title": "Venice",
-    "snippet": "Maybe you expect **Venice** to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to...",
+    "snippet": "Maybe you expect Venice to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to do...",
     "path": "europe/italy/veneto/venice",
     "score": 0.96,
     "lat": 45.437191,
@@ -10728,7 +10728,7 @@
     "score": 0.69,
     "lat": 45.4077,
     "lon": 11.8734,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/veneto/padua.jpg"
    },
    {
     "title": "Treviso",
@@ -10781,7 +10781,7 @@
     "score": 0.71,
     "lat": 45.951094,
     "lon": 8.634165,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/lombardia/lagomaggiore.jpg"
    },
    {
     "title": "Piemonte",
@@ -10790,7 +10790,7 @@
     "score": 0.7,
     "lat": 45.0522,
     "lon": 7.5155,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/piemonte.jpg"
    },
    {
     "title": "Como",
@@ -10825,7 +10825,7 @@
     "score": 0.75,
     "lat": 45.4385,
     "lon": 10.9916,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/veneto/verona.jpg"
    },
    {
     "title": "Modena",
@@ -10834,7 +10834,7 @@
     "score": 0.66,
     "lat": 44.6471,
     "lon": 10.9252,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/emiliaromagna/modena.jpg"
    },
    {
     "title": "Veneto",
@@ -10887,7 +10887,7 @@
     "score": 0.67,
     "lat": 44.477762,
     "lon": 8.70263,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/liguria.jpg"
    },
    {
     "title": "Sestri Levante",
@@ -10896,7 +10896,7 @@
     "score": 0.66,
     "lat": 44.2715,
     "lon": 9.3959,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/liguria/sestri_levante.jpg"
    },
    {
     "title": "Genoa",
@@ -10926,7 +10926,7 @@
   "top_locations": [
    {
     "title": "Positano",
-    "snippet": "*Europe > Italy > Campania > Positano*",
+    "snippet": "Europe > Italy > Campania > Positano",
     "path": "europe/italy/campania/positano",
     "score": 0.84,
     "lat": 40.628658,
@@ -10935,7 +10935,7 @@
    },
    {
     "title": "Sorrento",
-    "snippet": "*Europe > Italy > Campania > Sorrento*",
+    "snippet": "Europe > Italy > Campania > Sorrento",
     "path": "europe/italy/campania/sorrento",
     "score": 0.83,
     "lat": 40.624906,
@@ -10949,11 +10949,11 @@
     "score": 0.8,
     "lat": 40.839565,
     "lon": 14.252243,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/campania.jpg"
    },
    {
     "title": "Capri",
-    "snippet": "Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the **Sorrento peninsula**. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors **Augustus** and **Tiber...",
+    "snippet": "Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the Sorrento peninsula. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors Augustus and Tiberius built...",
     "path": "europe/italy/campania/capri",
     "score": 0.77,
     "lat": 40.548843,
@@ -10962,12 +10962,12 @@
    },
    {
     "title": "Naples",
-    "snippet": "*Europe > Italy > Campania > Naples*",
+    "snippet": "Europe > Italy > Campania > Naples",
     "path": "europe/italy/campania/naples",
     "score": 0.73,
     "lat": 40.835885,
     "lon": 14.248768,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/campania/naples.jpg"
    }
   ]
  },
@@ -10993,7 +10993,7 @@
     "score": 0.67,
     "lat": 46.448973,
     "lon": 11.698703,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/trentinoaltoadige/val_di_fassa.jpg"
    },
    {
     "title": "Bolzano",
@@ -11002,7 +11002,7 @@
     "score": 0.67,
     "lat": 46.655946,
     "lon": 11.230213,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/trentinoaltoadige/bolzano.jpg"
    },
    {
     "title": "Canazei",
@@ -11046,7 +11046,7 @@
     "score": 0.71,
     "lat": 45.662431,
     "lon": 10.686157,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/lombardia/lagodigarda.jpg"
    },
    {
     "title": "Sirmione",
@@ -11055,7 +11055,7 @@
     "score": 0.68,
     "lat": 45.4688,
     "lon": 10.6078,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/lombardia/lagodigarda/sirmione.jpg"
    },
    {
     "title": "Peschiera del Garda",
@@ -11064,7 +11064,7 @@
     "score": 0.67,
     "lat": 45.44,
     "lon": 10.6896,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/lombardia/lagodigarda/peschiera.jpg"
    },
    {
     "title": "Bergamo",
@@ -11073,7 +11073,7 @@
     "score": 0.66,
     "lat": 45.6983,
     "lon": 9.6773,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/lombardia/bergamo.jpg"
    }
   ]
  },
@@ -11090,7 +11090,7 @@
     "score": 0.73,
     "lat": 40.1522,
     "lon": 18.2261,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/puglia/lecce.jpg"
    },
    {
     "title": "Otranto",
@@ -11138,12 +11138,12 @@
    },
    {
     "title": "Cortona",
-    "snippet": "Cortona is a compact medieval hill town in eastern Tuscany, perched on a steep slope with sweeping views over the Val di Chiana to Lake Trasimeno. It became internationally famous as the setting for Frances Mayes' memoir *Under the Tuscan Sun*, but the town's appeal long preda...",
+    "snippet": "Cortona is a compact medieval hill town in eastern Tuscany, perched on a steep slope with sweeping views over the Val di Chiana to Lake Trasimeno. It became internationally famous as the setting for Frances Mayes' memoir Under the Tuscan Sun, but the town's appeal long predate...",
     "path": "europe/italy/tuscany/cortona",
     "score": 0.7,
     "lat": 43.275298,
     "lon": 11.985062,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/cortona.jpg"
    },
    {
     "title": "Orvieto",
@@ -11152,7 +11152,7 @@
     "score": 0.7,
     "lat": 42.718615,
     "lon": 12.108791,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/umbria/orvieto.jpg"
    },
    {
     "title": "San Quirico d'Orcia",
@@ -11161,7 +11161,7 @@
     "score": 0.69,
     "lat": 43.060395,
     "lon": 11.603645,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/san_quirico_dorcia.jpg"
    }
   ]
  },
@@ -11178,11 +11178,11 @@
     "score": 0.72,
     "lat": 43.843,
     "lon": 10.5017,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/lucca.jpg"
    },
    {
     "title": "Forte dei Marmi",
-    "snippet": "**Forte dei Marmi** is a small beach resort on the **Versilia** coast of northern Tuscany, about 30 km north of Pisa. It sits on a long flat stretch of fine white sand backed by pine woods, with the dramatic marble-topped peaks of the **Apuan Alps** rising directly behind the...",
+    "snippet": "Forte dei Marmi is a small beach resort on the Versilia coast of northern Tuscany, about 30 km north of Pisa. It sits on a long flat stretch of fine white sand backed by pine woods, with the dramatic marble-topped peaks of the Apuan Alps rising directly behind the town \u2014 and i...",
     "path": "europe/italy/tuscany/forte_dei_marmi",
     "score": 0.62,
     "lat": 43.959589,
@@ -11222,7 +11222,7 @@
     "score": 0.71,
     "lat": 43.471472,
     "lon": 10.679791,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/pisa.jpg"
    },
    {
     "title": "Volterra",
@@ -11231,7 +11231,7 @@
     "score": 0.66,
     "lat": 43.4003,
     "lon": 10.86,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/volterra.jpg"
    },
    {
     "title": "Elba",
@@ -11240,7 +11240,7 @@
     "score": 0.66,
     "lat": 42.790238,
     "lon": 10.340224,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/tuscany/elba.jpg"
    },
    {
     "title": "Portoferraio",
@@ -11293,7 +11293,7 @@
     "score": 0.79,
     "lat": 44.1066,
     "lon": 9.7354,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/liguria/italianriviera/thecinqueterre.jpg"
    },
    {
     "title": "Manarola",
@@ -11311,7 +11311,7 @@
     "score": 0.7,
     "lat": 44.05066,
     "lon": 9.834459,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/liguria/portovenere.jpg"
    }
   ]
  },
@@ -11323,12 +11323,12 @@
   "top_locations": [
    {
     "title": "Ischia",
-    "snippet": "*Europe > Italy > Campania > Ischia*",
+    "snippet": "Europe > Italy > Campania > Ischia",
     "path": "europe/italy/campania/ischia",
     "score": 0.7,
     "lat": 40.734205,
     "lon": 13.947125,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/campania/ischia.jpg"
    },
    {
     "title": "Forio",
@@ -11376,7 +11376,7 @@
   "top_locations": [
    {
     "title": "Amalfi",
-    "snippet": "*Europe > Italy > Campania > Amalfi*",
+    "snippet": "Europe > Italy > Campania > Amalfi",
     "path": "europe/italy/campania/amalfi",
     "score": 0.84,
     "lat": 40.63367,
@@ -11385,7 +11385,7 @@
    },
    {
     "title": "Ravello",
-    "snippet": "*Europe > Italy > Campania > Ravello*",
+    "snippet": "Europe > Italy > Campania > Ravello",
     "path": "europe/italy/campania/ravello",
     "score": 0.73,
     "lat": 40.649664,
@@ -11399,7 +11399,7 @@
     "score": 0.69,
     "lat": 40.6188,
     "lon": 14.5533,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/campania/amalfi/furore.jpg"
    },
    {
     "title": "Salerno",
@@ -11487,7 +11487,7 @@
     "score": 0.76,
     "lat": 38.0388,
     "lon": 14.0217,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sicily/cefalu.jpg"
    },
    {
     "title": "Palermo",
@@ -11496,7 +11496,7 @@
     "score": 0.73,
     "lat": 38.1113,
     "lon": 13.3524,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sicily/palermo.jpg"
    },
    {
     "title": "San Vito Lo Capo",
@@ -11514,7 +11514,7 @@
     "score": 0.68,
     "lat": 37.3123,
     "lon": 13.5747,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sicily/agrigento.jpg"
    }
   ]
  },
@@ -11584,7 +11584,7 @@
     "score": 0.72,
     "lat": 40.091281,
     "lon": 9.030577,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sardinia.jpg"
    },
    {
     "title": "Alghero",
@@ -11597,12 +11597,12 @@
    },
    {
     "title": "Cagliari",
-    "snippet": "Cagliari is the capital and largest city of **Sardinia**, set on a broad bay on the south coast of the island, and has been the island's main harbour since Phoenician times \u2014 a line of continuous occupation that runs through the Carthaginians, Romans, Byzantines, Pisans, Arago...",
+    "snippet": "Cagliari is the capital and largest city of Sardinia, set on a broad bay on the south coast of the island, and has been the island's main harbour since Phoenician times \u2014 a line of continuous occupation that runs through the Carthaginians, Romans, Byzantines, Pisans, Aragonese...",
     "path": "europe/italy/sardinia/cagliari",
     "score": 0.67,
     "lat": 39.217199,
     "lon": 9.113311,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sardinia/cagliari.jpg"
    },
    {
     "title": "Isola di San Pietro",
@@ -11637,7 +11637,7 @@
     "score": 0.74,
     "lat": 40.899377,
     "lon": 9.517747,
-    "image_url": null
+    "image_url": "/content-image/europe/italy/sardinia/costasmeralda.jpg"
    },
    {
     "title": "La Maddalena",
@@ -11690,7 +11690,7 @@
     "score": 0.67,
     "lat": 32.0853,
     "lon": 34.7818,
-    "image_url": null
+    "image_url": "/content-image/asia/israel/telaviv.jpg"
    },
    {
     "title": "Acre",
@@ -11699,7 +11699,7 @@
     "score": 0.66,
     "lat": 32.928173,
     "lon": 35.075638,
-    "image_url": null
+    "image_url": "/content-image/asia/israel/acre.jpg"
    },
    {
     "title": "Eilat",
@@ -11760,7 +11760,7 @@
     "score": 0.76,
     "lat": 31.7683,
     "lon": 35.2137,
-    "image_url": null
+    "image_url": "/content-image/asia/israel/jerusalem.jpg"
    },
    {
     "title": "Bethlehem",
@@ -11813,7 +11813,7 @@
     "score": 0.68,
     "lat": 53.349379,
     "lon": -6.260559,
-    "image_url": null
+    "image_url": "/content-image/europe/ireland/dublin.jpg"
    },
    {
     "title": "Glendalough",
@@ -11835,7 +11835,7 @@
    },
    {
     "title": "Cashel",
-    "snippet": "Cashel is a small town in County Tipperary, a little more than two hours south-west of Dublin, and is entirely overshadowed \u2014 both literally and figuratively \u2014 by the Rock that stands above it. The **Rock of Cashel** is a 60-metre outcrop of limestone rising straight out of th...",
+    "snippet": "Cashel is a small town in County Tipperary, a little more than two hours south-west of Dublin, and is entirely overshadowed \u2014 both literally and figuratively \u2014 by the Rock that stands above it. The Rock of Cashel is a 60-metre outcrop of limestone rising straight out of the su...",
     "path": "europe/ireland/cashel",
     "score": 0.63,
     "lat": 52.5167,
@@ -11875,7 +11875,7 @@
     "score": 0.7,
     "lat": 53.274412,
     "lon": -9.04906,
-    "image_url": null
+    "image_url": "/content-image/europe/ireland/galway.jpg"
    },
    {
     "title": "Killarney",
@@ -11884,7 +11884,7 @@
     "score": 0.68,
     "lat": 52.059575,
     "lon": -9.505322,
-    "image_url": null
+    "image_url": "/content-image/europe/ireland/killarney.jpg"
    },
    {
     "title": "Dingle",
@@ -11972,7 +11972,7 @@
     "score": 0.71,
     "lat": 32.6709,
     "lon": 51.665,
-    "image_url": null
+    "image_url": "/content-image/asia/iran/isfahan.jpg"
    },
    {
     "title": "Yazd",
@@ -12047,12 +12047,12 @@
    },
    {
     "title": "Denpasar",
-    "snippet": "Denpasar is the capital of **Bali** and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in \u2014 the airport (now officially called Ngurah Rai Internat...",
+    "snippet": "Denpasar is the capital of Bali and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in \u2014 the airport (now officially called Ngurah Rai Internationa...",
     "path": "asia/indonesia/bali/denpasar",
     "score": 0.72,
     "lat": -8.652497,
     "lon": 115.219117,
-    "image_url": null
+    "image_url": "/content-image/asia/indonesia/bali/denpasar.jpg"
    },
    {
     "title": "Yogyakarta",
@@ -12140,7 +12140,7 @@
     "score": 0.69,
     "lat": 15.300454,
     "lon": 74.085513,
-    "image_url": null
+    "image_url": "/content-image/asia/india/goa.jpg"
    },
    {
     "title": "Mumbai",
@@ -12184,7 +12184,7 @@
     "score": 0.69,
     "lat": 10.352874,
     "lon": 76.51204,
-    "image_url": null
+    "image_url": "/content-image/asia/india/kerala.jpg"
    },
    {
     "title": "Munnar",
@@ -12237,7 +12237,7 @@
     "score": 0.66,
     "lat": 27.329,
     "lon": 88.6123,
-    "image_url": null
+    "image_url": "/content-image/asia/india/sikkim/gangtok.jpg"
    },
    {
     "title": "Sikkim",
@@ -12268,7 +12268,7 @@
    },
    {
     "title": "Meghalaya",
-    "snippet": "Meghalaya \u2014 *abode of the clouds* in Sanskrit \u2014 is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtro...",
+    "snippet": "Meghalaya \u2014 abode of the clouds in Sanskrit \u2014 is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtropi...",
     "path": "asia/india/meghalaya",
     "score": 0.59,
     "lat": 25.537943,
@@ -12285,7 +12285,7 @@
   "top_locations": [
    {
     "title": "Ladakh",
-    "snippet": "Ladakh \u2014 the \"land of high passes\" \u2014 is a high-altitude desert on India's northernmost frontier, wedged between the **Karakoram** range to the north and the **Himalaya** to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital...",
+    "snippet": "Ladakh \u2014 the \"land of high passes\" \u2014 is a high-altitude desert on India's northernmost frontier, wedged between the Karakoram range to the north and the Himalaya to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital, Leh, s...",
     "path": "asia/india/jammuandkashmir/ladakh",
     "score": 0.75,
     "lat": 33.945641,
@@ -12312,12 +12312,12 @@
    },
    {
     "title": "Dharamsala",
-    "snippet": "Dharamsala is a hill town in the **Kangra Valley** of Himachal Pradesh, stretched up the forested slopes of the **Dhauladhar** range at elevations between around 1,250 and 1,800 metres. Before 1960 it was a sleepy British-era cantonment and tea-growing district headquarters; s...",
+    "snippet": "Dharamsala is a hill town in the Kangra Valley of Himachal Pradesh, stretched up the forested slopes of the Dhauladhar range at elevations between around 1,250 and 1,800 metres. Before 1960 it was a sleepy British-era cantonment and tea-growing district headquarters; since the...",
     "path": "asia/india/himachalpradesh/dharamsala",
     "score": 0.67,
     "lat": 32.214304,
     "lon": 76.319672,
-    "image_url": null
+    "image_url": "/content-image/asia/india/himachalpradesh/dharamsala.jpg"
    },
    {
     "title": "Kashmir",
@@ -12343,7 +12343,7 @@
     "score": 0.78,
     "lat": 26.9124,
     "lon": 75.7873,
-    "image_url": null
+    "image_url": "/content-image/asia/india/rajasthan.jpg"
    },
    {
     "title": "Agra",
@@ -12361,7 +12361,7 @@
     "score": 0.7,
     "lat": 26.9154,
     "lon": 75.819,
-    "image_url": null
+    "image_url": "/content-image/asia/india/rajasthan/jaipur.jpg"
    },
    {
     "title": "Khajuraho",
@@ -12405,7 +12405,7 @@
     "score": 0.72,
     "lat": 26.9117,
     "lon": 70.9125,
-    "image_url": null
+    "image_url": "/content-image/asia/india/rajasthan/jaisalmer.jpg"
    },
    {
     "title": "Jodhpur",
@@ -12546,7 +12546,7 @@
    },
    {
     "title": "Westman islands",
-    "snippet": "**Vestmannaeyjar**- Westman Islands- Vestman-islands",
+    "snippet": "Vestmannaeyjar- Westman Islands- Vestman-islands",
     "path": "europe/iceland/westmanislands",
     "score": 0.59,
     "lat": 63.426665,
@@ -12895,7 +12895,7 @@
     "score": 0.68,
     "lat": 14.689,
     "lon": -91.2008,
-    "image_url": null
+    "image_url": "/content-image/northamerica/guatemala/lakeatitlan.jpg"
    },
    {
     "title": "Santiago Atitlan",
@@ -12904,7 +12904,7 @@
     "score": 0.67,
     "lat": 14.6434,
     "lon": -91.2268,
-    "image_url": null
+    "image_url": "/content-image/northamerica/guatemala/lakeatitlan/santiago_atitlan.jpg"
    },
    {
     "title": "San Pedro la Laguna",
@@ -12983,7 +12983,7 @@
     "score": 0.76,
     "lat": 39.591337,
     "lon": 19.859619,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/corfu.jpg"
    },
    {
     "title": "Zakinthos",
@@ -12992,7 +12992,7 @@
     "score": 0.72,
     "lat": 37.7855,
     "lon": 20.8992,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/zakinthos.jpg"
    },
    {
     "title": "Lefkada",
@@ -13010,7 +13010,7 @@
     "score": 0.7,
     "lat": 38.266032,
     "lon": 20.53739,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/cephalonia.jpg"
    }
   ]
  },
@@ -13027,7 +13027,7 @@
     "score": 0.74,
     "lat": 40.6401,
     "lon": 22.9444,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/thessaloniki.jpg"
    },
    {
     "title": "Skiathos",
@@ -13036,7 +13036,7 @@
     "score": 0.74,
     "lat": 39.169298,
     "lon": 23.455251,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/skiathos.jpg"
    },
    {
     "title": "Thassos",
@@ -13063,7 +13063,7 @@
     "score": 0.67,
     "lat": 40.331,
     "lon": 23.3621,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/halkidiki.jpg"
    }
   ]
  },
@@ -13098,7 +13098,7 @@
     "score": 0.74,
     "lat": 38.481154,
     "lon": 22.500549,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/delphi.jpg"
    },
    {
     "title": "Epidaurus",
@@ -13107,11 +13107,11 @@
     "score": 0.71,
     "lat": 37.596,
     "lon": 23.0794,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/epidaurus.jpg"
    },
    {
     "title": "Nauplia",
-    "snippet": "Nafplio (or Navplion, Nauplia or Navplio, depending on what you read; but, definitely, it is **\u039d\u03b1\u03cd\u03c0\u03bb\u03b9\u03bf**) is on the eastern shores of the Peloponnese. The first capital city of independent Greece in 1823, Nafplio is today a very attractive town of 12,000. The narrow streets of...",
+    "snippet": "Nafplio (or Navplion, Nauplia or Navplio, depending on what you read; but, definitely, it is \u039d\u03b1\u03cd\u03c0\u03bb\u03b9\u03bf) is on the eastern shores of the Peloponnese. The first capital city of independent Greece in 1823, Nafplio is today a very attractive town of 12,000. The narrow streets of the...",
     "path": "europe/greece/nauplia",
     "score": 0.7,
     "lat": 37.565923,
@@ -13195,7 +13195,7 @@
     "score": 0.68,
     "lat": 35.613661,
     "lon": 27.119257,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/karpathos.jpg"
    }
   ]
  },
@@ -13239,7 +13239,7 @@
     "score": 0.69,
     "lat": 36.8525,
     "lon": 25.8985,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/amorgos.jpg"
    },
    {
     "title": "Patmos",
@@ -13318,7 +13318,7 @@
     "score": 0.78,
     "lat": 36.4341,
     "lon": 28.2176,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/rhodes.jpg"
    },
    {
     "title": "Rhodes City",
@@ -13336,7 +13336,7 @@
     "score": 0.69,
     "lat": 36.793693,
     "lon": 27.084827,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/kos.jpg"
    }
   ]
  },
@@ -13353,7 +13353,7 @@
     "score": 0.79,
     "lat": 35.308495,
     "lon": 24.463342,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/crete.jpg"
    },
    {
     "title": "Milos",
@@ -13371,7 +13371,7 @@
     "score": 0.74,
     "lat": 35.5121,
     "lon": 24.0192,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/crete/hania.jpg"
    },
    {
     "title": "Rethimno",
@@ -13380,7 +13380,7 @@
     "score": 0.69,
     "lat": 35.367647,
     "lon": 24.473608,
-    "image_url": null
+    "image_url": "/content-image/europe/greece/crete/rethimno.jpg"
    }
   ]
  },
@@ -13410,7 +13410,7 @@
    },
    {
     "title": "Accra",
-    "snippet": "*Africa > Ghana > Accra*",
+    "snippet": "Africa > Ghana > Accra",
     "path": "africa/ghana/accra",
     "score": 0.48,
     "lat": 5.6037,
@@ -13450,7 +13450,7 @@
     "score": 0.73,
     "lat": 49.167757,
     "lon": 10.331195,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/romanticroad.jpg"
    },
    {
     "title": "Rothenburg ob der Tauber",
@@ -13459,7 +13459,7 @@
     "score": 0.7,
     "lat": 49.3779,
     "lon": 10.1808,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/rothenburg.jpg"
    },
    {
     "title": "Heidelberg",
@@ -13468,7 +13468,7 @@
     "score": 0.7,
     "lat": 49.4094,
     "lon": 8.6947,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/badenwrttemberg/heidelberg.jpg"
    },
    {
     "title": "Bamberg",
@@ -13477,7 +13477,7 @@
     "score": 0.69,
     "lat": 49.8916,
     "lon": 10.8868,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/bamberg.jpg"
    },
    {
     "title": "Baden-Baden",
@@ -13498,12 +13498,12 @@
   "top_locations": [
    {
     "title": "Cologne",
-    "snippet": "This delightful city (pop. 955.500) with Roman origins is the home of a stunning 13th-century Gothic cathedral, the **Dom**. The twin-spired structure is supported by 56 pillars and highlighted by magnificent stained-glass windows. Art lovers won\u2019t want to miss the museum comp...",
+    "snippet": "This delightful city (pop. 955.500) with Roman origins is the home of a stunning 13th-century Gothic cathedral, the Dom. The twin-spired structure is supported by 56 pillars and highlighted by magnificent stained-glass windows. Art lovers won\u2019t want to miss the museum complex...",
     "path": "europe/germany/northrhinewestphalia/cologne",
     "score": 0.67,
     "lat": 50.938361,
     "lon": 6.959974,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/northrhinewestphalia/cologne.jpg"
    },
    {
     "title": "Mosel",
@@ -13574,16 +13574,16 @@
     "score": 0.7,
     "lat": 47.5676,
     "lon": 10.6993,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/fussen.jpg"
    },
    {
     "title": "Berchtesgaden",
-    "snippet": "**Berchtesgaden** is a market town of about 8,000 people in the far south-eastern corner of **Bavaria**, 150 km south-east of Munich and surrounded by the snow-capped peaks of the **Berchtesgaden Alps**. It sits in one of the most dramatically beautiful valleys in Germany \u2014 a...",
+    "snippet": "Berchtesgaden is a market town of about 8,000 people in the far south-eastern corner of Bavaria, 150 km south-east of Munich and surrounded by the snow-capped peaks of the Berchtesgaden Alps. It sits in one of the most dramatically beautiful valleys in Germany \u2014 a cul-de-sac o...",
     "path": "europe/germany/bavaria/berchtesgaden",
     "score": 0.67,
     "lat": 47.633022,
     "lon": 13.002005,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/berchtesgaden.jpg"
    },
    {
     "title": "Regensburg",
@@ -13592,7 +13592,7 @@
     "score": 0.66,
     "lat": 49.0195,
     "lon": 12.0975,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/bavaria/regensburg.jpg"
    }
   ]
  },
@@ -13609,11 +13609,11 @@
     "score": 0.67,
     "lat": 53.5511,
     "lon": 9.9937,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/hamburg.jpg"
    },
    {
     "title": "L\u00fcbeck",
-    "snippet": "L\u00fcbeck is the old capital of the **Hanseatic League**, the medieval trading federation that once dominated the Baltic and the North Sea, and for several centuries it was probably the richest and most powerful city in northern Europe. Today it is a UNESCO-listed old town of abo...",
+    "snippet": "L\u00fcbeck is the old capital of the Hanseatic League, the medieval trading federation that once dominated the Baltic and the North Sea, and for several centuries it was probably the richest and most powerful city in northern Europe. Today it is a UNESCO-listed old town of about 2...",
     "path": "europe/germany/schleswigholstein/lubeck",
     "score": 0.64,
     "lat": 53.866444,
@@ -13680,7 +13680,7 @@
     "score": 0.7,
     "lat": 52.3906,
     "lon": 13.0645,
-    "image_url": null
+    "image_url": "/content-image/europe/germany/brandenburg/potsdam.jpg"
    },
    {
     "title": "Weimar",
@@ -13715,16 +13715,16 @@
     "score": 0.7,
     "lat": 41.693459,
     "lon": 44.801449,
-    "image_url": null
+    "image_url": "/content-image/europe/georgia/tbilisi.jpg"
    },
    {
     "title": "Kazbegi",
-    "snippet": "The Kazbegi region \u2014 centred on the village of **Stepantsminda** (still widely called Kazbegi) \u2014 sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and...",
+    "snippet": "The Kazbegi region \u2014 centred on the village of Stepantsminda (still widely called Kazbegi) \u2014 sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and a h...",
     "path": "europe/georgia/kazbegi",
     "score": 0.68,
     "lat": 42.658,
     "lon": 44.6408,
-    "image_url": null
+    "image_url": "/content-image/europe/georgia/kazbegi.jpg"
    },
    {
     "title": "Vardzia",
@@ -13733,7 +13733,7 @@
     "score": 0.66,
     "lat": 41.380974,
     "lon": 43.28447,
-    "image_url": null
+    "image_url": "/content-image/europe/georgia/vardzia.jpg"
    },
    {
     "title": "Kakheti",
@@ -13772,7 +13772,7 @@
    },
    {
     "title": "Juffure",
-    "snippet": "Juffure is a small village on the north bank of the Gambia River, about 30 kilometres southeast of Banjul. It became world-famous through Alex Haley's novel *Roots*, in which he traced his ancestry to this village and to Kunta Kinte, who was captured and sold into slavery in t...",
+    "snippet": "Juffure is a small village on the north bank of the Gambia River, about 30 kilometres southeast of Banjul. It became world-famous through Alex Haley's novel Roots, in which he traced his ancestry to this village and to Kunta Kinte, who was captured and sold into slavery in the...",
     "path": "africa/gambia/juffure",
     "score": 0.42,
     "lat": 13.4137,
@@ -13856,7 +13856,7 @@
     "score": 0.67,
     "lat": 41.9192,
     "lon": 8.7386,
-    "image_url": null
+    "image_url": "/content-image/europe/france/corsica/ajaccio.jpg"
    },
    {
     "title": "Bastia",
@@ -13900,7 +13900,7 @@
     "score": 0.69,
     "lat": 47.411,
     "lon": 0.9837,
-    "image_url": null
+    "image_url": "/content-image/europe/france/centre/loirevalley/amboise.jpg"
    },
    {
     "title": "Tours",
@@ -13909,7 +13909,7 @@
     "score": 0.67,
     "lat": 47.390047,
     "lon": 0.688927,
-    "image_url": null
+    "image_url": "/content-image/europe/france/centre/loirevalley/tours.jpg"
    },
    {
     "title": "Azay-le-Rideau",
@@ -13918,7 +13918,7 @@
     "score": 0.66,
     "lat": 47.261479,
     "lon": 0.466713,
-    "image_url": null
+    "image_url": "/content-image/europe/france/centre/loirevalley/azaylerideau.jpg"
    },
    {
     "title": "Blois",
@@ -13962,7 +13962,7 @@
     "score": 0.67,
     "lat": 48.649518,
     "lon": -2.026041,
-    "image_url": null
+    "image_url": "/content-image/europe/france/normandybrittany/saintmalo.jpg"
    },
    {
     "title": "Honfleur",
@@ -14033,7 +14033,7 @@
     "score": 0.67,
     "lat": 50.70069,
     "lon": 3.161005,
-    "image_url": null
+    "image_url": "/content-image/europe/france/east/alsace.jpg"
    }
   ]
  },
@@ -14050,7 +14050,7 @@
     "score": 0.66,
     "lat": 49.257789,
     "lon": 4.031926,
-    "image_url": null
+    "image_url": "/content-image/europe/france/east/champagne/reims.jpg"
    },
    {
     "title": "Epernay",
@@ -14063,7 +14063,7 @@
    },
    {
     "title": "Champagne",
-    "snippet": "**Champagne** is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine m...",
+    "snippet": "Champagne is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine may l...",
     "path": "europe/france/east/champagne",
     "score": 0.63,
     "lat": 49.0,
@@ -14139,7 +14139,7 @@
     "score": 0.68,
     "lat": 45.40795,
     "lon": 6.577333,
-    "image_url": null
+    "image_url": "/content-image/europe/france/alpes/meribel.jpg"
    }
   ]
  },
@@ -14165,7 +14165,7 @@
     "score": 0.72,
     "lat": 43.213,
     "lon": 2.3491,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/languedoc/carcassonne.jpg"
    },
    {
     "title": "Sarlat",
@@ -14174,7 +14174,7 @@
     "score": 0.7,
     "lat": 44.8879,
     "lon": 1.2161,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/dordogne/sarlat.jpg"
    },
    {
     "title": "Pyrenees",
@@ -14183,7 +14183,7 @@
     "score": 0.69,
     "lat": 42.95,
     "lon": 0.15,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/pyrenees.jpg"
    },
    {
     "title": "Dordogne",
@@ -14218,7 +14218,7 @@
     "score": 0.7,
     "lat": 43.677622,
     "lon": 4.630965,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/provence/arles.jpg"
    },
    {
     "title": "Les Baux-de-Provence",
@@ -14227,7 +14227,7 @@
     "score": 0.68,
     "lat": 43.7444,
     "lon": 4.7952,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/provence/les_beaux_de_prove.jpg"
    },
    {
     "title": "Saint-R\u00e9my-de-Provence",
@@ -14236,7 +14236,7 @@
     "score": 0.67,
     "lat": 43.788578,
     "lon": 4.83175,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/provence/saint_remy_de_provence.jpg"
    },
    {
     "title": "N\u00eemes",
@@ -14245,7 +14245,7 @@
     "score": 0.66,
     "lat": 43.837425,
     "lon": 4.360069,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/provence/nimes.jpg"
    }
   ]
  },
@@ -14271,7 +14271,7 @@
     "score": 0.73,
     "lat": 43.55152,
     "lon": 7.013442,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/cotedazur/cannes.jpg"
    },
    {
     "title": "St Tropez",
@@ -14280,7 +14280,7 @@
     "score": 0.71,
     "lat": 43.272719,
     "lon": 6.640523,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/cotedazur/sttropez.jpg"
    },
    {
     "title": "Port Grimaud",
@@ -14324,7 +14324,7 @@
     "score": 0.68,
     "lat": 43.2962,
     "lon": 5.37,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/cotedazur/marseille.jpg"
    },
    {
     "title": "Roussillon",
@@ -14421,16 +14421,16 @@
     "score": 0.68,
     "lat": 43.4832,
     "lon": -1.5586,
-    "image_url": null
+    "image_url": "/content-image/europe/france/midi/basqueregion/biarritz.jpg"
    },
    {
     "title": "\u00cele de R\u00e9",
-    "snippet": "**\u00cele de R\u00e9** is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.",
+    "snippet": "\u00cele de R\u00e9 is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.",
     "path": "europe/france/aquitaine/ile_de_r",
     "score": 0.68,
     "lat": 46.2005,
     "lon": -1.4003,
-    "image_url": null
+    "image_url": "/content-image/europe/france/aquitaine/ile_de_r.jpg"
    },
    {
     "title": "Saint-Jean-de-Luz",
@@ -14465,7 +14465,7 @@
     "score": 0.67,
     "lat": 47.321581,
     "lon": 5.04147,
-    "image_url": null
+    "image_url": "/content-image/europe/france/east/burgundy/dijon.jpg"
    },
    {
     "title": "Beaune",
@@ -14801,7 +14801,7 @@
     "score": 0.81,
     "lat": -17.6873,
     "lon": -149.4452,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/frenchpolynesia/tahiti.jpg"
    },
    {
     "title": "Rangiroa",
@@ -14814,7 +14814,7 @@
    },
    {
     "title": "Papeete",
-    "snippet": "Papeete is the capital of **French Polynesia**, a low-rise waterfront city of about 130,000 people on the north-west coast of **Tahiti**. It is not a beautiful city \u2014 the harbour is industrial, the centre is dominated by concrete offices and a cruise-ship terminal, and for man...",
+    "snippet": "Papeete is the capital of French Polynesia, a low-rise waterfront city of about 130,000 people on the north-west coast of Tahiti. It is not a beautiful city \u2014 the harbour is industrial, the centre is dominated by concrete offices and a cruise-ship terminal, and for many travel...",
     "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
     "score": 0.76,
     "lat": -17.537384,
@@ -14828,7 +14828,7 @@
     "score": 0.71,
     "lat": -14.941972,
     "lon": -147.706148,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/frenchpolynesia/rangiroa/avatoru.jpg"
    }
   ]
  },
@@ -15010,7 +15010,7 @@
     "score": 0.71,
     "lat": -16.826149,
     "lon": -179.935461,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/fiji/taveuni.jpg"
    },
    {
     "title": "Viti Levu",
@@ -15019,7 +15019,7 @@
     "score": 0.67,
     "lat": -17.793383,
     "lon": 177.978225,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/fiji/vitilevu.jpg"
    },
    {
     "title": "Nadi",
@@ -15028,7 +15028,7 @@
     "score": 0.66,
     "lat": -17.7753,
     "lon": 177.4356,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/fiji/vitilevu/nadi.jpg"
    }
   ]
  },
@@ -15045,7 +15045,7 @@
     "score": 0.71,
     "lat": 12.03671,
     "lon": 39.046112,
-    "image_url": null
+    "image_url": "/content-image/africa/ethiopia/lalibela.jpg"
    },
    {
     "title": "Gondar",
@@ -15182,7 +15182,7 @@
    },
    {
     "title": "Assab",
-    "snippet": "**Assab** is a port city in the far south of Eritrea, close to the border with Djibouti. It sits on the Red Sea coast in a hot, arid stretch of land and is one of the most remote cities in the country.",
+    "snippet": "Assab is a port city in the far south of Eritrea, close to the border with Djibouti. It sits on the Red Sea coast in a hot, arid stretch of land and is one of the most remote cities in the country.",
     "path": "africa/eritrea/assab",
     "score": 0.23,
     "lat": 13.009129,
@@ -15300,7 +15300,7 @@
     "score": 0.7,
     "lat": 24.0911,
     "lon": 32.8973,
-    "image_url": null
+    "image_url": "/content-image/africa/egypt/aswan.jpg"
    },
    {
     "title": "Sharm el-Sheikh",
@@ -15348,7 +15348,7 @@
    },
    {
     "title": "Giza",
-    "snippet": "Giza is the western half of greater Cairo \u2014 a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **Great Pyramids** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surv...",
+    "snippet": "Giza is the western half of greater Cairo \u2014 a teeming city in its own right of over eight million people, sprawling up to the desert edge where the Great Pyramids stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last survivin...",
     "path": "africa/egypt/giza",
     "score": 0.76,
     "lat": 29.987075,
@@ -15397,7 +15397,7 @@
     "score": 0.7,
     "lat": -0.220164,
     "lon": -78.512327,
-    "image_url": null
+    "image_url": "/content-image/southamerica/ecuador/quito.jpg"
    },
    {
     "title": "Ba\u00f1os",
@@ -15450,7 +15450,7 @@
     "score": 0.8,
     "lat": -0.8205,
     "lon": -89.4248,
-    "image_url": null
+    "image_url": "/content-image/southamerica/ecuador/galapagosislands/san_cristobal_island.jpg"
    },
    {
     "title": "Puerto Baquerizo Moreno",
@@ -15476,7 +15476,7 @@
     "score": 0.69,
     "lat": 18.582,
     "lon": -68.4055,
-    "image_url": null
+    "image_url": "/content-image/northamerica/dominicanrepublic/punta_cana.jpg"
    },
    {
     "title": "Las Terrenas",
@@ -15599,7 +15599,7 @@
     "score": 0.66,
     "lat": 69.219713,
     "lon": -51.098638,
-    "image_url": null
+    "image_url": "/content-image/northamerica/greenland/ilulissat.jpg"
    },
    {
     "title": "Disko Bay",
@@ -15820,7 +15820,7 @@
     "score": 0.74,
     "lat": 48.810653,
     "lon": 14.315059,
-    "image_url": null
+    "image_url": "/content-image/europe/czechrepublic/ceskykrumlov.jpg"
    },
    {
     "title": "Karlovy Vary",
@@ -15917,7 +15917,7 @@
     "score": 0.66,
     "lat": 34.774399,
     "lon": 32.423159,
-    "image_url": null
+    "image_url": "/content-image/asia/cyprus/paphos.jpg"
    },
    {
     "title": "Limassol",
@@ -15970,7 +15970,7 @@
     "score": 0.67,
     "lat": 23.1568,
     "lon": -81.2511,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/cuba/varadero.jpg"
    },
    {
     "title": "Trinidad",
@@ -15979,7 +15979,7 @@
     "score": 0.66,
     "lat": 21.8027,
     "lon": -79.9843,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/cuba/trinidad.jpg"
    },
    {
     "title": "Cayo Coco",
@@ -16041,7 +16041,7 @@
     "score": 0.67,
     "lat": 44.775687,
     "lon": 14.734712,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/rabisland.jpg"
    },
    {
     "title": "Zagreb",
@@ -16085,7 +16085,7 @@
     "score": 0.69,
     "lat": 42.943781,
     "lon": 16.913476,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/korcula.jpg"
    },
    {
     "title": "Makarska Riviera",
@@ -16094,7 +16094,7 @@
     "score": 0.69,
     "lat": 43.2355,
     "lon": 17.0907,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/makarskariviera.jpg"
    },
    {
     "title": "Makarska",
@@ -16103,7 +16103,7 @@
     "score": 0.67,
     "lat": 43.293976,
     "lon": 17.020242,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/dalmatia/makarska.jpg"
    },
    {
     "title": "Miljet Island",
@@ -16138,7 +16138,7 @@
     "score": 0.7,
     "lat": 44.870228,
     "lon": 13.845531,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/pula.jpg"
    },
    {
     "title": "Piran",
@@ -16147,7 +16147,7 @@
     "score": 0.68,
     "lat": 45.5285,
     "lon": 13.5684,
-    "image_url": null
+    "image_url": "/content-image/europe/slovenia/piran.jpg"
    },
    {
     "title": "Lo\u0161inj",
@@ -16156,7 +16156,7 @@
     "score": 0.67,
     "lat": 44.5107,
     "lon": 14.5037,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/losinjisland.jpg"
    },
    {
     "title": "Krk Island",
@@ -16165,7 +16165,7 @@
     "score": 0.67,
     "lat": 45.090196,
     "lon": 14.549668,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/krkisland.jpg"
    }
   ]
  },
@@ -16182,7 +16182,7 @@
     "score": 0.8,
     "lat": 43.538796,
     "lon": 16.175236,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/dalmatia.jpg"
    },
    {
     "title": "Split",
@@ -16200,7 +16200,7 @@
     "score": 0.71,
     "lat": 43.516414,
     "lon": 16.249716,
-    "image_url": null
+    "image_url": "/content-image/europe/croatia/trogir.jpg"
    },
    {
     "title": "Sibenik",
@@ -16266,7 +16266,7 @@
    },
    {
     "title": "Dra\u010de",
-    "snippet": "Dra\u010de is a tiny village on the northern coast of the **Pelje\u0161ac peninsula** in southern Dalmatia \u2014 a scatter of stone houses around a sheltered harbour, a handful of restaurants, and one of the quieter pebble-and-shingle beaches on the peninsula. There is nothing to \"see\" in t...",
+    "snippet": "Dra\u010de is a tiny village on the northern coast of the Pelje\u0161ac peninsula in southern Dalmatia \u2014 a scatter of stone houses around a sheltered harbour, a handful of restaurants, and one of the quieter pebble-and-shingle beaches on the peninsula. There is nothing to \"see\" in the t...",
     "path": "europe/croatia/peljesac/drace",
     "score": 0.55,
     "lat": 42.929683,
@@ -16394,7 +16394,7 @@
     "score": 0.7,
     "lat": 10.3025,
     "lon": -84.8245,
-    "image_url": null
+    "image_url": "/content-image/northamerica/costarica/monteverde.jpg"
    },
    {
     "title": "La Fortuna",
@@ -16614,7 +16614,7 @@
     "score": 0.73,
     "lat": 39.905714,
     "lon": 116.391297,
-    "image_url": null
+    "image_url": "/content-image/asia/china/beijing.jpg"
    },
    {
     "title": "Qingdao",
@@ -16627,7 +16627,7 @@
    },
    {
     "title": "Pingyao",
-    "snippet": "Pingyao is the best-preserved walled city in China \u2014 a compact Ming-era trading town in the middle of **Shanxi Province**, about 90 km south of the provincial capital **Taiyuan**, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km **city wal...",
+    "snippet": "Pingyao is the best-preserved walled city in China \u2014 a compact Ming-era trading town in the middle of Shanxi Province, about 90 km south of the provincial capital Taiyuan, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km city wall, built i...",
     "path": "asia/china/shanxiprovince/pingyao",
     "score": 0.63,
     "lat": 37.189293,
@@ -16667,7 +16667,7 @@
     "score": 0.71,
     "lat": 30.5728,
     "lon": 104.0668,
-    "image_url": null
+    "image_url": "/content-image/asia/china/sichuanprovince/chengdu.jpg"
    },
    {
     "title": "Lhasa",
@@ -16685,7 +16685,7 @@
     "score": 0.69,
     "lat": 26.859587,
     "lon": 100.22498,
-    "image_url": null
+    "image_url": "/content-image/asia/china/yunnanprovince/lijiang.jpg"
    },
    {
     "title": "Tibet",
@@ -16694,7 +16694,7 @@
     "score": 0.68,
     "lat": 29.855644,
     "lon": 90.874981,
-    "image_url": null
+    "image_url": "/content-image/asia/china/tibet.jpg"
    }
   ]
  },
@@ -16715,12 +16715,12 @@
    },
    {
     "title": "Guilin",
-    "snippet": "Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting \u2014 the dreamlike karst region of **Guangxi**, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have se...",
+    "snippet": "Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting \u2014 the dreamlike karst region of Guangxi, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have seen i...",
     "path": "asia/china/guilin",
     "score": 0.72,
     "lat": 25.277989,
     "lon": 110.291062,
-    "image_url": null
+    "image_url": "/content-image/asia/china/guilin.jpg"
    },
    {
     "title": "Hangzhou",
@@ -16729,7 +16729,7 @@
     "score": 0.68,
     "lat": 30.248963,
     "lon": 120.205234,
-    "image_url": null
+    "image_url": "/content-image/asia/china/zhejiang/hangzhou.jpg"
    },
    {
     "title": "Suzhou",
@@ -16878,7 +16878,7 @@
     "score": 0.76,
     "lat": -27.1127,
     "lon": -109.3497,
-    "image_url": null
+    "image_url": "/content-image/southamerica/chile/easterisland.jpg"
    }
   ]
  },
@@ -16912,7 +16912,7 @@
     "score": 0.73,
     "lat": -50.9423,
     "lon": -73.4068,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/patagonia/torresdelpaine.jpg"
    },
    {
     "title": "Valparaiso",
@@ -16921,7 +16921,7 @@
     "score": 0.69,
     "lat": -32.597609,
     "lon": -70.852975,
-    "image_url": null
+    "image_url": "/content-image/southamerica/chile/valparaiso.jpg"
    },
    {
     "title": "Puc\u00f3n",
@@ -16960,7 +16960,7 @@
   "top_locations": [
    {
     "title": "Ounianga",
-    "snippet": "Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of Chad's most extraordinary natural wonders. The **Lakes of Ounianga**, inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnect...",
+    "snippet": "Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of Chad's most extraordinary natural wonders. The Lakes of Ounianga, inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnected d...",
     "path": "africa/chad/ounianga",
     "score": 0.35,
     "lat": 19.0539,
@@ -17013,7 +17013,7 @@
   "top_locations": [
    {
     "title": "Dzanga-Sangha",
-    "snippet": "**Dzanga-Sangha** is a protected area of dense tropical rainforest in the far southwest of the Central African Republic, on the border with Cameroon and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas \u2014 habituated groups ca...",
+    "snippet": "Dzanga-Sangha is a protected area of dense tropical rainforest in the far southwest of the Central African Republic, on the border with Cameroon and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas \u2014 habituated groups can be...",
     "path": "africa/centralafricanrepublic/dzanga_sangha",
     "score": 0.42,
     "lat": 2.95,
@@ -17114,7 +17114,7 @@
  "banff": {
   "name": "Canadian Rockies",
   "parent": "Canada",
-  "n_locs": 36,
+  "n_locs": 34,
   "is_split": true,
   "top_locations": [
    {
@@ -17177,7 +17177,7 @@
     "score": 0.71,
     "lat": 46.813743,
     "lon": -71.208406,
-    "image_url": null
+    "image_url": "/content-image/northamerica/canada/quebec/quebeccity.jpg"
    },
    {
     "title": "Qu\u00e9bec",
@@ -17220,7 +17220,7 @@
  "vancouver": {
   "name": "British Columbia",
   "parent": "Canada",
-  "n_locs": 33,
+  "n_locs": 35,
   "is_split": true,
   "top_locations": [
    {
@@ -17230,7 +17230,7 @@
     "score": 0.76,
     "lat": 49.260872,
     "lon": -123.113952,
-    "image_url": null
+    "image_url": "/content-image/northamerica/canada/britishcolumbia/vancouver.jpg"
    },
    {
     "title": "Tofino",
@@ -17239,7 +17239,7 @@
     "score": 0.67,
     "lat": 49.152964,
     "lon": -125.904708,
-    "image_url": null
+    "image_url": "/content-image/northamerica/canada/britishcolumbia/tofino.jpg"
    },
    {
     "title": "British Columbia",
@@ -17252,7 +17252,7 @@
    },
    {
     "title": "Victoria",
-    "snippet": "*North America > Canada > British Columbia > Victoria*",
+    "snippet": "North America > Canada > British Columbia > Victoria",
     "path": "northamerica/canada/britishcolumbia/victoria",
     "score": 0.64,
     "lat": 48.4284,
@@ -17336,7 +17336,7 @@
     "score": 0.75,
     "lat": 13.361756,
     "lon": 103.859032,
-    "image_url": null
+    "image_url": "/content-image/asia/cambodia/siemreap.jpg"
    },
    {
     "title": "Phnom Penh",
@@ -17402,7 +17402,7 @@
    },
    {
     "title": "Mandalay",
-    "snippet": "**Mandalay** is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. The city and its surroundings have a lot to offer to the traveller. It...",
+    "snippet": "Mandalay is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. The city and its surroundings have a lot to offer to the traveller. It is...",
     "path": "asia/myanmar/mandalay",
     "score": 0.56,
     "lat": 21.959683,
@@ -17680,7 +17680,7 @@
     "score": 0.68,
     "lat": -20.385671,
     "lon": -43.503617,
-    "image_url": null
+    "image_url": "/content-image/southamerica/brazil/ouropreto.jpg"
    },
    {
     "title": "Paraty",
@@ -17830,7 +17830,7 @@
     "score": 0.66,
     "lat": 43.3438,
     "lon": 17.8078,
-    "image_url": null
+    "image_url": "/content-image/europe/bosniaandherzegovina/mostar.jpg"
    },
    {
     "title": "Sarajevo",
@@ -17852,7 +17852,7 @@
    },
    {
     "title": "Travnik",
-    "snippet": "Travnik is a small, walkable town in central Bosnia that served as the seat of the Ottoman viziers for 150 years \u2014 making it, for a time, the most important town in Bosnia after Sarajevo. It is the birthplace of Ivo Andri\u0107, the Nobel Prize-winning author of *The Bridge on the...",
+    "snippet": "Travnik is a small, walkable town in central Bosnia that served as the seat of the Ottoman viziers for 150 years \u2014 making it, for a time, the most important town in Bosnia after Sarajevo. It is the birthplace of Ivo Andri\u0107, the Nobel Prize-winning author of The Bridge on the D...",
     "path": "europe/bosniaandherzegovina/travnik",
     "score": 0.52,
     "lat": 44.2266,
@@ -17936,7 +17936,7 @@
     "score": 0.71,
     "lat": 27.584286,
     "lon": 89.859309,
-    "image_url": null
+    "image_url": "/content-image/asia/bhutan/punakha.jpg"
    },
    {
     "title": "Paro",
@@ -17984,7 +17984,7 @@
   "top_locations": [
    {
     "title": "Ganvi\u00e9",
-    "snippet": "**Ganvi\u00e9** is a town built entirely on stilts over Lake Nokou\u00e9, about 15 km north of Cotonou. It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet \u2014 tourism has taken its toll, and arriving from Cotonou you will be surrounded...",
+    "snippet": "Ganvi\u00e9 is a town built entirely on stilts over Lake Nokou\u00e9, about 15 km north of Cotonou. It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet \u2014 tourism has taken its toll, and arriving from Cotonou you will be surrounded by t...",
     "path": "africa/benin/ganvie",
     "score": 0.52,
     "lat": 6.4681,
@@ -18042,7 +18042,7 @@
     "score": 0.69,
     "lat": 17.9248,
     "lon": -87.9714,
-    "image_url": null
+    "image_url": "/content-image/northamerica/belize/ambergriscaye.jpg"
    },
    {
     "title": "Caye Caulker",
@@ -18051,7 +18051,7 @@
     "score": 0.67,
     "lat": 17.7456,
     "lon": -88.0309,
-    "image_url": null
+    "image_url": "/content-image/northamerica/belize/cayecaulker.jpg"
    },
    {
     "title": "San Pedro",
@@ -18095,7 +18095,7 @@
     "score": 0.74,
     "lat": 51.208553,
     "lon": 3.226772,
-    "image_url": null
+    "image_url": "/content-image/europe/belgium/bruges.jpg"
    },
    {
     "title": "Ghent",
@@ -18104,16 +18104,16 @@
     "score": 0.67,
     "lat": 51.053829,
     "lon": 3.725012,
-    "image_url": null
+    "image_url": "/content-image/europe/belgium/ghent.jpg"
    },
    {
     "title": "Antwerp",
-    "snippet": "Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of *Koninck* beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a recept...",
+    "snippet": "Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of Koninck beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a receptac...",
     "path": "europe/belgium/antwerp",
     "score": 0.66,
     "lat": 51.22111,
     "lon": 4.399708,
-    "image_url": null
+    "image_url": "/content-image/europe/belgium/antwerp.jpg"
    },
    {
     "title": "Leuven",
@@ -18280,7 +18280,7 @@
     "score": 0.68,
     "lat": 13.0969,
     "lon": -59.6145,
-    "image_url": null
+    "image_url": "/content-image/northamerica/thecaribbean/barbados/bridgetown.jpg"
    },
    {
     "title": "Christ Church",
@@ -18394,7 +18394,7 @@
     "score": 0.76,
     "lat": 23.62,
     "lon": -75.97,
-    "image_url": null
+    "image_url": "/content-image/northamerica/bahamas/exumas.jpg"
    },
    {
     "title": "Eleuthera",
@@ -18518,7 +18518,7 @@
     "score": 0.72,
     "lat": 47.2654,
     "lon": 11.3928,
-    "image_url": null
+    "image_url": "/content-image/europe/austria/innsbruck.jpg"
    },
    {
     "title": "Kitzb\u00fchel",
@@ -18527,7 +18527,7 @@
     "score": 0.69,
     "lat": 47.4464,
     "lon": 12.3911,
-    "image_url": null
+    "image_url": "/content-image/europe/austria/kitzbuehel.jpg"
    },
    {
     "title": "Ramsau / Dachstein",
@@ -18721,7 +18721,7 @@
     "score": 0.71,
     "lat": -16.9186,
     "lon": 145.7781,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/australia/queensland/cairns.jpg"
    },
    {
     "title": "Byron Bay",
@@ -18730,7 +18730,7 @@
     "score": 0.71,
     "lat": -28.6434,
     "lon": 153.6122,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/australia/newsouthwales/byronbay.jpg"
    },
    {
     "title": "Airlie Beach",
@@ -18739,7 +18739,7 @@
     "score": 0.66,
     "lat": -20.272494,
     "lon": 148.718147,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/australia/queensland/airliebeach.jpg"
    },
    {
     "title": "Noosa Heads",
@@ -18748,7 +18748,7 @@
     "score": 0.66,
     "lat": -26.40014,
     "lon": 153.091049,
-    "image_url": null
+    "image_url": "/content-image/australiaandpacific/australia/queensland/noosaheads.jpg"
    }
   ]
  },
@@ -18922,7 +18922,7 @@
     "score": 0.73,
     "lat": -34.609558,
     "lon": -58.38879,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/buenosaires.jpg"
    },
    {
     "title": "Puerto Iguaz\u00fa",
@@ -18931,7 +18931,7 @@
     "score": 0.71,
     "lat": -25.610751,
     "lon": -54.57642,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/puertoiguazu.jpg"
    },
    {
     "title": "Salta",
@@ -18966,7 +18966,7 @@
     "score": 0.73,
     "lat": -46.0,
     "lon": -69.0,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/patagonia.jpg"
    },
    {
     "title": "Bariloche",
@@ -18984,7 +18984,7 @@
     "score": 0.73,
     "lat": -50.34,
     "lon": -72.2648,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/patagonia/calafate.jpg"
    },
    {
     "title": "Ushuaia",
@@ -18993,7 +18993,7 @@
     "score": 0.72,
     "lat": -54.8073,
     "lon": -68.3084,
-    "image_url": null
+    "image_url": "/content-image/southamerica/argentina/patagonia/ushuaia.jpg"
    },
    {
     "title": "Tierra del Fuego",
@@ -19330,7 +19330,7 @@
    },
    {
     "title": "Crimea",
-    "snippet": "> **Travel warning:** Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Cri...",
+    "snippet": "> Travel warning: Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Crimea...",
     "path": "europe/ukraine/crimea",
     "score": 0.46,
     "lat": 45.283504,

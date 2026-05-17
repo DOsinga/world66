@@ -71,13 +71,20 @@ class Loc:
 
 
 def first_paragraph(body: str) -> str:
-    """Return the first non-empty paragraph, stripped of markdown links."""
+    """Return the first non-empty paragraph, stripped of markdown formatting."""
     for chunk in body.split("\n\n"):
         chunk = chunk.strip()
         if not chunk:
             continue
         # strip markdown links: [text](url) -> text
         chunk = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", chunk)
+        # strip bold/italic markers: **text**, *text*, __text__, _text_
+        chunk = re.sub(r"\*\*([^*]+)\*\*", r"\1", chunk)
+        chunk = re.sub(r"\*([^*]+)\*", r"\1", chunk)
+        chunk = re.sub(r"__([^_]+)__", r"\1", chunk)
+        chunk = re.sub(r"_([^_]+)_", r"\1", chunk)
+        # strip inline code: `code`
+        chunk = re.sub(r"`([^`]+)`", r"\1", chunk)
         # collapse whitespace
         chunk = re.sub(r"\s+", " ", chunk)
         return chunk
@@ -109,6 +116,7 @@ def load_locations() -> list[Loc]:
         rel = md.relative_to(CONTENT_DIR).with_suffix("")
         path = str(rel)
         snippet = meta.get("snippet") or first_paragraph(post.content)
+        snippet = first_paragraph(snippet)  # strips markdown even if from frontmatter
         if len(snippet) > 280:
             snippet = snippet[:277].rstrip() + "..."
         title = meta.get("title") or rel.name.replace("_", " ").title()

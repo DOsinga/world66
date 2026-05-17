@@ -1,11 +1,10 @@
 ---
-latitude: 18.788
-longitude: 98.986
+snippet: Learn to cook authentic Thai dishes — most classes start with a morning market
+  trip and end with a full meal you made yourself.
 tags:
 - things_to_do
 title: Thai Cooking Classes
 type: poi
-snippet: Learn to cook authentic Thai dishes — most classes start with a morning market trip and end with a full meal you made yourself.
 ---
 
 Chiang Mai is one of the best places in the world to learn Thai cooking. The city has dozens of cooking schools ranging from quick half-day introductions to full-day immersions that begin at a local market and end with you eating the four or five dishes you cooked. Most classes are small groups — typically six to twelve people — so instructors can give individual attention.

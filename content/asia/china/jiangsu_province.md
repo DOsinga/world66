@@ -19,12 +19,3 @@ Jiangsu (江苏) is a coastal province in eastern China, stretching along the Ye
 
 The province's main draw for travellers is [Nanjing](/asia/china/jiangsu_province/nanjing), the former capital of China, with its Ming-era city walls, the Sun Yat-sen Mausoleum, and the sobering Nanjing Massacre Memorial. [Suzhou](/asia/china/jiangsu_province/suzhou), famous for its classical gardens (a UNESCO World Heritage Site), is equally worth visiting. The Grand Canal, the world's longest man-made waterway, runs through the province connecting a string of historic canal towns including [Yangzhou](/asia/china/jiangsu_province/yangzhou) and [Zhenjiang](/asia/china/jiangsu_province/zhenjiang), both on or near the Yangtze crossing. East of Suzhou, the ancient water town of [Zhouzhuang](/asia/china/jiangsu_province/zhouzhuang) preserves centuries-old canal-side architecture in a way that few places in China still can.
 
-## Destinations in Jiangsu Province
-
-- [Nanjing](/asia/china/jiangsu_province/nanjing) — the former imperial capital, with Ming city walls, the Sun Yat-sen Mausoleum, and the Nanjing Massacre Memorial
-- [Suzhou](/asia/china/jiangsu_province/suzhou) — classical gardens, silk, and a canal old town an hour from Shanghai
-- [Wuxi](/asia/china/jiangsu_province/wuxi) — Lake Tai shoreline, Turtle Head Isle, and traditional canal-side architecture
-- [Yangzhou](/asia/china/jiangsu_province/yangzhou) — wealthy salt-trading city with outstanding gardens, Huaiyang cuisine, and Grand Canal heritage
-- [Zhenjiang](/asia/china/jiangsu_province/zhenjiang) — mountain parks above the Yangtze, vinegar, and temple scenes from classical legends
-- [Zhouzhuang](/asia/china/jiangsu_province/zhouzhuang) — the oldest of the Jiangnan water towns, with intact Ming and Qing canal-side houses
-- [Changzhou](/asia/china/jiangsu_province/changzhou) — an honest working city with a fine Buddhist pagoda and Grand Canal park, good for a day stop

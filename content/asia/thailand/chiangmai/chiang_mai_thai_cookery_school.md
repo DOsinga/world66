@@ -1,5 +1,4 @@
 ---
-booking_url: https://www.thaicookeryschool.com
 duration: 4–8 hours
 latitude: 18.784
 longitude: 98.996

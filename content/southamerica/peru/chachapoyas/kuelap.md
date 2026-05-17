@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: kuelap.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kuelap_-_Ao%C3%BBt_2007_-_05.jpg
 latitude: -6.423103
+loc_type: city
 longitude: -77.910721
+score: 0.62
 title: Kuelap
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Travel Guide

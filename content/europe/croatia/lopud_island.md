@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: lopud_island.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:LOPUD.JPG
 latitude: 42.685867
+loc_type: region
 longitude: 17.950775
+score: 0.6
 title: Lopud Island
 type: location
-score: 0.6
-loc_type: region
 ---
 
 Lopud is the middle island of the Elafiti archipelago, lying between Kolocep and Sipan about 12 kilometres northwest of [Dubrovnik](/europe/croatia/dubrovnik). It is small enough to walk across in an hour — no cars are allowed on the island — and quiet enough that you can escape the summer crowds of the city entirely.

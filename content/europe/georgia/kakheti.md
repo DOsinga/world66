@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: kakheti.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Black_Rock_Lake_%E1%83%90.jpg
 latitude: 41.737352
+loc_type: city
 longitude: 45.672178
+score: 0.64
 title: Kakheti
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Kakheti is Georgia's most celebrated wine region, a landscape of ancient monasteries, vine-draped valleys, and fortified towns stretching east of Tbilisi toward the Alazani River. The region has been producing wine for at least eight thousand years — clay vessels called qvevri buried in the ground are still used for fermentation today — and a visit here is as much about culture and hospitality as it is about sightseeing.

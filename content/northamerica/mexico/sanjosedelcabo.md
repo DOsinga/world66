@@ -1,12 +1,15 @@
 ---
-title: San Jose del Cabo
-type: location
-latitude: 23.059836
-longitude: -109.702515
 done:
   location_cleanup: 2026-04-04
-score: 0.64
+image: sanjosedelcabo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:SJCmunicipalhall01.JPG
+latitude: 23.059836
 loc_type: city
+longitude: -109.702515
+score: 0.64
+title: San Jose del Cabo
+type: location
 ---
 
 San José del Cabo is the quieter, more cultured half of the Los Cabos resort area at the southern tip of Baja California. While neighbouring [Cabo San Lucas](/northamerica/mexico/cabosanlucas) draws the party crowd, San José has a genuine Mexican town centre with colonial architecture, a handsome church on the main plaza, and a Thursday-evening art walk through the galleries along Calle Álvaro Obregón.

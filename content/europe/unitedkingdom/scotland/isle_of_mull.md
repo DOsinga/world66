@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: isle_of_mull.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tobermory_waterfront_recrop.jpg
 latitude: 56.459699
+loc_type: region
 longitude: -5.86206
+score: 0.64
 title: Isle of Mull
 type: location
-score: 0.64
-loc_type: region
 ---
 
 Mull is the third largest island off Scotland's west coast, and one of the most accessible — the ferry from Oban to Craignure takes about 45 minutes. It is a place of big, empty landscapes: raised bogs, sea lochs cutting deep into the interior, basalt cliffs along the western coast, and Ben More (966 metres), the only Munro on a Scottish island outside Skye.

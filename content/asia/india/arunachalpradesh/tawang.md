@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: tawang.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:The_buddist_monastry.jpg
 latitude: 27.587919
+loc_type: city
 longitude: 91.863733
+score: 0.59
 title: Tawang
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Situated at over 3,000 metres in the far northwest of Arunachal Pradesh, Tawang is renowned for its 400-year-old Buddhist monastery — the largest in India and second only to the Potala Palace in Lhasa. The Tawang Monastery, also known as Galden Namgyal Lhatse, was founded by Mera Lama, a contemporary of the fifth Dalai Lama. The sixth Dalai Lama was born here.

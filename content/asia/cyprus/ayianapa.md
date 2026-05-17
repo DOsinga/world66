@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   poi_cleanup: '2026-04-19'
+image: ayianapa.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Agia_Napa_beach_located_in_vicinity_of_Nelia_Beach_Hotel.jpg
 latitude: 34.9893
+loc_type: city
 longitude: 33.9962
 score: 0.62
 title: Ayia Napa
 type: location
-loc_type: city
 ---
 
 Ayia Napa sits on the southeastern tip of Cyprus, a former fishing village that transformed into one of Europe's most famous party destinations. In summer the population swells from under a thousand to tens of thousands, drawn by turquoise water, white sand beaches, and a nightlife scene that rivals Ibiza.

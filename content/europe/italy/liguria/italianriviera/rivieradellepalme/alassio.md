@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: alassio.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Alassio_from_Capo_Mele.jpg
 latitude: 44.008011
+loc_type: city
 longitude: 8.173027
+score: 0.6
 title: Alassio
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Alassio is the undisputed belle of the western Ligurian Riviera — a long, sandy beach, pastel-coloured houses, and a mild climate that keeps the bougainvillea flowering well into autumn. It sits between Albenga and Laigueglia in what the Italians call the Baia del Sole, and its roughly 11,500 permanent residents share the town with tens of thousands of summer visitors who have been coming here since the Belle Époque.

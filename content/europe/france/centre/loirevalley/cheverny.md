@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: cheverny.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:ChevernySchloss.jpg
 latitude: 47.4997
+loc_type: city
 longitude: 1.4611
 score: 0.64
 title: Cheverny
 type: location
-loc_type: city
 ---
 
 Cheverny is one of the most elegant chateaux in the Loire Valley, and unlike many of its neighbours, it is still lived in — the Hurault family and their descendants, the marquis de Vibraye, have owned the estate for nearly seven centuries. That continuity gives Cheverny a quality rare among the great Loire chateaux: it feels like a home rather than a monument.

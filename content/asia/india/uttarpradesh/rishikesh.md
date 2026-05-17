@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: rishikesh.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Trayambakeshwar_Temple_VK.jpg
 latitude: 30.108654
+loc_type: city
 longitude: 78.291619
+score: 0.61
 title: Rishikesh
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Rishikesh sits at the foothills of the Himalayas where the Ganges emerges from the mountains into the plains, about 25 kilometres north of Haridwar. It is one of the most important pilgrimage centres in India and has also become one of the world's most popular destinations for yoga and meditation — the Beatles stayed here in 1968 at the Maharishi Mahesh Yogi's ashram, an act that cemented the town's global reputation.

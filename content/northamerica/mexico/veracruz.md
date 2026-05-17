@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-14'
+image: veracruz.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Miguel_Aleman_Blvd,_Veracruz,_p1_2019.jpg
 latitude: 19.1901
 loc_type: city
 longitude: -96.1533

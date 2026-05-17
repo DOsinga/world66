@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: curacao.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Facades_of_Handelskade,_Willemstad,_Cura%C3%A7ao_-_February_2020.jpg
 latitude: 12.1696
+loc_type: region
 longitude: -68.99
+score: 0.65
 title: Curacao
 type: location
-score: 0.65
-loc_type: region
 ---
 
 Curacao is the largest of the former Netherlands Antilles, a dry, hilly island in the southern Caribbean just off the coast of Venezuela. Its capital, [Willemstad](/northamerica/netherlandsantilles/curacao/willemstad), is a UNESCO World Heritage Site — rows of Dutch colonial buildings painted in bright pastels lining the harbour of St. Anna Bay, connected by the famous Queen Emma pontoon bridge that swings open for passing ships.

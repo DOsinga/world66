@@ -3,6 +3,9 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
+image: playa_del_ingles.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Playa_des_ingles_shoppingbeach_A.jpg
 latitude: 27.759481
 loc_type: city
 longitude: -15.574086

@@ -1,12 +1,15 @@
 ---
-title: Terceira
-type: location
-latitude: 38.721165
-longitude: -27.217638
 done:
   location_cleanup: 2026-04-06
-score: 0.65
+image: terceira.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Terceira_from_space_2020.jpg
+latitude: 38.721165
 loc_type: city
+longitude: -27.217638
+score: 0.65
+title: Terceira
+type: location
 ---
 
 Travel Guide

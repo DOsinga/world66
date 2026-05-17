@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: malbork.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Malbork,_Polonia,_2013-05-19,_DD_05.jpg
 latitude: 54.035836
+loc_type: city
 longitude: 19.03685
+score: 0.63
 title: Malbork
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Malbork exists because of its castle, and what a castle it is — the largest brick gothic fortress in the world, a UNESCO World Heritage site, and the former headquarters of the Teutonic Knights. Built in the thirteenth century as a monastic stronghold, it looks far more like a royal palace than anything vowed to poverty, chastity and obedience.

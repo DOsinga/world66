@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-20'
+image: dunedin.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Dunedin-Nueva_Zelanda01.JPG
 latitude: -45.874098
+loc_type: city
 longitude: 170.503576
 score: 0.64
 title: Dunedin
 type: location
-loc_type: city
 ---
 
 Dunedin is New Zealand's most Scottish city — its name is the old Gaelic word for Edinburgh — and that heritage shows in its Victorian and Edwardian streetscapes, its stone-built university, and a certain Presbyterian seriousness balanced by a fierce local pride. The South Island's second-largest city sits at the head of Otago Harbour, with the long finger of Otago Peninsula stretching out to sea beside it.

@@ -1,12 +1,15 @@
 ---
-title: Nagarkot
-type: location
-latitude: 27.718508
-longitude: 85.51973
 done:
   location_cleanup: 2026-04-05
-score: 0.61
+image: nagarkot.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2015-03-18_Nagarkot_Hotel_Galaxy_DSCF2094.jpg
+latitude: 27.718508
 loc_type: city
+longitude: 85.51973
+score: 0.61
+title: Nagarkot
+type: location
 ---
 
 Nagarkot is a small hilltop resort village on the eastern rim of the **Kathmandu Valley**, about 32 km from Kathmandu and reached by a winding two-hour drive up through terraced rice fields and rhododendron forest. At 2,175 metres it is one of the highest points accessible by road on the edge of the valley, and its reason for existing is a single extraordinary feature: on a clear morning, the view from Nagarkot takes in eight of the world's highest mountain ranges, including the snow walls of **Manaslu**, **Ganesh Himal**, **Langtang**, **Jugal**, **Rolwaling**, and — weather permitting — even a distant glimpse of **Everest** itself to the north-east.

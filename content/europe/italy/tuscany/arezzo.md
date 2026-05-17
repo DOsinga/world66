@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-12'
+image: arezzo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Piazza_Grande,_Arezzo.JPG
 latitude: 43.517144
 loc_type: city
 longitude: 11.763928

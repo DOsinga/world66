@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-20'
+image: saltlakecity.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Salt_Lake_Union_Pacific_Railroad_Station,_South_Temple_at_400_West,_Central_City_West,_Salt_Lake_City,_UT,_USA.jpg
 latitude: 40.75962
+loc_type: city
 longitude: -111.886797
 score: 0.58
 title: Salt Lake City
 type: location
-loc_type: city
 ---
 
 Salt Lake City is the Capital of Utah and its most vibrant city. In the mountains around you will find some of the best powder skiing in the world, which is principally why the 2002 Winter Olympics were held here; the proximity of the resorts to the city is the other reason since you can get to no less than 10 ski resorts in under 45 minutes from the airport. Nestled between the Wasatch Mountains, the Great Salt Lake Desert and the Great Salt Lake (some 8 times saltier than your average ocean) the city is an ideal starting point for all sorts of outdoor activities. Daytrips can be made to Antelope Island, the Bonneville Salt Flats, Park City, the Sundance Resort, Provo, Ogden and a limitless amount of picturesque canyons. These locatoins are all within 1 hour driving distance. 

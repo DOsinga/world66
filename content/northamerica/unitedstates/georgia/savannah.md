@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
+image: savannah.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Tarangire-Natpark800600.jpg
 latitude: 32.079007
+loc_type: city
 longitude: -81.092134
 score: 0.64
 title: Savannah
 type: location
-loc_type: city
 ---
 
 Savannah is one of the most beautiful cities in the American South. Its historic district — a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses — has remained remarkably intact since the 19th century. The city was spared during Sherman's March to the Sea in 1864, which accounts for why it still looks the way it does.

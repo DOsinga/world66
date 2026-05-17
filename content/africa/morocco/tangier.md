@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   poi_cleanup: '2026-04-19'
+image: tangier.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tanger_cor.jpg
 latitude: 35.7596
+loc_type: city
 longitude: -5.834
 score: 0.59
 title: Tangier
 type: location
-loc_type: city
 ---
 
 Tangier sits at the northwestern tip of Africa, where the Mediterranean meets the Atlantic and Europe shimmers on the horizon. For centuries this position made it a crossroads of civilizations, a free port, and an international zone where anything went. The old reputation for intrigue has faded, but the city's restless energy has not.

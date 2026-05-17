@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: humahuaca.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:HumahuacaCityMontage.jpg
 latitude: -23.204027
+loc_type: city
 longitude: -65.348776
+score: 0.59
 title: Humahuaca
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Located in the North West of Argentina, the Quebrada de Humahuaca is one of the major tourist sights. The colonial architecture and the barren landscape will remind the traveler of Peru and Bolivia.

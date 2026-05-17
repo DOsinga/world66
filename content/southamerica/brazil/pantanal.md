@@ -1,12 +1,15 @@
 ---
-latitude: -17.675068
-longitude: -57.455336
-title: Pantanal
-type: location
 done:
   location_cleanup: 2026-04-07
-score: 0.65
+image: pantanal.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Pantanal,_south-central_South_America_5170.jpg
+latitude: -17.675068
 loc_type: region
+longitude: -57.455336
+score: 0.65
+title: Pantanal
+type: location
 ---
 
 The Pantanal is the world's largest tropical wetland, stretching across roughly 200,000 square kilometres in western Brazil (mainly Mato Grosso and Mato Grosso do Sul) and spilling into Bolivia, Paraguay and Argentina. UNESCO recognises it as a World Heritage Site and Biosphere Reserve. While the Amazon gets more attention, wildlife watchers consistently rate the Pantanal as the better destination: the open savanna-wetland landscape means animals are far easier to spot than in dense rainforest.

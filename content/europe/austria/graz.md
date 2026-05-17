@@ -2,12 +2,15 @@
 done:
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
+image: graz.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Graz_(35932179023).jpg
 latitude: 47.0709
+loc_type: city
 longitude: 15.4383
 score: 0.65
 title: Graz
 type: location
-loc_type: city
 ---
 
 Graz is Austria's second city, but it carries none of the weight of that label. Where Vienna is imperial and self-conscious, Graz is easy-going — a university town that happens to have an extraordinary old city, a hill with a clock tower, and one of the best collections of historical armour in the world.

@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
+image: mazatlan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mazatl%C3%A1nCollage.png
 latitude: 23.203578
 loc_type: city
 longitude: -106.420839

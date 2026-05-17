@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: khiva.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:View_from_the_city_walls,_Khiva_(4934484894).jpg
 latitude: 41.3775
+loc_type: city
 longitude: 60.3635
+score: 0.65
 title: Khiva
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Khiva's walled inner city, the Ichan-Kala, is the best-preserved medieval town in Central Asia — a UNESCO World Heritage Site of minarets, madrassas, and turquoise-tiled palaces packed within mud-brick walls. It can feel like a museum rather than a living town, and in some ways it is: the Soviets relocated most residents outside the walls, and tourism now dominates. But in the early morning or late afternoon, when the tour groups thin out and the light turns golden on the clay walls, Khiva is extraordinary.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: haifa.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Hanging_Gardens_of_Haifa,_Israel_(50099173503)_(cropped).jpg
 latitude: 32.819122
+loc_type: city
 longitude: 34.998386
+score: 0.58
 title: Haifa
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Haifa is the third biggest city of Israel and the economic powerhouse of the country. As the people in Haifa say: [Jerusalem](/asia/israel/jerusalem) is for praying, Tel Aviv for partying, Haifa for working. 

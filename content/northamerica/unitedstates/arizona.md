@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: arizona.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:The_PEFO_Tepees.jpg
 latitude: 34.0489
+loc_type: region
 longitude: -111.0937
 score: 0.64
 title: Arizona
 type: location
-loc_type: region
 ---
 
 Arizona is a state of extremes. The northern plateau country is high, cold in winter, and split open by the Grand Canyon — one of the genuinely awe-inspiring places on earth. The southern lowlands are Sonoran Desert: hot, saguaro-studded, and beautiful in a way that takes some time to see. Between them runs a corridor of mountain ranges, old mining towns, and red-rock landscapes that most visitors never reach.

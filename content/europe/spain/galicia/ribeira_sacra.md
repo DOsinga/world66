@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: ribeira_sacra.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:DO_Ribeira_Sacra_location.svg
 latitude: 42.4678
+loc_type: city
 longitude: -7.5284
+score: 0.61
 title: Ribeira Sacra
 type: location
-score: 0.61
-loc_type: city
 ---
 
 The Ribeira Sacra is where the Sil and Miño rivers have carved deep gorges through the hills of inland [Galicia](/europe/spain/galicia). Steep canyon walls drop hundreds of metres to green water, terraced vineyards cling to impossible slopes, and medieval monasteries sit on the high ground above — the "sacred banks" that give the region its name.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: hercegnovi.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Herceg_Novi_Sunset.JPG
 latitude: 42.451762
+loc_type: city
 longitude: 18.536752
+score: 0.63
 title: Herceg Novi
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Herceg Novi sits at the entrance to the Bay of Kotor, just a few kilometres from the Croatian border. It's the first town you'll reach coming from Dubrovnik, and it makes for a pleasant introduction to Montenegro — less touristed than Kotor, more authentic than Budva.

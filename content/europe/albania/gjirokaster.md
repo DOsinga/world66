@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+image: gjirokaster.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Gjirokaster_2016-2017.jpg
 latitude: 40.077087
+loc_type: city
 longitude: 20.139336
 score: 0.61
 title: Gjirokaster
 type: location
-loc_type: city
 ---
 
 Gjirokastër — the "City of Stone" — is one of the best-preserved Ottoman towns in the Balkans and a UNESCO World Heritage Site jointly listed with Berat. It climbs a steep hillside in southern Albania, all grey-slate rooftops, cobbled alleys, and tower houses with overhanging upper floors. The setting, ringed by mountains, is dramatic in any season.

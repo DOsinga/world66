@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
+image: kardamili.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kadamyli_from_Proastio.jpg
 latitude: 36.8966
+loc_type: city
 longitude: 22.2199
 score: 0.64
 title: Kardamili
 type: location
-loc_type: city
 ---
 
 Kardamili is a small coastal village in Exo Mani, about 35 kilometres south of [Kalamata](/europe/greece/kalamata), backed by the grey limestone wall of the Taygetos mountains and fronted by a pebble beach the colour of slate. It is quieter and less developed than [Stoupa](/europe/greece/mani/stoupa) to the south, which is precisely what draws the kind of traveller who finds Stoupa too crowded.

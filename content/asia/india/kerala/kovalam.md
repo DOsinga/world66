@@ -1,12 +1,15 @@
 ---
-title: Kovalam
-type: location
-latitude: 8.390259
-longitude: 76.978515
 done:
   location_cleanup: 2026-04-07
-score: 0.59
+image: kovalam.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kovalam_beach_trivandrum_kerala.jpg
+latitude: 8.390259
 loc_type: city
+longitude: 76.978515
+score: 0.59
+title: Kovalam
+type: location
 ---
 
 Kovalam is Kerala's most famous beach, just 16 km south of [Thiruvananthapuram](/asia/india/kerala/thiruvananthapuram). Thirty years ago it was a hippy idyll: a picture-perfect crescent of sand, a fishing village providing fresh fish, fruit and toddy. Today it is heavily developed and commercialised, but it has managed, against the odds, to retain some of the charm that made it popular in the first place.

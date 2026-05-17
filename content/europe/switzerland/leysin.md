@@ -1,12 +1,15 @@
 ---
-title: Leysin
-type: location
-latitude: 46.34387
-longitude: 7.01484
 done:
   location_cleanup: 2026-04-10
-score: 0.6
+image: leysin.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Picswiss_VD-44-39.jpg
+latitude: 46.34387
 loc_type: city
+longitude: 7.01484
+score: 0.6
+title: Leysin
+type: location
 ---
 
 Leysin is a mountain resort village in the Vaud Alps, perched on a south-facing terrace at around 1,300 metres above the Rhône valley. It's well-known as a winter ski destination, but the summer version — quieter, cheaper, with good walking and mountain biking — is equally rewarding.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: lepuyenvelay.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Le_Puy-en-Velay.JPEG
 latitude: 45.045974
+loc_type: city
 longitude: 3.885554
+score: 0.61
 title: Le Puy en Velay
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Le Puy-en-Velay is one of the most visually striking towns in France. The old city rises from the volcanic plain of the Auvergne on a cluster of rocky outcrops, with a Romanesque cathedral perched on the largest of them and two dramatic volcanic plugs rising nearby — one topped by a giant red statue of the Virgin, the other by an 11th-century chapel accessible by a steep staircase cut into the rock itself.

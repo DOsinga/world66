@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: hochiminhcity.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_panorama_2019_(cropped2).jpg
 latitude: 10.775525
+loc_type: city
 longitude: 106.702105
 score: 0.65
 title: Ho Chi Minh City
 type: location
-loc_type: city
 ---
 
 Ho Chi Minh City — still called Saigon by almost everyone who lives there — is the commercial heart of Vietnam. It is louder, hotter, and more chaotic than the capital [Hanoi](/asia/vietnam/hanoi) a thousand kilometres to the north, and that is most of its appeal. Ten million people, an ocean of motorbikes (crossing the street is genuinely a learned skill), and a rate of economic change that has rebuilt whole districts in the last decade while leaving French-colonial arcades, Chinese pagodas, and war-era buildings still standing in between.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: kilkenny.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kilkenny_castle_2.jpg
 latitude: 52.650625
+loc_type: city
 longitude: -7.251444
 score: 0.64
 title: Kilkenny
 type: location
-loc_type: city
 ---
 
 Klikenny is Ireland's most beautiful medieval city. Narrow streets, a great castle on a hilltop and many old buildings make the town a lot of fun to stroll around.

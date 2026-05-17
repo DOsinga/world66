@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
   poi_cleanup: '2026-04-20'
+image: melaka.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Malacca_River_Walk_2012.JPG
 latitude: 2.329374
+loc_type: region
 longitude: 102.288096
 score: 0.65
 title: Melaka
 type: location
-loc_type: region
 ---
 
 Travel Guide

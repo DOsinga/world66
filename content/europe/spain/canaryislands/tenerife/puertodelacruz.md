@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: puertodelacruz.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Puerto_de_la_Cruz_Collage.jpg
 latitude: 28.4159
+loc_type: city
 longitude: -16.5533
+score: 0.64
 title: Puerto de la Cruz
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Puerto de la Cruz is the main town on Tenerife's green northern coast, set at the foot of the Orotava valley with Mount Teide rising behind it. It has been attracting visitors since the 19th century and has a warmth and character that the purpose-built southern resorts lack. The old harbor area, the tree-lined streets, and the famous Lake Martianez complex designed by Cesar Manrique give it a sense of place that feels genuinely Canarian rather than generically tourist.

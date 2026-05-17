@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: kochi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kochi_Skyline.jpg
 latitude: 9.967903
+loc_type: city
 longitude: 76.244438
 score: 0.63
 title: Kochi
 type: location
-loc_type: city
 ---
 
 Kochi, also known as Cochin, is Kerala's most cosmopolitan city and a fascinating place to walk around. The old Fort Cochin area has a distinctly European feel, shaped by centuries of Portuguese, Dutch and British rule, each of whom left buildings, churches and cultural footprints that still define the neighbourhood.

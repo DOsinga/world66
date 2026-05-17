@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: chalong.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Tambon_830106.png
 latitude: 7.84652
+loc_type: city
 longitude: 98.334415
+score: 0.65
 title: Chalong
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Chalong sits in the southeast of Phuket, well away from the tourist circus of Patong. It's a working waterfront district — functional, a little rough, and genuinely Thai in character. Plenty of expats have settled here precisely because it feels like real life rather than a resort.

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: oslo.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Nationaltheatret_evening.jpg
 latitude: 59.91333
+loc_type: region
 longitude: 10.73897
 score: 0.63
 title: Oslo
 type: location
-loc_type: region
 ---
 
 Oslo is the Nordic capital that most visitors underestimate. Stockholm looks grander, Copenhagen is more charming, Helsinki has the edge in modern design. Oslo is none of those things, but it is the one Nordic capital where you can walk 15 minutes from a high-design museum to a hiking trail into deep forest, and that particular combination of compact city and raw landscape makes it uniquely worth a visit.

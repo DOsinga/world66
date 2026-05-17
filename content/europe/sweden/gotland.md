@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: gotland.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Gotland_Grand_National_October_2023_12.jpg
 latitude: 57.41748
+loc_type: city
 longitude: 18.536958
+score: 0.63
 title: Gotland
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Gotland is Sweden's largest island and one of its most popular summer destinations — a flat limestone plateau in the Baltic Sea with a character quite different from the mainland. The landscape is open farmland, wildflower meadows, and dramatic sea stacks (raukar) along the coast.

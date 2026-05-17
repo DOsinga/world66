@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
   poi_cleanup: '2026-04-21'
+image: kalamata.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kalamata,_Peloponnese,_Greece.jpg
 latitude: 37.037271
+loc_type: city
 longitude: 22.110707
 score: 0.63
 title: Kalamata
 type: location
-loc_type: city
 ---
 
 Kalamata is famous as the Gateway to Exo Mani (which in turn is the gateway to Mesa Mani). The airport, railway terminous, major port, and bus station make it a transportation hub to all the surrounding area. At one time British Airplane spotters were treated to special accomodations there by the local military, but this practice has stopped last I heard.

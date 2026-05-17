@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: ottawa.jpg
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Parliament-Ottawa.jpg
 latitude: 45.4215
+loc_type: city
 longitude: -75.6972
 score: 0.6
 title: Ottawa
 type: location
-loc_type: city
 ---
 
 Ottawa is Canada's capital, and one of the most underrated cities in North America. It is smaller and quieter than Toronto or Montreal, but it punches well above its weight: the seat of government, the country's best collection of national museums, and a setting of rivers, canals and parkland that makes the city itself a pleasure to walk through.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: leshan.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg
 latitude: 29.5452
+loc_type: city
 longitude: 103.7659
+score: 0.59
 title: Leshan
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Leshan exists almost entirely in the shadow of one extraordinary thing: a 71-metre Buddha carved into a cliff face where three rivers meet. It is the largest stone Buddha in the world, and it is genuinely astonishing — not in the way that photographs prepare you for, but in the way that standing at the statue's feet and realising his toenails are taller than you are can only be experienced in person.

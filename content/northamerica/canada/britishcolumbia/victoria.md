@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: victoria.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Victoria_BC,_Canada_(Johnson_Street)_-_panoramio.jpg
 latitude: 48.4284
+loc_type: region
 longitude: -123.3656
 score: 0.64
 title: Victoria
 type: location
-loc_type: region
 ---
 
 *North America > Canada > [British Columbia](/northamerica/canada/britishcolumbia) > Victoria*

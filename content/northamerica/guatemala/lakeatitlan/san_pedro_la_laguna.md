@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: san_pedro_la_laguna.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Lago_Atitl%C3%A0n.JPG
 latitude: 14.6958
+loc_type: city
 longitude: -91.2719
+score: 0.62
 title: San Pedro la Laguna
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Across the lake from [Panajachel](/northamerica/guatemala/lakeatitlan/panajachel), San Pedro la Laguna is a beautiful pueblo that captures the essence of Guatemala in one small place. It sits at the base of the San Pedro volcano on the southwestern shore of [Lake Atitlan](/northamerica/guatemala/lakeatitlan), and caters to the backpacker scene like no other town in the country.

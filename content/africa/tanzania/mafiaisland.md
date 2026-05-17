@@ -7,6 +7,10 @@ title: Mafia Island
 type: location
 score: 0.58
 loc_type: city
+image: mafiaisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mafia_Island_(51554991378).jpg
+image_license: CC BY 2.0
+image_attribution: Nina R from Africa
 ---
 
 Mafia Island sits about 130 km south of Dar es Salaam in the Indian Ocean, and it is deliberately, pleasantly off the beaten track. There are no big resort hotels, no nightclubs, and very little tourist infrastructure — which is exactly the point. People come here for the water.

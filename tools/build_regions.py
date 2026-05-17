@@ -178,23 +178,74 @@ def safe_polygon_list(geom) -> list[Polygon]:
     return out
 
 
+def kmeans_seeds(locs: list[Loc], k: int, n_iters: int = 15) -> list[tuple[float, float]]:
+    """Importance-weighted k-means. Initialise the K centroids with the top-K
+    cities by importance (deterministic), then run Lloyd's iterations weighted
+    by importance so the centroids drift toward the city-density mass.
+
+    Returns a list of K (lon, lat) centroids. Cells that end up empty during
+    iteration keep their previous position (rare with importance-weighted init).
+    """
+    # Initial centroids: prefer top-K cities; fall back to top-K of anything.
+    cities = sorted([l for l in locs if l.loc_type == "city"],
+                    key=lambda l: -l.importance)
+    init = cities[:k] if len(cities) >= k else sorted(locs, key=lambda l: -l.importance)[:k]
+    centroids: list[tuple[float, float]] = [(l.lon, l.lat) for l in init]
+
+    # De-duplicate identical starts (very rare but breaks Voronoi later).
+    seen = set()
+    deduped = []
+    for c in centroids:
+        key = (round(c[0], 4), round(c[1], 4))
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(c)
+    centroids = deduped
+
+    for _ in range(n_iters):
+        # Assign each loc to nearest centroid (squared Euclidean is fine for
+        # this — distances are local within one subunit).
+        groups: list[list[Loc]] = [[] for _ in centroids]
+        for l in locs:
+            best_i, best_d = 0, float("inf")
+            for i, (cx, cy) in enumerate(centroids):
+                d = (cx - l.lon) ** 2 + (cy - l.lat) ** 2
+                if d < best_d:
+                    best_d, best_i = d, i
+            groups[best_i].append(l)
+
+        # Update each centroid to the importance-weighted mean of its group.
+        new_centroids: list[tuple[float, float]] = []
+        for i, group in enumerate(groups):
+            if not group:
+                new_centroids.append(centroids[i])
+                continue
+            total_w = sum(l.importance for l in group)
+            cx = sum(l.lon * l.importance for l in group) / total_w
+            cy = sum(l.lat * l.importance for l in group) / total_w
+            new_centroids.append((cx, cy))
+
+        if new_centroids == centroids:
+            break
+        centroids = new_centroids
+
+    return centroids
+
+
 def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> list[dict]:
-    """Split a high-importance subunit via Voronoi seeded by its top cities.
+    """Split a high-importance subunit via Voronoi seeded by importance-weighted
+    k-means centroids. Centroids drift toward where cities actually cluster,
+    so dense areas with no single dominant city (northern Germany, the
+    Randstad, …) get their own region centred on the cluster, not snapped to
+    a far-away tourist hotspot.
 
     Returns a list of region dicts. Each region has: name, parent, geom, locs.
     """
     n_splits = min(MAX_SPLITS_PER_SUBUNIT, max(2, round(total_importance / BUDGET)))
 
-    # Seed candidates: cities with the largest importance. Skip country/region
-    # rows because their centroid is too coarse to act as a seed.
-    candidates = sorted(
-        [l for l in locs if l.loc_type == "city"],
-        key=lambda l: -l.importance,
-    )
-    if len(candidates) < n_splits:
-        candidates = sorted(locs, key=lambda l: -l.importance)
-    seeds = candidates[:n_splits]
-    if len(seeds) < 2:
+    centroids = kmeans_seeds(locs, n_splits)
+    if len(centroids) < 2:
         return [{
             "name": subunit["name"],
             "parent": subunit["sovereign"] or subunit["name"],
@@ -202,26 +253,7 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    # De-duplicate seeds that landed on identical coordinates (rare but
-    # poisonous to Voronoi).
-    seen = set()
-    unique_seeds = []
-    for s in seeds:
-        key = (round(s.lon, 5), round(s.lat, 5))
-        if key in seen:
-            continue
-        seen.add(key)
-        unique_seeds.append(s)
-    seeds = unique_seeds
-    if len(seeds) < 2:
-        return [{
-            "name": subunit["name"],
-            "parent": subunit["sovereign"] or subunit["name"],
-            "geom": subunit["geom"],
-            "locs": locs,
-        }]
-
-    points = MultiPoint([(s.lon, s.lat) for s in seeds])
+    points = MultiPoint(list(centroids))
     envelope = subunit["geom"].buffer(5.0).envelope  # generous so cells extend past borders
 
     try:
@@ -236,10 +268,9 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    if len(cells) != len(seeds):
-        print(f"cell/seed mismatch in {subunit['name']}: {len(cells)} cells, {len(seeds)} seeds",
+    if len(cells) != len(centroids):
+        print(f"cell/seed mismatch in {subunit['name']}: {len(cells)} cells, {len(centroids)} centroids",
               file=sys.stderr)
-        # Fall back to whole-subunit region.
         return [{
             "name": subunit["name"],
             "parent": subunit["sovereign"] or subunit["name"],
@@ -247,20 +278,20 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    # Clip each cell to the subunit polygon and assign locs by Voronoi membership.
+    # Clip each cell to the subunit polygon.
     regions = []
-    for seed, cell in zip(seeds, cells):
+    for i, (centroid, cell) in enumerate(zip(centroids, cells)):
         clipped = cell.intersection(subunit["geom"])
         polys = safe_polygon_list(clipped)
         if not polys:
             continue
         clipped_geom = polys[0] if len(polys) == 1 else MultiPolygon(polys)
         regions.append({
-            "name": seed.title,
+            "name": None,  # set below from the cluster's top loc
             "parent": subunit["name"],
             "geom": clipped_geom,
-            "seed": seed,
-            "locs": [],  # will be filled below
+            "centroid": centroid,
+            "locs": [],
         })
 
     if not regions:
@@ -271,18 +302,27 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "locs": locs,
         }]
 
-    # Re-assign all locs to their nearest seed (faster than per-cell contains()
-    # and robust against floating-point gaps along cell boundaries).
-    seed_coords = [(r["seed"].lon, r["seed"].lat) for r in regions]
+    # Assign every loc to its nearest centroid (faster than point-in-polygon and
+    # robust against floating-point gaps at cell boundaries).
+    centroid_coords = [r["centroid"] for r in regions]
     for loc in locs:
         best_i = 0
         best_d = float("inf")
-        for i, (lon, lat) in enumerate(seed_coords):
+        for i, (lon, lat) in enumerate(centroid_coords):
             d = (lon - loc.lon) ** 2 + (lat - loc.lat) ** 2
             if d < best_d:
                 best_d = d
                 best_i = i
         regions[best_i]["locs"].append(loc)
+
+    # Name each region after its highest-scoring location (centroids are mass
+    # centres, not actual cities, so we can't name after the seed itself).
+    for r in regions:
+        if r["locs"]:
+            top = max(r["locs"], key=lambda l: l.score)
+            r["name"] = top.title
+        else:
+            r["name"] = subunit["name"]
 
     return regions
 

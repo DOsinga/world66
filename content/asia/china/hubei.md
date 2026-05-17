@@ -6,6 +6,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Hubei
 title: Hubei Province
 type: location
+image: hubei.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Enshi_grand_canyon.jpg
+image_license: CC0
+image_attribution: Unknown author
 ---
 
 Hubei sits at the heart of China, literally and historically. The Yangtze River cuts through it from west to east, and it was the construction of the Three Gorges Dam — the world's largest power station — that brought Hubei to global attention in the 1990s and flooded the most dramatic section of the river. The gorges still exist and are still impressive; they are just less dramatic than they were before the reservoir rose.

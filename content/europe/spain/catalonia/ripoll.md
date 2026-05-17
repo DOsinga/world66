@@ -7,6 +7,10 @@ title: Ripoll
 type: location
 score: 0.51
 loc_type: city
+image: ripoll.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ripoll_belltower.JPG
+image_license: CC BY 2.5
+image_attribution: Antonio De Lorenzo
 ---
 
 Ripoll is a small town in the Pyrenean foothills of Catalonia, best reached by train from [Barcelona](/europe/spain/catalonia/barcelona). Its main draw is the Monastery of Santa Maria de Ripoll, founded in the 9th century by Wilfred the Hairy — the legendary first Count of Barcelona. The monastery was one of the most important in medieval Catalonia and its elaborately carved Romanesque portal, dating from the 12th century, is considered a masterpiece of the style.

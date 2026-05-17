@@ -1019,63 +1019,63 @@
    }
   ]
  },
- "colorado": {
-  "name": "Rocky Mountains",
+ "black_hills": {
+  "name": "Great Plains & Black Hills",
   "parent": "United States of America",
-  "n_locs": 54,
+  "n_locs": 26,
   "is_split": true,
   "top_locations": [
    {
-    "title": "Colorado",
-    "snippet": "Colorado is defined by the Rocky Mountains. The peaks run right through the middle of the state, creating a landscape of dramatic contrasts \u2014 alpine tundra above the treeline, red rock canyons in the west, and the vast high plains stretching east toward Kansas. With over 50 su...",
-    "path": "northamerica/unitedstates/colorado",
-    "score": 0.72,
-    "lat": 38.725178,
-    "lon": -105.607716,
+    "title": "Black Hills",
+    "snippet": "The Black Hills are an isolated mountain range rising from the Great Plains of western South Dakota \u2014 dark with ponderosa pine from a distance, hence the name. Sacred to the Lakota Sioux, contested in treaty wars, and eventually carved with presidential faces, this is one of t...",
+    "path": "northamerica/unitedstates/southdakota/blackhills",
+    "score": 0.64,
+    "lat": 43.869281,
+    "lon": -103.526487,
     "image_url": null
    },
    {
-    "title": "Aspen",
-    "snippet": "Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest smal...",
-    "path": "northamerica/unitedstates/colorado/aspen",
-    "score": 0.71,
-    "lat": 39.191113,
-    "lon": -106.82356,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/aspen.jpg"
+    "title": "South Dakota",
+    "snippet": "South Dakota is the most unassuming of the Great Plains states \u2014 a flat, sparsely populated rectangle of wheat and buffalo grass on the upper Missouri River \u2014 but it contains an extraordinary amount of what makes the American West famous. The state is split in half by the Miss...",
+    "path": "northamerica/unitedstates/southdakota",
+    "score": 0.54,
+    "lat": 44.647176,
+    "lon": -100.348761,
+    "image_url": null
    },
    {
-    "title": "Vail",
-    "snippet": "Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built \u2014 Tyrolean-style architecture, pedestrian vi...",
-    "path": "northamerica/unitedstates/colorado/vail",
-    "score": 0.66,
-    "lat": 39.643803,
-    "lon": -106.388823,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/vail.jpg"
+    "title": "Deadwood",
+    "snippet": "Deadwood is a historic gold-rush town tucked into a gulch in the Black Hills of South Dakota. The gold rush began in 1876 and the town quickly became notorious \u2014 Wild Bill Hickok was shot dead at a card table here that same year, and Calamity Jane made it her base. Both are bu...",
+    "path": "northamerica/unitedstates/southdakota/deadwood",
+    "score": 0.53,
+    "lat": 44.374381,
+    "lon": -103.729072,
+    "image_url": "/content-image/northamerica/unitedstates/southdakota/deadwood.jpg"
    },
    {
-    "title": "Santa Fe",
-    "snippet": "Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class...",
-    "path": "northamerica/unitedstates/newmexico/santafe",
-    "score": 0.65,
-    "lat": 35.6876,
-    "lon": -105.9385,
-    "image_url": "/content-image/northamerica/unitedstates/newmexico/santafe.jpg"
+    "title": "\u201cSturgis\u201d",
+    "snippet": "Sturgis is a small ranching town of about 7,000 in the Northern Black Hills of South Dakota, but every August it becomes one of the most famous gatherings in America. The Sturgis Motorcycle Rally, running since 1938, draws close to half a million bikers for concerts, races, bi...",
+    "path": "northamerica/unitedstates/southdakota/sturgis",
+    "score": 0.42,
+    "lat": 44.4094,
+    "lon": -103.5091,
+    "image_url": "/content-image/northamerica/unitedstates/southdakota/sturgis.jpg"
    },
    {
-    "title": "Boulder",
-    "snippet": "Boulder is as beautiful as it is unique. Visitors here are treated to both a sensory and cultural treat. We have 4 very distinct seasons, with a moderate to cold winter. The Boulderites motto is \"if you don't like the weather, wait 5 minutes and it'll change\". The moral: Alway...",
-    "path": "northamerica/unitedstates/colorado/boulder",
-    "score": 0.65,
-    "lat": 40.014986,
-    "lon": -105.270545,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/boulder.jpg"
+    "title": "Medora",
+    "snippet": "Medora is a tiny town of a few hundred people in the western Badlands, about 140 km west of Bismarck, and the main gateway to Theodore Roosevelt National Park. It's small enough to walk across in ten minutes, but it packs in more history than most towns ten times its size.",
+    "path": "northamerica/unitedstates/northdakota/medora",
+    "score": 0.42,
+    "lat": 46.9144,
+    "lon": -103.5291,
+    "image_url": "/content-image/northamerica/unitedstates/northdakota/medora.jpg"
    }
   ]
  },
  "new_orleans": {
   "name": "Deep South",
   "parent": "United States of America",
-  "n_locs": 124,
+  "n_locs": 115,
   "is_split": true,
   "top_locations": [
    {
@@ -1128,7 +1128,7 @@
  "new_york": {
   "name": "Mid Atlantic",
   "parent": "United States of America",
-  "n_locs": 96,
+  "n_locs": 109,
   "is_split": true,
   "top_locations": [
    {
@@ -1181,7 +1181,7 @@
  "chicago": {
   "name": "Midwest",
   "parent": "United States of America",
-  "n_locs": 99,
+  "n_locs": 71,
   "is_split": true,
   "top_locations": [
    {
@@ -1234,7 +1234,7 @@
  "las_vegas": {
   "name": "Nevada & Zion",
   "parent": "United States of America",
-  "n_locs": 16,
+  "n_locs": 17,
   "is_split": true,
   "top_locations": [
    {
@@ -1265,15 +1265,6 @@
     "image_url": "/content-image/northamerica/unitedstates/utah/springdale.jpg"
    },
    {
-    "title": "Kanab",
-    "snippet": "Kanab is a small town in southern Utah that punches well above its weight as a base for exploring some of the American Southwest's most spectacular landscapes. Sitting at the junction of US-89 and US-89A, it is within easy reach of four major protected areas: Zion National Par...",
-    "path": "northamerica/unitedstates/utah/kanab",
-    "score": 0.55,
-    "lat": 37.0482,
-    "lon": -112.5285,
-    "image_url": "/content-image/northamerica/unitedstates/utah/kanab.jpg"
-   },
-   {
     "title": "St. George",
     "snippet": "St. George sits in Utah's southwest corner, surrounded by red rock cliffs and desert landscape that feels more like southern Nevada than the rest of the state. With over 300 days of sunshine a year and mild winters, it has become a base for outdoor pursuits and a popular stop...",
     "path": "northamerica/unitedstates/utah/st_george",
@@ -1281,13 +1272,22 @@
     "lat": 37.109877,
     "lon": -113.583206,
     "image_url": null
+   },
+   {
+    "title": "Nevada",
+    "snippet": "Nevada is a land of contrasts. Glittering Las Vegas rises from the southern desert, drawing millions with its casinos, shows, and neon excess. In the north, Reno offers a smaller, scrappier version of the same, with Sierra Nevada skiing just over the mountains.",
+    "path": "northamerica/unitedstates/nevada",
+    "score": 0.51,
+    "lat": 39.515882,
+    "lon": -116.853722,
+    "image_url": null
    }
   ]
  },
  "boston": {
   "name": "New England",
   "parent": "United States of America",
-  "n_locs": 88,
+  "n_locs": 89,
   "is_split": true,
   "top_locations": [
    {
@@ -1340,7 +1340,7 @@
  "sedona": {
   "name": "Arizona & New Mexico",
   "parent": "United States of America",
-  "n_locs": 40,
+  "n_locs": 39,
   "is_split": true,
   "top_locations": [
    {
@@ -1393,7 +1393,7 @@
  "utah": {
   "name": "Utah Canyon Country",
   "parent": "United States of America",
-  "n_locs": 34,
+  "n_locs": 31,
   "is_split": true,
   "top_locations": [
    {
@@ -1415,15 +1415,6 @@
     "image_url": "/content-image/northamerica/unitedstates/utah/moab.jpg"
    },
    {
-    "title": "Telluride",
-    "snippet": "Telluride sits in a dramatic box canyon in the San Juan Mountains of southwestern Colorado, ringed on three sides by steep peaks that rise to over 13,000 feet. The setting is extraordinary \u2014 waterfalls cascade down the cliffs at the end of town, and the peaks close in so tight...",
-    "path": "northamerica/unitedstates/colorado/telluride",
-    "score": 0.66,
-    "lat": 37.937494,
-    "lon": -107.812285,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/telluride.jpg"
-   },
-   {
     "title": "Park City",
     "snippet": "Park City is a former silver-mining town turned ski resort about 30 miles east of Salt Lake City. It hosts two major ski areas \u2014 Park City Mountain Resort and Deer Valley \u2014 and was a main venue for the 2002 Winter Olympics. In January it becomes the centre of the independent f...",
     "path": "northamerica/unitedstates/utah/parkcity",
@@ -1433,20 +1424,29 @@
     "image_url": null
    },
    {
-    "title": "Durango",
-    "snippet": "Durango sits in the Animas River Valley in southwest Colorado, surrounded by the San Juan Mountains. It is one of the best outdoor towns in the state \u2014 the kind of place where you can raft the Animas in the morning, mountain bike in the afternoon, and eat well downtown in the...",
-    "path": "northamerica/unitedstates/colorado/durango",
+    "title": "Page",
+    "snippet": "Page sits on a sandstone mesa above Glen Canyon Dam, right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: Antelope Canyon, Horseshoe Bend, Lake Powell, and the Vermilion Cliffs are all within...",
+    "path": "northamerica/unitedstates/arizona/page",
     "score": 0.59,
-    "lat": 37.276948,
-    "lon": -107.8766,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/durango.jpg"
+    "lat": 36.9147,
+    "lon": -111.4558,
+    "image_url": "/content-image/northamerica/unitedstates/arizona/page.jpg"
+   },
+   {
+    "title": "Salt Lake City",
+    "snippet": "Salt Lake City is the Capital of Utah and its most vibrant city. In the mountains around you will find some of the best powder skiing in the world, which is principally why the 2002 Winter Olympics were held here; the proximity of the resorts to the city is the other reason si...",
+    "path": "northamerica/unitedstates/utah/saltlakecity",
+    "score": 0.58,
+    "lat": 40.75962,
+    "lon": -111.886797,
+    "image_url": null
    }
   ]
  },
  "niagara_falls": {
   "name": "Great Lakes",
   "parent": "United States of America",
-  "n_locs": 61,
+  "n_locs": 72,
   "is_split": true,
   "top_locations": [
    {
@@ -1499,7 +1499,7 @@
  "charleston": {
   "name": "Appalachian South",
   "parent": "United States of America",
-  "n_locs": 97,
+  "n_locs": 93,
   "is_split": true,
   "top_locations": [
    {
@@ -1521,15 +1521,6 @@
     "image_url": "/content-image/northamerica/unitedstates/tennessee/smokymountains.jpg"
    },
    {
-    "title": "Savannah",
-    "snippet": "Savannah is one of the most beautiful cities in the American South. Its historic district \u2014 a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses \u2014 has remained remarkably intact since the 19th century. The city was spar...",
-    "path": "northamerica/unitedstates/georgia/savannah",
-    "score": 0.64,
-    "lat": 32.079007,
-    "lon": -81.092134,
-    "image_url": null
-   },
-   {
     "title": "Smoky Mountains",
     "snippet": "Great Smoky Mountains National Park straddles the border between North Carolina and Tennessee, encompassing 800 square miles of which 95 percent is forested. It is the most visited national park in the United States, renowned for the diversity of its plant and animal life, the...",
     "path": "northamerica/unitedstates/northcarolina/smokymountains",
@@ -1546,13 +1537,22 @@
     "lat": 35.595363,
     "lon": -82.550841,
     "image_url": "/content-image/northamerica/unitedstates/northcarolina/asheville.jpg"
+   },
+   {
+    "title": "Gatlinburg",
+    "snippet": "Most people either love Gatlinburg or they hate it \u2014 or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested n...",
+    "path": "northamerica/unitedstates/tennessee/gatlinburg",
+    "score": 0.61,
+    "lat": 35.7143,
+    "lon": -83.5102,
+    "image_url": "/content-image/northamerica/unitedstates/tennessee/gatlinburg.jpg"
    }
   ]
  },
  "san_diego": {
   "name": "Southern California",
   "parent": "United States of America",
-  "n_locs": 75,
+  "n_locs": 82,
   "is_split": true,
   "top_locations": [
    {
@@ -1605,7 +1605,7 @@
  "jackson_hole": {
   "name": "Northern Rockies",
   "parent": "United States of America",
-  "n_locs": 34,
+  "n_locs": 28,
   "is_split": true,
   "top_locations": [
    {
@@ -1655,10 +1655,63 @@
    }
   ]
  },
+ "colorado": {
+  "name": "Rocky Mountains",
+  "parent": "United States of America",
+  "n_locs": 44,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Colorado",
+    "snippet": "Colorado is defined by the Rocky Mountains. The peaks run right through the middle of the state, creating a landscape of dramatic contrasts \u2014 alpine tundra above the treeline, red rock canyons in the west, and the vast high plains stretching east toward Kansas. With over 50 su...",
+    "path": "northamerica/unitedstates/colorado",
+    "score": 0.72,
+    "lat": 38.725178,
+    "lon": -105.607716,
+    "image_url": null
+   },
+   {
+    "title": "Aspen",
+    "snippet": "Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest smal...",
+    "path": "northamerica/unitedstates/colorado/aspen",
+    "score": 0.71,
+    "lat": 39.191113,
+    "lon": -106.82356,
+    "image_url": "/content-image/northamerica/unitedstates/colorado/aspen.jpg"
+   },
+   {
+    "title": "Vail",
+    "snippet": "Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built \u2014 Tyrolean-style architecture, pedestrian vi...",
+    "path": "northamerica/unitedstates/colorado/vail",
+    "score": 0.66,
+    "lat": 39.643803,
+    "lon": -106.388823,
+    "image_url": "/content-image/northamerica/unitedstates/colorado/vail.jpg"
+   },
+   {
+    "title": "Telluride",
+    "snippet": "Telluride sits in a dramatic box canyon in the San Juan Mountains of southwestern Colorado, ringed on three sides by steep peaks that rise to over 13,000 feet. The setting is extraordinary \u2014 waterfalls cascade down the cliffs at the end of town, and the peaks close in so tight...",
+    "path": "northamerica/unitedstates/colorado/telluride",
+    "score": 0.66,
+    "lat": 37.937494,
+    "lon": -107.812285,
+    "image_url": "/content-image/northamerica/unitedstates/colorado/telluride.jpg"
+   },
+   {
+    "title": "Santa Fe",
+    "snippet": "Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class...",
+    "path": "northamerica/unitedstates/newmexico/santafe",
+    "score": 0.65,
+    "lat": 35.6876,
+    "lon": -105.9385,
+    "image_url": "/content-image/northamerica/unitedstates/newmexico/santafe.jpg"
+   }
+  ]
+ },
  "key_west": {
   "name": "Florida",
   "parent": "United States of America",
-  "n_locs": 55,
+  "n_locs": 61,
   "is_split": true,
   "top_locations": [
    {
@@ -1689,6 +1742,15 @@
     "image_url": "/content-image/northamerica/unitedstates/florida/northeastflorida/staugustine.jpg"
    },
    {
+    "title": "Savannah",
+    "snippet": "Savannah is one of the most beautiful cities in the American South. Its historic district \u2014 a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses \u2014 has remained remarkably intact since the 19th century. The city was spar...",
+    "path": "northamerica/unitedstates/georgia/savannah",
+    "score": 0.64,
+    "lat": 32.079007,
+    "lon": -81.092134,
+    "image_url": null
+   },
+   {
     "title": "Key Largo",
     "snippet": "Key Largo is the first and largest island in the Florida Keys, a 120-mile chain of coral and limestone islands stretching southwest from the mainland into the Gulf of Mexico and Atlantic Ocean. Often called the \"Diving Capital of the World,\" Key Largo sits alongside the only l...",
     "path": "northamerica/unitedstates/florida/keylargo",
@@ -1696,22 +1758,13 @@
     "lat": 25.0861,
     "lon": -80.4476,
     "image_url": null
-   },
-   {
-    "title": "Orlando",
-    "snippet": "Orlando is the theme park capital of the world. Walt Disney World and Universal Orlando anchor a sprawling entertainment district south-west of the actual city, with SeaWorld, Gatorland, and a string of smaller attractions filling the gaps. On any given day there are more visi...",
-    "path": "northamerica/unitedstates/florida/orlando",
-    "score": 0.62,
-    "lat": 28.542122,
-    "lon": -81.379045,
-    "image_url": null
    }
   ]
  },
  "washington": {
   "name": "Pacific Northwest",
   "parent": "United States of America",
-  "n_locs": 47,
+  "n_locs": 48,
   "is_split": true,
   "top_locations": [
    {
@@ -1764,7 +1817,7 @@
  "san_francisco": {
   "name": "Northern California",
   "parent": "United States of America",
-  "n_locs": 106,
+  "n_locs": 101,
   "is_split": true,
   "top_locations": [
    {

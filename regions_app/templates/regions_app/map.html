@@ -28,104 +28,211 @@
     width: 380px;
     height: 100%;
     overflow-y: auto;
-    border-left: 1px solid #ddd;
-    background: #fff;
-    padding: 1.25rem 1.25rem 2rem;
+    border-left: 1px solid #e0e0e0;
+    background: #fafafa;
     font-family: Inter, system-ui, sans-serif;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
   }
 
-  #regions-panel .placeholder {
-    color: #888;
-    font-style: italic;
-    margin-top: 2rem;
-  }
-
-  #regions-panel h2 {
-    font-family: Fraunces, Georgia, serif;
-    margin: 0.25rem 0 0.1rem;
-    font-size: 1.5rem;
-    line-height: 1.15;
-  }
-
-  #regions-panel .parent {
-    color: #888;
-    font-size: 0.85rem;
-    margin-bottom: 0.75rem;
-  }
-
-  #regions-panel .meta {
-    color: #555;
-    font-size: 0.85rem;
-    margin-bottom: 1rem;
-  }
-
-  .visited-row {
+  /* ── Global stats bar at top ── */
+  #stats-bar {
+    flex-shrink: 0;
+    padding: 0.6rem 1.1rem;
+    background: #fff;
+    border-bottom: 1px solid #e8e8e8;
+    font-size: 0.8rem;
+    color: #666;
     display: flex;
     align-items: center;
-    gap: 0.6rem;
-    margin: 0.5rem 0 1.2rem;
-    padding: 0.6rem 0.75rem;
-    background: #f5f5f5;
-    border-radius: 6px;
-    font-size: 0.95rem;
+    gap: 0.75rem;
+  }
+  .stat-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    background: #f0f0f0;
+    border-radius: 20px;
+    padding: 0.2rem 0.6rem;
+    font-weight: 600;
+    font-size: 0.75rem;
+    color: #444;
+  }
+  .stat-pill.visited { background: #d1ead9; color: #1a6b35; }
+  .stat-pill.bucketlist { background: #fef3cd; color: #7a5500; }
+
+  /* ── Empty state ── */
+  .panel-empty {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1.5rem;
+    text-align: center;
+    color: #999;
+  }
+  .panel-empty .globe { font-size: 3rem; margin-bottom: 0.75rem; line-height: 1; }
+  .panel-empty p { font-size: 0.95rem; line-height: 1.5; margin: 0; }
+  .panel-empty .hint { margin-top: 0.5rem; font-size: 0.82rem; color: #bbb; }
+
+  /* ── Region detail ── */
+  .region-detail {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .region-hero {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    display: block;
+    background: #e5e5e5;
+  }
+  .region-hero-placeholder {
+    width: 100%;
+    height: 110px;
+    background: linear-gradient(135deg, #e8eff4 0%, #d2e0e8 100%);
+  }
+
+  .region-info {
+    padding: 1rem 1.1rem 0.5rem;
+  }
+
+  .region-parent {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #999;
+    margin-bottom: 0.25rem;
+  }
+
+  .region-name {
+    font-family: Fraunces, Georgia, serif;
+    font-size: 1.6rem;
+    line-height: 1.15;
+    margin: 0 0 0.2rem;
+    color: #111;
+  }
+
+  .region-meta {
+    font-size: 0.8rem;
+    color: #aaa;
+    margin-bottom: 0.9rem;
+  }
+
+  /* ── 3-state toggle ── */
+  .state-toggle {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0 1.1rem 1rem;
+  }
+
+  .state-btn {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.6rem 0.4rem;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background: #f0f0f0;
     cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, transform 0.1s;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #777;
     user-select: none;
   }
+  .state-btn:active { transform: scale(0.95); }
+  .state-btn .icon { font-size: 1.4rem; line-height: 1; }
 
-  .visited-row input[type="checkbox"] {
-    transform: scale(1.25);
-    cursor: pointer;
+  .state-btn.active-none {
+    background: #f0f0f0;
+    border-color: #ccc;
+    color: #555;
+  }
+  .state-btn.active-bucketlist {
+    background: #fffbec;
+    border-color: #f5c400;
+    color: #7a5500;
+  }
+  .state-btn.active-visited {
+    background: #e8f5ec;
+    border-color: #3aaa5e;
+    color: #1a5e33;
   }
 
-  .region-loc {
-    border-top: 1px solid #eee;
-    padding: 0.75rem 0;
+  /* ── Destination list ── */
+  .dest-list {
+    padding: 0 1.1rem 1.5rem;
+    flex: 1;
   }
 
-  .region-loc a {
-    display: block;
-    color: #1a1a1a;
+  .dest-list-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #bbb;
+    margin-bottom: 0.5rem;
+  }
+
+  .dest-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.7rem;
+    padding: 0.6rem 0;
+    border-top: 1px solid #ebebeb;
     text-decoration: none;
+    color: inherit;
+  }
+  .dest-item:hover .dest-title { text-decoration: underline; }
+
+  .dest-thumb {
+    width: 52px;
+    height: 52px;
+    border-radius: 7px;
+    object-fit: cover;
+    flex-shrink: 0;
+    background: #e5e5e5;
+  }
+  .dest-thumb-placeholder {
+    width: 52px;
+    height: 52px;
+    border-radius: 7px;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #eef2f5 0%, #dce5eb 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    color: #ccc;
   }
 
-  .region-loc a:hover .region-loc-title {
-    text-decoration: underline;
-  }
-
-  .region-loc-title {
+  .dest-body { flex: 1; min-width: 0; }
+  .dest-title {
     font-weight: 600;
-    font-size: 1rem;
-    margin-bottom: 0.15rem;
+    font-size: 0.92rem;
+    color: #111;
+    line-height: 1.25;
+    margin-bottom: 0.2rem;
   }
-
-  .region-loc-score {
-    color: #888;
+  .dest-snippet {
     font-size: 0.8rem;
-    font-weight: 400;
-    margin-left: 0.4rem;
-  }
-
-  .region-loc-snippet {
-    color: #444;
-    font-size: 0.9rem;
+    color: #666;
     line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
-  .stats {
-    color: #888;
-    font-size: 0.8rem;
-    margin: 0 0 1rem;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.6rem;
-  }
-
-  .leaflet-container {
-    font-family: Inter, system-ui, sans-serif;
-  }
-
-  /* Suppress the browser's blue focus ring on clicked polygons; the heavy
-     black border from our selected-style is the only emphasis we want. */
+  .leaflet-container { font-family: Inter, system-ui, sans-serif; }
   .leaflet-interactive:focus { outline: none; }
 </style>
 {% endblock %}
@@ -134,8 +241,17 @@
 <div class="regions-layout">
   <div id="regions-map"></div>
   <aside id="regions-panel">
-    <div class="stats" id="stats">Click a region to mark it visited.<br>Double-click to toggle without opening.</div>
-    <p class="placeholder">Click a region on the map to see its top destinations.</p>
+    <div id="stats-bar">
+      <span>Explore the world</span>
+      <span class="stat-pill visited" id="stat-visited">0 visited</span>
+      <span class="stat-pill bucketlist" id="stat-bucket">0 on list</span>
+    </div>
+    <div class="panel-empty" id="panel-empty">
+      <div class="globe">🌍</div>
+      <p>Click a region on the map to explore its top destinations.</p>
+      <p class="hint">Double-click to cycle: bucket list → visited → clear</p>
+    </div>
+    <div class="region-detail" id="region-detail" style="display:none"></div>
   </aside>
 </div>
 
@@ -143,9 +259,15 @@
 <script>
 (async function() {
   const panel = document.getElementById('regions-panel');
-  const stats = document.getElementById('stats');
+  const panelEmpty = document.getElementById('panel-empty');
+  const regionDetail = document.getElementById('region-detail');
+  const statVisited = document.getElementById('stat-visited');
+  const statBucket = document.getElementById('stat-bucket');
+
   function fatal(msg) {
-    panel.innerHTML = '<p class="placeholder" style="color:#a33">'+msg+'</p>';
+    regionDetail.innerHTML = '<p style="padding:1rem;color:#a33">'+msg+'</p>';
+    panelEmpty.style.display = 'none';
+    regionDetail.style.display = 'block';
     console.error(msg);
   }
   window.addEventListener('error', (e) => {
@@ -153,17 +275,48 @@
     fatal('JS error: ' + detail);
   });
 
-  // Persistent visited set — kept in localStorage so it survives reloads.
-  const STORE_KEY = 'world66.visited';
-  const visited = new Set(JSON.parse(localStorage.getItem(STORE_KEY) || '[]'));
-  function saveVisited() {
-    localStorage.setItem(STORE_KEY, JSON.stringify([...visited]));
+  // ── State store ──
+  // Stored as {regionId: 'visited'|'bucketlist'} in localStorage.
+  // Migrate old format (plain array of visited IDs).
+  const STORE_KEY = 'world66.regions.state';
+  let stateMap = {};
+  try {
+    const raw = localStorage.getItem(STORE_KEY);
+    if (raw) {
+      stateMap = JSON.parse(raw);
+    } else {
+      // Migrate legacy 'world66.visited' (array → visited state)
+      const legacy = localStorage.getItem('world66.visited');
+      if (legacy) {
+        const arr = JSON.parse(legacy);
+        arr.forEach(id => { stateMap[id] = 'visited'; });
+      }
+    }
+  } catch(e) { stateMap = {}; }
+
+  function saveState() {
+    localStorage.setItem(STORE_KEY, JSON.stringify(stateMap));
+  }
+
+  function getState(id) { return stateMap[id] || 'none'; }
+
+  function cycleState(id) {
+    const cur = getState(id);
+    const next = cur === 'none' ? 'bucketlist' : cur === 'bucketlist' ? 'visited' : 'none';
+    setState(id, next);
+  }
+
+  function updateStats() {
+    const nVisited = Object.values(stateMap).filter(s => s === 'visited').length;
+    const nBucket = Object.values(stateMap).filter(s => s === 'bucketlist').length;
+    statVisited.textContent = nVisited + (nVisited === 1 ? ' visited' : ' visited');
+    statBucket.textContent = nBucket + ' on list';
   }
 
   const map = L.map('regions-map', {
     worldCopyJump: true,
     minZoom: 2,
-    doubleClickZoom: false,  // we use dblclick to toggle visited
+    doubleClickZoom: false,
   }).setView([25, 10], 3);
 
   L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
@@ -184,23 +337,34 @@
     fatal('Failed to load region data: ' + e.message);
     return;
   }
-  console.log('regions loaded:', geo.features.length, 'data entries:', Object.keys(data).length);
 
-  // HSL hue stays deterministic per parent; visited toggles saturation+lightness.
+  // ── Styling ──
   function parentHue(parent) {
     let h = 0;
     for (let i = 0; i < parent.length; i++) h = (h * 31 + parent.charCodeAt(i)) >>> 0;
     return h % 360;
   }
+
   function styleFor(feature, isSelected) {
     const id = feature.properties.id;
-    const v = visited.has(id);
+    const state = getState(id);
     const hue = parentHue(feature.properties.parent || feature.properties.name);
+    let fillColor, fillOpacity;
+    if (state === 'visited') {
+      fillColor = `hsl(${hue}, 68%, 46%)`;
+      fillOpacity = 0.8;
+    } else if (state === 'bucketlist') {
+      fillColor = `hsl(${hue}, 55%, 68%)`;
+      fillOpacity = 0.65;
+    } else {
+      fillColor = `hsl(${hue}, 18%, 78%)`;
+      fillOpacity = 0.40;
+    }
     return {
-      fillColor: v ? `hsl(${hue}, 65%, 50%)` : `hsl(${hue}, 18%, 78%)`,
-      fillOpacity: v ? 0.75 : 0.40,
+      fillColor,
+      fillOpacity,
       weight: isSelected ? 2.2 : 0.5,
-      color: isSelected ? '#111' : (v ? '#333' : '#999'),
+      color: isSelected ? '#111' : (state !== 'none' ? '#333' : '#999'),
     };
   }
 
@@ -211,63 +375,106 @@
     lyr.setStyle(styleFor(lyr.feature, lyr === selectedLayer));
   }
 
-  function updateStats() {
-    stats.innerHTML = `<strong>${visited.size}</strong> of ${geo.features.length} regions visited.
-      <br><span style="opacity:0.8">Single-click: details. Double-click: toggle visited.</span>`;
-  }
-
-  function setVisited(id, val) {
-    if (val) visited.add(id); else visited.delete(id);
-    saveVisited();
+  function setState(id, newState) {
+    if (newState === 'none') {
+      delete stateMap[id];
+    } else {
+      stateMap[id] = newState;
+    }
+    saveState();
     const lyr = layersById[id];
     if (lyr) restyle(lyr);
     updateStats();
-    // If panel is on this region, sync the checkbox.
-    const cb = document.getElementById('visited-cb');
-    if (cb && cb.dataset.id === id) cb.checked = val;
+    // Sync the toggle buttons if panel is showing this region
+    if (currentRegionId === id) syncToggle(id);
+  }
+
+  // ── Panel rendering ──
+  let currentRegionId = null;
+
+  const STATE_LABELS = {
+    none:       { icon: '○', label: 'Not visited', cls: 'active-none' },
+    bucketlist: { icon: '★', label: 'Bucket list',  cls: 'active-bucketlist' },
+    visited:    { icon: '✓', label: 'Been there',   cls: 'active-visited' },
+  };
+
+  function syncToggle(regionId) {
+    const cur = getState(regionId);
+    ['none', 'bucketlist', 'visited'].forEach(s => {
+      const btn = document.querySelector(`.state-btn[data-state="${s}"]`);
+      if (!btn) return;
+      btn.classList.remove('active-none', 'active-bucketlist', 'active-visited');
+      if (s === cur) btn.classList.add(STATE_LABELS[s].cls);
+    });
   }
 
   function renderPanel(regionId) {
+    currentRegionId = regionId;
     const info = data[regionId];
     if (!info) {
-      panel.innerHTML = '<p class="placeholder">No data for this region.</p>';
+      regionDetail.innerHTML = '<p style="padding:1rem;color:#999">No data for this region.</p>';
+      panelEmpty.style.display = 'none';
+      regionDetail.style.display = 'flex';
       return;
     }
-    const v = visited.has(regionId);
-    let html = `<div class="stats" id="stats"></div>`;
-    html += `<h2>${escapeHtml(info.name)}</h2>`;
-    if (info.parent && info.parent !== info.name) {
-      html += `<div class="parent">${escapeHtml(info.parent)}</div>`;
-    }
-    html += `<label class="visited-row">
-      <input type="checkbox" id="visited-cb" data-id="${escapeAttr(regionId)}" ${v ? 'checked' : ''}>
-      <span>I've visited this region</span>
-    </label>`;
-    html += `<div class="meta">${info.n_locs} scored ${info.n_locs === 1 ? 'destination' : 'destinations'}</div>`;
-    if (info.top_locations.length === 0) {
-      html += '<p class="placeholder">No destinations indexed in this region yet.</p>';
-    } else {
-      for (const loc of info.top_locations) {
-        html += `
-          <div class="region-loc">
-            <a href="/${escapeAttr(loc.path)}">
-              <div class="region-loc-title">
-                ${escapeHtml(loc.title)}
-                <span class="region-loc-score">${loc.score.toFixed(2)}</span>
-              </div>
-              <div class="region-loc-snippet">${escapeHtml(loc.snippet || '')}</div>
-            </a>
-          </div>`;
-      }
-    }
-    panel.innerHTML = html;
-    document.getElementById('visited-cb').addEventListener('change', (e) => {
-      setVisited(regionId, e.target.checked);
+
+    // Find best hero image from top locations
+    const heroLoc = info.top_locations.find(l => l.image_url);
+    const heroHtml = heroLoc
+      ? `<img class="region-hero" src="${escapeAttr(heroLoc.image_url)}" alt="${escapeAttr(heroLoc.title)}" loading="lazy">`
+      : `<div class="region-hero-placeholder"></div>`;
+
+    const cur = getState(regionId);
+
+    const stateToggle = ['none', 'bucketlist', 'visited'].map(s => {
+      const {icon, label, cls} = STATE_LABELS[s];
+      const active = s === cur ? cls : '';
+      return `<button class="state-btn ${active}" data-state="${s}" data-id="${escapeAttr(regionId)}">
+        <span class="icon">${icon}</span>
+        <span>${escapeHtml(label)}</span>
+      </button>`;
+    }).join('');
+
+    const locsHtml = info.top_locations.length === 0
+      ? '<p style="color:#aaa;font-size:0.85rem">No destinations indexed here yet.</p>'
+      : info.top_locations.map(loc => {
+          const thumb = loc.image_url
+            ? `<img class="dest-thumb" src="${escapeAttr(loc.image_url)}" alt="${escapeAttr(loc.title)}" loading="lazy">`
+            : `<div class="dest-thumb-placeholder">🗺</div>`;
+          return `<a class="dest-item" href="/${escapeAttr(loc.path)}">
+            ${thumb}
+            <div class="dest-body">
+              <div class="dest-title">${escapeHtml(loc.title)}</div>
+              <div class="dest-snippet">${escapeHtml(loc.snippet || '')}</div>
+            </div>
+          </a>`;
+        }).join('');
+
+    regionDetail.innerHTML = `
+      ${heroHtml}
+      <div class="region-info">
+        ${info.parent && info.parent !== info.name ? `<div class="region-parent">${escapeHtml(info.parent)}</div>` : ''}
+        <h2 class="region-name">${escapeHtml(info.name)}</h2>
+        <div class="region-meta">${info.n_locs} ${info.n_locs === 1 ? 'destination' : 'destinations'}</div>
+      </div>
+      <div class="state-toggle">${stateToggle}</div>
+      <div class="dest-list">
+        <div class="dest-list-label">Top destinations</div>
+        ${locsHtml}
+      </div>`;
+
+    // Wire up toggle buttons
+    regionDetail.querySelectorAll('.state-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const s = btn.dataset.state;
+        const id = btn.dataset.id;
+        setState(id, s);
+      });
     });
-    const s = panel.querySelector('#stats');
-    if (s) {
-      s.innerHTML = `<strong>${visited.size}</strong> of ${geo.features.length} regions visited.`;
-    }
+
+    panelEmpty.style.display = 'none';
+    regionDetail.style.display = 'flex';
+    regionDetail.scrollTop = 0;
   }
 
   function escapeHtml(s) {
@@ -285,14 +492,8 @@
       style: (f) => styleFor(f, false),
       onEachFeature: (feature, lyr) => {
         const id = feature.properties.id;
-        const name = feature.properties.name;
         layersById[id] = lyr;
-        // No bindTooltip — Leaflet 1.9.4 has a known crash on MultiPolygon
-        // tooltips (_setAriaDescribedByOnLayer reads _container.id of
-        // undefined). The side panel and search dropdown show the name.
 
-        // Detect double-clicks to toggle visited; delay single-click so a
-        // double doesn't also open the panel.
         let clickTimer = null;
         lyr.on('click', () => {
           if (clickTimer) return;
@@ -303,7 +504,7 @@
         });
         lyr.on('dblclick', () => {
           if (clickTimer) { clearTimeout(clickTimer); clickTimer = null; }
-          setVisited(id, !visited.has(id));
+          cycleState(id);
         });
       },
     }).addTo(map);
@@ -311,7 +512,6 @@
     fatal('Failed to render regions layer: ' + e.message);
     return;
   }
-  console.log('layer added; sublayers:', layer.getLayers().length);
 
   function selectRegion(id) {
     const lyr = layersById[id];
@@ -327,9 +527,7 @@
     renderPanel(id);
   }
 
-  // ===== Topnav search hijack =====
-  // Replace the global search (which hits /api/search) with a local region
-  // filter. We clone the input element to drop the base.html listeners.
+  // ── Topnav search hijack ──
   (function hijackSearch() {
     const form = document.querySelector('.site-search');
     const dropdown = document.getElementById('header-search-dropdown');
@@ -374,7 +572,6 @@
       `).join('');
       dropdown.style.display = 'block';
       cursor = -1;
-      // Attach click handlers
       dropdown.querySelectorAll('a').forEach(a => {
         a.addEventListener('click', (e) => {
           e.preventDefault();

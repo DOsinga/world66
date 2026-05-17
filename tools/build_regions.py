@@ -31,7 +31,7 @@ from pathlib import Path
 import frontmatter
 import shapely
 from shapely.geometry import MultiPoint, MultiPolygon, Point, Polygon, shape, mapping
-from shapely.ops import unary_union
+from shapely.ops import unary_union, orient
 from shapely.strtree import STRtree
 
 SCRIPT_DIR = Path(__file__).parent
@@ -41,6 +41,7 @@ SUBUNITS_PATH = SCRIPT_DIR / "raw" / "ne_50m_admin_0_map_subunits.geojson"
 OUT_GEO = PROJECT_DIR / "static" / "geo" / "regions.geo.json"
 OUT_DATA = PROJECT_DIR / "static" / "geo" / "regions_data.json"
 NAME_OVERRIDES_PATH = SCRIPT_DIR / "region_name_overrides.json"
+MANUAL_SPLITS_PATH = SCRIPT_DIR / "manual_splits.json"
 
 # Tuning knobs.
 #   IMPORTANCE_K: spread between bottom and top of score range.
@@ -62,6 +63,7 @@ class Loc:
     lat: float
     lon: float
     loc_type: str
+    image_url: str | None = None
 
     @property
     def importance(self) -> float:
@@ -110,8 +112,19 @@ def load_locations() -> list[Loc]:
         if len(snippet) > 280:
             snippet = snippet[:277].rstrip() + "..."
         title = meta.get("title") or rel.name.replace("_", " ").title()
+        image_url = None
+        image_file = meta.get("image", "")
+        if image_file:
+            for candidate in [
+                f"{path}/{image_file}",
+                f"{path.rsplit('/', 1)[0]}/{image_file}" if "/" in path else image_file,
+            ]:
+                if (CONTENT_DIR / candidate).is_file():
+                    image_url = f"/content-image/{candidate}"
+                    break
         locs.append(Loc(path=path, title=title, snippet=snippet,
-                        score=score, lat=lat, lon=lon, loc_type=loc_type))
+                        score=score, lat=lat, lon=lon, loc_type=loc_type,
+                        image_url=image_url))
     return locs
 
 
@@ -235,6 +248,19 @@ def kmeans_seeds(locs: list[Loc], k: int, n_iters: int = 15) -> list[tuple[float
     return centroids
 
 
+_manual_splits: dict[str, list[tuple[float, float]]] | None = None
+
+def load_manual_splits() -> dict[str, list[tuple[float, float]]]:
+    global _manual_splits
+    if _manual_splits is None:
+        if MANUAL_SPLITS_PATH.exists():
+            raw = json.loads(MANUAL_SPLITS_PATH.read_text())
+            _manual_splits = {k: [tuple(c) for c in v] for k, v in raw.items() if not k.startswith("_")}
+        else:
+            _manual_splits = {}
+    return _manual_splits
+
+
 def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> list[dict]:
     """Split a high-importance subunit into K regions with organic borders.
 
@@ -248,9 +274,14 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
 
     Returns a list of region dicts. Each region has: name, parent, geom, locs.
     """
-    n_splits = min(MAX_SPLITS_PER_SUBUNIT, max(2, round(total_importance / BUDGET)))
-
-    centroids = kmeans_seeds(locs, n_splits)
+    manual = load_manual_splits().get(subunit["su_a3"])
+    if manual:
+        centroids = manual
+        n_splits = len(centroids)
+        print(f"  Using {n_splits} manual seeds for {subunit['name']}", file=sys.stderr)
+    else:
+        n_splits = min(MAX_SPLITS_PER_SUBUNIT, max(2, round(total_importance / BUDGET)))
+        centroids = kmeans_seeds(locs, n_splits)
     if len(centroids) < 2:
         return [{
             "name": subunit["name"],
@@ -341,6 +372,22 @@ def split_subunit(subunit: dict, locs: list[Loc], total_importance: float) -> li
             "geom": subunit["geom"],
             "locs": locs,
         }]
+
+    # Fill any gaps left by Voronoi clipping. When location clusters are
+    # concentrated in one part of a subunit, the clipped Voronoi cells may
+    # not cover the entire subunit polygon (e.g. remote coastal areas with no
+    # nearby cities). Assign each gap piece to the nearest region by boundary
+    # distance so the subunit is fully tiled with no holes.
+    regions_union = unary_union([r["geom"] for r in regions])
+    gap = subunit["geom"].difference(regions_union)
+    if not gap.is_empty:
+        gap_polys = safe_polygon_list(gap)
+        for gap_poly in gap_polys:
+            if gap_poly.is_empty:
+                continue
+            nearest = min(regions, key=lambda r: r["geom"].distance(gap_poly))
+            merged = unary_union([nearest["geom"], gap_poly])
+            nearest["geom"] = merged
 
     # Re-assign every loc into the region matching its centroid label (the
     # same labels used above), keeping the loc-grouping deterministic.
@@ -461,7 +508,7 @@ def render_outputs(regions: list[dict]) -> None:
                 "n_locs": len(display_locs),
                 "top": top[0].title if top else "",
             },
-            "geometry": mapping(r["geom"]),
+            "geometry": mapping(orient(r["geom"], sign=1.0)),
         }
         geo["features"].append(feature)
         data[r["id"]] = {
@@ -477,6 +524,7 @@ def render_outputs(regions: list[dict]) -> None:
                     "score": l.score,
                     "lat": l.lat,
                     "lon": l.lon,
+                    "image_url": l.image_url,
                 }
                 for l in top
             ],

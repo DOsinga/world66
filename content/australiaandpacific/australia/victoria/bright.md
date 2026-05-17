@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-17'
 image: bright.jpg
 image_attribution: bennovakovic
 image_license: CC BY 2.0

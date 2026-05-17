@@ -1,0 +1,19 @@
+---
+title: Guangxi
+type: location
+loc_type: region
+latitude: 23.5
+longitude: 109.0
+---
+
+Guangxi is the landscape that appears on a thousand Chinese scrolls and calendar prints: sharp limestone karst peaks rising from flat paddy fields, rivers threading between them, water buffalo in the foreground. The real thing, when you see it for the first time around [Guilin](/asia/china/guilin), is better than the paintings. This is one of those landscapes that justifies the trip to China on its own.
+
+[Guilin](/asia/china/guilin) is the base for most visitors and has been attracting tourists, both Chinese and foreign, for long enough that the infrastructure is very good and the crowds can be significant. The town itself is pleasant rather than spectacular, but the Li River cruise south to Yangshuo is genuinely unmissable: four hours drifting between karst towers through a landscape that does not look like it should exist outside of a painting. Yangshuo, at the end of the cruise, has been a backpacker hub for decades and remains one of the most enjoyable small towns in China — good food, good bikes, and extraordinary scenery in every direction.
+
+Beyond Guilin, Guangxi has other karst landscapes worth exploring. The rice terraces at Longji, north of Guilin, were carved into the mountains over three hundred years ago by the Zhuang and Yao minorities and still function as working farms. Detian Waterfall, on the Vietnamese border, is one of the widest transnational waterfalls in the world and almost nobody goes. Nanning, the capital, is an unremarkable city but a useful transport hub for reaching Vietnam by train.
+
+Guangxi is an autonomous region for the Zhuang people, the largest ethnic minority in China, though Zhuang culture is not as visibly distinct as, say, Tibetan or Uyghur culture. The border areas with Vietnam have a distinctly Southeast Asian quality — the food spicier, the architecture lower, the pace slower.
+
+## Destinations in Guangxi
+
+[Guilin](/asia/china/guilin)

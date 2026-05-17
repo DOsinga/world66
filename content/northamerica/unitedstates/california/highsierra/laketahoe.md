@@ -7,6 +7,10 @@ score: 0.69
 title: Lake Tahoe
 type: location
 loc_type: city
+image: laketahoe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Emerald_Bay,_Lake_Tahoe,_California._2015.jpg
+image_license: CC0
+image_attribution: Eric Philbin
 ---
 
 <<<<<<< HEAD

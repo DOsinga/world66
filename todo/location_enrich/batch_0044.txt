@@ -1,5 +1,0 @@
-northamerica/unitedstates/wisconsin/wausau
-europe/italy/sicily/san_vito_lo_capo
-asia/india/rajasthan/kota
-europe/azerbaijan/sumgait
-southamerica/paraguay/encarnacion

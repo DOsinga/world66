@@ -18,6 +18,6 @@ Xinjiang is China's largest administrative division, a region the size of Wester
 
 [Turpan](/asia/china/xinjiangprovince/turpan), east of [Ürümqi](/asia/china/xinjiangprovince/urumqi) in its famous depression, is surrounded by some of the most important Silk Road ruins in China. The abandoned cities of Jiaohe and Gaochang, once major oasis towns on the main Silk Road, crumble back into the desert with an archaeological grandeur that more famous sites struggle to match. The local Uyghur grapes are extraordinary — the combination of intense sun, cold nights, and ancient irrigation channels (the karez system) produces something worth travelling for in itself.
 
-[Ürümqi](/asia/china/xinjiangprovince/urumqi), the regional capital, is a large modern city and the main transport hub. Hanas Lake, in the far north near the Mongolian and Russian borders, is a mountain lake set in forests that seem transplanted from Siberia — one of the most unexpected landscapes in China.
+[Ürümqi](/asia/china/xinjiangprovince/urumqi), the regional capital, is a large modern city and the main transport hub. [Hanas Lake](/asia/china/xinjiangprovince/hanaslake), in the far north near the Mongolian and Russian borders, is a mountain lake set in forests that seem transplanted from Siberia — one of the most unexpected landscapes in China.
 
 Travel in Xinjiang requires patience with checkpoints and registration requirements, which have intensified significantly since the mid-2010s. Bring your passport everywhere and expect thorough document checks.

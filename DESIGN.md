@@ -259,3 +259,270 @@ To re-run the naming agents from scratch (e.g. after lowering BUDGET):
 - **Server-side scoring**: regions could be served via a Django view
   instead of static files, but the current setup is plenty fast and
   cache-friendly.
+
+---
+
+# Background notes for a future blog post
+
+The technical sections above describe **what** the system does. The notes
+below capture **why** we built it this way, what didn't work, and the
+surprises along the road. Saving this here so a blog post is mostly a
+matter of rearranging and adding screenshots.
+
+## Why not just colour countries?
+
+Every "visited countries" map looks the same: a flat 195-country
+choropleth. It rewards box-ticking — fly into the capital, stamp the
+passport, claim the country. It also wildly distorts what "visiting" means.
+Russia is one box. Vatican City is one box. Someone who has been to Berlin,
+Paris and Tokyo "fills" three boxes; someone who has driven from San
+Francisco to Maine fills *one*.
+
+The goal here was to make a map whose units are roughly travel-comparable.
+Going to Tuscany feels like "a thing you did"; so does going to the
+Cinque Terre; so does going to Sicily — they belong on the same map at
+the same level of granularity, even though they're all in Italy.
+
+That ruled out admin boundaries (states, provinces) because they're too
+uniform — Tuscany, Vermont, and Tasmania are at very different "travel
+scales" despite each being a single admin unit. It ruled out a fixed grid
+(hexbin etc.) because populated areas should split into more cells than
+empty ones. It pointed at a Voronoi tessellation weighted by some measure
+of touristic importance.
+
+## What "importance" means here
+
+World66 already has a per-location score from a separate ranking pipeline
+(`tools/rank_locations.py` — Plackett-Luce MLE on Claude-judged
+ranking matches). The raw score is in [0,1] but the interesting range is
+narrow — 0.3 to 0.8 covers almost everything. To make Paris dominate a
+village by 100×, scores get an exponential transform:
+
+```python
+importance = 10 ** (score * 4)
+```
+
+K=4 makes a score-1.0 destination worth 100× a score-0.5 one. The K was
+tuned by eye on the resulting cell distribution.
+
+## Why Natural Earth subunits, not countries
+
+Plain country polygons fold overseas territories into their sovereign:
+Greenland disappears into Denmark, Hawaii into the USA, Réunion and French
+Guiana into France. For a "places I've visited" map that's terrible —
+visiting Greenland is obviously a different experience from visiting
+Copenhagen, and you want to be able to mark it separately.
+
+Natural Earth's "admin 0 — map subunits" layer fixes this: France splits
+into mainland + Corsica + each overseas department; the UK splits into
+England/Scotland/Wales/N. Ireland + every Crown dependency + every
+British Overseas Territory; the US has Alaska, Hawaii, PR, Guam, USVI,
+American Samoa, Northern Mariana Islands as separate polygons; the
+Netherlands has Aruba, Curaçao, Sint Maarten, Caribbean Netherlands.
+
+For dense single-sovereign areas (mainland France, mainland US, mainland
+Italy, …) we still need to subdivide — that's where the Voronoi splits
+come in. Subunits are the *floor*: we never cross them.
+
+## What didn't work (and how we noticed)
+
+The first version used the obvious approach: take the top-N cities of
+each subunit by importance, use them as Voronoi seeds, clip to the
+subunit polygon. The trouble showed up immediately:
+
+- **Hamburg ended up inside Rothenburg ob der Tauber's cell.** Northern
+  Germany has no "tourist hotspot" comparable to Munich, Heidelberg, or
+  the Romantic Road — so no seed sits up there. Every northern German
+  town then snaps to whichever southern seed is geographically closest.
+  Rothenburg won the contest. Visually: a region named after a tiny
+  medieval town contained Germany's second-largest city.
+
+- **Berlin landed inside Dresden's cell.** Same dynamic, plus a
+  data-quality bug we hadn't realised existed: the page
+  `content/europe/germany/berlin.md` was tagged `loc_type: region`
+  rather than `city`, so our seeding code (which filtered to cities)
+  silently dropped Berlin from the candidate pool. The Dresden cell
+  inherited Berlin geographically because Dresden was the closest seed.
+
+That second one was the kicker. It pointed at an *algorithmic* miss in
+the original `loc_type` classification — the Phase 1 script
+(`tools/set_loc_type.py`) had used the heuristic "a page with children
+is a region, a leaf is a city". Berlin has sub-pages (its
+neighbourhoods), so it got labelled as a region. So did 65 other big
+cities. An audit (run by 5 parallel subagents over all 640
+`loc_type: region` pages) found them all; a second pass over their 91
+location-children sorted out which children were truly Berlin
+neighbourhoods (flip to `type: neighbourhood`), which were satellite
+towns wrongly nested (promote out — Pasadena out of LA, Santa Monica
+out of LA, Burnaby out of Vancouver, Skerries out of Dublin, …), and
+which were stubs worth deleting. That's PR #965, parallel and
+unblocking on this one.
+
+## What we switched to
+
+Three changes, each fixing a class of failure:
+
+1. **Importance-weighted k-means picks the centroids**, not "top-N
+   cities". Lloyd's iterations move each centroid to the
+   importance-weighted mean of its assigned locations. Centroids drift
+   toward city *density*, not tourist *hotspots*. Northern Germany now
+   gets a centroid because there are real cities up there even if none
+   of them individually beats Munich. Hamburg becomes the centre of its
+   own cell — exactly what you want.
+
+2. **Voronoi over every location, then merge by label.** The naïve
+   approach makes K-cell Voronoi cells with straight cell-to-cell
+   borders. Visually it screams "computer". Instead we tessellate the
+   subunit using all of its location points, label each cell by which
+   centroid its seed is closest to, and `shapely.ops.unary_union` the
+   cells that share a label. The result: jagged organic borders that
+   track real city density between regions, not arbitrary straight
+   lines.
+
+3. **Names come from a per-country LLM agent**, not the top-scoring
+   city. Naming a cell after its top destination gave us regions called
+   "Key West" (covering most of Florida), "Riomaggiore" (Cinque Terre),
+   "Reims" (Champagne wine country) — accurate but useless. We launched
+   47 subagents, one per multi-cell country, each given the cells +
+   their top destinations and asked for short, evocative names. The
+   agents picked real cultural/geographic names where they existed
+   (Tuscany, Provence, Cinque Terre, Champagne, Florida Keys, Rocky
+   Mountains, U.S. Southwest, Bavaria) and reached for sensible
+   directional names where they didn't (Northern Germany, Eastern
+   China, Upper / Lower Nile).
+
+## The data-quality reveal
+
+Building this exposed two data problems we had no idea were there.
+
+- **The Berlin tagging bug** (above), plus 65 of its peers.
+- **China is dramatically under-represented.** China has 70 indexed
+  cities to Japan's 55 and Thailand's 49 — for a country with that much
+  surface area, tourism, and cultural variety, the count should be in
+  the hundreds. The *scores* are also flat: China's top city (Hong Kong,
+  0.80) ranks below Vietnam's (Ha Long Bay, 0.93) and Japan's (Kyoto,
+  0.97). The Voronoi machinery exposed this neatly — China got only
+  three cells because its total importance budget is low. Same applies
+  to a lesser degree to large parts of Africa and Central Asia.
+
+This is the kind of thing you only see when you map your data; the gap
+is invisible when you're reading it ranked alphabetically.
+
+## How the LLM naming actually worked
+
+It's tempting to think of "ask an LLM to name a region" as something
+that should be uniform and automatic. In practice the structure
+mattered. Per-country agents (rather than one big batch) made the names
+*consistent within a country* — France's cells came back as Provence,
+French Riviera, Loire Châteaux, French Alps, Champagne, Burgundy,
+Alsace — coherent because the same agent picked all 13. A single global
+agent would have drifted.
+
+We launched 47 agents in parallel (across three waves of ~10–20 each
+to dodge rate limits). The prompt was tight: country name, the cell
+list with top destinations, a small set of guidelines (prefer real
+cultural/geographic names; use "X and around" when one city dominates;
+avoid the smallest town; don't repeat the parent country). Output went
+to per-country text files which a small Python script aggregated into
+the persistent overrides file.
+
+The result was good but not perfect. A handful of within-country
+duplicates slipped through ("Amalfi Coast" vs "Amalfi & Cilento" in
+Italy, "Loire Châteaux" vs "Loire Valley & Normandy" in France). A
+scan-and-fix pass cleaned them in a few minutes.
+
+## By the numbers
+
+```
+6,642 scored locations with coordinates (the seed input)
+  308 Natural Earth subunits (the polygon floor)
+  440 regions total
+  260   - whole subunits (kept as Natural Earth named them)
+  180   - split cells (Voronoi-tessellated mainland of large subunits)
+   47 countries that needed splitting
+    1.3M total world importance (sum of importance over all locations)
+  6000  - per-region importance budget before subdivision
+   12 within-country name duplicates fixed by hand after the agent pass
+   66 mis-tagged "regions" promoted to cities (PR #965 dependency)
+   91 of their children triaged: 9 -> neighbourhood, 10 -> deleted,
+                                  72 -> promoted out
+    4 POIs found that needed neighbourhood tags after the retag
+```
+
+## Lessons / takeaways
+
+1. **Voronoi seeded by k-means weighted means is a better default**
+   than top-N nominees for any task where the underlying point cloud
+   isn't uniform. Top-N seeds cluster where individual points are
+   loud; k-means seeds cluster where mass is.
+
+2. **Merging Voronoi cells via `unary_union` is a cheap way to get
+   organic-looking partitions** that respect underlying density. The
+   resulting boundary geometry is jagged at a scale that matches the
+   point spacing — feels right visually.
+
+3. **Per-country LLM naming with full local context outperforms
+   global naming.** The model can be consistent across one country's
+   cells if it sees all of them in one prompt; it can't if it sees
+   them in isolation. The total token budget barely changes.
+
+4. **Mapping your data finds bugs you'd never see ranked.** The
+   `loc_type: region` heuristic miss for 66 cities only became obvious
+   when those cities started showing up wrongly inside Voronoi cells
+   on a world map. Same for China's under-coverage.
+
+5. **Overrides files want to be the source of truth, not derived.**
+   The first version of the naming pipeline re-read `/tmp` files on
+   every build and regenerated the overrides. Manual edits got
+   clobbered. Moving the curated names into a real file (committed
+   to the repo) and applying them as the last step of the build made
+   the editing flow safe.
+
+6. **"What's a region?" is a UI question, not a data question.** Once
+   we accepted that the unit didn't need to match a real
+   administrative boundary, every other design problem got easier.
+
+## Suggested blog-post outline
+
+A draft skeleton, mapping the technical material above into a narrative
+arc:
+
+1. **Hook** — "Visited countries maps lie. Here's what a better one
+   looks like." Screenshot of the final map with a few regions
+   coloured saturated.
+2. **What's wrong with country-level** — Russia vs Vatican City; the
+   "I've been to France because I had a layover" problem; the
+   incentive to box-tick.
+3. **What I want instead** — units that feel travel-comparable;
+   organic boundaries; visited toggle; click-through to destinations.
+4. **First attempt: Voronoi from top cities** — what it gets right
+   (overseas territories handled via Natural Earth subunits),
+   what it gets wrong (Hamburg in Rothenburg's cell). Screenshot
+   of the bad version.
+5. **The data-quality detour** — Berlin tagged as a region;
+   discovering 66 mis-classified cities; a parallel PR to fix
+   them. Short, optional aside.
+6. **Importance-weighted k-means** — what it is, why it produces
+   better seeds. Show before/after of Germany.
+7. **Organic borders via cell merging** — the Voronoi-of-locations +
+   `unary_union` trick. Show before/after of borders.
+8. **Naming with subagents** — the failure mode of top-city names
+   ("Key West" for Florida); per-country agents; the agreement
+   problem (duplicates), the dedup pass.
+9. **What it revealed** — China is under-represented; broader
+   data-quality lessons.
+10. **Try it** — link to the live page; localStorage persistence;
+    suggestions to extend (server-side passport sync, more
+    regions for under-covered areas).
+
+Visuals to capture before posting:
+
+- World map at default zoom, all regions desaturated
+- Same map with a personal "visited" pattern lit up
+- Side-panel screenshot with a region selected and its top
+  destinations
+- Germany regions before/after the k-means switch (Hamburg's cell)
+- Generic Voronoi straight borders vs. our organic ones (zoom on
+  any large country)
+- The China gap — wide cells with thin coverage
+

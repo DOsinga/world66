@@ -336,6 +336,7 @@
     },
   };
   let currentPalette = localStorage.getItem('world66.palette') || 'rainbow';
+  if (!PALETTES[currentPalette]) currentPalette = 'rainbow';
 
   // ── Tile layers ──
   const TILE_DEFS = {

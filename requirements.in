@@ -11,7 +11,6 @@ httpx
 Pillow
 pillow-heif
 python-dotenv
-mlx-lm
 sqlite-vec
 apsw
 openai

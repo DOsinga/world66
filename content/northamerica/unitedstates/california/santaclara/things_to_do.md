@@ -1,38 +1,6 @@
 ---
-title: Things to do in Santa Clara
-type: poi
+title: "Things to Do in Santa Clara"
+type: section
 ---
 
-### [Paramount's Great America](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/paramountsgreatamerica)
-
-Northern California's largest family attraction, offering 100 acres of theme-park thrills and excitement including nine world-class roller coasters, IMAX theater, and Paramount-produced entertainment. Great America Pkwy. between Hwys. 101 & 237 95054 408/988-1776 www.pgathrills.com Wheelchair Access
-
-type: Spa and Sauna
-
-
-
-[[rate it]](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/paramountsgreatamerica)
-
-### [Mission Santa Clara de Asis](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/missionsantaclaradeasis)
-
-Santa Clara Univ. 500 El Camino Real 95053 408/554-4023
-
-type: general
-
-
-
-[[rate it]](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/missionsantaclaradeasis)
-
-### [de Saisset Museum](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/desaissetmuseum)
-
-Santa Clara Univ. 500 El Camino Real 95053-0550 408/554-4528
-
-type: general
-
-
-
-### [The Intel Museum](/northamerica/unitedstates/california/sanfranciscobayarea/santaclara/thingstodo/theintelmuseum)
-
-2200 Mission College Blvd. 95052 408/765-0503
-
-type: general
+Santa Clara is not a bucket-list destination, but it punches above its weight for a city of its size. The [Mission Santa Clara de Asís](/northamerica/unitedstates/california/santaclara/mission_santa_clara) and the surrounding university campus are the historic core. The [Intel Museum](/northamerica/unitedstates/california/santaclara/intel_museum) is one of the few places on earth where the history of computing is explained well and for free. For families, [California's Great America](/northamerica/unitedstates/california/santaclara/great_america) is the South Bay's biggest theme park. [Levi's Stadium](/northamerica/unitedstates/california/santaclara/levis_stadium) brings NFL football, concerts, and major events that fill the city on weekends. The [Triton Museum of Art](/northamerica/unitedstates/california/santaclara/triton_museum) is a small but worthwhile contemporary art space with free admission.

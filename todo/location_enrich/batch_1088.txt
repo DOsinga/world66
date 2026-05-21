@@ -1,5 +1,0 @@
-northamerica/panama/antonvalley
-asia/china/hainanisland/xinglong
-northamerica/unitedstates/alaska/wrangell
-asia/japan/ryukyuislands/taketomiisland
-northamerica/unitedstates/florida/ormond_beach

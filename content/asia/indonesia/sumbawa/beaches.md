@@ -1,20 +1,6 @@
 ---
-title: "Beaches in Sumbawa"
+title: "Beaches"
 type: section
 ---
 
-Tanjung Pasir - Moyo island.
-White sandy beach ideal for Snorkeling and Swimming, colorful coral and fishes.
-
-Tanjung Menangis
-Just opposite Moyo island, located only 30 minutes drive from Sumbawa Besar.
-White sandy beach and no hectic atmosphere. get the feeling like your own beach.
-
-Lakey Beach - Dompu District
-White sandy beach with ideal wave for surfing, Many International surfing contest have been held in this place.
-
-Sekongkang beach - West Sumbawa
-Beautiful white sandy beach located in West Sumbawa, only 1 hours drive from the harbor of Poto tano.
-
-LSO TOUR
-lomboksumbawaoverland@yahoo.com
+Sumbawa's beaches are largely uncrowded and varied. The north coast has calmer water good for snorkelling; the south coast has the surf breaks that have made Sumbawa a destination for serious surfers; and the islands offshore — Moyo in particular — offer some of the best diving in Nusa Tenggara.

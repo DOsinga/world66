@@ -1,5 +1,0 @@
-asia/japan/ryukyuislands/miyakoisland
-europe/ukraine/uzhgorod
-africa/nigeria/asaba_delta_state
-asia/northkorea/wonsan
-asia/india/himachalpradesh/dharamsala

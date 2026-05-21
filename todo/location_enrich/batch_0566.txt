@@ -1,5 +1,0 @@
-europe/france/corsica/corte
-asia/bangladesh/banderban_hill_tra
-europe/italy/sicily/monreale
-asia/india/kerala/wayanad
-southamerica/brazil/londrina

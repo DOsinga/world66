@@ -1,5 +1,0 @@
-europe/france/midi/cotedazur/sttropez
-northamerica/honduras/choluteca
-europe/italy/liguria/rivieradellepalme/casanovalerrone
-northamerica/unitedstates/utah/moab
-europe/italy/liguria/italianriviera/rivieradellepalme/stella

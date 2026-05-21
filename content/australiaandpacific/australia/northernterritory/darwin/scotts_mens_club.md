@@ -7,7 +7,8 @@ longitude: 130.838475
 phone: '0414257145'
 snippet: Darwin's long-running gay men's private club on Mitchell Street
 tags:
-- nightlife
+- bars_and_cafes
+- bar
 title: Scott's Mens Club
 type: poi
 ---

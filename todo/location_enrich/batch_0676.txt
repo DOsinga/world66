@@ -1,5 +1,0 @@
-europe/russia/tula
-europe/slovenia/novo_mesto
-europe/spain/centralspain/elescorial
-europe/romania/arad
-asia/palestinianauthority/ramallah

@@ -1,5 +1,0 @@
-africa/southafrica/oudtshoorn
-northamerica/unitedstates/california/palm_springs
-africa/mali/timbuktu
-europe/italy/sicily/acireale
-africa/southafrica/stellenbosch

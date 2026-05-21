@@ -1,5 +1,0 @@
-asia/china/zhejiang/hangzhou
-africa/guineeconakry/dalaba
-europe/azerbaijan/nagornokarabakh/shusha
-europe/switzerland/zermatt
-europe/netherlands/diever

@@ -1,5 +1,0 @@
-northamerica/unitedstates/northcarolina/old_fort
-europe/russia/novgorod
-asia/syria/aleppo
-asia/cyprus/ayianapa
-southamerica/peru/cajamarca

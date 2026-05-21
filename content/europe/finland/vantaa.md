@@ -1,18 +1,18 @@
 ---
-title: Vantaa
-type: location
+done:
+  location_enrich: '2026-05-21'
 latitude: 60.292988
+loc_type: city
 longitude: 25.043674
 score: 0.39
-loc_type: city
+title: Vantaa
+type: location
 ---
 
-Travel Guide
+Vantaa is Finland's fourth-largest city by population, though few visitors would know it — the city blends into the northern edge of the Helsinki metropolitan area so seamlessly that most people pass through without noticing. Helsinki-Vantaa Airport is here, and so are the motorways radiating north from the capital. But look past the infrastructure and Vantaa has more substance than its reputation suggests.
 
-Vantaa is a city that often is forgotten since it is a part of Finlands capitol area and often considered part of Helsinki. Vantaa is the airport city that many visitors pass by on their itinerary.
+The city centres on two main districts: [Tikkurila](/europe/finland/vantaa/tikkurila), the administrative heart with good rail connections to Helsinki, and Myyrmäki in the west. Between these nodes lie a patchwork of suburbs and, surprisingly, open agricultural land — fields still worked by farmers who have been cultivating this soil for centuries, surviving the encroachment of the ring roads and logistics centres that now surround them.
 
-For most people it is hard to think Vantaa as one of the largest cities in Finland. The city is divided in two major centers Tikkurila and Myyrmäki.
+The [Heureka science centre](/europe/finland/vantaa/heureka), one of the finest in Scandinavia, sits near Tikkurila station and is worth a half-day even for adults. The [Church of St. Lawrence](/europe/finland/vantaa/church_of_st_lawrence) — a stone medieval church that predates the city itself — is the most beautiful building in Vantaa and gives a sense of how long people have lived in this landscape. The [Finnish Aviation Museum](/europe/finland/vantaa/finnish_aviation_museum) near the airport is a serious collection for anyone interested in flight history.
 
-City has long history in agriculture serving the needs of the nations capital. Nowadays the city is split with large motorways running from Helsinki through Vantaa with the capitol area circumferential road "Kehä III". The infrastructure has divided city in small isolated suburbs, but there are still lot of cultivated fields alongside the motorways as a reminder of the past.
-
-Vantaa has a few places worth a stop: the Heureka science centre near Tikkurila, the Finnish Aviation Museum near the airport, and the Vantaa Agricultural Museum. Most visitors pass through on the way to or from Helsinki-Vantaa Airport without stopping — and that's fine.
+Vantaa is not a reason to come to Finland on its own, but if you are staying a few days in Helsinki it offers a genuine change of character: a more suburban, Finnish-feeling place than the capital, with easy access by commuter rail.

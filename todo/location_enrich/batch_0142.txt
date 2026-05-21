@@ -1,5 +1,0 @@
-northamerica/mexico/sanluispotosi
-asia/qatar/khor
-northamerica/thecaribbean/cuba/trinidad
-northamerica/unitedstates/oklahoma/claremore
-southamerica/colombia/zipaquira

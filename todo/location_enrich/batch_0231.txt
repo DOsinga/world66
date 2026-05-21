@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon
-europe/belgium/bruges
-europe/unitedkingdom/northernireland/bushmills
-europe/portugal/valena_do_minho
-africa/tunisia/monastir

@@ -6,9 +6,9 @@ latitude: 9.749127
 longitude: 122.40406
 snippet: Sheltered bay with white sand and a coral garden entrance
 tags:
-- beaches
-- diving
-- water_sports
+  - beaches
+  - diving
+  - sight
 title: Campomanes Bay
 type: poi
 ---

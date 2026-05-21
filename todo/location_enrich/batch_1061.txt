@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/panama_city_beach
-northamerica/unitedstates/northcarolina/rockingham
-europe/ireland/aranislands/inismeain
-europe/germany/hessen/marburg
-asia/pakistan/jacobabad

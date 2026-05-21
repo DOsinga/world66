@@ -1,5 +1,0 @@
-northamerica/unitedstates/delaware/dewey_beach
-africa/senegal/saintlouis
-europe/germany/northrhinewestphalia/cologne
-africa/somaliland/gabiley
-africa/zambia/kitwe

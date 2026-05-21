@@ -2,16 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-21'
 latitude: 24.341988
+loc_type: city
 longitude: 56.729838
 score: 0.41
 title: Sohar
 type: location
-loc_type: city
 ---
 
-Sohar is the largest city on Oman's northern Batinah coast, and according to legend the birthplace of Sinbad the Sailor — a claim the city wears with some pride. The old fort in the centre has been well restored and houses a small museum. A replica of the ship Sohar, which retraced a historic Arab sailing route to China in 1980–81, is displayed near the harbour.
+Sohar is the largest city on Oman's northern Batinah coast, and according to legend the birthplace of Sinbad the Sailor — a claim the city wears with some pride. The [Sohar Fort](/asia/oman/sohar/sohar_fort) in the centre has been well restored and houses a small museum covering Omani seafaring history. A [replica of the ship Sohar](/asia/oman/sohar/sinbad_ship_replica), which retraced a historic Arab sailing route to China in 1980–81, is displayed near the harbour.
 
-Modern Sohar is a major industrial port — Oman's main hub for aluminium smelting and petrochemical processing — which gives it more commercial energy than many Omani towns but makes it less immediately picturesque than its legend suggests. The Batinah coast stretching south toward Muscat is agricultural, green by Oman standards, lined with date palms.
+Modern Sohar is a major industrial port — Oman's main hub for aluminium smelting and petrochemical processing — which gives it more commercial energy than many Omani towns but makes it less immediately picturesque than its legend suggests. The Batinah coast stretching south toward Muscat is agricultural, green by Oman standards, lined with date palms. [Sallan Beach](/asia/oman/sohar/sallan_beach) north of town is clean and uncrowded, with regular dolphin sightings and turtle nesting from June to September.
 
-It's a reasonable stopping point if you're driving between Muscat and the UAE, but few travellers linger.
+It's a reasonable stopping point if you're driving between Muscat and the UAE. Day trips to [Rustaq](/asia/oman/sohar/day_trips) and Nakhl Fort are worth planning if you have more time.

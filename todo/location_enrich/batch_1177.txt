@@ -1,5 +1,0 @@
-northamerica/dominicanrepublic/san_pedro
-northamerica/unitedstates/oklahoma/vinita
-northamerica/unitedstates/delaware/bethanybeach
-northamerica/unitedstates/california/burbank
-australiaandpacific/newzealand/north_island/hawkes_bay/wairoa

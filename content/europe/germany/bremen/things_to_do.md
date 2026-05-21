@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-The Altstadt is the main draw. The Rathaus (guided tours hourly, Mon–Sat) has an extraordinary Renaissance façade and a vaulted interior with frescoes. The Dom (Cathedral of St Petri) has mummies in its basement crypt — an unexpected and genuinely strange detail. The bronze statue of the Bremen Town Musicians stands beside the Rathaus. The Kunsthalle on Am Wall has strong 19th and 20th-century collections including works by Modersohn-Becker. Beck's Brewery tours run daily with tasting for about €7 per person. The Focke Museum covers Bremen's history across seven buildings in a park setting.
+The Altstadt is compact and walkable, with the main sights clustered around the [Marktplatz](/europe/germany/bremen/bremen_roland) and the nearby [Schnoorviertel](/europe/germany/bremen/schnoorviertel) and [Böttcherstrasse](/europe/germany/bremen/boettcherstrasse). Beyond the old town, the [Focke Museum](/europe/germany/bremen/focke_museum), [Universum](/europe/germany/bremen/universum_science) science centre, and the [Bunker Valentin](/europe/germany/bremen/bunker_valentin) memorial reward half-day excursions.

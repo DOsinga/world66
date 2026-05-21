@@ -2,9 +2,17 @@
 latitude: 53.079
 longitude: -9.592
 snippet: Clifftop stone seat where J.M. Synge wrote his plays
+story: >
+  Synge first came to Inis Meáin on the advice of W.B. Yeats, who told him to
+  go to the Aran Islands and live among the people. He spent four summers here
+  between 1898 and 1902, learning Irish, observing the lives of the islanders,
+  and sitting on this stone ledge above the cliffs watching Atlantic storms roll
+  in. The plays that came out of those summers — The Playboy of the Western
+  World, Riders to the Sea — made him famous. The rock that bears his name
+  looks the same as when he sat on it.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Cathaoir Synge (Synge's Chair)
 type: poi
 ---

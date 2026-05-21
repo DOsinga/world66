@@ -1,7 +1,10 @@
 ---
 title: "La Pompelle Fort"
 type: poi
-category: "Sight"
+tags:
+  - things_to_do
+  - museum
+  - sight
 latitude: 49.215755
 longitude: 4.128898
 ---

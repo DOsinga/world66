@@ -1,5 +1,0 @@
-northamerica/mexico/bahiadekino
-europe/france/east/alsace/mulhouse
-europe/denmark/aarhus
-asia/japan/honshu/nara
-asia/thailand/phuket/karon

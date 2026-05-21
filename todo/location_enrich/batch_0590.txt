@@ -1,5 +1,0 @@
-europe/poland/malbork
-northamerica/unitedstates/iowa/adel
-europe/spain/northernspain/llanes
-northamerica/unitedstates/northdakota/bismarck
-northamerica/jamaica/falmouth

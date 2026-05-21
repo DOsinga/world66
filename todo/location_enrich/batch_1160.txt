@@ -1,8 +1,0 @@
-africa/egypt/marsa_matroh
-asia/india/uttarpradesh/aligarh
-southamerica/ecuador/papallacta
-northamerica/unitedstates/newmexico/chama
-asia/pakistan/azad_kashmir/kotli
-europe/finland/joensuu
-europe/unitedkingdom/scotland/edinburgh
-southamerica/venezuela/maracaibo

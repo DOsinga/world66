@@ -1,5 +1,0 @@
-asia/vietnam/phong_nha__ke_ban
-europe/germany/bremen
-northamerica/turksandcaicosislands/middlecaicos
-northamerica/unitedstates/minnesota/stpaul
-europe/unitedkingdom/england/south_east/hove

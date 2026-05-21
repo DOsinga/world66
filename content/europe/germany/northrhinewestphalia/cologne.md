@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-21'
 image: cologne.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg
@@ -13,21 +14,8 @@ title: Cologne
 type: location
 ---
 
-This delightful city (pop. 955.500) with Roman origins is the home of a stunning 13th-century Gothic cathedral, the **Dom**. The twin-spired structure is supported by 56 pillars and highlighted by magnificent stained-glass windows. Art lovers won’t want to miss the museum complex between the Rhine and the cathedral. It contains paintings from Dutch and German masters (14th-16th century) and modern art in a beautiful setting (white walls lots of windows and skylights and long halls). If you have time visit the Roman-Germanic Museum (3rd-century Dionysian mosaics).
+Cologne is one of Germany’s oldest cities, founded as a Roman colony in 50 AD, and it has been important ever since. The [Cologne Cathedral](/europe/germany/northrhinewestphalia/cologne/cologne_cathedral) dominates the skyline with its twin Gothic spires — at 157 metres it is still the tallest in the world — and the museum cluster between the Dom and the Rhine contains some of the finest collections in the country. But Cologne is not a museum city: it is a living, noisy, convivial place where the Kölsch beer flows freely and the annual Carnival turns the streets into one of the great street parties of Europe.
 
+The city was heavily bombed in World War II — the 1942 "1000 bomber raid" destroyed much of the old town — but the cathedral survived (narrowly), the Great St. Martin Church was rebuilt, and the [Altstadt](/europe/germany/northrhinewestphalia/cologne/altstadt) was reconstructed with enough fidelity to feel genuinely old. The [Romano-Germanic Museum](/europe/germany/northrhinewestphalia/cologne/romano_germanic_museum) tells the story of the Roman city; the [Wallraf-Richartz-Museum](/europe/germany/northrhinewestphalia/cologne/wallraf_richartz_museum) has medieval German painting and Impressionism; [Museum Ludwig](/europe/germany/northrhinewestphalia/cologne/museumludwig) covers 20th-century art. The [Kolumba](/europe/germany/northrhinewestphalia/cologne/kolumba) art museum, in a building by Peter Zumthor, is one of the most beautiful museum spaces in Europe.
 
- Cologne’s a scenic city with plazas shopping and nightlife—well worth a one-night visit especially during its famous Carnival celebrations. A boat leaving Cologne follows the Rhine to [Strasbourg](/europe/france/east/alsace/strasbourg) in France. The most scenic part of the route lies between St. Goar and [Rudesheim](/europe/germany/rhinelandpalatinate/rudesheim) (lots of castles vineyards hills etc. There’s a pleasant train ride from [Frankfurt](/europe/germany/hessen/frankfurt) to Cologne passing Lorelei the Rhine Valley and other pretty places.
-
-
- 
- The city of Cologne offers more than history: Whether street music on the Hohe Strasse or galas in the modern opera house, whether pavement painting on the cathedral concourse or old masters in the Wallraf Richartz Museum, whether the annual music festival along the inner ring road or carnival in the entire city - in Cologne all this becomes synthesized into a vivacious work of art - in a cosmopolitan metropolis boasting more than a million inhabitants which, despite its size, has never lost its neighbourly character.
-
-
- 
- Cologne is one of Germany's leading gastronomic lights. From venerable breweries offering unique **Kölsch** beer and typical Cologne delicacies to first-class restaurants - boasting well in excess of 3000 public houses, restaurants and breweries Cologne is one of Germany's leading gastronomic lights. Per head of population, no other city in the Federal Republic boasts so many public houses, and also many top-class restaurants.
-
-
- The world feels at home in Cologne, where people meet for a Kölsch, a chat or simply a laugh. Life in Cologne is uncomplicated and vivacious - the tolerance and cosmopolitanism of its inhabitants proverbial.
-
-
- **With courtesy of www.koeln.de - c/o NetCologne**
+On the gastronomic front, Cologne has more bars per capita than anywhere else in Germany. The drink is Kölsch — a light, top-fermented beer served in small cylindrical glasses by roving waiters who replace empties without being asked. The oldest and most celebrated of the brewery houses is [Früh am Dom](/europe/germany/northrhinewestphalia/cologne/fruh_am_dom), just across from the cathedral. The [Chocolate Museum](/europe/germany/northrhinewestphalia/cologne/schokoladenmuseum) on the Rhine and the [Farina Fragrance Museum](/europe/germany/northrhinewestphalia/cologne/farina_fragrance_museum) — birthplace of Eau de Cologne — are among the more unusual attractions. The [Hohenzollernbrücke](/europe/germany/northrhinewestphalia/cologne/hohenzollern_bridge), the railway bridge beside the cathedral, is worth crossing for the view and for its famous weight of love locks.

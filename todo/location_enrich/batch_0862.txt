@@ -1,5 +1,0 @@
-europe/france/midi/provence/nimes
-asia/afghanistan/herat
-asia/indonesia/belitung
-australiaandpacific/newzealand/north_island/northland/paihia
-asia/japan/shikoku/kochi

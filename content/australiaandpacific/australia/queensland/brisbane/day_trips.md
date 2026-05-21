@@ -3,39 +3,10 @@ title: "Day Trips"
 type: section
 ---
 
-If your destination is Brisbane there
-are many options for day trips driving out of Brisbane to see
-picturesque landscapes, beaches, towns and townships.
+Brisbane's position on Moreton Bay with the Glasshouse Mountains behind it and the Gold and Sunshine Coasts flanking it means day trip options are genuinely excellent.
 
-**Going North:**
+The Gold Coast surf strip — Surfers Paradise, Broadbeach, Burleigh Heads — is an hour south by train or car. The beaches are long and well-maintained, the surf reliable, and Burleigh Heads in particular has evolved into a good place to eat and drink away from the strip's more touristy core. The hinterland behind the Gold Coast has the Lamington National Park rainforest, with walking trails through subtropical forest and remarkable birdlife.
 
-The Sunshine Coast
+North, the Sunshine Coast is slightly further but arguably prettier. Noosa at the northern end is an upmarket beach town with a national park headland where koalas live in the wild. The Sunshine Coast Hinterland towns of Montville and Maleny are worth a morning for the views over the coast. The Glasshouse Mountains, halfway between Brisbane and the Sunshine Coast, are distinctive volcanic plugs rising from the plain — you can see them from the highway, and several are hikeable.
 
-* Caloundra
-
-* Mooloolaba
-
-* Maroochydore
-
-* Noosa
-
-The Sunshine Coast Hinterland
-
-* Maleny
-
-* Montville
-
-* Kenilworth
-
-* Eumundi
-
-**Going West:**
-
-**Going South:**
-
-The Gold Coast
-
-The Gold Coast Hinterland
-
-**Contributors**
-February 01, 2006
+Moreton Bay and its islands are accessible by ferry from various points around Brisbane. North Stradbroke Island (Minjerribah) has excellent surf beaches, a freshwater lake good for swimming, and regular sightings of turtles and manta rays from the ocean beach. Day ferries run from Cleveland.

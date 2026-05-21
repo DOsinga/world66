@@ -1,5 +1,0 @@
-europe/france/east/champagne/reims
-africa/capeverde/saovicente
-northamerica/unitedstates/massachusetts/springfield
-asia/turkey/dogubeyazit
-northamerica/thecaribbean/guadeloupe/basseterre

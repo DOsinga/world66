@@ -1,5 +1,0 @@
-europe/france/normandybrittany/quimper
-europe/italy/sicily/aeolianislands/vulcano
-northamerica/unitedstates/newmexico/taos
-europe/denmark/helsingor
-northamerica/unitedstates/colorado/fairplay

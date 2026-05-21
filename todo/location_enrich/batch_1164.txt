@@ -1,5 +1,0 @@
-asia/papuanewguinea/portmoresby
-asia/philippines/dumaguetecity
-northamerica/mexico/aguaprieta
-africa/algeria/setif
-africa/nigeria/ilorin

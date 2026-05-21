@@ -1,14 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-21'
+image: debre_damo.jpg
+image_attribution: A.Savin
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:ET_Tigray_asv2018-01_img01_Debre_Damo_surroundings.jpg
 latitude: 14.3731
+loc_type: city
 longitude: 39.2893
+score: 0.35
 title: Debre Damo
 type: location
-score: 0.35
-loc_type: city
 ---
 
 Debre Damo is a flat-topped mountain in the Tigray region of northern [Ethiopia](/africa/ethiopia), west of Adigrat, crowned by one of the country's oldest and most dramatic monasteries. The only way up is by climbing a 15-metre leather rope hauled by monks at the top — there are no steps, no path, and no alternative. Women are not permitted to enter (a rule that has held since the monastery's founding in the 6th century).
 
-The monastery at the summit houses the oldest intact church in Ethiopia, built in the Aksumite style with carved wooden panels and stone walls. The setting is extraordinary — the flat mountaintop offers sweeping views across the Tigray highlands.
+The [monastery at the summit](/africa/ethiopia/debre_damo/debre_damo_monastery) houses the oldest intact church in Ethiopia, built in the Aksumite style with carved wooden panels and stone walls. The setting is extraordinary — the flat mountaintop offers sweeping views across the Tigray highlands.

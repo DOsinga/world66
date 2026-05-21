@@ -1,5 +1,0 @@
-europe/norway/sandefjord
-northamerica/mexico/ensenada
-northamerica/unitedstates/illinois/alton
-europe/germany/schleswigholstein/badschwartau
-asia/thailand/nonthaburi_2

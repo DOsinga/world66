@@ -1,5 +1,0 @@
-asia/iran/ahvaz
-africa/somalia/kismayu
-europe/france/midi/pyrenees/vernet_les_bains
-asia/cambodia/stung_treng
-africa/centralafricanrepublic/bangui

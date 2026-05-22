@@ -1,5 +1,0 @@
-northamerica/unitedstates/indiana/porter
-northamerica/unitedstates/westvirginia/wheeling
-europe/ireland/fermoy
-europe/poland/koszalin
-europe/germany/northrhinewestphalia/mnster

@@ -1,5 +1,0 @@
-africa/ghana/ankasa
-africa/morocco/sefrou
-europe/france/normandybrittany/huelgoat
-northamerica/unitedstates/california/berkeley
-southamerica/colombia/islasdelrosario

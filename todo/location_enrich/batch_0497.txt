@@ -1,5 +1,0 @@
-europe/greece/karpathos
-europe/portugal/algarve/carvoeiro
-europe/netherlands/haarlem
-northamerica/unitedstates/california/orangecounty/costamesa
-europe/germany/brandenburg/spreewald

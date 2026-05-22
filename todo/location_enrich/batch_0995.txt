@@ -1,5 +1,0 @@
-northamerica/unitedstates/indiana/south_bend
-europe/spain/centralspain/lagranja
-northamerica/unitedstates/california/sanrafael
-northamerica/unitedstates/southdakota/madison
-europe/sweden/kumla

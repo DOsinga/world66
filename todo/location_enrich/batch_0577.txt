@@ -1,5 +1,0 @@
-northamerica/unitedstates/idaho/boise
-africa/equatorialguinea/luba
-southamerica/chile/osorno
-northamerica/unitedstates/california/orangecounty/lagunabeach
-northamerica/unitedstates/oklahoma/broken_arrow

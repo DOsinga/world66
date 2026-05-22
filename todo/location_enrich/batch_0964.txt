@@ -1,5 +1,0 @@
-europe/slovakia/kremnica
-northamerica/unitedstates/california/manhattan_beach
-africa/burkinafaso/ouahigouya
-southamerica/paraguay/concepcion
-asia/southkorea/songtan

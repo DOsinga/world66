@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-The Witchcraft Museum (Strandagaldur) is the main attraction in Hólmavík and one of Iceland's most popular small museums. It presents the history of 17th-century witch-hunts in Iceland — who was accused, what they were accused of, and how they were punished — alongside grimoires and magical staves from the period and later folk tradition. Open daily June 1 to September 15, 10:00–18:00; other times by request. The Sorcerer's Cottage, a related exhibit 27 kilometres north in Bjarnarfjörður, is also worth the detour.
+Holmavik's main draw is the [Museum of Sorcery and Witchcraft](/europe/iceland/holmavik/museum_of_sorcery_and_witchcraft), one of Iceland's most compelling small museums. Beyond that, the surrounding landscape — fjords, mountains, rivers, and the wild Strandir coast — is the real attraction. The [Strandir Coast Drive](/europe/iceland/holmavik/strandir_coast) north toward Djúpavík passes through some of the emptiest and most dramatic scenery in the Westfjords.
+
+For active visitors, [Trout and Char Fishing](/europe/iceland/holmavik/fishing_strandir) on nearby rivers and lakes is excellent in summer, and whale watching and sea cruises are available from the harbour. The [Sorcerer's Cottage](/europe/iceland/holmavik/sorcerers_cottage), 27 kilometres north in Bjarnarfjörður, is a related exhibit to the museum and worth the detour if you have a vehicle.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
 latitude: 42.269867
 longitude: 27.750618
 title: Primorsko

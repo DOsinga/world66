@@ -3,7 +3,7 @@ title: "Kanha Sweets"
 type: poi
 tags:
   - eating_out
-  - food_and_drink
+  - restaurant
 snippet: Amritsari kulcha and sweets near the Golden Temple
 latitude: 31.6213
 longitude: 74.8760

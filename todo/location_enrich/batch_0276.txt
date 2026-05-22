@@ -1,5 +1,0 @@
-southamerica/ecuador/cayambe
-southamerica/brazil/corumb
-europe/unitedkingdom/wales/snowdonia/llanberis
-northamerica/unitedstates/connecticut/hartford
-northamerica/unitedstates/nevada/virginiacity

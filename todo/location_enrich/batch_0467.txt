@@ -1,5 +1,0 @@
-southamerica/argentina/tierradelfuego
-northamerica/unitedstates/georgia/marietta
-asia/india/karnataka/agumbe
-northamerica/unitedstates/ohio/newark
-northamerica/unitedstates/newmexico/grants

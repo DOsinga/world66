@@ -1,7 +1,9 @@
 ---
 title: "Ikaros Greek Temple"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 29.4362
 longitude: 48.3375
 snippet: "Hellenistic temple ruins from Alexander's Persian Gulf outpost"

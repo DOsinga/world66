@@ -1,5 +1,0 @@
-europe/montenegro/podgorica
-europe/germany/bavaria/berchtesgaden
-europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore
-northamerica/unitedstates/utah/torrey
-africa/morocco/agadir

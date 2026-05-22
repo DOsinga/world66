@@ -1,5 +1,0 @@
-europe/germany/rhinelandpalatinate/mosel/cochem
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster
-northamerica/unitedstates/louisiana/lafayette_la
-europe/sweden/siljan_area
-northamerica/unitedstates/georgia/macon

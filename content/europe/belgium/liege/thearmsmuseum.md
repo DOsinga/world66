@@ -6,7 +6,8 @@ latitude: 50.6474
 longitude: 5.5829
 snippet: Major European arms collection in a Napoleon-linked mansion
 tags:
-- museums
+- things_to_do
+- museum
 title: Grand Curtius - Arms Museum
 type: poi
 ---

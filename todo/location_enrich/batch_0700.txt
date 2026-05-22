@@ -1,5 +1,0 @@
-northamerica/canada/britishcolumbia/goldenears
-northamerica/unitedstates/arizona/flagstaff
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton
-asia/yemen/socotra
-asia/turkey/dalaman

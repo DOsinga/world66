@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/boyntonbeach
-asia/iran/abadan
-asia/indonesia/batam
-northamerica/unitedstates/florida/palatka
-africa/mali/kayes

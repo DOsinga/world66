@@ -1,89 +1,12 @@
 ---
-address: 61 Wualai road Chiang Mai
-latitude: 18.779292
-longitude: 98.987309
-phone: 66 53 201683
-title: Things to do
+title: Things to Do
 type: section
-url: thailandweddings.com
 ---
 
-Elephants: The elephant camps and conservation centers in the north of Thailand are plentiful but also trekking on elephants is a popular activity, many do not know that the elephants suffer may from it.
+Chiang Mai has the richest concentration of temples in Thailand outside Bangkok, and the old city alone contains more than 30 wats worth visiting. The most important are [Wat Phra Singh](/asia/thailand/chiangmai/watphrasingh), [Wat Chedi Luang](/asia/thailand/chiangmai/watchediluang), and [Wat Chiang Man](/asia/thailand/chiangmai/wat_chiang_man), all within easy walking distance of each other inside the moat.
 
-Although the elephant is strong, its spine is weak and cannot take the strain of the heavy elephant chairs and tourists over long hours. (which most tourist rides are not that hours long) An elephant takes a lot to feed such a large animal with a inefficient digestive system so needs time to feed. So loving mahouts do not work long hours.
+Beyond the old city, [Doi Suthep Temple](/asia/thailand/chiangmai/doisutheptemple) on the hill above the city is the essential out-of-town sight. The [Elephant Nature Park](/asia/thailand/chiangmai/elephant_nature_par) north of the city is the responsible choice for elephant encounters — no riding, no hooks, no shows.
 
-Adequate support beneath the chairs is needed and the use of ropes to bind the chair may also cause chaffing so check your elephant is not chaffed..
+For a complete contrast, [Wat Umong](/asia/thailand/chiangmai/wat_umong) offers ancient tunnel shrines and a forested monastery campus on the western edge of town, while [Wat Sri Suphan](/asia/thailand/chiangmai/wat_sri_suphan) in the silversmith district is clad entirely in hammered silver.
 
-Whilst it is true that the only way that the domesticated elephants must be supported is through tourism, as logging is banned in Thailand, there are places available do not do this at the expense of the animals' welfare. So please make sure you use a responsible mahout.
-One such place is Elephant Nature Park in Chiangmai, and the other, Boon Lott Elephant Sanctuary in Sukothai. Lamphang Elephant conservatory
-
-**So support the elephants through responsible tourism** not be put off by fear tact acts. Because without your support they will suffer and only be left in zoos.
-
-**Contributors**
-October 17, 2006
-
-### [Buddhist Weddings or any Weddings](/asia/thailand/chiangmai/things_to_do/buddhist_weddings)
-
-One of the most unique and romantic things to do in Chiang Mai is to get married. Yes I said get married!
-
-You can bring the love of your life to chiang Mai and Thai the Knot. It is truly a spiritual and beautiful option to the boringly ordinary beach or theme weddings that most international resorts now offer.
-
-Your wedding can be a authentic Thai Buddhist wedding or a Christian ceremony preformed by an English speaking Christian Minister, in a tropical garden paradise, the choice is yours.
-
-Thailand weddings (locally known as Canna cards) has been offering weddings to western [more..](/asia/thailand/chiangmai/things_to_do/buddhist_weddings)
-
-type: Other
-
-
-
-[[rate it]](/asia/thailand/chiangmai/things_to_do/buddhist_weddings)
-
-tel: 66 53 201683
-
-url: [thailandweddings.com](http://thailandweddings.com)
-
-address: 61 Wualai road Chiang Mai
-
-### [Cruise in The Ping River with Scorpion Tailed Boat](/asia/thailand/chiangmai/things_to_do/cruise_in_the_ping)
-
-The source of the Ping
-River is in the mountain
-chains in Chiang Dao district of Chiang Mai province.
-
-There were many records written by foreigners referring to journeys along the
-Ping River In the second half of the 19th century, for example, journeys in
-1863 and 1866 by Daniel Mcgilvary, a missionary who had a very important role
-in Lanna Kingdom.
-
-If you want to know more about a brief history of Ping River while you
-are [more..](/asia/thailand/chiangmai/things_to_do/cruise_in_the_ping)
-
-type: Sailing
-
-
-
-[[rate it]](/asia/thailand/chiangmai/things_to_do/cruise_in_the_ping)
-
-tel: 081-9609398
-
-address: 381/1 Jaroenraj Rd.,faham,Muang Chiang Mai
-
-email: info@scorpiontailed.com
-
-### [The traditional Thai massage club](/asia/thailand/chiangmai/things_to_do/the_traditional_th)
-
-There is a club that offers real traditional Thai massage and foot massages and even full spa services while helping the community projects.
-
-It is located in Nong Pa Klang Out of the city center on the Sangapang road just past the super hiway.
-
-It is possible to make reservations tel 053 249 718
-
-type: Spa and Sauna
-
-
-
-[[rate it]](/asia/thailand/chiangmai/things_to_do/the_traditional_th)
-
-tel: 053 241719
-
-address: moo 2 Tabol Nongpakrang Chiang Mai 50000
+The [Yi Peng Lantern Festival](/asia/thailand/chiangmai/yi_peng_festival) in November is worth planning a trip around. At other times, the [Sunday Walking Street](/asia/thailand/chiangmai/sunday_walking_stre) and the [Wualai Walking Street](/asia/thailand/chiangmai/wualai_walking_str) on Saturday evenings offer markets, food, and atmosphere without the commercial edge of the [Night Bazaar](/asia/thailand/chiangmai/nightbazaar).

@@ -1,14 +1,8 @@
 ---
-address: Faisal Hotel GT Road Gujrat
-price: Rs. 200-500
 title: Eating Out
 type: section
 ---
 
-In this Category you can see which type of foods you can eat in the resturants of Gujrat.
+Gujrat's food scene is typical of northern Punjab: grilled meat, hearty daal, and Pakistani-Chinese food are the staples. The GT Road corridor has the highest density of restaurants, catering to the constant flow of bus and truck traffic. For more local eating, the streets around the old bazaar and near the Shah Daula shrine have small dhabas serving chicken karahi, nihari, and chai at very low prices.
 
-### Faisal Hostel & Resturant
-
-Situated on the G.T.Road a Nice Resturant with a Hotel.
-
-type: Indian and Pakistani
+Sajji — a whole roasted lamb or chicken dish that is a speciality of Pakistani Punjab — is available at several restaurants in the city, served with rice and raita. Gujrat also has a strong tradition of doodh-pati (Pakistani milk tea) culture; the chai houses near the bus stand are good for a strong cup and a gossip.

@@ -1,5 +1,0 @@
-asia/thailand/chiangmai
-asia/pakistan/lodhran
-northamerica/unitedstates/california/foster_city
-asia/india/kerala/kochi
-asia/japan/honshu/nikko

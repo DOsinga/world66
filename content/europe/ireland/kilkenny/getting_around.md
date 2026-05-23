@@ -1,17 +1,8 @@
 ---
-title: "Getting Around in Kilkenny"
+title: "Getting Around"
 type: section
 ---
 
-Bus Eireann operates a limited schedule in the County of Kilkenny, and can be accessed via their website.
+Kilkenny city centre is small enough to walk comfortably. The main axis of the Medieval Mile from the castle to St Canice's Cathedral is about a kilometre and takes 15–20 minutes at a stroll. Everything of interest in the centre is within 10 minutes' walk of the castle.
 
-The city also has a double decker bus that offers a hop-on-hop-off ticket that will take you quickly to Kilkenny's many medieval attractions.
-
-**Contributors**
-December 21, 2005
-
-### [Walk](/europe/ireland/kilkenny/getting_around/walk)
-
-You can walk from one side of the city centre to the other in about 20 minutes and from the city centre to the outskirts in about 30 minutes.
-
-There is also a very popular walking tour of the city.
+For outlying sites — Dunmore Cave, Jerpoint Abbey — you will need a car or a taxi. Local taxi firms are readily available from the city centre.

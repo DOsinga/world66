@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
+image: oxford.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Oxford_College,_Oxford,_Ohio_-_DPLA_-_df2de749f24f5b57ce73f5a94b062a64_(page_1).jpg
+image_license: Public domain
 latitude: 39.507
 loc_type: city
 longitude: -84.745

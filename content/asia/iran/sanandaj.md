@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-22'
+image: sanandaj.jpg
+image_attribution: Ninara on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/37583176@N00/12862804125
 latitude: 35.312605
 loc_type: city
 longitude: 46.997864

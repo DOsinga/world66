@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-05'
   location_enrich: '2026-05-22'
+image: paloncha.jpg
+image_attribution: Adityamadhav83
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kothagudem_Thermal_Power_station_at_Paloncha.jpg
 latitude: 17.605
 loc_type: city
 longitude: 80.7137

@@ -4,6 +4,10 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-22'
   poi_cleanup: '2026-04-20'
+image: mannheim.jpg
+image_attribution: Georg Buzin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Sankt_Sebastianskirche_auf_dem_Mannheimer_Marktplatz.jpg
 latitude: 49.4875
 loc_type: city
 longitude: 8.466

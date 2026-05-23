@@ -5,6 +5,7 @@ longitude: 55.3131
 snippet: Family entertainment centre inside Wafi Mall with rides and simulators.
 tags:
 - things_to_do
+- sight
 title: Encounter Zone
 type: poi
 ---

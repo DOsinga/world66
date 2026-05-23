@@ -1,16 +1,8 @@
 ---
-email: sales@aflowersgift.com
-title: Shopping
-type: poi
-url: www.aflowersgift.com
+title: "Shopping"
+type: section
 ---
 
-http://www.aflowersgift.com/dubai-uae.htm
+Dubai is serious about shopping — it hosts the Dubai Shopping Festival every January–February, and the Dubai Mall alone has over 1,200 stores. The city's large malls (Mall of the Emirates, Deira City Centre, Ibn Battuta Mall) are air-conditioned sanctuaries during the hot months and well worth visiting as social spaces even if shopping is not the point.
 
-### [Dubai Flowers Sharjah Gifts Florist Send Gifts Flowers to Dubai Sharjah UAE
-
-Send gifts and flowers to Dubai Sharjah in UAE the same day. Dubai Florist send flowers and gifts to Dubai and Sharjah
-
-http://www.aflowersgift.com/dubai-uae.htm](/asia/unitedarabemirates/dubai/shopping/dubai_flowers_shar)
-
-type: Shopping centers and malls
+The more interesting retail is in the souks: the Gold Souk and Spice Souk in Deira for traditional goods, and the Textile Souk in Bur Dubai for fabrics. Bargaining is expected in the souks; mall prices are fixed. The City Walk and Boxpark developments offer more boutique shopping in open-air settings.

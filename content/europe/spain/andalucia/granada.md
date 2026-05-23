@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
+  location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-21'
 image_attribution: Quintin Soloviev
 latitude: 37.173499
@@ -12,8 +13,10 @@ title: Granada
 type: location
 ---
 
-As the Christian Reconquista advanced, the Moors enclosed the city of Granada in layer upon layer of fortification. The citadel was bitterly contested until 1492 when Boabdil, its last Moorish king, lost the city to the Catholic rulers Fernando and Isabel. Most buildings of that era were destroyed, but the spectacular Alhambra still attracts visitors from all over the world. It is one of the most important monuments in Spain and a UNESCO national heritage site, along with the Albayzin quarter, in the hill just opposite it. The beautiful whitewashed houses and the colourful flowers in the courtyards and on balconies are some of the things worth looking out for, as are the many sights of historic interest. Granada has a very lively flair thanks to the approx. 60.000 students of the local university. 
+Granada is the last great city of Moorish Spain and one of the most intensely historic places in Europe. When Boabdil surrendered the [Alhambra](/europe/spain/andalucia/granada/alhambra) to Ferdinand and Isabella in 1492, he ended eight centuries of Islamic civilization in Spain and gave the Catholic Monarchs a prize that still draws millions of visitors each year. The palace complex on its hill above the city — the Nasrid Palaces, the Generalife gardens, the Alcazaba fortress — is the finest surviving example of Islamic architecture in the western world.
 
-The city is quite near the beach (but I wouldn't try to go there during summer weekends) and during winter you can ski in the Sierra Nevada mountain range, which is 30 kms. away (and uphill) 
+The city below the Alhambra is equally compelling. The [Albaicín](/europe/spain/andalucia/granada/albaicin) neighbourhood across the valley is a UNESCO World Heritage Site in its own right: a tangle of whitewashed lanes, hidden courtyard gardens (carmenes), and North African tea houses that retained its Moorish urban character after the Reconquista. [Sacromonte](/europe/spain/andalucia/granada/sacromonte), further east, is the hillside cave district of Granada's Roma community, where the most authentic flamenco in the city happens in intimate whitewashed caves.
 
-Among the modern attractions, El Parque de las Ciencias, a science interactive museum, is worth visiting. And, at least one day, you should try going to the Zaidin quarter, around the soccer stadium, or to the Chana, for beers and tapas. For 5€, you'll drink 4 beers along with four tapas. BTW, ask for the excellent Alhambra 1925 or Mezquita beers (that will set you back a bit more than 1 €, though).
+The [Cathedral](/europe/spain/andalucia/granada/thecathedral) and the [Royal Chapel](/europe/spain/andalucia/granada/theroyalchapel) — where Ferdinand and Isabella are buried — anchor the city centre, along with the [Alcaicería](/europe/spain/andalucia/granada/alcaiceria) silk market and the 14th-century [Corral del Carbón](/europe/spain/andalucia/granada/corral_del_carbon), the only surviving Moorish caravanserai in Spain. The [Carrera del Darro](/europe/spain/andalucia/granada/carrera_del_darro) riverside walk connects it all.
+
+Granada has a huge student population (60,000 at the university) and a tapas culture that has survived long enough to seem like a birthright: order a drink in most bars and a free plate of food appears. The [Parque de las Ciencias](/europe/spain/andalucia/granada/parque_de_las_ciencias) is a surprisingly good science museum for a rainy day, and the [Sierra Nevada](/europe/spain/andalucia/granada/sierra_nevada) ski resort is 30 km away — making Granada, implausibly, the only city in Europe where you can ski in the morning and be at the Mediterranean in the afternoon.

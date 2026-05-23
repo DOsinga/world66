@@ -6,7 +6,9 @@ address: "Via Gaetano de Castillia 11, 20124 Milan"
 admission: "Free (exterior)"
 latitude: 45.4849
 longitude: 9.1931
-tags: ["3 Days in Milan"]
+tags:
+  - things_to_do
+  - architecture
 snippet: "Plant-covered twin towers redefining urban architecture"
 ---
 

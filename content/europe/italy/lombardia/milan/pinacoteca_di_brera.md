@@ -9,8 +9,8 @@ longitude: 9.188
 opening_hours: Tue–Sun 08:30–19:15; closed Mon
 snippet: Milan's finest art gallery with Italian masters across centuries
 tags:
-- museums
-- art
+  - things_to_do
+  - museum
 title: Pinacoteca di Brera
 type: poi
 ---

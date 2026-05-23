@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-05-22'
+image: bousaada.jpg
+image_attribution: habib kaki on Flickr
+image_license: Public Domain
+image_source: https://www.flickr.com/photos/60179488@N07/31782773158
 latitude: 35.213312
 loc_type: city
 longitude: 4.18097

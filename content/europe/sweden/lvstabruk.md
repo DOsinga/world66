@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
+image: lvstabruk.jpg
+image_source: https://commons.wikimedia.org/wiki/File:L%C3%B6vstabruk,_Stora_Gatan_(main_street)_Sweden.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nemracc
 latitude: 60.4087
 loc_type: city
 longitude: 17.8794

@@ -1,5 +1,0 @@
-northamerica/unitedstates/alaska/petersburg
-asia/unitedarabemirates/dubai
-europe/denmark/horsens
-northamerica/unitedstates/virginia/harrisonburg
-europe/spain/castellon/vinaros

@@ -1,14 +1,14 @@
 ---
-category: Sight
 latitude: 10.4817
 longitude: 104.3222
 snippet: Waterfront seafood stalls famous for Kampot pepper crab
-story: 'The blue swimmer crabs from the Gulf of Thailand are cooked here with Kampot
-  pepper — Cambodia''s prized black pepper grown in the hills nearby. The combination
-  became locally famous long before Kep became a tourist destination, and the market
-  has been running in roughly the same spot since the town''s resort days in the 1960s.
-
-  '
+tags:
+  - things_to_do
+  - eating_out
+  - market
+  - seafood
+story: >
+  The blue swimmer crabs from the Gulf of Thailand are cooked here with Kampot pepper — Cambodia's prized black pepper grown in the hills nearby. The combination became locally famous long before Kep became a tourist destination, and the market has been running in roughly the same spot since the town's resort days in the 1960s.
 title: Kep Crab Market
 type: poi
 ---

@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-22'
+image: sansalvador.jpg
+image_attribution: Sasha India on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/35385832@N05/42383473791
 latitude: 13.6929
 loc_type: city
 longitude: -89.2182

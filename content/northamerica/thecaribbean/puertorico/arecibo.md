@@ -4,11 +4,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
 latitude: 18.4725
-loc_type: city
 longitude: -66.7156
 score: 0.49
 title: Arecibo
 type: location
+loc_type: city
+image: arecibo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arecibo_Lighthouse_in_Arecibo,_Puerto_Rico.jpg
+image_license: CC BY 2.0
+image_attribution: J & E
 ---
 
 Arecibo is the largest municipality by area in Puerto Rico, a coastal city on the island's north shore known for two very different attractions: the [Cueva del Indio](/northamerica/thecaribbean/puertorico/arecibo/cueva_del_indio), a sea cave with pre-Columbian Taíno petroglyphs carved into its walls, and the former [Arecibo Observatory](/northamerica/thecaribbean/puertorico/arecibo/arecibo_observator), once the world's largest single-aperture radio telescope — now a museum after its dish collapsed in 2020.

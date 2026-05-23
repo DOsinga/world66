@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-05-22'
+image: lowicz.jpg
+image_attribution: Chrumps
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Corpus_Christi_in_%C5%81owicz.jpg
 latitude: 52.101224
 loc_type: city
 longitude: 19.947461

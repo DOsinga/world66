@@ -5,7 +5,8 @@ longitude: 130.8418
 phone: +61 8 8941 3152
 snippet: Relaxed Mitchell Street cafe in the Darwin CBD
 tags:
-- things_to_do
+- eating_out
+- restaurant
 title: Oasis Cafe
 type: poi
 ---

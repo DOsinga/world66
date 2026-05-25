@@ -1,5 +1,0 @@
-northamerica/mexico/puertoescondido
-northamerica/unitedstates/newmexico/cloudcroft
-northamerica/unitedstates/oklahoma/warr_acres
-asia/japan/honshu/kobe
-europe/italy/liguria/italianriviera/rivieradellepalme/varazze

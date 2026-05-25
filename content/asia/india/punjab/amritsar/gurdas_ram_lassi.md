@@ -5,7 +5,8 @@ latitude: 31.6255
 longitude: 74.8766
 snippet: Legendary cream-topped lassi since 1954
 tags:
-- food
+- eating_out
+- restaurant
 title: Gurdas Ram Lassi
 type: poi
 ---

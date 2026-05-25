@@ -1,5 +1,0 @@
-northamerica/greenland/ilulissat
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro
-northamerica/costarica/puntarenas
-australiaandpacific/australia/queensland/caloundra
-asia/india/punjab/amritsar

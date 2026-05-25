@@ -1,16 +1,6 @@
 ---
-address: 187B Hai Ba Trung, District 3, Ho Chi Minh City
-email: info@spatropic.com
-phone: (848) 822-8895
-title: Things to do
+title: "Things to Do"
 type: section
-url: www.spatropic.com
 ---
 
-Things To Do....
-
-### Spa Tropic
-
-Until recently, Vietnam had few luxury spas. But 2002 saw the arrival of HCMC's Spa Tropic , housed in a palm-shaded villa perfumed with jasmine and lemongrass. Tasteful gamelan music plays in the treatment rooms, where the skilled staff administers a full range of services, from body polishes and mud masks to reflexology. It has quickly become popular with Japanese visitors and shiatsu-craving expats.
-
-type: Spa and Sauna
+Ho Chi Minh City has one of the most varied and historically rich sets of sights in Southeast Asia. The French colonial quarter in District 1 concentrates the most famous buildings, but the real depth is in the museums (particularly the War Remnants Museum and the Reunification Palace), the temples of Cholon, and the living street life that happens on every block.

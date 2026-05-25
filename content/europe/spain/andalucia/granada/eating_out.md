@@ -3,6 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-Wherever you are in Spain, they’ll probably serve tapas. This is a collection of different plates you can order as a appetizer or just eat with your drinks. Grenada has, next to numerous tapas bars, some very nice restaurants were you can enjoy your meal in the quiet and refreshing surrounding of a garden.
+Granada is famous for its free tapas culture — order a drink at most bars and you get a small plate of food. The quality and generosity of the tapas increases the more you drink, and the tradition is taken seriously. The best streets for tapas-hopping are around Calle Navas near the cathedral, Calle Elvira in the Albaicín area, and the streets off Pedro Antonio de Alarcón.
 
-  Grenadine cuisine was influenced heavily by the Moroccan kitchen. In the Calle Caldereria, for instance, you can find quite some Moroccan teashops and restaurants. The restaurants are scattered all throughout town and if you want to check out a good area for having dinner, check out the area between the Plaza Nueva and Gran Vía.
+For sit-down meals, the Albaicín has a concentration of good restaurants, particularly along Calderería Nueva (North African and Middle Eastern food) and the streets around Plaza Nueva. The Realejo neighbourhood, just south of the cathedral, has several more serious restaurants.
+
+Granadino cuisine borrows from its Moorish past: lamb, honey, almonds, and spices show up in more dishes than you would expect in other parts of Spain. The local pastries — pionono, a small cream-filled roll from the town of Santa Fe — are worth seeking out.

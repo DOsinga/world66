@@ -3,6 +3,6 @@ title: Getting Around
 type: section
 ---
 
-The only public transport in Cannes is the bus system. Bus Azur runs most routes, with buses every 15 minutes. You can buy tickets on the bus or at a station — a single ride costs €1.50, a book of ten €8.30, and a weekly pass €9.20. Bus Azur: +33 04 93 39 18 71.
+The Croisette and Le Suquet are walkable. For the rest of the city, Bus Azur operates the local network: route 8 runs along the Croisette, route 1 connects the station to the Croisette and beyond. Single tickets cost around €1.50; a book of ten is about €8.30. Buses run frequently during the day and until around midnight.
 
-For taxis, try Allo Taxi (+33 04 93 99 90 77). Every major rental car company can be found at Nice International Airport, with weekly rates averaging around €200.
+Taxis are plentiful at ranks outside the station and the Palais des Festivals. For cycling, there are rental options in town; the flat terrain along the seafront is easy riding, though the hills behind require more effort. During the film festival, expect all transport to be much more congested and expensive.

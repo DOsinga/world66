@@ -10,8 +10,9 @@ opening_hours: Castle grounds daily 07:00–19:30; museums Tue–Sun 09:00–17:
   Mon
 snippet: 15th-century fortress with Michelangelo's final unfinished Pietà
 tags:
-- 48 Hours in Milan
-- 3 Days in Milan
+  - things_to_do
+  - sight
+  - museum
 title: Castello Sforzesco
 type: poi
 ---

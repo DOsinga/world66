@@ -301,8 +301,8 @@ def load_page(path):
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
     for md_file in [
-        CONTENT_DIR / path / f"{slug}.md",
         CONTENT_DIR / f"{path}.md",
+        CONTENT_DIR / path / f"{slug}.md",
     ]:
         if md_file.is_file():
             return _load_page_from_file(md_file, path)

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-26'
 latitude: 12.71
 longitude: -61.33
 title: Canouan

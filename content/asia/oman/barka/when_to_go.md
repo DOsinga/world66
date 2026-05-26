@@ -3,10 +3,8 @@ title: When to Go
 type: section
 ---
 
-Barka follows the same seasonal pattern as the rest of Oman's Batinah coast.
+October through March is the best time to visit Barka. The weather is mild, the bullfighting season is on, and the coast is pleasant for walking and beach visits. Winter temperatures are ideal — daytime highs around 25°C, cool evenings.
 
-**October to April** is the comfortable season, with daytime temperatures between 20°C and 30°C and low humidity. This is also the only time when the bullfighting takes place — bouts are held on Friday mornings throughout this period. If the bullfighting is the reason for your visit, this is when to come.
+Summer (June through September) is brutal on the Batinah coast. Temperatures regularly exceed 45°C and the humidity is high. Visiting between June and September is not recommended unless you spend almost all your time in air-conditioning. The bullfighting stops in the summer months as well.
 
-**May to September** is hot, humid, and the main tourist off-season. Temperatures regularly exceed 40°C and the humidity can be punishing on the coast. The fort can still be visited in the early morning, but extended outdoor activity is uncomfortable. Most Western visitors avoid this period.
-
-The fort is open year-round, as is the souq. If visiting Barka as a day trip from Muscat, any day is suitable for the fort; add a Friday morning arrival between October and April to catch the bullfighting.
+Ramadan is a quiet time when some restaurants are closed during the day. It can actually be a pleasant time to visit if you observe local customs — the evenings come alive with iftar celebrations.

@@ -1,17 +1,17 @@
 ---
-address: Trg bana Josipa Jelačića 1, Vinkovci
-latitude: 45.2884
-longitude: 18.8045
-snippet: city museum with 8,000 years of finds, from Neolithic pottery to the Vinkovci Treasure
-story: >
-  In 2012, workers digging a drainage trench near the centre of Vinkovci uncovered a hoard of 24 pieces of late Roman silver plate buried in the 4th or 5th century AD — now known as the Vinkovci Treasure. The hoard includes decorated platters and jugs of exceptional quality, most now held in Zagreb's Archaeological Museum.
-tags:
-- things_to_do
-- museum
 title: Gradski Muzej Vinkovci
 type: poi
+tags:
+  - things_to_do
+  - museum
+latitude: 45.2882
+longitude: 18.8048
+story: >
+  Among the museum's prize exhibits is a small clay pot decorated with a double spiral — the so-called "Vučedol Dove" (a replica; the original is in Zagreb). The Vučedol Culture, centred nearby on the Danube, produced some of the most sophisticated ceramics of the European Copper Age. The dove, probably used in a cult ritual around 2800 BC, has become a symbol of the entire region.
+sources:
+  - https://en.wikipedia.org/wiki/Vinkovci
 ---
 
-The Gradski Muzej (City Museum) houses the main archaeological collection from Cibalae, the Roman city that preceded Vinkovci. Cibalae was a significant place — it was the birthplace of two Roman emperors, Valentinian I and his brother Valens, and in 316 AD the site of a major battle between Constantine I and Licinius. The museum documents this history through ceramics, coins, sculptures, and inscriptions found in and around the town.
+The Gradski Muzej Vinkovci occupies a handsome building near the main square and covers the remarkable depth of human habitation in the Vinkovci area. Neolithic settlement here dates to around 6200 BC, and the museum moves through Bronze Age, Iron Age, Roman, and medieval periods in a coherent, if not lavishly funded, display.
 
-The pre-Roman sections are equally impressive. The Vučedol culture, which flourished in the Slavonian region from roughly 3000 to 2200 BC, is represented by pottery of remarkable geometric refinement. The town is considered one of the core sites of the Vučedol culture, whose distinctive style spread across Central Europe. For the archaeology, the museum is worth a couple of hours; for the rest of the collection covering medieval and modern local history, an hour is sufficient.
+The archaeological collection is the centrepiece. The Roman city of Cibalae stood on this ground, and finds include coins, jewellery, lamps, and everyday objects from a prosperous provincial town. The Vinkovci Treasure — a hoard of late Roman silver plate discovered in 2012 — includes some exceptional pieces. The ethnographic rooms show Slavonian folk costume, embroidery, and household objects from the nineteenth century.

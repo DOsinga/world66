@@ -3,4 +3,6 @@ title: Things to Do
 type: section
 ---
 
-Barka's main sights are its waterfront fort and, on Friday mornings in season, the bullfighting arena where Omani-style bouts take place. The souq is worth a quick walk. As a day trip from Muscat or a stop on the route to Sohar and the UAE border, the fort and bullfighting give the town its distinctive character.
+Barka is compact and its sights are few but genuinely worth seeing. The [fort](/asia/oman/barka/barka_fort) is the centrepiece — well-preserved, photogenically positioned near the water, and less crowded than the more famous forts closer to Muscat. The [bullfighting arena](/asia/oman/barka/barka_bullfighting) draws a local crowd on Friday mornings in season, and the [Barka souq](/asia/oman/barka/barka_souq) is a working market rather than a tourist production.
+
+The coast near Barka has some decent beaches and good snorkelling. The Batinah plain stretching west is flat and agricultural, punctuated by palm groves and date farms — pleasant cycling country if you have a bike.

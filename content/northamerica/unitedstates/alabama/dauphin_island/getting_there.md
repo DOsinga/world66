@@ -3,10 +3,6 @@ title: Getting There
 type: section
 ---
 
-Dauphin Island is at the southern end of Alabama State Route 193, reached by the Gordon Persons Bridge from the mainland. The island is about 37 miles south of Mobile.
+Dauphin Island is reached via the Dauphin Island Bridge (Alabama State Route 193), which connects the island to the mainland south of Mobile. From Mobile, the drive is around 45 minutes. From Gulf Shores, you can take the Mobile Bay Ferry — a passenger and vehicle ferry that crosses from Fort Morgan on the eastern shore to the dock near Fort Gaines at the eastern tip of Dauphin Island. The ferry runs seasonally and takes about 45 minutes; check the schedule in advance as it does not run year-round on all days.
 
-**By Car from Mobile**: Take I-10 west to exit 17 (Theodore), then US-90 west and south on SR-193 across the Dauphin Island Bridge. The drive takes 45 minutes to an hour depending on traffic and bridge conditions.
-
-**By Ferry from Fort Morgan**: A car and passenger ferry runs across Mobile Bay between Fort Morgan and Dauphin Island. The crossing takes about 35 minutes and is a scenic alternative to driving the long way around. Check the Mobile Bay Ferry schedule for current times and fares — the service runs multiple crossings daily but can be affected by weather and demand.
-
-**Nearest airport**: Mobile Regional Airport (MOB) is about 45 miles from the island. New Orleans (MSY) is 2.5 hours by car. There is no public transport to the island; a car is essential.
+The nearest airports are Mobile Regional Airport (about an hour north) and Pensacola International Airport (about two hours east). There is no public bus service to the island; a car or bicycle is essential for getting around.

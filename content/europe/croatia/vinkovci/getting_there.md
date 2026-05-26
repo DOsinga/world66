@@ -3,10 +3,6 @@ title: Getting There
 type: section
 ---
 
-Vinkovci is well connected by rail, sitting on the main Zagreb–Belgrade line that traverses Slavonia.
+Vinkovci is on the main railway line between Zagreb and Belgrade. Direct trains from Zagreb take around three to four hours; from Osijek (the regional capital) the journey is about an hour. The Vinkovci railway station handles a reasonable number of daily connections.
 
-**By Train**: Vinkovci railway station is on the main corridor between Zagreb (approximately 3 hours) and Belgrade (approximately 2.5 hours). Several trains daily in both directions. The station is north of the town centre, a 15-minute walk or short taxi ride.
-
-**By Bus**: Regular bus services connect Vinkovci with Zagreb, Osijek (45 minutes), Vukovar (30 minutes), and other Slavonian towns. The bus station is near the centre.
-
-**By Car**: Vinkovci is 20 km east of the A3 motorway (Zagreb–Belgrade). Take the Županja exit and follow signs east, or use the Vinkovci exit from the E70. Driving from Zagreb takes about 2.5 hours; from Osijek, 30 minutes.
+By road, Vinkovci sits just off the A3 motorway that runs along the Sava valley. From Zagreb the drive is around two and a half hours. Buses connect Vinkovci to Osijek, Vukovar, and Zagreb throughout the day.

@@ -1,18 +1,18 @@
 ---
-address: Barka waterfront, Barka, Oman
-latitude: 23.6666
-longitude: 57.8821
-snippet: well-preserved 17th-century coastal fort on the Batinah plain
-story: >
-  Barka Fort was one of the fortifications used during the Omani Civil War of the late 18th century, when competing factions fought for control of the imamate. The Batinah coast — the flat, date-palm-fringed strip between the Hajar mountains and the Gulf of Oman — was the agricultural and commercial heartland of the country, and control of its forts meant control of the coast. Barka changed hands several times before the Al Bu Said dynasty consolidated power and established the sultanate that still rules Oman today.
-tags:
-- things_to_do
-- sight
-- architecture
 title: Barka Fort
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - museum
+latitude: 23.7056
+longitude: 57.8926
+story: >
+  Barka Fort was the birthplace of Hamad bin Said Al Busaidi, the founder of the Busaidi dynasty that still rules Oman today. In the late eighteenth century, Hamad expelled the Yaruba dynasty and established what became the Al Said sultans. The fort that was his home base is now a museum — but its walls contain the origin story of modern Oman.
+sources:
+  - https://en.wikipedia.org/wiki/Barka,_Oman
 ---
 
-Barka Fort stands on the waterfront of the town, close enough to the Gulf of Oman that you can see and smell the sea from its towers. The fortification dates from the 17th century and is one of the better-preserved examples on the Batinah coast, having been restored by the Omani government as part of the broader programme of fort restoration that has improved dozens of historic fortifications across the country.
+Barka Fort stands close to the waterfront and is one of the best-preserved coastal forts on Oman's Batinah plain. Unlike many Omani fortifications set back from the coast, Barka's fort sits near the sea, which gives it a particularly photogenic setting — the combination of whitewashed towers, date palms, and the glittering Gulf of Oman behind it makes for memorable images.
 
-The fort is compact — you can walk through it in 30 to 40 minutes — with well-maintained courtyard, watchtowers, cannon ports, and interior rooms that give a sense of how such a fortification was lived in and defended. The waterfront setting makes it more photogenic than most of Oman's inland forts. Admission is minimal. Visit in the morning when the light is best and the heat is manageable; the exposed battlements in midday summer sun are harsh.
+The fort has been restored and serves as a small museum. The rooms are furnished to show how they were used in earlier centuries, and the views from the towers across the coastal plain and out to the water are excellent. The site is generally quiet — far fewer visitors than Nizwa or Bahla — which makes for a more relaxed visit. Open most days; entry is inexpensive.

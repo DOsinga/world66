@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-05-23'
 image: alkhatsikhe.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Akhaltsike,_view_from_Rabati.jpg
@@ -10,6 +12,8 @@ title: Akhaltsikhe
 type: location
 ---
 
-Located in the south, almost on the border with Turkey, Akhaltsikhe is dominated by an old fort, the Rabati, that towers over the city. The Rabati can be visited and it's a nice hike up the mountain. You get great views over the city and the surrounding hills. The museum closes at three - or so we were told. The fort houses a mosque and a ruined medressa. There is also a military hospital you are not allowed to visit.
+Akhaltsikhe — the name means "new fortress" in Georgian — is the regional capital of Samtskhe-Javakheti in southwestern Georgia, sitting at about 1,000 metres elevation in a river basin about 50 km from the Turkish border. The town of around 17,000 people has a long and layered history: it was a seat of the Georgian Jaqeli dynasty in the 13th century, fell to the Ottomans in 1579, and was taken by the Russian Empire in 1828. Each period left its mark.
 
-Akhaltsikhe is a good starting point for visiting [Vardzia](/europe/georgia/vardzia) with direct minibuses going that way, the last one leaving at 5.30 pm. There are also links with [Borjomi](/europe/georgia/borjomi) and Khashuri - and from there to [Tbilisi](/europe/georgia/tbilisi).
+The [Rabati fortress](/europe/georgia/alkhatsikhe/rabati_fortress) dominates the city from a ridge above the lower town. Extensively restored in 2011–12, it contains an Orthodox church, a mosque, a madrasa, and the [Samtskhe-Javakheti History Museum](/europe/georgia/alkhatsikhe/samtskhe_javakheti_museum) within a single walled enclosure. The views from the ramparts over the valley are the best in town.
+
+Akhaltsikhe is the most practical base for visiting [Vardzia](/europe/georgia/vardzia), the extraordinary cave monastery complex cut into a volcanic cliff 60 km south, with direct marshrutkas running daily. [Borjomi](/europe/georgia/borjomi) is about an hour north, and [Tbilisi](/europe/georgia/tbilisi) is 3–4 hours by shared minibus.

@@ -1,5 +1,0 @@
-europe/france/centre/limousin/rochebrune
-asia/israel/eilat
-africa/algeria/djanet
-northamerica/unitedstates/california/northcoast/ferndale
-northamerica/unitedstates/wisconsin/ocontoarea

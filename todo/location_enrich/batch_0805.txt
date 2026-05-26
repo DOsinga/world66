@@ -1,5 +1,0 @@
-africa/kenya/northernkenya/maralal
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds
-africa/gambia/banjul
-europe/spain/andalucia/seville
-northamerica/unitedstates/washington/long_beach_peninsula

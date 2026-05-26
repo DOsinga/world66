@@ -1,5 +1,0 @@
-asia/japan/honshu/niigata
-europe/france/midi/languedoc/narbonne
-europe/france/alpes/lyon
-northamerica/unitedstates/virginia/arlington
-europe/bosniaandherzegovina/brcko_district

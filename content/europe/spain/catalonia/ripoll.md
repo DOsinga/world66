@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-10'
 image: ripoll.jpg
+image_attribution: Antonio De Lorenzo
 image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Ripoll_belltower.JPG
 latitude: 42.1982

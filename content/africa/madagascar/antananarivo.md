@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
 image: antananarivo.jpg
 image_attribution: Sascha Grabow
 image_license: CC BY-SA 3.0

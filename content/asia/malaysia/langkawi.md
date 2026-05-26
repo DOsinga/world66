@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-16'
 image: langkawi.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Eagle_square_at_Kuah_Langkawi.jpg

@@ -1,10 +1,12 @@
 ---
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 52.296
 longitude: 5.1614
 snippet: Fortress museum in original 1680s casemates with underground tunnels
+tags:
+  - things_to_do
+  - museum
 title: Vestingmuseum Naarden
 type: poi
 ---

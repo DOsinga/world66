@@ -1,5 +1,0 @@
-northamerica/unitedstates/wisconsin/appleton
-asia/uzbekistan/termez
-europe/netherlands/domburg
-africa/nigeria/ibadan
-asia/indonesia/maluku/ambon

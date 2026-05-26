@@ -5,16 +5,17 @@ latitude: 40.440697
 longitude: -80.002567
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-21'
 score: 0.49
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Pittsburgh
 ---
 
-Pittsburgh is a major city in the southwest corner of Pennsylvania. It was formed in the 1750s at the confluence of 3 rivers (Allegheny and Monongahela which flow into the Ohio). A strategic fort was built there, Fort Pitt, that formed the foundation for the creation of a city around it. This "Golden Triangle" is now the downtown area, marked with skyscrapers, banks, large corporations and hotels. 
+Pittsburgh sits at the confluence of three rivers in the southwest corner of Pennsylvania — the Allegheny and Monongahela flowing together to form the Ohio — and the triangular wedge of downtown between them has been called the Golden Triangle since the 18th century. The city grew from a French and then British fort into one of the great industrial centres of America, producing most of the steel that built the country. It was also, for much of the 20th century, one of its most polluted. Pittsburgh has spent the past forty years remaking itself, and the reinvention has gone better than almost anyone predicted.
 
-There are many suburbs and smaller towns formerly outside Pittsburgh that have been absorbed into city regions like the North and South Side, Mt. Lebanon, Oakland, Squirrel Hill, and Shadyside. Oakland is particularly interesting, because it contains 8 large hospitals and 5 universities, including the University of Pittsburgh, and Carnegie Mellon University, in addition to the Carnegie Library, the Carnegie Museum of Art, and Carnegie Museum of Natural History. 
+What is left is a city of hills, bridges (more than any other city in the world), neighbourhood restaurants, and surprising museums. The [Andy Warhol Museum](/northamerica/unitedstates/pennsylvania/pittsburgh/andy_warhol_museum) is the largest single-artist museum in the United States. The [Carnegie Museums of Art and Natural History](/northamerica/unitedstates/pennsylvania/pittsburgh/carnegie_museums) in Oakland are among the finest in the country. [Phipps Conservatory](/northamerica/unitedstates/pennsylvania/pittsburgh/phipps_conservatory) is a Victorian-era greenhouse that has reinvented itself as a centre for sustainable horticulture. The [Monongahela Incline](/northamerica/unitedstates/pennsylvania/pittsburgh/monongahela_incline), the oldest continuously operating funicular in the USA, takes you up to a hilltop viewpoint from which the whole city and its rivers are visible in a single look.
 
-The coal industry which used to poison the skies is gone, though at least 25-30 different nationalities who toiled there are still present in Pittsburgh, each one more proud of its heritage than the next. They all hold their own festivals, special holidays, etc. Some of them are somewhat localized, but most are scattered and gather mainly for these special occasions. However, it makes the city very colorful and diverse, especially in the summer! 
+Oakland — the neighbourhood east of downtown, centred on Forbes and Fifth avenues — is the city's intellectual heart, home to Carnegie Mellon University, the University of Pittsburgh, and those great museums. The Strip District, just northeast of downtown, is where the city's immigrant heritage is most alive: Polish delis, Italian bakeries, and a fresh fish market in a strip of 19th-century warehouses along the Allegheny. Lawrenceville, further upriver, is the neighbourhood where bars and restaurants have been opening fastest. And [Point State Park](/northamerica/unitedstates/pennsylvania/pittsburgh/point_state_park) at the tip of the Golden Triangle, where a fountain marks the exact confluence of the three rivers, is one of the most satisfying urban open spaces anywhere in the American northeast.
 
-Should you visit Pittsburgh, be sure to stop by Primanti Brothers' for their famous Pittsburgh style sandwich (fries, coleslaw and meat on freshly cut bread), or have a basket of fries in the O in Oakland (both on Forbes Avenue). 
-
-A little further East is Shadyside, marked by nice roomy houses and big lawns, where Walnut Street is a great place to shop, have a coffee and some snacks or to go bar hopping. Should you stay downtown, visit the Strip District with its fresh produce shops and great restaurants. For the freshest seafood, and a huge fish sandwich, don't miss Wholey's Fish Market in the Strip.
+Pittsburgh is worth more than a stop on the way somewhere else. Give it three days and it will surprise you.

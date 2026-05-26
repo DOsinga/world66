@@ -5,7 +5,8 @@ latitude: 52.4578
 longitude: 5.1068
 snippet: Eight-kilometre dyke loop with views across the IJmeer
 tags:
-- things_to_do
+  - things_to_do
+  - sight
 title: Marken-in-the-Round Walk
 type: poi
 ---

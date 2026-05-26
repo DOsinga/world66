@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: -5.411
+loc_type: city
 longitude: -78.756
+score: 0.29
 title: Santa Rosa
 type: location
-score: 0.29
-loc_type: city
 ---
 
 This district capital is a small isolated town, with a wonderful setting. At the back, there are forested mountains, in front you have a view of the big river valleys. The town itself is more charming than you would come to expect. Of course there isn't a whole lot to do, but locals will probably be happy to show you some of the wonders of the district.

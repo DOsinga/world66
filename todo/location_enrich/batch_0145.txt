@@ -1,5 +1,0 @@
-europe/poland/mikolajki
-northamerica/canada/ontario/southampton
-europe/italy/liguria/italianriviera/rivieradellepalme/albenga
-northamerica/unitedstates/florida/keylargo
-europe/spain/andalucia/mijas

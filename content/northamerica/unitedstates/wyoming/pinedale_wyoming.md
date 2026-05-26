@@ -8,6 +8,10 @@ title: Pinedale
 type: location
 score: 0.43
 loc_type: city
+image: pinedale_wyoming.jpg
+image_source: https://commons.wikimedia.org/wiki/File:PinedaleWyoming.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tarabholmes
 ---
 
 Pinedale is a small ranching town on the western slope of the Wind River Range in western Wyoming. It serves as the main gateway to the Wind River Mountains, one of the finest backcountry wilderness areas in the lower 48 — a landscape of granite peaks, glacial lakes, and long trails that sees a fraction of the traffic of nearby [Yellowstone](/northamerica/unitedstates/montana/yellowstone) or [Jackson Hole](/northamerica/unitedstates/wyoming/jacksonhole).

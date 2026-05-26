@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: -17.793383
+loc_type: region
 longitude: 177.978225
 score: 0.67
 title: Viti Levu
 type: location
-loc_type: region
 ---
 
 Viti Levu is the largest island in Fiji and the one most visitors see. The international airport sits on the west coast at [Nadi](/australiaandpacific/fiji/vitilevu/nadi), and the capital [Suva](/australiaandpacific/fiji/vitilevu/suva) is on the wetter east side. In between you get the full range of Fijian landscapes — lush rainforest interior, coral reefs, sugarcane plantations, and the famous [Coral Coast](/australiaandpacific/fiji/vitilevu/coral_coast) strip of beach resorts along the southern shore.

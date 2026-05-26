@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: kritsa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Kritsa.jpg
 latitude: 35.155763
+loc_type: city
 longitude: 25.646143
+score: 0.6
 title: Kritsa
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Kritsa is a mountain village about 12 kilometres southwest of Agios Nikolaos, built in amphitheatre fashion on a jutting promontory. The white-washed houses stacked up the hillside make it one of the most photogenic villages in Crete, and you can see it from a distance as you drive up the gorge.

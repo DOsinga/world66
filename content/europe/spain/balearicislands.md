@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: balearicislands.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:ConsolatdeMar2.jpg
 latitude: 39.613432
+loc_type: region
 longitude: 2.882919
 score: 0.71
 title: Balearic islands
 type: location
-loc_type: region
 ---
 
 The Balearic Islands are an autonomous province of Spain about 100km off the east coast between Barcelona and Valencia and they're a very popular holiday destination for sun-worshippers. The most important islands are [Mallorca](/europe/spain/balearicislands/mallorca), [Menorca](/europe/spain/balearicislands/menorca), [Ibiza](/europe/spain/balearicislands/ibiza) and [Formentera](/europe/spain/balearicislands/formentera).

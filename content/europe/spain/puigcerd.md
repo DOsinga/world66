@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 42.431797
+loc_type: city
 longitude: 1.927869
+score: 0.53
 title: Puigcerdà
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Puigcerdà is the capital of the Cerdanya, a wide Pyrenean valley straddling the border between Catalonia and the French region of Occitanie. Sitting at around 1,200 metres on a small plateau above the valley floor, it commands broad views of the surrounding peaks and farmland. The town is pretty in a low-key way, with a central lake, shaded arcaded streets, and a ruined bell tower — all that remains of its medieval church after French bombardment in 1936.

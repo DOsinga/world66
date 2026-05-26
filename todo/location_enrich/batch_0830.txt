@@ -1,8 +1,0 @@
-africa/ghana/paga
-africa/angola/luanda
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown
-europe/italy/umbria/perugia
-asia/india/uttaranchal/karanprayag
-asia/turkey/istanbul
-europe/norway/oslo
-northamerica/unitedstates/newyorkstate/newyork

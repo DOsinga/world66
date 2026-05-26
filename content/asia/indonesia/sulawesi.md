@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: sulawesi.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Bunaken_Island,_Sulawesi,_2016.jpg
 latitude: -1.007483
+loc_type: region
 longitude: 121.256461
 score: 0.59
 title: Sulawesi
 type: location
-loc_type: region
 ---
 
 Sulawesu has the strangest shape of all Indonesian islands. It consists of four peninsulas. The most visited peninsula is the south western. The funural festivals of Tana Toraja draw big crowds. 

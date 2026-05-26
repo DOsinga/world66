@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-21'
+image: verona.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tramonto_a_Verona.jpg
 latitude: 45.4385
+loc_type: city
 longitude: 10.9916
 score: 0.75
 title: Verona
 type: location
-loc_type: city
 ---
 
 Verona (population 260,000) sits midway between Milan and Venice, on a loop of the Adige river in the Veneto. It is best known as the setting of Shakespeare's Romeo and Juliet — the city trades heavily on this — but the Roman and medieval fabric is the real draw. The Arena, one of the largest and best-preserved Roman amphitheatres in the world, still hosts performances; opera season runs from June to August, with crowds to match. For the other ten months, the old centre is one of the most beautiful in Italy.

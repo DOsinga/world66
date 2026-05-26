@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
 latitude: 58.010853
+loc_type: city
 longitude: 56.231853
+score: 0.34
 title: Perm
 type: location
-score: 0.34
-loc_type: city
 ---
 
 **Perm is the most Eastern city of Europe**, and therefore its province is often referred to as Eurasia. Having a population of 1.2 million, Perm is the 5th largest city in Russia and the second largest in the Urals. The city was formerly called Molotov, after the minister of foreign affairs during Joseph Stalin's ruling. The Perm province, "Permskaya Oblast", or "Prikamye", is around two-third the size of the United Kingdom and covers a great area in the very heart of the Ural Mountains.
@@ -22,3 +23,5 @@ Nowadays, Perm is obviously accessible to anybody. Actually it is the third fast
 Perm is known as Russia's leading city for opera, ballet and drama after St. Petersburg. Arguably Russia's greatest ballerina, Anna Pavlova, was born in Perm. Furthermore the city and its region brought forward a number of famous people: the composer Tchaikovsky, inventor of the radio Popov, the industrial revolutionist Stroganov family and the writer of Dr. Zhivago, Boris Pasternak.
 
 Perm is not the only city in the Ural Mountains, yet it provides the best access to the mountains of all of them. The mountains gain popularity among adventurous tourists every year.
+
+The [Perm State Art Gallery](/europe/russia/perm/perm_art_gallery) holds an extraordinary collection of wooden religious sculpture unique to the region. The [Kama River embankment](/europe/russia/perm/kama_embankment) is the city's main promenade, with wide views over the massive river. The [Perm Opera and Ballet Theatre](/europe/russia/perm/perm_opera_house) stages consistently high-quality performances, and the playful [Walking Bear sculpture](/europe/russia/perm/perm_bear_sculpture) on Komsomolsky Prospekt captures the city's unexpected sense of humour about its own identity. About 100 km east, the [Perm-36 Memorial Museum](/europe/russia/perm/perm_36) preserves the remains of one of the Soviet Union's last Gulag camps.

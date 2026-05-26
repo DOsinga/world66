@@ -2,12 +2,15 @@
 done:
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-21'
+image: anchorage.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Anchorage_Skyline_in_Winter_-_Hotel_Captain_Cook_-_Anchorage_Alaska.jpg
 latitude: 61.2163
+loc_type: city
 longitude: -149.8949
 score: 0.56
 title: Anchorage
 type: location
-loc_type: city
 ---
 
 Anchorage is Alaska's largest city and the gateway to most of the state's wilderness. It sits between Cook Inlet to the west and the Chugach Mountains to the east, with Denali visible on clear days 130 miles to the north. About 40 percent of Alaska's entire population lives here.

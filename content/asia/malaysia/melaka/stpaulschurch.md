@@ -3,7 +3,8 @@ latitude: 2.1942
 longitude: 102.2496
 snippet: Ruined 1521 Portuguese chapel atop St. Paul's Hill
 tags:
-- sights
+- things_to_do
+- landmark
 title: St. Paul's Church
 type: poi
 ---

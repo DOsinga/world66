@@ -1,10 +1,10 @@
 ---
-title: Kalimpong
-type: location
 latitude: 27.065985
+loc_type: city
 longitude: 88.467995
 score: 0.55
-loc_type: city
+title: Kalimpong
+type: location
 ---
 
 *Asia > India > West Bengal > Kalimpong*

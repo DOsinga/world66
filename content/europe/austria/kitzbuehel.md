@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: kitzbuehel.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kitzbuehel03.JPG
 latitude: 47.4464
+loc_type: city
 longitude: 12.3911
+score: 0.69
 title: Kitzbühel
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Kitzbuhel is one of the most famous names in skiing, thanks to the Hahnenkamm downhill — the most feared race on the World Cup circuit, held every January on a course so steep and icy that it has no real equivalent anywhere. During race week the medieval town fills with athletes, celebrities, and fans, and the atmosphere is electric.

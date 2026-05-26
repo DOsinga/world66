@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: evora.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_de_Giraldo,_Evora_(10250693386)_(cropped).jpg
 latitude: 38.5708
+loc_type: city
 longitude: -7.9093
+score: 0.66
 title: Évora
 type: location
-score: 0.66
-loc_type: city
 ---
 
 Évora is the finest city in Portugal's Alentejo region and a UNESCO World Heritage Site — described by UNESCO as "the finest example of a city of the golden age of Portugal after the destruction of Lisbon by the earthquake of 1755." The description is apt. Walking through Évora's walled centre feels like stepping into a museum of Portuguese history, except that it is a living city with a university, good restaurants, and a thriving market.

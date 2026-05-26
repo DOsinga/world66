@@ -1,34 +1,16 @@
 ---
-accessibility: good by car
 address: Zeeweg 53, Overveen
 latitude: 52.398252
 longitude: 4.566213
-phone: 023 - 5263600
-price: from 45 to 90 euro's
+phone: 023-5263600
 tags:
 - eating_out
+- restaurant
 title: De Bokkedoorns
 type: poi
 url: www.bokkedoorns.nl
 ---
 
-Two Michelin-star restaurant - one of the best in the whole of the Netherlands. Not exactly IN Haarlem, but in the vicinity, on the way from Haarlem/Bloemendaal to the coast. The food is excellent indeed, but a thick wallet is recommended, especially if you want to get some wine on the side.
+A two-Michelin-star restaurant in Overveen, just outside Haarlem on the road to the coast. One of the finest restaurants in the Netherlands — the kitchen works with classical French technique and excellent local ingredients. Expensive: allow €90–€150 per person without wine. A reservation well in advance is essential.
 
-**Contributors**
-February 21, 2007
-
-type: First Class
-
-
-
-
-
-PriceOfMenu: from 45 to 90 euro's
-
-address: Zeeweg 53, Overveen
-
-tel: 023 - 5263600
-
-accessibility: good by car
-
-url: [www.bokkedoorns.nl](http://www.bokkedoorns.nl)
+The setting in a converted villa near the Kennemerduinen dunes is as good as the food. If a blow-out dinner is in the plan, this is the place.

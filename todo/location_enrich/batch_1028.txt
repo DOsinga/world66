@@ -1,5 +1,0 @@
-europe/spain/andalucia/granada
-northamerica/canada/manitoba/brandon
-northamerica/unitedstates/california/mountainvieuw
-northamerica/unitedstates/alabama/mobile
-northamerica/unitedstates/texas/plano

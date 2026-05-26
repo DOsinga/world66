@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-20'
+image: geneva.jpg
+image_license: CC BY-SA 2.0 fr
+image_source: https://commons.wikimedia.org/wiki/File:Geneve_2005_001_Ork.ch.jpg
 latitude: 46.2018
+loc_type: city
 longitude: 6.1466
 score: 0.71
 title: Geneva
 type: location
-loc_type: city
 ---
 
 Geneva is a small city with a disproportionate presence in global affairs — home to the United Nations European headquarters, the Red Cross, WHO, CERN, and dozens of other international organisations. It sits at the western end of Lake Geneva (Lac Léman) where the Rhône flows out, with the Alps visible on clear days and the French border within walking distance of the centre.

@@ -1,5 +1,0 @@
-europe/belgium/de_panne__belgian
-europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti
-asia/india/maharashtra/konkan/dapoli
-northamerica/unitedstates/montana/bozeman
-europe/spain/northernspain/lacorua

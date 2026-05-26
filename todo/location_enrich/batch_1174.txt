@@ -1,7 +1,0 @@
-africa/southafrica/phalaborwa
-europe/france/midi/cotedazur/nice
-asia/china/xikou
-europe/italy/calabria/sybaris_marine
-asia/pakistan/azad_kashmir/mirpur
-europe/france/nord/boulogne
-europe/unitedkingdom/scotland/glasgow

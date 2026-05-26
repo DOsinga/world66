@@ -1,5 +1,0 @@
-europe/germany/bavaria/schweinfurt
-asia/india/maharashtra/alibag
-asia/india/tamilnadu/karaikudi
-europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco
-southamerica/uruguay/montevideo

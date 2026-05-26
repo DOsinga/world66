@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: phuket.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Phuket_Aerial.jpg
 latitude: 7.936602
+loc_type: region
 longitude: 98.352929
 score: 0.79
 title: Phuket
 type: location
-loc_type: region
 ---
 
 Phuket (pronounced "Poo-ket") is Thailand's largest island — about the size of Singapore, lying just off the country's western coast and joined to the mainland by a short bridge. It is the country's most heavily developed beach destination, with a reputation for everything from family resorts and yacht charters to the famously raucous nightlife strip of [Patong](/asia/thailand/phuket/patong). The island has been remade by tourism in the past three decades and is wholly unlike the rest of southern Thailand in scale and pace; some travellers love the convenience and variety, others run the other way to the quieter Andaman islands further south.

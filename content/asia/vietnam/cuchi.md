@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 10.974416
+loc_type: city
 longitude: 106.494897
+score: 0.56
 title: Cu Chi
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Cu Chi district, about 40 km northwest of Ho Chi Minh City, is home to one of the most visited historical sites in Vietnam: an extraordinary network of around 200 km of underground tunnels used by resistance fighters during the American War. The tunnels were begun by the Viet Minh in their fight against the French and were later extended by the Viet Cong, who used them to shelter fighters, store supplies, and stage operations while American forces bombed and defoliated the ground above.

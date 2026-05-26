@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: saratoga.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Saratoga_Springs.jpg
 latitude: 43.0833
+loc_type: city
 longitude: -73.7854
+score: 0.57
 title: Saratoga Springs
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Saratoga Springs is a small city in upstate New York best known for its thoroughbred horse racing — the Saratoga Race Course, open each August, is one of the oldest and most prestigious tracks in the country. But the city has far more going on than horse racing, and it rewards a visit year-round.

@@ -1,31 +1,21 @@
 ---
-address: Museo Plaza, 2
-latitude: 43.265617
-longitude: -2.93821
-opening_hours: Tuesday-Sunday from 10:00 a.m.-8:00 p.m., closed Mondays
-phone: +34 94 4396 060
+address: "Plaza del Museo, 9, Seville"
+latitude: 37.3936
+longitude: -6.0016
+opening_hours: "Tue-Sat 9am-9pm, Sun 9am-3pm, closed Mon"
 tags:
-- things_to_do
-- museum
-- sight
-title: Museo de Bellas Artes (Museum of Fine Arts)
+  - things_to_do
+  - museum
+title: Museo de Bellas Artes
 type: poi
-url: www.museobilbao.com
+story: >
+  The museum occupies the former Convento de la Merced Calzada, dissolved during the Napoleonic
+  suppression of religious orders in 1835 and converted to a gallery the following year. Murillo,
+  Seville's most celebrated painter, is buried in the church of Santa Cruz nearby — but his greatest
+  works are here, including The Vision of Fray Lauterio and The Virgin of the Napkin, which he painted
+  specifically for a Sevillian convent and which never left the city.
 ---
 
-The original fine arts museum was founded in 1908 and it was open to the public by 1914. The museum’s past exhibitions include: *Gutierrez Solana, Kiss Kiss Bang Bang: 45 Years of Art and Feminism,* Nicolas Martinez Ortiz, *Poussin and Nature*, and *From the Veduti to the Early Avant-Garde: Master Works from the Carmen Thyssen-Bornemisza Collection*, to name a few.
+The Museum of Fine Arts is one of the most important art museums in Spain and the best place to see the Sevillian Golden Age painters in depth. The collection is housed in a gorgeous 17th-century former monastery with a baroque church at its centre, and the setting alone would justify a visit. The permanent collection is built around Bartolomé Esteban Murillo and Francisco de Zurbarán — both were born near Seville and both are represented here with outstanding works.
 
-**Contributors**
-June 01, 2008
-
-type: Hotspots
-
-
-
-tel: +34 94 4396 060
-
-openingHours: Tuesday-Sunday from 10:00 a.m.-8:00 p.m., closed Mondays
-
-url: [www.museobilbao.com](http://www.museobilbao.com)
-
-address: Museo Plaza, 2
+The Zurbarán rooms, with their dramatic chiaroscuro of white-robed monks against dark backgrounds, are among the most atmospherically hung paintings rooms in Spain. The Murillo works are gentler but no less accomplished: tender religious scenes painted for city churches, many of which have never left Seville. Entry is free for EU citizens; a modest fee for others. The museum is a 15-minute walk north of the cathedral.

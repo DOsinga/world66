@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: termoli.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Termoli_xx.jpg
 latitude: 41.998327
+loc_type: city
 longitude: 14.993937
+score: 0.57
 title: Termoli
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Termoli is a small Adriatic port town on the Molise coast — one of the few places along this stretch of coastline with a proper historic centre. The Borgo Vecchio sits on a promontory surrounded on three sides by the sea, a tight knot of medieval lanes with the Castello Svevo (built by Frederick II in 1247) at its tip and a Romanesque cathedral that blends Norman, Byzantine, and later elements. It gets crowded on summer weekends, especially with Italian families, but out of season it is quiet and atmospheric.

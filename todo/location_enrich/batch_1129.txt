@@ -1,5 +1,0 @@
-northamerica/honduras/corozal_honduras
-europe/italy/lazio/anzio
-asia/myanmar/maymyo
-europe/france/cannes
-africa/senegal/thies

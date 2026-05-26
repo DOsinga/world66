@@ -3,32 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-Dunkeld lies 20 miles north of Perth. You can take the train from Perth to Dunkeld. The Telford Bridge over the Tay
-was built in 1809 in response to a survey of the roads in Scotland. It
-is still quite a landmark. Dunkeld Cathedral
-was first built as a monastery in 730. Much of the town was destroyed
-during the 1689 Battle of Dunkeld. The "little houses" in Cathedral
-Road (pictured alongside) are 18th century merchants' houses which were
-renovated in the 1940s and are now let to local tenants.
+**Dunkeld and the Hermitage** (20 km north, easily reached by train or the A9) make an excellent half-day. Dunkeld Cathedral is a beautiful ruin of a medieval church in a graveyard above the Tay, with a partly intact chapter house. The village of Birnam across the Telford Bridge has a Beatrix Potter Garden celebrating her childhood holidays in the area — she wrote her first picture letter (which became The Tale of Peter Rabbit) here. Birnam Oak, one of the survivors of the ancient Birnam Wood mentioned in Macbeth, still stands nearby.
 
-The Beatrix Potter Garden
-is situated in the neighbouring town of Birnam, to the west of the
-River Tay. Beatrix Potter spent 12 childhood summers holidaying in the
-area. During one holiday she wrote a picture letter to friend which
-developed in "The Tale of Peter Rabbit". The garden celebrates her
-books with bronze sculptures of several characters. Birnam is also
-associated with Shakespeare's Macbeth with the reference to moging
-Birnam Wood to Dunsinane, However the tale of the real Scottish King Macbeth
-has little in common with the protagonist of Shakespeare's play.
+A few miles further north, **the Hermitage** is a woodland walk through tall Douglas firs beside the River Braan, ending at Ossian's Hall — a folly built by the Duke of Atholl in the 18th century that once had mirrored walls reflecting the Black Linn waterfall below. The mirrors are long gone but the waterfall is still spectacular.
 
-The
-Hermitage with beautiful woodland walks is off the A9, just north of the Dunkeld exit. Two
-follies were erected during the creation of the Hermitage by the Duke of
-Atholl in the 18th century, Ossian's Cave the supposed home of
-the 3rd century poet and Ossian's Hall, a grand room
-overlooks the Black Linn Falls in the River Braan. The Hall must have
-been magnificent when it was lined with mirrors to reflect the
-waterfall and had shutters of coloured glass.
+**The Meikleour Beech Hedge** (15 km north on the A93) is one of those Scottish curiosities worth a brief detour. Planted in 1745, it now stands around 30 metres tall and runs for 530 metres — the longest and tallest beech hedge in the world. It takes ten men several weeks to trim it every decade.
 
-**Contributors**
-February 29, 2008
+**Loch Leven** (18 km southwest, near Kinross) is where Mary Queen of Scots was imprisoned in 1567 and made her escape the following year. The castle on the island in the loch is accessible by ferry. The loch is also an excellent birdwatching site, particularly for wildfowl in autumn and winter.
+
+**Crieff and Drummond Castle Gardens** (25 km west). Drummond Castle has one of the finest formal gardens in Scotland — a vast parterre in the shape of a St Andrew's Cross, viewed from a terrace above. Open summer afternoons.

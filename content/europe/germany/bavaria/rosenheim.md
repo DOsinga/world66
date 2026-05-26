@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-14'
 latitude: 47.853927
+loc_type: city
 longitude: 12.127262
 score: 0.51
 title: Rosenheim
 type: location
-loc_type: city
 ---
 
 Rosenheim is a Bavarian market town at the confluence of the Inn and Mangfall rivers, about an hour southeast of [Munich](/europe/germany/bavaria/munich) on the road toward Austria. It is a pleasant, unpretentious place with a handsome old town centre — colourful facades, arcaded streets, and a pedestrian zone around the Max-Josefs-Platz.

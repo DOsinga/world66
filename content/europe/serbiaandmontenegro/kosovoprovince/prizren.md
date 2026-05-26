@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: prizren.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:37_Prizreni_-_Xhamia_e_Sinan_Pash%C3%ABs_-_The_Sinan_Pasha_Moscue.JPG
 latitude: 42.2139
+loc_type: city
 longitude: 20.7397
+score: 0.55
 title: Prizren
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Prizren is one of the most beautiful towns in [Kosovo](/europe/serbiaandmontenegro/kosovoprovince), set on the slopes of the Sharr Mountains where the river Bistrica winds through the old centre. Narrow cobbled streets lined with Ottoman-era houses — balconies spilling over with greenery — climb steadily uphill to the Kalaja, the 11th-century fortress that dominates the skyline and offers sweeping views over the town and the valley beyond.

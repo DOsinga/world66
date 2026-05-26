@@ -1,16 +1,10 @@
 ---
-title: "Eating Out in Zakopane"
+title: "Eating Out"
 type: section
 ---
 
-**Experience the Old School Culinary Delight in Zakopane**
+Zakopane's food has a strong Góral (highlander) character — heavy, warming, and built around smoked meats, sheep's cheese, and hearty soups. The signature local product is **oscypek**, a smoked sheep's-milk cheese formed into a spindle shape and traditionally grilled over charcoal. Sold at stalls along Krupówki Street, it comes hot with cranberry jam and is best eaten standing outside.
 
-**Zakopane restaurants **will change your perception of Eastern European cuisine. Neighboring countries may be a land of boiled potatoes and cabbage, but Zakopane, Poland is a culinary delight. From hearty meals to quick snacks, you will find that every dish pleases the pallet. Zakopane is Poland's winter capital and is also a major tourist destination. There are several restaurants that cater to visitors. Read on to find out about one such restaurant that should not be missed.
+For a sit-down meal, **Karczma Młodych Górali** (Tetmajera 5) is one of the better traditional restaurants, serving żurek (sour rye soup with white sausage and egg), bigos (hunter's stew), and grilled meats in a timber interior with folk decoration. **Stara Chata** serves similar food with a good view of the mountains from its terrace. Neither is cheap by Polish standards, but portions are generous.
 
-**Staro Izba**
-
-Having traveled all the way to Poland, you have to experience true local hospitality. The best place for this is the Staro Izba. Located in the center of the town, you can easily spot this dining haven. You will be transported into the 18th century, as the d&eacute;cor is authentic and replicates a log hut. The Goral musicians add a true Polish touch. You can sit by the window and view the hustle and bustle on the street.
-**
-Food**
-
-The menu boasts of several meat as well as chicken dishes. But the must-try dishes are the lamb kebabs and pork ribs. The kebabs are marinated with a secret spice mixture and grilled with rosemary and garlic. It is served with mint chutney and a creamy potato salad. The ribs are out of this world. Marinated for 24 hours, it is grilled to perfection. The meat falls off the bones and melts in your mouth.
+For lunch on the mountain, the PTTK refuge at Morskie Oko serves good żurek and gołąbki (stuffed cabbage) at prices that are reasonable given the altitude and the walk to get there. Most hikers carry their own food — the trails are long enough that doing so is worth the weight.

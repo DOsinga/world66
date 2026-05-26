@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ceuta.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Ceuta_y_la_pen%C3%ADnsula_de_Almina_desde_el_mirador_de_Isabel_II.jpg
 latitude: 35.8944
+loc_type: city
 longitude: -5.3558
+score: 0.52
 title: Ceuta
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Ceuta is a Spanish autonomous city on the North African coast, sitting on a narrow peninsula across the Strait of Gibraltar from mainland [Spain](/europe/spain). Along with Melilla, it is one of two Spanish territories in Africa — a geographic oddity that gives the city a distinctive character, mixing Spanish, Moroccan, and Mediterranean influences.

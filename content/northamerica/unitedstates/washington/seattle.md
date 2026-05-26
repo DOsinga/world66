@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: seattle.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Seattle_Center_as_night_falls.jpg
 latitude: 47.603832
+loc_type: city
 longitude: -122.330062
 score: 0.64
 title: Seattle
 type: location
-loc_type: city
 ---
 
 'Sleepless in Seattle', it might happen to you as well. Not because of the fact that you couldn't sleep but rather because you did not get any sleep at all. Although Seattle cannot compete (yet) with big cities such as Chicago and San Francisco, it most certainly has a sparkling and exciting nightlife. Bars and clubs in abundance, where you can check out the latest local or internationally renowned bands. The 'Emerald' city is also known for its Opera, theatres and comedy clubs. Maybe Tom Hanks should have spent some more time there.... 

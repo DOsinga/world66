@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: koprivshtitsa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bulgaria_Koprivshtica_10.JPG
 latitude: 42.637532
+loc_type: city
 longitude: 24.357799
+score: 0.53
 title: Koprivshtitsa
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Koprivshtitsa is one of the most beautifully preserved towns in Bulgaria — a village of painted National Revival houses set in a wooded valley in the Sredna Gora mountains, about 100 km east of Sofia. It's on the tourist trail, but lightly enough that the atmosphere remains genuine.

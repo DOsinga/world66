@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: pyrenees.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Central_pyrenees.jpg
 latitude: 42.95
+loc_type: region
 longitude: 0.15
 score: 0.69
 title: Pyrenees
 type: location
-loc_type: region
 ---
 
 The French Pyrenees stretch from the Atlantic to the Mediterranean along the Spanish border, offering some of the most dramatic mountain scenery in Europe. The Hautes-Pyrénées département is the heart of it — high peaks, ski resorts in winter, and superb hiking and cycling in summer. The Pic du Midi de Bigorre, accessible by cable car, has an observatory at its summit and panoramic views across the range.

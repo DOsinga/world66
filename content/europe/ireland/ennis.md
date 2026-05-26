@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ennis.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ennis_01.jpg
 latitude: 52.843515
+loc_type: city
 longitude: -8.983747
+score: 0.54
 title: Ennis
 type: location
-score: 0.54
-loc_type: city
 ---
 
 Ennis is the county town of Clare, a compact and lively place that makes a natural base for exploring the west of Ireland. The Cliffs of Moher, the Burren, and the coast at Lahinch and Kilkee are all within easy driving distance, and the town itself has enough character to be worth more than just a bed for the night.

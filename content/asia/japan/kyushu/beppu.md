@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 33.284575
+loc_type: city
 longitude: 131.491306
+score: 0.66
 title: Beppu
 type: location
-score: 0.66
-loc_type: city
 ---
 
 As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - *onsen*, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, [Oita](/asia/japan/kyushu/oita), the city's purpose is less that of industry and commerce than that of a resort town. Hordes of tourists - primarily domestic - descend on Beppu across the year to take in its plentiful, geothermal riches. As a result the city is usually considered not so much a conventional sightseeing destination as one for relaxation and enjoyment.

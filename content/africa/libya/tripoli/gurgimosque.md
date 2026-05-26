@@ -5,10 +5,13 @@ latitude: 32.899543
 longitude: 13.175453
 snippet: Ornate 1833 mosque with Tripoli's tallest octagonal minaret
 tags:
-- sights
+- things_to_do
+- sight
 - mosque
 title: Gurgi Mosque
 type: poi
 ---
 
-The Gurgi mosque is most visited by tourists. The structure is quite elegant. It was built by Yussef Gurgi in 1833, to a 16-metre square plan. Its nine columns support a roof made up of sixteen small domes. The mosque's minaret, which is the tallest of all Tripoli's mosques, is octagonal in shape and has two balconies.
+The Gurgi Mosque, built in 1833 by Yussef Gurgi — a wealthy merchant from Istanbul — is the most frequently visited mosque in Tripoli's old medina. The structure is built to a 16-metre square plan, with nine columns supporting a roof of sixteen small domes. The tile-work inside is among the finest in the city, brought from Italy and the Maghreb.
+
+The minaret is the tallest of all Tripoli's mosques, octagonal in shape with two balconies. It serves as a useful landmark for navigating the medina's narrow, winding lanes. The mosque sits near the southern gate of the old city, close to the harbour.

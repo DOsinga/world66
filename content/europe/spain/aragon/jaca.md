@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: jaca.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Jaca_a_los_pies_de_la_pe%C3%B1a_Oroel.JPG
 latitude: 42.569288
+loc_type: city
 longitude: -0.549376
+score: 0.61
 title: Jaca
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Jaca is a small Aragonese town at the foot of the Pyrenees, historically the first capital of the Kingdom of Aragon and an important stop on the Camino de Santiago. It is most often reached from Huesca, the provincial capital, by bus or train, but it also provides one of the easiest entrances to Spain over the Pyrenees from Oloron-Sainte-Marie in France via Canfranc.

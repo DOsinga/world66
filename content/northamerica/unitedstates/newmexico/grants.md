@@ -5,12 +5,20 @@ latitude: 35.1473
 longitude: -107.8514
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-21'
 score: 0.3
 loc_type: city
+image: grants.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2926_in_Grants_Cut_New_Mexico.jpg
+image_license: Public domain
+image_attribution: Sclark1000
+sources:
+  - https://en.wikipedia.org/wiki/Grants,_New_Mexico
+  - https://en.wikipedia.org/wiki/El_Malpais_National_Monument
 ---
 
-Grants is the seat of Cibola County, and is located between Mount Taylor and El Malpais, on the east side of the Continental Divide. Grants is near many of the scenic and cultural attractions of northwest New Mexico, such as Acoma Pueblo (the famed Sky City), the Pueblo of Laguna, Chaco Canyon, El Morro, the Zuni Mountains, El Malpais National Monument, and sacred Mount Taylor. 
+Grants is the seat of Cibola County, straddling historic Route 66 between [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque) and [Gallup](/northamerica/unitedstates/newmexico/gallup) on the east side of the Continental Divide. It is a working-class highway town that became the unlikely uranium capital of the world in the 1950s and 1960s — a story told at the [New Mexico Mining Museum](/northamerica/unitedstates/newmexico/grants/new_mexico_mining_museum), the only uranium mining museum anywhere.
 
-The city also straddles historic Route 66, and there are vestiges of past glory evident in the fading neon signs for cafes and motels that once served westbound travelers on the legendary highway. Good New Mexican food can be found in several locally run restaurants like the Monte Carlo, Jaramillo's, El Cafecito, and El Ranchero. Travelers will also find reasonably priced accommodations at chain hotels and funky independent motels still hanging on along Route 66. 
+The main draw is the volcanic landscape surrounding the town. [El Malpais National Monument](/northamerica/unitedstates/newmexico/grants/el_malpais) protects a vast field of black basalt lava with a 17-mile lava tube cave system, natural arches, and trails that link Pueblo sites across the landscape. Southwest of Grants off Highway 53, [Bandera Volcano and Ice Cave](/northamerica/unitedstates/newmexico/grants/bandera_volcano_ice_cave) combine a cinder cone crater with a permanently frozen lava tube — the ice has been accumulating for over 3,000 years.
 
-Local area information can be found at the Northwest New Mexico Visitor Center, just south of Exit 85 off I-40. This center is operated by the Forest Service, the National Park Service, and the Bureau of Land Management; numerous free maps and other travel information are available, and staff can help travelers get out and enjoy the varied attractions of the area's public land.
+[Route 66](/northamerica/unitedstates/newmexico/grants/route_66_grants) runs through downtown as Santa Fe Avenue, lined with fading neon and a handful of original diners. The Monte Carlo, Jaramillo's, El Cafecito, and El Ranchero all serve proper New Mexican food. Nearby Acoma Pueblo — about 15 miles east — is one of the oldest continuously inhabited settlements in North America. El Morro and Zuni Pueblo are half-day trips to the west. The Northwest New Mexico Visitor Center at Exit 85 off I-40 has free maps and staff who know the public lands in detail.

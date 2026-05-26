@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-20'
+image: ajaccio.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Port_Tino_Rossi_-_Ajaccio_(15148706455).jpg
 latitude: 41.9192
+loc_type: city
 longitude: 8.7386
 score: 0.67
 title: Ajaccio
 type: location
-loc_type: city
 ---
 
 Ajaccio is the capital of Corsica and, to most visitors, synonymous with one name: Napoleon Bonaparte was born here in 1769, one year after France acquired the island from Genoa. The connection is everywhere — in the street names, in the museums, in the slightly self-satisfied air of a city that knows it produced someone important. But Ajaccio is more than a Napoleon pilgrimage. It is a genuinely pleasant Mediterranean port town with a handsome old quarter, good seafood, and the spectacular Gulf of Ajaccio at its feet.

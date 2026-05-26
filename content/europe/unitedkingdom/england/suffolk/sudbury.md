@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-17'
 image: sudbury.jpg
 image_attribution: Francois Thomas
 image_license: CC BY-SA 2.0

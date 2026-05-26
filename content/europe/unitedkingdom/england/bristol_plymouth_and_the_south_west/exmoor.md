@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: exmoor.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Malmsmead_Hill,_Exmoor_-_geograph.org.uk_-_80944.jpg
 latitude: 51.133841
+loc_type: region
 longitude: -3.603995
+score: 0.61
 title: Exmoor
 type: location
-score: 0.61
-loc_type: region
 ---
 
 Unlike [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor), which is exclusively in Devon, Exmoor National Park lies mostly in Somerset but partly in Devon.

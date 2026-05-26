@@ -1,5 +1,0 @@
-europe/netherlands/thehague
-europe/serbia/belgrade
-europe/germany/rhinelandpalatinate/mosel/lieser
-asia/northkorea/pyongyang
-europe/unitedkingdom/wales/laugharne

@@ -1,5 +1,0 @@
-asia/thailand/phangngabay
-asia/bahrain/riffa
-asia/india/karnataka/konkan_coast/ullal
-northamerica/canada/ontario/kingston
-northamerica/unitedstates/california/sanmateo

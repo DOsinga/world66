@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
 image: losmochis.jpg
 image_attribution: Francisco Mochis es.wikip
 image_license: Public domain

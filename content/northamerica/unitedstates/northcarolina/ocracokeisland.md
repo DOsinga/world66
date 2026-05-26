@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: ocracokeisland.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Cape_Hatteras_086.JPG
 latitude: 35.127959
+loc_type: city
 longitude: -75.922081
+score: 0.55
 title: Ocracoke Island
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Ocracoke Island is a small island off the coast of North Carolina, accessible only by ferry, and one of the most peaceful places on the East Coast. Long stretches of unspoiled beach, magnificent sunrises and sunsets over the Atlantic, and a pace of life that is genuinely slow make this a retreat in every sense.

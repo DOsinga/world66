@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+image: sanantonio.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:San_Antonio_Botanical_Garden_Overlook_View.jpg
 latitude: 29.4246
+loc_type: city
 longitude: -98.4951
 score: 0.52
 title: San Antonio
 type: location
-loc_type: city
 ---
 
 San Antonio feels unlike any other American city. A remarkable blend of Native American, German, Mexican, Spanish, and Deep South cultures has created something singular. More than half the population is of Hispanic heritage, and the influence of Spain and Mexico is woven into everyday life, from the architecture to the food to the sound of the streets.

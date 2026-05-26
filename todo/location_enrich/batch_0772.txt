@@ -1,5 +1,0 @@
-southamerica/brazil/ponta_grossa
-europe/italy/emiliaromagna/ferrara
-northamerica/unitedstates/texas/austin
-europe/croatia/podstrana
-europe/faroeislands/sandoy/sandur

@@ -5,7 +5,7 @@ latitude: 53.0741
 longitude: 8.8078
 snippet: Italian dining in a converted fire station on the waterfront
 tags:
-- things_to_do
+- eating_out
 - restaurant
 title: Feuerwache 5
 type: poi

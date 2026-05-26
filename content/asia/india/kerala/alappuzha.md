@@ -1,12 +1,15 @@
 ---
-title: Alappuzha
-type: location
-latitude: 9.500342
-longitude: 76.412336
 done:
   location_cleanup: 2026-04-06
-score: 0.62
+image: alappuzha.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg
+latitude: 9.500342
 loc_type: city
+longitude: 76.412336
+score: 0.62
+title: Alappuzha
+type: location
 ---
 
 Alappuzha, also known as Alleppey, is the gateway to Kerala's backwaters and one of the most atmospheric towns in the state. A network of canals, lagoons and lakes thread through the town and surrounding countryside, earning it the nickname "Venice of the East."

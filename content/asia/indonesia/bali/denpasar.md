@@ -1,12 +1,15 @@
 ---
-title: Denpasar
-type: location
-latitude: -8.652497
-longitude: 115.219117
 done:
   location_cleanup: 2026-04-05
-score: 0.72
+image: denpasar.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Bajra_Sandhi_Monument_Denpasar_Bali_Indonesia.jpg
+latitude: -8.652497
 loc_type: city
+longitude: 115.219117
+score: 0.72
+title: Denpasar
+type: location
 ---
 
 Denpasar is the capital of **Bali** and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in — the airport (now officially called Ngurah Rai International) is technically in neighbouring Tuban, and the backpacker district of **Kuta** and the upmarket resorts of **Seminyak**, **Canggu** and **Sanur** are a short drive away. Denpasar itself has none of the rice-paddy charm that people come to Bali for, and few visitors give it more than a couple of hours.

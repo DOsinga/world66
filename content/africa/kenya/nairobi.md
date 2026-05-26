@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
 latitude: -1.302615
+loc_type: city
 longitude: 36.828842
 score: 0.53
 title: Nairobi
 type: location
-loc_type: city
 ---
 
 Nairobi is Kenya's capital and the unofficial capital of East Africa — a mile-high city 145 km south of the equator that has grown from an empty patch of swamp at the end of the Uganda Railway in 1899 to a metropolis of nearly five million people. Most travellers pass through on their way to a safari; those who stay a day or two find a livelier, more multicultural city than the reputation suggests, with excellent restaurants, a serious arts and music scene, and something genuinely unusual — a city where lions and rhinos live inside the municipal boundaries.

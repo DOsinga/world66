@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: ystad.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ystad_stortorget.jpg
 latitude: 55.4295
+loc_type: city
 longitude: 13.8201
+score: 0.53
 title: Ystad
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Ystad is a well-preserved medieval town on the south coast of Sweden, facing Denmark across the narrow strait. Its half-timbered houses and cobblestone streets survive in unusually good condition, and the old centre is pleasant to wander without any particular agenda. The town is best known internationally as the home of Henning Mankell's detective Kurt Wallander — a fact that has spawned a small tourism industry of its own.

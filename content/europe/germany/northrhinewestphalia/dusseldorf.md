@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: dusseldorf.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Rheinkniebr%C3%BCcke_at_night.jpg
 latitude: 51.225402
+loc_type: city
 longitude: 6.776314
 score: 0.55
 title: Dusseldorf
 type: location
-loc_type: city
 ---
 
 Düsseldorf is one of the wealthiest and most stylish cities in Germany — a compact, walkable financial and fashion capital on the Rhine, just 40 km north of Cologne. For centuries it was an Electoral Palatinate residence city; today it is the seat of the state of North Rhine-Westphalia, the industrial heart of western Germany. The wealth shows: on the **Königsallee** (Kö), a kilometre-long boulevard lined with designer shops and running along a tree-shaded canal, and in the newer districts of Medienhafen, where Frank Gehry's twisting towers and other contemporary architecture have replaced the old docks.

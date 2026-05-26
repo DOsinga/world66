@@ -5,12 +5,16 @@ latitude: 40.0581
 longitude: -82.4013
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
 score: 0.28
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Newark,_Ohio
+  - https://hopewellearthworks.org/city/newark/
 ---
 
-Newark is the county seat of Licking County, about 40 miles east of Columbus in central Ohio. It sits close enough to the capital to draw on its amenities — concerts, sports, restaurants — while retaining a small-city character of its own.
+Newark is the county seat of Licking County, about 40 miles east of Columbus in central Ohio. It sits close enough to the capital to draw on its amenities while retaining a small-city character — but the real reason to come here is the [Newark Earthworks](/northamerica/unitedstates/ohio/newark/newark_earthworks), a UNESCO World Heritage Site and the largest set of geometric earthworks in the world.
 
-The town has a few genuine points of interest. The National Heisey Glass Museum chronicles the famous glassware produced here from the late nineteenth century until the factory closed in 1957, and is a worthwhile stop for anyone interested in American decorative arts. Newark is also the birthplace of Jon Hendricks, the jazz vocalist credited with developing the technique of vocalese.
+The earthworks were built by the Hopewell culture roughly 2,000 years ago. The original complex covered four square miles — most was destroyed in the 19th century — but the Great Circle and the Octagon Earthworks survive. The Octagon is aligned to the 18.6-year lunar cycle, a feat of astronomical engineering that required knowledge and planning passed across generations.
 
-For most visitors, Newark works best as a base for exploring the surrounding area, including the extraordinary Newark Earthworks — a vast complex of prehistoric geometric earthworks built by the Hopewell culture some two thousand years ago. The Great Circle Earthwork, maintained as a state park, is one of the largest surviving examples.
+Newark also has the [National Heisey Glass Museum](/northamerica/unitedstates/ohio/newark/heisey_glass_museum), chronicling the famous local glassware produced from 1896 to 1957, and two of the stranger landmarks in Ohio: the [Longaberger Basket Building](/northamerica/unitedstates/ohio/newark/longaberger_basket_building) — a seven-storey office block shaped exactly like a giant woven basket — and the [Dawes Arboretum](/northamerica/unitedstates/ohio/newark/dawes_arboretum), where 1,367 cedar trees spell out the arboretum's name in letters 145 feet tall, readable only from the air. Newark is also the birthplace of Jon Hendricks, the jazz vocalist who developed the art of vocalese.

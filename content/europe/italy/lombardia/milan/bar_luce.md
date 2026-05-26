@@ -7,9 +7,8 @@ longitude: 9.2044
 opening_hours: Mon, Wed–Fri 09:00–21:00; Sat–Sun 09:00–21:00; closed Tue
 snippet: Wes Anderson-designed cafe inside Fondazione Prada
 tags:
-- bars_and_cafes
-- 48 Hours in Milan
-- 3 Days in Milan
+  - bars_and_cafes
+  - cafe
 title: Bar Luce
 type: poi
 ---

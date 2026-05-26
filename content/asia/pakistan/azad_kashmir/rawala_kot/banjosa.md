@@ -1,6 +1,6 @@
 ---
-latitude: 33.798
-longitude: 73.754
+latitude: 33.8106
+longitude: 73.8164
 snippet: Small mountain lake ringed by forest near Rawalakot
 tags:
 - things_to_do

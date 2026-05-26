@@ -1,12 +1,13 @@
 ---
-latitude: 31.197678
-longitude: 121.334483
+latitude: 39.8798
+longitude: 116.4083
 tags:
 - shopping
-title: Hong Qiao
+- market
+title: Hong Qiao Pearl Market
 type: poi
 ---
 
-Located down the street from the Temple of Heaven, this is an indoor market with everything you can imagine - coats, jewelery, scarves, purses, little trinkets, etc. It's a good alternative to shopping at the outdoor street markets when it gets cold outside.
+An indoor market near the Temple of Heaven known for pearls, jewellery, clothing, bags, and general souvenirs across five floors. The pearl section on the upper floors is the main draw — both freshwater and saltwater pearls at prices well below retail, with quality ranging from cheap costume jewellery to genuinely fine strands. Bargaining is essential; know what you want to pay before starting.
 
-type: general
+The lower floors deal in clothing, scarves, and trinkets at typical market prices. A good alternative to outdoor markets when Beijing's winters make outdoor browsing uncomfortable. Accessible by subway (Line 5, Tiantan Dongmen station).

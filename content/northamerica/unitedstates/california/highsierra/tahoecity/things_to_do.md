@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Tahoe City is a gateway to year-round outdoor recreation. In winter, several major ski resorts are within a short drive. Summer opens up hiking on the Tahoe Rim Trail, rafting down the Truckee River, and swimming off the town's small beaches.
+Tahoe City is a year-round outdoor destination: world-class skiing in winter, hiking and water activities in summer. The town itself is small and walkable, with a waterfront Fanny Bridge area, a couple of good museums, and easy access to the Tahoe Rim Trail and nearby state parks. Most visitors come for the outdoors; the town is where you eat, sleep, and recover.

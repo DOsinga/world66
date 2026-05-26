@@ -1,5 +1,0 @@
-africa/egypt/cairo
-africa/mali/kidal
-africa/mauritania/oulata
-southamerica/peru/huanchaco/trujillo
-europe/greece/kefalonia

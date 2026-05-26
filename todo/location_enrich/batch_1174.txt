@@ -1,5 +1,0 @@
-africa/southafrica/phalaborwa
-europe/france/midi/cotedazur/nice
-europe/finland/joensuu/polvijrvi
-asia/china/xikou
-europe/italy/calabria/sybaris_marine

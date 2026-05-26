@@ -1,5 +1,0 @@
-europe/netherlands/volendam
-europe/estonia/kuressaare
-africa/swaziland/ezulwinivalley
-europe/italy/tuscany/elba/marcianamarina
-northamerica/unitedstates/california/losangeles/santamonica

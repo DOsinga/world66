@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
+image: margaritaisland.jpg
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:PlayaElAgua_(Margarita-VEN).jpg
 latitude: 11.0206
+loc_type: region
 longitude: -63.9074
 score: 0.54
 title: Margarita Island
 type: location
-loc_type: region
 ---
 
 Isla Margarita is Venezuela's Caribbean playground -- a mountainous island off the northeast coast where white-sand beaches, duty-free shopping, and cheap flights from the mainland have drawn Venezuelan holidaymakers for decades. Foreign visitors are rarer now, but those who make it find an island with real character beyond the resort strips.

@@ -2,4 +2,4 @@ northamerica/honduras/ocotepeque
 southamerica/colombia/bogota
 europe/france/east/alsace/strasbourg
 europe/croatia/osijek
-northamerica/unitedstates/california/losangeles/manhattenbeach
+northamerica/unitedstates/california/manhattenbeach

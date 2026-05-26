@@ -1,10 +1,13 @@
 ---
-title: Puerto Galera
-type: location
+image: puerto_galera.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Muelle_Port,_Puerto_Galera,_Oriental_Mindoro,_April_2023.jpg
 latitude: 13.50171
+loc_type: city
 longitude: 120.954335
 score: 0.61
-loc_type: city
+title: Puerto Galera
+type: location
 ---
 
 Travel Guide

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-20'
+image: dominica.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Epiphyte_air_plant_DOMINICA_5396.jpg
 latitude: 15.415
+loc_type: region
 longitude: -61.371
 score: 0.64
 title: Dominica
 type: location
-loc_type: region
 ---
 
 Dominica — the Nature Isle of the Caribbean — is the odd one out in the region. There are no white-sand resort beaches, no casino strips, no all-inclusive hotel zones. What there is: a staggering volcanic interior covered in rainforest, 365 rivers (one for every day of the year, locals say), the world's second-largest boiling lake, and some of the finest diving in the Caribbean. If you came looking for a beach holiday, you've landed in the wrong place. If you came to hike, dive, or simply disappear into jungle for a week, you've found it.

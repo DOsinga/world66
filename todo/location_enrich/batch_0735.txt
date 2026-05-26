@@ -1,5 +1,0 @@
-europe/georgia/bakuriani
-northamerica/unitedstates/massachusetts/harwichport
-northamerica/unitedstates/wyoming/sheridan
-southamerica/venezuela/merida
-asia/iran/maku

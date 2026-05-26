@@ -4,6 +4,9 @@ longitude: 74.3587
 snippet: Popular Lahore bakery known for cakes and desserts
 tags:
 - bars_and_cafes
+- cafe
+- gulberg
+address: M.M. Alam Road, Gulberg III, Lahore
 title: Masoom's Cafe
 type: poi
 ---

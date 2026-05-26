@@ -1,5 +1,0 @@
-asia/india/punjab/bathinda
-europe/austria/imst
-asia/india/rajasthan/udaipur
-asia/cambodia/ratanakiriprovince/banlung
-europe/spain/la_mancha/consuegra

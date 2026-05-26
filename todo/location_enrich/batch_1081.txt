@@ -1,5 +1,0 @@
-europe/italy/basilicata/lido_di_metaponto
-asia/myanmar/mawlamyaing
-northamerica/unitedstates/washington/puyallup
-asia/china/beijing
-asia/israel/tzfat

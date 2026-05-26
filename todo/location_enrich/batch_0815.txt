@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/inlandempire/bigbearlake
-asia/india/madhyapradesh/sanchi
-australiaandpacific/australia/queensland/port_douglas
-europe/channelislands/alderney
-australiaandpacific/newzealand/south_island/otago/lawrence_gateway

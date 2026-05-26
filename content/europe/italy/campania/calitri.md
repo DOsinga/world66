@@ -1,12 +1,17 @@
 ---
-title: Calitri
-type: location
-latitude: 40.902119
-longitude: 15.430556
 done:
   location_cleanup: 2026-04-05
-score: 0.39
+  location_enrich: '2026-05-13'
+image: calitri.jpg
+image_attribution: Ale_Dica
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Calitri_Landscape.jpg
+latitude: 40.902119
 loc_type: city
+longitude: 15.430556
+score: 0.39
+title: Calitri
+type: location
 ---
 
 *Europe > Italy > Campania > Calitri*

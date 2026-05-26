@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+image: olbia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Olbia.jpg
 latitude: 40.9233
+loc_type: city
 longitude: 9.5027
 score: 0.64
 title: Olbia
 type: location
-loc_type: city
 ---
 
 Olbia is the main ferry port and commercial gateway to northeastern Sardinia. Ferries from Civitavecchia, Genoa, and Livorno arrive here, and the Olbia Costa Smeralda Airport handles most flights into this part of the island. The town itself is workmanlike rather than beautiful, but it has a genuine character and a pleasant old centre with some worthwhile sights.

@@ -6,8 +6,11 @@ latitude: 50.7814
 longitude: -1.0889
 snippet: D-Day museum with the vast Overlord Embroidery
 tags:
+- things_to_do
 - museum
 - history
+- southsea
+neighbourhood: Southsea
 title: The D-Day Story
 type: poi
 ---

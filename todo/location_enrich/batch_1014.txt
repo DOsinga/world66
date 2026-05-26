@@ -1,5 +1,0 @@
-europe/france/midi/cotedazur/antibes
-europe/romania/brasov
-southamerica/chile/arica
-africa/congobrazzaville/pointenoire
-northamerica/unitedstates/newyorkstate/queensbury

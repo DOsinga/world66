@@ -1,62 +1,12 @@
 ---
-title: "When to Go in Kathmandu"
+title: When to Go
 type: section
 ---
 
-Trekking in Nepal is part of world adventure trekking tourism and Adventure Trekking in Nepal. Natures to renew one’s own self regard, to relive oneself, to realize Nepal beauty, to interact with its generous, friendly peoples are highlights of Trekking in Nepal. Trekking is one long term activity that draws repeat visitors. Nepal is final purpose for trekking offers numerous options walking excursion to meet snowy peaks, their foot hills, valleys but however there is amazing for each who hope Trek in Nepal hill, mountain area. Typical trekking and Hiking in Nepal as unique combination of natural glory, spectacular trekking trips to hard climbing and Trekking in Himalaya for Everest Base Camp Trek is most rewarding way to skill Nepal natural beautification and cultural array is to walking, trekking, width and the height of country. Trekking is important of Travel Nepal for Trekking Tours in Himalaya on description Nepal Tour of large range of ecological features for Nepal Travel Holiday. The country nurtures a variety of flora and scenery. Addition to natural atmosphere is rich Himalayan culture.
-http://www.trekshimalaya.com
-http://www.trekshimalaya.com/trekking_in_nepal.php
-http://www.trekshimalaya.com/teahouse_trek.php
-http://www.trekshimalaya.com/kathmandu_pokhara_tour.php
-http://www.trekshimalaya.com/high_pass_treks.php
-http://www.trekshimalaya.com/luxury_tour.php
-http://www.trekshimalaya.com/helicopter_tour.php
-http://www.trekshimalaya.com/annapurna_region.php
-http://www.trekshimalaya.com/annapurna_base_camp.php
-http://www.trekshimalaya.com/annapurna_panorama.php
-http://www.trekshimalaya.com/ghorepani_trekking.php
-http://www.trekshimalaya.com/jomsom_muktinath_trekking.php
-http://www.trekshimalaya.com/annapurna_circuit_trekking.php
-http://www.trekshimalaya.com/tilicho_lake_mesokunto_pass.php
-http://www.trekshimalaya.com/upper_mustang_trekking.php
-http://www.trekshimalaya.com/everest_region.php
-http://www.trekshimalaya.com/everest_base_camp.php
-http://www.trekshimalaya.com/everest_panoramic_trekking.php
-http://www.trekshimalaya.com/gokyo_trekking.php
-http://www.trekshimalaya.com/gokyo_trek_everest_base_camp.php
-http://www.trekshimalaya.com/renjolatrek.php
-http://www.trekshimalaya.com/everest_kongmala_trek.php
-http://www.trekshimalaya.com/three_pass_trekking.php
-http://www.trekshimalaya.com/everest_trekking_fr_jiri.php
-http://www.trekshimalaya.com/langtang_region.php
-http://www.trekshimalaya.com/langtang_trekking.php
-http://www.trekshimalaya.com/gosaikunda_trekking.php
-http://www.trekshimalaya.com/helambhu_trekking.php
-http://www.trekshimalaya.com/tamang_heritage.php
-http://www.trekshimalaya.com/chisapani_nagarkot_dhulikhel_trekking.php
-http://www.trekshimalaya.com/cultural_treks.php
-http://www.trekshimalaya.com/langtang_gosaikunda_trekking.php
-http://www.trekshimalaya.com/ganjala_trekking.php
-http://www.trekshimalaya.com/peak_climbing_in_nepal.php
-http://www.trekshimalaya.com/peak_climbing.php
-http://www.trekshimalaya.com/high_pass_treks.php
-http://www.trekshimalaya.com/nepal_for_all_season.php
-http://www.trekshimalaya.com/package_tour.php
-http://www.trekshimalaya.com/island_peak.php
-http://www.trekshimalaya.com/mera_peak.php
-http://www.trekshimalaya.com/pisang_peak.php
-http://www.adventurestrekking.com
-http://www.hikingsinnepal.blogspot.com
-http://www.adventurestrekking.com/mustang-trekking.php
-http://www.adventurestrekking.com/upper-mustang-trekking.php
-http://www.adventurestrekking.com/lower-mustang-trekking.php
-http://www.adventurestrekking.com/package-tour.php
-http://www.adventurestrekking.com/annapurna-trekking.php
-http://www.adventurestrekking.com/annapurna-base-camp-trekking.php
-http://www.hikingsinnepal.blogspot.com
-http://www.adventurestrekking.com/everest-trekking.php
-http://www.adventurestrekking.com/gokyo-trek.php
-http://www.adventurestrekking.com/langtang-trekking.php
-http://www.adventurestrekking.com/tea-house-trek.php
-http://www.adventurestrekking.com/three-pass-trek.php
-http://www.hikingsinnepal.blogspot.com
+October and November are the best months — the monsoon has cleared, the air is relatively clean, and the Himalayan views from the valley rim are at their sharpest. The post-monsoon sky has a quality of light unique to the season. This is also peak trekking season, so the city fills with trekkers and prices rise accordingly.
+
+March to May (spring) is the second best period: flowering rhododendrons on the valley slopes, reasonable weather, and the other peak trekking window. June to September is the monsoon, bringing heavy rain, poor visibility, and sticky heat; sightseeing is still possible but conditions are not ideal.
+
+December to February is cold — temperatures can drop to near freezing at night — but clear and much quieter than peak season. Swayambhunath and the mountain viewpoints are at their most dramatic in sharp winter light.
+
+Major festivals worth timing a visit around: **Dashain** (September–October, Nepal's most important festival), **Tihar** (October–November, festival of lights), **Maha Shivaratri** (February–March, hundreds of thousands of pilgrims at Pashupatinath), and **Indra Jatra** (August–September, the Kumari chariot procession in Durbar Square).

@@ -5,23 +5,12 @@ longitude: -75.16701
 phone: (215) 567-1000
 tags:
 - eating_out
+- restaurant
 title: Le Bec Fin
 type: poi
-url: www.lebecfin.com
+snippet: "Philadelphia's legendary French fine-dining institution, a Walnut Street landmark since 1970"
 ---
 
-Le Bec-Fin, Philadelphia’s premiere fine dining restaurant, has been providing memorable dining experiences since 1970. Chef and owner Georges Perrier created a restaurant that has become a Philadelphia landmark and an international gastronomical destination.
+Le Bec-Fin, Philadelphia's premiere fine dining restaurant, provided memorable dining experiences from 1970 until its closure in 2012. Chef and owner Georges Perrier created a restaurant that became a Philadelphia landmark and an international gastronomic destination — the sort of place that defined what fine dining meant in an American city for four decades.
 
-Le Bec-Fin has received the highest accolades in the hospitality industry. The restaurant has been a long-standing recipient of both the coveted Mobil Five Star and AAA’s Five Diamond awards.
-
-type: French
-
-
-
-
-
-tel: (215) 567-1000
-
-url: [www.lebecfin.com](http://www.lebecfin.com)
-
-address: 1523 Walnut Street
+The restaurant was a long-standing recipient of both the coveted Mobil Five Star and AAA's Five Diamond awards, and trained a generation of Philadelphia chefs who went on to shape the city's food scene. While Le Bec-Fin itself is no longer operating, its legacy endures in the many restaurants whose chefs learned their craft in its kitchen.

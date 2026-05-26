@@ -1,5 +1,5 @@
 asia/iran/ardabil
-africa/nigeria/yola/mubi
+africa/nigeria/mubi
 africa/algeria/adrar
 europe/france/centre/loirevalley/tours
 africa/kenya/centralhighlands/meru

@@ -3,7 +3,7 @@ title: "The Exchange"
 type: poi
 snippet: Nightly live jazz and blues with no cover charge
 tags:
-  - nightlife
+  - bars_and_cafes
   - bar
 latitude: 42.7335
 longitude: -84.5467

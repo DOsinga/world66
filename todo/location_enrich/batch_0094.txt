@@ -1,5 +1,0 @@
-africa/mauritius/portlouis
-europe/sweden/tanum
-asia/thailand/phuket/kata
-europe/germany/badenwrttemberg/pforzheim
-australiaandpacific/australia/tasmania/eastcoast/st_helens

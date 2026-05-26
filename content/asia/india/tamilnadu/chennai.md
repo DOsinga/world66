@@ -1,13 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-14'
   poi_cleanup: '2026-04-20'
+image: chennai.jpg
+image_attribution: Arian Zwegers, derivative work MrPanyGoff
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chennai_train_station.jpg
 latitude: 13.083694
+loc_type: city
 longitude: 80.270186
 score: 0.48
 title: Chennai
 type: location
-loc_type: city
 ---
 
 Formerly known as Madras, Chennai is the capital of 

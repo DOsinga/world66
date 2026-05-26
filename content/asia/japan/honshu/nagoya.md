@@ -3,11 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: 35.185105
+loc_type: city
 longitude: 136.899844
 score: 0.64
 title: Nagoya
 type: location
-loc_type: city
 ---
 
 Nagoya sits at the heart of central Honshu, about 90 minutes by shinkansen southwest of Tokyo and an hour north of Kyoto. It's Japan's fourth-largest city, heavily industrial (Toyota's headquarters are just outside), and usually skipped by visitors racing between the big hitters. That's a mistake: Nagoya has enough to fill two or three good days, especially for travellers with a serious interest in Japanese history.

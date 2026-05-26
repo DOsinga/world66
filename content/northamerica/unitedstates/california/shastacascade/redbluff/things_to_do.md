@@ -3,12 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Red Bluff's main attractions are modest but genuine. The historic downtown has a handful of antique shops worth browsing, and the riverside parks are pleasant for a walk or picnic.
-
-### William B. Ide Adobe State Historic Park
-
-Named after the first and only president of the short-lived California Republic, this park preserves an 1846 pioneer adobe on the banks of the Sacramento River. A small but interesting piece of California history.
-
-### Kelly-Griggs House Museum
-
-311 Washington St, tel. 530-527-1129. A beautifully restored Victorian mansion housing historical photographs and Native American artifacts. Closed Monday and Tuesday; free admission.
+Red Bluff's appeal is modest but genuine — a Victorian downtown, the Sacramento River flowing through, and easy access to the wide-open landscapes of the southern Cascade Range. Most visitors stop for a half-day on the way north to Lassen or Shasta, but the riverside parks and the historic streets reward a slower wander.

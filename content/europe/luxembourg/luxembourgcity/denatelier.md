@@ -9,6 +9,9 @@ phone: +352-495466
 snippet: Luxembourg's main live music venue near the train station
 tags:
 - bars_and_cafes
+- gare
+- bar
+neighbourhood: Gare
 title: Den Atelier
 type: poi
 ---

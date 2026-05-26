@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: autun.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Autun_-_Vue_depuis_le_temple_de_Janus.jpg
 latitude: 46.951
+loc_type: city
 longitude: 4.2989
+score: 0.52
 title: Autun
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Autun was founded by Emperor Augustus as Augustodunum and was one of the most important cities in Roman Gaul. Two thousand years later, the Roman legacy is still the first thing you notice: the Porte Saint-Andre and Porte d'Arroux, two monumental Roman gates, still stand at the edges of the old town, and the remains of a vast Roman theatre -- one of the largest in the Western Roman Empire -- sit on a hillside above the city.

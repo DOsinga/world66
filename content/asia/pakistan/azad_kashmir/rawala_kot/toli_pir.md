@@ -1,8 +1,8 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 33.92
-longitude: 73.68
+latitude: 33.8830
+longitude: 73.8245
 snippet: Mountain summit with panoramic views near Rawalakot
 tags:
 - things_to_do

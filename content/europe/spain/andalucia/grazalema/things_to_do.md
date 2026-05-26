@@ -1,10 +1,8 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-As said on the main page, this is an area with splendid walks - but a permit should be obtained from the tourist office - and some walks may be out of bounds in the vultures' nesting season.
+Grazalema is a base for walking in the Sierra de Grazalema Natural Park — one of the wildest, wettest, and least-visited corners of Andalucía. Many of the best trails require a permit from the park office; some are closed in spring during the griffon vulture nesting season.
 
-Salto de Cabrero
-
-The Salto de Cabrero is reached by crossing the fence left of the road above the village shortly after the road to Zahara has left that to Benamahoma [on the latter road]. It consists of two ridges of rock outcrop and looks very spectacular, particularly from the road as the light falls. This is a lovely walk but time does not permit much variety in the return route.
+The village itself is a maze of whitewashed lanes, baroque churches, and balconies of geraniums. Allow a morning to walk it. The market square (Plaza de España) and the early-Renaissance church of Nuestra Señora de la Aurora are the focal points.

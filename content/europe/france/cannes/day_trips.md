@@ -1,10 +1,11 @@
 ---
 title: Day Trips
 type: section
+linked_locations:
+  - europe/france/nice
+  - europe/france/sainttropez
 ---
 
-Cannes is so close to so many cities along the French Riviera that the only problem is deciding where to go. Cannes is 47 miles from [Saint-Tropez](/europe/france/sainttropez), 5 miles from La Napoule-Plage, 16 miles from [Nice](/europe/france/nice), 5 miles from Mougins, 11 miles from Grasse, and 4 miles from Golfe-Juan and Vallauris.
+Cannes is ideally positioned for day trips along the Côte d'Azur. [Nice](/europe/france/nice) is 30 minutes by train and worth a full day for its old town, market, and the Matisse and Chagall museums. Grasse, 18 km inland, is the perfume capital of the world — the Fragonard and Molinard houses offer factory tours. Mougins, 6 km north, is a medieval village with an exceptional concentration of good restaurants. [Saint-Tropez](/europe/france/sainttropez) is about 75 km along the coast, best reached by boat or early morning car.
 
-### Île Sainte-Marguerite and Musée de la Mer
-
-Home of the Musée de la Mer, Île Sainte-Marguerite has plenty of sites to explore and numerous recreational opportunities. The museum highlights artifacts, paintings, mosaics, and ceramics from Arab, Ligurian, and Roman civilisations. As soon as you leave the dock, you can begin a walking tour of the island — signs lead the way. Ferries depart from the Vieux Port. Open April–September Tuesday–Sunday 10:30–17:45, October–March Tuesday–Sunday 10:30–16:45. Fort Royal. Tel: +33 04 93 38 55 26.
+The Lérins Islands (see [Île Sainte-Marguerite](/europe/france/cannes/ile_sainte_marguerite) and [Île Saint-Honorat](/europe/france/cannes/ile_saint_honorat)) are the most obvious nearby excursion — ferries leave from the Vieux Port and the crossing takes 15 minutes.

@@ -1,5 +1,0 @@
-europe/greece/paros
-europe/estonia/hiiumaa/krdla
-africa/egypt/dokki
-europe/italy/sardinia/lamaddelena
-europe/switzerland/thun

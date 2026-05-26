@@ -1,5 +1,0 @@
-southamerica/peru/huancayo
-africa/senegal/ziguinchor
-asia/malaysia/kotabharu
-northamerica/unitedstates/colorado/cortez
-australiaandpacific/niue/alofi

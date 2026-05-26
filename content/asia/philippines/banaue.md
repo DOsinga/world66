@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: banaue.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Town_of_Banaue.jpg
 latitude: 16.9118
+loc_type: city
 longitude: 121.0614
+score: 0.62
 title: Banaue
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Banaue is a small mountain town in Ifugao province, high in the Cordillera of northern Luzon. It is the gateway to the Banaue Rice Terraces — vast stairways carved into the mountainsides by the Ifugao people over two thousand years ago, and now a UNESCO World Heritage Site. The terraces are often called the "eighth wonder of the world," and while that is tourist-board talk, the sight of an entire mountain slope sculpted into green steps is genuinely extraordinary.

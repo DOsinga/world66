@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: quepos.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Alto-quepos-tarrazu-costa-rica.jpg
 latitude: 9.4311
+loc_type: city
 longitude: -84.1616
+score: 0.62
 title: Quepos
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Quepos is a small fishing town on Costa Rica's central Pacific coast, best known as the gateway to Manuel Antonio National Park. The town itself has a scruffy, likeable energy — a handful of funky bars and local restaurants line the main streets downtown, and the fishing fleet still operates from the harbour.

@@ -3,7 +3,6 @@ title: "Getting Around in Alexandria"
 type: section
 ---
 
-If you are tired of standing still in Alexandria’s traffic and want a new and novel way to get around Alexandria and environs, the Potomac Riverboat Company offers a bold and relaxing alternative to all that frustration. Their water taxis will ferry visitors up and down the Potomac River where they can see all of Washington, D. C. monuments, Georgetown, as well as George Washington’s wonderful plantation Mount Vernon and the National Harbor. The water taxis are more than convenient, leaving from historic Old Town in Alexandria, where cars can be parked and forgotten.
+Old Town Alexandria is very walkable — most of the historic district can be covered on foot in an afternoon. The King Street Trolley runs a free shuttle between the Metro station and the waterfront on King Street, which is useful for the first or last stretch.
 
-**Contributors**
-May 27, 2009
+The Potomac Riverboat Company operates water taxis from the Old Town waterfront to Georgetown, the National Mall, and National Harbor — a practical and enjoyable alternative to driving or Metro for reaching Washington. Boats run in season from King Street Pier. For Mount Vernon, the Mount Vernon Trail follows the Potomac south on a dedicated bike and pedestrian path the entire 15 miles from Alexandria to the estate.

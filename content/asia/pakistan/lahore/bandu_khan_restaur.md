@@ -5,6 +5,7 @@ longitude: 74.2889
 snippet: "Long-established Lahore spot for traditional BBQ and karahi"
 tags:
 - eating_out
+- restaurant
 title: Bandu Khan Restaurant
 type: poi
 ---

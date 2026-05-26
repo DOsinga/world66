@@ -1,5 +1,0 @@
-europe/italy/puglia/toritto
-asia/vietnam/hue/aroundhue/langcobeach
-northamerica/unitedstates/newyorkstate/ithaca_tompkins_c
-asia/cambodia/krongkohkong
-northamerica/unitedstates/kansas/winfield

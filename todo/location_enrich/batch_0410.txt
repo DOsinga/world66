@@ -1,5 +1,0 @@
-northamerica/thecaribbean/grenada/carriacou/windward
-asia/jordan/karak
-africa/congokinshasa/bukavu
-europe/france/east/champagne/clairvaux
-asia/turkey/eskisehir

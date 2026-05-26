@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: yokohama.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Minato_Mirai_In_Blue.jpg
 latitude: 35.4503
+loc_type: city
 longitude: 139.6344
+score: 0.72
 title: Yokohama
 type: location
-score: 0.72
-loc_type: city
 ---
 
 Only 32 kilometres from [Tokyo](/asia/japan/tokyo), Yokohama is Japan's second-largest city and one of its most cosmopolitan. It was here that Commodore Matthew Perry landed with his Black Ships in 1854 to force Japan to open to foreign trade, and the city has had an international character ever since — growing rapidly into one of Asia's major ports.

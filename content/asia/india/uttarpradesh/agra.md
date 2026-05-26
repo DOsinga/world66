@@ -2,22 +2,21 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-15'
+image: agra.jpg
+image_attribution: Yann
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg
 latitude: 27.175255
+loc_type: city
 longitude: 78.009816
 score: 0.72
 title: Agra
 type: location
-loc_type: city
 ---
 
-The reason why people come to Agra is very obvious: to lay their eyes on the impressive Taj Mahal.
+People come to Agra for one thing: the [Taj Mahal](/asia/india/uttarpradesh/agra/tajmahal). The mausoleum that Shah Jahan built for his wife Mumtaz Mahal — twenty years of work, twenty thousand craftsmen, a building of white marble that seems to change colour with the hour — is the single most famous monument in India and one of the few that lives up to every expectation. See it once at dawn, once at sunset, and you will not regret coming.
 
+But the city has much more than the Taj. The vast red sandstone [Agra Fort](/asia/india/uttarpradesh/agra/agrafort) sits on the river two kilometres upstream — it was here that Shah Jahan was eventually imprisoned by his son Aurangzeb and where, according to tradition, he spent his last years staring across the Yamuna at the tomb of his wife. The exquisite small marble tomb of [I'timad-ud-Daulah](/asia/india/uttarpradesh/agra/itimad_ud_daulah) on the opposite bank is sometimes called the "Baby Taj" and is in many ways more delicate than its famous neighbour. Further out, [Fatehpur Sikri](/asia/india/uttarpradesh/agra/fatehpur_sikri), the perfectly preserved red sandstone capital that Akbar built and then abandoned, is one of the great sights of India.
 
- The Taj Mahal is a mausoleum for the wife of Shah Jahan and it took over twenty years to build it. The story even goes that workers’ hands were cut off when the Taj was finished in order to make it impossible for them to construct a second Taj. The entrance to the monument is already impressive and the building itself will become even more impressive when you’re walking towards it. First, it’s the symmetry, then it’s the reflection in the pond, after that the way the sun shines on it and then the actual threading of the steps. The white marble is ornamented with precious, semi-precious stones and texts. From the Taj, you can have an overview of the river.
-
-
- The Agra Fort accross the river is also a very impressive structure. It was built by the same Moghul rulers who built the Taj. Some people say that the Shaj Jahan's son, involved in some serious trouble with his father, took his father away from the Taj and locked him in teh octagonal tower with a view on the Taj. In this way, he could at least prevent his father from becoming even more famous. Sjah Jahan had the intention of building a second Taj in black marble just on the other site of the river in order to construct the perfect symmetrical picture (and his own mausoleum of course).
- 
-
-
- Most people visit Agra on a daytrip from [Delhi](/asia/india/delhi). But the city is well worth an overnight stay. If you are traveling from Delhi to [Varanasi](/asia/india/uttarpradesh/varanasi) it is an ideal place to spend the night.
+Agra itself is a busy, traffic-jammed Uttar Pradesh city of two million people. The historic core has decent restaurants, marble inlay workshops in the Kinari Bazaar area, and a few quietly remarkable smaller monuments — the [Chini ka Rauza](/asia/india/uttarpradesh/agra/chini_ka_rauza), the [Mehtab Bagh](/asia/india/uttarpradesh/agra/mehtab_bagh) viewpoint across the river, and [Akbar's Tomb](/asia/india/uttarpradesh/agra/akbars_tomb) at Sikandra. Most travellers visit on a day trip from [Delhi](/asia/india/delhi) on the morning Gatimaan or Shatabdi Express, but the city rewards an overnight stay: the Taj at sunrise is unforgettable, and the second day frees you to see Fatehpur Sikri. From here, the road runs east to [Varanasi](/asia/india/uttarpradesh/varanasi) and south-west to [Jaipur](/asia/india/rajasthan/jaipur) on the standard Golden Triangle tour.

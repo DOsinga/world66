@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: unionisland.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Unionisland.jpg
 latitude: 12.5988
+loc_type: city
 longitude: -61.4308
+score: 0.59
 title: Union Island
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Union Island is a small, mountainous island at the southern end of the Grenadines chain, part of Saint Vincent and the Grenadines. It serves as the jumping-off point for the Tobago Cays, one of the Caribbean's most spectacular sailing and snorkelling destinations, and for the private island of Palm Island nearby.

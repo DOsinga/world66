@@ -3,6 +3,12 @@ title: "Eating Out"
 type: section
 ---
 
+Edmonton's restaurant scene has grown considerably since the city emerged as a serious food destination in the 2010s. [Old Strathcona](/northamerica/canada/alberta/edmonton/old_strathcona) along Whyte Avenue has the highest concentration of independent restaurants; the downtown core around Jasper Avenue is denser for business dining.
+
+**[Hardware Grill](/northamerica/canada/alberta/edmonton/hardwaregrill)** (9698 Jasper Avenue) remains one of the city's most acclaimed spots — seasonally inspired Canadian cuisine in the heritage Goodridge Block building, with Alberta game, beef, and salmon as centrepieces. **[De Vine's](/northamerica/canada/alberta/edmonton/devines)** does French-Canadian fine dining in a converted hilltop house above the river valley. **[Characters](/northamerica/canada/alberta/edmonton/characters)** at 10257 105 Street offers upscale seasonal cooking in a handsome brick-and-hardwood space.
+
+For something less formal, the Whyte Avenue strip in Old Strathcona has everything from Vietnamese pho houses to Argentine grills. Alberta beef is the default quality benchmark at steakhouses across the city and it is excellent — the province produces some of the best in North America. Vietnamese and Chinese restaurants cluster in the Chinatown district on 97 Street.
+
 Edmonton features a wide variety of restaurants for you to sample and enjoy.
 
 **Restaurants**

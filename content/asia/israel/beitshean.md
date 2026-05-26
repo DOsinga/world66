@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: beitshean.jpg
+image_attribution: עומר מרקובסקי
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beit_Shean_11.jpg
 latitude: 32.4968
+loc_type: city
 longitude: 35.4973
+score: 0.52
 title: Beit Shean
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Beit Shean has been continuously inhabited for seven thousand years, which makes most ancient sites look like newcomers. The tel — the mound of accumulated cities — rises beside the Roman lower city, and together they form one of the most impressive archaeological sites in Israel.

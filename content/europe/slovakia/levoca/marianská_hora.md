@@ -6,7 +6,7 @@ longitude: 20.583
 snippet: Pilgrimage hill with basilica and views over Spiš countryside
 tags:
 - things_to_do
-- sights
+- sight
 title: Mariánska Hora
 type: poi
 ---

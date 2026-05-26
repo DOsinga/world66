@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 53.120352
+loc_type: region
 longitude: -9.705632
 score: 0.63
 title: Aran Islands
 type: location
-loc_type: region
 ---
 
 The Aran Islands — *Oileáin Árann* — are three low, grey, windswept islands sitting in the mouth of Galway Bay, thirty kilometres out from the Connemara coast. They are famous for three things: the Iron Age cliff fort of **Dún Aonghasa**, the traditional hand-knitted **Aran sweaters**, and for being one of the last strongholds of the **Irish language**. All three are worth the crossing.

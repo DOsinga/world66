@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
+image: omi.jpg
+image_attribution: Sergei Gussev
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Omi%C5%A1_city_panorama_(2018-05-16).jpg
 latitude: 43.443497
+loc_type: city
 longitude: 16.692277
+score: 0.64
 title: Omiš
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Omiš is a small town 21 km southeast of Split at the mouth of the Cetina river, where the river cuts through a dramatic gorge before reaching the sea. The town was a medieval stronghold of the Kačić pirates, who used the gorge for shelter and preyed on Venetian and Byzantine shipping; two ruined fortresses on the clifftops above the town survive from this period.

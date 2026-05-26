@@ -1,5 +1,0 @@
-asia/turkey/denizli
-europe/norway/narvik
-australiaandpacific/australia/queensland/beaudesert
-northamerica/turksandcaicosislands/southcaicos
-northamerica/unitedstates/tennessee/cleveland

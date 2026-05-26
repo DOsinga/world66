@@ -8,9 +8,9 @@ phone: (517) 485-4283
 snippet: Lansing's original neighbourhood of galleries, antiques, and festivals
 tags:
 - things_to_do
-- shopping
+- neighbourhood
 title: Old Town
-type: poi
+type: neighbourhood
 url: www.oldtownmainstreet.org
 ---
 

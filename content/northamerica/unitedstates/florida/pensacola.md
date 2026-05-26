@@ -2,11 +2,14 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 30.421309
+loc_type: region
 longitude: -87.216915
+score: 0.51
 title: Pensacola
 type: location
-score: 0.51
-loc_type: region
+image: pensacola.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Collage_of_images_from_around_Pensacola.jpg
 ---
 
 Pensacola sits on the western tip of the Florida Panhandle, closer in feel to the Gulf Coast South than to the theme-park Florida further down the peninsula. The city has a long history — it claims to be the oldest European settlement in the United States, founded by the Spanish in 1559 — and the compact historic downtown, with its tree-lined streets and mix of colonial, Victorian, and Creole architecture, is genuinely charming to walk or cycle through.

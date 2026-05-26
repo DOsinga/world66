@@ -1,5 +1,0 @@
-europe/italy/puglia/otranto
-asia/indonesia/sumatra/pulaunias
-northamerica/unitedstates/california/national_city
-northamerica/unitedstates/alabama/florence
-africa/ghana/winneba

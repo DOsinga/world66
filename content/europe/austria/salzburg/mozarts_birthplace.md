@@ -5,6 +5,7 @@ longitude: 13.042237
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Mozart's Birthplace
 type: poi
 snippet: "Salzburg's most visited museum, where Mozart was born in 1756"

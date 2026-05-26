@@ -5,6 +5,7 @@ longitude: 102.241
 snippet: Swiss-run wood-fired pizza in the heart of Kelantan
 tags:
 - eating_out
+- restaurant
 title: Pizzeria Traudi
 type: poi
 ---

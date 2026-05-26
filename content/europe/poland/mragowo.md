@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: mragowo.jpg
+image_attribution: Mateusz Giełczyński
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Amphitheater_in_Mr%C4%85gowo.jpg
 latitude: 53.8661
+loc_type: city
 longitude: 21.3046
+score: 0.43
 title: Mragowo
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Mragowo is a small town in Poland's Masurian Lake District, wedged between lakes Juno and Czos. It makes a good base for exploring the surrounding countryside of forests and waterways.

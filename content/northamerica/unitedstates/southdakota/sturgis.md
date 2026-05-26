@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: sturgis.jpg
+image_attribution: Tony Webster on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/87296837@N00/52202512127
 latitude: 44.4094
+loc_type: city
 longitude: -103.5091
+score: 0.42
 title: “Sturgis”
 type: location
-score: 0.42
-loc_type: city
 ---
 
 **Sturgis** is a small ranching town of about 7,000 in the Northern [Black Hills](/northamerica/unitedstates/southdakota/blackhills) of [South Dakota](/northamerica/unitedstates/southdakota), but every August it becomes one of the most famous gatherings in America. The **Sturgis Motorcycle Rally**, running since 1938, draws close to half a million bikers for concerts, races, bike shows, leather shopping, and tattoos. For the other eleven months, Sturgis is a quiet, friendly base for exploring a surprisingly rich corner of the plains.

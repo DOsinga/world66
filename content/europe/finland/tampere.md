@@ -2,13 +2,14 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-13'
   poi_cleanup: '2026-04-20'
 latitude: 61.497793
+loc_type: city
 longitude: 23.761637
 score: 0.55
 title: Tampere
 type: location
-loc_type: city
 ---
 
 Tampere is the largest inland city in the Nordic countries, wedged between two lakes — Näsijärvi and Pyhäjärvi — and built around the Tammerkoski Rapids that once powered Finland's industrial revolution. The old red-brick factories of Tampella and Finlayson have been converted into museums, restaurants, cinemas, and studios, giving the city a creative, slightly gritty edge that sets it apart from polished Helsinki.

@@ -1,12 +1,13 @@
 ---
 latitude: 40.576508
 longitude: -73.992942
+snippet: Iconic boardwalk, vintage amusements, and Nathan's hot dogs
 tags:
 - day_trips
 - beach
 - restaurant
+- brooklyn
 title: Coney Island
-snippet: "Iconic boardwalk, vintage amusements, and Nathan's hot dogs"
 type: poi
 ---
 

@@ -12,6 +12,8 @@ story: 'The square was designed in 1599 as part of Duke Frederick I''s planned t
 
   '
 tags:
+- things_to_do
+- sight
 - architecture
 title: Marktplatz
 type: poi

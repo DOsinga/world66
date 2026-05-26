@@ -1,21 +1,23 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-12'
+image: rovinj.jpg
+image_attribution: Andrea Albini
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Croazia_-_Rovinj_-_panoramio.jpg
 latitude: 45.080741
+loc_type: city
 longitude: 13.641728
+score: 0.79
 title: Rovinj
 type: location
-score: 0.79
-image: rovinj.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Croazia_-_Rovinj_-_panoramio.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Andrea Albini
-loc_type: city
 ---
 
-Rovinj is one of the most picturesque Mediterranean towns. When you climb to the top of the bell-tower, above the roof of the church you can see a unique combination of nature in all its magnificence and many historical monuments. 
+Rovinj (Italian: Rovigno) sits on a rocky peninsula jutting into the Adriatic on the western coast of Istria, and it may be the most picturesque small town on the Croatian coast. The old town climbs steeply from the harbour to the baroque church of St. Euphemia, whose 60-metre bell tower is visible for miles out to sea. For centuries Rovinj was an island; it was connected to the mainland only in 1763, when the channel separating it was filled in, and the narrow, cobbled lanes still have that enclosed island quality — tight and labyrinthine, with laundry strung between rust-coloured buildings.
 
+The town's Venetian past shows in everything from the street plan to the dialect: many older residents still speak Istriot or Italian alongside Croatian. From the 15th to the 18th century Rovinj was one of Venice's most prosperous ports on the eastern Adriatic. The legacy is visible in the carved stone doorframes, the loggias, and the church facade that could easily stand in any small Italian city.
 
- For the first time mentioned in 7th century, Rovinj is today a treasury of cultural and historical monuments: a 13th century Romanesque heptagonal baptistery, the baroque Parish church of St. Euphemia (1736), the church of St Francis and the Franciscan monastery dating from the 18th century with very rich library, the Baroque town hall built a century before, ornated by the symbolic city clock, the city museum, the Local Magistrate's Court, the city walls with the famous Balbi's gate... 
+Rovinj is a working town as well as a resort. Fishing boats still go out at night, and the daily catch ends up in the waterfront restaurants by midday. In summer the population swells enormously — the old town fills with tourists and the roads with cars — but out of season, and even in July if you are there at dawn or dusk, it has real atmosphere.
 
-The mild climate with 2.400 hours of sunshine annually, and many cultural, artistic and sport performances made Rovinj known in Croatia and in the world.
+The town makes an excellent base for exploring Istria. The Lim Fjord, a flooded karst valley famed for its oyster farms, is 10 kilometres north. [Pula](/europe/croatia/pula) and its Roman amphitheatre are 40 kilometres south.

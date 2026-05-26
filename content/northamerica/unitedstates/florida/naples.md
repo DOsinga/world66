@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: naples.jpg
+image_attribution: P. Hughes
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Naples_-_Sunset_at_pier.jpg
 latitude: 26.142
+loc_type: city
 longitude: -81.7948
+score: 0.49
 title: Naples
 type: location
-score: 0.49
-loc_type: city
 ---
 
 Naples is one of Florida's most refined Gulf Coast cities, a place where white-sand beaches meet manicured tropical gardens and a surprisingly good food scene. Perched on the southwestern tip of the state, it trades the spring-break chaos of the Atlantic coast for a quieter, wealthier stretch of shoreline where the sunsets alone are worth the trip.

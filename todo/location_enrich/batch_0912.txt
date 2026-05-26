@@ -1,5 +1,0 @@
-europe/netherlands/maastricht
-europe/finland/jakobstad
-europe/portugal/castelo_branco/alcains
-northamerica/mexico/campeche
-europe/croatia/dalmatia/omi

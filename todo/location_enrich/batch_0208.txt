@@ -1,5 +1,0 @@
-asia/israel/ein_hod
-europe/belgium/huy
-europe/italy/abruzzo/pescasseroli
-asia/china/huangyaguan
-africa/mauritius/flacq

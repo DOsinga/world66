@@ -2,6 +2,9 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-16'
+image: danang.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dragon_Bridge,_Da_Nang_during_day_-_20230819_(cropped).jpg
 latitude: 16.068
 loc_type: city
 longitude: 108.212

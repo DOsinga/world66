@@ -5,6 +5,9 @@ done:
 latitude: 31.2271
 longitude: 121.4925
 snippet: Pre-concession walled city with Yu Garden and original xiaolongbao
+tags:
+- things_to_do
+- neighbourhood
 title: Old Town and Yuyuan Bazaar
 type: poi
 ---

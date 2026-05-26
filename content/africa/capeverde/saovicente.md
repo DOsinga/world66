@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 16.85
+loc_type: city
 longitude: -24.97
+score: 0.5
 title: São Vicente
 type: location
-score: 0.5
-loc_type: city
+image: saovicente.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cabo_2010_Monte_Cara.jpg
+image_license: Public domain
+image_attribution: ElsondeMadrid
 ---
 
 São Vicente is a small, dry, mountainous island whose entire personality is concentrated in its capital, [Mindelo](/africa/capeverde/mindelo). Outside the city, the landscape is stark — volcanic peaks, barren hillsides, and a handful of small settlements. Monte Verde, at 774 metres, is the highest point and offers views across to [Santo Antão](/africa/capeverde/santo_antao) on a clear day.

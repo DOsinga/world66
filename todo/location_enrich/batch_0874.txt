@@ -1,5 +1,0 @@
-northamerica/canada/ontario/toronto
-europe/italy/campania/calitri
-europe/sweden/gothenburg
-northamerica/unitedstates/montana/missoula
-asia/india/gujarat/morbi

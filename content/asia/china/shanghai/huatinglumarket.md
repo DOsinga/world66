@@ -6,8 +6,9 @@ latitude: 31.2153
 longitude: 121.4506
 snippet: Bustling street market for cheap clothes and knock-off brands
 tags:
-- things_to_do
-- markets
+- shopping
+- market
+- french_concession
 title: Huating Lu Market
 type: poi
 ---

@@ -1,5 +1,0 @@
-northamerica/unitedstates/alabama/birmingham
-northamerica/honduras/comayagua
-northamerica/unitedstates/california/northcoast/crescentcity
-northamerica/guatemala/livingstone
-europe/estonia/tartu

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: giethoorn.jpg
 image_attribution: Cbliu
 image_license: CC BY-SA 4.0

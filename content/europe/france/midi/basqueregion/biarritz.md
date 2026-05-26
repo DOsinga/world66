@@ -1,12 +1,15 @@
 ---
-title: Biarritz
-type: location
-latitude: 43.4832
-longitude: -1.5586
 done:
   location_cleanup: 2026-04-05
-score: 0.68
+image: biarritz.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Biarritz%E2%80%94View_from_Esplanade_Elisabeth_II.jpg
+latitude: 43.4832
 loc_type: city
+longitude: -1.5586
+score: 0.68
+title: Biarritz
+type: location
 ---
 
 Biarritz is an elegant seaside resort on France's Basque coast, just 15 kilometres from the Spanish border. It was a sleepy whaling port until 1854, when Napoleon III's wife Empress Eugénie took a liking to the wild Atlantic beach and built a summer palace here. Overnight, Biarritz became one of the fashionable spots of the European belle époque: Queen Victoria, the Tsar of Russia, various Spanish and Dutch royals, and the wider European aristocracy followed Eugénie's lead, and the town filled with grand seafront hotels, a Russian Orthodox church, and the white-stone villas that still give Biarritz its distinctive mix of Basque and Second Empire architecture.

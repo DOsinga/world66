@@ -1,5 +1,0 @@
-asia/bhutan/thimphu
-northamerica/unitedstates/minnesota/bloomington
-europe/unitedkingdom/england/south_east/woldingham
-europe/sanmarino/borgomaggiore
-europe/germany/bavaria/augsburg

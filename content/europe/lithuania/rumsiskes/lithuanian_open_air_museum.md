@@ -7,6 +7,8 @@ tags:
   - museum
 latitude: 54.8663
 longitude: 24.2175
+story: >
+  When the Kaunas Reservoir was created in 1959, the rising waters threatened dozens of historic farmsteads across the region. Rather than let them drown, Soviet planners made an unusual decision: dismantle the buildings and reconstruct them on higher ground. The result, opened in 1966, is one of the most complete ethnographic museums in the Baltic states — built, paradoxically, by the same regime that was simultaneously dismantling Lithuanian folk culture.
 ---
 
 Spread across more than 170 hectares of countryside, this is one of the largest and most impressive ethnographic museums in the Baltic states. Farmsteads, small villages, and town complexes have been relocated from all four of Lithuania's ethnographic regions — Aukstaitija, Suvalkija, Zemaitija, and Lithuania Minor — and reassembled in their natural settings, complete with fences, gardens, and sacral monuments.

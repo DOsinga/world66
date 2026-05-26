@@ -1,12 +1,12 @@
 ---
-title: Ras Al Khaimah
-type: location
-latitude: 25.7895
-longitude: 55.9432
 done:
   location_cleanup: 2026-04-07
-score: 0.51
+latitude: 25.7895
 loc_type: city
+longitude: 55.9432
+score: 0.51
+title: Ras Al Khaimah
+type: location
 ---
 
 Ras Al Khaimah is the northernmost of the seven United Arab Emirates, and the one least defined by skyscrapers and shopping malls. Where Dubai and Abu Dhabi compete for superlatives, RAK — as residents call it — trades on rugged mountains, mangrove-lined coasts, and a history that predates Islam.

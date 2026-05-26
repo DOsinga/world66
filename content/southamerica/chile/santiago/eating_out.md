@@ -1,52 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-**all**
+Santiago's food scene has become one of the best in South America, driven by a generation of Chilean chefs who are taking native ingredients seriously. The Mercado Central is the classic lunch destination; the Barrio Italia and Barrio Lastarria neighbourhoods have the densest concentration of good contemporary restaurants.
 
-**De Peyo**
-
-This restaurant is located four blocks southeast of the Irarrazaval metro stop. It is a good choice for well-made and very typical Chilean food. Some people rate it as one of the best in the city.   
-
-address: Lo Encalada 465
-
-tel: 274-0764
-
-**Aqui Esta Coco**
-
-One of the best seafood restaurants in Santiago. As for Chilean cuisine, seafood is where it's at. Don't miss the the *machas* (chilean clams) or the *Ceviche*. The wine cellar is also very good.
-
-address: La Concepción 236
-
-tel: (56-2) 2358649 - 2641400
-
-PriceOfMenu: $35 and above
-
-bookingurl: [www.aquiestacoco.cl](http://www.aquiestacoco.cl)
-
-**Pizza Nostra**
-
-A large choice of pastas and meats.   
-
-address: Av. Providencia 1975
-
-openinghours: daily until midnight
-
-tel: 231-9853
-
-**Da Renato**
-
-Fantastic Italian food. Top wines available. 
-
-address: Av. Isidora Goyenechea 3471, Bosque Norte area of Las Condes
-
-tel: 231-6196
-
-**Donde Augusto**
-
-For a great value on seafood and wonderful ambiance, have lunch at this eatery within the bustling Mercado Central. This is not a five-star restaurant and expect service to be accordingly. The seafood is however as fresh as it gets.
-
-address: Mercado Central
-
-tel: 2/672-2829
+Chilean staples to try: *congrio frito* (fried conger eel), *pastel de jaiba* (crab pie), *cazuela* (meat and vegetable broth), and *empanadas de pino* (beef, olive, and egg pastries). Lunch is the main meal of the day; most restaurants offer a prix-fixe *menú del día* that is excellent value.

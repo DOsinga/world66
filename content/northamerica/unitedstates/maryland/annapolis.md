@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: annapolis.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Some_Annapolis_commercial_strip.jpg
 latitude: 38.97864
+loc_type: city
 longitude: -76.492786
+score: 0.57
 title: Annapolis
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Annapolis is the capital of [Maryland](/northamerica/unitedstates/maryland) and one of the best-preserved colonial towns in the United States. The city served briefly as the nation's capital in 1783-84, and its compact historic district -- centered on the Maryland State House, the oldest state capitol still in continuous legislative use -- is a pleasure to walk through. Brick row houses, narrow streets, and church steeples give the downtown a scale and character that feels more European than American.

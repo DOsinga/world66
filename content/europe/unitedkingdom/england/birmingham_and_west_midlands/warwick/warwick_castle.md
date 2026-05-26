@@ -4,6 +4,7 @@ category: Sight
 latitude: 52.2793
 longitude: -1.5844
 snippet: Complete medieval castle with towers, ramparts, and river views
+story: "The castle was bought by the Tussauds Group in 1978 from the Greville family who had owned it for more than 350 years. Madame Tussauds populated the state rooms with wax models of weekend party guests of the Edwardian Earl — a deeply un-English bit of theatre that has somehow become part of the place's identity. The wax figures are still there."
 tags:
 - things_to_do
 - castle

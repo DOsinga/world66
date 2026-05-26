@@ -1,12 +1,12 @@
 ---
-title: Rhodes
-type: location
-latitude: 36.4341
-longitude: 28.2176
 done:
   location_cleanup: 2026-04-06
-score: 0.78
+latitude: 36.4341
 loc_type: region
+longitude: 28.2176
+score: 0.78
+title: Rhodes
+type: location
 ---
 
 Rhodes is the largest of the Dodecanese islands and officially the sunniest spot in Europe. That statistic alone explains a lot about the place: the light here is extraordinary, turning the medieval stone walls of Rhodes Old Town golden in the late afternoon and making the sea off Lindos an almost unreal shade of blue.

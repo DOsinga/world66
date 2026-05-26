@@ -1,18 +1,10 @@
 ---
-title: "Eating Out in New Orleans"
+title: "Eating Out"
 type: section
 ---
 
-When you&rsquo;re in New Orleans, there are a lot of things to do and see, but no trip would be complete without visiting some of the great **New Orleans restaurants**. Whether you wish to dress up and dine at an upscale restaurant or just relax and dine at a casual restaurant, New Orleans offers a huge selection of great eating establishments.
+New Orleans has one of the strongest food cultures in the United States — arguably the strongest, given the depth of the Creole and Cajun traditions and the city's history of absorbing influences from France, Spain, West Africa, and the Caribbean. Eating well here is not difficult; eating badly requires some effort.
 
-#### Royal House
+The extremes are both worth experiencing. Antoine's, founded in 1840, invented Oysters Rockefeller and Pompano en Papillote and has been refining both ever since. Commander's Palace in the Garden District is the training ground for the city's great chefs and serves the best formal Creole meal you will have anywhere. At the other end of the register, the po'boy — a fried oyster or roast beef sandwich on local French bread — is the working lunch of New Orleans and best consumed standing at a neighbourhood counter. The Central Grocery on Decatur Street invented the muffuletta (a round Italian sandwich with olive salad) in 1906 and is still making them.
 
-This New Orleans restaurant offers tasty local delights prepared by a known chef. Once you step in the restaurant, you&rsquo;ll enjoy the romantic lighting, the steamed seafood and oysters at one of the city&rsquo;s biggest oyster bars. You can also enjoy wine or a New Orleans local cocktail with one of their many specialty drinks. The hospitality and casual atmosphere at Royal House will help you experience New Orleans.
-
-#### Mulate&rsquo;s
-
-Known around the world as the King of Cajun halls, Mulate's features Cajun music and dancing. It serves excellent Cajun food every day of the week. Socialize in the Cajun dance hall and, if the mood strikes you, take a spin on the dance floor. The regular dancers at Mulate&rsquo;s enjoy helping their customers learn the basics of Cajun dancing. The sights and sounds of the Cajun culture come alive in this authentic atmosphere.
-
-#### Red Fish Grill
-
-The Red Fish Grill restaurant is considered to be one of the top New Orleans restaurants. It features fresh seafood, including a large supply of fresh shellfish, fin fish, an oyster bar and other classic New Orleans seafood dishes. Even the decor emphasizes fish. The restaurant is located on Bourbon Street, the gateway into the world-famous French Quarter.
+The food to eat here is not generic: it is Creole. Red beans and rice on Mondays (a tradition so old that Louis Armstrong signed his letters "Red beans and ricely yours"), gumbo, jambalaya, crawfish étouffée, bread pudding with whiskey sauce.

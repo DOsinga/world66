@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-14'
 latitude: 12.35
+loc_type: feature
 longitude: 2.55
+score: 0.38
 title: W National Park
 type: location
-score: 0.38
-loc_type: city
+image: parkw.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Elephants_bath_park_w_Niger_2006.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Roland Hunziker https://www.flickr.com/photos/rolandh/
 ---
 
 W National Park — named for the double bend the Niger River makes through it — is one of West Africa's finest wildlife reserves and a UNESCO World Heritage Site. It straddles three countries: [Niger](/africa/niger), [Burkina Faso](/africa/burkinafaso), and [Benin](/africa/benin), with the Niger side offering the most accessible entry point and some of the wildest terrain.

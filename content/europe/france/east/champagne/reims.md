@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-21'
+image: reims.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Sub%C3%A9_Fountain,_Reims,_France.jpg
 latitude: 49.257789
+loc_type: city
 longitude: 4.031926
 score: 0.66
 title: Reims
 type: location
-loc_type: city
 ---
 
 Reims is the principal city of the Champagne region and one of the most important historic cities in France. For a thousand years — from Clovis in 496 to Charles X in 1825 — it was the coronation city of French kings, and the Gothic cathedral built to mark that tradition is among the greatest in Europe. It is also the centre of the champagne industry: beneath the city, more than 250 kilometres of chalk tunnels (crayères) were dug by the Romans and later adopted by champagne houses to store their bottles. Tours and tastings are available at most of the major houses.

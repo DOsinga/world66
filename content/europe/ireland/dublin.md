@@ -8,7 +8,10 @@ longitude: -6.260559
 score: 0.68
 title: Dublin
 type: location
-loc_type: region
+loc_type: city
+image: dublin.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-07_01.jpg
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.
@@ -25,5 +28,5 @@ Summers are mild but rarely warm; rain is never far away. Bring a waterproof coa
 
 ## Destinations in Dublin
 
-- [Skerries](/europe/ireland/dublin/skerries)
+- [Skerries](/europe/ireland/skerries)
 - [South County (Killiney / Dalkey / Dún Laoghaire)](/europe/ireland/dublin/southcountykillineydalkeydunlaoghaire)

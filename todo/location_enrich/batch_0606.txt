@@ -1,5 +1,0 @@
-northamerica/unitedstates/indiana/bedford
-europe/spain/spanishcostas/benalmadena
-europe/hungary/tatabanya
-southamerica/brazil/santos
-asia/turkey/cappadocia/cavusin

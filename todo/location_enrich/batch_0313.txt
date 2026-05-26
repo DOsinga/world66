@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/tuttle
-europe/unitedkingdom/scotland/achiltibuie
-northamerica/unitedstates/california/highsierra/mammothlakes
-northamerica/unitedstates/virginia/alexandria
-europe/poland/siedlce

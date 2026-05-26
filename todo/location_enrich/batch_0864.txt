@@ -1,5 +1,0 @@
-northamerica/unitedstates/minnesota/east_grand_forks
-europe/greece/mykonos
-africa/tanzania/mtera
-africa/guineabissau/bissau
-southamerica/frenchguiana/sinnamary

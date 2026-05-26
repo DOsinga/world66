@@ -11,6 +11,8 @@ story: Taipei 101 was the tallest building in the world from 2004 until it was o
 tags:
 - things_to_do
 - architecture
+- sight
+- xinyi
 title: Taipei 101
 type: poi
 url: www.taipei-101.com.tw

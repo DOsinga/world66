@@ -6,6 +6,9 @@ phone: +352-492486
 snippet: Basement club with pool table, disco and funk
 tags:
 - bars_and_cafes
+- ville_haute
+- bar
+neighbourhood: Ville Haute
 title: Byblos
 type: poi
 url: www.byblos.lu

@@ -1,5 +1,5 @@
 northamerica/unitedstates/florida/lake_wales
-asia/india/uttaranchal/karanprayag/pauri
+asia/india/uttaranchal/pauri
 australiaandpacific/newzealand/north_island/whanganui_region/newplymouth
 europe/portugal/sintra
 europe/italy/lazio/tarquinia

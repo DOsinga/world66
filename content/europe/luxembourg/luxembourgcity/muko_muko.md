@@ -7,6 +7,7 @@ longitude: 6.121602
 snippet: Intimate two-room club with RnB and house nights
 tags:
 - bars_and_cafes
+- bar
 title: Muko Muko
 type: poi
 url: mukomuko.lu

@@ -1,5 +1,0 @@
-europe/azerbaijan/naxcivan/sadarak
-northamerica/unitedstates/massachusetts/newbedford
-europe/faroeislands/streymoy/kirkjubour
-northamerica/mexico/cabosanlucas
-southamerica/argentina/patagonia/torresdelpaine

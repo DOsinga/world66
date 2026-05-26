@@ -1,5 +1,5 @@
 europe/unitedkingdom/england/suffolk/lowestoft
-northamerica/unitedstates/california/sandiego/julian
+northamerica/unitedstates/california/julian
 asia/bhutan/punakha
 asia/lebanon/jounieh
 europe/ukraine/crimea/sevastopol

@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 17.9248
+loc_type: city
 longitude: -87.9714
+score: 0.69
 title: Ambergris Caye
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Ambergris Caye is the largest and most visited of Belize's cayes, running 56 km along the northeastern coast. The main town, San Pedro, has grown from a quiet fishing village into Belize's main tourist hub, with resorts, dive shops, restaurants, and bars lining its sandy streets. Golf carts are the primary transport — cars are rare on the island.

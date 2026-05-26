@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 26.52
+loc_type: region
 longitude: 128.053
 score: 0.74
 title: Ryukyu islands
 type: location
-loc_type: region
 ---
 
 The Ryukyu islands, also known as the South-West islands are located in the south-west of the archipelago.

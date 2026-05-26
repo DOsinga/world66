@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/leesburg
-northamerica/unitedstates/newjersey/lambertville
-europe/iceland/keflavik
-asia/southkorea/cheongju_city
-northamerica/unitedstates/newyorkstate/ashford

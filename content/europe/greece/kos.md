@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+image: kos.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Greece_kos_city.jpg
 latitude: 36.793693
+loc_type: city
 longitude: 27.084827
 score: 0.69
 title: Kos
 type: location
-loc_type: city
 ---
 
 Kos is one of islands in the Dodecanese and probably only rivalled by Rhodos when it comes down to popularity. The capital of Kos, which also bears the name Kos, is on the eastern side of the island. Although its a fairly modern city (not in the least because of the annual invasion of travellers), it has some quite well-preserved sights, such as the Knights of St John Castle dominating the harbour and ruins of ancient Roman buildings.

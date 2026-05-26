@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: alcaladehenares.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Universidad-Alcala-180819_(cropped).jpg
 latitude: 40.482
+loc_type: city
 longitude: -3.364
+score: 0.57
 title: Alcalá de Henares
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Alcalá de Henares is a university city 35 kilometres east of Madrid, and one of the best day trips from the capital. Founded as a Roman settlement and later a medieval Moorish town, it reached its golden age when Cardinal Cisneros established the Complutense University here in 1499 — making it one of the first planned university cities in the world. The entire historic centre is a UNESCO World Heritage Site.

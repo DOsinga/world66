@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: streymoy.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sk%C3%A6lingsfjall,_Streymoy_(faroe_islands).jpg
 latitude: 62.1237
+loc_type: region
 longitude: -7.0159
+score: 0.59
 title: Streymoy
 type: location
-score: 0.59
-loc_type: region
 ---
 
 Streymoy is the largest of the Faroe Islands and the one most people use as a base. [Torshavn](/europe/faroeislands/torshavn), the island group's small, spirited capital, sits on its southeastern tip. From there, good roads fan out across dramatic terrain — sea cliffs, narrow fjords, waterfall-streaked hillsides, and villages that look like they've barely changed in centuries.

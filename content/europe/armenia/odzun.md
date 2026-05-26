@@ -1,19 +1,24 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
+image: odzun.jpg
+image_attribution: Rita Willaert from 9890 Gavere, Belgium
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Odzun_-_Armenia_(2931185663).jpg
 latitude: 41.051653
+loc_type: city
 longitude: 44.615615
+score: 0.43
 title: Odzun
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat_3), it sits on the left bank of the gorge.
 
-While tourist crowds visiting those two monasteries largely bypass it, Odzun's 8th-century basilica — built on the foundations of a 6th-century church — is one of the finest in Armenia and well worth a visit. It was built as a tribute to the Supreme Katholikos Hovhannes Odzunetsi (John of Odzun), who was born in the village.
+While tourist crowds visiting those two monasteries largely bypass it, the [Odzun Church](/europe/armenia/odzun/odzun_church) — an 8th-century basilica built on the foundations of a 6th-century church — is one of the finest in Armenia and well worth a visit. It was built as a tribute to the Supreme Katholikos Hovhannes Odzunetsi (John of Odzun), who was born in the village.
 
-The southern side has preserved an arcaded cloister, and the western side has a blind wall with an entrance. Just north of the church stands an unusual funerary monument — one of only two of its kind in Armenia; the other is in the southern Armenian village of Aghudi.
+The southern side has preserved an arcaded cloister, and the western side has a blind wall with an entrance. Just north of the church stands an unusual [funerary monument](/europe/armenia/odzun/funerary_monument) — two carved stone stelae rising from a shared platform, one of only two of their kind in Armenia; the other is in the southern village of Aghudi.
 
 There is no entry fee as such: visitors are expected to buy and light a candle. If the church is locked, the caretaker may be tending the grass around it (no simple task given the many clergy gravestones) or, if you are unlucky, absent.
 

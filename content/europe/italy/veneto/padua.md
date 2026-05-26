@@ -8,6 +8,9 @@ score: 0.69
 title: Padua
 type: location
 loc_type: city
+image: padua.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Padua_from_La_Specola.jpg
 ---
 
 Padua gets overlooked. Visitors to the Veneto rush to [Venice](/europe/italy/veneto/venice) and sometimes stop in [Verona](/europe/italy/veneto/verona), but Padua — Padova to the Italians — is where Giotto painted the Scrovegni Chapel, one of the most important works of art in Europe. That alone is worth the detour.

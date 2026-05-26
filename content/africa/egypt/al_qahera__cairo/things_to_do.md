@@ -1,33 +1,8 @@
 ---
-title: "Things to do in Al Qahera - Cairo"
+title: "Things to Do"
 type: section
 ---
 
-Spend the day at an Oasis or perhaps go four-wheel driving/quad bike riding in the sand dunes. Maybe ride a camel with the Bedouin people?Seen too much sand this holiday? Take a**** day tour to Cairo and visit the museum or any of the pyramids – yes there are more than the commonly advertised two.
+Cairo is one of the world's great cities for historical tourism, with a density of monuments spanning five millennia that no other city can match. The Pyramids and the Egyptian Museum are the obligatory visits, but Islamic Cairo's medieval streets and the Coptic churches of Old Cairo are equally rewarding and far less crowded.
 
-Or really have a day to remember and take a **Last Minute Egypt day tours** to Aswan or Luxor – timeless places where you can spend all the time in the world.
-
-Perhaps you wish to spend the day in Alexandria – once the capital of the world, built by Alexandria the Great
-
-**Tour of the pyramids**
-- The 3 Pyramids in Giza Plateau
-- the Sphinx in Giza Plateau
-- the** E**gyptian Museum Entrance
-- Tutankhamen treasures
-
-**Egyptian Museum, Old Cairo and Salah El Din Citadel Tour**
-- Egyptian Museum in Cairo
-- Mohamed Ali Mosque
-- The Hanging church
-- Citadel of Saladin, Egypt
-
-**Coptic and Islamic Cairo Tour**
-- Citadel & Mohamed Ali Alabaster Mosque
-- Ebn Toloun Dome
-- Abu Serga Church, Hanged church & Synagogue
-
-**Pyramids and Sakkara tour**
-- Giza plateau, Pyramids and Sphinx
-- The Valley Temple in Giza plateau, Egypt
-- Memphis at Giza
-- the Statue of Ramses II at Memphis, Egypt
+The city works best if approached as several distinct districts: Pharaonic Cairo (the Giza plateau, Memphis, Saqqara); Islamic Cairo (the historic city between the Citadel and the northern gates); Coptic Cairo (Old Cairo on the Nile); and Modern Cairo (Tahrir Square, Downtown, Zamalek). Each deserves at least a half day.

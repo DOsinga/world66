@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: zurich.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg
 latitude: 47.374449
+loc_type: city
 longitude: 8.541042
 score: 0.7
 title: Zurich
 type: location
-loc_type: city
 ---
 
 Zurich is Switzerland's largest city, wrapped around the northern tip of Lake Zürich and split by the River Limmat that drains it. Founded as a Roman customs post in 15 BC, the city still feels built around that job — a carefully run mercantile town that has been in the business of handling other people's money since Alfred Escher turned it into the country's financial engine in the 19th century. It is consistently rated one of the world's most livable cities, which is a polite way of saying very expensive, very clean, and very efficient.

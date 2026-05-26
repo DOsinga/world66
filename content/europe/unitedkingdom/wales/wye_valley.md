@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: wye_valley.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:River_Wye_viewed_from_Yat_Rock.jpg
 latitude: 51.706856
+loc_type: region
 longitude: -2.692298
+score: 0.59
 title: Wye Valley
 type: location
-score: 0.59
-loc_type: region
 ---
 
 The River Wye rises in mid-Wales and joins the Severn at its mouth near the Bristol Channel. For stretches it forms the border between England and Wales; elsewhere it's entirely in Welsh territory. The whole river is beautiful, but "the Wye Valley" usually means the lower section — the dramatic gorge around Symonds Yat and, further downstream, the hauntingly photogenic ruins of Tintern Abbey.

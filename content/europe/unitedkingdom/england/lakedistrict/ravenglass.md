@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-21'
 latitude: 54.353916
+loc_type: city
 longitude: -3.410166
 score: 0.52
 title: Ravenglass
 type: location
-loc_type: city
 ---
 
 Ravenglass is the only village in the national park that lies on the Cumbrian Coast. The shingle beach is pleasant though not outstanding. The village is, however, the terminus of the Ravenglass and Eskdale preserved steam railway, Eskdale being one of the really lovely Lake District valleys and a good access point for Scafell Pike, the highest point in England. Muncaster Water Mill and Muncaster Castle are also close by.

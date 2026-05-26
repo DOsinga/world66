@@ -1,12 +1,15 @@
 ---
-title: Møn
-type: location
-latitude: 54.969843
-longitude: 12.424946
 done:
   location_cleanup: 2026-04-08
-score: 0.56
+image: mon.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:M%C3%B8ns_Klint_5.jpg
+latitude: 54.969843
 loc_type: city
+longitude: 12.424946
+score: 0.56
+title: Møn
+type: location
 ---
 
 Møn is a small island just south of Zealand, the island [Copenhagen](/europe/denmark/copenhagen) sits on. With superb beaches, gently rolling hills, and idyllic pastoral scenery, it is a perfect escape from the capital — slow-paced and thoroughly relaxing.

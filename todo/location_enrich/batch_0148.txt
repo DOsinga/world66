@@ -1,5 +1,0 @@
-asia/mongolia/khovsgol/khatgal
-southamerica/brazil/paraty
-europe/russia/karelia/petrozavodsk
-northamerica/unitedstates/newmexico/pie_town
-europe/finland/vantaa

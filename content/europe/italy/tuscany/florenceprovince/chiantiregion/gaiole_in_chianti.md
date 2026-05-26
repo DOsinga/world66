@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: gaiole_in_chianti.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Pieve_di_Spaltenna.jpg
 latitude: 43.4683
+loc_type: city
 longitude: 11.4342
+score: 0.64
 title: Gaiole in Chianti
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Gaiole in Chianti sits on a hill near the northern course of the Arbia river, deep in the wine country between Florence and Siena. This is the quieter, more rural side of Chianti — fewer tour buses, more working vineyards, and a surprising concentration of medieval castles and fortified farmhouses that recall the centuries when this borderland was fought over by the two rival cities.

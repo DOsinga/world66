@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: gaucin.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Gauc%C3%ADn,_Spain.jpg
 latitude: 36.519238
+loc_type: city
 longitude: -5.317754
+score: 0.57
 title: Gaucin
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Gaucin is a white hilltop village in the mountains between [Ronda](/europe/spain/andalucia/ronda) and the coast, with views that on a clear day stretch all the way to the Straits of Gibraltar and the Moroccan coast beyond. It is one of the most beautifully situated of Andalucia's pueblos blancos.

@@ -3,22 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**Train**
+**By air** — Oskemen Airport (UKK) sits about 11 km northwest of the city centre. Air Astana operates domestic flights from Almaty and Astana; there are occasional connections to other Kazakh cities. International connections are limited and typically require a transit through Almaty.
 
-  If you are going from Almaty or Astana take a train going to the Zashchita Station (it is the major station in Ust-Kamenogorsk). People often don’t realize that the Ust-Kamenogorsk Station is just a small station where trains might stop for 5 minutes or they might not. Zashchita is the final stop for many trains and you will have enough time to deal with your luggage and will be able to get a taxi to the hotel.
+**By train** — Trains from Almaty and Astana arrive at Zashchita station, which is the main station for the city. The journey from Almaty takes around 25–30 hours; from Astana (Nur-Sultan) around 20 hours. Be aware that some timetables show a separate "Ust-Kamenogorsk" stop which is a smaller station where trains may pause briefly — Zashchita is where you want to get off. The train is by far the most comfortable option for long-distance travel and worth the extra time compared to the bus.
 
-
-
- Please don’t go alone, have someone in the compartment to look after your baggage. If you are going in winter, have something warm ready, because trains might be cold. Even if it is in summer, take a warm jacket just in case if you have to travel overnight. Taking food, water, and toilet paper with you on your trip will make your trip perfect.
-
- **Air**
-
- There are planes going from other major cities. Tickets are not very expensive, but you are only allowed 20 kilograms of baggage (carry-on included), you will have to pay for overweight, which is about a dollar for a kilogram.
-
- **Bus**
-
- I wouldn’t recommend taking a long trip on a bus. The seats don’t have a lot of legroom, the buses are not air-conditioned and don’t have bathrooms. There are cafes and cafeterias on the way, but you should always be cautious where you buy food. In winter, it is better to go by train or plane because of snow.
-
- **Car**
-
- Cars are faster and more expensive than buses or trains with almost the same conditions. A car may save you several hours on a long trip. However, never take a car to or from the city in winter since it may snow.
+**By bus** — Long-distance buses connect Ust-Kamenogorsk with Almaty, Semey (Semipalatinsk), and other cities. The journey is feasible but long and less comfortable than the train. In winter, road conditions can be poor.

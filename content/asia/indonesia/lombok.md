@@ -1,12 +1,15 @@
 ---
-title: Lombok
-type: location
-latitude: -8.583564
-longitude: 116.358082
 done:
   location_cleanup: 2026-04-05
-score: 0.69
+image: lombok.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Camping_above_the_clouds_at_Rinjani.jpg
+latitude: -8.583564
 loc_type: region
+longitude: 116.358082
+score: 0.69
+title: Lombok
+type: location
 ---
 
 Lombok has gotten more popular over the past few years. People who think

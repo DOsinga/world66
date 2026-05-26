@@ -1,5 +1,0 @@
-europe/greece/skyros
-northamerica/unitedstates/california/highsierra/laketahoe
-europe/spain/catalonia/ripoll
-asia/india/punjab/patiala
-africa/tanzania/mafiaisland

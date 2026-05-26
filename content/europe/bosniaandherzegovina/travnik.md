@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-17'
 image: travnik.jpg
 image_attribution: Julian Nyča
 image_license: CC BY-SA 3.0

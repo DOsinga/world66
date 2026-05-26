@@ -5,7 +5,8 @@ latitude: 2.1958
 longitude: 102.2553
 snippet: 15th-century well at the foot of Bukit China
 tags:
-- sights
+- things_to_do
+- landmark
 title: Hang Li Poh's Well
 type: poi
 ---

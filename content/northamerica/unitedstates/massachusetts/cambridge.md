@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: cambridge.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cambridge_-_Kings_College_vue_des_backs.jpg
 latitude: 42.3656
+loc_type: city
 longitude: -71.104
+score: 0.65
 title: Cambridge
 type: location
-score: 0.65
-loc_type: city
 ---
 
 **Cambridge** sits just across the Charles River from [Boston](/northamerica/unitedstates/massachusetts/boston), but it is its own city with its own character — more bookish, more politically progressive, and in places more interesting than its larger neighbour.

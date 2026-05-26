@@ -1,12 +1,12 @@
 ---
-title: The Azores
-type: location
-latitude: 37.7463
-longitude: -25.6629
 done:
   location_cleanup: 2026-04-06
-score: 0.74
+latitude: 37.7463
 loc_type: region
+longitude: -25.6629
+score: 0.74
+title: The Azores
+type: location
 ---
 
 The Azores are nine volcanic islands in the middle of the Atlantic, 1,500 kilometres west of Lisbon, and they feel genuinely remote. Green hills drop sharply into a dark ocean. Calderas hold twin lakes of different colours. Hot springs bubble up through the ground. Sperm whales feed offshore. It is one of the most striking landscapes in Europe, and one of the most undervisited.

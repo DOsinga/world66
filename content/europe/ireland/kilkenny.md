@@ -2,27 +2,25 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-22'
   poi_cleanup: '2026-04-19'
+image: kilkenny.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kilkenny_castle_2.jpg
 latitude: 52.650625
+loc_type: city
 longitude: -7.251444
 score: 0.64
 title: Kilkenny
 type: location
-loc_type: city
 ---
 
-Klikenny is Ireland's most beautiful medieval city. Narrow streets, a great castle on a hilltop and many old buildings make the town a lot of fun to stroll around.
+Kilkenny is Ireland's most beautifully preserved medieval city — compact enough to walk end to end in twenty minutes, but rich enough to keep you for several days. Narrow lanes of limestone buildings, a great Anglo-Norman castle, a round tower you can climb, and a string of ancient churches and abbeys make it one of the most satisfying cities to explore on foot anywhere in Ireland.
 
-From 1641 to 1650 Klikenny was the centre of power of an attempt of the Irish resistance to unite against the English. The Confederation of Kilkenny had its own parliament in town.
+The medieval core runs along what is called the [Medieval Mile](/europe/ireland/kilkenny/walk) — a kilometre of history between [Kilkenny Castle](/europe/ireland/kilkenny/thecatsle) at the south end and [St Canice's Cathedral](/europe/ireland/kilkenny/st_canices_cathedral) at the north. Between the two are [Rothe House](/europe/ireland/kilkenny/rothe_house), a 16th-century merchant's townhouse with a garden, the [Black Abbey](/europe/ireland/kilkenny/black_abbey), and the Tholsel — the old city hall with its distinctive octagonal clock tower. The Medieval Mile Museum, in St Mary's Church on James's Street, covers the whole sweep of the city's history in beautifully restored surroundings.
 
-This beautiful city, located just north of Waterford (where Waterford Crystal's made) is in the south-central region of Ireland.
+Kilkenny has excellent craft and design traditions. The Kilkenny Design Centre, across the street from the castle, is one of the best shops in Ireland for ceramics, glass, textiles, and jewellery made by Irish makers. The Jerpoint Glass studio, south of the city, is where you can watch the glassblowers at work.
 
-In the City Centre, a number of small bed-and-breakfasts are there to serve you, as well as a budget hostel. Either are very safe, and affordable to those on a budget.
+From 1641 to 1650, Kilkenny was the seat of the Confederation of Kilkenny — an attempt by the Catholic Irish to govern themselves during the chaos of the English Civil War. The city had its own parliament, its own coinage, and controlled most of Ireland for nearly a decade before Cromwell arrived.
 
-Kilkenny Castle - the author was unable to walk into it because of the lines, but was amazed by the sheer beauty of it. The Kilkenny Design Centre across the street from it has some great shopping.
-
-Kyteler's Inn - Kieran Street (at the foot of Butter Slip) Alice Kyteler was tried and convicted of witchery way back, and her whole family and staff were burned for it. This tavern is the same building she had lived in, and serves possibly the best food found in Ireland.
-
-Club 52 - near John Quay (near the River Nore), this nightclub was opened a few years back and is packed with people in the evening. One of the special features of this bar is that the bar's inside is rumored to be made with remains from an actual French church that had been destroyed (mostly) in WWII. The Gothic period architecture remains, with damage still apparent from its rugged appearance.
-
-Minor corrections by [TravellingMap](/world/member/travellingmap) on 05 February 05
+The pub culture is excellent. [Tynan's Bridge House Bar](/europe/ireland/kilkenny/tynans_bridge_hous) on John's Bridge is one of the most authentic Victorian pubs in Ireland; [Langton's](/europe/ireland/kilkenny/langtons) on John Street is the city's best-known bar for a bigger night out; [Kyteler's Inn](/europe/ireland/kilkenny/kytelersinn) on St Kieran's Street is the oldest in the city and comes with a genuine witchcraft trial story attached.

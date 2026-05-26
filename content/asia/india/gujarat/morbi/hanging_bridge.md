@@ -20,4 +20,6 @@ title: Hanging Bridge
 type: poi
 ---
 
-The Hanging Bridge over the Machhu river is Morbi's most recognisable landmark — a Victorian-era suspension bridge that has become a symbol of the city. It offers good views over the river and the old town. The bridge was rebuilt after being damaged in the 1979 flood.
+The Hanging Bridge (Jhulto Pul) over the Machhu river is Morbi's most recognisable landmark — a Victorian-era cable suspension bridge built in 1877 that became a symbol of the city. It offers good views over the river and the old town.
+
+The bridge was damaged in the catastrophic 1979 Machhu river flood and subsequently repaired. On 30 October 2022, the bridge collapsed while crowded with visitors, killing at least 135 people in one of India's deadliest structural disasters. An investigation found serious negligence in maintenance and the repair work that had just been completed days before the collapse. The bridge was rebuilt and reopened in 2024.

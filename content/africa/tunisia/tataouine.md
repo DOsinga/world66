@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-12'
+image: tataouine.jpg
+image_attribution: Ian Sewell
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Ksar_Ouled_Soltane_01.jpg
 latitude: 32.931524
+loc_type: city
 longitude: 10.450396
 score: 0.45
 title: Tataouine
 type: location
-loc_type: city
 ---
 
 Tataouine is a small city in southern Tunisia that lent its name — slightly mangled — to the desert planet Tatooine in Star Wars. George Lucas filmed nearby and borrowed the name, which has made the town a minor pilgrimage site for fans, though there is nothing Star Wars-related in the town itself.

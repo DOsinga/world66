@@ -9,7 +9,9 @@ phone: (+352) 4015-2450
 snippet: Luxembourg's financial history in a grand bank building
 tags:
 - things_to_do
+- ville_haute
 - museum
+neighbourhood: Ville Haute
 title: Bank Museum
 type: poi
 ---

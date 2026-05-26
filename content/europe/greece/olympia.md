@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-13'
+image: olympia.jpg
+image_attribution: Ronny Siegel on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/47309201@N02/9207022219
 latitude: 37.6388
+loc_type: city
 longitude: 21.63
+score: 0.67
 title: Olympia
 type: location
-score: 0.67
-loc_type: city
 ---
 
 This is where it all started. In 776 BC, athletes gathered in this riverside valley in the western Peloponnese to compete in honour of Zeus, and the Olympic Games were born. For over a thousand years the games drew competitors and spectators from across the Greek world, until a Roman emperor shut them down in 393 AD. The site lay buried under river silt for centuries before archaeologists uncovered it in the 19th century.

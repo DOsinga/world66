@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: makarskariviera.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Boardwalk_in_Tucepi.jpg
 latitude: 43.2355
+loc_type: region
 longitude: 17.0907
+score: 0.69
 title: Makarska Riviera
 type: location
-score: 0.69
-loc_type: region
 ---
 
 The Makarska Riviera is a 60 km stretch of the central Dalmatian coast, backed by the dramatic wall of Mount Biokovo and facing the islands of Brač and Hvar across a sparkling channel. Many consider it the most beautiful section of the entire Croatian coastline, and it is hard to argue — the combination of long pebble beaches, clear Adriatic water, and a mountain that rises straight out of the sea to nearly 1,800 metres is extraordinary.

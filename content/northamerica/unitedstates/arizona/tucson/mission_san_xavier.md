@@ -1,29 +1,19 @@
 ---
-address: 1950 W. San Xavier Road, San Xavier District
-latitude: 32.107284
-longitude: -111.007495
-opening_hours: Open every day of the year, 8:00 a.m. to 5:00 p.m
-phone: (520) 294-2624
-tags:
-- sights
-title: Mission San Xavier del Bac
+title: "Mission San Xavier del Bac"
 type: poi
-url: www.sanxaviermission.org
+latitude: 32.1073
+longitude: -111.0075
+address: "1950 W. San Xavier Road, Tohono O'odham Reservation"
+phone: "(520) 294-2624"
+url: "www.sanxaviermission.org"
+opening_hours: "Daily 7am-5pm"
+tags:
+  - things_to_do
+  - sight
+  - architecture
+story: "The mission is known as the 'White Dove of the Desert' and was built between 1783 and 1797 under Spanish Franciscans, replacing an earlier Jesuit structure destroyed in an Apache raid. One of the two bell towers has never been finished — local legend holds that Spain stopped funding the build before the dome was completed, but no one quite agrees on the real reason."
 ---
 
-The Mission San Xavier del Bac is one of the more historic locations that the area of Tucson has to offer. The church was built in the 1700s and has since been restored. An exquisite gem of Spanish architecture, the Mission is white and beautiful, with various carvings and sculptures throughout the church. The mission also plays host to the San Xavier mission school, where children are educated at different scholastic levels. The Mission San Xavier del Bac is tucked away in the Santa Cruz Valley, which is a mere nine miles from Tucson. This makes this both an enriching and convenient Tucson attraction for any traveler to visit.
+The Mission San Xavier del Bac, on the Tohono O'odham San Xavier Reservation nine miles south of Tucson, is the oldest intact European structure in Arizona and one of the great pieces of Spanish colonial architecture in the United States. Whitewashed walls, a dome that catches the desert light, painted santos crammed into every niche, and ceilings of folk Baroque polychrome — even non-believers tend to stand still inside for a while.
 
-**Contributors**
-May 06, 2009
-
-type: Memorials
-
-
-
-tel: (520) 294-2624
-
-openingHours: Open every day of the year, 8:00 a.m. to 5:00 p.m
-
-url: [www.sanxaviermission.org](http://www.sanxaviermission.org)
-
-address: 1950 W. San Xavier Road, San Xavier District
+The Tohono O'odham community still uses the church and runs the gift shop and food stalls outside; try a fry bread and a tamale from the women at the back. Climb the small hill across the parking lot for the classic view back at the mission against the desert. Admission is free; donations support an ongoing restoration that has been running for decades.

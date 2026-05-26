@@ -9,7 +9,9 @@ phone: +352/462233-1
 snippet: Natural history museum in the scenic Grund valley
 tags:
 - things_to_do
+- grund
 - museum
+neighbourhood: Grund
 title: Musée national d'histoire naturelle
 type: poi
 url: www.mnhn.lu

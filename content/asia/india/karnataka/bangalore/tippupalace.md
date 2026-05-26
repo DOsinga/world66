@@ -5,6 +5,7 @@ longitude: 77.573684
 snippet: Tipu Sultan's ornate wooden summer palace
 tags:
 - things_to_do
+- sight
 - landmark
 title: Tippu Palace
 type: poi

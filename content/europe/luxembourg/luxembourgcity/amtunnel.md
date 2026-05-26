@@ -7,7 +7,9 @@ phone: (+352) 40155901
 snippet: Contemporary art gallery in a former railway tunnel
 tags:
 - things_to_do
+- ville_haute
 - gallery
+neighbourhood: Ville Haute
 title: Am Tunnel
 type: poi
 zipcode: L-2954 Luxembourg

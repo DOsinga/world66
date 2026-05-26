@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: ravello.jpg
+image_attribution: Epsilon68 - Street and Travel Photography on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/17279863@N05/32539012173
 latitude: 40.649664
+loc_type: city
 longitude: 14.612275
+score: 0.73
 title: Ravello
 type: location
-score: 0.73
-loc_type: city
 ---
 
 *Europe > Italy > Campania > Ravello*

@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: sumba.jpg
+image_attribution: Erik Christensen
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Beinisvord,_westcoast_of_suduroy,_faroe_islands.JPG
 latitude: 61.4033
+loc_type: city
 longitude: -6.7117
+score: 0.38
 title: Sumba
 type: location
-score: 0.38
-loc_type: city
 ---
 
 Sumba is the southernmost village in the Faroe Islands, perched on the southwestern tip of Suðuroy with the North Atlantic crashing against the cliffs below. About 250 people live here, and the setting is spectacular even by Faroese standards.

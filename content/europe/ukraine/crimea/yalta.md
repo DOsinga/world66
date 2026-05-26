@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-14'
+image: yalta.jpg
+image_attribution: Marcin Konsek
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Widok_na_Ja%C5%82t%C4%99_ze_statku_01.JPG
 latitude: 44.498787
+loc_type: city
 longitude: 34.168936
+score: 0.51
 title: Yalta
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Steep mountain peaks serve as a lovely backdrop for Yalta, the jewel of the Crimean peninsula and our favorite Ukrainian city. We're not surprised that the writer Anton Chekhov chose to live in this seaside resort — it seems to be a combination of Carmel, California, the French Riviera, and Greece. Yalta (pop. 80,000) has exemplary resorts, museums, and beaches.

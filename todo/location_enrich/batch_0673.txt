@@ -1,5 +1,0 @@
-northamerica/unitedstates/oregon/bend
-asia/indonesia/java/semarang
-northamerica/unitedstates/california/burlingame
-europe/unitedkingdom/northernireland/armagh
-europe/germany/badenwrttemberg/stuttgart

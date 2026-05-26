@@ -1,5 +1,0 @@
-asia/kazakhstan/almaty
-northamerica/unitedstates/newyorkstate/chautauqua
-asia/india/maharashtra/thane
-europe/ireland/rosslare
-africa/swaziland/lobamba

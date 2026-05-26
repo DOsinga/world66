@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-13'
+image: otaki.jpg
+image_attribution: Karora
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:JA1271_crossing_the_Otaki_River.jpg
 latitude: -40.758537
+loc_type: city
 longitude: 175.147015
 score: 0.42
 title: Otaki
 type: location
-loc_type: city
 ---
 
 Ōtaki is a small town on the Kapiti Coast in the lower North Island of New Zealand, about 70 kilometres north of Wellington. It's significant in New Zealand Māori history as one of the heartlands of the Ngāti Raukawa ki te Tonga iwi, and the town has a higher proportion of Māori residents than most Kapiti Coast settlements. The Rangiātea Church, built in 1851 and consecrated by the great Māori chief and Christian convert Rauparaha, was one of New Zealand's most important Māori churches before it burned down in 1995; a replica was completed in 2003.

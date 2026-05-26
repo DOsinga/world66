@@ -1,6 +1,6 @@
 ---
 done:
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: roeselare.jpg
 image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Roeselare_-_Market_square_1.jpg

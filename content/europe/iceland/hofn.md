@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-14'
+image: hofn.jpg
+image_attribution: Jac. Janssen
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:20160627_020_021_Panorama_IJsland_H%C3%B6fn_(27608762323).jpg
 latitude: 64.253265
+loc_type: city
 longitude: -15.208044
+score: 0.65
 title: Höfn
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Höfn is a small fishing town on the southeastern coast of Iceland, perched on a narrow spit of land with views across Hornafjörður bay to the immense white expanse of Vatnajökull, Europe's largest glacier. The town serves as the gateway to the glacier and its surrounding national park, and most travellers driving the Ring Road stop here for at least a night.

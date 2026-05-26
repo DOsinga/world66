@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-latitude: 16.500196
-longitude: 105.715595
+  location_enrich: '2026-05-13'
+image: savannakhet.jpg
+image_attribution: Aleksey Gnilenkov from Moscow, Russia
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Laos,_Savannakhet_(5323923252).jpg
+latitude: 16.557
+loc_type: city
+longitude: 104.749
+score: 0.41
 title: Savannakhet
 type: location
-score: 0.41
-loc_type: city
 ---
 
 Savannakhet is the second-largest city in Laos and the capital of its most populous province. Sitting on the Mekong opposite the Thai town of Mukdahan, it has a sleepy charm with crumbling French colonial buildings in its old quarter, a handful of Chinese shophouses, and a Vietnamese-influenced Mahayana Buddhist temple alongside the usual Lao wats.

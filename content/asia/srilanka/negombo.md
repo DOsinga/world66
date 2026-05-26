@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-07'
+image: negombo.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Negombo_Beach_resort_pool_(Unsplash).jpg
 latitude: 7.2096
+loc_type: city
 longitude: 79.8356
 score: 0.56
 title: Negombo
 type: location
-loc_type: city
 ---
 
 Negombo sits on the west coast of Sri Lanka, about 35 kilometres north of Colombo and a short tuk-tuk ride from the international airport. Most visitors pass through on their first or last night in the country — and that's not a bad idea. But the town rewards a longer look.

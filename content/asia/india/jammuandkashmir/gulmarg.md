@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: gulmarg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ancient_Temple,_Gulmarg.jpg
 latitude: 34.04897
+loc_type: city
 longitude: 74.39212
+score: 0.63
 title: Gulmarg
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Gulmarg ("meadow of flowers") sits at 2,690 m in the Baramulla district, 55 km west of Srinagar. In summer it is a broad green meadow ringed by peaks and home to what is claimed to be the world's highest golf course. In winter it becomes India's premier ski resort.

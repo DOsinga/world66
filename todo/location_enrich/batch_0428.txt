@@ -1,5 +1,0 @@
-europe/hungary/szombathely
-australiaandpacific/vanuatu/efate
-northamerica/honduras/tela
-northamerica/unitedstates/washington/issaquah
-northamerica/unitedstates/arizona/tucson

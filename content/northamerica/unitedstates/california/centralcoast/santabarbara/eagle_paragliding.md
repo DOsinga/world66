@@ -1,15 +1,14 @@
 ---
-address: http://www.eagleparagliding.com
-tags:
-- activities
-title: Eagle Paragliding
+title: "Eagle Paragliding"
 type: poi
+latitude: 34.4456
+longitude: -119.7244
+tags:
+  - things_to_do
+  - sport
+url: "www.eagleparagliding.com"
 ---
 
-Have you ever had dreams of being able to fly? Realize that dream today!!! Take a 1-2 day lesson, or fly tandem with one of the instructors. No prior experience necessary. The Elings Flight Park in Santa Barbara offers the best paragliding training hill in the United States. Ealge Paragliding is one of the most respected paragliding schools in the world, with award winning instruction. Fly like an Eagle!
+Eagle Paragliding flies tandem and runs lessons from **Elings Park** above Santa Barbara — a hill that catches a reliable afternoon thermal coming off the Pacific. Tandem flights last about 20 minutes; multi-day pilot certification courses take you from first ground handling to your first solo.
 
-type: Other
-
-
-
-address: http://www.eagleparagliding.com
+It is a real sport — not a theme-park experience — and the instructors are serious about safety. Book well ahead in summer. Plan to be in Santa Barbara for at least a couple of days in case the wind is wrong on your scheduled day.

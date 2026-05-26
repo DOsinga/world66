@@ -1,5 +1,5 @@
 northamerica/mexico/reynosa
 africa/algeria/tamanrasset
-europe/france/nord/boulogne/le_touquet
+europe/france/nord/le_touquet
 africa/mali/dogoncountry/djiguibombo
 europe/spain/navarre/pamplona

@@ -1,5 +1,0 @@
-northamerica/unitedstates/westvirginia/upper_falls
-africa/eritrea/assab
-asia/japan/honshu/amanohashidate
-europe/switzerland/breilbrigels
-europe/norway/arendal

@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: swakopmund.jpg
+image_attribution: Olga Ernst
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse_Swakopmund,_Namibia.jpg
 latitude: -22.6762
+loc_type: city
 longitude: 14.5253
 score: 0.56
 title: Swakopmund
 type: location
-loc_type: city
 ---
 
 Swakopmund sits at a collision of worlds: the cold Atlantic on one side, the oldest desert on earth on the other, and in the middle a town that looks as though it was transplanted wholesale from a Bavarian market square. The German colonial architecture — turrets, towers, Jugendstil facades — is not a veneer. It is the bones of the place, and the contrast with the surrounding dunes and fog-draped coast is genuinely strange and genuinely wonderful.

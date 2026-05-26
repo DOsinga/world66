@@ -3,10 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-The city of Narvik is located in the county of *Nordland *in Northern Norway. 
+**By air.** The nearest airport is **Harstad/Narvik Airport (EVE)** at Evenes, about 75 km north of town and shared with Harstad. SAS, Norwegian, and Widerøe fly several times a day from Oslo, with the flight taking around two hours. Airport coaches meet the main flights and run direct to Narvik bus terminal.
 
-**By plane:** Evenes airport (IATA designator "EVE") is located halfway between Narvik and the nearby city of Harstad, with which it shares the airport. Non-stop jet service is available from the Capital, Oslo, on *Braathens* and *Norwegian Air Shuttle.* The flight is approximately 1 hr 35 minutes long. In addition, regional, turboprop flights are available to several destinations within Northern Norway. 
+**By rail.** Narvik is the northern terminus of the **Ofotbanen**, a 43-kilometre branch line completed in 1902 to carry Swedish iron ore down to the ice-free Atlantic. The railway connects Narvik with Kiruna and the rest of the Swedish network — including overnight services south to Stockholm — and the ride through the Ofoten mountains is itself one of the great rail journeys of Europe. Note that Narvik is not connected to the Norwegian state railway.
 
-**By Rail:** Narvik is the northernmost city in Norway with rail-service. The 42 kilometer *Ofotbanen* branch line links the city to Kiruna in Sweden, where connections can be made to the entire Swedish Rail System. Note that Narvik is *not *connected to the Norwegian State Railroad network. The *Nordpilen* train offers comfortable overnight service (featuring a restaurant and an on-board big-screen movie theater) to Stockholm.
+**By road.** The main road link is the **E6**, the spine of mainland Norway, which reaches Narvik after about a 19-hour drive (1,350 km) from Oslo. The **E10** runs west across the Hålogaland Bridge towards the Lofoten Islands and east into Sweden. Long-distance Nor-way bus coaches connect Narvik with Bodø, Tromsø, and the northern fjords.
 
-**By car:** Located about 1 350 km north of Oslo, expect about 19 hrs driving time between the two cities, following European route E-6 the entire time. Easy connections to Sweden (via route E-10), the Lofoten islands (by road only, or by road and ferry), and the rest of Northern Norway (including Tromso and the North Cape).
+**By sea.** The Hurtigruten coastal steamer does not stop in Narvik itself, but the **Bodø–Lofoten ferries** combined with road or local boat connections make it possible to arrive by water from the south.

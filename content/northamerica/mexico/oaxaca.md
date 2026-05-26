@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-19'
+image: oaxaca.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Oaxaqa_(41).jpg
 latitude: 17.0732
+loc_type: city
 longitude: -96.7266
 score: 0.7
 title: Oaxaca
 type: location
-loc_type: city
 ---
 
 Oaxaca (pronounced "wah-HAH-ka") is the colonial capital of the state of the same name, about 500 km southeast of Mexico City on a high, dry plateau at 1,550 m. With just under 300,000 people in the city and another half-million in the surrounding valley, it is small enough to walk across in an afternoon — and it might be the most beautiful and engaging colonial town in Mexico. The whole historic centre is a UNESCO World Heritage Site, built in warm green and ochre volcanic stone.

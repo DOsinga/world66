@@ -3,18 +3,16 @@ title: "Day Trips"
 type: section
 ---
 
-**Palace of Schönbrunn**
+Vienna is well placed for day trips. Schönbrunn and the Vienna Woods are inside the city limits; for trips further afield the train is efficient and reasonably priced.
 
-The Palace of Schönbrunn is an easy day trip and can be reached on the U-Bahn (line number 4). It is free to visit the beautifully landscaped palace grounds which include fantastic fountains and faux Ancient ruins. There are several options for tours of the palace and some packages include other attractions on the grounds such as the zoo (Tiergarten), the topiary maze or the Imperial Coach Collection. The least expensive tour, the Imperial Tour, includes visits to 22 of the palace rooms with an audio guide and costs 9.50 Euro.
+**Wachau Valley** — A UNESCO World Heritage stretch of the Danube an hour west of Vienna, with terraced vineyards, the Benedictine abbey at Melk, the medieval town of Krems, and the apricot orchards of Dürnstein where Richard the Lionheart was once imprisoned. Easiest as an organised boat-and-train excursion.
 
-**Wienerwald (Vienna Woods)**
+**Bratislava** — The Slovak capital is one of the closest capital cities to Vienna (around an hour by train or a four-hour boat trip down the Danube). The old town is small, walkable, and pretty; the food and beer are noticeably cheaper.
 
-Another day trip option is a visit to the Vienna Woods or Wienerwald. From the city center, take the S-Bahn to Kahlenbergerdorf. From the train station, it is a short walk uphill to Leopoldsberg where you will find the remains of an old fort, some friendly cafes and great panoramic views of Vienna and the surrounding forest.
+**Klosterneuburg Abbey** — 12km north of the city centre, the 900-year-old Augustinian abbey holds the famous Verdun Altar and Austria's oldest working vineyard. Covered as a POI in this guide.
 
-**Seegrotte**
+**Mayerling** — A short trip into the Vienna Woods to the former hunting lodge where Crown Prince Rudolf killed his mistress and himself in 1889 — the scandal that did most to undermine the Habsburg succession.
 
-The Seegrotte or Sea Cave is the largest underground lake in Europe. The site was originally a mine, but it flooded in 1912 and had to be shut down. The maze of mine tunnels were used by the German army in World War II as an aircraft factory. A tour of the site takes you through the tunnels and on a boat ride on the lake. If you are using public transport, you need to take the S-Bahn to Modling and then transfer to a bus to get to the town of Hinterbruhl. The quiet and charming town of Hinterbruhl is also worth a visit.
+**Eisenstadt** — Capital of Burgenland, 45 minutes south-east of Vienna by train. The seat of the Esterházy princes and the place where Haydn worked for thirty years. The Esterházy Palace and Haydn's house are both open to visitors.
 
-**Melk Abbey**
-
-The Melk Abbey is an hour train ride from Vienna in the city of Melk (approximately 55 miles/88 kilometers from Vienna). Benedictine monks have been a presence on the hill above Melk for over 900 years but the present Abbey was not completed until 1732. The Church and grounds are excellent examples of Baroque architecture—prepare for an entrée into the “more is more” theory of decorating with plentiful amounts of gold, expansive painted ceilings and grand plaster detailing. In the summer, visitors are allowed to wander through the grounds unaccompanied if they wish, but in the winter, visits are only permitted as part of guided tours. There are English-language tours available.
+**Bratislava and the Wachau** are the two day trips that almost every visitor enjoys.

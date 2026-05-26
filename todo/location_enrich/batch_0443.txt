@@ -1,5 +1,5 @@
 europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester
 europe/russia/voronezh
 asia/thailand/kohlanta
-europe/ireland/cork/youghal
+europe/ireland/youghal
 northamerica/unitedstates/kansas/kansascity

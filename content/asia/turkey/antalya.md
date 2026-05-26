@@ -2,6 +2,9 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-11'
+image: antalya.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg
 latitude: 36.886573
 loc_type: city
 longitude: 30.703024

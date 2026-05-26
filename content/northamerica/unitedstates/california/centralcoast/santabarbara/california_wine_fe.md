@@ -1,30 +1,15 @@
 ---
-address: Chase Palm Park
-email: kami@californiawinefestival.com
-latitude: 34.415553
-longitude: -119.682589
-phone: 805-223-1880
-tags:
-- activities
-title: California Wine Festival
+title: "California Wine Festival"
 type: poi
-url: www.californiawinefestival.com
+latitude: 34.4156
+longitude: -119.6826
+tags:
+  - things_to_do
+  - festival
+address: "Chase Palm Park, Santa Barbara"
+url: "www.californiawinefestival.com"
 ---
 
-***The Quintessential Wine Tasting Experience!
-****Wine, food, blues, sea and sun.* These elements create a unique wine tasting experience at every California Wine Festival. A sunny seaside setting, hundreds of California’s best red and white wines, live blues music complemented by dozens of top chefs and specialty food purveyors serving gourmet appetizers, fresh cut fruits, grilled meats, artisan breads and cheeses and much more. Experience California’s most popular wine festival.
+Held each July at Chase Palm Park on the Santa Barbara waterfront, the California Wine Festival is the city's biggest wine event. More than 400 California labels pour over two days, alongside live blues music and food from local chefs. The Friday night "Sunset Reserve & Rare Wine Tasting" is the more interesting session for serious tasters; the Saturday "Reds, Whites & Blues" is more of a party.
 
-Santa Barbara’s Reds, Whites & Blues on the Beach – July 18-19
-Swaying palms and sparkling sands border Chase Palm Park at the beach in picturesque Santa Barbara. The warm sunny atmosphere is filled with live blues music and the aroma of exotic foods that accompany over 400 fine California wines. Festivities begin with a moonlit “Sunset Reserve & Rare Wine Tasting” on Friday night.
-
-type: Spa and Sauna
-
-
-
-tel: 805-223-1880
-
-url: [www.californiawinefestival.com](http://www.californiawinefestival.com)
-
-address: Chase Palm Park
-
-email:
+Tickets are not cheap and sell out in advance — book online. The festival is held at a beachfront park, so come for the wine but stay for the sea breeze and the music.

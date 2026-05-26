@@ -1,13 +1,18 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-19'
+image: pakse.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Multiple_rows_of_golden_statues_of_the_Buddha_seated_with_flowers,_at_Wat_Phou_Salao,_Pakse,_Laos.jpg
 latitude: 15.120146
+loc_type: city
 longitude: 105.804397
 score: 0.54
 title: Pakse
 type: location
-loc_type: city
 ---
 
 Pakse is the largest city in southern Laos and the gateway to some of the country's most rewarding destinations. Sitting at the confluence of the Mekong and Se Don rivers, it is a practical base rather than a destination in itself -- but it has a pleasant enough riverside setting and decent food.

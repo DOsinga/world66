@@ -7,7 +7,9 @@ longitude: 130.844755
 phone: +61 8 8981 4077
 snippet: Casual local seafood spot in Parap
 tags:
-- food
+- eating_out
+- restaurant
+- seafood
 title: Squidlo's
 type: poi
 ---

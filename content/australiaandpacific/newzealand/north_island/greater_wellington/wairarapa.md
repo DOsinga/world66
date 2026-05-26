@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-14'
+image: wairarapa.jpg
+image_attribution: 31kiwi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Wairarapa.jpg
 latitude: -41.23618
+loc_type: city
 longitude: 175.21969
+score: 0.54
 title: Wairarapa
 type: location
-score: 0.54
-loc_type: city
 ---
 
 The Wairarapa is the rural heart of the [Greater Wellington](/australiaandpacific/newzealand/north_island/greater_wellington) region, separated from the capital by the dramatic Rimutaka Range. Once you cross the hill road or take the train through the tunnel, Wellington's urban energy gives way to wide valleys, vineyards, and small towns with a distinctly unhurried pace. The name means "glistening waters," a reference to the large Lake Wairarapa that sits at the southern end of the plains.

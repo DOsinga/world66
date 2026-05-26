@@ -1,22 +1,25 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-17'
+image: dera_ghazi_khan.jpg
+image_attribution: Amanasad83
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Ghazi_khan_tomb_3_DG_khan_-_Shrine_of_Mullah_Qaid_Shah.jpg
 latitude: 30.032137
+loc_type: city
 longitude: 70.640111
 score: 0.23
 title: Dera Ghazi Khan
 type: location
-loc_type: region
 ---
 
-Travel Guide
+Dera Ghazi Khan — universally abbreviated to D.G. Khan — is a city of around half a million people in the southwestern corner of Punjab, close to the border with Balochistan. It sits at the confluence zone where the Indus and its tributaries flatten out onto the plains; the Sulaiman Mountains rise dramatically to the west.
 
-Dera Ghazi Khan the Royal City of Balochistan until anglo time of 1857. But later British Empire seprated it from Balochistan and it formed the as Division of Punjab Province in recent Pakistan. D.G.Khan Was founded by Ghazi Khan in 1494 A.D. Dera Ghazi Khan always remained the cetre of Balochi Culture and civilization. It forms three major areas in its depth and they are Tribal Areas , semi Tribal Areas and Nun Tribal Areas.
+Founded in 1494 by the Baloch chieftain Ghazi Khan Mirrani, the city was long a centre of Balochi culture and tribal administration, and retains that character. The dominant tribes — Mazari, Leghari, Khosa, Rind, Qaisrani — are names that carry weight in both Punjab and Balochistan politics, and D.G. Khan remains a place where feudal-era landholding patterns are still largely intact. The city itself is a busy, dusty, functional Punjab market town, not much visited by travellers but a useful stopping point on routes between the Punjab heartland and Balochistan.
 
-D.G.Khan Contain one of the Pakistan's main Textile Industry. All five rivers of Punjab including the Indus River flow through out this region. And comibine them into one near Kot Mithan. Main Tribes of Dera Ghazi Khan includes Lighari,Mazari,Khosa, Rind, Qaisrani, Lakani and Umrani.
+The area is known for its textile industry, particularly the D.G. Khan Cement Company, and the surrounding district produces cotton, wheat, and sugar cane. The Taunsa Barrage on the Indus to the north is a significant irrigation works and a gathering point for migratory birds. Taunsa Sharif, a few hours north, has one of the most-visited Sufi shrines in southern Punjab.
 
 ## Destinations in Dera Ghazi Khan
 
-[TAUNSA SHARIF](/asia/pakistan/dera_ghazi_khan/taunsa_sharif)
-[Rajan pur](/asia/pakistan/dera_ghazi_khan/rajan_pur)
-[Basti Fauja](/asia/pakistan/dera_ghazi_khan/basti_fauja)
+[Taunsa Sharif](/asia/pakistan/taunsa_sharif)

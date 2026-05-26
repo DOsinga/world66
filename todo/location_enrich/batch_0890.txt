@@ -1,5 +1,0 @@
-europe/italy/tuscany/florenceprovince/sievevalley/pontassieve
-asia/turkey/cappadocia/ihlaravalley
-northamerica/unitedstates/newmexico/shiprock
-europe/unitedkingdom/england/south_east/portsmouth
-europe/czechrepublic/lidice

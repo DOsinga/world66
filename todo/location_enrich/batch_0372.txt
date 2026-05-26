@@ -1,5 +1,0 @@
-southamerica/chile/iquique
-southamerica/brazil/gramado
-asia/philippines/daraga
-europe/austria/vienna
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton

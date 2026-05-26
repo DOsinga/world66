@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-The McCloud River Falls trail is the main attraction — a gentle hike along the river passing three distinct waterfalls. The lower falls are a popular swimming hole in summer. Contact the McCloud Ranger Station for trail conditions and maps.
+The headline sight is the **McCloud River Falls** trail, a gentle hike along the river passing three distinct waterfalls. Lower Falls is a popular swimming hole in summer; Middle Falls is the photogenic showpiece. Beyond that, McCloud is a base for exploring Mount Shasta, the old logging town itself, and the broader Cascade-Siskiyou backcountry.
+
+Contact the McCloud Ranger Station on the main street for trail conditions and maps, especially in shoulder seasons when snow can linger.

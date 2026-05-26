@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: winelands.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Domaine_Carneros,_Napa_Valley,_CA_USA_-_panoramio_(9)_(cropped).jpg
 latitude: -33.15101
+loc_type: region
 longitude: 19.615931
+score: 0.66
 title: Winelands
 type: location
-score: 0.66
-loc_type: region
 ---
 
 The Cape Winelands sit about 45 minutes east of [Cape Town](/africa/southafrica/capetown) in a series of valleys framed by jagged mountain ranges. The towns of Stellenbosch, [Franschhoek](/africa/southafrica/franschhoek), and [Paarl](/africa/southafrica/paarl) are the main centres, each with its own character.

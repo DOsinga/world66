@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
 latitude: 17.360589
+loc_type: city
 longitude: 78.474061
 score: 0.52
 title: Hyderabad
 type: location
-loc_type: city
 ---
 
 Hyderabad is the shared capital of Telangana and Andhra Pradesh, a sprawling city of nearly ten million built around the twin centres of the old Qutb Shahi city and the newer British cantonment of Secunderabad. Founded in 1591 by Muhammad Quli Qutb Shah, it is one of the great Indo-Islamic cities of the subcontinent — a place where the Deccan's Persianate courtly culture met Hindu traditions and produced something distinctive: the cuisine, the Dakhni Urdu, the architecture, and the ruling Nizams who were, until 1948, among the richest men in the world.

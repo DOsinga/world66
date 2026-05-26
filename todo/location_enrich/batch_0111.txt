@@ -1,5 +1,5 @@
 southamerica/colombia/pereira
-asia/iraq/arbil/duhok
+asia/iraq/duhok
 africa/ghana/dixcove
 europe/finland/helsinki
 europe/belgium/geel

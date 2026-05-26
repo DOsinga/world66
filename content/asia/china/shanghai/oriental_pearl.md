@@ -7,7 +7,9 @@ longitude: 121.4998
 snippet: Iconic 1990s TV tower with observation deck and history museum
 tags:
 - things_to_do
-- landmark
+- sight
+- architecture
+- pudong
 title: Oriental Pearl Tower
 type: poi
 ---

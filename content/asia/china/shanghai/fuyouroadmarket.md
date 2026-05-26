@@ -5,7 +5,8 @@ snippet: Four-storey antiques market with flexible prices
 address: "Fangbang Lu, near intersection with Henan Lu, Huangpu District"
 tags:
 - shopping
-- things_to_do
+- market
+- old_town
 latitude: 31.2274
 longitude: 121.4900
 ---

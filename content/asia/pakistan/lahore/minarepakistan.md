@@ -1,10 +1,12 @@
 ---
-category: Sight
 done:
   poi_cleanup: '2026-04-20'
 latitude: 31.5925
 longitude: 74.3098
 snippet: 62-metre tower marking Pakistan's founding resolution
+tags:
+- things_to_do
+- sight
 title: Minar-e-Pakistan
 type: poi
 ---

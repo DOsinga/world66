@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-Ioannina's main attractions are the old castle district on the lake shore, the island of Pamvotis across the water, and the Cave of Perama a few kilometres outside the city. All three are accessible on a single day, and the island is particularly rewarding — the boat ride takes five minutes and the lanes feel like a different world from the mainland city.
+Start in the **old castle district** (Kastro) on the lake shore — the lower town with its narrow lanes and Aslan Pasha Mosque, then climb up into the **Its Kale citadel** to see the Byzantine Museum, the Fethiye Mosque, and the tomb of Ali Pasha. A boat from the Mavili promenade takes you across to **Ioannina Island** for the Pantelimon monastery and the Ali Pasha museum.
+
+Beyond the city itself, the **Perama Cave** is a 15-minute drive north, the ancient oracle of **Dodona** a half-day southwest, and the **Zagori mountains** to the north are easily Epirus's most beautiful country — stone bridges, slate-roofed villages, and the high mountain lake of **Drakolimni** for serious walkers.

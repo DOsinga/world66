@@ -1,5 +1,0 @@
-europe/finland/pirkkala
-asia/cambodia/kep
-asia/thailand/krabi/krabitown
-asia/china/guangzhou
-africa/kenya/westernkenya/kitale

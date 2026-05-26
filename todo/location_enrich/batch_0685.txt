@@ -1,5 +1,0 @@
-northamerica/unitedstates/ohio/dayton
-northamerica/honduras/gracias
-asia/india/rajasthan/bundi
-northamerica/unitedstates/utah/logan
-europe/france/aquitaine/iledoleron

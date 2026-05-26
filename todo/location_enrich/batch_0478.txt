@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/buena_park
-europe/spain/galicia/el_bierzo
-asia/jordan/anjara
-northamerica/unitedstates/pennsylvania/benton
-europe/italy/liguria/italianriviera/paradisegulf/recco

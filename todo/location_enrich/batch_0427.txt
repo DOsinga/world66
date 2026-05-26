@@ -1,5 +1,0 @@
-northamerica/dominicanrepublic/puertoplata/puertoplatacity
-northamerica/unitedstates/newhampshire/dover
-asia/syria/hama
-europe/france/normandybrittany/bnouville
-asia/india/gujarat/anand

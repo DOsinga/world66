@@ -1,5 +1,5 @@
-northamerica/unitedstates/california/sandiego/chulavista
+northamerica/unitedstates/california/chulavista
 europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione
 asia/japan/ryukyuislands/zamamiisland
 northamerica/canada/nunavut/resolute
-northamerica/unitedstates/texas/houston/brazosportarea
+northamerica/unitedstates/texas/brazosportarea

@@ -1,11 +1,13 @@
 ---
 address: Olavinkatu 40
-category: bars_and_cafes
 done:
   poi_cleanup: '2026-04-20'
 latitude: 61.869874
 longitude: 28.880045
 snippet: Late-night club on Savonlinna's main street
+tags:
+  - bars_and_cafes
+  - bar
 tel: 535 5161
 title: Club Reef
 type: poi

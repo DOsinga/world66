@@ -7,7 +7,7 @@ address: "311 E. Grand River Ave."
 phone: "(517) 372-0887"
 snippet: From-scratch Mexican food with giant burritos and all-day breakfast
 tags:
-- things_to_do
+- eating_out
 - restaurant
 ---
 

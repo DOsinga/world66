@@ -1,5 +1,0 @@
-asia/china/hainanisland/dadonghai
-northamerica/nicaragua/la_paz_centro
-australiaandpacific/frenchpolynesia/tahiti/papeete
-asia/tajikistan/penjikent
-northamerica/unitedstates/ohio/toledo

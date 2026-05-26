@@ -8,7 +8,8 @@ phone: +92 321 8401358
 price: Around Rs 50 per plate with boti
 snippet: Famous murgh chanay near Lahore Railway Station since 1980s
 tags:
-- eat
+- eating_out
+- restaurant
 title: Butt Murgh Chanay
 type: poi
 ---

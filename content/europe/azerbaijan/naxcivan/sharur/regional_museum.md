@@ -5,7 +5,7 @@ snippet: Small local museum covering Sharur district history and archaeology
 tags:
 - things_to_do
 - museum
-title: Regional Museum
+title: Sharur Regional Museum
 type: poi
 ---
 

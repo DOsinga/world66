@@ -6,7 +6,7 @@ longitude: -84.5394
 address: "637 E. Michigan Ave., Lansing, MI"
 snippet: American comfort food in a beautifully restored 1903 rail station
 tags:
-- things_to_do
+- eating_out
 - restaurant
 ---
 

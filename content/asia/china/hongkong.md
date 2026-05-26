@@ -2,18 +2,19 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
-  poi_cleanup: '2026-04-19'
   poi_cleanup: '2026-04-21'
 image: hongkong.jpg
 image_attribution: Benh LIEU SONG (Flickr)
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg
 latitude: 22.3193
+loc_type: city
 longitude: 114.1694
 score: 0.8
+sources:
+- https://en.wikivoyage.org/wiki/Hong_Kong
 title: Hong Kong
 type: location
-loc_type: region
 ---
 
 Hong Kong is one of the most exhilarating cities on earth — a vertical, electric, relentless place where East and West collide in the most productive possible way. For 156 years a British colony, it was handed back to China in 1997 under a "one country, two systems" arrangement that preserved its common law courts, free press, and capitalist economy. The neon, the harbour, the dim sum, the frantic energy: all of it still very much in place.

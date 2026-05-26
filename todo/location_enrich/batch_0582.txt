@@ -2,4 +2,4 @@ africa/libya/gharyan
 europe/denmark/roskilde
 europe/estonia/toila
 africa/southafrica/houtbay
-northamerica/unitedstates/california/losangeles/catalina
+northamerica/unitedstates/california/catalina

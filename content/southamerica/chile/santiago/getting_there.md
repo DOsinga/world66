@@ -1,10 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-**all**
+**By air** — Comodoro Arturo Merino Benítez International Airport (SCL) is 21 kilometres northwest of downtown. It handles extensive international service from North America, Europe, and across South America. From the airport, the Centropuerto and Turbus express buses run to the Pajaritos metro station, where you connect to the city. Taxis to the centre cost around 15,000–20,000 Chilean pesos (roughly USD 15–20). Avoid unlicensed taxis in the arrivals hall; use the official stands.
 
-**By air**
+**By bus** — The Alameda Bus Terminal (Terminal Alameda) and the nearby Terminal Santiago and Turbus Terminal are the main long-distance arrival points, all clustered on Avenida Libertador Bernardo O'Higgins in the west of the centre. Frequent services from Valparaíso, Concepción, Temuco, and the Argentine cities of Mendoza and Buenos Aires.
 
-Comodoro Arturo Merino Benitez is Chile's international airport, located 21 kilometers (13 miles) from downtown Santiago. Taxis are plentiful from the airport. Fares range from $15 to $20 to most downtown destinations. Buses, as well as shuttle services are also available. Buses operate 24 hours [more..](/southamerica/chile/santiago/gettingthere/byair)
+**By train** — Long-distance rail services connect Santiago south to Chillán and Temuco via Metrotren, from the Estación Central on the Alameda.

@@ -1,6 +1,6 @@
 ---
-latitude: 28.2008
-longitude: 83.9505
+latitude: 28.2011
+longitude: 83.9449
 snippet: White Buddhist stupa with panoramic views over Pokhara and the Annapurnas
 tags:
 - things_to_do

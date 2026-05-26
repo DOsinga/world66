@@ -1,12 +1,15 @@
 ---
-title: Bodh Gaya
-type: location
-latitude: 24.6961
-longitude: 84.9869
 done:
   location_cleanup: 2026-04-07
-score: 0.57
+image: bodhgaya.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mahabodhi_temple_at_Bodhgaya_in_Bihar_21.jpg
+latitude: 24.6961
 loc_type: city
+longitude: 84.9869
+score: 0.57
+title: Bodh Gaya
+type: location
 ---
 
 Bodh Gaya is where Siddhartha Gautama sat beneath a pipal tree and became the Buddha. That single event, some 2,500 years ago, made this small town in Bihar one of the most important pilgrimage sites in the world. Today it draws thousands of Buddhist monks, nuns, and pilgrims from across Asia, alongside a steady stream of curious travelers.

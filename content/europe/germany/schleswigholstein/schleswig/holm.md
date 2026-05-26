@@ -5,7 +5,8 @@ latitude: 54.5133
 longitude: 9.5641
 snippet: Quiet old fishing quarter on a peninsula by the Dom
 tags:
-- neighbourhood
+  - things_to_do
+  - neighbourhood
 title: Holm
 type: poi
 ---

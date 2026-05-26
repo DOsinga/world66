@@ -3,27 +3,8 @@ title: "Day Trips"
 type: section
 ---
 
-The
-great thing about the region of Southern Arizona is the endless amount
-of day trip options that you have available! Using Tucson as your
-homebase allows you to be close to a lot of great small towns that will
-be the perfect add on to your visit to Tucson. Here are a couple of day
-trip ideas:
-**
+Tucson is a good base for the saguaro desert in every direction. Saguaro National Park sits on both sides of the city, and within an hour or two you can reach copper-mining ghost towns, Spanish missions in the Santa Cruz valley, and the cool pine forests of Mount Lemmon.
 
-Saguaro National Park**
+The classic loop south — Tubac and Tumacácori on the way to Nogales and the Mexico border — makes a good day. East, [Colossal Cave](/northamerica/unitedstates/arizona/tucson/colossal_cave_park) and Saguaro National Park East fill an easy afternoon. North, [Catalina State Park](/northamerica/unitedstates/arizona/tucson/catalina_state_par) and the mining town of Oracle. Southeast, the historic mining and gunslinger town of Tombstone, about 75 miles.
 
-Just
-outside of Tucson, the Saguaro National Park offers a lush landscape of
-the great Southern Arizona outdoors. It is a mixture of green paloverde
-trees, purple cacti and teddy bear cholla with curious local fauna such
-as the road runner (beep beep!) and the javelina. Even though you have
-encountered the saguaro in either postcards or license plates of
-Arizona, nothing compares to the real thing. At the Saguaro National
-Park, you will find plenty of saguaros. This national park offers
-amazing hiking trails and scenic drives. Another option while visiting
-the Saguaro National Park is to visit the Tanque Verde Ranch at 14301
-E. Speedway Boulevard for a great cowboy experience. You will be guided
-by wranglers in horse back rides into the sunset.
-Finish
-off the day by driving
+For something more adventurous, drive up Mount Lemmon — an hour from town climbs through five vegetation zones to pine forest at 9,000 feet, with hiking trails, a small ski area in winter, and excellent stargazing at the [Mount Lemmon SkyCenter](/northamerica/unitedstates/arizona/tucson/mount_lemmon_skycenter).

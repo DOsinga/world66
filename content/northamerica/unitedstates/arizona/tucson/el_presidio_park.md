@@ -1,26 +1,14 @@
 ---
-accessibility: easy to access
-address: 115 North Church St
-latitude: 36.100837
-longitude: -78.301935
-opening_hours: all day and night
-tags:
-- sights
-title: El Presidio Park
+title: "El Presidio Park"
 type: poi
+latitude: 32.2225
+longitude: -110.9744
+address: "115 North Church Avenue, Tucson, AZ"
+tags:
+  - things_to_do
+  - sight
 ---
 
-El Presidio park has a million things to do and see on its fertile grounds. It is also well known for the Tucson Vietnam Veterans Memorial (which is located in the park). The park was constructed right on what was at that time called the Plaza de las Armas. This stands for the southern half of the frontier, which was at one time announced by Colonel Hugo O’Conor. Hugo was a member of the Spanish army and declared this in 1775. In addition, the park is excellent for picnics and long walks with friends. Get there early in the morning to watch the sunrise in beautiful Tucson. The El Presidio park is a perfect place for Tucson activities.
+El Presidio Park is the green public square at the heart of downtown Tucson, occupying part of the Plaza de las Armas of the original 1775 Spanish Presidio. Today it is a tree-shaded plaza in front of the old Pima County Courthouse — useful as a starting point for downtown walks, with the Tucson Vietnam Veterans Memorial along the western edge.
 
-**Contributors**
-May 06, 2009
-
-type: Parks, Gardens and Zoos
-
-
-
-accessibility: easy to access
-
-openingHours: all day and night
-
-address: 115 North Church St
+The plaza hosts farmers' markets, food festivals and the city's main Día de los Muertos altars. The reconstructed adobe walls of the [Presidio San Agustín del Tucsón](/northamerica/unitedstates/arizona/tucson/presidio_san_agustin) sit a block north.

@@ -1,5 +1,0 @@
-asia/thailand/kohchang/koh_mak
-asia/india/himachalpradesh/khajjiar
-northamerica/unitedstates/vermont/bellowsfalls
-europe/croatia/murter
-northamerica/canada/ontario/mississauga

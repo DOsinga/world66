@@ -1,5 +1,0 @@
-europe/italy/umbria/trevi
-europe/italy/basilicata/matera
-asia/vietnam/dienbienphu
-southamerica/argentina/buenosaires
-europe/russia/vologda_region/vologda

@@ -9,6 +9,7 @@ snippet: Only urban Audubon Center in the US, 200+ bird species
 tags:
 - things_to_do
 - park
+- brooklyn
 title: Prospect Park Audubon Center
 type: poi
 url: www.prospectparkaudubon.com

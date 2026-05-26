@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-21'
+image: arras.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Le_palais_des_Etats_d%27Artois_et_le_Beffroi_-_Arras.jpg
 latitude: 50.291
+loc_type: city
 longitude: 2.7772
 score: 0.52
 title: Arras
 type: location
-loc_type: city
 ---
 
 Arras is a small city with an outsized sense of place. Its centrepiece is one of the finest Flemish baroque ensembles in France: two vast cobblestone squares — the Grand'Place and the Place des Héros — ringed by tall gabled facades in honey-coloured stone. It is a deeply French town that looks conspicuously Flemish, a quirk of history that gives it a character unlike anywhere else in the region.

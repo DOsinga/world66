@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: devon.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dartmoor_ponies_by_the_B3212_-_geograph.org.uk_-_4546147.jpg
 latitude: 50.72414
+loc_type: region
 longitude: -3.660779
 score: 0.63
 title: Devon
 type: location
-loc_type: region
 ---
 
 Devon is situated in southern England and is a very beautiful county, famous for many picturesque and varied environments in both coastline and countryside.

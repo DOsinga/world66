@@ -1,5 +1,0 @@
-northamerica/unitedstates/massachusetts/worcester
-northamerica/canada/newbrunswick/moncton
-northamerica/dominicanrepublic/santiago_de_los_caballeros
-europe/germany/saxony/bautzen
-europe/finland/savonlinna

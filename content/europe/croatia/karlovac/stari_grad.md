@@ -8,7 +8,8 @@ story: The star-shaped ground plan was designed by Italian military architect Ma
   Gambon and laid out using Renaissance mathematical principles in 1579. Walk the
   full perimeter of the moat-turned-park and you can trace all six points of the star.
 tags:
-- history
+- things_to_do
+- sight
 - architecture
 title: Stari Grad (Old Fortress Town)
 type: poi

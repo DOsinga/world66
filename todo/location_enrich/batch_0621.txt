@@ -1,5 +1,0 @@
-africa/tunisia/tataouine
-africa/namibia/swakopmund
-northamerica/unitedstates/wisconsin/eau_claire
-europe/unitedkingdom/england/south_east/reading
-northamerica/unitedstates/pennsylvania/harrisburg

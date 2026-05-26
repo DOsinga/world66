@@ -8,6 +8,7 @@ phone: +352-473989
 snippet: Salsa nights and rum in a sociable Latin bar
 tags:
 - bars_and_cafes
+- bar
 title: Rincón Latino
 type: poi
 ---

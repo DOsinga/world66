@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: ofu.jpg
+image_attribution: The U.S. National Park Service
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Ofu_Beach_American_Samoa_US_National_Park_Service.jpg
 latitude: -14.184507
+loc_type: city
 longitude: -169.669072
+score: 0.5
 title: Ofu
 type: location
-score: 0.5
-loc_type: city
 ---
 
 Ofu is part of the Manu'a Island group, about 100 kilometres east of Tutuila and a 30-minute flight on a small plane. It's connected to its twin island Olosega by a short bridge.

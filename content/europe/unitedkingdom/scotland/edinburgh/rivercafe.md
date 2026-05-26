@@ -9,6 +9,7 @@ snippet: Relaxed Stockbridge café-bistro near the Water of Leith
 tags:
 - bars_and_cafes
 - cafe
+- stockbridge
 title: River Café
 type: poi
 ---

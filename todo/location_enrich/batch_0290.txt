@@ -1,5 +1,0 @@
-europe/norway/bergen
-europe/faroeislands/streymoy/vestmanna
-europe/france/east/champagne/sedan
-asia/china/macau/coloane
-africa/nigeria/calabar

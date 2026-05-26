@@ -1,5 +1,8 @@
 asia/pakistan/patriata
 europe/estonia/kihnu_island
 northamerica/unitedstates/florida/tampabayarea/yborcity
-europe/unitedkingdom/scotland/edinburgh/stockbridge
 northamerica/unitedstates/texas/fort_worth
+africa/morocco/marrakesh
+asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni
+europe/ireland/cork
+northamerica/mexico/guanajuato

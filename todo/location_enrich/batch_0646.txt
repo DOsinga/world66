@@ -1,5 +1,5 @@
 asia/india/orissa/bhubaneswar/karanjia__similip
 europe/croatia/pula
-northamerica/canada/britishcolumbia/vancouver/delta
+northamerica/canada/britishcolumbia/delta
 asia/japan/kansai
 europe/france/midi/basqueregion/biarritz

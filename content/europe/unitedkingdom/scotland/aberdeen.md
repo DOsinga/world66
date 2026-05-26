@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: aberdeen.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:%2B_%22Silver_City%22_wird_Aberdeen_wegen_seiner_vielen_Granitgeb%C3%A4ude_genannt._07.jpg
 latitude: 57.148243
+loc_type: city
 longitude: -2.092809
 score: 0.51
 title: Aberdeen
 type: location
-loc_type: city
 ---
 
 With a proud and fascinating history, the City of Aberdeen presents a modern cosmopolitan image to visitors who are often surprised by the many diverse attractions which the regional capital of Grampian Highlands offers.

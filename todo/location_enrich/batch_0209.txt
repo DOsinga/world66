@@ -1,5 +1,0 @@
-northamerica/saintkittsandnevis/st_kitts
-europe/ukraine/crimea/simferopol
-asia/thailand/phuket/patong
-europe/austria/altaussee
-europe/spain/balearicislands/mallorca/porto_colom

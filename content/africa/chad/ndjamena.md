@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'
+image: ndjamena.jpg
+image_attribution: Korom10
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_central_de_N%27djamena.jpg
 latitude: 12.1348
+loc_type: city
 longitude: 15.0557
 score: 0.25
 title: N'Djamena
 type: location
-loc_type: city
 ---
 
 N'Djamena, formerly Fort Lamy under French colonial rule, is the capital and largest city of [Chad](/africa/chad). It sits on the Chari River across from Kousseri in Cameroon, and it is where nearly every trip to Chad begins and ends. It is not a city you visit for its own sake, but it has its own rough charm if you give it time.

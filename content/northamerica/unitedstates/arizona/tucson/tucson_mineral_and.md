@@ -1,21 +1,16 @@
 ---
-address: 2801 South Kinney Road, Tucson, Arizona 85735.
-phone: 520-883-0682
-tags:
-- sights
-title: Tucson Mineral and Gem World
+title: "Tucson Mineral and Gem World"
 type: poi
-url: www.tucsonmineral.com
+latitude: 32.2026
+longitude: -111.0935
+address: "2801 S. Kinney Road, Tucson, AZ 85735"
+phone: "(520) 883-0682"
+url: "www.tucsonmineral.com"
+tags:
+  - things_to_do
+  - shopping
 ---
 
-The Tucson Mineral and Gem World offers delightful and traditional rocks and gems for all different types of collectors. With over 100,000 items in their shop, collectors have the option of coming into the store to purchase them or order them online. Some of their collection includes: minerals, Arizona minerals, fossils, artifacts, crystals, meteorites and many other things. The Tucson Mineral and Gem World has been around for over 30 years and one of only a few Arizona attractions, that offer up minerals. In addition to the shop, visitors are encouraged to explore their museum, containing tons of artifacts and fossils.
+A long-running rocks-and-fossils shop on the way out to the [Arizona-Sonora Desert Museum](/northamerica/unitedstates/arizona/tucson/arizonasonora_des), with a vast warehouse stuffed with thousands of mineral specimens, geodes, meteorites and trinkets. It is part shop, part natural-history curiosity — even if you have no interest in buying, the giant petrified-wood logs out front and the trilobite cabinets inside are worth a look.
 
-type: Parks, Gardens and Zoos
-
-
-
-tel: 520-883-0682
-
-url: [www.tucsonmineral.com](http://www.tucsonmineral.com/)
-
-address: 2801 South Kinney Road, Tucson, Arizona 85735.
+The whole place comes alive during the Tucson Gem and Mineral Show in February, when satellite shows fill warehouses across the city. Free admission.

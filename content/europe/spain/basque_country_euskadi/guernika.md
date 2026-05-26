@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: guernika.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Arbol_de_Gernika_d%C3%ADa.jpg
 latitude: 42.992426
+loc_type: city
 longitude: -3.008872
+score: 0.56
 title: Guernika
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Guernika — also spelled Gernika — is a small market town in the Basque highlands whose name became known worldwide after April 1937, when Nazi and Fascist warplanes bombed it in support of Franco, killing hundreds of civilians. Picasso's response was the enormous monochrome painting that now hangs in Madrid's Museo Reina Sofía; the town's own museum holds a full-size reproduction and a permanent exhibition on the attack and its aftermath.

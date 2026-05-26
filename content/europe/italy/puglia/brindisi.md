@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: brindisi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Brindisi_-_monumento_al_Marinaio_d%27Italia_-_202109012300_3.jpeg
 latitude: 40.63586
+loc_type: city
 longitude: 17.688498
+score: 0.57
 title: Brindisi
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Most travellers end up in Brindisi because they need a ferry — to Greece, to Albania, or onward to the eastern Mediterranean. The port has been doing this job for over two thousand years: it was the terminus of the Via Appia, and the Roman column marking the end of the road still stands on the waterfront.

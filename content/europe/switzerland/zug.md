@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-12'
+image: zug.jpg
+image_attribution: LohriPR
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:City_of_zug_oldtown_aerial_view_%E8%80%81%E9%95%87.jpg
 latitude: 47.148614
+loc_type: city
 longitude: 8.553938
+score: 0.53
 title: Zug
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Zug is one of Switzerland's smallest cantons and its most prosperous. The city sits on the northeastern shore of Lake Zug, with the Alps rising clearly to the south and the rolling hills of the Mittelland stretching north. It is wealthy in a quiet, understated way — low taxes have drawn banks, commodity traders, and pharmaceutical companies here for decades — but the old town along the lake still feels like the medieval market settlement it once was.

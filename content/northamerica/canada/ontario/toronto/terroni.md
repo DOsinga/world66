@@ -1,8 +1,8 @@
 ---
 address: 720 Queen Street West
 email: http://www.terroni.ca/locations.html
-latitude: 39.838952
-longitude: -75.172299
+latitude: 43.644722
+longitude: -79.413611
 phone: 416 504-0320
 tags:
 - eating_out

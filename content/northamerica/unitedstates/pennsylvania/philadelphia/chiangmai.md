@@ -5,21 +5,12 @@ longitude: -75.30628
 phone: 610-397-1757
 tags:
 - eating_out
+- restaurant
 title: Chiangmai
 type: poi
+snippet: "Excellent Thai restaurant in nearby Conshohocken, worth the short trip from the city"
 ---
 
-While visiting Philadelphia, make time for some authentic Thai food at Chiangma. It’s in the suburbs of Philly, but worth the trip. The eatery is not too big in size, but highly popular with locals and travelers alike. It’s a good idea to make a reservation if dining on a Friday or Saturday night. Enjoy reasonable prices for dishes like Thai Basil, Chu Chee duck, Fried Rice and Chicken Satay. Be sure and order the sweet Thai iced tea, which is frothy but the coconut milk maks it silky-smooth. Start your meal with one of their tasty soups like the lemongrass or chicken coconut and you won’t be disappointed. Overall, both the service and food are excellent. Plus, the elegant Thai atmosphere is a real treat.
+While visiting Philadelphia, make time for some authentic Thai food at Chiangmai — it's in nearby Conshohocken, a short drive or train ride from the city, but worth the trip. The restaurant is not large but is highly popular with locals and travelers alike. Make a reservation if dining on a Friday or Saturday night.
 
-**Contributors**
-April 09, 2009
-
-type: Thai
-
-
-
-
-
-tel: 610-397-1757
-
-address: 108 Fayette Street, Conshohocken, PA
+Dishes like Thai Basil, Chu Chee duck, Fried Rice, and Chicken Satay are all reliable. The sweet Thai iced tea — frothy with coconut milk — is worth ordering on its own. Start with one of the soups, lemongrass or chicken coconut, and work your way through a menu that rewards adventurous ordering. Service is excellent and the atmosphere is genuinely warm.

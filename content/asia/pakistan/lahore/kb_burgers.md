@@ -9,6 +9,7 @@ phone: 0423-7594021 0322-4040373
 snippet: Iconic Lahore burger joint serving beef burgers since 1983
 tags:
 - eating_out
+- restaurant
 title: KB Burgers
 type: poi
 ---

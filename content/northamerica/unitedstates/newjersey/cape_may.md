@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: cape_may.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cape_May_NJ_from_airplane_(August,_2022).jpg
 latitude: 39.176539
+loc_type: city
 longitude: -74.801212
+score: 0.55
 title: Cape May
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Cape May sits at the very southern tip of New Jersey, where the Delaware Bay meets the Atlantic. It is one of the oldest seaside resorts in the United States — presidents from Lincoln to Harrison holidayed here — and the entire town is a National Historic Landmark district, packed with elaborate Victorian houses painted in bright colours.

@@ -1,5 +1,0 @@
-africa/egypt/asyut
-europe/italy/trentinoaltoadige/val_di_fassa/canazei
-europe/greece/piraeus
-europe/italy/liguria/italianriviera/rivieradellepalme/urbe
-northamerica/unitedstates/vermont/wilmington

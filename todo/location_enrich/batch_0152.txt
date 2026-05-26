@@ -1,5 +1,5 @@
 europe/hungary/zalakaros
-europe/albania/saranda/jal
+europe/albania/jal
 europe/unitedkingdom/northernireland/omagh
 asia/thailand/prachuap_khiri_khan
 europe/unitedkingdom/northernireland/derry

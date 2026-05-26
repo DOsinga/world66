@@ -6,7 +6,10 @@ longitude: 98.203111
 score: 0.59
 title: Mae Hong Son
 type: location
-loc_type: region
+loc_type: city
+image: maehongson.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mae_Hong_Son_(2007-02-473).jpg
 ---
 
 Mae Hong Son is a peaceful spot in the north-western corner of Thailand, sheltered by mountains and shaped by centuries of Burmese influence. The town is small, walkable, and popular with independent travellers -- more than 20 guesthouses line the quiet streets.

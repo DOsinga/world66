@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-12'
+image: gardone.jpg
+image_attribution: amanessinger on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/24201453@N04/50753709371
 latitude: 45.618785
+loc_type: city
 longitude: 10.5591
+score: 0.63
 title: Gardone
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Gardone sits just north of Salò on the western shore of Lake Garda. It is a small and rather charming place, quieter than the busier resort towns further north.

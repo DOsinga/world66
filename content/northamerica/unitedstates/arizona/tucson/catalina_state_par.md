@@ -1,20 +1,15 @@
 ---
-address: 11570 Oracle Road  Tucson, AZ
-latitude: 32.397991
-longitude: -110.96086
-phone: 520-628-5798
-tags:
-- sights
-title: Catalina State Park
+title: "Catalina State Park"
 type: poi
+latitude: 32.4291
+longitude: -110.9216
+address: "11570 Oracle Road, Tucson, AZ"
+phone: "520-628-5798"
+tags:
+  - things_to_do
+  - sight
 ---
 
-Catalina State Park is a beautiful park, located right at the bottom of the Santa Catalina Mountains. Tons of trails and paths weave in and out of this large state park. There are nearly 5,00 saguaros in the area and sits on 5,500 acres of gorgeous Tucson landscape. The Catalina State Park is one of the larger Tucson attractions, offering up streams that are ideal for camping next to. In addition, trails are open to the public for birding, biking, hiking and equestrian activities. As an added bonus, the park is only a few minutes from the downtown Tucson area, so it is as convenient as it is beautiful. There are also grills and restrooms in this one of a kind park.
+Catalina State Park covers 5,500 acres at the foot of the Santa Catalina Mountains on Tucson's far northern edge. The cactus forest is dense — nearly 5,000 saguaros — and the trails range from easy nature loops to the strenuous climb to Romero Pools, a series of natural rock pools deep in the canyon that hold water after winter rains.
 
-type: Parks, Gardens and Zoos
-
-
-
-tel: 520-628-5798
-
-address: 11570 Oracle Road Tucson, AZ
+The Romero Pools trail (3.5 miles, around 1,000 feet of climbing) is the classic walk here; go early in spring when the pools are full and the wildflowers are at their peak. Hummingbirds, javelinas, and the occasional desert tortoise are common. There is a small day-use fee, plus a campground that fills up months ahead in the cool season.

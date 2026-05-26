@@ -2,16 +2,21 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-15'
+image: savonlinna.jpg
+image_attribution: Mikko Paananen
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Savonlinna_hein%C3%A4kuu_2002_IMG_1635.JPG
 latitude: 61.869874
+loc_type: city
 longitude: 28.880045
 score: 0.57
 title: Savonlinna
 type: location
-loc_type: city
 ---
 
-Located in Europe's largest lake district, Savonlinna has around 30,000 inhabitants and was built on three islands joined together by bridges. Besides the scenic natural environment the main attraction is St. Olaf's Castle. This great looking fortress was founded in 1475 by Erik Axelsson Tott. The castle served to repel attacks from the east and to guarantee control of the Savo region for the Swedish Crown.
+Located in Europe's largest lake district, Savonlinna has around 30,000 inhabitants and was built on three islands joined together by bridges. Besides the scenic natural environment the main attraction is [St Olaf's Castle (Olavinlinna)](/europe/finland/savonlinna/olavinlinna). This great looking fortress was founded in 1475 by Erik Axelsson Tott. The castle served to repel attacks from the east and to guarantee control of the Savo region for the Swedish Crown.
 
 The medieval castle consists of a main castle with three towers and a bailey with an encircling wall reinforced by towers. The castle went through numerous phases of construction, first as a Swedish and from 1743 as a Russian border fortification. It has been among Finland's best-known tourist attractions since the latter 19th century. It houses a restaurant and festival halls.
 
-It is also home of the annual Savonlinna Opera Festival, which takes place in July, and the Savonlinna Ballet Festival every June.
+It is also home of the annual [Savonlinna Opera Festival](/europe/finland/savonlinna/opera_festival), which takes place in July, and the Savonlinna Ballet Festival every June. Outside town, the [Punkaharju ridge](/europe/finland/savonlinna/punkaharju) and the enormous wooden [Kerimäki Church](/europe/finland/savonlinna/kerimaki_church) are well worth a day-trip.

@@ -1,5 +1,0 @@
-europe/slovenia/nova_gorica
-europe/sweden/visby
-europe/italy/liguria/italianriviera/rivieradellepalme/bormida
-northamerica/unitedstates/northcarolina/davidson
-europe/croatia/porec

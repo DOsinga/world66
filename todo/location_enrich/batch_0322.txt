@@ -1,5 +1,5 @@
 asia/india/bihar/bodhgaya
 northamerica/canada/manitoba/shoal_lake
-asia/pakistan/dera_ghazi_khan/taunsa_sharif
+asia/pakistan/taunsa_sharif
 asia/india/himachalpradesh/keylong
 europe/portugal/algarve/praia_verde

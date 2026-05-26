@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-13'
+image: peoria.jpg
+image_attribution: 'User: (WT-shared) Ethajek at wts wikivoyage'
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Caterpillarhq.JPG
 latitude: 40.6939
+loc_type: city
 longitude: -89.5891
+score: 0.37
 title: Peoria
 type: location
-score: 0.37
-loc_type: city
 ---
 
 Peoria sits on the Illinois River in central Illinois and has long been considered a bellwether for mainstream America — "Will it play in Peoria?" is the classic test of Middle American appeal. With about 115,000 people, it is the largest city in central Illinois and the global headquarters of Caterpillar Inc., the heavy equipment manufacturer whose yellow machines are visible on construction sites worldwide. The city has more going on than its reputation suggests.

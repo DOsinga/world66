@@ -2,21 +2,26 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-15'
   poi_cleanup: '2026-04-20'
+image: luxembourgcity.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_Neum%C3%BCnster,_ciudad_de_Luxemburgo,_Luxemburgo,_2023-12-17,_DD_22-24_HDR.jpg
 latitude: 49.599833
+loc_type: city
 longitude: 6.13572
 score: 0.64
 title: Luxembourg City
 type: location
-loc_type: city
 ---
 
 Luxembourg City is the country's capital and its cultural, political, and financial centre. It sits on a rocky outcrop above the deep gorges of the Alzette and Pétrusse rivers — a setting that gave rise to some of the most impressive fortifications in Europe, and that earned the old town and its fortresses a UNESCO World Heritage listing in 1994.
 
 The city is small — around 130,000 inhabitants — but punches hard. It is one of the three official seats of European Union institutions (alongside Brussels and Strasbourg), and home to the European Court of Justice, the European Court of Auditors, and the Secretariat of the European Parliament. This EU presence, combined with a large financial sector, makes Luxembourg City genuinely cosmopolitan: more than 70% of the city's residents are non-Luxembourgish, with Portuguese, French, Italian, and Belgian communities the largest groups.
 
-The old town — the Haute Ville — is compact and walkable. The Bock Casemates, a network of underground galleries carved into the rock over centuries, run for 23 kilometres and were once capable of sheltering 35,000 soldiers; today they are one of the most visited sights in the city. The Chemin de la Corniche promenade follows the old ramparts above the Alzette valley with fine views across the Grund neighbourhood below. The Grand Ducal Palace on the Rue du Marché-aux-Herbes is the official residence of the Grand Duke and open for tours in summer.
+The old town — the [Haute Ville](/europe/luxembourg/luxembourgcity/ville_haute) — is compact and walkable. The [Bock Casemates](/europe/luxembourg/luxembourgcity/bock_casemates), a network of underground galleries carved into the rock over centuries, run for 23 kilometres and were once capable of sheltering 35,000 soldiers; today they are one of the most visited sights in the city. The [Chemin de la Corniche](/europe/luxembourg/luxembourgcity/chemin_de_la_corniche) promenade follows the old ramparts above the Alzette valley with fine views across the Grund neighbourhood below. The [Grand Ducal Palace](/europe/luxembourg/luxembourgcity/grand_ducal_palace) on the Rue du Marché-aux-Herbes is the official residence of the Grand Duke and open for tours in summer.
 
-The Grund, in the valley below the old town, is the liveliest neighbourhood for eating and drinking. The Kirchberg plateau to the east, connected by the new tram, houses the EU institutions and the Philharmonie concert hall. The city has decent nightlife for its size, and a concentration of Michelin-starred restaurants that rivals much larger capitals.
+The [Grund](/europe/luxembourg/luxembourgcity/grund), in the valley below the old town, is the liveliest neighbourhood for eating and drinking. The [Kirchberg](/europe/luxembourg/luxembourgcity/kirchberg) plateau to the east, connected by the new tram, houses the EU institutions and the [Philharmonie](/europe/luxembourg/luxembourgcity/philharmonie) concert hall. The city has decent nightlife for its size, and a concentration of Michelin-starred restaurants that rivals much larger capitals.
 
 Luxembourg City makes an excellent base for day trips: [Vianden](/europe/luxembourg/vianden) is 40 km north, [Echternach](/europe/luxembourg/echternach) 30 km northeast, and the Moselle wine villages are under an hour away by public transport — which, since 2020, is free.

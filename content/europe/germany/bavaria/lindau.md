@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-14'
+image: lindau.jpg
+image_attribution: CodyR on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/21603648@N00/4762387227
 latitude: 47.550753
+loc_type: city
 longitude: 9.692662
+score: 0.59
 title: Lindau
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Lindau is a small Bavarian town on an island in Lake Constance (the Bodensee), connected to the mainland by a road causeway and a railway bridge. The setting is exceptional — the old town sits on the island while the Alpine peaks of Austria and Switzerland rise across the water.

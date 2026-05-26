@@ -1,44 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-22'
 latitude: 44.292536
 longitude: 8.412652
 title: Quiliano
 type: location
 score: 0.39
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Quiliano
 ---
 
-Situated in the hinterland between Savona and
- Vado Ligure, the ancient Aquilianum belonged
- to the marchesi Del Carretto who ceded it to the
- commune of Savona in 1192, with the
- obligation to enfeoff it to the local stewards.
- From the twelfth century onward, the territory
- was split into two parts, one subject to the
- commune of Savona with the community of
- Quiliano, poder or “estate” of Savona, the seat
- of the podestà who had a strictly civil
- jurisdiction, and the other a fief of the bishop of
- Savona. In 1385 it was ceded to the commune
- of Genoa, which placed it under the podestà of
- the Costa dei Vada. In the sixteenth century a
- local podestà was installed with solely civil
- jurisdiction, but still subject to the governor of
- Savona. With the creation of the Ligurian
- Democratic Republic in 1797 it was made a
- free commune.
- Two Roman bridges and the ruins of three more
- mark the layout of the ancient Via Julia
- Augusta (second century AD) in Val Quazzola.
- A few ruins of the medieval castle are still
- visible on the outskirts of the town. The church
- of San Pietro a Carpignana, which stands with
- its fifteenth-century campanile at the entrance
- to the valley, has original Romanesque
- structures. The entrepreneurial skills of the
- inhabitants and the existence of good road
- connections have encouraged the development
- of manufacturing activities. The traditional
- product of the land is the wine called
- “Buzzetto.”
+Quiliano is a small hill commune in the Ligurian hinterland, tucked into the valley of the Quiliano stream a few kilometres west of Savona. It's not a destination in its own right, but if you're exploring the coast between Savona and Vado Ligure, the valley is worth a detour: ancient Roman road traces, Romanesque churches, and wooded hills that feel a world away from the coastal resort towns below.
+
+The valley follows the course of the ancient Via Julia Augusta, the Roman road linking Genoa to France. Two Roman bridges survive in the Val Quazzola, along with the ruins of three more — the footprints of a road that shaped this coastline for centuries. The church of San Pietro a Carpignana, with its 15th-century campanile, preserves Romanesque stonework at the entrance to the valley.
+
+The village produces a local white wine called Buzzetto, made from a grape variety found almost nowhere else. It's the kind of wine you drink at a table in someone's garden and never quite track down again.

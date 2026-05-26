@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: 2026-04-04
+image: newmexico.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Moonrise,_Hernandez,_New_Mexico_(cropped).jpg
 latitude: 34.5199
+loc_type: region
 longitude: -105.8701
+score: 0.56
 title: New Mexico
 type: location
-score: 0.56
-loc_type: region
 ---
 
 New Mexico calls itself the Land of Enchantment, and for once the tourism slogan is not an exaggeration. This is a state where ancient pueblo dwellings sit beneath enormous skies, where the desert erupts in volcanic lava fields and white gypsum dunes, and where the food will make you sweat in the best possible way. It is unlike anywhere else in the United States.

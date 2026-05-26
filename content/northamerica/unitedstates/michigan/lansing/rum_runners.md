@@ -5,7 +5,7 @@ longitude: -84.543
 phone: (517) 482-4949
 snippet: Dueling piano bar with audience requests across from the ballpark
 tags:
-- nightlife
+- bars_and_cafes
 - bar
 title: Rum Runners
 type: poi

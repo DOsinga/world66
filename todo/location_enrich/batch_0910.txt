@@ -1,5 +1,0 @@
-europe/netherlands/hilversum
-europe/italy/liguria/italianriviera/rivieradellepalme/cosseria
-europe/norway/spitsbergen/nybyen
-europe/austria/steyr
-northamerica/bahamas/eleuthera

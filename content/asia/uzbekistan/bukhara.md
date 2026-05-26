@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: bukhara.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2012_Bukhara_7515821196_cropped.jpg
 latitude: 39.775984
+loc_type: city
 longitude: 64.415153
 score: 0.67
 title: Bukhara
 type: location
-loc_type: city
 ---
 
 Bukhara is one of the most famous cities on the ancient Silk Road. [Samarkand](/asia/uzbekistan/samarkand) is maybe a bit more famous, but Bukhara wins hands down when it comes to atmosphere. This city is alive! 

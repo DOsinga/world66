@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: mariegalante.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Guadeloupe_map.png
 latitude: 15.9333
+loc_type: city
 longitude: -61.2667
+score: 0.55
 title: Marie-Galante
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Marie-Galante is a round, flat island about 25 km south of Guadeloupe's main island, reachable by ferry in roughly an hour from Pointe-à-Pitre. It is quieter and more rural than Guadeloupe proper — a place of sugarcane fields, ox carts still used on some farms, and beaches that haven't been packaged for mass tourism. The islanders call it "the island of a hundred windmills," a reference to the sugar mills that once dominated the landscape; some of the stone towers still stand.

@@ -1,17 +1,12 @@
 ---
-title: "When to Go in Zakopane"
+title: "When to Go"
 type: section
 ---
 
-If you&rsquo;re looking for some **Zakopane - When To Go** tips, you should definitely read the next few lines. Zakopane is a beautiful mountain resort, and thanks to the fact that the area around is a protected national park, the town has preserved its traditional aesthetic, which makes it an even more interesting place to visit.
+Zakopane has two distinct high seasons. **December to March** is the skiing season — the slopes on Kasprowy Wierch and Gubałówka have reliable snow, the Ski Jumping World Cup in January brings crowds and atmosphere, and the town has an energetic, boozy aprés-ski character. Book accommodation well in advance for New Year and the January peak.
 
-**Winter
-**
+**June to September** is the summer hiking season. Trails are well-marked and maintained, the cable car runs to Kasprowy Wierch, and the route to Morskie Oko is busy but beautiful. July and August are the most crowded months, with Kraków day-trippers filling the town on weekends. June and September offer the best compromise of reliable weather and manageable crowds. The High Tatras can see severe afternoon thunderstorms in summer — start hikes early and descend from exposed ridges before noon.
 
-Zakopane is one of the best Polish ski resorts. The ski season usually begins at the end of November and lasts up until the beginning of March. Besides skiing, you can also practice ski trekking and ski jumping. The tracks are suitable both for advanced skiers and beginners, with the latter having the opportunity to practice under the supervision of qualified instructors. Several notable events are held each January in Zakopane: the Slalom of Stars, the Ski Jumping World Cup, and the Polish Freeskiing competition.**
-**
+**April to May** and **October to November** are the shoulder seasons — quieter, cheaper, and unpredictable. Snow is possible in both periods on the higher trails. The Tatry National Park keeps most routes open year-round, but avalanche risk closes some paths in early spring.
 
-**Summer
-**
-
-If you decide to visit Zakopane in the summer, there sure is a lot to do. The area offers a number of challenging peaks ideal for all rock climbing enthusiasts. Over 250 km of trails are available for hiking and mountain biking. Bikes can be rented from the town, so you don&rsquo;t need to carry extra luggage. Short day trips can take you to numerous interesting locations, like the Niedzica Gothic Renaissance castle, for example. If you manage to visit Zakopane in August, you will have the chance to attend the International Highland Folklore festival, which attracts tourists from around the world.
+The **International Highland Folklore Festival** in late August brings folk music, dance, and costume from highland communities across the Carpathians. It is one of the better folk music events in Poland and worth timing a visit around if the dates work.

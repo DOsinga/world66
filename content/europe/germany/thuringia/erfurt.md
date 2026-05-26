@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: erfurt.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kr%C3%A4merbr%C3%BCcke,_Erfurt_6.jpg
 latitude: 50.977797
+loc_type: city
 longitude: 11.028736
+score: 0.53
 title: Erfurt
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Of all Germany's large cities, Erfurt is the one most redolent of prewar Germany. Although it lost a couple of important monuments in bombing raids, it was otherwise little damaged in World War II — and its streets of grand turn-of-the-century shopfronts were saved from postwar developers by the fact that the city ended up in East Germany.

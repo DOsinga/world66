@@ -1,12 +1,15 @@
 ---
-title: Lugano
-type: location
-latitude: 46.005
-longitude: 8.952
 done:
   location_cleanup: 2026-04-07
-score: 0.7
+image: lugano.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Lago_di_Lugano_at_Sunset_(cropped_2).jpg
+latitude: 46.005
 loc_type: city
+longitude: 8.952
+score: 0.7
+title: Lugano
+type: location
 ---
 
 Lugano is Switzerland's third-largest city and the largest in the Italian-speaking canton of Ticino, situated on Lake Lugano just 30 km from the Italian border. The people speak Italian, dress Italian, and eat Italian — in many ways it feels like you've already crossed into Italy, except the trains run on time and the streets are spotless.

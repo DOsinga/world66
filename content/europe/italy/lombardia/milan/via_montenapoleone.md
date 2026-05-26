@@ -6,9 +6,8 @@ latitude: 45.4696
 longitude: 9.1968
 tags:
   - things_to_do
+  - shopping
   - sight
-  - "48 Hours in Milan"
-  - "3 Days in Milan"
 snippet: Milan's luxury fashion district with flagship designer stores
 ---
 

@@ -3,17 +3,11 @@ latitude: 21.981776
 longitude: 96.090801
 tags:
 - eating_out
+- restaurant
 title: BBB
 type: poi
 ---
 
-The BBB has excellent European food. The steak with mushrooms (the
-N-steak), 2 US$, has become famous on the Asia trail. The coconut fish
-is even better (7/99). Most of the visitors recommend that restaurant, because it is in the
-downtown and right in a location, ,just near the moat, from where you can plan your trip for
-the day.
+BBB (Burma Bite Bistro) became a fixture on the backpacker trail for its Western-friendly menu in a country where European food was hard to find. Located near the palace moat in central Mandalay, it serves steaks, pasta, and coconut fish alongside Burmese dishes. The steak with mushrooms — the "N-steak" as it appeared on the original handwritten menu — acquired something of a cult following among travellers arriving overland.
 
-**Contributors**
-June 21, 2005
-
-type: European
+The atmosphere is relaxed and the location convenient for the palace area. Prices are modest by any Western standard.

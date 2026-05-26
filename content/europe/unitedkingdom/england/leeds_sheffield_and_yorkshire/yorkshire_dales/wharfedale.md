@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: wharfedale.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Wharfedale_near_Buckden_(7860).jpg
 latitude: 54.0042
+loc_type: region
 longitude: -1.9033
+score: 0.56
 title: Wharfedale
 type: location
-score: 0.56
-loc_type: region
 ---
 
 Upper Wharfedale is one of the most attractive valleys in the Yorkshire Dales, running from the wild headwaters of Langstrothdale down through a succession of pretty stone villages to the priory ruins of Bolton Abbey and then out of the National Park towards Ilkley.

@@ -1,5 +1,0 @@
-europe/russia/tomsk
-europe/georgia/gori
-europe/france/alpes/meribel
-northamerica/unitedstates/florida/tampabayarea/tampa
-northamerica/unitedstates/california/centralvalley/selma

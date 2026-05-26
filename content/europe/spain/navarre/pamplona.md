@@ -1,12 +1,15 @@
 ---
-title: Pamplona
-type: location
-latitude: 42.8182
-longitude: -1.644
 done:
   location_cleanup: 2026-04-06
-score: 0.71
+image: pamplona.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Monumento_a_los_Fueros_(Pamplona).jpg
+latitude: 42.8182
 loc_type: city
+longitude: -1.644
+score: 0.71
+title: Pamplona
+type: location
 ---
 
 Pamplona is the city Hemingway made famous. Every July, the **San Fermin Festival** sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.

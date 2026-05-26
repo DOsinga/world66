@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: bagno_vignoni.jpg
+image_license: Copyrighted free use
+image_source: https://commons.wikimedia.org/wiki/File:Chiesa_bagno_vignoni.jpg
 latitude: 43.028123
+loc_type: city
 longitude: 11.618679
+score: 0.63
 title: Bagno Vignoni
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Bagno Vignoni is a tiny hamlet in the Val d'Orcia, south of Siena, and one of the most quietly extraordinary villages in Tuscany. Where most Italian hill towns have a central piazza, this one has a large, steaming thermal pool — a Roman bath that has been here for two thousand years and still defines the whole settlement around it. St. Catherine of Siena reportedly bathed here. Lorenzo de' Medici came to take the waters. Today you can't swim in the pool itself, but you can stand at its edge and understand why this place has drawn people for centuries.

@@ -1,14 +1,8 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-**Heimat- und Wein-Museum**
+Lieser's pleasures are simple and wine-centred. The main activity is walking or cycling the Mosel-Radweg, the river cycling path that runs through the village — downstream to Bernkastel-Kues takes about twenty minutes by bike and brings you to one of the most picturesque medieval market squares in Germany. The vineyards above the village, particularly the Niederberg Helden site on the steep southern slope, reward a short uphill walk for the views over the river valley.
 
-Local and wine museum in Lieser. Owner Alois Heid has collected over many years a wealth of items documenting local history and tradition.
-
-Opening hours: call +49-6531-2777. Entrance fee: 1 EUR.
-
-**Schloss Lieser**
-
-An absolute highlight of the 19th-century wine castle tradition on the Mosel. Freiherr Schorlemer built this grand estate in the middle of a large park which is open to the public.
+Schloss Lieser stands prominently above the village, its neo-Gothic towers visible from the river road. The Heimat- und Wein-Museum documents local village and wine history. Several wineries offer tastings by appointment — Weingut Sybille Kuntz is the most internationally recognised estate in the village.

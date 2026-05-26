@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: lalibela.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg
 latitude: 12.03671
+loc_type: city
 longitude: 39.046112
+score: 0.71
 title: Lalibela
 type: location
-score: 0.71
-loc_type: city
 ---
 
 Missing Lalibela would be like going to Egypt and not seeing a pyramid. This small town in the Lasta mountains, 340 km north of Addis Ababa, holds 11 Orthodox churches carved out of solid red rock in the 12th century — some of the greatest architectural marvels on earth.

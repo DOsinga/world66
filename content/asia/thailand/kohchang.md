@@ -2,12 +2,15 @@
 done:
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
+image: kohchang.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_west_coast_of_Ko_Chang,_Thailand.jpg
 latitude: 12.054617
+loc_type: region
 longitude: 102.337343
 score: 0.66
 title: Koh Chang
 type: location
-loc_type: region
 ---
 
 Thailand's second-largest island sits in the Gulf of Thailand near the Cambodian border, about 300 km southeast of Bangkok. Unlike Phuket or Koh Samui, Koh Chang still has a rugged, jungled interior that takes up most of the island — steep mountains, waterfalls, and thick tropical forest. The Mu Ko Chang National Marine Park protects the island and dozens of smaller ones in the surrounding archipelago.

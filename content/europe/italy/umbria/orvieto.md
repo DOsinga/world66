@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: orvieto.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_orvieto_aerial_pano_2024.jpg
 latitude: 42.718615
+loc_type: city
 longitude: 12.108791
+score: 0.7
 title: Orvieto
 type: location
-score: 0.7
-loc_type: city
 ---
 
 Orvieto rises dramatically from a flat volcanic plateau of tufa rock in southern Umbria, visible for miles across the surrounding countryside. The town's centrepiece is its Duomo, one of Italy's great Gothic cathedrals — the striped black-and-white marble facade, covered in mosaics and relief carvings, is genuinely jaw-dropping even by Italian standards. The cathedral took three centuries to build and contains Luca Signorelli's famous frescoes of the Last Judgment in the Cappella di San Brizio.

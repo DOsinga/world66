@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: mekongdelta.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Tractor_Mekong_Delta_Vietnam.jpg
 latitude: 9.750896
+loc_type: region
 longitude: 105.22246
+score: 0.65
 title: Mekong delta
 type: location
-score: 0.65
-loc_type: region
 ---
 
 The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River — known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons — originates high on the Tibetan plateau and flows through [China](/asia/china), between [Myanmar](/asia/myanmar) and [Laos](/asia/laos), along the Lao-Thai border, and through [Cambodia](/asia/cambodia) before reaching Vietnam.

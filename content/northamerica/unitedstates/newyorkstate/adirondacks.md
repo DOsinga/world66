@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: adirondacks.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Adirondacks_2016_Cascade_mountain_hike.jpg
 latitude: 44.0
+loc_type: region
 longitude: -74.0
+score: 0.65
 title: Adirondacks
 type: location
-score: 0.65
-loc_type: region
 ---
 
 The Adirondack Park is the largest publicly protected area in the contiguous United States -- six million acres of mountains, forests, and lakes that dwarf Yellowstone, Yosemite, and the Grand Canyon combined. It is not a national park but a patchwork of public and private land in upstate New York, and that mix gives it a character all its own: wild backcountry one moment, small-town diners and antique shops the next.

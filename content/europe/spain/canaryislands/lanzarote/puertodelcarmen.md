@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: puertodelcarmen.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:PuertodelcarmenBeach.JPG
 latitude: 28.9204
+loc_type: city
 longitude: -13.6507
+score: 0.6
 title: Puerto del Carmen
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Puerto del Carmen is Lanzarote's biggest resort and where most package holidaymakers end up. It stretches for about six kilometres along the southeast coast, a strip of hotels, apartment complexes, restaurants, and bars running parallel to a long sandy beach. It is not the most characterful place on the island, but it has everything you need and makes a convenient base.

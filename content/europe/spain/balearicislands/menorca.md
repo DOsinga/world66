@@ -1,12 +1,12 @@
 ---
-title: Menorca
-type: location
-latitude: 39.949257
-longitude: 4.049964
 done:
   location_cleanup: 2026-04-07
-score: 0.76
+latitude: 39.949257
 loc_type: region
+longitude: 4.049964
+score: 0.76
+title: Menorca
+type: location
 ---
 
 Menorca is the quieter, less-developed of the major Balearic Islands — a deliberate choice, since the island was declared a UNESCO Biosphere Reserve in 1993, limiting large-scale development and preserving the interior farmland and coastline. The result is an island that feels genuinely unspoiled compared to its neighbours Mallorca and Ibiza: narrower roads, smaller resorts, and a rural landscape of dry-stone walls, holm oak forests, and wildflower meadows.

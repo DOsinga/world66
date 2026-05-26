@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+image: poitiers.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Poitiers_hill.jpg
 latitude: 46.58026
+loc_type: city
 longitude: 0.340196
 score: 0.52
 title: Poitiers
 type: location
-loc_type: city
 ---
 
 Poitiers is one of the great historic cities of France, though it is surprisingly little visited. Set on a rocky promontory between two rivers in west-central France, it has been a crossroads since Roman times — Charles Martel turned back the Moorish advance here in 732, and the Black Prince captured the French king nearby in 1356.

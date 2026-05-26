@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: finaleligure.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Finalborgo4.jpg
 latitude: 44.1693
+loc_type: city
 longitude: 8.344
+score: 0.59
 title: Finale Ligure
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Finale Ligure is one of the western Riviera's most appealing small towns — a place where sandy beaches meet dramatic limestone cliffs and medieval hilltop villages sit just minutes from the shore. The town is actually three settlements in one: Finalmarina on the seafront with its long palm-lined promenade, the walled medieval borough of Finalborgo (regularly listed among Italy's most beautiful villages), and the quieter Finalpia to the east.

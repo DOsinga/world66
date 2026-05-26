@@ -2,24 +2,25 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
+  location_enrich: '2026-05-17'
 latitude: 43.236392
+loc_type: city
 longitude: 76.945728
 score: 0.55
 title: Almaty
 type: location
-loc_type: city
+image: almaty.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ascension_Cathedral,_Almaty_KZ.JPG
+image_license: CC BY 3.0
+image_attribution: Stomac
 ---
 
-**ALMATY** (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capital. It can be rightfully called the most beautiful city in the country. 
+Almaty is Kazakhstan's largest city and its cultural capital — the former capital of the Kazakh Soviet Socialist Republic and, after independence, of Kazakhstan itself until the government relocated to Astana in 1997. The city of over two million people sits in a broad bowl at the northern foothills of the Tien Shan mountains, with glaciated peaks visible from the city streets on any clear day. No other major city in the world has such spectacular mountain access from its centre.
 
+The city's history is comparatively short. It was founded as a Russian fort in 1854, rebuilt after a devastating earthquake in 1887, and rebuilt again after another in 1910. This explains why Almaty has little genuinely old architecture — most of the surviving historical buildings are from the Soviet period. The exceptions are the [Zenkov Cathedral](/asia/kazakhstan/almaty/zenkov_cathedral), a remarkable wooden Russian Orthodox church in [Panfilov Park](/asia/kazakhstan/almaty/panfilov_park) built in 1904 that survived both earthquakes, and a handful of late-19th century structures in the old town around Zhibek Zholy.
 
- The history of Almaty is not very long. In comparison with other cities in Central Asia it is quite young. It was founded in 1854 by Russians in the valley of Almaty and was just a fort at first. Its name was Zailisky, then it was named Verny. In 1921 it became Alma-Ata and in 1929 it became the capital of the Kazakh Soviet Socialist Republic. In 1993 it became Almaty.
+What Almaty does have is the best urban infrastructure in Central Asia, a cosmopolitan culture shaped by the Soviet mixing of nationalities, and a restaurant and nightlife scene that draws visitors from across the region. The [Green Bazaar](/asia/kazakhstan/almaty/green_bazaar) is one of the finest traditional markets in Central Asia. The [Central State Museum](/asia/kazakhstan/almaty/central_state_museum) on [Republic Square](/asia/kazakhstan/almaty/republic_square) gives the best single overview of Kazakhstan's history and the ancient nomadic cultures that preceded it.
 
+Above the city, the mountains are the main attraction. [Medeu](/asia/kazakhstan/almaty/medeu) — the world's highest ice rink — is 15 kilometres from the centre; [Shymbulak](/asia/kazakhstan/almaty/shymbulak) ski resort is above it. The [Ile-Alatau National Park](/asia/kazakhstan/almaty/wild_apple_forests) begins at the city's edge, and its lower slopes are where the wild apple trees grow — the genetic ancestors of every apple sold in every supermarket in the world. Alma-Ata, the city's former name, means "Father of Apples" in Kazakh.
 
- The city is located at the foot of Tien Shan Mountains at the altitude of 700-900 meters above sea level. Unfortunately, because the city is located in a valley, smog easily accumulates here. However, a little higher in the mountains the air is crystal clear and many people have “dachas” (a small garden or an orchard with a small hut or a house) there. A dacha is not only a source of various fruits and vegetables, it is also a place to relax and enjoy the fresh air.
-
-
- The city has a lot of unique architectural sites. Among those are the bath-house Arasan, the Otrar Hotel, the Cathedral in the Park of the 28 Panfilov Soldiers, and many others. The architectural sites of Almaty are comparatively modern because of the destructive earthquakes that happened in Almaty in 1887 and 1910. A lot of buildings were destroyed at that time.
-
-
- The climate of Almaty is quite mild. It is never as cold here as in the northern parts of the country and you can easily survive without a fur hat and a fur coat. However, because of higher humidity it may seem a little colder in winter than it is in fact.
+Day trips from Almaty reach [Charyn Canyon](/asia/kazakhstan/almaty/charyn_canyon) to the east and the UNESCO-listed [Tamgaly petroglyphs](/asia/kazakhstan/almaty/tamgaly_petroglyphs) to the northwest. The [Arasan Baths](/asia/kazakhstan/almaty/arasan_baths_poi) near Panfilov Park offer an authentic Soviet-era bathing experience still very much in use. For views over the city, [Kok Tobe](/asia/kazakhstan/almaty/kok_tobe) hill is reached by cable car from Dostyk Avenue.

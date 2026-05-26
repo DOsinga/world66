@@ -1,13 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-20'
+image: kochi.jpg
+image_attribution: bethom33 on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/92475647@N05/26072713247
 latitude: 33.559
+loc_type: city
 longitude: 133.5311
 score: 0.64
 title: Kōchi
 type: location
-loc_type: city
 ---
 
 Kōchi is the most characterful city on Shikoku, and many people find it the most likeable. Set on the Pacific coast of the island's southern prefecture, it is a city of around 320,000 that retains a genuine roughness — a hangover from its days as the capital of Tosa, a domain historically so remote and rugged that the shogunate could never quite tame it. That independent spirit is still here, in the directness of the people, the strength of the local sake, and the swagger of Kōchi's contribution to the Meiji Restoration.
@@ -16,6 +21,6 @@ The city's most striking landmark is **Kōchi Castle** (*Kōchi-jo*), one of onl
 
 Below the castle, **Otesuji-dori** — the city's broad, tree-lined main street — hosts a Sunday market (*Nichiyō-ichi*) that has been running for 300 years. Hundreds of stalls sell vegetables, antiques, plants, tools, and food, and locals turn out in force. It is one of the best markets in Japan and a good reason to plan your visit around a Sunday.
 
-About 13km south of the centre, the rocky peninsula of **Katsurahama** is Kōchi's most famous stretch of coast — pine trees, a crescent of dark sand, and a bronze statue of **Sakamoto Ryōma**, the Tosa-born samurai who helped broker the alliance that brought down the shogunate. He is something of a local deity here, and the **Sakamoto Ryōma Memorial Museum** on the hill above the beach is genuinely good. The beach itself is not for swimming (currents are fierce) but the coastal scenery is striking.
+About 13km south of the centre, the rocky peninsula of [Katsurahama](/asia/japan/shikoku/kochi/katsurahama) is Kōchi's most famous stretch of coast — pine trees, a crescent of dark sand, and a bronze statue of **Sakamoto Ryōma**, the Tosa-born samurai who helped broker the alliance that brought down the shogunate. He is something of a local deity here, and the Sakamoto Ryōma Memorial Museum on the hill above the beach is genuinely good. The [Makino Botanical Garden](/asia/japan/shikoku/kochi/makino_botanical_garden) on Godaisan hill honours another local hero — the botanist Tomitaro Makino, who catalogued Japan's plant life over a lifetime of obsessive fieldwork.
 
-Kōchi's food culture is distinctive. *Katsuobushi* — bonito — is the city's obsession; the local speciality *katsuo no tataki* (lightly seared bonito over a straw flame, served with garlic and ginger) is arguably the best fish dish in Japan. The city's *izakayas* are lively and unpretentious, and the local sake and *yuzu* (citrus) drinks are excellent.
+Kōchi's food culture is distinctive. *Katsuobushi* — bonito — is the city's obsession; the local speciality *katsuo no tataki* (lightly seared bonito over a straw flame, served with garlic and ginger) is arguably the best fish dish in Japan. The city's *izakayas* are lively and unpretentious, and the local sake and *yuzu* (citrus) drinks are excellent. In August, the [Yosakoi Festival](/asia/japan/shikoku/kochi/yosakoi_festival) fills the streets with 20,000 costumed dancers — one of the great spectacles of the Japanese summer.

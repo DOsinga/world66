@@ -1,5 +1,0 @@
-asia/srilanka/arugam_bay
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon
-northamerica/unitedstates/florida/sarasota
-northamerica/unitedstates/alabama/fort_payne
-asia/philippines/bohol/chocolatehills

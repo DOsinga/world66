@@ -8,6 +8,7 @@ snippet: Contemporary art gallery on Berlin's gallery-lined Auguststrasse
 tags:
 - things_to_do
 - gallery
+- berlinmitte
 title: Arndt & Partner
 type: poi
 ---

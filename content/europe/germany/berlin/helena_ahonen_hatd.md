@@ -10,6 +10,7 @@ phone: +49 30 44033662
 snippet: Handmade minimalist hats and caps for men and women
 tags:
 - shopping
+- prenzlauerberg
 title: Helena Ahonen Hatdesign
 type: poi
 url: www.helenaahonen.com

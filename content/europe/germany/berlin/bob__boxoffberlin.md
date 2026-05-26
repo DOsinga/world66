@@ -5,9 +5,11 @@ email: info@boxoffberlin.de
 latitude: 52.507298
 longitude: 13.388123
 phone: +49 30 44701555
-snippet: Shop, cafe, and gallery packed with Berlin-made souvenirs near Checkpoint Charlie
+snippet: Shop, cafe, and gallery packed with Berlin-made souvenirs near Checkpoint
+  Charlie
 tags:
 - shopping
+- berlinmitte
 title: bob boxoffberlin
 type: poi
 url: www.boxoffberlin.de

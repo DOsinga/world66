@@ -8,6 +8,7 @@ opening_hours: Tu-Fr 10am -6pm, Sa 1pm -5pm
 snippet: Contemporary art gallery in Mitte showing emerging international artists
 tags:
 - shopping
+- berlinmitte
 title: Schipper & Krome
 type: poi
 ---

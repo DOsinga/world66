@@ -11,6 +11,7 @@ snippet: Berlin's city history museum in a neo-Gothic Spree-side building
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Märkisches Museum
 type: poi
 url: www.stadtmuseum.de

@@ -7,6 +7,7 @@ snippet: Spanish tapas spot near Wasserturm park
 tags:
 - eating_out
 - restaurant
+- prenzlauerberg
 title: Aragon
 type: poi
 ---

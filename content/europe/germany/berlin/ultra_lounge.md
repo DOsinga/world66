@@ -8,6 +8,7 @@ phone: 030 310 10 906
 snippet: Late-night live jazz and soul bar in Charlottenburg
 tags:
 - bars_and_cafes
+- charlottenburg
 title: Ultra Lounge Berlin
 type: poi
 url: ultraloungeberlin.com

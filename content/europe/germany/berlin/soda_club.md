@@ -6,6 +6,7 @@ phone: +49 30 44315155
 snippet: Salsa nights with lessons at the Kulturbrauerei
 tags:
 - bars_and_cafes
+- prenzlauerberg
 title: Soda Club
 type: poi
 url: www.soda-berlin.de

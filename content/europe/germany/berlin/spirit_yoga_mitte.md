@@ -4,9 +4,10 @@ email: info@spirityoga.de
 latitude: 52.52787
 longitude: 13.40159
 phone: 030 27908503
-snippet: "Well-regarded central Berlin yoga studio with 35+ weekly Vinyasa classes"
+snippet: Well-regarded central Berlin yoga studio with 35+ weekly Vinyasa classes
 tags:
 - things_to_do
+- berlinmitte
 title: Spirit Yoga
 type: poi
 url: www.spirityoga.de

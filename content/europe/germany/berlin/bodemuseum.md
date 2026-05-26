@@ -9,6 +9,7 @@ snippet: Sculptures, Byzantine art, and coins on Museum Island
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Bode Museum
 type: poi
 url: www.smb.museum

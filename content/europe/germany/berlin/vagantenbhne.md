@@ -8,6 +8,7 @@ snippet: Intimate Charlottenburg fringe theatre popular with Berlin students
 tags:
 - things_to_do
 - berlincharlottenburg
+- charlottenburg
 title: Vaganten Bühne
 type: poi
 ---

@@ -10,6 +10,7 @@ snippet: Escape stories and Cold War artifacts at the former crossing
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Checkpoint Charlie Museum
 type: poi
 url: www.mauermuseum.de

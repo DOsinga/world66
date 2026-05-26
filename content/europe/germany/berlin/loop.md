@@ -2,11 +2,12 @@
 address: Schlegelstraße 26/27
 latitude: 52.5328
 longitude: 13.3828
-opening_hours: "only during exhibitions: Wed-Sat 2pm-6pm"
+opening_hours: 'only during exhibitions: Wed-Sat 2pm-6pm'
 snippet: Contemporary art gallery with club-night exhibition openings
 tags:
 - things_to_do
 - art
+- berlinmitte
 title: Loop
 type: poi
 ---

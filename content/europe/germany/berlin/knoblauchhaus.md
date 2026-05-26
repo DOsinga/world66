@@ -9,6 +9,7 @@ snippet: Biedermeier townhouse tracing bourgeois Berlin life across three centur
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Knoblauchhaus
 type: poi
 url: www.stadtmuseum.de

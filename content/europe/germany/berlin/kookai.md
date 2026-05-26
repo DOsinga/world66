@@ -6,6 +6,7 @@ opening_hours: Mon-Fri 10am-8pm, Sat 9:30am-4pm
 snippet: French women's fashion chain on the Ku'damm
 tags:
 - shopping
+- charlottenburg
 title: Kookai
 type: poi
 ---

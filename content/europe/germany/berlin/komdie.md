@@ -1,12 +1,13 @@
 ---
 address: Kurfürstendamm 206-209, 10719 Berlin
+connections: U Uhlandstraße, bus 109, 110
 latitude: 52.5023
 longitude: 13.3258
-connections: U Uhlandstraße, bus 109, 110
 snippet: Long-running boulevard comedy theatre on the Ku'damm
 tags:
 - things_to_do
 - theatre
+- charlottenburg
 title: Komödie am Kurfürstendamm
 type: poi
 url: https://www.komoedie-berlin.de

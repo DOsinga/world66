@@ -3,4 +3,6 @@ title: Eating Out
 type: section
 ---
 
-Morgan City's cooking is Cajun in the truest sense — the food of a working community that has been eating out of the Atchafalaya Basin for generations. Boiled seafood (shrimp, crawfish, crabs), fried catfish, gumbo, etouffée, and red beans and rice are the staples. The seafood is local and fresh; this is not a tourist town with a themed restaurant row, but a place where people eat seriously.
+Morgan City is deep in Cajun country, and the food is the real draw. Gulf shrimp, blue crab, crawfish, and Atchafalaya River catfish all appear on local menus. Look for **shrimp etouffée** (a rich buttered shellfish stew over rice), **boudin** (a Cajun rice-and-pork sausage), and **fried catfish** in serious portions.
+
+The town is small and the dining scene is modest, but the ingredients are as fresh as they come — the shrimp boats work out of the same river the restaurants are beside. Portions are generous and prices are low by any standard.

@@ -1,14 +1,15 @@
 ---
-latitude: 23.6666
-longitude: 57.882
-snippet: small traditional market with fresh fish, dates, and Batinah produce
-tags:
-- things_to_do
-- market
 title: Barka Souq
 type: poi
+tags:
+  - things_to_do
+  - market
+latitude: 23.6970
+longitude: 57.8850
+sources:
+  - https://en.wikipedia.org/wiki/Barka,_Oman
 ---
 
-Barka's souq is a small working market rather than a tourist attraction, and that is precisely what makes it worth visiting. The fish section in the morning sells the catch from local boats: kingfish, hammour, sardines, and whatever else came in overnight. The produce stalls carry dates from Batinah's famous palm gardens — the Batinah coast is one of Oman's most productive agricultural strips, and Barka's dates are locally regarded.
+The Barka souq is a working market rather than a heritage attraction — the kind of place where local farmers, fishermen, and traders buy and sell, and visitors are a secondary consideration. Produce from the surrounding Batinah plain fills the stalls: mangoes, limes, bananas, dates, and fresh fish from the Gulf coast.
 
-The souq is at its best early in the morning, when the fish is freshest and the daily shopping is happening. By mid-morning activity has quietened significantly. There is a small handicraft section with traditional Omani wares — silverwork, pottery, and incense burners — but do not expect a major craft market; this is a local souq first. Walk through it in combination with the fort, which is nearby.
+The fish market section is particularly lively in the early morning when the catch arrives. The livestock market, held at certain times of the week, is also worth looking for — goats and cattle are traded alongside the usual produce. Come early, bring cash in small denominations, and be prepared for a genuinely local experience rather than a curated one.

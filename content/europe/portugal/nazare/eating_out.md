@@ -1,22 +1,6 @@
 ---
-address: rua 3 Setembro
-latitude: -2.522559
-longitude: -44.23924
-phone: 00351262990091
-title: Eating Out
-type: poi
+title: "Eating Out"
+type: section
 ---
 
-### [O Remo](/europe/portugal/nazare/eatingout/o_remo)
-
-Excellent private restaurant with traditional food and special service.
-
-type: Portuguese
-
-
-
-[[rate it]](/europe/portugal/nazare/eatingout/o_remo)
-
-tel: 00351262990091
-
-address: rua 3 Setembro
+Nazaré's eating scene centres on fish and seafood — the fishing tradition is still visible in the town, and the caldeirada (fish stew) is a local speciality worth seeking out. Grilled horse mackerel (chicharro), sardines, and sea bass are fixtures on most menus. The lower town along the seafront has a concentration of restaurants catering to tourists; prices are modest by coastal resort standards.

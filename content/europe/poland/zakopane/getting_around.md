@@ -1,22 +1,18 @@
 ---
-title: "Getting Around in Zakopane"
+title: "Getting Around"
 type: section
 ---
 
-Whether you are visiting this town in winter or summer, you will not really need a **Zakopane transportation **guide, as transport in this town is easily available. Tourists can find different economical ways to reach places within the city.
+Zakopane's town centre is walkable — Krupówki Street and the immediate surroundings can all be covered on foot. For the mountains, you will need transport.
 
-**Taxi
+**Cable car** is the main way to reach Kasprowy Wierch: the cable car from Kuźnice (a short taxi or bus ride from the centre) runs continuously during daylight hours from spring through autumn and in winter during the ski season. Queues can be long in peak season — book tickets online in advance.
 
-**If you want a convenient way to get around the town, this is the best option, as taxis are available at all times. They are also comfortable and faster than other modes of transport. This makes them ideal to get to certain places quickly. This service is not very expensive, but those looking to save on taxi fares will have to call and arrange for one by phone instead of taking one down.
+**Funicular** to Gubałówka departs from the top of Krupówki Street. The ride takes five minutes and operates all day in season.
 
-**Buses
+**Minibuses** (busy white vans) run frequently to Palenica Białczańska, the starting point for the hike to Morskie Oko. They depart from the bus station area throughout the day. The road beyond Palenica is closed to private cars.
 
-**The state bus service, also known as PKS, is the most practical mode of transport in Zakopane. Tourists will find necessary bus services from the town&rsquo;s Central Bus Station, which is located about ten minutes from the center. There are also small minibus services that tourist can opt for if they are traveling around the town.
+**Taxis** are available throughout the centre and are cheap by Western European standards. For the mountains, negotiate a fixed price before departure.
 
-**Car
+**On foot** is perfectly reasonable for getting between the centre and Kuźnice (about 2 km), and for most of the main hiking trails.
 
-**You can also hire a car if you have to do a lot of traveling all over the town. However, if most of your traveling is within the city center, avoid hiring a car, as it can be a little expensive. Hiring a car is fine during the summer season, but it isn&rsquo;t advisable during the winter, as you&rsquo;ll need chains for the tires, and most roads get blocked, making it hard to travel.
-
-**Other**
-
-Sleighs are added to public transport during the winter, and horse carriages are available in the summer. Tourists can opt for these if they aren&rsquo;t in much of a hurry and would like to take in the beautiful sights of the city. Zakopane is a relatively small town, so tourists can also make their way around on foot.
+Driving into town is fine in summer but Zakopane's roads are genuinely congested on busy weekends and holidays — the town was not designed for the traffic it now receives. Parking at the edge of town and walking in is often faster.

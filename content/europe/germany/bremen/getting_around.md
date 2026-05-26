@@ -1,28 +1,10 @@
 ---
-title: "Getting Around in Bremen"
+title: Getting Around
 type: section
 ---
 
-**Bremen Transportation**
+The Altstadt is compact and best explored on foot — the main sights from the Marktplatz to the Schnoorviertel to the Schlachte waterfront are all within a fifteen-minute walk of each other.
 
-The town of Bremen, Germany is a wondrous place full of history and
-beauty. Getting around Western Europe can be a challenge, so it's wise to choose the most dependable and safe of all the choices. The
-options are walking, buses, cars, taxis or trains.
+For wider exploration, Bremen's tram and bus network (BSAG) is efficient and covers the city well. Single tickets cost around EUR 3; day passes are good value. Tram lines 1, 2, 3, and 4 converge on the Hauptbahnhof and serve most tourist destinations. The Focke Museum is on tram line 4; the Universum and university campus are on lines 6 and 8.
 
-The trains are
-very unique in Bremen, since most of the residents utilize the rails for
-transportation efforts. The IC train system is the main one in
-Bremen, and can really be an exciting experience for those that ride the
-rails. A traveler wishing to ride the train needs to first purchase a
-Niedersachsen Tageskarte, for only 26 Euros or 13 Euros each. This
-ticket can be used for up to five people all day.
-
-**IC Train**
-
-Any vacation to Bremen will be a very fun and adventurous time, and
-the IC train system will get the traveler around, and allow them to arrive on time. The
-tickets can even be pre-printed and purchased online at the Deutsch
-Bahn wits, and this really speeds things up. The central station in
-Bremen has so many destinations in Germany from which it is the hub,
-the choices are as full as the station! The best way to see everything in
-Bremen is the train.
+Cycling is popular and well-catered for. The flat terrain and good cycle lane network make the bike a practical choice for visiting sites beyond the Altstadt. Bike rental is available at the Hauptbahnhof and from several operators near the old town.

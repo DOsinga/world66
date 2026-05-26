@@ -4,6 +4,7 @@ longitude: 9.824
 snippet: Medieval lanes and Via del Prione pedestrian street
 tags:
 - things_to_do
+- neighbourhood
 title: Old Town
 type: neighbourhood
 ---

@@ -1,22 +1,6 @@
 ---
-address: 29 – 31 Ton That Thiep, D1
-phone: +84 829 9244
-price: VND80,000-VND150,000
-title: Eating Out
+title: "Eating Out"
 type: section
 ---
 
-Eating Out....
-
-**Contributors**
-June 25, 2005
-
-### Temple Club
-
-his high-end restaurant, attached to an equally elegant bar and lounge,
-is a must-see place for its art deco furniture (all of which are for
-sale) as much as for its scrumptious food (its appetiser platter is a
-must-try). A good place
-to impress out-of-town business colleagues or clients.
-
-type: Vietnamese
+Ho Chi Minh City is one of the great cities for eating on the street. Phở, cơm tấm, bánh mì, and bún bò Huế are available on every corner from before dawn until well past midnight. The rule is simple: follow the crowds, sit on the plastic stools, and eat whatever is being cooked in front of you. The Vietnamese middle class has a good restaurant scene in Districts 1 and 3; the city has recently earned its first Michelin-starred restaurant.

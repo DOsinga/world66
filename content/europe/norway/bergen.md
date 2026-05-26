@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-19'
 image: bergen.jpg
 image_license: CC BY 3.0
@@ -14,14 +15,10 @@ title: Bergen
 type: location
 ---
 
-Bergen is a 900-year-old Hanseatic city situated between 7 mountains. The city has long been Norway's most important city for trade, shipping and industry. Ships came from the north with fish and from the south with grain, and it all traded in Bergen. During the Middle Ages, Bergen was virtually (though not officially) the capital of Norway. For a period it was also the largest city in the Nordic countries. Bergen's trade and shipping also made it one of the significant cities of Europe. The citizens of Bergen have never forgotten this. The home of composer Edvard Grieg still shows pride in its past. Bergen has been named European City of Culture for 2000.
+Bergen is a 900-year-old Hanseatic city wedged between seven mountains and the sea. For centuries it was Norway's most important trading port — ships brought dried fish from the north and grain from the south, and the German Hanse merchants who ran [Bryggen](/europe/norway/bergen/bryggen) controlled the whole business from their warehouse compound on the harbour. Bergen was at various points the largest city in the Nordic countries and, by some measures, Norway's capital. The citizens of Bergen have never quite let the rest of Norway forget this.
 
+If you arrive by sea, the colourful timber facades of [Bryggen](/europe/norway/bergen/bryggen) will meet you — a UNESCO World Heritage Site and the most photographed view in Norway. The alleyways behind the facades lead back to the [Hanseatic Museum](/europe/norway/bergen/hanseatic_museum), which gives the most vivid account of how the merchants actually lived. At the harbour mouth, [Bergenshus Fortress](/europe/norway/bergen/bergenshus_fortress) has a great medieval hall built for a royal coronation in the 13th century and a tower built by a Renaissance governor who wanted to impress his king.
 
- 
- If you arrive by sea, Bryggen, the city's famous Hanseatic wharf, will meet you. Fires have always plagued the city, but Bryggen has been rebuilt in the same likeness each time. That is why this old merchant quarter still looks the same as it did when the city was young. The Hanse had its huge offices on the Brygge for several hundred years; and it was a city within a city. Bryggen is not just Bergen's profile, it is a part of our common heritage and has been placed on UNESCO's list of cultural places worthy of preservation and is as such a World Heritage City.
+The [Fløibanen funicular](/europe/norway/bergen/floibanen) climbs to the top of Fløyen in eight minutes and gives the classic panorama of the city — well worth the small fare. The more ambitious option is the [Ulriken cable car](/europe/norway/bergen/ulriken), which reaches the highest of the seven mountains and is the starting point of the [Vidden trail](/europe/norway/bergen/vidden_trail), a full-day crossing of the high plateau between the two summits.
 
-
- It is easy to get to the top of Bergen's highest mountain Ulriken by cable car. Or you can settle for taking the popular funicular railway to the top of Fløien from where you will enjoy a spectacular view of the city. Edvard Grieg's splendid home Troldhaugen is certainly worth a visit, and our first internationally famous violinist, Ole Bull, once built a strange and wonderful home - Lysøen - that is now a museum. Take a walk along Bryggen to the old fortress called Bergenshus, where Håkon Håkonsson made Bergen Norway's first capital. He had the beautiful Håkonshallen built in honour or his son Magnus Lagabøter's wedding and coronation.
-
-
- Bergen is also the gateway to the fjords. These deep, sometimes narrow, sometimes wide fjords with snow-peaked mountains towering in the water's reflection and waterfalls cascading down their craggy sides, are attractions for foreign tourists and Norwegians alike. Boats that are both rapid and comfortable are available for trips to Hardangerfjorden, Sognefjorden and Geirangerfjorden and among the fascinating skerries along the coast.
+Outside the city, [Troldhaugen](/europe/norway/bergen/troldhaugen) — Edvard Grieg's villa on a lake 8 km south — is the best cultural excursion. [Lysøen](/europe/norway/bergen/lysoen), Ole Bull's fantastical island villa with its onion domes and Norse carvings, is worth the boat trip. And Bergen is above all the gateway to the fjords: Sognefjord, Hardangerfjord, and Nærøyfjord are all within reach of a day trip.

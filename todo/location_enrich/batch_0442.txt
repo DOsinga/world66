@@ -1,5 +1,0 @@
-europe/italy/trentinoaltoadige/folgaria
-europe/italy/liguria/sestri_levante
-northamerica/unitedstates/oklahoma/wynnewood
-europe/germany/badenwrttemberg/schonach
-asia/india/andhrapradesh/nizamabad

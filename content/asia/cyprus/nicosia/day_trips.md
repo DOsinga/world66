@@ -1,10 +1,11 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
+linked_locations:
+  - asia/cyprus/troodos
+  - asia/cyprus/larnaca
+  - asia/cyprus/limassol
+  - asia/cyprus/paphos
 ---
 
-Nicosia is within 1 hour's drive from a big part of Cyprus - from Ayia Napa to Limassol, to Troodos. Within this significant part of Cyprus, one can explore the cultural and natural heritage of the area. Noteworthy examples include 10 painted churches in Troodos that are considered World Heritage sites by UNESCO, and picturesque villages such as Fikardou, Kato Dris or the old part of Kakopetria. For those interested in nature, there is a an excellent selection of walking trails in Troodos range (eg. Atalanti, or Kionia - Ayios Elias), a few interesting dams like the scenic Xyliatos or Lefkara dam, or even Athalassa dam which is an interesting bird watching spot just 3 km from Nicosia (not much water in summer 2008 unfortunately).
-For in depth information on the nature of Cyprus, and also on nature related day trips from Nicosia, you can visit www.natureofcyprus.org .
-
-**Contributors**
-May 01, 2008
+Nicosia's central position makes it an excellent base for exploring Cyprus. The ten Byzantine painted churches of the Troodos Mountains — collectively a UNESCO World Heritage site — are less than an hour away, and the mountain villages make for cool relief from the summer heat of the capital. Larnaca on the southern coast is the closest beach city (under an hour by motorway), with good beaches and the remarkable Church of Saint Lazarus in its old town. Limassol and Paphos are both within 90 minutes and offer fine archaeological sites and Crusader castles alongside the beach. The village of Lefkara, about 40 km south, is famous for its handmade silver and lace and is a pleasant half-day stop.

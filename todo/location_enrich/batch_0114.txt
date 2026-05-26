@@ -1,5 +1,0 @@
-europe/slovenia/ptuj
-europe/slovakia/banskabystrica
-asia/myanmar/mandalay
-africa/sudan/portsudan
-asia/indonesia/lombok/mataram

@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-20'
+image: islamujeres.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_Isla_Mujeres_(4257542920).jpg
 latitude: 21.237191
+loc_type: city
 longitude: -86.735
 score: 0.67
 title: Isla Mujeres
 type: location
-loc_type: city
 ---
 
 Isla Mujeres is a small island off the north-east tip of the Yucatán Peninsula, a short ferry ride from Cancún but a world away from it in character. The island is 8km long and less than 1km wide, and most of what matters is walkable. It has the kind of slow, colourful, golf-cart-and-hammock atmosphere that Cancún's hotel strip utterly lacks.

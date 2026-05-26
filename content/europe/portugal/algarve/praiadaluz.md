@@ -4,11 +4,11 @@ done:
   location_cleanup: '2026-04-09'
   poi_cleanup: '2026-04-19'
 latitude: 37.0868
+loc_type: city
 longitude: -8.7255
 score: 0.58
 title: Praia da Luz
 type: location
-loc_type: city
 ---
 
 Praia da Luz is a low-key beach village in the western Algarve, about five kilometres west of [Lagos](/europe/portugal/algarve/lagos). It has the feel of a small resort that never quite went full package-holiday: the streets are calm, there are actual year-round residents, and the pace is slower than the bigger resorts to the east.

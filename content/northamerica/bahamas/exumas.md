@@ -3,11 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
 latitude: 23.62
+loc_type: region
 longitude: -75.97
 score: 0.76
 title: Exumas
 type: location
-loc_type: region
 ---
 
 The Exumas are a chain of 365 islands and cays stretching southeast from Nassau across some of the clearest water in the Caribbean. Most of the chain is uninhabited — just low limestone, scrub, and sand surrounded by water that shifts between impossible shades of turquoise and blue. This is the Bahamas at its most elemental.

@@ -6,7 +6,7 @@ longitude: -75.5243
 snippet: One of America's oldest state capitol buildings
 tags:
 - things_to_do
-- historic_site
+- sight
 - museum
 title: Delaware State House
 type: poi

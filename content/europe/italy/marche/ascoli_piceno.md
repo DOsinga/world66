@@ -1,12 +1,15 @@
 ---
-title: Ascoli Piceno
-type: location
-latitude: 42.8534
-longitude: 13.5747
 done:
   location_cleanup: 2026-04-05
-score: 0.58
+image: ascoli_piceno.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Centro_storico,_63100_Ascoli_Piceno_AP,_Italy_-_panoramio_(17).jpg
+latitude: 42.8534
 loc_type: city
+longitude: 13.5747
+score: 0.58
+title: Ascoli Piceno
+type: location
 ---
 
 Ascoli Piceno sits where the Tronto river meets the Castellano, ringed by mountains on three sides — the Sibillini to the north, the Monti della Laga to the south. It is one of the most handsome small cities in Italy, and one of the least visited: the entire centre is built from travertine, a pale grey stone quarried from the surrounding hills, which gives the place a quiet, unified elegance that photographs don't quite capture.

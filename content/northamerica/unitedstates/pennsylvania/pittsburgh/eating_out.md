@@ -3,8 +3,10 @@ title: 'Eating Out'
 type: section
 ---
 
-**Kiki Japanese Restaurant** on West Station Square Drive serves some of the best sushi in Pittsburgh. Their rainbow roll (salmon, tuna, whitefish, avocado), dynamite roll (spicy scallops), and Allegheny roll (shrimp, avocado, cucumber) are all excellent. They also serve vegetable and shrimp tempura, and combo platters are available.
+Pittsburgh's food culture reflects its working-class heritage and its immigrant past — Polish pierogies, Italian sauces, and the city's own sandwich invention at Primanti Brothers (the original is on Smallman Street in the Strip District: grilled meat, cheese, coleslaw, and french fries, all on Italian bread, which sounds wrong until you eat one). For the freshest seafood, Wholey's Fish Market on Penn Avenue in the Strip sells whole fish and sandwiches from a warehouse that has been there since 1912.
 
-**Abbruzzi's** at 20 South Tenth Street is a solid Italian restaurant with fresh food and creative entrees. The wine list is extensive. Locals recommend the shrimp in marinara sauce with peppers, the cannelloni, and the eggplant parmigiano. Plenty of veal, beef, chicken, seafood, and vegetarian options.
+**Kiki Japanese Restaurant** on West Station Square Drive serves some of the best sushi in Pittsburgh. Their rainbow roll and Allegheny roll are house specialties.
 
-**17th Street Cafe** is a cozy neighborhood spot that serves fine dining at reasonable prices -- a good date spot. For lunch, try the banana peppers stuffed with seasoned beef and provolone or the German reuben with potato pancakes. Dinner highlights include pistachio-crusted chicken and veal stuffed with crabmeat.
+**Abbruzzi's** at 20 South Tenth Street is a reliable Italian restaurant with a strong wine list. Locals recommend the shrimp in marinara and the eggplant parmigiano.
+
+**The Strip District** has the greatest density of options: Smallman Galley is a food hall with rotating chefs; multiple delis and specialty food shops line Penn Avenue for grazing and picnic supplies. On Saturday mornings it is one of the most enjoyable places in Pittsburgh to spend a few hours.

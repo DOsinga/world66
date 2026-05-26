@@ -3,8 +3,7 @@ title: "Kluang Food Guide"
 type: poi
 snippet: Local-focused guide to Kluang's hawker stalls and kopitiams
 tags:
-- things_to_do
-- eat_and_drink
+- eating_out
 latitude: 2.032347
 longitude: 103.319077
 ---

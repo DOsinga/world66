@@ -1,12 +1,15 @@
 ---
-title: Salamanca
-type: location
-latitude: 40.9649
-longitude: -5.663
 done:
   location_cleanup: 2026-04-05
-score: 0.7
+image: salamanca.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:68436-Salamanca_(49093713952)_edited.jpg
+latitude: 40.9649
 loc_type: city
+longitude: -5.663
+score: 0.7
+title: Salamanca
+type: location
 ---
 
 Salamanca is a honey-coloured university city on the banks of the Tormes river in western Spain, about two and a half hours north-west of Madrid by train. It is one of the most beautiful old cities in Spain and — for my money — the best small city to visit in the country after Granada. The whole historic centre is built from Villamayor sandstone, a soft, pale-gold stone that hardens in the air, takes carving beautifully, and glows in the evening sun. UNESCO declared the old town a World Heritage Site in 1988, and one afternoon of walking through it is enough to understand why.

@@ -1,12 +1,15 @@
 ---
-title: Easter Island
-type: location
-latitude: -27.1127
-longitude: -109.3497
 done:
   location_cleanup: 2026-04-05
-score: 0.76
+image: easterisland.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Easter_Island_5.jpg
+latitude: -27.1127
 loc_type: city
+longitude: -109.3497
+score: 0.76
+title: Easter Island
+type: location
 ---
 
 Easter Island — Rapa Nui, to the people who live there — is the most remote inhabited place on Earth. It sits alone in the south Pacific, 3,700 kilometres off the coast of Chile and more than 2,000 kilometres from the nearest other inhabited island. To get there you fly five hours from Santiago on the only airline that makes the trip. And when you land on the small triangular volcanic island, you find yourself surrounded by nearly a thousand giant stone heads — the moai — left behind by the Polynesian society that lived here between about 1200 and the 17th century, and that became one of the most famous cautionary tales in human history.

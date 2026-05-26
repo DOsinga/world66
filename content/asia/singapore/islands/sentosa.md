@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: sentosa.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_sentosa_aerial_2016.jpg
 latitude: 1.2494
+loc_type: city
 longitude: 103.8303
+score: 0.65
 title: Sentosa
 type: location
-score: 0.65
-loc_type: city
 ---
 
 Sentosa is Singapore's playground island, a 500-hectare resort destination just off the southern coast connected to the mainland by a short causeway, a cable car, and a pedestrian boardwalk. What was once a British military fortress and later a quiet fishing village has been engineered into one of Southeast Asia's most concentrated entertainment zones. Whether that sounds like paradise or an overmanaged theme park depends on what you are looking for.

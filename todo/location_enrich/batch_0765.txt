@@ -1,5 +1,0 @@
-asia/malaysia/miri
-australiaandpacific/australia/westernaustralia/bunbury
-northamerica/unitedstates/california/ben_lomond_califo
-southamerica/colombia/duitama
-asia/papuanewguinea/bougainville

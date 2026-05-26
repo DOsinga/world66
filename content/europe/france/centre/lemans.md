@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 48.007385
+loc_type: city
 longitude: 0.196785
+score: 0.53
 title: Le Mans
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Le Mans is mainly known for the 24 Hours car race held here every June, but the town itself is well worth a visit. The Cité Plantagenêt — the old town — is one of the best-preserved medieval quarters in France, with half-timbered houses, Renaissance mansions, and parts of the Gallo-Roman city walls dating back to the 3rd century. The Cathedral of Saint-Julien dominates the hilltop, mixing Romanesque and Gothic styles in a way that traces six centuries of building.

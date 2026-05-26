@@ -3,7 +3,7 @@ title: "Sweethearts"
 type: poi
 snippet: "Darwin rooftop bar with tropical cocktails and harbour views"
 tags:
-  - nightlife
+  - bars_and_cafes
   - bar
 address: "Gilruth Ave, The Gardens, Darwin"
 phone: "+61 8 8943 8888"

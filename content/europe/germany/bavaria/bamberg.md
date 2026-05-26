@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: bamberg.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kloster_Michaelsberg_Parkseite.jpg
 latitude: 49.8916
+loc_type: city
 longitude: 10.8868
+score: 0.69
 title: Bamberg
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Bamberg is one of the best-preserved medieval towns in Germany and a UNESCO World Heritage Site. Built on seven hills along the Regnitz River, it escaped major wartime damage and still looks remarkably as it did centuries ago — half-timbered houses, Baroque facades, and narrow lanes climbing up from the waterfront.

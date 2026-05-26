@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 60.660362
+loc_type: region
 longitude: 8.59
+score: 0.54
 title: Hallingdal
 type: location
-score: 0.54
-loc_type: region
 ---
 
 Hallingdal is a long, broad valley in central Norway that stretches roughly 150 kilometres from the mountains around Geilo down to the lake at Krøderen. The Hallingdalselva river runs its entire length, and the valley has been a natural travel route between eastern and western Norway for centuries.

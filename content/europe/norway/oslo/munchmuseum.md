@@ -1,16 +1,21 @@
 ---
-address: 'Adress: Toyengate 53'
-email: mm@munch.museum.no
-opening_hours: June - 15 Sept. daily 10am - 6pm. 15 Sept. - Apr. Tue/Wed/Fri/Sat 10am
-  to 4pm. Thu/Sun 10am to 6pm, Mon closed.
-phone: +47 23 - 24 14 00
+latitude: 59.9050
+longitude: 10.7530
 tags:
-- things_to_do
-title: Munch Museum
+  - things_to_do
+  - museum
+title: Munch Museum (MUNCH)
 type: poi
-url: www.munch.museum.no
+story: >
+  "The Scream" exists in four versions — two pastels and two oil paintings — all made by
+  Munch in the 1890s. The most famous is the one on display here: the 1910 oil version.
+  In 1994, two thieves removed it from the wall in front of security staff, walked out, and
+  left a note saying "Thank you for the poor security." It was recovered three months later.
+  A second version was stolen in 2004 and recovered in 2006. Munch himself wrote that he felt
+  "an infinite scream passing through nature" while walking at sunset — not a personal scream,
+  but the world's.
 ---
 
-Edvard Munch's art is the most significant Norwegian contribution to the history of art, and he is the only Norwegian artist who has exercised a decisive influence on European art trends, above all as a pioneer of Expressionism in Germany and the Nordic countries. When Munch died in January 1944, it transpired that he had unconditionally bequeathed all his remaining works to the City of Oslo. The Munch Museum opened in 1963 and was purpose-built to house this unique collection of approximately 1000 paintings, 4500 drawings and 18 000 prints. Major works will always be on display in the museum. The selection is changed regularly.
+The Munch Museum (now called MUNCH after its 2021 relocation to a striking 13-floor tower on the waterfront at Bjørvika) holds the world's most comprehensive collection of Edvard Munch's work — nearly 28,000 items bequeathed by the artist to the City of Oslo when he died in 1944. The collection includes several versions of The Scream, along with the full range of Munch's unsettling, emotionally raw output.
 
-type: Museums
+The new building is architecturally interesting and the views over the Oslofjord are excellent. The permanent collection is arranged thematically rather than chronologically, which rewards browsing. Temporary exhibitions bring in major international contemporary artists. The museum is on the same waterfront strip as the Opera House and the new Deichman Library, making a natural half-day walk along the regenerated harbourfront.

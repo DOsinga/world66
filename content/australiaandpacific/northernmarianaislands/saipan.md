@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-05-12'
+image: saipan.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Saipan_at_Night.jpg
 latitude: 15.185
 loc_type: city
 longitude: 145.75

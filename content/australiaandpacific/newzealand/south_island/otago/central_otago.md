@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: central_otago.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hills_Creek,_Central_Otago.jpg
 latitude: -45.350509
+loc_type: region
 longitude: 169.696148
+score: 0.62
 title: Central Otago
 type: location
-score: 0.62
-loc_type: region
 ---
 
 Central Otago is the inland heart of [New Zealand's](/australiaandpacific/newzealand) South Island — a dramatic landscape of tawny tussock-covered hills, deep gorges, and glacial lakes. The region includes the adventure tourism capital of [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown) and the quieter lakeside town of [Wanaka](/australiaandpacific/newzealand/south_island/otago/wanaka), but beyond those headline destinations lies some of New Zealand's most distinctive scenery.

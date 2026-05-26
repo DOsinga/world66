@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-21'
+image: deauville.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Deauville_2008_PD_12.JPG
 latitude: 49.3595
+loc_type: city
 longitude: 0.0747
 score: 0.59
 title: Deauville
 type: location
-loc_type: city
 ---
 
 Deauville is the most glamorous seaside resort on the Norman coast — and it knows it. Since the 1860s, well-heeled Parisians have been making the two-hour train journey to promenade on the famous boardwalk, watch horses race, and be seen at the casino. The town has nicknames to match its ambitions: "the city of the horse" and "the gateway to Calvados."

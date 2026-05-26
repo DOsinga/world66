@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: battambang.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Battambang_city.jpg
 latitude: 12.925679
+loc_type: city
 longitude: 103.231714
+score: 0.55
 title: Battambang
 type: location
-score: 0.55
-loc_type: city
 ---
 
 Battambang is Cambodia's second city, a relaxed place on the Sangkae River with crumbling French colonial architecture and a pace that feels decades behind [Phnom Penh](/asia/cambodia/phnompenh). It sits on the main route between the capital and [Bangkok](/asia/thailand/bangkok), and many travellers stop here for a day or two on their way through.

@@ -1,12 +1,15 @@
 ---
-title: Skiathos
-type: location
-latitude: 39.169298
-longitude: 23.455251
 done:
   location_cleanup: 2026-04-07
-score: 0.74
+image: skiathos.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Skiathos_10_-_panoramio.jpg
+latitude: 39.169298
 loc_type: city
+longitude: 23.455251
+score: 0.74
+title: Skiathos
+type: location
 ---
 
 Skiathos is the most developed of the Sporades islands, and for good reason — it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough coastline to keep a beach-hopper busy for weeks.

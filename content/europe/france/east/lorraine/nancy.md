@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: nancy.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Place_Stanislas_et_ses_grilles_%C3%A0_Nancy.jpg
 latitude: 48.693722
+loc_type: city
 longitude: 6.18341
+score: 0.57
 title: Nancy
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Nancy is one of the finest cities in eastern France, a former ducal capital whose centre is built around the magnificent Place Stanislas — a UNESCO World Heritage Site of gilded wrought-iron gates, fountains, and grand neoclassical facades. It is one of the most beautiful squares in Europe, and reason enough to visit.

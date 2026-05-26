@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: fontainebleau.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:L%27%C3%A9tang_aux_carpes_vue_du_ciel.jpg
 latitude: 48.404938
+loc_type: city
 longitude: 2.701587
+score: 0.61
 title: Fontainebleau
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Fontainebleau is a small town about 60 km south of [Paris](/europe/france/paris), surrounded by one of the largest and most beautiful forests in the Ile-de-France. It is an easy day trip from the capital and a welcome escape from the city's intensity.

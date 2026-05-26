@@ -1,10 +1,13 @@
 ---
-title: Tewkesbury
-type: location
+image: tewkesbury.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tewkesbury_Abbey_and_Mill_Avon_from_Ham_path.jpg
 latitude: 51.993786
+loc_type: city
 longitude: -2.154957
 score: 0.51
-loc_type: city
+title: Tewkesbury
+type: location
 ---
 
 Travel Guide

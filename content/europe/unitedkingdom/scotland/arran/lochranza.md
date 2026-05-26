@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: lochranza.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lochranza._-_panoramio_(1).jpg
 latitude: 55.704586
+loc_type: city
 longitude: -5.295153
+score: 0.52
 title: Lochranza
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Lochranza is a tiny village at the far north of [Arran](/europe/unitedkingdom/scotland/arran), set around a sea loch with a ruined 13th-century castle on a spit of land at the water's edge. It is one of the most atmospheric spots on the island, particularly on a misty morning when the castle appears to float above the water. Red deer wander freely around the village and can often be seen grazing on the golf course.

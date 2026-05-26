@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: kerala.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Boathouse_(7063399547).jpg
 latitude: 10.352874
+loc_type: region
 longitude: 76.51204
 score: 0.69
 title: Kerala
 type: location
-loc_type: region
 ---
 
 Kerala is arguably the most beautiful state in India. Wedged between the Arabian Sea to the west and the Western Ghats to the east, it is a narrow strip of green that packs in backwaters, beaches, hill stations, wildlife sanctuaries and some of the best food on the subcontinent. It is also India's most literate state, and you will find English widely understood alongside the native Malayalam.

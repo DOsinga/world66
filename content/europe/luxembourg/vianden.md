@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: vianden.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vianden_17Jan2021.jpg
 latitude: 49.933698
+loc_type: city
 longitude: 6.206671
+score: 0.59
 title: Vianden
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Vianden is a small town in northeastern [Luxembourg](/europe/luxembourg), set in a narrow valley of the Our river near the German border. It is dominated by the Castle of Vianden, one of the largest fortified castles west of the Rhine, perched on a rocky promontory above the town. The castle dates from the 11th to 14th centuries and has been extensively restored — the interior is open to visitors and the views over the valley are excellent. A chairlift from the town centre takes you to the hilltop above for an even wider panorama.

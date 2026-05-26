@@ -1,5 +1,0 @@
-asia/india/maharashtra/ratnagiri
-europe/unitedkingdom/northernireland/londonderry
-southamerica/brazil/barra_de_tijuca
-asia/india/madhyapradesh/mandsaur
-asia/indonesia/sulawesi/manado

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: traverse_city.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Traverse_County_Courthouse.jpg
 latitude: 44.7606
+loc_type: city
 longitude: -85.6166
+score: 0.51
 title: Traverse City
 type: location
-score: 0.51
-loc_type: city
 ---
 
 Traverse City sits at the base of the two arms of Grand Traverse Bay in northern Michigan and styles itself the Cherry Capital of the World. The surrounding Leelanau and Old Mission peninsulas are covered in cherry orchards and vineyards, and the National Cherry Festival each July draws big crowds.

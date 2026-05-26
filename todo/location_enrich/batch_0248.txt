@@ -1,5 +1,0 @@
-asia/srilanka/kurunegala
-europe/slovakia/bardejov
-asia/thailand/nongkhai
-asia/iraq/baghdad
-europe/greece/epirus

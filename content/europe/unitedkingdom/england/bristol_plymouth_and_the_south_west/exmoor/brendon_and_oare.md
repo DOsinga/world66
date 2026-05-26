@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
 image: brendon_and_oare.jpg
 image_attribution: Nigel Thompson
 image_license: CC BY-SA 2.0

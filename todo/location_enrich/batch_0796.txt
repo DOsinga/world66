@@ -1,5 +1,0 @@
-europe/georgia/kakheti
-europe/bosniaandherzegovina/vlasenica
-europe/spain/catalonia/cadaqus
-northamerica/unitedstates/pennsylvania/reading
-northamerica/netherlandsantilles/steustatius

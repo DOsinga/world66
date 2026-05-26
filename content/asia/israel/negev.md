@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
+image: negev.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:NahalHavarimNov212022_03.jpg
 latitude: 30.5
+loc_type: region
 longitude: 34.916667
 score: 0.52
 title: Negev
 type: location
-loc_type: region
 ---
 
 The Negev is the vast desert that covers more than half of Israel's land area, stretching from Be'er Sheva south to Eilat on the Red Sea. Most visitors pass through quickly on the way to Eilat, but the Negev rewards those who slow down.

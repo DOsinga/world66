@@ -3,12 +3,6 @@ title: Eating Out
 type: section
 ---
 
-**San Luis Potosi restaurants **are famous for the cuisine of the indigenous tribes of the area. San Luis Potsi is a city in the south central part of Mexico.
+San Luis Potosí's local food draws on the Huastec tradition of the surrounding region and on a colonial-era cuisine that developed differently from Mexico City or Oaxaca. The dish to know is the **enchilada potosina** — a corn tortilla tinted orange-red with ancho chile and stuffed with fresh white cheese, served with crema and crumbled queso. They are not the same as enchiladas anywhere else.
 
-**Huastecs**
-
-The Huastec Indians are the aboriginal people in the area, whose food is featured in many of the restaurants. Tourists coming to the area should take the opportunity to try some of the dishes. Corn is a staple in the Huastec diet, so it is not surprising that many of the dishes have a corn component to them. Corn tortillas are used in most meals, while enchiladas and gorditas are especially popular. There is also a local specialty tortilla that is mixed with chilis to make an orange red spicy enchiladas called the enchilada potosinas. One especially popular dish served in restaurants is the zachuli, a large tamale. A family style dish, this item can feed up to 40 people at once. The tamale is wrapped in banana leaves and baked in a firewood oven. It is filled with chicken, pork and chili. This dish and others like it can be enjoyed in San Luis Potosi restaurants. The restaurants are also a good way to meet local people.
-
-**Local Restaurants**
-
-La Parroquia serves traditional Mexican food, including the zachuli. A patron can enjoy a meal for less then $10. Another popular restaurant that features Huastec food is the Restaurant Pueblo Bonito. This restaurant is geared towards more fine dining but well worth the extra money. In addition to Huastec cuisine, there are a number of traditional Mexican dishes. The restaurant has a garden with outdoor seating for people to enjoy, adding a touch of tranquillity to the meal.
+Other local specialties worth seeking: **gorditas potosinas** (thick oval masa cakes split and filled with beans, cheese, or chicharrón), **zachuli** (an enormous banana-leaf tamale stuffed with chicken, pork, and chile that is a communal dish), **queso de tuna** (a sweet dark candy pressed from prickly pear fruit), and the local chile-spiked lemonade, **agua de tuna**. The market fondas at the [Mercado Hidalgo](/northamerica/mexico/sanluispotosi/mercado_hidalgo) and the [Fondas del Mercado República](/northamerica/mexico/sanluispotosi/mercado_republica_fondas) are the best places to eat these dishes inexpensively and genuinely. [La Corriente](/northamerica/mexico/sanluispotosi/la_corriente) in the centre does excellent fish tacos and enchiladas.

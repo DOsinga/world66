@@ -1,9 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
-image: sanluispotosi.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Cerro_del_Fraile_-_Matehuala,_San_Luis_Potos%C3%AD,_M%C3%A9xico.jpg
+  location_enrich: '2026-05-21'
 latitude: 22.1565
 loc_type: city
 longitude: -100.9855
@@ -16,4 +14,4 @@ San Luis Potosí is a colonial city of about a million people in central Mexico,
 
 The city has a serious historical pedigree. President Benito Juárez made it the national capital twice during the French intervention, and Francisco Madero wrote the Plan de San Luis here — the call to arms that launched the Revolution of 1910 — while imprisoned by the dictator Porfirio Díaz. The Mexican national anthem was first completed here in 1854.
 
-The Plaza de Armas is the centre of the colonial zone, flanked by the cathedral and the Government Palace. The Templo de Nuestra Señora del Carmen, a few blocks away, has one of the most elaborate Churrigueresque facades in Mexico. The Mercado Hidalgo sells the city's famous handcraft: the Santa María rebozo, a shawl woven so fine it can pass through a wedding ring. The city is also known for its enchiladas potosinas (a local red chile and cheese variety) and for queso de tuna, a candy made from the prickly pear cactus.
+The [Plaza de Armas](/northamerica/mexico/sanluispotosi/plaza_de_armas) is the centre of the colonial zone, flanked by the cathedral and the Government Palace. The [Templo del Carmen](/northamerica/mexico/sanluispotosi/templo_del_carmen), a few blocks away, has one of the most elaborate Churrigueresque facades in Mexico. The [Mercado Hidalgo](/northamerica/mexico/sanluispotosi/mercado_hidalgo) sells the city's famous handcraft: the Santa María rebozo, a shawl woven so fine it can pass through a wedding ring. The city is also known for its enchiladas potosinas (a local red chile and cheese variety) and for queso de tuna, a candy made from the prickly pear cactus.

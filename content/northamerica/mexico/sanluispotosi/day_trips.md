@@ -1,23 +1,14 @@
 ---
 title: Day Trips
 type: section
-url: www.journeymexico.com
 ---
 
-**San Luis Potosi day trips** include a visit to some of the attractive cities in Mexico. San Luis Potosi was established in the year 1592. This city is now part of the richest cities in Mexico because of the mines from the Peter&rsquo;s hill. However, it has kept its colonial structure and past history despite becoming a modern city.
+San Luis Potosí makes a reasonable base for several very different excursions.
 
-**Go to the South**
+**Real de Catorce** (about 3 hours north) is an old silver-mining ghost town that was virtually abandoned for most of the 20th century and is now partially revived. You reach it through a mile-long cobbled tunnel in the mountains. The ghost-town atmosphere is genuine — ruined mansions, a roofless bullring, and a sacred peyote pilgrimage site used by the Huichol people — and the desert landscape around the town is extraordinary.
 
-Two hours to the south of San Luis Potosi, you can find Dolores Hidalgo, Mexico's Cradle of Independence. It is also the house of colorful pottery and the site of Jose Alfredo Jimenez&rsquo;s tomb. Jose Alfredo Jimenez was the leading Ranchero singer of Mexico. You can enjoy shopping at Dolores Hidalgo. After visiting the place, you can move to Guanajato. This place is historical because it is where the first battle of the Independence War of 1810 happened. Guanajato is also popular because of its yearly cultural event, The Cervantino.
+**Xilitla and the Surrealist Garden** (about 3.5 hours east into the Huasteca lowlands): the Scottish eccentric Sir Edward James spent thirty years from the 1960s building an open-air concrete garden of towers, arches, and fantastical structures in a cloud forest canyon. It is strange and wonderful and occupies the edge of a natural swimming hole. The drive east from San Luis Potosí descends dramatically from the arid highlands into humid jungle.
 
-**Head to the North**
+**Santa María del Río** (about 45 minutes south) is where the city's famous rebozos are made — the silk shawls woven so fine they can pass through a wedding ring. You can visit the weavers' workshops and buy directly. A pleasant half-day combined with a look at the hot springs at Ojo Caliente nearby.
 
-If you go to the north of San Luis Potosi, you can explore the mining town. This is the town of Real de Catorce, a mile-long tunnel at the foot of Sierra Madre Mountains. If you are brave enough, you can explore the mountains, which are believed to be inhabited by ghosts. You can enjoy the nice view of the verdant mountains or go around the town to see the old buildings and visit the plaza. You can go for a walk in the winding roads and look at views of the lovely valleys.
-
-### [Xilitla & Castle of Sir Edward James](/northamerica/mexico/sanluispotosi/day_trips/xilitla__castle_o)
-
-In the town of Xilitla you will find a castle built by Sir Edward James. He was british and built the castle based on surrealism. There are nine pozas, or pools, that string along the property that connect to a long cascading waterfall. You can climb to the top of the waterfall and view evreything from "casa de las nubes"
-
-
-
-url: [www.journeymexico.com](http://www.journeymexico.com)
+For deeper exploration of the Huasteca region, the waterfalls at **Tamul** and **Las Cascadas de Tamasopo** require a longer drive east (3–4 hours) but are among the most spectacular in Mexico.

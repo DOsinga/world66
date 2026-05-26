@@ -1,5 +1,0 @@
-europe/belgium/sinttruiden
-asia/syria/arwadisland
-australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga
-southamerica/ecuador/loja
-northamerica/unitedstates/maine/rockland_maine

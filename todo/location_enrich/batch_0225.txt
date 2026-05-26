@@ -1,5 +1,0 @@
-northamerica/unitedstates/oregon/coos_bay
-africa/algeria/tigzirt
-northamerica/unitedstates/iowa/bettendorf
-europe/france/centre/loirevalley/staignan
-europe/greece/delphi

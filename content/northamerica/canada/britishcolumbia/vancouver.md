@@ -9,6 +9,9 @@ score: 0.76
 title: Vancouver
 type: location
 loc_type: city
+image: vancouver.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Concord_Pacific_Master_Plan_Area.jpg
 ---
 
 Vancouver sits on a peninsula between mountains and the sea, with snow-capped Coast Mountains rising directly from saltwater inlets and forests pushing right up against the downtown core. The combination gives the city a distinctive quality — you can ski in the morning, bike a seawall in the afternoon, and eat some of the best Asian food in North America for dinner. It is consistently ranked among the most liveable cities in the world, and the locals — a high proportion of whom moved here from somewhere else — generally agree.

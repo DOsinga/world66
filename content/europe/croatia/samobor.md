@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: samobor.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Z-4467_Kulturno-povijesna_cjelina_Samobor_8.jpg
 latitude: 45.801862
+loc_type: city
 longitude: 15.70971
+score: 0.53
 title: Samobor
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Samobor is a pretty little town about 25 minutes west of [Zagreb](/europe/croatia/zagreb), right on the edge of the Žumberak hills near the Slovenian border. It makes an easy half-day trip from the capital and is where Zagrebčani go for a Sunday stroll and cake.

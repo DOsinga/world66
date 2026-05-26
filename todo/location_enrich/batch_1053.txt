@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/northeastflorida/staugustine
-europe/hungary/sarvar
-europe/moldova/chirileni/lalovatipova
-asia/vietnam/tayninh
-northamerica/canada/ontario/ottawa

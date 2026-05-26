@@ -4,6 +4,9 @@ done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-17'
   poi_cleanup: '2026-04-20'
+image: brussels.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg
 latitude: 50.846737
 loc_type: city
 longitude: 4.352493

@@ -1,5 +1,0 @@
-northamerica/unitedstates/nebraska/omaha
-northamerica/unitedstates/louisiana/opelousas
-europe/france/centre/auxerre
-northamerica/belize/puntagorda
-southamerica/peru/iquitos

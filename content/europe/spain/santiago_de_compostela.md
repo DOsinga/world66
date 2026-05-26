@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: santiago_de_compostela.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Santiago_Cathedral_2021_-_west_panorama.jpg
 latitude: 42.880422
+loc_type: city
 longitude: -8.545861
+score: 0.72
 title: Santiago de Compostela
 type: location
-score: 0.72
-loc_type: city
 ---
 
 Santiago de Compostela is one of the great pilgrimage cities of the world, the endpoint of the Camino de Santiago that has drawn walkers across Europe for more than a thousand years. The discovery of the tomb of the Apostle Saint James in the early 9th century set everything in motion, and the city that grew up around it is one of the finest ensembles of Baroque and Romanesque architecture in Spain.

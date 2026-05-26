@@ -6,8 +6,8 @@ latitude: 52.6541
 longitude: -7.2528
 snippet: Kilkenny's landmark pub spanning several interconnected rooms
 tags:
-- nightlife
-- pub
+- bars_and_cafes
+- bar
 title: Langton's
 type: poi
 ---

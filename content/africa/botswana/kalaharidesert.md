@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: -23.0
+loc_type: region
 longitude: 22.0
+score: 0.52
 title: Kalahari Desert
 type: location
-score: 0.52
-loc_type: region
 ---
 
 Derived from the Tswana word "Kgalagadi" meaning "the great thirst", the Kalahari is one of the world's most extensive mantles of sand. It stretches south into [South Africa](/africa/southafrica), west into [Namibia](/africa/namibia), and north into [Angola](/africa/angola) and [Zambia](/africa/zambia). This ocean of sand covers the hollow basin of Botswana and forms a flat plain that accounts for nearly 70% of the country.

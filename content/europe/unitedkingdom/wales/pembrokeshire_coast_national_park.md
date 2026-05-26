@@ -1,12 +1,15 @@
 ---
-title: Pembrokeshire Coast National Park
-type: location
-latitude: 52.016855
-longitude: -4.825811
 done:
   location_cleanup: 2026-04-07
-score: 0.65
+image: pembrokeshire_coast_national_park.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Green_Bridge_of_Wales_1_-_Pembrokeshire_(2010).jpg
+latitude: 52.016855
 loc_type: region
+longitude: -4.825811
+score: 0.65
+title: Pembrokeshire Coast National Park
+type: location
 ---
 
 Pembrokeshire sits at the south-west tip of Wales, where the land breaks into a ragged coastline of headlands, sea stacks, coves, and beaches in startling variety. The national park is defined by that coast — a 186-mile path runs its full length, taking in everything from family beaches with donkeys to remote coves accessible only on foot.

@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+image: kailuakona.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kona_Mauka.jpg
 latitude: 19.6419
+loc_type: city
 longitude: -155.9969
 score: 0.68
 title: Kailua-Kona
 type: location
-loc_type: city
 ---
 
 Kailua-Kona sits on the dry, leeward side of the Big Island — the side that doesn't get the rain. While the rest of Hawaii can be lush and overcast, Kona is reliably sunny, which is exactly why it became the island's tourist hub. The town stretches along Alii Drive, a seaside road lined with shops, restaurants, and lava-rock shores where the Pacific crashes in hard.

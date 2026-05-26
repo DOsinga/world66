@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: fontevraud.jpg
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Fontevraud3.jpg
 latitude: 47.181353
+loc_type: city
 longitude: 0.037881
+score: 0.56
 title: Fontevraud
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Fontevraud is a small village in the Loire Valley whose name is synonymous with its abbey — the Abbaye Royale de Fontevraud, one of the largest and most remarkable monastic complexes in Europe. Founded in 1101, it became the favoured convent of French royalty and aristocracy. Louis XV sent four of his daughters here. The Plantagenet tombs of Henry II, Eleanor of Aquitaine, and Richard the Lionheart lie in the abbey church, making it an important site of English as well as French history.

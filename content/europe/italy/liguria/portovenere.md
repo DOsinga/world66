@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: portovenere.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Porto_Venere_from_Lerici.jpg
 latitude: 44.05066
+loc_type: city
 longitude: 9.834459
+score: 0.7
 title: Portovenere
 type: location
-score: 0.7
-loc_type: city
 ---
 
 Portovenere is one of the most striking villages on the Ligurian coast — a tight cluster of tall, brightly painted medieval houses stacked along a narrow promontory jutting into the sea between La Spezia and the Cinque Terre. Together with the offshore islands of Palmaria, Tino, and Tinetto, it was designated a UNESCO World Heritage Site in 1997, recognised as a cultural landscape shaped by centuries of human settlement in a place of exceptional natural beauty.

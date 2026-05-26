@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: olympic_valley.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Squaw_Valley_entrance_sign_right.jpg
 latitude: 39.1984
+loc_type: city
 longitude: -120.2299
+score: 0.56
 title: Olympic Valley
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Olympic Valley, formerly known as Squaw Valley, sits in the Sierra Nevada just northwest of Lake Tahoe. The valley is best known as the site of the 1960 Winter Olympics and home to Palisades Tahoe, one of California's largest ski resorts with over 6,000 acres of skiable terrain across two mountains.

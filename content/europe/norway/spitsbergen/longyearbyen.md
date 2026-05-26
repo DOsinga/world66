@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: longyearbyen.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Longyearbyen-spisshus-2022.jpg
 latitude: 78.223156
+loc_type: city
 longitude: 15.646366
+score: 0.64
 title: Longyearbyen
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Longyearbyen is the administrative capital of Svalbard and the main gateway for visitors to the archipelago. Named after the American coal magnate John Munro Longyear, who opened the first mine here in 1906, the town sits in the Longyear Valley surrounded by mountains and glaciers. With around 2,500 inhabitants — scientists, miners, tourism workers, and their families — it is the world's northernmost settlement of any real size.

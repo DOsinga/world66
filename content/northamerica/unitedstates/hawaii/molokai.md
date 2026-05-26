@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 21.1345
+loc_type: region
 longitude: -157.0072
+score: 0.55
 title: Molokai
 type: location
-score: 0.55
-loc_type: region
 ---
 
 Molokai is the fifth largest of the Hawaiian islands and by far the least developed — there are no traffic lights, no buildings taller than a coconut palm, and no resort strip. Just twenty minutes by air from [Maui](/northamerica/unitedstates/hawaii/maui) and [Oahu](/northamerica/unitedstates/hawaii/oahu), it feels like a different century.

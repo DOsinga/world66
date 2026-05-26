@@ -1,5 +1,0 @@
-europe/croatia/baka_voda
-northamerica/unitedstates/washington/auburn
-europe/russia/belgorod_1
-europe/germany/saxony/grlitz
-northamerica/unitedstates/oklahoma/elk_city

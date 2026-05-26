@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: badenwrttemberg.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Baden-Baden_10-2015_img41_Pump_house.jpg
 latitude: 48.53775
+loc_type: region
 longitude: 9.041169
 score: 0.51
 title: Baden-Württemberg
 type: location
-loc_type: region
 ---
 
 Baden-Württemberg is Germany's southwestern corner, sharing borders with France and Switzerland, and it contains some of the most varied and rewarding landscape in the country. The Black Forest rolls across the west, the Rhine defines the French border, Lake Constance sits in the south like an inland sea, and the Swabian highlands fill the middle. It's a prosperous, well-organised region — home to Mercedes-Benz and Porsche, to the oldest university in Germany, and to thermal spas that have been operating since the Romans.

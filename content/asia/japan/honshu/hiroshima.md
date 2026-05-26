@@ -1,12 +1,15 @@
 ---
-title: Hiroshima
-type: location
-latitude: 34.391724
-longitude: 132.451759
 done:
   location_cleanup: 2026-04-07
-score: 0.71
+image: hiroshima.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Atomic_Bomb_Dome_and_Motoyaso_River,_Hiroshima,_Northwest_view_20190417_1.jpg
+latitude: 34.391724
 loc_type: city
+longitude: 132.451759
+score: 0.71
+title: Hiroshima
+type: location
 ---
 
 When the first atomic bomb exploded over Hiroshima on 6 August 1945, the city became an immediate symbol of the horrors of war. Today, with a population of over a million, Hiroshima has rebuilt itself into a modern industrial city — Mazda's headquarters and main factory are here — but it has not let the world forget what happened.

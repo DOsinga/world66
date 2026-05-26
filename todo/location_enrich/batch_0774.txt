@@ -1,5 +1,0 @@
-northamerica/unitedstates/mississippi/tupelo
-europe/italy/liguria/italianriviera/tigullio/lavagna
-europe/bosniaandherzegovina/jajce
-europe/azerbaijan/agdam
-asia/iraq/assur

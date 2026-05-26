@@ -1,5 +1,0 @@
-australiaandpacific/newzealand/kerikeri
-asia/india/andhrapradesh/kurnool
-europe/netherlands/ijmuiden
-europe/germany/hesse/weilburg
-southamerica/argentina/mendoza

@@ -1,34 +1,15 @@
 ---
-address: Parque Martires del 71
-tags:
-- things_to_do
-- landmark
 title: Statue of Máximo Gómez
 type: poi
+tags:
+  - things_to_do
+  - habana_vieja
+  - sight
+address: Parque Mártires del 71, Old Havana
+latitude: 23.1413
+longitude: -82.3518
 ---
 
-In the north part of the old city you will find the Parque Martires del 71 with the the huge statue of Máximo Gómez.
+The monumental equestrian statue of Máximo Gómez stands at the entrance to Old Havana from the Malecón, at the end of the Paseo del Prado. Gómez was a Dominican-born general who became the supreme military commander of the Cuban independence forces — Fidel Castro called him "the greatest guerrilla fighter in history." The statue, completed in 1935, shows Gómez on horseback in full military dress.
 
-When José Martí began the War of Independence, he asked Gómez to lead his revolutionaries. Using small guerilla forces, Gómez would go from town to town, burning the Spanish plantations and eliminating their troops.
-
-The interesting thing about the statue is that is actually inhabited! If you look at the back side, you'll find a door. The old man living in the statue is always willing to trade stories about the Cuban battles for some Pesos or a bar of soap.
-
-type: Fountains and statues
-
-
-
-
-
-address: Parque Martires del 71
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The statue's position at the junction of the Malecón and the Paseo del Prado makes it one of the most photographed landmarks in Havana, and its surroundings — the castle walls of the Castillo de la Punta to the north, the tree-lined Prado to the south — give it a naturally dramatic setting. The park around the base of the statue is a pleasant place to sit and watch the city's evening parade on the Malecón.

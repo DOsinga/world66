@@ -9,15 +9,15 @@ Not just see it — walk it. The sections near [Beijing](/asia/china/beijing) mo
 
 **2. The Terracotta Army at Xi'an**
 
-In 1974, a farmer digging a well in Shaanxi province hit something. Archaeologists have since excavated over 8,000 life-sized clay soldiers, horses, and chariots buried with China's first emperor, Qin Shi Huang, around 210 BC. Each soldier's face is different. The scale of it is staggering — and archaeologists estimate the main tomb itself has never been opened. [Xi'an](/asia/china/xian) is also a city worth spending a couple of days in, with its intact city walls and excellent Muslim quarter.
+In 1974, a farmer digging a well in Shaanxi province hit something. Archaeologists have since excavated over 8,000 life-sized clay soldiers, horses, and chariots buried with China's first emperor, Qin Shi Huang, around 210 BC. Each soldier's face is different. The scale of it is staggering — and archaeologists estimate the main tomb itself has never been opened. [Xi'an](/asia/china/shaanxi/xian) is also a city worth spending a couple of days in, with its intact city walls and excellent Muslim quarter.
 
 **3. The Li River and Guilin Karst**
 
-The landscape around [Guilin](/asia/china/guilin) is the one on the Chinese 20-yuan note — limestone peaks rising hundreds of meters straight out of flat farmland, their reflections in the water of the Li River. A boat cruise from Guilin to Yangshuo takes about four hours through some of the most arresting natural scenery in the world. The downstream town of Yangshuo is a good place to base yourself for a day or two of cycling through the villages.
+The landscape around [Guilin](/asia/china/guangxi/guilin) is the one on the Chinese 20-yuan note — limestone peaks rising hundreds of meters straight out of flat farmland, their reflections in the water of the Li River. A boat cruise from Guilin to Yangshuo takes about four hours through some of the most arresting natural scenery in the world. The downstream town of Yangshuo is a good place to base yourself for a day or two of cycling through the villages.
 
 **4. The Mogao Caves at Dunhuang**
 
-Out in the far west, where China gives way to desert, [Dunhuang](/asia/china/dunhuang) was an oasis town on the Silk Road. In the sand cliffs nearby, Buddhist monks carved nearly 500 caves over a thousand years — filling them with murals, painted statues, and manuscripts. The colors are extraordinary: ochre, lapis, vermillion, green, surviving in the dry desert air. The best caves require a special permit and must be visited with a guide, but even the standard tour is one of the most remarkable things you can do in China.
+Out in the far west, where China gives way to desert, [Dunhuang](/asia/china/gansu/dunhuang) was an oasis town on the Silk Road. In the sand cliffs nearby, Buddhist monks carved nearly 500 caves over a thousand years — filling them with murals, painted statues, and manuscripts. The colors are extraordinary: ochre, lapis, vermillion, green, surviving in the dry desert air. The best caves require a special permit and must be visited with a guide, but even the standard tour is one of the most remarkable things you can do in China.
 
 **5. Lhasa and the Tibetan Plateau**
 

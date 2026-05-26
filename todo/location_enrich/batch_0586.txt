@@ -1,5 +1,0 @@
-southamerica/argentina/salta
-northamerica/canada/newfoundland/stjohns
-europe/hungary/sopron
-europe/spain/centralspain/zamora
-southamerica/ecuador/banos

@@ -1,5 +1,0 @@
-africa/mali/bamako
-africa/nigeria/abuja
-africa/mozambique/tofo
-europe/unitedkingdom/scotland/perth
-northamerica/unitedstates/georgia/cumberlandisland

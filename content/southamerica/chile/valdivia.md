@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: valdivia.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Valdivia-Antioquia.jpg
 latitude: -39.814126
+loc_type: city
 longitude: -73.245986
+score: 0.53
 title: Valdivia
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Valdivia is a university city in Chile's Lake District, built where the Calle-Calle and Cruces rivers meet before flowing into the Pacific. The rivers define the city — the waterfront market is one of the best in Chile, and the resident colony of sea lions that camps beneath the fish stalls, barking for scraps, is one of the most entertaining urban wildlife spectacles in South America.

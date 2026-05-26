@@ -1,5 +1,0 @@
-northamerica/unitedstates/westvirginia/huntington
-africa/sudan/wadihalfa
-asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal
-northamerica/unitedstates/nevada/incline_village
-africa/ethiopia/axum

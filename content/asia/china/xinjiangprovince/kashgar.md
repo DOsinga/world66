@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: kashgar.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:H%C3%ABytgah_Mosque,_Kashi_(20230923100109).jpg
 latitude: 39.4666
+loc_type: city
 longitude: 75.99
+score: 0.55
 title: Kashgar
 type: location
-score: 0.55
-loc_type: city
 ---
 
 The oasis of Kashgar, with a view of the last peaks of the western Himalayas, is the last stop in China on the Silk Road. From here you can cross to [Pakistan](/asia/pakistan) over the Karakoram Highway or to [Kyrgyzstan](/asia/kyrgyzstan) over the Torugart Pass.

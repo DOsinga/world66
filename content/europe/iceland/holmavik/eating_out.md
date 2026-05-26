@@ -3,6 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Café Riis is an Icelandic restaurant serving traditional Icelandic food and also pizzas, hamburgers and sandwiches. Prices range from 600 ISK for soup & bread to 1700 ISK for lamb or beef steak.
-
-Café Riis is located in the heart of Holmavik, Hafnarbraut 39. TEL 354-451-3567
+Holmavik is a small village and eating options are limited. The [Café Riis](/europe/iceland/holmavik/cafe_riis) is the main restaurant, housed in the village's oldest building. Options thin out quickly in winter, so if you're passing through outside summer, check what's open before you arrive.

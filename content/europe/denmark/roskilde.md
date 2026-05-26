@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: roskilde.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:RD_fra_bispegaarden.jpg
 latitude: 55.643348
+loc_type: city
 longitude: 12.081925
+score: 0.56
 title: Roskilde
 type: location
-score: 0.56
-loc_type: city
 ---
 
 Roskilde was Denmark's capital for most of the Middle Ages, and two landmarks from that era still define the town. The Viking Ship Museum on the harbour displays five original Viking ships recovered from the fjord, where they had been deliberately sunk a thousand years ago to block the waterway. You can watch boat-builders working with period tools in the workshop, and in summer you can sail on a reconstructed Viking longship.

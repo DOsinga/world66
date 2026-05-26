@@ -1,5 +1,0 @@
-europe/spain/spanishcostas/javea
-africa/algeria/bejaia
-europe/lithuania/klaipeda
-asia/india/madhyapradesh/bhopal
-europe/romania/mangalia

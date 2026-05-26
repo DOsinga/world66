@@ -2,12 +2,15 @@
 done:
   location_cleanup: '2026-04-15'
   poi_cleanup: '2026-04-21'
+image: freiburg.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Freiburg_im_Breisgau_M%C3%BCnster.jpg
 latitude: 47.99609
+loc_type: city
 longitude: 7.8494
 score: 0.61
 title: Freiburg
 type: location
-loc_type: city
 ---
 
 Freiburg im Breisgau is situated in the Black Forest in the southwestern part of Germany in the immediate vicinity of France and Switzerland. The town covers 15,300 hectares, and is spread over an area of 20 km from east to west and 18 km from north to south. The Rhine is only 3 km away from the town's western limit. The pleasant climate of the area makes the town well-known for being one of the warmest places in Germany.

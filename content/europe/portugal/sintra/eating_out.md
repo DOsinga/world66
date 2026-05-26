@@ -1,31 +1,7 @@
 ---
-title: Eating Out
-type: poi
+title: "Eating Out"
+type: section
 ---
 
-There's a good choice of restaurants where to eat in and around
-Sintra, from traditional portuguese cuisine to indian and chinese.
+Sintra has a solid range of restaurants catering to the large day-trip crowd from Lisbon. The best eating is in the old town around the National Palace. Don't leave without trying the [queijada](/europe/portugal/sintra/queijada_de_sintra), the town's signature pastry, and the travesseiro — a puff-pastry pillow filled with almond cream, sold at Piriquita on Rua das Padarias since 1862.
 
-**
-
-**
-
-**Contributors**
-July 12, 2005
-
-July 13, 2005
-
-### [Queijada de Sintra
-
-******Sintra’s Traditional Cakes**
-
-Small
-cakes, made with fresh cow cheese, eggs, sugar, flour and aromatized
-with cinnamon. The **Queijada’**s origin can be traced to the XIII century. However,
-it is during the romantic XIX century that this cake became famous. We
-know the ingredients, but the proportions are a very well
-kept secret, transmitted during generations within each manufacturer’s
-family. At present there are four different
-well-known brands: *Sapa*, since 1756; *Piriquita*, since 1862; more..](/europe/portugal/sintra/eating_out/queijada_de_sintra)
-
-type: Portuguese

@@ -1,12 +1,15 @@
 ---
-title: Denver
-type: location
-latitude: 39.739236
-longitude: -104.984862
 done:
   location_cleanup: 2026-04-06
-score: 0.63
+image: denver.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Denver,_Colorado_skyline_(cropped).jpg
+latitude: 39.739236
 loc_type: city
+longitude: -104.984862
+score: 0.63
+title: Denver
+type: location
 ---
 
 Denver sits at the base of the Rocky Mountains at exactly one mile above sea level, a fact marked by a step on the west side of the State Capitol building. The city has reinvented itself over the past two decades from a quiet cowtown into a genuinely interesting place to spend time, with a strong food scene, good museums, and easy access to the mountains.

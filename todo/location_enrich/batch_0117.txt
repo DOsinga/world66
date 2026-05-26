@@ -1,5 +1,0 @@
-asia/india/jammuandkashmir/ladakh/leh
-europe/croatia/vinkovci
-northamerica/unitedstates/alabama/dauphin_island
-northamerica/unitedstates/louisiana/morgan_city
-asia/oman/barka

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: eljadida.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Forteresse_Jadida_01.JPG
 latitude: 33.243331
+loc_type: city
 longitude: -8.49884
+score: 0.53
 title: El Jadida
 type: location
-score: 0.53
-loc_type: city
 ---
 
 El Jadida, about 100km south of Casablanca on the Atlantic coast, is one of Morocco's most undervisited historic towns. The Portuguese built a fortified settlement here in 1513, naming it Mazagan; the Moroccan sultan Mohammed ben Abdallah captured it in 1769 and renamed it El Jadida ("the new one"). The old Portuguese quarter — the Cité Portugaise — was designated a UNESCO World Heritage Site in 2004.

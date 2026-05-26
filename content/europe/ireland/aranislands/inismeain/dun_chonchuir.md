@@ -4,9 +4,16 @@ done:
 latitude: 53.0862
 longitude: -9.585
 snippet: Massive ancient stone fort on the island's highest point
+story: >
+  The fort is named after Conchobar, a semi-legendary high king of Connacht. No
+  one knows for certain what purpose it served — purely defensive, ceremonial,
+  or both. What is clear is that constructing these walls, dry-stone, using
+  limestone slabs quarried from the island's surface, required coordinating the
+  labour of a significant community on an island that can only have supported a
+  few hundred people at most.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Dún Chonchúir
 type: poi
 ---

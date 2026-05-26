@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-19'
+image: thessaloniki.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Thessaloniki_Heptapyrgion_northeastern_wall_from_the_inner_yard.jpg
 latitude: 40.6401
+loc_type: city
 longitude: 22.9444
 score: 0.74
 title: Thessaloniki
 type: location
-loc_type: city
 ---
 
 Thessaloniki is Greece's second city, and many would argue its most interesting. Where Athens trades on classical antiquity, Thessaloniki is a layered Byzantine, Ottoman, Sephardic and modern Greek port that wears all those pasts at once. It has a young, irreverent edge thanks to a huge student population, the best food scene in the country, and a long curving waterfront on the Thermaic Gulf with a view across to Mount Olympus.

@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+image: nanjing.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Nanjing_CBD_from_City_Wall.jpg
 latitude: 32.043828
+loc_type: city
 longitude: 118.778863
 score: 0.6
 title: Nanjing
 type: location
-loc_type: city
 ---
 
 Nanjing (南京), the "Southern Capital," has served as the capital of China during several dynastic periods and was the seat of the Republic of China government until 1949. The city sits on the Yangtze River surrounded by forested hills, and its scale and historical weight make it one of the most important cities in eastern China.

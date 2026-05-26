@@ -2,20 +2,21 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-22'
   poi_cleanup: '2026-04-19'
 latitude: 13.45535
+loc_type: city
 longitude: -16.575646
 score: 0.44
 title: Banjul
 type: location
-loc_type: city
 ---
 
 Banjul is The Gambia's capital, though it barely feels like one. Situated on St Mary's Island at the mouth of the Gambia River, it was founded by the British in 1816 as a trading post and has never grown into a big city. The population is small -- most of the urban sprawl has moved to neighbouring Serekunda and the coastal resort towns. What Banjul offers is a compact, walkable centre with genuine West African character.
 
-The Albert Market is the heart of the city -- a sprawling, chaotic covered market selling everything from fabrics and tailored clothing to spices, crafts, and electronics. It is noisy, colourful, and worth an hour of browsing. Nearby, the waterfront area around the old harbour has views across the river and the activity of the fishing boats.
+The [Albert Market](/africa/gambia/banjul/albert_market) is the heart of the city -- a sprawling, chaotic covered market selling everything from fabrics and tailored clothing to spices, crafts, and electronics. It is noisy, colourful, and worth an hour of browsing. Nearby, the waterfront area around the old harbour has views across the river and the activity of the fishing boats.
 
-The National Museum of The Gambia, on Independence Drive, has a modest but interesting collection covering the country's history, ethnography, and the slave trade. The African Heritage Museum offers rotating exhibitions of contemporary local art, with pieces available for purchase. Arch 22, the large gateway marking the entrance to the city, has a small museum and observation deck.
+The [National Museum of The Gambia](/africa/gambia/banjul/national_museum), on Independence Drive, has a modest but interesting collection covering the country's history, ethnography, and the slave trade. The [African Heritage Museum](/africa/gambia/banjul/african_heritage_museum) offers rotating exhibitions of contemporary local art, with pieces available for purchase. [Arch 22](/africa/gambia/banjul/arch_22), the large gateway marking the entrance to the city, has a small museum and observation deck.
 
 Banjul is well connected to the rest of the country. Bush taxis and minibuses depart from the main station for destinations across the south bank. The Barra ferry runs from the north bank terminal -- it takes about 35 minutes and is the gateway for trips to [Juffure](/africa/gambia/juffure) and the north side of the river. Banjul International Airport is about 24 kilometres south, closer to the resort areas than to the city itself.
 

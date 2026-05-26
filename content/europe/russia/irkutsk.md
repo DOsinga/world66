@@ -2,23 +2,24 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-05-17'
   poi_cleanup: '2026-04-21'
+image: irkutsk.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Irkutsk,_Irkutsk,_Russia.jpg
 latitude: 52.289122
+loc_type: city
 longitude: 104.279829
 score: 0.53
 title: Irkutsk
 type: location
-loc_type: city
 ---
 
-**Irkutsk** is located 60km East of the world famous *Lake Baikal*. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surrounded by natural beauty. Gorgeous birch forests link urban center to its residential area giving a kind of resort feeling to Irkutsk. 
+Irkutsk calls itself the Paris of Siberia, which is a stretch, but the nickname gestures at something real. It is a city of pastel 18th-century administrative buildings, ornate wooden houses carved with patterns that look almost like lace, and an educated, cultured population shaped by centuries of forced intellectual exile. The city sits on the Angara River, 60 kilometres from [Lake Baikal](/europe/russia/baikal) — which makes it the natural base for exploring the world's deepest lake, but there is more than enough in Irkutsk itself to justify a couple of days.
 
-It was founded as a wintering camp in 1652, during the first Russian colonization of the area; a fort was built in 1661, and Irkutsk rapidly became the main centre of Cisbaikalia and of the Russian trade route to China and Mongolia. It acquired town status in 1686. Its importance grew after the coming of the Trans-Siberian Railroad in 1898. The city of Irkutsk, with attractive embankments along the river and many surviving wooden houses on its tree-lined streets, is an administrative and cultural centre for Eastern Siberia and of the Russian Far East. Irkutsk State University (1918) and the Siberian branch of the Academy of Sciences are among the city’s many teaching and research institutes.
+The city was founded in 1661 as a Cossack fort and rapidly became the main centre of the Russian trade route to China. Merchants, missionaries, and eventually exiles passed through. After the failed Decembrist uprising of 1825, Tsar Nicholas I sent the surviving conspirators to Siberia; many settled in Irkutsk, building French-furnished houses and founding reading societies that gave the city its progressive reputation. Their former homes survive as the [Decembrist Museums](/europe/russia/irkutsk/decembrist_museum).
 
-Irkutsk has taken on several roles in its nearly 350 years of existence, including expedition base for explorations of Siberia, city of exiles, and gold rush town, just to name a few. The city’s nicknames include *the capital of Siberia*, *the pearl of Siberia*, and even *Paris of Siberia*.
+The old centre along the [Angara Embankment](/europe/russia/irkutsk/angara_embankment) is compact and walkable. Baroque churches — their turquoise or white facades incongruous against the Siberian winters — punctuate streets of ornate wooden houses. The [130th Quarter](/europe/russia/irkutsk/130th_quarter), a restored district of 19th-century merchant houses now filled with cafes, is the most photogenic corner of the city. The [Irkutsk Regional Museum](/europe/russia/irkutsk/regional_museum), one of Siberia's oldest, has strong collections on the Buryat people and Lake Baikal's natural history. [Schloss Gottorf analogue — the Kazan Church](/europe/russia/irkutsk/kazan_church), an 18th-century baroque church in a quiet neighbourhood, is one of the finest religious buildings in the region.
 
-Irkutsk is lighthearted and sunny, filled with pastel-colored 18th century buildings and delicately sculptured old wooden houses where the political rebels lived n serene exile. Elaborate brick mansions were built at the turn of the century, and the dark black wooden cabins were adorned with a local "lace" sculpture that gives them a touch of the Italian Renaissance. 
-
-In the late 19th century, gold was discovered in the nearby Lena Basin, and the Siberian Gold Rush began. People came to the region hoping to strike it rich, and those who were successful built sprawling classical mansions and financed public buildings, some of which still stand today.
-
-**Irkutsk** is in many ways the heart of Siberia, with its proximity to Lake Baikal. As a local writer once noted, "To miss seeing Irkutsk is to miss Siberia."
+For day trips, Listvyanka on the south shore of Baikal is under an hour by shared minibus — enough for a half-day on the lake. A longer journey east by the Trans-Siberian reaches Ulan-Ude, capital of Buryatia and a city with a very different feel.

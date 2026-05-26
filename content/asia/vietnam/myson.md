@@ -1,12 +1,15 @@
 ---
-title: My Son
-type: location
-latitude: 15.7583
-longitude: 108.1242
 done:
   location_cleanup: 2026-04-06
-score: 0.62
+image: myson.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2024_-_M%E1%BB%B9_S%C6%A1n_Group_B,_C_and_D_-_img_23.jpg
+latitude: 15.7583
 loc_type: city
+longitude: 108.1242
+score: 0.62
+title: My Son
+type: location
 ---
 
 My Son is the most important Cham archaeological site in Vietnam — a cluster of red-brick temple towers set in a narrow valley surrounded by jungle-covered mountains, about 40 kilometres southwest of [Hoi An](/asia/vietnam/hoian). Built between the 4th and 13th centuries as the religious and political capital of the Champa kingdom, My Son was the equivalent of [Angkor](/asia/cambodia/angkorwat) for the Cham civilisation.

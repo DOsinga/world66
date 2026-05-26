@@ -1,5 +1,0 @@
-europe/france/normandybrittany/vannes
-europe/switzerland/arbon
-asia/china/guilin
-europe/belgium/liege
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster

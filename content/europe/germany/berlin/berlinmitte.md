@@ -7,6 +7,10 @@ longitude: 13.359796
 score: 0.71
 title: Berlin Mitte
 type: neighbourhood
+image: berlinmitte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2023_Berliner_Dom_-_Westfassade_--_04.jpg
+image_license: CC BY 4.0
+image_attribution: Chainwit.
 ---
 
 Mitte is the old heart of Berlin and, since reunification, its showpiece. This is where the city packs most of its famous sights — Museum Island, the Brandenburg Gate, Unter den Linden, the Reichstag, the Holocaust Memorial — into a dense strip between the Spree and the Tiergarten. Before the Wall came down, much of it was in East Berlin and crumbling; now it is immaculate, expensive, and touristy, but still one of the great walking districts in Europe.

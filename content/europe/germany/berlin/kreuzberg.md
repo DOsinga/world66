@@ -7,6 +7,10 @@ longitude: 13.385951
 score: 0.6
 title: Kreuzberg
 type: neighbourhood
+image: kreuzberg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Berlin,_Kreuzberg_Denkmal.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Alta Falisa
 ---
 
 Kreuzberg is the Berlin of clichés — multicultural, scruffy, left-wing, relentlessly lived-in. Walled off on three sides during the Cold War and cheap enough to draw squatters, punks, draft-dodgers and Turkish guest-worker families, it became the counterweight to East Berlin's officialdom and West Berlin's bourgeoisie. Even with gentrification eating away at the edges, the district still carries an attitude you won't find anywhere else in the city.

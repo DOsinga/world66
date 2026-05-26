@@ -2,15 +2,18 @@
 done:
   city_tag_migration: '2026-04-14'
   location_cleanup: 2026-04-06
+image: charlottenburg.jpg
+image_attribution: Carsten Steger
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schloss_Charlottenburg_(view_from_the_southwest).jpg
 latitude: 52.5157
 longitude: 13.3097
 score: 0.63
+tags:
+- things_to_do
+- neighbourhood
 title: Charlottenburg
 type: neighbourhood
-image: charlottenburg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Schloss_Charlottenburg_(view_from_the_southwest).jpg
-image_license: CC BY-SA 4.0
-image_attribution: Carsten Steger
 ---
 
 Charlottenburg is Berlin's western bourgeois heartland — grand apartment buildings, the Kurfürstendamm shopping boulevard, the city's best Jugendstil architecture, and a bar and restaurant scene that attracts an older, better-dressed crowd than the eastern districts. It was the centre of West Berlin during the divided city years and retains a certain self-conscious elegance.

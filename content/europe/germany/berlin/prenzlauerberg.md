@@ -2,15 +2,18 @@
 done:
   city_tag_migration: '2026-04-14'
   location_cleanup: '2026-04-16'
+image: prenzlauerberg.jpg
+image_attribution: Mazbln
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Berlin_Zeiss_Planetarium.JPG
 latitude: 52.539847
 longitude: 13.428565
 score: 0.54
+tags:
+- things_to_do
+- neighbourhood
 title: Prenzlauer Berg
 type: neighbourhood
-image: prenzlauerberg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Berlin_Zeiss_Planetarium.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Mazbln
 ---
 
 Prenzlauer Berg, north-east of Mitte, is the poster child for Berlin's post-Wall reinvention. This was once a working-class East Berlin neighbourhood of crumbling late-19th-century tenements, famously untouched by wartime bombing; in the 1990s, squatters and artists moved into the unheated buildings, and the district became the cultural frontier of reunified Berlin. Thirty years on, the tenements have been immaculately restored, the squatters have moved on to Wedding, and Prenzlauer Berg is the most expensive, most pram-filled, most aggressively bourgeois district in the city. The international stereotype about Berlin being full of young families in organic-cotton knitwear comes from here.

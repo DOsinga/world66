@@ -196,6 +196,16 @@ longitude: 12.4833
 
 Do not publish a POI without coordinates. If you cannot determine them, leave the file out.
 
+## Sources
+
+The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded. Any time we discover a source, add it to the list for future reference, both for pois & locs
+
+```yaml
+sources:
+  - https://en.wikivoyage.org/wiki/Hubei
+  - https://en.wikipedia.org/wiki/Hubei
+```
+
 ## Principles
 
 - **The overview is king.** A great overview with no sections is better than a thin overview with ten empty sections.

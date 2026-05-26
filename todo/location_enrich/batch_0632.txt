@@ -1,5 +1,0 @@
-northamerica/costarica/sanjose
-northamerica/belize/dangriga
-europe/belgium/ghent
-europe/romania/piatraneamt
-asia/indonesia/java/salatiga

@@ -1,6 +1,6 @@
 ---
 done:
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-17'
 image: coimbatore.jpg
 image_attribution: Ramprasad014
 image_license: CC BY-SA 4.0

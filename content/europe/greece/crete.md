@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 35.308495
+loc_type: region
 longitude: 24.463342
 score: 0.79
 title: Crete
 type: location
-loc_type: region
 ---
 
 Crete is the largest of the Greek islands and in many ways its own world. It is big enough to lose yourself in for a fortnight without seeing the same coast twice, and varied enough that you can hike a snowbound mountain pass and swim in a turquoise lagoon on the same day. The Cretans themselves are proud, hospitable, and unmistakably Cretan first and Greek second — they speak their own dialect, dance their own dances, and pour their own raki at the end of every meal whether you asked for it or not.

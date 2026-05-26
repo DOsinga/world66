@@ -3,28 +3,22 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
   poi_cleanup: '2026-04-21'
+  location_enrich: 2026-05-22
+image: kalamata.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kalamata,_Peloponnese,_Greece.jpg
 latitude: 37.037271
+loc_type: city
 longitude: 22.110707
 score: 0.63
 title: Kalamata
 type: location
-loc_type: city
 ---
 
-Kalamata is famous as the Gateway to Exo Mani (which in turn is the gateway to Mesa Mani). The airport, railway terminous, major port, and bus station make it a transportation hub to all the surrounding area. At one time British Airplane spotters were treated to special accomodations there by the local military, but this practice has stopped last I heard.
+Kalamata is the second-largest city in the Peloponnese and the capital of Messenia, a region that has been central to Greek history since the Bronze Age. Most people know the name from the olive — the large, dark Kalamata olive grown in the surrounding plain is exported worldwide and has earned the city a global culinary reputation it doesn't always get credit for as a destination in its own right.
 
-As the first town you enter as you leave Mani, it had the honor of being the town first conquered during the Greek war of independence. It was some time after the Maniot's captured it that the rest of Greece decided to join the Maniot rebellion and overthrow the Turkish occupying army. The place the rebelion started (Now called Areopolous [The "war god's city") is a short drive south of town, and there are many places near their worth seeing.
+The city was devastated by a major earthquake in September 1986, which destroyed much of the old urban fabric. What rose in its place is a modern, functional Greek city, but the old quarter around the [Byzantine castle](/europe/greece/kalamata/castle_of_kalamata) survived and gives Kalamata its historic identity. It was here, at the [Church of the Holy Apostles](/europe/greece/kalamata/church_agioi_apostoloi), that the Greek War of Independence was first proclaimed in the Peloponnese on 23 March 1821 — the Maniots had captured the Ottoman garrison just days before.
 
-It has hotels ranging from Hovels to four star hotels by the seaside. It is a great jumping off place for the rest of the southern Peleponeses, and for the Mesinian bay in particular.
+The city's [waterfront](/europe/greece/kalamata/kalamata_waterfront) is long, sandy, and genuinely pleasant, backed by a promenade of cafes and restaurants. In July, the [Kalamata International Dance Festival](/europe/greece/kalamata/dance_festival) turns the city into one of Europe's most interesting contemporary performance venues, with shows in the castle grounds and the dedicated Dance Megaron on the seafront.
 
-South it has the wonders of the Mani only a short drive away.
-
-East it has the town of Miastra is just over the hill, and well worth seeing (Near Sparta, which is unfortunately not worth seeing.)
-
-West, Koroni (with its imposing castle) is a local bus ride away. If you go to Koroni from there, I recomend the Taverna in Ag. Andreus (Called "Petra"?) as a good place to eat as one of the only tavernas with someone that speaks english on the route.)
-
-North a drive gets you to Olympus, site of the original Olympics.
-
-Kalamata itself boasts a Venitian Castle, and a railway museum, and all the modern conveniences. The castle of Kalamata is famous in the area, and for 10's of Kilometers around.
-
-It is rumored that the great Maniotiphile Nahatz was rumored to have been through Kalamta in the 1970's.
+Most importantly, Kalamata is superbly positioned for exploring the southern Peloponnese. The [Mani peninsula](/europe/greece/mani) — wild, spare, and unlike anywhere else in Greece — is 45 minutes to the south. The ruined Byzantine city of [Mystras](/europe/greece/kalamata/mystras) is an hour to the east. Ancient Messene, with some of Greece's best-preserved Classical walls, is 25 km to the north. The [Taygetos mountains](/europe/greece/kalamata/taygetos_mountains) rise directly behind the city. Few Greek cities offer this density of extraordinary day trips from a single base.

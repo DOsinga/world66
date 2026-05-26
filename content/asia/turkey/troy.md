@@ -1,12 +1,15 @@
 ---
-title: Troy
-type: location
-latitude: 39.9574
-longitude: 26.2385
 done:
   location_cleanup: 2026-04-05
-score: 0.59
+image: troy.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg
+latitude: 39.9574
 loc_type: city
+longitude: 26.2385
+score: 0.59
+title: Troy
+type: location
 ---
 
 Troy — Troia, to the Turks who live nearby — is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's *Iliad*. It sits on a low mound called Hisarlık, about 30 km south-west of Çanakkale and a few kilometres from the Aegean coast, and for most of history it was thought to be a myth. Then, in the 1870s, the German businessman and self-taught archaeologist Heinrich Schliemann, armed with his copy of Homer and an obsessive certainty, began digging into the mound and to his and the world's astonishment, found the ruins of not one but nine successive cities, stacked on top of each other over some three and a half thousand years.

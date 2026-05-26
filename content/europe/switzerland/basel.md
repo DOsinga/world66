@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: basel.jpg
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Basel_-_M%C3%BCnsterpfalz1.jpg
 latitude: 47.558108
+loc_type: city
 longitude: 7.587826
 score: 0.65
 title: Basel
 type: location
-loc_type: city
 ---
 
 Basel, the second largest city of Switzerland, is known as a pharmaceutical multinational centre. However, it would be a bit narrow-minded to leave it at that. Basel is an interesting arty city, split up by the river Rhine and its medieval past is endowed with some of the greatest minds of European history, including Erasmus, Ulrich Zwingli and later Friedrich Nietzsche and Hermann Hesse. Its long-standing patronage of the arts has resulted in a ponoply of first-rate museums and galleries, which are well worth visiting, as is its historic centre. The right bank (better known as Kleinbasel) is the more modern centre. On the left bank (Grossbasel), one can trace the history of Basel in the old town that is ruled by the Münster cathedral where the bones of the reformist Erasmus are buried. 

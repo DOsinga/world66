@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: bayofislands.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_4801_Dolphins_-_Bay_of_Islands.jpg
 latitude: -35.255009
+loc_type: city
 longitude: 174.162673
+score: 0.69
 title: Bay of Islands
 type: location
-score: 0.69
-loc_type: city
 ---
 
 The Bay of Islands is one of New Zealand's most popular holiday destinations — a subtropical scatter of 144 islands off Northland's east coast, about three hours' drive north of Auckland. The water is warm by New Zealand standards, the scenery is spectacular, and the bay's sheltered harbours have drawn visitors since Captain Cook first anchored here in 1769.

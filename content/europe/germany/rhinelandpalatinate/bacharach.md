@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: bacharach.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bacharach_from_the_Postenturm.jpg
 latitude: 50.059794
+loc_type: city
 longitude: 7.7684
+score: 0.61
 title: Bacharach
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Bacharach is one of the best-preserved medieval towns in the Rhine Gorge, a UNESCO World Heritage stretch between Rüdesheim and Koblenz. The town sits in a slight recess carved into the steep vineyard slopes — its name likely derives from the Latin for Bacchus's altar — and the setting is among the most romantic on the river.

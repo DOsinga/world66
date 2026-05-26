@@ -7,10 +7,8 @@ longitude: 9.1895
 opening_hours: 'Museum: daily 09:00–17:30; performances vary'
 snippet: World-famous opera house, home to Verdi and Puccini premieres
 tags:
-- things_to_do
-- landmark
-- 48 Hours in Milan
-- 3 Days in Milan
+  - things_to_do
+  - sight
 title: Teatro alla Scala
 type: poi
 url: www.teatroallascala.org

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: buljarica.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Buljarica_beach.jpg
 latitude: 42.182802
+loc_type: city
 longitude: 18.979156
+score: 0.53
 title: Buljarica
 type: location
-score: 0.53
-loc_type: city
 ---
 
 Buljarica is a small, low-key resort village on the coast south of [Budva](/europe/montenegro/budva), about 2km from Petrovac. The main draw is the beach — a long, wide stretch of sand and fine pebble that's significantly less crowded than the Budva beaches in summer. The village is quiet, without the nightlife or resort infrastructure of Budva.

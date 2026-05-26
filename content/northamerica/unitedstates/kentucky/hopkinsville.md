@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: hopkinsville.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Grace_Church_(Hopkinsville).jpg

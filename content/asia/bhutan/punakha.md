@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: punakha.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:PunakhaDzong.jpg
 latitude: 27.584286
+loc_type: city
 longitude: 89.859309
+score: 0.71
 title: Punakha
 type: location
-score: 0.71
-loc_type: city
 ---
 
 Punakha was the capital of Bhutan until 1955 and remains one of the most rewarding destinations in the country. The town sits at the confluence of the Pho Chhu (Male River) and Mo Chhu (Female River) at around 1,200 m elevation — considerably warmer than Thimphu, which makes it an attractive winter destination.

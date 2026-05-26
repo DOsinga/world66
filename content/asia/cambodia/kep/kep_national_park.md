@@ -1,10 +1,13 @@
 ---
-category: Sight
 done:
   poi_cleanup: '2026-04-19'
 latitude: 10.488
 longitude: 104.305
 snippet: Forested hill park with jungle trails and coastal views
+tags:
+  - things_to_do
+  - sight
+  - nature
 title: Kep National Park
 type: poi
 ---

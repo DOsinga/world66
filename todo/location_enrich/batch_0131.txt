@@ -1,5 +1,0 @@
-northamerica/unitedstates/arkansas/fortsmith
-northamerica/panama/bocasdeltoro
-northamerica/canada/saskatchewan/swift_current
-europe/unitedkingdom/wales/wrexham
-europe/ireland/dundalk

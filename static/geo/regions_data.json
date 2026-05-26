@@ -201,7 +201,7 @@
    },
    {
     "title": "Mekong delta",
-    "snippet": "The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River \u2014 known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons \u2014 originates high on the Tibetan plateau and flows through China, between Myanmar and Laos, along the Lao-Thai border, and thro...",
+    "snippet": "The Mekong Delta is the southern rice bowl of Vietnam. The Mekong River \u2014 known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons \u2014 originates high on the Tibetan plateau and flows through China, between Myanmar and Laos, along the Lao-Thai border, and through...",
     "path": "asia/vietnam/mekongdelta",
     "score": 0.65,
     "lat": 9.750896,
@@ -280,7 +280,7 @@
    },
    {
     "title": "Sapa",
-    "snippet": "Sapa is a hill station in the far north-west of Vietnam, set at 1,600 metres in a spectacular valley surrounded by the Hoang Lien Son mountains \u2014 the highest range in Indochina, culminating in **Fansipan** (3,143 m), Vietnam's tallest peak. The French built it as a mountain re...",
+    "snippet": "Sapa is a hill station in the far north-west of Vietnam, set at 1,600 metres in a spectacular valley surrounded by the Hoang Lien Son mountains \u2014 the highest range in Indochina, culminating in Fansipan (3,143 m), Vietnam's tallest peak. The French built it as a mountain retrea...",
     "path": "asia/vietnam/sapa",
     "score": 0.72,
     "lat": 22.336,
@@ -710,7 +710,7 @@
    },
    {
     "title": "Cetti Bay",
-    "snippet": "Cetti Bay is a rugged stretch of the southwestern coast of **Guam**, reached by the scenic coastal road that loops around the southern half of the island. The bay itself is a broad, undeveloped crescent of beach ringed by steep forested hills \u2014 not a swimming beach (strong cur...",
+    "snippet": "Cetti Bay is a rugged stretch of the southwestern coast of Guam, reached by the scenic coastal road that loops around the southern half of the island. The bay itself is a broad, undeveloped crescent of beach ringed by steep forested hills \u2014 not a swimming beach (strong current...",
     "path": "australiaandpacific/guam/cettibay",
     "score": 0.48,
     "lat": 13.316026,
@@ -737,7 +737,7 @@
    },
    {
     "title": "Mangilao",
-    "snippet": "Mangilao is a village on the east coast of **Guam**, midway up the island and home to the main campus of the **University of Guam** \u2014 the largest higher-education institution in Micronesia \u2014 along with its associated **Richard F. Taitano Micronesian Area Research Center**, whi...",
+    "snippet": "Mangilao is a village on the east coast of Guam, midway up the island and home to the main campus of the University of Guam \u2014 the largest higher-education institution in Micronesia \u2014 along with its associated Richard F. Taitano Micronesian Area Research Center, which holds the...",
     "path": "australiaandpacific/guam/mangilao",
     "score": 0.41,
     "lat": 13.443991,
@@ -895,7 +895,7 @@
   "top_locations": [
    {
     "title": "Kaua'i",
-    "snippet": "Kaua'i is the oldest and northernmost of the main Hawaiian Islands \u2014 an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either O\u02bbahu or Maui. Its nickname, the **\"Garden Island\"**, is more than marketing: the interior is a...",
+    "snippet": "Kaua'i is the oldest and northernmost of the main Hawaiian Islands \u2014 an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either O\u02bbahu or Maui. Its nickname, the \"Garden Island\", is more than marketing: the interior is a near...",
     "path": "northamerica/unitedstates/hawaii/kauai",
     "score": 0.82,
     "lat": 22.050384,
@@ -930,7 +930,7 @@
    },
    {
     "title": "Maui",
-    "snippet": "Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **O\u02bbahu**, more developed than **Kaua\u02bbi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's mo...",
+    "snippet": "Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than O\u02bbahu, more developed than Kaua\u02bbi and the Big Island, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto \u2014 \"Maui...",
     "path": "northamerica/unitedstates/hawaii/maui",
     "score": 0.83,
     "lat": 20.802957,
@@ -1019,63 +1019,63 @@
    }
   ]
  },
- "colorado": {
-  "name": "Rocky Mountains",
+ "black_hills": {
+  "name": "Great Plains & Black Hills",
   "parent": "United States of America",
-  "n_locs": 54,
+  "n_locs": 26,
   "is_split": true,
   "top_locations": [
    {
-    "title": "Colorado",
-    "snippet": "Colorado is defined by the Rocky Mountains. The peaks run right through the middle of the state, creating a landscape of dramatic contrasts \u2014 alpine tundra above the treeline, red rock canyons in the west, and the vast high plains stretching east toward Kansas. With over 50 su...",
-    "path": "northamerica/unitedstates/colorado",
-    "score": 0.72,
-    "lat": 38.725178,
-    "lon": -105.607716,
+    "title": "Black Hills",
+    "snippet": "The Black Hills are an isolated mountain range rising from the Great Plains of western South Dakota \u2014 dark with ponderosa pine from a distance, hence the name. Sacred to the Lakota Sioux, contested in treaty wars, and eventually carved with presidential faces, this is one of t...",
+    "path": "northamerica/unitedstates/southdakota/blackhills",
+    "score": 0.64,
+    "lat": 43.869281,
+    "lon": -103.526487,
     "image_url": null
    },
    {
-    "title": "Aspen",
-    "snippet": "Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest smal...",
-    "path": "northamerica/unitedstates/colorado/aspen",
-    "score": 0.71,
-    "lat": 39.191113,
-    "lon": -106.82356,
+    "title": "South Dakota",
+    "snippet": "South Dakota is the most unassuming of the Great Plains states \u2014 a flat, sparsely populated rectangle of wheat and buffalo grass on the upper Missouri River \u2014 but it contains an extraordinary amount of what makes the American West famous. The state is split in half by the Miss...",
+    "path": "northamerica/unitedstates/southdakota",
+    "score": 0.54,
+    "lat": 44.647176,
+    "lon": -100.348761,
     "image_url": null
    },
    {
-    "title": "Vail",
-    "snippet": "Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built \u2014 Tyrolean-style architecture, pedestrian vi...",
-    "path": "northamerica/unitedstates/colorado/vail",
-    "score": 0.66,
-    "lat": 39.643803,
-    "lon": -106.388823,
-    "image_url": null
+    "title": "Deadwood",
+    "snippet": "Deadwood is a historic gold-rush town tucked into a gulch in the Black Hills of South Dakota. The gold rush began in 1876 and the town quickly became notorious \u2014 Wild Bill Hickok was shot dead at a card table here that same year, and Calamity Jane made it her base. Both are bu...",
+    "path": "northamerica/unitedstates/southdakota/deadwood",
+    "score": 0.53,
+    "lat": 44.374381,
+    "lon": -103.729072,
+    "image_url": "/content-image/northamerica/unitedstates/southdakota/deadwood.jpg"
    },
    {
-    "title": "Santa Fe",
-    "snippet": "Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class...",
-    "path": "northamerica/unitedstates/newmexico/santafe",
-    "score": 0.65,
-    "lat": 35.6876,
-    "lon": -105.9385,
-    "image_url": "/content-image/northamerica/unitedstates/newmexico/santafe.jpg"
+    "title": "\u201cSturgis\u201d",
+    "snippet": "Sturgis is a small ranching town of about 7,000 in the Northern Black Hills of South Dakota, but every August it becomes one of the most famous gatherings in America. The Sturgis Motorcycle Rally, running since 1938, draws close to half a million bikers for concerts, races, bi...",
+    "path": "northamerica/unitedstates/southdakota/sturgis",
+    "score": 0.42,
+    "lat": 44.4094,
+    "lon": -103.5091,
+    "image_url": "/content-image/northamerica/unitedstates/southdakota/sturgis.jpg"
    },
    {
-    "title": "Boulder",
-    "snippet": "Boulder is as beautiful as it is unique. Visitors here are treated to both a sensory and cultural treat. We have 4 very distinct seasons, with a moderate to cold winter. The Boulderites motto is \"if you don't like the weather, wait 5 minutes and it'll change\". The moral: Alway...",
-    "path": "northamerica/unitedstates/colorado/boulder",
-    "score": 0.65,
-    "lat": 40.014986,
-    "lon": -105.270545,
-    "image_url": null
+    "title": "Medora",
+    "snippet": "Medora is a tiny town of a few hundred people in the western Badlands, about 140 km west of Bismarck, and the main gateway to Theodore Roosevelt National Park. It's small enough to walk across in ten minutes, but it packs in more history than most towns ten times its size.",
+    "path": "northamerica/unitedstates/northdakota/medora",
+    "score": 0.42,
+    "lat": 46.9144,
+    "lon": -103.5291,
+    "image_url": "/content-image/northamerica/unitedstates/northdakota/medora.jpg"
    }
   ]
  },
  "new_orleans": {
   "name": "Deep South",
   "parent": "United States of America",
-  "n_locs": 124,
+  "n_locs": 115,
   "is_split": true,
   "top_locations": [
    {
@@ -1128,7 +1128,7 @@
  "new_york": {
   "name": "Mid Atlantic",
   "parent": "United States of America",
-  "n_locs": 96,
+  "n_locs": 109,
   "is_split": true,
   "top_locations": [
    {
@@ -1181,7 +1181,7 @@
  "chicago": {
   "name": "Midwest",
   "parent": "United States of America",
-  "n_locs": 99,
+  "n_locs": 71,
   "is_split": true,
   "top_locations": [
    {
@@ -1213,7 +1213,7 @@
    },
    {
     "title": "Madison",
-    "snippet": "Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest \u2014 a university town of about 270,000 people squeezed onto a narrow **isthmus** between two lakes, with the State Capitol at one end and the University of Wisconsin at the other. The whole...",
+    "snippet": "Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest \u2014 a university town of about 270,000 people squeezed onto a narrow isthmus between two lakes, with the State Capitol at one end and the University of Wisconsin at the other. The whole of...",
     "path": "northamerica/unitedstates/wisconsin/madison",
     "score": 0.52,
     "lat": 43.07469,
@@ -1265,15 +1265,6 @@
     "image_url": "/content-image/northamerica/unitedstates/utah/springdale.jpg"
    },
    {
-    "title": "Kanab",
-    "snippet": "Kanab is a small town in southern Utah that punches well above its weight as a base for exploring some of the American Southwest's most spectacular landscapes. Sitting at the junction of US-89 and US-89A, it is within easy reach of four major protected areas: Zion National Par...",
-    "path": "northamerica/unitedstates/utah/kanab",
-    "score": 0.55,
-    "lat": 37.0482,
-    "lon": -112.5285,
-    "image_url": "/content-image/northamerica/unitedstates/utah/kanab.jpg"
-   },
-   {
     "title": "St. George",
     "snippet": "St. George sits in Utah's southwest corner, surrounded by red rock cliffs and desert landscape that feels more like southern Nevada than the rest of the state. With over 300 days of sunshine a year and mild winters, it has become a base for outdoor pursuits and a popular stop...",
     "path": "northamerica/unitedstates/utah/st_george",
@@ -1281,13 +1272,22 @@
     "lat": 37.109877,
     "lon": -113.583206,
     "image_url": null
+   },
+   {
+    "title": "Nevada",
+    "snippet": "Nevada is a land of contrasts. Glittering Las Vegas rises from the southern desert, drawing millions with its casinos, shows, and neon excess. In the north, Reno offers a smaller, scrappier version of the same, with Sierra Nevada skiing just over the mountains.",
+    "path": "northamerica/unitedstates/nevada",
+    "score": 0.51,
+    "lat": 39.515882,
+    "lon": -116.853722,
+    "image_url": null
    }
   ]
  },
  "boston": {
   "name": "New England",
   "parent": "United States of America",
-  "n_locs": 88,
+  "n_locs": 89,
   "is_split": true,
   "top_locations": [
    {
@@ -1319,7 +1319,7 @@
    },
    {
     "title": "Cambridge",
-    "snippet": "**Cambridge** sits just across the Charles River from Boston, but it is its own city with its own character \u2014 more bookish, more politically progressive, and in places more interesting than its larger neighbour.",
+    "snippet": "Cambridge sits just across the Charles River from Boston, but it is its own city with its own character \u2014 more bookish, more politically progressive, and in places more interesting than its larger neighbour.",
     "path": "northamerica/unitedstates/massachusetts/cambridge",
     "score": 0.65,
     "lat": 42.3656,
@@ -1393,12 +1393,12 @@
  "utah": {
   "name": "Utah Canyon Country",
   "parent": "United States of America",
-  "n_locs": 34,
+  "n_locs": 31,
   "is_split": true,
   "top_locations": [
    {
     "title": "Utah",
-    "snippet": "Utah is a state of extraordinary landscapes and of a single religion. The **Mormon Church** \u2014 officially the Church of Jesus Christ of Latter-day Saints \u2014 was founded by Joseph Smith in New York in 1830, pushed across the Mid-West by violent persecution, and finally settled in...",
+    "snippet": "Utah is a state of extraordinary landscapes and of a single religion. The Mormon Church \u2014 officially the Church of Jesus Christ of Latter-day Saints \u2014 was founded by Joseph Smith in New York in 1830, pushed across the Mid-West by violent persecution, and finally settled in the...",
     "path": "northamerica/unitedstates/utah",
     "score": 0.78,
     "lat": 39.422519,
@@ -1415,15 +1415,6 @@
     "image_url": null
    },
    {
-    "title": "Telluride",
-    "snippet": "Telluride sits in a dramatic box canyon in the San Juan Mountains of southwestern Colorado, ringed on three sides by steep peaks that rise to over 13,000 feet. The setting is extraordinary \u2014 waterfalls cascade down the cliffs at the end of town, and the peaks close in so tight...",
-    "path": "northamerica/unitedstates/colorado/telluride",
-    "score": 0.66,
-    "lat": 37.937494,
-    "lon": -107.812285,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/telluride.jpg"
-   },
-   {
     "title": "Park City",
     "snippet": "Park City is a former silver-mining town turned ski resort about 30 miles east of Salt Lake City. It hosts two major ski areas \u2014 Park City Mountain Resort and Deer Valley \u2014 and was a main venue for the 2002 Winter Olympics. In January it becomes the centre of the independent f...",
     "path": "northamerica/unitedstates/utah/parkcity",
@@ -1433,20 +1424,29 @@
     "image_url": null
    },
    {
-    "title": "Durango",
-    "snippet": "Durango sits in the Animas River Valley in southwest Colorado, surrounded by the San Juan Mountains. It is one of the best outdoor towns in the state \u2014 the kind of place where you can raft the Animas in the morning, mountain bike in the afternoon, and eat well downtown in the...",
-    "path": "northamerica/unitedstates/colorado/durango",
+    "title": "Page",
+    "snippet": "Page sits on a sandstone mesa above Glen Canyon Dam, right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: Antelope Canyon, Horseshoe Bend, Lake Powell, and the Vermilion Cliffs are all within...",
+    "path": "northamerica/unitedstates/arizona/page",
     "score": 0.59,
-    "lat": 37.276948,
-    "lon": -107.8766,
-    "image_url": "/content-image/northamerica/unitedstates/colorado/durango.jpg"
+    "lat": 36.9147,
+    "lon": -111.4558,
+    "image_url": "/content-image/northamerica/unitedstates/arizona/page.jpg"
+   },
+   {
+    "title": "Salt Lake City",
+    "snippet": "Salt Lake City is the Capital of Utah and its most vibrant city. In the mountains around you will find some of the best powder skiing in the world, which is principally why the 2002 Winter Olympics were held here; the proximity of the resorts to the city is the other reason si...",
+    "path": "northamerica/unitedstates/utah/saltlakecity",
+    "score": 0.58,
+    "lat": 40.75962,
+    "lon": -111.886797,
+    "image_url": null
    }
   ]
  },
  "niagara_falls": {
   "name": "Great Lakes",
   "parent": "United States of America",
-  "n_locs": 61,
+  "n_locs": 72,
   "is_split": true,
   "top_locations": [
    {
@@ -1499,7 +1499,7 @@
  "charleston": {
   "name": "Appalachian South",
   "parent": "United States of America",
-  "n_locs": 97,
+  "n_locs": 93,
   "is_split": true,
   "top_locations": [
    {
@@ -1521,15 +1521,6 @@
     "image_url": null
    },
    {
-    "title": "Savannah",
-    "snippet": "Savannah is one of the most beautiful cities in the American South. Its historic district \u2014 a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses \u2014 has remained remarkably intact since the 19th century. The city was spar...",
-    "path": "northamerica/unitedstates/georgia/savannah",
-    "score": 0.64,
-    "lat": 32.079007,
-    "lon": -81.092134,
-    "image_url": null
-   },
-   {
     "title": "Smoky Mountains",
     "snippet": "Great Smoky Mountains National Park straddles the border between North Carolina and Tennessee, encompassing 800 square miles of which 95 percent is forested. It is the most visited national park in the United States, renowned for the diversity of its plant and animal life, the...",
     "path": "northamerica/unitedstates/northcarolina/smokymountains",
@@ -1546,31 +1537,58 @@
     "lat": 35.595363,
     "lon": -82.550841,
     "image_url": "/content-image/northamerica/unitedstates/northcarolina/asheville.jpg"
+   },
+   {
+    "title": "Gatlinburg",
+    "snippet": "Most people either love Gatlinburg or they hate it \u2014 or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested n...",
+    "path": "northamerica/unitedstates/tennessee/gatlinburg",
+    "score": 0.61,
+    "lat": 35.7143,
+    "lon": -83.5102,
+    "image_url": "/content-image/northamerica/unitedstates/tennessee/gatlinburg.jpg"
    }
   ]
  },
- "san_francisco": {
-  "name": "Northern California",
+ "san_diego": {
+  "name": "Southern California",
   "parent": "United States of America",
-  "n_locs": 110,
+  "n_locs": 82,
   "is_split": true,
   "top_locations": [
    {
-    "title": "San Francisco",
-    "snippet": "San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for...",
-    "path": "northamerica/unitedstates/california/sanfrancisco",
-    "score": 0.78,
-    "lat": 37.7749,
-    "lon": -122.4194,
-    "image_url": "/content-image/northamerica/unitedstates/california/sanfrancisco.jpg"
+    "title": "San Diego",
+    "snippet": "San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country \u2014 high 60s to mid 70s most of the year, long stretches without rain, and an Pacific that's swimmable from...",
+    "path": "northamerica/unitedstates/california/sandiego",
+    "score": 0.71,
+    "lat": 32.71742,
+    "lon": -117.162772,
+    "image_url": null
    },
    {
-    "title": "Lake Tahoe",
-    "snippet": "<<<<<<< HEAD Lake Tahoe is a great cobalt-blue lake set 6,200 feet up in the Sierra Nevada, straddling the California\u2013Nevada line. It is North America's largest alpine lake \u2014 twenty-two miles long, twelve wide, and famous for the clarity of its water, which is so transparent a...",
-    "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+    "title": "Santa Barbara",
+    "snippet": "Santa Barbara earns its nickname \u2014 the American Riviera \u2014 without too much strain. The city sits where the Santa Ynez Mountains meet the Pacific Ocean 160 km north of Los Angeles, in a microclimate warm enough to support bougainvillea, palm trees, and year-round outdoor life....",
+    "path": "northamerica/unitedstates/california/santa_barbara",
     "score": 0.69,
-    "lat": 39.088541,
-    "lon": -120.050353,
+    "lat": 34.4221,
+    "lon": -119.7027,
+    "image_url": null
+   },
+   {
+    "title": "Santa Barbara",
+    "snippet": "Santa Barbara is one of those rare places that genuinely seems to have it all: a 200-year-old Spanish Mission above the city, a working harbour below it, a near-perfect Mediterranean climate, south-facing beaches, the most beautiful courthouse in America, and a wine country an...",
+    "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+    "score": 0.68,
+    "lat": 34.422132,
+    "lon": -119.702667,
+    "image_url": "/content-image/northamerica/unitedstates/california/centralcoast/santabarbara.jpg"
+   },
+   {
+    "title": "Los Angeles",
+    "snippet": "L.A. is the quintessential American 21st century city \u2013 embracing and absorbing everything in its path \u2013 from culture to food to people \u2013 and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.",
+    "path": "northamerica/unitedstates/california/losangeles",
+    "score": 0.67,
+    "lat": 34.053691,
+    "lon": -118.242766,
     "image_url": null
    },
    {
@@ -1581,31 +1599,13 @@
     "lat": 35.269768,
     "lon": -120.653701,
     "image_url": null
-   },
-   {
-    "title": "Carmel",
-    "snippet": "Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywher...",
-    "path": "northamerica/unitedstates/california/carmel",
-    "score": 0.65,
-    "lat": 36.5552,
-    "lon": -121.9233,
-    "image_url": "/content-image/northamerica/unitedstates/california/carmel.jpg"
-   },
-   {
-    "title": "Monterey",
-    "snippet": "Monterey is a coastal town of about 30,000 people on the central California coast, roughly two hours south of San Francisco and just north of the dramatic scenery of the Big Sur. It has a more layered history than most California towns: it was the capital of Spanish Alta Calif...",
-    "path": "northamerica/unitedstates/california/centralcoast/monterey",
-    "score": 0.65,
-    "lat": 36.6002,
-    "lon": -121.8947,
-    "image_url": null
    }
   ]
  },
  "jackson_hole": {
   "name": "Northern Rockies",
   "parent": "United States of America",
-  "n_locs": 34,
+  "n_locs": 28,
   "is_split": true,
   "top_locations": [
    {
@@ -1655,10 +1655,63 @@
    }
   ]
  },
+ "colorado": {
+  "name": "Rocky Mountains",
+  "parent": "United States of America",
+  "n_locs": 44,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Colorado",
+    "snippet": "Colorado is defined by the Rocky Mountains. The peaks run right through the middle of the state, creating a landscape of dramatic contrasts \u2014 alpine tundra above the treeline, red rock canyons in the west, and the vast high plains stretching east toward Kansas. With over 50 su...",
+    "path": "northamerica/unitedstates/colorado",
+    "score": 0.72,
+    "lat": 38.725178,
+    "lon": -105.607716,
+    "image_url": null
+   },
+   {
+    "title": "Aspen",
+    "snippet": "Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest smal...",
+    "path": "northamerica/unitedstates/colorado/aspen",
+    "score": 0.71,
+    "lat": 39.191113,
+    "lon": -106.82356,
+    "image_url": null
+   },
+   {
+    "title": "Vail",
+    "snippet": "Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built \u2014 Tyrolean-style architecture, pedestrian vi...",
+    "path": "northamerica/unitedstates/colorado/vail",
+    "score": 0.66,
+    "lat": 39.643803,
+    "lon": -106.388823,
+    "image_url": null
+   },
+   {
+    "title": "Telluride",
+    "snippet": "Telluride sits in a dramatic box canyon in the San Juan Mountains of southwestern Colorado, ringed on three sides by steep peaks that rise to over 13,000 feet. The setting is extraordinary \u2014 waterfalls cascade down the cliffs at the end of town, and the peaks close in so tight...",
+    "path": "northamerica/unitedstates/colorado/telluride",
+    "score": 0.66,
+    "lat": 37.937494,
+    "lon": -107.812285,
+    "image_url": "/content-image/northamerica/unitedstates/colorado/telluride.jpg"
+   },
+   {
+    "title": "Santa Fe",
+    "snippet": "Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class...",
+    "path": "northamerica/unitedstates/newmexico/santafe",
+    "score": 0.65,
+    "lat": 35.6876,
+    "lon": -105.9385,
+    "image_url": "/content-image/northamerica/unitedstates/newmexico/santafe.jpg"
+   }
+  ]
+ },
  "key_west": {
   "name": "Florida",
   "parent": "United States of America",
-  "n_locs": 55,
+  "n_locs": 61,
   "is_split": true,
   "top_locations": [
    {
@@ -1689,6 +1742,15 @@
     "image_url": null
    },
    {
+    "title": "Savannah",
+    "snippet": "Savannah is one of the most beautiful cities in the American South. Its historic district \u2014 a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses \u2014 has remained remarkably intact since the 19th century. The city was spar...",
+    "path": "northamerica/unitedstates/georgia/savannah",
+    "score": 0.64,
+    "lat": 32.079007,
+    "lon": -81.092134,
+    "image_url": null
+   },
+   {
     "title": "Key Largo",
     "snippet": "Key Largo is the first and largest island in the Florida Keys, a 120-mile chain of coral and limestone islands stretching southwest from the mainland into the Gulf of Mexico and Atlantic Ocean. Often called the \"Diving Capital of the World,\" Key Largo sits alongside the only l...",
     "path": "northamerica/unitedstates/florida/keylargo",
@@ -1696,22 +1758,13 @@
     "lat": 25.0861,
     "lon": -80.4476,
     "image_url": null
-   },
-   {
-    "title": "Orlando",
-    "snippet": "Orlando is the theme park capital of the world. Walt Disney World and Universal Orlando anchor a sprawling entertainment district south-west of the actual city, with SeaWorld, Gatorland, and a string of smaller attractions filling the gaps. On any given day there are more visi...",
-    "path": "northamerica/unitedstates/florida/orlando",
-    "score": 0.62,
-    "lat": 28.542122,
-    "lon": -81.379045,
-    "image_url": null
    }
   ]
  },
  "washington": {
   "name": "Pacific Northwest",
   "parent": "United States of America",
-  "n_locs": 47,
+  "n_locs": 48,
   "is_split": true,
   "top_locations": [
    {
@@ -1743,7 +1796,7 @@
    },
    {
     "title": "Cannon Beach",
-    "snippet": "Cannon Beach is a small coastal town on the northern Oregon coast, about an hour and a half drive from Portland. The beach is broad and sandy, backed by forest-covered headlands, and dominated by **Haystack Rock** \u2014 a 72-metre sea stack rising directly from the surf just offsh...",
+    "snippet": "Cannon Beach is a small coastal town on the northern Oregon coast, about an hour and a half drive from Portland. The beach is broad and sandy, backed by forest-covered headlands, and dominated by Haystack Rock \u2014 a 72-metre sea stack rising directly from the surf just offshore....",
     "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
     "score": 0.6,
     "lat": 45.890028,
@@ -1761,55 +1814,55 @@
    }
   ]
  },
- "san_diego": {
-  "name": "Southern California",
+ "san_francisco": {
+  "name": "Northern California",
   "parent": "United States of America",
-  "n_locs": 71,
+  "n_locs": 101,
   "is_split": true,
   "top_locations": [
    {
-    "title": "San Diego",
-    "snippet": "San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country \u2014 high 60s to mid 70s most of the year, long stretches without rain, and an Pacific that's swimmable from...",
-    "path": "northamerica/unitedstates/california/sandiego",
-    "score": 0.71,
-    "lat": 32.71742,
-    "lon": -117.162772,
-    "image_url": null
+    "title": "San Francisco",
+    "snippet": "San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for...",
+    "path": "northamerica/unitedstates/california/sanfrancisco",
+    "score": 0.78,
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "image_url": "/content-image/northamerica/unitedstates/california/sanfrancisco.jpg"
    },
    {
-    "title": "Santa Barbara",
-    "snippet": "Santa Barbara earns its nickname \u2014 the American Riviera \u2014 without too much strain. The city sits where the Santa Ynez Mountains meet the Pacific Ocean 160 km north of Los Angeles, in a microclimate warm enough to support bougainvillea, palm trees, and year-round outdoor life....",
-    "path": "northamerica/unitedstates/california/santa_barbara",
+    "title": "Lake Tahoe",
+    "snippet": "<<<<<<< HEAD Lake Tahoe is a great cobalt-blue lake set 6,200 feet up in the Sierra Nevada, straddling the California\u2013Nevada line. It is North America's largest alpine lake \u2014 twenty-two miles long, twelve wide, and famous for the clarity of its water, which is so transparent a...",
+    "path": "northamerica/unitedstates/california/highsierra/laketahoe",
     "score": 0.69,
-    "lat": 34.4221,
-    "lon": -119.7027,
+    "lat": 39.088541,
+    "lon": -120.050353,
     "image_url": null
    },
    {
-    "title": "Santa Barbara",
-    "snippet": "Santa Barbara is one of those rare places that genuinely seems to have it all: a 200-year-old Spanish Mission above the city, a working harbour below it, a near-perfect Mediterranean climate, south-facing beaches, the most beautiful courthouse in America, and a wine country an...",
-    "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
-    "score": 0.68,
-    "lat": 34.422132,
-    "lon": -119.702667,
-    "image_url": "/content-image/northamerica/unitedstates/california/centralcoast/santabarbara.jpg"
-   },
-   {
-    "title": "Los Angeles",
-    "snippet": "L.A. is the quintessential American 21st century city \u2013 embracing and absorbing everything in its path \u2013 from culture to food to people \u2013 and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.",
-    "path": "northamerica/unitedstates/california/losangeles",
-    "score": 0.67,
-    "lat": 34.053691,
-    "lon": -118.242766,
-    "image_url": null
-   },
-   {
-    "title": "Santa Monica",
-    "snippet": "Santa Monica sits at the western edge of Los Angeles, where the Santa Monica Mountains meet the Pacific. It is its own incorporated city within the greater metropolitan sprawl, with about 90,000 residents and a character distinct from its surroundings: more walkable, more comp...",
-    "path": "northamerica/unitedstates/california/santamonica",
+    "title": "Carmel",
+    "snippet": "Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywher...",
+    "path": "northamerica/unitedstates/california/carmel",
     "score": 0.65,
-    "lat": 34.01947,
-    "lon": -118.491227,
+    "lat": 36.5552,
+    "lon": -121.9233,
+    "image_url": "/content-image/northamerica/unitedstates/california/carmel.jpg"
+   },
+   {
+    "title": "Monterey",
+    "snippet": "Monterey is a coastal town of about 30,000 people on the central California coast, roughly two hours south of San Francisco and just north of the dramatic scenery of the Big Sur. It has a more layered history than most California towns: it was the capital of Spanish Alta Calif...",
+    "path": "northamerica/unitedstates/california/centralcoast/monterey",
+    "score": 0.65,
+    "lat": 36.6002,
+    "lon": -121.8947,
+    "image_url": null
+   },
+   {
+    "title": "Tahoe City",
+    "snippet": "Tahoe City sits on the northwest shore of Lake Tahoe, where the Truckee River begins its run toward Nevada. It is the quieter, more laid-back alternative to South Lake Tahoe \u2014 a small mountain town with a handful of good restaurants, a pebble beach, and easy access to some of...",
+    "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+    "score": 0.63,
+    "lat": 39.168937,
+    "lon": -120.143478,
     "image_url": null
    }
   ]
@@ -2207,7 +2260,7 @@
    },
    {
     "title": "Caernarfon",
-    "snippet": "**Caernarfon** is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal...",
+    "snippet": "Caernarfon is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal tow...",
     "path": "europe/unitedkingdom/wales/caernarfon",
     "score": 0.62,
     "lat": 53.139436,
@@ -2431,7 +2484,7 @@
  "york": {
   "name": "Yorkshire & Lake District",
   "parent": "England",
-  "n_locs": 64,
+  "n_locs": 67,
   "is_split": true,
   "top_locations": [
    {
@@ -2484,7 +2537,7 @@
  "oxford": {
   "name": "Cotswolds & South West",
   "parent": "England",
-  "n_locs": 47,
+  "n_locs": 50,
   "is_split": true,
   "top_locations": [
    {
@@ -2537,7 +2590,7 @@
  "cambridge": {
   "name": "East Anglia",
   "parent": "England",
-  "n_locs": 26,
+  "n_locs": 22,
   "is_split": true,
   "top_locations": [
    {
@@ -2590,7 +2643,7 @@
  "london": {
   "name": "London and around",
   "parent": "England",
-  "n_locs": 35,
+  "n_locs": 23,
   "is_split": true,
   "top_locations": [
    {
@@ -2603,15 +2656,6 @@
     "image_url": "/content-image/europe/unitedkingdom/england/london.jpg"
    },
    {
-    "title": "Brighton",
-    "snippet": "Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and th...",
-    "path": "europe/unitedkingdom/england/south_east/brighton",
-    "score": 0.67,
-    "lat": 50.821463,
-    "lon": -0.140056,
-    "image_url": null
-   },
-   {
     "title": "Windsor",
     "snippet": "Windsor exists because of its castle, and the castle is reason enough to come. Windsor Castle is the oldest and largest occupied castle in the world, a royal residence for nearly a thousand years, and it dominates the town from every angle. The State Apartments, St George's Ch...",
     "path": "europe/unitedkingdom/england/south_east/windsor",
@@ -2621,29 +2665,38 @@
     "image_url": "/content-image/europe/unitedkingdom/england/south_east/windsor.jpg"
    },
    {
-    "title": "Canterbury",
-    "snippet": "Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has...",
-    "path": "europe/unitedkingdom/england/south_east/canterbury",
-    "score": 0.63,
-    "lat": 51.280028,
-    "lon": 1.080253,
-    "image_url": "/content-image/europe/unitedkingdom/england/south_east/canterbury.jpg"
+    "title": "Chichester",
+    "snippet": "Chichester is a small cathedral city in West Sussex, close to Portsmouth and the South Downs. The Roman walls that encircle the city centre are still largely intact, and the street plan follows the Roman grid, with four main streets meeting at the medieval Market Cross in the...",
+    "path": "europe/unitedkingdom/england/south_east/chichester",
+    "score": 0.53,
+    "lat": 50.836486,
+    "lon": -0.779172,
+    "image_url": null
    },
    {
-    "title": "Rochester",
-    "snippet": "Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rocheste...",
-    "path": "europe/unitedkingdom/england/south_east/rochester",
-    "score": 0.53,
-    "lat": 51.3884,
-    "lon": 0.5049,
-    "image_url": "/content-image/europe/unitedkingdom/england/south_east/rochester.jpg"
+    "title": "Marlow",
+    "snippet": "Marlow is one of the prettiest towns on the Thames, a place where Georgian facades line the high street and a graceful suspension bridge frames the river. It sits in the Chiltern Hills of Buckinghamshire, about an hour west of London, and has long attracted writers \u2014 Mary Shel...",
+    "path": "europe/unitedkingdom/england/south_east/marlow",
+    "score": 0.51,
+    "lat": 51.571871,
+    "lon": -0.776965,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/marlow.jpg"
+   },
+   {
+    "title": "Hove",
+    "snippet": "Hove sits immediately west of Brighton along the Sussex coast, separated in administrative terms since the two merged into a single unitary authority in 1997, though most locals still maintain the distinction with some feeling. Where Brighton pitches itself at weekenders seeki...",
+    "path": "europe/unitedkingdom/england/south_east/hove",
+    "score": 0.49,
+    "lat": 50.828692,
+    "lon": -0.174574,
+    "image_url": null
    }
   ]
  },
  "cornwall": {
   "name": "Cornwall & Devon",
   "parent": "England",
-  "n_locs": 32,
+  "n_locs": 29,
   "is_split": true,
   "top_locations": [
    {
@@ -2693,6 +2746,59 @@
    }
   ]
  },
+ "brighton": {
+  "name": "South of England",
+  "parent": "England",
+  "n_locs": 13,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Brighton",
+    "snippet": "Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and th...",
+    "path": "europe/unitedkingdom/england/south_east/brighton",
+    "score": 0.67,
+    "lat": 50.821463,
+    "lon": -0.140056,
+    "image_url": null
+   },
+   {
+    "title": "Canterbury",
+    "snippet": "Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has...",
+    "path": "europe/unitedkingdom/england/south_east/canterbury",
+    "score": 0.63,
+    "lat": 51.280028,
+    "lon": 1.080253,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/canterbury.jpg"
+   },
+   {
+    "title": "Rochester",
+    "snippet": "Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rocheste...",
+    "path": "europe/unitedkingdom/england/south_east/rochester",
+    "score": 0.53,
+    "lat": 51.3884,
+    "lon": 0.5049,
+    "image_url": "/content-image/europe/unitedkingdom/england/south_east/rochester.jpg"
+   },
+   {
+    "title": "Dover",
+    "snippet": "When you think of Dover, you probably think of white cliffs \u2014 those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel...",
+    "path": "europe/unitedkingdom/england/south_east/dover",
+    "score": 0.51,
+    "lat": 51.125127,
+    "lon": 1.313423,
+    "image_url": null
+   },
+   {
+    "title": "Hastings",
+    "snippet": "Hastings is best known for the battle that changed English history in 1066, though that actually took place six miles inland at what is now called Battle. The town itself is an ancient Sussex seaside settlement, nestled in the folds of the High Weald as it meets the sea.",
+    "path": "europe/unitedkingdom/england/south_east/hastings",
+    "score": 0.5,
+    "lat": 50.855098,
+    "lon": 0.582178,
+    "image_url": null
+   }
+  ]
+ },
  "united_arab_emirates": {
   "name": "United Arab Emirates",
   "parent": "United Arab Emirates",
@@ -2728,7 +2834,7 @@
    },
    {
     "title": "Al Ain",
-    "snippet": "**Al Ain** \u2014 \"The Spring\" in Arabic \u2014 is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the deser...",
+    "snippet": "Al Ain \u2014 \"The Spring\" in Arabic \u2014 is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the desert, a...",
     "path": "asia/unitedarabemirates/al_ain",
     "score": 0.47,
     "lat": 24.2075,
@@ -2948,7 +3054,7 @@
   "top_locations": [
    {
     "title": "Antalya",
-    "snippet": "Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called **Turquoise Coast** \u2014 the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fif...",
+    "snippet": "Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called Turquoise Coast \u2014 the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fifth-l...",
     "path": "asia/turkey/antalya",
     "score": 0.7,
     "lat": 36.886573,
@@ -3010,7 +3116,7 @@
    },
    {
     "title": "Asian Side (Kad\u0131k\u00f6y)",
-    "snippet": "Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride \u2014 it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was *\"Meet where the continents m...",
+    "snippet": "Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride \u2014 it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was \"Meet where the continents me...",
     "path": "asia/turkey/asianpart",
     "score": 0.63,
     "lat": 41.01,
@@ -3019,7 +3125,7 @@
    },
    {
     "title": "Troy",
-    "snippet": "Troy \u2014 Troia, to the Turks who live nearby \u2014 is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's *Iliad*. It sits on a low mound called Hisarl\u0131k, about 30 km south-west of \u00c7anakkale and a few kilometres from the Aegean coast, and for mo...",
+    "snippet": "Troy \u2014 Troia, to the Turks who live nearby \u2014 is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's Iliad. It sits on a low mound called Hisarl\u0131k, about 30 km south-west of \u00c7anakkale and a few kilometres from the Aegean coast, and for most...",
     "path": "asia/turkey/troy",
     "score": 0.59,
     "lat": 39.9574,
@@ -3054,7 +3160,7 @@
   "top_locations": [
    {
     "title": "Kars & Ani",
-    "snippet": "Kars is a frontier city in northeastern Turkey, cold and austere, perched on a plateau at 1,800 metres. It spent decades as a Russian garrison town \u2014 the grid-plan streets and crumbling Baltic-style mansions still show it \u2014 and Orhan Pamuk set his novel *Snow* here, capturing...",
+    "snippet": "Kars is a frontier city in northeastern Turkey, cold and austere, perched on a plateau at 1,800 metres. It spent decades as a Russian garrison town \u2014 the grid-plan streets and crumbling Baltic-style mansions still show it \u2014 and Orhan Pamuk set his novel Snow here, capturing th...",
     "path": "asia/turkey/kars__ani",
     "score": 0.57,
     "lat": 40.616453,
@@ -3134,7 +3240,7 @@
    },
    {
     "title": "Sousse",
-    "snippet": "**Sousse** is Tunisia's third-largest city and the main beach resort on its central coast \u2014 a city of about 270,000 people about 140 km south of Tunis, with a long sandy Mediterranean beach fringed by resort hotels and a **UNESCO-listed medieval Medina** at its heart. It is th...",
+    "snippet": "Sousse is Tunisia's third-largest city and the main beach resort on its central coast \u2014 a city of about 270,000 people about 140 km south of Tunis, with a long sandy Mediterranean beach fringed by resort hotels and a UNESCO-listed medieval Medina at its heart. It is the easies...",
     "path": "africa/tunisia/sousse",
     "score": 0.57,
     "lat": 35.828828,
@@ -3377,7 +3483,7 @@
   "top_locations": [
    {
     "title": "Chiang mai",
-    "snippet": "**Chiang Mai** is named the \"Rose of the North\" for the abundance of flowers that thrive in the cooler mountain climate. The surrounding of the city is blessed with an outstanding beauty in nature. If you want to get away from busy Bangkok, but still want to stay in a big city...",
+    "snippet": "Chiang Mai is named the \"Rose of the North\" for the abundance of flowers that thrive in the cooler mountain climate. The surrounding of the city is blessed with an outstanding beauty in nature. If you want to get away from busy Bangkok, but still want to stay in a big city Chi...",
     "path": "asia/thailand/chiangmai",
     "score": 0.76,
     "lat": 18.788278,
@@ -3386,7 +3492,7 @@
    },
    {
     "title": "Sukhothai",
-    "snippet": "**Sukhothai** \u2014 the name literally means \"the Dawn of Happiness\" in Pali \u2014 was the first capital of the Thai kingdom, founded in **1238** and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King **Ramkhamhaen...",
+    "snippet": "Sukhothai \u2014 the name literally means \"the Dawn of Happiness\" in Pali \u2014 was the first capital of the Thai kingdom, founded in 1238 and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King Ramkhamhaeng in the l...",
     "path": "asia/thailand/sukhothai",
     "score": 0.71,
     "lat": 17.0196,
@@ -3536,7 +3642,7 @@
   "top_locations": [
    {
     "title": "Zanzibar",
-    "snippet": "Zanzibar is an archipelago of coral islands off the coast of **Tanzania**, in the Indian Ocean about 35 km from the East African mainland. Officially a semi-autonomous part of Tanzania since 1964, it has its own president, flag, and a strong sense of being a separate place \u2014 w...",
+    "snippet": "Zanzibar is an archipelago of coral islands off the coast of Tanzania, in the Indian Ocean about 35 km from the East African mainland. Officially a semi-autonomous part of Tanzania since 1964, it has its own president, flag, and a strong sense of being a separate place \u2014 which...",
     "path": "africa/tanzania/zanzibar",
     "score": 0.75,
     "lat": -6.099971,
@@ -4101,7 +4207,7 @@
   "top_locations": [
    {
     "title": "Ezulwini Valley",
-    "snippet": "The Ezulwini Valley \u2014 *Valley of Heaven* in siSwati \u2014 stretches south from Mbabane toward Lobamba and is the cultural and tourist heart of the country. The main road (MR103) through the valley is lined with craft markets, hotels, the royal residences, and the entrance to Mlilw...",
+    "snippet": "The Ezulwini Valley \u2014 Valley of Heaven in siSwati \u2014 stretches south from Mbabane toward Lobamba and is the cultural and tourist heart of the country. The main road (MR103) through the valley is lined with craft markets, hotels, the royal residences, and the entrance to Mlilwan...",
     "path": "africa/swaziland/ezulwinivalley",
     "score": 0.48,
     "lat": -26.43,
@@ -4205,7 +4311,7 @@
    },
    {
     "title": "Port Sudan",
-    "snippet": "Port Sudan is Sudan's principal seaport, a hot, low-lying city on a flat stretch of the **Red Sea** coast founded by the British in 1906 as the outlet for the railway from Khartoum. For most of the last century it was the country's economic lifeline \u2014 cotton, gum arabic, oil a...",
+    "snippet": "Port Sudan is Sudan's principal seaport, a hot, low-lying city on a flat stretch of the Red Sea coast founded by the British in 1906 as the outlet for the railway from Khartoum. For most of the last century it was the country's economic lifeline \u2014 cotton, gum arabic, oil and j...",
     "path": "africa/sudan/portsudan",
     "score": 0.23,
     "lat": 19.619217,
@@ -4743,7 +4849,7 @@
    },
    {
     "title": "Pamplona",
-    "snippet": "Pamplona is the city Hemingway made famous. Every July, the **San Fermin Festival** sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.",
+    "snippet": "Pamplona is the city Hemingway made famous. Every July, the San Fermin Festival sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.",
     "path": "europe/spain/navarre/pamplona",
     "score": 0.71,
     "lat": 42.8182,
@@ -4752,7 +4858,7 @@
    },
    {
     "title": "Basque Country (Euskadi)",
-    "snippet": "The **Basque Country** \u2014 *Euskadi* in the Basque language \u2014 is an autonomous community in the north of Spain, tucked between the Bay of Biscay, the Pyrenees and the French border. It is one of the most distinctive parts of Europe. The **Basques** are probably the oldest indige...",
+    "snippet": "The Basque Country \u2014 Euskadi in the Basque language \u2014 is an autonomous community in the north of Spain, tucked between the Bay of Biscay, the Pyrenees and the French border. It is one of the most distinctive parts of Europe. The Basques are probably the oldest indigenous peopl...",
     "path": "europe/spain/basque_country_euskadi",
     "score": 0.7,
     "lat": 43.0,
@@ -4761,7 +4867,7 @@
    },
    {
     "title": "Bilbao",
-    "snippet": "Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain \u2014 a gritty port on the Nervi\u00f3n river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's **Guggenheim Museum Bilbao** open...",
+    "snippet": "Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain \u2014 a gritty port on the Nervi\u00f3n river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's Guggenheim Museum Bilbao opened o...",
     "path": "europe/spain/basque_country_euskadi/bilbao",
     "score": 0.69,
     "lat": 43.263,
@@ -4876,7 +4982,7 @@
    },
    {
     "title": "La Gomera",
-    "snippet": "**An Ecological Paradise**",
+    "snippet": "An Ecological Paradise",
     "path": "europe/spain/canaryislands/lagomera",
     "score": 0.63,
     "lat": 28.119236,
@@ -5900,14 +6006,14 @@
   ]
  },
  "russia": {
-  "name": "Russia",
+  "name": "Siberia & Far East",
   "parent": "Russia",
   "n_locs": 13,
   "is_split": false,
   "top_locations": [
    {
     "title": "Irkutsk",
-    "snippet": "**Irkutsk** is located 60km East of the world famous *Lake Baikal*. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surr...",
+    "snippet": "Irkutsk is located 60km East of the world famous Lake Baikal. It is administrative centre of Irkutsk oblast (province) in the east-central Russia. The city lies along the Angara River at its confluence with the Irkut River. More than 750,000 people live in this city surrounded...",
     "path": "europe/russia/irkutsk",
     "score": 0.53,
     "lat": 52.289122,
@@ -5952,21 +6058,12 @@
    }
   ]
  },
- "russia_2": {
-  "name": "Russia",
+ "moscow": {
+  "name": "Moscow & Golden Ring",
   "parent": "Russia",
-  "n_locs": 36,
-  "is_split": false,
+  "n_locs": 12,
+  "is_split": true,
   "top_locations": [
-   {
-    "title": "St Petersburg",
-    "snippet": "St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta \u2014 a grand experiment in urban planning that produced an extraord...",
-    "path": "europe/russia/stpetersburg",
-    "score": 0.8,
-    "lat": 59.9343,
-    "lon": 30.3351,
-    "image_url": "/content-image/europe/russia/stpetersburg.jpg"
-   },
    {
     "title": "Moscow",
     "snippet": "Moscow is the beating heart of the Russian world \u2014 a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged...",
@@ -5995,12 +6092,180 @@
     "image_url": null
    },
    {
+    "title": "Vladimir",
+    "snippet": "Vladimir is one of the oldest and most historically important cities in Russia. Founded in 990, it served as the capital of medieval Rus' in the 12th and 13th centuries, before Moscow took over that role. Today it is a mid-sized city of around 350,000 people, about 180 kilomet...",
+    "path": "europe/russia/vladimir",
+    "score": 0.49,
+    "lat": 56.12889,
+    "lon": 40.40752,
+    "image_url": null
+   },
+   {
+    "title": "Tula",
+    "snippet": "Tula is an old Russian city about 190 km south of Moscow, founded in 1146. It is best known for three things: Tolstoy, samovars, and weapons \u2014 an unlikely combination that gives the city real character.",
+    "path": "europe/russia/tula",
+    "score": 0.38,
+    "lat": 54.193,
+    "lon": 37.6175,
+    "image_url": null
+   }
+  ]
+ },
+ "kazan": {
+  "name": "Volga Region",
+  "parent": "Russia",
+  "n_locs": 8,
+  "is_split": true,
+  "top_locations": [
+   {
     "title": "Kazan",
     "snippet": "Kazan is the capital of the Republic of Tatarstan, set at the junction of the Volga and Kazanka rivers about 800 kilometres east of Moscow. Founded around 1005 AD, it was the capital of the Kazan Khanate before Ivan the Terrible conquered it in 1552. Today it is one of Russia'...",
     "path": "europe/russia/kazan",
     "score": 0.49,
     "lat": 55.7946,
     "lon": 49.1115,
+    "image_url": null
+   },
+   {
+    "title": "Samara",
+    "snippet": "Samara is a large city on a bend of the Volga River in southeastern European Russia. During the Second World War it served as the Soviet Union's reserve capital, and Stalin's underground bunker \u2014 built in secret beneath the city \u2014 can now be visited. The city's riverfront prom...",
+    "path": "europe/russia/samara",
+    "score": 0.39,
+    "lat": 53.195625,
+    "lon": 50.101493,
+    "image_url": null
+   },
+   {
+    "title": "Perm",
+    "snippet": "Perm is the most Eastern city of Europe, and therefore its province is often referred to as Eurasia. Having a population of 1.2 million, Perm is the 5th largest city in Russia and the second largest in the Urals. The city was formerly called Molotov, after the minister of fore...",
+    "path": "europe/russia/perm",
+    "score": 0.34,
+    "lat": 58.010853,
+    "lon": 56.231853,
+    "image_url": null
+   },
+   {
+    "title": "Cheboksary",
+    "snippet": "Cheboksary is the capital of the Chuvash Republic, a city of about half a million people on the south bank of the Volga River, roughly 650 kilometres east of Moscow. The Chuvash are a Turkic people with their own language, distinct from the Russian majority, and Cheboksary has...",
+    "path": "europe/russia/chuvashia/cheboksary",
+    "score": 0.34,
+    "lat": 56.13996,
+    "lon": 47.2481,
+    "image_url": "/content-image/europe/russia/chuvashia/cheboksary.jpg"
+   },
+   {
+    "title": "Chuvashia",
+    "snippet": "Chuvashia is a small republic on the middle Volga, wedged between Mari El and Tatarstan. The Chuvash people are Turkic in origin but Orthodox Christian, giving the region a cultural character distinct from its neighbours. The landscape is gentle \u2014 rolling farmland, birch fores...",
+    "path": "europe/russia/chuvashia",
+    "score": 0.32,
+    "lat": 55.425992,
+    "lon": 47.084943,
+    "image_url": null
+   }
+  ]
+ },
+ "st_petersburg": {
+  "name": "St. Petersburg & Northwest",
+  "parent": "Russia",
+  "n_locs": 8,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "St Petersburg",
+    "snippet": "St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta \u2014 a grand experiment in urban planning that produced an extraord...",
+    "path": "europe/russia/stpetersburg",
+    "score": 0.8,
+    "lat": 59.9343,
+    "lon": 30.3351,
+    "image_url": "/content-image/europe/russia/stpetersburg.jpg"
+   },
+   {
+    "title": "Novgorod",
+    "snippet": "Veliky Novgorod (Great Novgorod) is one of Russia's oldest and most historically significant cities, situated about 160 km southeast of St Petersburg on the Volkhov River. Unlike Moscow and St Petersburg, it was never destroyed by the Mongols, which means it preserves an extra...",
+    "path": "europe/russia/novgorod",
+    "score": 0.46,
+    "lat": 58.521,
+    "lon": 31.2756,
+    "image_url": null
+   },
+   {
+    "title": "Pskov",
+    "snippet": "Pskov is one of Russia's oldest cities, founded in the 9th century on the banks of the Velikaya River near what is now the Estonian and Latvian border. Through the medieval period it was the centre of an independent feudal republic \u2014 a city of merchants who, given their aggres...",
+    "path": "europe/russia/pskov",
+    "score": 0.42,
+    "lat": 57.8174,
+    "lon": 28.3343,
+    "image_url": null
+   },
+   {
+    "title": "Karelia",
+    "snippet": "Karelia is the lake-and-forest republic that stretches across the northwest of Russia, pressed between Finland to the west and the White Sea to the east. It is a landscape of extraordinary water: Lake Ladoga and Lake Onega, the two largest lakes in Europe, both lie partly with...",
+    "path": "europe/russia/karelia",
+    "score": 0.42,
+    "lat": 62.619403,
+    "lon": 33.492027,
+    "image_url": null
+   },
+   {
+    "title": "Valaam",
+    "snippet": "Valaam is an archipelago of rocky wooded islands in the northern part of Lake Ladoga, Europe's largest lake, in the Russian Republic of Karelia. The main island gives its name to a famous Orthodox monastery founded in the 14th century \u2014 one of the most important in the Russian...",
+    "path": "europe/russia/karelia/valaam",
+    "score": 0.42,
+    "lat": 61.388986,
+    "lon": 30.944978,
+    "image_url": "/content-image/europe/russia/karelia/valaam.jpg"
+   }
+  ]
+ },
+ "derbent": {
+  "name": "Russian Caucasus & South",
+  "parent": "Russia",
+  "n_locs": 8,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Derbent",
+    "snippet": "Derbent is arguably the oldest city in Russia, wedged onto a narrow three-kilometre strip of land between the Caspian Sea and the Caucasus mountains. That geography made it the key to controlling movement between south-eastern Europe and the Middle East for millennia, and ever...",
+    "path": "europe/russia/dagestan/derbent",
+    "score": 0.49,
+    "lat": 42.0579,
+    "lon": 48.2888,
+    "image_url": null
+   },
+   {
+    "title": "Volgograd",
+    "snippet": "Volgograd is a Russian city of just over one million people, stretched for 80 kilometres along the west bank of the Volga River in the southern Russian steppe. It is known to the world almost entirely by its former name: Stalingrad. The Battle of Stalingrad, fought from August...",
+    "path": "europe/russia/volgograd",
+    "score": 0.45,
+    "lat": 48.708,
+    "lon": 44.5133,
+    "image_url": null
+   },
+   {
+    "title": "Pyatigorsk",
+    "snippet": "Pyatigorsk is a spa town in the Northern Caucasus, tucked among the volcanic peaks of the Caucasian Mineral Waters group. The name means \"Five Mountains Town\" \u2014 a reference to the cluster of ancient cones that frame the city, including the flat-topped Mount Mashuk that looms d...",
+    "path": "europe/russia/pyatigorsk",
+    "score": 0.43,
+    "lat": 44.037544,
+    "lon": 43.036367,
+    "image_url": null
+   },
+   {
+    "title": "Anapa",
+    "snippet": "Anapa sits at the northern end of Russia's Black Sea coast, where the flat Kuban steppe meets the first foothills of the Caucasus. It has wide sandy beaches \u2014 some stretching 600 metres deep \u2014 that are considered the best on the northern coast, and the shallow, warm water make...",
+    "path": "europe/russia/the_black_sea_coas/anapa",
+    "score": 0.36,
+    "lat": 44.894272,
+    "lon": 37.316887,
+    "image_url": null
+   },
+   {
+    "title": "Krasnodar",
+    "snippet": "Krasnodar is the informal capital of southern Russia, a sprawling city of over a million people on the Kuban River. Founded as a Cossack fort in 1793, it serves as the gateway to the Black Sea coast and the Caucasus mountains.",
+    "path": "europe/russia/krasnodar",
+    "score": 0.34,
+    "lat": 45.035153,
+    "lon": 38.97724,
     "image_url": null
    }
   ]
@@ -6030,7 +6295,7 @@
   "top_locations": [
    {
     "title": "Transylvania",
-    "snippet": "Transylvania is the large plateau that fills the centre and north of Romania, ringed on three sides by the great arc of the **Carpathian Mountains**. For a word so saturated with vampire associations in the English-speaking imagination, the reality is almost comically unlike i...",
+    "snippet": "Transylvania is the large plateau that fills the centre and north of Romania, ringed on three sides by the great arc of the Carpathian Mountains. For a word so saturated with vampire associations in the English-speaking imagination, the reality is almost comically unlike it: r...",
     "path": "europe/romania/transylvania",
     "score": 0.68,
     "lat": 46.597162,
@@ -6339,7 +6604,7 @@
    },
    {
     "title": "Sete Cidades",
-    "snippet": "**Sete Cidades** is a tiny village sitting inside a volcanic crater in the western part of S\u00e3o Miguel, between the twin lakes of Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason \u2014 the view from the crater rim down to the b...",
+    "snippet": "Sete Cidades is a tiny village sitting inside a volcanic crater in the western part of S\u00e3o Miguel, between the twin lakes of Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason \u2014 the view from the crater rim down to the blue...",
     "path": "europe/portugal/theazores/so_miguel/sete_cidades",
     "score": 0.72,
     "lat": 37.862,
@@ -6366,21 +6631,65 @@
    }
   ]
  },
- "poland": {
-  "name": "Poland",
+ "warsaw": {
+  "name": "Warsaw & Central Poland",
   "parent": "Poland",
-  "n_locs": 41,
-  "is_split": false,
+  "n_locs": 6,
+  "is_split": true,
   "top_locations": [
    {
-    "title": "Krakow",
-    "snippet": "Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast Market Square \u2014 one of Europe's largest medieval plazas \u2014 is ringed by townhouses and churches that survived the Second World War intact, wh...",
-    "path": "europe/poland/krakow",
-    "score": 0.75,
-    "lat": 50.061947,
-    "lon": 19.936856,
+    "title": "Warsaw",
+    "snippet": "Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, w...",
+    "path": "europe/poland/warsaw",
+    "score": 0.61,
+    "lat": 52.233374,
+    "lon": 21.071149,
     "image_url": null
    },
+   {
+    "title": "Kazimierz Dolny",
+    "snippet": "Kazimierz Dolny is a small town on the Vistula River, about two hours south of Warsaw. It has been a favourite weekend escape for artists and Warsaw residents for over a century \u2014 the combination of Renaissance architecture, riverside setting, and wooded hills makes it one of...",
+    "path": "europe/poland/kazimierzdolny",
+    "score": 0.58,
+    "lat": 51.322006,
+    "lon": 21.947372,
+    "image_url": "/content-image/europe/poland/kazimierzdolny.jpg"
+   },
+   {
+    "title": "Sandomierz",
+    "snippet": "Sandomierz is one of Poland's oldest and best-preserved towns, perched on a loess bluff above the Vistula river. The Old Town survived both the Mongol invasions and the Second World War largely intact, leaving a compact medieval centre that feels far removed from the busier to...",
+    "path": "europe/poland/sandomierz",
+    "score": 0.53,
+    "lat": 50.679307,
+    "lon": 21.749506,
+    "image_url": "/content-image/europe/poland/sandomierz.jpg"
+   },
+   {
+    "title": "Lublin",
+    "snippet": "Lublin is the largest city in eastern Poland, a university town with a substantial medieval old town and a history shaped by its position on the border between Catholic and Orthodox, Polish and Ukrainian, Christian and Jewish worlds. Before the Second World War, over a third o...",
+    "path": "europe/poland/lublin",
+    "score": 0.51,
+    "lat": 51.250559,
+    "lon": 22.570102,
+    "image_url": null
+   },
+   {
+    "title": "Lowicz",
+    "snippet": "\u0141owicz is the folk capital of Poland. This small town between Warsaw and \u0141\u00f3d\u017a is famous for its colourful Corpus Christi processions, where locals dress in elaborate traditional costumes and carpet the streets with flower petals. The tradition has been alive for centuries, and...",
+    "path": "europe/poland/lowicz",
+    "score": 0.42,
+    "lat": 52.101224,
+    "lon": 19.947461,
+    "image_url": null
+   }
+  ]
+ },
+ "gdansk": {
+  "name": "Gda\u0144sk & Baltic Coast",
+  "parent": "Poland",
+  "n_locs": 11,
+  "is_split": true,
+  "top_locations": [
    {
     "title": "Gdansk",
     "snippet": "Gdansk is one of the most historically loaded cities in Europe \u2014 and one of the most beautiful. It was here, on 1 September 1939, that the Second World War began, with German guns opening fire on the Polish garrison at Westerplatte. And it was here, in 1980, that Lech Walesa c...",
@@ -6400,6 +6709,50 @@
     "image_url": null
    },
    {
+    "title": "Trojmiasto",
+    "snippet": "Trojmiasto \u2014 the \"Tri-City\" \u2014 is the Polish name for the urban strip of Gdansk, Sopot, and Gdynia stretching along the Baltic coast. The three cities have distinct characters but blend into one continuous conurbation, connected by commuter rail and an increasingly busy motorway.",
+    "path": "europe/poland/trojmiasto",
+    "score": 0.57,
+    "lat": 54.44948,
+    "lon": 18.733495,
+    "image_url": null
+   },
+   {
+    "title": "Toru\u0144",
+    "snippet": "Toru\u0144 is one of the best-preserved medieval cities in Poland, a UNESCO World Heritage Site sitting on the Vistula River. It escaped the destruction of the Second World War almost entirely and its Gothic old town remains largely intact \u2014 red-brick churches, a ruined Teutonic Kn...",
+    "path": "europe/poland/torun",
+    "score": 0.57,
+    "lat": 53.010272,
+    "lon": 18.604809,
+    "image_url": null
+   },
+   {
+    "title": "Sopot",
+    "snippet": "Sopot is the smallest of the three cities that make up the Tr\u00f3jmiasto \u2014 the conurbation shared with Gda\u0144sk and Gdynia \u2014 and it punches well above its weight as a resort town. In summer it fills with visitors from across Poland who come for the beach, the cafes, and the general...",
+    "path": "europe/poland/sopot",
+    "score": 0.56,
+    "lat": 54.4448,
+    "lon": 18.5685,
+    "image_url": null
+   }
+  ]
+ },
+ "krakow": {
+  "name": "Krak\u00f3w & Southern Poland",
+  "parent": "Poland",
+  "n_locs": 14,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Krakow",
+    "snippet": "Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast Market Square \u2014 one of Europe's largest medieval plazas \u2014 is ringed by townhouses and churches that survived the Second World War intact, wh...",
+    "path": "europe/poland/krakow",
+    "score": 0.75,
+    "lat": 50.061947,
+    "lon": 19.936856,
+    "image_url": null
+   },
+   {
     "title": "Wieliczka",
     "snippet": "Wieliczka is a small town just 14 kilometres southeast of Krak\u00f3w, and its fame rests almost entirely on what lies beneath it: a vast, centuries-old salt mine that descends nine levels into the earth and stretches for over 300 kilometres of tunnels. The Wieliczka Salt Mine is a...",
     "path": "europe/poland/wieliczka",
@@ -6409,13 +6762,119 @@
     "image_url": null
    },
    {
-    "title": "Warsaw",
-    "snippet": "Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, w...",
-    "path": "europe/poland/warsaw",
-    "score": 0.61,
-    "lat": 52.233374,
-    "lon": 21.071149,
+    "title": "Zakopane",
+    "snippet": "Zakopane is Poland's premier mountain resort town, perched at 850 metres in the Tatra foothills near the Slovak border. It has drawn Polish artists, writers, and holidaymakers since the late 19th century and remains enormously popular in both winter (skiing) and summer (hiking...",
+    "path": "europe/poland/zakopane",
+    "score": 0.6,
+    "lat": 49.2969,
+    "lon": 19.9505,
     "image_url": null
+   },
+   {
+    "title": "Krynica-Zdr\u00f3j",
+    "snippet": "Krynica-Zdr\u00f3j is Poland's largest and best-known spa town, tucked into the Beskid S\u0105decki mountains in the far south of the country. It has been drawing visitors to its mineral springs since the early 19th century, and the town retains a gentle, slightly old-fashioned spa-reso...",
+    "path": "europe/poland/krynicazdroj",
+    "score": 0.49,
+    "lat": 49.420614,
+    "lon": 20.959418,
+    "image_url": null
+   },
+   {
+    "title": "Lancut",
+    "snippet": "Lancut is a small town in southeastern Poland that would be entirely unremarkable if not for one thing: its castle. The Lancut Castle is one of the finest aristocratic residences in Poland, a sprawling palace surrounded by an English-style landscape park. Built in the early se...",
+    "path": "europe/poland/lancut",
+    "score": 0.47,
+    "lat": 50.0696,
+    "lon": 22.2335,
+    "image_url": "/content-image/europe/poland/lancut.jpg"
+   }
+  ]
+ },
+ "wroclaw": {
+  "name": "Wroc\u0142aw & West",
+  "parent": "Poland",
+  "n_locs": 7,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Wroclaw",
+    "snippet": "Wroclaw is the cultural and intellectual capital of Lower Silesia, a city of 12 islands and 112 bridges where the Odra River splinters into tributaries and canals that cut through parks, Gothic churches, and one of the largest market squares in Europe. It has the energy of a u...",
+    "path": "europe/poland/wroclaw",
+    "score": 0.6,
+    "lat": 51.109,
+    "lon": 17.0327,
+    "image_url": null
+   },
+   {
+    "title": "Poznan",
+    "snippet": "Poznan is one of Poland's oldest and most important cities, the birthplace of the Polish nation and a place where history and a youthful university energy coexist in a way that feels entirely natural. The Old Market Square, one of the largest in Europe, is ringed by colourful...",
+    "path": "europe/poland/poznan",
+    "score": 0.55,
+    "lat": 52.4064,
+    "lon": 16.9252,
+    "image_url": null
+   },
+   {
+    "title": "G\u00f6rlitz",
+    "snippet": "G\u00f6rlitz is Germany's easternmost city, sitting right on the Polish border \u2014 the Neisse River separates it from its Polish twin, Zgorzelec. What makes G\u00f6rlitz extraordinary is that it survived the Second World War almost entirely intact. The result is a town with over 4,000 lis...",
+    "path": "europe/germany/saxony/grlitz",
+    "score": 0.55,
+    "lat": 51.1563,
+    "lon": 14.991,
+    "image_url": null
+   },
+   {
+    "title": "Jelenia G\u00f3ra",
+    "snippet": "Jelenia G\u00f3ra sits in the Jelenia G\u00f3ra Valley in southwestern Poland, surrounded by the Karkonosze Mountains \u2014 the highest range in the Sudetes. The town serves as the main gateway to Karkonosze National Park and makes a comfortable base for hiking in summer and skiing in winter.",
+    "path": "europe/poland/jelenia_gra",
+    "score": 0.5,
+    "lat": 50.9002,
+    "lon": 15.7349,
+    "image_url": null
+   },
+   {
+    "title": "Szczecin",
+    "snippet": "Szczecin (known in German as Stettin) is a major port city in northwestern Poland, close to the German border on the Oder river. It has a complicated past: for most of its history it was a German city, the capital of Pomerania, and the birthplace of Catherine the Great. After...",
+    "path": "europe/poland/szczecin",
+    "score": 0.46,
+    "lat": 53.430182,
+    "lon": 14.550962,
+    "image_url": null
+   }
+  ]
+ },
+ "mikolajki": {
+  "name": "Masuria & Lake District",
+  "parent": "Poland",
+  "n_locs": 3,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Mikolajki",
+    "snippet": "Miko\u0142ajki is a small resort town in the heart of Poland's Masurian Lake District, the region of forested hills and interconnected lakes that stretches across the northeast of the country. The town sits on a narrow isthmus between Lake Miko\u0142ajskie and Lake Ta\u0142ty, and in summer...",
+    "path": "europe/poland/mikolajki",
+    "score": 0.49,
+    "lat": 53.798182,
+    "lon": 21.577246,
+    "image_url": null
+   },
+   {
+    "title": "Olsztyn",
+    "snippet": "Olsztyn is the capital of the Warmia-Masuria region in northeastern Poland, a city of about 170,000 set among the lakes and forests that make this corner of the country so appealing. Its most famous resident was Nicolaus Copernicus, who served as administrator of Warmia from t...",
+    "path": "europe/poland/olsztyn",
+    "score": 0.46,
+    "lat": 53.7766,
+    "lon": 20.4778,
+    "image_url": "/content-image/europe/poland/olsztyn.jpg"
+   },
+   {
+    "title": "Mragowo",
+    "snippet": "Mragowo is a small town in Poland's Masurian Lake District, wedged between lakes Juno and Czos. It makes a good base for exploring the surrounding countryside of forests and waterways.",
+    "path": "europe/poland/mragowo",
+    "score": 0.43,
+    "lat": 53.8661,
+    "lon": 21.3046,
+    "image_url": "/content-image/europe/poland/mragowo.jpg"
    }
   ]
  },
@@ -6515,7 +6974,7 @@
   "top_locations": [
    {
     "title": "Lima",
-    "snippet": "Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast \u2014 almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named **La Ciudad de los Reyes** (\"The City of Kings\")...",
+    "snippet": "Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast \u2014 almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named La Ciudad de los Reyes (\"The City of Kings\"), it...",
     "path": "southamerica/peru/lima",
     "score": 0.68,
     "lat": -12.045981,
@@ -6568,7 +7027,7 @@
   "top_locations": [
    {
     "title": "Cuzco",
-    "snippet": "**Cuzco** was the capital of the Inca empire and can be considered Peru's tourist capital today because of the rich Inca heritage. Many of the streets in the city center are lined with buildings containing whole parts of ancient Inca walls. The streets are often stepped, narrw...",
+    "snippet": "Cuzco was the capital of the Inca empire and can be considered Peru's tourist capital today because of the rich Inca heritage. Many of the streets in the city center are lined with buildings containing whole parts of ancient Inca walls. The streets are often stepped, narrwo an...",
     "path": "southamerica/peru/cuzco",
     "score": 0.83,
     "lat": -13.516954,
@@ -6586,7 +7045,7 @@
    },
    {
     "title": "Arequipa",
-    "snippet": "Arequipa is Peru's second city, built from white volcanic stone (*sillar*) quarried from the slopes of El Misti, the 5,822-metre volcano that rises picture-perfectly behind the city. They call it La Ciudad Blanca \u2014 the White City \u2014 and in the midday sun the colonial centre gle...",
+    "snippet": "Arequipa is Peru's second city, built from white volcanic stone (sillar) quarried from the slopes of El Misti, the 5,822-metre volcano that rises picture-perfectly behind the city. They call it La Ciudad Blanca \u2014 the White City \u2014 and in the midday sun the colonial centre gleam...",
     "path": "southamerica/peru/arequipa",
     "score": 0.69,
     "lat": -16.409,
@@ -6657,7 +7116,7 @@
    },
    {
     "title": "Ciudad del Este",
-    "snippet": "Ciudad del Este is Paraguay's second city and the strangest place in the country \u2014 a chaotic frontier boomtown on the Paran\u00e1 river, 327 km east of Asunci\u00f3n, where Paraguay, Brazil and Argentina meet at the **Triple Frontier**. It was founded in 1957 to anchor the Paraguayan si...",
+    "snippet": "Ciudad del Este is Paraguay's second city and the strangest place in the country \u2014 a chaotic frontier boomtown on the Paran\u00e1 river, 327 km east of Asunci\u00f3n, where Paraguay, Brazil and Argentina meet at the Triple Frontier. It was founded in 1957 to anchor the Paraguayan side o...",
     "path": "southamerica/paraguay/ciudaddeleste",
     "score": 0.34,
     "lat": -25.516901,
@@ -6727,7 +7186,7 @@
   "top_locations": [
    {
     "title": "Bougainville",
-    "snippet": "**Bougainville** is the largest island in the Solomon Islands chain, though politically it belongs to Papua New Guinea as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a complex recent history.",
+    "snippet": "Bougainville is the largest island in the Solomon Islands chain, though politically it belongs to Papua New Guinea as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a complex recent history.",
     "path": "asia/papuanewguinea/bougainville",
     "score": 0.36,
     "lat": -6.144128,
@@ -6744,7 +7203,7 @@
   "top_locations": [
    {
     "title": "San Blas Islands",
-    "snippet": "The San Blas Islands \u2014 **Guna Yala** in the language of the indigenous people who live there \u2014 are an archipelago of around 370 palm-covered coral islets strung along the Caribbean coast of Panama. Only about 50 of them are inhabited. They belong, in any meaningful sense, not...",
+    "snippet": "The San Blas Islands \u2014 Guna Yala in the language of the indigenous people who live there \u2014 are an archipelago of around 370 palm-covered coral islets strung along the Caribbean coast of Panama. Only about 50 of them are inhabited. They belong, in any meaningful sense, not to P...",
     "path": "northamerica/panama/sanblasislands",
     "score": 0.67,
     "lat": 9.5817,
@@ -6850,7 +7309,7 @@
    },
    {
     "title": "Gojal Valley",
-    "snippet": "Gojal, also known as **Upper Hunza**, is the highest and most remote part of the Hunza Valley, stretching along the Karakoram Highway from just beyond Attabad Lake all the way north to the Chinese border at Khunjerab Pass. At 8,500 square kilometres, it is the largest tehsil i...",
+    "snippet": "Gojal, also known as Upper Hunza, is the highest and most remote part of the Hunza Valley, stretching along the Karakoram Highway from just beyond Attabad Lake all the way north to the Chinese border at Khunjerab Pass. At 8,500 square kilometres, it is the largest tehsil in Gi...",
     "path": "asia/pakistan/hunzavalley/gojal_valley",
     "score": 0.55,
     "lat": 36.446,
@@ -7343,7 +7802,7 @@
    },
    {
     "title": "San Juan del Sur",
-    "snippet": "**San Juan del Sur** is a small fishing town on Nicaragua's Pacific coast, about 140 km south of Managua and close to the Costa Rican border. It was for a brief period in the 1850s one of the busiest ports in the Americas \u2014 the Atlantic\u2013Pacific route across Nicaragua, running...",
+    "snippet": "San Juan del Sur is a small fishing town on Nicaragua's Pacific coast, about 140 km south of Managua and close to the Costa Rican border. It was for a brief period in the 1850s one of the busiest ports in the Americas \u2014 the Atlantic\u2013Pacific route across Nicaragua, running from...",
     "path": "northamerica/nicaragua/sanjuandelsur",
     "score": 0.53,
     "lat": 11.2527,
@@ -7360,7 +7819,7 @@
   "top_locations": [
    {
     "title": "South Island",
-    "snippet": "The **South Island** of New Zealand is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m \u2014 the highest peak in New Zealand. West of the Alps is the wild, rain-drenched West Coast; east is th...",
+    "snippet": "The South Island of New Zealand is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m \u2014 the highest peak in New Zealand. West of the Alps is the wild, rain-drenched West Coast; east is the Ca...",
     "path": "australiaandpacific/newzealand/south_island",
     "score": 0.87,
     "lat": -43.586562,
@@ -7510,7 +7969,7 @@
   "top_locations": [
    {
     "title": "North Island",
-    "snippet": "The **North Island** of New Zealand is home to around three-quarters of the country's population. It's warmer, more urbanised, and geologically more active than the South Island \u2014 the Taupo Volcanic Zone cuts across the centre of the island, producing geysers, boiling mud pool...",
+    "snippet": "The North Island of New Zealand is home to around three-quarters of the country's population. It's warmer, more urbanised, and geologically more active than the South Island \u2014 the Taupo Volcanic Zone cuts across the centre of the island, producing geysers, boiling mud pools, a...",
     "path": "australiaandpacific/newzealand/north_island",
     "score": 0.75,
     "lat": -38.00353,
@@ -7682,7 +8141,7 @@
    },
    {
     "title": "Atiu",
-    "snippet": "Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by *makatea* \u2014 raised coral limestone \u2014 a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastl...",
+    "snippet": "Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by makatea \u2014 raised coral limestone \u2014 a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastlin...",
     "path": "australiaandpacific/cookislands/atiu",
     "score": 0.55,
     "lat": -19.916358,
@@ -7744,7 +8203,7 @@
    },
    {
     "title": "Delft",
-    "snippet": "Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands \u2014 the name comes from *delven*, to dig, after the canal that was dug here in the 11th century \u2014 and among the best-p...",
+    "snippet": "Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands \u2014 the name comes from delven, to dig, after the canal that was dug here in the 11th century \u2014 and among the best-pre...",
     "path": "europe/netherlands/delft",
     "score": 0.63,
     "lat": 52.0116,
@@ -7788,7 +8247,7 @@
    },
    {
     "title": "Nijmegen",
-    "snippet": "**Nijmegen** is a city of about 180,000 people in the east of the Netherlands, on the south bank of the **Waal** river (the main branch of the Rhine as it enters the country). It claims to be the oldest city in the Netherlands: a Roman legionary camp was established here aroun...",
+    "snippet": "Nijmegen is a city of about 180,000 people in the east of the Netherlands, on the south bank of the Waal river (the main branch of the Rhine as it enters the country). It claims to be the oldest city in the Netherlands: a Roman legionary camp was established here around 12 BCE...",
     "path": "europe/netherlands/nijmegen",
     "score": 0.52,
     "lat": 51.847495,
@@ -7797,7 +8256,7 @@
    },
    {
     "title": "Arnhem",
-    "snippet": "Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of *A Bridge Too Far* -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airbo...",
+    "snippet": "Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of A Bridge Too Far -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airborn...",
     "path": "europe/netherlands/arnhem",
     "score": 0.52,
     "lat": 51.9851,
@@ -7910,7 +8369,7 @@
   "top_locations": [
    {
     "title": "Pokhara",
-    "snippet": "If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of Phewa Lake in a tranquil valley ringed by forested hills, with the snow wall of the **Annapurnas** and the perfect fish-tail summit of **Machhapuchhre...",
+    "snippet": "If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of Phewa Lake in a tranquil valley ringed by forested hills, with the snow wall of the Annapurnas and the perfect fish-tail summit of Machhapuchhre (6,99...",
     "path": "asia/nepal/pokhara",
     "score": 0.73,
     "lat": 28.209538,
@@ -8041,7 +8500,7 @@
    },
    {
     "title": "Maputo",
-    "snippet": "**Maputo** is the capital and largest city of **Mozambique**, set on the shore of **Maputo Bay** in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as **Louren\u00e7o Marques**, named after the 16th-century Portug...",
+    "snippet": "Maputo is the capital and largest city of Mozambique, set on the shore of Maputo Bay in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as Louren\u00e7o Marques, named after the 16th-century Portuguese explorer wh...",
     "path": "africa/mozambique/maputo",
     "score": 0.48,
     "lat": -25.966213,
@@ -8085,7 +8544,7 @@
    },
    {
     "title": "Fez",
-    "snippet": "Fez is Morocco's spiritual and intellectual capital, and the most rewarding city in the country to lose yourself in. The walled medina of **Fes el-Bali** is the largest car-free urban area on earth \u2014 nine thousand alleys, dead ends, fondouks and squares packed into a bowl in t...",
+    "snippet": "Fez is Morocco's spiritual and intellectual capital, and the most rewarding city in the country to lose yourself in. The walled medina of Fes el-Bali is the largest car-free urban area on earth \u2014 nine thousand alleys, dead ends, fondouks and squares packed into a bowl in the S...",
     "path": "africa/morocco/fez",
     "score": 0.73,
     "lat": 34.0181,
@@ -8417,7 +8876,7 @@
    },
    {
     "title": "Cabo San Lucas",
-    "snippet": "**Cabo San Lucas** sits at the very southern tip of the **Baja California** peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour **San Jos\u00e9 del Cabo**, 30 km to the east, it forms the resort area known simply as **Los...",
+    "snippet": "Cabo San Lucas sits at the very southern tip of the Baja California peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour San Jos\u00e9 del Cabo, 30 km to the east, it forms the resort area known simply as Los Cabos \u2014 the m...",
     "path": "northamerica/mexico/cabosanlucas",
     "score": 0.69,
     "lat": 22.893888,
@@ -8470,7 +8929,7 @@
    },
    {
     "title": "Riviera Maya",
-    "snippet": "The Riviera Maya is the marketing name for roughly 130 km of Caribbean coastline that runs south from **Canc\u00fan** airport to the town of **Tulum**, on the east side of Mexico's Yucat\u00e1n Peninsula. In the early 1990s almost all of it was jungle and fishing villages; since then it...",
+    "snippet": "The Riviera Maya is the marketing name for roughly 130 km of Caribbean coastline that runs south from Canc\u00fan airport to the town of Tulum, on the east side of Mexico's Yucat\u00e1n Peninsula. In the early 1990s almost all of it was jungle and fishing villages; since then it has bee...",
     "path": "northamerica/mexico/rivieramaya",
     "score": 0.73,
     "lat": 20.621933,
@@ -8770,7 +9229,7 @@
    },
    {
     "title": "Penang",
-    "snippet": "Penang \u2014 **Pulau Pinang** in Malay \u2014 is a 280 km\u00b2 island off the north-west coast of **Peninsular Malaysia**, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by **Cap...",
+    "snippet": "Penang \u2014 Pulau Pinang in Malay \u2014 is a 280 km\u00b2 island off the north-west coast of Peninsular Malaysia, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by Captain Franc...",
     "path": "asia/malaysia/penang",
     "score": 0.72,
     "lat": 5.406501,
@@ -9581,7 +10040,7 @@
   "top_locations": [
    {
     "title": "Tarawa",
-    "snippet": "*Australia and Pacific > Kiribati > Tarawa*",
+    "snippet": "Australia and Pacific > Kiribati > Tarawa",
     "path": "australiaandpacific/kiribati/tarawa",
     "score": 0.44,
     "lat": 1.484554,
@@ -9608,7 +10067,7 @@
    },
    {
     "title": "Abemama",
-    "snippet": "*Australia and Pacific > Kiribati > Abemama*",
+    "snippet": "Australia and Pacific > Kiribati > Abemama",
     "path": "australiaandpacific/kiribati/abemama",
     "score": 0.37,
     "lat": 0.514692,
@@ -9661,7 +10120,7 @@
    },
    {
     "title": "Nakuru",
-    "snippet": "Nakuru is Kenya's fourth-largest city and the unofficial capital of the Rift Valley \u2014 a busy agricultural hub on the floor of the Great Rift, ringed by volcanoes, soda lakes, and farmland. Most travellers come for one reason: **Lake Nakuru National Park**, the alkaline lake on...",
+    "snippet": "Nakuru is Kenya's fourth-largest city and the unofficial capital of the Rift Valley \u2014 a busy agricultural hub on the floor of the Great Rift, ringed by volcanoes, soda lakes, and farmland. Most travellers come for one reason: Lake Nakuru National Park, the alkaline lake on the...",
     "path": "africa/kenya/theriftvalley/nakuru",
     "score": 0.6,
     "lat": -0.3031,
@@ -9687,7 +10146,7 @@
   "top_locations": [
    {
     "title": "Mombasa",
-    "snippet": "Mombasa is Kenya\u2019s second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country\u2019s southern coast. Its Swahili name is **Mvita** \u2014 \"Island of War\" \u2014 which captures 2,000 years of conquest by Arabs, Persian...",
+    "snippet": "Mombasa is Kenya\u2019s second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country\u2019s southern coast. Its Swahili name is Mvita \u2014 \"Island of War\" \u2014 which captures 2,000 years of conquest by Arabs, Persians, P...",
     "path": "africa/kenya/thecoast/mombasa",
     "score": 0.62,
     "lat": -4.05052,
@@ -9740,7 +10199,7 @@
   "top_locations": [
    {
     "title": "Almaty",
-    "snippet": "**ALMATY** (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capi...",
+    "snippet": "ALMATY (uhl-muh-TEE, former Alma-Ata) is the former capital of Kazakhstan. It is the most populated city in Kazakhstan at present. Its population is over a million people. Even though Astana (then Akmola) became the capital in 1995; Almaty is often called the Southern Capital....",
     "path": "asia/kazakhstan/almaty",
     "score": 0.55,
     "lat": 43.236392,
@@ -9904,7 +10363,7 @@
    },
    {
     "title": "Beppu",
-    "snippet": "As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - *onsen*, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, Oita, the city's purpose is less that of industry and commerce th...",
+    "snippet": "As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - onsen, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, Oita, the city's purpose is less that of industry and commerce than...",
     "path": "asia/japan/kyushu/beppu",
     "score": 0.66,
     "lat": 33.284575,
@@ -9913,7 +10372,7 @@
    },
    {
     "title": "Kumamoto",
-    "snippet": "The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of **Aso-san** rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determinatio...",
+    "snippet": "The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of Aso-san rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determination \u2014...",
     "path": "asia/japan/kyushu/kumamoto",
     "score": 0.66,
     "lat": 32.645,
@@ -9975,7 +10434,7 @@
    },
    {
     "title": "Kotohira",
-    "snippet": "Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for **Konpira-san** (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the de...",
+    "snippet": "Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for Konpira-san (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the deity...",
     "path": "asia/japan/shikoku/kotohira",
     "score": 0.6,
     "lat": 34.1916,
@@ -10257,7 +10716,7 @@
    },
    {
     "title": "Nagahama",
-    "snippet": "**Nagahama** sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with *machiya* (townhouses) and *kura* (storehouses), many now c...",
+    "snippet": "Nagahama sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with machiya (townhouses) and kura (storehouses), many now converted...",
     "path": "asia/japan/honshu/nagahama",
     "score": 0.58,
     "lat": 35.380862,
@@ -10432,7 +10891,7 @@
    },
    {
     "title": "Frascati",
-    "snippet": "Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times \u2014 the Romans called the area *Tusculanum* \u2014 and the legacy is a string of Renaissance...",
+    "snippet": "Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times \u2014 the Romans called the area Tusculanum \u2014 and the legacy is a string of Renaissance a...",
     "path": "europe/italy/lazio/frascati",
     "score": 0.55,
     "lat": 41.808245,
@@ -10714,7 +11173,7 @@
   "top_locations": [
    {
     "title": "Venice",
-    "snippet": "Maybe you expect **Venice** to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to...",
+    "snippet": "Maybe you expect Venice to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to do...",
     "path": "europe/italy/veneto/venice",
     "score": 0.96,
     "lat": 45.437191,
@@ -10926,7 +11385,7 @@
   "top_locations": [
    {
     "title": "Positano",
-    "snippet": "*Europe > Italy > Campania > Positano*",
+    "snippet": "Europe > Italy > Campania > Positano",
     "path": "europe/italy/campania/positano",
     "score": 0.84,
     "lat": 40.628658,
@@ -10935,7 +11394,7 @@
    },
    {
     "title": "Sorrento",
-    "snippet": "*Europe > Italy > Campania > Sorrento*",
+    "snippet": "Europe > Italy > Campania > Sorrento",
     "path": "europe/italy/campania/sorrento",
     "score": 0.83,
     "lat": 40.624906,
@@ -10953,7 +11412,7 @@
    },
    {
     "title": "Capri",
-    "snippet": "Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the **Sorrento peninsula**. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors **Augustus** and **Tiber...",
+    "snippet": "Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the Sorrento peninsula. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors Augustus and Tiberius built...",
     "path": "europe/italy/campania/capri",
     "score": 0.77,
     "lat": 40.548843,
@@ -10962,7 +11421,7 @@
    },
    {
     "title": "Naples",
-    "snippet": "*Europe > Italy > Campania > Naples*",
+    "snippet": "Europe > Italy > Campania > Naples",
     "path": "europe/italy/campania/naples",
     "score": 0.73,
     "lat": 40.835885,
@@ -11138,7 +11597,7 @@
    },
    {
     "title": "Cortona",
-    "snippet": "Cortona is a compact medieval hill town in eastern Tuscany, perched on a steep slope with sweeping views over the Val di Chiana to Lake Trasimeno. It became internationally famous as the setting for Frances Mayes' memoir *Under the Tuscan Sun*, but the town's appeal long preda...",
+    "snippet": "Cortona is a compact medieval hill town in eastern Tuscany, perched on a steep slope with sweeping views over the Val di Chiana to Lake Trasimeno. It became internationally famous as the setting for Frances Mayes' memoir Under the Tuscan Sun, but the town's appeal long predate...",
     "path": "europe/italy/tuscany/cortona",
     "score": 0.7,
     "lat": 43.275298,
@@ -11182,7 +11641,7 @@
    },
    {
     "title": "Forte dei Marmi",
-    "snippet": "**Forte dei Marmi** is a small beach resort on the **Versilia** coast of northern Tuscany, about 30 km north of Pisa. It sits on a long flat stretch of fine white sand backed by pine woods, with the dramatic marble-topped peaks of the **Apuan Alps** rising directly behind the...",
+    "snippet": "Forte dei Marmi is a small beach resort on the Versilia coast of northern Tuscany, about 30 km north of Pisa. It sits on a long flat stretch of fine white sand backed by pine woods, with the dramatic marble-topped peaks of the Apuan Alps rising directly behind the town \u2014 and i...",
     "path": "europe/italy/tuscany/forte_dei_marmi",
     "score": 0.62,
     "lat": 43.959589,
@@ -11323,7 +11782,7 @@
   "top_locations": [
    {
     "title": "Ischia",
-    "snippet": "*Europe > Italy > Campania > Ischia*",
+    "snippet": "Europe > Italy > Campania > Ischia",
     "path": "europe/italy/campania/ischia",
     "score": 0.7,
     "lat": 40.734205,
@@ -11376,7 +11835,7 @@
   "top_locations": [
    {
     "title": "Amalfi",
-    "snippet": "*Europe > Italy > Campania > Amalfi*",
+    "snippet": "Europe > Italy > Campania > Amalfi",
     "path": "europe/italy/campania/amalfi",
     "score": 0.84,
     "lat": 40.63367,
@@ -11385,7 +11844,7 @@
    },
    {
     "title": "Ravello",
-    "snippet": "*Europe > Italy > Campania > Ravello*",
+    "snippet": "Europe > Italy > Campania > Ravello",
     "path": "europe/italy/campania/ravello",
     "score": 0.73,
     "lat": 40.649664,
@@ -11597,7 +12056,7 @@
    },
    {
     "title": "Cagliari",
-    "snippet": "Cagliari is the capital and largest city of **Sardinia**, set on a broad bay on the south coast of the island, and has been the island's main harbour since Phoenician times \u2014 a line of continuous occupation that runs through the Carthaginians, Romans, Byzantines, Pisans, Arago...",
+    "snippet": "Cagliari is the capital and largest city of Sardinia, set on a broad bay on the south coast of the island, and has been the island's main harbour since Phoenician times \u2014 a line of continuous occupation that runs through the Carthaginians, Romans, Byzantines, Pisans, Aragonese...",
     "path": "europe/italy/sardinia/cagliari",
     "score": 0.67,
     "lat": 39.217199,
@@ -11835,7 +12294,7 @@
    },
    {
     "title": "Cashel",
-    "snippet": "Cashel is a small town in County Tipperary, a little more than two hours south-west of Dublin, and is entirely overshadowed \u2014 both literally and figuratively \u2014 by the Rock that stands above it. The **Rock of Cashel** is a 60-metre outcrop of limestone rising straight out of th...",
+    "snippet": "Cashel is a small town in County Tipperary, a little more than two hours south-west of Dublin, and is entirely overshadowed \u2014 both literally and figuratively \u2014 by the Rock that stands above it. The Rock of Cashel is a 60-metre outcrop of limestone rising straight out of the su...",
     "path": "europe/ireland/cashel",
     "score": 0.63,
     "lat": 52.5167,
@@ -12047,7 +12506,7 @@
    },
    {
     "title": "Denpasar",
-    "snippet": "Denpasar is the capital of **Bali** and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in \u2014 the airport (now officially called Ngurah Rai Internat...",
+    "snippet": "Denpasar is the capital of Bali and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in \u2014 the airport (now officially called Ngurah Rai Internationa...",
     "path": "asia/indonesia/bali/denpasar",
     "score": 0.72,
     "lat": -8.652497,
@@ -12268,7 +12727,7 @@
    },
    {
     "title": "Meghalaya",
-    "snippet": "Meghalaya \u2014 *abode of the clouds* in Sanskrit \u2014 is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtro...",
+    "snippet": "Meghalaya \u2014 abode of the clouds in Sanskrit \u2014 is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtropi...",
     "path": "asia/india/meghalaya",
     "score": 0.59,
     "lat": 25.537943,
@@ -12285,7 +12744,7 @@
   "top_locations": [
    {
     "title": "Ladakh",
-    "snippet": "Ladakh \u2014 the \"land of high passes\" \u2014 is a high-altitude desert on India's northernmost frontier, wedged between the **Karakoram** range to the north and the **Himalaya** to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital...",
+    "snippet": "Ladakh \u2014 the \"land of high passes\" \u2014 is a high-altitude desert on India's northernmost frontier, wedged between the Karakoram range to the north and the Himalaya to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital, Leh, s...",
     "path": "asia/india/jammuandkashmir/ladakh",
     "score": 0.75,
     "lat": 33.945641,
@@ -12312,7 +12771,7 @@
    },
    {
     "title": "Dharamsala",
-    "snippet": "Dharamsala is a hill town in the **Kangra Valley** of Himachal Pradesh, stretched up the forested slopes of the **Dhauladhar** range at elevations between around 1,250 and 1,800 metres. Before 1960 it was a sleepy British-era cantonment and tea-growing district headquarters; s...",
+    "snippet": "Dharamsala is a hill town in the Kangra Valley of Himachal Pradesh, stretched up the forested slopes of the Dhauladhar range at elevations between around 1,250 and 1,800 metres. Before 1960 it was a sleepy British-era cantonment and tea-growing district headquarters; since the...",
     "path": "asia/india/himachalpradesh/dharamsala",
     "score": 0.67,
     "lat": 32.214304,
@@ -12546,7 +13005,7 @@
    },
    {
     "title": "Westman islands",
-    "snippet": "**Vestmannaeyjar**- Westman Islands- Vestman-islands",
+    "snippet": "Vestmannaeyjar- Westman Islands- Vestman-islands",
     "path": "europe/iceland/westmanislands",
     "score": 0.59,
     "lat": 63.426665,
@@ -12964,7 +13423,7 @@
  "kefalonia": {
   "name": "Ionian Islands",
   "parent": "Greece",
-  "n_locs": 26,
+  "n_locs": 22,
   "is_split": true,
   "top_locations": [
    {
@@ -13017,7 +13476,7 @@
  "thessaloniki": {
   "name": "Northern Greece",
   "parent": "Greece",
-  "n_locs": 19,
+  "n_locs": 20,
   "is_split": true,
   "top_locations": [
    {
@@ -13030,15 +13489,6 @@
     "image_url": null
    },
    {
-    "title": "Skiathos",
-    "snippet": "Skiathos is the most developed of the Sporades islands, and for good reason \u2014 it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough co...",
-    "path": "europe/greece/skiathos",
-    "score": 0.74,
-    "lat": 39.169298,
-    "lon": 23.455251,
-    "image_url": null
-   },
-   {
     "title": "Thassos",
     "snippet": "Thassos is the northernmost Greek island, a short ferry ride from Kavala or Keramoti on the Macedonian coast. It is one of the greenest islands in the Aegean \u2014 pine forests cover the mountainous interior, dropping to sandy beaches and coves around the coast.",
     "path": "europe/greece/thassos_island",
@@ -13048,15 +13498,6 @@
     "image_url": "/content-image/europe/greece/thassos_island.jpg"
    },
    {
-    "title": "Skopelos",
-    "snippet": "Skopelos is the greenest island in the Aegean. Dense pine forests run right down to the waterline, covering nearly the entire island and giving it a lush, almost un-Greek character. It sits in the northern Sporades, between Skiathos and Alonnisos, and while it gained internati...",
-    "path": "europe/greece/skopelos",
-    "score": 0.7,
-    "lat": 39.140174,
-    "lon": 23.681376,
-    "image_url": "/content-image/europe/greece/skopelos.jpg"
-   },
-   {
     "title": "Halkidiki",
     "snippet": "Halkidiki is a three-pronged peninsula southeast of Thessaloniki, and the closest thing northern Greece has to the island beach experience without actually getting on a ferry. Three long fingers of land -- Kassandra, Sithonia, and Athos -- reach south into the Aegean, each wit...",
     "path": "europe/greece/halkidiki",
@@ -13064,13 +13505,31 @@
     "lat": 40.331,
     "lon": 23.3621,
     "image_url": null
+   },
+   {
+    "title": "Kalambaka",
+    "snippet": "Kalambaka is the town at the foot of the Meteora, one of the most extraordinary landscapes in Greece. The Meteora are massive sandstone pinnacles that rise from the Thessaly plain, topped by medieval monasteries that seem to defy gravity. Six monasteries are still active today...",
+    "path": "europe/greece/kalambaka",
+    "score": 0.64,
+    "lat": 39.703014,
+    "lon": 21.62536,
+    "image_url": null
+   },
+   {
+    "title": "Pilion",
+    "snippet": "The Pelion peninsula (also spelled Pilion) curves into the Aegean Sea east of Volos, its spine draped in thick chestnut and apple orchards that give way to dramatic clifftops above the sea. In Greek mythology this was the home of the centaurs, and it still feels a little wild:...",
+    "path": "europe/greece/pilion",
+    "score": 0.59,
+    "lat": 39.365088,
+    "lon": 23.135561,
+    "image_url": null
    }
   ]
  },
  "athens": {
   "name": "Athens & Around",
   "parent": "Greece",
-  "n_locs": 21,
+  "n_locs": 24,
   "is_split": true,
   "top_locations": [
    {
@@ -13092,6 +13551,15 @@
     "image_url": "/content-image/europe/greece/hydra.jpg"
    },
    {
+    "title": "Skiathos",
+    "snippet": "Skiathos is the most developed of the Sporades islands, and for good reason \u2014 it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough co...",
+    "path": "europe/greece/skiathos",
+    "score": 0.74,
+    "lat": 39.169298,
+    "lon": 23.455251,
+    "image_url": null
+   },
+   {
     "title": "Delphi",
     "snippet": "Delphi was once considered the centre of the world. Set dramatically on the slopes of Mount Parnassus, overlooking the vast olive-covered plain of Phocis, it served for centuries as the most important oracle in the ancient Greek world. A priestess of Apollo, the Pythia, would...",
     "path": "europe/greece/delphi",
@@ -13108,24 +13576,33 @@
     "lat": 37.596,
     "lon": 23.0794,
     "image_url": null
-   },
-   {
-    "title": "Nauplia",
-    "snippet": "Nafplio (or Navplion, Nauplia or Navplio, depending on what you read; but, definitely, it is **\u039d\u03b1\u03cd\u03c0\u03bb\u03b9\u03bf**) is on the eastern shores of the Peloponnese. The first capital city of independent Greece in 1823, Nafplio is today a very attractive town of 12,000. The narrow streets of...",
-    "path": "europe/greece/nauplia",
-    "score": 0.7,
-    "lat": 37.565923,
-    "lon": 22.806878,
-    "image_url": "/content-image/europe/greece/nauplia.jpg"
    }
   ]
  },
- "samos": {
-  "name": "Northeast Aegean",
+ "kos": {
+  "name": "Kos & Samos",
   "parent": "Greece",
-  "n_locs": 7,
+  "n_locs": 9,
   "is_split": true,
   "top_locations": [
+   {
+    "title": "Kos",
+    "snippet": "Kos is one of islands in the Dodecanese and probably only rivalled by Rhodos when it comes down to popularity. The capital of Kos, which also bears the name Kos, is on the eastern side of the island. Although its a fairly modern city (not in the least because of the annual inv...",
+    "path": "europe/greece/kos",
+    "score": 0.69,
+    "lat": 36.793693,
+    "lon": 27.084827,
+    "image_url": null
+   },
+   {
+    "title": "Patmos",
+    "snippet": "Patmos is a small, steep island in the Dodecanese where St. John is said to have written the Book of Revelation. That spiritual legacy earned the island a UNESCO World Heritage designation, but Patmos is far more than a pilgrimage site. It is one of the most quietly elegant is...",
+    "path": "europe/greece/patmos",
+    "score": 0.69,
+    "lat": 37.3094,
+    "lon": 26.5458,
+    "image_url": "/content-image/europe/greece/patmos.jpg"
+   },
    {
     "title": "Samos",
     "snippet": "Samos is a green, mountainous island in the eastern Aegean, sitting less than two kilometres off the Turkish coast at its closest point \u2014 on a clear day you can see Ku\u015fadas\u0131 across the narrow strait. It is one of the lushest of the Greek islands: pine forests, olive groves, vi...",
@@ -13152,33 +13629,33 @@
     "lat": 39.175842,
     "lon": 25.998914,
     "image_url": null
-   },
-   {
-    "title": "Mytilini",
-    "snippet": "Mytilini is probably the most visited city on Lesbos, not in the least because this is one of the few places in the eastern part that can be reached fairly easy by public transport (both boat and bus). It's a busy coastal city with old markets, an old harbour, small caf\u00e9s (whe...",
-    "path": "europe/greece/lesbos/mytilini",
-    "score": 0.57,
-    "lat": 39.103735,
-    "lon": 26.554788,
-    "image_url": null
-   },
-   {
-    "title": "Plomari",
-    "snippet": "Plomari is the ouzo capital of Greece, and it wears that title proudly. Several distilleries operate here, including the well-known Barbayiannis and the smaller Ouzo Giovanni, which still uses traditional copper pot stills. You can visit the factories, sample the goods, and le...",
-    "path": "europe/greece/lesbos/plomari",
-    "score": 0.54,
-    "lat": 38.975389,
-    "lon": 26.368424,
-    "image_url": null
    }
   ]
  },
- "lindos": {
-  "name": "Dodecanese",
+ "rhodes": {
+  "name": "Rhodes",
   "parent": "Greece",
-  "n_locs": 2,
+  "n_locs": 4,
   "is_split": true,
   "top_locations": [
+   {
+    "title": "Rhodes",
+    "snippet": "Rhodes is the largest of the Dodecanese islands and officially the sunniest spot in Europe. That statistic alone explains a lot about the place: the light here is extraordinary, turning the medieval stone walls of Rhodes Old Town golden in the late afternoon and making the sea...",
+    "path": "europe/greece/rhodes",
+    "score": 0.78,
+    "lat": 36.4341,
+    "lon": 28.2176,
+    "image_url": null
+   },
+   {
+    "title": "Rhodes City",
+    "snippet": "Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centu...",
+    "path": "europe/greece/rhodes/rhodescity",
+    "score": 0.78,
+    "lat": 36.4438,
+    "lon": 28.2274,
+    "image_url": "/content-image/europe/greece/rhodes/rhodescity.jpg"
+   },
    {
     "title": "Lindos",
     "snippet": "Lindos is one of the most beautiful villages on Rhodes and one of the island's major tourist attractions. Whitewashed houses with pebble-mosaic courtyards climb a hillside above a turquoise bay, crowned by an ancient Acropolis that has been continuously fortified since the 4th...",
@@ -13199,10 +13676,63 @@
    }
   ]
  },
+ "santorini": {
+  "name": "Santorini & Heraklion",
+  "parent": "Greece",
+  "n_locs": 6,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Santorini",
+    "snippet": "Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera \u2014 the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that form...",
+    "path": "europe/greece/santorini",
+    "score": 0.91,
+    "lat": 36.407111,
+    "lon": 25.456664,
+    "image_url": "/content-image/europe/greece/santorini.jpg"
+   },
+   {
+    "title": "Milos",
+    "snippet": "Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes \u2014 coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around Sarakiniko, where wind-eroded white pumice looks like a moonscape...",
+    "path": "europe/greece/milos",
+    "score": 0.78,
+    "lat": 36.709344,
+    "lon": 24.506834,
+    "image_url": "/content-image/europe/greece/milos.jpg"
+   },
+   {
+    "title": "Amorgos",
+    "snippet": "Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here \u2014 ferries from Naxo...",
+    "path": "europe/greece/amorgos",
+    "score": 0.69,
+    "lat": 36.8525,
+    "lon": 25.8985,
+    "image_url": null
+   },
+   {
+    "title": "Ios",
+    "snippet": "Ios is a small, mountainous Cycladic island famous for two rather contrasting things: its beautiful beaches and its relentless party scene. For decades it has attracted a young, international crowd looking for sun by day and bars by night, and in July and August the island is...",
+    "path": "europe/greece/ios",
+    "score": 0.67,
+    "lat": 36.717324,
+    "lon": 25.333112,
+    "image_url": null
+   },
+   {
+    "title": "Sikinos",
+    "snippet": "Sikinos is one of the quietest islands in the Cyclades \u2014 a place that most island-hoppers skip entirely, which is precisely its appeal. There are two places to stay: a pension near the port of Alopronia, or up in the Hora (Kastro), the old hilltop village that sits on a ridge...",
+    "path": "europe/greece/sikinos",
+    "score": 0.62,
+    "lat": 36.6756,
+    "lon": 25.1162,
+    "image_url": null
+   }
+  ]
+ },
  "mykonos": {
   "name": "Cyclades",
   "parent": "Greece",
-  "n_locs": 11,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
    {
@@ -13233,109 +13763,21 @@
     "image_url": "/content-image/europe/greece/paros.jpg"
    },
    {
-    "title": "Amorgos",
-    "snippet": "Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here \u2014 ferries from Naxo...",
-    "path": "europe/greece/amorgos",
-    "score": 0.69,
-    "lat": 36.8525,
-    "lon": 25.8985,
+    "title": "Antiparos",
+    "snippet": "Antiparos is the quiet neighbour of Paros \u2014 a small Cycladic island reached by a short ferry from Parikia, with a pace of life that feels several decades behind the rest of the Aegean. The main town (Chora) is a cluster of whitewashed houses around a 15th-century Venetian kast...",
+    "path": "europe/greece/antiparos",
+    "score": 0.64,
+    "lat": 36.994353,
+    "lon": 25.048208,
     "image_url": null
    },
    {
-    "title": "Patmos",
-    "snippet": "Patmos is a small, steep island in the Dodecanese where St. John is said to have written the Book of Revelation. That spiritual legacy earned the island a UNESCO World Heritage designation, but Patmos is far more than a pilgrimage site. It is one of the most quietly elegant is...",
-    "path": "europe/greece/patmos",
-    "score": 0.69,
-    "lat": 37.3094,
-    "lon": 26.5458,
-    "image_url": "/content-image/europe/greece/patmos.jpg"
-   }
-  ]
- },
- "santorini": {
-  "name": "Santorini & Heraklion",
-  "parent": "Greece",
-  "n_locs": 6,
-  "is_split": true,
-  "top_locations": [
-   {
-    "title": "Santorini",
-    "snippet": "Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera \u2014 the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that form...",
-    "path": "europe/greece/santorini",
-    "score": 0.91,
-    "lat": 36.407111,
-    "lon": 25.456664,
-    "image_url": "/content-image/europe/greece/santorini.jpg"
-   },
-   {
-    "title": "Agios Nikolaos",
-    "snippet": "Agios Nikolaos is the capital of eastern Crete's Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settl...",
-    "path": "europe/greece/crete/agios_nikolaos",
-    "score": 0.69,
-    "lat": 35.190858,
-    "lon": 25.717889,
-    "image_url": null
-   },
-   {
-    "title": "Iraklion",
-    "snippet": "Iraklion (Heraklion) is the capital of Crete and the largest city on the island \u2014 a working port city of 150,000 people that most visitors pass through on their way somewhere prettier. Don't make that mistake. Iraklion has the best Minoan collection in the world, a still-funct...",
-    "path": "europe/greece/crete/iraklion",
-    "score": 0.65,
-    "lat": 35.3387,
-    "lon": 25.1442,
-    "image_url": "/content-image/europe/greece/crete/iraklion.jpg"
-   },
-   {
-    "title": "Sitia",
-    "snippet": "Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The waterfront promenade is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town h...",
-    "path": "europe/greece/crete/sitia",
+    "title": "Tinos",
+    "snippet": "Tinos is one of the most important pilgrimage sites in the Greek Orthodox world. The Church of Panagia Evangelistria in Tinos town houses a revered icon of the Virgin Mary, and on the Feast of the Assumption (15 August) thousands of pilgrims crawl on their knees up the main st...",
+    "path": "europe/greece/tinos",
     "score": 0.61,
-    "lat": 35.206218,
-    "lon": 26.101482,
-    "image_url": null
-   },
-   {
-    "title": "Kritsa",
-    "snippet": "Kritsa is a mountain village about 12 kilometres southwest of Agios Nikolaos, built in amphitheatre fashion on a jutting promontory. The white-washed houses stacked up the hillside make it one of the most photogenic villages in Crete, and you can see it from a distance as you...",
-    "path": "europe/greece/crete/kritsa",
-    "score": 0.6,
-    "lat": 35.155763,
-    "lon": 25.646143,
-    "image_url": null
-   }
-  ]
- },
- "rhodes": {
-  "name": "Rhodes & Kos",
-  "parent": "Greece",
-  "n_locs": 3,
-  "is_split": true,
-  "top_locations": [
-   {
-    "title": "Rhodes",
-    "snippet": "Rhodes is the largest of the Dodecanese islands and officially the sunniest spot in Europe. That statistic alone explains a lot about the place: the light here is extraordinary, turning the medieval stone walls of Rhodes Old Town golden in the late afternoon and making the sea...",
-    "path": "europe/greece/rhodes",
-    "score": 0.78,
-    "lat": 36.4341,
-    "lon": 28.2176,
-    "image_url": null
-   },
-   {
-    "title": "Rhodes City",
-    "snippet": "Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centu...",
-    "path": "europe/greece/rhodes/rhodescity",
-    "score": 0.78,
-    "lat": 36.4438,
-    "lon": 28.2274,
-    "image_url": "/content-image/europe/greece/rhodes/rhodescity.jpg"
-   },
-   {
-    "title": "Kos",
-    "snippet": "Kos is one of islands in the Dodecanese and probably only rivalled by Rhodos when it comes down to popularity. The capital of Kos, which also bears the name Kos, is on the eastern side of the island. Although its a fairly modern city (not in the least because of the annual inv...",
-    "path": "europe/greece/kos",
-    "score": 0.69,
-    "lat": 36.793693,
-    "lon": 27.084827,
+    "lat": 37.601713,
+    "lon": 25.154022,
     "image_url": null
    }
   ]
@@ -13343,7 +13785,7 @@
  "crete": {
   "name": "Western Crete",
   "parent": "Greece",
-  "n_locs": 4,
+  "n_locs": 7,
   "is_split": true,
   "top_locations": [
    {
@@ -13354,15 +13796,6 @@
     "lat": 35.308495,
     "lon": 24.463342,
     "image_url": null
-   },
-   {
-    "title": "Milos",
-    "snippet": "Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes \u2014 coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around Sarakiniko, where wind-eroded white pumice looks like a moonscape...",
-    "path": "europe/greece/milos",
-    "score": 0.78,
-    "lat": 36.709344,
-    "lon": 24.506834,
-    "image_url": "/content-image/europe/greece/milos.jpg"
    },
    {
     "title": "Hania",
@@ -13381,6 +13814,24 @@
     "lat": 35.367647,
     "lon": 24.473608,
     "image_url": null
+   },
+   {
+    "title": "Agios Nikolaos",
+    "snippet": "Agios Nikolaos is the capital of eastern Crete's Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settl...",
+    "path": "europe/greece/crete/agios_nikolaos",
+    "score": 0.69,
+    "lat": 35.190858,
+    "lon": 25.717889,
+    "image_url": null
+   },
+   {
+    "title": "Iraklion",
+    "snippet": "Iraklion (Heraklion) is the capital of Crete and the largest city on the island \u2014 a working port city of 150,000 people that most visitors pass through on their way somewhere prettier. Don't make that mistake. Iraklion has the best Minoan collection in the world, a still-funct...",
+    "path": "europe/greece/crete/iraklion",
+    "score": 0.65,
+    "lat": 35.3387,
+    "lon": 25.1442,
+    "image_url": "/content-image/europe/greece/crete/iraklion.jpg"
    }
   ]
  },
@@ -13410,7 +13861,7 @@
    },
    {
     "title": "Accra",
-    "snippet": "*Africa > Ghana > Accra*",
+    "snippet": "Africa > Ghana > Accra",
     "path": "africa/ghana/accra",
     "score": 0.48,
     "lat": 5.6037,
@@ -13498,7 +13949,7 @@
   "top_locations": [
    {
     "title": "Cologne",
-    "snippet": "This delightful city (pop. 955.500) with Roman origins is the home of a stunning 13th-century Gothic cathedral, the **Dom**. The twin-spired structure is supported by 56 pillars and highlighted by magnificent stained-glass windows. Art lovers won\u2019t want to miss the museum comp...",
+    "snippet": "This delightful city (pop. 955.500) with Roman origins is the home of a stunning 13th-century Gothic cathedral, the Dom. The twin-spired structure is supported by 56 pillars and highlighted by magnificent stained-glass windows. Art lovers won\u2019t want to miss the museum complex...",
     "path": "europe/germany/northrhinewestphalia/cologne",
     "score": 0.67,
     "lat": 50.938361,
@@ -13578,7 +14029,7 @@
    },
    {
     "title": "Berchtesgaden",
-    "snippet": "**Berchtesgaden** is a market town of about 8,000 people in the far south-eastern corner of **Bavaria**, 150 km south-east of Munich and surrounded by the snow-capped peaks of the **Berchtesgaden Alps**. It sits in one of the most dramatically beautiful valleys in Germany \u2014 a...",
+    "snippet": "Berchtesgaden is a market town of about 8,000 people in the far south-eastern corner of Bavaria, 150 km south-east of Munich and surrounded by the snow-capped peaks of the Berchtesgaden Alps. It sits in one of the most dramatically beautiful valleys in Germany \u2014 a cul-de-sac o...",
     "path": "europe/germany/bavaria/berchtesgaden",
     "score": 0.67,
     "lat": 47.633022,
@@ -13613,7 +14064,7 @@
    },
    {
     "title": "L\u00fcbeck",
-    "snippet": "L\u00fcbeck is the old capital of the **Hanseatic League**, the medieval trading federation that once dominated the Baltic and the North Sea, and for several centuries it was probably the richest and most powerful city in northern Europe. Today it is a UNESCO-listed old town of abo...",
+    "snippet": "L\u00fcbeck is the old capital of the Hanseatic League, the medieval trading federation that once dominated the Baltic and the North Sea, and for several centuries it was probably the richest and most powerful city in northern Europe. Today it is a UNESCO-listed old town of about 2...",
     "path": "europe/germany/schleswigholstein/lubeck",
     "score": 0.64,
     "lat": 53.866444,
@@ -13719,7 +14170,7 @@
    },
    {
     "title": "Kazbegi",
-    "snippet": "The Kazbegi region \u2014 centred on the village of **Stepantsminda** (still widely called Kazbegi) \u2014 sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and...",
+    "snippet": "The Kazbegi region \u2014 centred on the village of Stepantsminda (still widely called Kazbegi) \u2014 sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and a h...",
     "path": "europe/georgia/kazbegi",
     "score": 0.68,
     "lat": 42.658,
@@ -13772,7 +14223,7 @@
    },
    {
     "title": "Juffure",
-    "snippet": "Juffure is a small village on the north bank of the Gambia River, about 30 kilometres southeast of Banjul. It became world-famous through Alex Haley's novel *Roots*, in which he traced his ancestry to this village and to Kunta Kinte, who was captured and sold into slavery in t...",
+    "snippet": "Juffure is a small village on the north bank of the Gambia River, about 30 kilometres southeast of Banjul. It became world-famous through Alex Haley's novel Roots, in which he traced his ancestry to this village and to Kunta Kinte, who was captured and sold into slavery in the...",
     "path": "africa/gambia/juffure",
     "score": 0.42,
     "lat": 13.4137,
@@ -14063,7 +14514,7 @@
    },
    {
     "title": "Champagne",
-    "snippet": "**Champagne** is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine m...",
+    "snippet": "Champagne is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine may l...",
     "path": "europe/france/east/champagne",
     "score": 0.63,
     "lat": 49.0,
@@ -14425,7 +14876,7 @@
    },
    {
     "title": "\u00cele de R\u00e9",
-    "snippet": "**\u00cele de R\u00e9** is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.",
+    "snippet": "\u00cele de R\u00e9 is a long, flat island off the coast of La Rochelle, connected to the mainland by a toll bridge. It is one of the sunniest spots on the French Atlantic coast, and the locals will tell you it gets more hours of sunshine than anywhere north of the Loire.",
     "path": "europe/france/aquitaine/ile_de_r",
     "score": 0.68,
     "lat": 46.2005,
@@ -14814,7 +15265,7 @@
    },
    {
     "title": "Papeete",
-    "snippet": "Papeete is the capital of **French Polynesia**, a low-rise waterfront city of about 130,000 people on the north-west coast of **Tahiti**. It is not a beautiful city \u2014 the harbour is industrial, the centre is dominated by concrete offices and a cruise-ship terminal, and for man...",
+    "snippet": "Papeete is the capital of French Polynesia, a low-rise waterfront city of about 130,000 people on the north-west coast of Tahiti. It is not a beautiful city \u2014 the harbour is industrial, the centre is dominated by concrete offices and a cruise-ship terminal, and for many travel...",
     "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
     "score": 0.76,
     "lat": -17.537384,
@@ -15182,7 +15633,7 @@
    },
    {
     "title": "Assab",
-    "snippet": "**Assab** is a port city in the far south of Eritrea, close to the border with Djibouti. It sits on the Red Sea coast in a hot, arid stretch of land and is one of the most remote cities in the country.",
+    "snippet": "Assab is a port city in the far south of Eritrea, close to the border with Djibouti. It sits on the Red Sea coast in a hot, arid stretch of land and is one of the most remote cities in the country.",
     "path": "africa/eritrea/assab",
     "score": 0.23,
     "lat": 13.009129,
@@ -15281,7 +15732,7 @@
  "luxor": {
   "name": "Upper Nile",
   "parent": "Egypt",
-  "n_locs": 8,
+  "n_locs": 4,
   "is_split": true,
   "top_locations": [
    {
@@ -15303,38 +15754,29 @@
     "image_url": null
    },
    {
-    "title": "Sharm el-Sheikh",
-    "snippet": "Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth \u2014 the coral reefs of Ras Mohammed National Park, the Strait of Tiran, and the Aqaba coa...",
-    "path": "africa/egypt/sharmelsheikh",
-    "score": 0.63,
-    "lat": 27.864442,
-    "lon": 34.295447,
+    "title": "Dendara",
+    "snippet": "Dendara (Dendera) is home to one of the best-preserved temples in all of Egypt. The Temple of Hathor, built largely by the Ptolemies and finished during the early Roman period, stands virtually intact \u2014 a rarity in a country where most ancient buildings survive only as ruins....",
+    "path": "africa/egypt/dendara",
+    "score": 0.53,
+    "lat": 26.1451,
+    "lon": 32.6717,
     "image_url": null
    },
    {
-    "title": "Dahab",
-    "snippet": "Dahab is the Sinai's laid-back antidote to the package-tour glitz of Sharm el Sheikh. Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Back...",
-    "path": "africa/egypt/dahab",
-    "score": 0.6,
-    "lat": 28.5091,
-    "lon": 34.5131,
-    "image_url": null
-   },
-   {
-    "title": "Hurghada",
-    "snippet": "Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef sys...",
-    "path": "africa/egypt/hurghada",
-    "score": 0.57,
-    "lat": 27.2222,
-    "lon": 33.8307,
-    "image_url": "/content-image/africa/egypt/hurghada.jpg"
+    "title": "Asyut",
+    "snippet": "Asyut is Egypt's largest city in Upper Egypt outside of Luxor, sitting on the west bank of the Nile about 380 km south of Cairo. It's primarily a transport and commercial hub rather than a tourist destination, but it does have some points of interest for those passing through.",
+    "path": "africa/egypt/asyut",
+    "score": 0.32,
+    "lat": 27.183282,
+    "lon": 31.185384,
+    "image_url": "/content-image/africa/egypt/asyut.jpg"
    }
   ]
  },
  "cairo": {
   "name": "Lower Nile",
   "parent": "Egypt",
-  "n_locs": 14,
+  "n_locs": 11,
   "is_split": true,
   "top_locations": [
    {
@@ -15348,7 +15790,7 @@
    },
    {
     "title": "Giza",
-    "snippet": "Giza is the western half of greater Cairo \u2014 a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **Great Pyramids** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surv...",
+    "snippet": "Giza is the western half of greater Cairo \u2014 a teeming city in its own right of over eight million people, sprawling up to the desert edge where the Great Pyramids stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last survivin...",
     "path": "africa/egypt/giza",
     "score": 0.76,
     "lat": 29.987075,
@@ -15365,6 +15807,58 @@
     "image_url": null
    },
    {
+    "title": "Alexandria",
+    "snippet": "Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.",
+    "path": "africa/egypt/alexandria",
+    "score": 0.6,
+    "lat": 31.199181,
+    "lon": 29.895172,
+    "image_url": "/content-image/africa/egypt/alexandria.jpg"
+   },
+   {
+    "title": "Minya",
+    "snippet": "Minya is a mid-sized city on the Nile roughly halfway between Cairo and Asyut, and most travelers pass straight through \u2014 which is a mistake. The surrounding area contains some of the most vivid ancient Egyptian remains in the country, away from the crowds of Luxor.",
+    "path": "africa/egypt/minya",
+    "score": 0.44,
+    "lat": 28.21254,
+    "lon": 30.912374,
+    "image_url": null
+   }
+  ]
+ },
+ "siwa": {
+  "name": "Western Desert",
+  "parent": "Egypt",
+  "n_locs": 2,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Siwa",
+    "snippet": "Siwa is an oasis town deep in the Western Desert of Egypt, close to the Libyan border and about 560 km from Cairo. It is one of Egypt's most remote and distinctive destinations \u2014 a place where Berber culture persists, locals speak Siwi rather than Arabic, and the pace of life...",
+    "path": "africa/egypt/siwa",
+    "score": 0.58,
+    "lat": 29.203466,
+    "lon": 25.519227,
+    "image_url": "/content-image/africa/egypt/siwa.jpg"
+   },
+   {
+    "title": "Marsa Matruh",
+    "snippet": "Marsa Matruh sits on Egypt's Mediterranean coast, about 290 kilometres west of Alexandria and roughly halfway to the Libyan border. It is a summer resort town, popular with Egyptian families escaping the heat of Cairo, and the beaches here are genuinely striking \u2014 white sand,...",
+    "path": "africa/egypt/marsa_matroh",
+    "score": 0.45,
+    "lat": 31.3543,
+    "lon": 27.2373,
+    "image_url": "/content-image/africa/egypt/marsa_matroh.jpg"
+   }
+  ]
+ },
+ "sinai_peninsula": {
+  "name": "Sinai Peninsula",
+  "parent": "Egypt",
+  "n_locs": 2,
+  "is_split": true,
+  "top_locations": [
+   {
     "title": "Sinai Peninsula",
     "snippet": "The Sinai Peninsula is a triangular wedge of desert and mountains wedged between Africa and Asia, connecting the two continents while belonging fully to neither. To the west lies the Gulf of Suez; to the east, the Gulf of Aqaba. The Mediterranean closes it off in the north. It...",
     "path": "africa/egypt/sinaidesert",
@@ -15374,13 +15868,48 @@
     "image_url": null
    },
    {
-    "title": "Alexandria",
-    "snippet": "Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.",
-    "path": "africa/egypt/alexandria",
+    "title": "Dahab",
+    "snippet": "Dahab is the Sinai's laid-back antidote to the package-tour glitz of Sharm el Sheikh. Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Back...",
+    "path": "africa/egypt/dahab",
     "score": 0.6,
-    "lat": 31.199181,
-    "lon": 29.895172,
-    "image_url": "/content-image/africa/egypt/alexandria.jpg"
+    "lat": 28.5091,
+    "lon": 34.5131,
+    "image_url": null
+   }
+  ]
+ },
+ "sharm_el_sheikh": {
+  "name": "Red Sea Coast",
+  "parent": "Egypt",
+  "n_locs": 3,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Sharm el-Sheikh",
+    "snippet": "Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth \u2014 the coral reefs of Ras Mohammed National Park, the Strait of Tiran, and the Aqaba coa...",
+    "path": "africa/egypt/sharmelsheikh",
+    "score": 0.63,
+    "lat": 27.864442,
+    "lon": 34.295447,
+    "image_url": null
+   },
+   {
+    "title": "Hurghada",
+    "snippet": "Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef sys...",
+    "path": "africa/egypt/hurghada",
+    "score": 0.57,
+    "lat": 27.2222,
+    "lon": 33.8307,
+    "image_url": "/content-image/africa/egypt/hurghada.jpg"
+   },
+   {
+    "title": "Safaga",
+    "snippet": "Safaga sits on the Egyptian Red Sea coast about 60 km south of Hurghada, and it's one of those places where the working port and the tourist town have grown up side by side without quite resolving the tension between them. Container ships and ferries bound for Saudi Arabia sha...",
+    "path": "africa/egypt/safaga",
+    "score": 0.47,
+    "lat": 26.7633,
+    "lon": 33.9384,
+    "image_url": null
    }
   ]
  },
@@ -16266,7 +16795,7 @@
    },
    {
     "title": "Dra\u010de",
-    "snippet": "Dra\u010de is a tiny village on the northern coast of the **Pelje\u0161ac peninsula** in southern Dalmatia \u2014 a scatter of stone houses around a sheltered harbour, a handful of restaurants, and one of the quieter pebble-and-shingle beaches on the peninsula. There is nothing to \"see\" in t...",
+    "snippet": "Dra\u010de is a tiny village on the northern coast of the Pelje\u0161ac peninsula in southern Dalmatia \u2014 a scatter of stone houses around a sheltered harbour, a handful of restaurants, and one of the quieter pebble-and-shingle beaches on the peninsula. There is nothing to \"see\" in the t...",
     "path": "europe/croatia/peljesac/drace",
     "score": 0.55,
     "lat": 42.929683,
@@ -16593,9 +17122,9 @@
   ]
  },
  "xi_an": {
-  "name": "Northern China",
+  "name": "Central China",
   "parent": "China",
-  "n_locs": 25,
+  "n_locs": 11,
   "is_split": true,
   "top_locations": [
    {
@@ -16608,26 +17137,8 @@
     "image_url": "/content-image/asia/china/xian.jpg"
    },
    {
-    "title": "Beijing",
-    "snippet": "Beijing \u2014 \"Northern Capital\" \u2014 has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The Forbidden City at the heart of the old town, the Temple of Heaven to the south, the Summer Palace...",
-    "path": "asia/china/beijing",
-    "score": 0.73,
-    "lat": 39.905714,
-    "lon": 116.391297,
-    "image_url": null
-   },
-   {
-    "title": "Qingdao",
-    "snippet": "Qingdao is a coastal city on the Shandong Peninsula facing the Yellow Sea, about 700 km southeast of Beijing. Germany seized it in 1897 and held it until 1914, using those 17 years to build an entire Bavarian-style city \u2014 churches, villas, a brewery, and a railway system \u2014 tha...",
-    "path": "asia/china/shandong_province/qingdao",
-    "score": 0.63,
-    "lat": 36.066325,
-    "lon": 120.377766,
-    "image_url": null
-   },
-   {
     "title": "Pingyao",
-    "snippet": "Pingyao is the best-preserved walled city in China \u2014 a compact Ming-era trading town in the middle of **Shanxi Province**, about 90 km south of the provincial capital **Taiyuan**, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km **city wal...",
+    "snippet": "Pingyao is the best-preserved walled city in China \u2014 a compact Ming-era trading town in the middle of Shanxi Province, about 90 km south of the provincial capital Taiyuan, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km city wall, built i...",
     "path": "asia/china/shanxiprovince/pingyao",
     "score": 0.63,
     "lat": 37.189293,
@@ -16642,13 +17153,31 @@
     "lat": 34.6197,
     "lon": 112.4477,
     "image_url": null
+   },
+   {
+    "title": "Shanxi Province",
+    "snippet": "Shanxi sits in the middle reaches of the Yellow River \u2014 its name literally means \"west of the mountains\", referring to the Taihang range that separates it from Hebei and, usefully, distinguishes it from neighbouring Shaanxi. It is an old, dry, yellow-loess land of some of the...",
+    "path": "asia/china/shanxiprovince",
+    "score": 0.49,
+    "lat": 37.0,
+    "lon": 112.0,
+    "image_url": null
+   },
+   {
+    "title": "Yinchuan",
+    "snippet": "Yinchuan is the capital of the Ningxia Hui Autonomous Region, a city of around a million people on the edge of the Yellow River with the Helan Mountains rising to the west. Most travellers heading between Lanzhou and Inner Mongolia pass straight through \u2014 which is a mistake. S...",
+    "path": "asia/china/ningxia/yinchuan",
+    "score": 0.45,
+    "lat": 38.48717,
+    "lon": 106.226657,
+    "image_url": null
    }
   ]
  },
  "everest_region": {
-  "name": "Tibet & Southwest",
+  "name": "Tibet",
   "parent": "China",
-  "n_locs": 29,
+  "n_locs": 10,
   "is_split": true,
   "top_locations": [
    {
@@ -16661,15 +17190,6 @@
     "image_url": "/content-image/asia/nepal/everest_region.jpg"
    },
    {
-    "title": "Chengdu",
-    "snippet": "Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas \u2014 usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another...",
-    "path": "asia/china/sichuanprovince/chengdu",
-    "score": 0.71,
-    "lat": 30.5728,
-    "lon": 104.0668,
-    "image_url": null
-   },
-   {
     "title": "Lhasa",
     "snippet": "Lhasa is the capital of Tibet and one of the most extraordinary cities in Asia. Sitting at 3,650 metres on the Tibetan Plateau, it is a place where saffron-robed monks turn prayer wheels along the Barkhor pilgrimage circuit, yak butter candles flicker in ancient temples, and t...",
     "path": "asia/china/tibet/lhasa",
@@ -16679,15 +17199,6 @@
     "image_url": "/content-image/asia/china/tibet/lhasa.jpg"
    },
    {
-    "title": "Lijiang",
-    "snippet": "Lijiang sits in the northwest corner of Yunnan Province at 2,400 metres, where the Tibetan plateau begins to rise and three of Asia's great rivers \u2014 the Yangtze, the Mekong, and the Salween \u2014 flow in near-parallel canyons just a few dozen kilometres apart. The old town (Dayan)...",
-    "path": "asia/china/yunnanprovince/lijiang",
-    "score": 0.69,
-    "lat": 26.859587,
-    "lon": 100.22498,
-    "image_url": null
-   },
-   {
     "title": "Tibet",
     "snippet": "Tibet is the vast, high, thinly populated plateau at the top of the world \u2014 most of it sits above 4,000 metres, and its entire southern edge is the Himalaya. Politically it has been part of the People's Republic of China since 1951; culturally, linguistically, religiously and...",
     "path": "asia/china/tibet",
@@ -16695,13 +17206,31 @@
     "lat": 29.855644,
     "lon": 90.874981,
     "image_url": null
+   },
+   {
+    "title": "Nyingchi",
+    "snippet": "Nyingchi (Linzhi) is the greenest and most lush corner of Tibet, sitting in the lower reaches of the Yarlung Tsangpo River at relatively low elevations compared to the rest of the plateau. Where most of Tibet is barren and high, Nyingchi is forested, mild, and surprisingly ver...",
+    "path": "asia/china/tibet/nyingchi",
+    "score": 0.66,
+    "lat": 29.5488,
+    "lon": 94.6385,
+    "image_url": null
+   },
+   {
+    "title": "Gyantse",
+    "snippet": "Gyantse is a small agricultural town at nearly 4,000 metres in southern Tibet, one of the least changed towns on the Friendship Highway between Lhasa and the Nepali border. It was once the third-largest town in Tibet, a major wool-trading centre on the route to India, and it s...",
+    "path": "asia/china/tibet/gyantse",
+    "score": 0.59,
+    "lat": 28.919814,
+    "lon": 89.601193,
+    "image_url": "/content-image/asia/china/tibet/gyantse.jpg"
    }
   ]
  },
  "shanghai": {
-  "name": "Eastern China",
+  "name": "Shanghai & East",
   "parent": "China",
-  "n_locs": 18,
+  "n_locs": 12,
   "is_split": true,
   "top_locations": [
    {
@@ -16712,15 +17241,6 @@
     "lat": 31.231271,
     "lon": 121.470015,
     "image_url": "/content-image/asia/china/shanghai.jpg"
-   },
-   {
-    "title": "Guilin",
-    "snippet": "Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting \u2014 the dreamlike karst region of **Guangxi**, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have se...",
-    "path": "asia/china/guilin",
-    "score": 0.72,
-    "lat": 25.277989,
-    "lon": 110.291062,
-    "image_url": null
    },
    {
     "title": "Hangzhou",
@@ -16741,6 +17261,15 @@
     "image_url": null
    },
    {
+    "title": "Qingdao",
+    "snippet": "Qingdao is a coastal city on the Shandong Peninsula facing the Yellow Sea, about 700 km southeast of Beijing. Germany seized it in 1897 and held it until 1914, using those 17 years to build an entire Bavarian-style city \u2014 churches, villas, a brewery, and a railway system \u2014 tha...",
+    "path": "asia/china/shandong_province/qingdao",
+    "score": 0.63,
+    "lat": 36.066325,
+    "lon": 120.377766,
+    "image_url": null
+   },
+   {
     "title": "Nanjing",
     "snippet": "Nanjing (\u5357\u4eac), the \"Southern Capital,\" has served as the capital of China during several dynastic periods and was the seat of the Republic of China government until 1949. The city sits on the Yangtze River surrounded by forested hills, and its scale and historical weight make i...",
     "path": "asia/china/jiangsu_province/nanjing",
@@ -16748,6 +17277,218 @@
     "lat": 32.043828,
     "lon": 118.778863,
     "image_url": null
+   }
+  ]
+ },
+ "guilin": {
+  "name": "South China",
+  "parent": "China",
+  "n_locs": 8,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Guilin",
+    "snippet": "Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting \u2014 the dreamlike karst region of Guangxi, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have seen i...",
+    "path": "asia/china/guilin",
+    "score": 0.72,
+    "lat": 25.277989,
+    "lon": 110.291062,
+    "image_url": null
+   },
+   {
+    "title": "Yunnan Province",
+    "snippet": "Yunnan, on the Yunnan-Guizhou Plateau in the southwest of China, is a land of natural beauty and mystery, which covers an area of 394,000 square kilometers with a population of 40,000,000. Yunnan represents the last great region to join the Chinese empire. Even today many Chin...",
+    "path": "asia/china/yunnanprovince",
+    "score": 0.67,
+    "lat": 25.0,
+    "lon": 102.0,
+    "image_url": null
+   },
+   {
+    "title": "Xishuangbanna",
+    "snippet": "Xishuangbanna is one of the most compelling corners of China \u2014 a subtropical region in the far south of Yunnan that feels less like China and more like Southeast Asia. The Dai people, who share culture and language with the Tai peoples of Thailand and Laos, have called this re...",
+    "path": "asia/china/yunnanprovince/xishuangbanna",
+    "score": 0.58,
+    "lat": 22.0099,
+    "lon": 100.8036,
+    "image_url": "/content-image/asia/china/yunnanprovince/xishuangbanna.jpg"
+   },
+   {
+    "title": "Kunming",
+    "snippet": "Kunming, the capital of Yunnan, is the spring city \u2014 at 1,890 metres on the high plateau of southwest China, it has a climate of mild winters, cool summers, and almost permanent sunshine. For most travellers it is a way-station on the route into Yunnan proper: north to the Bai...",
+    "path": "asia/china/yunnanprovince/kunming",
+    "score": 0.58,
+    "lat": 25.039935,
+    "lon": 102.716906,
+    "image_url": "/content-image/asia/china/yunnanprovince/kunming.jpg"
+   },
+   {
+    "title": "Hunan",
+    "snippet": "Hunan province sits in south-central China, a place most travellers pass through on their way to Guilin or the Yangtze. That is a mistake. Hunan's star attraction is Wulingyuan, a UNESCO World Heritage Site where over 3,100 sandstone pillars rise more than 200 metres above for...",
+    "path": "asia/china/hunan",
+    "score": 0.51,
+    "lat": 27.6662,
+    "lon": 111.7487,
+    "image_url": null
+   }
+  ]
+ },
+ "beijing": {
+  "name": "North China",
+  "parent": "China",
+  "n_locs": 15,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Beijing",
+    "snippet": "Beijing \u2014 \"Northern Capital\" \u2014 has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The Forbidden City at the heart of the old town, the Temple of Heaven to the south, the Summer Palace...",
+    "path": "asia/china/beijing",
+    "score": 0.73,
+    "lat": 39.905714,
+    "lon": 116.391297,
+    "image_url": null
+   },
+   {
+    "title": "Mt. Wutai",
+    "snippet": "Mt. Wutai is one of China's four sacred Buddhist mountains and the only Chinese peak mentioned in Buddhist scripture. The name means \"five terraces,\" referring to the five flat-topped peaks that ring the central valley. At 3,058 metres the northern summit is the highest point...",
+    "path": "asia/china/shanxiprovince/mtwutai",
+    "score": 0.58,
+    "lat": 39.037334,
+    "lon": 113.489871,
+    "image_url": null
+   },
+   {
+    "title": "Simatai",
+    "snippet": "Simatai is one of the few sections of the Great Wall that has been left largely unrestored, and that is exactly its appeal. The wall here is steep and crumbling in places, with watchtowers perched on narrow ridges that drop away sharply on both sides. It feels like the real th...",
+    "path": "asia/china/simatai",
+    "score": 0.57,
+    "lat": 39.781429,
+    "lon": 115.625229,
+    "image_url": null
+   },
+   {
+    "title": "Chengde",
+    "snippet": "Two hundred and thirty kilometres northeast of Beijing, Chengde sits in a fold of the Yanshan mountains where the air is cooler and the pace noticeably slower. For three centuries this was the summer capital of the Qing emperors, who fled the Beijing heat to hold court here am...",
+    "path": "asia/china/chengde",
+    "score": 0.57,
+    "lat": 40.9507,
+    "lon": 117.9567,
+    "image_url": "/content-image/asia/china/chengde.jpg"
+   },
+   {
+    "title": "Harbin",
+    "snippet": "Harbin is the provincial capital of Heilongjiang, China's northernmost province, sitting on the Songhua River just a few hundred kilometres from the Russian border. That proximity shaped the city: Russian engineers and traders flooded in during the early 20th century to build...",
+    "path": "asia/china/harbin",
+    "score": 0.57,
+    "lat": 45.759363,
+    "lon": 126.627618,
+    "image_url": null
+   }
+  ]
+ },
+ "chengdu": {
+  "name": "Chengdu & Sichuan",
+  "parent": "China",
+  "n_locs": 10,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Chengdu",
+    "snippet": "Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas \u2014 usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another...",
+    "path": "asia/china/sichuanprovince/chengdu",
+    "score": 0.71,
+    "lat": 30.5728,
+    "lon": 104.0668,
+    "image_url": null
+   },
+   {
+    "title": "Lijiang",
+    "snippet": "Lijiang sits in the northwest corner of Yunnan Province at 2,400 metres, where the Tibetan plateau begins to rise and three of Asia's great rivers \u2014 the Yangtze, the Mekong, and the Salween \u2014 flow in near-parallel canyons just a few dozen kilometres apart. The old town (Dayan)...",
+    "path": "asia/china/yunnanprovince/lijiang",
+    "score": 0.69,
+    "lat": 26.859587,
+    "lon": 100.22498,
+    "image_url": null
+   },
+   {
+    "title": "Dali",
+    "snippet": "Dali is one of the most popular stops on the Yunnan backpacker trail \u2014 a walled old town set between the Cangshan Mountains and Erhai Lake, with a mild climate, cheap guesthouses, and a pace of life that encourages staying longer than planned. It once had the reputation of bei...",
+    "path": "asia/china/yunnanprovince/dali",
+    "score": 0.65,
+    "lat": 25.6907,
+    "lon": 100.1639,
+    "image_url": "/content-image/asia/china/yunnanprovince/dali.jpg"
+   },
+   {
+    "title": "Sichuan Province",
+    "snippet": "Sichuan province is located in the centre of China between Tibet, Yunnan Province and Xian. The Yangtze river goes right through the heart of the province. A boat trip from Chonqing on the river is highly recommended. The scenery is incredible: sheer cliffs rising up 1000 mete...",
+    "path": "asia/china/sichuanprovince",
+    "score": 0.62,
+    "lat": 30.5,
+    "lon": 102.5,
+    "image_url": null
+   },
+   {
+    "title": "Shangri-La",
+    "snippet": "Shangri-La (\u9999\u683c\u91cc\u62c9, formerly Zhongdian) is a small Tibetan town at 3,200 metres in northwestern Yunnan, about five hours north of Lijiang. The name was officially changed in 2001 to capitalise on the James Hilton connection, but the town's Tibetan character is genuine \u2014 prayer f...",
+    "path": "asia/china/yunnanprovince/shangrila",
+    "score": 0.62,
+    "lat": 27.871702,
+    "lon": 99.83655,
+    "image_url": "/content-image/asia/china/yunnanprovince/shangrila.jpg"
+   }
+  ]
+ },
+ "dunhuang": {
+  "name": "Xinjiang & Silk Road",
+  "parent": "China",
+  "n_locs": 6,
+  "is_split": true,
+  "top_locations": [
+   {
+    "title": "Dunhuang",
+    "snippet": "Dunhuang sits in the wild, wild west of China: a good 2,000 kilometres west of Beijing, in the far west of Gansu Province, right on the Silk Road that caravans took from China to the Middle East for the better part of two thousand years. The town is an oasis \u2014 a thin green str...",
+    "path": "asia/china/dunhuang",
+    "score": 0.65,
+    "lat": 40.1411,
+    "lon": 94.660759,
+    "image_url": "/content-image/asia/china/dunhuang.jpg"
+   },
+   {
+    "title": "Kashgar",
+    "snippet": "The oasis of Kashgar, with a view of the last peaks of the western Himalayas, is the last stop in China on the Silk Road. From here you can cross to Pakistan over the Karakoram Highway or to Kyrgyzstan over the Torugart Pass.",
+    "path": "asia/china/xinjiangprovince/kashgar",
+    "score": 0.55,
+    "lat": 39.4666,
+    "lon": 75.99,
+    "image_url": null
+   },
+   {
+    "title": "Turpan",
+    "snippet": "Turpan was one of the most important oasis cities on the Silk Road \u2014 a key stopping point on the route between China and Central Asia. Today it is a small, unhurried town where donkey carts still share the streets with cars, and the surrounding desert landscape is extraordinary.",
+    "path": "asia/china/xinjiangprovince/turpan",
+    "score": 0.51,
+    "lat": 42.942503,
+    "lon": 89.179589,
+    "image_url": null
+   },
+   {
+    "title": "Altay Prefecture",
+    "snippet": "Altay Prefecture is the northernmost part of Xinjiang, pushing up against the borders of Kazakhstan, Russia, and Mongolia. It is remote, sparsely populated, and spectacularly beautiful \u2014 a landscape of alpine meadows, conifer forests, and glacier-fed rivers that feels more lik...",
+    "path": "asia/china/xinjiangprovince/altayprefecture",
+    "score": 0.49,
+    "lat": 47.100178,
+    "lon": 88.434175,
+    "image_url": null
+   },
+   {
+    "title": "\u00dcr\u00fcmqi",
+    "snippet": "\u00dcr\u00fcmqi is the capital of Xinjiang, China's vast northwestern autonomous region. It is the most inland major city in the world \u2014 further from the sea than any other city of its size. The population is a mix of Han Chinese, Uyghur, Kazakh, and other Central Asian peoples, and th...",
+    "path": "asia/china/xinjiangprovince/urumqi",
+    "score": 0.45,
+    "lat": 43.8244,
+    "lon": 87.6139,
+    "image_url": "/content-image/asia/china/xinjiangprovince/urumqi.jpg"
    }
   ]
  },
@@ -16960,7 +17701,7 @@
   "top_locations": [
    {
     "title": "Ounianga",
-    "snippet": "Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of Chad's most extraordinary natural wonders. The **Lakes of Ounianga**, inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnect...",
+    "snippet": "Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of Chad's most extraordinary natural wonders. The Lakes of Ounianga, inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnected d...",
     "path": "africa/chad/ounianga",
     "score": 0.35,
     "lat": 19.0539,
@@ -17013,7 +17754,7 @@
   "top_locations": [
    {
     "title": "Dzanga-Sangha",
-    "snippet": "**Dzanga-Sangha** is a protected area of dense tropical rainforest in the far southwest of the Central African Republic, on the border with Cameroon and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas \u2014 habituated groups ca...",
+    "snippet": "Dzanga-Sangha is a protected area of dense tropical rainforest in the far southwest of the Central African Republic, on the border with Cameroon and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas \u2014 habituated groups can be...",
     "path": "africa/centralafricanrepublic/dzanga_sangha",
     "score": 0.42,
     "lat": 2.95,
@@ -17252,7 +17993,7 @@
    },
    {
     "title": "Victoria",
-    "snippet": "*North America > Canada > British Columbia > Victoria*",
+    "snippet": "North America > Canada > British Columbia > Victoria",
     "path": "northamerica/canada/britishcolumbia/victoria",
     "score": 0.64,
     "lat": 48.4284,
@@ -17402,7 +18143,7 @@
    },
    {
     "title": "Mandalay",
-    "snippet": "**Mandalay** is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. The city and its surroundings have a lot to offer to the traveller. It...",
+    "snippet": "Mandalay is the second largest city after Yangoon with a population of over half a million. It doesn't look like a city, more like a big village. There's no skyline, and there are still some dirt roads. The city and its surroundings have a lot to offer to the traveller. It is...",
     "path": "asia/myanmar/mandalay",
     "score": 0.56,
     "lat": 21.959683,
@@ -17852,7 +18593,7 @@
    },
    {
     "title": "Travnik",
-    "snippet": "Travnik is a small, walkable town in central Bosnia that served as the seat of the Ottoman viziers for 150 years \u2014 making it, for a time, the most important town in Bosnia after Sarajevo. It is the birthplace of Ivo Andri\u0107, the Nobel Prize-winning author of *The Bridge on the...",
+    "snippet": "Travnik is a small, walkable town in central Bosnia that served as the seat of the Ottoman viziers for 150 years \u2014 making it, for a time, the most important town in Bosnia after Sarajevo. It is the birthplace of Ivo Andri\u0107, the Nobel Prize-winning author of The Bridge on the D...",
     "path": "europe/bosniaandherzegovina/travnik",
     "score": 0.52,
     "lat": 44.2266,
@@ -17984,7 +18725,7 @@
   "top_locations": [
    {
     "title": "Ganvi\u00e9",
-    "snippet": "**Ganvi\u00e9** is a town built entirely on stilts over Lake Nokou\u00e9, about 15 km north of Cotonou. It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet \u2014 tourism has taken its toll, and arriving from Cotonou you will be surrounded...",
+    "snippet": "Ganvi\u00e9 is a town built entirely on stilts over Lake Nokou\u00e9, about 15 km north of Cotonou. It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet \u2014 tourism has taken its toll, and arriving from Cotonou you will be surrounded by t...",
     "path": "africa/benin/ganvie",
     "score": 0.52,
     "lat": 6.4681,
@@ -18108,7 +18849,7 @@
    },
    {
     "title": "Antwerp",
-    "snippet": "Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of *Koninck* beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a recept...",
+    "snippet": "Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of Koninck beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a receptac...",
     "path": "europe/belgium/antwerp",
     "score": 0.66,
     "lat": 51.22111,
@@ -19330,7 +20071,7 @@
    },
    {
     "title": "Crimea",
-    "snippet": "> **Travel warning:** Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Cri...",
+    "snippet": "> Travel warning: Crimea has been under Russian military occupation since 2014, in violation of international law, and has been a conflict zone since Russia's full invasion of Ukraine in 2022. Most governments advise strongly against travel. The content below describes Crimea...",
     "path": "europe/ukraine/crimea",
     "score": 0.46,
     "lat": 45.283504,

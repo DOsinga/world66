@@ -3,14 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Ho Chi Minh city centre is compact enough to be walkable, except for the hot and humid climate, which almost guarantee you will arrive at your destination a little wet!
+Ho Chi Minh City is spread across a large area and the street grid is complex. The most practical transport is Grab — the app works perfectly, prices are fixed, and drivers find you by GPS rather than requiring you to describe where you are. Standard taxis (Mai Linh and Vinasun are the two reliable companies) are also metered and safe; avoid unmarked taxis.
 
-**Crossing the Road**
+The city is not pleasant to walk in the heat of the day, but District 1 is compact enough to cover on foot in the morning and evening. Crossing the road requires the famous technique: step off the pavement, walk steadily at a constant pace, and let the motorbikes flow around you. Do not hesitate or stop suddenly.
 
-For first time visitors, this can seem quite daunting, but, in fact, its very easy. Make sure there are no cars, buses, or trucks coming, and then just launch out into the sea of motorbikes coming along the road. Don't stop (that will confuse them) and don't walk too quickly, and they will all just weave around you. Be confident - you will reach the other side of the road quite safely!
-
-**Taxis**
-
-There are plenty of taxis in HCM. All that I used had meters, and were willing to use them. Flag-fall is around 13,000 to 14,000 Dong - around 85cents US.
-
-The taxi fare to the airport was just short of 60,000 Dong.
+The metro (Metro Line 1) opened in 2024, connecting Bến Thành station in District 1 to the eastern suburbs; it will be extended gradually. Xe ôm (motorbike taxis) are fast and cheap but require negotiating a price before you get on — Grab's motorbike option is easier. Bicycle rental is available in the Pham Ngu Lao area.

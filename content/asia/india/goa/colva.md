@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: colva.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Colv%C3%A1_beach.jpg
 latitude: 15.277304
+loc_type: city
 longitude: 73.920203
+score: 0.57
 title: Colva
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Colva is one of the most popular beaches in South Goa, a long stretch of white sand backed by coconut palms and a scattering of beach shacks. It draws a mix of domestic tourists and longer-stay visitors looking for something more relaxed than the North Goa party beaches.

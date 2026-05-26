@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: sur.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Oman,_Sur_(city_view).jpg
 latitude: 22.5694
+loc_type: city
 longitude: 59.5297
 score: 0.51
 title: Sur
 type: location
-loc_type: city
 ---
 
 Sur is one of Oman's oldest port towns, sitting on a sheltered lagoon where the Gulf of Oman meets the Arabian Sea, about 350 km south-east of Muscat. For centuries its fortune was built on the sea — Sur dhows sailed as far as East Africa, India, and the Persian Gulf, and the town still maintains one of the last working traditional boat-building yards in the Arab world. Watching a craftsman shape a wooden hull using techniques unchanged for generations is reason enough to come.

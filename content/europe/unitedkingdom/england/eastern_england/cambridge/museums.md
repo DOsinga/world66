@@ -1,8 +1,6 @@
 ---
-title: "Museums"
+title: Museums
 type: section
 ---
 
-FitzWilliam Museum is probably the best known in the city and roughly the equivalent of the Ashmolean at Oxford. There is no charge for admission but a donation of £3 is suggested - no pressure exerted.
-
-The collections of both historical artefacts and paintings are stunning.
+Cambridge has more good free museums per square kilometre than almost any other city its size. The Fitzwilliam, the Museum of Archaeology and Anthropology, the Whipple, the Scott Polar, and Kettle's Yard are all free and all excellent. The Fitzwilliam is the biggest and best known; the others are usually quieter.

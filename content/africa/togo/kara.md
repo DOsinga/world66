@@ -18,6 +18,6 @@ type: location
 
 Kara is northern Togo's largest city and a natural base for exploring the surrounding hills and villages. The town itself is pleasant enough — dusty, unhurried, with a sprawling [market](/africa/togo/kara/market) that draws traders from across the region — but the real draw is the landscape beyond it.
 
-To the west, Mont Kabyé rises above terraced farmland, offering good hiking through villages where traditional life carries on with little concern for visitors. To the north, the [Tamberma](/africa/togo/tamberma) valley is home to some of West Africa's most striking vernacular architecture: fortified clay houses, known as tata, that look like miniature castles and are a UNESCO World Heritage Site.
+To the west, [Mont Kabyé](/africa/togo/kara/mont_kabye) rises above terraced farmland, offering good hiking through villages where traditional life carries on with little concern for visitors. To the north, the [Tamberma](/africa/togo/tamberma) valley is home to some of West Africa's most striking vernacular architecture: fortified clay houses, known as tata, that look like miniature castles and are a UNESCO World Heritage Site.
 
 Kara makes a practical stopover between [Lomé](/africa/togo/lome) and the Tamberma country, with more restaurants, better accommodation, and livelier evenings than anything else in the north.

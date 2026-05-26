@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: glenridding.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Glenridding,_Cumbria,_England_-_June_2009.jpg
 latitude: 54.544293
+loc_type: city
 longitude: -2.949884
+score: 0.57
 title: Glenridding
 type: location
-score: 0.57
-loc_type: city
 ---
 
 Glenridding is a small village at the southern tip of Ullswater, one of the [Lake District](/europe/unitedkingdom/england/lakedistrict)'s most beautiful lakes. It sits in a deep valley below Helvellyn, England's third-highest peak, and serves as the main starting point for the classic ascent via Striding Edge, a narrow arete that is one of the most exhilarating ridge walks in England. The scramble is not technically difficult in good weather, but it demands a head for heights and proper footwear.

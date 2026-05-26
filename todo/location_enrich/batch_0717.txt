@@ -1,5 +1,0 @@
-asia/iraq/samarra
-northamerica/unitedstates/oklahoma/watonga
-northamerica/unitedstates/massachusetts/bolton
-northamerica/mexico/queretaro
-europe/netherlands/aalsmeer

@@ -3,7 +3,8 @@ latitude: 2.197969
 longitude: 102.245141
 snippet: "Melaka's famous antique and night market street"
 tags:
-- sights
+- things_to_do
+- market
 title: Jonker Street
 type: poi
 ---

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-11'
+  location_enrich: '2026-05-16'
 image: seria.jpg
 image_attribution: Wikimedia Commons
 image_license: CC BY-SA 4.0

@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-09'
 image: mafiaisland.jpg
+image_attribution: Nina R from Africa
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Mafia_Island_(51554991378).jpg
 latitude: -7.843

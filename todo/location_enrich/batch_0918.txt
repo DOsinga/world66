@@ -1,5 +1,0 @@
-asia/philippines/quezoncity
-northamerica/unitedstates/florida/tarpon_springs
-asia/indonesia/maluku/ternate
-northamerica/unitedstates/southcarolina/anderson
-asia/kuwait/kuwaitcity

@@ -1,5 +1,0 @@
-europe/norway/lofotenislands/henningsvr
-europe/germany/bavaria/romanticroad/badmergentheim
-northamerica/trinidadandtobago/sanfernando
-northamerica/unitedstates/newmexico/gallup
-southamerica/colombia/sanagustin

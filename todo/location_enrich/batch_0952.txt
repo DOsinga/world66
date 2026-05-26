@@ -1,5 +1,0 @@
-northamerica/unitedstates/mississippi/vicksburg
-africa/morocco/meknes
-asia/india/manipur/imphal
-northamerica/unitedstates/arizona/chinle
-africa/burundi/bujumbura

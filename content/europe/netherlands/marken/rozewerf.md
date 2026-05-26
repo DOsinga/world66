@@ -3,7 +3,8 @@ latitude: 52.4566
 longitude: 5.1028
 snippet: Most-photographed cluster of green-painted fishermen's houses on Marken
 tags:
-- things_to_do
+  - things_to_do
+  - neighbourhood
 title: Rozewerf
 type: neighbourhood
 ---

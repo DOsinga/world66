@@ -1,18 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 19.766812
+loc_type: city
 longitude: 74.475439
+score: 0.44
 title: Shirdi
 type: location
-score: 0.44
-loc_type: city
 ---
 
 Shirdi is a small pilgrimage town in Maharashtra, about 90 km from [Nasik](/asia/india/maharashtra/nasik), known almost entirely for one thing: the Sai Baba temple complex. Sai Baba of Shirdi was a saint who lived here in the late 19th and early 20th century, and whose teachings drew followers from both Hindu and Muslim communities. That cross-faith appeal survives today — the temple draws millions of devotees of both religions each year.
 
 Thursday is the most sacred day. A special Aarti (prayer ceremony) is performed in the temple, and crowds swell noticeably. If you want a quieter visit, come on another day of the week.
 
-Beyond the main Sai Baba Samadhi Mandir, the pilgrimage circuit includes the Gurusthan (where Sai Baba is said to have first appeared), the Khandoba Temple, the Shani Mandir, the Narsimha Mandir, and the Changdev Maharaj Samadhi. The Sakori Ashram, dedicated to a female saint and disciple of Sai Baba, lies a short distance outside town and is worth a visit.
+Beyond the [main Sai Baba Samadhi Mandir](/asia/india/maharashtra/shirdi/sai_baba_temple), the pilgrimage circuit includes the Gurusthan (where Sai Baba is said to have first appeared), the Khandoba Temple, the Shani Mandir, the Narsimha Mandir, and the Changdev Maharaj Samadhi. [Dwarkamai](/asia/india/maharashtra/shirdi/dwarkamai_mosque) — the mosque where Sai Baba actually lived for sixty years — is the most intimate spot in the complex, housing the still-burning sacred fire he tended in life. The [Sakori Ashram](/asia/india/maharashtra/shirdi/sakori_ashram), 5 km outside town, is dedicated to Upasni Maharaj, one of Sai Baba's most prominent disciples, and offers a quieter counterpoint to the busy main complex.
 
 Shirdi is not a destination for sightseeing or leisure — it is a place of devotion. Most visitors come, pay their respects, and move on within a day. The town itself is geared almost entirely toward pilgrims, with temples, prasad stalls, and religious goods shops lining the streets.

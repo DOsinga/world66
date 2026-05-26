@@ -1,5 +1,0 @@
-europe/netherlands/marken
-asia/philippines/negrosisland/sipalay
-europe/hungary/esztergom
-europe/france/east/lorraine/sarreguemines
-southamerica/uruguay/parquesantateresa/la_coronilla

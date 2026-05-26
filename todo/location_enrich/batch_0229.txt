@@ -1,5 +1,0 @@
-asia/nepal/gorkha_gurkha
-northamerica/unitedstates/california/highsierra/truckee
-southamerica/brazil/teresopolis
-europe/greece/karpenisi
-europe/iceland/seydisfjordur

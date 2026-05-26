@@ -1,12 +1,15 @@
 ---
-title: Radstadt
-type: location
-latitude: 47.3839
-longitude: 13.4618
 done:
   location_cleanup: 2026-04-07
-score: 0.52
+image: radstadt.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Radstadt_pongau.jpg
+latitude: 47.3839
 loc_type: city
+longitude: 13.4618
+score: 0.52
+title: Radstadt
+type: location
 ---
 
 Radstadt is a small medieval walled town at 858 metres in the Salzburg region, tucked between the Dachstein massif and the Radstädter Tauern. The town received its charter in 1289 and still wears its history on its sleeve: intact city walls and round towers, a late-Romanesque parish church, and a gothic light column all survive in the compact old centre.

@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: alaska.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Parque_estatal_Chugach,_Alaska,_Estados_Unidos,_2017-08-22,_DD_94.jpg
 latitude: 64.445961
+loc_type: region
 longitude: -149.680909
 score: 0.7
 title: Alaska
 type: location
-loc_type: region
 ---
 
 Alaska is the wild edge of the United States — a state larger than Texas, California, and Montana combined, with a population smaller than most American cities. Scale is the first thing that surprises visitors. The road system barely touches the interior; more than 80% of Alaskan communities are not connected to anywhere by road at all. You reach them by bush plane, boat, or snowmobile.

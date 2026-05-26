@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: setenil.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Setenil_de_las_Bodegas_-_Wallpaper.jpg
 latitude: 36.862184
+loc_type: city
 longitude: -5.1787
+score: 0.58
 title: Setenil de las Bodegas
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Setenil de las Bodegas is one of the most unusual of Andalucia's white villages — a town built into and under the overhanging rock of a gorge, with streets running beneath natural rock ledges that serve as roofs for the houses below. The effect is striking: two-storey buildings with rock faces for walls and stone canopies jutting out overhead, casting the streets into permanent shadow.

@@ -13,7 +13,7 @@ The Beijing Zoo has giant pandas. It's not the most progressive zoo in the world
 
 ## Guilin and Yangshuo
 
-The karst landscape around [Guilin](/asia/china/guilin) is visually extraordinary and child-appropriate. The Li River cruise from Guilin to Yangshuo takes four hours on a boat with a viewing deck, passing through some of the most unusual scenery in Asia. In Yangshuo itself, you can rent bikes and cycle through rice paddies and villages at an easy pace. Bamboo raft rides on the Yulong River are particularly good for younger children.
+The karst landscape around [Guilin](/asia/china/guangxi/guilin) is visually extraordinary and child-appropriate. The Li River cruise from Guilin to Yangshuo takes four hours on a boat with a viewing deck, passing through some of the most unusual scenery in Asia. In Yangshuo itself, you can rent bikes and cycle through rice paddies and villages at an easy pace. Bamboo raft rides on the Yulong River are particularly good for younger children.
 
 ## Chengdu and the Giant Panda Base
 

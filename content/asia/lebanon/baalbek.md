@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: baalbek.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg
 latitude: 34.007887
+loc_type: city
 longitude: 36.211811
+score: 0.64
 title: Baalbek
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Baalbek in the northern Bekaa Valley is one of the world's oldest cities and home to the most impressive classical ruins in Lebanon -- and arguably the most important Roman site in the Middle East.

@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+image: ullapool.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ullapool_sun.jpg
 latitude: 57.89582
+loc_type: city
 longitude: -5.160223
 score: 0.57
 title: Ullapool
 type: location
-loc_type: city
 ---
 
 Ullapool is a whitewashed fishing village on the shore of Loch Broom, the main settlement on Scotland's northwest coast and an excellent base for exploring some of the most dramatic scenery in the country. It has more choice for eating, drinking and sleeping than any other town for many miles around.

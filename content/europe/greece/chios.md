@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 38.375813
+loc_type: city
 longitude: 26.064655
+score: 0.63
 title: Chios
 type: location
-score: 0.63
-loc_type: city
 ---
 
 Chios is a Greek island in the eastern Aegean, sitting just a few kilometres off the Turkish coast. It is best known for mastic — the crystallised resin tapped from Pistacia lentiscus trees that grow only in the southern villages of the island, known collectively as the Mastichochoria. For centuries this sticky, aromatic substance was so prized that the Ottoman sultans treated Chios with special care; today it flavours everything from chewing gum to liqueur to cosmetics.

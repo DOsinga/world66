@@ -6,9 +6,8 @@ longitude: -3.593773
 snippet: Granada's ancient Moorish quarter facing the Alhambra
 tags:
 - things_to_do
-- sights
-- mosque
 - sight
+- neighbourhood
 - albaicin
 title: The Albaicín
 type: poi

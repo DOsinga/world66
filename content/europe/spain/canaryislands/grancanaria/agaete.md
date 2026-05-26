@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: agaete.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Puerto_de_las_Nieves2.jpg
 latitude: 28.10085
+loc_type: city
 longitude: -15.702348
+score: 0.58
 title: Agaete
 type: location
-score: 0.58
-loc_type: city
 ---
 
 Agaete is a small town of around 5,800 people on Gran Canaria's northwest coast, at the mouth of a green valley that produces the only commercially grown coffee in Europe. It feels genuinely local — not a resort — with a compact fishing harbour at El Puerto de las Nieves from which fast ferries cross to Tenerife in under an hour.

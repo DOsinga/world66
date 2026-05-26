@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 21.4655
+loc_type: region
 longitude: -71.139
+score: 0.65
 title: Grand Turk
 type: location
-score: 0.65
-loc_type: region
 ---
 
 Grand Turk is the small, unhurried capital island of the Turks and Caicos, home to around 4,000 people and the seat of the territory's government. It has none of the resort gloss of Providenciales — the buildings are low, the roads are quiet, and donkeys still wander the streets. That's the draw.

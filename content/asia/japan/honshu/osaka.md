@@ -2,13 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   poi_cleanup: '2026-04-19'
+image: osaka.jpg
 image_attribution: Laitche
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg
 latitude: 34.693757
+loc_type: city
 longitude: 135.501454
 score: 0.81
 title: Osaka
 type: location
-loc_type: city
 ---
 
 Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. Takoyaki stalls, okonomiyaki restaurants, and kushikatsu bars are everywhere.

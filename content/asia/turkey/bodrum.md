@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: bodrum.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sunset_over_Bodrum_I.jpg
 latitude: 37.034399
+loc_type: city
 longitude: 27.430651
+score: 0.69
 title: Bodrum
 type: location
-score: 0.69
-loc_type: city
 ---
 
 Bodrum sits on the Aegean coast where the ancient city of Halicarnassus once stood — home to one of the seven wonders of the ancient world. Most visitors come for the beaches and the nightlife, but the town rewards anyone willing to look past the bars. The Castle of St Peter, built by the Knights of St John, dominates the harbour and houses an excellent Museum of Underwater Archaeology. The remains of the Mausoleum of Halicarnassus are a short walk inland.

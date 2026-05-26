@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: doolin.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:095_Fisher_Street_in_Doolin.jpg
 latitude: 53.016329
+loc_type: city
 longitude: -9.37761
+score: 0.62
 title: Doolin
 type: location
-score: 0.62
-loc_type: city
 ---
 
 Doolin is a tiny village on the Clare coast, spread across three clusters of houses — Roadford, Fishstreet, and the pier — linked by a single road that ends where the limestone of the Burren meets the Atlantic. Look south from the pier and the Cliffs of Moher rise along the coast.

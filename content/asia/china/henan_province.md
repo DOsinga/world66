@@ -1,10 +1,12 @@
 ---
-title: Henan Province
-type: location
 latitude: 34.0
+loc_type: region
 longitude: 114.0
 score: 0.42
-loc_type: region
+sources:
+- https://en.wikivoyage.org/wiki/Henan
+title: Henan Province
+type: location
 ---
 
 Henan is China's most populous province and one of its most historically significant. Situated in the middle reaches of the Yellow River, it was the cradle of Chinese civilisation for several thousand years. Zhengzhou, the provincial capital, was one of the earliest Chinese cities; Luoyang served as the imperial capital for nine different dynasties.

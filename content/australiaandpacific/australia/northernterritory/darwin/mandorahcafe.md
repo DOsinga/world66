@@ -7,8 +7,8 @@ longitude: 130.757
 phone: +61 8 8978 5000
 snippet: Casual waterside spot across the harbour from Darwin
 tags:
-- things_to_do
 - eating_out
+- restaurant
 title: Mandorah Cafe
 type: poi
 ---

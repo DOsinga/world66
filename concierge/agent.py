@@ -155,16 +155,21 @@ def _do_run(session_id):
 
     system = _build_system_prompt(session)
 
-    INITIAL_PROMPT = (
-        "Please introduce yourself to the provider and start arranging the booking "
-        "according to the traveller's preferences."
-    )
-
     msgs = list(session.messages.order_by("timestamp").values("direction", "body"))
-    history = [{"role": "user", "content": INITIAL_PROMPT}]
-    for m in msgs:
-        role = "assistant" if m["direction"] == "outbound" else "user"
-        history.append({"role": role, "content": m["body"]})
+
+    if not msgs:
+        history = [{"role": "user", "content": (
+            "Please introduce yourself to the provider and start arranging the booking "
+            "according to the traveller's preferences."
+        )}]
+    else:
+        history = []
+        for m in msgs:
+            role = "assistant" if m["direction"] == "outbound" else "user"
+            history.append({"role": role, "content": m["body"]})
+        # Anthropic requires history to start with a user message.
+        if history[0]["role"] != "user":
+            history.insert(0, {"role": "user", "content": "Continue the negotiation."})
 
     while True:
         response = _client.messages.create(

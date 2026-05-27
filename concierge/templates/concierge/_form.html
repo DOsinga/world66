@@ -1,0 +1,43 @@
+<form method="post" action="{% url 'concierge:start' %}" class="concierge-form">
+  {% csrf_token %}
+  <input type="hidden" name="provider_path" value="{{ provider.path }}">
+
+  <div class="form-row">
+    <label for="cf-name-{{ provider.slug }}">Your name</label>
+    <input type="text" id="cf-name-{{ provider.slug }}" name="user_name" required placeholder="Jane Smith">
+  </div>
+
+  <div class="form-row">
+    <label for="cf-wa-{{ provider.slug }}">Your WhatsApp (for confirmation)</label>
+    <input type="tel" id="cf-wa-{{ provider.slug }}" name="user_whatsapp" placeholder="+1 555 123 4567">
+  </div>
+
+  <div class="form-row">
+    <label for="cf-dates-{{ provider.slug }}">Preferred dates</label>
+    <input type="text" id="cf-dates-{{ provider.slug }}" name="dates" placeholder="e.g. 12–15 June, flexible on time">
+  </div>
+
+  <div class="form-row">
+    <label for="cf-group-{{ provider.slug }}">Group size</label>
+    <input type="number" id="cf-group-{{ provider.slug }}" name="group_size" min="1" value="2">
+  </div>
+
+  {% if provider.meta.price %}
+  <div class="form-row">
+    <label for="cf-target-{{ provider.slug }}">Target price per person (listed: {{ provider.meta.price }})</label>
+    <input type="text" id="cf-target-{{ provider.slug }}" name="target_price" placeholder="{{ provider.meta.price }}">
+  </div>
+
+  <div class="form-row">
+    <label for="cf-max-{{ provider.slug }}">Maximum price per person</label>
+    <input type="text" id="cf-max-{{ provider.slug }}" name="max_price" placeholder="{{ provider.meta.price }}">
+  </div>
+  {% endif %}
+
+  <div class="form-row">
+    <label for="cf-notes-{{ provider.slug }}">Special requirements</label>
+    <textarea id="cf-notes-{{ provider.slug }}" name="notes" rows="3" placeholder="Dietary needs, accessibility, programme preferences…"></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Send Concierge</button>
+</form>

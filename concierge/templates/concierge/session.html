@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Concierge — {{ session.provider_name }}</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 700px; margin: 2rem auto; padding: 0 1rem; }
+    h1 { font-size: 1.4rem; margin-bottom: 0.25rem; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .status-badge { display: inline-block; padding: 0.2em 0.6em; border-radius: 4px; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; }
+    .status-pending, .status-contacting { background: #fef3c7; color: #92400e; }
+    .status-negotiating { background: #dbeafe; color: #1e40af; }
+    .status-agreed { background: #d1fae5; color: #065f46; }
+    .status-failed { background: #fee2e2; color: #991b1b; }
+    .thread { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.75rem; }
+    .msg { max-width: 80%; padding: 0.6rem 0.9rem; border-radius: 12px; font-size: 0.95rem; line-height: 1.45; }
+    .msg.outbound { background: #dcf8c6; align-self: flex-end; }
+    .msg.inbound { background: #f0f0f0; align-self: flex-start; }
+    .msg .ts { font-size: 0.75rem; color: #999; margin-top: 0.25rem; }
+    .summary { margin-top: 1.5rem; padding: 1rem; background: #f9fafb; border-left: 4px solid #10b981; border-radius: 4px; }
+    .spinner { display: inline-block; width: 0.9em; height: 0.9em; border: 2px solid #aaa; border-top-color: #333; border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: middle; margin-left: 0.4em; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <h1>world66 Concierge — {{ session.provider_name }}</h1>
+  <p class="meta">
+    Started {{ session.created_at|date:"j M Y, H:i" }} ·
+    <span id="status-badge" class="status-badge status-{{ session.status }}">{{ session.status }}</span>
+    <span id="spinner" class="spinner" {% if session.status in "agreed failed" %}style="display:none"{% endif %}></span>
+  </p>
+
+  {% if session.summary %}
+  <div class="summary" id="summary-block">
+    <strong>Outcome:</strong> {{ session.summary }}
+  </div>
+  {% else %}
+  <div id="summary-block"></div>
+  {% endif %}
+
+  <div class="thread" id="thread">
+    {% for msg in session.messages.all %}
+    <div class="msg {{ msg.direction }}">
+      {{ msg.body }}
+      <div class="ts">{{ msg.timestamp|time:"H:i" }}</div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <script>
+    const sessionUrl = "{{ request.path }}.json";
+    const terminal = ["agreed", "failed"];
+    let status = "{{ session.status }}";
+
+    function renderMessages(messages) {
+      const thread = document.getElementById("thread");
+      thread.innerHTML = messages.map(m => `
+        <div class="msg ${m.direction}">
+          ${m.body.replace(/\n/g, "<br>")}
+          <div class="ts">${new Date(m.timestamp).toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'})}</div>
+        </div>
+      `).join("");
+    }
+
+    async function poll() {
+      try {
+        const res = await fetch(sessionUrl);
+        const data = await res.json();
+
+        const badge = document.getElementById("status-badge");
+        badge.textContent = data.status;
+        badge.className = "status-badge status-" + data.status;
+        document.getElementById("spinner").style.display =
+          terminal.includes(data.status) ? "none" : "inline-block";
+
+        renderMessages(data.messages);
+
+        const summaryBlock = document.getElementById("summary-block");
+        if (data.summary) {
+          summaryBlock.innerHTML = `<div class="summary"><strong>Outcome:</strong> ${data.summary}</div>`;
+        }
+
+        status = data.status;
+      } catch (e) {}
+
+      if (!terminal.includes(status)) {
+        setTimeout(poll, 5000);
+      }
+    }
+
+    if (!terminal.includes(status)) {
+      setTimeout(poll, 5000);
+    }
+  </script>
+</body>
+</html>

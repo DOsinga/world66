@@ -13,5 +13,6 @@ urlpatterns = [
     path("passport/", include("passport_app.urls")),
     path("regions", RedirectView.as_view(url="/regions/", permanent=False)),
     path("regions/", include("regions_app.urls")),
+    path("concierge/", include("concierge.urls")),
     path("<path:path>", views.location_or_section, name="location_or_section"),
 ]

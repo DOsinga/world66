@@ -160,6 +160,27 @@
 </div>
 {% endif %}
 
+{% if page.page_type == "poi" and page.meta.booking_url %}
+<div class="booking-card">
+  <div class="booking-card-header">
+    <span class="booking-label">Where to book</span>
+    {% if page.meta.price %}<span class="booking-price">{{ page.meta.price }} per person</span>{% endif %}
+    {% if page.meta.duration %}<span class="booking-duration">{{ page.meta.duration }}</span>{% endif %}
+  </div>
+  <a href="{{ page.meta.booking_url }}" class="btn btn-book" target="_blank" rel="noopener noreferrer">Book directly</a>
+  <button class="btn btn-concierge" onclick="toggleConcierge()">Arrange via world66 Concierge</button>
+  <div id="concierge-form-wrap" style="display:none; margin-top:1rem;">
+    {% include "concierge/_form.html" with provider=page %}
+  </div>
+</div>
+<script>
+function toggleConcierge() {
+  var w = document.getElementById('concierge-form-wrap');
+  w.style.display = w.style.display === 'none' ? '' : 'none';
+}
+</script>
+{% endif %}
+
 {% if page.meta.tagline %}
 <p class="page-tagline">{{ page.meta.tagline }}</p>
 {% endif %}

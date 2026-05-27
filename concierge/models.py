@@ -7,9 +7,13 @@ class NegotiationSession(models.Model):
         ("pending", "Pending"),
         ("contacting", "Contacting"),
         ("negotiating", "Negotiating"),
-        ("agreed", "Agreed"),
+        ("pending_confirmation", "Offer Pending"),
+        ("confirmed", "Confirmed"),
+        ("cancelled", "Cancelled"),
         ("failed", "Failed"),
     ]
+
+    TERMINAL_STATUSES = {"confirmed", "cancelled", "failed"}
 
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     provider_path = models.CharField(max_length=500)
@@ -19,7 +23,9 @@ class NegotiationSession(models.Model):
     user_email = models.EmailField(blank=True)
     user_whatsapp = models.CharField(max_length=50, blank=True)
     prefs = models.JSONField(default=dict)
-    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default="pending")
+    status = models.CharField(max_length=25, choices=STATUS_CHOICES, default="pending")
+    proposed_offer = models.JSONField(default=dict, blank=True)
+    group_id = models.UUIDField(null=True, blank=True, db_index=True)
     summary = models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

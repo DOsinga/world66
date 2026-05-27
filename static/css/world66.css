@@ -2691,3 +2691,230 @@ img { max-width: 100%; height: auto; }
     text-align: center;
   }
 }
+
+/* ─── Similar bookable POIs in concierge form ────────────────────────────── */
+
+.cform-similar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.cform-similar-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 8px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--paper-3);
+  background: #fff;
+}
+
+.cform-similar-item:hover {
+  border-color: var(--accent);
+}
+
+.cform-similar-item input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
+  accent-color: var(--accent);
+  flex-shrink: 0;
+}
+
+.cform-similar-name {
+  flex: 1;
+  color: var(--ink);
+}
+
+.cform-similar-price {
+  font-size: 12px;
+  color: var(--mute);
+}
+
+/* ─── Concierge session page ─────────────────────────────────────────────── */
+
+.session-wrap {
+  max-width: 660px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+}
+
+.session-header {
+  margin-bottom: 24px;
+}
+
+.session-title {
+  font-family: var(--serif-font, Georgia, serif);
+  font-size: 1.5rem;
+  margin: 0 0 6px;
+}
+
+.session-meta {
+  font-size: 13px;
+  color: var(--mute);
+  margin: 0;
+}
+
+.session-waiting {
+  font-size: 14px;
+  color: var(--mute);
+  font-style: italic;
+  margin: 0 0 20px;
+}
+
+/* Status badge */
+.status-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.status-pending, .status-contacting { background: #fef3c7; color: #92400e; }
+.status-negotiating { background: #dbeafe; color: #1e40af; }
+.status-pending_confirmation { background: #fde68a; color: #78350f; }
+.status-confirmed { background: #d1fae5; color: #065f46; }
+.status-cancelled { background: #f3f4f6; color: #6b7280; }
+.status-failed { background: #fee2e2; color: #991b1b; }
+
+.spinner {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 2px solid #ccc;
+  border-top-color: var(--ink);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* Offer card */
+.offer-card {
+  background: #fffbeb;
+  border: 1.5px solid #f59e0b;
+  border-radius: 6px;
+  padding: 20px 22px;
+  margin-bottom: 24px;
+}
+
+.offer-card-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #92400e;
+  margin-bottom: 10px;
+}
+
+.offer-summary {
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--ink);
+  margin: 0 0 12px;
+}
+
+.offer-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.offer-chip {
+  background: #fef3c7;
+  color: #78350f;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
+
+.btn-confirm-offer {
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 10px 22px;
+  background: #f59e0b;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.btn-confirm-offer:hover {
+  background: #d97706;
+}
+
+/* Outcome cards */
+.outcome-card {
+  border-radius: 6px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+}
+
+.outcome-card--confirmed { background: #d1fae5; border-left: 3px solid #10b981; }
+.outcome-card--cancelled { background: #f3f4f6; border-left: 3px solid #9ca3af; }
+.outcome-card--failed    { background: #fee2e2; border-left: 3px solid #ef4444; }
+
+.outcome-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  margin-bottom: 8px;
+  color: var(--ink);
+}
+
+.outcome-summary {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink);
+  margin: 0;
+}
+
+/* Message thread */
+.thread {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.msg {
+  max-width: 75%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.msg.outbound {
+  background: #dcf8c6;
+  align-self: flex-end;
+  border-bottom-right-radius: 3px;
+}
+
+.msg.inbound {
+  background: var(--paper-2);
+  align-self: flex-start;
+  border-bottom-left-radius: 3px;
+}
+
+.msg .ts {
+  font-size: 11px;
+  color: #999;
+  margin-top: 4px;
+  text-align: right;
+}

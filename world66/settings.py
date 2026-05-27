@@ -93,6 +93,8 @@ EMAIL_HOST_USER = os.environ.get("EMAIL_HOST_USER", "")
 EMAIL_HOST_PASSWORD = os.environ.get("EMAIL_HOST_PASSWORD", "")
 DEFAULT_FROM_EMAIL = os.environ.get("DEFAULT_FROM_EMAIL", "world66 Concierge <concierge@world66.ai>")
 
+SITE_URL = os.environ.get("SITE_URL", "http://localhost:8066")
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/6.0/topics/i18n/

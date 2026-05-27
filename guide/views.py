@@ -12,7 +12,32 @@ from django.utils.safestring import mark_safe
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
+    _load_page_from_file,
 )
+
+
+def _similar_bookable_pois(poi, limit=3):
+    """Return up to limit other bookable POIs in the same directory tree as poi."""
+    if "/" not in poi.path:
+        return []
+    parent_path = poi.path.rsplit("/", 1)[0]
+    parent_dir = CONTENT_DIR / parent_path
+    if not parent_dir.is_dir():
+        return []
+    results = []
+    for md_file in sorted(parent_dir.rglob("*.md")):
+        if len(results) >= limit:
+            break
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        if url_path == poi.path:
+            continue
+        page = _load_page_from_file(md_file, url_path)
+        if page and page.page_type == "poi" and page.meta.get("booking_url"):
+            results.append(page)
+    return results
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
@@ -252,6 +277,7 @@ def location_or_section(request, path):
         "hero_image_license": hero_image_license,
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
+        "similar_pois": _similar_bookable_pois(page) if page.page_type == "poi" and page.meta.get("booking_url") else [],
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,

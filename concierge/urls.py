@@ -9,4 +9,5 @@ urlpatterns = [
     path("webhook", views.twilio_webhook, name="webhook"),
     path("session/<uuid:session_id>", views.session_status, name="session_status"),
     path("session/<uuid:session_id>.json", views.session_json, name="session_json"),
+    path("session/<uuid:session_id>/confirm", views.confirm_offer, name="confirm_offer"),
 ]

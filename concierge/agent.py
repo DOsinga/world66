@@ -17,15 +17,74 @@ _running = set()
 def _notify_user(session):
     if not session.user_email:
         return
-    outcome = "Good news" if session.status == "agreed" else "Update"
-    subject = f"{outcome} from your world66 Concierge — {session.provider_name}"
+    if session.status == "confirmed":
+        subject = f"Booking confirmed — {session.provider_name}"
+        outcome = "Great news — your booking is confirmed!"
+    elif session.status == "cancelled":
+        subject = f"No longer needed — {session.provider_name}"
+        outcome = "We've cancelled this negotiation because a deal was reached with another provider."
+    else:
+        subject = f"Update from your world66 Concierge — {session.provider_name}"
+        outcome = "The negotiation has ended."
     body = (
         f"Hi {session.user_name},\n\n"
-        f"Your world66 Concierge has finished negotiating with {session.provider_name}.\n\n"
+        f"{outcome}\n\n"
         f"{session.summary}\n\n"
         f"— world66 Concierge\n"
     )
     send_mail(subject, body, settings.DEFAULT_FROM_EMAIL, [session.user_email], fail_silently=True)
+
+
+def _notify_user_offer(session):
+    if not session.user_email:
+        return
+    offer = session.proposed_offer
+    site_url = getattr(settings, "SITE_URL", "http://localhost:8066")
+    session_url = f"{site_url}/concierge/session/{session.id}"
+    subject = f"Offer received from {session.provider_name} — confirm?"
+    body = (
+        f"Hi {session.user_name},\n\n"
+        f"Your world66 Concierge has received an offer from {session.provider_name}:\n\n"
+        f"{offer.get('summary', '')}\n"
+    )
+    if offer.get("price"):
+        body += f"\nPrice: {offer['price']} per person"
+    if offer.get("date"):
+        body += f"\nDate: {offer['date']}"
+    body += (
+        f"\n\nTo confirm this booking, visit:\n{session_url}\n\n"
+        f"— world66 Concierge\n"
+    )
+    send_mail(subject, body, settings.DEFAULT_FROM_EMAIL, [session.user_email], fail_silently=True)
+
+
+def _cancel_siblings(confirmed_session):
+    """Cancel all other sessions in the same group and notify their providers."""
+    if not confirmed_session.group_id:
+        return
+    siblings = NegotiationSession.objects.filter(
+        group_id=confirmed_session.group_id,
+    ).exclude(id=confirmed_session.id).exclude(
+        status__in=NegotiationSession.TERMINAL_STATUSES
+    )
+    for sibling in siblings:
+        if sibling.provider_whatsapp:
+            body = (
+                "Hi, thank you very much for your time! We've managed to arrange something "
+                "with another provider for this occasion. We hope to be in touch another time. "
+                "Best regards, world66 Concierge."
+            )
+            try:
+                sid = send_message(sibling.provider_whatsapp, body)
+                Message.objects.create(
+                    session=sibling, direction="outbound", body=body, twilio_sid=sid
+                )
+            except Exception:
+                pass
+        sibling.status = "cancelled"
+        sibling.summary = f"Booking arranged with {confirmed_session.provider_name} instead."
+        sibling.save(update_fields=["status", "summary", "updated_at"])
+        _notify_user(sibling)
 
 
 def _build_system_prompt(session):
@@ -60,9 +119,10 @@ def _build_system_prompt(session):
         "Rules:",
         "- Always present yourself as 'world66 Concierge', not as the traveller.",
         "- Be friendly, concise, and professional.",
-        "- Confirm date/time, group size, programme, and final price before closing.",
-        "- After at most 5 exchange rounds, call close_session.",
-        "- If the provider is unresponsive or cannot meet requirements, close as failed.",
+        "- NEVER accept an offer from the provider yourself. When they make a concrete offer "
+        "  (date, price, programme), always call propose_to_user so the traveller can confirm.",
+        "- Only call close_session if the provider is unresponsive or cannot meet requirements at all.",
+        "- After at most 5 exchange rounds, either propose_to_user or close_session.",
     ]
     return "\n".join(lines)
 
@@ -85,22 +145,44 @@ _TOOLS = [
         "input_schema": {"type": "object", "properties": {}},
     },
     {
-        "name": "close_session",
-        "description": "Mark the session as agreed or failed and write a summary.",
+        "name": "propose_to_user",
+        "description": (
+            "Forward a concrete offer from the provider to the traveller for confirmation. "
+            "Call this whenever the provider quotes a price, date, or programme. "
+            "Never accept an offer yourself — always forward it to the traveller via this tool."
+        ),
         "input_schema": {
             "type": "object",
             "properties": {
-                "status": {
-                    "type": "string",
-                    "enum": ["agreed", "failed"],
-                    "description": "Outcome of the negotiation.",
-                },
                 "summary": {
                     "type": "string",
-                    "description": "Plain-English summary for the traveller.",
+                    "description": "Plain-English summary of the offer for the traveller.",
+                },
+                "price": {"type": "string", "description": "Offered price per person."},
+                "date": {"type": "string", "description": "Offered date and time."},
+                "details": {
+                    "type": "string",
+                    "description": "Any other relevant details (programme, inclusions, etc).",
                 },
             },
-            "required": ["status", "summary"],
+            "required": ["summary"],
+        },
+    },
+    {
+        "name": "close_session",
+        "description": (
+            "Mark the session as failed. Only use this if the provider is unresponsive "
+            "or fundamentally cannot meet the traveller's requirements."
+        ),
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "summary": {
+                    "type": "string",
+                    "description": "Plain-English explanation for the traveller.",
+                },
+            },
+            "required": ["summary"],
         },
     },
 ]
@@ -114,20 +196,24 @@ def _execute_tool(session, tool_name, tool_input):
         return "Message sent."
 
     if tool_name == "get_messages":
-        msgs = list(
-            session.messages.values("direction", "body", "timestamp")
-        )
+        msgs = list(session.messages.values("direction", "body", "timestamp"))
         for m in msgs:
             m["timestamp"] = m["timestamp"].isoformat()
         return json.dumps(msgs)
 
+    if tool_name == "propose_to_user":
+        session.proposed_offer = tool_input
+        session.status = "pending_confirmation"
+        session.save(update_fields=["proposed_offer", "status", "updated_at"])
+        _notify_user_offer(session)
+        return "Offer forwarded to traveller. Waiting for their confirmation."
+
     if tool_name == "close_session":
-        session.status = tool_input["status"]
+        session.status = "failed"
         session.summary = tool_input["summary"]
         session.save(update_fields=["status", "summary", "updated_at"])
-        if session.user_whatsapp:
-            _notify_user(session)
-        return "Session closed."
+        _notify_user(session)
+        return "Session closed as failed."
 
     return f"Unknown tool: {tool_name}"
 
@@ -145,9 +231,36 @@ def run_agent(session_id):
             _running.discard(session_id)
 
 
+def confirm_booking(session_id):
+    """Called when the user confirms an offer. Sends confirmation to provider and cancels siblings."""
+    session = NegotiationSession.objects.get(id=session_id)
+    if session.status != "pending_confirmation":
+        return
+
+    offer = session.proposed_offer
+    confirmation = (
+        f"Great news — the traveller has confirmed! "
+        f"{offer.get('summary', 'We confirm the booking as discussed.')} "
+        f"Please let us know if you need any further details. Thank you!"
+    )
+    try:
+        sid = send_message(session.provider_whatsapp, confirmation)
+        Message.objects.create(
+            session=session, direction="outbound", body=confirmation, twilio_sid=sid
+        )
+    except Exception:
+        pass
+
+    session.status = "confirmed"
+    session.summary = offer.get("summary", "Booking confirmed.")
+    session.save(update_fields=["status", "summary", "updated_at"])
+    _notify_user(session)
+    _cancel_siblings(session)
+
+
 def _do_run(session_id):
     session = NegotiationSession.objects.get(id=session_id)
-    if session.status in ("agreed", "failed"):
+    if session.status in NegotiationSession.TERMINAL_STATUSES | {"pending_confirmation"}:
         return
 
     session.status = "contacting" if not session.messages.exists() else "negotiating"
@@ -167,7 +280,6 @@ def _do_run(session_id):
         for m in msgs:
             role = "assistant" if m["direction"] == "outbound" else "user"
             history.append({"role": role, "content": m["body"]})
-        # Anthropic requires history to start with a user message.
         if history[0]["role"] != "user":
             history.insert(0, {"role": "user", "content": "Continue the negotiation."})
 
@@ -180,17 +292,15 @@ def _do_run(session_id):
             messages=history,
         )
 
-        # Append assistant turn to history
         history.append({"role": "assistant", "content": response.content})
 
         if response.stop_reason == "end_turn":
             break
-
         if response.stop_reason != "tool_use":
             break
 
         tool_results = []
-        closed = False
+        stop = False
         for block in response.content:
             if block.type != "tool_use":
                 continue
@@ -200,10 +310,10 @@ def _do_run(session_id):
                 "tool_use_id": block.id,
                 "content": result,
             })
-            if block.name == "close_session":
-                closed = True
+            if block.name in ("close_session", "propose_to_user"):
+                stop = True
 
         history.append({"role": "user", "content": tool_results})
 
-        if closed:
+        if stop:
             break

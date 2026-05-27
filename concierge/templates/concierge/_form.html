@@ -45,6 +45,21 @@
     </div>
   </div>
 
+  {% if similar_pois %}
+  <div class="cform-field cform-field--full">
+    <div class="cform-label">Also reach out to <span class="cform-hint">— contact all, cancel others when one confirms</span></div>
+    <div class="cform-similar-list">
+      {% for similar in similar_pois %}
+      <label class="cform-similar-item">
+        <input type="checkbox" name="also_contact" value="{{ similar.path }}" checked>
+        <span class="cform-similar-name">{{ similar.title }}</span>
+        {% if similar.meta.price %}<span class="cform-similar-price">{{ similar.meta.price }}</span>{% endif %}
+      </label>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
   <div class="cform-footer">
     <button type="submit" class="cform-submit">Send Concierge →</button>
     <p class="cform-footnote">The Concierge will message {{ provider.title }} on your behalf and update you here when it hears back.</p>

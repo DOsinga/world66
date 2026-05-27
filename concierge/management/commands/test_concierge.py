@@ -43,6 +43,7 @@ class Command(BaseCommand):
         parser.add_argument("--max", default="", dest="max_price")
         parser.add_argument("--notes", default="")
         parser.add_argument("--name", default="Test User", dest="user_name")
+        parser.add_argument("--email", default="", dest="user_email")
 
     def handle(self, *args, **options):
         path = options["provider_path"]
@@ -58,6 +59,7 @@ class Command(BaseCommand):
             provider_name=poi.title,
             provider_whatsapp=provider_whatsapp,
             user_name=options["user_name"],
+            user_email=options["user_email"],
             prefs={
                 "dates": options["dates"],
                 "group_size": options["group_size"],

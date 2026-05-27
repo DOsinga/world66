@@ -3,6 +3,7 @@ import threading
 
 import anthropic
 from django.conf import settings
+from django.core.mail import send_mail
 
 from .models import NegotiationSession, Message
 from .whatsapp import send_message
@@ -11,6 +12,20 @@ _client = anthropic.Anthropic()
 
 _lock = threading.Lock()
 _running = set()
+
+
+def _notify_user(session):
+    if not session.user_email:
+        return
+    outcome = "Good news" if session.status == "agreed" else "Update"
+    subject = f"{outcome} from your world66 Concierge — {session.provider_name}"
+    body = (
+        f"Hi {session.user_name},\n\n"
+        f"Your world66 Concierge has finished negotiating with {session.provider_name}.\n\n"
+        f"{session.summary}\n\n"
+        f"— world66 Concierge\n"
+    )
+    send_mail(subject, body, settings.DEFAULT_FROM_EMAIL, [session.user_email], fail_silently=True)
 
 
 def _build_system_prompt(session):
@@ -110,6 +125,8 @@ def _execute_tool(session, tool_name, tool_input):
         session.status = tool_input["status"]
         session.summary = tool_input["summary"]
         session.save(update_fields=["status", "summary", "updated_at"])
+        if session.user_whatsapp:
+            _notify_user(session)
         return "Session closed."
 
     return f"Unknown tool: {tool_name}"

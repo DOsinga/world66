@@ -2492,3 +2492,202 @@ img { max-width: 100%; height: auto; }
     max-width: none;
   }
 }
+
+/* ─── Booking card (POI pages with booking_url) ──────────────────────────── */
+
+.booking-card {
+  background: var(--paper-2);
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+  padding: 20px 22px;
+  margin: 28px 0;
+}
+
+.booking-card-header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.booking-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+}
+
+.booking-meta {
+  font-size: 13px;
+  color: var(--mute);
+}
+
+.booking-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+}
+
+.btn-book,
+.btn-concierge {
+  display: inline-block;
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 9px 18px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.btn-book {
+  background: var(--accent);
+  color: #fff;
+}
+
+.btn-book:hover {
+  background: var(--accent-ink);
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-concierge {
+  background: transparent;
+  color: var(--accent-ink);
+  border: 1.5px solid var(--accent);
+}
+
+.btn-concierge:hover,
+.btn-concierge.active {
+  background: var(--red-bg);
+}
+
+/* ─── Concierge form ─────────────────────────────────────────────────────── */
+
+.concierge-form-wrap {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--paper-3);
+}
+
+.concierge-form-intro {
+  font-size: 14px;
+  color: var(--mute);
+  margin: 0 0 18px;
+  line-height: 1.6;
+}
+
+.cform-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px 20px;
+}
+
+.cform-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.cform-field--narrow {
+  grid-column: span 1;
+}
+
+.cform-field--full {
+  grid-column: 1 / -1;
+}
+
+.cform-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--mute);
+}
+
+.cform-hint {
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 10px;
+}
+
+.cform-input {
+  font-family: var(--body-font);
+  font-size: 14px;
+  color: var(--ink);
+  background: #fff;
+  border: 1px solid var(--paper-3);
+  border-radius: 4px;
+  padding: 8px 10px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: border-color 0.15s;
+}
+
+.cform-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.cform-textarea {
+  resize: vertical;
+  min-height: 72px;
+}
+
+.cform-footer {
+  margin-top: 18px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.cform-submit {
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 10px 22px;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+
+.cform-submit:hover {
+  background: var(--accent-ink);
+}
+
+.cform-footnote {
+  font-size: 12px;
+  color: var(--mute);
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 600px) {
+  .cform-grid {
+    grid-template-columns: 1fr;
+  }
+  .booking-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .btn-book,
+  .btn-concierge {
+    text-align: center;
+  }
+}

@@ -17,6 +17,7 @@ from .whatsapp import validate_request
 def start(request):
     provider_path = request.POST.get("provider_path", "").strip()
     user_name = request.POST.get("user_name", "").strip()
+    user_email = request.POST.get("user_email", "").strip()
     user_whatsapp = request.POST.get("user_whatsapp", "").strip()
 
     poi = load_page(provider_path)
@@ -43,13 +44,17 @@ def start(request):
         provider_name=poi.title,
         provider_whatsapp=provider_whatsapp,
         user_name=user_name,
+        user_email=user_email,
         user_whatsapp=user_whatsapp,
         prefs=prefs,
     )
 
     threading.Thread(target=run_agent, args=(session.id,), daemon=True).start()
 
-    return redirect("concierge:session_status", session_id=session.id)
+    return render(request, "concierge/confirmation.html", {
+        "session": session,
+        "provider": poi,
+    })
 
 
 @csrf_exempt

@@ -16,6 +16,7 @@ class NegotiationSession(models.Model):
     provider_name = models.CharField(max_length=200)
     provider_whatsapp = models.CharField(max_length=50, blank=True)
     user_name = models.CharField(max_length=200)
+    user_email = models.EmailField(blank=True)
     user_whatsapp = models.CharField(max_length=50, blank=True)
     prefs = models.JSONField(default=dict)
     status = models.CharField(max_length=20, choices=STATUS_CHOICES, default="pending")

@@ -164,19 +164,26 @@
 <div class="booking-card">
   <div class="booking-card-header">
     <span class="booking-label">Where to book</span>
-    {% if page.meta.price %}<span class="booking-price">{{ page.meta.price }} per person</span>{% endif %}
-    {% if page.meta.duration %}<span class="booking-duration">{{ page.meta.duration }}</span>{% endif %}
+    <span class="booking-meta">
+      {% if page.meta.price %}<span class="booking-price">{{ page.meta.price }} per person</span>{% endif %}
+      {% if page.meta.duration %}<span class="booking-duration">· {{ page.meta.duration }}</span>{% endif %}
+    </span>
   </div>
-  <a href="{{ page.meta.booking_url }}" class="btn btn-book" target="_blank" rel="noopener noreferrer">Book directly</a>
-  <button class="btn btn-concierge" onclick="toggleConcierge()">Arrange via world66 Concierge</button>
-  <div id="concierge-form-wrap" style="display:none; margin-top:1rem;">
+  <div class="booking-actions">
+    <a href="{{ page.meta.booking_url }}" class="btn-book" target="_blank" rel="noopener noreferrer">Book directly</a>
+    <button class="btn-concierge" id="concierge-toggle" onclick="toggleConcierge()">Arrange via world66 Concierge</button>
+  </div>
+  <div id="concierge-form-wrap" class="concierge-form-wrap" hidden>
     {% include "concierge/_form.html" with provider=page %}
   </div>
 </div>
 <script>
 function toggleConcierge() {
-  var w = document.getElementById('concierge-form-wrap');
-  w.style.display = w.style.display === 'none' ? '' : 'none';
+  var wrap = document.getElementById('concierge-form-wrap');
+  var btn = document.getElementById('concierge-toggle');
+  var hidden = wrap.hasAttribute('hidden');
+  if (hidden) { wrap.removeAttribute('hidden'); btn.classList.add('active'); }
+  else { wrap.setAttribute('hidden', ''); btn.classList.remove('active'); }
 }
 </script>
 {% endif %}

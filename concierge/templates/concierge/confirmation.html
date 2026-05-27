@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Concierge — On it</title>
+  <link rel="stylesheet" href="/static/css/world66.css">
+  <style>
+    .confirm-wrap {
+      max-width: 520px;
+      margin: 80px auto;
+      padding: 0 20px;
+      text-align: center;
+    }
+    .confirm-icon {
+      font-size: 2.4rem;
+      margin-bottom: 20px;
+      color: var(--accent);
+    }
+    .confirm-title {
+      font-family: var(--serif-font, Georgia, serif);
+      font-size: 1.6rem;
+      margin: 0 0 12px;
+      color: var(--ink);
+    }
+    .confirm-body {
+      font-size: 15px;
+      line-height: 1.7;
+      color: var(--mute);
+      margin: 0 0 32px;
+    }
+    .confirm-body strong {
+      color: var(--ink);
+    }
+    .confirm-back {
+      font-family: var(--label-font);
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--accent);
+    }
+    .confirm-detail {
+      margin-top: 40px;
+      padding: 16px 20px;
+      background: var(--paper-2);
+      border-radius: 6px;
+      font-size: 13px;
+      color: var(--mute);
+      text-align: left;
+    }
+    .confirm-detail a {
+      color: var(--accent);
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="confirm-wrap">
+    <div class="confirm-icon">✉</div>
+    <h1 class="confirm-title">Your Concierge is on it</h1>
+    <p class="confirm-body">
+      We're contacting <strong>{{ provider.title }}</strong> on your behalf to arrange a booking.<br>
+      {% if session.user_email %}
+      We'll email <strong>{{ session.user_email }}</strong> as soon as we hear back.
+      {% else %}
+      Check back on this page for updates.
+      {% endif %}
+    </p>
+    <a class="confirm-back" href="/{{ provider.path }}">← Back to {{ provider.title }}</a>
+
+    <div class="confirm-detail">
+      Want to follow the conversation?
+      <a href="{% url 'concierge:session_status' session_id=session.id %}">View live transcript →</a>
+    </div>
+  </div>
+</body>
+</html>

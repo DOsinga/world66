@@ -5,8 +5,12 @@ snippet: Melbourne's biggest park, home to the zoo and hot-air balloons
 latitude: -37.7862
 longitude: 144.9495
 tags:
-- things_to_do
-- landmark
+  - things_to_do
+  - carlton
+  - landmark
+  - park
+story: >
+  Royal Park was the departure point for the Burke and Wills Expedition on 20 August 1860 — one of the most celebrated and disastrous expeditions in Australian history. Robert O'Hara Burke and William John Wills led 18 men, 25 camels, and a large supply train out of Melbourne in front of cheering crowds before an audience of 15,000 people. They became the first Europeans to cross Australia from south to north, but both men died of starvation on the return journey. A memorial stone in the park marks the spot from which they departed.
 ---
 
 Melbourne's biggest park at 180 hectares, Royal Park is a favourite with joggers, dog walkers, and cyclists. Hot air balloons sometimes launch from here on calm mornings, creating a striking scene against the city skyline. The Melbourne Zoo sits within the park and deserves at least half a day.

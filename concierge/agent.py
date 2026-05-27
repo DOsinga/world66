@@ -155,20 +155,16 @@ def _do_run(session_id):
 
     system = _build_system_prompt(session)
 
+    INITIAL_PROMPT = (
+        "Please introduce yourself to the provider and start arranging the booking "
+        "according to the traveller's preferences."
+    )
+
     msgs = list(session.messages.order_by("timestamp").values("direction", "body"))
-    history = []
+    history = [{"role": "user", "content": INITIAL_PROMPT}]
     for m in msgs:
         role = "assistant" if m["direction"] == "outbound" else "user"
         history.append({"role": role, "content": m["body"]})
-
-    if not history:
-        history.append({
-            "role": "user",
-            "content": (
-                "Please introduce yourself to the provider and start arranging the booking "
-                "according to the traveller's preferences."
-            ),
-        })
 
     while True:
         response = _client.messages.create(

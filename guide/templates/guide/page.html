@@ -172,11 +172,29 @@
   <div class="booking-actions">
     <a href="{{ page.meta.booking_url }}" class="btn-book" target="_blank" rel="noopener noreferrer">Book directly</a>
     <button class="btn-concierge" id="concierge-toggle" onclick="toggleConcierge()">Arrange via world66 Concierge</button>
+    <button class="btn-concierge-info" onclick="openConciergeInfo()" aria-label="How does it work?">&#9432;</button>
   </div>
   <div id="concierge-form-wrap" class="concierge-form-wrap" hidden>
     {% include "concierge/_form.html" with provider=page %}
   </div>
 </div>
+
+<div id="concierge-modal" class="concierge-modal" hidden aria-modal="true" role="dialog">
+  <div class="concierge-modal-box">
+    <button class="concierge-modal-close" onclick="closeConciergeInfo()" aria-label="Close">&times;</button>
+    <h2 class="concierge-modal-title">How the world66 Concierge works</h2>
+    <ol class="concierge-modal-steps">
+      <li><strong>Tell us your preferences</strong> — dates, group size, target price, and any special requirements.</li>
+      <li><strong>We contact the provider</strong> — the Concierge messages {{ page.title }} on WhatsApp and negotiates on your behalf.</li>
+      <li><strong>We handle the haggling</strong> — you set a target price and a ceiling. The Concierge opens below the listed rate and works toward your target without ever revealing your limit.</li>
+      <li><strong>You confirm the deal</strong> — when a concrete offer is on the table, we forward it to you. Nothing is booked until you click Confirm.</li>
+      <li><strong>We wrap up the others</strong> — if you contacted multiple providers at once, we politely cancel the remaining conversations the moment you confirm one.</li>
+      <li><strong>You get an email</strong> — with the full outcome once everything is settled.</li>
+    </ol>
+    <p class="concierge-modal-note">The Concierge presents itself as "world66 Concierge", not as you personally.</p>
+  </div>
+</div>
+
 <script>
 function toggleConcierge() {
   var wrap = document.getElementById('concierge-form-wrap');
@@ -185,6 +203,17 @@ function toggleConcierge() {
   if (hidden) { wrap.removeAttribute('hidden'); btn.classList.add('active'); }
   else { wrap.setAttribute('hidden', ''); btn.classList.remove('active'); }
 }
+function openConciergeInfo() {
+  document.getElementById('concierge-modal').removeAttribute('hidden');
+  document.body.style.overflow = 'hidden';
+}
+function closeConciergeInfo() {
+  document.getElementById('concierge-modal').setAttribute('hidden', '');
+  document.body.style.overflow = '';
+}
+document.getElementById('concierge-modal').addEventListener('click', function(e) {
+  if (e.target === this) closeConciergeInfo();
+});
 </script>
 {% endif %}
 

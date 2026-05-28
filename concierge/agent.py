@@ -238,11 +238,15 @@ def confirm_booking(session_id):
         return
 
     offer = session.proposed_offer
-    confirmation = (
-        f"Great news — the traveller has confirmed! "
-        f"{offer.get('summary', 'We confirm the booking as discussed.')} "
-        f"Please let us know if you need any further details. Thank you!"
-    )
+    parts = ["Great news — the traveller has confirmed the booking!"]
+    if offer.get("date"):
+        parts.append(f"Date: {offer['date']}")
+    if offer.get("price"):
+        parts.append(f"Price: {offer['price']}")
+    if offer.get("details"):
+        parts.append(offer["details"])
+    parts.append("Please let us know if you need anything else. Looking forward to it!")
+    confirmation = "\n".join(parts)
     msg = Message.objects.create(
         session=session, direction="outbound", body=confirmation
     )

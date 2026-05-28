@@ -4,9 +4,12 @@ Interactive concierge test — no Twilio needed.
 Runs the agent against a fake provider session in your terminal.
 After each outbound message you type a reply as the "provider".
 
-Usage:
+Create a new session:
     python manage.py test_concierge
     python manage.py test_concierge europe/netherlands/amersfoort/amersfoort_city_walk
+
+Resume an existing session (created via the website):
+    python manage.py test_concierge --session-id <uuid>
 """
 
 import uuid
@@ -23,7 +26,6 @@ DEFAULT_PATH = "europe/netherlands/amersfoort/amersfoort_city_walk"
 
 
 def _fake_send(to_number, body):
-    # Called instead of Twilio; return a fake SID so the Message is saved.
     return f"FAKE-{uuid.uuid4().hex[:8]}"
 
 
@@ -34,9 +36,11 @@ class Command(BaseCommand):
         parser.add_argument(
             "provider_path",
             nargs="?",
-            default=DEFAULT_PATH,
-            help="Content path to a bookable POI",
+            default=None,
+            help="Content path to a bookable POI (omit when using --session-id)",
         )
+        parser.add_argument("--session-id", dest="session_id", default=None,
+                            help="Resume an existing session by its UUID")
         parser.add_argument("--dates", default="mid-June, flexible")
         parser.add_argument("--group", default="2", dest="group_size")
         parser.add_argument("--target", default="", dest="target_price")
@@ -46,18 +50,42 @@ class Command(BaseCommand):
         parser.add_argument("--email", default="", dest="user_email")
 
     def handle(self, *args, **options):
-        path = options["provider_path"]
+        if options["session_id"]:
+            session = self._resume_session(options["session_id"])
+        else:
+            session = self._create_session(options)
+        if session:
+            self._run_loop(session)
+
+    def _resume_session(self, session_id):
+        try:
+            session = NegotiationSession.objects.get(id=session_id)
+        except NegotiationSession.DoesNotExist:
+            self.stderr.write(self.style.ERROR(f"Session not found: {session_id}"))
+            return None
+
+        self.stdout.write(self.style.SUCCESS(f"\nResuming: {session.provider_name}"))
+        self.stdout.write(f"Status: {session.status}")
+        self.stdout.write("─" * 60)
+
+        # Print the existing thread so the user has context
+        for msg in session.messages.order_by("timestamp"):
+            arrow = "→ CONCIERGE" if msg.direction == "outbound" else "← PROVIDER"
+            self.stdout.write(f"\n{arrow}:\n  {msg.body}")
+
+        return session
+
+    def _create_session(self, options):
+        path = options["provider_path"] or DEFAULT_PATH
         poi = load_page(path)
         if not poi:
             self.stderr.write(self.style.ERROR(f"POI not found: {path}"))
-            return
-
-        provider_whatsapp = poi.meta.get("whatsapp", "+0000000000")
+            return None
 
         session = NegotiationSession.objects.create(
             provider_path=path,
             provider_name=poi.title,
-            provider_whatsapp=provider_whatsapp,
+            provider_whatsapp=poi.meta.get("whatsapp", "+0000000000"),
             user_name=options["user_name"],
             user_email=options["user_email"],
             prefs={
@@ -70,33 +98,31 @@ class Command(BaseCommand):
             },
         )
 
-        self.stdout.write(self.style.SUCCESS(
-            f"\nStarting concierge session for: {poi.title}"
-        ))
-        self.stdout.write(f"Session ID: {session.id}\n")
+        self.stdout.write(self.style.SUCCESS(f"\nNew session: {poi.title}"))
+        self.stdout.write(f"Session ID: {session.id}")
+        self.stdout.write(f"Resume later: python manage.py test_concierge --session-id {session.id}")
         self.stdout.write("─" * 60)
+        return session
 
-        last_seen = 0
+    def _run_loop(self, session):
+        terminal = NegotiationSession.TERMINAL_STATUSES | {"pending_confirmation"}
+        last_seen = session.messages.count()
 
         with patch("concierge.agent.send_message", side_effect=_fake_send):
-            while session.status not in ("agreed", "failed"):
+            while session.status not in terminal:
                 _do_run(session.id)
                 session.refresh_from_db()
 
-                # Print any new outbound messages
-                new_msgs = list(
-                    session.messages.order_by("timestamp")[last_seen:]
-                )
+                new_msgs = list(session.messages.order_by("timestamp")[last_seen:])
                 last_seen = session.messages.count()
 
                 for msg in new_msgs:
-                    arrow = "→ CONCIERGE" if msg.direction == "outbound" else "← PROVIDER"
-                    self.stdout.write(f"\n{arrow}:\n  {msg.body}\n")
+                    if msg.direction == "outbound":
+                        self.stdout.write(f"\n→ CONCIERGE:\n  {msg.body}\n")
 
-                if session.status in ("agreed", "failed"):
+                if session.status in terminal:
                     break
 
-                # Prompt for provider reply
                 try:
                     reply = input("Provider reply (or 'quit'): ").strip()
                 except (EOFError, KeyboardInterrupt):
@@ -105,7 +131,6 @@ class Command(BaseCommand):
 
                 if reply.lower() in ("quit", "q", "exit"):
                     break
-
                 if not reply:
                     continue
 
@@ -119,7 +144,20 @@ class Command(BaseCommand):
                 session.save(update_fields=["status", "updated_at"])
 
         self.stdout.write("\n" + "─" * 60)
-        self.stdout.write(f"Final status: {self.style.SUCCESS(session.status)}")
-        if session.summary:
-            self.stdout.write(f"Summary: {session.summary}")
-        self.stdout.write(f"\nFull transcript at: /concierge/session/{session.id}\n")
+        session.refresh_from_db()
+
+        if session.status == "pending_confirmation":
+            offer = session.proposed_offer
+            self.stdout.write(self.style.WARNING("Offer pending user confirmation:"))
+            self.stdout.write(f"  {offer.get('summary', '')}")
+            if offer.get("price"):
+                self.stdout.write(f"  Price: {offer['price']}")
+            self.stdout.write(
+                f"\nConfirm at: http://localhost:8066/concierge/session/{session.id}"
+            )
+        else:
+            self.stdout.write(f"Status: {self.style.SUCCESS(session.status)}")
+            if session.summary:
+                self.stdout.write(f"Summary: {session.summary}")
+
+        self.stdout.write(f"\nTranscript: http://localhost:8066/concierge/session/{session.id}\n")

@@ -82,9 +82,9 @@ TWILIO_WHATSAPP_FROM = os.environ.get("TWILIO_WHATSAPP_NUMBER", "whatsapp:+14155
 
 # Email
 EMAIL_BACKEND = (
-    "django.core.mail.backends.smtp.EmailBackend"
-    if _PRODUCTION
-    else "django.core.mail.backends.console.EmailBackend"
+    "django.core.mail.backends.console.EmailBackend"
+    if not _PRODUCTION and not os.environ.get("EMAIL_HOST_USER")
+    else "django.core.mail.backends.smtp.EmailBackend"
 )
 EMAIL_HOST = os.environ.get("EMAIL_HOST", "smtp.gmail.com")
 EMAIL_PORT = int(os.environ.get("EMAIL_PORT", 587))

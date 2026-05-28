@@ -1,26 +1,8 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
-address: "Rua dos Andradas 464, 1st floor.   Manaus Center"
-email: "eco-discovery@bol.com.br"
-phone: "(5592xx) 32344737"
-url: "members.virtualtourist.com"
 ---
 
-The city of Manaus itself has few attractions. A city tour of 4, 5 hours is enough to visit the Main urban points. The real Amazon wonderland the traveller finds around Manaus, the flora and the fauna of the rainforest ..
+The city of Manaus itself can be seen in a day; the surrounding Amazon needs as much time as you can give it. Most visitors organise multi-day jungle lodges south of the city around Lake Mamori and Lake Juma, or longer expeditions into the dark waters of the Anavilhanas archipelago and the Jaú National Park upriver. For shorter excursions, the Encontro das Águas — the visible line where the black Rio Negro meets the muddy Solimões — is an easy half-day boat trip, often combined with a stop at a floating restaurant and an igarapé walk.
 
-### [CITY TOUR](/southamerica/brazil/manaus/day_trips/city_tour)
-
-The main attractions of Manaus, the Teatro Amazonas build in 1896, British Custom House & the Porto Flurtuante, Mercadso Municipal (the cast-iron structure was designed in 1882 by Adolfo Lisboa after the parisian Les Halles), the Palaçio Rio Negro, Museu di Índio, Arts center Chaminé ...
-
-
-
-[[rate it]](/southamerica/brazil/manaus/day_trips/city_tour)
-
-tel: (5592xx) 32344737
-
-url: [members.virtualtourist.com](http://members.virtualtourist.com/vt/lm/1ddc/?i=0)
-
-address: Rua dos Andradas 464, 1st floor. Manaus Center
-
-email: eco-discovery@bol.com.br
+To the north, Presidente Figueiredo (about 100 km) is the closest cool-off: a region of waterfalls, swimming holes and caves easily reached by bus. The Janauari Ecological Park and the giant Victoria water lilies are a quick boat ride from the port for travellers short on time.

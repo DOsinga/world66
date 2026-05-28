@@ -243,11 +243,13 @@ def confirm_booking(session_id):
         f"{offer.get('summary', 'We confirm the booking as discussed.')} "
         f"Please let us know if you need any further details. Thank you!"
     )
+    msg = Message.objects.create(
+        session=session, direction="outbound", body=confirmation
+    )
     try:
         sid = send_message(session.provider_whatsapp, confirmation)
-        Message.objects.create(
-            session=session, direction="outbound", body=confirmation, twilio_sid=sid
-        )
+        msg.twilio_sid = sid
+        msg.save(update_fields=["twilio_sid"])
     except Exception:
         pass
 

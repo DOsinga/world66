@@ -4,7 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 snippet: A relaxed cruise along the river Eem through Amersfoort's historic waterways and surrounding polder landscape.
 booking_url: https://world66.ai/concierge-test
-whatsapp: "+316141274349"
+whatsapp: "+31614274349"
 price: €18
 duration: 1.5 hours
 ---

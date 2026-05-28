@@ -1,5 +1,0 @@
-asia/japan/shikoku/tokushima
-australiaandpacific/cookislands/mauke
-europe/spain/basque_country_euskadi/guernika
-asia/pakistan/nowshera
-northamerica/canada/britishcolumbia/comox_valley

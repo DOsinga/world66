@@ -95,6 +95,9 @@ DEFAULT_FROM_EMAIL = os.environ.get("DEFAULT_FROM_EMAIL", "world66 Concierge <co
 
 SITE_URL = os.environ.get("SITE_URL", "http://localhost:8066")
 
+# Trust the X-Forwarded-Proto header from ngrok/reverse proxies
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/6.0/topics/i18n/

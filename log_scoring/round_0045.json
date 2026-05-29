@@ -1,0 +1,200 @@
+{
+  "round": 45,
+  "timestamp": "2026-04-11T19:26:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_mu": 24.59,
+      "prior_sigma": 5.61,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_mu": 28.0,
+      "prior_sigma": 5.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_mu": 24.2,
+      "prior_sigma": 5.83,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_mu": 21.39,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_mu": 22.31,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_mu": 22.21,
+      "prior_sigma": 4.64,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 21.67,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_mu": 22.04,
+      "prior_sigma": 4.85,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_mu": 22.25,
+      "prior_sigma": 5.39,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.7,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_mu": 21.77,
+      "prior_sigma": 4.81,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_mu": 22.45,
+      "prior_sigma": 5.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 20.89,
+      "prior_sigma": 3.14,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_mu": 22.34,
+      "prior_sigma": 5.5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_mu": 22.16,
+      "prior_sigma": 5.52,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 21.44,
+      "prior_sigma": 4.46,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_mu": 22.28,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_mu": 22.54,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 16.48,
+      "prior_sigma": 6.46,
+      "prior_n": 1
+    }
+  ]
+}

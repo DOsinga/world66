@@ -1,0 +1,5 @@
+europe/spain/galicia/ras_baixas
+northamerica/unitedstates/michigan/marquette
+asia/iran/tabriz
+europe/spain/murcia/lorca
+australiaandpacific/newzealand/chathamislands

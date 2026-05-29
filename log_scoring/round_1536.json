@@ -1,0 +1,200 @@
+{
+  "round": 1536,
+  "timestamp": "2026-04-13T10:29:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "samana",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 1.1928,
+      "prior_variance": 0.510992,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Encinitas",
+      "path": "northamerica/unitedstates/california/encinitas",
+      "prior_score": 0.3836,
+      "prior_variance": 0.417182,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_score": 0.0994,
+      "prior_variance": 0.424933,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 2.0091,
+      "prior_variance": 0.270157,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 1.5955,
+      "prior_variance": 0.420805,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 2.1588,
+      "prior_variance": 0.216294,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 0.1259,
+      "prior_variance": 0.440521,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_score": 0.745,
+      "prior_variance": 0.429153,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_score": 2.2604,
+      "prior_variance": 0.500674,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_score": 1.1408,
+      "prior_variance": 0.313712,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.3607,
+      "prior_variance": 0.431101,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_score": 2.1346,
+      "prior_variance": 0.325218,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.6819,
+      "prior_variance": 0.418665,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -2.5618,
+      "prior_variance": 0.682781,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": 0.2983,
+      "prior_variance": 0.349905,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": -0.2649,
+      "prior_variance": 0.330797,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Southern Highlands",
+      "path": "africa/tanzania/sothern_highlands",
+      "prior_score": -1.2506,
+      "prior_variance": 0.473491,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.6488,
+      "prior_variance": 0.319221,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": 0.5888,
+      "prior_variance": 0.332298,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.1117,
+      "prior_variance": 0.584737,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.4053,
+      "prior_variance": 0.52033,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince/banlung",
+      "prior_score": -1.5783,
+      "prior_variance": 0.409559,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -1.2601,
+      "prior_variance": 0.466977,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -3.2474,
+      "prior_variance": 0.506081,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1341,
+  "timestamp": "2026-04-12T22:22:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_rank": 3645,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_rank": 6137,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_rank": 4836,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_rank": 6100,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_rank": 4907,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_rank": 2780,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_rank": 3483,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_rank": 6678,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_rank": 7372,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_rank": 7578,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_rank": 5732,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_rank": 4311,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_rank": 5181,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "French Guiana",
+      "path": "southamerica/frenchguiana",
+      "prior_rank": 5598,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "tacloban city",
+      "path": "asia/philippines/taclobancity/tacloban_city",
+      "prior_rank": 4441,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_rank": 6809,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_rank": 5049,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_rank": 6691,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_rank": 6066,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_rank": 7009,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_rank": 3273,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_rank": 6019,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_rank": 7111,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_rank": 6350,
+      "prior_wins": 21,
+      "prior_n": 3
+    }
+  ]
+}

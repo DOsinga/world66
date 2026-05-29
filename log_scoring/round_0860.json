@@ -1,0 +1,200 @@
+{
+  "round": 860,
+  "timestamp": "2026-04-12T14:45:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 4.1028,
+      "prior_variance": 2.296815,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 8.3706,
+      "prior_variance": 1.578614,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 2.9216,
+      "prior_variance": 1.582522,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 2.117,
+      "prior_variance": 1.246278,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gojal Valley",
+      "path": "asia/pakistan/hunzavalley/gojal_valley",
+      "prior_score": 7.864,
+      "prior_variance": 4.432234,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_score": 5.2399,
+      "prior_variance": 1.799572,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -4.2044,
+      "prior_variance": 1.919091,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 1.7122,
+      "prior_variance": 1.378134,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 1.8266,
+      "prior_variance": 0.77232,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_score": -4.7451,
+      "prior_variance": 1.575229,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Guanica",
+      "path": "northamerica/puertorico/guanica",
+      "prior_score": 1.4613,
+      "prior_variance": 1.337289,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 1.0544,
+      "prior_variance": 1.361959,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.1496,
+      "prior_variance": 0.76086,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Victoria",
+      "path": "australiaandpacific/australia/victoria",
+      "prior_score": -0.5061,
+      "prior_variance": 1.320462,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -1.7036,
+      "prior_variance": 1.756721,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 1.9797,
+      "prior_variance": 1.545193,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/sheffield",
+      "prior_score": -2.056,
+      "prior_variance": 2.289121,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_score": -0.9923,
+      "prior_variance": 1.275013,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -4.6707,
+      "prior_variance": 1.045598,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -6.7668,
+      "prior_variance": 12.722965,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -1.781,
+      "prior_variance": 0.726185,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/yucatan/apizaco",
+      "prior_score": -4.7567,
+      "prior_variance": 1.140014,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -4.1173,
+      "prior_variance": 1.142945,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_score": -9.8578,
+      "prior_variance": 1.337791,
+      "prior_n": 1
+    }
+  ]
+}

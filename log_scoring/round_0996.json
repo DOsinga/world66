@@ -1,0 +1,200 @@
+{
+  "round": 996,
+  "timestamp": "2026-04-12T22:03:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_rank": 7716,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_rank": 8189,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_rank": 7756,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/west_bromwich",
+      "prior_rank": 8191,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_rank": 8224,
+      "prior_wins": 1,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_rank": 6840,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_rank": 7791,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southcarolina/deadwood",
+      "prior_rank": 7874,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lula",
+      "path": "northamerica/unitedstates/mississippi/lula",
+      "prior_rank": 7631,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_rank": 8184,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_rank": 7971,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_rank": 8101,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_rank": 7051,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_rank": 7799,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_rank": 8182,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_rank": 6647,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_rank": 8067,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_rank": 7550,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_rank": 7052,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_rank": 8186,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_rank": 7933,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_rank": 8211,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_rank": 7970,
+      "prior_wins": 6,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_rank": 7594,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

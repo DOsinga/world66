@@ -1,0 +1,200 @@
+{
+  "round": 1332,
+  "timestamp": "2026-04-12T22:22:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha'apai Group",
+      "path": "australiaandpacific/tonga/haapaigroup",
+      "prior_rank": 1693,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_rank": 2151,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_rank": 1439,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_rank": 2522,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_rank": 3326,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_rank": 3087,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_rank": 3260,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_rank": 2464,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_rank": 3082,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_rank": 2369,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_rank": 1731,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "1",
+      "path": "europe/france/val_disere/1",
+      "prior_rank": 3076,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_rank": 3235,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_rank": 2146,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_rank": 2962,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_rank": 2948,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_rank": 2174,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_rank": 1610,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_rank": 1120,
+      "prior_wins": 87,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_rank": 1349,
+      "prior_wins": 73,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_rank": 935,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_rank": 2703,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_rank": 2950,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_rank": 3309,
+      "prior_wins": 39,
+      "prior_n": 3
+    }
+  ]
+}

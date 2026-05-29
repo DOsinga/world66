@@ -1,0 +1,200 @@
+{
+  "round": 978,
+  "timestamp": "2026-04-12T22:02:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_rank": 154,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_rank": 2239,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Phuket",
+      "path": "asia/thailand/phuket",
+      "prior_rank": 53,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains",
+      "prior_rank": 1655,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_rank": 806,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_rank": 148,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_rank": 419,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_rank": 1904,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_rank": 129,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_rank": 115,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_rank": 1166,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_rank": 2250,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_rank": 2344,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_rank": 1539,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_rank": 2687,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_rank": 189,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_rank": 3120,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Vieux Fort",
+      "path": "northamerica/saintlucia/vieuxfort",
+      "prior_rank": 3425,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_rank": 3470,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_rank": 540,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_rank": 4209,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_rank": 2707,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_rank": 1622,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_rank": 1648,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+/*///////////// Tabs Code ////////////*/
+
+#tabs {
+	clear: both;
+	text-align: center;
+}
+
+#tabs ul {
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#tabs li { float: left; }
+
+#tabs a,span { width: 91px; }
+
+#tabs span {
+	position: relative;
+	top: 0;
+	margin: 0 2px 0 0;
+	float: left;
+	background: #CC0000;
+	border-right: 1px solid #CC0000;
+	border-top: 1px solid #CC0000;
+	border-left: 1px solid #CC0000;
+	padding: 6px 4px 6px 10px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#tabs a {
+	position: relative;
+	top: 0;
+	margin: 1px 2px 0 0;
+	float: left;
+	background: #FAFAFA;
+	border-right: 1px solid #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	padding: 5px 4px 5px 10px;
+	text-decoration: none;
+	color: #333;
+}
+
+#tabs a:hover {
+	background: #EEEEEE;
+	position: relative;
+	top: 0;
+	padding: 5px 4px 6px 10px;
+	margin-top: 0px;
+}
+
+#tabs2 a{
+	position: relative;
+	top: 0;
+	margin: 0 2px 0 0;
+	float: left;
+	background: #CC0000;
+	border-right: 1px solid #CC0000;
+	border-top: 1px solid #CC0000;
+	border-left: 1px solid #CC0000;
+	padding: 6px 4px 6px 10px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#tabs2 a:hover{
+	position: relative;
+	top: 0;
+	margin: 0 2px 0 0;
+	float: left;
+	background: #CC0000;
+	border-right: 1px solid #CC0000;
+	border-top: 1px solid #CC0000;
+	border-left: 1px solid #CC0000;
+	padding: 6px 4px 6px 10px;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+#subtabs ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#subtabs li {
+	float: left;
+	padding: 0 8px 0 5px;
+	white-space: nowrap;
+}
+
+#subtabs li:first-child { border-left: none; }
+
+#subtabs {
+    text-align: left;
+	border: 1px solid #CC0000;
+	background: #CC0000;
+	clear: both;
+	width: 100%;
+	margin-top: -1px;
+	font-size: 100%;
+	color: #FFFFFF;
+	padding: 5px 7px 7px 5px; /* for All other Browsers */
+}
+
+#button {
+	width: 95%;
+	border: 1px solid #CCCCCC;
+	padding: 0 0 0 0;
+	margin-bottom: 5px;
+	background-color: #FAFAFA;
+	}
+	
+#button ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border: 0;
+		}
+		
+#button li {
+		margin: 0;
+		padding: 0;
+		}
+	
+#button li a {
+		display: block;
+		background-color: #FAFAFA;
+		padding: 3px 0 3px 5px;
+		text-decoration: none;
+		width: 100%;
+		}
+
+#button li a:hover {
+		background-color: #EEEEEE;
+		}
+
+#button li span {
+		display: block;
+		background-color: #CC0000;
+		padding: 3px 0 3px 5px;
+		text-decoration: none;
+		width: 100%;
+		color: #FFFFFF
+		}
+
+#subsection {
+        list-style: none;
+		background-color: #FAFAFA;
+		padding: 3px 0 3px 10px;
+		text-decoration: none;
+		font-size: 9px;
+		}

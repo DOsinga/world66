@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/chulavista
+europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione
+asia/japan/ryukyuislands/zamamiisland
+northamerica/canada/nunavut/resolute
+northamerica/unitedstates/texas/brazosportarea

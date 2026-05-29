@@ -1,0 +1,5 @@
+europe/albania/mallakaster/corrush
+europe/malta/valletta
+europe/germany/bavaria/schongau
+europe/spain/andalucia/zufre
+europe/unitedkingdom/northernireland/cookstown

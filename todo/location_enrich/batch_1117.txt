@@ -1,0 +1,5 @@
+africa/tunisia/tabarka
+europe/france/alpes/ceillac
+africa/niger/tillaberi
+asia/india/sikkim/pelling
+africa/morocco/figuig

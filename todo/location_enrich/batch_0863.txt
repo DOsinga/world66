@@ -1,0 +1,5 @@
+asia/india/karnataka/konkan_coast/mangalore
+northamerica/unitedstates/hawaii/hilo
+northamerica/unitedstates/newmexico/albuquerque
+northamerica/unitedstates/california/northcoast/santarosa
+africa/libya/al_khums

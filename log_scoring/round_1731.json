@@ -1,0 +1,200 @@
+{
+  "round": 1731,
+  "timestamp": "2026-04-13T10:46:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malaysia",
+      "path": "asia/malaysia",
+      "prior_score": -0.3981,
+      "prior_variance": 0.543462,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 4.2659,
+      "prior_variance": 0.400474,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.9198,
+      "prior_variance": 0.311212,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 3.5636,
+      "prior_variance": 0.317114,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 5.0396,
+      "prior_variance": 0.334362,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 1.8078,
+      "prior_variance": 0.313385,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 2.8276,
+      "prior_variance": 0.38394,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 4.1164,
+      "prior_variance": 0.17307,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.8676,
+      "prior_variance": 0.337035,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 4.0817,
+      "prior_variance": 0.402097,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.2535,
+      "prior_variance": 0.321187,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": 0.461,
+      "prior_variance": 0.386756,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.1057,
+      "prior_variance": 0.370461,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.599,
+      "prior_variance": 0.358139,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": 1.3668,
+      "prior_variance": 0.359616,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": 0.0178,
+      "prior_variance": 0.346615,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 2.7659,
+      "prior_variance": 0.310984,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.1878,
+      "prior_variance": 0.347335,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_score": 1.0924,
+      "prior_variance": 0.331242,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": 1.1362,
+      "prior_variance": 0.357674,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 2.7703,
+      "prior_variance": 0.314637,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -4.5193,
+      "prior_variance": 0.569882,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_score": -8.873,
+      "prior_variance": 0.9187,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -5.8193,
+      "prior_variance": 0.325863,
+      "prior_n": 4
+    }
+  ]
+}

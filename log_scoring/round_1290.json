@@ -1,0 +1,200 @@
+{
+  "round": 1290,
+  "timestamp": "2026-04-12T22:19:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_rank": 49,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_rank": 78,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_rank": 32,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_rank": 7,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bali",
+      "path": "asia/indonesia/bali",
+      "prior_rank": 454,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_rank": 303,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_rank": 247,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_rank": 84,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_rank": 8,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Exumas",
+      "path": "northamerica/bahamas/exumas",
+      "prior_rank": 47,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Aruba",
+      "path": "northamerica/aruba",
+      "prior_rank": 16,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_rank": 123,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_rank": 4,
+      "prior_wins": 182,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_rank": 14,
+      "prior_wins": 135,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_rank": 186,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_rank": 202,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Alaska",
+      "path": "northamerica/unitedstates/alaska",
+      "prior_rank": 159,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_rank": 26,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_rank": 29,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_rank": 504,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_rank": 141,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_rank": 119,
+      "prior_wins": 86,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/cambridge",
+      "prior_rank": 154,
+      "prior_wins": 128,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Shinjuku",
+      "path": "asia/japan/tokyo/shinjuku",
+      "prior_rank": 63,
+      "prior_wins": 66,
+      "prior_n": 3
+    }
+  ]
+}

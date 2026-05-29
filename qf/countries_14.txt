@@ -1,0 +1,6 @@
+content/southamerica/guyana.md
+content/southamerica/paraguay.md
+content/southamerica/peru.md
+content/southamerica/suriname.md
+content/southamerica/uruguay.md
+content/southamerica/venezuela.md

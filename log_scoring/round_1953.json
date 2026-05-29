@@ -1,0 +1,200 @@
+{
+  "round": 1953,
+  "timestamp": "2026-04-13T15:57:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 9.3355,
+      "prior_variance": 0.29654,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.6792,
+      "prior_variance": 0.297147,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.3834,
+      "prior_variance": 0.26534,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 4.1244,
+      "prior_variance": 0.289539,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_eus/guernika",
+      "prior_score": 2.4846,
+      "prior_variance": 0.266945,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Calice Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure",
+      "prior_score": -1.2663,
+      "prior_variance": 0.28126,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 4.3294,
+      "prior_variance": 0.254531,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.8105,
+      "prior_variance": 0.312499,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_score": 2.5192,
+      "prior_variance": 0.36702,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 2.3355,
+      "prior_variance": 0.199376,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 1.8766,
+      "prior_variance": 0.181874,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -1.2824,
+      "prior_variance": 0.253568,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.5591,
+      "prior_variance": 0.266053,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 0.7528,
+      "prior_variance": 0.239208,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -0.0657,
+      "prior_variance": 0.252375,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_score": 0.3842,
+      "prior_variance": 0.314235,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_score": -0.0889,
+      "prior_variance": 0.367944,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/karanprayag/pauri",
+      "prior_score": -4.5257,
+      "prior_variance": 0.468427,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -0.6427,
+      "prior_variance": 0.255201,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_score": -3.4888,
+      "prior_variance": 0.353517,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Joescom Int'l",
+      "path": "africa/nigeria/lagos/joescom_intl",
+      "prior_score": -6.9356,
+      "prior_variance": 0.390407,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.0718,
+      "prior_variance": 0.316992,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -7.4529,
+      "prior_variance": 0.31504,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.0427,
+      "prior_variance": 0.449085,
+      "prior_n": 5
+    }
+  ]
+}

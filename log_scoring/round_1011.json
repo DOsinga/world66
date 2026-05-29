@@ -1,0 +1,200 @@
+{
+  "round": 1011,
+  "timestamp": "2026-04-12T22:04:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_rank": 1053,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_rank": 2269,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_rank": 3424,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_rank": 3444,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_rank": 4065,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_rank": 4218,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_rank": 3787,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_rank": 3227,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_rank": 3807,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_rank": 1327,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_rank": 1431,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_rank": 4233,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_rank": 3445,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_rank": 3892,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_rank": 2261,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_rank": 2558,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_rank": 2240,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_rank": 4328,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_rank": 2253,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_rank": 2447,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_rank": 2049,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swanage",
+      "prior_rank": 2649,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_rank": 3028,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_rank": 1883,
+      "prior_wins": 17,
+      "prior_n": 1
+    }
+  ]
+}

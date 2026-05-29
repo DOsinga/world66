@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/crystalriver
+africa/morocco/volubilis
+northamerica/unitedstates/arkansas/eurekasprings
+asia/philippines/southern_leyte/maasin_city
+northamerica/unitedstates/northdakota/fargo

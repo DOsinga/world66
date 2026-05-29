@@ -1,0 +1,5 @@
+europe/croatia/krkisland/krk
+europe/germany/mecklenburgwesternpomerania/rugen
+southamerica/argentina/san_rafael
+europe/portugal/praiadarocha
+northamerica/unitedstates/delaware/wilmington

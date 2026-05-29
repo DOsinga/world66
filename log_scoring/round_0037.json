@@ -1,0 +1,200 @@
+{
+  "round": 37,
+  "timestamp": "2026-04-11T19:25:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 29.76,
+      "prior_sigma": 6.89,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "North Carolina",
+      "path": "northamerica/unitedstates/northcarolina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "The Peninsula of O Morrazo",
+      "path": "europe/spain/galicia/the_peninsula_of_o",
+      "prior_mu": 22.37,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_mu": 22.05,
+      "prior_sigma": 5.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 21.36,
+      "prior_sigma": 4.0,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 21.59,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 21.82,
+      "prior_sigma": 5.63,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_mu": 21.49,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 21.4,
+      "prior_sigma": 3.91,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_mu": 21.35,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    }
+  ]
+}

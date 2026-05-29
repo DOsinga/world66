@@ -1,0 +1,200 @@
+{
+  "round": 722,
+  "timestamp": "2026-04-12T10:44:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_mu": 24.1736,
+      "prior_sigma": 6.0552,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_mu": 23.008,
+      "prior_sigma": 5.5595,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_mu": 21.6241,
+      "prior_sigma": 4.6386,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_mu": 22.001,
+      "prior_sigma": 5.7488,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.8949,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Clemente",
+      "path": "northamerica/unitedstates/california/orangecounty/sanclemente",
+      "prior_mu": 22.3107,
+      "prior_sigma": 5.57,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_mu": 22.5282,
+      "prior_sigma": 5.7526,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_mu": 22.5872,
+      "prior_sigma": 5.9002,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_mu": 22.1546,
+      "prior_sigma": 5.4751,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_mu": 20.7114,
+      "prior_sigma": 3.8948,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Clarkdale",
+      "path": "northamerica/unitedstates/arizona/clarkdale",
+      "prior_mu": 21.347,
+      "prior_sigma": 4.5471,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_mu": 22.1818,
+      "prior_sigma": 5.6854,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
+      "prior_mu": 21.7137,
+      "prior_sigma": 4.5144,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_mu": 22.5476,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_mu": 21.4409,
+      "prior_sigma": 4.8379,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_mu": 22.006,
+      "prior_sigma": 5.9381,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_mu": 21.639,
+      "prior_sigma": 4.827,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_mu": 21.973,
+      "prior_sigma": 5.4357,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Albert Lea",
+      "path": "northamerica/unitedstates/minnesota/albertlea",
+      "prior_mu": 20.8001,
+      "prior_sigma": 4.3519,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_mu": 17.3468,
+      "prior_sigma": 6.2542,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_mu": 21.8437,
+      "prior_sigma": 4.8383,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_mu": 20.8585,
+      "prior_sigma": 5.5649,
+      "prior_n": 1
+    }
+  ]
+}

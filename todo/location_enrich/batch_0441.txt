@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/st_augustine
+australiaandpacific/australia/westernaustralia/northbridge
+northamerica/netherlandsantilles/stmaarten
+northamerica/unitedstates/iowa/dubuque
+europe/italy/liguria/italianriviera/rivieradellepalme/balestrino

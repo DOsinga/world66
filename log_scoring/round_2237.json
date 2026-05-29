@@ -1,0 +1,200 @@
+{
+  "round": 2237,
+  "timestamp": "2026-04-13T16:23:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tuscany",
+      "path": "europe/italy/tuscany",
+      "prior_score": 13.0282,
+      "prior_variance": 0.80761,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Yucatan",
+      "path": "northamerica/mexico/yucatan",
+      "prior_score": 8.136,
+      "prior_variance": 0.593955,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 9.6302,
+      "prior_variance": 0.359033,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 5.1248,
+      "prior_variance": 0.35258,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 4.4464,
+      "prior_variance": 0.30842,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 3.3327,
+      "prior_variance": 0.309687,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 5.6835,
+      "prior_variance": 0.215233,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Himachal Pradesh",
+      "path": "asia/india/himachalpradesh",
+      "prior_score": 4.5937,
+      "prior_variance": 0.31479,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 5.1943,
+      "prior_variance": 0.297009,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 3.4685,
+      "prior_variance": 0.214288,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 3.3345,
+      "prior_variance": 0.190575,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 3.953,
+      "prior_variance": 0.233402,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 4.3231,
+      "prior_variance": 0.272784,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 4.7632,
+      "prior_variance": 0.223322,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.3702,
+      "prior_variance": 0.287537,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 3.8775,
+      "prior_variance": 0.225824,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ghana",
+      "path": "africa/ghana",
+      "prior_score": -4.4268,
+      "prior_variance": 0.367675,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/virginia",
+      "prior_score": 0.4339,
+      "prior_variance": 0.264414,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9499,
+      "prior_variance": 0.249539,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 1.5069,
+      "prior_variance": 0.137807,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -1.0078,
+      "prior_variance": 0.242384,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -1.913,
+      "prior_variance": 0.209336,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.6318,
+      "prior_variance": 0.242124,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_score": -2.4635,
+      "prior_variance": 0.22573,
+      "prior_n": 6
+    }
+  ]
+}

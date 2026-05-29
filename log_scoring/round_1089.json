@@ -1,0 +1,200 @@
+{
+  "round": 1089,
+  "timestamp": "2026-04-12T22:08:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_rank": 1104,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Scuba Diving",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
+      "prior_rank": 84,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_rank": 16,
+      "prior_wins": 191,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/queenstown",
+      "prior_rank": 55,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Thailand",
+      "path": "asia/thailand",
+      "prior_rank": 218,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lofoten islands",
+      "path": "europe/norway/lofotenislands",
+      "prior_rank": 47,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_rank": 505,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_rank": 21,
+      "prior_wins": 113,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Amalfi",
+      "path": "europe/italy/campania/amalfi",
+      "prior_rank": 41,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_rank": 74,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/thecinqueterre/riomaggiore",
+      "prior_rank": 36,
+      "prior_wins": 112,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_rank": 78,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_rank": 513,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_rank": 11,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_rank": 9,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Provence",
+      "path": "europe/france/midi/provence",
+      "prior_rank": 98,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_rank": 276,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_rank": 393,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_rank": 19,
+      "prior_wins": 113,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_rank": 40,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_rank": 12,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ring of Kerry",
+      "path": "europe/ireland/ringofkerry",
+      "prior_rank": 13,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_rank": 220,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_rank": 44,
+      "prior_wins": 67,
+      "prior_n": 3
+    }
+  ]
+}

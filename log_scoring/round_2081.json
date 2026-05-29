@@ -1,0 +1,200 @@
+{
+  "round": 2081,
+  "timestamp": "2026-04-13T16:09:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 8.7815,
+      "prior_variance": 0.373085,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Xi'an",
+      "path": "asia/china/xian",
+      "prior_score": 8.2936,
+      "prior_variance": 0.306762,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/rotorua",
+      "prior_score": 6.8334,
+      "prior_variance": 0.398519,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 6.8942,
+      "prior_variance": 0.510323,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 7.2189,
+      "prior_variance": 0.367443,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 3.6575,
+      "prior_variance": 0.36236,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Oman",
+      "path": "asia/oman",
+      "prior_score": 5.2683,
+      "prior_variance": 0.39047,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 5.551,
+      "prior_variance": 0.225167,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 2.1946,
+      "prior_variance": 0.343008,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_score": 5.4186,
+      "prior_variance": 0.424791,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 4.5921,
+      "prior_variance": 0.29453,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.6942,
+      "prior_variance": 0.248542,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.3157,
+      "prior_variance": 0.313043,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 2.048,
+      "prior_variance": 0.271513,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.404,
+      "prior_variance": 0.23304,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Nyeri",
+      "path": "africa/kenya/centralhighlands/nyeri",
+      "prior_score": -1.4279,
+      "prior_variance": 0.256045,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -2.7423,
+      "prior_variance": 0.303863,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -0.6064,
+      "prior_variance": 0.23403,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -3.1735,
+      "prior_variance": 0.298456,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_score": -4.7523,
+      "prior_variance": 0.296382,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -3.833,
+      "prior_variance": 0.248488,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -3.226,
+      "prior_variance": 0.233081,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -2.1428,
+      "prior_variance": 0.249369,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/blandford",
+      "prior_score": -2.6203,
+      "prior_variance": 0.250419,
+      "prior_n": 5
+    }
+  ]
+}

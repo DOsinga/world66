@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/goldcountry/jamestown
+europe/portugal/elvas
+northamerica/unitedstates/northcarolina/winstonsalem
+europe/netherlands/waddenislands/terschelling/formerum
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet

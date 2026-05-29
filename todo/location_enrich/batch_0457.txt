@@ -1,0 +1,5 @@
+southamerica/guyana/linden
+northamerica/unitedstates/utah/saltlakecity
+europe/italy/lazio/bolsena
+asia/india/orissa/aska
+northamerica/unitedstates/alabama/boaz

@@ -1,0 +1,200 @@
+{
+  "round": 960,
+  "timestamp": "2026-04-12T16:09:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_rank": 1541,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_rank": 669,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_rank": 374,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_rank": 253,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "United Kingdom",
+      "path": "europe/unitedkingdom",
+      "prior_rank": 5439,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/auckland",
+      "prior_rank": 500,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_rank": 3816,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_rank": 1068,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_rank": 2105,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_rank": 1444,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham",
+      "prior_rank": 4678,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_rank": 4793,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/yucatan/veracruz",
+      "prior_rank": 4330,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_rank": 6423,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_rank": 6151,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_rank": 6293,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_rank": 6879,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_rank": 5603,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_rank": 7464,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/yucatan/basconcobe",
+      "prior_rank": 7915,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_rank": 7778,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_rank": 8013,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "ghazi chok",
+      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
+      "prior_rank": 7940,
+      "prior_wins": 6,
+      "prior_n": 4
+    }
+  ]
+}

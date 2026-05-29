@@ -1,0 +1,200 @@
+{
+  "round": 987,
+  "timestamp": "2026-04-12T22:03:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_rank": 789,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/thecinqueterre",
+      "prior_rank": 212,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_rank": 47,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_rank": 170,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Laterbrunnen",
+      "path": "europe/switzerland/laterbrunnen",
+      "prior_rank": 180,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_rank": 137,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_rank": 18,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_rank": 292,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_rank": 44,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_rank": 49,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_rank": 41,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_rank": 51,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_rank": 447,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_rank": 443,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_rank": 277,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_rank": 334,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national",
+      "prior_rank": 298,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_rank": 807,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_rank": 1510,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_rank": 461,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_rank": 1830,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gold Coast",
+      "path": "australiaandpacific/australia/queensland/goldcoast",
+      "prior_rank": 1139,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_rank": 927,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_rank": 799,
+      "prior_wins": 20,
+      "prior_n": 1
+    }
+  ]
+}

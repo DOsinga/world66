@@ -1,0 +1,200 @@
+{
+  "round": 1504,
+  "timestamp": "2026-04-13T10:26:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Frontier",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
+      "prior_score": 3.4046,
+      "prior_variance": 0.544508,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire",
+      "prior_score": 3.2211,
+      "prior_variance": 0.685453,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 4.4363,
+      "prior_variance": 0.259644,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 4.433,
+      "prior_variance": 0.481115,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_score": 2.635,
+      "prior_variance": 0.43717,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Comillas",
+      "path": "europe/spain/northernspain/comillas",
+      "prior_score": 4.5448,
+      "prior_variance": 0.470393,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 3.8069,
+      "prior_variance": 0.293704,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 2.8083,
+      "prior_variance": 0.495151,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 4.4311,
+      "prior_variance": 0.408267,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.9664,
+      "prior_variance": 0.417976,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.9998,
+      "prior_variance": 0.498855,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.2918,
+      "prior_variance": 0.421395,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 2.2346,
+      "prior_variance": 0.355136,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 3.6802,
+      "prior_variance": 0.435331,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
+      "prior_score": 0.6461,
+      "prior_variance": 0.384901,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 3.9124,
+      "prior_variance": 0.355309,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.5337,
+      "prior_variance": 0.551731,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
+      "prior_score": 3.397,
+      "prior_variance": 0.434891,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 2.1356,
+      "prior_variance": 0.50334,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.8694,
+      "prior_variance": 0.279894,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 2.8902,
+      "prior_variance": 0.35102,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": 0.6203,
+      "prior_variance": 0.571505,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 3.0931,
+      "prior_variance": 0.387292,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.7316,
+      "prior_variance": 0.331167,
+      "prior_n": 4
+    }
+  ]
+}

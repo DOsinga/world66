@@ -1,0 +1,200 @@
+{
+  "round": 2135,
+  "timestamp": "2026-04-13T16:13:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.5805,
+      "prior_variance": 0.302196,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 4.4601,
+      "prior_variance": 0.270518,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.1349,
+      "prior_variance": 0.243871,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
+      "prior_score": 4.8499,
+      "prior_variance": 0.328257,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 6.5175,
+      "prior_variance": 0.304837,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 6.2895,
+      "prior_variance": 0.252229,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -0.1074,
+      "prior_variance": 0.244976,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.7667,
+      "prior_variance": 0.274275,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/whanganui_region/newplymouth",
+      "prior_score": -0.6107,
+      "prior_variance": 0.220228,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.4685,
+      "prior_variance": 0.290183,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": 0.0779,
+      "prior_variance": 0.243822,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.0578,
+      "prior_variance": 0.252563,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -0.8751,
+      "prior_variance": 0.227981,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -2.9992,
+      "prior_variance": 0.24411,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.6808,
+      "prior_variance": 0.234693,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": 0.1584,
+      "prior_variance": 0.230319,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_score": -1.3829,
+      "prior_variance": 0.305923,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -2.4001,
+      "prior_variance": 0.25476,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_score": -3.5883,
+      "prior_variance": 0.262585,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.0814,
+      "prior_variance": 0.179048,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -6.8574,
+      "prior_variance": 0.437512,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Mardan",
+      "path": "asia/pakistan/peshawar/mardan",
+      "prior_score": -6.648,
+      "prior_variance": 0.313545,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lekoumou region",
+      "path": "africa/congobrazzaville/lekoumouregion",
+      "prior_score": -8.8504,
+      "prior_variance": 0.374769,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.5662,
+      "prior_variance": 0.329641,
+      "prior_n": 6
+    }
+  ]
+}

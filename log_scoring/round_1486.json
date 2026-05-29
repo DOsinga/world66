@@ -1,0 +1,200 @@
+{
+  "round": 1486,
+  "timestamp": "2026-04-13T10:24:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.5255,
+      "prior_variance": 0.34407,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -2.5261,
+      "prior_variance": 0.617441,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.5708,
+      "prior_variance": 0.395228,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": -0.072,
+      "prior_variance": 0.400727,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 0.5519,
+      "prior_variance": 0.45333,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.6017,
+      "prior_variance": 0.413939,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 1.0631,
+      "prior_variance": 0.406789,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.8936,
+      "prior_variance": 0.439247,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -1.1521,
+      "prior_variance": 0.409494,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -1.3141,
+      "prior_variance": 0.576534,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": 0.504,
+      "prior_variance": 0.375603,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 2.1116,
+      "prior_variance": 0.396028,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.802,
+      "prior_variance": 0.233887,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Limburg",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": -2.1726,
+      "prior_variance": 0.434501,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_score": -3.2625,
+      "prior_variance": 0.591669,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_score": -1.1539,
+      "prior_variance": 0.531956,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 3.1681,
+      "prior_variance": 0.635581,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_score": -0.4069,
+      "prior_variance": 0.391693,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -0.9428,
+      "prior_variance": 0.503321,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -1.877,
+      "prior_variance": 0.480341,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -0.7446,
+      "prior_variance": 0.363783,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.5458,
+      "prior_variance": 0.328258,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -4.1833,
+      "prior_variance": 0.49489,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_score": -4.7701,
+      "prior_variance": 0.376962,
+      "prior_n": 4
+    }
+  ]
+}

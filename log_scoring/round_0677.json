@@ -1,0 +1,144 @@
+{
+  "round": 677,
+  "timestamp": "2026-04-12T10:42:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 17,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_mu": 24.9639,
+      "prior_sigma": 4.9665,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_mu": 22.5392,
+      "prior_sigma": 3.9011,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_mu": 20.6305,
+      "prior_sigma": 3.9228,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_mu": 17.4629,
+      "prior_sigma": 3.871,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_mu": 19.1971,
+      "prior_sigma": 3.7142,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_mu": 18.0611,
+      "prior_sigma": 3.9858,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_mu": 18.6264,
+      "prior_sigma": 4.0755,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_mu": 20.4427,
+      "prior_sigma": 4.0988,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Awdal",
+      "path": "africa/somaliland/awdal",
+      "prior_mu": 20.3634,
+      "prior_sigma": 3.4923,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_mu": 20.0893,
+      "prior_sigma": 4.3358,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_mu": 18.2261,
+      "prior_sigma": 4.059,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_mu": 17.9693,
+      "prior_sigma": 4.0804,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ainaba",
+      "path": "africa/somaliland/ainaba",
+      "prior_mu": 18.512,
+      "prior_sigma": 3.5942,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_mu": 20.7777,
+      "prior_sigma": 4.2152,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "abdaal",
+      "path": "africa/somaliland/abdaal",
+      "prior_mu": 20.3687,
+      "prior_sigma": 4.5413,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_mu": 20.3137,
+      "prior_sigma": 3.7969,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Somaliland",
+      "path": "africa/somaliland",
+      "prior_mu": 14.7592,
+      "prior_sigma": 5.7098,
+      "prior_n": 2
+    }
+  ]
+}

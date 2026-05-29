@@ -1,0 +1,200 @@
+{
+  "round": 885,
+  "timestamp": "2026-04-12T14:47:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aruba",
+      "path": "northamerica/aruba",
+      "prior_score": 9.6934,
+      "prior_variance": 2.153669,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Amalfi",
+      "path": "europe/italy/campania/amalfi",
+      "prior_score": 13.7728,
+      "prior_variance": 2.961847,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 6.615,
+      "prior_variance": 1.058453,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Disko Bay",
+      "path": "northamerica/greenland/diskobay",
+      "prior_score": 4.5121,
+      "prior_variance": 1.102828,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hangzhou",
+      "path": "asia/china/hangzhou",
+      "prior_score": 8.4961,
+      "prior_variance": 1.517201,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 3.0259,
+      "prior_variance": 1.297834,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.7963,
+      "prior_variance": 1.292021,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 4.04,
+      "prior_variance": 1.292582,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 8.2703,
+      "prior_variance": 1.868824,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 5.3973,
+      "prior_variance": 1.596207,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_score": 6.0552,
+      "prior_variance": 1.967917,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Marburg",
+      "path": "europe/germany/hesse/marburg",
+      "prior_score": 2.0689,
+      "prior_variance": 0.684449,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_score": -0.6898,
+      "prior_variance": 0.540341,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 2.8226,
+      "prior_variance": 0.710253,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -2.4428,
+      "prior_variance": 1.778116,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": 4.6666,
+      "prior_variance": 1.93629,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kosovo",
+      "path": "europe/kosovo",
+      "prior_score": -2.2472,
+      "prior_variance": 1.257599,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -5.3301,
+      "prior_variance": 2.013568,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_score": -0.077,
+      "prior_variance": 1.559751,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -3.4284,
+      "prior_variance": 1.806672,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
+      "prior_score": -3.2527,
+      "prior_variance": 1.284355,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Boblingen",
+      "path": "europe/germany/badenwrttemberg/boblingen",
+      "prior_score": -6.9976,
+      "prior_variance": 4.532339,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -5.3219,
+      "prior_variance": 1.290578,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -10.7387,
+      "prior_variance": 1.330436,
+      "prior_n": 1
+    }
+  ]
+}

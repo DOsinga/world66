@@ -1,0 +1,200 @@
+{
+  "round": 709,
+  "timestamp": "2026-04-12T10:43:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_mu": 22.9907,
+      "prior_sigma": 4.5493,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_mu": 24.9621,
+      "prior_sigma": 4.7849,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_mu": 24.4694,
+      "prior_sigma": 4.1,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_mu": 22.3843,
+      "prior_sigma": 5.7042,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_mu": 25.0007,
+      "prior_sigma": 4.8597,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_mu": 23.0518,
+      "prior_sigma": 5.9646,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Loire Valley",
+      "path": "europe/france/wine/loirevalley",
+      "prior_mu": 25.7945,
+      "prior_sigma": 4.9567,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_mu": 22.4627,
+      "prior_sigma": 5.6685,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_mu": 22.3788,
+      "prior_sigma": 4.5736,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_mu": 21.7945,
+      "prior_sigma": 4.4574,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_mu": 22.7178,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_mu": 21.0861,
+      "prior_sigma": 3.8889,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_mu": 22.0176,
+      "prior_sigma": 4.4431,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_mu": 21.4469,
+      "prior_sigma": 4.4589,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Morvan",
+      "path": "europe/france/east/burgundy/morvan",
+      "prior_mu": 22.8275,
+      "prior_sigma": 5.719,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_mu": 22.2277,
+      "prior_sigma": 5.9532,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_mu": 22.8099,
+      "prior_sigma": 5.5654,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_mu": 22.5425,
+      "prior_sigma": 5.7667,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_mu": 19.2996,
+      "prior_sigma": 4.1954,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_mu": 21.4096,
+      "prior_sigma": 4.2992,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_mu": 22.2192,
+      "prior_sigma": 5.7156,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "neuve englise",
+      "path": "europe/france/nord/neuve_englise",
+      "prior_mu": 18.8375,
+      "prior_sigma": 4.9056,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Nord",
+      "path": "europe/france/nord",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

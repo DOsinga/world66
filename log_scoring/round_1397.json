@@ -1,0 +1,200 @@
+{
+  "round": 1397,
+  "timestamp": "2026-04-12T22:25:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_rank": 6967,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_rank": 7655,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_rank": 5993,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Haiti",
+      "path": "northamerica/thecaribbean/haiti",
+      "prior_rank": 6047,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_rank": 7408,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_rank": 6206,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vares",
+      "path": "europe/bosniaandherzegovina/vares",
+      "prior_rank": 7147,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_rank": 7230,
+      "prior_wins": 29,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_rank": 6225,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/gosport",
+      "prior_rank": 7680,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_rank": 7522,
+      "prior_wins": 23,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_rank": 7517,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_rank": 6584,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_rank": 7939,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_rank": 7357,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_rank": 7434,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_rank": 7932,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_rank": 6357,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_rank": 6706,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_rank": 5649,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_rank": 6818,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_rank": 6834,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_rank": 7381,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_rank": 7688,
+      "prior_wins": 12,
+      "prior_n": 3
+    }
+  ]
+}

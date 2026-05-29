@@ -1,0 +1,200 @@
+{
+  "round": 626,
+  "timestamp": "2026-04-12T10:40:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_mu": 24.483,
+      "prior_sigma": 5.8443,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_mu": 22.4607,
+      "prior_sigma": 5.9202,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_mu": 22.4242,
+      "prior_sigma": 5.9333,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_mu": 22.8766,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_mu": 21.697,
+      "prior_sigma": 4.543,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Turda",
+      "path": "europe/romania/transylvania/turda",
+      "prior_mu": 21.5501,
+      "prior_sigma": 4.736,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_mu": 22.49,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_mu": 22.0013,
+      "prior_sigma": 5.7834,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_mu": 21.3651,
+      "prior_sigma": 4.4764,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ploiesti",
+      "path": "europe/romania/ploiesti",
+      "prior_mu": 19.2834,
+      "prior_sigma": 5.2463,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "vascauti",
+      "path": "europe/romania/bucharest/vascauti",
+      "prior_mu": 22.2343,
+      "prior_sigma": 5.8836,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

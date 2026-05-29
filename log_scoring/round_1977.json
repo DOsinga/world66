@@ -1,0 +1,200 @@
+{
+  "round": 1977,
+  "timestamp": "2026-04-13T15:59:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 8.7891,
+      "prior_variance": 0.604737,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Algarve",
+      "path": "europe/portugal/algarve",
+      "prior_score": 7.4614,
+      "prior_variance": 0.366305,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 6.6149,
+      "prior_variance": 0.29745,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_score": 4.2957,
+      "prior_variance": 0.429677,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 0.4954,
+      "prior_variance": 0.363673,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.0969,
+      "prior_variance": 0.269493,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 3.0006,
+      "prior_variance": 0.309327,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.2155,
+      "prior_variance": 0.28372,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/hokitika",
+      "prior_score": 1.515,
+      "prior_variance": 0.274293,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_score": -0.0682,
+      "prior_variance": 0.273563,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.0534,
+      "prior_variance": 0.273876,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": 0.9783,
+      "prior_variance": 0.321275,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.0803,
+      "prior_variance": 0.319928,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.3449,
+      "prior_variance": 0.435111,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_score": -0.1121,
+      "prior_variance": 0.209439,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.2541,
+      "prior_variance": 0.265665,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": 0.0021,
+      "prior_variance": 0.275169,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.5026,
+      "prior_variance": 0.272673,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.679,
+      "prior_variance": 0.313326,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_score": -4.4906,
+      "prior_variance": 0.285165,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -3.0283,
+      "prior_variance": 0.272048,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Morayfield",
+      "path": "australiaandpacific/australia/queensland/morayfield",
+      "prior_score": -5.0293,
+      "prior_variance": 0.266297,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_score": -3.0531,
+      "prior_variance": 0.245216,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "kotnali villages photo",
+      "path": "asia/india/uttaranchal/kotnali_villages_p",
+      "prior_score": -6.3578,
+      "prior_variance": 0.304078,
+      "prior_n": 5
+    }
+  ]
+}

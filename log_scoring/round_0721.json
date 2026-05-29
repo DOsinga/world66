@@ -1,0 +1,80 @@
+{
+  "round": 721,
+  "timestamp": "2026-04-12T10:44:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_mu": 27.7101,
+      "prior_sigma": 5.9324,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_mu": 27.642,
+      "prior_sigma": 5.7205,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_mu": 29.6986,
+      "prior_sigma": 6.785,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 27.8051,
+      "prior_sigma": 2.8445,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_mu": 29.9993,
+      "prior_sigma": 6.9058,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_mu": 22.2329,
+      "prior_sigma": 5.9441,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_mu": 29.1658,
+      "prior_sigma": 6.9921,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+northamerica/unitedstates/pennsylvania/carlisle
+southamerica/chile/copiapo
+europe/france/midi/southern_alps/annot
+europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres
+australiaandpacific/australia/rockhampton

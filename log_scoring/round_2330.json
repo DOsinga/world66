@@ -1,0 +1,200 @@
+{
+  "round": 2330,
+  "timestamp": "2026-04-13T16:31:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 1.4176,
+      "prior_variance": 0.257724,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.3348,
+      "prior_variance": 0.252831,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 2.0298,
+      "prior_variance": 0.214906,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -0.9935,
+      "prior_variance": 0.233621,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.2981,
+      "prior_variance": 0.205824,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_score": -0.1718,
+      "prior_variance": 0.211573,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_score": -0.9913,
+      "prior_variance": 0.225145,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bihac",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -1.2963,
+      "prior_variance": 0.22698,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -1.5147,
+      "prior_variance": 0.212198,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.1299,
+      "prior_variance": 0.246553,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_score": -0.8604,
+      "prior_variance": 0.254217,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": -0.2483,
+      "prior_variance": 0.207506,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_score": -1.9111,
+      "prior_variance": 0.205153,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": -0.1865,
+      "prior_variance": 0.217306,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_score": -1.3878,
+      "prior_variance": 0.191325,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": 0.2652,
+      "prior_variance": 0.191041,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -0.695,
+      "prior_variance": 0.221425,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -2.8617,
+      "prior_variance": 0.251523,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.6681,
+      "prior_variance": 0.392018,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -1.4398,
+      "prior_variance": 0.207182,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.7114,
+      "prior_variance": 0.222272,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -2.9085,
+      "prior_variance": 0.208856,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -1.5601,
+      "prior_variance": 0.204146,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -1.3968,
+      "prior_variance": 0.184821,
+      "prior_n": 7
+    }
+  ]
+}

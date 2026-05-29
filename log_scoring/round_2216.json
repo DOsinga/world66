@@ -1,0 +1,200 @@
+{
+  "round": 2216,
+  "timestamp": "2026-04-13T16:21:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 5.1438,
+      "prior_variance": 0.275249,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 3.9672,
+      "prior_variance": 0.233588,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/greater_wellington/wairarapa",
+      "prior_score": 1.9033,
+      "prior_variance": 0.240953,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 1.12,
+      "prior_variance": 0.210097,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/crovie",
+      "prior_score": -0.1669,
+      "prior_variance": 0.297643,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -3.3846,
+      "prior_variance": 0.23471,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -2.0074,
+      "prior_variance": 0.257019,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_score": -3.8633,
+      "prior_variance": 0.553292,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": 1.0822,
+      "prior_variance": 0.20032,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Syunik Marz",
+      "path": "europe/armenia/syunik_marz",
+      "prior_score": -1.6241,
+      "prior_variance": 0.246584,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -2.8911,
+      "prior_variance": 0.261202,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_score": -3.7007,
+      "prior_variance": 0.205239,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.4555,
+      "prior_variance": 0.221924,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -5.1863,
+      "prior_variance": 0.261826,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -2.1256,
+      "prior_variance": 0.251036,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -1.2306,
+      "prior_variance": 0.208474,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_score": -3.117,
+      "prior_variance": 0.269811,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -2.7681,
+      "prior_variance": 0.25967,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -3.6351,
+      "prior_variance": 0.265117,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_score": -4.511,
+      "prior_variance": 0.345803,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -5.4307,
+      "prior_variance": 0.251473,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.0758,
+      "prior_variance": 0.329817,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Retra",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
+      "prior_score": -9.1508,
+      "prior_variance": 0.408101,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_1",
+      "prior_score": -6.8297,
+      "prior_variance": 0.653355,
+      "prior_n": 6
+    }
+  ]
+}

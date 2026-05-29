@@ -1,0 +1,200 @@
+{
+  "round": 1127,
+  "timestamp": "2026-04-12T22:10:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "India",
+      "path": "asia/india",
+      "prior_rank": 7700,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_rank": 7521,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_rank": 7337,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_rank": 7633,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_rank": 4707,
+      "prior_wins": 52,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_rank": 7852,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_rank": 7763,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_rank": 7464,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_rank": 7775,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/fresno",
+      "prior_rank": 4481,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_rank": 7651,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_rank": 6185,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sandy",
+      "path": "northamerica/unitedstates/utah/sandy",
+      "prior_rank": 7199,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_rank": 7879,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Miramar",
+      "path": "northamerica/unitedstates/florida/miramar",
+      "prior_rank": 7527,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_rank": 7531,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_rank": 7706,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_rank": 8051,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_rank": 6218,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_rank": 7830,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bussy",
+      "path": "europe/france/around_paris/bussy",
+      "prior_rank": 7865,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_rank": 6518,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bjuv",
+      "path": "europe/sweden/bjuv",
+      "prior_rank": 7565,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "jhang",
+      "path": "asia/pakistan/abbottabad/jhang",
+      "prior_rank": 6644,
+      "prior_wins": 12,
+      "prior_n": 2
+    }
+  ]
+}

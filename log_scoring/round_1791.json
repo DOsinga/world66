@@ -1,0 +1,200 @@
+{
+  "round": 1791,
+  "timestamp": "2026-04-13T10:51:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Belgium",
+      "path": "europe/belgium",
+      "prior_score": -4.1234,
+      "prior_variance": 0.373882,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Texas",
+      "path": "northamerica/unitedstates/texas",
+      "prior_score": 1.5698,
+      "prior_variance": 0.371181,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds",
+      "prior_score": -1.0163,
+      "prior_variance": 0.27504,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 7.204,
+      "prior_variance": 0.348267,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -1.2491,
+      "prior_variance": 0.280868,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_score": 0.1601,
+      "prior_variance": 0.378067,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.3557,
+      "prior_variance": 0.474793,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.0091,
+      "prior_variance": 0.34954,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -4.7094,
+      "prior_variance": 0.745708,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 1.2991,
+      "prior_variance": 0.381806,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
+      "path": "europe/italy/calabria/hilltowns_of_the",
+      "prior_score": -0.0363,
+      "prior_variance": 0.277861,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.7574,
+      "prior_variance": 0.285242,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.2265,
+      "prior_variance": 0.240239,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -1.757,
+      "prior_variance": 0.258147,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -1.8244,
+      "prior_variance": 0.299255,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Papua New Guinea",
+      "path": "asia/papuanewguinea",
+      "prior_score": -2.4543,
+      "prior_variance": 0.689178,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_score": -1.6335,
+      "prior_variance": 0.341429,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -1.5856,
+      "prior_variance": 0.267687,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.6381,
+      "prior_variance": 0.384481,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.1579,
+      "prior_variance": 0.349102,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.6569,
+      "prior_variance": 0.391962,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -8.2589,
+      "prior_variance": 0.318847,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -9.2088,
+      "prior_variance": 0.475798,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_score": -11.2032,
+      "prior_variance": 0.968749,
+      "prior_n": 5
+    }
+  ]
+}

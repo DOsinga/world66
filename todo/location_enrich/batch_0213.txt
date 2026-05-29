@@ -1,0 +1,5 @@
+europe/france/centre/limousin/chateaudeval
+northamerica/unitedstates/montana/great_falls
+northamerica/unitedstates/tennessee/chattanooga
+northamerica/canada/ontario/north_bay
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford

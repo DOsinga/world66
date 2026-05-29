@@ -1,0 +1,200 @@
+{
+  "round": 920,
+  "timestamp": "2026-04-12T14:50:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 12.8067,
+      "prior_variance": 8.196418,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Gold Coast",
+      "path": "australiaandpacific/australia/queensland/goldcoast",
+      "prior_score": 8.2078,
+      "prior_variance": 9.1129,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_score": 5.9761,
+      "prior_variance": 1.292003,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_score": 2.3032,
+      "prior_variance": 1.291002,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_score": 5.3527,
+      "prior_variance": 1.753047,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 3.2793,
+      "prior_variance": 1.463238,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 4.5551,
+      "prior_variance": 1.622188,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 1.7618,
+      "prior_variance": 1.435506,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 4.4324,
+      "prior_variance": 1.443047,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "North Carolina",
+      "path": "northamerica/unitedstates/northcarolina",
+      "prior_score": 2.9476,
+      "prior_variance": 0.45559,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": -0.8722,
+      "prior_variance": 1.294685,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": 1.239,
+      "prior_variance": 1.403438,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.4428,
+      "prior_variance": 1.409503,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": 2.692,
+      "prior_variance": 1.331968,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": 1.845,
+      "prior_variance": 1.645644,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -2.5922,
+      "prior_variance": 1.283084,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -0.3594,
+      "prior_variance": 1.203826,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -0.2794,
+      "prior_variance": 1.375059,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -3.9338,
+      "prior_variance": 0.445428,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_score": -4.1561,
+      "prior_variance": 1.179444,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_score": -4.3174,
+      "prior_variance": 0.681574,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.944,
+      "prior_variance": 1.30326,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_score": -8.7106,
+      "prior_variance": 0.390441,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -6.9183,
+      "prior_variance": 12.939045,
+      "prior_n": 1
+    }
+  ]
+}

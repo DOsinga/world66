@@ -1,0 +1,200 @@
+{
+  "round": 2184,
+  "timestamp": "2026-04-13T16:18:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 12.6967,
+      "prior_variance": 0.58862,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "California",
+      "path": "northamerica/unitedstates/california",
+      "prior_score": 1.5936,
+      "prior_variance": 0.51535,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_score": -1.4876,
+      "prior_variance": 0.418592,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tasmania",
+      "path": "australiaandpacific/australia/tasmania",
+      "prior_score": 5.4634,
+      "prior_variance": 0.440219,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 7.0136,
+      "prior_variance": 0.268654,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Costa Brava",
+      "path": "europe/spain/costa_brava",
+      "prior_score": 7.3171,
+      "prior_variance": 0.295751,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.0835,
+      "prior_variance": 0.392872,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.3654,
+      "prior_variance": 0.253971,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 5.0017,
+      "prior_variance": 0.266692,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_score": 4.6709,
+      "prior_variance": 0.313728,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "West Coast",
+      "path": "asia/turkey/westcoast",
+      "prior_score": 5.0192,
+      "prior_variance": 0.261971,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 3.0549,
+      "prior_variance": 0.265199,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 6.2896,
+      "prior_variance": 0.348631,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 1.5784,
+      "prior_variance": 0.295248,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 1.5381,
+      "prior_variance": 0.271438,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 3.4267,
+      "prior_variance": 0.308503,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_score": -2.1582,
+      "prior_variance": 0.349826,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 2.2053,
+      "prior_variance": 0.266234,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_score": 1.478,
+      "prior_variance": 0.255134,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -2.9804,
+      "prior_variance": 0.287364,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.8147,
+      "prior_variance": 0.24315,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -2.3509,
+      "prior_variance": 0.210369,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -5.0558,
+      "prior_variance": 0.36966,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -5.8434,
+      "prior_variance": 0.395186,
+      "prior_n": 5
+    }
+  ]
+}

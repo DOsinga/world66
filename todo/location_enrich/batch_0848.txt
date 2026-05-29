@@ -1,0 +1,5 @@
+europe/macedonia/radovis
+europe/greece/lamia
+europe/france/alpes/chamonix
+asia/india/gujarat/kutch/gandidam
+asia/pakistan/azad_kashmir/hajira

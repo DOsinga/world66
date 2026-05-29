@@ -1,0 +1,5 @@
+southamerica/peru/pisco
+southamerica/brazil/pirenopolis
+northamerica/thecaribbean/martinique/latrinite
+europe/norway/hammerfest
+europe/germany/bavaria/coburg

@@ -1,0 +1,200 @@
+{
+  "round": 1561,
+  "timestamp": "2026-04-13T10:31:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 3.982,
+      "prior_variance": 0.344476,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 5.0775,
+      "prior_variance": 0.47469,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_score": 3.508,
+      "prior_variance": 0.390244,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 3.7408,
+      "prior_variance": 0.337279,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 2.8116,
+      "prior_variance": 0.395492,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_score": 1.982,
+      "prior_variance": 0.309646,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 2.0082,
+      "prior_variance": 0.461773,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 2.5943,
+      "prior_variance": 0.365494,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 3.0636,
+      "prior_variance": 0.451676,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 2.2848,
+      "prior_variance": 0.400005,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.4242,
+      "prior_variance": 0.427937,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 1.5891,
+      "prior_variance": 0.450791,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 3.2943,
+      "prior_variance": 0.175095,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 3.5465,
+      "prior_variance": 0.309695,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 2.8338,
+      "prior_variance": 0.424973,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 1.9505,
+      "prior_variance": 0.379709,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.0761,
+      "prior_variance": 0.550882,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 1.0442,
+      "prior_variance": 0.375153,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.4029,
+      "prior_variance": 0.349392,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_score": 2.736,
+      "prior_variance": 0.339349,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": 0.7822,
+      "prior_variance": 0.367638,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_score": 1.2594,
+      "prior_variance": 0.435371,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 2.3523,
+      "prior_variance": 0.36347,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 1.5793,
+      "prior_variance": 0.316016,
+      "prior_n": 4
+    }
+  ]
+}

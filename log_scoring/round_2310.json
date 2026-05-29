@@ -1,0 +1,200 @@
+{
+  "round": 2310,
+  "timestamp": "2026-04-13T16:30:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_score": 5.6601,
+      "prior_variance": 0.370318,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_score": 6.8053,
+      "prior_variance": 0.230613,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 6.9262,
+      "prior_variance": 0.226891,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "US Virgin Islands",
+      "path": "northamerica/thecaribbean/virginislands",
+      "prior_score": 6.7083,
+      "prior_variance": 0.375642,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.8453,
+      "prior_variance": 0.203261,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 4.3632,
+      "prior_variance": 0.243817,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.5216,
+      "prior_variance": 0.294451,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.8912,
+      "prior_variance": 0.232186,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_score": 5.9256,
+      "prior_variance": 0.289801,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_score": 3.3096,
+      "prior_variance": 0.216818,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 2.9296,
+      "prior_variance": 0.198651,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 2.9659,
+      "prior_variance": 0.232048,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 3.0274,
+      "prior_variance": 0.239821,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 1.5573,
+      "prior_variance": 0.365319,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
+      "prior_score": 3.0282,
+      "prior_variance": 0.208643,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 0.7412,
+      "prior_variance": 0.277987,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_score": 2.3924,
+      "prior_variance": 0.205899,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -0.6868,
+      "prior_variance": 0.211579,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": -0.0854,
+      "prior_variance": 0.248499,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_score": -1.6464,
+      "prior_variance": 0.270962,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -5.5568,
+      "prior_variance": 0.291512,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -3.1234,
+      "prior_variance": 0.209407,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.1211,
+      "prior_variance": 0.288065,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.3521,
+      "prior_variance": 0.343492,
+      "prior_n": 6
+    }
+  ]
+}

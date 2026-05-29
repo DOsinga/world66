@@ -1,0 +1,200 @@
+{
+  "round": 500,
+  "timestamp": "2026-04-12T09:41:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_mu": 25.8168,
+      "prior_sigma": 3.5864,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_mu": 29.2926,
+      "prior_sigma": 4.1257,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_mu": 20.9856,
+      "prior_sigma": 3.0253,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_mu": 22.6725,
+      "prior_sigma": 3.6492,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_mu": 21.3536,
+      "prior_sigma": 3.6879,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_mu": 21.1481,
+      "prior_sigma": 3.7827,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_mu": 20.8249,
+      "prior_sigma": 3.598,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_mu": 21.2545,
+      "prior_sigma": 4.2795,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_mu": 21.1944,
+      "prior_sigma": 3.2541,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_mu": 21.2214,
+      "prior_sigma": 3.5345,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_mu": 20.8468,
+      "prior_sigma": 3.2884,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_mu": 20.9564,
+      "prior_sigma": 3.6166,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_mu": 21.555,
+      "prior_sigma": 4.4788,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_mu": 21.3427,
+      "prior_sigma": 3.5943,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Beauvoorde",
+      "path": "europe/belgium/veurne/beauvoorde",
+      "prior_mu": 20.9085,
+      "prior_sigma": 3.1839,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_mu": 21.0071,
+      "prior_sigma": 3.7736,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_mu": 21.1458,
+      "prior_sigma": 4.2079,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "East Belgium",
+      "path": "europe/belgium/east_belgium",
+      "prior_mu": 20.4373,
+      "prior_sigma": 2.8184,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_mu": 20.7817,
+      "prior_sigma": 3.287,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_mu": 16.8276,
+      "prior_sigma": 6.3016,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Hoeselt",
+      "path": "europe/belgium/hoeselt",
+      "prior_mu": 18.7777,
+      "prior_sigma": 4.1536,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_mu": 21.0529,
+      "prior_sigma": 4.4207,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_mu": 21.4627,
+      "prior_sigma": 3.8229,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_mu": 20.628,
+      "prior_sigma": 3.8073,
+      "prior_n": 3
+    }
+  ]
+}

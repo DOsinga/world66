@@ -1,0 +1,5 @@
+southamerica/peru/tingo
+africa/madagascar/toamasina
+europe/norway/tonsberg
+northamerica/unitedstates/arizona/tombstone
+northamerica/unitedstates/newhampshire/durham

@@ -1,0 +1,5 @@
+australiaandpacific/australia/westernaustralia/coral_bay
+northamerica/unitedstates/oklahoma/chickasaw
+northamerica/unitedstates/virginia/roanoke
+northamerica/unitedstates/hawaii/kailuakona
+europe/romania/timisoara

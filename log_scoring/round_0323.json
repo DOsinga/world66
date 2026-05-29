@@ -1,0 +1,200 @@
+{
+  "round": 323,
+  "timestamp": "2026-04-12T09:11:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chianti Region",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_mu": 23.032,
+      "prior_sigma": 4.7738,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_mu": 22.0751,
+      "prior_sigma": 4.6895,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_mu": 22.2953,
+      "prior_sigma": 5.7862,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_mu": 21.9483,
+      "prior_sigma": 4.8385,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_mu": 22.6899,
+      "prior_sigma": 5.9458,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_mu": 22.6976,
+      "prior_sigma": 5.9467,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_mu": 22.8449,
+      "prior_sigma": 5.8584,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "kolhapur",
+      "path": "asia/india/maharashtra/konkan/kolhapur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Lombardia",
+      "path": "europe/italy/lombardia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_mu": 22.5277,
+      "prior_sigma": 5.9136,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

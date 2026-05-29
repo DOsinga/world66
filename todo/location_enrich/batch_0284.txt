@@ -1,0 +1,5 @@
+asia/india/maharashtra/kolhapur
+asia/philippines/negrosisland/kabankalan_city
+northamerica/unitedstates/northcarolina/waynesville
+asia/indonesia/kalimantan/balikpapan
+europe/italy/tuscany/florence

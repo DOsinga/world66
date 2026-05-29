@@ -1,0 +1,200 @@
+{
+  "round": 2125,
+  "timestamp": "2026-04-13T16:12:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 13.7872,
+      "prior_variance": 0.833283,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Italy",
+      "path": "europe/italy",
+      "prior_score": 13.4217,
+      "prior_variance": 0.743996,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 11.4652,
+      "prior_variance": 0.837388,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 4.9335,
+      "prior_variance": 0.257465,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 7.2072,
+      "prior_variance": 0.312078,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 5.0332,
+      "prior_variance": 0.286569,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 4.4078,
+      "prior_variance": 0.403269,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ischia",
+      "path": "europe/italy/campania/ischia",
+      "prior_score": 7.7023,
+      "prior_variance": 0.427725,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_score": 2.8137,
+      "prior_variance": 0.269999,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 3.4046,
+      "prior_variance": 0.289681,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.6045,
+      "prior_variance": 0.334512,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kalsoy",
+      "path": "europe/faroeislands/kalsoy",
+      "prior_score": 4.0539,
+      "prior_variance": 0.330396,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 4.0404,
+      "prior_variance": 0.360042,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 6.3114,
+      "prior_variance": 0.274321,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/highpeak",
+      "prior_score": 1.2913,
+      "prior_variance": 0.247331,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.4217,
+      "prior_variance": 0.222362,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 1.6497,
+      "prior_variance": 0.342909,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.6468,
+      "prior_variance": 0.248867,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Michigan",
+      "path": "northamerica/unitedstates/michigan",
+      "prior_score": 0.7691,
+      "prior_variance": 0.306907,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Varatella Valley",
+      "path": "europe/italy/liguria/varatellavalley",
+      "prior_score": 1.5459,
+      "prior_variance": 0.275895,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -0.8869,
+      "prior_variance": 0.213184,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Somba villages",
+      "path": "africa/benin/sombavillages",
+      "prior_score": -1.7429,
+      "prior_variance": 0.315508,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -4.9259,
+      "prior_variance": 0.356232,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -6.8354,
+      "prior_variance": 0.274192,
+      "prior_n": 5
+    }
+  ]
+}

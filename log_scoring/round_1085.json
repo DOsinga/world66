@@ -1,0 +1,200 @@
+{
+  "round": 1085,
+  "timestamp": "2026-04-12T22:08:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensbe",
+      "prior_rank": 2517,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_rank": 1684,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_rank": 2077,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_rank": 2516,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_rank": 2054,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_rank": 1148,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_rank": 792,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_rank": 2514,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Winchester Hants",
+      "path": "europe/unitedkingdom/england/winchesterhants",
+      "prior_rank": 1885,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_rank": 2500,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jersey",
+      "path": "europe/channelislands/jersey",
+      "prior_rank": 832,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/marlborough",
+      "prior_rank": 2535,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_rank": 1317,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_rank": 806,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cayo Largo",
+      "path": "northamerica/cuba/cayolargo",
+      "prior_rank": 2461,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Boa vista",
+      "path": "africa/capeverde/boavista",
+      "prior_rank": 2524,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_rank": 2058,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_rank": 1361,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_rank": 1754,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_rank": 1457,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_rank": 2329,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_rank": 4222,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_rank": 172,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_rank": 3324,
+      "prior_wins": 17,
+      "prior_n": 2
+    }
+  ]
+}

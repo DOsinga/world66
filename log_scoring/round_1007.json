@@ -1,0 +1,200 @@
+{
+  "round": 1007,
+  "timestamp": "2026-04-12T22:04:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_rank": 7150,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_rank": 5109,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/chigwell",
+      "prior_rank": 7221,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_rank": 7001,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_rank": 6295,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_rank": 7331,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lismore",
+      "path": "australiaandpacific/australia/newsouthwales/lismore",
+      "prior_rank": 6964,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_rank": 6288,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_rank": 6682,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_rank": 7455,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_rank": 5863,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_rank": 8007,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_rank": 7554,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Debe",
+      "path": "northamerica/trinidadandtobago/debe",
+      "prior_rank": 7504,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_rank": 7020,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_rank": 7399,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_rank": 5741,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_rank": 7372,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_rank": 5932,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Horley",
+      "path": "europe/unitedkingdom/england/horley",
+      "prior_rank": 7394,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mardan",
+      "path": "asia/pakistan/peshawar/mardan",
+      "prior_rank": 7241,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hannahurfri",
+      "path": "asia/china/hainanisland/hannahurfri",
+      "prior_rank": 4699,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_rank": 7435,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_rank": 6027,
+      "prior_wins": 20,
+      "prior_n": 3
+    }
+  ]
+}

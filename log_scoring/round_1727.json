@@ -1,0 +1,200 @@
+{
+  "round": 1727,
+  "timestamp": "2026-04-13T10:45:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_score": 6.2404,
+      "prior_variance": 0.318603,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 6.7071,
+      "prior_variance": 0.359757,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 7.8468,
+      "prior_variance": 0.410757,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 7.4525,
+      "prior_variance": 0.459523,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pamplona",
+      "path": "europe/spain/northernspain/pamplona",
+      "prior_score": 5.1749,
+      "prior_variance": 0.280472,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Las Palmas",
+      "path": "europe/spain/grancanaria/laspalmas",
+      "prior_score": 7.4272,
+      "prior_variance": 0.393409,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "North Cape",
+      "path": "europe/norway/northcape",
+      "prior_score": 3.6862,
+      "prior_variance": 0.340228,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 6.8325,
+      "prior_variance": 0.390048,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_score": 4.7463,
+      "prior_variance": 0.341731,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_score": 5.0122,
+      "prior_variance": 0.3962,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "East Coast",
+      "path": "australiaandpacific/australia/tasmania/eastcoast",
+      "prior_score": 5.4321,
+      "prior_variance": 0.364734,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": -1.7691,
+      "prior_variance": 0.568431,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.4229,
+      "prior_variance": 0.333171,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -0.7772,
+      "prior_variance": 0.319551,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_score": 1.0412,
+      "prior_variance": 0.351127,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -2.4516,
+      "prior_variance": 0.383005,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.1823,
+      "prior_variance": 0.30991,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_score": -3.0285,
+      "prior_variance": 0.552759,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.4154,
+      "prior_variance": 0.311925,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -0.7848,
+      "prior_variance": 0.406789,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.1647,
+      "prior_variance": 0.321985,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Zapresic",
+      "path": "europe/croatia/zapresic",
+      "prior_score": -4.3443,
+      "prior_variance": 0.366016,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_score": -5.3384,
+      "prior_variance": 0.327613,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -2.5593,
+      "prior_variance": 0.45735,
+      "prior_n": 4
+    }
+  ]
+}

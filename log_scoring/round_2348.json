@@ -1,0 +1,200 @@
+{
+  "round": 2348,
+  "timestamp": "2026-04-13T16:33:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 4.9842,
+      "prior_variance": 0.243823,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 2.7215,
+      "prior_variance": 0.234428,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.6372,
+      "prior_variance": 0.228263,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_score": 2.5914,
+      "prior_variance": 0.219411,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Canakkale",
+      "path": "asia/turkey/canakkale",
+      "prior_score": 2.6274,
+      "prior_variance": 0.227456,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 2.0357,
+      "prior_variance": 0.223489,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.8153,
+      "prior_variance": 0.248867,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.5494,
+      "prior_variance": 0.216035,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": 0.2432,
+      "prior_variance": 0.192756,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_score": 0.0256,
+      "prior_variance": 0.414106,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -2.0849,
+      "prior_variance": 0.19549,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_score": -2.4473,
+      "prior_variance": 0.231501,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.521,
+      "prior_variance": 0.19235,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ballerup",
+      "path": "europe/denmark/ballerup",
+      "prior_score": -4.1898,
+      "prior_variance": 0.219208,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.9194,
+      "prior_variance": 0.261718,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -5.1193,
+      "prior_variance": 0.246612,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_score": -5.771,
+      "prior_variance": 0.281321,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mallakast\u00ebr",
+      "path": "europe/albania/mallakaster",
+      "prior_score": -5.1053,
+      "prior_variance": 0.300486,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -3.7933,
+      "prior_variance": 0.207679,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_score": -4.9022,
+      "prior_variance": 0.236397,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -5.1837,
+      "prior_variance": 0.246537,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Hinjilicut",
+      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
+      "prior_score": -8.9622,
+      "prior_variance": 0.629961,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -8.9347,
+      "prior_variance": 0.303984,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_score": -10.9226,
+      "prior_variance": 0.69269,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 944,
+  "timestamp": "2026-04-12T16:08:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_rank": 71,
+      "prior_wins": 137,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_rank": 15,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_rank": 101,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_rank": 35,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_rank": 102,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_rank": 243,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_rank": 131,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "St. Croix",
+      "path": "northamerica/virginislands/stcroix",
+      "prior_rank": 222,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "New Zealand",
+      "path": "australiaandpacific/newzealand",
+      "prior_rank": 21,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "\u201cTakayama\u201d",
+      "path": "asia/japan/takayama",
+      "prior_rank": 11,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_rank": 258,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_rank": 25,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_rank": 42,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_rank": 263,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_rank": 8093,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_rank": 8103,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_rank": 7193,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_rank": 8137,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_rank": 8075,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_rank": 8112,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_rank": 8097,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "pheroani",
+      "path": "asia/pakistan/dera_ghazi_khan/pheroani",
+      "prior_rank": 8184,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_rank": 8171,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "BbCMQeVjeZFcG",
+      "path": "europe/finland/kotka/bbcmqevjezfcg",
+      "prior_rank": 8215,
+      "prior_wins": 0,
+      "prior_n": 3
+    }
+  ]
+}

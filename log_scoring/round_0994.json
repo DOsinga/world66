@@ -1,0 +1,200 @@
+{
+  "round": 994,
+  "timestamp": "2026-04-12T22:03:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ring of Kerry",
+      "path": "europe/ireland/ringofkerry",
+      "prior_rank": 54,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_rank": 434,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_rank": 824,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_rank": 83,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_rank": 184,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_rank": 302,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_rank": 32,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_rank": 169,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "US Virgin Islands",
+      "path": "northamerica/thecaribbean/virginislands",
+      "prior_rank": 536,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tenerife",
+      "path": "europe/spain/canaryislands/tenerife",
+      "prior_rank": 161,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Xi'an",
+      "path": "asia/china/xian",
+      "prior_rank": 566,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_rank": 52,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_rank": 46,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_rank": 301,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Jammu and Kashmir",
+      "path": "asia/india/jammuandkashmir",
+      "prior_rank": 619,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_rank": 535,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_rank": 179,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_rank": 891,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_rank": 889,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/stowonthewold",
+      "prior_rank": 675,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_rank": 1221,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_rank": 145,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_rank": 27,
+      "prior_wins": 158,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_rank": 1522,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

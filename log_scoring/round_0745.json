@@ -1,0 +1,200 @@
+{
+  "round": 745,
+  "timestamp": "2026-04-12T10:46:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_mu": 32.2339,
+      "prior_sigma": 6.3124,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_mu": 30.2372,
+      "prior_sigma": 4.9977,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Garden Route",
+      "path": "africa/southafrica/gardenroute",
+      "prior_mu": 24.0263,
+      "prior_sigma": 4.8965,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_mu": 22.5831,
+      "prior_sigma": 5.9139,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hesse/rudesheim",
+      "prior_mu": 21.5972,
+      "prior_sigma": 3.8987,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_mu": 21.8008,
+      "prior_sigma": 4.0617,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_mu": 22.417,
+      "prior_sigma": 5.6885,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_mu": 21.9608,
+      "prior_sigma": 2.8874,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_mu": 22.394,
+      "prior_sigma": 5.773,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_mu": 22.3105,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_mu": 22.5547,
+      "prior_sigma": 5.7178,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Surin Province",
+      "path": "asia/thailand/surin_province",
+      "prior_mu": 21.5346,
+      "prior_sigma": 4.6481,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_mu": 22.477,
+      "prior_sigma": 5.7849,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_mu": 22.3794,
+      "prior_sigma": 5.801,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/yucatan/uruapan",
+      "prior_mu": 21.3148,
+      "prior_sigma": 4.8147,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_mu": 21.3093,
+      "prior_sigma": 3.8848,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_mu": 22.2369,
+      "prior_sigma": 5.9209,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_mu": 21.5915,
+      "prior_sigma": 4.3112,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_mu": 21.0617,
+      "prior_sigma": 4.6286,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Krasnovodsk",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

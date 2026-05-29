@@ -1,0 +1,200 @@
+{
+  "round": 1810,
+  "timestamp": "2026-04-13T10:53:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 8.9027,
+      "prior_variance": 0.522377,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 10.1232,
+      "prior_variance": 0.611719,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.2308,
+      "prior_variance": 0.430715,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 8.62,
+      "prior_variance": 0.366003,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_score": 6.4778,
+      "prior_variance": 0.521307,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 6.1705,
+      "prior_variance": 0.332754,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Clare",
+      "path": "europe/ireland/clare",
+      "prior_score": 3.5026,
+      "prior_variance": 0.28172,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_score": 1.7825,
+      "prior_variance": 0.252865,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Campo de Criptana",
+      "path": "europe/spain/la_mancha/campo_de_criptana_1",
+      "prior_score": 3.1256,
+      "prior_variance": 0.32896,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_score": 3.688,
+      "prior_variance": 0.314738,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 4.0094,
+      "prior_variance": 0.333839,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 4.3418,
+      "prior_variance": 0.384296,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 2.1119,
+      "prior_variance": 0.333441,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 1.3355,
+      "prior_variance": 0.307375,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 0.6437,
+      "prior_variance": 0.301797,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": 0.0177,
+      "prior_variance": 0.299338,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -2.1691,
+      "prior_variance": 0.323143,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_score": -0.5672,
+      "prior_variance": 0.320106,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -1.1978,
+      "prior_variance": 0.277426,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -1.0183,
+      "prior_variance": 0.285985,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -2.2819,
+      "prior_variance": 0.470762,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.0053,
+      "prior_variance": 0.248892,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -3.0675,
+      "prior_variance": 0.35844,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -3.8574,
+      "prior_variance": 0.525757,
+      "prior_n": 4
+    }
+  ]
+}

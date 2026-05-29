@@ -1,0 +1,200 @@
+{
+  "round": 1459,
+  "timestamp": "2026-04-12T22:28:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Odaiba",
+      "path": "asia/japan/tokyo/tokyoodaiba",
+      "prior_rank": 1067,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_rank": 1790,
+      "prior_wins": 78,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Taipa",
+      "path": "asia/china/macau/taipa",
+      "prior_rank": 2374,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_rank": 6560,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_rank": 1956,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_rank": 1169,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_rank": 3023,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_rank": 1955,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_rank": 4311,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Streymoy",
+      "path": "europe/faroeislands/streymoy",
+      "prior_rank": 1204,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_rank": 1810,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cumbria",
+      "path": "europe/unitedkingdom/cumbria",
+      "prior_rank": 2472,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/glastonbury",
+      "prior_rank": 3021,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_rank": 616,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_rank": 2050,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Isle of Man",
+      "path": "europe/isleofman",
+      "prior_rank": 3279,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_rank": 1634,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/guanajuato/len",
+      "prior_rank": 2956,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_rank": 3000,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_rank": 1986,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_rank": 4024,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_rank": 4269,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_rank": 1265,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_rank": 884,
+      "prior_wins": 62,
+      "prior_n": 4
+    }
+  ]
+}

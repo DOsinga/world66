@@ -1,0 +1,200 @@
+{
+  "round": 1245,
+  "timestamp": "2026-04-12T22:17:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_rank": 8145,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_rank": 5345,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_rank": 7568,
+      "prior_wins": 19,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_rank": 7787,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_rank": 6946,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_rank": 5806,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_rank": 7235,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_rank": 5781,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/nevada/wendover",
+      "prior_rank": 7224,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_rank": 7558,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_rank": 6769,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_rank": 8033,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_rank": 5288,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_rank": 7595,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_rank": 8055,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_rank": 7665,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_rank": 6035,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Haryana",
+      "path": "asia/india/haryana",
+      "prior_rank": 7666,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_rank": 7503,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_rank": 7015,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "tarli",
+      "path": "asia/india/maharashtra/konkan/tarli",
+      "prior_rank": 6840,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_rank": 3539,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_rank": 7884,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_rank": 7524,
+      "prior_wins": 8,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 765,
+  "timestamp": "2026-04-12T10:47:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco",
+      "prior_mu": 33.2126,
+      "prior_sigma": 6.0107,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_mu": 23.0966,
+      "prior_sigma": 4.752,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_mu": 22.6996,
+      "prior_sigma": 4.8851,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_mu": 26.0451,
+      "prior_sigma": 4.3216,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Southland & Otago",
+      "path": "australiaandpacific/newzealand/otago",
+      "prior_mu": 22.4051,
+      "prior_sigma": 5.3155,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_mu": 21.6347,
+      "prior_sigma": 4.6682,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_mu": 22.5868,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Jinggangshan",
+      "path": "asia/china/jinggangshan",
+      "prior_mu": 19.2891,
+      "prior_sigma": 4.1092,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_mu": 21.5072,
+      "prior_sigma": 4.4596,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_mu": 22.6652,
+      "prior_sigma": 5.9078,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_mu": 21.6877,
+      "prior_sigma": 4.4862,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cuiaba",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_mu": 22.4535,
+      "prior_sigma": 5.6882,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_mu": 20.646,
+      "prior_sigma": 2.8398,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_mu": 22.4902,
+      "prior_sigma": 5.9433,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_mu": 16.0987,
+      "prior_sigma": 2.3462,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

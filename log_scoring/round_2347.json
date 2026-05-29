@@ -1,0 +1,200 @@
+{
+  "round": 2347,
+  "timestamp": "2026-04-13T16:33:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 2.5826,
+      "prior_variance": 0.19699,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_score": 2.7153,
+      "prior_variance": 0.221957,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_score": -1.7348,
+      "prior_variance": 0.210505,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 0.981,
+      "prior_variance": 0.188495,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.5322,
+      "prior_variance": 0.20416,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": -0.7832,
+      "prior_variance": 0.28291,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.2696,
+      "prior_variance": 0.207624,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -2.3239,
+      "prior_variance": 0.207427,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.4466,
+      "prior_variance": 0.281944,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -2.0993,
+      "prior_variance": 0.201309,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_score": -1.8653,
+      "prior_variance": 0.203628,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -6.1248,
+      "prior_variance": 0.300469,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -3.9673,
+      "prior_variance": 0.212352,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -3.8843,
+      "prior_variance": 0.231711,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.9004,
+      "prior_variance": 0.210263,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -2.6135,
+      "prior_variance": 0.246533,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -3.7454,
+      "prior_variance": 0.242095,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -3.7566,
+      "prior_variance": 0.199907,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.3888,
+      "prior_variance": 0.249673,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.6894,
+      "prior_variance": 0.323392,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -3.7993,
+      "prior_variance": 0.270318,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.6226,
+      "prior_variance": 0.259609,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_score": -7.171,
+      "prior_variance": 0.38155,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -10.2678,
+      "prior_variance": 0.363447,
+      "prior_n": 6
+    }
+  ]
+}

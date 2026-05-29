@@ -1,0 +1,5 @@
+northamerica/honduras/bayislands/cayos_cochinos
+asia/srilanka/ella
+europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne
+europe/italy/marche/ascoli_piceno
+southamerica/colombia/aracataca

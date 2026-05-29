@@ -1,0 +1,200 @@
+{
+  "round": 1853,
+  "timestamp": "2026-04-13T10:57:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aeolian Islands",
+      "path": "europe/italy/sicily/aeolianislands",
+      "prior_score": 9.7178,
+      "prior_variance": 0.44932,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 10.2352,
+      "prior_variance": 0.496656,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Umbria",
+      "path": "europe/italy/umbria",
+      "prior_score": 5.6391,
+      "prior_variance": 0.322195,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 8.7645,
+      "prior_variance": 0.720331,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 4.7682,
+      "prior_variance": 0.347521,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.1135,
+      "prior_variance": 0.278416,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_score": 4.377,
+      "prior_variance": 0.604786,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 3.9868,
+      "prior_variance": 0.543722,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.9073,
+      "prior_variance": 0.403212,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_score": 3.1989,
+      "prior_variance": 0.27083,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 1.9543,
+      "prior_variance": 0.268707,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_score": 2.8564,
+      "prior_variance": 0.272087,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 1.4218,
+      "prior_variance": 0.321929,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -0.9114,
+      "prior_variance": 0.316355,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 3.2622,
+      "prior_variance": 0.381259,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -1.4716,
+      "prior_variance": 0.235607,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.4801,
+      "prior_variance": 0.311786,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Block Island",
+      "path": "northamerica/unitedstates/rhodeisland/block_island",
+      "prior_score": 3.1324,
+      "prior_variance": 0.307108,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Gyumri",
+      "path": "europe/armenia/gyumri",
+      "prior_score": -0.7922,
+      "prior_variance": 0.350552,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -2.0574,
+      "prior_variance": 0.235297,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_score": -2.8903,
+      "prior_variance": 0.158416,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -2.9116,
+      "prior_variance": 0.379367,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -4.2674,
+      "prior_variance": 0.386588,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -4.8031,
+      "prior_variance": 0.289559,
+      "prior_n": 6
+    }
+  ]
+}

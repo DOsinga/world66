@@ -1,0 +1,200 @@
+{
+  "round": 2323,
+  "timestamp": "2026-04-13T16:31:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chianti Region",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
+      "prior_score": 7.5189,
+      "prior_variance": 0.268874,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 9.0344,
+      "prior_variance": 0.288236,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 6.0925,
+      "prior_variance": 0.237857,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_score": 2.4547,
+      "prior_variance": 0.384086,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 5.9267,
+      "prior_variance": 0.249523,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 5.0494,
+      "prior_variance": 0.240208,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 5.6324,
+      "prior_variance": 0.223101,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 2.3508,
+      "prior_variance": 0.235742,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 3.2011,
+      "prior_variance": 0.234146,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 4.4446,
+      "prior_variance": 0.258346,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 3.144,
+      "prior_variance": 0.232341,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_score": 1.1086,
+      "prior_variance": 0.265905,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_score": 2.5253,
+      "prior_variance": 0.217731,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.3543,
+      "prior_variance": 0.199216,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 3.6811,
+      "prior_variance": 0.229225,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 0.5034,
+      "prior_variance": 0.234867,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": 0.2928,
+      "prior_variance": 0.192723,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 1.0828,
+      "prior_variance": 0.145772,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 1.4343,
+      "prior_variance": 0.217186,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_score": 1.2914,
+      "prior_variance": 0.35594,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.2288,
+      "prior_variance": 0.207443,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.8672,
+      "prior_variance": 0.218389,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.6642,
+      "prior_variance": 0.227842,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.5987,
+      "prior_variance": 0.21926,
+      "prior_n": 6
+    }
+  ]
+}

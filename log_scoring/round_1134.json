@@ -1,0 +1,200 @@
+{
+  "round": 1134,
+  "timestamp": "2026-04-12T22:11:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-Leonard",
+      "path": "northamerica/canada/quebec/saintleonard",
+      "prior_rank": 7682,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_rank": 8078,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_rank": 8135,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_rank": 7800,
+      "prior_wins": 13,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_rank": 8207,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/croydon",
+      "prior_rank": 8038,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Joescom Int'l",
+      "path": "africa/nigeria/lagos/joescom_intl",
+      "prior_rank": 7992,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_rank": 8072,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_rank": 7347,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_rank": 7360,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_rank": 7689,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_rank": 8046,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_rank": 8158,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Podujeva",
+      "path": "europe/serbia/kosovoprovince/podujeva_1",
+      "prior_rank": 8137,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_rank": 8136,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_rank": 7973,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_rank": 7833,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_rank": 8053,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_rank": 6776,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "faisal bhtti",
+      "path": "asia/pakistan/cholistan/faisal_bhtti",
+      "prior_rank": 8067,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_rank": 8114,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_rank": 6860,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_rank": 5963,
+      "prior_wins": 30,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_rank": 7725,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

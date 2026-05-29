@@ -1,0 +1,200 @@
+{
+  "round": 1834,
+  "timestamp": "2026-04-13T10:55:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Winchester Hants",
+      "path": "europe/unitedkingdom/england/winchesterhants",
+      "prior_score": 3.1723,
+      "prior_variance": 0.312916,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 3.9115,
+      "prior_variance": 0.261627,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_score": 2.2399,
+      "prior_variance": 0.468367,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 5.0065,
+      "prior_variance": 0.396178,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 0.8304,
+      "prior_variance": 0.262281,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 2.9531,
+      "prior_variance": 0.353724,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 1.7355,
+      "prior_variance": 0.299148,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": 0.2777,
+      "prior_variance": 0.31157,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Vidoy",
+      "path": "europe/faroeislands/vidoy",
+      "prior_score": 0.5245,
+      "prior_variance": 0.30603,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.8236,
+      "prior_variance": 0.262926,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": 0.0978,
+      "prior_variance": 0.271561,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.2589,
+      "prior_variance": 0.329795,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ponce",
+      "path": "northamerica/puertorico/ponce",
+      "prior_score": 1.5417,
+      "prior_variance": 0.284263,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_score": 0.0452,
+      "prior_variance": 0.353008,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.5956,
+      "prior_variance": 0.251465,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -3.1217,
+      "prior_variance": 0.309941,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.5299,
+      "prior_variance": 0.277944,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.0648,
+      "prior_variance": 0.317656,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -4.9947,
+      "prior_variance": 0.301097,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -6.5502,
+      "prior_variance": 0.377677,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Buckeye",
+      "path": "northamerica/unitedstates/arizona/buckeye",
+      "prior_score": -5.9902,
+      "prior_variance": 0.288612,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -5.7949,
+      "prior_variance": 0.374235,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "El Progreso",
+      "path": "northamerica/honduras/elprogreso",
+      "prior_score": -5.7565,
+      "prior_variance": 0.360397,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -5.3137,
+      "prior_variance": 0.308604,
+      "prior_n": 5
+    }
+  ]
+}

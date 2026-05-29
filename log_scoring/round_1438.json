@@ -1,0 +1,200 @@
+{
+  "round": 1438,
+  "timestamp": "2026-04-12T22:27:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_rank": 369,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_rank": 1072,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_rank": 2476,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_rank": 1489,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_rank": 964,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_rank": 3059,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_rank": 2854,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_rank": 1648,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Barossa Valley",
+      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
+      "prior_rank": 2656,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_rank": 1061,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_rank": 1387,
+      "prior_wins": 52,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cabo Rojo",
+      "path": "northamerica/puertorico/caborojo",
+      "prior_rank": 761,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_rank": 1572,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_rank": 2487,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_rank": 1491,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_rank": 528,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_rank": 1575,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_rank": 1487,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_rank": 657,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_rank": 1833,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_rank": 1401,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "The Hamptons",
+      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
+      "prior_rank": 1831,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/skipton",
+      "prior_rank": 1124,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_rank": 1965,
+      "prior_wins": 46,
+      "prior_n": 3
+    }
+  ]
+}

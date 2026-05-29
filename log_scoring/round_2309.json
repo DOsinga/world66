@@ -1,0 +1,200 @@
+{
+  "round": 2309,
+  "timestamp": "2026-04-13T16:29:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 9.9782,
+      "prior_variance": 0.441495,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.7821,
+      "prior_variance": 0.252967,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.1734,
+      "prior_variance": 0.30477,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_score": 4.3213,
+      "prior_variance": 0.241227,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.021,
+      "prior_variance": 0.297213,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.2769,
+      "prior_variance": 0.205014,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.7821,
+      "prior_variance": 0.260955,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "New Hampshire",
+      "path": "northamerica/unitedstates/newhampshire",
+      "prior_score": 0.668,
+      "prior_variance": 0.302874,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -2.3413,
+      "prior_variance": 0.220856,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.2233,
+      "prior_variance": 0.248628,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Jesenice",
+      "path": "europe/slovenia/jesenice",
+      "prior_score": -2.0422,
+      "prior_variance": 0.265589,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.0842,
+      "prior_variance": 0.239163,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -3.2045,
+      "prior_variance": 0.191412,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/huddersfield",
+      "prior_score": -3.6223,
+      "prior_variance": 0.375086,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -2.5577,
+      "prior_variance": 0.211165,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -4.5288,
+      "prior_variance": 0.288421,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -5.0971,
+      "prior_variance": 0.27241,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Witney",
+      "path": "europe/unitedkingdom/england/witney",
+      "prior_score": -3.0345,
+      "prior_variance": 0.202214,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -3.9977,
+      "prior_variance": 0.230633,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_score": -3.6888,
+      "prior_variance": 0.249876,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.5624,
+      "prior_variance": 0.26375,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -4.9377,
+      "prior_variance": 0.270286,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -5.1049,
+      "prior_variance": 0.22838,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.469,
+      "prior_variance": 0.342716,
+      "prior_n": 6
+    }
+  ]
+}

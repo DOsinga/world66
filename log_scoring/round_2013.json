@@ -1,0 +1,200 @@
+{
+  "round": 2013,
+  "timestamp": "2026-04-13T16:02:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_score": 5.4027,
+      "prior_variance": 0.254905,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 5.1235,
+      "prior_variance": 0.242761,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 4.3184,
+      "prior_variance": 0.313235,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 2.9257,
+      "prior_variance": 0.386181,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_score": 1.7672,
+      "prior_variance": 0.34402,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "New Territories",
+      "path": "asia/china/hongkong/newterritories",
+      "prior_score": 3.1161,
+      "prior_variance": 0.24552,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 4.7545,
+      "prior_variance": 0.25865,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.2337,
+      "prior_variance": 0.233889,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -1.4698,
+      "prior_variance": 0.320808,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.1675,
+      "prior_variance": 0.284353,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -0.7259,
+      "prior_variance": 0.26285,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_score": -2.0209,
+      "prior_variance": 0.251546,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.985,
+      "prior_variance": 0.330234,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Oropesa",
+      "path": "europe/spain/centralspain/oropesa",
+      "prior_score": -0.493,
+      "prior_variance": 0.330814,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_score": -1.7747,
+      "prior_variance": 0.255002,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Elanora",
+      "path": "australiaandpacific/australia/queensland/elanora",
+      "prior_score": -3.734,
+      "prior_variance": 0.318929,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -3.3733,
+      "prior_variance": 0.27195,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -2.6727,
+      "prior_variance": 0.250138,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/oakland",
+      "prior_score": -3.5202,
+      "prior_variance": 0.325084,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -3.0472,
+      "prior_variance": 0.318977,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -4.3506,
+      "prior_variance": 0.254842,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -4.8093,
+      "prior_variance": 0.267399,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/goole",
+      "prior_score": -4.4343,
+      "prior_variance": 0.259694,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -7.541,
+      "prior_variance": 0.378333,
+      "prior_n": 5
+    }
+  ]
+}

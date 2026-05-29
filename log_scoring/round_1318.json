@@ -1,0 +1,200 @@
+{
+  "round": 1318,
+  "timestamp": "2026-04-12T22:21:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_rank": 3167,
+      "prior_wins": 53,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_rank": 224,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_rank": 669,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_rank": 1536,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_rank": 2006,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "San Andres",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_rank": 851,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_rank": 661,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_rank": 1633,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_rank": 1503,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_rank": 1475,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_rank": 3011,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
+      "prior_rank": 1352,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/harrogate",
+      "prior_rank": 1187,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_rank": 1476,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_rank": 1606,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_rank": 3586,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_rank": 1276,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/hawkes_bay",
+      "prior_rank": 1354,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_rank": 4099,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_rank": 1506,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_rank": 2782,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_rank": 760,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_rank": 3580,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_rank": 3006,
+      "prior_wins": 37,
+      "prior_n": 3
+    }
+  ]
+}

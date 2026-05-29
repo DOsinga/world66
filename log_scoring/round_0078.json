@@ -1,0 +1,200 @@
+{
+  "round": 78,
+  "timestamp": "2026-04-12T08:02:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_mu": 25.62,
+      "prior_sigma": 3.56,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_mu": 30.06,
+      "prior_sigma": 5.13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_mu": 23.89,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_mu": 22.24,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_mu": 21.73,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 22.51,
+      "prior_sigma": 3.21,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 21.2,
+      "prior_sigma": 3.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_mu": 22.84,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_mu": 21.17,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_mu": 20.7,
+      "prior_sigma": 3.62,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 20.99,
+      "prior_sigma": 3.26,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_mu": 21.6,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 21.28,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_mu": 22.45,
+      "prior_sigma": 5.47,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_mu": 21.89,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 20.94,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 20.61,
+      "prior_sigma": 2.53,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_mu": 20.82,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_mu": 20.06,
+      "prior_sigma": 3.22,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_mu": 20.8,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 20.82,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    }
+  ]
+}

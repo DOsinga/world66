@@ -1,0 +1,200 @@
+{
+  "round": 566,
+  "timestamp": "2026-04-12T10:37:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_mu": 23.2694,
+      "prior_sigma": 5.5823,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_mu": 21.3261,
+      "prior_sigma": 2.8305,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_mu": 23.1857,
+      "prior_sigma": 5.8471,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_mu": 22.927,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_mu": 22.574,
+      "prior_sigma": 5.5536,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_mu": 22.5159,
+      "prior_sigma": 5.749,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_mu": 22.0602,
+      "prior_sigma": 5.7502,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_mu": 21.8558,
+      "prior_sigma": 4.4814,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "West Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles/westlosangeles",
+      "prior_mu": 22.5255,
+      "prior_sigma": 5.7232,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_mu": 22.6346,
+      "prior_sigma": 5.9504,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_mu": 22.4946,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_mu": 21.0189,
+      "prior_sigma": 4.7236,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_mu": 22.6899,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Upper Montclair",
+      "path": "northamerica/unitedstates/newjersey/uppermontclair",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_mu": 21.8928,
+      "prior_sigma": 4.6317,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_mu": 22.4328,
+      "prior_sigma": 5.5509,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

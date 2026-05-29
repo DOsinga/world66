@@ -1,0 +1,200 @@
+{
+  "round": 40,
+  "timestamp": "2026-04-11T19:25:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_mu": 24.49,
+      "prior_sigma": 6.11,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_mu": 22.29,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.75,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_mu": 26.36,
+      "prior_sigma": 6.4,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 21.22,
+      "prior_sigma": 3.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_mu": 21.58,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_mu": 22.2,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_mu": 21.77,
+      "prior_sigma": 4.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_mu": 21.55,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_mu": 18.3,
+      "prior_sigma": 6.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_mu": 21.85,
+      "prior_sigma": 4.65,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 21.69,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 21.92,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Porterville",
+      "path": "northamerica/unitedstates/california/centralvalley/porterville",
+      "prior_mu": 22.44,
+      "prior_sigma": 5.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Africa",
+      "path": "africa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_mu": 18.61,
+      "prior_sigma": 4.34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_mu": 18.2,
+      "prior_sigma": 5.03,
+      "prior_n": 2
+    }
+  ]
+}

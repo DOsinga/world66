@@ -1,0 +1,200 @@
+{
+  "round": 2089,
+  "timestamp": "2026-04-13T16:09:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 5.3808,
+      "prior_variance": 0.283482,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 4.509,
+      "prior_variance": 0.28234,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Flores",
+      "path": "asia/indonesia/flores",
+      "prior_score": 5.1097,
+      "prior_variance": 0.35316,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 5.4585,
+      "prior_variance": 0.332174,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "kilimanjaro",
+      "path": "africa/kenya/trekking/kilimanjaro",
+      "prior_score": 8.0779,
+      "prior_variance": 0.327151,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pamir Highway",
+      "path": "asia/tajikistan/pamir_highway",
+      "prior_score": 4.764,
+      "prior_variance": 0.27946,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 4.365,
+      "prior_variance": 0.277294,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Central Spain",
+      "path": "europe/spain/centralspain",
+      "prior_score": 0.2142,
+      "prior_variance": 0.266115,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 1.0413,
+      "prior_variance": 0.246694,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_score": -0.2577,
+      "prior_variance": 0.288385,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": 0.424,
+      "prior_variance": 0.238675,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": -0.6468,
+      "prior_variance": 0.260202,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.608,
+      "prior_variance": 0.242059,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.5905,
+      "prior_variance": 0.339891,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.2029,
+      "prior_variance": 0.243966,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -3.9259,
+      "prior_variance": 0.549723,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_score": -5.5577,
+      "prior_variance": 0.384074,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.2247,
+      "prior_variance": 0.42532,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Torreon",
+      "path": "northamerica/mexico/yucatan/torreon",
+      "prior_score": -5.3845,
+      "prior_variance": 0.250189,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -4.0604,
+      "prior_variance": 0.245512,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -6.65,
+      "prior_variance": 0.429376,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_score": -5.1308,
+      "prior_variance": 0.215716,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Chilton",
+      "path": "northamerica/unitedstates/wisconsin/chilton",
+      "prior_score": -5.7833,
+      "prior_variance": 0.314175,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ainaba",
+      "path": "africa/somaliland/ainaba",
+      "prior_score": -10.3105,
+      "prior_variance": 0.24526,
+      "prior_n": 7
+    }
+  ]
+}

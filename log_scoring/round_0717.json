@@ -1,0 +1,200 @@
+{
+  "round": 717,
+  "timestamp": "2026-04-12T10:44:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_mu": 29.1111,
+      "prior_sigma": 6.9245,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_mu": 22.7458,
+      "prior_sigma": 4.7477,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_mu": 21.8397,
+      "prior_sigma": 4.5938,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_mu": 21.7186,
+      "prior_sigma": 4.4564,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_mu": 21.2432,
+      "prior_sigma": 3.6986,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_mu": 21.6535,
+      "prior_sigma": 4.5596,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_mu": 21.8559,
+      "prior_sigma": 4.4663,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_mu": 22.517,
+      "prior_sigma": 5.9123,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hesse/wiesbaden",
+      "prior_mu": 22.6914,
+      "prior_sigma": 5.6905,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_mu": 21.5421,
+      "prior_sigma": 4.5697,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_mu": 21.9381,
+      "prior_sigma": 4.5921,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_mu": 21.5886,
+      "prior_sigma": 4.6874,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_mu": 19.1649,
+      "prior_sigma": 4.9565,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Weilburg",
+      "path": "europe/germany/hessen/weilburg",
+      "prior_mu": 22.1836,
+      "prior_sigma": 4.4372,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Eckernf?rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_mu": 22.2945,
+      "prior_sigma": 5.4584,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_mu": 18.0779,
+      "prior_sigma": 6.697,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_mu": 22.5468,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Steinweiler",
+      "path": "europe/germany/bavaria/steinweiler",
+      "prior_mu": 19.5009,
+      "prior_sigma": 4.2564,
+      "prior_n": 3
+    }
+  ]
+}

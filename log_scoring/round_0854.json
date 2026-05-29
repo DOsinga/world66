@@ -1,0 +1,200 @@
+{
+  "round": 854,
+  "timestamp": "2026-04-12T14:44:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bali",
+      "path": "asia/indonesia/bali",
+      "prior_score": 14.5877,
+      "prior_variance": 7.458298,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_score": 10.2422,
+      "prior_variance": 2.044891,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Reunion",
+      "path": "africa/reunion",
+      "prior_score": 5.4801,
+      "prior_variance": 2.380348,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 5.3629,
+      "prior_variance": 1.461173,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Australia",
+      "path": "australiaandpacific/australia",
+      "prior_score": -2.4204,
+      "prior_variance": 1.549349,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Uttaranchal",
+      "path": "asia/india/uttaranchal",
+      "prior_score": 2.7739,
+      "prior_variance": 0.771081,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_score": -0.9331,
+      "prior_variance": 1.272539,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 7.8298,
+      "prior_variance": 1.789065,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 2.6446,
+      "prior_variance": 1.430307,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 0.7178,
+      "prior_variance": 1.729774,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 3.6919,
+      "prior_variance": 3.640134,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Odaiba",
+      "path": "asia/japan/tokyo/tokyoodaiba",
+      "prior_score": 7.358,
+      "prior_variance": 1.688353,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 1.3137,
+      "prior_variance": 1.440876,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_score": 2.8657,
+      "prior_variance": 1.554369,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 0.6236,
+      "prior_variance": 1.381604,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Masirah Island",
+      "path": "asia/oman/masirahisland",
+      "prior_score": -0.9876,
+      "prior_variance": 1.306499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -2.2822,
+      "prior_variance": 1.353564,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 6.8125,
+      "prior_variance": 1.931519,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_score": -0.66,
+      "prior_variance": 1.408498,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.2981,
+      "prior_variance": 0.524527,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -3.1669,
+      "prior_variance": 1.18525,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.8465,
+      "prior_variance": 1.178449,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -5.3446,
+      "prior_variance": 2.15524,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -6.766,
+      "prior_variance": 1.503041,
+      "prior_n": 1
+    }
+  ]
+}

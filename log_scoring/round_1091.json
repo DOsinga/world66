@@ -1,0 +1,200 @@
+{
+  "round": 1091,
+  "timestamp": "2026-04-12T22:08:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_rank": 1474,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_rank": 2737,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_rank": 873,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_rank": 1339,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadei",
+      "prior_rank": 1215,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_rank": 2221,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_rank": 989,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_rank": 3601,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_rank": 678,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/tauranga",
+      "prior_rank": 1943,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_rank": 350,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_rank": 2505,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_rank": 2313,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_rank": 1892,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_rank": 2306,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_rank": 1040,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_rank": 1105,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_rank": 1100,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_rank": 2539,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Prenzlauer Berg",
+      "path": "europe/germany/berlin/prenzlauerberg",
+      "prior_rank": 2204,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_rank": 2819,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_rank": 2140,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_rank": 2320,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_rank": 2764,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

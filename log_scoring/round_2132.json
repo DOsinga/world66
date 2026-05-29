@@ -1,0 +1,200 @@
+{
+  "round": 2132,
+  "timestamp": "2026-04-13T16:13:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/wanaka",
+      "prior_score": 7.3709,
+      "prior_variance": 0.594304,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 7.9197,
+      "prior_variance": 0.386835,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 5.22,
+      "prior_variance": 0.284862,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_score": 6.0703,
+      "prior_variance": 0.292169,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.2371,
+      "prior_variance": 0.278459,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 3.8721,
+      "prior_variance": 0.303065,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 4.1466,
+      "prior_variance": 0.253634,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 0.6769,
+      "prior_variance": 0.247835,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": 1.0507,
+      "prior_variance": 0.288957,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 0.903,
+      "prior_variance": 0.284779,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -1.1425,
+      "prior_variance": 0.275035,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -0.6737,
+      "prior_variance": 0.36396,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -1.2533,
+      "prior_variance": 0.317597,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mannheim",
+      "path": "europe/germany/mannheim",
+      "prior_score": -0.5814,
+      "prior_variance": 0.292058,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -1.5287,
+      "prior_variance": 0.250762,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.4252,
+      "prior_variance": 0.242364,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -2.2996,
+      "prior_variance": 0.397969,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_score": -3.3538,
+      "prior_variance": 0.187094,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_score": -2.8914,
+      "prior_variance": 0.287864,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -1.516,
+      "prior_variance": 0.168172,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -4.1377,
+      "prior_variance": 0.313426,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -3.6457,
+      "prior_variance": 0.352844,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_score": -5.9698,
+      "prior_variance": 0.443669,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -2.8249,
+      "prior_variance": 0.238564,
+      "prior_n": 5
+    }
+  ]
+}

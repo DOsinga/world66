@@ -1,0 +1,200 @@
+{
+  "round": 1201,
+  "timestamp": "2026-04-12T22:14:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oman",
+      "path": "asia/oman",
+      "prior_rank": 1748,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_rank": 2185,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_rank": 4716,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_rank": 3567,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_rank": 3681,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Champagne",
+      "path": "europe/france/east/champagne",
+      "prior_rank": 1893,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Languedoc",
+      "path": "europe/france/midi/languedoc",
+      "prior_rank": 2365,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/south_island/marlborough",
+      "prior_rank": 3578,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_rank": 316,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Playa del Ingl\u00e9s",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles",
+      "prior_rank": 1758,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Saint-Martin",
+      "path": "northamerica/saintmartin",
+      "prior_rank": 747,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_rank": 513,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_rank": 1116,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_rank": 1419,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_rank": 2829,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_rank": 1906,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_rank": 1656,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_rank": 2392,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_rank": 3579,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_rank": 2850,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_rank": 1964,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Island \u0160olta",
+      "path": "europe/croatia/island_solta",
+      "prior_rank": 5942,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_rank": 581,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_rank": 1703,
+      "prior_wins": 33,
+      "prior_n": 2
+    }
+  ]
+}

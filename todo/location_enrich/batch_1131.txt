@@ -1,0 +1,5 @@
+asia/singapore/islands/sentosa
+europe/greece/eleusis
+europe/unitedkingdom/scotland/elgin
+southamerica/venezuela/paraguan_peninsu
+europe/germany/schleswigholstein/kiel

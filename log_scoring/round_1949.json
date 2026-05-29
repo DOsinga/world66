@@ -1,0 +1,200 @@
+{
+  "round": 1949,
+  "timestamp": "2026-04-13T15:56:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 2.8229,
+      "prior_variance": 0.258551,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.1435,
+      "prior_variance": 0.421587,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": 0.2884,
+      "prior_variance": 0.249567,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": 0.0609,
+      "prior_variance": 0.288831,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.4323,
+      "prior_variance": 0.239151,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -2.6124,
+      "prior_variance": 0.173749,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_score": 0.5799,
+      "prior_variance": 0.198803,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -2.0364,
+      "prior_variance": 0.213959,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": -3.7918,
+      "prior_variance": 0.188851,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.6946,
+      "prior_variance": 0.31352,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_score": -2.2265,
+      "prior_variance": 0.302967,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -5.0188,
+      "prior_variance": 0.345302,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.4293,
+      "prior_variance": 0.272904,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -4.3886,
+      "prior_variance": 0.270661,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_score": -5.2522,
+      "prior_variance": 0.439638,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -3.1203,
+      "prior_variance": 0.259307,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -3.0773,
+      "prior_variance": 0.301205,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -4.0066,
+      "prior_variance": 0.349258,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/sabden",
+      "prior_score": -4.2888,
+      "prior_variance": 0.270115,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Mahlow",
+      "path": "europe/germany/brandenburg/mahlow",
+      "prior_score": -5.7674,
+      "prior_variance": 0.338868,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Varlosen",
+      "path": "europe/germany/lowersaxony/varlosen",
+      "prior_score": -5.9592,
+      "prior_variance": 0.330227,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -9.2008,
+      "prior_variance": 0.467283,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -10.5039,
+      "prior_variance": 0.49099,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -11.1799,
+      "prior_variance": 0.644321,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+europe/germany/mecklenburgwesternpomerania/burgstargard
+europe/italy/sicily/agrigento
+europe/italy/tuscany/bibbona
+europe/albania/berat
+northamerica/unitedstates/newyorkstate/lakeplacid

@@ -1,0 +1,200 @@
+{
+  "round": 1730,
+  "timestamp": "2026-04-13T10:46:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 8.1463,
+      "prior_variance": 0.410347,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Comino",
+      "path": "europe/malta/gozo/comino",
+      "prior_score": 2.9324,
+      "prior_variance": 0.378524,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/roatan",
+      "prior_score": 5.6135,
+      "prior_variance": 0.361276,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 5.2653,
+      "prior_variance": 0.355643,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.81,
+      "prior_variance": 0.292318,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 4.3727,
+      "prior_variance": 0.659299,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.6069,
+      "prior_variance": 0.385998,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 0.5315,
+      "prior_variance": 0.450664,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 0.8349,
+      "prior_variance": 0.359125,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Berwick on Tweed",
+      "path": "europe/unitedkingdom/england/berwickontweed",
+      "prior_score": 0.2474,
+      "prior_variance": 0.501084,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Argentina valley",
+      "path": "europe/italy/liguria/argentinavalley",
+      "prior_score": 1.3365,
+      "prior_variance": 0.298353,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.3322,
+      "prior_variance": 0.35661,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": 1.8438,
+      "prior_variance": 0.377891,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 0.6986,
+      "prior_variance": 0.28281,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -0.5874,
+      "prior_variance": 0.281298,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ludlow",
+      "path": "northamerica/unitedstates/vermont/ludlow",
+      "prior_score": -0.2737,
+      "prior_variance": 0.355262,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_score": -0.2192,
+      "prior_variance": 0.338145,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": -0.2011,
+      "prior_variance": 0.302243,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -2.4901,
+      "prior_variance": 0.584607,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -1.8839,
+      "prior_variance": 0.314544,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -3.2914,
+      "prior_variance": 0.660891,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -4.1145,
+      "prior_variance": 0.761501,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.5228,
+      "prior_variance": 0.294109,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.206,
+      "prior_variance": 0.346791,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2176,
+  "timestamp": "2026-04-13T16:17:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.2624,
+      "prior_variance": 0.329617,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/auckland",
+      "prior_score": 6.816,
+      "prior_variance": 0.525882,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Arizona",
+      "path": "northamerica/unitedstates/arizona",
+      "prior_score": 4.3657,
+      "prior_variance": 0.393826,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_score": 2.0041,
+      "prior_variance": 0.430088,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_score": 7.2788,
+      "prior_variance": 0.528954,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 7.4639,
+      "prior_variance": 0.294396,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 6.6091,
+      "prior_variance": 0.399819,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Korcula",
+      "path": "europe/croatia/korcula",
+      "prior_score": 6.7338,
+      "prior_variance": 0.348559,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "St. John",
+      "path": "northamerica/virginislands/stjohn",
+      "prior_score": 7.5446,
+      "prior_variance": 0.264571,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Finland",
+      "path": "europe/finland",
+      "prior_score": 5.7783,
+      "prior_variance": 0.233298,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Lithuania",
+      "path": "europe/lithuania",
+      "prior_score": 0.7404,
+      "prior_variance": 0.273663,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/whitby",
+      "prior_score": 4.0868,
+      "prior_variance": 0.260514,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island/koh_talu",
+      "prior_score": 3.9933,
+      "prior_variance": 0.243591,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.8829,
+      "prior_variance": 0.278515,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 1.1514,
+      "prior_variance": 0.24527,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 4.0018,
+      "prior_variance": 0.234991,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 1.5471,
+      "prior_variance": 0.20475,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 2.3268,
+      "prior_variance": 0.299991,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 2.0972,
+      "prior_variance": 0.278458,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.1882,
+      "prior_variance": 0.228671,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsu",
+      "prior_score": 0.0377,
+      "prior_variance": 0.213789,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.2514,
+      "prior_variance": 0.246535,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -3.2218,
+      "prior_variance": 0.264567,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.2238,
+      "prior_variance": 0.24221,
+      "prior_n": 5
+    }
+  ]
+}

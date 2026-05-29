@@ -1,0 +1,200 @@
+{
+  "round": 1042,
+  "timestamp": "2026-04-12T22:06:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_rank": 3803,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_rank": 4246,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_rank": 2420,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_rank": 1831,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_rank": 5027,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_rank": 4490,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_rank": 4430,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_rank": 4612,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_rank": 6229,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_rank": 3637,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dar es salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_rank": 5496,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_rank": 5078,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_rank": 3037,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_rank": 5026,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_rank": 4465,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_rank": 5480,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_rank": 3431,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_rank": 2548,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_rank": 2670,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_rank": 2769,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_rank": 2002,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_rank": 3850,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_rank": 5458,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_rank": 4203,
+      "prior_wins": 11,
+      "prior_n": 1
+    }
+  ]
+}

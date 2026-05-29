@@ -1,0 +1,200 @@
+{
+  "round": 109,
+  "timestamp": "2026-04-12T08:04:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 30.69,
+      "prior_sigma": 4.5,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 23.46,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_mu": 22.57,
+      "prior_sigma": 3.62,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_mu": 21.01,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_mu": 21.55,
+      "prior_sigma": 3.0,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.0,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_mu": 20.8,
+      "prior_sigma": 3.56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_mu": 21.31,
+      "prior_sigma": 3.08,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 20.59,
+      "prior_sigma": 2.69,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 21.28,
+      "prior_sigma": 2.53,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_mu": 21.14,
+      "prior_sigma": 3.45,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 20.95,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_mu": 20.48,
+      "prior_sigma": 2.86,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_mu": 20.43,
+      "prior_sigma": 2.96,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_mu": 20.57,
+      "prior_sigma": 3.37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_mu": 20.68,
+      "prior_sigma": 2.84,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 19.94,
+      "prior_sigma": 2.79,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_mu": 20.3,
+      "prior_sigma": 3.14,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 20.24,
+      "prior_sigma": 3.17,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 18.4,
+      "prior_sigma": 2.74,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_mu": 19.83,
+      "prior_sigma": 3.43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_mu": 19.09,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_mu": 17.46,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 12.96,
+      "prior_sigma": 2.84,
+      "prior_n": 8
+    }
+  ]
+}

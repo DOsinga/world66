@@ -1,0 +1,200 @@
+{
+  "round": 957,
+  "timestamp": "2026-04-12T16:09:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_rank": 60,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/yucatan/playadelcarmen",
+      "prior_rank": 669,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_rank": 928,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_rank": 760,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Estonia",
+      "path": "europe/estonia",
+      "prior_rank": 8014,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "South Dakota",
+      "path": "northamerica/unitedstates/southdakota",
+      "prior_rank": 2865,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_rank": 2421,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/taranaki",
+      "prior_rank": 3115,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_rank": 2584,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
+      "prior_rank": 1116,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_rank": 5173,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_rank": 2015,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_rank": 5133,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_rank": 3899,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_rank": 2427,
+      "prior_wins": 102,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_rank": 4249,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_rank": 3150,
+      "prior_wins": 98,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Solentiname Islands",
+      "path": "northamerica/nicaragua/solentiname_island",
+      "prior_rank": 4534,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_rank": 6051,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_rank": 6416,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_rank": 7813,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_rank": 8091,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_rank": 7353,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2193,
+  "timestamp": "2026-04-13T16:19:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 5.8909,
+      "prior_variance": 0.272162,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "St. Johann",
+      "path": "europe/austria/stjohann",
+      "prior_score": 1.2784,
+      "prior_variance": 0.247944,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 1.2155,
+      "prior_variance": 0.227583,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_score": 2.1052,
+      "prior_variance": 0.299875,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_score": 1.6876,
+      "prior_variance": 0.254986,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_score": -3.0663,
+      "prior_variance": 0.405452,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": 0.2388,
+      "prior_variance": 0.279901,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.2263,
+      "prior_variance": 0.221684,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -2.3777,
+      "prior_variance": 0.283729,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Jiangxi",
+      "path": "asia/china/jiangxi",
+      "prior_score": -3.0876,
+      "prior_variance": 0.253319,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_score": -2.065,
+      "prior_variance": 0.330821,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -3.3862,
+      "prior_variance": 0.336919,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.6741,
+      "prior_variance": 0.19918,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_score": -2.8043,
+      "prior_variance": 0.307536,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.4681,
+      "prior_variance": 0.227175,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -4.4042,
+      "prior_variance": 0.401175,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_score": -3.4913,
+      "prior_variance": 0.270648,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_score": -3.3389,
+      "prior_variance": 0.264177,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bechar",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.9606,
+      "prior_variance": 0.313344,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_score": -6.6381,
+      "prior_variance": 0.291104,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -3.4569,
+      "prior_variance": 0.303416,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_score": -5.1754,
+      "prior_variance": 0.263283,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Teaneck",
+      "path": "northamerica/unitedstates/newjersey/teaneck",
+      "prior_score": -4.6854,
+      "prior_variance": 0.29681,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_score": -5.7012,
+      "prior_variance": 0.315287,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1648,
+  "timestamp": "2026-04-13T10:38:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bhutan",
+      "path": "asia/bhutan",
+      "prior_score": 10.4963,
+      "prior_variance": 2.146817,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kyushu",
+      "path": "asia/japan/kyushu",
+      "prior_score": 9.0424,
+      "prior_variance": 0.437983,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 8.5797,
+      "prior_variance": 0.897358,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 7.4085,
+      "prior_variance": 0.75352,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 8.2052,
+      "prior_variance": 0.534597,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 6.7279,
+      "prior_variance": 0.509918,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 6.7147,
+      "prior_variance": 0.463061,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_score": 8.1259,
+      "prior_variance": 0.353885,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Burgundy",
+      "path": "europe/france/wine/burgundy",
+      "prior_score": 8.9631,
+      "prior_variance": 0.440421,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 6.8009,
+      "prior_variance": 0.673978,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 6.7901,
+      "prior_variance": 0.376418,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Viti levu",
+      "path": "australiaandpacific/fiji/vitilevu",
+      "prior_score": 7.1675,
+      "prior_variance": 0.464477,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 6.7378,
+      "prior_variance": 0.519282,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_score": -0.8372,
+      "prior_variance": 0.353956,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 0.7079,
+      "prior_variance": 0.357568,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_score": 0.4668,
+      "prior_variance": 0.334985,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bragana",
+      "path": "europe/portugal/bragana",
+      "prior_score": -0.9716,
+      "prior_variance": 0.41678,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -2.8553,
+      "prior_variance": 0.359606,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.0984,
+      "prior_variance": 0.333901,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -3.0188,
+      "prior_variance": 0.339373,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.3657,
+      "prior_variance": 0.27426,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -0.5299,
+      "prior_variance": 0.31084,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.0131,
+      "prior_variance": 0.327992,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Horley",
+      "path": "europe/unitedkingdom/england/horley",
+      "prior_score": -5.3404,
+      "prior_variance": 0.306731,
+      "prior_n": 4
+    }
+  ]
+}

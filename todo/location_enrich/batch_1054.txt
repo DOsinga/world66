@@ -1,0 +1,5 @@
+northamerica/unitedstates/hawaii/maui
+northamerica/unitedstates/georgia/willacoochee
+southamerica/peru/chiclayo
+northamerica/unitedstates/newjersey/glen_rock
+europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli

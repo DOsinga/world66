@@ -1,0 +1,200 @@
+{
+  "round": 641,
+  "timestamp": "2026-04-12T10:40:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_mu": 25.0233,
+      "prior_sigma": 6.1351,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_mu": 24.6984,
+      "prior_sigma": 5.9682,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Qu\u00e9bec",
+      "path": "northamerica/canada/quebec",
+      "prior_mu": 25.2448,
+      "prior_sigma": 4.5715,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_mu": 26.15,
+      "prior_sigma": 5.7462,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_mu": 23.767,
+      "prior_sigma": 4.8818,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_mu": 21.9454,
+      "prior_sigma": 4.4546,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_mu": 22.7777,
+      "prior_sigma": 5.9564,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_mu": 22.8565,
+      "prior_sigma": 5.3012,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_mu": 22.6449,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_mu": 21.8572,
+      "prior_sigma": 4.6731,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_mu": 21.7432,
+      "prior_sigma": 4.7089,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_mu": 21.4669,
+      "prior_sigma": 4.8019,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_mu": 22.2161,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_mu": 19.0543,
+      "prior_sigma": 3.0189,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_mu": 21.0855,
+      "prior_sigma": 3.634,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Universities",
+      "path": "northamerica/canada/britishcolumbia/victoria/universities",
+      "prior_mu": 21.4929,
+      "prior_sigma": 4.5036,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Canada",
+      "path": "northamerica/canada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_mu": 22.6002,
+      "prior_sigma": 5.9122,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_mu": 22.5928,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_mu": 22.6127,
+      "prior_sigma": 5.9481,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Okotoks",
+      "path": "northamerica/canada/alberta/okotoks",
+      "prior_mu": 21.7707,
+      "prior_sigma": 5.6148,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_mu": 20.6052,
+      "prior_sigma": 3.3272,
+      "prior_n": 4
+    }
+  ]
+}

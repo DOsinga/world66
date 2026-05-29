@@ -1,0 +1,200 @@
+{
+  "round": 2051,
+  "timestamp": "2026-04-13T16:06:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 9.2828,
+      "prior_variance": 0.801445,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 9.6163,
+      "prior_variance": 0.63206,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alaska",
+      "path": "northamerica/unitedstates/alaska",
+      "prior_score": 6.5003,
+      "prior_variance": 0.591522,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 8.1109,
+      "prior_variance": 0.301856,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 8.0621,
+      "prior_variance": 0.44711,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_score": 4.6333,
+      "prior_variance": 0.283243,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.7411,
+      "prior_variance": 0.346557,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 3.9321,
+      "prior_variance": 0.331829,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 1.9412,
+      "prior_variance": 0.217527,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 0.231,
+      "prior_variance": 0.323404,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 1.61,
+      "prior_variance": 0.330126,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_eus/vitoria",
+      "prior_score": 2.41,
+      "prior_variance": 0.280803,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.0986,
+      "prior_variance": 0.344069,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 2.0904,
+      "prior_variance": 0.190626,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": 0.6976,
+      "prior_variance": 0.243653,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_score": 2.3889,
+      "prior_variance": 0.263319,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/longreach",
+      "prior_score": -1.3255,
+      "prior_variance": 0.308701,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 0.0932,
+      "prior_variance": 0.35923,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_score": 0.5748,
+      "prior_variance": 0.288766,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bucks County",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
+      "prior_score": 1.3008,
+      "prior_variance": 0.286066,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -1.6169,
+      "prior_variance": 0.314437,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_score": -2.1695,
+      "prior_variance": 0.219833,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.4531,
+      "prior_variance": 0.24232,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_score": -0.9218,
+      "prior_variance": 0.258609,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 357,
+  "timestamp": "2026-04-12T09:13:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 24.0273,
+      "prior_sigma": 2.9903,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
+      "prior_mu": 22.9232,
+      "prior_sigma": 5.7285,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_mu": 22.8095,
+      "prior_sigma": 5.6007,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_mu": 22.9219,
+      "prior_sigma": 5.7271,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "New Hampshire",
+      "path": "northamerica/unitedstates/newhampshire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Negros island",
+      "path": "asia/philippines/negrosisland",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Skerries",
+      "path": "europe/ireland/dublin/skerries",
+      "prior_mu": 22.7841,
+      "prior_sigma": 5.7161,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_mu": 21.8994,
+      "prior_sigma": 4.8326,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Ohio",
+      "path": "northamerica/unitedstates/ohio",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Brong Ahafo Region",
+      "path": "africa/ghana/brong_ahafo_region",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 20.707,
+      "prior_sigma": 2.9782,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_mu": 18.2499,
+      "prior_sigma": 6.7436,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 851,
+  "timestamp": "2026-04-12T14:44:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/northernspain/sansebastian",
+      "prior_score": 9.6587,
+      "prior_variance": 1.450897,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 7.2587,
+      "prior_variance": 1.97099,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_score": 6.0334,
+      "prior_variance": 1.407734,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_score": 4.0033,
+      "prior_variance": 1.661921,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 5.5875,
+      "prior_variance": 1.756825,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Amazon basin",
+      "path": "southamerica/ecuador/amazonbasin",
+      "prior_score": 3.3965,
+      "prior_variance": 1.383842,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 4.2733,
+      "prior_variance": 1.423864,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 6.3934,
+      "prior_variance": 1.975766,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.844,
+      "prior_variance": 1.375503,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 2.3141,
+      "prior_variance": 1.463951,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Rincon",
+      "path": "northamerica/puertorico/rincon",
+      "prior_score": 5.6721,
+      "prior_variance": 1.618745,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 2.3575,
+      "prior_variance": 0.995307,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_score": -2.3968,
+      "prior_variance": 1.535434,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": 0.476,
+      "prior_variance": 1.704478,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -3.3857,
+      "prior_variance": 1.583293,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -5.2658,
+      "prior_variance": 1.263297,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -4.0489,
+      "prior_variance": 1.633179,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": 3.3161,
+      "prior_variance": 1.751299,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_score": -1.6565,
+      "prior_variance": 1.358997,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -0.82,
+      "prior_variance": 1.328768,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Algeria",
+      "path": "africa/algeria",
+      "prior_score": -15.2494,
+      "prior_variance": 6.761603,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -2.0916,
+      "prior_variance": 0.717293,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_score": -7.6667,
+      "prior_variance": 1.975118,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_score": -10.4805,
+      "prior_variance": 2.503626,
+      "prior_n": 1
+    }
+  ]
+}

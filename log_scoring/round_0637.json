@@ -1,0 +1,200 @@
+{
+  "round": 637,
+  "timestamp": "2026-04-12T10:40:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_mu": 22.3653,
+      "prior_sigma": 5.3508,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_mu": 23.4625,
+      "prior_sigma": 4.7299,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_mu": 22.4186,
+      "prior_sigma": 5.5509,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_mu": 21.9286,
+      "prior_sigma": 4.6376,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_mu": 22.6556,
+      "prior_sigma": 5.6417,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_mu": 21.9518,
+      "prior_sigma": 4.5763,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Red Bank",
+      "path": "northamerica/unitedstates/newjersey/redbank",
+      "prior_mu": 21.4992,
+      "prior_sigma": 4.8378,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junctio",
+      "prior_mu": 21.3581,
+      "prior_sigma": 4.3029,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_mu": 22.5464,
+      "prior_sigma": 5.6574,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_mu": 22.3075,
+      "prior_sigma": 5.6896,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_mu": 21.6703,
+      "prior_sigma": 4.798,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_mu": 22.642,
+      "prior_sigma": 5.9057,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_mu": 22.3904,
+      "prior_sigma": 5.9075,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_mu": 22.314,
+      "prior_sigma": 5.7333,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_mu": 22.6408,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_mu": 22.2048,
+      "prior_sigma": 5.6658,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bogalusa",
+      "path": "northamerica/unitedstates/louisiana/bogalusa",
+      "prior_mu": 21.4197,
+      "prior_sigma": 5.9019,
+      "prior_n": 1
+    }
+  ]
+}

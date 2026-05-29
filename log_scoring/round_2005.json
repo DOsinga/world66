@@ -1,0 +1,200 @@
+{
+  "round": 2005,
+  "timestamp": "2026-04-13T16:02:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 7.8633,
+      "prior_variance": 0.310691,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 3.3985,
+      "prior_variance": 0.196916,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_score": 0.1426,
+      "prior_variance": 0.407219,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 4.0671,
+      "prior_variance": 0.30784,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "The Land of the Cathars",
+      "path": "europe/france/midi/languedoc/the_land_of_the_ca",
+      "prior_score": 5.0704,
+      "prior_variance": 0.252811,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.7252,
+      "prior_variance": 0.322719,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 3.5942,
+      "prior_variance": 0.30367,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.4148,
+      "prior_variance": 0.353493,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 0.9733,
+      "prior_variance": 0.271913,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_gu",
+      "prior_score": 3.6677,
+      "prior_variance": 0.247512,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 2.2458,
+      "prior_variance": 0.282771,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 2.9308,
+      "prior_variance": 0.256917,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 3.0171,
+      "prior_variance": 0.302703,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_score": 0.906,
+      "prior_variance": 0.299482,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": -0.1291,
+      "prior_variance": 0.251466,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lunigiana",
+      "path": "europe/italy/tuscany/lunigiana",
+      "prior_score": 1.937,
+      "prior_variance": 0.248161,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_score": 1.95,
+      "prior_variance": 0.244714,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.2912,
+      "prior_variance": 0.24744,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -0.0769,
+      "prior_variance": 0.259898,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_score": 1.3445,
+      "prior_variance": 0.269101,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_score": -1.0171,
+      "prior_variance": 0.361023,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -1.5644,
+      "prior_variance": 0.24975,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ja\u00e9n (province)",
+      "path": "southamerica/peru/northern_pacific_t/jan",
+      "prior_score": -6.5615,
+      "prior_variance": 0.296732,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.7667,
+      "prior_variance": 0.272732,
+      "prior_n": 5
+    }
+  ]
+}

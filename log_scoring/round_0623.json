@@ -1,0 +1,200 @@
+{
+  "round": 623,
+  "timestamp": "2026-04-12T10:40:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_mu": 21.7348,
+      "prior_sigma": 4.5874,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_mu": 22.6748,
+      "prior_sigma": 5.9128,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_mu": 22.8617,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_mu": 22.4477,
+      "prior_sigma": 3.8747,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_mu": 22.7197,
+      "prior_sigma": 5.7706,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_mu": 22.4491,
+      "prior_sigma": 5.9299,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "caranzalem",
+      "path": "asia/india/goa/caranzalem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Hotels near Harne Beach",
+      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
+      "prior_mu": 22.4922,
+      "prior_sigma": 5.7169,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_mu": 22.5592,
+      "prior_sigma": 5.5387,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mandangad",
+      "path": "asia/india/maharashtra/konkan/mandangad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_mu": 20.3639,
+      "prior_sigma": 3.8987,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_mu": 22.2553,
+      "prior_sigma": 5.4299,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/konkan/nagpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_mu": 20.8633,
+      "prior_sigma": 4.6082,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_mu": 21.4259,
+      "prior_sigma": 4.589,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Balaghat",
+      "path": "asia/india/madhyapradesh/balaghat",
+      "prior_mu": 21.916,
+      "prior_sigma": 4.6801,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_mu": 21.3062,
+      "prior_sigma": 3.8721,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Dombivli",
+      "path": "asia/india/maharashtra/dombivli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Kairatabad",
+      "path": "asia/india/andhrapradesh/kairatabad",
+      "prior_mu": 22.6586,
+      "prior_sigma": 5.9056,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "bapatla",
+      "path": "asia/india/andhrapradesh/bapatla",
+      "prior_mu": 17.2163,
+      "prior_sigma": 3.962,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hinjilicut",
+      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
+      "prior_mu": 14.8548,
+      "prior_sigma": 5.8251,
+      "prior_n": 2
+    }
+  ]
+}

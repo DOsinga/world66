@@ -1,0 +1,200 @@
+{
+  "round": 669,
+  "timestamp": "2026-04-12T10:42:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_mu": 23.0461,
+      "prior_sigma": 5.6296,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_mu": 24.1474,
+      "prior_sigma": 4.0407,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_mu": 24.2679,
+      "prior_sigma": 4.7946,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_mu": 26.2645,
+      "prior_sigma": 5.5204,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_mu": 23.4791,
+      "prior_sigma": 5.5359,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_mu": 24.554,
+      "prior_sigma": 5.8551,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_mu": 21.8295,
+      "prior_sigma": 4.4401,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_mu": 21.3485,
+      "prior_sigma": 4.0029,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_mu": 22.4147,
+      "prior_sigma": 5.7622,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Manipur",
+      "path": "asia/india/manipur",
+      "prior_mu": 21.9689,
+      "prior_sigma": 4.5177,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_mu": 22.3745,
+      "prior_sigma": 5.317,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_mu": 21.8856,
+      "prior_sigma": 4.4951,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_mu": 22.5525,
+      "prior_sigma": 5.6744,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_mu": 21.2635,
+      "prior_sigma": 4.4112,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nanded",
+      "path": "asia/india/maharashtra/mumbai/nanded",
+      "prior_mu": 21.1915,
+      "prior_sigma": 4.5301,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_mu": 21.5721,
+      "prior_sigma": 4.5917,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_mu": 21.5921,
+      "prior_sigma": 4.7218,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_mu": 17.6813,
+      "prior_sigma": 6.4219,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_mu": 21.4231,
+      "prior_sigma": 4.6239,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_mu": 22.3977,
+      "prior_sigma": 5.9457,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

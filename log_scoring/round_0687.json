@@ -1,0 +1,200 @@
+{
+  "round": 687,
+  "timestamp": "2026-04-12T10:42:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_mu": 29.8272,
+      "prior_sigma": 5.05,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Provence",
+      "path": "europe/france/midi/provence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_mu": 32.7185,
+      "prior_sigma": 6.2794,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bordeaux",
+      "path": "europe/france/wine/bordeaux",
+      "prior_mu": 23.1763,
+      "prior_sigma": 4.2931,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_mu": 22.2256,
+      "prior_sigma": 4.746,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_mu": 22.7311,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_mu": 24.2012,
+      "prior_sigma": 4.6074,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_mu": 23.6346,
+      "prior_sigma": 5.9561,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_mu": 22.0559,
+      "prior_sigma": 4.8721,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_mu": 22.572,
+      "prior_sigma": 5.9052,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_mu": 22.6439,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_mu": 21.8468,
+      "prior_sigma": 4.3196,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_mu": 23.5117,
+      "prior_sigma": 5.5329,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_mu": 22.352,
+      "prior_sigma": 5.7418,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_mu": 21.4565,
+      "prior_sigma": 3.8085,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_mu": 22.7562,
+      "prior_sigma": 5.6545,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "1",
+      "path": "europe/france/val_disere/1",
+      "prior_mu": 23.1815,
+      "prior_sigma": 5.9524,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_mu": 22.0304,
+      "prior_sigma": 4.6389,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_mu": 21.8881,
+      "prior_sigma": 4.5637,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_mu": 22.6759,
+      "prior_sigma": 5.6972,
+      "prior_n": 1
+    }
+  ]
+}

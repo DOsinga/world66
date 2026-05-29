@@ -1,0 +1,5 @@
+europe/montenegro/ulcinj_1
+europe/france/normandybrittany/alenon
+europe/italy/veneto/mestre
+northamerica/belize/ambergriscaye
+northamerica/unitedstates/oregon/astoria

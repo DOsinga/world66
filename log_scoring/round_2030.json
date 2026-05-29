@@ -1,0 +1,200 @@
+{
+  "round": 2030,
+  "timestamp": "2026-04-13T16:04:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_score": 5.1283,
+      "prior_variance": 0.272901,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.6874,
+      "prior_variance": 0.300184,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/albenga",
+      "prior_score": 2.6308,
+      "prior_variance": 0.262584,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_score": 1.3675,
+      "prior_variance": 0.440288,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_score": 3.3699,
+      "prior_variance": 0.283598,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 1.3287,
+      "prior_variance": 0.167433,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.525,
+      "prior_variance": 0.259581,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 1.5833,
+      "prior_variance": 0.241893,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 3.0978,
+      "prior_variance": 0.316668,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Stockbridge",
+      "path": "europe/unitedkingdom/scotland/edinburgh/stockbridge",
+      "prior_score": 1.1581,
+      "prior_variance": 0.290549,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_score": -0.3941,
+      "prior_variance": 0.28365,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": -0.1288,
+      "prior_variance": 0.265561,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 0.6547,
+      "prior_variance": 0.254778,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_score": -0.0791,
+      "prior_variance": 0.341834,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_score": -0.9303,
+      "prior_variance": 0.308638,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.4419,
+      "prior_variance": 0.318486,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": 0.2456,
+      "prior_variance": 0.23439,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_score": -2.0293,
+      "prior_variance": 0.400672,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -0.1646,
+      "prior_variance": 0.278552,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": 0.1996,
+      "prior_variance": 0.300374,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.1084,
+      "prior_variance": 0.294596,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_score": -0.6815,
+      "prior_variance": 0.262967,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -6.9789,
+      "prior_variance": 0.532576,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Pinner",
+      "path": "europe/unitedkingdom/england/pinner",
+      "prior_score": -4.028,
+      "prior_variance": 0.436533,
+      "prior_n": 5
+    }
+  ]
+}

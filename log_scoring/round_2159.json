@@ -1,0 +1,200 @@
+{
+  "round": 2159,
+  "timestamp": "2026-04-13T16:16:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_score": 10.6644,
+      "prior_variance": 0.412039,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 8.5252,
+      "prior_variance": 0.479472,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne_2",
+      "prior_score": 9.9985,
+      "prior_variance": 0.506026,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Switzerland",
+      "path": "europe/switzerland",
+      "prior_score": 4.2895,
+      "prior_variance": 0.523406,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_score": 4.9082,
+      "prior_variance": 0.215049,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.0383,
+      "prior_variance": 0.343829,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensbe",
+      "prior_score": 4.348,
+      "prior_variance": 0.244543,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ecuador",
+      "path": "southamerica/ecuador",
+      "prior_score": 6.0883,
+      "prior_variance": 0.443057,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 6.0826,
+      "prior_variance": 0.368097,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_score": 4.6465,
+      "prior_variance": 0.401023,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/yorkshire_dales",
+      "prior_score": 5.0413,
+      "prior_variance": 0.335885,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.4182,
+      "prior_variance": 0.246973,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_score": 3.8405,
+      "prior_variance": 0.393493,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mosel",
+      "path": "europe/germany/rhinelandpalatinate/mosel",
+      "prior_score": 4.878,
+      "prior_variance": 0.303645,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pagosa Springs",
+      "path": "northamerica/unitedstates/colorado/pagosa_springs",
+      "prior_score": 1.3344,
+      "prior_variance": 0.257807,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_score": 1.5547,
+      "prior_variance": 0.286196,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.4494,
+      "prior_variance": 0.185876,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_score": -0.6357,
+      "prior_variance": 0.26726,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_score": 0.9985,
+      "prior_variance": 0.209499,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_score": 0.3947,
+      "prior_variance": 0.262863,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -0.8549,
+      "prior_variance": 0.266191,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang_1",
+      "prior_score": -4.3872,
+      "prior_variance": 0.381915,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_notting/leicester",
+      "prior_score": 0.2074,
+      "prior_variance": 0.251088,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -2.7857,
+      "prior_variance": 0.248439,
+      "prior_n": 5
+    }
+  ]
+}

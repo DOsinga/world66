@@ -1,0 +1,200 @@
+{
+  "round": 1640,
+  "timestamp": "2026-04-13T10:38:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele de R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r",
+      "prior_score": 7.084,
+      "prior_variance": 0.399543,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 1.0541,
+      "prior_variance": 0.298655,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 2.6322,
+      "prior_variance": 0.319084,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_score": 1.0216,
+      "prior_variance": 0.310672,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.7871,
+      "prior_variance": 0.419535,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_score": 0.2822,
+      "prior_variance": 0.437963,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.1658,
+      "prior_variance": 0.323688,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.2216,
+      "prior_variance": 0.350727,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 1.4595,
+      "prior_variance": 0.330156,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -1.4933,
+      "prior_variance": 0.392331,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -0.9149,
+      "prior_variance": 0.364565,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -2.0566,
+      "prior_variance": 0.309342,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -0.6218,
+      "prior_variance": 0.36398,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": 0.0287,
+      "prior_variance": 0.308912,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -1.6674,
+      "prior_variance": 0.272988,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": 0.3795,
+      "prior_variance": 0.371886,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.0306,
+      "prior_variance": 0.354822,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -2.7888,
+      "prior_variance": 0.414169,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Witney",
+      "path": "europe/unitedkingdom/england/witney",
+      "prior_score": -3.419,
+      "prior_variance": 0.307212,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -1.933,
+      "prior_variance": 0.443298,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -2.3802,
+      "prior_variance": 0.370564,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -5.963,
+      "prior_variance": 0.401831,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mubi",
+      "path": "africa/nigeria/yola/mubi",
+      "prior_score": -10.56,
+      "prior_variance": 0.395042,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -12.0636,
+      "prior_variance": 0.622274,
+      "prior_n": 6
+    }
+  ]
+}

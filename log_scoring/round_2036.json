@@ -1,0 +1,200 @@
+{
+  "round": 2036,
+  "timestamp": "2026-04-13T16:04:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 4.7932,
+      "prior_variance": 0.271739,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_score": 4.251,
+      "prior_variance": 0.336759,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Salo",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 5.5471,
+      "prior_variance": 0.287995,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.7562,
+      "prior_variance": 0.310195,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Portree",
+      "path": "europe/unitedkingdom/scotland/skye/portree",
+      "prior_score": 7.8268,
+      "prior_variance": 0.448467,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 4.8298,
+      "prior_variance": 0.242801,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 4.1032,
+      "prior_variance": 0.320346,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 5.1895,
+      "prior_variance": 0.332622,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 2.6822,
+      "prior_variance": 0.255429,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/eysturoy/noroyggjar",
+      "prior_score": 1.9466,
+      "prior_variance": 0.270711,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 1.9419,
+      "prior_variance": 0.284676,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_da",
+      "prior_score": 3.3164,
+      "prior_variance": 0.294129,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 2.258,
+      "prior_variance": 0.328905,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_score": 3.3492,
+      "prior_variance": 0.280839,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national",
+      "prior_score": 2.9417,
+      "prior_variance": 0.282484,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.9198,
+      "prior_variance": 0.25126,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.0193,
+      "prior_variance": 0.284467,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": -0.5922,
+      "prior_variance": 0.249165,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 1.0302,
+      "prior_variance": 0.151666,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 0.8553,
+      "prior_variance": 0.280753,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -1.1789,
+      "prior_variance": 0.26708,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -0.1915,
+      "prior_variance": 0.245742,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_score": -0.6407,
+      "prior_variance": 0.246743,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -2.7878,
+      "prior_variance": 0.255823,
+      "prior_n": 5
+    }
+  ]
+}

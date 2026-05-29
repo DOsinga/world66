@@ -1,0 +1,200 @@
+{
+  "round": 1875,
+  "timestamp": "2026-04-13T10:59:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 3.386,
+      "prior_variance": 0.432995,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_score": 1.8797,
+      "prior_variance": 0.390022,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_score": 0.9374,
+      "prior_variance": 0.314562,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.3072,
+      "prior_variance": 0.295533,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 1.7532,
+      "prior_variance": 0.309343,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -2.1061,
+      "prior_variance": 0.336066,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 1.2556,
+      "prior_variance": 0.238096,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Western Samoa",
+      "path": "australiaandpacific/westernsamoa",
+      "prior_score": 2.6557,
+      "prior_variance": 0.376231,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Salt island",
+      "path": "northamerica/britishvirginislands/saltisland",
+      "prior_score": -0.321,
+      "prior_variance": 0.308408,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_score": -2.3964,
+      "prior_variance": 0.342936,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -4.1017,
+      "prior_variance": 0.567146,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -3.3182,
+      "prior_variance": 0.389104,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Jackson Heights",
+      "path": "northamerica/unitedstates/newyorkstate/jacksonheights",
+      "prior_score": -2.9862,
+      "prior_variance": 0.229254,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.0704,
+      "prior_variance": 0.367079,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.0785,
+      "prior_variance": 0.257272,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -4.361,
+      "prior_variance": 0.361797,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -6.7989,
+      "prior_variance": 0.284344,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -9.7982,
+      "prior_variance": 0.706537,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -6.0885,
+      "prior_variance": 0.272204,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sirsa",
+      "path": "asia/india/haryana/sirsa",
+      "prior_score": -6.8377,
+      "prior_variance": 0.396923,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.0231,
+      "prior_variance": 0.355275,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_score": -8.7643,
+      "prior_variance": 0.331672,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_score": -6.1449,
+      "prior_variance": 0.389577,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Debsk",
+      "path": "europe/poland/debsk",
+      "prior_score": -7.4477,
+      "prior_variance": 0.400972,
+      "prior_n": 4
+    }
+  ]
+}

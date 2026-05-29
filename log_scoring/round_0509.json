@@ -1,0 +1,200 @@
+{
+  "round": 509,
+  "timestamp": "2026-04-12T09:43:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_mu": 22.922,
+      "prior_sigma": 5.582,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_mu": 26.0617,
+      "prior_sigma": 5.9003,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_mu": 22.6872,
+      "prior_sigma": 5.3617,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 22.5767,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 25.9478,
+      "prior_sigma": 5.2417,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_mu": 22.7694,
+      "prior_sigma": 5.3849,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/midsland",
+      "prior_mu": 21.8312,
+      "prior_sigma": 4.6588,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 21.8485,
+      "prior_sigma": 4.7383,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_mu": 22.5438,
+      "prior_sigma": 3.8939,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.677,
+      "prior_sigma": 3.8116,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 22.1895,
+      "prior_sigma": 5.6959,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 21.204,
+      "prior_sigma": 4.0517,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_mu": 21.6258,
+      "prior_sigma": 4.8187,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_mu": 21.5431,
+      "prior_sigma": 4.5062,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_mu": 21.516,
+      "prior_sigma": 4.4641,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_mu": 22.6154,
+      "prior_sigma": 5.9041,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 23.37,
+      "prior_sigma": 4.4474,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_mu": 22.5594,
+      "prior_sigma": 5.6585,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_mu": 21.7201,
+      "prior_sigma": 4.4831,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_mu": 21.3997,
+      "prior_sigma": 4.3774,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_mu": 19.1253,
+      "prior_sigma": 4.3084,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_mu": 18.9959,
+      "prior_sigma": 5.1109,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

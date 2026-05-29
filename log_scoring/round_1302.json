@@ -1,0 +1,200 @@
+{
+  "round": 1302,
+  "timestamp": "2026-04-12T22:20:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_rank": 298,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Halong City",
+      "path": "asia/vietnam/cat_ba_island/halong_city",
+      "prior_rank": 1595,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_rank": 590,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_rank": 137,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oman",
+      "path": "asia/oman",
+      "prior_rank": 811,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_rank": 901,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_rank": 828,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_rank": 91,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
+      "prior_rank": 1043,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ecuador",
+      "path": "southamerica/ecuador",
+      "prior_rank": 220,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_rank": 1652,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_rank": 1284,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_rank": 286,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_rank": 1101,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_rank": 611,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pamplona",
+      "path": "europe/spain/northernspain/pamplona",
+      "prior_rank": 718,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_rank": 770,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Noumea",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_rank": 1282,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_rank": 25,
+      "prior_wins": 267,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_rank": 724,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_rank": 273,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Washington",
+      "path": "northamerica/unitedstates/washington",
+      "prior_rank": 1499,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_rank": 1197,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_rank": 2403,
+      "prior_wins": 44,
+      "prior_n": 3
+    }
+  ]
+}

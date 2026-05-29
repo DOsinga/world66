@@ -1,0 +1,200 @@
+{
+  "round": 1705,
+  "timestamp": "2026-04-13T10:43:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_score": 6.5363,
+      "prior_variance": 0.29541,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 7.8323,
+      "prior_variance": 0.44541,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 4.5173,
+      "prior_variance": 0.340885,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 5.6721,
+      "prior_variance": 0.3859,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 3.8523,
+      "prior_variance": 0.448705,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.7729,
+      "prior_variance": 0.308427,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_score": 0.5226,
+      "prior_variance": 0.348538,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 2.4522,
+      "prior_variance": 0.299669,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_score": 2.6966,
+      "prior_variance": 0.434513,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": 0.0262,
+      "prior_variance": 0.257323,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -0.5609,
+      "prior_variance": 0.324675,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -3.2794,
+      "prior_variance": 0.282623,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.9938,
+      "prior_variance": 0.418051,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -1.0256,
+      "prior_variance": 0.286703,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_score": -4.1081,
+      "prior_variance": 0.466789,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.8962,
+      "prior_variance": 0.324024,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -2.4281,
+      "prior_variance": 0.338274,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -1.2136,
+      "prior_variance": 0.323189,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.1744,
+      "prior_variance": 0.324162,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -0.8065,
+      "prior_variance": 0.336563,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_score": -5.6623,
+      "prior_variance": 0.627297,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.5955,
+      "prior_variance": 0.373493,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -6.0746,
+      "prior_variance": 0.355162,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -6.4583,
+      "prior_variance": 0.367106,
+      "prior_n": 4
+    }
+  ]
+}

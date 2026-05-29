@@ -1,0 +1,5 @@
+northamerica/unitedstates/ohio/hudson
+northamerica/britishvirginislands/jostvandyke
+asia/india/andhrapradesh/nagarjunkonda
+europe/spain/aragon/teruel
+europe/slovakia/ruomberok

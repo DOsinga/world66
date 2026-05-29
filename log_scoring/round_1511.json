@@ -1,0 +1,200 @@
+{
+  "round": 1511,
+  "timestamp": "2026-04-13T10:27:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national",
+      "prior_score": 3.4713,
+      "prior_variance": 0.474315,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Luoyang",
+      "path": "asia/china/luoyang",
+      "prior_score": 2.9448,
+      "prior_variance": 0.294669,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.4501,
+      "prior_variance": 0.661549,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Basse-Terre",
+      "path": "northamerica/guadeloupe/basseterre",
+      "prior_score": 2.956,
+      "prior_variance": 0.383442,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.5753,
+      "prior_variance": 0.48639,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 1.2962,
+      "prior_variance": 0.439994,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_score": 1.3373,
+      "prior_variance": 0.630232,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/shrewsbury",
+      "prior_score": 1.7608,
+      "prior_variance": 0.365853,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 0.3813,
+      "prior_variance": 0.399735,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_score": 0.8821,
+      "prior_variance": 0.462969,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 1.5791,
+      "prior_variance": 0.47128,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 1.4961,
+      "prior_variance": 0.471791,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 3.1731,
+      "prior_variance": 0.446629,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 1.636,
+      "prior_variance": 0.389665,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Safaga",
+      "path": "africa/egypt/hurghada/safaga",
+      "prior_score": 1.1391,
+      "prior_variance": 0.43726,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 1.2163,
+      "prior_variance": 0.418037,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.3554,
+      "prior_variance": 0.486074,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 2.1609,
+      "prior_variance": 0.390035,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": 2.3325,
+      "prior_variance": 0.434573,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 1.1473,
+      "prior_variance": 0.648831,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_score": 1.5531,
+      "prior_variance": 0.410253,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": 0.8917,
+      "prior_variance": 0.264783,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 3.0512,
+      "prior_variance": 0.465475,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 2.1348,
+      "prior_variance": 0.383709,
+      "prior_n": 3
+    }
+  ]
+}

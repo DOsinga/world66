@@ -1,0 +1,200 @@
+{
+  "round": 2270,
+  "timestamp": "2026-04-13T16:26:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Scuba Diving",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
+      "prior_score": 13.8279,
+      "prior_variance": 0.789817,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_score": 4.5661,
+      "prior_variance": 0.306325,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 5.2005,
+      "prior_variance": 0.268224,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.0866,
+      "prior_variance": 0.270524,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 5.7941,
+      "prior_variance": 0.249985,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 5.9436,
+      "prior_variance": 0.263188,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 2.2636,
+      "prior_variance": 0.348902,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 1.8361,
+      "prior_variance": 0.220515,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 2.1806,
+      "prior_variance": 0.255246,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 0.6904,
+      "prior_variance": 0.28608,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.0994,
+      "prior_variance": 0.305948,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_score": -0.4654,
+      "prior_variance": 0.259536,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": -0.1579,
+      "prior_variance": 0.222668,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.3286,
+      "prior_variance": 0.275777,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_score": -0.5615,
+      "prior_variance": 0.270087,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.1676,
+      "prior_variance": 0.22785,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.1301,
+      "prior_variance": 0.204535,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.5838,
+      "prior_variance": 0.202495,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -2.3705,
+      "prior_variance": 0.30444,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -2.1329,
+      "prior_variance": 0.248722,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.4352,
+      "prior_variance": 0.242624,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -3.072,
+      "prior_variance": 0.240262,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -3.6486,
+      "prior_variance": 0.296195,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.4392,
+      "prior_variance": 0.293306,
+      "prior_n": 6
+    }
+  ]
+}

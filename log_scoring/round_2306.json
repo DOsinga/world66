@@ -1,0 +1,200 @@
+{
+  "round": 2306,
+  "timestamp": "2026-04-13T16:29:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.4367,
+      "prior_variance": 0.244811,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Herceg Novi",
+      "path": "europe/serbiaandmontenegro/hercegnovi",
+      "prior_score": 2.6283,
+      "prior_variance": 0.24486,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.4322,
+      "prior_variance": 0.264751,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.1671,
+      "prior_variance": 0.217465,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": 0.028,
+      "prior_variance": 0.215259,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.368,
+      "prior_variance": 0.208671,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -0.7337,
+      "prior_variance": 0.172593,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_score": -1.9876,
+      "prior_variance": 0.251824,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.8928,
+      "prior_variance": 0.227174,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -1.9542,
+      "prior_variance": 0.169643,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -1.1841,
+      "prior_variance": 0.194597,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -1.6107,
+      "prior_variance": 0.220042,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -3.4806,
+      "prior_variance": 0.265652,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.7725,
+      "prior_variance": 0.219918,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.2094,
+      "prior_variance": 0.27549,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -2.2078,
+      "prior_variance": 0.241009,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -5.3775,
+      "prior_variance": 0.290221,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.8548,
+      "prior_variance": 0.228846,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -3.6265,
+      "prior_variance": 0.386483,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -4.3978,
+      "prior_variance": 0.269098,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -4.9979,
+      "prior_variance": 0.265784,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -6.9979,
+      "prior_variance": 0.372983,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_score": -7.7871,
+      "prior_variance": 0.39283,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_score": -12.6686,
+      "prior_variance": 0.658761,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1261,
+  "timestamp": "2026-04-12T22:18:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_rank": 7690,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_rank": 5373,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage",
+      "prior_rank": 8069,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_rank": 7854,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_rank": 6742,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_rank": 4845,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_rank": 7113,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_rank": 4477,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_rank": 5226,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_rank": 6211,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_rank": 6024,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_rank": 6052,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_rank": 4882,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Talisay",
+      "path": "asia/philippines/negrosisland/talisay",
+      "prior_rank": 5915,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_rank": 6947,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_rank": 3979,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_rank": 5689,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_rank": 5551,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_rank": 7884,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Trescore",
+      "path": "europe/italy/lombardia/trescore",
+      "prior_rank": 5819,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_rank": 7672,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_rank": 7205,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/consett",
+      "prior_rank": 8110,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_rank": 5330,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

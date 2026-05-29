@@ -1,0 +1,112 @@
+{
+  "round": 477,
+  "timestamp": "2026-04-12T09:32:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 13,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_mu": 21.6976,
+      "prior_sigma": 4.5905,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_mu": 21.3443,
+      "prior_sigma": 3.9866,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_mu": 18.1394,
+      "prior_sigma": 4.301,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_mu": 19.3762,
+      "prior_sigma": 5.5298,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_mu": 21.1667,
+      "prior_sigma": 5.8494,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_mu": 18.0203,
+      "prior_sigma": 3.241,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_mu": 18.0815,
+      "prior_sigma": 6.6999,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lubero",
+      "path": "africa/congokinshasa/lubero",
+      "prior_mu": 15.7696,
+      "prior_sigma": 2.9224,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_mu": 14.9669,
+      "prior_sigma": 5.8948,
+      "prior_n": 2
+    }
+  ]
+}

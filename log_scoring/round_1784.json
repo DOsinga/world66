@@ -1,0 +1,200 @@
+{
+  "round": 1784,
+  "timestamp": "2026-04-13T10:50:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 9.3673,
+      "prior_variance": 0.423005,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.8065,
+      "prior_variance": 0.335197,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 5.6786,
+      "prior_variance": 0.307634,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.1199,
+      "prior_variance": 0.314663,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.417,
+      "prior_variance": 0.323971,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 2.449,
+      "prior_variance": 0.451271,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 1.6367,
+      "prior_variance": 0.282839,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_score": 5.4476,
+      "prior_variance": 0.452486,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.3157,
+      "prior_variance": 0.315312,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Venezuela",
+      "path": "southamerica/venezuela",
+      "prior_score": -5.8052,
+      "prior_variance": 0.575608,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -1.5459,
+      "prior_variance": 0.29894,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.789,
+      "prior_variance": 0.332244,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -3.8507,
+      "prior_variance": 0.442465,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -1.819,
+      "prior_variance": 0.320026,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.8131,
+      "prior_variance": 0.303728,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -3.3513,
+      "prior_variance": 0.304678,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.0639,
+      "prior_variance": 0.325746,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -5.2328,
+      "prior_variance": 0.349936,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.8437,
+      "prior_variance": 0.398797,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -6.1768,
+      "prior_variance": 0.301871,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": -6.8452,
+      "prior_variance": 0.364807,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.8066,
+      "prior_variance": 0.439331,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -7.3836,
+      "prior_variance": 0.558614,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -3.289,
+      "prior_variance": 0.465808,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+europe/luxembourg/wasserbillig
+europe/luxembourg/kaundorf
+northamerica/unitedstates/maryland/stmichaels
+africa/tunisia/douz
+europe/serbia/zlatibor

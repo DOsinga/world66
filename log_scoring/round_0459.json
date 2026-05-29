@@ -1,0 +1,200 @@
+{
+  "round": 459,
+  "timestamp": "2026-04-12T09:31:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "France",
+      "path": "europe/france",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cote d'Azur",
+      "path": "europe/france/midi/cotedazur",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/wine/bordeaux",
+      "prior_mu": 22.7168,
+      "prior_sigma": 4.9142,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Burgundy",
+      "path": "europe/france/wine/burgundy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_mu": 24.8506,
+      "prior_sigma": 4.8011,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_mu": 25.063,
+      "prior_sigma": 6.0812,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_mu": 21.9883,
+      "prior_sigma": 4.8424,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Epernay",
+      "path": "europe/france/nord/epernay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_mu": 22.5256,
+      "prior_sigma": 5.9134,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_mu": 22.4025,
+      "prior_sigma": 5.4939,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Carnac",
+      "path": "europe/france/aquitaine/carnac",
+      "prior_mu": 25.2974,
+      "prior_sigma": 5.3252,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_mu": 21.1965,
+      "prior_sigma": 4.6097,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_mu": 23.0638,
+      "prior_sigma": 5.581,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Cuzy",
+      "path": "europe/france/east/cuzy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage",
+      "prior_mu": 22.0344,
+      "prior_sigma": 4.5541,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_1",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    }
+  ]
+}

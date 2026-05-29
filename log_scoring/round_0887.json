@@ -1,0 +1,200 @@
+{
+  "round": 887,
+  "timestamp": "2026-04-12T14:47:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 14.1903,
+      "prior_variance": 7.609733,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 7.916,
+      "prior_variance": 2.622883,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 12.0087,
+      "prior_variance": 2.007891,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 7.0229,
+      "prior_variance": 1.774035,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 10.273,
+      "prior_variance": 9.795831,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 5.2307,
+      "prior_variance": 1.474607,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_score": 6.2185,
+      "prior_variance": 1.664983,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 6.179,
+      "prior_variance": 1.4457,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 7.1826,
+      "prior_variance": 12.488224,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Epernay",
+      "path": "europe/france/nord/epernay",
+      "prior_score": 4.7922,
+      "prior_variance": 1.387,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 5.5408,
+      "prior_variance": 2.010773,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tassili n\u2019ajjer",
+      "path": "africa/algeria/tassilinajjer",
+      "prior_score": 6.6447,
+      "prior_variance": 13.853553,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 3.8469,
+      "prior_variance": 1.577548,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.4107,
+      "prior_variance": 2.165271,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bucks County",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
+      "prior_score": 3.4502,
+      "prior_variance": 1.498575,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 2.799,
+      "prior_variance": 0.733419,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 2.2358,
+      "prior_variance": 1.399969,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": 3.6419,
+      "prior_variance": 1.105278,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_score": -4.4819,
+      "prior_variance": 1.478972,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -3.5727,
+      "prior_variance": 2.528088,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_score": -2.038,
+      "prior_variance": 1.342528,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": 0.5746,
+      "prior_variance": 1.477858,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.4363,
+      "prior_variance": 0.872834,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Vialar",
+      "path": "africa/algeria/vialar",
+      "prior_score": -8.4346,
+      "prior_variance": 1.154699,
+      "prior_n": 1
+    }
+  ]
+}

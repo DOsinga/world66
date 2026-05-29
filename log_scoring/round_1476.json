@@ -1,0 +1,200 @@
+{
+  "round": 1476,
+  "timestamp": "2026-04-13T10:24:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 15.8352,
+      "prior_variance": 2.039565,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 16.3281,
+      "prior_variance": 1.335192,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 16.4784,
+      "prior_variance": 1.822602,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_score": 14.3345,
+      "prior_variance": 1.056935,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 16.0319,
+      "prior_variance": 1.440732,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 12.6404,
+      "prior_variance": 0.883484,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 14.5398,
+      "prior_variance": 1.317207,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 14.6681,
+      "prior_variance": 1.414445,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Maldives",
+      "path": "africa/maldives",
+      "prior_score": 14.5277,
+      "prior_variance": 0.972126,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Masai Mara N.R.",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
+      "prior_score": 11.8267,
+      "prior_variance": 1.456644,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 14.147,
+      "prior_variance": 1.542469,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Crete",
+      "path": "europe/greece/crete",
+      "prior_score": 12.3364,
+      "prior_variance": 1.228788,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco",
+      "prior_score": 14.1565,
+      "prior_variance": 1.356255,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 16.6884,
+      "prior_variance": 1.515944,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Oahu",
+      "path": "northamerica/unitedstates/hawaii/oahu",
+      "prior_score": 14.6318,
+      "prior_variance": 0.915643,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kansai",
+      "path": "asia/japan/kansai",
+      "prior_score": 12.5764,
+      "prior_variance": 0.874275,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_score": 8.38,
+      "prior_variance": 0.590551,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_score": 6.8097,
+      "prior_variance": 0.483522,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Krabi",
+      "path": "asia/thailand/krabi",
+      "prior_score": 11.9444,
+      "prior_variance": 0.887997,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 7.8406,
+      "prior_variance": 0.709576,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 8.0191,
+      "prior_variance": 0.792871,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Aruba",
+      "path": "northamerica/thecaribbean/aruba",
+      "prior_score": 11.2281,
+      "prior_variance": 0.846889,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Balearic islands",
+      "path": "europe/spain/balearicislands",
+      "prior_score": 8.5805,
+      "prior_variance": 0.64092,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 8.4089,
+      "prior_variance": 0.720658,
+      "prior_n": 4
+    }
+  ]
+}

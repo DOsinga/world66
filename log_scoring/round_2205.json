@@ -1,0 +1,200 @@
+{
+  "round": 2205,
+  "timestamp": "2026-04-13T16:20:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 6.2878,
+      "prior_variance": 0.313708,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_score": 3.1908,
+      "prior_variance": 0.214429,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.2928,
+      "prior_variance": 0.224142,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_score": 4.9439,
+      "prior_variance": 0.336654,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 5.4202,
+      "prior_variance": 0.269443,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 6.7112,
+      "prior_variance": 0.256062,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 3.9368,
+      "prior_variance": 0.24259,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 4.1316,
+      "prior_variance": 0.390338,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 4.0402,
+      "prior_variance": 0.292609,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 1.1139,
+      "prior_variance": 0.253536,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 3.0328,
+      "prior_variance": 0.224186,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.3086,
+      "prior_variance": 0.221769,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_score": 3.255,
+      "prior_variance": 0.214046,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland",
+      "prior_score": 1.6775,
+      "prior_variance": 0.131163,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 4.0537,
+      "prior_variance": 0.344865,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tunisia",
+      "path": "africa/tunisia",
+      "prior_score": -2.1001,
+      "prior_variance": 0.582422,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": -0.3853,
+      "prior_variance": 0.252566,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.1024,
+      "prior_variance": 0.217621,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -1.5994,
+      "prior_variance": 0.245396,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.3318,
+      "prior_variance": 0.458909,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -5.2258,
+      "prior_variance": 0.29401,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.6544,
+      "prior_variance": 0.346935,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.0506,
+      "prior_variance": 0.301365,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/losangeles/newhall",
+      "prior_score": -3.9261,
+      "prior_variance": 0.262893,
+      "prior_n": 5
+    }
+  ]
+}

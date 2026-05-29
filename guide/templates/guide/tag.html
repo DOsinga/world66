@@ -1,0 +1,33 @@
+{% extends "guide/base.html" %}
+
+{% block title %}{{ tag }} — World66{% endblock %}
+
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="/">World</a>
+  <span class="sep">&rsaquo;</span>
+  <span class="current">{{ tag }}</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<h1>{{ tag }}</h1>
+<p>{{ pages|length }} place{{ pages|length|pluralize }} tagged <strong>{{ tag }}</strong>.</p>
+
+<ul class="tag-results">
+  {% for p in pages %}
+  <li>
+    <a href="{{ p.get_absolute_url }}">{{ p.title }}</a>
+    {% if p.tags %}
+    <span class="tag-result-tags">
+      {% for t in p.tags %}
+      <a href="/tags/{{ t|urlencode }}" class="tag{% if t == tag %} tag-active{% endif %}">{{ t }}</a>
+      {% endfor %}
+    </span>
+    {% endif %}
+  </li>
+  {% empty %}
+  <li>No places found for this tag.</li>
+  {% endfor %}
+</ul>
+{% endblock %}

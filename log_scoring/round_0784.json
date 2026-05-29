@@ -1,0 +1,200 @@
+{
+  "round": 784,
+  "timestamp": "2026-04-12T10:47:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_mu": 24.3577,
+      "prior_sigma": 5.9016,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_mu": 24.3487,
+      "prior_sigma": 3.3008,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_mu": 22.7534,
+      "prior_sigma": 4.7723,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_mu": 22.1542,
+      "prior_sigma": 4.5086,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ria of Pontevedra",
+      "path": "europe/spain/galicia/ria_of_pontevedra",
+      "prior_mu": 21.5269,
+      "prior_sigma": 4.4492,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_mu": 23.1254,
+      "prior_sigma": 5.7044,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_mu": 21.4022,
+      "prior_sigma": 4.5589,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_mu": 20.7622,
+      "prior_sigma": 3.1061,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_mu": 21.669,
+      "prior_sigma": 4.3873,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_mu": 21.5168,
+      "prior_sigma": 3.7878,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_mu": 21.2541,
+      "prior_sigma": 3.9699,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_mu": 21.2821,
+      "prior_sigma": 4.5579,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_mu": 14.828,
+      "prior_sigma": 5.729,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_mu": 21.9193,
+      "prior_sigma": 4.6053,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ilford",
+      "path": "europe/unitedkingdom/england/ilford",
+      "prior_mu": 17.7605,
+      "prior_sigma": 3.5914,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_mu": 22.1649,
+      "prior_sigma": 5.7165,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_mu": 22.6664,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_mu": 18.0125,
+      "prior_sigma": 3.8819,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_mu": 21.4183,
+      "prior_sigma": 4.4312,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hinjilicut",
+      "path": "asia/india/orissa/berhampur/aska/hinjilicut",
+      "prior_mu": 12.4196,
+      "prior_sigma": 5.0009,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

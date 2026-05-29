@@ -1,0 +1,200 @@
+{
+  "round": 458,
+  "timestamp": "2026-04-12T09:31:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_mu": 22.475,
+      "prior_sigma": 5.9065,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Niagara Frontier",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_mu": 22.0171,
+      "prior_sigma": 5.4341,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_mu": 21.9602,
+      "prior_sigma": 4.6822,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/losangeles/longbeach",
+      "prior_mu": 22.8966,
+      "prior_sigma": 5.7251,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_mu": 22.7784,
+      "prior_sigma": 5.7114,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_mu": 22.475,
+      "prior_sigma": 5.9047,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_mu": 22.5335,
+      "prior_sigma": 5.5216,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_mu": 22.4839,
+      "prior_sigma": 5.9074,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pleasant Grove",
+      "path": "northamerica/unitedstates/utah/pleasantgrove",
+      "prior_mu": 22.481,
+      "prior_sigma": 5.9079,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Buckeye",
+      "path": "northamerica/unitedstates/arizona/buckeye",
+      "prior_mu": 20.8596,
+      "prior_sigma": 4.5673,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_mu": 21.5582,
+      "prior_sigma": 5.9243,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_mu": 21.6719,
+      "prior_sigma": 4.8027,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_mu": 18.3097,
+      "prior_sigma": 6.7538,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lula",
+      "path": "northamerica/unitedstates/mississippi/lula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tcby",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
+      "prior_mu": 18.2865,
+      "prior_sigma": 6.7507,
+      "prior_n": 1
+    }
+  ]
+}

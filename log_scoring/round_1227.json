@@ -1,0 +1,200 @@
+{
+  "round": 1227,
+  "timestamp": "2026-04-12T22:16:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Caledonia",
+      "path": "australiaandpacific/newcaledonia",
+      "prior_rank": 1491,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Marshall Islands",
+      "path": "australiaandpacific/marshallislands",
+      "prior_rank": 1693,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_rank": 1119,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tilos",
+      "path": "europe/greece/tilos",
+      "prior_rank": 1367,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_rank": 1925,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_rank": 6374,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_rank": 4032,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_rank": 1883,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Long Island",
+      "path": "northamerica/unitedstates/newyorkstate/long_island",
+      "prior_rank": 986,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_rank": 3069,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_rank": 2172,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_rank": 1905,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_rank": 1626,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/greater_wellington/wairarapa",
+      "prior_rank": 3580,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_rank": 2609,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Teton Valley",
+      "path": "northamerica/unitedstates/idaho/teton_valley",
+      "prior_rank": 3998,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_rank": 757,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_rank": 2439,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_nati",
+      "prior_rank": 1670,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus",
+      "prior_rank": 1660,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_rank": 5043,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_rank": 2340,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_rank": 3093,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/eastbourne",
+      "prior_rank": 3072,
+      "prior_wins": 27,
+      "prior_n": 2
+    }
+  ]
+}

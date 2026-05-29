@@ -1,0 +1,200 @@
+{
+  "round": 1737,
+  "timestamp": "2026-04-13T10:46:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colombia",
+      "path": "southamerica/colombia",
+      "prior_score": -1.6307,
+      "prior_variance": 0.640527,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_score": 5.9356,
+      "prior_variance": 0.318167,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 6.2621,
+      "prior_variance": 0.384887,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Trujillo",
+      "path": "southamerica/peru/huanchaco/trujillo",
+      "prior_score": 3.6406,
+      "prior_variance": 0.311939,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_score": 4.3018,
+      "prior_variance": 0.289384,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty",
+      "prior_score": 3.3933,
+      "prior_variance": 0.393026,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.4318,
+      "prior_variance": 0.499128,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_score": 2.1066,
+      "prior_variance": 0.323706,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.9399,
+      "prior_variance": 0.343366,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_score": 1.3772,
+      "prior_variance": 0.371544,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/northland/ninety_mile_beach",
+      "prior_score": 1.9573,
+      "prior_variance": 0.29701,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_score": 2.1953,
+      "prior_variance": 0.450991,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": -0.468,
+      "prior_variance": 0.244161,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.548,
+      "prior_variance": 0.282166,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -0.0344,
+      "prior_variance": 0.349075,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -2.1073,
+      "prior_variance": 0.41899,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_score": -3.406,
+      "prior_variance": 0.324294,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Schagen",
+      "path": "europe/netherlands/schagen",
+      "prior_score": -2.6524,
+      "prior_variance": 0.186846,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_score": -2.3701,
+      "prior_variance": 0.353727,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -5.1202,
+      "prior_variance": 0.330796,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -3.6497,
+      "prior_variance": 0.350531,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.7891,
+      "prior_variance": 0.317205,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_score": -5.9871,
+      "prior_variance": 0.327045,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -8.9898,
+      "prior_variance": 0.284252,
+      "prior_n": 6
+    }
+  ]
+}

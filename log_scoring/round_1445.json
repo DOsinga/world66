@@ -1,0 +1,200 @@
+{
+  "round": 1445,
+  "timestamp": "2026-04-12T22:28:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chile",
+      "path": "southamerica/chile",
+      "prior_rank": 1833,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_rank": 1538,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_rank": 2612,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_rank": 2559,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_rank": 1666,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_rank": 5666,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_rank": 4639,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_rank": 2650,
+      "prior_wins": 98,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_rank": 5558,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Portoroz",
+      "path": "europe/slovenia/portoroz",
+      "prior_rank": 4578,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_rank": 1471,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_rank": 2122,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_rank": 2639,
+      "prior_wins": 70,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_rank": 6678,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_rank": 3402,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Leeds, Sheffield and Yorkshire",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a",
+      "prior_rank": 2183,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_rank": 2724,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_rank": 4280,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_rank": 1058,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_rank": 3400,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_rank": 4278,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_rank": 4326,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_rank": 6246,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_rank": 5536,
+      "prior_wins": 27,
+      "prior_n": 3
+    }
+  ]
+}

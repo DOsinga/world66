@@ -1,0 +1,200 @@
+{
+  "round": 1075,
+  "timestamp": "2026-04-12T22:08:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_rank": 1350,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_rank": 1352,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_rank": 2121,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_rank": 2590,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_rank": 4426,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_rank": 1777,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_rank": 2207,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_rank": 2830,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_rank": 3072,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_rank": 2547,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_rank": 2718,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_rank": 4844,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_rank": 1756,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_rank": 1286,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bucks County",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
+      "prior_rank": 3150,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_rank": 4189,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_rank": 5477,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fischland-Darss-Zingst",
+      "path": "europe/germany/mecklenburgwesternpomerania/fischland_darss",
+      "prior_rank": 2122,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_rank": 4023,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_rank": 4198,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Isla Verde",
+      "path": "northamerica/puertorico/islaverde",
+      "prior_rank": 2291,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_rank": 2340,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Safaga",
+      "path": "africa/egypt/hurghada/safaga",
+      "prior_rank": 2548,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Golan Heights",
+      "path": "asia/israel/golanheights",
+      "prior_rank": 3334,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

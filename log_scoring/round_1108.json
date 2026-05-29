@@ -1,0 +1,200 @@
+{
+  "round": 1108,
+  "timestamp": "2026-04-12T22:09:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
+      "prior_rank": 4872,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_rank": 2789,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsu",
+      "prior_rank": 5210,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_rank": 5589,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_rank": 5207,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "West Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles/westlosangeles",
+      "prior_rank": 5583,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_rank": 4972,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chernobyl",
+      "path": "europe/ukraine/chernobyl",
+      "prior_rank": 6511,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_rank": 4671,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mannheim",
+      "path": "europe/germany/mannheim",
+      "prior_rank": 4076,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_rank": 5627,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_notting/loughborough",
+      "prior_rank": 5552,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_rank": 4228,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_rank": 6823,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_rank": 6730,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_rank": 6394,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gyumri",
+      "path": "europe/armenia/gyumri",
+      "prior_rank": 4272,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_rank": 6507,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_rank": 2716,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Somba villages",
+      "path": "africa/benin/sombavillages",
+      "prior_rank": 5761,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_rank": 5465,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_rank": 4512,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_rank": 5622,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_rank": 5842,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2020,
+  "timestamp": "2026-04-13T16:03:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 7.3435,
+      "prior_variance": 0.410097,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/istanbul/asianpart",
+      "prior_score": 4.5812,
+      "prior_variance": 0.245345,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 3.7074,
+      "prior_variance": 0.430193,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_score": 5.9181,
+      "prior_variance": 0.286013,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_score": 5.1941,
+      "prior_variance": 0.337823,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Vava'u Group",
+      "path": "australiaandpacific/tonga/vavau_group",
+      "prior_score": 5.1686,
+      "prior_variance": 0.335334,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.2048,
+      "prior_variance": 0.324431,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 1.336,
+      "prior_variance": 0.250239,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 2.639,
+      "prior_variance": 0.283004,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 0.0882,
+      "prior_variance": 0.265038,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_score": 1.0897,
+      "prior_variance": 0.261979,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -1.7885,
+      "prior_variance": 0.23428,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 1.2114,
+      "prior_variance": 0.26953,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_score": -1.2802,
+      "prior_variance": 0.274698,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.835,
+      "prior_variance": 0.282595,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.5267,
+      "prior_variance": 0.256375,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -0.4953,
+      "prior_variance": 0.259066,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.2155,
+      "prior_variance": 0.348029,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Gujarat",
+      "path": "asia/india/gujarat",
+      "prior_score": 0.4343,
+      "prior_variance": 0.254972,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -1.0968,
+      "prior_variance": 0.319631,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.0268,
+      "prior_variance": 0.248936,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -1.487,
+      "prior_variance": 0.246769,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -3.5365,
+      "prior_variance": 0.291907,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -5.1169,
+      "prior_variance": 0.274071,
+      "prior_n": 5
+    }
+  ]
+}

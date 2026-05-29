@@ -1,0 +1,200 @@
+{
+  "round": 1633,
+  "timestamp": "2026-04-13T10:37:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 5.4751,
+      "prior_variance": 0.310209,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sri Lanka",
+      "path": "asia/srilanka",
+      "prior_score": 7.7844,
+      "prior_variance": 0.502533,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 3.6181,
+      "prior_variance": 0.441548,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_score": 3.1487,
+      "prior_variance": 0.320135,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swanage",
+      "prior_score": 0.3794,
+      "prior_variance": 0.393447,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 1.9218,
+      "prior_variance": 0.365715,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.4104,
+      "prior_variance": 0.336089,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -0.2622,
+      "prior_variance": 0.320036,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.1828,
+      "prior_variance": 0.332111,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -5.9146,
+      "prior_variance": 0.796529,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.6108,
+      "prior_variance": 0.29414,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.8251,
+      "prior_variance": 0.332068,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/yucatan/monterrey",
+      "prior_score": -4.6631,
+      "prior_variance": 0.28624,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Jambi",
+      "path": "asia/indonesia/sumatra/jambi",
+      "prior_score": -3.7774,
+      "prior_variance": 0.29328,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.6143,
+      "prior_variance": 0.295152,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -7.611,
+      "prior_variance": 0.427296,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -7.1628,
+      "prior_variance": 0.7868,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -8.2041,
+      "prior_variance": 0.312514,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -7.6574,
+      "prior_variance": 0.362495,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -9.4504,
+      "prior_variance": 0.543649,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -9.2181,
+      "prior_variance": 0.413974,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_score": -8.8076,
+      "prior_variance": 0.371822,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "bazral",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2/bazral",
+      "prior_score": -11.6535,
+      "prior_variance": 0.566231,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_score": -10.1351,
+      "prior_variance": 0.700314,
+      "prior_n": 4
+    }
+  ]
+}

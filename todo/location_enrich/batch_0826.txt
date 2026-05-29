@@ -1,0 +1,5 @@
+southamerica/chile/isla_negra
+northamerica/unitedstates/newjersey/newbrunswick
+europe/switzerland/schiers
+asia/india/himachalpradesh/sirmour
+asia/mongolia/khovd

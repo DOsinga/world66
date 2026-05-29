@@ -1,0 +1,200 @@
+{
+  "round": 2318,
+  "timestamp": "2026-04-13T16:30:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 9.8897,
+      "prior_variance": 0.352754,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.2876,
+      "prior_variance": 0.201013,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_score": 2.3046,
+      "prior_variance": 0.306078,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.2012,
+      "prior_variance": 0.209305,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": 0.4226,
+      "prior_variance": 0.203202,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 1.6436,
+      "prior_variance": 0.251169,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezonprovince",
+      "prior_score": -2.1399,
+      "prior_variance": 0.258638,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.4658,
+      "prior_variance": 0.174498,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/calistoga",
+      "prior_score": 1.8873,
+      "prior_variance": 0.225628,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.7386,
+      "prior_variance": 0.222797,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -3.7433,
+      "prior_variance": 0.342726,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_score": -2.262,
+      "prior_variance": 0.232379,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_score": 1.9545,
+      "prior_variance": 0.22358,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -1.5368,
+      "prior_variance": 0.247127,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_score": -1.582,
+      "prior_variance": 0.204083,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -2.4443,
+      "prior_variance": 0.262447,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.0438,
+      "prior_variance": 0.24027,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -1.3559,
+      "prior_variance": 0.211691,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.4399,
+      "prior_variance": 0.23405,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -2.8011,
+      "prior_variance": 0.211134,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -3.0359,
+      "prior_variance": 0.248214,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -1.9341,
+      "prior_variance": 0.235461,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -2.9545,
+      "prior_variance": 0.24866,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sefadu",
+      "path": "africa/sierraleone/sefadu",
+      "prior_score": -7.8086,
+      "prior_variance": 0.25119,
+      "prior_n": 6
+    }
+  ]
+}

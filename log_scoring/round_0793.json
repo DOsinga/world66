@@ -1,0 +1,200 @@
+{
+  "round": 793,
+  "timestamp": "2026-04-12T10:48:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_mu": 22.9022,
+      "prior_sigma": 4.7363,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_mu": 29.3505,
+      "prior_sigma": 6.9964,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_mu": 22.3096,
+      "prior_sigma": 3.0762,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_mu": 22.9367,
+      "prior_sigma": 5.8719,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_mu": 21.8703,
+      "prior_sigma": 4.5432,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_mu": 23.1466,
+      "prior_sigma": 5.3921,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_mu": 22.1576,
+      "prior_sigma": 4.6927,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hainan island",
+      "path": "asia/china/hainanisland",
+      "prior_mu": 21.7572,
+      "prior_sigma": 4.3345,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_mu": 22.5838,
+      "prior_sigma": 5.6815,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_mu": 22.4265,
+      "prior_sigma": 5.5484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_mu": 29.0713,
+      "prior_sigma": 6.9663,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_mu": 22.5925,
+      "prior_sigma": 5.2431,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_mu": 21.5916,
+      "prior_sigma": 4.2095,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_mu": 21.1323,
+      "prior_sigma": 3.4544,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_mu": 22.4832,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/sandiego/delmar",
+      "prior_mu": 22.4369,
+      "prior_sigma": 5.7634,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_mu": 22.91,
+      "prior_sigma": 5.5389,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_mu": 22.4226,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_mu": 23.4309,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_mu": 21.5455,
+      "prior_sigma": 4.3869,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_mu": 21.6372,
+      "prior_sigma": 4.6058,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_mu": 21.0066,
+      "prior_sigma": 5.9356,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_mu": 20.4179,
+      "prior_sigma": 3.9776,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_mu": 18.0873,
+      "prior_sigma": 6.49,
+      "prior_n": 1
+    }
+  ]
+}

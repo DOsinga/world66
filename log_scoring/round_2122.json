@@ -1,0 +1,200 @@
+{
+  "round": 2122,
+  "timestamp": "2026-04-13T16:12:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_score": 5.9695,
+      "prior_variance": 0.281597,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 2.6264,
+      "prior_variance": 0.260796,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -3.5223,
+      "prior_variance": 0.289456,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -1.9921,
+      "prior_variance": 0.284126,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 2.9725,
+      "prior_variance": 0.294906,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 2.8304,
+      "prior_variance": 0.238249,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.8882,
+      "prior_variance": 0.240788,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.4001,
+      "prior_variance": 0.238233,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -1.7891,
+      "prior_variance": 0.25147,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_score": -3.627,
+      "prior_variance": 0.257356,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -2.3154,
+      "prior_variance": 0.264531,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -1.7811,
+      "prior_variance": 0.245082,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -2.2281,
+      "prior_variance": 0.27305,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_score": -3.3178,
+      "prior_variance": 0.247022,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -4.5975,
+      "prior_variance": 0.405118,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -3.3806,
+      "prior_variance": 0.262762,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.8266,
+      "prior_variance": 0.349407,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Okeechobee",
+      "path": "northamerica/unitedstates/florida/okeechobee",
+      "prior_score": -5.1206,
+      "prior_variance": 0.269399,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_score": -4.6193,
+      "prior_variance": 0.440826,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -5.8816,
+      "prior_variance": 0.288001,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -6.7905,
+      "prior_variance": 0.401197,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -5.9202,
+      "prior_variance": 0.354115,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_score": -8.3293,
+      "prior_variance": 0.339909,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.2145,
+      "prior_variance": 0.301468,
+      "prior_n": 6
+    }
+  ]
+}

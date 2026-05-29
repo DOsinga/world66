@@ -1,0 +1,5 @@
+northamerica/jamaica/bluemountains
+northamerica/unitedstates/missouri/joplin
+europe/unitedkingdom/wales/lleyn_peninsula
+asia/philippines/puerto_princesa
+northamerica/mexico/puertoaventuras

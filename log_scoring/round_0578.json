@@ -1,0 +1,200 @@
+{
+  "round": 578,
+  "timestamp": "2026-04-12T10:38:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_mu": 23.1684,
+      "prior_sigma": 6.0122,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/chester",
+      "prior_mu": 23.78,
+      "prior_sigma": 5.7346,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_mu": 25.0567,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_mu": 22.8018,
+      "prior_sigma": 5.805,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_mu": 22.6198,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
+      "prior_mu": 23.0644,
+      "prior_sigma": 5.5358,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_mu": 21.782,
+      "prior_sigma": 4.838,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/shrewsbury",
+      "prior_mu": 21.3387,
+      "prior_sigma": 3.886,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_mu": 22.4074,
+      "prior_sigma": 5.7412,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
+      "prior_mu": 22.7704,
+      "prior_sigma": 5.4692,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds",
+      "prior_mu": 22.7442,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_mu": 22.7305,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_notting/leicester",
+      "prior_mu": 22.5971,
+      "prior_sigma": 5.1401,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/ledbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
+      "prior_mu": 21.4165,
+      "prior_sigma": 3.9959,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_mu": 22.4517,
+      "prior_sigma": 5.5568,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_mu": 21.5385,
+      "prior_sigma": 4.6596,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_mu": 22.6407,
+      "prior_sigma": 5.9307,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_mu": 22.5139,
+      "prior_sigma": 5.9066,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_mu": 22.6934,
+      "prior_sigma": 5.6427,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_mu": 21.2559,
+      "prior_sigma": 3.9357,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/goole",
+      "prior_mu": 22.4704,
+      "prior_sigma": 5.7401,
+      "prior_n": 1
+    }
+  ]
+}

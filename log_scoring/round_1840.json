@@ -1,0 +1,200 @@
+{
+  "round": 1840,
+  "timestamp": "2026-04-13T10:56:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maldives",
+      "path": "africa/maldives",
+      "prior_score": 12.9262,
+      "prior_variance": 0.549225,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Croatia",
+      "path": "europe/croatia",
+      "prior_score": 1.1919,
+      "prior_variance": 0.929347,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 7.7391,
+      "prior_variance": 0.407674,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Koh Chang",
+      "path": "asia/thailand/kohchang",
+      "prior_score": 5.7375,
+      "prior_variance": 0.3057,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 5.4473,
+      "prior_variance": 0.332678,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 4.6418,
+      "prior_variance": 0.257263,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/northernspain/ribeira_sacra",
+      "prior_score": 2.4792,
+      "prior_variance": 0.327002,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hersonnissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 2.6633,
+      "prior_variance": 0.312865,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_score": 5.8348,
+      "prior_variance": 0.338374,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 2.7415,
+      "prior_variance": 0.293512,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 3.4728,
+      "prior_variance": 0.330651,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_score": 2.3152,
+      "prior_variance": 0.326649,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tsavo N.P.",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp",
+      "prior_score": 5.3253,
+      "prior_variance": 0.374179,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 3.2114,
+      "prior_variance": 0.33178,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": 0.861,
+      "prior_variance": 0.257687,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": 0.9733,
+      "prior_variance": 0.247491,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -2.2933,
+      "prior_variance": 0.340338,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -3.5959,
+      "prior_variance": 0.397044,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": 0.2906,
+      "prior_variance": 0.308467,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -4.4687,
+      "prior_variance": 0.314583,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -5.0209,
+      "prior_variance": 0.263315,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": -6.4408,
+      "prior_variance": 0.296552,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -3.738,
+      "prior_variance": 0.317814,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "SANJAR SAIDAN",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/sanjar_saidan",
+      "prior_score": -10.4555,
+      "prior_variance": 0.605256,
+      "prior_n": 4
+    }
+  ]
+}

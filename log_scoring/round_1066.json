@@ -1,0 +1,200 @@
+{
+  "round": 1066,
+  "timestamp": "2026-04-12T22:07:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_rank": 3652,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_rank": 6083,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_rank": 5985,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_rank": 6664,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_rank": 7344,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_rank": 7025,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_rank": 8013,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_rank": 7396,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mieres",
+      "path": "europe/spain/northernspain/mieres",
+      "prior_rank": 6573,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_rank": 6811,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_rank": 7496,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/hawkes_bay/wairoa",
+      "prior_rank": 6985,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_rank": 6336,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_rank": 6953,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_rank": 8014,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_rank": 5501,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_rank": 6603,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_rank": 5799,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_rank": 7329,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_rank": 6721,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_rank": 7374,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_rank": 7527,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_rank": 7184,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jebel Akhdar",
+      "path": "africa/libya/jebelakhdar",
+      "prior_rank": 6968,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

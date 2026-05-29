@@ -1,0 +1,200 @@
+{
+  "round": 1562,
+  "timestamp": "2026-04-13T10:31:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.9331,
+      "prior_variance": 0.567027,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 6.1255,
+      "prior_variance": 0.418084,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 3.7443,
+      "prior_variance": 0.431301,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bohol",
+      "path": "asia/philippines/bohol",
+      "prior_score": 5.0741,
+      "prior_variance": 0.891711,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 5.794,
+      "prior_variance": 0.41627,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 6.8638,
+      "prior_variance": 0.396907,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 4.1326,
+      "prior_variance": 0.472384,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.4232,
+      "prior_variance": 0.447082,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.9562,
+      "prior_variance": 0.364096,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 2.2852,
+      "prior_variance": 0.494681,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 2.1537,
+      "prior_variance": 0.439435,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "North Bend",
+      "path": "northamerica/unitedstates/oregon/north_bend",
+      "prior_score": -2.5642,
+      "prior_variance": 0.31196,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_score": -1.0024,
+      "prior_variance": 0.494475,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -0.4155,
+      "prior_variance": 0.460829,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Neckargem\u00fcnd",
+      "path": "europe/germany/badenwrttemberg/neckargemuend",
+      "prior_score": -1.2936,
+      "prior_variance": 0.317759,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.7933,
+      "prior_variance": 0.343493,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.148,
+      "prior_variance": 0.351385,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -3.2649,
+      "prior_variance": 0.432571,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -0.8558,
+      "prior_variance": 0.519965,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_score": -3.0884,
+      "prior_variance": 0.316724,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_score": -1.3923,
+      "prior_variance": 0.352498,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -5.7082,
+      "prior_variance": 0.342191,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hoeselt",
+      "path": "europe/belgium/hoeselt",
+      "prior_score": -5.177,
+      "prior_variance": 0.276219,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_score": -7.7799,
+      "prior_variance": 0.632932,
+      "prior_n": 4
+    }
+  ]
+}

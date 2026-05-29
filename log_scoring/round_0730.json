@@ -1,0 +1,200 @@
+{
+  "round": 730,
+  "timestamp": "2026-04-12T10:45:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_mu": 31.2879,
+      "prior_sigma": 4.8793,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_mu": 31.4723,
+      "prior_sigma": 6.3349,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_mu": 29.2082,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ecuador",
+      "path": "southamerica/ecuador",
+      "prior_mu": 25.0851,
+      "prior_sigma": 6.0557,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_mu": 22.7515,
+      "prior_sigma": 5.7119,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_mu": 22.5323,
+      "prior_sigma": 5.4313,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_mu": 21.1585,
+      "prior_sigma": 3.8493,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_mu": 21.6771,
+      "prior_sigma": 4.7163,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_mu": 22.677,
+      "prior_sigma": 5.6443,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_mu": 21.2577,
+      "prior_sigma": 4.0765,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_mu": 21.019,
+      "prior_sigma": 3.4987,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_mu": 21.433,
+      "prior_sigma": 4.7059,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_mu": 21.3563,
+      "prior_sigma": 3.8449,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/eastern_england/chigwell",
+      "prior_mu": 21.9215,
+      "prior_sigma": 5.4177,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_mu": 18.4603,
+      "prior_sigma": 5.2589,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_mu": 18.7703,
+      "prior_sigma": 4.4777,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_mu": 21.569,
+      "prior_sigma": 5.9035,
+      "prior_n": 1
+    }
+  ]
+}

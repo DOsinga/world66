@@ -1,0 +1,200 @@
+{
+  "round": 1538,
+  "timestamp": "2026-04-13T10:29:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_score": 10.5381,
+      "prior_variance": 1.288824,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_score": -3.2923,
+      "prior_variance": 0.682537,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 13.0082,
+      "prior_variance": 0.659385,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 6.3978,
+      "prior_variance": 0.61408,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_score": 9.5678,
+      "prior_variance": 1.023813,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bournemouth",
+      "prior_score": 1.6589,
+      "prior_variance": 0.432539,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.5826,
+      "prior_variance": 0.407867,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 7.2693,
+      "prior_variance": 0.453263,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 2.3488,
+      "prior_variance": 0.448318,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 2.5157,
+      "prior_variance": 0.48791,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 1.5236,
+      "prior_variance": 0.527731,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.3993,
+      "prior_variance": 0.427613,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.3063,
+      "prior_variance": 0.406768,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 0.8667,
+      "prior_variance": 0.33838,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 1.9147,
+      "prior_variance": 0.472694,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 0.0367,
+      "prior_variance": 0.428788,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Leyte island",
+      "path": "asia/philippines/leyteisland",
+      "prior_score": 1.8296,
+      "prior_variance": 0.494158,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -0.7385,
+      "prior_variance": 0.525407,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.8925,
+      "prior_variance": 0.384327,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": 0.3702,
+      "prior_variance": 0.396775,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.9069,
+      "prior_variance": 0.481335,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -2.3831,
+      "prior_variance": 0.298006,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -0.8713,
+      "prior_variance": 0.367225,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": 1.3931,
+      "prior_variance": 0.638854,
+      "prior_n": 4
+    }
+  ]
+}

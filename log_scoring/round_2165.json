@@ -1,0 +1,200 @@
+{
+  "round": 2165,
+  "timestamp": "2026-04-13T16:16:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shinjuku",
+      "path": "asia/japan/tokyo/shinjuku",
+      "prior_score": 8.4607,
+      "prior_variance": 0.463169,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 7.7575,
+      "prior_variance": 0.36264,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 2.4822,
+      "prior_variance": 0.252815,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.2817,
+      "prior_variance": 0.202322,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 0.9618,
+      "prior_variance": 0.219694,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_score": 1.814,
+      "prior_variance": 0.336396,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": 0.0904,
+      "prior_variance": 0.280543,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_score": 1.3502,
+      "prior_variance": 0.224803,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_score": -0.1149,
+      "prior_variance": 0.186206,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Weilburg",
+      "path": "europe/germany/hessen/weilburg",
+      "prior_score": -1.6497,
+      "prior_variance": 0.30215,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -1.0315,
+      "prior_variance": 0.209266,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Papua New Guinea",
+      "path": "asia/papuanewguinea",
+      "prior_score": -1.8936,
+      "prior_variance": 0.464153,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "French Guiana",
+      "path": "southamerica/frenchguiana",
+      "prior_score": -2.1294,
+      "prior_variance": 0.270209,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.7761,
+      "prior_variance": 0.26196,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -1.494,
+      "prior_variance": 0.265433,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -1.6226,
+      "prior_variance": 0.249415,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": 0.6972,
+      "prior_variance": 0.208207,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -1.1088,
+      "prior_variance": 0.287254,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham",
+      "prior_score": -0.899,
+      "prior_variance": 0.249592,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.0867,
+      "prior_variance": 0.254593,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -4.3306,
+      "prior_variance": 0.280227,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -1.1384,
+      "prior_variance": 0.255345,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/bearwood",
+      "prior_score": -6.4048,
+      "prior_variance": 0.48754,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -5.6823,
+      "prior_variance": 0.326784,
+      "prior_n": 5
+    }
+  ]
+}

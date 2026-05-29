@@ -1,0 +1,200 @@
+{
+  "round": 1968,
+  "timestamp": "2026-04-13T15:58:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.3936,
+      "prior_variance": 0.277202,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gold Coast",
+      "path": "australiaandpacific/australia/queensland/goldcoast",
+      "prior_score": 4.8635,
+      "prior_variance": 0.322958,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 2.4427,
+      "prior_variance": 0.387216,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": 2.1656,
+      "prior_variance": 0.282383,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 3.002,
+      "prior_variance": 0.25182,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 1.6471,
+      "prior_variance": 0.271462,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/yucatan/sanjosedelcabo",
+      "prior_score": 0.5183,
+      "prior_variance": 0.268571,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Surin Province",
+      "path": "asia/thailand/surin_province",
+      "prior_score": -0.3203,
+      "prior_variance": 0.252351,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.0399,
+      "prior_variance": 0.274317,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/northshorecity",
+      "prior_score": 0.2522,
+      "prior_variance": 0.249764,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -0.0991,
+      "prior_variance": 0.255502,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": 0.1828,
+      "prior_variance": 0.271368,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_score": 1.5843,
+      "prior_variance": 0.177904,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.9997,
+      "prior_variance": 0.263082,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -1.0426,
+      "prior_variance": 0.241749,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -2.2447,
+      "prior_variance": 0.270354,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -0.8842,
+      "prior_variance": 0.395072,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hoeselt",
+      "path": "europe/belgium/hoeselt",
+      "prior_score": -4.5768,
+      "prior_variance": 0.231734,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_score": -4.0017,
+      "prior_variance": 0.265686,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.2074,
+      "prior_variance": 0.248439,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Scappoose",
+      "path": "northamerica/unitedstates/oregon/scappoose",
+      "prior_score": -5.316,
+      "prior_variance": 0.336216,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -4.8851,
+      "prior_variance": 0.247444,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_score": -7.8875,
+      "prior_variance": 0.400218,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Enewetok",
+      "path": "australiaandpacific/marshallislands/enewetokatoll/enewetok",
+      "prior_score": -5.8201,
+      "prior_variance": 0.408845,
+      "prior_n": 5
+    }
+  ]
+}

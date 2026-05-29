@@ -1,0 +1,200 @@
+{
+  "round": 1551,
+  "timestamp": "2026-04-13T10:30:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malaysia",
+      "path": "asia/malaysia",
+      "prior_score": -1.0093,
+      "prior_variance": 0.693422,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 2.2236,
+      "prior_variance": 0.377655,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_score": 1.8937,
+      "prior_variance": 0.334225,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 1.7558,
+      "prior_variance": 0.366056,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.8701,
+      "prior_variance": 0.327956,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.8066,
+      "prior_variance": 0.406974,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -2.1634,
+      "prior_variance": 0.700591,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pereira",
+      "path": "southamerica/colombia/pereira",
+      "prior_score": -1.113,
+      "prior_variance": 0.384321,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.9459,
+      "prior_variance": 0.442349,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_score": 0.4389,
+      "prior_variance": 0.427939,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.6531,
+      "prior_variance": 0.351487,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 1.719,
+      "prior_variance": 0.234637,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 1.272,
+      "prior_variance": 0.339421,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.7809,
+      "prior_variance": 0.436656,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 1.0611,
+      "prior_variance": 0.321983,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -0.2617,
+      "prior_variance": 0.309938,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": 0.3857,
+      "prior_variance": 0.331221,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": 0.2421,
+      "prior_variance": 0.234634,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -2.1276,
+      "prior_variance": 0.434319,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -0.3854,
+      "prior_variance": 0.420441,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_score": -0.4327,
+      "prior_variance": 0.333446,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -1.3941,
+      "prior_variance": 0.31626,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Eastern England",
+      "path": "europe/unitedkingdom/england/eastern_england",
+      "prior_score": -0.5842,
+      "prior_variance": 0.576983,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": -0.2794,
+      "prior_variance": 0.552421,
+      "prior_n": 3
+    }
+  ]
+}

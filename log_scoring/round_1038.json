@@ -1,0 +1,200 @@
+{
+  "round": 1038,
+  "timestamp": "2026-04-12T22:05:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_rank": 388,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_rank": 1354,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_rank": 1445,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_rank": 1048,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_rank": 3793,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_rank": 1785,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_rank": 5599,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_rank": 1792,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_rank": 2371,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_rank": 4212,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_rank": 1574,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_rank": 1095,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_rank": 1777,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_rank": 1432,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Caceres",
+      "path": "europe/spain/caceres",
+      "prior_rank": 1681,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Northern Spain",
+      "path": "europe/spain/northernspain",
+      "prior_rank": 915,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/south_island/marlborough",
+      "prior_rank": 1355,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_rank": 1207,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_rank": 1607,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_rank": 2532,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_rank": 1083,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_rank": 1617,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Vieux Fort",
+      "path": "northamerica/saintlucia/vieuxfort",
+      "prior_rank": 4842,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_rank": 3814,
+      "prior_wins": 12,
+      "prior_n": 1
+    }
+  ]
+}

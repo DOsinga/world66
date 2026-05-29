@@ -1,0 +1,109 @@
+{% extends "guide/base.html" %}
+
+{% block title %}{% if query %}{{ query }} — Search{% else %}Search{% endif %} - World66{% endblock %}
+
+{% block breadcrumbs %}
+<nav class="breadcrumbs">
+  <a href="/">World</a>
+  <span class="sep">&rsaquo;</span>
+  <span class="current">Search</span>
+</nav>
+{% endblock %}
+
+{% block content %}
+<h1>Search</h1>
+
+{% if not has_db %}
+<p class="search-no-results">Search index not found. Run <code>python indexer.py</code> to build it.</p>
+{% else %}
+<div class="search-page-form">
+  <input type="search" id="search-input" value="{{ query|default:'' }}" placeholder="Search destinations&hellip;" autofocus autocomplete="off" aria-label="Search destinations">
+</div>
+
+<div id="search-status" class="search-count" style="display:none"></div>
+<ul id="search-results" class="search-results"></ul>
+<p id="search-empty" class="search-no-results" style="display:none"></p>
+{% endif %}
+{% endblock %}
+
+{% block extra_js %}
+{% if has_db %}
+<script>
+(function() {
+  var input = document.getElementById('search-input');
+  var resultsList = document.getElementById('search-results');
+  var statusEl = document.getElementById('search-status');
+  var emptyEl = document.getElementById('search-empty');
+  var timer = null;
+  var controller = null;
+
+  function doSearch(query) {
+    if (controller) controller.abort();
+
+    if (!query) {
+      resultsList.innerHTML = '';
+      statusEl.style.display = 'none';
+      emptyEl.style.display = 'none';
+      history.replaceState(null, '', '/search');
+      return;
+    }
+
+    history.replaceState(null, '', '/search?q=' + encodeURIComponent(query));
+
+    controller = new AbortController();
+    fetch('/api/search?q=' + encodeURIComponent(query), {signal: controller.signal})
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        var results = data.results;
+        resultsList.innerHTML = '';
+
+        if (results.length === 0) {
+          statusEl.style.display = 'none';
+          emptyEl.textContent = 'No results found for \u201c' + query + '\u201d.';
+          emptyEl.style.display = '';
+          return;
+        }
+
+        emptyEl.style.display = 'none';
+        statusEl.textContent = results.length + ' result' + (results.length !== 1 ? 's' : '') + ' for \u201c' + query + '\u201d';
+        statusEl.style.display = '';
+
+        for (var i = 0; i < results.length; i++) {
+          var r = results[i];
+          var li = document.createElement('li');
+          li.className = 'search-result search-result--' + r.page_type;
+          var a = document.createElement('a');
+          a.href = r.url;
+          a.textContent = r.title;
+          if (r.location) {
+            var loc = document.createElement('span');
+            loc.className = 'search-result-location';
+            loc.textContent = r.location;
+            a.appendChild(loc);
+          }
+          var span = document.createElement('span');
+          span.className = 'search-result-type';
+          span.textContent = r.page_type;
+          li.appendChild(a);
+          li.appendChild(span);
+          resultsList.appendChild(li);
+        }
+      })
+      .catch(function(e) {
+        if (e.name !== 'AbortError') console.error(e);
+      });
+  }
+
+  input.addEventListener('input', function() {
+    clearTimeout(timer);
+    var q = input.value.trim();
+    timer = setTimeout(function() { doSearch(q); }, 150);
+  });
+
+  // Run initial search if query param is present
+  var q = input.value.trim();
+  if (q) doSearch(q);
+})();
+</script>
+{% endif %}
+{% endblock %}

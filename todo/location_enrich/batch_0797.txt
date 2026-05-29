@@ -1,0 +1,8 @@
+asia/india/rajasthan/bikaner
+europe/spain/caceres
+europe/netherlands/valkenburg
+europe/greece/kos
+asia/china/sichuanprovince/chengdu
+asia/thailand/maehongson
+europe/italy/sicily/piazza_armerina
+northamerica/unitedstates/florida/pensacola

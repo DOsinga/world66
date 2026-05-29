@@ -1,0 +1,200 @@
+{
+  "round": 593,
+  "timestamp": "2026-04-12T10:38:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_mu": 29.1098,
+      "prior_sigma": 6.8185,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_mu": 32.332,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Ibiza Town",
+      "path": "europe/spain/balearicislands/ibiza/ibizatown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Balearic islands",
+      "path": "europe/spain/balearicislands",
+      "prior_mu": 28.138,
+      "prior_sigma": 5.7179,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_mu": 23.0116,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_mu": 21.9927,
+      "prior_sigma": 4.6098,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_mu": 22.3631,
+      "prior_sigma": 4.6488,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_mu": 21.8633,
+      "prior_sigma": 4.8046,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_mu": 22.5333,
+      "prior_sigma": 5.7883,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_mu": 25.1345,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_mu": 22.2701,
+      "prior_sigma": 5.4752,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_mu": 21.781,
+      "prior_sigma": 4.5222,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_mu": 22.5407,
+      "prior_sigma": 4.6901,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_mu": 22.3985,
+      "prior_sigma": 5.5254,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Oropesa",
+      "path": "europe/spain/centralspain/oropesa",
+      "prior_mu": 22.4836,
+      "prior_sigma": 5.7592,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ciudad Real",
+      "path": "europe/spain/la_mancha/ciudad_real",
+      "prior_mu": 21.5449,
+      "prior_sigma": 4.6123,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_mu": 22.5742,
+      "prior_sigma": 5.9377,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

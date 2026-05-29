@@ -1,0 +1,200 @@
+{
+  "round": 794,
+  "timestamp": "2026-04-12T10:48:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_mu": 22.8568,
+      "prior_sigma": 5.6113,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Vieques",
+      "path": "northamerica/puertorico/vieques",
+      "prior_mu": 23.8598,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_mu": 21.6752,
+      "prior_sigma": 4.0215,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_mu": 21.6071,
+      "prior_sigma": 4.3662,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 20.7281,
+      "prior_sigma": 2.5221,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_mu": 22.5004,
+      "prior_sigma": 5.5085,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_mu": 21.2376,
+      "prior_sigma": 3.7499,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_mu": 22.7548,
+      "prior_sigma": 5.7212,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_mu": 22.5404,
+      "prior_sigma": 5.3789,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_mu": 21.4666,
+      "prior_sigma": 4.3833,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_mu": 21.742,
+      "prior_sigma": 4.7219,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Batang Kali",
+      "path": "asia/malaysia/batangkali",
+      "prior_mu": 21.673,
+      "prior_sigma": 4.3679,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_mu": 20.6992,
+      "prior_sigma": 3.1973,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_mu": 25.3049,
+      "prior_sigma": 5.3931,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_mu": 21.4614,
+      "prior_sigma": 4.7079,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_mu": 19.0415,
+      "prior_sigma": 5.0112,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_mu": 20.9552,
+      "prior_sigma": 3.8746,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Deleg",
+      "path": "southamerica/ecuador/deleg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_mu": 22.3267,
+      "prior_sigma": 5.6503,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_mu": 22.5757,
+      "prior_sigma": 5.9091,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/croydon",
+      "prior_mu": 18.1265,
+      "prior_sigma": 4.8016,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_mu": 17.8669,
+      "prior_sigma": 6.4184,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2338,
+  "timestamp": "2026-04-13T16:32:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -0.4954,
+      "prior_variance": 0.283862,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.5479,
+      "prior_variance": 0.227365,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_score": -2.3134,
+      "prior_variance": 0.147148,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -3.0509,
+      "prior_variance": 0.24311,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -1.9186,
+      "prior_variance": 0.242736,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -2.898,
+      "prior_variance": 0.236491,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_score": -2.7953,
+      "prior_variance": 0.167383,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "West Orange",
+      "path": "northamerica/unitedstates/newjersey/westorange",
+      "prior_score": -4.0849,
+      "prior_variance": 0.293631,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/bearwood",
+      "prior_score": -6.0651,
+      "prior_variance": 0.384578,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.8255,
+      "prior_variance": 0.24255,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Moldova",
+      "path": "europe/moldova",
+      "prior_score": -3.5499,
+      "prior_variance": 0.25786,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_score": -3.7149,
+      "prior_variance": 0.209822,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.3993,
+      "prior_variance": 0.289174,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -4.2932,
+      "prior_variance": 0.261492,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -2.7586,
+      "prior_variance": 0.258909,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -3.1708,
+      "prior_variance": 0.205269,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_score": -3.5954,
+      "prior_variance": 0.484939,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -6.6765,
+      "prior_variance": 0.27005,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -5.2424,
+      "prior_variance": 0.156643,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.672,
+      "prior_variance": 0.251271,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/nevada/wendover",
+      "prior_score": -5.0343,
+      "prior_variance": 0.24631,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -7.8019,
+      "prior_variance": 0.317274,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -5.943,
+      "prior_variance": 0.376347,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": -1.6229,
+      "prior_variance": 0.329462,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2021,
+  "timestamp": "2026-04-13T16:03:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 9.3768,
+      "prior_variance": 0.365481,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_score": 0.0721,
+      "prior_variance": 0.677067,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 4.2399,
+      "prior_variance": 0.374246,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales",
+      "prior_score": 4.7705,
+      "prior_variance": 0.266245,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Belize",
+      "path": "northamerica/belize",
+      "prior_score": 4.6827,
+      "prior_variance": 0.456432,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 3.8819,
+      "prior_variance": 0.342485,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": 3.7917,
+      "prior_variance": 0.340829,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_score": 5.6772,
+      "prior_variance": 0.339107,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tonga",
+      "path": "australiaandpacific/tonga",
+      "prior_score": 2.6425,
+      "prior_variance": 0.462236,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 1.6157,
+      "prior_variance": 0.400867,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.5841,
+      "prior_variance": 0.329809,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 3.8381,
+      "prior_variance": 0.414189,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 3.6726,
+      "prior_variance": 0.453159,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 3.2095,
+      "prior_variance": 0.371379,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.8333,
+      "prior_variance": 0.30516,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.6111,
+      "prior_variance": 0.266624,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hesse/rudesheim",
+      "prior_score": 2.7743,
+      "prior_variance": 0.256462,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 2.1357,
+      "prior_variance": 0.285633,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": 1.0532,
+      "prior_variance": 0.153785,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.1409,
+      "prior_variance": 0.280363,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 1.366,
+      "prior_variance": 0.223701,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -2.742,
+      "prior_variance": 0.250175,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_score": 0.736,
+      "prior_variance": 0.256098,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.572,
+      "prior_variance": 0.263341,
+      "prior_n": 5
+    }
+  ]
+}

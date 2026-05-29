@@ -1,0 +1,200 @@
+{
+  "round": 1616,
+  "timestamp": "2026-04-13T10:36:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/otago/queenstown",
+      "prior_score": 12.4285,
+      "prior_variance": 0.47098,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_score": 8.6123,
+      "prior_variance": 0.727908,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sicily",
+      "path": "europe/italy/sicily",
+      "prior_score": 9.4765,
+      "prior_variance": 0.715484,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_score": 11.7982,
+      "prior_variance": 0.453921,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_eus/sansebastian",
+      "prior_score": 10.41,
+      "prior_variance": 0.838233,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Everest Region",
+      "path": "asia/nepal/everest_region",
+      "prior_score": 10.3384,
+      "prior_variance": 0.624551,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_score": 11.6103,
+      "prior_variance": 1.025343,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 10.9372,
+      "prior_variance": 0.713813,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Aruba",
+      "path": "northamerica/thecaribbean/aruba",
+      "prior_score": 9.1243,
+      "prior_variance": 0.505053,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Corfu",
+      "path": "europe/greece/corfu",
+      "prior_score": 10.9389,
+      "prior_variance": 0.66787,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 7.1094,
+      "prior_variance": 0.486829,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_score": 5.723,
+      "prior_variance": 0.444467,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall",
+      "prior_score": 5.8217,
+      "prior_variance": 0.521625,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 7.2922,
+      "prior_variance": 0.543886,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.9899,
+      "prior_variance": 0.48005,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 0.5881,
+      "prior_variance": 0.368116,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_score": 2.4964,
+      "prior_variance": 0.2793,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 1.9418,
+      "prior_variance": 0.319444,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 0.0433,
+      "prior_variance": 0.418623,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 3.7103,
+      "prior_variance": 0.315173,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 2.1844,
+      "prior_variance": 0.329122,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -1.1077,
+      "prior_variance": 0.314764,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -5.0938,
+      "prior_variance": 0.376733,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Eckernf?rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -2.3489,
+      "prior_variance": 0.368365,
+      "prior_n": 4
+    }
+  ]
+}

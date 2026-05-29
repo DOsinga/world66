@@ -1,0 +1,5 @@
+europe/germany/brandenburg/wittenberg
+northamerica/unitedstates/illinois/prairie_du_rocher
+asia/india/manipur/mao
+africa/morocco/mhamid
+asia/thailand/kohtao

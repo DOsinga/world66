@@ -1,0 +1,5 @@
+asia/india/tamilnadu/mahabalipuram
+northamerica/unitedstates/georgia/crawfordville_georgia
+asia/china/jiangsu_province/nanjing
+northamerica/canada/princeedwardisland/naufrage
+asia/philippines/losbanos

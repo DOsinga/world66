@@ -1,0 +1,200 @@
+{
+  "round": 1892,
+  "timestamp": "2026-04-13T14:33:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 11.0285,
+      "prior_variance": 0.520706,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 10.522,
+      "prior_variance": 0.450921,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 1.57,
+      "prior_variance": 0.44505,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Puglia",
+      "path": "europe/italy/puglia",
+      "prior_score": 9.2381,
+      "prior_variance": 0.640813,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 9.6233,
+      "prior_variance": 0.394654,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.1809,
+      "prior_variance": 0.316415,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_score": 0.5726,
+      "prior_variance": 0.484252,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_score": 0.3339,
+      "prior_variance": 0.379474,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 2.2593,
+      "prior_variance": 0.310706,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 4.7756,
+      "prior_variance": 0.298011,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 2.9945,
+      "prior_variance": 0.145101,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 2.7876,
+      "prior_variance": 0.251685,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 3.6343,
+      "prior_variance": 0.252896,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 3.0806,
+      "prior_variance": 0.271056,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.6248,
+      "prior_variance": 0.291353,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 1.0602,
+      "prior_variance": 0.36033,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.8874,
+      "prior_variance": 0.288222,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 1.7032,
+      "prior_variance": 0.342123,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 2.9471,
+      "prior_variance": 0.319377,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -0.3389,
+      "prior_variance": 0.243528,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": 0.1323,
+      "prior_variance": 0.275384,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Sandy",
+      "path": "northamerica/unitedstates/utah/sandy",
+      "prior_score": -5.2887,
+      "prior_variance": 0.351321,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -1.4914,
+      "prior_variance": 0.331163,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -2.9602,
+      "prior_variance": 0.281165,
+      "prior_n": 5
+    }
+  ]
+}

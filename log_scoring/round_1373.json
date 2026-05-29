@@ -1,0 +1,200 @@
+{
+  "round": 1373,
+  "timestamp": "2026-04-12T22:24:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St.George",
+      "path": "northamerica/saintvincentandthegrenadines/stgeorge",
+      "prior_rank": 3076,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_rank": 4680,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_rank": 7179,
+      "prior_wins": 27,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_rank": 4676,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_rank": 4360,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_rank": 2958,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_rank": 6119,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_rank": 4277,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_rank": 4101,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_rank": 2090,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_rank": 2978,
+      "prior_wins": 80,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_rank": 4112,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_rank": 6438,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Inderoy",
+      "path": "europe/norway/inderoy",
+      "prior_rank": 7081,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_rank": 3626,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_rank": 2301,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_rank": 4616,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_rank": 4125,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_rank": 3127,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_rank": 6120,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_rank": 6057,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceitu",
+      "prior_rank": 5531,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_rank": 5795,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_rank": 4710,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

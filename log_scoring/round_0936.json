@@ -1,0 +1,200 @@
+{
+  "round": 936,
+  "timestamp": "2026-04-12T16:08:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 51,
+      "prior_wins": 115,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_rank": 62,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_rank": 113,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Scuba Diving",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
+      "prior_rank": 33,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_rank": 98,
+      "prior_wins": 91,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_rank": 54,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_rank": 259,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_rank": 146,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Maldives",
+      "path": "africa/maldives",
+      "prior_rank": 2,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_rank": 172,
+      "prior_wins": 228,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_rank": 12,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Versailles",
+      "path": "europe/france/paris/versailles",
+      "prior_rank": 52,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_rank": 28,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_rank": 4,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_rank": 103,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bath",
+      "prior_rank": 86,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_rank": 244,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_rank": 66,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_rank": 85,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kyushu",
+      "path": "asia/japan/kyushu",
+      "prior_rank": 17,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_rank": 133,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Colorado",
+      "path": "northamerica/unitedstates/colorado",
+      "prior_rank": 162,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_rank": 100,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_rank": 53,
+      "prior_wins": 45,
+      "prior_n": 2
+    }
+  ]
+}

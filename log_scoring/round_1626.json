@@ -1,0 +1,200 @@
+{
+  "round": 1626,
+  "timestamp": "2026-04-13T10:36:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 5.8732,
+      "prior_variance": 0.454903,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 7.2923,
+      "prior_variance": 0.342054,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 7.234,
+      "prior_variance": 0.390641,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 5.7348,
+      "prior_variance": 0.319941,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 5.3153,
+      "prior_variance": 0.411916,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.6142,
+      "prior_variance": 0.320723,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 5.5957,
+      "prior_variance": 0.373576,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
+      "prior_score": 4.222,
+      "prior_variance": 0.367041,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Condado",
+      "path": "northamerica/puertorico/condado",
+      "prior_score": 4.1801,
+      "prior_variance": 0.465008,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 3.0101,
+      "prior_variance": 0.375515,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 5.2017,
+      "prior_variance": 0.447002,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 4.1934,
+      "prior_variance": 0.289447,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_score": 5.9678,
+      "prior_variance": 0.340849,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 0.9936,
+      "prior_variance": 0.540129,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.8169,
+      "prior_variance": 0.427656,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
+      "prior_score": 4.2373,
+      "prior_variance": 0.350207,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.7287,
+      "prior_variance": 0.359642,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.904,
+      "prior_variance": 0.449433,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.9842,
+      "prior_variance": 0.427291,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 1.1162,
+      "prior_variance": 0.323853,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": 0.0497,
+      "prior_variance": 0.302602,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": 0.2232,
+      "prior_variance": 0.382795,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": 0.6725,
+      "prior_variance": 0.426713,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 1.2555,
+      "prior_variance": 0.378593,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+africa/morocco/tineghir
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough
+europe/italy/lombardia/lagodigarda/lazise
+southamerica/paraguay/yaguaron
+northamerica/turksandcaicosislands/saltcay

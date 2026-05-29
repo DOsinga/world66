@@ -1,0 +1,200 @@
+{
+  "round": 1967,
+  "timestamp": "2026-04-13T15:58:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Asakusa",
+      "path": "asia/japan/tokyo/asakusa",
+      "prior_score": 9.6863,
+      "prior_variance": 0.357701,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 3.9934,
+      "prior_variance": 0.253625,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 3.753,
+      "prior_variance": 0.340425,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 0.1778,
+      "prior_variance": 0.337089,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.8158,
+      "prior_variance": 0.25827,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": -0.2874,
+      "prior_variance": 0.26295,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_score": 0.4819,
+      "prior_variance": 0.292318,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.0019,
+      "prior_variance": 0.271921,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -2.0565,
+      "prior_variance": 0.239113,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.1718,
+      "prior_variance": 0.257977,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -3.0778,
+      "prior_variance": 0.384137,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Podgorica",
+      "path": "europe/serbiaandmontenegro/podgorica",
+      "prior_score": -1.3748,
+      "prior_variance": 0.266863,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 0.3374,
+      "prior_variance": 0.313584,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Carlow",
+      "path": "europe/ireland/carlow",
+      "prior_score": -0.4458,
+      "prior_variance": 0.274142,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.967,
+      "prior_variance": 0.329336,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/newyorkstate/middletown",
+      "prior_score": -4.8173,
+      "prior_variance": 0.306066,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -1.6718,
+      "prior_variance": 0.242131,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_score": -4.5488,
+      "prior_variance": 0.281444,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_score": -4.5159,
+      "prior_variance": 0.406872,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kolomyia",
+      "path": "europe/ukraine/kolomyia",
+      "prior_score": -3.5769,
+      "prior_variance": 0.266288,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "neuve englise",
+      "path": "europe/france/nord/neuve_englise",
+      "prior_score": -5.8953,
+      "prior_variance": 0.398662,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "khed",
+      "path": "asia/india/maharashtra/konkan/khed_1",
+      "prior_score": -6.6086,
+      "prior_variance": 0.305301,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -5.7582,
+      "prior_variance": 0.339151,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -7.2975,
+      "prior_variance": 0.540166,
+      "prior_n": 5
+    }
+  ]
+}

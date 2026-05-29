@@ -1,0 +1,200 @@
+{
+  "round": 2023,
+  "timestamp": "2026-04-13T16:03:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 5.8195,
+      "prior_variance": 0.307215,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 2.2281,
+      "prior_variance": 0.299256,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.3302,
+      "prior_variance": 0.278573,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kuwait",
+      "path": "asia/kuwait",
+      "prior_score": -4.0595,
+      "prior_variance": 0.374722,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_score": -0.7903,
+      "prior_variance": 0.274856,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.7315,
+      "prior_variance": 0.250329,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -1.2576,
+      "prior_variance": 0.371464,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Limousin",
+      "path": "europe/france/centre/limousin",
+      "prior_score": -1.8278,
+      "prior_variance": 0.266109,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 1.5784,
+      "prior_variance": 0.252825,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -0.8776,
+      "prior_variance": 0.324443,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_score": -3.9762,
+      "prior_variance": 0.25972,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_score": -2.0225,
+      "prior_variance": 0.258317,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bydgoszcz",
+      "path": "europe/poland/bydgoszcz",
+      "prior_score": -2.0701,
+      "prior_variance": 0.25147,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_score": -5.2962,
+      "prior_variance": 0.391992,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.9315,
+      "prior_variance": 0.308957,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -7.2516,
+      "prior_variance": 0.272191,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.1792,
+      "prior_variance": 0.262354,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -4.9035,
+      "prior_variance": 0.257251,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Havre",
+      "path": "northamerica/unitedstates/montana/havre",
+      "prior_score": -4.6622,
+      "prior_variance": 0.289412,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -6.3347,
+      "prior_variance": 0.385918,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_score": -5.974,
+      "prior_variance": 0.253401,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -6.7529,
+      "prior_variance": 0.327317,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/yucatan/naulcapan",
+      "prior_score": -5.4903,
+      "prior_variance": 0.258945,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -7.6702,
+      "prior_variance": 0.487477,
+      "prior_n": 5
+    }
+  ]
+}

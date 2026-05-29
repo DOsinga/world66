@@ -1,0 +1,200 @@
+{
+  "round": 36,
+  "timestamp": "2026-04-11T19:25:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_mu": 25.3,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 23.69,
+      "prior_sigma": 5.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_mu": 23.11,
+      "prior_sigma": 4.97,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_mu": 22.94,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_mu": 23.19,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_mu": 22.14,
+      "prior_sigma": 5.47,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_mu": 22.02,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_mu": 26.04,
+      "prior_sigma": 5.21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_mu": 22.54,
+      "prior_sigma": 5.54,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_mu": 21.99,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Calbayog",
+      "path": "asia/philippines/calbayog",
+      "prior_mu": 21.72,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/catanzaro/soveria_mannelli",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 19.75,
+      "prior_sigma": 4.34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_mu": 21.42,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    }
+  ]
+}

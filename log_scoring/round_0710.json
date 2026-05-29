@@ -1,0 +1,200 @@
+{
+  "round": 710,
+  "timestamp": "2026-04-12T10:43:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/rivieramaya",
+      "prior_mu": 23.5622,
+      "prior_sigma": 6.049,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_mu": 24.769,
+      "prior_sigma": 4.4781,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_mu": 22.8497,
+      "prior_sigma": 5.667,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_mu": 22.764,
+      "prior_sigma": 4.7766,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_mu": 23.1291,
+      "prior_sigma": 5.8637,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_mu": 21.2623,
+      "prior_sigma": 3.8159,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_mu": 21.4274,
+      "prior_sigma": 4.5612,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/yucatan/veracruz",
+      "prior_mu": 21.4787,
+      "prior_sigma": 4.7136,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_mu": 22.3973,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_mu": 22.1569,
+      "prior_sigma": 5.8903,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_mu": 21.4266,
+      "prior_sigma": 4.6478,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Puebla",
+      "path": "northamerica/mexico/yucatan/puebla",
+      "prior_mu": 21.4176,
+      "prior_sigma": 4.4981,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_mu": 18.0645,
+      "prior_sigma": 6.6973,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/yucatan/uruapan",
+      "prior_mu": 22.7331,
+      "prior_sigma": 5.9436,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/yucatan/nuevolaredo",
+      "prior_mu": 22.5573,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/yucatan/naulcapan",
+      "prior_mu": 22.2563,
+      "prior_sigma": 5.8347,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/basconcobe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_mu": 21.8338,
+      "prior_sigma": 5.6625,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/yucatan/ojinaga",
+      "prior_mu": 21.4287,
+      "prior_sigma": 4.1497,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mexico",
+      "path": "northamerica/mexico",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    }
+  ]
+}

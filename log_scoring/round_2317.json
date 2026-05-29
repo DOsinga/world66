@@ -1,0 +1,200 @@
+{
+  "round": 2317,
+  "timestamp": "2026-04-13T16:30:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_score": 7.2535,
+      "prior_variance": 0.257137,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 2.9767,
+      "prior_variance": 0.236963,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_score": 0.362,
+      "prior_variance": 0.346069,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
+      "prior_score": 1.2932,
+      "prior_variance": 0.208496,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.1914,
+      "prior_variance": 0.18355,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_score": 2.1723,
+      "prior_variance": 0.260399,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.2049,
+      "prior_variance": 0.241548,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 2.4774,
+      "prior_variance": 0.234937,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 1.9176,
+      "prior_variance": 0.195372,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Azerbaijan",
+      "path": "europe/azerbaijan",
+      "prior_score": -5.3535,
+      "prior_variance": 0.297241,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.2253,
+      "prior_variance": 0.285085,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.5339,
+      "prior_variance": 0.264308,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.6078,
+      "prior_variance": 0.252361,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -1.4966,
+      "prior_variance": 0.254612,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_score": -4.1066,
+      "prior_variance": 0.205456,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_score": 0.0175,
+      "prior_variance": 0.248706,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": 0.6761,
+      "prior_variance": 0.249765,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.551,
+      "prior_variance": 0.248521,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.3554,
+      "prior_variance": 0.206737,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -6.5299,
+      "prior_variance": 0.327362,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -4.9114,
+      "prior_variance": 0.218802,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -7.045,
+      "prior_variance": 0.433719,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Upper West",
+      "path": "africa/ghana/upper_west",
+      "prior_score": -4.727,
+      "prior_variance": 0.318704,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -10.0844,
+      "prior_variance": 0.353248,
+      "prior_n": 6
+    }
+  ]
+}

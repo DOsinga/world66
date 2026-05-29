@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/wendover
+europe/moldova/tiraspol
+northamerica/antiguaandbarbuda/englishharbour
+northamerica/panama/sanblasislands
+europe/faroeislands/vagar/gasadalur

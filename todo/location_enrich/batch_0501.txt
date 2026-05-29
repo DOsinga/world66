@@ -1,0 +1,5 @@
+africa/angola/cabinda
+southamerica/peru/huanuco
+asia/iraq/basra
+asia/indonesia/bali/denpasar
+africa/ghana/busua_western_regi

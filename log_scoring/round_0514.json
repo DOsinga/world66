@@ -1,0 +1,200 @@
+{
+  "round": 514,
+  "timestamp": "2026-04-12T09:45:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_mu": 27.1444,
+      "prior_sigma": 4.2291,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_mu": 22.5612,
+      "prior_sigma": 4.5551,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.3062,
+      "prior_sigma": 3.7126,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_mu": 21.5472,
+      "prior_sigma": 4.2492,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_mu": 21.1876,
+      "prior_sigma": 3.8006,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_mu": 22.7102,
+      "prior_sigma": 3.5567,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 23.1841,
+      "prior_sigma": 3.529,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_mu": 22.1888,
+      "prior_sigma": 4.2776,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_mu": 21.0955,
+      "prior_sigma": 4.0498,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_mu": 21.359,
+      "prior_sigma": 4.8323,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_mu": 21.1365,
+      "prior_sigma": 3.4299,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_mu": 21.158,
+      "prior_sigma": 3.7462,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 21.2077,
+      "prior_sigma": 3.8917,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_mu": 21.1303,
+      "prior_sigma": 3.4536,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Schagen",
+      "path": "europe/netherlands/schagen",
+      "prior_mu": 21.5524,
+      "prior_sigma": 4.5747,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_mu": 21.0996,
+      "prior_sigma": 4.0103,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_mu": 21.2368,
+      "prior_sigma": 3.9114,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_mu": 20.6071,
+      "prior_sigma": 3.0977,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_mu": 21.5912,
+      "prior_sigma": 4.3431,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_mu": 18.8736,
+      "prior_sigma": 4.8779,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_mu": 18.9853,
+      "prior_sigma": 4.1986,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_mu": 18.3307,
+      "prior_sigma": 4.9341,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tjuchum",
+      "path": "europe/netherlands/tjuchum",
+      "prior_mu": 15.8437,
+      "prior_sigma": 3.6054,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_mu": 17.8971,
+      "prior_sigma": 6.5303,
+      "prior_n": 1
+    }
+  ]
+}

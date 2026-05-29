@@ -1,0 +1,200 @@
+{
+  "round": 2238,
+  "timestamp": "2026-04-13T16:23:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aruba",
+      "path": "northamerica/thecaribbean/aruba",
+      "prior_score": 8.306,
+      "prior_variance": 0.338415,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 4.1093,
+      "prior_variance": 0.217926,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 4.3875,
+      "prior_variance": 0.293278,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_score": 1.7777,
+      "prior_variance": 0.266867,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": 4.5553,
+      "prior_variance": 0.319644,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 4.4563,
+      "prior_variance": 0.293623,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": 0.099,
+      "prior_variance": 0.218441,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Nebel, Amrum",
+      "path": "europe/germany/schleswigholstein/nebel_amrum",
+      "prior_score": -0.4355,
+      "prior_variance": 0.21871,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_score": -1.2086,
+      "prior_variance": 0.265999,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kackar",
+      "path": "asia/turkey/kackar",
+      "prior_score": 0.1067,
+      "prior_variance": 0.262815,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -0.5397,
+      "prior_variance": 0.272003,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.0131,
+      "prior_variance": 0.258362,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": 0.0088,
+      "prior_variance": 0.197169,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -0.7786,
+      "prior_variance": 0.217948,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -0.5933,
+      "prior_variance": 0.203213,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -0.8676,
+      "prior_variance": 0.212764,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -2.6099,
+      "prior_variance": 0.310651,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -2.7309,
+      "prior_variance": 0.232458,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -2.7321,
+      "prior_variance": 0.225558,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -3.0256,
+      "prior_variance": 0.264495,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.1454,
+      "prior_variance": 0.27873,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.7689,
+      "prior_variance": 0.29033,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/harrow",
+      "prior_score": -3.5106,
+      "prior_variance": 0.256086,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -7.3732,
+      "prior_variance": 0.369778,
+      "prior_n": 5
+    }
+  ]
+}

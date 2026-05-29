@@ -1,0 +1,200 @@
+{
+  "round": 1159,
+  "timestamp": "2026-04-12T22:12:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_rank": 391,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_rank": 1578,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_rank": 2238,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_rank": 704,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_rank": 1195,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_rank": 416,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_rank": 2856,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_rank": 2797,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_rank": 1375,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_rank": 954,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_rank": 2515,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_rank": 4213,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_rank": 3287,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_kha",
+      "prior_rank": 1229,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_rank": 1161,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_rank": 4007,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_rank": 1378,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Palm Springs Area",
+      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
+      "prior_rank": 2675,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_rank": 365,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_rank": 982,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_rank": 1371,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Marunouchi",
+      "path": "asia/japan/tokyo/marunouchi",
+      "prior_rank": 3404,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_rank": 427,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_rank": 3615,
+      "prior_wins": 21,
+      "prior_n": 2
+    }
+  ]
+}

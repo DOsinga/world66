@@ -1,0 +1,200 @@
+{
+  "round": 1778,
+  "timestamp": "2026-04-13T10:50:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 11.2646,
+      "prior_variance": 0.466736,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_score": 10.0577,
+      "prior_variance": 0.452735,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 6.8375,
+      "prior_variance": 0.357158,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 4.8767,
+      "prior_variance": 0.298266,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 6.356,
+      "prior_variance": 0.314813,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/glastonbury",
+      "prior_score": 2.8307,
+      "prior_variance": 0.318602,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 8.6993,
+      "prior_variance": 0.414411,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 1.9765,
+      "prior_variance": 0.352452,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": -0.0095,
+      "prior_variance": 0.42218,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 1.985,
+      "prior_variance": 0.312231,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": 0.6052,
+      "prior_variance": 0.27273,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_score": -0.8833,
+      "prior_variance": 0.659922,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Indonesia",
+      "path": "asia/indonesia",
+      "prior_score": -1.946,
+      "prior_variance": 0.52408,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -1.6654,
+      "prior_variance": 0.330902,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_score": -1.5684,
+      "prior_variance": 0.531803,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -5.1738,
+      "prior_variance": 0.275671,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ipiales",
+      "path": "southamerica/chile/ipiales",
+      "prior_score": -4.9476,
+      "prior_variance": 0.319229,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ribeirao Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -3.6786,
+      "prior_variance": 0.285953,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "khed",
+      "path": "asia/india/maharashtra/konkan/khed_1",
+      "prior_score": -7.1608,
+      "prior_variance": 0.369066,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_score": -5.8437,
+      "prior_variance": 0.434963,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -5.1122,
+      "prior_variance": 0.250424,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.5445,
+      "prior_variance": 0.363534,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville_indian",
+      "prior_score": -4.6571,
+      "prior_variance": 0.388237,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -4.3408,
+      "prior_variance": 0.316708,
+      "prior_n": 4
+    }
+  ]
+}

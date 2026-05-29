@@ -1,0 +1,200 @@
+{
+  "round": 1254,
+  "timestamp": "2026-04-12T22:17:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_rank": 1259,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_rank": 1096,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_rank": 1647,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_rank": 895,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_rank": 1306,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_rank": 1040,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_rank": 5238,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_da",
+      "prior_rank": 766,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "The High Coast",
+      "path": "europe/sweden/the_high_coast",
+      "prior_rank": 1290,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_rank": 1070,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_rank": 3175,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_rank": 3277,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_rank": 1049,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_rank": 1877,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_rank": 2204,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Isle of Man",
+      "path": "europe/isleofman",
+      "prior_rank": 2170,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_rank": 3555,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_rank": 2277,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ria of Pontevedra",
+      "path": "europe/spain/galicia/ria_of_pontevedra",
+      "prior_rank": 1994,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_rank": 3055,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_rank": 888,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_rank": 1692,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_rank": 2153,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_rank": 1003,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

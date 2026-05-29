@@ -1,0 +1,200 @@
+{
+  "round": 1141,
+  "timestamp": "2026-04-12T22:11:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alaska",
+      "path": "northamerica/unitedstates/alaska",
+      "prior_rank": 479,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_rank": 737,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_rank": 303,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_rank": 696,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/chester",
+      "prior_rank": 399,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_rank": 238,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_rank": 3054,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_rank": 942,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_rank": 954,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_rank": 431,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Perast",
+      "path": "europe/serbiaandmontenegro/perast",
+      "prior_rank": 1009,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_rank": 2133,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_rank": 2898,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_rank": 1528,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_rank": 3347,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Navarre",
+      "path": "europe/spain/navarre",
+      "prior_rank": 982,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national",
+      "prior_rank": 813,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_rank": 2610,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_rank": 740,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_rank": 2124,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_rank": 1826,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_rank": 1259,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_rank": 1031,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_rank": 1744,
+      "prior_wins": 50,
+      "prior_n": 3
+    }
+  ]
+}

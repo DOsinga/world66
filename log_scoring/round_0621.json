@@ -1,0 +1,200 @@
+{
+  "round": 621,
+  "timestamp": "2026-04-12T10:40:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_mu": 22.4187,
+      "prior_sigma": 4.6827,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Pantanal",
+      "path": "southamerica/brazil/pantanal",
+      "prior_mu": 22.4452,
+      "prior_sigma": 5.7841,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadei",
+      "prior_mu": 22.9288,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_mu": 22.8724,
+      "prior_sigma": 5.6665,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_mu": 21.5572,
+      "prior_sigma": 4.4782,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_mu": 22.3618,
+      "prior_sigma": 5.9043,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_mu": 22.2037,
+      "prior_sigma": 5.7419,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_mu": 22.499,
+      "prior_sigma": 5.9141,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_mu": 22.2811,
+      "prior_sigma": 5.7701,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Guaruja",
+      "path": "southamerica/brazil/guaruja",
+      "prior_mu": 22.5721,
+      "prior_sigma": 5.9063,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Goiania",
+      "path": "southamerica/brazil/goiania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_mu": 21.7436,
+      "prior_sigma": 5.5977,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Santa Rita",
+      "path": "southamerica/brazil/santa_rita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Diadema",
+      "path": "southamerica/brazil/diadema",
+      "prior_mu": 18.9205,
+      "prior_sigma": 5.313,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Garca",
+      "path": "southamerica/brazil/garca",
+      "prior_mu": 22.2718,
+      "prior_sigma": 5.2952,
+      "prior_n": 1
+    }
+  ]
+}

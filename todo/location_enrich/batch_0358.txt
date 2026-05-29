@@ -1,0 +1,5 @@
+europe/denmark/mon
+africa/senegal/dakar
+africa/algeria/timimoun
+europe/france/normandybrittany/deauville
+asia/saudiarabia/khobar

@@ -1,0 +1,200 @@
+{
+  "round": 2142,
+  "timestamp": "2026-04-13T16:14:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Eulalia",
+      "path": "europe/spain/balearicislands/ibiza/santaeulalia",
+      "prior_score": 5.2244,
+      "prior_variance": 0.276034,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 3.6528,
+      "prior_variance": 0.26029,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.8983,
+      "prior_variance": 0.210464,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 0.5308,
+      "prior_variance": 0.246118,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.4059,
+      "prior_variance": 0.241904,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.1087,
+      "prior_variance": 0.245912,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.2023,
+      "prior_variance": 0.261991,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 2.6114,
+      "prior_variance": 0.294877,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.386,
+      "prior_variance": 0.253038,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/torquay",
+      "prior_score": 1.8876,
+      "prior_variance": 0.236038,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/upperhutt",
+      "prior_score": -3.1469,
+      "prior_variance": 0.248703,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_score": -2.5057,
+      "prior_variance": 0.247171,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hillsborough",
+      "path": "northamerica/saintvincentandthegrenadines/hillsborough",
+      "prior_score": -2.3314,
+      "prior_variance": 0.295602,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -1.66,
+      "prior_variance": 0.301752,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -3.3136,
+      "prior_variance": 0.310794,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_score": 0.129,
+      "prior_variance": 0.209436,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Centre",
+      "path": "europe/france/centre",
+      "prior_score": -0.4477,
+      "prior_variance": 0.307375,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -2.9598,
+      "prior_variance": 0.272756,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.0324,
+      "prior_variance": 0.209332,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.491,
+      "prior_variance": 0.226507,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.6927,
+      "prior_variance": 0.290462,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Moldova",
+      "path": "europe/moldova",
+      "prior_score": -3.1827,
+      "prior_variance": 0.276346,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_score": -4.8123,
+      "prior_variance": 0.427325,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_score": -12.924,
+      "prior_variance": 0.363993,
+      "prior_n": 5
+    }
+  ]
+}

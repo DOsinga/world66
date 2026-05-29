@@ -1,0 +1,200 @@
+{
+  "round": 1563,
+  "timestamp": "2026-04-13T10:31:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 4.3832,
+      "prior_variance": 0.427239,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": -0.5059,
+      "prior_variance": 0.709722,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 0.3491,
+      "prior_variance": 0.438692,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ulm",
+      "path": "europe/germany/bade/ulm",
+      "prior_score": 0.7007,
+      "prior_variance": 0.467622,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.6966,
+      "prior_variance": 0.414558,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.4489,
+      "prior_variance": 0.44828,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 0.6503,
+      "prior_variance": 0.431524,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": 0.2768,
+      "prior_variance": 0.359703,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": 0.7695,
+      "prior_variance": 0.364818,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.5677,
+      "prior_variance": 0.329473,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.5095,
+      "prior_variance": 0.356174,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Le Havre",
+      "path": "europe/france/nord/lehavre",
+      "prior_score": -0.4826,
+      "prior_variance": 0.33703,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -2.2532,
+      "prior_variance": 0.741742,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -2.3954,
+      "prior_variance": 0.450729,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -0.067,
+      "prior_variance": 0.256263,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.0051,
+      "prior_variance": 0.367209,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.5058,
+      "prior_variance": 0.313824,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": -2.1028,
+      "prior_variance": 0.474944,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_score": -2.284,
+      "prior_variance": 0.432191,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -1.5874,
+      "prior_variance": 0.60715,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -1.2361,
+      "prior_variance": 0.314404,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.4599,
+      "prior_variance": 0.39933,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -1.538,
+      "prior_variance": 0.434666,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.4002,
+      "prior_variance": 0.640478,
+      "prior_n": 3
+    }
+  ]
+}

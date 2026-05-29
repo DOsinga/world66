@@ -1,0 +1,200 @@
+{
+  "round": 1920,
+  "timestamp": "2026-04-13T15:54:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 4.3418,
+      "prior_variance": 0.311843,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 4.3562,
+      "prior_variance": 0.356086,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 2.4434,
+      "prior_variance": 0.273511,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_score": 0.76,
+      "prior_variance": 0.35845,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 2.6543,
+      "prior_variance": 0.305678,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 0.6635,
+      "prior_variance": 0.266207,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_score": -1.7274,
+      "prior_variance": 0.384987,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 1.9926,
+      "prior_variance": 0.357186,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -1.8049,
+      "prior_variance": 0.264916,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -0.1402,
+      "prior_variance": 0.235778,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_score": -7.0784,
+      "prior_variance": 0.335095,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_score": -2.0849,
+      "prior_variance": 0.247671,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -2.0327,
+      "prior_variance": 0.294435,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -3.6876,
+      "prior_variance": 0.298874,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -3.8464,
+      "prior_variance": 0.251304,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -1.2036,
+      "prior_variance": 0.285485,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kincumber",
+      "path": "australiaandpacific/australia/newsouthwales/kincumber",
+      "prior_score": -2.025,
+      "prior_variance": 0.351507,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.5271,
+      "prior_variance": 0.270642,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -4.1251,
+      "prior_variance": 0.284609,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -6.7236,
+      "prior_variance": 0.331709,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_score": -7.8246,
+      "prior_variance": 0.581016,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -9.0931,
+      "prior_variance": 0.430277,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/basconcobe",
+      "prior_score": -6.7941,
+      "prior_variance": 0.445921,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "city",
+      "path": "northamerica/unitedstates/wisconsin/city",
+      "prior_score": -6.2537,
+      "prior_variance": 0.363605,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1807,
+  "timestamp": "2026-04-13T10:53:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.3962,
+      "prior_variance": 0.316153,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 9.1466,
+      "prior_variance": 0.330574,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 2.7416,
+      "prior_variance": 0.339413,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 4.7387,
+      "prior_variance": 0.373882,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 4.5438,
+      "prior_variance": 0.445176,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 3.688,
+      "prior_variance": 0.259409,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_score": 1.7656,
+      "prior_variance": 0.334407,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 1.5889,
+      "prior_variance": 0.309239,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.5328,
+      "prior_variance": 0.195402,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 3.0409,
+      "prior_variance": 0.328282,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jinja",
+      "path": "africa/uganda/jinja",
+      "prior_score": 0.2456,
+      "prior_variance": 0.301094,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -3.3868,
+      "prior_variance": 0.314484,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Shawano",
+      "path": "northamerica/unitedstates/wisconsin/shawano",
+      "prior_score": -4.458,
+      "prior_variance": 0.274965,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -2.0986,
+      "prior_variance": 0.316718,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -3.2173,
+      "prior_variance": 0.288527,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.5453,
+      "prior_variance": 0.343254,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -6.3472,
+      "prior_variance": 0.357228,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -5.8559,
+      "prior_variance": 0.369506,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -7.7201,
+      "prior_variance": 0.764989,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bhagatawala (Chak 24 SB)",
+      "path": "asia/pakistan/sargodha/bhagatawala__chak_1",
+      "prior_score": -10.5235,
+      "prior_variance": 0.580859,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_score": -4.5118,
+      "prior_variance": 0.32974,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -7.8834,
+      "prior_variance": 0.403991,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mali",
+      "path": "africa/mali",
+      "prior_score": -6.6837,
+      "prior_variance": 0.535789,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Yemen",
+      "path": "asia/yemen",
+      "prior_score": -10.7896,
+      "prior_variance": 0.57617,
+      "prior_n": 5
+    }
+  ]
+}

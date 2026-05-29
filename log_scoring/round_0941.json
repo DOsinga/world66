@@ -1,0 +1,200 @@
+{
+  "round": 941,
+  "timestamp": "2026-04-12T16:08:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maldives",
+      "path": "asia/maldives",
+      "prior_rank": 12,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_rank": 2,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_rank": 29,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Aruba",
+      "path": "northamerica/thecaribbean/aruba",
+      "prior_rank": 54,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_rank": 53,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_rank": 3,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_rank": 87,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_rank": 27,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_rank": 70,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_rank": 37,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_rank": 105,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Brava",
+      "path": "africa/capeverde/brava",
+      "prior_rank": 6464,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_rank": 8083,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_rank": 8090,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Blair",
+      "path": "northamerica/unitedstates/nebraska/blair",
+      "prior_rank": 8071,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Fort Benning, GA",
+      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
+      "prior_rank": 8183,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Blue Star Cafe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
+      "prior_rank": 8149,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Starbucks Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/starbuckscoffee",
+      "prior_rank": 8210,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Guinea",
+      "path": "africa/guineeconakry",
+      "prior_rank": 8125,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_rank": 8178,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_rank": 8120,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_rank": 8168,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "AuYrfpJmYTzFiPA",
+      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
+      "prior_rank": 8227,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "PesTeCPvzsxDFv",
+      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
+      "prior_rank": 8104,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

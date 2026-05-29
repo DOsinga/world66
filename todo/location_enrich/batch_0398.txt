@@ -1,0 +1,5 @@
+southamerica/brazil/florianopolis
+australiaandpacific/marshallislands/kwajaleinatoll
+europe/france/centre/richelieu
+africa/egypt/heliopolis
+northamerica/unitedstates/california/inlandempire/riverside

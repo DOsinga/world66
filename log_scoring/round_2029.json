@@ -1,0 +1,200 @@
+{
+  "round": 2029,
+  "timestamp": "2026-04-13T16:04:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/paris/versailles",
+      "prior_score": 12.6113,
+      "prior_variance": 0.501136,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_score": 8.9395,
+      "prior_variance": 0.490513,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.1752,
+      "prior_variance": 0.292695,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 6.0309,
+      "prior_variance": 0.259622,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gallipoli",
+      "path": "asia/turkey/canakkale/gallipoli",
+      "prior_score": 2.5277,
+      "prior_variance": 0.23642,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": 0.7279,
+      "prior_variance": 0.204298,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -1.8179,
+      "prior_variance": 0.257332,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 0.0927,
+      "prior_variance": 0.300242,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 1.9218,
+      "prior_variance": 0.299954,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.5665,
+      "prior_variance": 0.265175,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.0654,
+      "prior_variance": 0.238563,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "East Belgium",
+      "path": "europe/belgium/east_belgium",
+      "prior_score": -0.6934,
+      "prior_variance": 0.174897,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.8039,
+      "prior_variance": 0.254728,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -1.8415,
+      "prior_variance": 0.311256,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -2.6819,
+      "prior_variance": 0.363624,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": 0.5017,
+      "prior_variance": 0.309849,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.3532,
+      "prior_variance": 0.27809,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -0.7063,
+      "prior_variance": 0.282209,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.7099,
+      "prior_variance": 0.302049,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_score": -2.8279,
+      "prior_variance": 0.263683,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -3.4459,
+      "prior_variance": 0.244576,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -3.4945,
+      "prior_variance": 0.177642,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Irricana .",
+      "path": "northamerica/canada/alberta/calgary/aroundtown/irricana",
+      "prior_score": -6.4696,
+      "prior_variance": 0.571557,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_score": -9.7352,
+      "prior_variance": 0.729423,
+      "prior_n": 5
+    }
+  ]
+}

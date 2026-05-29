@@ -1,0 +1,5 @@
+europe/denmark/nexo
+asia/philippines/leyteisland/ormoc_city
+northamerica/dominicanrepublic/miches
+europe/germany/bavaria/erlangen
+europe/luxembourg/vianden

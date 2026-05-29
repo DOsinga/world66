@@ -1,0 +1,5 @@
+asia/philippines/puerto_galera
+northamerica/unitedstates/california/calistoga
+asia/cyprus/northerncyprus/girnekyrene
+europe/spain/santiago_de_compostela
+australiaandpacific/australia/newsouthwales/byronbay

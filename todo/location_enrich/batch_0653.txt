@@ -1,0 +1,5 @@
+northamerica/unitedstates/connecticut/new_london
+europe/hungary/egerszalok
+africa/algeria/taghit
+europe/germany/bavaria/dachau
+europe/portugal/lisbon

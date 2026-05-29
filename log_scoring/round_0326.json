@@ -1,0 +1,200 @@
+{
+  "round": 326,
+  "timestamp": "2026-04-12T09:11:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_mu": 28.996,
+      "prior_sigma": 6.998,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_mu": 22.7105,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_mu": 20.8623,
+      "prior_sigma": 2.592,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Laugarvatn",
+      "path": "europe/iceland/laugarvatn",
+      "prior_mu": 22.9141,
+      "prior_sigma": 5.725,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_mu": 22.5268,
+      "prior_sigma": 5.9134,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/watchet",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_mu": 22.9909,
+      "prior_sigma": 5.6895,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_mu": 17.9295,
+      "prior_sigma": 6.5001,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_mu": 22.2749,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_mu": 19.0029,
+      "prior_sigma": 5.2281,
+      "prior_n": 2
+    }
+  ]
+}

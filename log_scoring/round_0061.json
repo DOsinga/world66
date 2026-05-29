@@ -1,0 +1,200 @@
+{
+  "round": 61,
+  "timestamp": "2026-04-12T08:02:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_mu": 31.57,
+      "prior_sigma": 6.28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_mu": 21.87,
+      "prior_sigma": 4.25,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 22.76,
+      "prior_sigma": 3.85,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 22.23,
+      "prior_sigma": 3.82,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_mu": 22.07,
+      "prior_sigma": 5.47,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_mu": 22.1,
+      "prior_sigma": 4.46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_mu": 22.67,
+      "prior_sigma": 5.64,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_mu": 21.65,
+      "prior_sigma": 3.51,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_mu": 21.44,
+      "prior_sigma": 3.9,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 21.78,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_mu": 21.57,
+      "prior_sigma": 4.3,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_mu": 20.96,
+      "prior_sigma": 3.66,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 19.27,
+      "prior_sigma": 4.67,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_mu": 21.0,
+      "prior_sigma": 3.79,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_mu": 21.55,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 22.23,
+      "prior_sigma": 5.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 21.03,
+      "prior_sigma": 4.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_mu": 21.53,
+      "prior_sigma": 4.41,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_mu": 15.62,
+      "prior_sigma": 4.44,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 14.0,
+      "prior_sigma": 4.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_mu": 17.72,
+      "prior_sigma": 6.34,
+      "prior_n": 1
+    }
+  ]
+}

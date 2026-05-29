@@ -1,0 +1,200 @@
+{
+  "round": 1138,
+  "timestamp": "2026-04-12T22:11:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_rank": 4040,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_rank": 1822,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_rank": 4501,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_rank": 3094,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_rank": 2992,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_rank": 4786,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_rank": 4993,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_rank": 3171,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_rank": 4877,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_rank": 4891,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_rank": 4915,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_rank": 2925,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_rank": 3930,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_rank": 5590,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_rank": 4991,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_rank": 6376,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_rank": 6112,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_rank": 3928,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_rank": 5219,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/eastland",
+      "prior_rank": 5518,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_rank": 2329,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_rank": 969,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_rank": 4961,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dzanga-Sangha",
+      "path": "africa/centralafricanrepublic/dzanga_sangha",
+      "prior_rank": 3149,
+      "prior_wins": 27,
+      "prior_n": 2
+    }
+  ]
+}

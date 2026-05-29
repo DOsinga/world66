@@ -1,0 +1,200 @@
+{
+  "round": 1363,
+  "timestamp": "2026-04-12T22:23:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_rank": 243,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_rank": 4239,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_rank": 3294,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_rank": 3949,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_rank": 2905,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_rank": 2390,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_rank": 3389,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_rank": 3348,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_rank": 3486,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_rank": 2442,
+      "prior_wins": 65,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_rank": 4871,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_rank": 5940,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_rank": 3283,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_rank": 5252,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_rank": 3859,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_rank": 4942,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_rank": 3862,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_rank": 3130,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
+      "prior_rank": 3191,
+      "prior_wins": 52,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_rank": 4130,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_rank": 1310,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_rank": 4760,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_rank": 3583,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/greatyarmouth",
+      "prior_rank": 6598,
+      "prior_wins": 20,
+      "prior_n": 3
+    }
+  ]
+}

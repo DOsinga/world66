@@ -1,0 +1,200 @@
+{
+  "round": 1742,
+  "timestamp": "2026-04-13T10:47:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_score": 9.3891,
+      "prior_variance": 0.482359,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Burgundy",
+      "path": "europe/france/east/burgundy",
+      "prior_score": 3.77,
+      "prior_variance": 0.3604,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 5.5901,
+      "prior_variance": 0.310126,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.204,
+      "prior_variance": 0.286047,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 5.3593,
+      "prior_variance": 0.43162,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Gallipoli",
+      "path": "asia/turkey/canakkale/gallipoli",
+      "prior_score": 2.3768,
+      "prior_variance": 0.290935,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 1.9785,
+      "prior_variance": 0.307188,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 2.5602,
+      "prior_variance": 0.402527,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_score": 3.5617,
+      "prior_variance": 0.352513,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/bangalore/mysore",
+      "prior_score": 3.4754,
+      "prior_variance": 0.317089,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_score": 3.4983,
+      "prior_variance": 0.337418,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 1.147,
+      "prior_variance": 0.455387,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 1.2902,
+      "prior_variance": 0.408914,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -1.7391,
+      "prior_variance": 0.552678,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": 1.2875,
+      "prior_variance": 0.327931,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -2.3909,
+      "prior_variance": 0.378354,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -4.3462,
+      "prior_variance": 0.332857,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_score": -4.0875,
+      "prior_variance": 0.287976,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.7536,
+      "prior_variance": 0.410407,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.3169,
+      "prior_variance": 0.301149,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -6.0918,
+      "prior_variance": 0.417965,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -10.3461,
+      "prior_variance": 0.298809,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jhook Masoo",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/jhook_masoo",
+      "prior_score": -10.2308,
+      "prior_variance": 1.04509,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_score": -10.8078,
+      "prior_variance": 0.420011,
+      "prior_n": 7
+    }
+  ]
+}

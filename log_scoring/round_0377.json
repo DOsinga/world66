@@ -1,0 +1,200 @@
+{
+  "round": 377,
+  "timestamp": "2026-04-12T09:14:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/midi/aquitaine/bordeaux",
+      "prior_mu": 25.6963,
+      "prior_sigma": 2.8323,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Korcula",
+      "path": "europe/croatia/korcula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_mu": 23.1557,
+      "prior_sigma": 5.7529,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_mu": 21.7516,
+      "prior_sigma": 4.4784,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_mu": 22.7512,
+      "prior_sigma": 5.9531,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_mu": 22.594,
+      "prior_sigma": 5.9327,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_mu": 22.2412,
+      "prior_sigma": 5.8643,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_mu": 22.9021,
+      "prior_sigma": 5.7258,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_mu": 18.344,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

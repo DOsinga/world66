@@ -1,0 +1,200 @@
+{
+  "round": 1841,
+  "timestamp": "2026-04-13T10:56:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 8.4294,
+      "prior_variance": 0.391887,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_score": 9.3262,
+      "prior_variance": 0.524878,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.7577,
+      "prior_variance": 0.357986,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 8.353,
+      "prior_variance": 0.352745,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 7.6177,
+      "prior_variance": 0.505501,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vaison-la-Romaine",
+      "path": "europe/france/midi/provence/vaisonlaromaine",
+      "prior_score": 4.9203,
+      "prior_variance": 0.281341,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 3.3123,
+      "prior_variance": 0.379231,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 3.4929,
+      "prior_variance": 0.257088,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 1.9307,
+      "prior_variance": 0.269946,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 0.5012,
+      "prior_variance": 0.283397,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland_island",
+      "prior_score": 2.2908,
+      "prior_variance": 0.181456,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 2.3685,
+      "prior_variance": 0.252199,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.2911,
+      "prior_variance": 0.295495,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -2.4155,
+      "prior_variance": 0.289892,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_score": -0.1612,
+      "prior_variance": 0.389263,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_score": -1.6919,
+      "prior_variance": 0.294879,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -2.6686,
+      "prior_variance": 0.254278,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.4739,
+      "prior_variance": 0.330989,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.8138,
+      "prior_variance": 0.309879,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -7.3945,
+      "prior_variance": 0.386876,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Santa Ana",
+      "path": "northamerica/mexico/santaana",
+      "prior_score": -6.5006,
+      "prior_variance": 0.304312,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_score": -2.7161,
+      "prior_variance": 0.265023,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bogalusa",
+      "path": "northamerica/unitedstates/louisiana/bogalusa",
+      "prior_score": -7.2979,
+      "prior_variance": 0.447713,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cranford",
+      "path": "northamerica/unitedstates/newjersey/cranford",
+      "prior_score": -6.4461,
+      "prior_variance": 0.301667,
+      "prior_n": 4
+    }
+  ]
+}

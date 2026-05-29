@@ -1,0 +1,200 @@
+{
+  "round": 1121,
+  "timestamp": "2026-04-12T22:10:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_rank": 6339,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kuwait",
+      "path": "asia/kuwait",
+      "prior_rank": 3917,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tatabanya",
+      "path": "europe/hungary/tatabanya",
+      "prior_rank": 7731,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_rank": 7123,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_rank": 7794,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Greenhithe",
+      "path": "europe/unitedkingdom/england/greenhithe",
+      "prior_rank": 7331,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_franc",
+      "prior_rank": 6575,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_rank": 7791,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_rank": 6934,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_rank": 7489,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_rank": 7291,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_rank": 6928,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_rank": 7273,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_rank": 7776,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_rank": 6898,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_rank": 7790,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_rank": 6960,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_rank": 7654,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_rank": 8075,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ana",
+      "path": "northamerica/mexico/santaana",
+      "prior_rank": 7803,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_rank": 8205,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_rank": 6655,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Waldorf",
+      "path": "northamerica/unitedstates/maryland/waldorf",
+      "prior_rank": 7320,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_rank": 7919,
+      "prior_wins": 4,
+      "prior_n": 3
+    }
+  ]
+}

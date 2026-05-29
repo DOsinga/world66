@@ -1,0 +1,200 @@
+{
+  "round": 1393,
+  "timestamp": "2026-04-12T22:25:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_rank": 5501,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_rank": 3515,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_rank": 3341,
+      "prior_wins": 63,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_rank": 7895,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_rank": 7448,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_rank": 7586,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Barreiro",
+      "path": "europe/portugal/barreiro",
+      "prior_rank": 7389,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_rank": 6504,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_rank": 6039,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/mumbai/nagpur",
+      "prior_rank": 4850,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_rank": 7235,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_rank": 6684,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_rank": 7387,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Yass",
+      "path": "australiaandpacific/australia/newsouthwales/yass",
+      "prior_rank": 7356,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/losangeles/santaclarita",
+      "prior_rank": 5412,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_rank": 7839,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_rank": 6945,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_rank": 6095,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Cortes",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_rank": 7613,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/menston",
+      "prior_rank": 6997,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_rank": 7764,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_rank": 6203,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_rank": 5299,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
+      "prior_rank": 7937,
+      "prior_wins": 9,
+      "prior_n": 3
+    }
+  ]
+}

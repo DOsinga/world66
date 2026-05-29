@@ -1,0 +1,200 @@
+{
+  "round": 1179,
+  "timestamp": "2026-04-12T22:13:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Faroe Islands",
+      "path": "europe/faroeislands",
+      "prior_rank": 835,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Spitsbergen",
+      "path": "europe/norway/spitsbergen",
+      "prior_rank": 2534,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_rank": 3568,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_rank": 917,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_rank": 667,
+      "prior_wins": 87,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Algarve",
+      "path": "europe/portugal/algarve",
+      "prior_rank": 128,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_rank": 1329,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_rank": 410,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Himachal Pradesh",
+      "path": "asia/india/himachalpradesh",
+      "prior_rank": 414,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_rank": 832,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_rank": 468,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_rank": 955,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Salo",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_rank": 3032,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_rank": 1338,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cadiz",
+      "path": "europe/spain/cadiz",
+      "prior_rank": 344,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_rank": 2216,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_rank": 511,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_rank": 1244,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_rank": 345,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_rank": 954,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_rank": 651,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_rank": 728,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_rank": 13,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_rank": 530,
+      "prior_wins": 39,
+      "prior_n": 2
+    }
+  ]
+}

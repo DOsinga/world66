@@ -1,0 +1,200 @@
+{
+  "round": 538,
+  "timestamp": "2026-04-12T10:36:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Gojal Valley",
+      "path": "asia/pakistan/hunzavalley/gojal_valley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_mu": 23.173,
+      "prior_sigma": 3.3397,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_mu": 22.5284,
+      "prior_sigma": 5.7868,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "sehnsa",
+      "path": "asia/pakistan/azad_kashmir/sehnsa",
+      "prior_mu": 19.3276,
+      "prior_sigma": 5.312,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "pind gali abbottabad",
+      "path": "asia/pakistan/abbottabad/pind_gali_abbottab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "jhang",
+      "path": "asia/pakistan/abbottabad/jhang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_mu": 18.3313,
+      "prior_sigma": 6.758,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "dera ghazi khan",
+      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
+      "prior_mu": 21.897,
+      "prior_sigma": 5.6302,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_mu": 22.601,
+      "prior_sigma": 5.9123,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal",
+      "prior_mu": 18.7239,
+      "prior_sigma": 5.1687,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif",
+      "prior_mu": 18.2279,
+      "prior_sigma": 6.7252,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "pir azeem khan koroona kheshgi payan",
+      "path": "asia/pakistan/nowshera/kheshgi/pir_azeem_khan_kor",
+      "prior_mu": 18.32,
+      "prior_sigma": 6.752,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 492,
+  "timestamp": "2026-04-12T09:32:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kazbegi",
+      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_mu": 23.5405,
+      "prior_sigma": 5.528,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_mu": 22.6972,
+      "prior_sigma": 5.9323,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_mu": 22.2924,
+      "prior_sigma": 5.7858,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_mu": 22.5407,
+      "prior_sigma": 5.9151,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Black Sea Coast",
+      "path": "europe/georgia/blackseacoast",
+      "prior_mu": 22.2849,
+      "prior_sigma": 5.7573,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_mu": 22.4014,
+      "prior_sigma": 5.7309,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_mu": 22.2134,
+      "prior_sigma": 5.7753,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_mu": 22.589,
+      "prior_sigma": 5.423,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_mu": 21.6783,
+      "prior_sigma": 4.7367,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_mu": 22.2749,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

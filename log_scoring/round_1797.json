@@ -1,0 +1,200 @@
+{
+  "round": 1797,
+  "timestamp": "2026-04-13T10:52:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Asakusa",
+      "path": "asia/japan/tokyo/asakusa",
+      "prior_score": 9.7941,
+      "prior_variance": 0.376232,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 7.0009,
+      "prior_variance": 0.349339,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.4172,
+      "prior_variance": 0.442375,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 4.0527,
+      "prior_variance": 0.396835,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 4.9549,
+      "prior_variance": 0.399078,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 3.2876,
+      "prior_variance": 0.177911,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_pa",
+      "prior_score": -1.1634,
+      "prior_variance": 0.288333,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": 0.8597,
+      "prior_variance": 0.37787,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.2516,
+      "prior_variance": 0.395113,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": 0.2723,
+      "prior_variance": 0.271586,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_score": -0.0656,
+      "prior_variance": 0.271752,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Isla Verde",
+      "path": "northamerica/puertorico/islaverde",
+      "prior_score": 1.2142,
+      "prior_variance": 0.25479,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_score": -1.7565,
+      "prior_variance": 0.313794,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -1.7395,
+      "prior_variance": 0.418645,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": 0.2888,
+      "prior_variance": 0.341047,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -4.5723,
+      "prior_variance": 0.31544,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.8294,
+      "prior_variance": 0.307134,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -4.1346,
+      "prior_variance": 0.414851,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -3.8368,
+      "prior_variance": 0.386301,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -3.0695,
+      "prior_variance": 0.369352,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Khoram Abad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -2.9352,
+      "prior_variance": 0.303558,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -4.4698,
+      "prior_variance": 0.275567,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -8.0058,
+      "prior_variance": 0.38303,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -6.4707,
+      "prior_variance": 0.390966,
+      "prior_n": 4
+    }
+  ]
+}

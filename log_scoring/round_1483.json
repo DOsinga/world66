@@ -1,0 +1,200 @@
+{
+  "round": 1483,
+  "timestamp": "2026-04-13T10:24:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -3.3545,
+      "prior_variance": 0.428066,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -2.3336,
+      "prior_variance": 0.251375,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -3.3123,
+      "prior_variance": 0.68689,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -1.9659,
+      "prior_variance": 0.408539,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_score": -0.8318,
+      "prior_variance": 0.454956,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -1.5493,
+      "prior_variance": 0.322361,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -1.1092,
+      "prior_variance": 0.325435,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Manipur",
+      "path": "asia/india/manipur",
+      "prior_score": -2.7152,
+      "prior_variance": 0.342005,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.5401,
+      "prior_variance": 0.488492,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -1.4866,
+      "prior_variance": 0.40196,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -3.5392,
+      "prior_variance": 0.542633,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -3.4145,
+      "prior_variance": 0.493845,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -3.1348,
+      "prior_variance": 0.351079,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -2.8618,
+      "prior_variance": 0.43274,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_score": -2.9949,
+      "prior_variance": 0.597894,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_score": -1.6945,
+      "prior_variance": 0.462654,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.1282,
+      "prior_variance": 0.5272,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -0.9468,
+      "prior_variance": 0.426949,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_score": -4.1206,
+      "prior_variance": 0.542305,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -3.9434,
+      "prior_variance": 0.822759,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.5427,
+      "prior_variance": 0.408157,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -2.6062,
+      "prior_variance": 0.739198,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/newjersey/salem",
+      "prior_score": -5.3231,
+      "prior_variance": 0.420406,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -2.8619,
+      "prior_variance": 0.398748,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+europe/finland/saariselk
+northamerica/canada/ontario/sudbury
+europe/italy/umbria/assisi
+northamerica/unitedstates/pennsylvania/lancastercounty/lititz
+northamerica/unitedstates/ohio/sandusky

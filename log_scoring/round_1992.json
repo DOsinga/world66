@@ -1,0 +1,200 @@
+{
+  "round": 1992,
+  "timestamp": "2026-04-13T16:00:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 6.0887,
+      "prior_variance": 0.297891,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_score": 2.4417,
+      "prior_variance": 0.353508,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 4.8346,
+      "prior_variance": 0.260668,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 4.4842,
+      "prior_variance": 0.267904,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 2.9845,
+      "prior_variance": 0.249361,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Taipa",
+      "path": "asia/china/macau/taipa",
+      "prior_score": 2.6845,
+      "prior_variance": 0.255707,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_score": 2.0224,
+      "prior_variance": 0.32345,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 2.3081,
+      "prior_variance": 0.257336,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 1.5406,
+      "prior_variance": 0.280432,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_score": 1.4264,
+      "prior_variance": 0.291185,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": -0.2413,
+      "prior_variance": 0.428097,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 0.0991,
+      "prior_variance": 0.416983,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 0.8645,
+      "prior_variance": 0.284147,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Halmstad",
+      "path": "europe/sweden/halmstad",
+      "prior_score": -0.2082,
+      "prior_variance": 0.251173,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.5112,
+      "prior_variance": 0.186932,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.0054,
+      "prior_variance": 0.368012,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "West Bengal",
+      "path": "asia/india/westbengal",
+      "prior_score": -2.7542,
+      "prior_variance": 0.313001,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -0.61,
+      "prior_variance": 0.255665,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -0.1328,
+      "prior_variance": 0.18708,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -3.337,
+      "prior_variance": 0.356977,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -1.2895,
+      "prior_variance": 0.250322,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Manipur",
+      "path": "asia/india/manipur",
+      "prior_score": -2.2879,
+      "prior_variance": 0.276744,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -4.7566,
+      "prior_variance": 0.304613,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.7854,
+      "prior_variance": 0.410727,
+      "prior_n": 5
+    }
+  ]
+}

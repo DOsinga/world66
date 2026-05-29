@@ -1,0 +1,200 @@
+{
+  "round": 1852,
+  "timestamp": "2026-04-13T10:57:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Faroe Islands",
+      "path": "europe/faroeislands",
+      "prior_score": 5.8203,
+      "prior_variance": 0.530801,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago",
+      "prior_score": 7.3187,
+      "prior_variance": 0.613258,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 8.3361,
+      "prior_variance": 0.389397,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 5.1321,
+      "prior_variance": 0.289354,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_score": 5.4231,
+      "prior_variance": 0.316381,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 3.9263,
+      "prior_variance": 0.314943,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": -0.0001,
+      "prior_variance": 0.855871,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.7199,
+      "prior_variance": 0.246063,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 0.7612,
+      "prior_variance": 0.327854,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": 0.4238,
+      "prior_variance": 0.270227,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 5.0141,
+      "prior_variance": 0.348555,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_score": 2.3496,
+      "prior_variance": 0.293995,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 3.2063,
+      "prior_variance": 0.353653,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 2.0664,
+      "prior_variance": 0.345634,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.4204,
+      "prior_variance": 0.304644,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 1.268,
+      "prior_variance": 0.274571,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.563,
+      "prior_variance": 0.332603,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -2.5743,
+      "prior_variance": 0.277126,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -4.5088,
+      "prior_variance": 0.873033,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -5.8244,
+      "prior_variance": 0.298868,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_score": -5.5917,
+      "prior_variance": 0.322017,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/vallejo",
+      "prior_score": -4.0441,
+      "prior_variance": 0.3942,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -5.5716,
+      "prior_variance": 0.371989,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -6.0244,
+      "prior_variance": 0.352603,
+      "prior_n": 5
+    }
+  ]
+}

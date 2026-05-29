@@ -1,0 +1,5 @@
+northamerica/unitedstates/newmexico/angelfire
+asia/pakistan/gilgit
+africa/morocco/dakhla
+europe/france/east/champagne/hautvillers
+northamerica/unitedstates/florida/winterhaven

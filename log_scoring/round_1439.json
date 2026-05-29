@@ -1,0 +1,200 @@
+{
+  "round": 1439,
+  "timestamp": "2026-04-12T22:27:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi",
+      "prior_rank": 5107,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl",
+      "prior_rank": 7285,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/eastern_england/berkhampsted",
+      "prior_rank": 6369,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_rank": 5428,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_rank": 5453,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_rank": 6228,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_rank": 4306,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_rank": 3969,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_rank": 5446,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_rank": 4888,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_rank": 5320,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_rank": 6519,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_rank": 6633,
+      "prior_wins": 34,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_rank": 6230,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_rank": 6357,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_rank": 7264,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_rank": 7221,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_rank": 5025,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_rank": 7530,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_rank": 5308,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_rank": 6234,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nakhchivan",
+      "path": "europe/azerbaijan/naxcivan",
+      "prior_rank": 1567,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "sion",
+      "path": "asia/india/maharashtra/mumbai/sion",
+      "prior_rank": 7955,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_rank": 5867,
+      "prior_wins": 25,
+      "prior_n": 3
+    }
+  ]
+}

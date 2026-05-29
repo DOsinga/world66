@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/lake-tele",
+    "type": "Place",
+    "item-id": "10482",
+    "gtm-content-type": "Place",
+    "lat": "2.043924",
+    "lng": "17.668887",
+    "city": "Epena",
+    "state": "Likouala",
+    "country": "Republic of the Congo",
+    "src": "https://img.atlasobscura.com/My7QvPzDyvsRVgz8BzAvxIvlTErO2It8Z4EG0GdXbD0/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNGQ5/YzE4OWU5ZjNlMjFj/ODZfTW9rZWxlcmVi/LmpwZw.jpg",
+    "width": "1111",
+    "height": "750",
+    "name": "Lake Tele",
+    "description": "This picturesque round lake is said to be home to the legendary Mok\u00e8l\u00e9-mb\u00e8mb\u00e9."
+  },
+  {
+    "url": "/places/de-brazza-s-mausoleum",
+    "type": "Place",
+    "item-id": "5065",
+    "gtm-content-type": "Place",
+    "lat": "-4.278048",
+    "lng": "15.279386",
+    "city": "Brazzaville",
+    "state": "Brazzaville",
+    "country": "Republic of the Congo",
+    "src": "https://img.atlasobscura.com/i5Xwf9HX0itY729US233KpYehYOMDRBV0JywnDYH1OI/rs:fill:600:400:1/g:ce/c:3072:2048:nowe:0:96/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82YjFi/ZThiOWQ0YTMzNWE0/OWRkYWRkMzU3YjUx/ZjYyYmJyYXp6YTEu/anBn.jpg",
+    "width": "3072",
+    "height": "2304",
+    "name": "De Brazza&#39;s Mausoleum",
+    "description": "A crypt believed by many Congolese to be a center of black magic."
+  },
+  {
+    "url": "/places/nabemba-tower",
+    "type": "Place",
+    "item-id": "28868",
+    "gtm-content-type": "Place",
+    "lat": "-4.271294",
+    "lng": "15.28972",
+    "city": "Brazzaville",
+    "state": "Brazzaville",
+    "country": "Republic of the Congo",
+    "src": "https://img.atlasobscura.com/ym_nR-KxCXnzRGj3enSASuhRNcHKISTmDqLlQg5bOZ4/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNzRk/ZmJiMS1kNzBjLTRk/Y2YtOGE3MC1kMmYx/YTIyZjdmMjQ0MjRk/MmYyZGZhMjliM2Ji/MTlfTmFiZW1iYS1U/b3dlci00LmpwZw.jpg",
+    "width": "700",
+    "height": "858",
+    "name": "Nabemba Tower",
+    "description": "The tallest building in the Republic of the Congo is a source of pride despite its towering maintenance costs."
+  }
+]

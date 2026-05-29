@@ -1,0 +1,200 @@
+{
+  "round": 1028,
+  "timestamp": "2026-04-12T22:05:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_rank": 721,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_rank": 668,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_rank": 371,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_rank": 1394,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_rank": 540,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_rank": 1578,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_rank": 2113,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_rank": 1238,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_rank": 1395,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_rank": 2561,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_rank": 719,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_rank": 126,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_rank": 1272,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_rank": 5878,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_rank": 2591,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Wye Valley",
+      "path": "europe/unitedkingdom/wales/wye_valley",
+      "prior_rank": 403,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_rank": 498,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_rank": 1612,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_rank": 408,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_rank": 1759,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_rank": 1060,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_rank": 2950,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tassili n\u2019ajjer",
+      "path": "africa/algeria/tassilinajjer",
+      "prior_rank": 1615,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_rank": 1158,
+      "prior_wins": 56,
+      "prior_n": 3
+    }
+  ]
+}

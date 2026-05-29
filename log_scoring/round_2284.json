@@ -1,0 +1,200 @@
+{
+  "round": 2284,
+  "timestamp": "2026-04-13T16:27:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_score": 3.558,
+      "prior_variance": 0.365736,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_score": 4.0394,
+      "prior_variance": 0.24914,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Wales",
+      "path": "europe/unitedkingdom/wales",
+      "prior_score": 4.5252,
+      "prior_variance": 0.205626,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 3.9154,
+      "prior_variance": 0.303766,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 4.046,
+      "prior_variance": 0.225541,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Shenandoah",
+      "path": "northamerica/unitedstates/virginia/shenandoah",
+      "prior_score": 0.7938,
+      "prior_variance": 0.284703,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Central Spain",
+      "path": "europe/spain/centralspain",
+      "prior_score": 0.4326,
+      "prior_variance": 0.226506,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 1.0932,
+      "prior_variance": 0.211849,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 3.495,
+      "prior_variance": 0.201384,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.603,
+      "prior_variance": 0.217168,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_kha",
+      "prior_score": 2.5841,
+      "prior_variance": 0.279492,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.4278,
+      "prior_variance": 0.213437,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.2843,
+      "prior_variance": 0.216614,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -0.8132,
+      "prior_variance": 0.229705,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_score": 0.0369,
+      "prior_variance": 0.207928,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Xikou",
+      "path": "asia/china/xikou",
+      "prior_score": -2.9779,
+      "prior_variance": 0.270014,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.6686,
+      "prior_variance": 0.200249,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_score": -3.214,
+      "prior_variance": 0.215161,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -2.4986,
+      "prior_variance": 0.225884,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_score": -3.5686,
+      "prior_variance": 0.297613,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -3.4474,
+      "prior_variance": 0.193977,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -4.0456,
+      "prior_variance": 0.293774,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -9.3875,
+      "prior_variance": 0.619276,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.0589,
+      "prior_variance": 0.259916,
+      "prior_n": 6
+    }
+  ]
+}

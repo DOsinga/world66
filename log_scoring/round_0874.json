@@ -1,0 +1,200 @@
+{
+  "round": 874,
+  "timestamp": "2026-04-12T14:46:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne_2",
+      "prior_score": 9.257,
+      "prior_variance": 3.274979,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Portugal",
+      "path": "europe/portugal",
+      "prior_score": -2.1003,
+      "prior_variance": 2.143866,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 9.5288,
+      "prior_variance": 1.857987,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 8.6254,
+      "prior_variance": 1.777489,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 8.3531,
+      "prior_variance": 1.320854,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 4.8885,
+      "prior_variance": 1.621722,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 6.4628,
+      "prior_variance": 1.725865,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 7.3211,
+      "prior_variance": 1.263296,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 2.2234,
+      "prior_variance": 1.460452,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 2.169,
+      "prior_variance": 0.289079,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 3.2153,
+      "prior_variance": 1.924486,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_score": 0.9431,
+      "prior_variance": 1.774088,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.0056,
+      "prior_variance": 1.327842,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cumbria",
+      "path": "europe/unitedkingdom/cumbria",
+      "prior_score": 2.1573,
+      "prior_variance": 1.921427,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -0.5952,
+      "prior_variance": 1.469796,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_score": 10.174,
+      "prior_variance": 9.686184,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": 1.055,
+      "prior_variance": 1.324819,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -2.0952,
+      "prior_variance": 1.332008,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.9484,
+      "prior_variance": 1.530989,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -6.8755,
+      "prior_variance": 6.50732,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -2.0746,
+      "prior_variance": 1.963852,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Nigeria",
+      "path": "africa/nigeria",
+      "prior_score": -9.9791,
+      "prior_variance": 1.369517,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ja\u00e9n (province)",
+      "path": "southamerica/peru/northern_pacific_t/jan",
+      "prior_score": -5.8892,
+      "prior_variance": 2.484977,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -11.4635,
+      "prior_variance": 8.678428,
+      "prior_n": 1
+    }
+  ]
+}

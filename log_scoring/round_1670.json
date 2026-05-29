@@ -1,0 +1,200 @@
+{
+  "round": 1670,
+  "timestamp": "2026-04-13T10:40:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 7.2418,
+      "prior_variance": 0.331028,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_score": 5.8586,
+      "prior_variance": 0.566929,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/yorkshire_dales",
+      "prior_score": 5.594,
+      "prior_variance": 0.389878,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 1.3998,
+      "prior_variance": 0.305967,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.1594,
+      "prior_variance": 0.377504,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 1.3375,
+      "prior_variance": 0.482523,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.9151,
+      "prior_variance": 0.333747,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_eus/portugalete",
+      "prior_score": 1.7398,
+      "prior_variance": 0.306459,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": -0.4841,
+      "prior_variance": 0.196721,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 1.2913,
+      "prior_variance": 0.345179,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.0113,
+      "prior_variance": 0.363387,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 2.1894,
+      "prior_variance": 0.222093,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_score": 1.0152,
+      "prior_variance": 0.447398,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.7307,
+      "prior_variance": 0.391025,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_score": 0.1015,
+      "prior_variance": 0.291272,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_score": 0.6921,
+      "prior_variance": 0.388598,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.9462,
+      "prior_variance": 0.245956,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": 0.221,
+      "prior_variance": 0.248333,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_score": -0.7126,
+      "prior_variance": 0.356118,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_score": -0.0712,
+      "prior_variance": 0.352653,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": -3.0182,
+      "prior_variance": 0.672109,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -2.1643,
+      "prior_variance": 0.324945,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -5.5989,
+      "prior_variance": 0.300596,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tcby",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
+      "prior_score": -15.3314,
+      "prior_variance": 0.848967,
+      "prior_n": 5
+    }
+  ]
+}

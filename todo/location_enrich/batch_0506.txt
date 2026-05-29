@@ -1,0 +1,5 @@
+asia/iran/shiraz
+southamerica/brazil/ilha_do_mel
+asia/tajikistan/nurek
+europe/hungary/veszprem
+asia/india/gujarat/jamnagar

@@ -1,0 +1,200 @@
+{
+  "round": 1530,
+  "timestamp": "2026-04-13T10:28:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_score": 6.5093,
+      "prior_variance": 0.388013,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 1.4319,
+      "prior_variance": 0.33196,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.1935,
+      "prior_variance": 0.4908,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Huangyaguan",
+      "path": "asia/china/huangyaguan",
+      "prior_score": -1.6706,
+      "prior_variance": 0.485989,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_score": 3.0865,
+      "prior_variance": 0.447015,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.3164,
+      "prior_variance": 0.337176,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.2563,
+      "prior_variance": 0.464773,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 1.323,
+      "prior_variance": 0.315568,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_score": 0.6012,
+      "prior_variance": 0.433095,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_score": -1.918,
+      "prior_variance": 0.380582,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": -0.2285,
+      "prior_variance": 0.421852,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nagaland",
+      "path": "asia/india/nagaland",
+      "prior_score": 0.8622,
+      "prior_variance": 0.413214,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 1.0737,
+      "prior_variance": 0.399383,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/northshorecity",
+      "prior_score": 1.326,
+      "prior_variance": 0.433835,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_score": 1.8074,
+      "prior_variance": 0.366577,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -3.9997,
+      "prior_variance": 0.755605,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.1526,
+      "prior_variance": 0.430143,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.8031,
+      "prior_variance": 0.499368,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_score": -2.2564,
+      "prior_variance": 0.469928,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.0413,
+      "prior_variance": 0.720571,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.0967,
+      "prior_variance": 0.512365,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -2.7437,
+      "prior_variance": 0.349231,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -1.2576,
+      "prior_variance": 0.442656,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -2.7388,
+      "prior_variance": 0.452202,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1230,
+  "timestamp": "2026-04-12T22:16:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_rank": 4560,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mahon",
+      "path": "europe/ireland/cork/mahon",
+      "prior_rank": 7865,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_rank": 7070,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Manahawkin",
+      "path": "northamerica/unitedstates/newjersey/manahawkin",
+      "prior_rank": 6484,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_rank": 7749,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/harrow",
+      "prior_rank": 7954,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Laguna Hills",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunahills",
+      "prior_rank": 4890,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_rank": 7309,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_rank": 7870,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_rank": 7491,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_rank": 7478,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Woodbridge",
+      "path": "northamerica/unitedstates/virginia/woodbridge",
+      "prior_rank": 6909,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_rank": 7793,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_rank": 6471,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Iowa",
+      "path": "northamerica/unitedstates/iowa",
+      "prior_rank": 6908,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_rank": 7925,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_rank": 7082,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Zacapu",
+      "path": "northamerica/mexico/yucatan/zacapu",
+      "prior_rank": 7764,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_rank": 6754,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_rank": 7441,
+      "prior_wins": 20,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_rank": 7575,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_rank": 7973,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_rank": 6580,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_rank": 7932,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

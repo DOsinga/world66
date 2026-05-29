@@ -1,0 +1,200 @@
+{
+  "round": 2245,
+  "timestamp": "2026-04-13T16:23:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 4.2626,
+      "prior_variance": 0.255366,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/sanremo",
+      "prior_score": 4.0177,
+      "prior_variance": 0.242051,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 3.9756,
+      "prior_variance": 0.255004,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.5883,
+      "prior_variance": 0.215902,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.8559,
+      "prior_variance": 0.231363,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Alba iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.118,
+      "prior_variance": 0.222808,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_score": 0.2931,
+      "prior_variance": 0.232924,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.3942,
+      "prior_variance": 0.266086,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 1.5034,
+      "prior_variance": 0.181301,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -1.2485,
+      "prior_variance": 0.210061,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "North of Mombasa",
+      "path": "africa/kenya/thecoast/northofmombasa",
+      "prior_score": 1.3931,
+      "prior_variance": 0.210171,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -0.9672,
+      "prior_variance": 0.238442,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.8027,
+      "prior_variance": 0.303654,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -4.5166,
+      "prior_variance": 0.243694,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_score": -0.375,
+      "prior_variance": 0.249614,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -3.7308,
+      "prior_variance": 0.236044,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.2725,
+      "prior_variance": 0.524119,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_score": -4.487,
+      "prior_variance": 0.259667,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.2785,
+      "prior_variance": 0.339181,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/yucatan/aguaprieta",
+      "prior_score": -6.2138,
+      "prior_variance": 0.289851,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -4.4721,
+      "prior_variance": 0.26598,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.4994,
+      "prior_variance": 0.298716,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "sarainkhet sarson",
+      "path": "asia/india/uttaranchal/sarainkhet_sarson",
+      "prior_score": -7.3391,
+      "prior_variance": 0.413836,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -9.7463,
+      "prior_variance": 0.488154,
+      "prior_n": 5
+    }
+  ]
+}

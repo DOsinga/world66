@@ -1,0 +1,200 @@
+{
+  "round": 1112,
+  "timestamp": "2026-04-12T22:10:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_rank": 4747,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_rank": 1958,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_rank": 1359,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_rank": 2251,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_rank": 1667,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_rank": 3799,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Campo de Criptana",
+      "path": "europe/spain/la_mancha/campo_de_criptana_1",
+      "prior_rank": 3732,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_rank": 2389,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_rank": 2320,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_rank": 1887,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_rank": 3370,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_rank": 3935,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_rank": 5815,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_rank": 4145,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_rank": 3300,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_rank": 4714,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/torquay",
+      "prior_rank": 1655,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_rank": 1915,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_rank": 2239,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_rank": 1320,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_rank": 792,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_rank": 7617,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_rank": 3506,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_rank": 1322,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

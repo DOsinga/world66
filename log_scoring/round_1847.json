@@ -1,0 +1,200 @@
+{
+  "round": 1847,
+  "timestamp": "2026-04-13T10:57:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.3491,
+      "prior_variance": 0.381483,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.9554,
+      "prior_variance": 0.422156,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 5.9343,
+      "prior_variance": 0.302058,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 5.6761,
+      "prior_variance": 0.398231,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Galicia",
+      "path": "europe/spain/galicia",
+      "prior_score": 5.721,
+      "prior_variance": 0.260678,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.1774,
+      "prior_variance": 0.312538,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 1.7858,
+      "prior_variance": 0.234443,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/gloucestershire",
+      "prior_score": 2.1514,
+      "prior_variance": 0.339754,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_score": 1.4841,
+      "prior_variance": 0.135708,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.7631,
+      "prior_variance": 0.32434,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.6066,
+      "prior_variance": 0.245905,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 1.4038,
+      "prior_variance": 0.264145,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 0.0869,
+      "prior_variance": 0.320396,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 1.7408,
+      "prior_variance": 0.313944,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.0602,
+      "prior_variance": 0.261463,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": -0.2871,
+      "prior_variance": 0.374301,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_score": -1.3002,
+      "prior_variance": 0.310197,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": -0.0835,
+      "prior_variance": 0.464186,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -1.7508,
+      "prior_variance": 0.283017,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_score": -4.1962,
+      "prior_variance": 0.514502,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -0.8642,
+      "prior_variance": 0.284099,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -4.6138,
+      "prior_variance": 0.35062,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_score": -6.6984,
+      "prior_variance": 0.441233,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.7973,
+      "prior_variance": 0.381346,
+      "prior_n": 4
+    }
+  ]
+}

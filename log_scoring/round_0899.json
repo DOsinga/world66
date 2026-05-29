@@ -1,0 +1,200 @@
+{
+  "round": 899,
+  "timestamp": "2026-04-12T14:48:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 9.9044,
+      "prior_variance": 10.079976,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_score": 9.6279,
+      "prior_variance": 10.294431,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "South Korea",
+      "path": "asia/southkorea",
+      "prior_score": 7.5234,
+      "prior_variance": 4.549584,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Flores",
+      "path": "asia/indonesia/flores",
+      "prior_score": 4.2634,
+      "prior_variance": 0.734271,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 6.9339,
+      "prior_variance": 5.125903,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 4.7957,
+      "prior_variance": 1.722373,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": 7.0563,
+      "prior_variance": 1.551182,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 2.6059,
+      "prior_variance": 0.801901,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 3.8401,
+      "prior_variance": 0.809644,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 2.0631,
+      "prior_variance": 1.673847,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Argentina valley",
+      "path": "europe/italy/liguria/argentinavalley",
+      "prior_score": 4.6408,
+      "prior_variance": 2.266126,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 0.2883,
+      "prior_variance": 1.427087,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.2912,
+      "prior_variance": 1.246714,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -5.0533,
+      "prior_variance": 1.804514,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_score": -0.5851,
+      "prior_variance": 1.354683,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": 0.3686,
+      "prior_variance": 1.235318,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -4.9784,
+      "prior_variance": 1.293321,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_score": -2.1836,
+      "prior_variance": 0.872689,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": 0.866,
+      "prior_variance": 1.319909,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -7.1928,
+      "prior_variance": 1.22004,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -8.4867,
+      "prior_variance": 1.252645,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": 0.6722,
+      "prior_variance": 1.436968,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -5.5245,
+      "prior_variance": 1.321436,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_score": -9.3883,
+      "prior_variance": 1.456139,
+      "prior_n": 2
+    }
+  ]
+}

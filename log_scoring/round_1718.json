@@ -1,0 +1,200 @@
+{
+  "round": 1718,
+  "timestamp": "2026-04-13T10:45:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 5.4536,
+      "prior_variance": 0.412714,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 4.0881,
+      "prior_variance": 0.401403,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.9104,
+      "prior_variance": 0.450879,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.3754,
+      "prior_variance": 0.319527,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -2.3657,
+      "prior_variance": 0.389042,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -1.1528,
+      "prior_variance": 0.521102,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": -0.4473,
+      "prior_variance": 0.323914,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -0.5677,
+      "prior_variance": 0.178155,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.1657,
+      "prior_variance": 0.350078,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.7522,
+      "prior_variance": 0.277449,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.3053,
+      "prior_variance": 0.339064,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -1.4428,
+      "prior_variance": 0.365205,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.2507,
+      "prior_variance": 0.294057,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_score": -3.9745,
+      "prior_variance": 0.327875,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Talisay",
+      "path": "asia/philippines/negrosisland/talisay",
+      "prior_score": -2.8014,
+      "prior_variance": 0.305376,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -2.8939,
+      "prior_variance": 0.387422,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -1.7844,
+      "prior_variance": 0.301779,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -4.0556,
+      "prior_variance": 0.352138,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -2.0877,
+      "prior_variance": 0.306593,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.6253,
+      "prior_variance": 0.363501,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverp/helmshore",
+      "prior_score": -5.247,
+      "prior_variance": 0.526587,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.9178,
+      "prior_variance": 0.324257,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "India",
+      "path": "asia/india",
+      "prior_score": -6.2639,
+      "prior_variance": 0.486263,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mali",
+      "path": "africa/mali",
+      "prior_score": -6.4202,
+      "prior_variance": 0.619527,
+      "prior_n": 4
+    }
+  ]
+}

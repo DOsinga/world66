@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html dir=ltr>
+
+<head>
+<style>
+a:link			{font:8pt/11pt verdana; color:FF0000}
+a:visited		{font:8pt/11pt verdana; color:#4e4e4e}
+</style>
+
+<META NAME="ROBOTS" CONTENT="NOINDEX">
+
+<title>The page cannot be found</title>
+
+<META HTTP-EQUIV="Content-Type" Content="text-html; charset=Windows-1252">
+</head>
+
+<script> 
+function Homepage(){
+<!--
+// in real bits, urls get returned to our script like this:
+// res://shdocvw.dll/http_404.htm#http://www.DocURL.com/bar.htm 
+
+	//For testing use DocURL = "res://shdocvw.dll/http_404.htm#https://www.microsoft.com/bar.htm"
+	DocURL = document.URL;
+		
+	//this is where the http or https will be, as found by searching for :// but skipping the res://
+	protocolIndex=DocURL.indexOf("://",4);
+	
+	//this finds the ending slash for the domain server 
+	serverIndex=DocURL.indexOf("/",protocolIndex + 3);
+
+		//for the href, we need a valid URL to the domain. We search for the # symbol to find the begining 
+	//of the true URL, and add 1 to skip it - this is the BeginURL value. We use serverIndex as the end marker.
+	//urlresult=DocURL.substring(protocolIndex - 4,serverIndex);
+	BeginURL=DocURL.indexOf("#",1) + 1;
+	
+	urlresult=DocURL.substring(BeginURL,serverIndex);
+				
+	//for display, we need to skip after http://, and go to the next slash
+	displayresult=DocURL.substring(protocolIndex + 3 ,serverIndex);
+
+	document.write( '<A HREF="' + escape(urlresult) + '">' + displayresult + "</a>");
+}
+//-->
+</script>
+
+<body bgcolor="#ffffff">
+
+<table width="410" cellpadding="3" cellspacing="5">
+
+  <tr>    
+    <td align="left" valign="center" width="360">
+	<h1 style="FONT: 13pt/15pt verdana; COLOR: #000000">La 
+      pagina non può essere visualizzata<!--Problem-->    </h1>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="400" colspan="2">
+	<font style="FONT: 8pt/11pt verdana; COLOR: #000000" face="Times New Roman" 
+      size=3>La pagina cercata può essere stata rimossa, il suo nome può essere cambiato, o è momentaneamente non disponibile.</font></td>
+  </tr>
+  
+  <tr>
+    <td width="400" colspan="2">
+	<font style="FONT: 8pt/11pt verdana; COLOR: #000000">
+
+	<hr color="#c0c0c0" noshade>
+	
+    <p>404-x.htm -&nbsp;Object not found<br>
+    Internet Information Services<BR>   </p>
+	 
+	<hr color="#c0c0c0" noshade></font></tr>
+
+</table>
+</body>
+</html>

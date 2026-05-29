@@ -1,0 +1,200 @@
+{
+  "round": 1103,
+  "timestamp": "2026-04-12T22:09:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_rank": 6130,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_rank": 2741,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_rank": 6467,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_rank": 6579,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_rank": 7458,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_rank": 3297,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_rank": 6730,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_rank": 7029,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Santa rita",
+      "path": "australiaandpacific/guam/santarita",
+      "prior_rank": 7462,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_rank": 6912,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/stafford",
+      "prior_rank": 3894,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_rank": 5269,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_rank": 6342,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_rank": 7106,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "jijel, algeria",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_rank": 5224,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_rank": 6319,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_rank": 6301,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_rank": 6737,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_rank": 6117,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_rank": 5507,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_rank": 6849,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_rank": 7609,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_rank": 3658,
+      "prior_wins": 51,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_rank": 8062,
+      "prior_wins": 3,
+      "prior_n": 2
+    }
+  ]
+}

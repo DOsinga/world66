@@ -1,0 +1,5 @@
+africa/botswana/gaborone
+europe/spain/canaryislands/elhierro
+europe/belgium/charleroi
+northamerica/canada/nunavut/iqaluit
+asia/india/kerala/payyanur

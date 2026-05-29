@@ -1,0 +1,200 @@
+{
+  "round": 1084,
+  "timestamp": "2026-04-12T22:08:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_rank": 4700,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Marshall Islands",
+      "path": "australiaandpacific/marshallislands",
+      "prior_rank": 3724,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_rank": 2781,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_rank": 4673,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_rank": 5499,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_rank": 6641,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_rank": 4047,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_rank": 4939,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_rank": 4217,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_rank": 2147,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_rank": 4058,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_rank": 5572,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_rank": 5227,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_rank": 5127,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_rank": 4797,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_rank": 5164,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_rank": 3647,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_rank": 4980,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_rank": 3018,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds",
+      "prior_rank": 4918,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_rank": 4281,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_rank": 5154,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_rank": 5554,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_rank": 4970,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1135,
+  "timestamp": "2026-04-12T22:11:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_rank": 558,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_rank": 467,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_rank": 1126,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Dunhuang",
+      "path": "asia/china/dunhuang",
+      "prior_rank": 1448,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_rank": 3586,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_rank": 643,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_rank": 109,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/hollywood",
+      "prior_rank": 759,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_rank": 983,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_rank": 768,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_rank": 714,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_rank": 410,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/hawkes_bay/napier",
+      "prior_rank": 1387,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_rank": 4403,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_rank": 2064,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_rank": 3357,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_rank": 3927,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_rank": 2233,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_rank": 1882,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_rank": 1282,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pa\u0161man Island",
+      "path": "europe/croatia/pasman_island",
+      "prior_rank": 2700,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_rank": 2032,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_rank": 6095,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_rank": 1645,
+      "prior_wins": 34,
+      "prior_n": 2
+    }
+  ]
+}

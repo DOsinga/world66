@@ -1,0 +1,200 @@
+{
+  "round": 1758,
+  "timestamp": "2026-04-13T10:48:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_score": 10.6083,
+      "prior_variance": 0.446203,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Reunion",
+      "path": "africa/reunion",
+      "prior_score": 7.0903,
+      "prior_variance": 0.490705,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 7.5613,
+      "prior_variance": 0.283332,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Garden Route",
+      "path": "africa/southafrica/gardenroute",
+      "prior_score": 7.4706,
+      "prior_variance": 0.544433,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.263,
+      "prior_variance": 0.422902,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.6642,
+      "prior_variance": 0.356693,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.52,
+      "prior_variance": 0.275815,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 7.3561,
+      "prior_variance": 0.381397,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 4.0543,
+      "prior_variance": 0.311071,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Menton",
+      "path": "europe/france/midi/menton",
+      "prior_score": 5.6943,
+      "prior_variance": 0.314706,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Outer Banks",
+      "path": "northamerica/unitedstates/northcarolina/outerbanks",
+      "prior_score": 4.418,
+      "prior_variance": 0.505165,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 2.8401,
+      "prior_variance": 0.292586,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.9452,
+      "prior_variance": 0.423571,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/salisbury",
+      "prior_score": 3.742,
+      "prior_variance": 0.446526,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.1187,
+      "prior_variance": 0.30915,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 1.0909,
+      "prior_variance": 0.175508,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 1.4862,
+      "prior_variance": 0.439765,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_score": 0.6362,
+      "prior_variance": 0.305767,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -0.408,
+      "prior_variance": 0.308547,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Asan",
+      "path": "australiaandpacific/guam/asan",
+      "prior_score": -1.6547,
+      "prior_variance": 0.305933,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_score": -0.2105,
+      "prior_variance": 0.368255,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -3.3952,
+      "prior_variance": 0.355065,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -3.2894,
+      "prior_variance": 0.348526,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_score": -5.4982,
+      "prior_variance": 0.370526,
+      "prior_n": 5
+    }
+  ]
+}

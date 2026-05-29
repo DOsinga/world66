@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/kissimmee
+asia/mongolia/khentii
+northamerica/bermuda/hamilton_capital
+northamerica/unitedstates/oklahoma/guthrie
+europe/italy/lazio/lakevico

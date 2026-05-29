@@ -1,0 +1,200 @@
+{
+  "round": 58,
+  "timestamp": "2026-04-11T19:26:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_mu": 22.27,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 21.61,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 21.76,
+      "prior_sigma": 3.91,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_mu": 22.13,
+      "prior_sigma": 4.13,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_mu": 21.62,
+      "prior_sigma": 4.09,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_mu": 21.68,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 21.69,
+      "prior_sigma": 2.76,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_mu": 22.36,
+      "prior_sigma": 5.55,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_mu": 22.7,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_mu": 22.28,
+      "prior_sigma": 5.39,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_mu": 21.6,
+      "prior_sigma": 4.5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_mu": 22.89,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_mu": 21.94,
+      "prior_sigma": 4.02,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_mu": 21.96,
+      "prior_sigma": 5.23,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 22.16,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_mu": 21.37,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_mu": 21.81,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_mu": 25.83,
+      "prior_sigma": 6.34,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_mu": 21.57,
+      "prior_sigma": 4.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_mu": 21.04,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_mu": 21.55,
+      "prior_sigma": 4.55,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_mu": 20.72,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 19.52,
+      "prior_sigma": 3.29,
+      "prior_n": 5
+    }
+  ]
+}

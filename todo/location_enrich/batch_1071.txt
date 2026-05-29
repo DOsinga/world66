@@ -1,0 +1,5 @@
+asia/philippines/cebu/mandaue_city
+northamerica/unitedstates/oregon/portland
+europe/bulgaria/ruse
+asia/indonesia/nias_selatan/gunungsitoli
+northamerica/honduras/copan

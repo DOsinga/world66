@@ -1,0 +1,5 @@
+europe/sweden/lidkping
+europe/norway/kirkenes
+northamerica/unitedstates/montana/thompson_falls
+europe/czechrepublic/plzen
+northamerica/thecaribbean/aruba/oranjestad

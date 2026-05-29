@@ -1,0 +1,200 @@
+{
+  "round": 2028,
+  "timestamp": "2026-04-13T16:04:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 8.0215,
+      "prior_variance": 0.315108,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 6.0061,
+      "prior_variance": 0.301908,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 7.1284,
+      "prior_variance": 0.317676,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.6565,
+      "prior_variance": 0.28039,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.8639,
+      "prior_variance": 0.270668,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 5.4708,
+      "prior_variance": 0.780098,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 7.0522,
+      "prior_variance": 0.298465,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/noroyggjar",
+      "prior_score": 2.6484,
+      "prior_variance": 0.26111,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.0385,
+      "prior_variance": 0.317882,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -3.6055,
+      "prior_variance": 0.383819,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -1.1574,
+      "prior_variance": 0.386537,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_score": -1.6364,
+      "prior_variance": 0.244904,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 1.4705,
+      "prior_variance": 0.236611,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -2.0135,
+      "prior_variance": 0.258652,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.4831,
+      "prior_variance": 0.285258,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -1.1932,
+      "prior_variance": 0.254426,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -3.1405,
+      "prior_variance": 0.360352,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_score": -3.995,
+      "prior_variance": 0.45235,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -3.0448,
+      "prior_variance": 0.359106,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -1.9541,
+      "prior_variance": 0.239825,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -3.6929,
+      "prior_variance": 0.252193,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -4.9221,
+      "prior_variance": 0.316853,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_score": -6.5088,
+      "prior_variance": 0.258946,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -6.4744,
+      "prior_variance": 0.274467,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1272,
+  "timestamp": "2026-04-12T22:18:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_rank": 711,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cape Cod",
+      "path": "northamerica/unitedstates/massachusetts/capecod",
+      "prior_rank": 4566,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
+      "prior_rank": 4467,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/lautoka",
+      "prior_rank": 5048,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_rank": 3546,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_rank": 3669,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_rank": 4428,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_rank": 2662,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_rank": 4638,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_rank": 4988,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_rank": 2825,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_rank": 4787,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_rank": 4889,
+      "prior_wins": 49,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_rank": 2835,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_rank": 4219,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/groveland",
+      "prior_rank": 5590,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_rank": 3185,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_rank": 2717,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislan",
+      "prior_rank": 3624,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_rank": 6120,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "caranzalem",
+      "path": "asia/india/goa/caranzalem",
+      "prior_rank": 2465,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_rank": 4935,
+      "prior_wins": 43,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_rank": 5291,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_rank": 3708,
+      "prior_wins": 26,
+      "prior_n": 3
+    }
+  ]
+}

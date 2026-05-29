@@ -1,0 +1,200 @@
+{
+  "round": 1625,
+  "timestamp": "2026-04-13T10:36:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/celleligure",
+      "prior_score": 4.7247,
+      "prior_variance": 0.475462,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -2.8247,
+      "prior_variance": 0.35145,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.7254,
+      "prior_variance": 0.411541,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 1.2657,
+      "prior_variance": 0.405237,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Zurzach",
+      "path": "europe/switzerland/zurzach",
+      "prior_score": -1.9013,
+      "prior_variance": 0.36997,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -1.4293,
+      "prior_variance": 0.534914,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.6398,
+      "prior_variance": 0.347775,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -0.9639,
+      "prior_variance": 0.345427,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.8358,
+      "prior_variance": 0.343418,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -2.0435,
+      "prior_variance": 0.316162,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.5501,
+      "prior_variance": 0.339725,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_score": -0.505,
+      "prior_variance": 0.319348,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.3379,
+      "prior_variance": 0.212426,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.241,
+      "prior_variance": 0.336938,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_score": -3.2377,
+      "prior_variance": 0.370478,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -3.2548,
+      "prior_variance": 0.338736,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -0.9077,
+      "prior_variance": 0.484817,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -3.304,
+      "prior_variance": 0.462274,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.7296,
+      "prior_variance": 0.424823,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/wakefield",
+      "prior_score": -2.9545,
+      "prior_variance": 0.450438,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -2.84,
+      "prior_variance": 0.409401,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
+      "prior_score": -3.4006,
+      "prior_variance": 0.354828,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_score": -6.2768,
+      "prior_variance": 0.420045,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -3.259,
+      "prior_variance": 0.371744,
+      "prior_n": 4
+    }
+  ]
+}

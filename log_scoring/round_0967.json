@@ -1,0 +1,200 @@
+{
+  "round": 967,
+  "timestamp": "2026-04-12T16:09:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_rank": 948,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_rank": 787,
+      "prior_wins": 100,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_rank": 993,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_rank": 3990,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_rank": 2397,
+      "prior_wins": 143,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_rank": 2066,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Czestochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_rank": 4211,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_rank": 3096,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_rank": 4914,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_rank": 4079,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_rank": 6180,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sweden",
+      "path": "europe/sweden",
+      "prior_rank": 213,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_rank": 3978,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_rank": 4892,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tessin",
+      "path": "europe/switzerland/tessin",
+      "prior_rank": 2582,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_rank": 6933,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_rank": 3849,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_rank": 4382,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_rank": 4904,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_rank": 7478,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_rank": 5044,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Guinea",
+      "path": "africa/guineeconakry",
+      "prior_rank": 7433,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nigeria",
+      "path": "africa/nigeria",
+      "prior_rank": 7545,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

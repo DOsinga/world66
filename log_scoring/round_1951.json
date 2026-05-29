@@ -1,0 +1,200 @@
+{
+  "round": 1951,
+  "timestamp": "2026-04-13T15:57:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_score": 9.3155,
+      "prior_variance": 0.525453,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 5.874,
+      "prior_variance": 0.304655,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 3.89,
+      "prior_variance": 0.304364,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 2.5802,
+      "prior_variance": 0.309173,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 4.0249,
+      "prior_variance": 0.274588,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 5.3942,
+      "prior_variance": 0.295738,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 5.0326,
+      "prior_variance": 0.263706,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 1.5234,
+      "prior_variance": 0.258976,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 2.0878,
+      "prior_variance": 0.313061,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 0.8543,
+      "prior_variance": 0.30569,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 1.4455,
+      "prior_variance": 0.253262,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 1.6722,
+      "prior_variance": 0.265372,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.5472,
+      "prior_variance": 0.281993,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.8415,
+      "prior_variance": 0.272453,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": 0.2959,
+      "prior_variance": 0.266311,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ventura County",
+      "path": "northamerica/unitedstates/california/ventura_county_ca",
+      "prior_score": 0.5131,
+      "prior_variance": 0.253439,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -2.6103,
+      "prior_variance": 0.329957,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezon_province",
+      "prior_score": -1.1063,
+      "prior_variance": 0.254823,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/hawkes_bay/wairoa",
+      "prior_score": -3.4415,
+      "prior_variance": 0.251655,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -4.8483,
+      "prior_variance": 0.30359,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_score": -2.4549,
+      "prior_variance": 0.256916,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -2.8959,
+      "prior_variance": 0.272248,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -6.0502,
+      "prior_variance": 0.342848,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_score": -7.5687,
+      "prior_variance": 0.420258,
+      "prior_n": 4
+    }
+  ]
+}

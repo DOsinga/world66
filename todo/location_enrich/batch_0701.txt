@@ -1,0 +1,5 @@
+europe/belarus/baranovichi
+northamerica/unitedstates/georgia/fortoglethorpe
+africa/angola/porto_amboim
+asia/philippines/samarisland/catarman__samar_is
+northamerica/unitedstates/oklahoma/shawnee

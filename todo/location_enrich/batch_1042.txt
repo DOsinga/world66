@@ -1,0 +1,5 @@
+europe/italy/lazio/frascati
+northamerica/unitedstates/california/coronado
+africa/algeria/cherchell
+europe/switzerland/carouge
+australiaandpacific/australia/newsouthwales/armidale

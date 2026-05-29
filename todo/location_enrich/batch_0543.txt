@@ -1,0 +1,5 @@
+africa/kenya/centralhighlands/embu
+europe/unitedkingdom/scotland/skye/broadford
+europe/italy/veneto/vicenza
+northamerica/unitedstates/washingtondc
+northamerica/unitedstates/california/centralvalley/merced

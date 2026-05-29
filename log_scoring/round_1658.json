@@ -1,0 +1,200 @@
+{
+  "round": 1658,
+  "timestamp": "2026-04-13T10:39:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.9068,
+      "prior_variance": 0.32457,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Newfoundland",
+      "path": "northamerica/canada/newfoundland",
+      "prior_score": 3.9043,
+      "prior_variance": 0.298373,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": -0.2432,
+      "prior_variance": 0.458115,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.9872,
+      "prior_variance": 0.315017,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.2065,
+      "prior_variance": 0.334439,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_score": -0.0646,
+      "prior_variance": 0.315959,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_score": 0.3007,
+      "prior_variance": 0.297129,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -1.7898,
+      "prior_variance": 0.343963,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -1.4461,
+      "prior_variance": 0.364127,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -2.3735,
+      "prior_variance": 0.305856,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -1.6951,
+      "prior_variance": 0.368737,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -1.5668,
+      "prior_variance": 0.365247,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.8785,
+      "prior_variance": 0.308242,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bowen",
+      "path": "australiaandpacific/australia/newsouthwales/bowen",
+      "prior_score": -2.4501,
+      "prior_variance": 0.352858,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -4.3893,
+      "prior_variance": 0.529676,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.5272,
+      "prior_variance": 0.350481,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Trabuco Canyon",
+      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
+      "prior_score": -2.925,
+      "prior_variance": 0.364629,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.4355,
+      "prior_variance": 0.376823,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -1.4849,
+      "prior_variance": 0.303381,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -3.8362,
+      "prior_variance": 0.445044,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_score": -3.0503,
+      "prior_variance": 0.318645,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -5.4097,
+      "prior_variance": 0.406209,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -3.6261,
+      "prior_variance": 0.51455,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -3.4896,
+      "prior_variance": 0.415788,
+      "prior_n": 4
+    }
+  ]
+}

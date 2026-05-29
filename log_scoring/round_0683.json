@@ -1,0 +1,160 @@
+{
+  "round": 683,
+  "timestamp": "2026-04-12T10:42:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 19,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_mu": 24.1515,
+      "prior_sigma": 4.3513,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_mu": 21.2605,
+      "prior_sigma": 4.6194,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_mu": 21.5396,
+      "prior_sigma": 3.6185,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_mu": 21.9646,
+      "prior_sigma": 5.7309,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_mu": 22.6595,
+      "prior_sigma": 5.5421,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_mu": 21.381,
+      "prior_sigma": 3.935,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_mu": 21.1999,
+      "prior_sigma": 4.3127,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Asir",
+      "path": "asia/saudiarabia/asir",
+      "prior_mu": 21.2523,
+      "prior_sigma": 4.4449,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_mu": 21.0903,
+      "prior_sigma": 4.5787,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ha\u2019il",
+      "path": "asia/saudiarabia/hail",
+      "prior_mu": 21.521,
+      "prior_sigma": 4.4578,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_mu": 20.5288,
+      "prior_sigma": 3.4824,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_mu": 21.8103,
+      "prior_sigma": 5.3326,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_mu": 21.5482,
+      "prior_sigma": 4.5645,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_mu": 22.2868,
+      "prior_sigma": 5.5224,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_mu": 21.8861,
+      "prior_sigma": 4.6685,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_mu": 21.7022,
+      "prior_sigma": 4.5083,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_mu": 21.1277,
+      "prior_sigma": 4.0675,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_mu": 21.8391,
+      "prior_sigma": 5.6622,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Saudi Arabia",
+      "path": "asia/saudiarabia",
+      "prior_mu": 17.9681,
+      "prior_sigma": 6.6728,
+      "prior_n": 1
+    }
+  ]
+}

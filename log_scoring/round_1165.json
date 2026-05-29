@@ -1,0 +1,200 @@
+{
+  "round": 1165,
+  "timestamp": "2026-04-12T22:12:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_rank": 4019,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_rank": 6149,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_rank": 3847,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_rank": 5005,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_rank": 3310,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_rank": 4393,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_rank": 4195,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_rank": 2954,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "The Lakes",
+      "path": "africa/kenya/lakes",
+      "prior_rank": 6417,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_rank": 2909,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
+      "prior_rank": 5250,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_rank": 4602,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_rank": 5612,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_rank": 5317,
+      "prior_wins": 44,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_rank": 5010,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_rank": 5606,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_rank": 4376,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_rank": 6384,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_rank": 6280,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_rank": 4533,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_rank": 4517,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverp/kendal",
+      "prior_rank": 4999,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_rank": 5876,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl",
+      "prior_rank": 5706,
+      "prior_wins": 16,
+      "prior_n": 2
+    }
+  ]
+}

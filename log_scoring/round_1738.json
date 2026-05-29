@@ -1,0 +1,200 @@
+{
+  "round": 1738,
+  "timestamp": "2026-04-13T10:46:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 4.5096,
+      "prior_variance": 0.318355,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 6.2503,
+      "prior_variance": 0.425856,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_score": 4.0454,
+      "prior_variance": 0.586902,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Fort-de-France",
+      "path": "northamerica/martinique/fortdefrance",
+      "prior_score": 2.6383,
+      "prior_variance": 0.339517,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 5.8327,
+      "prior_variance": 0.278214,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 5.1718,
+      "prior_variance": 0.453221,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 5.2009,
+      "prior_variance": 0.410786,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 5.5906,
+      "prior_variance": 0.322992,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 5.0296,
+      "prior_variance": 0.282157,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/coromandel",
+      "prior_score": 3.5974,
+      "prior_variance": 0.418388,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cuenca",
+      "path": "europe/spain/la_mancha/cuenca",
+      "prior_score": 6.2205,
+      "prior_variance": 0.370912,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 1.9219,
+      "prior_variance": 0.230254,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "1",
+      "path": "europe/france/val_disere/1_1",
+      "prior_score": 0.0409,
+      "prior_variance": 0.646411,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 3.7804,
+      "prior_variance": 0.261856,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_score": 2.881,
+      "prior_variance": 0.348016,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 3.638,
+      "prior_variance": 0.365804,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_score": 0.2015,
+      "prior_variance": 0.295918,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -2.1036,
+      "prior_variance": 0.343118,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -0.7005,
+      "prior_variance": 0.315364,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -1.4915,
+      "prior_variance": 0.299116,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -1.2331,
+      "prior_variance": 0.334838,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham",
+      "prior_score": -0.5762,
+      "prior_variance": 0.297258,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/huddersfield",
+      "prior_score": -1.2518,
+      "prior_variance": 0.384659,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Universities",
+      "path": "northamerica/canada/alberta/edmonton/universities",
+      "prior_score": -5.0217,
+      "prior_variance": 0.357399,
+      "prior_n": 4
+    }
+  ]
+}

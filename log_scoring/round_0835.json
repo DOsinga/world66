@@ -1,0 +1,200 @@
+{
+  "round": 835,
+  "timestamp": "2026-04-12T14:36:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "St. Croix",
+      "path": "northamerica/virginislands/stcroix",
+      "prior_score": 9.035,
+      "prior_variance": 4.119409,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 0.0554,
+      "prior_variance": 0.953771,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Greenland",
+      "path": "northamerica/greenland",
+      "prior_score": -0.975,
+      "prior_variance": 1.336982,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_score": 2.8249,
+      "prior_variance": 1.615375,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 1.0892,
+      "prior_variance": 2.760681,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.3589,
+      "prior_variance": 2.605909,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -0.6683,
+      "prior_variance": 1.82498,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nui Atoll",
+      "path": "australiaandpacific/tuvalu/nuiatoll",
+      "prior_score": -3.105,
+      "prior_variance": 1.662481,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_score": 2.4677,
+      "prior_variance": 29.375832,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -6.6791,
+      "prior_variance": 1.363957,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -5.496,
+      "prior_variance": 2.467813,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": 5.8226,
+      "prior_variance": 15.423474,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": 2.9525,
+      "prior_variance": 7.318105,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -2.7018,
+      "prior_variance": 15.281953,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -11.0893,
+      "prior_variance": 8.902252,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_score": -14.1986,
+      "prior_variance": 7.281573,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "jhang",
+      "path": "asia/pakistan/abbottabad/jhang",
+      "prior_score": -7.9556,
+      "prior_variance": 1.515621,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -5.0406,
+      "prior_variance": 1.966448,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -6.6063,
+      "prior_variance": 1.595955,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_score": -6.63,
+      "prior_variance": 1.689185,
+      "prior_n": 1
+    }
+  ]
+}

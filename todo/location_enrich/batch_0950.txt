@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/long_beach
+europe/italy/sardinia/isoladisanpietro/carloforte
+europe/unitedkingdom/england/lakedistrict/glenridding
+europe/italy/liguria/dianosanpietro
+asia/lebanon/tripoli

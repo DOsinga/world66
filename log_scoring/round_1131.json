@@ -1,0 +1,200 @@
+{
+  "round": 1131,
+  "timestamp": "2026-04-12T22:11:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_rank": 776,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_rank": 1736,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_rank": 970,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_rank": 1271,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_rank": 1079,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_rank": 2131,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kyrgyzstan",
+      "path": "asia/kyrgyzstan",
+      "prior_rank": 2097,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/napier",
+      "prior_rank": 619,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_rank": 1995,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_rank": 217,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_rank": 948,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_rank": 1821,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_rank": 3063,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_rank": 1914,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_rank": 2062,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_rank": 2758,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_rank": 468,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_rank": 942,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Paradise Gulf",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf",
+      "prior_rank": 1675,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_rank": 1442,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_rank": 2729,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Windward",
+      "path": "northamerica/grenada/carriacou/windward",
+      "prior_rank": 1878,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_rank": 4044,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_rank": 5183,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

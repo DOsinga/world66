@@ -1,0 +1,5 @@
+europe/azerbaijan/masally
+northamerica/mexico/chihuahua
+africa/kenya/northernkenya/lodwar
+northamerica/unitedstates/colorado/grandjunction
+europe/france/normandybrittany/bayeux

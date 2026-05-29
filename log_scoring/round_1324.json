@@ -1,0 +1,200 @@
+{
+  "round": 1324,
+  "timestamp": "2026-04-12T22:21:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "East",
+      "path": "europe/france/east",
+      "prior_rank": 7042,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_rank": 7233,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_rank": 6989,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Grange",
+      "path": "europe/ireland/cork/grange",
+      "prior_rank": 7464,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/eastern_england/ware",
+      "prior_rank": 5532,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_rank": 4548,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_rank": 6123,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_rank": 6665,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_rank": 5035,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Harrisburg",
+      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
+      "prior_rank": 7386,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_rank": 5721,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_rank": 3913,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_rank": 6559,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_rank": 6817,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_rank": 6670,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_rank": 5439,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_rank": 6239,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_rank": 7370,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_rank": 7077,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_rank": 7272,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_rank": 4478,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_rank": 7958,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_rank": 5915,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ivory Coast",
+      "path": "africa/ivorycoast",
+      "prior_rank": 4345,
+      "prior_wins": 33,
+      "prior_n": 3
+    }
+  ]
+}

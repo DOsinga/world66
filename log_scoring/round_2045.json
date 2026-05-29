@@ -1,0 +1,200 @@
+{
+  "round": 2045,
+  "timestamp": "2026-04-13T16:05:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 6.4483,
+      "prior_variance": 0.364976,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_score": 6.1686,
+      "prior_variance": 0.389131,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 5.1956,
+      "prior_variance": 0.269626,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 4.6206,
+      "prior_variance": 0.308122,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.8828,
+      "prior_variance": 0.288486,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 5.2935,
+      "prior_variance": 0.290673,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 3.2703,
+      "prior_variance": 0.277243,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislan",
+      "prior_score": 0.3018,
+      "prior_variance": 0.249546,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 1.7963,
+      "prior_variance": 0.482629,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": -0.1894,
+      "prior_variance": 0.245771,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.3397,
+      "prior_variance": 0.30824,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.6975,
+      "prior_variance": 0.167408,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_score": 2.8521,
+      "prior_variance": 0.236138,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 3.0197,
+      "prior_variance": 0.376937,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.094,
+      "prior_variance": 0.240522,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": 0.2016,
+      "prior_variance": 0.244855,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -0.5876,
+      "prior_variance": 0.254684,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -1.5348,
+      "prior_variance": 0.221109,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -0.4104,
+      "prior_variance": 0.199858,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.276,
+      "prior_variance": 0.254284,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -0.7974,
+      "prior_variance": 0.277492,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_score": -1.2607,
+      "prior_variance": 0.256331,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -7.3107,
+      "prior_variance": 0.342439,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junctio",
+      "prior_score": -0.9145,
+      "prior_variance": 0.264134,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+northamerica/unitedstates/oklahoma/poteau
+europe/switzerland/wengen
+europe/france/east/burgundy/dijon
+europe/liechtenstein/malbun
+africa/algeria/oran

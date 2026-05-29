@@ -1,0 +1,200 @@
+{
+  "round": 2266,
+  "timestamp": "2026-04-13T16:26:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 5.5753,
+      "prior_variance": 0.326403,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 2.6396,
+      "prior_variance": 0.21054,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 1.7783,
+      "prior_variance": 0.264988,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 3.0044,
+      "prior_variance": 0.24879,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 4.7406,
+      "prior_variance": 0.319117,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.6435,
+      "prior_variance": 0.224402,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 5.3124,
+      "prior_variance": 0.236202,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_score": 3.5406,
+      "prior_variance": 0.244446,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 1.8522,
+      "prior_variance": 0.159267,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 2.7715,
+      "prior_variance": 0.294014,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.8634,
+      "prior_variance": 0.239691,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": 0.3696,
+      "prior_variance": 0.287793,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/taranaki",
+      "prior_score": 3.0281,
+      "prior_variance": 0.250127,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.9003,
+      "prior_variance": 0.218083,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.8332,
+      "prior_variance": 0.303297,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.7123,
+      "prior_variance": 0.231114,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Basque Region",
+      "path": "europe/france/midi/basqueregion",
+      "prior_score": 3.6978,
+      "prior_variance": 0.253593,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 1.8162,
+      "prior_variance": 0.21489,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 3.8615,
+      "prior_variance": 0.226139,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.0255,
+      "prior_variance": 0.264222,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 1.6407,
+      "prior_variance": 0.238605,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": 0.2627,
+      "prior_variance": 0.232011,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -0.1895,
+      "prior_variance": 0.247187,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -3.85,
+      "prior_variance": 0.282458,
+      "prior_n": 5
+    }
+  ]
+}

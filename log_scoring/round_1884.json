@@ -1,0 +1,200 @@
+{
+  "round": 1884,
+  "timestamp": "2026-04-13T14:33:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 12.3571,
+      "prior_variance": 0.511395,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Krabi",
+      "path": "asia/thailand/krabi",
+      "prior_score": 9.8849,
+      "prior_variance": 0.46364,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Amazon basin",
+      "path": "southamerica/ecuador/amazonbasin",
+      "prior_score": 4.5889,
+      "prior_variance": 0.502476,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.5971,
+      "prior_variance": 0.320268,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_score": 2.9122,
+      "prior_variance": 0.429402,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_score": 2.948,
+      "prior_variance": 0.275619,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.1382,
+      "prior_variance": 0.299528,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 3.3078,
+      "prior_variance": 0.293191,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_score": -1.3794,
+      "prior_variance": 0.347767,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -0.0168,
+      "prior_variance": 0.243978,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": 0.0244,
+      "prior_variance": 0.234065,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 1.1576,
+      "prior_variance": 0.159629,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -0.985,
+      "prior_variance": 0.274436,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": 0.3509,
+      "prior_variance": 0.235378,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": 0.016,
+      "prior_variance": 0.219007,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": 0.1195,
+      "prior_variance": 0.434915,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -1.6389,
+      "prior_variance": 0.296948,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.7881,
+      "prior_variance": 0.24838,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -4.4359,
+      "prior_variance": 0.280291,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Escalante City",
+      "path": "asia/philippines/escalante_city",
+      "prior_score": -5.1765,
+      "prior_variance": 0.254598,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_score": -4.9806,
+      "prior_variance": 0.284214,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -5.6593,
+      "prior_variance": 0.320409,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -6.6605,
+      "prior_variance": 0.379035,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -8.6035,
+      "prior_variance": 0.533182,
+      "prior_n": 4
+    }
+  ]
+}

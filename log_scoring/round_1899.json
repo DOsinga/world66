@@ -1,0 +1,200 @@
+{
+  "round": 1899,
+  "timestamp": "2026-04-13T14:34:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Utah",
+      "path": "northamerica/unitedstates/utah",
+      "prior_score": 9.8145,
+      "prior_variance": 0.747118,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_score": 10.0087,
+      "prior_variance": 0.440946,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 8.2321,
+      "prior_variance": 0.466374,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_score": 5.9251,
+      "prior_variance": 0.366726,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.0839,
+      "prior_variance": 0.277641,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 2.9574,
+      "prior_variance": 0.266139,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 5.3536,
+      "prior_variance": 0.326739,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 2.2479,
+      "prior_variance": 0.270196,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/wangerooge",
+      "prior_score": 0.4091,
+      "prior_variance": 0.258483,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": 0.9204,
+      "prior_variance": 0.252944,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.9261,
+      "prior_variance": 0.529439,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.3623,
+      "prior_variance": 0.280808,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -1.2576,
+      "prior_variance": 0.24442,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Forest Hill",
+      "path": "europe/unitedkingdom/england/london/foresthill",
+      "prior_score": -5.2858,
+      "prior_variance": 0.409004,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -0.4285,
+      "prior_variance": 0.305468,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -5.5653,
+      "prior_variance": 0.316772,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -5.4937,
+      "prior_variance": 0.392062,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -2.5844,
+      "prior_variance": 0.306842,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -3.6476,
+      "prior_variance": 0.324308,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_score": -6.0686,
+      "prior_variance": 0.245113,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/konkan/nagpur",
+      "prior_score": -4.4406,
+      "prior_variance": 0.253284,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_score": -4.9872,
+      "prior_variance": 0.318934,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.4042,
+      "prior_variance": 0.388395,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_score": -6.642,
+      "prior_variance": 0.307985,
+      "prior_n": 5
+    }
+  ]
+}

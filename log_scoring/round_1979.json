@@ -1,0 +1,200 @@
+{
+  "round": 1979,
+  "timestamp": "2026-04-13T15:59:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.8516,
+      "prior_variance": 0.343801,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 5.5681,
+      "prior_variance": 0.324962,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 3.6463,
+      "prior_variance": 0.306572,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 2.5011,
+      "prior_variance": 0.357577,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 2.2139,
+      "prior_variance": 0.302197,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": -0.1756,
+      "prior_variance": 0.29793,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 1.2962,
+      "prior_variance": 0.318132,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_score": 0.4487,
+      "prior_variance": 0.276598,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_score": -5.1833,
+      "prior_variance": 0.284353,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.6653,
+      "prior_variance": 0.270252,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -1.0319,
+      "prior_variance": 0.155859,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -0.9622,
+      "prior_variance": 0.260105,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -1.74,
+      "prior_variance": 0.281012,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -0.8857,
+      "prior_variance": 0.274531,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.0059,
+      "prior_variance": 0.308791,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -0.9317,
+      "prior_variance": 0.239614,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -4.0144,
+      "prior_variance": 0.369965,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -2.0787,
+      "prior_variance": 0.381616,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -3.454,
+      "prior_variance": 0.267954,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -5.3826,
+      "prior_variance": 0.302279,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -7.8652,
+      "prior_variance": 0.320031,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.2287,
+      "prior_variance": 0.41405,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -6.9147,
+      "prior_variance": 0.389825,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -10.5605,
+      "prior_variance": 0.581236,
+      "prior_n": 5
+    }
+  ]
+}

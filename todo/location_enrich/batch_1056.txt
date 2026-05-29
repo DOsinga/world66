@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/centralcoast/oxnard
+africa/mauritania/nouakchott
+europe/spain/galicia/ria_of_vigo
+australiaandpacific/tonga/tongatapu/mua
+europe/italy/sicily/motta_s_anastasia

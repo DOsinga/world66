@@ -1,0 +1,200 @@
+{
+  "round": 1050,
+  "timestamp": "2026-04-12T22:06:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_rank": 6470,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon",
+      "prior_rank": 3486,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_rank": 7803,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_rank": 6540,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_rank": 6394,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_rank": 7432,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_rank": 7027,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_rank": 7538,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_rank": 6308,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_rank": 5230,
+      "prior_wins": 35,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_rank": 7045,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_rank": 7598,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/gillingham",
+      "prior_rank": 8031,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/menston",
+      "prior_rank": 7097,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_rank": 6354,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_rank": 7433,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zabierzow",
+      "path": "europe/poland/zabierzw",
+      "prior_rank": 6906,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_rank": 7209,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indian",
+      "prior_rank": 7641,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/southcarolina/newport",
+      "prior_rank": 7145,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kollam",
+      "path": "asia/oman/musandampeninsula/kollam",
+      "prior_rank": 7848,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_rank": 6931,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_rank": 7120,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_rank": 6575,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

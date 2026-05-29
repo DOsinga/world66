@@ -1,0 +1,200 @@
+{
+  "round": 2277,
+  "timestamp": "2026-04-13T16:27:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hersonnissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 2.4898,
+      "prior_variance": 0.206072,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 3.375,
+      "prior_variance": 0.293915,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.1112,
+      "prior_variance": 0.221287,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Nainital",
+      "path": "asia/india/uttarpradesh/nainital",
+      "prior_score": 1.3549,
+      "prior_variance": 0.261862,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Odisha",
+      "path": "asia/india/orissa",
+      "prior_score": -0.4754,
+      "prior_variance": 0.295725,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 1.3532,
+      "prior_variance": 0.234432,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.3922,
+      "prior_variance": 0.276371,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": 1.1328,
+      "prior_variance": 0.265288,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": -2.5509,
+      "prior_variance": 0.466339,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -2.5034,
+      "prior_variance": 0.236136,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -2.9949,
+      "prior_variance": 0.256784,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -2.351,
+      "prior_variance": 0.281029,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": 0.3392,
+      "prior_variance": 0.240587,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -1.5367,
+      "prior_variance": 0.301656,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -3.2224,
+      "prior_variance": 0.176714,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -1.9764,
+      "prior_variance": 0.198609,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -2.5118,
+      "prior_variance": 0.212141,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -3.8463,
+      "prior_variance": 0.253779,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -2.8622,
+      "prior_variance": 0.159677,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_score": -5.75,
+      "prior_variance": 0.281499,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -2.9938,
+      "prior_variance": 0.26135,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -4.4368,
+      "prior_variance": 0.220787,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_score": -8.9464,
+      "prior_variance": 0.677256,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -4.6999,
+      "prior_variance": 0.390946,
+      "prior_n": 5
+    }
+  ]
+}

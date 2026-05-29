@@ -1,0 +1,5 @@
+northamerica/canada/britishcolumbia/nelson
+europe/unitedkingdom/england/eastern_england/mersea_island_esse
+europe/spain/andalucia/manilva
+southamerica/ecuador/otavalo
+southamerica/colombia/barranquilla

@@ -1,0 +1,200 @@
+{
+  "round": 1868,
+  "timestamp": "2026-04-13T10:58:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ischia",
+      "path": "europe/italy/campania/ischia",
+      "prior_score": 7.7785,
+      "prior_variance": 0.504359,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 5.9712,
+      "prior_variance": 0.495386,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 4.3807,
+      "prior_variance": 0.306232,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_score": 4.488,
+      "prior_variance": 0.387732,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
+      "prior_score": 3.7485,
+      "prior_variance": 0.262886,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/north_island/waikato",
+      "prior_score": 2.3666,
+      "prior_variance": 0.347573,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.0428,
+      "prior_variance": 0.258873,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.6099,
+      "prior_variance": 0.306431,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": 0.0054,
+      "prior_variance": 0.27547,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 1.0851,
+      "prior_variance": 0.329642,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": -0.1038,
+      "prior_variance": 0.299299,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_score": 0.5251,
+      "prior_variance": 0.32278,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_score": -2.0572,
+      "prior_variance": 0.224064,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.2785,
+      "prior_variance": 0.346316,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.0783,
+      "prior_variance": 0.256595,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_score": 0.6774,
+      "prior_variance": 0.442163,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -2.2503,
+      "prior_variance": 0.35668,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -4.2413,
+      "prior_variance": 0.359823,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.1885,
+      "prior_variance": 0.285335,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -3.1707,
+      "prior_variance": 0.27529,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -3.3889,
+      "prior_variance": 0.286191,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_score": -5.7951,
+      "prior_variance": 0.302457,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -4.0191,
+      "prior_variance": 0.304841,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -8.2831,
+      "prior_variance": 0.585017,
+      "prior_n": 5
+    }
+  ]
+}

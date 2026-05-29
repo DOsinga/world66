@@ -1,0 +1,200 @@
+{
+  "round": 1500,
+  "timestamp": "2026-04-13T10:26:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marunouchi",
+      "path": "asia/japan/tokyo/marunouchi",
+      "prior_score": 3.0449,
+      "prior_variance": 0.390992,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.1618,
+      "prior_variance": 0.646488,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_score": 1.2422,
+      "prior_variance": 0.317713,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 2.8895,
+      "prior_variance": 0.365037,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 5.2868,
+      "prior_variance": 0.437415,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.2759,
+      "prior_variance": 0.409116,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 2.1365,
+      "prior_variance": 0.426339,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 1.9967,
+      "prior_variance": 0.328293,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 2.1875,
+      "prior_variance": 0.333921,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 0.7161,
+      "prior_variance": 0.620647,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Valle de Elqui",
+      "path": "southamerica/chile/valle_de_elqui",
+      "prior_score": 3.3954,
+      "prior_variance": 0.312863,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 1.9517,
+      "prior_variance": 0.467682,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 2.2067,
+      "prior_variance": 0.366639,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_score": 1.7154,
+      "prior_variance": 0.451958,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 3.8872,
+      "prior_variance": 0.430747,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.1541,
+      "prior_variance": 0.631745,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 2.1375,
+      "prior_variance": 0.505046,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 2.0158,
+      "prior_variance": 0.387552,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.4938,
+      "prior_variance": 0.408255,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Varatella Valley",
+      "path": "europe/italy/liguria/varatellavalley",
+      "prior_score": 2.9954,
+      "prior_variance": 0.495435,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -1.161,
+      "prior_variance": 0.575887,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus",
+      "prior_score": 1.6366,
+      "prior_variance": 0.297144,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 1.3907,
+      "prior_variance": 0.45552,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": 0.9859,
+      "prior_variance": 0.475642,
+      "prior_n": 3
+    }
+  ]
+}

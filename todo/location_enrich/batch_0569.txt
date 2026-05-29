@@ -1,0 +1,5 @@
+asia/malaysia/kotakinabalu
+africa/equatorialguinea/malabo
+northamerica/unitedstates/newyorkstate/syracuse
+northamerica/unitedstates/california/centralcoast/santamaria
+northamerica/thecaribbean/martinique/le_carbet

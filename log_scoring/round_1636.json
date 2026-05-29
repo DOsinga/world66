@@ -1,0 +1,200 @@
+{
+  "round": 1636,
+  "timestamp": "2026-04-13T10:37:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_score": 5.7571,
+      "prior_variance": 0.498798,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.3596,
+      "prior_variance": 0.33576,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.0483,
+      "prior_variance": 0.423647,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.2598,
+      "prior_variance": 0.375094,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.8695,
+      "prior_variance": 0.384683,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.4824,
+      "prior_variance": 0.301192,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -3.7241,
+      "prior_variance": 0.289762,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.4578,
+      "prior_variance": 0.378949,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -3.4462,
+      "prior_variance": 0.328127,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -2.7026,
+      "prior_variance": 0.293051,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -5.3488,
+      "prior_variance": 0.388998,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_score": -7.2185,
+      "prior_variance": 0.71053,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -6.8883,
+      "prior_variance": 0.42642,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -8.0001,
+      "prior_variance": 0.623727,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/yucatan/guerreronegro",
+      "prior_score": -5.8077,
+      "prior_variance": 0.318626,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -5.0264,
+      "prior_variance": 0.412299,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.2918,
+      "prior_variance": 0.298775,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sherbro island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.5039,
+      "prior_variance": 0.40543,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -5.9687,
+      "prior_variance": 0.234926,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -6.1224,
+      "prior_variance": 0.745363,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_score": -6.0372,
+      "prior_variance": 0.434423,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_score": -7.113,
+      "prior_variance": 0.537604,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_score": -6.5184,
+      "prior_variance": 0.592179,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -6.2668,
+      "prior_variance": 0.402068,
+      "prior_n": 5
+    }
+  ]
+}

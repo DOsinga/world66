@@ -1,0 +1,200 @@
+{
+  "round": 1400,
+  "timestamp": "2026-04-12T22:25:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_rank": 5279,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_rank": 6471,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_rank": 5715,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_rank": 7382,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "campbell river",
+      "path": "northamerica/canada/britishcolumbia/campbell_river",
+      "prior_rank": 5145,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "McDowell County",
+      "path": "northamerica/unitedstates/northcarolina/mcdowell_county",
+      "prior_rank": 6686,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_rank": 6189,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_rank": 5384,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_rank": 5072,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/huddersfield",
+      "prior_rank": 5512,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_rank": 5482,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_rank": 7452,
+      "prior_wins": 38,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_rank": 6698,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_rank": 6936,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_rank": 5288,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_rank": 7060,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_rank": 6585,
+      "prior_wins": 38,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_rank": 4414,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_rank": 7938,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_rank": 6510,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Muehlen",
+      "path": "europe/austria/muehlen",
+      "prior_rank": 7236,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_rank": 6591,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kragujevac",
+      "path": "europe/serbiaandmontenegro/kragujevac",
+      "prior_rank": 4639,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_rank": 6093,
+      "prior_wins": 23,
+      "prior_n": 3
+    }
+  ]
+}

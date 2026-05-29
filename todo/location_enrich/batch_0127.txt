@@ -1,0 +1,5 @@
+africa/kenya/thecoast/mombasa
+asia/indonesia/bali/sanur
+africa/nigeria/lagos
+asia/afghanistan/bamian
+europe/romania/sighet

@@ -1,0 +1,200 @@
+{
+  "round": 1088,
+  "timestamp": "2026-04-12T22:08:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yoga Teacher Training India",
+      "path": "asia/india/uttaranchal/yoga_teacher_train",
+      "prior_rank": 8043,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Malla Banas",
+      "path": "asia/india/uttaranchal/malla_banas_8",
+      "prior_rank": 8175,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_rank": 8182,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_rank": 7553,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Maykop",
+      "path": "europe/russia/krasnodar/maykop",
+      "prior_rank": 7327,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/netherton",
+      "prior_rank": 8216,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_rank": 7903,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Blair",
+      "path": "northamerica/unitedstates/nebraska/blair",
+      "prior_rank": 7582,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_rank": 8041,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_rank": 8030,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_rank": 8104,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Davenport",
+      "path": "northamerica/unitedstates/indiana/davenport",
+      "prior_rank": 4558,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Guinea-Bissau",
+      "path": "africa/guineabissau",
+      "prior_rank": 7947,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_rank": 7969,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sudan",
+      "path": "africa/sudan",
+      "prior_rank": 7515,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_rank": 7764,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_rank": 8122,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_rank": 7090,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "dera ghazi khan",
+      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
+      "prior_rank": 7431,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_rank": 8224,
+      "prior_wins": 2,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Mulkan Mohra",
+      "path": "asia/pakistan/azad_kashmir/mirpur/mulkan_mohra",
+      "prior_rank": 8108,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Retra",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
+      "prior_rank": 8183,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Siakh in Tehsil Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/siakh_in_tehsil_da",
+      "prior_rank": 6119,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_rank": 7094,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

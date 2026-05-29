@@ -1,0 +1,200 @@
+{
+  "round": 2181,
+  "timestamp": "2026-04-13T16:18:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iceland",
+      "path": "europe/iceland",
+      "prior_score": 10.126,
+      "prior_variance": 0.434845,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 14.7017,
+      "prior_variance": 0.827921,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Vietnam",
+      "path": "asia/vietnam",
+      "prior_score": 6.5123,
+      "prior_variance": 0.498625,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Philippines",
+      "path": "asia/philippines",
+      "prior_score": -3.0773,
+      "prior_variance": 0.432173,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_score": 7.7165,
+      "prior_variance": 0.387958,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_score": 7.0385,
+      "prior_variance": 0.277801,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_score": 6.3,
+      "prior_variance": 0.316459,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 5.5592,
+      "prior_variance": 0.271032,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 3.6682,
+      "prior_variance": 0.28905,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.6777,
+      "prior_variance": 0.229963,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 4.0183,
+      "prior_variance": 0.247434,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_score": 3.1607,
+      "prior_variance": 0.158252,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": -0.0509,
+      "prior_variance": 0.258442,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.0205,
+      "prior_variance": 0.266492,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_score": 2.5248,
+      "prior_variance": 0.23526,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 2.0586,
+      "prior_variance": 0.236906,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": 0.6142,
+      "prior_variance": 0.232614,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.3865,
+      "prior_variance": 0.238332,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -2.6292,
+      "prior_variance": 0.292346,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -2.9313,
+      "prior_variance": 0.246792,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -4.5136,
+      "prior_variance": 0.347592,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.7064,
+      "prior_variance": 0.294334,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.1712,
+      "prior_variance": 0.249755,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/srvr",
+      "prior_score": -1.6456,
+      "prior_variance": 0.197003,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1114,
+  "timestamp": "2026-04-12T22:10:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inside Passage",
+      "path": "northamerica/unitedstates/alaska/inside_passage",
+      "prior_rank": 1131,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_rank": 766,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_rank": 467,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_rank": 770,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_rank": 1295,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_rank": 1637,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Black Hills",
+      "path": "northamerica/unitedstates/southdakota/blackhills",
+      "prior_rank": 1121,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_rank": 2476,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_rank": 1632,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_rank": 610,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_rank": 2278,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_rank": 2271,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_rank": 941,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_rank": 1709,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_rank": 3081,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_rank": 3358,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_rank": 155,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_rank": 5864,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_rank": 2077,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_rank": 2121,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_rank": 2062,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_rank": 5137,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_rank": 4036,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_rank": 3314,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2079,
+  "timestamp": "2026-04-13T16:08:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 4.9001,
+      "prior_variance": 0.24453,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 3.9632,
+      "prior_variance": 0.278999,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_3",
+      "prior_score": 0.2079,
+      "prior_variance": 0.27838,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.3657,
+      "prior_variance": 0.191216,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": 0.4036,
+      "prior_variance": 0.291687,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.0688,
+      "prior_variance": 0.275782,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -1.1789,
+      "prior_variance": 0.331165,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -2.0006,
+      "prior_variance": 0.273776,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.2761,
+      "prior_variance": 0.247022,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_score": -1.0767,
+      "prior_variance": 0.230408,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -2.1097,
+      "prior_variance": 0.299943,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.3715,
+      "prior_variance": 0.255446,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -2.3397,
+      "prior_variance": 0.187789,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_score": -2.8776,
+      "prior_variance": 0.340095,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -2.0558,
+      "prior_variance": 0.241662,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -1.9997,
+      "prior_variance": 0.12407,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -1.985,
+      "prior_variance": 0.236392,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_score": -3.1092,
+      "prior_variance": 0.263054,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.0343,
+      "prior_variance": 0.261485,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Witney",
+      "path": "europe/unitedkingdom/england/witney",
+      "prior_score": -3.0518,
+      "prior_variance": 0.245833,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -2.1428,
+      "prior_variance": 0.249369,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.6299,
+      "prior_variance": 0.403463,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_score": -5.8842,
+      "prior_variance": 0.276452,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -6.8191,
+      "prior_variance": 0.310844,
+      "prior_n": 5
+    }
+  ]
+}

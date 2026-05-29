@@ -1,0 +1,200 @@
+{
+  "round": 1516,
+  "timestamp": "2026-04-13T10:27:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 9.3623,
+      "prior_variance": 0.691643,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Asakusa",
+      "path": "asia/japan/tokyo/asakusa",
+      "prior_score": 10.1458,
+      "prior_variance": 0.505728,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 9.1809,
+      "prior_variance": 0.508198,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 7.5291,
+      "prior_variance": 0.538687,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 9.5543,
+      "prior_variance": 0.374348,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 9.0292,
+      "prior_variance": 0.442174,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 8.9035,
+      "prior_variance": 0.502872,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 6.5821,
+      "prior_variance": 0.424009,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 7.5377,
+      "prior_variance": 0.67016,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 7.3308,
+      "prior_variance": 0.935724,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_score": 8.7439,
+      "prior_variance": 0.438309,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_score": 5.5722,
+      "prior_variance": 0.418335,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tasmania",
+      "path": "australiaandpacific/australia/tasmania",
+      "prior_score": 5.8267,
+      "prior_variance": 0.596898,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 7.5904,
+      "prior_variance": 0.649153,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Inside Passage",
+      "path": "northamerica/unitedstates/alaska/inside_passage",
+      "prior_score": 6.4119,
+      "prior_variance": 0.631297,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_score": 8.3502,
+      "prior_variance": 0.408876,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_score": 9.0716,
+      "prior_variance": 0.587939,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 4.4363,
+      "prior_variance": 0.386616,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 6.7384,
+      "prior_variance": 0.381438,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Colombia",
+      "path": "southamerica/colombia",
+      "prior_score": -2.3834,
+      "prior_variance": 0.848249,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 6.9918,
+      "prior_variance": 0.811828,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 4.104,
+      "prior_variance": 0.493559,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 3.655,
+      "prior_variance": 0.408554,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_score": 7.6249,
+      "prior_variance": 0.456431,
+      "prior_n": 7
+    }
+  ]
+}

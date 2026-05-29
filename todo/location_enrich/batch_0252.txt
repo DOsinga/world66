@@ -1,0 +1,5 @@
+asia/china/sichuanprovince/panzhihua
+africa/nigeria/oshogbo
+europe/greece/zakinthos/kalamaki
+northamerica/unitedstates/tennessee/murfreesboro
+asia/lebanon/arnun

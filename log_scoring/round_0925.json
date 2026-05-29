@@ -1,0 +1,200 @@
+{
+  "round": 925,
+  "timestamp": "2026-04-12T14:50:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Scuba Diving",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
+      "prior_score": 11.5427,
+      "prior_variance": 8.923068,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_score": 12.5485,
+      "prior_variance": 8.233277,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 10.3972,
+      "prior_variance": 3.505388,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "High Sierra",
+      "path": "northamerica/unitedstates/california/highsierra",
+      "prior_score": 10.6136,
+      "prior_variance": 1.983149,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 6.644,
+      "prior_variance": 2.56143,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 2.6682,
+      "prior_variance": 0.803442,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "East Coast",
+      "path": "australiaandpacific/australia/tasmania/eastcoast",
+      "prior_score": 7.4643,
+      "prior_variance": 3.235396,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sulawesi",
+      "path": "asia/indonesia/sulawesi",
+      "prior_score": 2.1486,
+      "prior_variance": 2.963329,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.8296,
+      "prior_variance": 1.716161,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 3.4694,
+      "prior_variance": 1.491737,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Caceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 5.3076,
+      "prior_variance": 1.25541,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 5.5477,
+      "prior_variance": 1.40777,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_score": 1.0248,
+      "prior_variance": 1.40672,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "West Bengal",
+      "path": "asia/india/westbengal",
+      "prior_score": -4.4648,
+      "prior_variance": 1.177549,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": -0.8496,
+      "prior_variance": 1.209163,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.5577,
+      "prior_variance": 0.538631,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
+      "prior_score": -2.4762,
+      "prior_variance": 1.421273,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.1588,
+      "prior_variance": 1.346834,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -4.4408,
+      "prior_variance": 1.252584,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Haiti",
+      "path": "northamerica/thecaribbean/haiti",
+      "prior_score": -14.5301,
+      "prior_variance": 7.444684,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -6.2414,
+      "prior_variance": 1.330584,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Somaliland",
+      "path": "africa/somaliland",
+      "prior_score": -18.8439,
+      "prior_variance": 5.153871,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -11.0862,
+      "prior_variance": 8.668642,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -8.5817,
+      "prior_variance": 10.925777,
+      "prior_n": 1
+    }
+  ]
+}

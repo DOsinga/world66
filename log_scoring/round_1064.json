@@ -1,0 +1,200 @@
+{
+  "round": 1064,
+  "timestamp": "2026-04-12T22:07:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_rank": 5938,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_rank": 6717,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_rank": 6930,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_rank": 7111,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_rank": 5169,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_rank": 6795,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_rank": 5500,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_rank": 5994,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/berkhampsted",
+      "prior_rank": 5505,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_rank": 6400,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_rank": 6740,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_rank": 7978,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Viersen",
+      "path": "europe/germany/northrhinewestphalia/viersen",
+      "prior_rank": 5913,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/lowerhutt",
+      "prior_rank": 6739,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_rank": 6748,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_rank": 5317,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gurabo",
+      "path": "northamerica/puertorico/gurabo",
+      "prior_rank": 6335,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_rank": 6951,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_rank": 7977,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Yass",
+      "path": "australiaandpacific/australia/newsouthwales/yass",
+      "prior_rank": 6561,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Shawano",
+      "path": "northamerica/unitedstates/wisconsin/shawano",
+      "prior_rank": 6700,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_rank": 5764,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_rank": 5456,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_rank": 8095,
+      "prior_wins": 3,
+      "prior_n": 3
+    }
+  ]
+}

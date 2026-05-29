@@ -1,0 +1,200 @@
+{
+  "round": 1747,
+  "timestamp": "2026-04-13T10:47:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.2822,
+      "prior_variance": 0.334665,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.8085,
+      "prior_variance": 0.30887,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_score": 5.4565,
+      "prior_variance": 0.33705,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 2.9585,
+      "prior_variance": 0.211892,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Estonia",
+      "path": "europe/estonia",
+      "prior_score": -4.5018,
+      "prior_variance": 0.497122,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 5.2708,
+      "prior_variance": 0.317312,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 4.1579,
+      "prior_variance": 0.443496,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 1.197,
+      "prior_variance": 0.363291,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Madhya Pradesh",
+      "path": "asia/india/madhyapradesh",
+      "prior_score": -1.0275,
+      "prior_variance": 0.441766,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 0.9795,
+      "prior_variance": 0.331622,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_score": 3.6012,
+      "prior_variance": 0.491148,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_score": 0.4829,
+      "prior_variance": 0.344441,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": 0.0745,
+      "prior_variance": 0.310816,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -0.7629,
+      "prior_variance": 0.382016,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Paderborn",
+      "path": "europe/germany/paderborn",
+      "prior_score": -0.3085,
+      "prior_variance": 0.363043,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": 1.1696,
+      "prior_variance": 0.303286,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.9469,
+      "prior_variance": 0.341057,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Staten Island",
+      "path": "northamerica/unitedstates/newyorkstate/statenisland",
+      "prior_score": -3.7283,
+      "prior_variance": 0.288598,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -2.0948,
+      "prior_variance": 0.299137,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_score": -5.5771,
+      "prior_variance": 0.319261,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -5.6849,
+      "prior_variance": 0.327609,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Okeechobee",
+      "path": "northamerica/unitedstates/florida/okeechobee",
+      "prior_score": -5.2088,
+      "prior_variance": 0.291656,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -10.6189,
+      "prior_variance": 0.47328,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -6.1346,
+      "prior_variance": 0.345268,
+      "prior_n": 5
+    }
+  ]
+}

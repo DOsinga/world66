@@ -1,0 +1,200 @@
+{
+  "round": 1070,
+  "timestamp": "2026-04-12T22:07:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_rank": 3496,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_rank": 5932,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_rank": 6823,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_rank": 6719,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_rank": 3339,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_rank": 3388,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_rank": 6021,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_rank": 6586,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_rank": 5297,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_rank": 4878,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_rank": 5534,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_rank": 6606,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_rank": 6219,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_rank": 6165,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Legazpi",
+      "path": "europe/spain/northernspain/legazpi",
+      "prior_rank": 6951,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_rank": 5768,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Forster",
+      "path": "australiaandpacific/australia/newsouthwales/forster",
+      "prior_rank": 4247,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/watchet",
+      "prior_rank": 5797,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_rank": 6195,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_rank": 6210,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_rank": 4835,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_rank": 6984,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_rank": 5353,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_rank": 4925,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

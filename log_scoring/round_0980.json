@@ -1,0 +1,200 @@
+{
+  "round": 980,
+  "timestamp": "2026-04-12T22:03:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_rank": 3505,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_rank": 4266,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/kitakyushu/moji",
+      "prior_rank": 3886,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_rank": 2255,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_rank": 4811,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_rank": 3517,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_rank": 5743,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_rank": 2318,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_rank": 521,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_rank": 4464,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_rank": 3133,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_rank": 1127,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_rank": 4987,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_rank": 1648,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_rank": 5749,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_rank": 3922,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_rank": 3840,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_rank": 5348,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_rank": 4647,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_rank": 6511,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_rank": 6520,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_rank": 5732,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_rank": 5734,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_rank": 1259,
+      "prior_wins": 19,
+      "prior_n": 1
+    }
+  ]
+}

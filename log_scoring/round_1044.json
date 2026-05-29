@@ -1,0 +1,200 @@
+{
+  "round": 1044,
+  "timestamp": "2026-04-12T22:06:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha'apai Group",
+      "path": "australiaandpacific/tonga/haapaigroup",
+      "prior_rank": 4189,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Basse-Terre",
+      "path": "northamerica/guadeloupe/basseterre",
+      "prior_rank": 1981,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_rank": 6531,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_rank": 4041,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nagaland",
+      "path": "asia/india/nagaland",
+      "prior_rank": 4277,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_rank": 3779,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_rank": 2791,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_rank": 3600,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_rank": 3408,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_rank": 4200,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_rank": 5680,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_rank": 4648,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_rank": 5896,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_rank": 2862,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_rank": 2934,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_rank": 2407,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_rank": 4940,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_rank": 2816,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_rank": 2585,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_rank": 2837,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_rank": 5056,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_rank": 4315,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_rank": 3796,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Brandenburg",
+      "path": "europe/germany/brandenburg",
+      "prior_rank": 2988,
+      "prior_wins": 14,
+      "prior_n": 1
+    }
+  ]
+}

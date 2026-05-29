@@ -1,0 +1,5 @@
+europe/romania/cluj
+europe/france/midi/languedoc/nmes
+northamerica/unitedstates/virginia/jamestown
+europe/albania/tepelene/tepelena
+northamerica/unitedstates/georgia/alpharetta

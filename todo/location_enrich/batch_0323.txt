@@ -1,0 +1,5 @@
+europe/switzerland/geneva
+asia/philippines/mangatarem
+asia/malaysia/georgetown
+africa/algeria/eloued
+europe/france/midi/cotedazur/marseille

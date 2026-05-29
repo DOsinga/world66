@@ -1,0 +1,200 @@
+{
+  "round": 2128,
+  "timestamp": "2026-04-13T16:13:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barbados",
+      "path": "northamerica/thecaribbean/barbados",
+      "prior_score": 7.6271,
+      "prior_variance": 0.331809,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 8.6539,
+      "prior_variance": 0.504109,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_score": 4.7413,
+      "prior_variance": 0.303278,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Jammu and Kashmir",
+      "path": "asia/india/jammuandkashmir",
+      "prior_score": 6.3651,
+      "prior_variance": 0.222485,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 7.1123,
+      "prior_variance": 0.270338,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": -0.5789,
+      "prior_variance": 0.224059,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
+      "prior_score": 1.0561,
+      "prior_variance": 0.238387,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.8888,
+      "prior_variance": 0.257027,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": 0.5489,
+      "prior_variance": 0.252243,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -3.4578,
+      "prior_variance": 0.28894,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -2.0265,
+      "prior_variance": 0.306368,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_score": -2.8585,
+      "prior_variance": 0.220892,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -4.4005,
+      "prior_variance": 0.364729,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_score": -2.7214,
+      "prior_variance": 0.301693,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.1517,
+      "prior_variance": 0.261026,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -4.7518,
+      "prior_variance": 0.247566,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_score": -4.8107,
+      "prior_variance": 0.389862,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -3.5544,
+      "prior_variance": 0.194086,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Winchendon",
+      "path": "northamerica/unitedstates/massachusetts/winchendon",
+      "prior_score": -5.9796,
+      "prior_variance": 0.260315,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -3.1507,
+      "prior_variance": 0.200668,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -3.4011,
+      "prior_variance": 0.241198,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/catanzaro/soveria_mannelli",
+      "prior_score": -2.9457,
+      "prior_variance": 0.295263,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -6.4535,
+      "prior_variance": 0.367188,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -5.5272,
+      "prior_variance": 0.260662,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+europe/france/midi/provence/portgrimaud
+northamerica/canada/britishcolumbia/nanaimo
+europe/russia/volgograd
+asia/japan/kyushu/beppu
+africa/guineeconakry/labe

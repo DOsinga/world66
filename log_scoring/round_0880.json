@@ -1,0 +1,200 @@
+{
+  "round": 880,
+  "timestamp": "2026-04-12T14:47:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 12.8824,
+      "prior_variance": 8.193062,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 6.421,
+      "prior_variance": 2.558256,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 4.7929,
+      "prior_variance": 1.581649,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 6.5494,
+      "prior_variance": 1.431359,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 8.4587,
+      "prior_variance": 1.704968,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 6.7097,
+      "prior_variance": 1.31896,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 7.1304,
+      "prior_variance": 1.329298,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 7.9536,
+      "prior_variance": 1.381004,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.236,
+      "prior_variance": 1.620085,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_score": 3.9806,
+      "prior_variance": 1.664721,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Paradise Gulf",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf",
+      "prior_score": 7.569,
+      "prior_variance": 2.489509,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 1.5278,
+      "prior_variance": 1.25086,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 3.6054,
+      "prior_variance": 1.496317,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.1478,
+      "prior_variance": 1.373087,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": 0.4151,
+      "prior_variance": 1.478052,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -1.003,
+      "prior_variance": 1.386512,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": -0.5129,
+      "prior_variance": 1.639154,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -1.5313,
+      "prior_variance": 1.179042,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -3.0417,
+      "prior_variance": 1.335033,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.6643,
+      "prior_variance": 1.346151,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_score": -1.4265,
+      "prior_variance": 1.658638,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -2.9911,
+      "prior_variance": 1.251445,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -7.4584,
+      "prior_variance": 1.47298,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -11.7439,
+      "prior_variance": 8.422539,
+      "prior_n": 1
+    }
+  ]
+}

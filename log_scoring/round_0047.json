@@ -1,0 +1,200 @@
+{
+  "round": 47,
+  "timestamp": "2026-04-11T19:26:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_mu": 26.05,
+      "prior_sigma": 6.37,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_mu": 21.88,
+      "prior_sigma": 4.77,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_mu": 22.74,
+      "prior_sigma": 4.85,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_mu": 22.09,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_mu": 22.57,
+      "prior_sigma": 5.82,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_mu": 22.57,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_mu": 22.89,
+      "prior_sigma": 5.86,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 22.09,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_mu": 22.83,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_mu": 22.54,
+      "prior_sigma": 5.66,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_mu": 21.36,
+      "prior_sigma": 3.93,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_mu": 22.7,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_mu": 22.07,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mungivacca",
+      "path": "europe/italy/puglia/bari/mungivacca",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_mu": 21.42,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Porterville",
+      "path": "northamerica/unitedstates/california/centralvalley/porterville",
+      "prior_mu": 21.39,
+      "prior_sigma": 4.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 20.17,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    }
+  ]
+}

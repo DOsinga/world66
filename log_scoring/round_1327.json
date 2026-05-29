@@ -1,0 +1,200 @@
+{
+  "round": 1327,
+  "timestamp": "2026-04-12T22:21:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "China",
+      "path": "asia/china",
+      "prior_rank": 1220,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mexico",
+      "path": "northamerica/mexico",
+      "prior_rank": 4070,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_rank": 2054,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_rank": 3194,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_rank": 1749,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_rank": 1539,
+      "prior_wins": 99,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_rank": 3788,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_rank": 3934,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_rank": 5823,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_rank": 1175,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_rank": 1532,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_rank": 1493,
+      "prior_wins": 73,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_rank": 1921,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_rank": 654,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_rank": 2164,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_rank": 3203,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_rank": 2778,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_rank": 2540,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_rank": 956,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_rank": 2043,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_rank": 2594,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_rank": 1743,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_rank": 2017,
+      "prior_wins": 61,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_rank": 929,
+      "prior_wins": 54,
+      "prior_n": 3
+    }
+  ]
+}

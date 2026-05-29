@@ -10,6 +10,10 @@ score: 0.42
 loc_type: city
 sources:
   - https://en.wikipedia.org/wiki/Naga,_Camarines_Sur
+image: naga_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Facade_of_Naga_Cathedral_at_night.jpg
+image_license: CC BY-SA 4.0
+image_attribution: "Kej Andrés (Ryomaandres)"
 ---
 
 Naga City sits in the Bicol Region of Luzon, about 440 km south of Manila, and is the cultural and commercial heart of the Camarines Sur province. It's a lively mid-sized city with a strong university presence and a distinct Bicolano identity — you'll notice the local cuisine here, hotter than most Filipino food, built on coconut milk and chillies.

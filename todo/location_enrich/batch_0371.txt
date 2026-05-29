@@ -1,5 +1,0 @@
-europe/italy/friuliveneziagiulia/trieste
-northamerica/mexico/tequila
-africa/malawi/blantyre
-northamerica/unitedstates/newyorkstate/elmira
-asia/bhutan/phuntsholing

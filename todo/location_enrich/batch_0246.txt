@@ -1,5 +1,0 @@
-europe/italy/piemonte/monferrato
-southamerica/ecuador/coca_puerto_francisco_de_orellana
-asia/srilanka/galle
-northamerica/unitedstates/oklahoma/ponca_city
-asia/india/andhrapradesh/eluru

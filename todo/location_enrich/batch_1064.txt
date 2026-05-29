@@ -1,5 +1,0 @@
-northamerica/unitedstates/oregon/oregoncity
-northamerica/unitedstates/indiana/warsaw
-asia/oman/sur
-northamerica/unitedstates/ohio/zanesville
-africa/botswana/serowe

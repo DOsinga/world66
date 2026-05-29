@@ -1,5 +1,0 @@
-asia/china/hainanisland/sanya
-northamerica/unitedstates/oklahoma/altus
-southamerica/colombia/tunja
-northamerica/unitedstates/oregon/sisters
-africa/tunisia/carthage

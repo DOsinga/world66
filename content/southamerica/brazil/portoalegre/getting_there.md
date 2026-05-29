@@ -1,8 +1,0 @@
----
-title: "Getting There"
-type: section
----
-
-Porto Alegre is well connected to the rest of Brazil and to its neighbours. **Aeroporto Internacional Salgado Filho** (IATA: POA) sits just a few kilometres from the city centre — one of the most conveniently located major airports in Brazil — and handles frequent flights to São Paulo (about 90 minutes), Rio de Janeiro, Brasília, Florianópolis, and Curitiba, as well as some international connections. From Europe or North America you will almost always connect through São Paulo (Guarulhos). Inside Brazil, LATAM, Gol, and Azul compete on most routes, so fares can be reasonable if you book a few weeks ahead. A light-rail line (Trensurb) connects the airport directly to the city centre in about 20 minutes for a handful of reais — one of the few Brazilian airport connections that actually works.
-
-If you are coming from Argentina or Uruguay, the bus is both practical and scenic. **TTL**, **Pluma**, and **EGA** run long-distance coaches from Buenos Aires (around 18 hours), Montevideo (about 12 hours), and Rosario. The main terminal, **Rodoviária de Porto Alegre**, is right in the city centre next to the waterfront, so you arrive at a genuinely useful location. Within Brazil, long-distance buses connect Porto Alegre to Florianópolis (5–6 hours), Curitiba (10 hours), and São Paulo (18 hours). The **Serra Gaúcha** towns of Gramado and Canela are reached by frequent regional buses from the same terminal. Porto Alegre is the natural gateway for the whole of southern Brazil: if you are heading into the wine country, the Jesuit missions, or the cattle pampas, this is almost certainly where you start.

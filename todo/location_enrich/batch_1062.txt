@@ -1,5 +1,0 @@
-europe/finland/porvoo
-europe/croatia/komiza_vis_island
-africa/algeria/ghardaia
-asia/kuwait/salmiya
-europe/spain/aragon/huesca

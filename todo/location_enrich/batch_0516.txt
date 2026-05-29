@@ -1,5 +1,0 @@
-europe/albania/ardenica
-europe/finland/punkaharju
-northamerica/canada/alberta/medicinehat
-asia/india/maharashtra/malkapur
-europe/luxembourg/echternach

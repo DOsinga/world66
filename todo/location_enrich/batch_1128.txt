@@ -1,5 +1,0 @@
-asia/vietnam/hoian
-northamerica/unitedstates/tennessee/erwin_tennessee
-europe/netherlands/wageningen
-northamerica/mexico/merida
-asia/indonesia/java/sumedang

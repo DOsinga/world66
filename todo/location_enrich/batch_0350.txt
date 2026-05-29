@@ -1,5 +1,0 @@
-northamerica/panama/panamacity
-southamerica/argentina/puertoiguazu
-europe/france/midi/cotedazur/cagne
-europe/russia/staraya_ladoga
-europe/unitedkingdom/england/eastern_england/luton

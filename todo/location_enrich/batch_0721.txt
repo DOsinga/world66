@@ -1,5 +1,0 @@
-europe/romania/bucharest
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield
-europe/belgium/dinant
-europe/ukraine/crimea/bahchisaray
-australiaandpacific/newzealand/canterbury/temuka

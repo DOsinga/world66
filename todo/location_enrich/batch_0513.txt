@@ -1,5 +1,0 @@
-northamerica/canada/britishcolumbia/vernon
-asia/china/taipa
-europe/italy/lazio/cerveteri
-europe/spain/catalonia/platjadaro
-europe/croatia/opatija

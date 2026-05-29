@@ -1,5 +1,0 @@
-europe/portugal/fatima
-europe/germany/bavaria/bayreuth
-asia/japan/honshu/izumo
-europe/italy/puglia/conversano
-europe/italy/sardinia/cagliari

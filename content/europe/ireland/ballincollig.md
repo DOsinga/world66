@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
+image: ballincollig.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Castles_of_Munster,_Ballincollig,_Cork_(1)_-_geograph.org.uk_-_3036584.jpg
+image_license: CC BY-SA 2.0
 latitude: 51.888264
 longitude: -8.591841
 title: Ballincollig

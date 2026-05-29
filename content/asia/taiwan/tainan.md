@@ -10,6 +10,10 @@ title: Tainan
 type: location
 sources:
   - https://en.wikipedia.org/wiki/Tainan
+image: tainan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Exterior_of_Tainan_Confucius_Temple_in_November_2017.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nick-D
 ---
 
 Tainan is the oldest city in Taiwan — established as a Dutch colonial outpost in the 17th century and later the seat of Zheng Chenggong (Koxinga), who drove the Dutch out in 1662. The layers of history are everywhere, and unlike Taipei, Tainan has kept much of its older urban fabric intact.

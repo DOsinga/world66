@@ -2,16 +2,16 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
+image: zouerate.jpg
+image_attribution: Jérome Ferri
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Zou%C3%A9ratt_vu_de_la_Kh%C3%A9dia_d%27Idjil_-_Montagne_de_Fer_%2B915m,_point_culminant_de_la_Mauritanie.jpg
 latitude: 22.740206
+loc_type: city
 longitude: -12.466492
+score: 0.23
 title: Zouerate
 type: location
-score: 0.23
-loc_type: city
-image: zouerate.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Zou%C3%A9ratt_vu_de_la_Kh%C3%A9dia_d%27Idjil_-_Montagne_de_Fer_%2B915m,_point_culminant_de_la_Mauritanie.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Jérome Ferri
 ---
 
 Zouerate is Mauritania's main mining town, built around the vast iron ore deposits of the Tiris Zemmour region in the far north. There is not much here for travellers beyond the mining operations themselves — but that is not why most people come. Zouerate is the eastern terminus of one of the great train journeys in the world.

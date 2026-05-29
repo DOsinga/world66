@@ -1,5 +1,0 @@
-northamerica/unitedstates/iowa/madison_county__w
-northamerica/canada/ontario/london
-southamerica/colombia/medellin
-asia/mongolia/moron
-europe/germany/bavaria/bamberg

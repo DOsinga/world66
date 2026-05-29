@@ -1,5 +1,0 @@
-europe/azerbaijan/naxcivan/culfa
-northamerica/thecaribbean/puertorico/islaverde
-northamerica/unitedstates/texas/midlandodessa
-northamerica/unitedstates/california/longbeach
-southamerica/uruguay/villaserrana

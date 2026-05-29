@@ -1,5 +1,0 @@
-europe/montenegro/hercegnovi
-europe/unitedkingdom/england/newcastle_and_north_east/hartlepool
-asia/turkey/elazig
-australiaandpacific/australia/victoria/cobram
-europe/france/east/lorraine/verdun

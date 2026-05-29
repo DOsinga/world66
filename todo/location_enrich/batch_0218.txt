@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/mcalester
-asia/india/westbengal/krishnanagar
-europe/albania/apolonia
-southamerica/chile/vinadelmar
-europe/germany/lowersaxony/wolfsburg

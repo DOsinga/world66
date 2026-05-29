@@ -1,5 +1,0 @@
-northamerica/unitedstates/illinois/cahokia
-europe/france/normandybrittany/saintmalo
-europe/ireland/ballincollig
-europe/france/east/lorraine/nancy
-northamerica/unitedstates/vermont/killington

@@ -1,5 +1,0 @@
-northamerica/unitedstates/missouri/jeffersoncity
-asia/taiwan/taoyuan
-northamerica/unitedstates/wisconsin/greenbay
-europe/estonia/tallinn
-northamerica/mexico/ajijic

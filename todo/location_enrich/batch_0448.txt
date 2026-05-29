@@ -1,5 +1,0 @@
-asia/cambodia/siemreap
-europe/spain/aragon/cantavieja
-australiaandpacific/newzealand/south_island/canterbury
-africa/morocco/taza
-europe/croatia/pag_island

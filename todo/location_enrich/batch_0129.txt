@@ -1,5 +1,0 @@
-africa/ivorycoast/sanpedro
-southamerica/colombia/cartagena
-africa/ghana/sunyani
-asia/indonesia/banjarmasin
-southamerica/guyana/newamsterdam

@@ -1,5 +1,0 @@
-northamerica/unitedstates/northcarolina/currie
-europe/portugal/theazores/so_miguel/sete_cidades
-asia/philippines/banaue
-asia/philippines/quezon_province/lucban
-asia/india/punjab/jalandhar

@@ -1,5 +1,0 @@
-northamerica/unitedstates/iowa/ames
-asia/thailand/sukhothai
-northamerica/unitedstates/washington/clarkston
-northamerica/unitedstates/minnesota/grand_marais
-europe/unitedkingdom/england/eastern_england/southendonsea

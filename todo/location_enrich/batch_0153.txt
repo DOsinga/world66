@@ -1,5 +1,0 @@
-asia/cyprus/northerncyprus/salamis
-australiaandpacific/newzealand/north_island/northland/bayofislands
-asia/indonesia/kotagede
-europe/france/east/alsace/colmar
-europe/germany/hamburg

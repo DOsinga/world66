@@ -1,5 +1,0 @@
-africa/southafrica/gardenroute/wilderness
-europe/vaticancity/vaticancity
-europe/france/east/champagne/provins
-europe/france/nord/chantilly
-northamerica/unitedstates/california/redondobeach

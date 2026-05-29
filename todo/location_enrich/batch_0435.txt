@@ -1,5 +1,0 @@
-northamerica/unitedstates/newjersey/toms_river
-africa/angola/soyo
-africa/centralafricanrepublic/berberati
-europe/netherlands/waddenislands/texel_island/oudeschild
-southamerica/colombia/villadeleyva

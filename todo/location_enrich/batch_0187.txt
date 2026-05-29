@@ -1,5 +1,0 @@
-europe/unitedkingdom/wales/tenby
-europe/romania/bistrita
-northamerica/unitedstates/wisconsin/viroqua
-europe/germany/badenwrttemberg/tubingen
-asia/japan/honshu/takayama

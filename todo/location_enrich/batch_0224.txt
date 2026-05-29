@@ -1,5 +1,0 @@
-europe/netherlands/almelo
-europe/ukraine/poltava
-northamerica/bermuda/southampton
-asia/indonesia/sumba
-northamerica/unitedstates/northcarolina/chapelhill

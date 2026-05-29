@@ -1,5 +1,0 @@
-northamerica/unitedstates/wyoming/douglas
-europe/spain/balearicislands/mallorca/palma1
-europe/italy/tuscany/bagno_vignoni
-europe/germany/bavaria/freising
-africa/niger/zinder

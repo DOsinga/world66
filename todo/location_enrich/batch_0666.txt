@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/goldcountry/sacramento
-europe/greece/rhodes/lindos
-asia/thailand/kui_buri
-northamerica/unitedstates/california/centralcoast/santacruz
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary

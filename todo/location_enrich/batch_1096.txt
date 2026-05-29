@@ -1,5 +1,0 @@
-africa/mauritania/rosso
-asia/turkey/diyarbakir
-europe/italy/lazio/gaeta__ulysses_ri
-northamerica/unitedstates/california/centralvalley/reedley
-europe/denmark/gentofte

@@ -1,5 +1,0 @@
-northamerica/unitedstates/missouri/kansascity
-northamerica/unitedstates/utah/cannonville
-europe/france/centre/auvergne/clermontferrant
-europe/spain/centralspain/avila
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude

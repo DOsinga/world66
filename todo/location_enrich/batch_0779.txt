@@ -1,0 +1,5 @@
+europe/germany/bavaria/fuerth
+europe/spain/la_mancha/valdepeas
+europe/spain/castellon/peniscola
+asia/thailand/prachinburi
+europe/netherlands/noordpolderzijl

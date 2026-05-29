@@ -1,0 +1,5 @@
+asia/india/gujarat/lothal
+europe/moldova/baltsi
+asia/turkey/cappadocia/nevsehir
+asia/bhutan/bumthang
+northamerica/unitedstates/massachusetts/woods_hole

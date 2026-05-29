@@ -1,0 +1,5 @@
+northamerica/nicaragua/sanjuandelsur
+europe/unitedkingdom/scotland/macduff
+northamerica/unitedstates/newmexico/ramah
+northamerica/canada/alberta/legal
+northamerica/unitedstates/minnesota/fergus_falls

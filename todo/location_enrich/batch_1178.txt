@@ -1,0 +1,5 @@
+northamerica/canada/northwestterritories/yellowknife
+northamerica/unitedstates/northcarolina/charlotte
+asia/malaysia/tiomanisland/tekekvillage
+australiaandpacific/kiribati/kantonisland
+europe/spain/centralspain/alcaladehenares

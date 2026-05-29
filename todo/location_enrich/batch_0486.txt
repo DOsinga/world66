@@ -1,0 +1,5 @@
+asia/myanmar/bagan
+europe/switzerland/lausanne
+northamerica/unitedstates/newmexico/losalamos
+europe/russia/suzdal
+europe/spain/andalucia/almonaster_la_real

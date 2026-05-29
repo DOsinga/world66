@@ -1,0 +1,5 @@
+europe/russia/ryazan
+europe/norway/porsgrunn
+europe/spain/andalucia/ronda
+europe/germany/lowersaxony/east_frisian_islands/spiekeroog
+northamerica/unitedstates/florida/miami

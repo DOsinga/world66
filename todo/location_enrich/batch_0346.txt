@@ -1,0 +1,5 @@
+northamerica/unitedstates/hawaii/kihei
+asia/turkey/ankara
+europe/greece/zakinthos/alykes
+europe/ireland/enniskerry
+asia/india/goa/margao

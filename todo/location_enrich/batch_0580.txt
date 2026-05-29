@@ -1,0 +1,5 @@
+northamerica/unitedstates/missouri/springfield
+europe/unitedkingdom/scotland/crieff
+northamerica/unitedstates/virginia/virginiabeach
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield
+australiaandpacific/australia/victoria/oakleigh

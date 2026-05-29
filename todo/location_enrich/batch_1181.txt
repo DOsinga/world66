@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/northcoast/arcata
+northamerica/mexico/sayulita
+europe/italy/veneto/san_vito_di_cadore
+europe/croatia/island_iovo
+australiaandpacific/fiji/yasawaislands

@@ -1,0 +1,5 @@
+australiaandpacific/australia/newsouthwales/broke
+asia/japan/honshu/osaka
+europe/spain/andalucia/malaga
+australiaandpacific/tonga/vavauisland
+northamerica/mexico/sanjosedelcabo

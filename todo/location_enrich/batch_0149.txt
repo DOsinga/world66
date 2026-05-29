@@ -1,0 +1,5 @@
+europe/italy/sicily/catania
+europe/france/centre/loirevalley/cholet
+europe/georgia/abkhazia
+asia/taiwan/taichung
+asia/israel/telaviv

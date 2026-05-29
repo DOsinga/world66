@@ -1,0 +1,8 @@
+africa/somalia/gendershe
+northamerica/unitedstates/california/santaclarita
+europe/georgia/gudauri
+africa/congokinshasa/lubumbashi
+asia/china/hongkong
+asia/philippines/manila
+europe/italy/calabria/catanzaro
+northamerica/unitedstates/california/sandiego

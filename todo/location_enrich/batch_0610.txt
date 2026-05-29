@@ -1,0 +1,5 @@
+europe/luxembourg/munshausen
+europe/unitedkingdom/wales/conwy
+europe/romania/buzau
+europe/france/midi/cotedazur/greolieres
+africa/algeria/batna

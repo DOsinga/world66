@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/skye/glendale
+southamerica/ecuador/manta
+southamerica/argentina/parana
+europe/netherlands/friesland/harlingen
+northamerica/unitedstates/georgia/cartersville

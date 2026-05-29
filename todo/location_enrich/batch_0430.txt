@@ -1,0 +1,5 @@
+northamerica/unitedstates/georgia/vidalia
+southamerica/peru/trujillo_1
+asia/myanmar/yangon
+europe/italy/liguria/italianriviera/rivieradellepalme/sassello
+europe/greece/prespa

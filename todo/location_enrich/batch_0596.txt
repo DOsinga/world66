@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/lakedistrict/grasmere
+northamerica/guatemala/coban
+europe/czechrepublic/ceskebudejovice
+africa/algeria/algiers
+africa/mauritania/atar

@@ -1,0 +1,5 @@
+southamerica/bolivia/santacruz
+europe/spain/catalonia/argentona
+europe/spain/catalonia/sitges
+europe/unitedkingdom/scotland/melrose
+northamerica/unitedstates/newyorkstate/amsterdam

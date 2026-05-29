@@ -1,0 +1,5 @@
+northamerica/costarica/talamanca
+europe/ireland/athlone
+asia/india/tamilnadu/ooty
+australiaandpacific/australia/queensland/tully
+asia/india/andhrapradesh/visakhapatnam

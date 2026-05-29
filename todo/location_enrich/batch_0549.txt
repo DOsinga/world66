@@ -1,0 +1,5 @@
+europe/georgia/kazbegi
+northamerica/unitedstates/westvirginia/morgantown
+europe/faroeislands/vagar/srvgur
+northamerica/unitedstates/utah/panguitch
+europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster

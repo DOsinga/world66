@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/ocean_shores
+asia/turkey/cappadocia/hacibektas
+europe/russia/vladivostok
+africa/morocco/cascades_ouzoud
+asia/india/westbengal/mandarmani/tajpur

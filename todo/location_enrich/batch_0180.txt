@@ -1,0 +1,8 @@
+asia/japan/honshu/hiroshima
+asia/thailand/petchburi
+northamerica/unitedstates/nebraska/valentine
+northamerica/unitedstates/oregon/florence
+africa/morocco/rabat
+asia/pakistan/peshawar
+europe/ireland/dublin
+northamerica/unitedstates/california/centralcoast/monterey

@@ -1,0 +1,5 @@
+northamerica/unitedstates/oklahoma/prague
+europe/france/normandybrittany/lesandelys
+europe/france/midi/cotedazur/cagnessurmer
+australiaandpacific/newzealand/north_island/auckland_region/devonport
+europe/germany/brandenburg/bernau_bei_berlin

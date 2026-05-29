@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/south_east/harrow
+northamerica/unitedstates/oregon/sunriver
+northamerica/mexico/san_carlos_sonora
+asia/lebanon/ehden
+northamerica/unitedstates/alaska/talkeetna

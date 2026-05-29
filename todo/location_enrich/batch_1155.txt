@@ -1,0 +1,5 @@
+asia/japan/honshu/sendai
+europe/hungary/satoraljaujhely
+africa/guineabissau/bijagosislands
+europe/switzerland/montreux
+africa/ghana/kokrobite

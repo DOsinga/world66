@@ -1,0 +1,5 @@
+europe/sweden/askersund
+europe/switzerland/gerzensee
+africa/kenya/theriftvalley/eldoret
+northamerica/unitedstates/indiana/lafayette
+northamerica/unitedstates/oklahoma/enid

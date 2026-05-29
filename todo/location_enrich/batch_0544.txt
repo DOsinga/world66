@@ -1,0 +1,5 @@
+northamerica/trinidadandtobago/tobago
+asia/india/tamilnadu/pudukkottai
+northamerica/saintkittsandnevis/nevis
+australiaandpacific/newzealand/south_island/west_coast/hokitika
+northamerica/unitedstates/washington/moclips

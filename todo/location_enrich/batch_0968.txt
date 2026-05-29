@@ -1,0 +1,5 @@
+asia/india/tamilnadu/kodaikanal
+asia/israel/metula
+europe/switzerland/porrentruy
+asia/srilanka/dambulla
+asia/india/gujarat/somnath

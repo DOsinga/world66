@@ -1,0 +1,5 @@
+northamerica/unitedstates/massachusetts/nantucket
+northamerica/unitedstates/newhampshire/portsmouth
+asia/papuanewguinea/madang
+southamerica/venezuela/los_roques
+southamerica/venezuela/guanare

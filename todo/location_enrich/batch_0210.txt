@@ -1,0 +1,5 @@
+europe/italy/lazio/subiaco
+northamerica/unitedstates/florida/northeastflorida/lake_city
+europe/netherlands/ede
+northamerica/unitedstates/missouri/lake_of_the_ozarks
+northamerica/unitedstates/maine/eastport

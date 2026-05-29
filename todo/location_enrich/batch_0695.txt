@@ -1,0 +1,5 @@
+northamerica/dominicanrepublic/punta_cana
+europe/italy/campania/capri
+europe/france/normandybrittany/lisieux
+northamerica/unitedstates/newjersey/newark
+europe/luxembourg/grevenmacher

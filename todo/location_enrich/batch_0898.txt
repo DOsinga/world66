@@ -1,0 +1,5 @@
+asia/japan/ryukyuislands/haterumaisland
+asia/india/westbengal/durgapur
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton
+africa/morocco/oukaimeden
+asia/philippines/southern_leyte/sogod

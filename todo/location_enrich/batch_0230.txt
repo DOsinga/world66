@@ -1,0 +1,5 @@
+europe/netherlands/kinderdijk
+europe/netherlands/groningen
+europe/portugal/amarante
+europe/italy/veneto/lidodijesolo
+southamerica/brazil/brasilia

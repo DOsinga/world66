@@ -1,0 +1,5 @@
+northamerica/antiguaandbarbuda/stjohns
+africa/mali/gao
+northamerica/unitedstates/oklahoma/yukon
+asia/philippines/bacoor
+asia/thailand/huahin

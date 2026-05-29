@@ -1,0 +1,5 @@
+northamerica/thecaribbean/saintmartin
+europe/ireland/ardee
+asia/srilanka/negombo
+northamerica/unitedstates/california/westhollywood
+europe/montenegro/sveti_stefan

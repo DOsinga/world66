@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells
+europe/netherlands/zoetermeer
+europe/italy/tuscany/pitigliano
+africa/somaliland/berbera
+southamerica/brazil/buzios

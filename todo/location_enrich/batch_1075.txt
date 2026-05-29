@@ -1,0 +1,5 @@
+europe/spain/centralspain/cuenca
+europe/france/east/burgundy/maillylechateau
+europe/croatia/brac
+europe/netherlands/amsterdam
+europe/italy/veneto/verona

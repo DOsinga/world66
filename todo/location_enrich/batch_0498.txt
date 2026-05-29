@@ -1,0 +1,5 @@
+southamerica/brazil/vilavelha
+asia/japan/honshu/mito
+europe/bulgaria/sandanski
+northamerica/unitedstates/wisconsin/black_river_falls
+europe/spain/centralspain/aranjuez

@@ -1,0 +1,5 @@
+africa/morocco/smara
+europe/finland/rauma
+europe/germany/badenwrttemberg/ludwigsburg
+asia/kazakhstan/astana
+europe/romania/miercureaciuc

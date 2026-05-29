@@ -1,0 +1,5 @@
+northamerica/unitedstates/maine/ellsworth
+europe/portugal/leiria
+northamerica/unitedstates/ohio/portsmouth
+europe/hungary/tapolca
+europe/italy/lazio/tivoli

@@ -1,0 +1,5 @@
+africa/ghana/butre
+northamerica/unitedstates/oklahoma/okemah
+northamerica/mexico/akumal
+africa/cameroon/ngaoundere
+northamerica/unitedstates/newyorkstate/skaneateles

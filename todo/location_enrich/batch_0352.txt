@@ -1,0 +1,5 @@
+africa/rwanda/gisenyi
+asia/iran/kermanshah
+northamerica/dominicanrepublic/santiago
+southamerica/argentina/mardelplata
+northamerica/canada/newbrunswick/saintjohn

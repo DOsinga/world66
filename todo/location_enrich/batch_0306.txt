@@ -1,0 +1,5 @@
+europe/austria/zellamsee
+asia/thailand/trang
+europe/italy/trentinoaltoadige/bolzano
+northamerica/unitedstates/florida/keywest
+africa/zimbabwe/easternhighlands/mutare

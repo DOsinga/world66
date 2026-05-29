@@ -1,0 +1,5 @@
+southamerica/suriname/paramaribo
+europe/belgium/oudenaarde
+europe/spain/andalucia/setenil
+europe/italy/valledaosta/courmayeur
+northamerica/unitedstates/maine/bridgton

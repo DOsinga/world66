@@ -1,0 +1,5 @@
+europe/hungary/gyor
+europe/greece/crete/kritsa
+africa/ivorycoast/yamoussoukro
+asia/indonesia/sumatra/padang
+africa/benin/parakou

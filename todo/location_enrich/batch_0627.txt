@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/manti
+asia/pakistan/chichawatni
+southamerica/peru/nazca
+europe/italy/campania/naples
+asia/pakistan/hyderabad

@@ -1,0 +1,5 @@
+southamerica/brazil/juiz_de_fora
+northamerica/jamaica/ochorios
+asia/china/tibet/Shannan
+europe/france/around_paris/fontainebleau
+northamerica/unitedstates/vermont/manchester

@@ -1,0 +1,5 @@
+asia/china/suzhou
+europe/italy/tuscany/pistoia
+europe/ireland/donegal
+europe/iceland/skogar
+northamerica/unitedstates/california/orangecounty/lagunaniguel

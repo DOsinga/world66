@@ -1,0 +1,5 @@
+asia/india/uttaranchal/pithoragarh
+europe/belarus/hrodna_grodno
+northamerica/unitedstates/nevada/henderson
+europe/iceland/vik
+europe/romania/turda

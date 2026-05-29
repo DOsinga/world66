@@ -1,0 +1,5 @@
+asia/japan/honshu/kaga
+asia/japan/honshu/nagoya
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford
+europe/greece/mani/gythio
+asia/pakistan/azad_kashmir/tatta_pani

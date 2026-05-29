@@ -1,0 +1,5 @@
+northamerica/canada/novascotia/halifax
+southamerica/venezuela/choroni
+europe/ireland/galway
+asia/philippines/koronadal_city_1
+europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure

@@ -1,0 +1,5 @@
+africa/uganda/jinja
+asia/india/kerala/kovalam
+europe/portugal/arouca
+europe/austria/villach
+europe/switzerland/simmental

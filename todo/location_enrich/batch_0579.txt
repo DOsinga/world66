@@ -1,0 +1,5 @@
+europe/georgia/mtskheta
+northamerica/canada/britishcolumbia/100milehouse
+asia/afghanistan/jalalabad
+africa/ghana/bolgatanga
+europe/belarus/kamianiec_litosk

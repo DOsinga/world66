@@ -1,0 +1,5 @@
+africa/benin/portonovo
+northamerica/unitedstates/alaska/skagway
+asia/india/maharashtra/nashik
+europe/spain/andalucia/cortegana
+asia/india/rajasthan/alwar

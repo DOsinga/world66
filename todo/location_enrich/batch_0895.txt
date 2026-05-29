@@ -1,0 +1,5 @@
+asia/japan/honshu/hikone
+europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli
+northamerica/unitedstates/texas/sanantonio
+europe/unitedkingdom/scotland/skye/carbost
+europe/spain/andalucia/marbella

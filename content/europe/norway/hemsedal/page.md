@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-05-23'
 image: hemsedal.jpg
 image_license: CC BY 2.0
+image_attribution: Ferund on Flickr
 image_source: https://www.flickr.com/photos/66261544@N06/7170226339
 latitude: 60.86
 loc_type: city

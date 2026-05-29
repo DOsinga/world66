@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-05-29'
+image: killington.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Killington_Peak_View_Green_Mountains_Rutland_County_Vermont.jpg
+image_license: CC BY-SA 4.0
 latitude: 43.6743
 longitude: -72.7784
 title: Killington

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
 image: gasadalur.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(51256491640).jpg

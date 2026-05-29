@@ -8,6 +8,12 @@ score: 0.36
 title: Chone
 type: location
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Chone,_Ecuador
+image: chone.jpg
+image_source: https://commons.wikimedia.org/wiki/File:TOUR_SOLIDARIO_-_MANAB%C3%8D_082_(26994942215).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ministerio de Turismo Ecuador
 ---
 
 Chone is an agricultural city in the interior of Manabí, Ecuador's broad Pacific province, sitting in a valley where the Río Chone gathers tributaries from the coastal cordillera before widening toward the mangrove-edged estuary near Bahía de Caráquez. The city runs on cacao — this region has been producing it for centuries, and the arriba variety from the Manabí interior is among the most prized fine-flavor cacao in the world. Balsa wood, kapok, and cattle farming fill out the local economy, and the city has the matter-of-fact, working character of a place that produces things rather than sells experiences.

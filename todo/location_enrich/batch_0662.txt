@@ -1,5 +1,0 @@
-asia/taiwan/tainan
-asia/lebanon/jbeilbyblos
-asia/philippines/naga_city
-northamerica/unitedstates/florida/hobe_sound
-southamerica/ecuador/chone

@@ -1,19 +1,16 @@
 ---
-done:
-  location_cleanup: 2026-04-06
-  location_enrich: '2026-05-29'
-latitude: 50.411623
-loc_type: city
-longitude: 4.444528
-score: 0.33
 title: Charleroi
 type: location
+latitude: 50.411623
+longitude: 4.444528
+done:
+  location_cleanup: 2026-04-06
+score: 0.33
+loc_type: city
 ---
 
-Charleroi is the third largest city in Belgium, an industrial city in French-speaking Wallonia built on coal and steel. It is not like other Belgian cities — no medieval centre, no Grand-Place, no chocolate shops and lace boutiques. Harry Pearson, in his book *A Tall Man in a Low Land*, described it as looking "like a scene from a Martin Scorsese film — alas, not the Age of Innocence." That's a fair description, and for some visitors that's exactly why it's interesting.
+Charleroi is the third biggest city of Belgium, situated in Wallonia, the French-speaking part of Belgium.
 
-The city divides sharply between the Ville-Basse (lower town) around the railway station and the Ville-Haute (upper town) on the ridge above, connected by a metro system that was planned in the 1960s to be 48 kilometres long and was only partially built. The [Métro Léger](/europe/belgium/charleroi/metro_leger) is itself worth experiencing — some stations are decorated with artwork and Spirou comic murals, and the ghost of the unbuilt network adds a melancholy grandeur. The [Belfry](/europe/belgium/charleroi/belfry) in Digue Square is a UNESCO World Heritage Site and the best viewpoint in the lower town.
+Charleroi is not like any other Belgian city - no Grand Places, and its very hilly, lots of slopes in the town. The atmosphere feels different too, slightly scarier, more oppressive, but not altogether unfriendly. In Harry Pearsons book A Tall Man In A Low Land, he visits Charleroi and comments that it was "like a scene from a Martin Scorses film - alas, not the Age Of Innocence". It's a special place. As the gateway of the Ardennes it of course has a lot more to offer besides this huge event. It has a lot of beautiful sights, shopping-streets, parks, many cultural activities and museums. Shopping is pretty good, there's Ville2, a shopping centre next to the stadium in the North town (Metro - Samaritains) which has a big cinema complex next to it, Carollywood, as well as restaurants and a big car park. There are lots of clothes shops on the steep Rue de la Montaigne, which leads up to the Place Charles II, where you'll find the Cathedral and the Town Hall, plus huge spouting fountains that come up from the ground. Nearby in Chatelineau there is a shopping centre called Caro, and in nearby Gilly there are also lots of shops (Gilly is at the end of the Métro), and a good theatre, Le Temps Choisis.
 
-Charleroi's two genuinely important cultural sites are the [Bois du Cazier](/europe/belgium/charleroi/bois_du_cazier) in Marcinelle — where 262 miners died in a 1956 fire that changed European labour law, now a UNESCO World Heritage Site with excellent industrial and glass museums — and the [Musée de la Photographie](/europe/belgium/charleroi/musee_de_la_photographie) in Mont-sur-Marchienne, one of the finest photography museums in Europe.
-
-The city is also the birthplace of the Marcinelle school of Franco-Belgian comics. Éditions Dupuis, publisher of Spirou magazine, Lucky Luke, and the Smurfs, has been based here since 1938. Lucky Luke statues and Spirou characters appear in parks and metro stations across the city.
+Charleroi is also the cradle of the Belgian comic strip in the " Marcinelle School " style as illustrated by " Dupuis Publishers ". Amongst others you will meet Spirou and Fantasio, the Marsupilami, Lucky Luke, Boule et Bill, the Daltons ... in the centre of the city or when you use the underground. In Parc Astrid is a remarkable Lucky Luke statue.

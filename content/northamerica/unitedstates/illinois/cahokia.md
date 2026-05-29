@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
+image: cahokia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Holy_Family_Log_Church_Cahokia_063.jpg
+image_license: CC BY-SA 3.0
 latitude: 38.5662
 longitude: -90.1794
 title: Cahokia

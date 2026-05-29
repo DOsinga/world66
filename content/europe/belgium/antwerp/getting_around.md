@@ -3,4 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-The train station, or the 'Railway Cathedral', is connected with the rest of the city by tram, bus and metro. Tickets can be bought in advance or at the spot. However, a 24-hours pass can only be bought at the Diamant Underground Station (open Mon.-Frid. 8am-12:30pm & 1:30am-4pm). The city centre is easily explored by foot. Most sights are between the Central Station and the Scheldt, with a high concentration of churches and cathedrals around the Grote Markt.
+The historic centre of Antwerp is small enough to walk end to end in twenty minutes. Most major sights — the Cathedral, Grote Markt, Plantin-Moretus, Rubenshuis, Vrijdagmarkt — are within this circle. **Walking** is the default.
+
+For longer trips — to Het Zuid, the MAS, the Diamond District, Zurenborg — **trams and the metro** (De Lijn) run frequently. The pre-metro system runs underground in the centre and emerges as surface trams in the outer districts. A single ride costs around €2.50; a day pass €7.50, both available at machines or the De Lijn shop.
+
+**Bikes** are the local mode of transport. The Velo bike-share system has stations across the city; a day pass is cheap. The cycle infrastructure is excellent. Pickpockets work the tourist routes — keep an eye on bags on busy trams.
+
+The **Sint-Anna pedestrian tunnel** under the Scheldt connects to Linkeroever with the original 1933 wooden escalators — worth doing at least once for the experience.

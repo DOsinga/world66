@@ -1,5 +1,0 @@
-europe/switzerland/hoch_ybrig
-northamerica/unitedstates/maine/bangor
-australiaandpacific/australia/queensland/magnetic_island
-africa/mauritania/zouerate
-asia/pakistan/azad_kashmir/pallandri

@@ -1,5 +1,0 @@
-northamerica/canada/ontario/muskoka/huntsville
-northamerica/mexico/rivieramaya/puerto_aventuras
-northamerica/unitedstates/utah/st_george
-europe/unitedkingdom/scotland/aberdeen
-northamerica/unitedstates/tennessee/knoxville

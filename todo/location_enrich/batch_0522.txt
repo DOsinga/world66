@@ -1,5 +1,0 @@
-asia/northkorea/myoyangsan
-asia/pakistan/darraadamkhel
-europe/italy/sicily/marsala
-northamerica/unitedstates/michigan/jackson
-southamerica/ecuador/calderon

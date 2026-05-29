@@ -1,5 +1,0 @@
-northamerica/unitedstates/ohio/cuyahoga_falls
-europe/france/normandybrittany/dieppe
-australiaandpacific/australia/queensland/cottontree
-northamerica/unitedstates/newhampshire/hampton_beach
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton

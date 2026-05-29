@@ -1,5 +1,0 @@
-asia/philippines/tarlac
-northamerica/unitedstates/pennsylvania/bucks_county/buckingham
-europe/france/aquitaine/larochelle
-africa/tanzania/bagamoyo
-africa/burkinafaso/banfora

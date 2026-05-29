@@ -1,5 +1,0 @@
-northamerica/unitedstates/nebraska/scottsbluff
-europe/greece/lesbos/mandamados
-europe/italy/calabria/gioia_tauro
-northamerica/canada/britishcolumbia/duncan
-africa/mali/segou

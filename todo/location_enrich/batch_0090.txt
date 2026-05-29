@@ -1,5 +1,0 @@
-southamerica/brazil/belohorizonte
-europe/croatia/dalmatia/klek
-europe/georgia/batumi
-asia/turkey/van
-northamerica/unitedstates/southcarolina/beaufort

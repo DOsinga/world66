@@ -1,5 +1,0 @@
-northamerica/greenland/qaqortoq
-asia/india/gujarat/modhera
-europe/italy/puglia/tremitiislands
-africa/somalia/mogadishu
-europe/france/alpes/valence

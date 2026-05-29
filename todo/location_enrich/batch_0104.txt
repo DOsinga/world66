@@ -1,5 +1,0 @@
-asia/turkey/dalyan
-europe/belgium/aalst
-europe/france/alpes/queyras
-northamerica/canada/ontario/petrolia
-europe/finland/anjalankoski

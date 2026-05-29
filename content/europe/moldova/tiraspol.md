@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
+image: tiraspol.jpg
+image_source: https://commons.wikimedia.org/wiki/File:19-01-18-Prednistrowien-RalfR-05.jpg
+image_license: GFDL 1.2
 latitude: 46.83711
 longitude: 29.610999
 title: Tiraspol

@@ -1,5 +1,0 @@
-southamerica/guyana/georgetown
-africa/somaliland/saylac_zeila
-africa/southafrica/amanzimtoti
-northamerica/canada/ontario/thunder_bay
-europe/unitedkingdom/scotland/orkney

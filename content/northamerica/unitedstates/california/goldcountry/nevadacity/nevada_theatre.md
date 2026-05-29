@@ -7,7 +7,9 @@ address: "401 Broad St, Nevada City, CA"
 latitude: 39.2631
 longitude: -121.0192
 tags:
-- story
+  - things_to_do
+  - sight
+  - arts
 story: "Mark Twain performed here in 1866, just one year after the theater opened. Jack London also appeared on the stage. When it closed in 1957, community donations brought it back to life — it reopened in 1968 and has been running ever since."
 ---
 

@@ -8,6 +8,10 @@ longitude: 45.671264
 score: 0.45
 title: Jermuk
 type: location
+image: jermuk.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Wajoc_Dzor,_D%C5%BCermuk,_Widok_z_mostu_nad_rzek%C4%85_Arpa_(06).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Marcin Konsek
 ---
 
 Jermuk is a mountain spa town at around 2,100 metres in Vayots Dzor province, known for its mineral springs. The branded Jermuk mineral water is sold across Armenia and the region. The town was developed during the Soviet era as a health resort, and the infrastructure retains some of that sanatorium character.

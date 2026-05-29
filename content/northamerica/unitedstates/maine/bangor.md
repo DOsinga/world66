@@ -8,6 +8,10 @@ longitude: -68.7713
 score: 0.4
 title: Bangor
 type: location
+image: bangor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Paul_Bunyan_statue_in_Bangor,_Maine.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Owlsmcgee
 ---
 
 Bangor was the 19th-century lumber capital of the world, and the town hasn't forgotten it — a 31-foot [Paul Bunyan statue](/northamerica/unitedstates/maine/bangor/paul_bunyan_statue) stands on Main Street, staking Maine's claim as the lumberjack's true birthplace (sorry, Minnesota). Today Bangor is the commercial center of northern Maine and the last sizable city before the wilderness begins.

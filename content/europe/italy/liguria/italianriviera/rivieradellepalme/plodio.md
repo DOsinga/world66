@@ -1,6 +1,10 @@
 ---
 done:
   location_enrich: '2026-05-29'
+image: plodio.jpg
+image_attribution: Davide Papalini
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_(Plodio).jpg
 latitude: 44.3512
 loc_type: city
 longitude: 8.2565

@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
+image: hanumangarh.jpg
+image_attribution: Harish Soni (User:Shemaroo)
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hanumangarh_Bhatner_fort.jpg
 latitude: 29.5819
 loc_type: city
 longitude: 74.3294

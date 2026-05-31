@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
+image: plaza_de_los_ponchos.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mercado_Otavalo.jpg
 latitude: 0.222764
+loc_type: city
 longitude: -78.245427
+score: 0.59
 title: Otavalo
 type: location
-score: 0.59
-loc_type: city
 ---
 
 Otavalo is one of the most visited towns in Ecuador, and for good reason. Situated in the Andes about two hours north of [Quito](/southamerica/ecuador/quito) by bus, it is home to the largest and most famous indigenous market in South America. The Saturday market — and a smaller daily one at the Plaza de los Ponchos — draws vendors and buyers from across the region selling textiles, weavings, jewelry, and crafts. Bargaining is expected and the quality is high.

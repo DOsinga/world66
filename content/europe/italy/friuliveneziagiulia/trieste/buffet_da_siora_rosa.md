@@ -6,8 +6,8 @@ latitude: 45.652841
 longitude: 13.771203
 snippet: Traditional Triestine buffet with boiled meats and local wine
 tags:
-- One Day in Trieste
 - eating_out
+- restaurant
 title: Buffet da Siora Rosa
 type: poi
 ---

@@ -8,6 +8,7 @@ phone: +(91)-(33)-22517031
 snippet: Smoky North Indian and Mughlai food cooked over charcoal
 tags:
 - eating_out
+- restaurant
 title: Sigree
 type: poi
 ---

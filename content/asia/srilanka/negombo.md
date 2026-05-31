@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-16'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-31'
 image: negombo.jpg
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Negombo_Beach_resort_pool_(Unsplash).jpg

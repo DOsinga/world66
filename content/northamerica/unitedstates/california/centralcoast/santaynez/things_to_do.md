@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Santa Barbara County WINE COUNTRY
-
-Taste world-class wine. 49+ wineries. Quiet country roads. Lush vineyards. Breathtaking mountain and valley vistas. Festivals: April, October. Free wine touring map, events calendar. Visit the Santa Barbara County Vintners' Association's web site. P.O. Box 1558 93460 805/688-0881 Fax: 805/686-5881 www.sbcountywines.com E-mail: info@sbcountywines.com Wheelchair Access
+Santa Ynez and its immediate valley offer a compact mix of wine tasting, history, and the outdoors. The valley's twenty-plus wineries — many reachable on a single afternoon loop — range from boutique operations to larger estates. [Solvang](/northamerica/unitedstates/california/centralcoast/solvang), the Danish-heritage town five miles west, adds its own character to any visit, and the [Chumash Casino Resort](/northamerica/unitedstates/california/centralcoast/santaynez/chumash_casino_resort) is one of the larger entertainment destinations on the Central Coast.

@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-31'
 image: noordpolderzijl.jpg
 image_attribution: Wutsje
 image_license: CC BY-SA 3.0
@@ -14,7 +15,7 @@ type: location
 loc_type: city
 ---
 
-Noordpolderzijl is the smallest sea harbour in the Netherlands — a place so small it barely registers on a map, and all the more remarkable for it. There is just a landing stage for a handful of boats, a pumping station, and a single building: an old cafe that doubles as the village itself.
+Noordpolderzijl is the smallest sea harbour in the Netherlands — a place so small it barely registers on a map, and all the more remarkable for it. There is just a landing stage for a handful of boats, a pumping station, and a single building: [*'t Zielhoes*](/europe/netherlands/noordpolderzijl/t_zielhoes) — an old café that doubles as the village itself.
 
 The harbour sits in the far north of the province of Groningen, in direct tidal connection with the Wadden Sea. Only shallow-draught vessels can enter at high tide. The name tells you exactly what it is: the *zijl* (sluice) of the *Noordpolder* — a low-lying stretch of reclaimed land protected by dikes, at the very edge of the Netherlands.
 

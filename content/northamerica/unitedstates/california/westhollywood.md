@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-31'
 image: westhollywood.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sunset_Tower,_8358_Sunset_Blvd._West_Hollywood_2383.jpg

@@ -1,10 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
+image: kiruna_church.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kiruna_kyrka_2011.jpg
 latitude: 67.8558
 loc_type: city
 longitude: 20.2253
 score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Kiruna
+- https://en.wikipedia.org/wiki/Kiruna_mine
+- https://en.wikipedia.org/wiki/Icehotel_(Jukkasj%C3%A4rvi)
+- https://en.wikipedia.org/wiki/Abisko_National_Park
 title: Kiruna
 type: location
 ---

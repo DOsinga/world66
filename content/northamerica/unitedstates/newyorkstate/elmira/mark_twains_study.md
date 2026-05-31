@@ -2,8 +2,8 @@
 title: "Mark Twain's Study"
 type: poi
 category: Sight
-latitude: 42.0870
-longitude: -76.8046
+latitude: 42.0979
+longitude: -76.8140
 address: "One Park Place, Elmira, NY 14901"
 tags:
 - things_to_do

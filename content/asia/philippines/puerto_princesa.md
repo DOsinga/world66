@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
 image: puerto_princesa.jpg
 image_license: CC-BY-SA-3.0
 image_source: https://en.wikipedia.org/wiki/File:Dos_Palmas_RP.JPG

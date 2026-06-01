@@ -8,7 +8,8 @@ phone: (404) 876-1800
 price: $7–$15
 snippet: Atlanta institution since 1945 serving classic Southern soul food
 tags:
-- eatingout
+- eating_out
+- restaurant
 title: Mary Mac's Tea Room
 type: poi
 ---

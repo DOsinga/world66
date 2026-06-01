@@ -1,0 +1,15 @@
+---
+latitude: 53.6273
+longitude: 11.4131
+snippet: Brick Gothic basilica with 117-metre spire and city views
+tags:
+  - things_to_do
+  - sight
+  - architecture
+title: Schwerin Cathedral
+type: poi
+sources:
+  - https://en.wikipedia.org/wiki/Schwerin_Cathedral
+---
+
+This imposing three-naved red-brick Gothic basilica dates from the fourteenth century and is one of the finest examples of Brick Gothic architecture in northern Germany. The 117-metre spire was added in the 1890s and its lookout platform offers the best panoramic views in the city, taking in the castle, the lakes, and the surrounding countryside on a clear day. The interior has a striking medieval triumphal cross and a beautiful bronze baptismal font from 1325. Climb the tower — it is not heavily visited and the view from the top is worth every step.

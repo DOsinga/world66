@@ -1,0 +1,20 @@
+---
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-28'
+image: ovalau.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:St_johns_ovalau.jpg
+latitude: -17.683982
+loc_type: city
+longitude: 178.788679
+score: 0.59
+title: Ovalau
+type: location
+---
+
+Ovalau is a volcanic island in the Koro Sea, part of the Lomaiviti Group in central Fiji. It is best known as the site of [Levuka](/australiaandpacific/fiji/ovalau/levuka), Fiji's first colonial capital and the country's oldest town. Levuka was the centre of European activity in Fiji before the capital was moved to Suva in 1882, and it retains a remarkable collection of 19th-century wooden buildings along its main street — enough to earn UNESCO World Heritage status in 2013.
+
+In town, the [Sacred Heart Church](/australiaandpacific/fiji/ovalau/sacred_heart_church) is the oldest in Fiji, and the [Royal Hotel](/australiaandpacific/fiji/ovalau/royal_hotel) at the north end of Beach Street is a wood-and-veranda classic of Pacific colonial architecture. A guided walk inland to [Lovoni Village](/australiaandpacific/fiji/ovalau/lovoni_village) — inside the dormant volcanic crater — is the best half-day trip from town.
+
+The island itself is rugged, with steep volcanic peaks rising quickly from the coast. The [reef diving](/australiaandpacific/fiji/ovalau/levuka_diving) around Ovalau is excellent and largely uncrowded. Getting there from Suva takes about two hours by ferry or a short flight from Nausori Airport.

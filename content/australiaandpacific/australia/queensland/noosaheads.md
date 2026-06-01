@@ -1,0 +1,20 @@
+---
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-28'
+image: noosaheads.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Noosa_Main_Beach_from_boardwalk.jpg
+latitude: -26.40014
+loc_type: city
+longitude: 153.091049
+score: 0.66
+title: Noosa Heads
+type: location
+---
+
+Noosa Heads is one of the most popular beach destinations on [Queensland](/australiaandpacific/australia/queensland)'s Sunshine Coast, about 90 minutes north of [Brisbane](/australiaandpacific/australia/queensland/brisbane). Unlike the high-rise sprawl of the Gold Coast, Noosa has kept its development low-rise by local ordinance, and the town sits comfortably among subtropical vegetation with a distinctly relaxed feel. It is expensive, fashionable, and genuinely beautiful.
+
+The [main beach](/australiaandpacific/australia/queensland/noosaheads/main_beach) curves along a north-facing bay that is sheltered from the prevailing swell, making it one of the safest swimming beaches in Queensland. [Hastings Street](/australiaandpacific/australia/queensland/noosaheads/hastings_street), the short strip of restaurants, boutiques, and cafes that runs parallel to the beach, is where most of the action is. At the eastern end, the [Noosa National Park](/australiaandpacific/australia/queensland/noosaheads/noosa_national_park) begins immediately — a rare thing for a resort town — with well-marked walking trails through coastal bush to secluded bays like [Tea Tree Bay](/australiaandpacific/australia/queensland/noosaheads/tea_tree_bay) and [Granite Bay](/australiaandpacific/australia/queensland/noosaheads/granite_bay), where you might spot koalas in the trees overhead.
+
+Surfing is excellent at the national park's headland breaks, which produce long, clean right-handers at [First Point](/australiaandpacific/australia/queensland/noosaheads/first_point) that are perfect for longboarding. The [Noosa Everglades](/australiaandpacific/australia/queensland/noosaheads/noosa_everglades), accessible by kayak or guided tour from nearby Tewantin, are a pristine waterway through paperbark forest that feels a world away from the beach scene. For food, Hastings Street has upscale dining, but the better-value spots are along the river at Noosaville, a short drive or bus ride away.

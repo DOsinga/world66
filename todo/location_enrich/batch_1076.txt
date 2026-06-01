@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/south_east/croydon
-northamerica/unitedstates/newhampshire/warren
-europe/romania/baiamare
-northamerica/unitedstates/california/highsierra/bridgeport
-asia/qatar/zubara

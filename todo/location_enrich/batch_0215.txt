@@ -1,5 +1,0 @@
-southamerica/argentina/riogallegos
-europe/spain/spanishcostas/valencia
-northamerica/thecaribbean/caymanislands/grandcayman/george_town
-europe/spain/catalonia/sant_feliu_de_guixols
-europe/norway/lofotenislands/vagan

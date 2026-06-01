@@ -1,5 +1,0 @@
-asia/india/orissa/jajpur
-northamerica/unitedstates/colorado/denver
-europe/armenia/talin
-europe/sweden/sundsvall
-australiaandpacific/fiji/ovalau

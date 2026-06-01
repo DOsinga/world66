@@ -1,5 +1,0 @@
-africa/mauritania/ouadane
-northamerica/mexico/morelos
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop
-asia/indonesia/java/jakarta
-northamerica/unitedstates/maine/augusta

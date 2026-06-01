@@ -1,0 +1,18 @@
+---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 48.4125
+longitude: -89.2013
+snippet: Bronze statue where the Marathon of Hope ended
+tags:
+- things_to_do
+- landmark
+- sight
+title: Terry Fox Memorial
+type: poi
+story: "Terry Fox ran his Marathon of Hope for 143 days, covering 5,373 kilometres across Canada on one prosthetic leg. The annual Terry Fox Run, held every September, is now the world's largest single-day fundraiser for cancer research, with events in more than 25 countries."
+---
+
+At the eastern edge of the city, on the Trans-Canada Highway where it meets Lake Superior, stands a bronze statue of Terry Fox mid-stride — the posture of a man running on one leg with his characteristic uneven gait. This is the spot where Fox was forced to stop his Marathon of Hope on 1 September 1980, after 143 days and 5,373 kilometres, when his cancer had spread to his lungs. He died the following June.
+
+The memorial is understated and effective. Lake Superior stretches behind it, and on a clear day the Sleeping Giant is visible in the distance. Worth stopping even if you're just passing through.

@@ -1,5 +1,0 @@
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool
-southamerica/falklandislands/stanley
-europe/spain/andalucia/nerja
-northamerica/unitedstates/california/livermore
-africa/congokinshasa/kisangani

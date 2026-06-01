@@ -1,5 +1,0 @@
-northamerica/unitedstates/georgia/savannah
-africa/algeria/skikda
-northamerica/nicaragua/masachapa
-northamerica/canada/ontario/capecrokerfirst
-europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla

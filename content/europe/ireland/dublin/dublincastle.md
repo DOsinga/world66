@@ -1,11 +1,18 @@
 ---
 address: Dame Street, Dublin 2
-category: Sight
+admission: "Great Courtyard: free. State Apartments & Undercroft: €12 adults"
 latitude: 53.342662
 longitude: -6.267004
+opening_hours: Mon–Sat 09:45–17:45, Sun 12:00–17:45
+phone: +353 1 645 8813
+snippet: Former seat of British rule in Ireland for seven centuries
+tags:
+- things_to_do
+- sight
+- architecture
 title: Dublin Castle
 type: poi
-snippet: "Former seat of British rule in Ireland, now open for tours"
+url: https://www.dublincastle.ie
 ---
 
 Dublin Castle has been the centre of power in Ireland since the Normans built a fortification here in the early 13th century. The site was already significant before that — a Viking stronghold stood here, and traces of it are visible in the Undercroft below the modern courtyard. The city's name derives from *Dubh Linn*, the "Black Pool" of the River Poddle, which once ran through what is now the Castle Garden.

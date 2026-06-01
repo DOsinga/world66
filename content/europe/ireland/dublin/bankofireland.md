@@ -8,6 +8,7 @@ snippet: Former Irish Parliament now housing a grand banking hall
 tags:
 - things_to_do
 - sight
+- architecture
 title: Bank of Ireland
 type: poi
 ---

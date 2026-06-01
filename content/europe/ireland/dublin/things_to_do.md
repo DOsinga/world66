@@ -3,8 +3,12 @@ title: "Things to Do"
 type: section
 ---
 
-Dublin's must-sees are compact and walkable. **Trinity College** and the Book of Kells, **Dublin Castle**, **St Patrick's Cathedral**, and **Kilmainham Gaol** are the historical core. The **National Museum** (archaeology) and the **National Gallery** are both free and excellent. On the south side, **St Stephen's Green** and Merrion Square give you the Georgian Dublin townhouse squares that the city is famous for.
+Dublin's sights are compact and mostly walkable from the city centre. The historical core — **Trinity College**, **Dublin Castle**, **Christ Church Cathedral**, **St Patrick's Cathedral**, and **Kilmainham Gaol** — can be covered in two full days. The **National Museum of Ireland** (archaeology) and the **National Gallery** are both free and excellent; together they make an easy half-day.
 
-Literary pilgrims will find plenty to do: the **James Joyce Centre** in the north inner city, the **Joyce Tower** at Sandycove, **Sweny's Pharmacy** (where Bloom buys lemon soap in *Ulysses*, still selling it), and the **Dublin Writers Museum**.
+The **Guinness Storehouse** at St James's Gate is the most popular paid attraction in Ireland — the self-guided tour ends with a pint in the glass-walled Gravity Bar with views over the city. **Phoenix Park**, a few minutes further west by bus, is one of the largest enclosed city parks in Europe, with a wild deer herd roaming freely.
 
-For something different, the **Guinness Storehouse** at St James's Gate is the most popular paid attraction in Ireland — a self-guided tour of the brewery ending with a pint on the 7th floor Gravity Bar. The **Irish Museum of Modern Art** and the **Powerscourt Estate** (an hour south of the city) are worth the detour for art and gardens respectively.
+For Georgian Dublin, the squares south of the centre — **Merrion Square** and Fitzwilliam Square — are among the finest streets of 18th-century architecture in Europe. **Merrion Square** also has the National Gallery and the Oscar Wilde statue.
+
+Literary pilgrims have their own circuit: the **James Joyce Centre**, **Sweny's Pharmacy**, **Davy Byrne's** pub, and the **Joyce Tower** at Sandycove (30 minutes on the DART).
+
+The **Temple Bar** district is tourist-heavy but worth a visit for the food market on Meeting House Square (Saturdays), the Irish Film Institute, and the traditional music sessions in its better pubs.

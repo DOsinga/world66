@@ -4,8 +4,8 @@ longitude: 7.85794
 snippet: Medieval gate tower on the edge of the old town
 tags:
 - things_to_do
-- landmark
-title: Schwaben Tor
+- sight
+title: Schwabentor
 type: poi
 ---
 

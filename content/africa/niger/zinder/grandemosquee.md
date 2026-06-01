@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+- birninquarter
 title: Grande Mosquee
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-31'
 image: helsingborg.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Inre_hamnen_i_Helsingborg.jpg
@@ -8,6 +9,11 @@ latitude: 56.0442
 loc_type: city
 longitude: 12.7037
 score: 0.53
+sources:
+- https://en.wikipedia.org/wiki/Helsingborg
+- https://en.wikipedia.org/wiki/K%C3%A4rnan
+- https://en.wikipedia.org/wiki/Sofiero_Palace
+- https://en.wikipedia.org/wiki/Dunker_Culture_House
 title: Helsingborg
 type: location
 ---

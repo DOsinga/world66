@@ -3,7 +3,8 @@ latitude: 47.99510
 longitude: 7.85210
 snippet: Freiburg's cathedral square with a daily farmers market
 tags:
-- sights
+- things_to_do
+- sight
 title: Münsterplatz
 type: poi
 ---

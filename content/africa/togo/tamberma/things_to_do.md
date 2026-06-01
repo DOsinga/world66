@@ -1,16 +1,6 @@
 ---
-title: Things to do
-type: poi
+title: "Things to Do"
+type: section
 ---
 
-**Contributors**
-February 02, 2008
-
-### [Visit Tamberma Castles](/africa/togo/tamberma/things_to_do/visit_tamberma_cas)
-
-While driving through the Tamberma region, you come along the strangest buildings. They look like castles with turrets on all four corners, but are made of mud. They are the houses of the Tamberma people, and have been built this way so they could resist the slave hunters a long time ago. The four turrets are not really turrets but enormous storage tanks. The whole family lives there, and voodoo is still very alive.
-
-Some families will show you around in exchange for food and drinks.
-You will probably need to hire somebody to take you there, as they are still [more..](/africa/togo/tamberma/things_to_do/visit_tamberma_cas)
-
-type: Other
+The whole reason to come to Tamberma is the takienta — the unique two-storey mud-and-thatch tower-houses of the Batammariba people, scattered across the Koutammakou cultural landscape. A guided village tour is the central experience; from a base in Kande or Nadoba you can also visit smaller hamlets, see the local markets, and walk through the millet fields.

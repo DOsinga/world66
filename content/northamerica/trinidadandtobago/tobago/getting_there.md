@@ -1,8 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-We currently have no Getting There listed in Tobago.
+Tobago is served by ANR Robinson International Airport (TAB) at Crown Point, receiving direct flights from the UK (British Airways, Virgin), the USA, Canada, and the Caribbean. From Trinidad, there are frequent flights (around 20 minutes) and a ferry service from Port of Spain.
 
-If you do know any Getting There in Tobago, please [Add].
+The ferry between Port of Spain and Scarborough takes around 2.5 hours and runs multiple times daily. It's significantly cheaper than flying and comfortable enough, though it can be rough in bad weather. Advance booking is recommended for weekends and public holidays when Trinidadians travel to the island in large numbers.

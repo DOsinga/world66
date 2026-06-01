@@ -1,10 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-31'
 latitude: 27.6206
 loc_type: city
 longitude: 85.5561
 score: 0.57
+sources:
+- https://en.wikipedia.org/wiki/Dhulikhel
 title: Dhulikhel
 type: location
 ---

@@ -7,6 +7,7 @@ longitude: 6.1349
 phone: +41 (0)22 342 94 28
 snippet: Long-running Geneva nightclub with mixed music nights
 tags:
+- bars_and_cafes
 - nightlife
 title: Moulin à Danses
 type: poi

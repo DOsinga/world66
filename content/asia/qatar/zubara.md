@@ -1,10 +1,18 @@
 ---
-title: Zubarah
-type: location
+done:
+  location_enrich: '2026-05-31'
+image: al_zubarah_fort.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Al_Zubara_Fort.jpg
 latitude: 25.976956
+loc_type: city
 longitude: 51.045388
 score: 0.4
-loc_type: city
+sources:
+- https://en.wikipedia.org/wiki/Al_Zubarah
+- https://whc.unesco.org/en/list/1433
+title: Zubarah
+type: location
 ---
 
 Zubarah (also spelled Zubara or Al Zubarah) sits on the northwest coast of Qatar, about 90 km from Doha. The fort you visit was built in 1938 as a police border post, but it stands next to the ruins of a much older and more significant settlement — a major 18th-century pearling and trading town that was sacked and abandoned in 1811.

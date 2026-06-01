@@ -1,5 +1,0 @@
-northamerica/unitedstates/arizona/phoenix
-europe/finland/espoo
-southamerica/peru/arequipa
-europe/italy/sardinia/alghero
-southamerica/peru/colca_canyon/cabanaconde

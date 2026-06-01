@@ -6,6 +6,7 @@ longitude: 8.992
 snippet: Old quarter with fine traditional Hausa architecture
 tags:
 - things_to_do
+- neighbourhood
 title: Birnin Quarter
 type: neighbourhood
 ---

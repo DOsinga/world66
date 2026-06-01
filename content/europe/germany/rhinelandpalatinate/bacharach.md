@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-31'
 image: bacharach.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Bacharach_from_the_Postenturm.jpg
@@ -8,6 +9,9 @@ latitude: 50.059794
 loc_type: city
 longitude: 7.7684
 score: 0.61
+sources:
+- https://en.wikipedia.org/wiki/Bacharach
+- https://en.wikipedia.org/wiki/Stahleck_Castle
 title: Bacharach
 type: location
 ---

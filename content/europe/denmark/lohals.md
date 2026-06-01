@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-29'
 latitude: 55.134869
+loc_type: city
 longitude: 10.905283
+score: 0.43
 title: Lohals
 type: location
-score: 0.43
-loc_type: city
 ---
 
 Lohals is a small harbour village at the northern tip of the island of Langeland in southern Denmark. It is the point from which ferries cross the Langelandsbælt strait to Spodsbjerg on Funen, making it a transit point for travellers as well as a destination in its own right.

@@ -7,6 +7,7 @@ longitude: 6.142354
 phone: +41 (0)22 343 49 98
 snippet: Small arty bar in Carouge, sometimes live music downstairs
 tags:
+- bars_and_cafes
 - things_to_do
 - bar
 title: Le Chat Noir

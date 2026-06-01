@@ -1,8 +1,14 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-Main shopping area is on the rive gauche, where rue du Rhone and Rue du Marche run parallel to the river. Many big warehouses in the main street and expensive jewellery shops in the side streets.
+Shopping in Geneva is famously expensive. The main shopping streets are on the **left bank** between the lake and the cathedral — **Rue du Rhône** has the international luxury brands and Swiss watch shops, **Rue du Marché** and **Rue de la Confédération** the slightly less elevated chains. The big department store is **Globus**, opposite the Bel-Air bridge.
 
-In the old town you will find antique and art shops but Geneva is not the place to go bargain hunting.
+For watches, Geneva is the world's most concentrated single market for high-end Swiss horology. Patek Philippe, Vacheron Constantin, Rolex and Audemars Piguet all have headquarters here, and the boutiques along Rue du Rhône stock their full ranges. The Patek Philippe Museum on Rue des Vieux-Grenadiers is the best place to understand what you'd be paying for.
+
+In the **old town**, narrow streets around Grand-Rue have antique dealers, art galleries and specialist bookshops — Geneva is not the place to bargain hunt but if you are after a rare 18th-century print or a piece of Genevan enamelwork, the quality is high.
+
+For everyday food shopping, the **Plainpalais market** (Tuesday, Friday and Sunday mornings) is the largest open-air market, with produce, cheese, charcuterie and flowers. The **Carouge market** on Wednesday and Saturday mornings has a more local feel.
+
+The Coop and Migros supermarkets are the cheapest places to buy chocolate, cheese and basic supplies to take home.

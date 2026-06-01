@@ -1,22 +1,29 @@
 ---
-title: Kondoa
-type: location
-latitude: -4.643114
-longitude: 35.95904
 done:
   location_cleanup: 2026-04-07
-score: 0.38
+  location_enrich: '2026-05-28'
+latitude: -4.643114
 loc_type: city
+longitude: 35.95904
+score: 0.38
+sources:
+- https://en.wikipedia.org/wiki/Kondoa_Mjini
+- https://whc.unesco.org/en/list/1183
+- https://en.wikipedia.org/wiki/Battle_of_Kondoa_Irangi
+title: Kondoa
+type: location
+image: kondoa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kondoa_Irangi_Rock_Paintings_(51506922307).jpg
+image_license: CC BY 2.0
+image_attribution: Nina R from Africa
 ---
 
-Kondoa (or Kondoa-Irangi) is a small town along the old caravan route from the Indian Ocean to Lake Tanganyika. A still existing artesic water source here provided the caravans with good and plenty of water. Today the main communication route is north-south, from Arusha to Dodoma, a road that looks impressive on the map, being a section of the old Cape-Cairo highway. In reality the road is in poor condition and difficult during rains. It is supposed to become asphalted before the end of 2006.
+Kondoa (or Kondoa-Irangi) is a small, quiet town on Tanzania’s Central Plateau, strung along the old caravan route between the Indian Ocean and Lake Tanganyika. Most travellers pass through on the long road between Arusha and Dodoma without stopping. They are missing something. Thirty kilometres north of town, in the granite overhangs of the Irangi Hills, lies one of the most remarkable concentrations of prehistoric rock art in Africa — a UNESCO World Heritage Site that most visitors to Tanzania have never heard of.
 
-A 3 km long road from the main road leads westwards into town crossing the Kondoa River on a narrow bridge. (Don’t take photographs of the bridge, as you are likely to be seen from the police station close by.) The town consists of dusty streets and low buildings, only few being two-storeyed. Polite children will greet the European visitor “Good morning, teacher!” any time of the day. There is nothing special to see, but the friendly tranquility that the visitor is met with among its predominantly Moslem inhabitants makes it worth while to stay there a day or two. The spiced coffee served in a kiosk at the bus stand can be recommended. Ten or fifteen years ago it was a rare event to come across a bottle of beer in town, but times are changing. Today there are several bars and simple restaurants, some of them quite nice.
+The town itself is low-built and dusty, predominantly Muslim, and entirely unhurried. A 3 km road leads west from the main highway, crossing the Kondoa River on a narrow bridge — don’t photograph the bridge, as the police station has a clear view of it. Children greet foreigners with “Good morning, teacher!” at any hour. The [artesian spring](/africa/tanzania/kondoa/kondoa_artesian_spring) that made this a crucial watering point for nineteenth-century caravans still flows somewhere in the town centre. The [German colonial buildings](/africa/tanzania/kondoa/german_colonial_buildings) east of the bridge — including the substantial post office — now house district government offices.
 
-Remnant buildings from the German time can be seen east of the bridge, now used by the district administration. The post office, the most impressive building in town, is in the same area. A bank office can also be found there, and with some luck and plenty of time it may be possible to change money. The earlier extremely erratic electric power supply has improved dramatically with the connection of Kondoa to the national grid. The telephone exchange is still manual (unless recently changed).
+The Irangi Hills surrounding the town are home to the [Sandawe people](/africa/tanzania/kondoa/sandawe_cultural_heritage), one of the last click-language-speaking communities in East Africa, with linguistic ties to the San of the Kalahari that stretch back tens of thousands of years. It was their ancestors who painted the thousands of images — animals, human figures, and ceremonial scenes — that cover the rock shelters near [Kolo](/africa/tanzania/kondoa/kolo_rock_art). Permits and a compulsory guide are arranged at the Department of Antiquities office in Kolo village.
 
-The town is the economic centre in the Irangi Hills, which has a blend of several ethnic groups. The dominant group today is the Irangi agriculturalists. Of particular interest is the Sandawe, a remnant of the ancient San (bushman) peoples that are today mainly found in the Kalahari. Sandawe artists have produced many rock paintings, the oldest believed to be 20-30 000 years old. Some of these are shown to visitors. To see them one has first to travel northwards about 30 km (i.e. 40-60 minutes, depending on weather) along the main road to the village of Kolo. There the representative of the Department of Antiquities has to be approached to get a permit and a guide, both of which are compulsory.
+The hills are also notable for dramatic, unsettling scenery: the [Irangi Hills badlands](/africa/tanzania/kondoa/irangi_hills_badlands) near Haubi, accessible by four-wheel drive via the Gubali turn-off, show what decades of accelerated erosion have done to overgrazed hillsides. The ravines are deep enough and strange enough to constitute a real spectacle. The Haubi Catholic mission provides a reliable landmark and a welcome rest stop.
 
-The Irangi Hills are also infamous for their severe soil erosion. Some badlands can be seen from the main road. An area with gullies huge enough to be considered a tourist attraction can be seen at the village Haubi. To reach there, turn east at the village Gubali onto a road only negotiable with a Landrover or similar. If you get stuck, ask for help from the fathers at the Haubi catholic mission.
-
-Moslem visitors will feel at home in Kondoa. A big new mosque was erected some years ago. Christian congregations mainly consist of immigrants and government officials. At Haubi there is an impressive Catholic establishment.
+In April 1916, the town was briefly the pivot of the East African Campaign, when General Jan Smuts’s South African forces captured it and were then pinned down for weeks by German Schutztruppe firing from the escarpment above. The [Battle of Kondoa Irangi](/africa/tanzania/kondoa/battle_of_kondoa_irangi_site) is local legend; the ridgeline above the [central market](/africa/tanzania/kondoa/central_market) is where the German guns were positioned. Kondoa repays a day or two of slow attention.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-29'
 image: sanblasislands.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:San_Blas_Islands.jpg
@@ -16,6 +17,6 @@ The San Blas Islands — **Guna Yala** in the language of the indigenous people 
 
 For travellers the appeal is obvious: white sand, coconut palms leaning over turquoise water, a fringing coral reef, and the kind of Caribbean island fantasy that is almost impossible to find elsewhere without a lot of other people in the frame. Guna villages are clustered on a handful of the larger islands; the rest are empty or have a single family and a few hammocks for rent. Visitors can spend nights in basic thatched huts on the reef islands, eat fresh lobster and coconut rice cooked by the family that owns the island, and spend the days swimming and sailing between the atolls.
 
-The Guna women are famously skilled at making **molas** — the brightly coloured appliquéd fabric panels that are worn on blouses and sold to visitors as the main craft of the islands. Every woman who offers to let you photograph her will expect a dollar in return; this is the standard rate and should be paid without argument.
+The Guna women are famously skilled at making [molas](/northamerica/panama/sanblasislands/molas) — the brightly coloured appliquéd fabric panels that are worn on blouses and sold to visitors as the main craft of the islands. Every woman who offers to let you photograph her will expect a dollar in return; this is the standard rate and should be paid without argument.
 
-**Getting there** is part of the experience. The easiest route is by 4x4 from Panama City (about 2.5 hours on a rough road to Cartí) and then a small boat out to the islands. Alternatively — and memorably — a handful of sailboats make the four- to five-day passage between Cartagena in Colombia and Panama via the San Blas, stopping for two or three days among the islands along the way. There are no airports of any note and no hotels in the conventional sense. Access is controlled by the Guna congress, and there is a small entry fee at the border.
+[Getting there](/northamerica/panama/sanblasislands/getting_there) is part of the experience. The easiest route is by 4x4 from Panama City (about 2.5 hours on a rough road to Cartí) and then a small boat out to the islands. Alternatively — and memorably — a handful of sailboats make the four- to five-day passage between Cartagena in Colombia and Panama via the San Blas, stopping for two or three days among the islands along the way. [Cayos Holandeses](/northamerica/panama/sanblasislands/cayos_holandeses) in the northwest and [Cayos Limones](/northamerica/panama/sanblasislands/cayos_limones) are among the finest anchorages in the archipelago. Access is controlled by the Guna congress, and there is a small entry fee at the border.

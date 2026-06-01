@@ -1,0 +1,200 @@
+{
+  "round": 1301,
+  "timestamp": "2026-04-12T22:20:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_rank": 3297,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_rank": 1992,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_rank": 4257,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_rank": 1419,
+      "prior_wins": 76,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Campo de Criptana",
+      "path": "europe/spain/la_mancha/campo_de_criptana_1",
+      "prior_rank": 2861,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_rank": 3248,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_rank": 2930,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_rank": 1807,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_rank": 1170,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty",
+      "prior_rank": 1135,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_rank": 1527,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_rank": 1459,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_rank": 1841,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_rank": 1320,
+      "prior_wins": 93,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_rank": 2125,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/manitousprings",
+      "prior_rank": 1528,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_rank": 2595,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_rank": 6649,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_rank": 3296,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_rank": 2259,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_rank": 2515,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_rank": 4771,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_rank": 3839,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_rank": 4110,
+      "prior_wins": 34,
+      "prior_n": 3
+    }
+  ]
+}

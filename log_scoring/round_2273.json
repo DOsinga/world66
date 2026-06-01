@@ -1,0 +1,200 @@
+{
+  "round": 2273,
+  "timestamp": "2026-04-13T16:26:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ebisu",
+      "path": "asia/japan/tokyo/ebisu",
+      "prior_score": 3.4506,
+      "prior_variance": 0.357589,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Encinitas",
+      "path": "northamerica/unitedstates/california/encinitas",
+      "prior_score": 0.4583,
+      "prior_variance": 0.272606,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 3.2933,
+      "prior_variance": 0.216214,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.3248,
+      "prior_variance": 0.292026,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 2.5388,
+      "prior_variance": 0.242787,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 1.0766,
+      "prior_variance": 0.20073,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
+      "prior_score": 0.6378,
+      "prior_variance": 0.24696,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": 0.0372,
+      "prior_variance": 0.335425,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rakesh",
+      "path": "asia/india/uttaranchal/hemkunt/rakesh",
+      "prior_score": -4.5331,
+      "prior_variance": 0.322556,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 1.6519,
+      "prior_variance": 0.210769,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_score": 1.516,
+      "prior_variance": 0.182076,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.3447,
+      "prior_variance": 0.198359,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_score": -2.641,
+      "prior_variance": 0.273338,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -1.6557,
+      "prior_variance": 0.291815,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": 0.0505,
+      "prior_variance": 0.223203,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -1.7659,
+      "prior_variance": 0.160164,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.5524,
+      "prior_variance": 0.242945,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.1138,
+      "prior_variance": 0.210202,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 1.7352,
+      "prior_variance": 0.222581,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_score": -3.3644,
+      "prior_variance": 0.248121,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -3.8339,
+      "prior_variance": 0.283841,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.8423,
+      "prior_variance": 0.209398,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -4.5772,
+      "prior_variance": 0.229841,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ingal",
+      "path": "africa/niger/ingal",
+      "prior_score": -7.6424,
+      "prior_variance": 0.443297,
+      "prior_n": 5
+    }
+  ]
+}

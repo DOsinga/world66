@@ -1,0 +1,96 @@
+{
+  "round": 596,
+  "timestamp": "2026-04-12T10:39:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 11,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_mu": 21.9378,
+      "prior_sigma": 4.839,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_mu": 21.3172,
+      "prior_sigma": 3.8257,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_mu": 21.2682,
+      "prior_sigma": 3.1785,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_mu": 22.6347,
+      "prior_sigma": 5.9425,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_mu": 22.448,
+      "prior_sigma": 5.5661,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Somba villages",
+      "path": "africa/benin/sombavillages",
+      "prior_mu": 22.4951,
+      "prior_sigma": 5.8799,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_mu": 20.2396,
+      "prior_sigma": 3.7017,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_mu": 22.4336,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 142,
+  "timestamp": "2026-04-12T08:45:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Emilia-Romagna",
+      "path": "europe/italy/emiliaromagna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hampton",
+      "path": "northamerica/unitedstates/virginia/hampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

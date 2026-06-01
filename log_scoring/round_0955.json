@@ -1,0 +1,200 @@
+{
+  "round": 955,
+  "timestamp": "2026-04-12T16:09:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_rank": 160,
+      "prior_wins": 119,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_rank": 1135,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_rank": 1945,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_rank": 662,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_rank": 5422,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_rank": 2589,
+      "prior_wins": 76,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_rank": 5325,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_rank": 4675,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_rank": 4925,
+      "prior_wins": 47,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_rank": 4193,
+      "prior_wins": 49,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_rank": 3113,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Limburg",
+      "path": "europe/germany/hesse/limburg",
+      "prior_rank": 4755,
+      "prior_wins": 53,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_rank": 6091,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_rank": 4586,
+      "prior_wins": 51,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_rank": 5848,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_rank": 5358,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_rank": 4490,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_rank": 7775,
+      "prior_wins": 14,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_rank": 7043,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_rank": 5791,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_rank": 6877,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_rank": 7802,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_rank": 8201,
+      "prior_wins": 5,
+      "prior_n": 4
+    }
+  ]
+}

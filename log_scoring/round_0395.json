@@ -1,0 +1,200 @@
+{
+  "round": 395,
+  "timestamp": "2026-04-12T09:29:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_mu": 22.1819,
+      "prior_sigma": 4.8527,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_mu": 21.6756,
+      "prior_sigma": 4.7364,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Kizhi",
+      "path": "europe/russia/kizhi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_mu": 22.4771,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_mu": 22.332,
+      "prior_sigma": 5.5483,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Viipuri",
+      "path": "europe/russia/viipuri",
+      "prior_mu": 22.1547,
+      "prior_sigma": 5.7676,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_mu": 21.8341,
+      "prior_sigma": 4.6334,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_mu": 22.5256,
+      "prior_sigma": 5.9134,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_mu": 19.9698,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_mu": 22.6911,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_mu": 18.488,
+      "prior_sigma": 3.1978,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1570,
+  "timestamp": "2026-04-13T10:32:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/nationalparks/cur_national_par",
+      "prior_score": 3.456,
+      "prior_variance": 0.538972,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 2.0596,
+      "prior_variance": 0.329484,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 1.6526,
+      "prior_variance": 0.438454,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.4917,
+      "prior_variance": 0.448411,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_score": 3.2396,
+      "prior_variance": 0.32698,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_score": 2.8195,
+      "prior_variance": 0.327488,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_score": 1.9373,
+      "prior_variance": 0.38624,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -3.0377,
+      "prior_variance": 0.433528,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.6412,
+      "prior_variance": 0.384482,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.4897,
+      "prior_variance": 0.466566,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -2.9308,
+      "prior_variance": 0.289327,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -3.2327,
+      "prior_variance": 0.242715,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Trescore",
+      "path": "europe/italy/lombardia/trescore",
+      "prior_score": -4.5173,
+      "prior_variance": 0.536789,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Venezuela",
+      "path": "southamerica/venezuela",
+      "prior_score": -6.7754,
+      "prior_variance": 0.797865,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -4.7052,
+      "prior_variance": 0.441651,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_score": -4.737,
+      "prior_variance": 0.456634,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_score": -3.8229,
+      "prior_variance": 0.508816,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -0.1278,
+      "prior_variance": 0.370958,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -4.2135,
+      "prior_variance": 0.414982,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Illinois",
+      "path": "northamerica/unitedstates/illinois",
+      "prior_score": -6.316,
+      "prior_variance": 0.78625,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_score": -3.0479,
+      "prior_variance": 0.200799,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -3.3174,
+      "prior_variance": 0.422685,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.7324,
+      "prior_variance": 0.398822,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ploiesti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -5.1187,
+      "prior_variance": 0.382831,
+      "prior_n": 5
+    }
+  ]
+}

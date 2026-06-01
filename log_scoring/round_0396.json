@@ -1,0 +1,200 @@
+{
+  "round": 396,
+  "timestamp": "2026-04-12T09:29:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_mu": 21.8975,
+      "prior_sigma": 4.8332,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_mu": 22.0358,
+      "prior_sigma": 4.6982,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_mu": 21.552,
+      "prior_sigma": 4.0668,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_mu": 22.7089,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_mu": 21.4322,
+      "prior_sigma": 4.6523,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_mu": 22.8998,
+      "prior_sigma": 5.7256,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_mu": 22.4659,
+      "prior_sigma": 5.9053,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_mu": 22.6209,
+      "prior_sigma": 5.9361,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/losangeles/burbank",
+      "prior_mu": 21.5322,
+      "prior_sigma": 4.7156,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Century City",
+      "path": "northamerica/unitedstates/california/losangeles/centurycity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_mu": 22.545,
+      "prior_sigma": 5.4424,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_mu": 20.537,
+      "prior_sigma": 4.5687,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Caruthersville",
+      "path": "northamerica/unitedstates/missouri/caruthersville",
+      "prior_mu": 21.2,
+      "prior_sigma": 5.7591,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Harrison",
+      "path": "northamerica/unitedstates/ohio/harrison",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_mu": 22.5034,
+      "prior_sigma": 5.6657,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

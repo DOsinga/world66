@@ -1,0 +1,200 @@
+{
+  "round": 148,
+  "timestamp": "2026-04-12T08:45:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_mu": 22.7207,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Pagosa Springs",
+      "path": "northamerica/unitedstates/colorado/pagosa_springs",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 20.628,
+      "prior_sigma": 2.4414,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Victorias City",
+      "path": "asia/philippines/negrosisland/victorias_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Berberati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

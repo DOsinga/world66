@@ -1,0 +1,200 @@
+{
+  "round": 658,
+  "timestamp": "2026-04-12T10:41:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_mu": 21.6882,
+      "prior_sigma": 4.7248,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Valle d'Aosta",
+      "path": "europe/italy/valledaosta",
+      "prior_mu": 22.154,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_mu": 22.6668,
+      "prior_sigma": 5.7791,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/tellaro",
+      "prior_mu": 22.5391,
+      "prior_sigma": 5.5393,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_mu": 25.3505,
+      "prior_sigma": 6.1041,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_mu": 22.4778,
+      "prior_sigma": 5.7705,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/arenzano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_mu": 22.7251,
+      "prior_sigma": 5.9478,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_mu": 22.7807,
+      "prior_sigma": 5.3881,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_mu": 22.2854,
+      "prior_sigma": 5.4517,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_mu": 22.4177,
+      "prior_sigma": 5.7215,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_mu": 22.6154,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_mu": 22.6476,
+      "prior_sigma": 5.7884,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Basilicata",
+      "path": "europe/italy/basilicata",
+      "prior_mu": 21.8478,
+      "prior_sigma": 4.5501,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_mu": 18.048,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_mu": 22.3093,
+      "prior_sigma": 5.7605,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_mu": 22.0713,
+      "prior_sigma": 5.7787,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_mu": 22.6988,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_mu": 22.6732,
+      "prior_sigma": 5.7252,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Campoformido",
+      "path": "europe/italy/friuliveneziagiulia/campoformido",
+      "prior_mu": 22.5399,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_mu": 14.4968,
+      "prior_sigma": 5.7208,
+      "prior_n": 2
+    }
+  ]
+}

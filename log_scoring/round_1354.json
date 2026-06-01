@@ -1,0 +1,200 @@
+{
+  "round": 1354,
+  "timestamp": "2026-04-12T22:23:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_rank": 5727,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_rank": 2513,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_rank": 1749,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_rank": 3367,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_rank": 2572,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_rank": 3940,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_rank": 3087,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_rank": 3434,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_rank": 1036,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_rank": 2144,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_rank": 4318,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Alba iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_rank": 2219,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_rank": 2275,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_rank": 5631,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_rank": 3586,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_rank": 2915,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "East Frisian Islands",
+      "path": "europe/germany/lowersaxony/east_frisian_islan",
+      "prior_rank": 2772,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_rank": 4146,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_rank": 4481,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_rank": 1620,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_rank": 3039,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_rank": 3824,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_rank": 4522,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_rank": 2925,
+      "prior_wins": 41,
+      "prior_n": 3
+    }
+  ]
+}

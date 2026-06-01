@@ -1,0 +1,200 @@
+{
+  "round": 598,
+  "timestamp": "2026-04-12T10:39:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_mu": 24.182,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_mu": 22.9597,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_mu": 22.7218,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_mu": 21.7838,
+      "prior_sigma": 4.2142,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_mu": 21.462,
+      "prior_sigma": 4.7155,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_mu": 21.9167,
+      "prior_sigma": 4.8359,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Staten Island",
+      "path": "northamerica/unitedstates/newyorkstate/statenisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_mu": 21.5193,
+      "prior_sigma": 4.7334,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_mu": 22.4315,
+      "prior_sigma": 5.7239,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_mu": 22.1842,
+      "prior_sigma": 5.5146,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_mu": 22.5807,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_mu": 22.4812,
+      "prior_sigma": 5.7299,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_mu": 22.081,
+      "prior_sigma": 5.8885,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "woodmere",
+      "path": "northamerica/unitedstates/newyorkstate/woodmere",
+      "prior_mu": 21.6926,
+      "prior_sigma": 4.3972,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_mu": 21.6886,
+      "prior_sigma": 4.5679,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_mu": 22.4908,
+      "prior_sigma": 5.5509,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ash Flat",
+      "path": "northamerica/unitedstates/arkansas/ashflat",
+      "prior_mu": 17.7808,
+      "prior_sigma": 6.4546,
+      "prior_n": 1
+    }
+  ]
+}

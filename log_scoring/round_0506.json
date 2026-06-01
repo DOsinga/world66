@@ -1,0 +1,200 @@
+{
+  "round": 506,
+  "timestamp": "2026-04-12T09:43:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_mu": 22.4051,
+      "prior_sigma": 5.7845,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
+      "prior_mu": 22.1194,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_mu": 22.1472,
+      "prior_sigma": 5.5336,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 21.7662,
+      "prior_sigma": 4.5938,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 21.568,
+      "prior_sigma": 4.839,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 22.221,
+      "prior_sigma": 5.7679,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 22.138,
+      "prior_sigma": 4.5258,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_mu": 21.061,
+      "prior_sigma": 4.3463,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_mu": 22.5072,
+      "prior_sigma": 5.9095,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_mu": 22.0894,
+      "prior_sigma": 5.745,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_mu": 22.4729,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_mu": 21.4306,
+      "prior_sigma": 4.4821,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_mu": 22.3401,
+      "prior_sigma": 5.7806,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_mu": 22.519,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_mu": 22.4704,
+      "prior_sigma": 5.7546,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_mu": 21.2127,
+      "prior_sigma": 4.3409,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_mu": 21.7986,
+      "prior_sigma": 4.6742,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_mu": 22.4473,
+      "prior_sigma": 5.7824,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_mu": 21.3451,
+      "prior_sigma": 4.6545,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_mu": 22.2115,
+      "prior_sigma": 5.412,
+      "prior_n": 1
+    }
+  ]
+}

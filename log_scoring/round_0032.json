@@ -1,0 +1,200 @@
+{
+  "round": 32,
+  "timestamp": "2026-04-11T19:25:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_mu": 26.15,
+      "prior_sigma": 5.29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Myanmar",
+      "path": "asia/myanmar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_mu": 22.68,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_mu": 22.56,
+      "prior_sigma": 5.46,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.54,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Calbayog",
+      "path": "asia/philippines/calbayog",
+      "prior_mu": 22.5,
+      "prior_sigma": 5.66,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_mu": 22.36,
+      "prior_sigma": 5.5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 22.1,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_mu": 22.95,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 21.73,
+      "prior_sigma": 4.6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 22.24,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_mu": 21.71,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

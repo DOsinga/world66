@@ -1,0 +1,200 @@
+{
+  "round": 296,
+  "timestamp": "2026-04-12T09:10:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sikkim",
+      "path": "asia/india/sikkim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_mu": 21.9455,
+      "prior_sigma": 4.8382,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_mu": 22.6397,
+      "prior_sigma": 5.9384,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_mu": 22.9013,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.9324,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_mu": 22.4704,
+      "prior_sigma": 5.5693,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "ATMs",
+      "path": "travelwise/money/atms",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

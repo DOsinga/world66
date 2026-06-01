@@ -1,0 +1,200 @@
+{
+  "round": 1276,
+  "timestamp": "2026-04-12T22:18:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_rank": 2572,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_rank": 2707,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_rank": 2708,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_rank": 3489,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/dover",
+      "prior_rank": 2444,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_rank": 3160,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_rank": 3956,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_rank": 5334,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_rank": 2728,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_rank": 5613,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_rank": 4637,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_rank": 1218,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_rank": 4308,
+      "prior_wins": 55,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_rank": 4590,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_rank": 3613,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_rank": 3027,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_rank": 3167,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_rank": 1715,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hawes_and_gayle",
+      "prior_rank": 4327,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsu",
+      "prior_rank": 3363,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_rank": 3789,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_rank": 3054,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_rank": 4406,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_rank": 5160,
+      "prior_wins": 28,
+      "prior_n": 3
+    }
+  ]
+}

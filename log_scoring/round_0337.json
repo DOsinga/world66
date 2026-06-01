@@ -1,0 +1,200 @@
+{
+  "round": 337,
+  "timestamp": "2026-04-12T09:12:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_mu": 25.2992,
+      "prior_sigma": 6.0674,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_mu": 23.2422,
+      "prior_sigma": 5.8818,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_mu": 22.4945,
+      "prior_sigma": 4.8982,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_mu": 22.0442,
+      "prior_sigma": 4.8481,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_mu": 22.4476,
+      "prior_sigma": 5.9031,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_mu": 21.8558,
+      "prior_sigma": 4.8205,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_mu": 21.3182,
+      "prior_sigma": 5.4971,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

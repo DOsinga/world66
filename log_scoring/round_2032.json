@@ -1,0 +1,200 @@
+{
+  "round": 2032,
+  "timestamp": "2026-04-13T16:04:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 9.1359,
+      "prior_variance": 0.356572,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.7404,
+      "prior_variance": 0.503247,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cape Cod",
+      "path": "northamerica/unitedstates/massachusetts/capecod",
+      "prior_score": -1.6526,
+      "prior_variance": 0.865764,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 7.2758,
+      "prior_variance": 0.318841,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 0.56,
+      "prior_variance": 0.250303,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 1.0441,
+      "prior_variance": 0.325047,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": -0.7091,
+      "prior_variance": 0.395014,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/invercargill",
+      "prior_score": -1.1794,
+      "prior_variance": 0.306708,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 1.9681,
+      "prior_variance": 0.259223,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.488,
+      "prior_variance": 0.34386,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_score": -2.4608,
+      "prior_variance": 0.340686,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_score": -2.4661,
+      "prior_variance": 0.262101,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_score": -3.2013,
+      "prior_variance": 0.2104,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -1.2034,
+      "prior_variance": 0.250923,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.1957,
+      "prior_variance": 0.2427,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -4.0655,
+      "prior_variance": 0.319081,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -6.7594,
+      "prior_variance": 0.457219,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -4.2626,
+      "prior_variance": 0.321389,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Theranda",
+      "path": "europe/serbia/kosovoprovince/prizren/theranda",
+      "prior_score": -5.7077,
+      "prior_variance": 0.363725,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.2374,
+      "prior_variance": 0.299085,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -4.3896,
+      "prior_variance": 0.246428,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bussy",
+      "path": "europe/france/around_paris/bussy",
+      "prior_score": -5.524,
+      "prior_variance": 0.306207,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_score": -6.1814,
+      "prior_variance": 0.432102,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -5.9835,
+      "prior_variance": 0.312404,
+      "prior_n": 6
+    }
+  ]
+}

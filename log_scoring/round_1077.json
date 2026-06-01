@@ -1,0 +1,200 @@
+{
+  "round": 1077,
+  "timestamp": "2026-04-12T22:08:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_rank": 4956,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_rank": 6861,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_rank": 5387,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Schwaendi",
+      "path": "europe/switzerland/schwaendi",
+      "prior_rank": 5058,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_rank": 5452,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_rank": 5955,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_rank": 5502,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_rank": 5845,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_rank": 5271,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_rank": 7697,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_rank": 6257,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_rank": 5528,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_rank": 5804,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/sheffield",
+      "prior_rank": 6027,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_rank": 6030,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_rank": 5770,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_rank": 6642,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_rank": 6804,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kozanh",
+      "path": "europe/greece/kozanh",
+      "prior_rank": 7709,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_rank": 6287,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_rank": 5817,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_rank": 6462,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Grange",
+      "path": "europe/ireland/cork/grange",
+      "prior_rank": 6451,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_rank": 5742,
+      "prior_wins": 10,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1707,
+  "timestamp": "2026-04-13T10:43:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 4.7209,
+      "prior_variance": 0.371885,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 3.4197,
+      "prior_variance": 0.302209,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 2.9618,
+      "prior_variance": 0.297348,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_score": 2.8533,
+      "prior_variance": 0.293272,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_score": 1.6775,
+      "prior_variance": 0.313421,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 1.3806,
+      "prior_variance": 0.323219,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 0.9831,
+      "prior_variance": 0.373437,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -1.531,
+      "prior_variance": 0.455783,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": 0.3934,
+      "prior_variance": 0.272686,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.8228,
+      "prior_variance": 0.396465,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.7347,
+      "prior_variance": 0.422984,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -5.6604,
+      "prior_variance": 0.3745,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": 1.097,
+      "prior_variance": 0.332343,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.8337,
+      "prior_variance": 0.377272,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -3.1858,
+      "prior_variance": 0.829469,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.9679,
+      "prior_variance": 0.291921,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": 1.1836,
+      "prior_variance": 0.270545,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jebel Akhdar",
+      "path": "africa/libya/jebelakhdar",
+      "prior_score": -7.0965,
+      "prior_variance": 0.432136,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -4.5161,
+      "prior_variance": 0.293804,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_score": -6.0808,
+      "prior_variance": 0.455352,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_score": -3.8048,
+      "prior_variance": 0.219,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -3.9134,
+      "prior_variance": 0.405399,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Windsor",
+      "path": "northamerica/unitedstates/california/windsor",
+      "prior_score": -3.9091,
+      "prior_variance": 0.337613,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Blair",
+      "path": "northamerica/unitedstates/nebraska/blair",
+      "prior_score": -7.9735,
+      "prior_variance": 0.657595,
+      "prior_n": 4
+    }
+  ]
+}

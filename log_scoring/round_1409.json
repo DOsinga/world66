@@ -1,0 +1,200 @@
+{
+  "round": 1409,
+  "timestamp": "2026-04-12T22:26:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
+      "prior_rank": 1228,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_rank": 524,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_rank": 1878,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ouarzazate",
+      "path": "africa/morocco/ouarzazate",
+      "prior_rank": 1332,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_rank": 566,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_rank": 2164,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/sandiego/coronado",
+      "prior_rank": 528,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_rank": 980,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_rank": 2351,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_rank": 1298,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_rank": 2555,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_rank": 2179,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_rank": 1072,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_rank": 2391,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Jersey",
+      "path": "europe/channelislands/jersey",
+      "prior_rank": 1163,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_rank": 2017,
+      "prior_wins": 48,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_rank": 4122,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_rank": 2682,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_rank": 1070,
+      "prior_wins": 104,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_rank": 1860,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_rank": 699,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_rank": 1291,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_rank": 1211,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_rank": 1425,
+      "prior_wins": 50,
+      "prior_n": 3
+    }
+  ]
+}

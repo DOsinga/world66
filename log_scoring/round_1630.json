@@ -1,0 +1,200 @@
+{
+  "round": 1630,
+  "timestamp": "2026-04-13T10:37:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 7.5651,
+      "prior_variance": 0.315069,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 4.5152,
+      "prior_variance": 0.325355,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": -0.2424,
+      "prior_variance": 0.384002,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 4.4423,
+      "prior_variance": 0.376829,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": 2.4989,
+      "prior_variance": 0.305595,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 1.3705,
+      "prior_variance": 0.324866,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -3.417,
+      "prior_variance": 0.47076,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_score": -5.2251,
+      "prior_variance": 0.354049,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.9481,
+      "prior_variance": 0.310096,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -4.3716,
+      "prior_variance": 0.22146,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Gabon",
+      "path": "africa/gabon",
+      "prior_score": -4.0419,
+      "prior_variance": 0.411335,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "rudrapyag",
+      "path": "asia/india/uttaranchal/rudrapyag",
+      "prior_score": -2.3939,
+      "prior_variance": 0.425575,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -1.5688,
+      "prior_variance": 0.323895,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -4.4453,
+      "prior_variance": 0.440415,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -5.3938,
+      "prior_variance": 0.683422,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -4.7114,
+      "prior_variance": 0.419738,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.2079,
+      "prior_variance": 0.373543,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/losangeles/burbank",
+      "prior_score": -3.6859,
+      "prior_variance": 0.32586,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -3.5239,
+      "prior_variance": 0.327843,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Havre",
+      "path": "northamerica/unitedstates/montana/havre",
+      "prior_score": -5.0551,
+      "prior_variance": 0.37057,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -6.6142,
+      "prior_variance": 0.403122,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_score": -5.231,
+      "prior_variance": 0.355318,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Wake Island",
+      "path": "australiaandpacific/wakeisland",
+      "prior_score": -9.4231,
+      "prior_variance": 0.622588,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/basconcobe",
+      "prior_score": -6.5239,
+      "prior_variance": 0.375396,
+      "prior_n": 4
+    }
+  ]
+}

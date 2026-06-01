@@ -1,0 +1,200 @@
+{
+  "round": 415,
+  "timestamp": "2026-04-12T09:29:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_mu": 22.6831,
+      "prior_sigma": 4.9174,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_mu": 22.838,
+      "prior_sigma": 4.8624,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_mu": 22.8561,
+      "prior_sigma": 5.9651,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_mu": 21.9632,
+      "prior_sigma": 3.3294,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tiro",
+      "prior_mu": 22.6688,
+      "prior_sigma": 4.6745,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "St. Johann",
+      "path": "europe/austria/stjohann",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_mu": 22.7215,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_mu": 22.5837,
+      "prior_sigma": 5.9309,
+      "prior_n": 1
+    }
+  ]
+}

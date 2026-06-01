@@ -1,0 +1,200 @@
+{
+  "round": 2227,
+  "timestamp": "2026-04-13T16:22:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 10.0612,
+      "prior_variance": 0.4611,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.1399,
+      "prior_variance": 0.269528,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 6.2173,
+      "prior_variance": 0.226949,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_score": 6.1164,
+      "prior_variance": 0.265091,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 7.0093,
+      "prior_variance": 0.275974,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.7915,
+      "prior_variance": 0.311595,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_score": 4.4355,
+      "prior_variance": 0.259021,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 5.735,
+      "prior_variance": 0.316674,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.2938,
+      "prior_variance": 0.320722,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.5939,
+      "prior_variance": 0.232346,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.2804,
+      "prior_variance": 0.212002,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_score": 4.7533,
+      "prior_variance": 0.240981,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_score": 0.5533,
+      "prior_variance": 0.273111,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 2.761,
+      "prior_variance": 0.261985,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.4943,
+      "prior_variance": 0.22394,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_score": 5.23,
+      "prior_variance": 0.247401,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 3.3131,
+      "prior_variance": 0.233047,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Ulm",
+      "path": "europe/germany/bade/ulm",
+      "prior_score": 1.4238,
+      "prior_variance": 0.231775,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": 1.0037,
+      "prior_variance": 0.246279,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_score": 3.7794,
+      "prior_variance": 0.24845,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": 0.097,
+      "prior_variance": 0.242769,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
+      "prior_score": 0.0908,
+      "prior_variance": 0.185676,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -1.7407,
+      "prior_variance": 0.264298,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -3.1316,
+      "prior_variance": 0.277229,
+      "prior_n": 6
+    }
+  ]
+}

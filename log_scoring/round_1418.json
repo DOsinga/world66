@@ -1,0 +1,200 @@
+{
+  "round": 1418,
+  "timestamp": "2026-04-12T22:26:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Patagonia",
+      "path": "southamerica/argentina/patagonia",
+      "prior_rank": 485,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_rank": 340,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_rank": 474,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_rank": 643,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_rank": 1000,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dunhuang",
+      "path": "asia/china/dunhuang",
+      "prior_rank": 777,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_rank": 671,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_rank": 1124,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorci",
+      "prior_rank": 2357,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_rank": 1873,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_rank": 3187,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_rank": 1251,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_rank": 735,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_rank": 714,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/otago/dunedin",
+      "prior_rank": 330,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_rank": 84,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_rank": 2348,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_rank": 1211,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_rank": 568,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_rank": 659,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_rank": 1871,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_rank": 2158,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_rank": 2520,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_rank": 4498,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

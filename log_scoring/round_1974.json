@@ -1,0 +1,200 @@
+{
+  "round": 1974,
+  "timestamp": "2026-04-13T15:59:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_score": 8.368,
+      "prior_variance": 0.406918,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 5.5716,
+      "prior_variance": 0.295655,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 4.4159,
+      "prior_variance": 0.328477,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_score": 6.0462,
+      "prior_variance": 0.315218,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 3.6626,
+      "prior_variance": 0.317706,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 5.0116,
+      "prior_variance": 0.296157,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall",
+      "prior_score": 5.7274,
+      "prior_variance": 0.382327,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 3.6306,
+      "prior_variance": 0.271588,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 6.8864,
+      "prior_variance": 0.306897,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 2.0692,
+      "prior_variance": 0.260481,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 2.333,
+      "prior_variance": 0.339745,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.702,
+      "prior_variance": 0.232147,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 1.8186,
+      "prior_variance": 0.214114,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
+      "prior_score": 3.6523,
+      "prior_variance": 0.275733,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_score": -0.2516,
+      "prior_variance": 0.296691,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_score": 0.9553,
+      "prior_variance": 0.252407,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.9649,
+      "prior_variance": 0.241213,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_score": 2.2477,
+      "prior_variance": 0.258691,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_score": -0.2916,
+      "prior_variance": 0.259289,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pensacola",
+      "path": "northamerica/unitedstates/florida/pensacola",
+      "prior_score": 1.3977,
+      "prior_variance": 0.262023,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": -2.8545,
+      "prior_variance": 0.33227,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Space Coast Area",
+      "path": "northamerica/unitedstates/florida/spacecoastarea",
+      "prior_score": 0.9619,
+      "prior_variance": 0.341476,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_score": -1.5762,
+      "prior_variance": 0.259263,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -4.6487,
+      "prior_variance": 0.410542,
+      "prior_n": 5
+    }
+  ]
+}

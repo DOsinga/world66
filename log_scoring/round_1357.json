@@ -1,0 +1,200 @@
+{
+  "round": 1357,
+  "timestamp": "2026-04-12T22:23:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_rank": 5018,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_rank": 4577,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_rank": 6066,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_rank": 5228,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_rank": 3344,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_rank": 6892,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_rank": 5037,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_rank": 5642,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_rank": 4332,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_rank": 4034,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_rank": 6471,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_rank": 5351,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_rank": 3242,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_rank": 4624,
+      "prior_wins": 52,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_rank": 7012,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_rank": 6064,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_rank": 5881,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad Real",
+      "path": "europe/spain/la_mancha/ciudad_real",
+      "prior_rank": 7768,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_rank": 6306,
+      "prior_wins": 51,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_rank": 6141,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
+      "prior_rank": 5734,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_rank": 5196,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_rank": 6230,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "New Ireland",
+      "path": "asia/papuanewguinea/newireland",
+      "prior_rank": 4143,
+      "prior_wins": 34,
+      "prior_n": 3
+    }
+  ]
+}

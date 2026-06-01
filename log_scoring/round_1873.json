@@ -1,0 +1,200 @@
+{
+  "round": 1873,
+  "timestamp": "2026-04-13T10:59:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_score": 8.9455,
+      "prior_variance": 0.466074,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 3.8093,
+      "prior_variance": 0.289756,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 2.1513,
+      "prior_variance": 0.265592,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 2.2061,
+      "prior_variance": 0.317477,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "O Ribeiro Valley",
+      "path": "europe/spain/galicia/o__ribeiro_valley",
+      "prior_score": -0.1798,
+      "prior_variance": 0.268891,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": 0.224,
+      "prior_variance": 0.281968,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.1747,
+      "prior_variance": 0.242488,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 1.0412,
+      "prior_variance": 0.442203,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 2.7434,
+      "prior_variance": 0.366524,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": 2.6333,
+      "prior_variance": 0.302483,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.1957,
+      "prior_variance": 0.409135,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_score": -2.544,
+      "prior_variance": 0.289587,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Southern Highlands",
+      "path": "africa/tanzania/sothern_highlands",
+      "prior_score": -0.9268,
+      "prior_variance": 0.313995,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_score": -2.1029,
+      "prior_variance": 0.259115,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Teahouses",
+      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
+      "prior_score": -8.7004,
+      "prior_variance": 0.846055,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -4.6453,
+      "prior_variance": 0.433748,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/eastern_england/ware",
+      "prior_score": -3.6471,
+      "prior_variance": 0.384136,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -2.4634,
+      "prior_variance": 0.258794,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_score": -3.1844,
+      "prior_variance": 0.259017,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.2299,
+      "prior_variance": 0.27096,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -3.9646,
+      "prior_variance": 0.235739,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -3.2579,
+      "prior_variance": 0.319643,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.6174,
+      "prior_variance": 0.415434,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -3.8949,
+      "prior_variance": 0.316147,
+      "prior_n": 4
+    }
+  ]
+}

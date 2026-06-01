@@ -1,0 +1,200 @@
+{
+  "round": 648,
+  "timestamp": "2026-04-12T10:41:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_mu": 21.7625,
+      "prior_sigma": 4.5655,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Inside Passage",
+      "path": "northamerica/unitedstates/alaska/inside_passage",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_mu": 22.3952,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_mu": 22.7741,
+      "prior_sigma": 5.676,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_mu": 24.8079,
+      "prior_sigma": 5.1671,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_mu": 22.5035,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_mu": 22.0226,
+      "prior_sigma": 5.4945,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_mu": 22.2081,
+      "prior_sigma": 5.8765,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_mu": 22.8859,
+      "prior_sigma": 5.6676,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_mu": 22.5712,
+      "prior_sigma": 5.6774,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_mu": 21.3431,
+      "prior_sigma": 4.1426,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_mu": 22.4196,
+      "prior_sigma": 5.3818,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_mu": 22.3761,
+      "prior_sigma": 5.7173,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_mu": 21.8343,
+      "prior_sigma": 5.6082,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
+      "prior_mu": 22.0913,
+      "prior_sigma": 5.3096,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_mu": 21.6485,
+      "prior_sigma": 4.5275,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_mu": 22.5305,
+      "prior_sigma": 5.7261,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_mu": 21.4386,
+      "prior_sigma": 5.6095,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Paramus",
+      "path": "northamerica/unitedstates/newjersey/paramus",
+      "prior_mu": 22.5262,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_mu": 18.2012,
+      "prior_sigma": 6.7099,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Espanola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_mu": 22.2123,
+      "prior_sigma": 5.8442,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "waseca",
+      "path": "northamerica/unitedstates/minnesota/waseca",
+      "prior_mu": 21.5976,
+      "prior_sigma": 4.5164,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_mu": 21.8393,
+      "prior_sigma": 5.699,
+      "prior_n": 1
+    }
+  ]
+}

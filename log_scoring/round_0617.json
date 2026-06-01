@@ -1,0 +1,200 @@
+{
+  "round": 617,
+  "timestamp": "2026-04-12T10:40:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bath",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_mu": 24.5025,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/brighton",
+      "prior_mu": 23.1996,
+      "prior_sigma": 2.8355,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_mu": 23.262,
+      "prior_sigma": 5.7573,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_mu": 21.2108,
+      "prior_sigma": 3.8037,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_mu": 22.0777,
+      "prior_sigma": 4.679,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed",
+      "prior_mu": 21.0033,
+      "prior_sigma": 5.7828,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_mu": 22.7631,
+      "prior_sigma": 5.7199,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_mu": 21.2725,
+      "prior_sigma": 4.727,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_mu": 21.8526,
+      "prior_sigma": 4.685,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_mu": 22.5355,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/ashbourne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_mu": 22.456,
+      "prior_sigma": 5.9487,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_mu": 21.7924,
+      "prior_sigma": 4.3182,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_mu": 20.0361,
+      "prior_sigma": 4.5732,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/thetfordnorfolk",
+      "prior_mu": 22.7469,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/chigwell",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_mu": 18.3216,
+      "prior_sigma": 6.7504,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_mu": 18.3337,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

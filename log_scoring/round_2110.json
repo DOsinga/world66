@@ -1,0 +1,200 @@
+{
+  "round": 2110,
+  "timestamp": "2026-04-13T16:11:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_score": 5.1227,
+      "prior_variance": 0.278453,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Costa Blanca",
+      "path": "europe/spain/costa_blanca",
+      "prior_score": 4.8982,
+      "prior_variance": 0.240455,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 5.9173,
+      "prior_variance": 0.251305,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 5.6329,
+      "prior_variance": 0.332248,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.5128,
+      "prior_variance": 0.213682,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 3.5716,
+      "prior_variance": 0.258672,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 2.9007,
+      "prior_variance": 0.257927,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 2.1323,
+      "prior_variance": 0.176595,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -1.2969,
+      "prior_variance": 0.240462,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -3.6048,
+      "prior_variance": 0.363609,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.9426,
+      "prior_variance": 0.327833,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -1.7838,
+      "prior_variance": 0.245442,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_score": -4.755,
+      "prior_variance": 0.294861,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Shenyang",
+      "path": "asia/china/shenyang",
+      "prior_score": -2.5647,
+      "prior_variance": 0.31348,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gronau",
+      "path": "europe/germany/northrhinewestphalia/gronau",
+      "prior_score": -4.6621,
+      "prior_variance": 0.310285,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -6.2111,
+      "prior_variance": 0.296085,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -8.1428,
+      "prior_variance": 0.589516,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -6.044,
+      "prior_variance": 0.265133,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -6.7404,
+      "prior_variance": 0.288918,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_score": -4.5598,
+      "prior_variance": 0.287656,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sandy",
+      "path": "northamerica/unitedstates/utah/sandy",
+      "prior_score": -4.8331,
+      "prior_variance": 0.28028,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Espanola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -4.7433,
+      "prior_variance": 0.254623,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -6.9822,
+      "prior_variance": 0.391954,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -11.0331,
+      "prior_variance": 0.59176,
+      "prior_n": 5
+    }
+  ]
+}

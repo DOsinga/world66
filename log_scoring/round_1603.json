@@ -1,0 +1,200 @@
+{
+  "round": 1603,
+  "timestamp": "2026-04-13T10:35:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 11.0961,
+      "prior_variance": 0.912636,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 8.4575,
+      "prior_variance": 0.416093,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 11.8235,
+      "prior_variance": 1.146072,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 10.974,
+      "prior_variance": 0.627644,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vatican City",
+      "path": "europe/vaticancity",
+      "prior_score": 11.9385,
+      "prior_variance": 0.809732,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Jordan",
+      "path": "asia/jordan",
+      "prior_score": 6.4224,
+      "prior_variance": 0.794656,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 10.192,
+      "prior_variance": 0.988273,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Zanzibar",
+      "path": "africa/tanzania/zanzibar",
+      "prior_score": 8.9956,
+      "prior_variance": 0.473122,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 9.1007,
+      "prior_variance": 0.628878,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 9.0877,
+      "prior_variance": 0.604481,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Chianti Region",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
+      "prior_score": 8.9704,
+      "prior_variance": 0.487655,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 6.5244,
+      "prior_variance": 0.447523,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 2.9842,
+      "prior_variance": 0.365266,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 3.0674,
+      "prior_variance": 0.391154,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 3.3494,
+      "prior_variance": 0.351616,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.8352,
+      "prior_variance": 0.33233,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_score": -0.4008,
+      "prior_variance": 0.308229,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -0.9572,
+      "prior_variance": 0.410489,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -1.1861,
+      "prior_variance": 0.488485,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -3.5844,
+      "prior_variance": 0.399861,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_score": -7.2652,
+      "prior_variance": 0.363121,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.3969,
+      "prior_variance": 0.316265,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_score": -3.8886,
+      "prior_variance": 0.390288,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -8.4581,
+      "prior_variance": 0.560288,
+      "prior_n": 3
+    }
+  ]
+}

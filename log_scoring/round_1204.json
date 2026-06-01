@@ -1,0 +1,200 @@
+{
+  "round": 1204,
+  "timestamp": "2026-04-12T22:15:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_rank": 7303,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_rank": 3804,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_rank": 6933,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_rank": 5017,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_rank": 3624,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Manzhouli",
+      "path": "asia/china/manzhouli",
+      "prior_rank": 6505,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_rank": 5711,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_rank": 7414,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_rank": 7227,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_rank": 5105,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_rank": 7065,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_rank": 6183,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_rank": 6530,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_rank": 5485,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Maple Creek",
+      "path": "northamerica/canada/saskatchewan/maple_creek",
+      "prior_rank": 6869,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_rank": 7272,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Jambi",
+      "path": "asia/indonesia/sumatra/jambi",
+      "prior_rank": 7418,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_rank": 7268,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_rank": 7264,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
+      "prior_rank": 5258,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_rank": 6885,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_rank": 7829,
+      "prior_wins": 14,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Yemkeshwar Malla Banas",
+      "path": "asia/india/uttaranchal/yemkeshwar_malla_b",
+      "prior_rank": 6671,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/basconcobe",
+      "prior_rank": 7909,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

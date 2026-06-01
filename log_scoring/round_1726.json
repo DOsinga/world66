@@ -1,0 +1,200 @@
+{
+  "round": 1726,
+  "timestamp": "2026-04-13T10:45:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 9.2561,
+      "prior_variance": 0.813112,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_score": 10.8341,
+      "prior_variance": 0.982121,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Colca Canyon",
+      "path": "southamerica/peru/colca_canyon",
+      "prior_score": 9.2202,
+      "prior_variance": 0.823786,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 3.4768,
+      "prior_variance": 0.465914,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.2703,
+      "prior_variance": 0.32722,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Argolis",
+      "path": "europe/greece/argolis",
+      "prior_score": 6.7993,
+      "prior_variance": 0.417389,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bath",
+      "prior_score": 9.3156,
+      "prior_variance": 0.387719,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_score": 7.5404,
+      "prior_variance": 0.358726,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 4.4202,
+      "prior_variance": 0.368246,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 3.1125,
+      "prior_variance": 0.34252,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.1524,
+      "prior_variance": 0.426895,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.3774,
+      "prior_variance": 0.352312,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.7584,
+      "prior_variance": 0.343135,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -1.6666,
+      "prior_variance": 0.358453,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -0.5852,
+      "prior_variance": 0.314107,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 2.1022,
+      "prior_variance": 0.316602,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -2.1346,
+      "prior_variance": 0.31638,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_score": -0.7711,
+      "prior_variance": 0.357895,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": 0.306,
+      "prior_variance": 0.40135,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -1.1082,
+      "prior_variance": 0.179124,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.7274,
+      "prior_variance": 0.411781,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -8.1992,
+      "prior_variance": 0.395549,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -6.6918,
+      "prior_variance": 0.38052,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_score": -2.2986,
+      "prior_variance": 0.388368,
+      "prior_n": 4
+    }
+  ]
+}

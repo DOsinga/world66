@@ -1,0 +1,200 @@
+{
+  "round": 1829,
+  "timestamp": "2026-04-13T10:55:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 12.0343,
+      "prior_variance": 0.796967,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
+      "prior_score": 4.7147,
+      "prior_variance": 0.429088,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Wyoming",
+      "path": "northamerica/unitedstates/wyoming",
+      "prior_score": 5.8507,
+      "prior_variance": 1.040881,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_score": 3.1971,
+      "prior_variance": 0.343093,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Niue",
+      "path": "australiaandpacific/niue",
+      "prior_score": 1.5687,
+      "prior_variance": 0.45511,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tongatapu",
+      "path": "australiaandpacific/tonga/tongatapu",
+      "prior_score": 3.1302,
+      "prior_variance": 0.370262,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 2.1295,
+      "prior_variance": 0.318378,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pa\u0161man Island",
+      "path": "europe/croatia/pasman_island",
+      "prior_score": 2.845,
+      "prior_variance": 0.260309,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.9381,
+      "prior_variance": 0.337102,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 2.146,
+      "prior_variance": 0.327746,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": 0.7313,
+      "prior_variance": 0.436224,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 1.3787,
+      "prior_variance": 0.364611,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "San Clemente",
+      "path": "northamerica/unitedstates/california/orangecounty/sanclemente",
+      "prior_score": -0.4357,
+      "prior_variance": 0.276105,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.4243,
+      "prior_variance": 0.287818,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -1.3395,
+      "prior_variance": 0.299643,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.2384,
+      "prior_variance": 0.267681,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -3.7961,
+      "prior_variance": 0.284765,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -4.2646,
+      "prior_variance": 0.443966,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_score": -2.2777,
+      "prior_variance": 0.314095,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -6.2176,
+      "prior_variance": 0.322782,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_score": -6.2155,
+      "prior_variance": 0.26556,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chetek",
+      "path": "northamerica/unitedstates/wisconsin/chetek",
+      "prior_score": -4.5254,
+      "prior_variance": 0.367846,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_score": -5.4419,
+      "prior_variance": 0.442328,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -6.4607,
+      "prior_variance": 0.309953,
+      "prior_n": 4
+    }
+  ]
+}

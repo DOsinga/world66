@@ -1,0 +1,200 @@
+{
+  "round": 1851,
+  "timestamp": "2026-04-13T10:57:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 9.1317,
+      "prior_variance": 0.534992,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/oxford",
+      "prior_score": 8.3985,
+      "prior_variance": 0.368606,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Umbria",
+      "path": "europe/italy/umbria",
+      "prior_score": 5.6391,
+      "prior_variance": 0.322195,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 10.4187,
+      "prior_variance": 0.380945,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Languedoc",
+      "path": "europe/france/midi/languedoc",
+      "prior_score": 4.4103,
+      "prior_variance": 0.400734,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.3043,
+      "prior_variance": 0.305753,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 2.4969,
+      "prior_variance": 0.389438,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_score": 1.7847,
+      "prior_variance": 0.254183,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.455,
+      "prior_variance": 0.264724,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": -0.0257,
+      "prior_variance": 0.445501,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 2.3089,
+      "prior_variance": 0.328978,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -2.4108,
+      "prior_variance": 0.639489,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_score": 3.743,
+      "prior_variance": 0.302159,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.3757,
+      "prior_variance": 0.327768,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -1.1233,
+      "prior_variance": 0.335339,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_score": -2.0885,
+      "prior_variance": 0.262104,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -4.239,
+      "prior_variance": 0.327255,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -2.3693,
+      "prior_variance": 0.386021,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -4.1057,
+      "prior_variance": 0.306616,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -4.9317,
+      "prior_variance": 0.284783,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -6.0442,
+      "prior_variance": 0.384313,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_score": -4.1511,
+      "prior_variance": 0.284022,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -6.0451,
+      "prior_variance": 0.307366,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nord",
+      "path": "europe/france/nord",
+      "prior_score": -4.9786,
+      "prior_variance": 0.449619,
+      "prior_n": 4
+    }
+  ]
+}

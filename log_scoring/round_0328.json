@@ -1,0 +1,200 @@
+{
+  "round": 328,
+  "timestamp": "2026-04-12T09:11:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_mu": 22.7263,
+      "prior_sigma": 5.8405,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Puglia",
+      "path": "europe/italy/puglia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_mu": 22.8611,
+      "prior_sigma": 5.7223,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_mu": 21.9037,
+      "prior_sigma": 4.7428,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_mu": 22.7203,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_mu": 21.2385,
+      "prior_sigma": 5.7531,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Yoga Teacher Training India",
+      "path": "asia/india/uttaranchal/yoga_teacher_train",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Wamic",
+      "path": "northamerica/unitedstates/oregon/wamic",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

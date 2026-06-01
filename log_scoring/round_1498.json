@@ -1,0 +1,200 @@
+{
+  "round": 1498,
+  "timestamp": "2026-04-13T10:26:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -4.189,
+      "prior_variance": 0.347085,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -5.8725,
+      "prior_variance": 0.434266,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_score": -4.4532,
+      "prior_variance": 0.428552,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_score": -7.2857,
+      "prior_variance": 0.38696,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -7.2631,
+      "prior_variance": 0.73373,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Daly City",
+      "path": "northamerica/unitedstates/california/daly_city",
+      "prior_score": -5.504,
+      "prior_variance": 0.493586,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "woodmere",
+      "path": "northamerica/unitedstates/newyorkstate/woodmere",
+      "prior_score": -6.0989,
+      "prior_variance": 0.469245,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Loch Sheldrake",
+      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
+      "prior_score": -6.1518,
+      "prior_variance": 0.431729,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/croydon",
+      "prior_score": -7.4457,
+      "prior_variance": 0.799945,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/bearwood",
+      "prior_score": -7.0076,
+      "prior_variance": 0.652901,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.3756,
+      "prior_variance": 0.418592,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -7.8637,
+      "prior_variance": 0.554066,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -8.6969,
+      "prior_variance": 0.719321,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -7.6516,
+      "prior_variance": 0.599843,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_score": -6.5436,
+      "prior_variance": 0.31305,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Beit Sahur",
+      "path": "asia/palestinianauthority/beitsahur",
+      "prior_score": -6.8207,
+      "prior_variance": 0.550846,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -6.0142,
+      "prior_variance": 0.392497,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.2811,
+      "prior_variance": 0.434122,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Garca",
+      "path": "southamerica/brazil/garca",
+      "prior_score": -6.6568,
+      "prior_variance": 0.513977,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -6.6605,
+      "prior_variance": 0.492425,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -7.2065,
+      "prior_variance": 0.517023,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -6.4001,
+      "prior_variance": 0.661574,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -6.7089,
+      "prior_variance": 0.670831,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -6.7563,
+      "prior_variance": 0.390559,
+      "prior_n": 3
+    }
+  ]
+}

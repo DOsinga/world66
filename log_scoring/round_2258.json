@@ -1,0 +1,200 @@
+{
+  "round": 2258,
+  "timestamp": "2026-04-13T16:25:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 8.3305,
+      "prior_variance": 0.480028,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 2.1011,
+      "prior_variance": 0.221655,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -2.5809,
+      "prior_variance": 0.265402,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.2743,
+      "prior_variance": 0.251425,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -2.2988,
+      "prior_variance": 0.2788,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.3019,
+      "prior_variance": 0.222504,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -1.5564,
+      "prior_variance": 0.205581,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -2.499,
+      "prior_variance": 0.274929,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -2.7621,
+      "prior_variance": 0.28581,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mieres",
+      "path": "europe/spain/northernspain/mieres",
+      "prior_score": -3.047,
+      "prior_variance": 0.215846,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_score": -3.8907,
+      "prior_variance": 0.249315,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -4.5076,
+      "prior_variance": 0.246806,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Boblingen",
+      "path": "europe/germany/badenwrttemberg/boblingen",
+      "prior_score": -3.3472,
+      "prior_variance": 0.307397,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -2.451,
+      "prior_variance": 0.243216,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.342,
+      "prior_variance": 0.324041,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.3128,
+      "prior_variance": 0.228303,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_score": -4.4087,
+      "prior_variance": 0.250718,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.8808,
+      "prior_variance": 0.24396,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/goole",
+      "prior_score": -4.6382,
+      "prior_variance": 0.246848,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Nord",
+      "path": "europe/france/nord",
+      "prior_score": -5.481,
+      "prior_variance": 0.436733,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_score": -6.5902,
+      "prior_variance": 0.264264,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.1944,
+      "prior_variance": 0.235326,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -6.403,
+      "prior_variance": 0.237411,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -8.4131,
+      "prior_variance": 0.508923,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 824,
+  "timestamp": "2026-04-12T14:35:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Fort-de-France",
+      "path": "northamerica/martinique/fortdefrance",
+      "prior_score": 1.8058,
+      "prior_variance": 0.575201,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/tigullio",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Marburg",
+      "path": "europe/germany/hesse/marburg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Madhegaon kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

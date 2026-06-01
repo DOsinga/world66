@@ -1,0 +1,200 @@
+{
+  "round": 1552,
+  "timestamp": "2026-04-13T10:30:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": -0.8612,
+      "prior_variance": 0.393713,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dari\u00e9n Gap",
+      "path": "northamerica/panama/dariengap",
+      "prior_score": -5.5374,
+      "prior_variance": 0.722413,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -4.831,
+      "prior_variance": 0.708825,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -1.5014,
+      "prior_variance": 0.434027,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
+      "prior_score": -1.2813,
+      "prior_variance": 0.475034,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -3.029,
+      "prior_variance": 0.34738,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": 0.5691,
+      "prior_variance": 0.322419,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -2.2488,
+      "prior_variance": 0.54261,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.9886,
+      "prior_variance": 0.346184,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": -4.0069,
+      "prior_variance": 0.448877,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -2.1432,
+      "prior_variance": 0.459969,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -3.2593,
+      "prior_variance": 0.385716,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -3.2495,
+      "prior_variance": 0.418365,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -4.3388,
+      "prior_variance": 0.408382,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.9122,
+      "prior_variance": 0.400994,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_score": -3.0323,
+      "prior_variance": 0.230834,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bydgoszcz",
+      "path": "europe/poland/bydgoszcz",
+      "prior_score": -1.5195,
+      "prior_variance": 0.404147,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -2.4641,
+      "prior_variance": 0.663079,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_score": -4.1641,
+      "prior_variance": 0.480585,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -3.9671,
+      "prior_variance": 0.29732,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -8.3387,
+      "prior_variance": 1.411197,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
+      "prior_score": -4.3172,
+      "prior_variance": 0.40934,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_score": -5.3662,
+      "prior_variance": 0.522153,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Huayang Village",
+      "path": "asia/china/huayang_village",
+      "prior_score": -5.6614,
+      "prior_variance": 0.4881,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2261,
+  "timestamp": "2026-04-13T16:25:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 11.0556,
+      "prior_variance": 0.333332,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 9.5854,
+      "prior_variance": 0.409701,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 4.3008,
+      "prior_variance": 0.242093,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 3.0678,
+      "prior_variance": 0.310871,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 3.2222,
+      "prior_variance": 0.258755,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Nova Scotia",
+      "path": "northamerica/canada/novascotia",
+      "prior_score": 3.0551,
+      "prior_variance": 0.288423,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 1.4869,
+      "prior_variance": 0.269648,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 2.6148,
+      "prior_variance": 0.216324,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 0.4342,
+      "prior_variance": 0.210061,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.2311,
+      "prior_variance": 0.237422,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 2.073,
+      "prior_variance": 0.241145,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.3945,
+      "prior_variance": 0.225561,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_score": 2.8028,
+      "prior_variance": 0.22238,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": -0.0246,
+      "prior_variance": 0.270626,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sandoy",
+      "path": "europe/faroeislands/sandoy",
+      "prior_score": 2.0388,
+      "prior_variance": 0.361912,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.6443,
+      "prior_variance": 0.231737,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.1883,
+      "prior_variance": 0.26225,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/longreach",
+      "prior_score": -1.0635,
+      "prior_variance": 0.259582,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": 0.3465,
+      "prior_variance": 0.21895,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.5299,
+      "prior_variance": 0.309254,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/yucatan/veracruz",
+      "prior_score": -1.7226,
+      "prior_variance": 0.221764,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -2.9164,
+      "prior_variance": 0.201299,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_score": -4.3001,
+      "prior_variance": 0.315147,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.1056,
+      "prior_variance": 0.441671,
+      "prior_n": 5
+    }
+  ]
+}

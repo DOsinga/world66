@@ -1,0 +1,200 @@
+{
+  "round": 1560,
+  "timestamp": "2026-04-13T10:31:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.0237,
+      "prior_variance": 0.490594,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 3.9549,
+      "prior_variance": 0.391498,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 4.8278,
+      "prior_variance": 0.342738,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 4.052,
+      "prior_variance": 0.524431,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lantau",
+      "path": "asia/china/hongkong/lantau",
+      "prior_score": 4.8108,
+      "prior_variance": 0.443712,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 5.8298,
+      "prior_variance": 0.401079,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 4.9717,
+      "prior_variance": 0.445104,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 5.0345,
+      "prior_variance": 0.594454,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 5.4855,
+      "prior_variance": 0.409599,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 5.1127,
+      "prior_variance": 0.408309,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 4.6527,
+      "prior_variance": 0.638068,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.7217,
+      "prior_variance": 0.40568,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 4.7719,
+      "prior_variance": 0.492619,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Northern Ireland",
+      "path": "europe/unitedkingdom/northernireland",
+      "prior_score": 4.7534,
+      "prior_variance": 0.412221,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 4.1869,
+      "prior_variance": 0.380565,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 1.7217,
+      "prior_variance": 0.351518,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 3.7098,
+      "prior_variance": 0.768064,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 5.0225,
+      "prior_variance": 0.37497,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.2678,
+      "prior_variance": 0.448907,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 4.3953,
+      "prior_variance": 0.392766,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 4.9788,
+      "prior_variance": 0.470826,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 1.7272,
+      "prior_variance": 0.31591,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -0.4669,
+      "prior_variance": 0.406361,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swindon",
+      "prior_score": -0.9577,
+      "prior_variance": 0.38447,
+      "prior_n": 4
+    }
+  ]
+}

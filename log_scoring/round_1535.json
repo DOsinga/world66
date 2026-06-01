@@ -1,0 +1,200 @@
+{
+  "round": 1535,
+  "timestamp": "2026-04-13T10:29:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 13.2154,
+      "prior_variance": 0.607855,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 6.8348,
+      "prior_variance": 0.717231,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 8.4557,
+      "prior_variance": 0.462192,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "China",
+      "path": "asia/china",
+      "prior_score": 1.5554,
+      "prior_variance": 0.717497,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Wyoming",
+      "path": "northamerica/unitedstates/wyoming",
+      "prior_score": 4.5522,
+      "prior_variance": 1.989922,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Montenegro",
+      "path": "europe/montenegro",
+      "prior_score": 7.2424,
+      "prior_variance": 0.473954,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 9.3606,
+      "prior_variance": 0.617069,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 8.7026,
+      "prior_variance": 0.752761,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.995,
+      "prior_variance": 0.420559,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_score": 8.531,
+      "prior_variance": 0.538803,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 8.0059,
+      "prior_variance": 0.474142,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 7.4879,
+      "prior_variance": 0.663249,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_score": 7.205,
+      "prior_variance": 0.63475,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "US Virgin Islands",
+      "path": "northamerica/thecaribbean/virginislands",
+      "prior_score": 7.8893,
+      "prior_variance": 0.733046,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 7.3913,
+      "prior_variance": 0.459278,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/south_island/marlborough",
+      "prior_score": 3.7652,
+      "prior_variance": 0.404431,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 6.3433,
+      "prior_variance": 0.45557,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.608,
+      "prior_variance": 0.468746,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_score": 8.3374,
+      "prior_variance": 0.353126,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 5.7929,
+      "prior_variance": 0.235236,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.4811,
+      "prior_variance": 0.513684,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_score": 2.3119,
+      "prior_variance": 0.53605,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 5.5745,
+      "prior_variance": 0.481936,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 6.1874,
+      "prior_variance": 0.51037,
+      "prior_n": 3
+    }
+  ]
+}

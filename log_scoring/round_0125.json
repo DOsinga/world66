@@ -1,0 +1,200 @@
+{
+  "round": 125,
+  "timestamp": "2026-04-12T08:44:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/otago/fiordland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Fort-de-France",
+      "path": "northamerica/martinique/fortdefrance",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hillcrest",
+      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Berwick on Tweed",
+      "path": "europe/unitedkingdom/england/berwickontweed",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/yucatan/ojinaga",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

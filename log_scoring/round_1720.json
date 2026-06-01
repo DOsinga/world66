@@ -1,0 +1,200 @@
+{
+  "round": 1720,
+  "timestamp": "2026-04-13T10:45:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.2031,
+      "prior_variance": 0.297144,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 6.0902,
+      "prior_variance": 0.365248,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 1.8788,
+      "prior_variance": 0.444858,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 2.572,
+      "prior_variance": 0.274236,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 3.0613,
+      "prior_variance": 0.356042,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 1.5712,
+      "prior_variance": 0.386133,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": 1.4247,
+      "prior_variance": 0.314035,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_score": -2.3255,
+      "prior_variance": 0.429533,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.3411,
+      "prior_variance": 0.330594,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": -0.6618,
+      "prior_variance": 0.345876,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -0.9435,
+      "prior_variance": 0.332905,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -0.7432,
+      "prior_variance": 0.300921,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -1.0375,
+      "prior_variance": 0.314385,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -1.113,
+      "prior_variance": 0.420828,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": 0.8907,
+      "prior_variance": 0.383228,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_score": -1.4234,
+      "prior_variance": 0.257401,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -0.4891,
+      "prior_variance": 0.242318,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_score": -3.7741,
+      "prior_variance": 0.330089,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -3.4448,
+      "prior_variance": 0.383031,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -2.4051,
+      "prior_variance": 0.293144,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kragujevac",
+      "path": "europe/serbiaandmontenegro/kragujevac",
+      "prior_score": -4.3957,
+      "prior_variance": 0.484782,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -3.0922,
+      "prior_variance": 0.340965,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -3.5525,
+      "prior_variance": 0.32527,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_score": -7.602,
+      "prior_variance": 0.414656,
+      "prior_n": 5
+    }
+  ]
+}

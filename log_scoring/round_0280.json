@@ -1,0 +1,200 @@
+{
+  "round": 280,
+  "timestamp": "2026-04-12T09:09:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_mu": 29.6322,
+      "prior_sigma": 6.9341,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Corsica",
+      "path": "europe/france/corsica",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_mu": 22.7092,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_mu": 21.4259,
+      "prior_sigma": 2.8506,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_mu": 22.2211,
+      "prior_sigma": 5.7763,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/waikato/hamilton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "tacloban city",
+      "path": "asia/philippines/taclobancity/tacloban_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_mu": 22.8578,
+      "prior_sigma": 5.7263,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_mu": 18.3061,
+      "prior_sigma": 6.7534,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_mu": 22.5625,
+      "prior_sigma": 5.5355,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

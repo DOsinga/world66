@@ -1,0 +1,200 @@
+{
+  "round": 2204,
+  "timestamp": "2026-04-13T16:20:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oahu",
+      "path": "northamerica/unitedstates/hawaii/oahu",
+      "prior_score": 11.0484,
+      "prior_variance": 0.463493,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Campania",
+      "path": "europe/italy/campania",
+      "prior_score": 10.4572,
+      "prior_variance": 0.972969,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 5.6113,
+      "prior_variance": 0.271162,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 1.7679,
+      "prior_variance": 0.198321,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.3034,
+      "prior_variance": 0.234625,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine/poitiers",
+      "prior_score": 1.0647,
+      "prior_variance": 0.215405,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_score": 2.5822,
+      "prior_variance": 0.217647,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_score": 4.2615,
+      "prior_variance": 0.246902,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 2.9769,
+      "prior_variance": 0.330584,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sieve Valley",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley",
+      "prior_score": 4.6579,
+      "prior_variance": 0.290621,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 2.1464,
+      "prior_variance": 0.194056,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_score": 2.7362,
+      "prior_variance": 0.233973,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 1.9671,
+      "prior_variance": 0.194115,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_score": 0.4855,
+      "prior_variance": 0.226748,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 1.26,
+      "prior_variance": 0.208787,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.1273,
+      "prior_variance": 0.253573,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 1.3052,
+      "prior_variance": 0.214195,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": 0.088,
+      "prior_variance": 0.261312,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.9962,
+      "prior_variance": 0.250041,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_score": -0.8305,
+      "prior_variance": 0.249124,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_score": -2.7323,
+      "prior_variance": 0.241543,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_score": -0.4651,
+      "prior_variance": 0.268928,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/eastern_england/chigwell",
+      "prior_score": -4.5967,
+      "prior_variance": 0.309517,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -2.129,
+      "prior_variance": 0.234993,
+      "prior_n": 6
+    }
+  ]
+}

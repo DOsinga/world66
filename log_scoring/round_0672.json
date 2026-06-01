@@ -1,0 +1,200 @@
+{
+  "round": 672,
+  "timestamp": "2026-04-12T10:42:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_mu": 23.0439,
+      "prior_sigma": 4.9598,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_mu": 30.0657,
+      "prior_sigma": 6.6178,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_mu": 28.1814,
+      "prior_sigma": 5.7393,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_mu": 23.1522,
+      "prior_sigma": 4.7507,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_mu": 22.8597,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_mu": 22.654,
+      "prior_sigma": 5.7828,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_mu": 22.9943,
+      "prior_sigma": 5.7618,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Halong City",
+      "path": "asia/vietnam/cat_ba_island/halong_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_mu": 22.1862,
+      "prior_sigma": 5.3339,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_mu": 20.6549,
+      "prior_sigma": 2.6116,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_mu": 22.4841,
+      "prior_sigma": 5.9495,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_mu": 22.419,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1527,
+  "timestamp": "2026-04-13T10:28:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 2.9316,
+      "prior_variance": 0.445272,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -0.2187,
+      "prior_variance": 0.473513,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -3.3927,
+      "prior_variance": 0.397194,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "S.Mamede Infesta",
+      "path": "europe/portugal/smamedeinfesta",
+      "prior_score": -5.6271,
+      "prior_variance": 0.337326,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ravi",
+      "path": "europe/estonia/voru/ravi",
+      "prior_score": -6.5097,
+      "prior_variance": 0.541153,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -6.1792,
+      "prior_variance": 0.317539,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": -5.8034,
+      "prior_variance": 0.459814,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -4.9422,
+      "prior_variance": 0.37854,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -6.169,
+      "prior_variance": 0.482614,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_score": -7.4696,
+      "prior_variance": 0.683518,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -6.5877,
+      "prior_variance": 0.339982,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.2267,
+      "prior_variance": 0.414406,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sandy",
+      "path": "northamerica/unitedstates/utah/sandy",
+      "prior_score": -5.9146,
+      "prior_variance": 0.581024,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -5.0912,
+      "prior_variance": 0.443696,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -6.601,
+      "prior_variance": 0.326412,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -6.7224,
+      "prior_variance": 0.421691,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -6.9319,
+      "prior_variance": 0.411229,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Reservoir",
+      "path": "australiaandpacific/australia/victoria/reservoir",
+      "prior_score": -7.1267,
+      "prior_variance": 0.416794,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -6.9668,
+      "prior_variance": 0.596599,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Penas Blancas",
+      "path": "northamerica/nicaragua/penas_blancas",
+      "prior_score": -7.159,
+      "prior_variance": 0.634513,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_score": -6.2157,
+      "prior_variance": 0.691196,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "schallodenbach",
+      "path": "europe/germany/rhinelandpalatinate/schallodenbach",
+      "prior_score": -8.0889,
+      "prior_variance": 0.625773,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Yengema",
+      "path": "africa/sierraleone/yengema",
+      "prior_score": -7.4123,
+      "prior_variance": 0.554171,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sefadu",
+      "path": "africa/sierraleone/sefadu",
+      "prior_score": -9.2968,
+      "prior_variance": 0.414612,
+      "prior_n": 3
+    }
+  ]
+}

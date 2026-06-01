@@ -1,0 +1,200 @@
+{
+  "round": 1644,
+  "timestamp": "2026-04-13T10:38:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 12.2153,
+      "prior_variance": 0.889642,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_score": 12.9409,
+      "prior_variance": 0.788403,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_score": 11.2808,
+      "prior_variance": 0.553251,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 8.3829,
+      "prior_variance": 0.452769,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_score": 5.9836,
+      "prior_variance": 0.401571,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_score": 8.1252,
+      "prior_variance": 0.554367,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 6.3486,
+      "prior_variance": 0.34316,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 10.7879,
+      "prior_variance": 0.713693,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 6.7114,
+      "prior_variance": 0.40966,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 6.3786,
+      "prior_variance": 0.624194,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
+      "prior_score": 4.6833,
+      "prior_variance": 0.479897,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": 1.2723,
+      "prior_variance": 0.376144,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "New South Wales",
+      "path": "australiaandpacific/australia/newsouthwales",
+      "prior_score": 0.7998,
+      "prior_variance": 0.486305,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 2.9273,
+      "prior_variance": 0.32538,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 2.9602,
+      "prior_variance": 0.396277,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 2.6139,
+      "prior_variance": 0.443763,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.4152,
+      "prior_variance": 0.324292,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.0942,
+      "prior_variance": 0.343249,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.3934,
+      "prior_variance": 0.356537,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": 0.1982,
+      "prior_variance": 0.326738,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -3.5377,
+      "prior_variance": 0.410337,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -1.5927,
+      "prior_variance": 0.368769,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "San Marcos",
+      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
+      "prior_score": -3.0631,
+      "prior_variance": 0.324408,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/eastern_england/ware",
+      "prior_score": -3.6514,
+      "prior_variance": 0.426515,
+      "prior_n": 4
+    }
+  ]
+}

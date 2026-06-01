@@ -1,0 +1,200 @@
+{
+  "round": 490,
+  "timestamp": "2026-04-12T09:32:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_mu": 22.5178,
+      "prior_sigma": 5.4132,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_mu": 23.4407,
+      "prior_sigma": 4.9378,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_mu": 22.6186,
+      "prior_sigma": 5.6787,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_mu": 21.812,
+      "prior_sigma": 4.609,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_mu": 22.6747,
+      "prior_sigma": 5.9439,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_mu": 21.3311,
+      "prior_sigma": 3.1861,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_mu": 21.6123,
+      "prior_sigma": 4.5393,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Poughkeepsie",
+      "path": "northamerica/unitedstates/newyorkstate/poughkeepsie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/fullerton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_mu": 22.488,
+      "prior_sigma": 5.5265,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_mu": 22.9223,
+      "prior_sigma": 5.4439,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Plantation",
+      "path": "northamerica/unitedstates/florida/plantation",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Iowa",
+      "path": "northamerica/unitedstates/iowa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/southcarolina/newport",
+      "prior_mu": 21.9062,
+      "prior_sigma": 4.4867,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Urbana",
+      "path": "northamerica/unitedstates/ohio/urbana",
+      "prior_mu": 20.5383,
+      "prior_sigma": 4.5526,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1448,
+  "timestamp": "2026-04-12T22:28:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salt island",
+      "path": "northamerica/britishvirginislands/saltisland",
+      "prior_rank": 3396,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Courchevel",
+      "path": "europe/switzerland/courchevel",
+      "prior_rank": 4530,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_rank": 6725,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_rank": 4713,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_rank": 5109,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_rank": 3381,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_rank": 3264,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_rank": 3771,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_rank": 4254,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ludlow",
+      "path": "northamerica/unitedstates/vermont/ludlow",
+      "prior_rank": 3229,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_rank": 3958,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_rank": 5118,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_rank": 7663,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_rank": 5689,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_rank": 4238,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_rank": 2520,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_rank": 4880,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_rank": 5142,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Toowoomba",
+      "path": "australiaandpacific/australia/queensland/toowoomba",
+      "prior_rank": 4886,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_rank": 2978,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_rank": 5451,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_rank": 7387,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_rank": 5885,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Awdal",
+      "path": "africa/somaliland/awdal",
+      "prior_rank": 6651,
+      "prior_wins": 28,
+      "prior_n": 5
+    }
+  ]
+}

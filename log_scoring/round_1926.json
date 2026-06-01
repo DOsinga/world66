@@ -1,0 +1,200 @@
+{
+  "round": 1926,
+  "timestamp": "2026-04-13T15:54:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.4821,
+      "prior_variance": 0.27109,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 4.9547,
+      "prior_variance": 0.333351,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 4.38,
+      "prior_variance": 0.414318,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.6792,
+      "prior_variance": 0.320273,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_score": 4.6298,
+      "prior_variance": 0.328672,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Viti levu",
+      "path": "australiaandpacific/fiji/vitilevu",
+      "prior_score": 6.3098,
+      "prior_variance": 0.333239,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Peru",
+      "path": "southamerica/peru",
+      "prior_score": -0.3193,
+      "prior_variance": 0.429553,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 6.18,
+      "prior_variance": 0.276421,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.7868,
+      "prior_variance": 0.252521,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 6.1922,
+      "prior_variance": 0.306101,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_score": 2.7148,
+      "prior_variance": 0.411584,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_score": -0.2114,
+      "prior_variance": 0.579875,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_score": -1.0559,
+      "prior_variance": 0.304153,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 1.2852,
+      "prior_variance": 0.256088,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 1.7873,
+      "prior_variance": 0.281606,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -1.2077,
+      "prior_variance": 0.301019,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -0.4379,
+      "prior_variance": 0.276855,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -1.8382,
+      "prior_variance": 0.238831,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.8804,
+      "prior_variance": 0.311092,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -3.7057,
+      "prior_variance": 0.239807,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -5.1964,
+      "prior_variance": 0.317054,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_score": -6.5702,
+      "prior_variance": 0.458542,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_score": -8.6832,
+      "prior_variance": 0.542306,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_score": -14.7005,
+      "prior_variance": 0.688965,
+      "prior_n": 5
+    }
+  ]
+}

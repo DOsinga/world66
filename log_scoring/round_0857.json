@@ -1,0 +1,200 @@
+{
+  "round": 857,
+  "timestamp": "2026-04-12T14:45:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_eus/sansebastian",
+      "prior_score": 14.2517,
+      "prior_variance": 7.566817,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 8.4125,
+      "prior_variance": 2.922981,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 12.7733,
+      "prior_variance": 3.393634,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 3.9576,
+      "prior_variance": 1.507815,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "North Cape",
+      "path": "europe/norway/northcape",
+      "prior_score": 9.1268,
+      "prior_variance": 1.747181,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 3.7421,
+      "prior_variance": 1.582045,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": -0.8503,
+      "prior_variance": 1.312921,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 3.4002,
+      "prior_variance": 1.483465,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 4.4025,
+      "prior_variance": 1.657913,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.563,
+      "prior_variance": 0.472655,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/wanganui",
+      "prior_score": -0.0677,
+      "prior_variance": 1.242194,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "San Giorgio Lucano",
+      "path": "europe/italy/basilicata/san_giorgio_lucano",
+      "prior_score": -6.309,
+      "prior_variance": 1.278603,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -4.1097,
+      "prior_variance": 0.435824,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -2.4974,
+      "prior_variance": 1.312609,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Benguet",
+      "path": "asia/philippines/benguet",
+      "prior_score": 1.208,
+      "prior_variance": 1.445265,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_score": -11.0132,
+      "prior_variance": 9.219431,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -1.8109,
+      "prior_variance": 1.274992,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -3.1355,
+      "prior_variance": 1.698681,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -6.7319,
+      "prior_variance": 2.015072,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gran chaco",
+      "path": "southamerica/paraguay/granchaco",
+      "prior_score": -10.4784,
+      "prior_variance": 9.197396,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -10.023,
+      "prior_variance": 3.621951,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -12.2033,
+      "prior_variance": 0.447725,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -13.049,
+      "prior_variance": 3.046306,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -12.957,
+      "prior_variance": 7.555558,
+      "prior_n": 1
+    }
+  ]
+}

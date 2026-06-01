@@ -1,0 +1,200 @@
+{
+  "round": 1651,
+  "timestamp": "2026-04-13T10:39:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Korcula",
+      "path": "europe/croatia/korcula",
+      "prior_score": 7.3554,
+      "prior_variance": 0.35325,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 3.3588,
+      "prior_variance": 0.310245,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Basque Region",
+      "path": "europe/france/midi/basqueregion",
+      "prior_score": 4.3616,
+      "prior_variance": 0.432638,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.2697,
+      "prior_variance": 0.346689,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.8614,
+      "prior_variance": 0.346185,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_score": -2.0733,
+      "prior_variance": 0.367549,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": 0.0743,
+      "prior_variance": 0.337638,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": -0.5917,
+      "prior_variance": 0.313843,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -5.0556,
+      "prior_variance": 0.607358,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -5.4902,
+      "prior_variance": 0.36468,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.4079,
+      "prior_variance": 0.329639,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.5099,
+      "prior_variance": 0.314362,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -1.809,
+      "prior_variance": 0.401189,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -2.0141,
+      "prior_variance": 0.231914,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lower saxony",
+      "path": "europe/germany/lowersaxony",
+      "prior_score": -3.0721,
+      "prior_variance": 0.514965,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_score": -3.6271,
+      "prior_variance": 0.198873,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/skegness",
+      "prior_score": -3.9479,
+      "prior_variance": 0.41289,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -1.8077,
+      "prior_variance": 0.322929,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_score": -3.5588,
+      "prior_variance": 0.394402,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "United States",
+      "path": "northamerica/unitedstates",
+      "prior_score": -5.6663,
+      "prior_variance": 0.529138,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "San Marcos",
+      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
+      "prior_score": -3.1091,
+      "prior_variance": 0.277452,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.7021,
+      "prior_variance": 0.42025,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -5.7492,
+      "prior_variance": 0.433916,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/fresno",
+      "prior_score": -4.6436,
+      "prior_variance": 0.365535,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 986,
+  "timestamp": "2026-04-12T22:03:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica1",
+      "prior_rank": 7256,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_rank": 6877,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_rank": 7391,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_rank": 6523,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_rank": 7272,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_rank": 6033,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_rank": 4616,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_rank": 7252,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_rank": 5770,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_rank": 6537,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_rank": 7672,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_rank": 6583,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_rank": 5072,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_rank": 6764,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_rank": 4103,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_rank": 5844,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_franc",
+      "prior_rank": 6531,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_rank": 6566,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_rank": 6140,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_rank": 6890,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_rank": 7495,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_rank": 6239,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_rank": 4893,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Uganda",
+      "path": "africa/uganda",
+      "prior_rank": 6577,
+      "prior_wins": 5,
+      "prior_n": 1
+    }
+  ]
+}

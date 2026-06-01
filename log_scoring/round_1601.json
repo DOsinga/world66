@@ -1,0 +1,200 @@
+{
+  "round": 1601,
+  "timestamp": "2026-04-13T10:34:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.6132,
+      "prior_variance": 0.587413,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 10.8485,
+      "prior_variance": 0.791945,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 8.931,
+      "prior_variance": 0.524141,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Halong City",
+      "path": "asia/vietnam/cat_ba_island/halong_city",
+      "prior_score": 6.1356,
+      "prior_variance": 0.501671,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 8.0486,
+      "prior_variance": 0.407171,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 7.3472,
+      "prior_variance": 0.363692,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 7.8922,
+      "prior_variance": 0.600328,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 7.3539,
+      "prior_variance": 0.420387,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Taiwan",
+      "path": "asia/taiwan",
+      "prior_score": 8.0261,
+      "prior_variance": 0.431448,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tenerife",
+      "path": "europe/spain/canaryislands/tenerife",
+      "prior_score": 8.5527,
+      "prior_variance": 0.496872,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.3802,
+      "prior_variance": 0.424378,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 5.7739,
+      "prior_variance": 0.4765,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_score": 8.8494,
+      "prior_variance": 0.593704,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_score": 6.0867,
+      "prior_variance": 0.463204,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_score": 5.4584,
+      "prior_variance": 0.697946,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pantanal",
+      "path": "southamerica/brazil/pantanal",
+      "prior_score": 5.6696,
+      "prior_variance": 0.418383,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 7.6806,
+      "prior_variance": 0.47301,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_score": 6.1171,
+      "prior_variance": 0.63314,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 2.8868,
+      "prior_variance": 0.432177,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "1",
+      "path": "europe/france/val_disere/1_2",
+      "prior_score": 4.0562,
+      "prior_variance": 0.421028,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -2.2963,
+      "prior_variance": 0.583571,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_score": 1.5308,
+      "prior_variance": 1.07491,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Universities",
+      "path": "northamerica/canada/alberta/edmonton/universities",
+      "prior_score": -5.2769,
+      "prior_variance": 0.392303,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisc",
+      "prior_score": -6.7147,
+      "prior_variance": 0.881109,
+      "prior_n": 3
+    }
+  ]
+}

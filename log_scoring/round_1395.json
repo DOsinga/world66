@@ -1,0 +1,200 @@
+{
+  "round": 1395,
+  "timestamp": "2026-04-12T22:25:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_rank": 3063,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_rank": 3283,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_rank": 2556,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Berwick on Tweed",
+      "path": "europe/unitedkingdom/england/berwickontweed",
+      "prior_rank": 3422,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/girona/banyoles",
+      "prior_rank": 2889,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_rank": 1748,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_rank": 2158,
+      "prior_wins": 106,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_rank": 2515,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_rank": 3068,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_rank": 2619,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_rank": 4106,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_rank": 4302,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_rank": 4629,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_rank": 5796,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverp/gawthorpe_hall",
+      "prior_rank": 2771,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_rank": 4707,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_rank": 6183,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_rank": 4167,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_rank": 6541,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_rank": 5799,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_rank": 6682,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_rank": 4494,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_rank": 1745,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Gauteng",
+      "path": "africa/southafrica/gauteng",
+      "prior_rank": 4936,
+      "prior_wins": 30,
+      "prior_n": 3
+    }
+  ]
+}

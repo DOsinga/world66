@@ -1,0 +1,200 @@
+{
+  "round": 2312,
+  "timestamp": "2026-04-13T16:30:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ryukyu islands",
+      "path": "asia/japan/ryukyuislands",
+      "prior_score": 8.0583,
+      "prior_variance": 0.406709,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "New Caledonia",
+      "path": "australiaandpacific/newcaledonia",
+      "prior_score": 4.4091,
+      "prior_variance": 0.321354,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 1.9361,
+      "prior_variance": 0.211662,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -3.1544,
+      "prior_variance": 0.269771,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -3.0965,
+      "prior_variance": 0.221172,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -1.4999,
+      "prior_variance": 0.214215,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.3478,
+      "prior_variance": 0.218124,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -1.3987,
+      "prior_variance": 0.180598,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -1.3206,
+      "prior_variance": 0.170801,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -3.6666,
+      "prior_variance": 0.217432,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -1.7445,
+      "prior_variance": 0.208625,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_score": -6.6256,
+      "prior_variance": 0.277645,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_score": -5.2903,
+      "prior_variance": 0.259833,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.702,
+      "prior_variance": 0.217812,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_score": -4.145,
+      "prior_variance": 0.21131,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_score": -4.1258,
+      "prior_variance": 0.171007,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_score": -3.6238,
+      "prior_variance": 0.205407,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -4.584,
+      "prior_variance": 0.238427,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Havre",
+      "path": "northamerica/unitedstates/montana/havre",
+      "prior_score": -4.7296,
+      "prior_variance": 0.234617,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ambala",
+      "path": "asia/india/haryana/ambala",
+      "prior_score": -5.1805,
+      "prior_variance": 0.226522,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Balaghat",
+      "path": "asia/india/madhyapradesh/balaghat",
+      "prior_score": -5.3395,
+      "prior_variance": 0.327491,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -4.8436,
+      "prior_variance": 0.196939,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Garca",
+      "path": "southamerica/brazil/garca",
+      "prior_score": -5.6633,
+      "prior_variance": 0.277107,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_score": -8.6134,
+      "prior_variance": 0.310405,
+      "prior_n": 6
+    }
+  ]
+}

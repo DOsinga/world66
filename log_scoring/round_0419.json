@@ -1,0 +1,200 @@
+{
+  "round": 419,
+  "timestamp": "2026-04-12T09:30:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oahu",
+      "path": "northamerica/unitedstates/hawaii/oahu",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_mu": 22.3839,
+      "prior_sigma": 5.797,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Tampa Bay Area",
+      "path": "northamerica/unitedstates/florida/tampabayarea",
+      "prior_mu": 21.9461,
+      "prior_sigma": 4.8372,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_mu": 22.2761,
+      "prior_sigma": 5.7838,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_mu": 22.2327,
+      "prior_sigma": 5.5363,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_mu": 22.8869,
+      "prior_sigma": 5.7238,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Windsor",
+      "path": "northamerica/unitedstates/california/windsor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_mu": 22.4313,
+      "prior_sigma": 5.9005,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_mu": 22.7843,
+      "prior_sigma": 5.7172,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/ontario",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_mu": 22.5525,
+      "prior_sigma": 5.6659,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_mu": 21.3291,
+      "prior_sigma": 5.496,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_mu": 18.0998,
+      "prior_sigma": 6.6994,
+      "prior_n": 1
+    }
+  ]
+}

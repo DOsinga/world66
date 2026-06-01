@@ -1,0 +1,200 @@
+{
+  "round": 797,
+  "timestamp": "2026-04-12T10:48:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_mu": 27.067,
+      "prior_sigma": 5.4782,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_mu": 22.2426,
+      "prior_sigma": 5.3156,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Egypt",
+      "path": "africa/egypt",
+      "prior_mu": 27.1404,
+      "prior_sigma": 5.0828,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_mu": 25.5588,
+      "prior_sigma": 5.4617,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_mu": 22.4153,
+      "prior_sigma": 4.5996,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_mu": 20.2101,
+      "prior_sigma": 5.2431,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_mu": 21.7831,
+      "prior_sigma": 4.6027,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_mu": 22.518,
+      "prior_sigma": 5.7828,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_mu": 22.5037,
+      "prior_sigma": 5.6548,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_mu": 21.7216,
+      "prior_sigma": 4.5926,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_mu": 21.6281,
+      "prior_sigma": 4.4683,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_mu": 21.6664,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_mu": 22.356,
+      "prior_sigma": 5.4534,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_mu": 22.5016,
+      "prior_sigma": 5.6836,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_mu": 17.2121,
+      "prior_sigma": 6.162,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Enewetok",
+      "path": "australiaandpacific/marshallislands/enewetokatoll/enewetok",
+      "prior_mu": 19.2904,
+      "prior_sigma": 4.9012,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_mu": 22.369,
+      "prior_sigma": 5.4189,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_mu": 21.269,
+      "prior_sigma": 4.5848,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_mu": 22.6463,
+      "prior_sigma": 5.6776,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "ocotal,nueva segovia",
+      "path": "northamerica/nicaragua/ocotalnueva_segov",
+      "prior_mu": 22.5949,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_mu": 17.9746,
+      "prior_sigma": 6.3601,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Rajar (Khushab)",
+      "path": "asia/pakistan/islamabad/rajar_khushab",
+      "prior_mu": 20.2824,
+      "prior_sigma": 4.5252,
+      "prior_n": 2
+    }
+  ]
+}

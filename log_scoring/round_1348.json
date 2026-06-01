@@ -1,0 +1,200 @@
+{
+  "round": 1348,
+  "timestamp": "2026-04-12T22:22:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_rank": 5151,
+      "prior_wins": 47,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_rank": 5525,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
+      "prior_rank": 2941,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_rank": 3317,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_rank": 5935,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_rank": 6554,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_rank": 5027,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_rank": 5724,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_rank": 5325,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_rank": 4655,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_rank": 6429,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_rank": 6047,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_rank": 3647,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_rank": 4525,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_notting/loughborough",
+      "prior_rank": 5157,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_rank": 5135,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_rank": 4848,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_rank": 6990,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_rank": 5534,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_rank": 4362,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_rank": 5395,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_rank": 4877,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_rank": 4135,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nui Atoll",
+      "path": "australiaandpacific/tuvalu/nuiatoll",
+      "prior_rank": 4548,
+      "prior_wins": 24,
+      "prior_n": 3
+    }
+  ]
+}

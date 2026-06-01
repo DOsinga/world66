@@ -1,0 +1,200 @@
+{
+  "round": 1434,
+  "timestamp": "2026-04-12T22:27:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_rank": 1341,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_rank": 752,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_rank": 4290,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_rank": 2529,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
+      "prior_rank": 1258,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_rank": 3973,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_rank": 2110,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_rank": 2174,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_rank": 2271,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_rank": 4276,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_rank": 3944,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ponce",
+      "path": "northamerica/puertorico/ponce",
+      "prior_rank": 4265,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_rank": 2690,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_rank": 1858,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_rank": 1968,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_rank": 3954,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_rank": 3241,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_rank": 2091,
+      "prior_wins": 76,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_rank": 3727,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_rank": 3557,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_rank": 3496,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_rank": 2080,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_rank": 3597,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_rank": 3026,
+      "prior_wins": 40,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "round": 1,
+  "timestamp": "2026-04-11T15:39:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

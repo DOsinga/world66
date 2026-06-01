@@ -1,0 +1,64 @@
+{
+  "round": 630,
+  "timestamp": "2026-04-12T10:40:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 7,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_mu": 26.5303,
+      "prior_sigma": 5.2897,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_mu": 29.9798,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_mu": 24.7788,
+      "prior_sigma": 6.1404,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_mu": 23.5265,
+      "prior_sigma": 5.7202,
+      "prior_n": 1
+    }
+  ]
+}

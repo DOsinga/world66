@@ -1,0 +1,200 @@
+{
+  "round": 1585,
+  "timestamp": "2026-04-13T10:33:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 6.2534,
+      "prior_variance": 0.576982,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 3.9355,
+      "prior_variance": 0.35921,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 5.4885,
+      "prior_variance": 0.332964,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/grasmere",
+      "prior_score": 3.8929,
+      "prior_variance": 0.315709,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.9888,
+      "prior_variance": 0.392202,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 3.5636,
+      "prior_variance": 0.421216,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": -0.5344,
+      "prior_variance": 0.433776,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 3.7957,
+      "prior_variance": 0.375588,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.867,
+      "prior_variance": 0.369396,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_score": 1.5173,
+      "prior_variance": 0.434296,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 6.2879,
+      "prior_variance": 0.394852,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Marburg",
+      "path": "europe/germany/hesse/marburg",
+      "prior_score": 2.2983,
+      "prior_variance": 0.373346,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.8209,
+      "prior_variance": 0.325579,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 3.064,
+      "prior_variance": 0.308962,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 3.9756,
+      "prior_variance": 0.480075,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 2.1462,
+      "prior_variance": 0.360853,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 3.4824,
+      "prior_variance": 0.324604,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 2.4844,
+      "prior_variance": 0.446064,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": 1.9588,
+      "prior_variance": 0.246281,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_score": 2.2953,
+      "prior_variance": 0.450638,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.4217,
+      "prior_variance": 0.427334,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 0.4627,
+      "prior_variance": 0.34586,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.0267,
+      "prior_variance": 0.416571,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tajikistan",
+      "path": "asia/tajikistan",
+      "prior_score": -1.1026,
+      "prior_variance": 0.507212,
+      "prior_n": 4
+    }
+  ]
+}

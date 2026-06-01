@@ -1,0 +1,200 @@
+{
+  "round": 975,
+  "timestamp": "2026-04-12T16:10:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_rank": 1079,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_rank": 1109,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Suzhou",
+      "path": "asia/china/suzhou",
+      "prior_rank": 909,
+      "prior_wins": 119,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_rank": 2878,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_rank": 4064,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_rank": 1487,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_rank": 5395,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/liverpool",
+      "prior_rank": 1579,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_rank": 367,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_rank": 2972,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Datong",
+      "path": "asia/china/datong",
+      "prior_rank": 3788,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_rank": 5946,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_rank": 3958,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_rank": 2302,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_rank": 6384,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cochrane",
+      "path": "northamerica/canada/alberta/cochrane",
+      "prior_rank": 5598,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_rank": 4758,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/eastern_england/peterborough",
+      "prior_rank": 7484,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_rank": 7107,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/anahuac",
+      "prior_rank": 7571,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tipping",
+      "path": "northamerica/costarica/travelinformation/tipping",
+      "prior_rank": 7163,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_rank": 7330,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_rank": 5911,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_rank": 8205,
+      "prior_wins": 3,
+      "prior_n": 8
+    }
+  ]
+}

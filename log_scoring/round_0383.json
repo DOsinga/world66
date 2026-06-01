@@ -1,0 +1,200 @@
+{
+  "round": 383,
+  "timestamp": "2026-04-12T09:14:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Lombardia",
+      "path": "europe/italy/lombardia",
+      "prior_mu": 22.7616,
+      "prior_sigma": 5.7121,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monterey",
+      "prior_mu": 23.1131,
+      "prior_sigma": 4.9684,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_mu": 22.0737,
+      "prior_sigma": 4.6868,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_mu": 22.2035,
+      "prior_sigma": 5.7749,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_mu": 22.4179,
+      "prior_sigma": 5.8989,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_mu": 22.2891,
+      "prior_sigma": 5.7854,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Steinweiler",
+      "path": "europe/germany/bavaria/steinweiler",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

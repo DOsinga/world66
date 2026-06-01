@@ -1,0 +1,200 @@
+{
+  "round": 18,
+  "timestamp": "2026-04-11T19:24:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/northland/te_paki_stream",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_mu": 21.98,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jackson Heights",
+      "path": "northamerica/unitedstates/newyorkstate/jacksonheights",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    }
+  ]
+}

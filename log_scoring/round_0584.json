@@ -1,0 +1,120 @@
+{
+  "round": 584,
+  "timestamp": "2026-04-12T10:38:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 14,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_mu": 23.2087,
+      "prior_sigma": 5.5133,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Slovakia",
+      "path": "europe/slovakia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_mu": 22.2661,
+      "prior_sigma": 5.9494,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_mu": 22.7685,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_mu": 21.2615,
+      "prior_sigma": 3.4174,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_mu": 22.5536,
+      "prior_sigma": 5.7145,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_mu": 22.3629,
+      "prior_sigma": 5.9454,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_mu": 21.5349,
+      "prior_sigma": 4.6506,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_mu": 22.5614,
+      "prior_sigma": 5.8869,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_mu": 22.3379,
+      "prior_sigma": 5.9127,
+      "prior_n": 1
+    }
+  ]
+}

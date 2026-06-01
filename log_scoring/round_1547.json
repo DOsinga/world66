@@ -1,0 +1,200 @@
+{
+  "round": 1547,
+  "timestamp": "2026-04-13T10:30:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lakes District",
+      "path": "southamerica/chile/lakesdistrict",
+      "prior_score": 5.1737,
+      "prior_variance": 0.349779,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 4.4234,
+      "prior_variance": 0.306504,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 4.4037,
+      "prior_variance": 0.524061,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_score": 5.5909,
+      "prior_variance": 0.403806,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.6023,
+      "prior_variance": 0.431747,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 1.6545,
+      "prior_variance": 0.314237,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 3.6397,
+      "prior_variance": 0.285907,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 4.9404,
+      "prior_variance": 0.359388,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.68,
+      "prior_variance": 0.361139,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 4.0125,
+      "prior_variance": 0.47573,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 4.2798,
+      "prior_variance": 0.335301,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 3.6678,
+      "prior_variance": 0.429071,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.8212,
+      "prior_variance": 0.410186,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.3431,
+      "prior_variance": 0.640261,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 4.6429,
+      "prior_variance": 0.338435,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 3.906,
+      "prior_variance": 0.4927,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Soppong",
+      "path": "asia/thailand/maehongson/soppong",
+      "prior_score": 2.8284,
+      "prior_variance": 0.422278,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 2.5404,
+      "prior_variance": 0.369611,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 4.5126,
+      "prior_variance": 0.354275,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.8021,
+      "prior_variance": 0.446501,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": 1.0444,
+      "prior_variance": 0.490294,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 1.6143,
+      "prior_variance": 0.244304,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": 0.7613,
+      "prior_variance": 0.47154,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.6404,
+      "prior_variance": 0.411158,
+      "prior_n": 3
+    }
+  ]
+}

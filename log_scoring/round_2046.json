@@ -1,0 +1,200 @@
+{
+  "round": 2046,
+  "timestamp": "2026-04-13T16:05:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 6.0192,
+      "prior_variance": 0.284334,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.5903,
+      "prior_variance": 0.297698,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 3.0754,
+      "prior_variance": 0.269257,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 1.2854,
+      "prior_variance": 0.243397,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_score": 2.0014,
+      "prior_variance": 0.263141,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.8651,
+      "prior_variance": 0.270502,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -1.8073,
+      "prior_variance": 0.256523,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": -0.4701,
+      "prior_variance": 0.255069,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Teton Valley",
+      "path": "northamerica/unitedstates/idaho/teton_valley",
+      "prior_score": 1.4139,
+      "prior_variance": 0.257817,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": 0.0863,
+      "prior_variance": 0.197944,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -5.5789,
+      "prior_variance": 0.373845,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bad Kreuznach",
+      "path": "europe/germany/rhinelandpalatinate/badkreuznach",
+      "prior_score": -0.7916,
+      "prior_variance": 0.274122,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -1.3288,
+      "prior_variance": 0.256762,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -3.5995,
+      "prior_variance": 0.267904,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.3591,
+      "prior_variance": 0.284582,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 1.3837,
+      "prior_variance": 0.33857,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.7211,
+      "prior_variance": 0.311215,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.7014,
+      "prior_variance": 0.26579,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/fresno",
+      "prior_score": -4.9514,
+      "prior_variance": 0.358126,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Orpington",
+      "path": "europe/unitedkingdom/england/orpington",
+      "prior_score": -4.9458,
+      "prior_variance": 0.320554,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -3.7278,
+      "prior_variance": 0.254346,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_score": -5.6435,
+      "prior_variance": 0.273453,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.1187,
+      "prior_variance": 0.256388,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -6.0956,
+      "prior_variance": 0.257326,
+      "prior_n": 5
+    }
+  ]
+}

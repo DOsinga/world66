@@ -1,0 +1,200 @@
+{
+  "round": 1106,
+  "timestamp": "2026-04-12T22:09:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_rank": 6900,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_rank": 6136,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_rank": 5962,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_rank": 6704,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_rank": 6164,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_rank": 4838,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Anglure",
+      "path": "europe/france/east/champagne/anglure",
+      "prior_rank": 8046,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_rank": 5854,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_rank": 6118,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_rank": 5428,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Roma",
+      "path": "australiaandpacific/australia/queensland/roma",
+      "prior_rank": 7178,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/losangeles/newhall",
+      "prior_rank": 6440,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_rank": 6094,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_rank": 6701,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_rank": 5248,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_rank": 7260,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga",
+      "prior_rank": 7006,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/yucatan/monterrey",
+      "prior_rank": 7151,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_rank": 6712,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_rank": 6752,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_rank": 6757,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_rank": 4764,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_rank": 7141,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_rank": 6737,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

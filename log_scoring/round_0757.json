@@ -1,0 +1,200 @@
+{
+  "round": 757,
+  "timestamp": "2026-04-12T10:46:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thailand",
+      "path": "asia/thailand",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_mu": 28.3377,
+      "prior_sigma": 4.9863,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Coral Coast",
+      "path": "australiaandpacific/fiji/vitilevu/coral_coast",
+      "prior_mu": 24.9766,
+      "prior_sigma": 4.478,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_mu": 22.7799,
+      "prior_sigma": 5.6003,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_mu": 25.5998,
+      "prior_sigma": 6.1313,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_mu": 22.6819,
+      "prior_sigma": 5.6513,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_mu": 23.4648,
+      "prior_sigma": 5.5609,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_mu": 21.9748,
+      "prior_sigma": 4.6143,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ponce",
+      "path": "northamerica/puertorico/ponce",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_mu": 21.138,
+      "prior_sigma": 4.011,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_mu": 21.3693,
+      "prior_sigma": 3.7261,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_mu": 22.4337,
+      "prior_sigma": 5.521,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Surinam",
+      "path": "africa/mauritius/souillac/surinam",
+      "prior_mu": 22.5443,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_mu": 21.9969,
+      "prior_sigma": 5.3248,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_mu": 20.5596,
+      "prior_sigma": 4.5407,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "lonsdale",
+      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
+      "prior_mu": 22.4463,
+      "prior_sigma": 5.9474,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Fort Bend County",
+      "path": "northamerica/unitedstates/texas/houston/fortbendcounty",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Griffith",
+      "path": "northamerica/unitedstates/indiana/griffith",
+      "prior_mu": 21.0931,
+      "prior_sigma": 4.6958,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_mu": 18.2826,
+      "prior_sigma": 4.967,
+      "prior_n": 2
+    }
+  ]
+}

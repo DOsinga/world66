@@ -1,0 +1,200 @@
+{
+  "round": 1353,
+  "timestamp": "2026-04-12T22:23:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_rank": 7515,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_rank": 3552,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_rank": 7550,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville_indian",
+      "prior_rank": 7328,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_rank": 6874,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ossendrecht",
+      "path": "europe/netherlands/ossendrecht",
+      "prior_rank": 7999,
+      "prior_wins": 15,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/eastern_england/peterborough",
+      "prior_rank": 7731,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_rank": 6575,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sherwood Park",
+      "path": "northamerica/canada/alberta/sherwoodpark",
+      "prior_rank": 6250,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_rank": 8036,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_rank": 6011,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_rank": 7177,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_rank": 7777,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_rank": 7749,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_rank": 6179,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_rank": 7336,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_rank": 6414,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_rank": 7357,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_rank": 6490,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_rank": 8035,
+      "prior_wins": 14,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_rank": 5530,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_rank": 4921,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_rank": 6451,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_rank": 7727,
+      "prior_wins": 11,
+      "prior_n": 3
+    }
+  ]
+}

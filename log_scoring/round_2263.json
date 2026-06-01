@@ -1,0 +1,200 @@
+{
+  "round": 2263,
+  "timestamp": "2026-04-13T16:25:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 10.9031,
+      "prior_variance": 0.575994,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_score": 2.8427,
+      "prior_variance": 0.276397,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 5.4131,
+      "prior_variance": 0.399298,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/bay_of_plenty",
+      "prior_score": 3.5506,
+      "prior_variance": 0.294184,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 2.6044,
+      "prior_variance": 0.1924,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 4.1606,
+      "prior_variance": 0.228896,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 1.552,
+      "prior_variance": 0.227667,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": -0.6963,
+      "prior_variance": 0.307585,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_score": 2.8349,
+      "prior_variance": 0.252171,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 3.0815,
+      "prior_variance": 0.235015,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.2653,
+      "prior_variance": 0.258868,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 1.8383,
+      "prior_variance": 0.2078,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": 0.4502,
+      "prior_variance": 0.243468,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_score": -2.0737,
+      "prior_variance": 0.222074,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Legazpi",
+      "path": "europe/spain/northernspain/legazpi",
+      "prior_score": -1.0048,
+      "prior_variance": 0.223975,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -0.7698,
+      "prior_variance": 0.266467,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 1.0145,
+      "prior_variance": 0.239108,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_score": -1.1689,
+      "prior_variance": 0.244367,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -3.4514,
+      "prior_variance": 0.270101,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -4.1951,
+      "prior_variance": 0.228552,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Athis-Mons",
+      "path": "europe/france/around_paris/athismons",
+      "prior_score": -4.907,
+      "prior_variance": 0.255878,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Carina",
+      "path": "australiaandpacific/australia/queensland/carina",
+      "prior_score": -5.6804,
+      "prior_variance": 0.29704,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Practical Information",
+      "path": "asia/cyprus/nicosia/practical_informat_1",
+      "prior_score": -5.7093,
+      "prior_variance": 0.343052,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Chad",
+      "path": "africa/chad",
+      "prior_score": -9.6272,
+      "prior_variance": 0.529439,
+      "prior_n": 6
+    }
+  ]
+}

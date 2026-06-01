@@ -1,0 +1,200 @@
+{
+  "round": 1980,
+  "timestamp": "2026-04-13T15:59:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 11.1833,
+      "prior_variance": 0.602478,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 8.7724,
+      "prior_variance": 0.370144,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 7.1169,
+      "prior_variance": 0.3144,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 2.222,
+      "prior_variance": 0.395891,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 4.5628,
+      "prior_variance": 0.288885,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 5.3121,
+      "prior_variance": 0.31323,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_score": 3.126,
+      "prior_variance": 0.275533,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 5.5,
+      "prior_variance": 0.364682,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/hawkes_bay/napier",
+      "prior_score": 3.76,
+      "prior_variance": 0.297296,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire",
+      "prior_score": 4.0256,
+      "prior_variance": 0.427846,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_score": 2.1216,
+      "prior_variance": 0.339113,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 4.5346,
+      "prior_variance": 0.277872,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.9492,
+      "prior_variance": 0.240918,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 3.1202,
+      "prior_variance": 0.291101,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 2.4745,
+      "prior_variance": 0.328515,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "South Dakota",
+      "path": "northamerica/unitedstates/southdakota",
+      "prior_score": 2.1706,
+      "prior_variance": 0.24375,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_score": -0.6677,
+      "prior_variance": 0.246745,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_score": -0.7023,
+      "prior_variance": 0.314542,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.2404,
+      "prior_variance": 0.361997,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.3357,
+      "prior_variance": 0.388442,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -5.6873,
+      "prior_variance": 0.33693,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.7496,
+      "prior_variance": 0.285579,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/eastern_england/berkhampsted",
+      "prior_score": -3.4238,
+      "prior_variance": 0.353512,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_score": -0.8538,
+      "prior_variance": 0.279226,
+      "prior_n": 6
+    }
+  ]
+}

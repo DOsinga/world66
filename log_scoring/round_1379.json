@@ -1,0 +1,200 @@
+{
+  "round": 1379,
+  "timestamp": "2026-04-12T22:24:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_rank": 5775,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_rank": 7059,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_rank": 5001,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_rank": 6700,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_rank": 5411,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_rank": 6423,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_rank": 5043,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/kaitaia",
+      "prior_rank": 4942,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_rank": 6172,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Comoros",
+      "path": "africa/comoros",
+      "prior_rank": 6313,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_rank": 6269,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_rank": 5534,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_rank": 5931,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_rank": 4714,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_rank": 6296,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_rank": 6630,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_rank": 5962,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_rank": 5275,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_rank": 5344,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_rank": 4307,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_rank": 5923,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_rank": 6562,
+      "prior_wins": 41,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_rank": 4718,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_rank": 4159,
+      "prior_wins": 27,
+      "prior_n": 3
+    }
+  ]
+}

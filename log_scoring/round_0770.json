@@ -1,0 +1,200 @@
+{
+  "round": 770,
+  "timestamp": "2026-04-12T10:47:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_mu": 22.5039,
+      "prior_sigma": 4.6028,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_mu": 21.6646,
+      "prior_sigma": 4.4255,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_mu": 23.7868,
+      "prior_sigma": 6.0502,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_mu": 22.749,
+      "prior_sigma": 6.0048,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/celleligure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_mu": 24.0368,
+      "prior_sigma": 4.6502,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_mu": 21.7354,
+      "prior_sigma": 3.7355,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_mu": 22.7175,
+      "prior_sigma": 5.6532,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_mu": 22.9651,
+      "prior_sigma": 5.5999,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_mu": 21.347,
+      "prior_sigma": 4.6735,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_mu": 22.5334,
+      "prior_sigma": 5.4506,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_mu": 22.6795,
+      "prior_sigma": 5.5061,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Marshall Islands",
+      "path": "australiaandpacific/marshallislands",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_mu": 22.3342,
+      "prior_sigma": 5.6678,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_mu": 21.5478,
+      "prior_sigma": 4.3739,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_mu": 22.4688,
+      "prior_sigma": 5.9329,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_mu": 21.4576,
+      "prior_sigma": 4.6726,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_mu": 22.2986,
+      "prior_sigma": 5.9438,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Renfrew",
+      "path": "europe/unitedkingdom/scotland/glasgow/renfrew",
+      "prior_mu": 21.3051,
+      "prior_sigma": 4.528,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_mu": 18.0093,
+      "prior_sigma": 6.6853,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mauritania",
+      "path": "africa/mauritania",
+      "prior_mu": 15.1225,
+      "prior_sigma": 4.5149,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_mu": 18.1347,
+      "prior_sigma": 6.6646,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

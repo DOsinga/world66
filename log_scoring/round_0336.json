@@ -1,0 +1,200 @@
+{
+  "round": 336,
+  "timestamp": "2026-04-12T09:12:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 31.5108,
+      "prior_sigma": 4.2113,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/cuba/vinales",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tiro",
+      "prior_mu": 23.2321,
+      "prior_sigma": 6.0054,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Palagru\u017ea",
+      "path": "europe/croatia/korcula/palagruza_island",
+      "prior_mu": 22.0634,
+      "prior_sigma": 5.5083,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_mu": 22.319,
+      "prior_sigma": 5.789,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Around Hue",
+      "path": "asia/vietnam/hue/aroundhue",
+      "prior_mu": 22.8597,
+      "prior_sigma": 5.8602,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_mu": 22.7298,
+      "prior_sigma": 5.9506,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ulm",
+      "path": "europe/germany/bade/ulm",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Red Bank",
+      "path": "northamerica/unitedstates/newjersey/redbank",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tattoos",
+      "path": "africa/southafrica/hermauns/tattoos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "KURADHI",
+      "path": "asia/pakistan/soon_valley/kuradhi",
+      "prior_mu": 18.3387,
+      "prior_sigma": 6.758,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_mu": 19.0839,
+      "prior_sigma": 2.9761,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

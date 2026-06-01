@@ -1,0 +1,200 @@
+{
+  "round": 269,
+  "timestamp": "2026-04-12T09:09:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "The Hamptons",
+      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Perast",
+      "path": "europe/serbiaandmontenegro/perast",
+      "prior_mu": 22.4687,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_mu": 22.5192,
+      "prior_sigma": 5.9123,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_mu": 22.8059,
+      "prior_sigma": 5.7146,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bad Kreuznach",
+      "path": "europe/germany/rhinelandpalatinate/badkreuznach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Viersen",
+      "path": "europe/germany/northrhinewestphalia/viersen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_mu": 22.7101,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "bapatla",
+      "path": "asia/india/andhrapradesh/bapatla",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ash Flat",
+      "path": "northamerica/unitedstates/arkansas/ashflat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

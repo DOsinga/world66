@@ -1,0 +1,200 @@
+{
+  "round": 530,
+  "timestamp": "2026-04-12T09:45:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 21.1861,
+      "prior_sigma": 2.9653,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Wadden islands",
+      "path": "europe/netherlands/waddenislands",
+      "prior_mu": 21.575,
+      "prior_sigma": 3.1655,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 22.4976,
+      "prior_sigma": 2.7418,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_mu": 23.407,
+      "prior_sigma": 2.7758,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_mu": 23.4133,
+      "prior_sigma": 2.2585,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_mu": 24.414,
+      "prior_sigma": 2.5633,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 22.542,
+      "prior_sigma": 2.1478,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 20.8784,
+      "prior_sigma": 2.3479,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.165,
+      "prior_sigma": 2.2038,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_mu": 21.0414,
+      "prior_sigma": 2.4698,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_mu": 20.9344,
+      "prior_sigma": 2.4014,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 20.6199,
+      "prior_sigma": 2.2927,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_mu": 21.7105,
+      "prior_sigma": 2.7625,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_mu": 20.5626,
+      "prior_sigma": 2.6379,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_mu": 20.8997,
+      "prior_sigma": 3.0384,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_mu": 20.569,
+      "prior_sigma": 2.4169,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 20.3306,
+      "prior_sigma": 2.2006,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_mu": 20.4497,
+      "prior_sigma": 2.823,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_mu": 19.9915,
+      "prior_sigma": 2.9269,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_mu": 20.2195,
+      "prior_sigma": 2.1366,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_mu": 19.8211,
+      "prior_sigma": 2.7857,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_mu": 20.8563,
+      "prior_sigma": 2.9598,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 20.4685,
+      "prior_sigma": 2.0382,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_mu": 12.0879,
+      "prior_sigma": 3.2843,
+      "prior_n": 6
+    }
+  ]
+}

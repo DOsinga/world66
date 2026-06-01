@@ -1,0 +1,200 @@
+{
+  "round": 656,
+  "timestamp": "2026-04-12T10:41:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_mu": 25.5053,
+      "prior_sigma": 5.094,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_mu": 23.1605,
+      "prior_sigma": 5.6324,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_mu": 25.3168,
+      "prior_sigma": 6.1961,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
+      "prior_mu": 23.966,
+      "prior_sigma": 4.6231,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_mu": 22.5896,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_mu": 25.8144,
+      "prior_sigma": 5.1761,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_mu": 23.1163,
+      "prior_sigma": 4.6373,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacoruna",
+      "prior_mu": 23.4811,
+      "prior_sigma": 5.7557,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_mu": 22.3686,
+      "prior_sigma": 5.7608,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_eus/guernika",
+      "prior_mu": 21.829,
+      "prior_sigma": 4.381,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_isl",
+      "prior_mu": 22.4425,
+      "prior_sigma": 5.9026,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_mu": 22.4541,
+      "prior_sigma": 5.7582,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_mu": 23.2141,
+      "prior_sigma": 5.6426,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/northernspain/ribeira_sacra",
+      "prior_mu": 22.3403,
+      "prior_sigma": 5.6368,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_mu": 21.5615,
+      "prior_sigma": 4.7228,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Noia",
+      "path": "europe/spain/northernspain/noia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_mu": 22.6667,
+      "prior_sigma": 5.9319,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_mu": 19.4235,
+      "prior_sigma": 5.0365,
+      "prior_n": 2
+    }
+  ]
+}

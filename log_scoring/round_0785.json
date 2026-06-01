@@ -1,0 +1,200 @@
+{
+  "round": 785,
+  "timestamp": "2026-04-12T10:48:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_mu": 26.1871,
+      "prior_sigma": 5.4786,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_mu": 22.8356,
+      "prior_sigma": 5.9292,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_mu": 24.2225,
+      "prior_sigma": 5.8848,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_mu": 22.9137,
+      "prior_sigma": 4.5357,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_mu": 21.7317,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_mu": 22.4615,
+      "prior_sigma": 5.3573,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_mu": 21.745,
+      "prior_sigma": 4.4861,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_mu": 22.7632,
+      "prior_sigma": 5.7153,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_mu": 22.389,
+      "prior_sigma": 5.5141,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_mu": 22.471,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_mu": 21.8683,
+      "prior_sigma": 4.5492,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_mu": 21.2419,
+      "prior_sigma": 3.3346,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_mu": 22.7111,
+      "prior_sigma": 5.683,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_mu": 22.2757,
+      "prior_sigma": 5.9494,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/solihull",
+      "prior_mu": 21.6508,
+      "prior_sigma": 4.4957,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

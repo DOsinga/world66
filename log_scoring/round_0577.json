@@ -1,0 +1,200 @@
+{
+  "round": 577,
+  "timestamp": "2026-04-12T10:38:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "The Finger Lakes",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_mu": 29.085,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_mu": 22.5767,
+      "prior_sigma": 5.5665,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_mu": 21.8999,
+      "prior_sigma": 4.4281,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_mu": 22.6092,
+      "prior_sigma": 5.475,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_mu": 21.7559,
+      "prior_sigma": 4.4183,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_mu": 21.9923,
+      "prior_sigma": 5.3023,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_mu": 21.227,
+      "prior_sigma": 4.0875,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_mu": 21.1202,
+      "prior_sigma": 3.8858,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Rapid City",
+      "path": "northamerica/unitedstates/southcarolina/rapidcity",
+      "prior_mu": 22.5617,
+      "prior_sigma": 5.5491,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_mu": 22.2074,
+      "prior_sigma": 5.8122,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_mu": 20.9297,
+      "prior_sigma": 4.6854,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_mu": 22.7424,
+      "prior_sigma": 5.7034,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_mu": 22.6942,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Slidell",
+      "path": "northamerica/unitedstates/louisiana/slidell",
+      "prior_mu": 21.6323,
+      "prior_sigma": 4.4193,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_mu": 22.4516,
+      "prior_sigma": 5.7195,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ashton",
+      "path": "northamerica/unitedstates/idaho/ashton",
+      "prior_mu": 22.0377,
+      "prior_sigma": 5.9118,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_mu": 22.0982,
+      "prior_sigma": 4.8366,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_mu": 22.5591,
+      "prior_sigma": 5.9385,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_mu": 18.0587,
+      "prior_sigma": 6.3885,
+      "prior_n": 1
+    }
+  ]
+}

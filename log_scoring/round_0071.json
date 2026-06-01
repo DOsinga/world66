@@ -1,0 +1,200 @@
+{
+  "round": 71,
+  "timestamp": "2026-04-12T08:02:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 26.75,
+      "prior_sigma": 4.25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 25.11,
+      "prior_sigma": 3.53,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_mu": 25.83,
+      "prior_sigma": 4.26,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_mu": 23.78,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_mu": 24.5,
+      "prior_sigma": 4.29,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_mu": 21.8,
+      "prior_sigma": 3.73,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_mu": 21.09,
+      "prior_sigma": 3.07,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Arno Atoll",
+      "path": "australiaandpacific/marshallislands/arnoatoll",
+      "prior_mu": 21.94,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_mu": 21.26,
+      "prior_sigma": 3.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_mu": 21.32,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 20.96,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 21.61,
+      "prior_sigma": 3.72,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_mu": 21.79,
+      "prior_sigma": 4.52,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.04,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_mu": 21.37,
+      "prior_sigma": 3.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_mu": 22.43,
+      "prior_sigma": 5.27,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 20.59,
+      "prior_sigma": 3.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Orpington",
+      "path": "europe/unitedkingdom/england/orpington",
+      "prior_mu": 18.88,
+      "prior_sigma": 3.9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_mu": 20.1,
+      "prior_sigma": 3.31,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_mu": 20.91,
+      "prior_sigma": 4.32,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_mu": 21.2,
+      "prior_sigma": 4.15,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_mu": 20.57,
+      "prior_sigma": 3.74,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_mu": 20.33,
+      "prior_sigma": 5.37,
+      "prior_n": 1
+    }
+  ]
+}

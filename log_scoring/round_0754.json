@@ -1,0 +1,200 @@
+{
+  "round": 754,
+  "timestamp": "2026-04-12T10:46:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_mu": 24.1231,
+      "prior_sigma": 4.9964,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compos",
+      "prior_mu": 23.0626,
+      "prior_sigma": 4.6567,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_mu": 29.8786,
+      "prior_sigma": 6.9058,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Trogirska Riviera",
+      "path": "europe/croatia/trogirska_riviera",
+      "prior_mu": 22.6528,
+      "prior_sigma": 4.0468,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_mu": 22.6341,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_mu": 22.6066,
+      "prior_sigma": 5.9121,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_mu": 22.1028,
+      "prior_sigma": 4.6712,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "South Pennines",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/south_pennines_yo",
+      "prior_mu": 22.8087,
+      "prior_sigma": 5.4801,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Hessen",
+      "path": "europe/germany/hessen",
+      "prior_mu": 22.4451,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_mu": 21.6564,
+      "prior_sigma": 4.5753,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Uruguay",
+      "path": "southamerica/uruguay",
+      "prior_mu": 22.7672,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_mu": 21.7817,
+      "prior_sigma": 4.7015,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_mu": 22.3169,
+      "prior_sigma": 5.428,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Soon Valley Ugalisharif",
+      "path": "asia/pakistan/soon_valley/soon_valley_ugalis",
+      "prior_mu": 21.8005,
+      "prior_sigma": 4.3661,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_mu": 22.3501,
+      "prior_sigma": 5.7168,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_mu": 21.1721,
+      "prior_sigma": 3.9023,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_mu": 22.5913,
+      "prior_sigma": 5.7526,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_mu": 22.4291,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Runyanjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_mu": 22.2417,
+      "prior_sigma": 5.9434,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_mu": 22.0417,
+      "prior_sigma": 5.4951,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_mu": 20.8394,
+      "prior_sigma": 3.7477,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bechar",
+      "path": "africa/algeria/bechar",
+      "prior_mu": 21.7733,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_mu": 17.4648,
+      "prior_sigma": 6.3249,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1242,
+  "timestamp": "2026-04-12T22:17:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_rank": 5494,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_rank": 6017,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_rank": 8098,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_rank": 6314,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_rank": 7656,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Griffith",
+      "path": "northamerica/unitedstates/indiana/griffith",
+      "prior_rank": 8019,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/norfolk/briston",
+      "prior_rank": 8117,
+      "prior_wins": 8,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_rank": 8206,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_rank": 8101,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_rank": 8145,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_rank": 7967,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_rank": 8182,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_rank": 8041,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dkhila",
+      "path": "africa/tunisia/dkhila",
+      "prior_rank": 8161,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "El oued",
+      "path": "africa/algeria/eloued",
+      "prior_rank": 7524,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_rank": 7599,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_rank": 8090,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Loubomo",
+      "path": "africa/congobrazzaville/loubomo",
+      "prior_rank": 7739,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_rank": 7443,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_rank": 8061,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_rank": 8124,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "sehnsa",
+      "path": "asia/pakistan/azad_kashmir/sehnsa",
+      "prior_rank": 5064,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_rank": 7891,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_rank": 8220,
+      "prior_wins": 1,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 758,
+  "timestamp": "2026-04-12T10:46:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_mu": 22.2324,
+      "prior_sigma": 4.1196,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_mu": 31.5073,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_mu": 21.8727,
+      "prior_sigma": 3.8331,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_mu": 22.7937,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_mu": 22.8192,
+      "prior_sigma": 5.9383,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/juist",
+      "prior_mu": 21.8329,
+      "prior_sigma": 4.536,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_mu": 21.987,
+      "prior_sigma": 4.2999,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_mu": 22.2286,
+      "prior_sigma": 5.781,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Oropesa",
+      "path": "europe/spain/centralspain/oropesa",
+      "prior_mu": 21.6787,
+      "prior_sigma": 4.3477,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_mu": 22.1442,
+      "prior_sigma": 5.6463,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_mu": 22.6888,
+      "prior_sigma": 5.6879,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_mu": 22.2697,
+      "prior_sigma": 5.8788,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_mu": 22.4858,
+      "prior_sigma": 5.3781,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Talisay",
+      "path": "asia/philippines/negrosisland/talisay",
+      "prior_mu": 21.6723,
+      "prior_sigma": 4.6734,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_mu": 21.7367,
+      "prior_sigma": 5.7176,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_mu": 21.6777,
+      "prior_sigma": 4.6737,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_mu": 21.1388,
+      "prior_sigma": 3.8596,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_mu": 22.6006,
+      "prior_sigma": 5.9379,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_mu": 22.5877,
+      "prior_sigma": 5.9474,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal_1",
+      "prior_mu": 18.6233,
+      "prior_sigma": 5.2138,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Podujeva",
+      "path": "europe/serbia/kosovoprovince/podujeva_1",
+      "prior_mu": 19.3998,
+      "prior_sigma": 4.9474,
+      "prior_n": 2
+    }
+  ]
+}

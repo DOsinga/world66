@@ -1,0 +1,200 @@
+{
+  "round": 202,
+  "timestamp": "2026-04-12T08:47:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_mu": 23.1174,
+      "prior_sigma": 5.7397,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/liverpool",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Eilat",
+      "path": "asia/israel/eilat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/hawkshead",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Jhunsi Allahabad, UP, India",
+      "path": "asia/india/uttarpradesh/jhunsi_allahabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

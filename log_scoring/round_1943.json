@@ -1,0 +1,200 @@
+{
+  "round": 1943,
+  "timestamp": "2026-04-13T15:56:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.8049,
+      "prior_variance": 0.334556,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 4.9663,
+      "prior_variance": 0.262523,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.9118,
+      "prior_variance": 0.27386,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.06,
+      "prior_variance": 0.349588,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 4.3307,
+      "prior_variance": 0.270579,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 2.9933,
+      "prior_variance": 0.333439,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": 1.6286,
+      "prior_variance": 0.292926,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -0.2029,
+      "prior_variance": 0.304043,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Muros",
+      "path": "europe/spain/northernspain/muros",
+      "prior_score": 1.2474,
+      "prior_variance": 0.26033,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 0.9287,
+      "prior_variance": 0.255972,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": -0.1946,
+      "prior_variance": 0.294428,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -2.2015,
+      "prior_variance": 0.318339,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/virginia",
+      "prior_score": 0.8811,
+      "prior_variance": 0.329348,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": 0.9132,
+      "prior_variance": 0.287499,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -1.9426,
+      "prior_variance": 0.30687,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -3.0107,
+      "prior_variance": 0.269091,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.4337,
+      "prior_variance": 0.267172,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rackeve",
+      "path": "europe/hungary/rackeve",
+      "prior_score": -2.0788,
+      "prior_variance": 0.254502,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -2.9152,
+      "prior_variance": 0.313897,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.6697,
+      "prior_variance": 0.312745,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal",
+      "prior_score": -9.0271,
+      "prior_variance": 0.463561,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_score": -7.5687,
+      "prior_variance": 0.420258,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -7.2692,
+      "prior_variance": 0.448798,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_score": -10.2404,
+      "prior_variance": 0.443181,
+      "prior_n": 6
+    }
+  ]
+}

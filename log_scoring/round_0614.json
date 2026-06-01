@@ -1,0 +1,200 @@
+{
+  "round": 614,
+  "timestamp": "2026-04-12T10:39:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_mu": 22.7194,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_mu": 22.6474,
+      "prior_sigma": 5.3635,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/avebury",
+      "prior_mu": 23.4413,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_mu": 29.1139,
+      "prior_sigma": 6.9792,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_mu": 22.5981,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
+      "prior_mu": 21.356,
+      "prior_sigma": 3.989,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_mu": 21.733,
+      "prior_sigma": 4.4803,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay",
+      "prior_mu": 23.2295,
+      "prior_sigma": 5.8382,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/torquay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Elie Fife",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_mu": 22.3555,
+      "prior_sigma": 5.5546,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_mu": 22.6761,
+      "prior_sigma": 5.9388,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_mu": 21.8974,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
+      "prior_mu": 21.5767,
+      "prior_sigma": 4.7226,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_mu": 21.441,
+      "prior_sigma": 4.3598,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/ledbury",
+      "prior_mu": 21.2688,
+      "prior_sigma": 3.9916,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/sheffield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_mu": 20.9267,
+      "prior_sigma": 3.4899,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_mu": 21.9822,
+      "prior_sigma": 5.6922,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/coventry",
+      "prior_mu": 21.4272,
+      "prior_sigma": 4.5682,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_mu": 21.1653,
+      "prior_sigma": 4.2227,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/wigan",
+      "prior_mu": 20.0419,
+      "prior_sigma": 4.3953,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_mu": 17.4839,
+      "prior_sigma": 6.3183,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

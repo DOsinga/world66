@@ -1,0 +1,200 @@
+{
+  "round": 1613,
+  "timestamp": "2026-04-13T10:35:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_score": 4.0941,
+      "prior_variance": 0.34264,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pontevedra City",
+      "path": "europe/spain/galicia/pontevedra_city",
+      "prior_score": 3.386,
+      "prior_variance": 0.316532,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "East Belgium",
+      "path": "europe/belgium/east_belgium",
+      "prior_score": -1.0242,
+      "prior_variance": 0.242177,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 0.8725,
+      "prior_variance": 0.317197,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pendle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle",
+      "prior_score": -2.2505,
+      "prior_variance": 0.424508,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.2795,
+      "prior_variance": 0.304194,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_score": -6.1826,
+      "prior_variance": 0.309636,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -1.8344,
+      "prior_variance": 0.312758,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "French Guiana",
+      "path": "southamerica/frenchguiana",
+      "prior_score": -2.1811,
+      "prior_variance": 0.454535,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -3.2791,
+      "prior_variance": 0.330608,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_score": -4.7117,
+      "prior_variance": 0.338473,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -3.7712,
+      "prior_variance": 0.335139,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -6.9536,
+      "prior_variance": 0.483499,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -5.907,
+      "prior_variance": 0.31279,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -6.4778,
+      "prior_variance": 0.416908,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -7.1171,
+      "prior_variance": 0.294347,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.6039,
+      "prior_variance": 0.285258,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -6.5065,
+      "prior_variance": 0.352911,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.1403,
+      "prior_variance": 0.416208,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -7.2108,
+      "prior_variance": 0.425931,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -8.3121,
+      "prior_variance": 0.427162,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/dadyal",
+      "prior_score": -8.9938,
+      "prior_variance": 0.51064,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kheshgi",
+      "path": "asia/pakistan/nowshera/kheshgi",
+      "prior_score": -10.2598,
+      "prior_variance": 0.56867,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cha bait wala Yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_bait_wala_yaro",
+      "prior_score": -16.272,
+      "prior_variance": 0.71409,
+      "prior_n": 5
+    }
+  ]
+}

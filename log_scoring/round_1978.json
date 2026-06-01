@@ -1,0 +1,200 @@
+{
+  "round": 1978,
+  "timestamp": "2026-04-13T15:59:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_score": 1.6399,
+      "prior_variance": 0.422945,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 9.3255,
+      "prior_variance": 0.292809,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.7381,
+      "prior_variance": 0.306825,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 8.2547,
+      "prior_variance": 0.318941,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 6.4824,
+      "prior_variance": 0.42242,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_score": 3.6359,
+      "prior_variance": 0.373811,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bornholm Island",
+      "path": "europe/denmark/bornholmisland",
+      "prior_score": 3.3219,
+      "prior_variance": 0.286035,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 3.3293,
+      "prior_variance": 0.261363,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_p",
+      "prior_score": 4.117,
+      "prior_variance": 0.273855,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensbe",
+      "prior_score": 4.7389,
+      "prior_variance": 0.301553,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 2.2359,
+      "prior_variance": 0.316456,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": -0.0641,
+      "prior_variance": 0.379648,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 2.8127,
+      "prior_variance": 0.277594,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.1446,
+      "prior_variance": 0.273008,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.3028,
+      "prior_variance": 0.284514,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 2.7268,
+      "prior_variance": 0.358659,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 1.7172,
+      "prior_variance": 0.292332,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_score": 1.6863,
+      "prior_variance": 0.22498,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": 0.5751,
+      "prior_variance": 0.299102,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.1212,
+      "prior_variance": 0.362583,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/losangeles/burbank",
+      "prior_score": -3.6796,
+      "prior_variance": 0.246458,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Valle de Elqui",
+      "path": "southamerica/chile/valle_de_elqui",
+      "prior_score": 2.6227,
+      "prior_variance": 0.24176,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -2.2095,
+      "prior_variance": 0.284337,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -7.3143,
+      "prior_variance": 0.427847,
+      "prior_n": 5
+    }
+  ]
+}

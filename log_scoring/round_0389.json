@@ -1,0 +1,200 @@
+{
+  "round": 389,
+  "timestamp": "2026-04-12T09:14:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Peru",
+      "path": "southamerica/peru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_mu": 21.9569,
+      "prior_sigma": 4.5225,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/salisbury",
+      "prior_mu": 22.056,
+      "prior_sigma": 5.6945,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_mu": 22.6914,
+      "prior_sigma": 5.4386,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_mu": 22.9055,
+      "prior_sigma": 5.7261,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Solentiname Islands",
+      "path": "northamerica/nicaragua/solentiname_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "West Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles/westlosangeles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_mu": 22.6481,
+      "prior_sigma": 5.9392,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bouenza region",
+      "path": "africa/congobrazzaville/bouenzaregion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_mu": 14.6154,
+      "prior_sigma": 5.8521,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1030,
+  "timestamp": "2026-04-12T22:05:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Belgrade",
+      "path": "europe/serbiaandmontenegro/belgrade",
+      "prior_rank": 2702,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_rank": 3289,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_rank": 571,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_rank": 3925,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/glastonbury",
+      "prior_rank": 1370,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_rank": 875,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "New Hampshire",
+      "path": "northamerica/unitedstates/newhampshire",
+      "prior_rank": 1492,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_rank": 1242,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/vancouver/goldenears",
+      "prior_rank": 1073,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_rank": 3007,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_rank": 3385,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_rank": 1749,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_rank": 1244,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_rank": 1747,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_rank": 2861,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_rank": 2196,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_rank": 4226,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "costa dorada",
+      "path": "europe/spain/spanishcostas/costa_dorada",
+      "prior_rank": 4648,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_rank": 2629,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_rank": 3055,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_rank": 2213,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_rank": 3239,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_rank": 3857,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_rank": 3058,
+      "prior_wins": 28,
+      "prior_n": 2
+    }
+  ]
+}

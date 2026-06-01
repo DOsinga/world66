@@ -1,0 +1,200 @@
+{
+  "round": 417,
+  "timestamp": "2026-04-12T09:29:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Chianti Region",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion",
+      "prior_mu": 23.5922,
+      "prior_sigma": 3.9844,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Italian Riviera",
+      "path": "europe/italy/liguria/italianriviera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_mu": 24.18,
+      "prior_sigma": 5.5889,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Umbria",
+      "path": "europe/italy/umbria",
+      "prior_mu": 22.4719,
+      "prior_sigma": 5.5506,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_mu": 22.762,
+      "prior_sigma": 5.9428,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_mu": 22.5238,
+      "prior_sigma": 5.8151,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_mu": 25.3649,
+      "prior_sigma": 6.0634,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Abruzzo",
+      "path": "europe/italy/abruzzo",
+      "prior_mu": 22.7066,
+      "prior_sigma": 5.6014,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/sanremo",
+      "prior_mu": 22.2638,
+      "prior_sigma": 4.7842,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_mu": 22.6958,
+      "prior_sigma": 5.9465,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_mu": 22.7488,
+      "prior_sigma": 5.6503,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_mu": 21.4473,
+      "prior_sigma": 4.0087,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_mu": 22.6395,
+      "prior_sigma": 5.9384,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_mu": 18.145,
+      "prior_sigma": 6.7064,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_mu": 21.7645,
+      "prior_sigma": 4.6007,
+      "prior_n": 2
+    }
+  ]
+}

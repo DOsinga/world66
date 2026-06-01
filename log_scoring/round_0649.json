@@ -1,0 +1,200 @@
+{
+  "round": 649,
+  "timestamp": "2026-04-12T10:41:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_mu": 32.1941,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_mu": 31.4906,
+      "prior_sigma": 6.369,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_mu": 25.5761,
+      "prior_sigma": 5.2326,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_mu": 23.7353,
+      "prior_sigma": 5.9853,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_mu": 26.5909,
+      "prior_sigma": 5.0075,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_mu": 24.9536,
+      "prior_sigma": 3.3044,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_mu": 23.4558,
+      "prior_sigma": 5.662,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_mu": 24.6109,
+      "prior_sigma": 5.8429,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_mu": 24.3096,
+      "prior_sigma": 4.8919,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_mu": 26.2139,
+      "prior_sigma": 5.2781,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_mu": 23.4038,
+      "prior_sigma": 5.0121,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_mu": 23.0397,
+      "prior_sigma": 5.9829,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_mu": 22.758,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_mu": 24.0052,
+      "prior_sigma": 5.7706,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_mu": 22.5926,
+      "prior_sigma": 5.9126,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_mu": 21.7486,
+      "prior_sigma": 4.5241,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "round": 7,
+  "timestamp": "2026-04-11T15:40:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1495,
+  "timestamp": "2026-04-13T10:25:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Australia",
+      "path": "australiaandpacific/australia",
+      "prior_score": -0.1137,
+      "prior_variance": 0.652805,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 1.8053,
+      "prior_variance": 0.497125,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 2.8009,
+      "prior_variance": 0.487195,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.9772,
+      "prior_variance": 0.4045,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.5473,
+      "prior_variance": 0.348406,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 0.9307,
+      "prior_variance": 0.337059,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 1.6242,
+      "prior_variance": 0.15146,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.7164,
+      "prior_variance": 0.428807,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ria of Pontevedra",
+      "path": "europe/spain/galicia/ria_of_pontevedra",
+      "prior_score": 2.7049,
+      "prior_variance": 0.322008,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.6436,
+      "prior_variance": 0.354434,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pagosa Springs",
+      "path": "northamerica/unitedstates/colorado/pagosa_springs",
+      "prior_score": 1.3935,
+      "prior_variance": 0.457221,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Rincon",
+      "path": "northamerica/puertorico/rincon",
+      "prior_score": 2.5883,
+      "prior_variance": 0.488846,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 3.7631,
+      "prior_variance": 0.420791,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 1.6148,
+      "prior_variance": 0.321175,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 3.143,
+      "prior_variance": 0.412543,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 0.7941,
+      "prior_variance": 0.494572,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 0.307,
+      "prior_variance": 0.623468,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.8988,
+      "prior_variance": 0.252781,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_score": 2.0162,
+      "prior_variance": 0.418156,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
+      "prior_score": 1.5772,
+      "prior_variance": 0.413921,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 1.0917,
+      "prior_variance": 0.338,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.3932,
+      "prior_variance": 0.320941,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -2.2306,
+      "prior_variance": 0.578005,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.2493,
+      "prior_variance": 0.454661,
+      "prior_n": 3
+    }
+  ]
+}

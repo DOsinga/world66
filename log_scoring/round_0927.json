@@ -1,0 +1,200 @@
+{
+  "round": 927,
+  "timestamp": "2026-04-12T14:50:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 3.6584,
+      "prior_variance": 1.305298,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.8067,
+      "prior_variance": 1.49252,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 9.6932,
+      "prior_variance": 2.249821,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_score": 4.7353,
+      "prior_variance": 1.910258,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.388,
+      "prior_variance": 0.990006,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Slovakia",
+      "path": "europe/slovakia",
+      "prior_score": 5.0865,
+      "prior_variance": 1.243048,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 5.8583,
+      "prior_variance": 2.412363,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_eus/portugalete",
+      "prior_score": 3.1987,
+      "prior_variance": 1.585533,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 2.1208,
+      "prior_variance": 1.381965,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 3.0146,
+      "prior_variance": 1.368125,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 1.3787,
+      "prior_variance": 1.418985,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -3.1362,
+      "prior_variance": 1.150965,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "The Coast",
+      "path": "northamerica/unitedstates/newhampshire/thecoast",
+      "prior_score": 0.5952,
+      "prior_variance": 1.43558,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/langeoog",
+      "prior_score": 1.1425,
+      "prior_variance": 1.309761,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverp/kendal",
+      "prior_score": -1.3388,
+      "prior_variance": 1.739437,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": 0.2275,
+      "prior_variance": 1.286348,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -1.2429,
+      "prior_variance": 1.213932,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -1.563,
+      "prior_variance": 1.407903,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Zambia",
+      "path": "africa/zambia",
+      "prior_score": 1.3772,
+      "prior_variance": 1.304054,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -4.3662,
+      "prior_variance": 1.599138,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -4.5866,
+      "prior_variance": 1.069059,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -2.3972,
+      "prior_variance": 0.708967,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -6.8328,
+      "prior_variance": 0.572911,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -9.4634,
+      "prior_variance": 2.140614,
+      "prior_n": 2
+    }
+  ]
+}

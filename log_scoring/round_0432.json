@@ -1,0 +1,200 @@
+{
+  "round": 432,
+  "timestamp": "2026-04-12T09:30:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Nanjing",
+      "path": "asia/china/nanjing",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_mu": 22.7103,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Taipa",
+      "path": "asia/china/macau/taipa",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_mu": 22.4309,
+      "prior_sigma": 5.9004,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_mu": 21.8433,
+      "prior_sigma": 4.611,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Jiangsu Province",
+      "path": "asia/china/jiangsu_province",
+      "prior_mu": 21.632,
+      "prior_sigma": 4.7416,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_mu": 20.8195,
+      "prior_sigma": 3.1157,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_mu": 21.4405,
+      "prior_sigma": 4.6973,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_mu": 18.2377,
+      "prior_sigma": 6.7418,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_mu": 22.476,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    }
+  ]
+}

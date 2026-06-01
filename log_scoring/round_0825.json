@@ -1,0 +1,200 @@
+{
+  "round": 825,
+  "timestamp": "2026-04-12T14:35:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Barbados",
+      "path": "northamerica/thecaribbean/barbados",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Red Bank",
+      "path": "northamerica/unitedstates/newjersey/redbank",
+      "prior_score": -1.983,
+      "prior_variance": 0.604775,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

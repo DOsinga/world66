@@ -1,0 +1,200 @@
+{
+  "round": 914,
+  "timestamp": "2026-04-12T14:49:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 13.9217,
+      "prior_variance": 7.382548,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 11.128,
+      "prior_variance": 2.226922,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.4629,
+      "prior_variance": 0.909888,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 2.9103,
+      "prior_variance": 1.465569,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 1.8742,
+      "prior_variance": 1.306194,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 3.9101,
+      "prior_variance": 1.349452,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 4.164,
+      "prior_variance": 1.391579,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 2.0923,
+      "prior_variance": 1.335916,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 3.1628,
+      "prior_variance": 1.462676,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 0.4351,
+      "prior_variance": 1.476093,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.5214,
+      "prior_variance": 1.337025,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.7076,
+      "prior_variance": 1.45211,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -2.9655,
+      "prior_variance": 1.399503,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -5.4013,
+      "prior_variance": 15.882534,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ghana",
+      "path": "africa/ghana",
+      "prior_score": -10.9873,
+      "prior_variance": 8.779555,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -4.8167,
+      "prior_variance": 1.198291,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": 0.5665,
+      "prior_variance": 0.636017,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -1.9772,
+      "prior_variance": 1.267804,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -6.5952,
+      "prior_variance": 1.207068,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": 1.4668,
+      "prior_variance": 1.375262,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.1301,
+      "prior_variance": 0.840392,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -2.0056,
+      "prior_variance": 2.272579,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -2.5525,
+      "prior_variance": 1.288257,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_score": -2.9681,
+      "prior_variance": 1.434515,
+      "prior_n": 1
+    }
+  ]
+}

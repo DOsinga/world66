@@ -1,0 +1,200 @@
+{
+  "round": 2160,
+  "timestamp": "2026-04-13T16:16:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 0.6187,
+      "prior_variance": 0.208746,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 0.8955,
+      "prior_variance": 0.262676,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.6514,
+      "prior_variance": 0.243487,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.4062,
+      "prior_variance": 0.227873,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -2.0915,
+      "prior_variance": 0.395487,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -3.764,
+      "prior_variance": 0.203956,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -5.3479,
+      "prior_variance": 0.332527,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -4.078,
+      "prior_variance": 0.275342,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.096,
+      "prior_variance": 0.238394,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -3.8206,
+      "prior_variance": 0.24311,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.0441,
+      "prior_variance": 0.312464,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Staten Island",
+      "path": "northamerica/unitedstates/newyorkstate/statenisland",
+      "prior_score": -3.3177,
+      "prior_variance": 0.233475,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Niger",
+      "path": "africa/niger",
+      "prior_score": -6.5973,
+      "prior_variance": 0.571439,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -5.0277,
+      "prior_variance": 0.297581,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.1065,
+      "prior_variance": 0.266165,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_score": -5.7864,
+      "prior_variance": 0.282245,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -5.1917,
+      "prior_variance": 0.175684,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Sylvania",
+      "path": "northamerica/unitedstates/ohio/sylvania",
+      "prior_score": -5.19,
+      "prior_variance": 0.242773,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": -6.245,
+      "prior_variance": 0.34522,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pirules",
+      "path": "northamerica/mexico/yucatan/pirules",
+      "prior_score": -5.2233,
+      "prior_variance": 0.361803,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mahlow",
+      "path": "europe/germany/brandenburg/mahlow",
+      "prior_score": -5.8144,
+      "prior_variance": 0.284043,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Varlosen",
+      "path": "europe/germany/lowersaxony/varlosen",
+      "prior_score": -6.1681,
+      "prior_variance": 0.304992,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_score": -6.67,
+      "prior_variance": 0.414784,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_score": -6.5122,
+      "prior_variance": 0.579678,
+      "prior_n": 5
+    }
+  ]
+}

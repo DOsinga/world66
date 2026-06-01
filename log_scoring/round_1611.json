@@ -1,0 +1,200 @@
+{
+  "round": 1611,
+  "timestamp": "2026-04-13T10:35:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 11.079,
+      "prior_variance": 0.639146,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 9.6205,
+      "prior_variance": 0.898385,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 8.329,
+      "prior_variance": 0.574197,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_score": 5.1824,
+      "prior_variance": 0.550108,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.5422,
+      "prior_variance": 0.325619,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Provence",
+      "path": "europe/france/midi/provence",
+      "prior_score": 10.9871,
+      "prior_variance": 0.71041,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 8.7893,
+      "prior_variance": 0.666099,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 8.3944,
+      "prior_variance": 0.852146,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 7.8063,
+      "prior_variance": 0.413869,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.9634,
+      "prior_variance": 0.339865,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 4.9081,
+      "prior_variance": 0.460535,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/saranda/jal",
+      "prior_score": 2.5739,
+      "prior_variance": 0.389213,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.8023,
+      "prior_variance": 0.425686,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 4.1113,
+      "prior_variance": 0.34216,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": 1.1816,
+      "prior_variance": 0.305804,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 3.7642,
+      "prior_variance": 0.33014,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": 2.132,
+      "prior_variance": 0.347606,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_score": 0.9211,
+      "prior_variance": 0.407102,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds",
+      "prior_score": -1.0757,
+      "prior_variance": 0.331959,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
+      "prior_score": -1.0965,
+      "prior_variance": 0.347106,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pinner",
+      "path": "europe/unitedkingdom/england/pinner",
+      "prior_score": -3.389,
+      "prior_variance": 0.44148,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -5.5205,
+      "prior_variance": 0.398974,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -7.1082,
+      "prior_variance": 0.414836,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bhagatawala (Chak 24 SB)",
+      "path": "asia/pakistan/sargodha/bhagatawala__chak_1",
+      "prior_score": -11.0212,
+      "prior_variance": 0.584738,
+      "prior_n": 3
+    }
+  ]
+}

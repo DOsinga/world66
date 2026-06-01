@@ -1,0 +1,200 @@
+{
+  "round": 1170,
+  "timestamp": "2026-04-12T22:13:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sicily",
+      "path": "europe/italy/sicily",
+      "prior_rank": 299,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_rank": 2325,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_rank": 162,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Aix en Provence",
+      "path": "europe/france/midi_1/provence/aix_en_provence",
+      "prior_rank": 726,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_rank": 1004,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_rank": 405,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cephalonia",
+      "path": "europe/greece/cephalonia",
+      "prior_rank": 86,
+      "prior_wins": 109,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_rank": 1866,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_rank": 929,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Romantic Road",
+      "path": "europe/germany/bavaria/romanticroad",
+      "prior_rank": 183,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_rank": 219,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_rank": 563,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_rank": 203,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cancun",
+      "path": "northamerica/mexico/yucatan/cancun",
+      "prior_rank": 440,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_rank": 187,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kerala",
+      "path": "asia/india/kerala",
+      "prior_rank": 209,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_rank": 344,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_rank": 270,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_rank": 244,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_rank": 417,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_rank": 235,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_rank": 392,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_rank": 262,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_rank": 1268,
+      "prior_wins": 30,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2094,
+  "timestamp": "2026-04-13T16:10:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 8.7255,
+      "prior_variance": 0.337487,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_score": 4.5503,
+      "prior_variance": 0.26688,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.2594,
+      "prior_variance": 0.280053,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.5524,
+      "prior_variance": 0.245976,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_score": -0.73,
+      "prior_variance": 0.330975,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -1.5713,
+      "prior_variance": 0.225087,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -0.7762,
+      "prior_variance": 0.226253,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.4038,
+      "prior_variance": 0.270758,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.239,
+      "prior_variance": 0.260556,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_score": 0.5821,
+      "prior_variance": 0.24404,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_score": -3.884,
+      "prior_variance": 0.245823,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_score": -1.7002,
+      "prior_variance": 0.258575,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_score": -2.5489,
+      "prior_variance": 0.179432,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.7258,
+      "prior_variance": 0.259657,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -3.7897,
+      "prior_variance": 0.287114,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
+      "prior_score": -0.3045,
+      "prior_variance": 0.250348,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/kaitaia",
+      "prior_score": -0.8724,
+      "prior_variance": 0.257719,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.4883,
+      "prior_variance": 0.258771,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -2.797,
+      "prior_variance": 0.313503,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.723,
+      "prior_variance": 0.251668,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -3.7767,
+      "prior_variance": 0.329085,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Wayne",
+      "path": "northamerica/unitedstates/newjersey/wayne",
+      "prior_score": -5.8523,
+      "prior_variance": 0.372562,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -4.4943,
+      "prior_variance": 0.321185,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.0875,
+      "prior_variance": 0.329569,
+      "prior_n": 5
+    }
+  ]
+}

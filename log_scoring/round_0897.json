@@ -1,0 +1,200 @@
+{
+  "round": 897,
+  "timestamp": "2026-04-12T14:48:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 8.7308,
+      "prior_variance": 10.41887,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 7.4471,
+      "prior_variance": 1.491225,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 3.919,
+      "prior_variance": 1.991946,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_score": -1.1544,
+      "prior_variance": 1.822805,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": -0.1182,
+      "prior_variance": 2.312904,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 1.5522,
+      "prior_variance": 1.46853,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": 0.3453,
+      "prior_variance": 0.687855,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": 1.542,
+      "prior_variance": 1.437372,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": 1.0833,
+      "prior_variance": 1.698122,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 4.6182,
+      "prior_variance": 1.531648,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 2.9958,
+      "prior_variance": 1.655964,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -0.3221,
+      "prior_variance": 1.475323,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.4502,
+      "prior_variance": 1.631634,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.7418,
+      "prior_variance": 1.206491,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -1.954,
+      "prior_variance": 1.19916,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": 0.0798,
+      "prior_variance": 1.362734,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -3.0182,
+      "prior_variance": 1.223314,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -11.2119,
+      "prior_variance": 8.72133,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rita",
+      "path": "southamerica/brazil/santa_rita",
+      "prior_score": -6.9945,
+      "prior_variance": 1.417421,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -5.017,
+      "prior_variance": 16.971678,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.5251,
+      "prior_variance": 1.056541,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Haiti",
+      "path": "northamerica/haiti",
+      "prior_score": -10.4395,
+      "prior_variance": 9.21539,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Passaic",
+      "path": "northamerica/unitedstates/newjersey/passaic",
+      "prior_score": -14.8941,
+      "prior_variance": 7.141222,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -11.9922,
+      "prior_variance": 0.383939,
+      "prior_n": 4
+    }
+  ]
+}

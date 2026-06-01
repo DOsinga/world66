@@ -1,0 +1,200 @@
+{
+  "round": 1041,
+  "timestamp": "2026-04-12T22:06:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_rank": 359,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_rank": 370,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_rank": 514,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_rank": 849,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_rank": 835,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Dordogne",
+      "path": "europe/france/midi/dordogne",
+      "prior_rank": 1588,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "The Land of the Cathars",
+      "path": "europe/france/midi/languedoc/the_land_of_the_ca",
+      "prior_rank": 1743,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_rank": 211,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_rank": 1024,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_rank": 229,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_rank": 3354,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_rank": 659,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_rank": 1297,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_rank": 982,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_rank": 175,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_rank": 271,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kailua",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_rank": 269,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_rank": 544,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_rank": 545,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_rank": 1218,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_rank": 715,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_rank": 3592,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pamir Highway",
+      "path": "asia/tajikistan/pamir_highway",
+      "prior_rank": 1965,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_rank": 1349,
+      "prior_wins": 41,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2187,
+  "timestamp": "2026-04-13T16:18:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hokkaido",
+      "path": "asia/japan/hokkaido",
+      "prior_score": 8.8467,
+      "prior_variance": 0.310379,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 8.5165,
+      "prior_variance": 0.339498,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Around Paris",
+      "path": "europe/france/around_paris",
+      "prior_score": 10.5501,
+      "prior_variance": 0.478737,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 8.7451,
+      "prior_variance": 0.40743,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.5182,
+      "prior_variance": 0.29139,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 6.4509,
+      "prior_variance": 0.290788,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 5.0398,
+      "prior_variance": 0.264937,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.3239,
+      "prior_variance": 0.287657,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_score": 3.2454,
+      "prior_variance": 0.256901,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 4.1123,
+      "prior_variance": 0.138997,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_score": 1.9256,
+      "prior_variance": 0.208576,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.1304,
+      "prior_variance": 0.199207,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.0676,
+      "prior_variance": 0.240185,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": 0.8453,
+      "prior_variance": 0.188158,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_score": -0.3784,
+      "prior_variance": 0.202699,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.2263,
+      "prior_variance": 0.245352,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_score": -2.4606,
+      "prior_variance": 0.313444,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "N\u00e4vekvarn",
+      "path": "europe/sweden/nvekvarn",
+      "prior_score": -2.9928,
+      "prior_variance": 0.256191,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.7189,
+      "prior_variance": 0.261455,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.7302,
+      "prior_variance": 0.213643,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.4955,
+      "prior_variance": 0.248131,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -4.608,
+      "prior_variance": 0.43719,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Vinnista",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -5.2951,
+      "prior_variance": 0.271707,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "North Korea",
+      "path": "asia/northkorea",
+      "prior_score": -9.1821,
+      "prior_variance": 0.532159,
+      "prior_n": 5
+    }
+  ]
+}

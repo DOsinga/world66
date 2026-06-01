@@ -1,0 +1,200 @@
+{
+  "round": 1323,
+  "timestamp": "2026-04-12T22:21:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_rank": 5599,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_rank": 6012,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_rank": 5237,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_rank": 4456,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_rank": 3020,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_rank": 2258,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_rank": 3148,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_rank": 4094,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_rank": 4274,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_rank": 941,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_rank": 3881,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_rank": 3492,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_rank": 5018,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_rank": 3791,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_rank": 4107,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_rank": 5678,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_rank": 5168,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_rank": 3643,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_rank": 4484,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_rank": 5923,
+      "prior_wins": 48,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nebel, Amrum",
+      "path": "europe/germany/schleswigholstein/nebel_amrum",
+      "prior_rank": 4678,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "{Sunny Isles}",
+      "path": "northamerica/unitedstates/florida/sunny_isles",
+      "prior_rank": 3782,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_rank": 3847,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_rank": 7638,
+      "prior_wins": 8,
+      "prior_n": 2
+    }
+  ]
+}

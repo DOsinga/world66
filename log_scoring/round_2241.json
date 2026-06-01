@@ -1,0 +1,200 @@
+{
+  "round": 2241,
+  "timestamp": "2026-04-13T16:23:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 8.1991,
+      "prior_variance": 0.327218,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 3.7091,
+      "prior_variance": 0.171247,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.6775,
+      "prior_variance": 0.278328,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.3632,
+      "prior_variance": 0.242217,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 0.8152,
+      "prior_variance": 0.274214,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.5413,
+      "prior_variance": 0.214977,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": 0.274,
+      "prior_variance": 0.245387,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.1963,
+      "prior_variance": 0.237097,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -0.5436,
+      "prior_variance": 0.236063,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": -0.0579,
+      "prior_variance": 0.226581,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -1.3934,
+      "prior_variance": 0.228475,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_score": -3.2057,
+      "prior_variance": 0.237354,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -3.4388,
+      "prior_variance": 0.313747,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jiangsu Province",
+      "path": "asia/china/jiangsu_province",
+      "prior_score": -1.1484,
+      "prior_variance": 0.265503,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_score": -1.085,
+      "prior_variance": 0.217044,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -6.2067,
+      "prior_variance": 0.311564,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -2.0082,
+      "prior_variance": 0.238591,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville_indian",
+      "prior_score": -4.7113,
+      "prior_variance": 0.288013,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -6.7701,
+      "prior_variance": 0.388746,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -4.9721,
+      "prior_variance": 0.263086,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_score": -4.9723,
+      "prior_variance": 0.278326,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -5.0918,
+      "prior_variance": 0.27754,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "MoorKhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -5.1184,
+      "prior_variance": 0.421794,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -6.9505,
+      "prior_variance": 0.303147,
+      "prior_n": 6
+    }
+  ]
+}

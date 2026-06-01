@@ -1,0 +1,200 @@
+{
+  "round": 1925,
+  "timestamp": "2026-04-13T15:54:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_score": 1.9017,
+      "prior_variance": 0.270303,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/raumati_beach",
+      "prior_score": -2.198,
+      "prior_variance": 0.328086,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.0189,
+      "prior_variance": 0.603726,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -2.7516,
+      "prior_variance": 0.29759,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kackar",
+      "path": "asia/turkey/kackar",
+      "prior_score": 0.6176,
+      "prior_variance": 0.271969,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -3.9298,
+      "prior_variance": 0.376536,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -2.9607,
+      "prior_variance": 0.233079,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_score": -3.8837,
+      "prior_variance": 0.286974,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -4.0843,
+      "prior_variance": 0.496959,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_score": -0.5891,
+      "prior_variance": 0.28178,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Rakesh",
+      "path": "asia/india/uttaranchal/hemkunt/rakesh",
+      "prior_score": -5.5245,
+      "prior_variance": 0.568603,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.7231,
+      "prior_variance": 0.337542,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -5.5717,
+      "prior_variance": 0.361703,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -5.1084,
+      "prior_variance": 0.349646,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -7.7881,
+      "prior_variance": 0.636367,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -3.1602,
+      "prior_variance": 0.530472,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Russia",
+      "path": "europe/russia",
+      "prior_score": -7.8534,
+      "prior_variance": 0.419506,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -9.9584,
+      "prior_variance": 0.548098,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.9876,
+      "prior_variance": 0.383532,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -8.0888,
+      "prior_variance": 0.257547,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_score": -13.9192,
+      "prior_variance": 1.099836,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_score": -13.8006,
+      "prior_variance": 1.168303,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_score": -11.9197,
+      "prior_variance": 1.032159,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -11.6652,
+      "prior_variance": 1.223219,
+      "prior_n": 5
+    }
+  ]
+}

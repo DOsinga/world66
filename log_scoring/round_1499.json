@@ -1,0 +1,200 @@
+{
+  "round": 1499,
+  "timestamp": "2026-04-13T10:26:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -0.7508,
+      "prior_variance": 0.391197,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.5945,
+      "prior_variance": 0.397777,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -1.2679,
+      "prior_variance": 0.44223,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -1.4868,
+      "prior_variance": 0.341623,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -2.1373,
+      "prior_variance": 0.36968,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -2.8609,
+      "prior_variance": 0.525691,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.8879,
+      "prior_variance": 0.429803,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.7908,
+      "prior_variance": 0.197139,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": -0.3864,
+      "prior_variance": 0.414883,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.8615,
+      "prior_variance": 0.305436,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Stjordal",
+      "path": "europe/norway/stjordal",
+      "prior_score": -0.8983,
+      "prior_variance": 0.332385,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_score": -2.5537,
+      "prior_variance": 0.358194,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.9789,
+      "prior_variance": 0.451052,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -3.176,
+      "prior_variance": 0.337049,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
+      "prior_score": -4.0864,
+      "prior_variance": 0.455948,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.7655,
+      "prior_variance": 0.686677,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_score": -1.7181,
+      "prior_variance": 0.401996,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -2.218,
+      "prior_variance": 0.342464,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bury",
+      "path": "europe/unitedkingdom/england/bury",
+      "prior_score": -3.6109,
+      "prior_variance": 0.441629,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.987,
+      "prior_variance": 0.388376,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.4652,
+      "prior_variance": 0.408678,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -4.1385,
+      "prior_variance": 0.517731,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -3.1553,
+      "prior_variance": 0.333904,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -3.1298,
+      "prior_variance": 0.551825,
+      "prior_n": 3
+    }
+  ]
+}

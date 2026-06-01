@@ -1,0 +1,200 @@
+{
+  "round": 1913,
+  "timestamp": "2026-04-13T15:53:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_score": 7.6315,
+      "prior_variance": 0.348567,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sweden",
+      "path": "europe/sweden",
+      "prior_score": 1.9617,
+      "prior_variance": 0.422516,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 8.4969,
+      "prior_variance": 0.588879,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_score": 7.2021,
+      "prior_variance": 0.321623,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_score": 1.4537,
+      "prior_variance": 0.265436,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_score": 1.1922,
+      "prior_variance": 0.44263,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.2668,
+      "prior_variance": 0.236116,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.6014,
+      "prior_variance": 0.383468,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -0.5589,
+      "prior_variance": 0.381408,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Youghal",
+      "path": "europe/ireland/cork/youghal",
+      "prior_score": 0.3775,
+      "prior_variance": 0.32589,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 0.4162,
+      "prior_variance": 0.357255,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 1.1517,
+      "prior_variance": 0.261465,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.7557,
+      "prior_variance": 0.172439,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -2.0701,
+      "prior_variance": 0.437975,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_score": 0.2014,
+      "prior_variance": 0.310724,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -6.202,
+      "prior_variance": 0.359822,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.7417,
+      "prior_variance": 0.389755,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -2.0039,
+      "prior_variance": 0.255383,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Zabierzow",
+      "path": "europe/poland/zabierzw",
+      "prior_score": -5.3386,
+      "prior_variance": 0.33343,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.645,
+      "prior_variance": 0.436705,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -8.59,
+      "prior_variance": 0.588998,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_score": -6.3711,
+      "prior_variance": 0.261717,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -8.2231,
+      "prior_variance": 0.286912,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -7.0128,
+      "prior_variance": 0.70131,
+      "prior_n": 5
+    }
+  ]
+}

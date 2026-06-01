@@ -1,0 +1,200 @@
+{
+  "round": 231,
+  "timestamp": "2026-04-12T09:07:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Turda",
+      "path": "europe/romania/transylvania/turda",
+      "prior_mu": 22.4971,
+      "prior_sigma": 5.9099,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Maluku",
+      "path": "asia/indonesia/maluku",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_mu": 22.3866,
+      "prior_sigma": 5.55,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_mu": 22.5135,
+      "prior_sigma": 5.921,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_mu": 18.2599,
+      "prior_sigma": 6.745,
+      "prior_n": 1
+    }
+  ]
+}

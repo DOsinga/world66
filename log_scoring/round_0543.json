@@ -1,0 +1,80 @@
+{
+  "round": 543,
+  "timestamp": "2026-04-12T10:36:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_mu": 22.9639,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_mu": 22.9669,
+      "prior_sigma": 4.3779,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ambohimanga",
+      "path": "africa/madagascar/ambohimanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_mu": 21.4067,
+      "prior_sigma": 3.8742,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_mu": 22.0315,
+      "prior_sigma": 5.6589,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

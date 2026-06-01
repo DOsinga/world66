@@ -1,0 +1,200 @@
+{
+  "round": 1188,
+  "timestamp": "2026-04-12T22:14:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_rank": 4326,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_rank": 5720,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_rank": 3828,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_rank": 4264,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_rank": 2167,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_rank": 3598,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_rank": 4295,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/kenilworth",
+      "prior_rank": 1897,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_rank": 4020,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/otago/invercargill",
+      "prior_rank": 5691,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ventura County",
+      "path": "northamerica/unitedstates/california/ventura_county_ca",
+      "prior_rank": 2153,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_rank": 4774,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_rank": 959,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_rank": 5960,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_rank": 4564,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_rank": 4719,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_rank": 4989,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_rank": 5823,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_rank": 5238,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_rank": 5258,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_rank": 4541,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_rank": 3865,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_rank": 5862,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_rank": 7973,
+      "prior_wins": 7,
+      "prior_n": 4
+    }
+  ]
+}

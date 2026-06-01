@@ -1,0 +1,200 @@
+{
+  "round": 2008,
+  "timestamp": "2026-04-13T16:02:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 8.8047,
+      "prior_variance": 0.506848,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 6.9343,
+      "prior_variance": 0.374515,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Transylvania",
+      "path": "europe/romania/transylvania",
+      "prior_score": 6.3776,
+      "prior_variance": 0.364279,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 1.9128,
+      "prior_variance": 0.271362,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_score": 2.4449,
+      "prior_variance": 0.251528,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 2.1909,
+      "prior_variance": 0.278325,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 1.2346,
+      "prior_variance": 0.33299,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.9299,
+      "prior_variance": 0.310027,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.3779,
+      "prior_variance": 0.242416,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_score": 3.696,
+      "prior_variance": 0.236036,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.7211,
+      "prior_variance": 0.256144,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 1.0051,
+      "prior_variance": 0.249296,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.9978,
+      "prior_variance": 0.282651,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.4876,
+      "prior_variance": 0.375041,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Uttaranchal",
+      "path": "asia/india/uttaranchal",
+      "prior_score": 3.1213,
+      "prior_variance": 0.334291,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 1.9109,
+      "prior_variance": 0.384899,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_na",
+      "prior_score": 4.6774,
+      "prior_variance": 0.316362,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 1.9071,
+      "prior_variance": 0.294662,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -0.4112,
+      "prior_variance": 0.255195,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_score": 0.3142,
+      "prior_variance": 0.330803,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -2.586,
+      "prior_variance": 0.256908,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -5.4954,
+      "prior_variance": 0.467616,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.4116,
+      "prior_variance": 0.399939,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_score": -10.7081,
+      "prior_variance": 0.625163,
+      "prior_n": 5
+    }
+  ]
+}

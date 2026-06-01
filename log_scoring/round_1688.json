@@ -1,0 +1,200 @@
+{
+  "round": 1688,
+  "timestamp": "2026-04-13T10:42:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hokkaido",
+      "path": "asia/japan/hokkaido",
+      "prior_score": 8.9333,
+      "prior_variance": 0.502238,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Aruba",
+      "path": "northamerica/aruba",
+      "prior_score": 11.4254,
+      "prior_variance": 0.830683,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.6785,
+      "prior_variance": 0.438162,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.1914,
+      "prior_variance": 0.319868,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.8047,
+      "prior_variance": 0.337397,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 8.5071,
+      "prior_variance": 0.500875,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 6.1871,
+      "prior_variance": 0.527657,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 4.4037,
+      "prior_variance": 0.331175,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/hokitika",
+      "prior_score": 1.2474,
+      "prior_variance": 0.352998,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 3.8021,
+      "prior_variance": 0.318302,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 2.7782,
+      "prior_variance": 0.400311,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Stockbridge",
+      "path": "europe/unitedkingdom/scotland/edinburgh/stockbridge",
+      "prior_score": 1.2298,
+      "prior_variance": 0.361851,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl",
+      "prior_score": -2.3663,
+      "prior_variance": 0.472572,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsu",
+      "prior_score": -0.0607,
+      "prior_variance": 0.308195,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_score": 0.3568,
+      "prior_variance": 0.349585,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_score": -2.507,
+      "prior_variance": 0.3856,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.2941,
+      "prior_variance": 0.308496,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -1.942,
+      "prior_variance": 0.295416,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -5.6506,
+      "prior_variance": 0.308551,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.8901,
+      "prior_variance": 0.33893,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -6.8521,
+      "prior_variance": 0.353482,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -6.2667,
+      "prior_variance": 0.398371,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_score": -7.7218,
+      "prior_variance": 0.326352,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -9.8245,
+      "prior_variance": 0.566346,
+      "prior_n": 4
+    }
+  ]
+}

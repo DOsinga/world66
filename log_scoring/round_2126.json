@@ -1,0 +1,200 @@
+{
+  "round": 2126,
+  "timestamp": "2026-04-13T16:12:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 13.9425,
+      "prior_variance": 0.985732,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 14.289,
+      "prior_variance": 1.022834,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_score": 3.6816,
+      "prior_variance": 0.237508,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_score": 0.082,
+      "prior_variance": 0.251468,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.3325,
+      "prior_variance": 0.230615,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.7534,
+      "prior_variance": 0.258031,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezonprovince",
+      "prior_score": -2.3375,
+      "prior_variance": 0.319054,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -3.3075,
+      "prior_variance": 0.250722,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.306,
+      "prior_variance": 0.329553,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -2.903,
+      "prior_variance": 0.24982,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.0447,
+      "prior_variance": 0.323868,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/wakefield",
+      "prior_score": -3.3721,
+      "prior_variance": 0.290955,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.3429,
+      "prior_variance": 0.289202,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_score": -4.1993,
+      "prior_variance": 0.277123,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -2.2067,
+      "prior_variance": 0.265896,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/consett",
+      "prior_score": -5.4534,
+      "prior_variance": 0.299489,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ha\u2019il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -5.5481,
+      "prior_variance": 0.233486,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -5.5593,
+      "prior_variance": 0.319025,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_score": -5.3329,
+      "prior_variance": 0.332758,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -5.9957,
+      "prior_variance": 0.373516,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Buckeye",
+      "path": "northamerica/unitedstates/arizona/buckeye",
+      "prior_score": -5.698,
+      "prior_variance": 0.233412,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_score": -6.1278,
+      "prior_variance": 0.354051,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kairatabad",
+      "path": "asia/india/andhrapradesh/kairatabad",
+      "prior_score": -6.4774,
+      "prior_variance": 0.268551,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -5.3389,
+      "prior_variance": 0.270625,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2098,
+  "timestamp": "2026-04-13T16:10:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 9.9391,
+      "prior_variance": 0.560653,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 4.0298,
+      "prior_variance": 0.290587,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 6.2138,
+      "prior_variance": 0.369982,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/northernspain/ribeira_sacra",
+      "prior_score": 2.6674,
+      "prior_variance": 0.265228,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 1.551,
+      "prior_variance": 0.254822,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": -0.3721,
+      "prior_variance": 0.351548,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 2.204,
+      "prior_variance": 0.276955,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_nat",
+      "prior_score": 1.5976,
+      "prior_variance": 0.333729,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": -0.4173,
+      "prior_variance": 0.285099,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.5278,
+      "prior_variance": 0.250078,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 2.7084,
+      "prior_variance": 0.262278,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": 0.0806,
+      "prior_variance": 0.20647,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bintan",
+      "path": "asia/indonesia/bintan",
+      "prior_score": 1.5028,
+      "prior_variance": 0.27135,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.21,
+      "prior_variance": 0.202634,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -3.9842,
+      "prior_variance": 0.265833,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Yass",
+      "path": "australiaandpacific/australia/newsouthwales/yass",
+      "prior_score": -3.9094,
+      "prior_variance": 0.324911,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -4.5438,
+      "prior_variance": 0.254161,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.6875,
+      "prior_variance": 0.255035,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.1468,
+      "prior_variance": 0.286735,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_score": -4.8721,
+      "prior_variance": 0.423741,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Chowchilla",
+      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
+      "prior_score": -6.5162,
+      "prior_variance": 0.292332,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_score": -7.6401,
+      "prior_variance": 0.58437,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Chiusi Scalo",
+      "path": "europe/italy/tuscany/chiusiscalo",
+      "prior_score": -2.6976,
+      "prior_variance": 0.260849,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_score": -5.9441,
+      "prior_variance": 0.356293,
+      "prior_n": 5
+    }
+  ]
+}

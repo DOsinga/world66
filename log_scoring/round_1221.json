@@ -1,0 +1,200 @@
+{
+  "round": 1221,
+  "timestamp": "2026-04-12T22:15:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_rank": 7766,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_rank": 5007,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_rank": 7094,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_rank": 5541,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_rank": 2413,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_rank": 7079,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_rank": 5072,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_rank": 4803,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_rank": 6674,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_rank": 6221,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_rank": 7307,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_rank": 7512,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_rank": 6887,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_rank": 6870,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_rank": 6707,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_rank": 6645,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_rank": 7476,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_rank": 6166,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_rank": 6419,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_rank": 6703,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_rank": 6543,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jambi",
+      "path": "asia/indonesia/jambi",
+      "prior_rank": 5149,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_rank": 7063,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Practical Information",
+      "path": "asia/cyprus/nicosia/practical_informat_1",
+      "prior_rank": 6486,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

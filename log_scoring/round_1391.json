@@ -1,0 +1,200 @@
+{
+  "round": 1391,
+  "timestamp": "2026-04-12T22:25:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_rank": 6996,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_rank": 8160,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_rank": 7485,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_rank": 7876,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_rank": 7289,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_rank": 5493,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_rank": 4397,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_rank": 7935,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_rank": 8025,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/wigan",
+      "prior_rank": 8038,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_rank": 7477,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Zabierzow",
+      "path": "europe/poland/zabierzw",
+      "prior_rank": 7218,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bjuv",
+      "path": "europe/sweden/bjuv",
+      "prior_rank": 7987,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_rank": 7925,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_rank": 6347,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Okeechobee",
+      "path": "northamerica/unitedstates/florida/okeechobee",
+      "prior_rank": 7360,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_rank": 5270,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_rank": 6206,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_rank": 6782,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ashton",
+      "path": "northamerica/unitedstates/idaho/ashton",
+      "prior_rank": 7778,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_rank": 6516,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_rank": 7568,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_rank": 7787,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_rank": 7241,
+      "prior_wins": 16,
+      "prior_n": 3
+    }
+  ]
+}

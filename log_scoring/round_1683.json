@@ -1,0 +1,200 @@
+{
+  "round": 1683,
+  "timestamp": "2026-04-13T10:41:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Italian Riviera",
+      "path": "europe/italy/liguria/italianriviera",
+      "prior_score": 8.9984,
+      "prior_variance": 0.358173,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": 2.0884,
+      "prior_variance": 0.420328,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 2.1495,
+      "prior_variance": 0.433677,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 1.457,
+      "prior_variance": 0.347057,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.7624,
+      "prior_variance": 0.237523,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_score": -3.8128,
+      "prior_variance": 0.768596,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 3.2295,
+      "prior_variance": 0.3773,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Practical Information",
+      "path": "europe/spain/andalucia/granada/usefuladdresses",
+      "prior_score": -2.187,
+      "prior_variance": 0.729437,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.8225,
+      "prior_variance": 0.341451,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_score": 1.4165,
+      "prior_variance": 0.276474,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -2.0343,
+      "prior_variance": 0.442045,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": 0.7758,
+      "prior_variance": 0.325245,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vila do conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.1081,
+      "prior_variance": 0.298961,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Forster",
+      "path": "australiaandpacific/australia/newsouthwales/forster",
+      "prior_score": -1.2381,
+      "prior_variance": 0.31635,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_score": -0.5309,
+      "prior_variance": 0.35781,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 0.4584,
+      "prior_variance": 0.325122,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": -0.5327,
+      "prior_variance": 0.378803,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -5.046,
+      "prior_variance": 0.476914,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/ipswich",
+      "prior_score": -2.0491,
+      "prior_variance": 0.338173,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.3034,
+      "prior_variance": 0.140706,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_score": -2.8228,
+      "prior_variance": 0.331105,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": 0.0654,
+      "prior_variance": 0.444202,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -1.9901,
+      "prior_variance": 0.330301,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/moseley",
+      "prior_score": -3.9879,
+      "prior_variance": 0.336932,
+      "prior_n": 4
+    }
+  ]
+}

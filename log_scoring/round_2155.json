@@ -1,0 +1,200 @@
+{
+  "round": 2155,
+  "timestamp": "2026-04-13T16:15:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_score": 8.3722,
+      "prior_variance": 0.333914,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_score": 7.98,
+      "prior_variance": 0.412147,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 7.7456,
+      "prior_variance": 0.294228,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/franzjosef",
+      "prior_score": 6.1146,
+      "prior_variance": 0.287362,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 6.6557,
+      "prior_variance": 0.33613,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 8.579,
+      "prior_variance": 0.41679,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kerala",
+      "path": "asia/india/kerala",
+      "prior_score": 6.7055,
+      "prior_variance": 0.346248,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 6.5512,
+      "prior_variance": 0.381549,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ha'apai Group",
+      "path": "australiaandpacific/tonga/haapaigroup",
+      "prior_score": 2.3334,
+      "prior_variance": 0.272201,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 4.1787,
+      "prior_variance": 0.238163,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/taranaki",
+      "prior_score": 2.9159,
+      "prior_variance": 0.299224,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_score": 3.0222,
+      "prior_variance": 0.28728,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 2.5406,
+      "prior_variance": 0.217512,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Palm Springs Area",
+      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
+      "prior_score": 3.4573,
+      "prior_variance": 0.279752,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.648,
+      "prior_variance": 0.232455,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": 0.9082,
+      "prior_variance": 0.290282,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.4369,
+      "prior_variance": 0.219671,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus",
+      "prior_score": 0.9987,
+      "prior_variance": 0.218131,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -0.3318,
+      "prior_variance": 0.248843,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -0.4881,
+      "prior_variance": 0.266614,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": -0.2293,
+      "prior_variance": 0.24917,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -2.6025,
+      "prior_variance": 0.259456,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -4.7345,
+      "prior_variance": 0.291206,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -5.4798,
+      "prior_variance": 0.276287,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "round": 2,
+  "timestamp": "2026-04-11T15:39:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

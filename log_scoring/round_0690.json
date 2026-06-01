@@ -1,0 +1,200 @@
+{
+  "round": 690,
+  "timestamp": "2026-04-12T10:43:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_mu": 24.993,
+      "prior_sigma": 6.0898,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_mu": 22.4574,
+      "prior_sigma": 4.7629,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_mu": 21.7424,
+      "prior_sigma": 4.5461,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_mu": 21.2378,
+      "prior_sigma": 4.547,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_mu": 21.5309,
+      "prior_sigma": 4.5885,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_mu": 21.2543,
+      "prior_sigma": 4.0019,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national",
+      "prior_mu": 21.6814,
+      "prior_sigma": 4.4917,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_mu": 21.0159,
+      "prior_sigma": 3.1542,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_mu": 22.1235,
+      "prior_sigma": 5.5233,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_mu": 21.7396,
+      "prior_sigma": 4.6435,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_mu": 21.1667,
+      "prior_sigma": 4.7109,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_mu": 21.5164,
+      "prior_sigma": 4.4337,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_mu": 22.0626,
+      "prior_sigma": 5.2269,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_mu": 21.3101,
+      "prior_sigma": 3.8021,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_mu": 21.1737,
+      "prior_sigma": 3.7045,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_pa",
+      "prior_mu": 21.2374,
+      "prior_sigma": 3.9349,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_mu": 21.8162,
+      "prior_sigma": 5.6258,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_mu": 22.1627,
+      "prior_sigma": 5.7719,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_mu": 22.4584,
+      "prior_sigma": 5.6616,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_mu": 21.677,
+      "prior_sigma": 4.8277,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_mu": 22.4834,
+      "prior_sigma": 5.9085,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Estonia",
+      "path": "europe/estonia",
+      "prior_mu": 22.7254,
+      "prior_sigma": 5.7044,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ravi",
+      "path": "europe/estonia/voru/ravi",
+      "prior_mu": 18.9468,
+      "prior_sigma": 5.1423,
+      "prior_n": 2
+    }
+  ]
+}

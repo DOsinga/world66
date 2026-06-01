@@ -1,0 +1,200 @@
+{
+  "round": 1277,
+  "timestamp": "2026-04-12T22:19:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_rank": 2367,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_rank": 4084,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_rank": 6043,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_rank": 2855,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_rank": 6720,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_rank": 3465,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_rank": 6257,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_rank": 4441,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_rank": 7189,
+      "prior_wins": 25,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_rank": 6606,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_rank": 5341,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_rank": 5923,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_rank": 5033,
+      "prior_wins": 48,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_rank": 3484,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_rank": 4567,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_rank": 3786,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_rank": 4675,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_rank": 4288,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_rank": 6708,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_rank": 4747,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_rank": 6729,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_rank": 4488,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_rank": 5548,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tonstad",
+      "path": "europe/norway/tonstad",
+      "prior_rank": 6292,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

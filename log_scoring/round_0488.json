@@ -1,0 +1,200 @@
+{
+  "round": 488,
+  "timestamp": "2026-04-12T09:32:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_mu": 22.524,
+      "prior_sigma": 5.9114,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_mu": 22.6301,
+      "prior_sigma": 5.4235,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_mu": 22.6442,
+      "prior_sigma": 5.9401,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_mu": 22.6916,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "West Coast",
+      "path": "australiaandpacific/australia/tasmania/westcoast",
+      "prior_mu": 22.7435,
+      "prior_sigma": 5.9524,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Devonport Tasmania Australia",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_mu": 22.7063,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_mu": 22.9019,
+      "prior_sigma": 5.7248,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_mu": 22.9011,
+      "prior_sigma": 5.6085,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_mu": 22.0785,
+      "prior_sigma": 5.5024,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Elanora",
+      "path": "australiaandpacific/australia/queensland/elanora",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_mu": 21.8358,
+      "prior_sigma": 4.3726,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Reservoir",
+      "path": "australiaandpacific/australia/victoria/reservoir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "BuBRrsLK",
+      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
+      "prior_mu": 17.3762,
+      "prior_sigma": 6.5838,
+      "prior_n": 1
+    }
+  ]
+}

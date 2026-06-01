@@ -1,0 +1,200 @@
+{
+  "round": 2203,
+  "timestamp": "2026-04-13T16:20:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Egypt",
+      "path": "africa/egypt",
+      "prior_score": 8.8013,
+      "prior_variance": 0.654553,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_score": 9.7897,
+      "prior_variance": 0.466331,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Pembrokeshire Coast National Park",
+      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
+      "prior_score": 4.9749,
+      "prior_variance": 0.376042,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 2.7954,
+      "prior_variance": 0.207279,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 2.9409,
+      "prior_variance": 0.247781,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 6.5826,
+      "prior_variance": 0.373056,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cabo Rojo",
+      "path": "northamerica/puertorico/caborojo",
+      "prior_score": 2.8391,
+      "prior_variance": 0.295393,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_score": 1.7609,
+      "prior_variance": 0.294564,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_score": 0.4242,
+      "prior_variance": 0.266157,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_score": 4.6364,
+      "prior_variance": 0.293312,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 2.5046,
+      "prior_variance": 0.245589,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_score": 1.2853,
+      "prior_variance": 0.258596,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 0.9551,
+      "prior_variance": 0.260084,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 0.1319,
+      "prior_variance": 0.233757,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": -1.1067,
+      "prior_variance": 0.23505,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": 0.3927,
+      "prior_variance": 0.251916,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 3.3823,
+      "prior_variance": 0.273277,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -0.921,
+      "prior_variance": 0.203044,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_score": -0.8162,
+      "prior_variance": 0.224352,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -4.1355,
+      "prior_variance": 0.254977,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Jebel Akhdar",
+      "path": "africa/libya/jebelakhdar",
+      "prior_score": -6.1689,
+      "prior_variance": 0.349159,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_score": -4.4846,
+      "prior_variance": 0.255129,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -3.4553,
+      "prior_variance": 0.271653,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_score": -5.5079,
+      "prior_variance": 0.227561,
+      "prior_n": 6
+    }
+  ]
+}

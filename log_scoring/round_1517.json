@@ -1,0 +1,200 @@
+{
+  "round": 1517,
+  "timestamp": "2026-04-13T10:27:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.8524,
+      "prior_variance": 0.407626,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_score": -3.1297,
+      "prior_variance": 0.392084,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -5.3076,
+      "prior_variance": 0.466222,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_score": -4.6495,
+      "prior_variance": 0.32749,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -1.8269,
+      "prior_variance": 0.558169,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.5541,
+      "prior_variance": 0.30683,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.7343,
+      "prior_variance": 0.400876,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_score": -4.0145,
+      "prior_variance": 0.373822,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -3.5101,
+      "prior_variance": 0.512619,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -3.3859,
+      "prior_variance": 0.396028,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -4.5172,
+      "prior_variance": 0.354401,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -4.2206,
+      "prior_variance": 0.429179,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -3.5221,
+      "prior_variance": 0.52241,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.6344,
+      "prior_variance": 0.608442,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_score": -3.1886,
+      "prior_variance": 0.319672,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -1.5893,
+      "prior_variance": 0.296994,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.8456,
+      "prior_variance": 0.311733,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lenkaran",
+      "path": "europe/azerbaijan/baku/lenkaran",
+      "prior_score": -5.7195,
+      "prior_variance": 0.342919,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.7021,
+      "prior_variance": 0.435583,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "jijel, algeria",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -4.5084,
+      "prior_variance": 0.479236,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.7819,
+      "prior_variance": 0.471787,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_score": -4.9931,
+      "prior_variance": 0.414338,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -5.06,
+      "prior_variance": 0.391745,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_score": -3.0429,
+      "prior_variance": 0.343956,
+      "prior_n": 4
+    }
+  ]
+}

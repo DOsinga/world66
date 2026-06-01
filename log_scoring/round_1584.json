@@ -1,0 +1,200 @@
+{
+  "round": 1584,
+  "timestamp": "2026-04-13T10:33:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": -0.8824,
+      "prior_variance": 0.382477,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 1.7251,
+      "prior_variance": 0.263052,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -2.712,
+      "prior_variance": 0.406412,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 1.1686,
+      "prior_variance": 0.423392,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Huanuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -1.8349,
+      "prior_variance": 0.324296,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.407,
+      "prior_variance": 0.366253,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.4845,
+      "prior_variance": 0.135468,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Weilburg",
+      "path": "europe/germany/hessen/weilburg",
+      "prior_score": -2.1369,
+      "prior_variance": 0.403812,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -3.0604,
+      "prior_variance": 0.356633,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -1.852,
+      "prior_variance": 0.349093,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.7739,
+      "prior_variance": 0.435213,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -2.4908,
+      "prior_variance": 0.304141,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -0.7461,
+      "prior_variance": 0.309755,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -3.2056,
+      "prior_variance": 0.334823,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -2.9785,
+      "prior_variance": 0.383527,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kaleden",
+      "path": "northamerica/canada/britishcolumbia/kaleden",
+      "prior_score": -2.9569,
+      "prior_variance": 0.325654,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -2.2184,
+      "prior_variance": 0.244242,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.5493,
+      "prior_variance": 0.321575,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -2.9797,
+      "prior_variance": 0.340369,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/upperhutt",
+      "prior_score": -2.5454,
+      "prior_variance": 0.306585,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -4.425,
+      "prior_variance": 0.439731,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/sunderland",
+      "prior_score": -3.2528,
+      "prior_variance": 0.388851,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_score": -6.325,
+      "prior_variance": 0.527772,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Deleg",
+      "path": "southamerica/ecuador/deleg",
+      "prior_score": -3.2152,
+      "prior_variance": 0.576283,
+      "prior_n": 3
+    }
+  ]
+}

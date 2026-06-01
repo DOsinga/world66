@@ -1,0 +1,200 @@
+{
+  "round": 2324,
+  "timestamp": "2026-04-13T16:31:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 4.3886,
+      "prior_variance": 0.218432,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_score": 2.9639,
+      "prior_variance": 0.239311,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 5.5662,
+      "prior_variance": 0.210216,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 4.6674,
+      "prior_variance": 0.276794,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
+      "prior_score": 3.1478,
+      "prior_variance": 0.231673,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_par",
+      "prior_score": 4.6399,
+      "prior_variance": 0.244546,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 3.3498,
+      "prior_variance": 0.249759,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.7942,
+      "prior_variance": 0.218788,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_score": -0.4889,
+      "prior_variance": 0.208343,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Comillas",
+      "path": "europe/spain/northernspain/comillas",
+      "prior_score": 4.0008,
+      "prior_variance": 0.228022,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_score": 2.5267,
+      "prior_variance": 0.183143,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 4.4906,
+      "prior_variance": 0.274575,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 2.5435,
+      "prior_variance": 0.208266,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.9143,
+      "prior_variance": 0.228656,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": 0.1668,
+      "prior_variance": 0.20615,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 1.693,
+      "prior_variance": 0.227702,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -1.5264,
+      "prior_variance": 0.216472,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.64,
+      "prior_variance": 0.241918,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.9568,
+      "prior_variance": 0.246459,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -1.6128,
+      "prior_variance": 0.278509,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.4412,
+      "prior_variance": 0.24168,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -3.852,
+      "prior_variance": 0.20669,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.5019,
+      "prior_variance": 0.223211,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -3.8874,
+      "prior_variance": 0.227173,
+      "prior_n": 6
+    }
+  ]
+}

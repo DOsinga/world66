@@ -1,0 +1,200 @@
+{
+  "round": 1786,
+  "timestamp": "2026-04-13T10:51:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_score": 9.5126,
+      "prior_variance": 0.412954,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 5.8272,
+      "prior_variance": 0.351705,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 4.5421,
+      "prior_variance": 0.366636,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 7.5233,
+      "prior_variance": 0.395626,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.2188,
+      "prior_variance": 0.326075,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 2.2993,
+      "prior_variance": 0.332697,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 1.0067,
+      "prior_variance": 0.316864,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.8134,
+      "prior_variance": 0.302206,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Trabuco Canyon",
+      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
+      "prior_score": -2.7951,
+      "prior_variance": 0.277639,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -2.801,
+      "prior_variance": 0.412523,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -1.6722,
+      "prior_variance": 0.3928,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -4.1497,
+      "prior_variance": 0.428119,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_score": -4.4288,
+      "prior_variance": 0.339383,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ventnor",
+      "path": "northamerica/unitedstates/newjersey/ventnor",
+      "prior_score": -4.7245,
+      "prior_variance": 0.317202,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -3.3625,
+      "prior_variance": 0.387015,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.0024,
+      "prior_variance": 0.324278,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -3.0243,
+      "prior_variance": 0.340324,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -5.1581,
+      "prior_variance": 0.372546,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.8745,
+      "prior_variance": 0.341182,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.9036,
+      "prior_variance": 0.312685,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -4.8864,
+      "prior_variance": 0.432876,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -6.1844,
+      "prior_variance": 0.454005,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -3.6606,
+      "prior_variance": 0.316407,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -6.1249,
+      "prior_variance": 0.500415,
+      "prior_n": 5
+    }
+  ]
+}

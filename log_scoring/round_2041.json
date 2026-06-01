@@ -1,0 +1,200 @@
+{
+  "round": 2041,
+  "timestamp": "2026-04-13T16:05:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 3.4423,
+      "prior_variance": 0.305783,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_score": 3.5807,
+      "prior_variance": 0.239882,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_score": 3.0627,
+      "prior_variance": 0.309909,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 4.3168,
+      "prior_variance": 0.27795,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 4.721,
+      "prior_variance": 0.280495,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Frisian Islands",
+      "path": "europe/germany/lowersaxony/frisianislands",
+      "prior_score": 1.7616,
+      "prior_variance": 0.27314,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.9933,
+      "prior_variance": 0.195295,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_score": 2.233,
+      "prior_variance": 0.31181,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_score": 1.189,
+      "prior_variance": 0.307796,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -0.1399,
+      "prior_variance": 0.21308,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -1.8735,
+      "prior_variance": 0.280479,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.2684,
+      "prior_variance": 0.230337,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -2.5564,
+      "prior_variance": 0.157263,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": 0.3259,
+      "prior_variance": 0.368133,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -2.062,
+      "prior_variance": 0.244866,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -3.2701,
+      "prior_variance": 0.352785,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -4.1321,
+      "prior_variance": 0.264279,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_score": -2.7155,
+      "prior_variance": 0.273129,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -2.8787,
+      "prior_variance": 0.251675,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.822,
+      "prior_variance": 0.289669,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_score": -6.4574,
+      "prior_variance": 0.278159,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -4.3606,
+      "prior_variance": 0.338376,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -4.4336,
+      "prior_variance": 0.266254,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/solihull",
+      "prior_score": -3.9585,
+      "prior_variance": 0.275285,
+      "prior_n": 5
+    }
+  ]
+}

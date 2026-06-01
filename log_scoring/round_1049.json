@@ -1,0 +1,200 @@
+{
+  "round": 1049,
+  "timestamp": "2026-04-12T22:06:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_rank": 4068,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_rank": 2490,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_rank": 4900,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/grlitz",
+      "prior_rank": 2389,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_rank": 1782,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_rank": 2375,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/guanajuato/len",
+      "prior_rank": 4487,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_rank": 1984,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_rank": 5094,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_rank": 5199,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_rank": 3226,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/invercargill",
+      "prior_rank": 4906,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_rank": 4224,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_rank": 4435,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_rank": 3244,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_rank": 4787,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_rank": 6332,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_rank": 6704,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_rank": 2345,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_rank": 3908,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_rank": 5231,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Oderzo",
+      "path": "europe/italy/veneto/oderzo",
+      "prior_rank": 4231,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_rank": 4342,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_rank": 3049,
+      "prior_wins": 14,
+      "prior_n": 1
+    }
+  ]
+}

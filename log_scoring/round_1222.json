@@ -1,0 +1,200 @@
+{
+  "round": 1222,
+  "timestamp": "2026-04-12T22:15:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_rank": 5917,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_rank": 7361,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_rank": 5984,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_rank": 5991,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_rank": 6627,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_rank": 5657,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_rank": 5828,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_rank": 5083,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_rank": 5779,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_rank": 5433,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_rank": 6341,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_rank": 7121,
+      "prior_wins": 25,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_rank": 6218,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_rank": 5943,
+      "prior_wins": 38,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_rank": 5962,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_rank": 6000,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_rank": 6017,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
+      "prior_rank": 5517,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_rank": 6398,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Staten Island",
+      "path": "northamerica/unitedstates/newyorkstate/statenisland",
+      "prior_rank": 6225,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_rank": 7624,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_rank": 7207,
+      "prior_wins": 24,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_rank": 7335,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_rank": 4027,
+      "prior_wins": 23,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2254,
+  "timestamp": "2026-04-13T16:24:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puglia",
+      "path": "europe/italy/puglia",
+      "prior_score": 8.6525,
+      "prior_variance": 0.429159,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_score": 4.879,
+      "prior_variance": 0.30392,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.9742,
+      "prior_variance": 0.285179,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 6.402,
+      "prior_variance": 0.257274,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.0901,
+      "prior_variance": 0.293999,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kazbegi",
+      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
+      "prior_score": 6.0238,
+      "prior_variance": 0.280786,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 4.6668,
+      "prior_variance": 0.240643,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.3751,
+      "prior_variance": 0.191374,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 5.6701,
+      "prior_variance": 0.284929,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_score": 5.0103,
+      "prior_variance": 0.215535,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.7814,
+      "prior_variance": 0.285185,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 2.625,
+      "prior_variance": 0.308236,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_score": 3.0754,
+      "prior_variance": 0.168345,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 2.1058,
+      "prior_variance": 0.258362,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.778,
+      "prior_variance": 0.25947,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 3.2499,
+      "prior_variance": 0.244829,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 2.1613,
+      "prior_variance": 0.362368,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_score": 1.187,
+      "prior_variance": 0.251025,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 1.6885,
+      "prior_variance": 0.228681,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_score": 2.6289,
+      "prior_variance": 0.262051,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.7149,
+      "prior_variance": 0.249077,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 1.3621,
+      "prior_variance": 0.242985,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_score": -2.7754,
+      "prior_variance": 0.243403,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Monkstown",
+      "path": "europe/ireland/cork/monkstown",
+      "prior_score": -1.587,
+      "prior_variance": 0.244324,
+      "prior_n": 5
+    }
+  ]
+}

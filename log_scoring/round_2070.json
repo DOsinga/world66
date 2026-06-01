@@ -1,0 +1,200 @@
+{
+  "round": 2070,
+  "timestamp": "2026-04-13T16:08:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 6.9342,
+      "prior_variance": 0.311621,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 5.8194,
+      "prior_variance": 0.269144,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 5.529,
+      "prior_variance": 0.278497,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 2.5552,
+      "prior_variance": 0.343777,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/titikakapoor_knig",
+      "prior_score": 3.951,
+      "prior_variance": 0.268531,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 2.2498,
+      "prior_variance": 0.264382,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 1.1238,
+      "prior_variance": 0.213797,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -1.0929,
+      "prior_variance": 0.269553,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 1.6093,
+      "prior_variance": 0.265129,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": -0.2697,
+      "prior_variance": 0.282711,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 3.0751,
+      "prior_variance": 0.305046,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": -1.2864,
+      "prior_variance": 0.35637,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -0.6475,
+      "prior_variance": 0.237035,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": 0.7895,
+      "prior_variance": 0.252615,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -2.2289,
+      "prior_variance": 0.273021,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -2.3982,
+      "prior_variance": 0.220793,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -1.546,
+      "prior_variance": 0.196996,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -0.495,
+      "prior_variance": 0.259351,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_score": -1.9262,
+      "prior_variance": 0.243362,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -3.6427,
+      "prior_variance": 0.272403,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -2.2834,
+      "prior_variance": 0.227915,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": 0.0063,
+      "prior_variance": 0.281864,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_score": -5.3124,
+      "prior_variance": 0.245043,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southcarolina/deadwood",
+      "prior_score": -7.7806,
+      "prior_variance": 0.404144,
+      "prior_n": 5
+    }
+  ]
+}

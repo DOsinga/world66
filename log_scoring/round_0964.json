@@ -1,0 +1,200 @@
+{
+  "round": 964,
+  "timestamp": "2026-04-12T16:09:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_rank": 252,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_rank": 255,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_rank": 339,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_rank": 849,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_rank": 871,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_rank": 3827,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_rank": 4932,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Indonesia",
+      "path": "asia/indonesia",
+      "prior_rank": 5240,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_rank": 4619,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_rank": 3641,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_rank": 6005,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_rank": 5388,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_rank": 4673,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_rank": 6596,
+      "prior_wins": 30,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_rank": 5480,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_rank": 6514,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_rank": 5924,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_rank": 8122,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_rank": 5945,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_rank": 7696,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_rank": 7725,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_rank": 7069,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Retra",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
+      "prior_rank": 8021,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

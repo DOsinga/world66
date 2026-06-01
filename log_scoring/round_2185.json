@@ -1,0 +1,200 @@
+{
+  "round": 2185,
+  "timestamp": "2026-04-13T16:18:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 3.2686,
+      "prior_variance": 0.251724,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 4.6594,
+      "prior_variance": 0.275041,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.7409,
+      "prior_variance": 0.24302,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.2582,
+      "prior_variance": 0.235822,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_score": 2.1067,
+      "prior_variance": 0.259627,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 1.899,
+      "prior_variance": 0.258673,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -0.0852,
+      "prior_variance": 0.189794,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": 0.4307,
+      "prior_variance": 0.24444,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": 0.8066,
+      "prior_variance": 0.25642,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -0.3371,
+      "prior_variance": 0.282425,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": 0.012,
+      "prior_variance": 0.254244,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nightlife and Entertainment",
+      "path": "northamerica/canada/princeedwardisland/entertainment",
+      "prior_score": -3.6336,
+      "prior_variance": 0.217517,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Centre",
+      "path": "europe/france/centre",
+      "prior_score": -0.869,
+      "prior_variance": 0.25148,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Beautyful village",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
+      "prior_score": -9.857,
+      "prior_variance": 0.36022,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -3.6472,
+      "prior_variance": 0.340461,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -6.3596,
+      "prior_variance": 0.365174,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.5709,
+      "prior_variance": 0.502608,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -6.0737,
+      "prior_variance": 0.297374,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Pickerington",
+      "path": "northamerica/unitedstates/ohio/pickerington",
+      "prior_score": -6.592,
+      "prior_variance": 0.308595,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -4.5956,
+      "prior_variance": 0.266518,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -4.5965,
+      "prior_variance": 0.294666,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -4.1749,
+      "prior_variance": 0.274596,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_score": -5.3575,
+      "prior_variance": 0.330632,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "M Baiki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_score": -10.7997,
+      "prior_variance": 0.753172,
+      "prior_n": 6
+    }
+  ]
+}

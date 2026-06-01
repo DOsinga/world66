@@ -1,0 +1,200 @@
+{
+  "round": 2175,
+  "timestamp": "2026-04-13T16:17:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 7.1667,
+      "prior_variance": 0.278567,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.7103,
+      "prior_variance": 0.302694,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": -0.437,
+      "prior_variance": 0.276749,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.3579,
+      "prior_variance": 0.215748,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -1.5316,
+      "prior_variance": 0.343772,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 0.7896,
+      "prior_variance": 0.278983,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -2.0337,
+      "prior_variance": 0.245246,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 1.2408,
+      "prior_variance": 0.256336,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -2.4519,
+      "prior_variance": 0.229854,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": -0.4106,
+      "prior_variance": 0.215923,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_score": -2.3585,
+      "prior_variance": 0.237858,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -3.0635,
+      "prior_variance": 0.274845,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.5511,
+      "prior_variance": 0.319057,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -2.5376,
+      "prior_variance": 0.243537,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -3.4855,
+      "prior_variance": 0.234961,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -1.8295,
+      "prior_variance": 0.275275,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -4.4573,
+      "prior_variance": 0.222833,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Settat",
+      "path": "africa/morocco/settat",
+      "prior_score": -4.5889,
+      "prior_variance": 0.508635,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Santa Ana",
+      "path": "northamerica/mexico/santaana",
+      "prior_score": -5.9052,
+      "prior_variance": 0.245446,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -4.9684,
+      "prior_variance": 0.322461,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Delaware County",
+      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
+      "prior_score": -4.9601,
+      "prior_variance": 0.24578,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_geo",
+      "prior_score": -7.3149,
+      "prior_variance": 0.334354,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -6.3934,
+      "prior_variance": 0.282744,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "tarli",
+      "path": "asia/india/maharashtra/konkan/tarli",
+      "prior_score": -5.4696,
+      "prior_variance": 0.309958,
+      "prior_n": 5
+    }
+  ]
+}

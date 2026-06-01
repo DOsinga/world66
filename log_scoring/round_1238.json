@@ -1,0 +1,200 @@
+{
+  "round": 1238,
+  "timestamp": "2026-04-12T22:16:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_rank": 3549,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_rank": 2126,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_rank": 7217,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_rank": 5058,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_rank": 4238,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_rank": 3575,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_rank": 2829,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Paderborn",
+      "path": "europe/germany/paderborn",
+      "prior_rank": 5031,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_rank": 3215,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_rank": 2855,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_rank": 3691,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_rank": 4041,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_rank": 5271,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_rank": 5156,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_rank": 4808,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Syunik Marz",
+      "path": "europe/armenia/syunik_marz",
+      "prior_rank": 5037,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_rank": 4204,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_rank": 2886,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_rank": 4815,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_rank": 4308,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_rank": 5268,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_rank": 4232,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_rank": 4071,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_rank": 6035,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

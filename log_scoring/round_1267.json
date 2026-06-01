@@ -1,0 +1,200 @@
+{
+  "round": 1267,
+  "timestamp": "2026-04-12T22:18:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/bay_of_plenty",
+      "prior_rank": 555,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Villarrica",
+      "path": "southamerica/chile/villarrica",
+      "prior_rank": 1556,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/lynton_and_lynmout",
+      "prior_rank": 1172,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_rank": 2779,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
+      "prior_rank": 5069,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "North Coast",
+      "path": "northamerica/unitedstates/california/northcoast",
+      "prior_rank": 1908,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_rank": 1168,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_rank": 3554,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_rank": 5546,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_rank": 3680,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_rank": 2581,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_rank": 1416,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_rank": 2272,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_rank": 3156,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_rank": 2283,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_rank": 2342,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_rank": 4243,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_rank": 5831,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_rank": 3710,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_rank": 1907,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_rank": 1584,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nagaland",
+      "path": "asia/india/nagaland",
+      "prior_rank": 3000,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_rank": 3712,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_rank": 4821,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

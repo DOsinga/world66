@@ -1,0 +1,200 @@
+{
+  "round": 2210,
+  "timestamp": "2026-04-13T16:20:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_score": 7.3017,
+      "prior_variance": 0.411018,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 5.459,
+      "prior_variance": 0.348828,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_score": 4.6364,
+      "prior_variance": 0.293312,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_score": 3.6443,
+      "prior_variance": 0.233693,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Cayo Largo",
+      "path": "northamerica/cuba/cayolargo",
+      "prior_score": 3.4948,
+      "prior_variance": 0.220204,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 3.4553,
+      "prior_variance": 0.282445,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.0934,
+      "prior_variance": 0.220184,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.6233,
+      "prior_variance": 0.238738,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.2406,
+      "prior_variance": 0.232627,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 1.7703,
+      "prior_variance": 0.221262,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 3.554,
+      "prior_variance": 0.295157,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.438,
+      "prior_variance": 0.227956,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 1.6916,
+      "prior_variance": 0.207363,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 3.3316,
+      "prior_variance": 0.253542,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 1.218,
+      "prior_variance": 0.261362,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -1.7057,
+      "prior_variance": 0.289545,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 2.3309,
+      "prior_variance": 0.238782,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.5177,
+      "prior_variance": 0.284978,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": 0.4671,
+      "prior_variance": 0.24724,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -2.9053,
+      "prior_variance": 0.251675,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_score": -2.5665,
+      "prior_variance": 0.235114,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -4.3037,
+      "prior_variance": 0.261626,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -6.4866,
+      "prior_variance": 0.310342,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -6.0031,
+      "prior_variance": 0.352885,
+      "prior_n": 5
+    }
+  ]
+}

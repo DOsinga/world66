@@ -1,0 +1,200 @@
+{
+  "round": 882,
+  "timestamp": "2026-04-12T14:47:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 10.3232,
+      "prior_variance": 1.704832,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 7.1994,
+      "prior_variance": 1.954732,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 7.7437,
+      "prior_variance": 1.678127,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_score": 2.7933,
+      "prior_variance": 1.913271,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "s'argamassa",
+      "path": "europe/spain/balearicislands/ibiza/sargamassa",
+      "prior_score": 1.6623,
+      "prior_variance": 1.175769,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_score": 4.6699,
+      "prior_variance": 1.343063,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 3.4841,
+      "prior_variance": 1.680381,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.5105,
+      "prior_variance": 2.152276,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_score": 2.4998,
+      "prior_variance": 1.321116,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Frisian Islands",
+      "path": "europe/denmark/vadehavet/frisian_islands_in",
+      "prior_score": 2.2737,
+      "prior_variance": 1.540844,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 6.6842,
+      "prior_variance": 1.65871,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 2.8985,
+      "prior_variance": 1.481027,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_score": 3.4401,
+      "prior_variance": 1.3416,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -7.1095,
+      "prior_variance": 2.876937,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -2.4016,
+      "prior_variance": 0.792806,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_score": 4.1277,
+      "prior_variance": 0.861751,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -2.1655,
+      "prior_variance": 1.226845,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -3.8072,
+      "prior_variance": 1.314004,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -1.9095,
+      "prior_variance": 1.337357,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -4.9555,
+      "prior_variance": 1.181925,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -11.0679,
+      "prior_variance": 8.573881,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tipping",
+      "path": "northamerica/costarica/travelinformation/tipping",
+      "prior_score": -5.0373,
+      "prior_variance": 1.281599,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -6.0499,
+      "prior_variance": 1.252366,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -4.6736,
+      "prior_variance": 1.597097,
+      "prior_n": 1
+    }
+  ]
+}

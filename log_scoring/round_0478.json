@@ -1,0 +1,200 @@
+{
+  "round": 478,
+  "timestamp": "2026-04-12T09:32:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_mu": 26.3909,
+      "prior_sigma": 6.1133,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "The High Coast",
+      "path": "europe/sweden/the_high_coast",
+      "prior_mu": 22.7244,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_mu": 22.4955,
+      "prior_sigma": 5.5533,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_mu": 22.7094,
+      "prior_sigma": 5.948,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_mu": 22.7309,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_mu": 21.1252,
+      "prior_sigma": 2.8008,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Halmstad",
+      "path": "europe/sweden/halmstad",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_mu": 22.7101,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_mu": 22.541,
+      "prior_sigma": 5.537,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_mu": 22.6138,
+      "prior_sigma": 5.6821,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_mu": 22.8963,
+      "prior_sigma": 5.725,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_mu": 22.87,
+      "prior_sigma": 5.7214,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

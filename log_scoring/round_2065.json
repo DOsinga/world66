@@ -1,0 +1,200 @@
+{
+  "round": 2065,
+  "timestamp": "2026-04-13T16:07:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 3.7218,
+      "prior_variance": 0.251695,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 5.3775,
+      "prior_variance": 0.306807,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.4882,
+      "prior_variance": 0.317096,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/groveland",
+      "prior_score": -2.0728,
+      "prior_variance": 0.320614,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -4.4788,
+      "prior_variance": 0.464101,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -2.6156,
+      "prior_variance": 0.242923,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -2.1031,
+      "prior_variance": 0.259294,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.6989,
+      "prior_variance": 0.237497,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_score": -2.1197,
+      "prior_variance": 0.27675,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -3.6139,
+      "prior_variance": 0.332841,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -1.8098,
+      "prior_variance": 0.227779,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -4.8792,
+      "prior_variance": 0.37005,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_score": -3.1922,
+      "prior_variance": 0.169074,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_score": -5.4047,
+      "prior_variance": 0.364657,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.0848,
+      "prior_variance": 0.311014,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -7.7209,
+      "prior_variance": 0.547588,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -7.625,
+      "prior_variance": 0.480618,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -4.7724,
+      "prior_variance": 0.308952,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -3.7888,
+      "prior_variance": 0.258561,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ambala",
+      "path": "asia/india/haryana/ambala",
+      "prior_score": -5.2011,
+      "prior_variance": 0.287068,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -5.8919,
+      "prior_variance": 0.278152,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -5.876,
+      "prior_variance": 0.290731,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -8.2453,
+      "prior_variance": 0.374289,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": -4.3578,
+      "prior_variance": 0.319655,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1205,
+  "timestamp": "2026-04-12T22:15:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_rank": 4694,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_rank": 6450,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Canada",
+      "path": "northamerica/canada",
+      "prior_rank": 5246,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_rank": 4065,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_rank": 4004,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_rank": 5944,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_rank": 5871,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_rank": 5212,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/longreach",
+      "prior_rank": 4551,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_rank": 4995,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_rank": 5233,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_rank": 4619,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_rank": 7059,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_rank": 7673,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Khujhirt",
+      "path": "asia/mongolia/khujhirt",
+      "prior_rank": 6147,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_rank": 4047,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_rank": 4707,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_rank": 3382,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Monkstown",
+      "path": "europe/ireland/cork/monkstown",
+      "prior_rank": 5173,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_rank": 6080,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_rank": 6191,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_rank": 6451,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_rank": 7758,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_rank": 4800,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

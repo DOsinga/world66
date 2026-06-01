@@ -1,0 +1,200 @@
+{
+  "round": 1464,
+  "timestamp": "2026-04-12T22:29:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_rank": 2844,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_rank": 3012,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_rank": 4881,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vidoy",
+      "path": "europe/faroeislands/vidoy",
+      "prior_rank": 6557,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_rank": 5955,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_rank": 1903,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_rank": 4929,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Youghal",
+      "path": "europe/ireland/cork/youghal",
+      "prior_rank": 5041,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_rank": 2843,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ohio's Amish Country",
+      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
+      "prior_rank": 1624,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_rank": 5892,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_rank": 3911,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_rank": 4979,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_rank": 1161,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_rank": 3546,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wisconsin Dells",
+      "path": "northamerica/unitedstates/wisconsin/wisconsindells",
+      "prior_rank": 3975,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_rank": 7064,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_rank": 3875,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_rank": 4111,
+      "prior_wins": 80,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_rank": 5528,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_rank": 3711,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_rank": 3582,
+      "prior_wins": 49,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_rank": 1604,
+      "prior_wins": 80,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "abdaal",
+      "path": "africa/somaliland/abdaal",
+      "prior_rank": 7894,
+      "prior_wins": 14,
+      "prior_n": 5
+    }
+  ]
+}

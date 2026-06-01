@@ -1,0 +1,200 @@
+{
+  "round": 169,
+  "timestamp": "2026-04-12T08:46:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Koh Chang",
+      "path": "asia/thailand/kohchang",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_pa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

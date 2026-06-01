@@ -1,0 +1,120 @@
+{
+  "round": 703,
+  "timestamp": "2026-04-12T10:43:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 14,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_mu": 25.2081,
+      "prior_sigma": 6.1715,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_mu": 23.7789,
+      "prior_sigma": 5.8469,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_mu": 21.923,
+      "prior_sigma": 4.0454,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_mu": 22.6044,
+      "prior_sigma": 5.5859,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_mu": 21.6718,
+      "prior_sigma": 4.8212,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 29.7232,
+      "prior_sigma": 3.5807,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_mu": 22.6036,
+      "prior_sigma": 5.7782,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_mu": 21.3736,
+      "prior_sigma": 3.8958,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_mu": 22.4926,
+      "prior_sigma": 5.7825,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_mu": 21.7876,
+      "prior_sigma": 4.8353,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_mu": 21.8,
+      "prior_sigma": 4.8323,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_mu": 21.8298,
+      "prior_sigma": 4.4716,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_mu": 22.4851,
+      "prior_sigma": 5.7809,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_mu": 18.2433,
+      "prior_sigma": 6.7103,
+      "prior_n": 1
+    }
+  ]
+}

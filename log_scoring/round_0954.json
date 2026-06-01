@@ -1,0 +1,200 @@
+{
+  "round": 954,
+  "timestamp": "2026-04-12T16:09:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_rank": 133,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_rank": 990,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_rank": 3468,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_rank": 766,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_eus/vitoria",
+      "prior_rank": 2586,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_rank": 5919,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_rank": 2630,
+      "prior_wins": 76,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_rank": 3570,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_rank": 1613,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_rank": 5569,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_rank": 4052,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_rank": 4116,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_rank": 1344,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_rank": 3898,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_rank": 3790,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_rank": 6535,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_rank": 3606,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_rank": 7383,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_rank": 5073,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_rank": 7141,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_rank": 7698,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_rank": 6856,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_rank": 7096,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

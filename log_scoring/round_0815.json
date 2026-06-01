@@ -1,0 +1,200 @@
+{
+  "round": 815,
+  "timestamp": "2026-04-12T10:49:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_mu": 22.4914,
+      "prior_sigma": 3.9558,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/yucatan/playadelcarmen",
+      "prior_mu": 24.8608,
+      "prior_sigma": 4.1455,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_mu": 25.9624,
+      "prior_sigma": 6.1406,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_mu": 22.4605,
+      "prior_sigma": 5.5436,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Pa\u0161man Island",
+      "path": "europe/croatia/pasman_island",
+      "prior_mu": 22.4481,
+      "prior_sigma": 5.696,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_mu": 21.9846,
+      "prior_sigma": 4.6362,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_mu": 21.6164,
+      "prior_sigma": 4.4847,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_mu": 21.8948,
+      "prior_sigma": 4.5013,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_mu": 21.4838,
+      "prior_sigma": 4.4242,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 21.0434,
+      "prior_sigma": 2.3542,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_mu": 22.185,
+      "prior_sigma": 5.4326,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_mu": 22.0048,
+      "prior_sigma": 4.6845,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_mu": 22.5103,
+      "prior_sigma": 5.4104,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_mu": 22.2392,
+      "prior_sigma": 5.4306,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_mu": 22.2437,
+      "prior_sigma": 5.6894,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_mu": 22.1042,
+      "prior_sigma": 5.2742,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_mu": 24.4843,
+      "prior_sigma": 3.8202,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_mu": 22.2977,
+      "prior_sigma": 5.8678,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bussy",
+      "path": "europe/france/around_paris/bussy",
+      "prior_mu": 18.4749,
+      "prior_sigma": 4.6739,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_mu": 21.5289,
+      "prior_sigma": 4.5244,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_mu": 21.0078,
+      "prior_sigma": 4.5369,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_mu": 21.7986,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_mu": 20.8278,
+      "prior_sigma": 3.7015,
+      "prior_n": 3
+    }
+  ]
+}

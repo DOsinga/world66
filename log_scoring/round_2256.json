@@ -1,0 +1,200 @@
+{
+  "round": 2256,
+  "timestamp": "2026-04-13T16:25:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": -3.251,
+      "prior_variance": 0.62609,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/taupo",
+      "prior_score": 5.8738,
+      "prior_variance": 0.241639,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -0.5388,
+      "prior_variance": 0.21717,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_score": -1.7939,
+      "prior_variance": 0.313997,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.5604,
+      "prior_variance": 0.240084,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_score": -4.2185,
+      "prior_variance": 0.725271,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -2.5923,
+      "prior_variance": 0.240246,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_score": -4.8192,
+      "prior_variance": 0.31606,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -4.3795,
+      "prior_variance": 0.242914,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -4.7947,
+      "prior_variance": 0.224369,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_score": -3.1749,
+      "prior_variance": 0.147342,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.1967,
+      "prior_variance": 0.219854,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -0.2296,
+      "prior_variance": 0.217543,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.4518,
+      "prior_variance": 0.184372,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.1833,
+      "prior_variance": 0.212972,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -2.0475,
+      "prior_variance": 0.278199,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -2.866,
+      "prior_variance": 0.217615,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mulheim",
+      "path": "europe/germany/brandenburg/mulheim",
+      "prior_score": -6.1387,
+      "prior_variance": 0.314359,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_score": -5.7768,
+      "prior_variance": 0.365081,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": -4.8273,
+      "prior_variance": 0.290653,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal_1",
+      "prior_score": -7.7188,
+      "prior_variance": 0.401565,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sudhnoti",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
+      "prior_score": -6.5131,
+      "prior_variance": 0.335719,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_score": -14.858,
+      "prior_variance": 0.708687,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -6.4644,
+      "prior_variance": 0.384408,
+      "prior_n": 5
+    }
+  ]
+}

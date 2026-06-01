@@ -1,0 +1,200 @@
+{
+  "round": 12,
+  "timestamp": "2026-04-11T19:24:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cephalonia",
+      "path": "europe/greece/cephalonia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bay View",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bialogard",
+      "path": "europe/poland/bialogard",
+      "prior_mu": 18.34,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_mu": 18.08,
+      "prior_sigma": 6.72,
+      "prior_n": 1
+    }
+  ]
+}

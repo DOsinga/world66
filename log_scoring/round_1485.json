@@ -1,0 +1,200 @@
+{
+  "round": 1485,
+  "timestamp": "2026-04-13T10:24:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vietnam",
+      "path": "asia/vietnam",
+      "prior_score": 6.7425,
+      "prior_variance": 0.638895,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "New Town",
+      "path": "europe/unitedkingdom/scotland/edinburgh/newtown_1",
+      "prior_score": 8.9185,
+      "prior_variance": 0.595721,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/yogyakarta",
+      "prior_score": 8.2331,
+      "prior_variance": 0.493383,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 4.4045,
+      "prior_variance": 0.355775,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.3227,
+      "prior_variance": 0.287965,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_score": 6.8612,
+      "prior_variance": 0.480356,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 4.5838,
+      "prior_variance": 0.395832,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 6.2001,
+      "prior_variance": 0.440862,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 5.1836,
+      "prior_variance": 0.808607,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Saint-Martin",
+      "path": "northamerica/saintmartin",
+      "prior_score": 4.393,
+      "prior_variance": 0.639587,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 3.578,
+      "prior_variance": 0.487309,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandres",
+      "prior_score": 4.2431,
+      "prior_variance": 0.487045,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_score": 4.3366,
+      "prior_variance": 0.27861,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.2645,
+      "prior_variance": 0.476036,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.9195,
+      "prior_variance": 0.419876,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 1.2931,
+      "prior_variance": 0.432989,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 0.0973,
+      "prior_variance": 0.670674,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.7704,
+      "prior_variance": 0.560636,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.0129,
+      "prior_variance": 0.500603,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 2.0606,
+      "prior_variance": 0.656299,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 2.7259,
+      "prior_variance": 0.398207,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 0.7168,
+      "prior_variance": 0.586962,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 4.5108,
+      "prior_variance": 0.430711,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Niue",
+      "path": "australiaandpacific/niue",
+      "prior_score": 3.1951,
+      "prior_variance": 0.634012,
+      "prior_n": 3
+    }
+  ]
+}

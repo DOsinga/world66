@@ -1,0 +1,200 @@
+{
+  "round": 834,
+  "timestamp": "2026-04-12T14:36:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 2.9106,
+      "prior_variance": 1.689376,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 10.0733,
+      "prior_variance": 1.962779,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 5.2879,
+      "prior_variance": 1.876587,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Thuringia",
+      "path": "europe/germany/thuringia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": -2.175,
+      "prior_variance": 1.479209,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 7.1434,
+      "prior_variance": 1.919865,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_score": 1.6347,
+      "prior_variance": 1.668455,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 1.6198,
+      "prior_variance": 1.805524,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.0076,
+      "prior_variance": 1.709229,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -4.924,
+      "prior_variance": 1.649703,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -1.2219,
+      "prior_variance": 1.764927,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_notting/loughborough",
+      "prior_score": -5.8396,
+      "prior_variance": 1.700057,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_score": 3.6196,
+      "prior_variance": 1.649097,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": -7.3346,
+      "prior_variance": 1.936751,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -7.547,
+      "prior_variance": 2.244077,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -6.8086,
+      "prior_variance": 1.991713,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -1.2874,
+      "prior_variance": 1.973052,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": 2.1905,
+      "prior_variance": 32.098538,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_score": -1.6266,
+      "prior_variance": 27.804234,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -7.0066,
+      "prior_variance": 2.955647,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_score": -16.2418,
+      "prior_variance": 6.434844,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Credit Cards",
+      "path": "travelwise/money/creditcards",
+      "prior_score": -15.6721,
+      "prior_variance": 6.663062,
+      "prior_n": 1
+    }
+  ]
+}

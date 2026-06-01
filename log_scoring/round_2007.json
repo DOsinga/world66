@@ -1,0 +1,200 @@
+{
+  "round": 2007,
+  "timestamp": "2026-04-13T16:02:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.3618,
+      "prior_variance": 0.279637,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.1831,
+      "prior_variance": 0.276146,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.3386,
+      "prior_variance": 0.318296,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sulawesi",
+      "path": "asia/indonesia/sulawesi",
+      "prior_score": 3.795,
+      "prior_variance": 0.360199,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -4.454,
+      "prior_variance": 0.802195,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": -0.5831,
+      "prior_variance": 0.305897,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 3.0868,
+      "prior_variance": 0.286434,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -1.0654,
+      "prior_variance": 0.246897,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": 0.164,
+      "prior_variance": 0.252328,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -3.5251,
+      "prior_variance": 0.262145,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Trescore",
+      "path": "europe/italy/lombardia/trescore",
+      "prior_score": -3.547,
+      "prior_variance": 0.328216,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -2.228,
+      "prior_variance": 0.364494,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Rakesh",
+      "path": "asia/india/uttaranchal/hemkunt/rakesh",
+      "prior_score": -5.0611,
+      "prior_variance": 0.414386,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -4.4398,
+      "prior_variance": 0.307752,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -1.7619,
+      "prior_variance": 0.260543,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_score": -1.2194,
+      "prior_variance": 0.264935,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_score": -2.6044,
+      "prior_variance": 0.251531,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.3099,
+      "prior_variance": 0.249307,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_score": -4.2577,
+      "prior_variance": 0.266836,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_score": -5.3593,
+      "prior_variance": 0.238963,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -7.3055,
+      "prior_variance": 0.540243,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_score": -4.6238,
+      "prior_variance": 0.368065,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -5.7094,
+      "prior_variance": 0.51086,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.2984,
+      "prior_variance": 0.472427,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1435,
+  "timestamp": "2026-04-12T22:27:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_rank": 1382,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_rank": 2877,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_rank": 3036,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_rank": 1411,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_rank": 1603,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/kapiti_coast",
+      "prior_rank": 4948,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_rank": 3984,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_rank": 2351,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_rank": 2181,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_rank": 2290,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_rank": 3045,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_rank": 2354,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_rank": 2898,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_rank": 2343,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/albenga",
+      "prior_rank": 2539,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pa\u0161man Island",
+      "path": "europe/croatia/pasman_island",
+      "prior_rank": 4528,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_rank": 3555,
+      "prior_wins": 49,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_rank": 2857,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_rank": 2336,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_rank": 3211,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_rank": 560,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_rank": 1323,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_rank": 2318,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_rank": 5286,
+      "prior_wins": 28,
+      "prior_n": 3
+    }
+  ]
+}

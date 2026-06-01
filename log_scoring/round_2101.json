@@ -1,0 +1,200 @@
+{
+  "round": 2101,
+  "timestamp": "2026-04-13T16:10:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.2465,
+      "prior_variance": 0.245469,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 4.3418,
+      "prior_variance": 0.409559,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/alcaladehenares",
+      "prior_score": 2.0995,
+      "prior_variance": 0.32081,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 3.5322,
+      "prior_variance": 0.314004,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.5639,
+      "prior_variance": 0.244334,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 4.2972,
+      "prior_variance": 0.267236,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 0.2717,
+      "prior_variance": 0.29611,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_score": 1.5516,
+      "prior_variance": 0.23271,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 3.1676,
+      "prior_variance": 0.284574,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_score": -0.5064,
+      "prior_variance": 0.203021,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 0.2161,
+      "prior_variance": 0.378826,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.081,
+      "prior_variance": 0.200015,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_score": 0.6304,
+      "prior_variance": 0.303186,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.5839,
+      "prior_variance": 0.261292,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -2.2946,
+      "prior_variance": 0.23896,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -2.0568,
+      "prior_variance": 0.254348,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -2.8626,
+      "prior_variance": 0.300434,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hessen",
+      "path": "europe/germany/hessen",
+      "prior_score": 0.8223,
+      "prior_variance": 0.24568,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -5.3691,
+      "prior_variance": 0.35031,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -3.8595,
+      "prior_variance": 0.2888,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sherwood Park",
+      "path": "northamerica/canada/alberta/sherwoodpark",
+      "prior_score": -5.0577,
+      "prior_variance": 0.369998,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_score": -5.786,
+      "prior_variance": 0.392349,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/houston/brazosportarea",
+      "prior_score": -5.1184,
+      "prior_variance": 0.289636,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_score": -9.0489,
+      "prior_variance": 0.299396,
+      "prior_n": 7
+    }
+  ]
+}

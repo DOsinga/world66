@@ -1,0 +1,200 @@
+{
+  "round": 286,
+  "timestamp": "2026-04-12T09:10:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bocas del toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/wellington",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_mu": 21.8696,
+      "prior_sigma": 4.8231,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_mu": 22.719,
+      "prior_sigma": 5.9494,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_mu": 22.7202,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_mu": 22.5286,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_mu": 22.3943,
+      "prior_sigma": 5.8969,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 138,
+  "timestamp": "2026-04-12T08:45:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Ginza",
+      "path": "asia/japan/tokyo/ginza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Berlin Mitte",
+      "path": "europe/germany/berlin/berlinmitte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_mu": 23.6318,
+      "prior_sigma": 3.0997,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rwanda",
+      "path": "africa/rwanda",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hessen",
+      "path": "europe/germany/hessen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 20.8663,
+      "prior_sigma": 2.7769,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Quality Inn New Haven",
+      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1289,
+  "timestamp": "2026-04-12T22:19:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_rank": 342,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tasmania",
+      "path": "australiaandpacific/australia/tasmania",
+      "prior_rank": 372,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Southland & Otago",
+      "path": "australiaandpacific/newzealand/otago",
+      "prior_rank": 821,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains",
+      "prior_rank": 675,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_rank": 1360,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_rank": 300,
+      "prior_wins": 103,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/wellington",
+      "prior_rank": 1127,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_rank": 704,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_rank": 2544,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_rank": 1150,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_rank": 2044,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_rank": 685,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_rank": 1032,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_rank": 664,
+      "prior_wins": 115,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_rank": 1940,
+      "prior_wins": 62,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_rank": 528,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_rank": 113,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_rank": 2119,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_rank": 503,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_rank": 1383,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_rank": 714,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_rank": 356,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_rank": 834,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_rank": 750,
+      "prior_wins": 65,
+      "prior_n": 4
+    }
+  ]
+}

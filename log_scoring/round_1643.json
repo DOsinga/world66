@@ -1,0 +1,200 @@
+{
+  "round": 1643,
+  "timestamp": "2026-04-13T10:38:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 3.981,
+      "prior_variance": 0.499434,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": -0.0061,
+      "prior_variance": 0.387277,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 4.7637,
+      "prior_variance": 0.370952,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 0.7097,
+      "prior_variance": 0.42937,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.3977,
+      "prior_variance": 0.571216,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -2.3966,
+      "prior_variance": 0.294954,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 4.4265,
+      "prior_variance": 0.412319,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": -3.8009,
+      "prior_variance": 0.74746,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -1.1634,
+      "prior_variance": 0.454402,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": -0.5107,
+      "prior_variance": 0.425941,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -1.401,
+      "prior_variance": 0.339032,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -1.9792,
+      "prior_variance": 0.372681,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Somba villages",
+      "path": "africa/benin/sombavillages",
+      "prior_score": -1.6262,
+      "prior_variance": 0.399281,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.8634,
+      "prior_variance": 0.558889,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -6.2302,
+      "prior_variance": 0.396016,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -8.919,
+      "prior_variance": 0.462936,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_score": -7.5465,
+      "prior_variance": 0.33798,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.9026,
+      "prior_variance": 0.356161,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -8.8315,
+      "prior_variance": 0.649079,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ash Flat",
+      "path": "northamerica/unitedstates/arkansas/ashflat",
+      "prior_score": -8.3646,
+      "prior_variance": 0.694258,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Urbana",
+      "path": "northamerica/unitedstates/ohio/urbana",
+      "prior_score": -7.0443,
+      "prior_variance": 0.351556,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_geo",
+      "prior_score": -7.339,
+      "prior_variance": 0.421183,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -8.9696,
+      "prior_variance": 0.346849,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.0731,
+      "prior_variance": 0.565557,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1923,
+  "timestamp": "2026-04-13T15:54:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 7.697,
+      "prior_variance": 0.336224,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 6.3244,
+      "prior_variance": 0.443874,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 6.9645,
+      "prior_variance": 0.403943,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 1.3145,
+      "prior_variance": 0.262762,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_score": 3.2335,
+      "prior_variance": 0.302499,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 3.549,
+      "prior_variance": 0.350551,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.6026,
+      "prior_variance": 0.244179,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Epernay",
+      "path": "europe/france/nord/epernay",
+      "prior_score": 3.5657,
+      "prior_variance": 0.264439,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.3355,
+      "prior_variance": 0.306544,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.4301,
+      "prior_variance": 0.354273,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_score": 1.5282,
+      "prior_variance": 0.271464,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/marlow",
+      "prior_score": 1.1528,
+      "prior_variance": 0.252691,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -0.7482,
+      "prior_variance": 0.358768,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "caranzalem",
+      "path": "asia/india/goa/caranzalem",
+      "prior_score": -0.4784,
+      "prior_variance": 0.283398,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -0.6815,
+      "prior_variance": 0.317745,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -2.6465,
+      "prior_variance": 0.311571,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_score": -1.5717,
+      "prior_variance": 0.285927,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -0.7193,
+      "prior_variance": 0.253485,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pambula",
+      "path": "australiaandpacific/australia/newsouthwales/pambula",
+      "prior_score": -1.818,
+      "prior_variance": 0.297995,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -4.6209,
+      "prior_variance": 0.300955,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -4.8029,
+      "prior_variance": 0.535042,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_score": -5.4513,
+      "prior_variance": 0.375787,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -2.2087,
+      "prior_variance": 0.514164,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ohio",
+      "path": "northamerica/unitedstates/ohio",
+      "prior_score": -3.2638,
+      "prior_variance": 0.297262,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 450,
+  "timestamp": "2026-04-12T09:31:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_mu": 22.743,
+      "prior_sigma": 5.7083,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_mu": 22.253,
+      "prior_sigma": 5.7809,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_mu": 22.179,
+      "prior_sigma": 5.7492,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_mu": 21.6281,
+      "prior_sigma": 4.4676,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pagosa Springs",
+      "path": "northamerica/unitedstates/colorado/pagosa_springs",
+      "prior_mu": 22.6498,
+      "prior_sigma": 5.9397,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_mu": 22.0287,
+      "prior_sigma": 4.6962,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_mu": 21.3517,
+      "prior_sigma": 4.5456,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/arcata",
+      "prior_mu": 21.8968,
+      "prior_sigma": 4.405,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_mu": 20.842,
+      "prior_sigma": 2.8951,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_mu": 22.7639,
+      "prior_sigma": 5.6483,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_mu": 22.82,
+      "prior_sigma": 5.7137,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_mu": 22.2734,
+      "prior_sigma": 5.7835,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_mu": 21.7245,
+      "prior_sigma": 4.5255,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wamic",
+      "path": "northamerica/unitedstates/oregon/wamic",
+      "prior_mu": 18.1803,
+      "prior_sigma": 6.7344,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Nebraska",
+      "path": "northamerica/unitedstates/nebraska",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_mu": 22.583,
+      "prior_sigma": 5.6785,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_mu": 18.0715,
+      "prior_sigma": 6.5308,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2140,
+  "timestamp": "2026-04-13T16:14:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 9.2391,
+      "prior_variance": 0.442937,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.6105,
+      "prior_variance": 0.213029,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_score": 2.9758,
+      "prior_variance": 0.317049,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -2.1839,
+      "prior_variance": 0.306789,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -1.5522,
+      "prior_variance": 0.247526,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Stjordal",
+      "path": "europe/norway/stjordal",
+      "prior_score": -1.0384,
+      "prior_variance": 0.208613,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -1.6031,
+      "prior_variance": 0.309539,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": -1.1483,
+      "prior_variance": 0.27998,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tres Rios",
+      "path": "northamerica/costarica/tresrios",
+      "prior_score": -3.1386,
+      "prior_variance": 0.305723,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.8943,
+      "prior_variance": 0.215276,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.3757,
+      "prior_variance": 0.23612,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -1.3641,
+      "prior_variance": 0.230596,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince/banlung",
+      "prior_score": -1.5512,
+      "prior_variance": 0.243526,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_score": -2.75,
+      "prior_variance": 0.280464,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Missouri",
+      "path": "northamerica/unitedstates/missouri",
+      "prior_score": -3.8626,
+      "prior_variance": 0.254041,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -1.2322,
+      "prior_variance": 0.210196,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/yucatan/apizaco",
+      "prior_score": -5.345,
+      "prior_variance": 0.254996,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -4.4382,
+      "prior_variance": 0.347593,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_score": -5.9572,
+      "prior_variance": 0.292151,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_score": -5.0129,
+      "prior_variance": 0.375656,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.0285,
+      "prior_variance": 0.268594,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -7.1526,
+      "prior_variance": 0.378767,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -5.411,
+      "prior_variance": 0.268758,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_score": -10.271,
+      "prior_variance": 0.371791,
+      "prior_n": 5
+    }
+  ]
+}

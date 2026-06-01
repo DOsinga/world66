@@ -1,0 +1,200 @@
+{
+  "round": 1223,
+  "timestamp": "2026-04-12T22:16:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_rank": 5085,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_rank": 4237,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_rank": 5035,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_rank": 3984,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_rank": 5487,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_rank": 4306,
+      "prior_wins": 66,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Czestochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_rank": 3078,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_rank": 3586,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_rank": 2737,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_rank": 6459,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_rank": 4781,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cuiaba",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_rank": 5963,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_rank": 4933,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_rank": 5815,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_rank": 5020,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/jacksonville",
+      "prior_rank": 4347,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bydgoszcz",
+      "path": "europe/poland/bydgoszcz",
+      "prior_rank": 2387,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_rank": 5728,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_rank": 5245,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_rank": 6254,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Wasilla",
+      "path": "northamerica/unitedstates/alaska/wasilla",
+      "prior_rank": 6161,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_rank": 6153,
+      "prior_wins": 36,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_rank": 6426,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_rank": 2789,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "round": 451,
+  "timestamp": "2026-04-12T09:31:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 19,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_mu": 25.1537,
+      "prior_sigma": 5.9348,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 26.286,
+      "prior_sigma": 2.947,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Perast",
+      "path": "europe/serbiaandmontenegro/perast",
+      "prior_mu": 21.9415,
+      "prior_sigma": 4.6227,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_mu": 22.5482,
+      "prior_sigma": 5.8171,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Herceg Novi",
+      "path": "europe/serbiaandmontenegro/hercegnovi",
+      "prior_mu": 22.9747,
+      "prior_sigma": 5.7386,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Novi Sad",
+      "path": "europe/serbiaandmontenegro/novisad",
+      "prior_mu": 22.0149,
+      "prior_sigma": 4.5989,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Belgrade",
+      "path": "europe/serbiaandmontenegro/belgrade",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_mu": 22.6736,
+      "prior_sigma": 5.9423,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_mu": 22.1597,
+      "prior_sigma": 5.8466,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_mu": 21.6526,
+      "prior_sigma": 4.741,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Podgorica",
+      "path": "europe/serbiaandmontenegro/podgorica",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_mu": 22.6895,
+      "prior_sigma": 5.6864,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_mu": 22.2749,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kragujevac",
+      "path": "europe/serbiaandmontenegro/kragujevac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Gjilan",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_mu": 21.6551,
+      "prior_sigma": 4.7449,
+      "prior_n": 2
+    }
+  ]
+}

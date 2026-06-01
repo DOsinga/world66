@@ -1,0 +1,200 @@
+{
+  "round": 1055,
+  "timestamp": "2026-04-12T22:06:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_rank": 4546,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_rank": 6910,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/virginia",
+      "prior_rank": 2371,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_rank": 3418,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_rank": 3794,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_rank": 2603,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_rank": 4087,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_rank": 4444,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_rank": 4919,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/wangerooge",
+      "prior_rank": 4237,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_rank": 3489,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_rank": 2188,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_rank": 4866,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_rank": 5250,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_rank": 3389,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_rank": 5069,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_rank": 4024,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_rank": 4082,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_rank": 4284,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_rank": 4566,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_rank": 5619,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_rank": 5300,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_rank": 6924,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_rank": 3841,
+      "prior_wins": 12,
+      "prior_n": 1
+    }
+  ]
+}

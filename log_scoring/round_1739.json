@@ -1,0 +1,200 @@
+{
+  "round": 1739,
+  "timestamp": "2026-04-13T10:47:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guernsey",
+      "path": "europe/channelislands/guernsey",
+      "prior_score": 3.5653,
+      "prior_variance": 0.300876,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.731,
+      "prior_variance": 0.428275,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -3.5582,
+      "prior_variance": 0.562566,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vieques",
+      "path": "northamerica/puertorico/vieques",
+      "prior_score": 5.2314,
+      "prior_variance": 0.433802,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tysfjord",
+      "path": "europe/norway/tysfjord",
+      "prior_score": 2.1313,
+      "prior_variance": 0.323496,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_score": 1.8286,
+      "prior_variance": 0.311761,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": -3.231,
+      "prior_variance": 0.602236,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": 0.0467,
+      "prior_variance": 0.289721,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": 0.3472,
+      "prior_variance": 0.24381,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 2.2849,
+      "prior_variance": 0.348075,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -0.5301,
+      "prior_variance": 0.323188,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.8784,
+      "prior_variance": 0.44946,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "West Bengal",
+      "path": "asia/india/westbengal",
+      "prior_score": -3.2032,
+      "prior_variance": 0.408855,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -1.3497,
+      "prior_variance": 0.372372,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -3.9782,
+      "prior_variance": 0.298303,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -2.5118,
+      "prior_variance": 0.327607,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -3.0337,
+      "prior_variance": 0.304381,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -5.2765,
+      "prior_variance": 0.461738,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -4.0069,
+      "prior_variance": 0.381267,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_score": -4.9618,
+      "prior_variance": 0.284892,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_score": -5.453,
+      "prior_variance": 0.680113,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -3.6839,
+      "prior_variance": 0.307262,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.0144,
+      "prior_variance": 0.337363,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_score": -3.9883,
+      "prior_variance": 0.238317,
+      "prior_n": 5
+    }
+  ]
+}

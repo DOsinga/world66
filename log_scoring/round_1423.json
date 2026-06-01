@@ -1,0 +1,200 @@
+{
+  "round": 1423,
+  "timestamp": "2026-04-12T22:26:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_rank": 5120,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_rank": 3872,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_rank": 4537,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_rank": 2220,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_rank": 5474,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_rank": 4344,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_rank": 2512,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_rank": 2843,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_rank": 5652,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_rank": 6365,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wuhan",
+      "path": "asia/china/wuhan",
+      "prior_rank": 6459,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_rank": 4926,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_rank": 5318,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_rank": 3799,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_rank": 5640,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_rank": 5094,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_rank": 5934,
+      "prior_wins": 40,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_rank": 4993,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_rank": 4374,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_rank": 3835,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_rank": 6280,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_rank": 7790,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_rank": 6509,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_rank": 4945,
+      "prior_wins": 30,
+      "prior_n": 3
+    }
+  ]
+}

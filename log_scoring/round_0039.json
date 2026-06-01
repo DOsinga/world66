@@ -1,0 +1,200 @@
+{
+  "round": 39,
+  "timestamp": "2026-04-11T19:25:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 27.83,
+      "prior_sigma": 5.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_mu": 22.33,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_mu": 22.85,
+      "prior_sigma": 5.4,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_mu": 23.03,
+      "prior_sigma": 5.54,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/brighton",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.83,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 25.15,
+      "prior_sigma": 5.0,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_mu": 23.82,
+      "prior_sigma": 5.84,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 22.66,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 23.15,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_mu": 22.22,
+      "prior_sigma": 4.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_mu": 22.29,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_mu": 22.05,
+      "prior_sigma": 4.77,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_mu": 22.76,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 21.97,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_mu": 22.44,
+      "prior_sigma": 5.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_mu": 21.87,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_mu": 18.34,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "People",
+      "path": "asia/pakistan/lahore/people_1",
+      "prior_mu": 22.1,
+      "prior_sigma": 5.37,
+      "prior_n": 1
+    }
+  ]
+}

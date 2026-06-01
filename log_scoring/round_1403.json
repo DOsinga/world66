@@ -1,0 +1,200 @@
+{
+  "round": 1403,
+  "timestamp": "2026-04-12T22:25:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_rank": 5871,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_rank": 4527,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_rank": 7398,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Prior Lake",
+      "path": "northamerica/unitedstates/minnesota/priorlake",
+      "prior_rank": 7389,
+      "prior_wins": 25,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_rank": 6395,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Miramar",
+      "path": "northamerica/unitedstates/florida/miramar",
+      "prior_rank": 7262,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Douglaston",
+      "path": "northamerica/unitedstates/newyorkstate/douglaston",
+      "prior_rank": 7800,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Elanora",
+      "path": "australiaandpacific/australia/queensland/elanora",
+      "prior_rank": 7624,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_rank": 7544,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_rank": 7976,
+      "prior_wins": 14,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_rank": 7819,
+      "prior_wins": 18,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Limache",
+      "path": "southamerica/chile/limache",
+      "prior_rank": 7835,
+      "prior_wins": 21,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_rank": 7654,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_rank": 6934,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_rank": 7670,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_rank": 3302,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_rank": 7611,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/yucatan/monterrey",
+      "prior_rank": 7403,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Water",
+      "path": "northamerica/costarica/travelinformation/water",
+      "prior_rank": 4743,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Forest Hill",
+      "path": "europe/unitedkingdom/england/london/foresthill",
+      "prior_rank": 7705,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_rank": 7124,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Chuvashia",
+      "path": "europe/russia/chuvashia",
+      "prior_rank": 6843,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_rank": 3930,
+      "prior_wins": 48,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_rank": 7268,
+      "prior_wins": 16,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 990,
+  "timestamp": "2026-04-12T22:03:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_rank": 696,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_rank": 465,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_rank": 547,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_rank": 491,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_rank": 1029,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_rank": 463,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pamir Highway",
+      "path": "asia/tajikistan/pamir_highway",
+      "prior_rank": 2250,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_rank": 1888,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_rank": 845,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_rank": 984,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_rank": 665,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_rank": 2243,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_rank": 3802,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_rank": 1187,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_rank": 1906,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_rank": 1528,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_rank": 840,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_rank": 289,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_rank": 530,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_rank": 616,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_rank": 2635,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_rank": 528,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_rank": 1145,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_rank": 320,
+      "prior_wins": 43,
+      "prior_n": 2
+    }
+  ]
+}

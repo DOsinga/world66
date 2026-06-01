@@ -1,0 +1,200 @@
+{
+  "round": 1203,
+  "timestamp": "2026-04-12T22:14:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_rank": 786,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Central Coast",
+      "path": "northamerica/unitedstates/california/centralcoast",
+      "prior_rank": 380,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_rank": 1447,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_rank": 928,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_rank": 4508,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_rank": 3417,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_rank": 1145,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_rank": 948,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_rank": 473,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_rank": 597,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_rank": 1471,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_rank": 361,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_rank": 1093,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_rank": 1916,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_rank": 1127,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_rank": 649,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_rank": 600,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_rank": 1293,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_rank": 2132,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_rank": 1728,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_rank": 1912,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_rank": 2838,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Palm island",
+      "path": "northamerica/saintvincentandthegrenadines/palmisland",
+      "prior_rank": 1442,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_rank": 1308,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

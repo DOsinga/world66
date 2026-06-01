@@ -1,0 +1,200 @@
+{
+  "round": 1068,
+  "timestamp": "2026-04-12T22:07:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_rank": 4938,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_rank": 4921,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_rank": 7536,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_rank": 5313,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_rank": 4083,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_rank": 5959,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_rank": 5488,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_rank": 5543,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_rank": 6179,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_rank": 6599,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_rank": 6350,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Moldova",
+      "path": "europe/moldova",
+      "prior_rank": 7186,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_rank": 6792,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_rank": 6377,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Jerico",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_rank": 5298,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nui Atoll",
+      "path": "australiaandpacific/tuvalu/nuiatoll",
+      "prior_rank": 3514,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_rank": 7014,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_rank": 2356,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_rank": 6964,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_rank": 5718,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_rank": 8010,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_rank": 7494,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_rank": 7334,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_rank": 7613,
+      "prior_wins": 3,
+      "prior_n": 2
+    }
+  ]
+}

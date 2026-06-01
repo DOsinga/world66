@@ -1,0 +1,200 @@
+{
+  "round": 817,
+  "timestamp": "2026-04-12T10:49:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Japan",
+      "path": "asia/japan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_mu": 22.9169,
+      "prior_sigma": 5.474,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Masai Mara N.R.",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
+      "prior_mu": 33.5825,
+      "prior_sigma": 5.7965,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_mu": 22.5787,
+      "prior_sigma": 5.9443,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Santa Eulalia",
+      "path": "europe/spain/balearicislands/ibiza/santaeulalia",
+      "prior_mu": 22.8642,
+      "prior_sigma": 5.719,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_mu": 25.6409,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_mu": 21.8786,
+      "prior_sigma": 4.6954,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_mu": 22.7058,
+      "prior_sigma": 5.5604,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_mu": 21.6505,
+      "prior_sigma": 5.4072,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_mu": 22.842,
+      "prior_sigma": 5.5362,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_mu": 22.674,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_mu": 22.0366,
+      "prior_sigma": 4.6855,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_mu": 21.6631,
+      "prior_sigma": 4.351,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_mu": 22.399,
+      "prior_sigma": 5.2693,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Chernobyl",
+      "path": "europe/ukraine/chernobyl",
+      "prior_mu": 22.4598,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_mu": 21.3979,
+      "prior_sigma": 3.7579,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_mu": 20.6474,
+      "prior_sigma": 3.7643,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "e",
+      "path": "northamerica/unitedstates/colorado/e",
+      "prior_mu": 17.9949,
+      "prior_sigma": 6.506,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Yengema",
+      "path": "africa/sierraleone/yengema",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

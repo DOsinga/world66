@@ -1,0 +1,200 @@
+{
+  "round": 20,
+  "timestamp": "2026-04-11T19:25:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_mu": 30.69,
+      "prior_sigma": 6.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Arno Atoll",
+      "path": "australiaandpacific/marshallislands/arnoatoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_mu": 22.08,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 18.72,
+      "prior_sigma": 5.21,
+      "prior_n": 2
+    }
+  ]
+}

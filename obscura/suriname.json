@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/suriname-rivier",
+    "type": "Place",
+    "item-id": "40208",
+    "gtm-content-type": "Place",
+    "lat": "5.889643",
+    "lng": "-55.091283",
+    "city": "Nieuw Amsterdam",
+    "state": "Commewijne",
+    "country": "Suriname",
+    "src": "https://img.atlasobscura.com/LnPd1xyJ82aoEX9yJy50sctpLy6bKf_WmUqTNSt4ZFE/rs:fill:600:400:1/g:ce/c:1017:678:nowe:7:54/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNmFk/MzA1My0wNDgyLTQ0/NjUtOWMxNi0wNjZl/MmY4YzMwZGEzMTIw/M2JlZGJjY2JhYzgx/YzVfU3VyaW5hbWVf/MV9MaWdodHNoaXBf/Rm9ydF9OaWV1dy1B/bXN0ZXJkYW0uanBn.jpg",
+    "width": "1024",
+    "height": "768",
+    "name": "Suriname-Rivier",
+    "description": "An old Dutch lightvessel is now stuck in a dock near the mouth of the Suriname River."
+  },
+  {
+    "url": "/places/maroon-marron-market-paramaribo-suriname",
+    "type": "Place",
+    "item-id": "56772",
+    "gtm-content-type": "Place",
+    "lat": "5.823838",
+    "lng": "-55.157641",
+    "city": "Paramaribo",
+    "state": "Paramaribo",
+    "country": "Suriname",
+    "src": "https://img.atlasobscura.com/tf_ZzRVMUEMzN37iu9_1bMzR1FxmopnIapuQhrccg0o/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNzQ0/NzE0ZS0wYjczLTRm/N2UtYjEwMi05MWUy/ZWJjZWJhYzdlNjg3/ZmE2MjhiNTdkMDkw/MTdfTWFyb29uIE1h/cmtldF9QYXJhbWFy/aWJvIFN1cmluYW1l/ICg0KS5qcGc.jpg",
+    "width": "4032",
+    "height": "3024",
+    "name": "Maroon Market",
+    "description": "This &quot;witch&#39;s market&quot; is filled with Amazonian herbs, remedies, and the occasional libido-strengthening tincture."
+  }
+]

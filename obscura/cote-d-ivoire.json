@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/yamoussoukro",
+    "type": "Place",
+    "item-id": "3303",
+    "gtm-content-type": "Place",
+    "lat": "6.808046",
+    "lng": "-5.299873",
+    "city": "Yamoussoukro",
+    "state": "Lacs",
+    "country": "C\u00f4te d&#39;Ivoire",
+    "src": "https://img.atlasobscura.com/vDXjz1zgmW9ZTyN8LRQDNmWK9jVp_wltVQwutrs5biw/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80YjBi/NjQ2Ni1kZmE5LTRk/OWItYmRiYy1iNmM0/OGQ0NDg0ODliNDlm/MzBlYjE2MmQ5MDE1/MGFfQmFzaWxpcXVl/X2RlX1lhbW91c3Nv/dWtyb19DSS5qcGVn.jpg",
+    "width": "1865",
+    "height": "1104",
+    "name": "Basilica of Our Lady of Peace of Yamoussoukro",
+    "description": "The world&#39;s largest church atop a political fault line."
+  },
+  {
+    "url": "/places/crocodile-house",
+    "type": "Place",
+    "item-id": "3779",
+    "gtm-content-type": "Place",
+    "lat": "5.336318",
+    "lng": "-4.027751",
+    "city": "Abidjan",
+    "state": "R\u00e9gion des lagunes",
+    "country": "C\u00f4te d&#39;Ivoire",
+    "src": "https://img.atlasobscura.com/5kVwIWpBtx-3n8lyIiY7jPVNNcH8eo5hkxcK9Hg7zfo/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lZmFi/M2ZmNzhiZjA2YjJk/MTFmMmVkOTY4MGZi/YWMxYzMwYWI5NjZj/LmpwZw.jpg",
+    "width": "675",
+    "height": "450",
+    "name": "Crocodile House",
+    "description": "Living inside a fearsome reptile in the Ivory Coast."
+  },
+  {
+    "url": "/places/the-grand-mud-mosque-of-kong",
+    "type": "Place",
+    "item-id": "64455",
+    "gtm-content-type": "Place",
+    "lat": "9.149188",
+    "lng": "-4.609422",
+    "city": "Kong",
+    "state": "Savanes District",
+    "country": "C\u00f4te d&#39;Ivoire",
+    "src": "https://img.atlasobscura.com/tFvmMKGV6YlTlvQbWPX5m4f9KlhuNMlTImQzJrbbW0E/rs:fill:600:400:1/g:ce/c:1979:1319:nowe:923:178/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81NTAz/NDViOS1mMmIyLTQ3/OWItYTAzMS1hNDg5/NTFkOGFjMDI4OWQ1/MmRhMWI1NTY1NWY3/NzVfMTAwMDE1OTIz/OS5qcGc.jpg",
+    "width": "4000",
+    "height": "2252",
+    "name": "The Grand Mud Mosque of Kong",
+    "description": "Perhaps the biggest draw to this mosque is its remote location and lack of tourists."
+  }
+]

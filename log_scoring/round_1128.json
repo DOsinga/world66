@@ -1,0 +1,200 @@
+{
+  "round": 1128,
+  "timestamp": "2026-04-12T22:11:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Emilia-Romagna",
+      "path": "europe/italy/emiliaromagna",
+      "prior_rank": 2468,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Barbados",
+      "path": "northamerica/thecaribbean/barbados",
+      "prior_rank": 277,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_rank": 1483,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_rank": 748,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_rank": 1478,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_rank": 228,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_rank": 1738,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_rank": 1260,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mosel",
+      "path": "europe/germany/rhinelandpalatinate/mosel",
+      "prior_rank": 395,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_rank": 2941,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_rank": 431,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "The Hamptons",
+      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
+      "prior_rank": 1450,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "The Finger Lakes",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes",
+      "prior_rank": 1467,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_rank": 1855,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_rank": 966,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_rank": 652,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_rank": 2929,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_rank": 1282,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_rank": 787,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_rank": 4238,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_rank": 2952,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_rank": 1726,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_rank": 1451,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_rank": 1337,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1931,
+  "timestamp": "2026-04-13T15:55:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 4.9996,
+      "prior_variance": 0.32758,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 3.643,
+      "prior_variance": 0.342155,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 2.0271,
+      "prior_variance": 0.246614,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 2.2615,
+      "prior_variance": 0.229786,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_score": 2.6222,
+      "prior_variance": 0.350155,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 1.9648,
+      "prior_variance": 0.273535,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": 0.4426,
+      "prior_variance": 0.278116,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_score": 0.5708,
+      "prior_variance": 0.309917,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -1.123,
+      "prior_variance": 0.278989,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.6886,
+      "prior_variance": 0.359412,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -2.7292,
+      "prior_variance": 0.247274,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_score": -2.2066,
+      "prior_variance": 0.243306,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.7176,
+      "prior_variance": 0.275957,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -1.7759,
+      "prior_variance": 0.396267,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -4.8968,
+      "prior_variance": 0.305536,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -2.1548,
+      "prior_variance": 0.335389,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -4.7363,
+      "prior_variance": 0.329986,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -5.6116,
+      "prior_variance": 0.310222,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.9832,
+      "prior_variance": 0.326725,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_score": -4.3171,
+      "prior_variance": 0.298536,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_score": -6.8116,
+      "prior_variance": 0.423948,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -9.7855,
+      "prior_variance": 0.364323,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -5.5871,
+      "prior_variance": 0.336765,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_score": -8.6832,
+      "prior_variance": 0.542306,
+      "prior_n": 4
+    }
+  ]
+}

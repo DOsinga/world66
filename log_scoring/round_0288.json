@@ -1,0 +1,200 @@
+{
+  "round": 288,
+  "timestamp": "2026-04-12T09:10:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_mu": 23.7508,
+      "prior_sigma": 5.7981,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_mu": 23.9166,
+      "prior_sigma": 5.8056,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_mu": 22.2618,
+      "prior_sigma": 5.4861,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_mu": 27.6075,
+      "prior_sigma": 5.7191,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_mu": 22.7245,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_mu": 22.6178,
+      "prior_sigma": 5.9355,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

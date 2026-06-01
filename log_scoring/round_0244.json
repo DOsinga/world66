@@ -1,0 +1,200 @@
+{
+  "round": 244,
+  "timestamp": "2026-04-12T09:08:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_mu": 21.8432,
+      "prior_sigma": 5.5765,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Trinidad",
+      "path": "northamerica/cuba/trinidad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Noumea",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_mu": 22.7177,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Australia and Pacific",
+      "path": "australiaandpacific",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_mu": 22.1756,
+      "prior_sigma": 5.7707,
+      "prior_n": 1
+    }
+  ]
+}

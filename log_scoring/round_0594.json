@@ -1,0 +1,200 @@
+{
+  "round": 594,
+  "timestamp": "2026-04-12T10:38:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_mu": 25.0524,
+      "prior_sigma": 6.0659,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_mu": 22.4458,
+      "prior_sigma": 5.6467,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_mu": 25.7244,
+      "prior_sigma": 5.2582,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 18.1682,
+      "prior_sigma": 3.0447,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_mu": 22.2784,
+      "prior_sigma": 5.6338,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "bagh azad kashmir",
+      "path": "asia/pakistan/azad_kashmir/bagh/bagh_azad_kashmir",
+      "prior_mu": 22.0419,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_mu": 21.7166,
+      "prior_sigma": 4.8379,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "pind gali abbottabad",
+      "path": "asia/pakistan/abbottabad/pind_gali_abbottab",
+      "prior_mu": 21.2709,
+      "prior_sigma": 5.654,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_mu": 18.1011,
+      "prior_sigma": 4.3184,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kheshgi",
+      "path": "asia/pakistan/nowshera/kheshgi",
+      "prior_mu": 17.0894,
+      "prior_sigma": 6.509,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_mu": 17.7361,
+      "prior_sigma": 3.4209,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_mu": 17.9928,
+      "prior_sigma": 2.7822,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_mu": 22.2517,
+      "prior_sigma": 5.5816,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_mu": 17.8156,
+      "prior_sigma": 3.4053,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rajar (Khushab)",
+      "path": "asia/pakistan/islamabad/rajar_khushab",
+      "prior_mu": 21.6825,
+      "prior_sigma": 5.6228,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "kana mohri",
+      "path": "asia/pakistan/azad_kashmir/bagh/kana_mohri_1",
+      "prior_mu": 18.089,
+      "prior_sigma": 6.4947,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_mu": 18.1598,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_mu": 19.9207,
+      "prior_sigma": 5.5687,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Basti Rind",
+      "path": "asia/pakistan/dera_ghazi_khan/basti_rind",
+      "prior_mu": 18.2607,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "qureshi from yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
+      "prior_mu": 18.9741,
+      "prior_sigma": 5.2559,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_mu": 20.9071,
+      "prior_sigma": 5.7192,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_mu": 22.6672,
+      "prior_sigma": 5.936,
+      "prior_n": 1
+    }
+  ]
+}

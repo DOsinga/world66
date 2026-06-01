@@ -1,0 +1,200 @@
+{
+  "round": 101,
+  "timestamp": "2026-04-12T08:03:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_mu": 27.33,
+      "prior_sigma": 3.33,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_mu": 23.78,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_mu": 22.11,
+      "prior_sigma": 3.05,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_mu": 21.66,
+      "prior_sigma": 3.0,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 21.31,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_mu": 23.91,
+      "prior_sigma": 3.46,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_mu": 22.15,
+      "prior_sigma": 2.57,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_mu": 21.11,
+      "prior_sigma": 2.97,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 20.91,
+      "prior_sigma": 3.1,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 21.46,
+      "prior_sigma": 2.8,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_mu": 21.28,
+      "prior_sigma": 2.94,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_mu": 22.27,
+      "prior_sigma": 2.51,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_mu": 21.29,
+      "prior_sigma": 3.37,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_mu": 20.6,
+      "prior_sigma": 3.14,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_mu": 21.16,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_mu": 21.86,
+      "prior_sigma": 3.17,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_mu": 20.53,
+      "prior_sigma": 2.71,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 20.39,
+      "prior_sigma": 2.76,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 20.01,
+      "prior_sigma": 2.84,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_mu": 21.32,
+      "prior_sigma": 3.61,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 20.74,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_mu": 19.03,
+      "prior_sigma": 3.26,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_mu": 18.8,
+      "prior_sigma": 3.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_mu": 19.89,
+      "prior_sigma": 3.06,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "url": "/places/guelta-darchei",
+    "type": "Place",
+    "item-id": "35177",
+    "gtm-content-type": "Place",
+    "lat": "16.906184",
+    "lng": "21.774463",
+    "state": "Borkou",
+    "country": "Chad",
+    "src": "https://img.atlasobscura.com/aSEj0J7QNiU3GSi7WTWZt61Gg96h6uXZANyWyzixfzw/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yN2Fi/YzQwYi1mNzZkLTQz/YTUtODA3Yy0zN2Qz/MTJhMmI5N2I1ZGJi/NjFjZGUyZGU1ZjRi/YjZfR3VlbHRhX2Qn/QXJjaGVpXzEuanBn.jpg",
+    "width": "960",
+    "height": "701",
+    "name": "Guelta d&#39;Archei",
+    "description": "Camels and crocodiles share the black waters of this stunning Saharan oasis."
+  },
+  {
+    "url": "/places/desert-lakes-ounianga-ennedi-massif",
+    "type": "Place",
+    "item-id": "45368",
+    "gtm-content-type": "Place",
+    "lat": "19.059896",
+    "lng": "20.493242",
+    "country": "Chad",
+    "src": "https://img.atlasobscura.com/Qh32HLwkjHQGzgyWWggq5JtChXSsohdQLm86xsEQZek/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNWU0/N2I2NS00ZjYwLTQx/ZDAtYWE4Zi00NmE0/Njc4MGY1YTI3ZTEy/YmVmZTViZjkzMDM3/NWZfNTA4NTIyNDc0/NjZfNWY5NDZkMTFm/Ml9rLmpwZw.jpg",
+    "width": "2048",
+    "height": "1155",
+    "name": "Desert Lakes of Ounianga",
+    "description": "These natural wonders have taken millennia to form into the stunning marvels they are today."
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "round": 1157,
+  "timestamp": "2026-04-12T22:12:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_rank": 53,
+      "prior_wins": 199,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_rank": 163,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_rank": 705,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kizhi",
+      "path": "europe/russia/kizhi",
+      "prior_rank": 1056,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_rank": 2636,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_rank": 2632,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_rank": 2248,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_rank": 418,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pembrokeshire Coast National Park",
+      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
+      "prior_rank": 574,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_rank": 876,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_rank": 455,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_rank": 898,
+      "prior_wins": 95,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_rank": 86,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Finland",
+      "path": "europe/finland",
+      "prior_rank": 291,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_rank": 1052,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_rank": 696,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_rank": 2081,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_rank": 1053,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/istanbul/asianpart",
+      "prior_rank": 1368,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_rank": 1403,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_rank": 1752,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_rank": 425,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_rank": 912,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_rank": 2250,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

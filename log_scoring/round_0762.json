@@ -1,0 +1,200 @@
+{
+  "round": 762,
+  "timestamp": "2026-04-12T10:46:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_mu": 31.893,
+      "prior_sigma": 6.1915,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Halong City",
+      "path": "asia/vietnam/cat_ba_island/halong_city",
+      "prior_mu": 22.4713,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_mu": 24.7296,
+      "prior_sigma": 5.1727,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_mu": 22.4331,
+      "prior_sigma": 3.9692,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_mu": 23.571,
+      "prior_sigma": 6.0029,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_mu": 21.9484,
+      "prior_sigma": 4.8519,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_mu": 27.0481,
+      "prior_sigma": 5.4872,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Basque Region",
+      "path": "europe/france/midi/basqueregion",
+      "prior_mu": 22.3748,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_mu": 22.3851,
+      "prior_sigma": 3.6624,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_mu": 22.5287,
+      "prior_sigma": 4.7188,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/albenga",
+      "prior_mu": 21.3304,
+      "prior_sigma": 3.861,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_mu": 21.5083,
+      "prior_sigma": 3.9334,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "French Guiana",
+      "path": "southamerica/frenchguiana",
+      "prior_mu": 18.146,
+      "prior_sigma": 6.3791,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_mu": 23.8092,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_mu": 21.4086,
+      "prior_sigma": 3.8735,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_mu": 22.3024,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_mu": 18.4117,
+      "prior_sigma": 4.9602,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_mu": 22.7159,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_mu": 22.3643,
+      "prior_sigma": 5.5446,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_mu": 22.4399,
+      "prior_sigma": 5.9473,
+      "prior_n": 1
+    }
+  ]
+}

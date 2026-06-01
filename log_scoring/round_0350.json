@@ -1,0 +1,200 @@
+{
+  "round": 350,
+  "timestamp": "2026-04-12T09:12:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/sandiego/coronado",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_mu": 22.6557,
+      "prior_sigma": 5.9404,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_mu": 22.1227,
+      "prior_sigma": 5.7576,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ripon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_mu": 22.4736,
+      "prior_sigma": 5.9063,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "pakistan",
+      "path": "asia/pakistan/sargodha/pakistan",
+      "prior_mu": 18.338,
+      "prior_sigma": 6.7579,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_mu": 18.344,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

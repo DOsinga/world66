@@ -1,0 +1,200 @@
+{
+  "round": 2291,
+  "timestamp": "2026-04-13T16:28:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 10.3724,
+      "prior_variance": 0.509886,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cancun",
+      "path": "northamerica/mexico/yucatan/cancun",
+      "prior_score": 7.0816,
+      "prior_variance": 0.276101,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.1043,
+      "prior_variance": 0.25848,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 3.1136,
+      "prior_variance": 0.267861,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 5.0475,
+      "prior_variance": 0.274739,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_score": 2.4888,
+      "prior_variance": 0.221332,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_score": -0.0443,
+      "prior_variance": 0.163735,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -2.6523,
+      "prior_variance": 0.24164,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -2.5737,
+      "prior_variance": 0.171847,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -2.4862,
+      "prior_variance": 0.218191,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Princes Town",
+      "path": "northamerica/trinidadandtobago/princestown",
+      "prior_score": -2.6123,
+      "prior_variance": 0.236888,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_score": -4.6512,
+      "prior_variance": 0.220563,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -6.3043,
+      "prior_variance": 0.275323,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -2.4769,
+      "prior_variance": 0.205606,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -2.7875,
+      "prior_variance": 0.207508,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -3.0891,
+      "prior_variance": 0.284135,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -4.053,
+      "prior_variance": 0.268549,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -5.0293,
+      "prior_variance": 0.258932,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -4.001,
+      "prior_variance": 0.240304,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_score": -3.5362,
+      "prior_variance": 0.232526,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -4.5732,
+      "prior_variance": 0.210102,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Lubon",
+      "path": "europe/poland/lubon",
+      "prior_score": -5.523,
+      "prior_variance": 0.267887,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -7.0272,
+      "prior_variance": 0.337705,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nui Atoll",
+      "path": "australiaandpacific/tuvalu/nuiatoll",
+      "prior_score": -2.6782,
+      "prior_variance": 0.244146,
+      "prior_n": 6
+    }
+  ]
+}

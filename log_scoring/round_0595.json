@@ -1,0 +1,80 @@
+{
+  "round": 595,
+  "timestamp": "2026-04-12T10:38:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_mu": 22.445,
+      "prior_sigma": 5.7112,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_mu": 20.9063,
+      "prior_sigma": 3.0678,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_mu": 20.928,
+      "prior_sigma": 4.0078,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_mu": 22.5055,
+      "prior_sigma": 5.8888,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_mu": 22.5232,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

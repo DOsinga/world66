@@ -1,0 +1,200 @@
+{
+  "round": 1674,
+  "timestamp": "2026-04-13T10:41:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 7.4634,
+      "prior_variance": 0.354732,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/alcaladehenares",
+      "prior_score": 1.775,
+      "prior_variance": 0.420797,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "The Hamptons",
+      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
+      "prior_score": 3.8753,
+      "prior_variance": 0.356306,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 3.4568,
+      "prior_variance": 0.353928,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 4.2651,
+      "prior_variance": 0.303684,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 6.4553,
+      "prior_variance": 0.372574,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.0949,
+      "prior_variance": 0.320046,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.7715,
+      "prior_variance": 0.469952,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -5.2983,
+      "prior_variance": 0.39276,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -0.8529,
+      "prior_variance": 0.334392,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "West Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles/westlosangeles",
+      "prior_score": -1.6251,
+      "prior_variance": 0.37499,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -0.1101,
+      "prior_variance": 0.320209,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_score": -0.8278,
+      "prior_variance": 0.31007,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -5.4865,
+      "prior_variance": 0.324899,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -3.4755,
+      "prior_variance": 0.42398,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -4.7414,
+      "prior_variance": 0.314714,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.33,
+      "prior_variance": 0.377409,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -9.0772,
+      "prior_variance": 0.35858,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hong",
+      "path": "africa/nigeria/yola/hong",
+      "prior_score": -9.624,
+      "prior_variance": 0.763171,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "haroonabad",
+      "path": "asia/pakistan/khairpur_tamewali/haroonabad",
+      "prior_score": -9.4901,
+      "prior_variance": 0.62517,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -10.7346,
+      "prior_variance": 0.631259,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -11.4129,
+      "prior_variance": 0.644725,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.5222,
+      "prior_variance": 0.460768,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_score": -11.6489,
+      "prior_variance": 0.743177,
+      "prior_n": 4
+    }
+  ]
+}

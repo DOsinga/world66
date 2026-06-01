@@ -1,0 +1,200 @@
+{
+  "round": 2281,
+  "timestamp": "2026-04-13T16:27:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.9284,
+      "prior_variance": 0.327427,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.9965,
+      "prior_variance": 0.207465,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.6926,
+      "prior_variance": 0.218239,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -2.4943,
+      "prior_variance": 0.32448,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Aiea",
+      "path": "northamerica/unitedstates/hawaii/aiea",
+      "prior_score": -1.94,
+      "prior_variance": 0.212937,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Toowoomba",
+      "path": "australiaandpacific/australia/queensland/toowoomba",
+      "prior_score": -0.1783,
+      "prior_variance": 0.20341,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -1.1388,
+      "prior_variance": 0.20707,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -1.3193,
+      "prior_variance": 0.169977,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.4513,
+      "prior_variance": 0.253735,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.0841,
+      "prior_variance": 0.232468,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_score": -4.2149,
+      "prior_variance": 0.229695,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "lonsdale",
+      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
+      "prior_score": -4.5896,
+      "prior_variance": 0.274607,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -2.318,
+      "prior_variance": 0.24381,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -1.0418,
+      "prior_variance": 0.209358,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -3.6339,
+      "prior_variance": 0.320466,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Jharkhand",
+      "path": "asia/india/jharkhand",
+      "prior_score": -3.0688,
+      "prior_variance": 0.216887,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.3898,
+      "prior_variance": 0.209813,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.1161,
+      "prior_variance": 0.251299,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -3.4313,
+      "prior_variance": 0.295143,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.0338,
+      "prior_variance": 0.2698,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "El oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -6.0779,
+      "prior_variance": 0.294013,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_score": -8.9563,
+      "prior_variance": 0.327827,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Retra",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
+      "prior_score": -8.7705,
+      "prior_variance": 0.31842,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.1007,
+      "prior_variance": 0.579549,
+      "prior_n": 7
+    }
+  ]
+}

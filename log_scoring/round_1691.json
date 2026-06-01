@@ -1,0 +1,200 @@
+{
+  "round": 1691,
+  "timestamp": "2026-04-13T10:42:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 3.3319,
+      "prior_variance": 0.377765,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 2.924,
+      "prior_variance": 0.287792,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_score": 2.7203,
+      "prior_variance": 0.329502,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.8883,
+      "prior_variance": 0.257969,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_score": 0.9483,
+      "prior_variance": 0.252241,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.6511,
+      "prior_variance": 0.427859,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": -0.4763,
+      "prior_variance": 0.459349,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
+      "prior_score": 1.6109,
+      "prior_variance": 0.303993,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": 0.8304,
+      "prior_variance": 0.378182,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 0.4177,
+      "prior_variance": 0.429852,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": -0.2061,
+      "prior_variance": 0.304343,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": 0.2518,
+      "prior_variance": 0.364279,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -2.8978,
+      "prior_variance": 0.535602,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.3054,
+      "prior_variance": 0.344406,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -0.9651,
+      "prior_variance": 0.310939,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.1057,
+      "prior_variance": 0.296314,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -3.1651,
+      "prior_variance": 0.354167,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -6.0541,
+      "prior_variance": 0.387975,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_score": -7.117,
+      "prior_variance": 0.453931,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_score": -6.3214,
+      "prior_variance": 0.346004,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_score": -6.883,
+      "prior_variance": 0.410661,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -7.2874,
+      "prior_variance": 0.645152,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -6.4768,
+      "prior_variance": 0.292191,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_score": -7.4952,
+      "prior_variance": 0.554664,
+      "prior_n": 4
+    }
+  ]
+}

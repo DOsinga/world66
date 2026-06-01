@@ -1,0 +1,200 @@
+{
+  "round": 1672,
+  "timestamp": "2026-04-13T10:40:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_score": 4.0614,
+      "prior_variance": 0.347016,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.5074,
+      "prior_variance": 0.309985,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 2.61,
+      "prior_variance": 0.440328,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 5.365,
+      "prior_variance": 0.384969,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 1.2913,
+      "prior_variance": 0.385906,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 2.293,
+      "prior_variance": 0.498988,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.0948,
+      "prior_variance": 0.350283,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.1072,
+      "prior_variance": 0.320127,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": 1.161,
+      "prior_variance": 0.402835,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 4.3101,
+      "prior_variance": 0.350935,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.6946,
+      "prior_variance": 0.312466,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": 0.7355,
+      "prior_variance": 0.31368,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 0.76,
+      "prior_variance": 0.353924,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -2.9722,
+      "prior_variance": 0.39097,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Music Row",
+      "path": "northamerica/unitedstates/tennessee/nashville/musicrow",
+      "prior_score": 3.0899,
+      "prior_variance": 0.362183,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 0.8715,
+      "prior_variance": 0.356772,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_score": -2.2408,
+      "prior_variance": 0.34381,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 4.2032,
+      "prior_variance": 0.387488,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/skegness",
+      "prior_score": -3.7475,
+      "prior_variance": 0.314131,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -2.6653,
+      "prior_variance": 0.308418,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gostivar",
+      "path": "europe/macedonia/gostivar",
+      "prior_score": -4.8637,
+      "prior_variance": 0.372942,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.3603,
+      "prior_variance": 0.35731,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Douglaston",
+      "path": "northamerica/unitedstates/newyorkstate/douglaston",
+      "prior_score": -4.4904,
+      "prior_variance": 0.348411,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -5.1603,
+      "prior_variance": 0.303332,
+      "prior_n": 5
+    }
+  ]
+}

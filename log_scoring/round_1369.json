@@ -1,0 +1,200 @@
+{
+  "round": 1369,
+  "timestamp": "2026-04-12T22:24:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_rank": 3577,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Saint Bartholomy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_rank": 2966,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_rank": 6279,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "The Palouse",
+      "path": "northamerica/unitedstates/washington/the_palouse",
+      "prior_rank": 2585,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_rank": 4673,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_rank": 5125,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_rank": 4098,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_rank": 5404,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_rank": 4500,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_rank": 2229,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/clitheroe",
+      "prior_rank": 2254,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_rank": 5204,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_rank": 4477,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_rank": 4585,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_rank": 4904,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_rank": 3625,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_rank": 2951,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_rank": 3127,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_rank": 2841,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_rank": 4484,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_rank": 3778,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_rank": 5503,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_rank": 5893,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_rank": 4939,
+      "prior_wins": 52,
+      "prior_n": 6
+    }
+  ]
+}

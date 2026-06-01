@@ -1,0 +1,112 @@
+{
+  "round": 544,
+  "timestamp": "2026-04-12T10:36:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 13,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_mu": 22.5957,
+      "prior_sigma": 5.9096,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nida curonian spit",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_mu": 22.5949,
+      "prior_sigma": 5.9572,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_mu": 21.5356,
+      "prior_sigma": 3.9096,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_mu": 22.1197,
+      "prior_sigma": 5.5784,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_mu": 22.4306,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_mu": 22.0971,
+      "prior_sigma": 4.8312,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lithuania",
+      "path": "europe/lithuania",
+      "prior_mu": 21.5037,
+      "prior_sigma": 4.541,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_mu": 21.965,
+      "prior_sigma": 4.8377,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_mu": 21.8187,
+      "prior_sigma": 4.8382,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_mu": 22.4212,
+      "prior_sigma": 5.7567,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 560,
+  "timestamp": "2026-04-12T10:37:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_mu": 25.7372,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_mu": 22.7879,
+      "prior_sigma": 5.7178,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Pantanal",
+      "path": "southamerica/brazil/pantanal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_mu": 22.8009,
+      "prior_sigma": 5.7205,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_mu": 22.721,
+      "prior_sigma": 5.6825,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_mu": 22.7561,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_mu": 22.493,
+      "prior_sigma": 5.498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_mu": 21.2317,
+      "prior_sigma": 3.8346,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Joinville",
+      "path": "southamerica/brazil/joinville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_mu": 22.4263,
+      "prior_sigma": 5.9107,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ribeirao Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_mu": 22.7021,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Japiim",
+      "path": "southamerica/brazil/japiim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Brazil",
+      "path": "southamerica/brazil",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    }
+  ]
+}

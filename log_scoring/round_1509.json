@@ -1,0 +1,200 @@
+{
+  "round": 1509,
+  "timestamp": "2026-04-13T10:27:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_score": 1.1095,
+      "prior_variance": 0.406239,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.6147,
+      "prior_variance": 0.430478,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 1.8883,
+      "prior_variance": 0.392967,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -1.2677,
+      "prior_variance": 0.502185,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lake Forest",
+      "path": "northamerica/unitedstates/california/highsierra/lakeforest",
+      "prior_score": -4.0252,
+      "prior_variance": 0.497335,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.6354,
+      "prior_variance": 0.492197,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": -0.1437,
+      "prior_variance": 0.431212,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_score": -0.8301,
+      "prior_variance": 0.439822,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -1.0987,
+      "prior_variance": 0.1987,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -2.0659,
+      "prior_variance": 0.627353,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": 0.2182,
+      "prior_variance": 0.399557,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.2606,
+      "prior_variance": 0.420994,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -3.2828,
+      "prior_variance": 0.412016,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.2613,
+      "prior_variance": 0.414367,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.2366,
+      "prior_variance": 0.356438,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_score": -1.168,
+      "prior_variance": 0.427411,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Mandarmani",
+      "path": "asia/india/westbengal/mandarmani",
+      "prior_score": -2.7369,
+      "prior_variance": 0.383402,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -2.1568,
+      "prior_variance": 0.431489,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -1.4054,
+      "prior_variance": 0.265314,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -1.349,
+      "prior_variance": 0.377893,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Masirah Island",
+      "path": "asia/oman/masirahisland",
+      "prior_score": -0.6789,
+      "prior_variance": 0.424791,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_score": -1.7335,
+      "prior_variance": 0.468023,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -10.077,
+      "prior_variance": 0.593189,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Siakh in Tehsil Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/siakh_in_tehsil_da",
+      "prior_score": -10.4606,
+      "prior_variance": 0.428174,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1680,
+  "timestamp": "2026-04-13T10:41:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_score": 5.5398,
+      "prior_variance": 0.356479,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 6.3192,
+      "prior_variance": 0.355384,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 2.3951,
+      "prior_variance": 0.345195,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_score": 4.5747,
+      "prior_variance": 0.480444,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_score": 1.9409,
+      "prior_variance": 0.31681,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_score": -0.5501,
+      "prior_variance": 0.276212,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_score": 3.1553,
+      "prior_variance": 0.387537,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 0.9786,
+      "prior_variance": 0.295756,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 0.6638,
+      "prior_variance": 0.302067,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -3.1423,
+      "prior_variance": 0.295205,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -2.0416,
+      "prior_variance": 0.37513,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 0.5524,
+      "prior_variance": 0.31201,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.5321,
+      "prior_variance": 0.299237,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -2.6799,
+      "prior_variance": 0.322263,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -5.6275,
+      "prior_variance": 0.320865,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Universities",
+      "path": "northamerica/canada/britishcolumbia/victoria/universities",
+      "prior_score": -3.0884,
+      "prior_variance": 0.536174,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -4.5566,
+      "prior_variance": 0.527444,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -6.2707,
+      "prior_variance": 0.308151,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/naulcapan",
+      "prior_score": -7.2573,
+      "prior_variance": 0.448717,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -7.0702,
+      "prior_variance": 0.460188,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "pind gali abbottabad",
+      "path": "asia/pakistan/abbottabad/pind_gali_abbottab",
+      "prior_score": -7.1834,
+      "prior_variance": 0.319576,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -6.2288,
+      "prior_variance": 0.466844,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -6.7573,
+      "prior_variance": 0.381773,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.84,
+      "prior_variance": 0.466143,
+      "prior_n": 4
+    }
+  ]
+}

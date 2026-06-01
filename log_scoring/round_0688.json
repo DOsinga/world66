@@ -1,0 +1,112 @@
+{
+  "round": 688,
+  "timestamp": "2026-04-12T10:43:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 13,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Havana",
+      "path": "northamerica/cuba/havana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/cuba/vinales",
+      "prior_mu": 23.8197,
+      "prior_sigma": 4.8515,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Trinidad",
+      "path": "northamerica/cuba/trinidad",
+      "prior_mu": 22.4043,
+      "prior_sigma": 5.5256,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_mu": 22.6069,
+      "prior_sigma": 5.9054,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_mu": 22.4263,
+      "prior_sigma": 5.7668,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cayo Largo",
+      "path": "northamerica/cuba/cayolargo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_mu": 21.9523,
+      "prior_sigma": 4.7304,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Remedios",
+      "path": "northamerica/cuba/remedios",
+      "prior_mu": 21.9096,
+      "prior_sigma": 5.7398,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cuba",
+      "path": "northamerica/cuba",
+      "prior_mu": 23.0404,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    }
+  ]
+}

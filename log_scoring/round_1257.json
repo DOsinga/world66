@@ -1,0 +1,200 @@
+{
+  "round": 1257,
+  "timestamp": "2026-04-12T22:18:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_rank": 671,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_rank": 1389,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_rank": 338,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/taupo",
+      "prior_rank": 1217,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_rank": 1988,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_rank": 478,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_rank": 897,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_rank": 914,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_rank": 1856,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_rank": 4535,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_rank": 2281,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_rank": 1210,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_rank": 1406,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_rank": 1966,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_rank": 1029,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_rank": 314,
+      "prior_wins": 144,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon",
+      "prior_rank": 1229,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_rank": 288,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_rank": 1243,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_rank": 1602,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_rank": 4389,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_rank": 1523,
+      "prior_wins": 98,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_rank": 2362,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_rank": 1890,
+      "prior_wins": 32,
+      "prior_n": 2
+    }
+  ]
+}

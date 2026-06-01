@@ -1,0 +1,200 @@
+{
+  "round": 761,
+  "timestamp": "2026-04-12T10:46:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_mu": 24.2115,
+      "prior_sigma": 4.9898,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_mu": 22.706,
+      "prior_sigma": 5.9278,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_mu": 22.5012,
+      "prior_sigma": 5.5916,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_mu": 22.2122,
+      "prior_sigma": 4.5101,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_mu": 22.305,
+      "prior_sigma": 5.7489,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_mu": 22.4798,
+      "prior_sigma": 4.6867,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Margaret River",
+      "path": "australiaandpacific/australia/westernaustralia/margaretriver",
+      "prior_mu": 22.6067,
+      "prior_sigma": 5.7623,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Rwanda",
+      "path": "africa/rwanda",
+      "prior_mu": 21.7506,
+      "prior_sigma": 4.6577,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_mu": 21.5989,
+      "prior_sigma": 4.621,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_mu": 21.1949,
+      "prior_sigma": 3.7841,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_mu": 21.5787,
+      "prior_sigma": 4.3311,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_mu": 21.5328,
+      "prior_sigma": 4.3714,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_mu": 21.8078,
+      "prior_sigma": 4.6843,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_mu": 19.7854,
+      "prior_sigma": 3.4758,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_mu": 22.0671,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_mu": 22.4473,
+      "prior_sigma": 5.7687,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_mu": 21.1708,
+      "prior_sigma": 3.8291,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_mu": 22.5794,
+      "prior_sigma": 5.5296,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_mu": 21.382,
+      "prior_sigma": 3.9192,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_mu": 20.4078,
+      "prior_sigma": 4.7958,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Boghni",
+      "path": "africa/algeria/boghni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

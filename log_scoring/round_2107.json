@@ -1,0 +1,200 @@
+{
+  "round": 2107,
+  "timestamp": "2026-04-13T16:11:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 6.0272,
+      "prior_variance": 0.286327,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria",
+      "prior_score": 6.3845,
+      "prior_variance": 0.293963,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_score": 3.7552,
+      "prior_variance": 0.315627,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/christchurch",
+      "prior_score": 5.3487,
+      "prior_variance": 0.279173,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 2.722,
+      "prior_variance": 0.25309,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 3.9853,
+      "prior_variance": 0.266737,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Northern Spain",
+      "path": "europe/spain/northernspain",
+      "prior_score": 3.7716,
+      "prior_variance": 0.287713,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 1.0343,
+      "prior_variance": 0.243708,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.6565,
+      "prior_variance": 0.240239,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.6344,
+      "prior_variance": 0.238424,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -1.1379,
+      "prior_variance": 0.231223,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.7406,
+      "prior_variance": 0.283585,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.5427,
+      "prior_variance": 0.335693,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -1.941,
+      "prior_variance": 0.285772,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -3.1643,
+      "prior_variance": 0.321112,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "{Sunny Isles}",
+      "path": "northamerica/unitedstates/florida/sunny_isles",
+      "prior_score": -1.3906,
+      "prior_variance": 0.285863,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_score": -1.8594,
+      "prior_variance": 0.301823,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Victorias City",
+      "path": "asia/philippines/negrosisland/victorias_city",
+      "prior_score": -5.009,
+      "prior_variance": 0.245468,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -1.5769,
+      "prior_variance": 0.251157,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -6.1643,
+      "prior_variance": 0.27865,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -5.0802,
+      "prior_variance": 0.325641,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_score": -5.1239,
+      "prior_variance": 0.294641,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Williamstown",
+      "path": "northamerica/unitedstates/newjersey/williamstown",
+      "prior_score": -6.9158,
+      "prior_variance": 0.383291,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -5.6243,
+      "prior_variance": 0.2477,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 289,
+  "timestamp": "2026-04-12T09:10:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_mu": 22.6851,
+      "prior_sigma": 5.9452,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_mu": 22.7534,
+      "prior_sigma": 5.7141,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_mu": 22.6911,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Alcazar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_jua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Muehlen",
+      "path": "europe/austria/muehlen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_mu": 21.7742,
+      "prior_sigma": 4.8118,
+      "prior_n": 2
+    }
+  ]
+}

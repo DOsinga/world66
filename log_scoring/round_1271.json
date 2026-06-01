@@ -1,0 +1,200 @@
+{
+  "round": 1271,
+  "timestamp": "2026-04-12T22:18:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "China",
+      "path": "asia/china",
+      "prior_rank": 2681,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_rank": 1642,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_rank": 4355,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_rank": 1058,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_rank": 3314,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_rank": 3324,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Laugarvatn",
+      "path": "europe/iceland/laugarvatn",
+      "prior_rank": 3300,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_rank": 3067,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_rank": 3056,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_rank": 1707,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_rank": 4079,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_rank": 2893,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_rank": 4163,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_rank": 5286,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_rank": 3157,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_rank": 3458,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_rank": 4728,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_rank": 904,
+      "prior_wins": 87,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_rank": 4289,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_rank": 4154,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_borml",
+      "prior_rank": 6813,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_rank": 4532,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_rank": 3662,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_rank": 6045,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

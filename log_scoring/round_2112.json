@@ -1,0 +1,200 @@
+{
+  "round": 2112,
+  "timestamp": "2026-04-13T16:11:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_score": 6.5713,
+      "prior_variance": 0.252883,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 6.0726,
+      "prior_variance": 0.270582,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Caceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.6118,
+      "prior_variance": 0.273717,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 4.4913,
+      "prior_variance": 0.27383,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.7349,
+      "prior_variance": 0.196501,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_score": 2.5773,
+      "prior_variance": 0.3173,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 1.2861,
+      "prior_variance": 0.29427,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.248,
+      "prior_variance": 0.289169,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 1.9948,
+      "prior_variance": 0.281755,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_score": 2.2443,
+      "prior_variance": 0.236121,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pe",
+      "prior_score": -1.9644,
+      "prior_variance": 0.302785,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.2466,
+      "prior_variance": 0.202244,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -0.4222,
+      "prior_variance": 0.260596,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "South Pennines",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/south_pennines_yo",
+      "prior_score": 1.4675,
+      "prior_variance": 0.267583,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": -1.8837,
+      "prior_variance": 0.34107,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -0.4718,
+      "prior_variance": 0.303097,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -2.7712,
+      "prior_variance": 0.28417,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.0135,
+      "prior_variance": 0.260981,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_score": -0.9841,
+      "prior_variance": 0.248758,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Manawatu-Whanganui Region",
+      "path": "australiaandpacific/newzealand/whanganui_region",
+      "prior_score": 0.6384,
+      "prior_variance": 0.363441,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -1.6394,
+      "prior_variance": 0.233969,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Talisay",
+      "path": "asia/philippines/negrosisland/talisay",
+      "prior_score": -2.6105,
+      "prior_variance": 0.240742,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_score": -7.4802,
+      "prior_variance": 0.426224,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -9.232,
+      "prior_variance": 0.427931,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 52,
+  "timestamp": "2026-04-11T19:26:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 27.67,
+      "prior_sigma": 5.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_mu": 22.02,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_mu": 24.55,
+      "prior_sigma": 3.91,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_mu": 23.74,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Suzhou",
+      "path": "asia/china/suzhou",
+      "prior_mu": 23.33,
+      "prior_sigma": 5.54,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_mu": 22.13,
+      "prior_sigma": 4.52,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_mu": 22.58,
+      "prior_sigma": 5.92,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_mu": 20.8,
+      "prior_sigma": 3.8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_mu": 21.26,
+      "prior_sigma": 4.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_mu": 21.67,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_mu": 21.67,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_mu": 21.03,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_mu": 21.94,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_mu": 22.38,
+      "prior_sigma": 5.56,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 21.56,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_mu": 20.98,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.16,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_mu": 19.83,
+      "prior_sigma": 5.61,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_mu": 21.51,
+      "prior_sigma": 4.35,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_mu": 18.79,
+      "prior_sigma": 5.07,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_mu": 21.14,
+      "prior_sigma": 4.5,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 12.85,
+      "prior_sigma": 5.22,
+      "prior_n": 3
+    }
+  ]
+}

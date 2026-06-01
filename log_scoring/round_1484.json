@@ -1,0 +1,200 @@
+{
+  "round": 1484,
+  "timestamp": "2026-04-13T10:24:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_score": -3.0109,
+      "prior_variance": 0.63499,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -6.4269,
+      "prior_variance": 0.622646,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.3656,
+      "prior_variance": 0.479373,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_score": -3.4135,
+      "prior_variance": 0.228653,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_score": -3.6435,
+      "prior_variance": 0.330203,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.4588,
+      "prior_variance": 0.478382,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ploiesti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -5.7027,
+      "prior_variance": 0.504395,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -4.5168,
+      "prior_variance": 0.423372,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_score": -4.8766,
+      "prior_variance": 0.557332,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -4.4134,
+      "prior_variance": 0.411549,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -5.7001,
+      "prior_variance": 0.608945,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Brockton",
+      "path": "northamerica/unitedstates/massachusetts/brockton",
+      "prior_score": -6.7085,
+      "prior_variance": 0.39016,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -5.7814,
+      "prior_variance": 0.379596,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.0038,
+      "prior_variance": 0.426684,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -4.615,
+      "prior_variance": 0.344118,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Brong Ahafo Region",
+      "path": "africa/ghana/brong_ahafo_region",
+      "prior_score": -5.1223,
+      "prior_variance": 0.418617,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -5.8678,
+      "prior_variance": 0.564943,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -4.1355,
+      "prior_variance": 0.394555,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -5.2557,
+      "prior_variance": 0.471247,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -5.8733,
+      "prior_variance": 0.509298,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -5.5047,
+      "prior_variance": 0.44006,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/anahuac",
+      "prior_score": -5.9929,
+      "prior_variance": 0.353453,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/yucatan/apizaco",
+      "prior_score": -5.3363,
+      "prior_variance": 0.434542,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -5.8621,
+      "prior_variance": 0.411604,
+      "prior_n": 4
+    }
+  ]
+}

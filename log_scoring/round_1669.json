@@ -1,0 +1,200 @@
+{
+  "round": 1669,
+  "timestamp": "2026-04-13T10:40:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_score": 4.3681,
+      "prior_variance": 0.708457,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 7.5374,
+      "prior_variance": 0.461436,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Paradise Gulf",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf",
+      "prior_score": 2.6757,
+      "prior_variance": 0.453882,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_score": 3.593,
+      "prior_variance": 0.339984,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 0.7765,
+      "prior_variance": 0.360032,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.8319,
+      "prior_variance": 0.302681,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -2.2255,
+      "prior_variance": 0.328322,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.0289,
+      "prior_variance": 0.330339,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -1.4853,
+      "prior_variance": 0.343398,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 2.0263,
+      "prior_variance": 0.391647,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.5751,
+      "prior_variance": 0.319794,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.9209,
+      "prior_variance": 0.327168,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_score": 0.0365,
+      "prior_variance": 0.25922,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -1.5586,
+      "prior_variance": 0.276848,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -3.5031,
+      "prior_variance": 0.411671,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Clarence",
+      "path": "northamerica/unitedstates/newyorkstate/clarence",
+      "prior_score": -5.732,
+      "prior_variance": 0.590657,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_score": -3.3672,
+      "prior_variance": 0.31323,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_score": -4.5124,
+      "prior_variance": 0.371649,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_score": 0.9578,
+      "prior_variance": 0.25974,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_score": -9.9398,
+      "prior_variance": 0.404843,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Birote",
+      "path": "asia/pakistan/azad_kashmir/mirpur/birote",
+      "prior_score": -10.5012,
+      "prior_variance": 0.470199,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Haiti",
+      "path": "northamerica/thecaribbean/haiti",
+      "prior_score": -5.7218,
+      "prior_variance": 0.680205,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_score": -9.1103,
+      "prior_variance": 0.680146,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_score": -10.5759,
+      "prior_variance": 0.533785,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1655,
+  "timestamp": "2026-04-13T10:39:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.0581,
+      "prior_variance": 0.344185,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_score": 3.3411,
+      "prior_variance": 0.407971,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_score": 4.7024,
+      "prior_variance": 0.311165,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.6651,
+      "prior_variance": 0.326256,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.1292,
+      "prior_variance": 0.421241,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 1.6797,
+      "prior_variance": 0.314173,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_score": -1.4706,
+      "prior_variance": 0.325928,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.7819,
+      "prior_variance": 0.173742,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": 0.4898,
+      "prior_variance": 0.355904,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 2.8721,
+      "prior_variance": 0.301853,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -2.226,
+      "prior_variance": 0.317988,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.6257,
+      "prior_variance": 0.438968,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_score": 0.0603,
+      "prior_variance": 0.410099,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -3.2656,
+      "prior_variance": 0.393968,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -2.9248,
+      "prior_variance": 0.291516,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -6.4271,
+      "prior_variance": 0.572213,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -2.0323,
+      "prior_variance": 0.299098,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -7.199,
+      "prior_variance": 0.471073,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -7.3484,
+      "prior_variance": 0.525302,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -5.9776,
+      "prior_variance": 0.297,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -6.2863,
+      "prior_variance": 0.491562,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -8.0221,
+      "prior_variance": 0.538843,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -7.5705,
+      "prior_variance": 0.468822,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Cuzy",
+      "path": "europe/france/east/cuzy",
+      "prior_score": -6.2532,
+      "prior_variance": 0.414606,
+      "prior_n": 4
+    }
+  ]
+}

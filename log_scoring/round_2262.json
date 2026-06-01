@@ -1,0 +1,200 @@
+{
+  "round": 2262,
+  "timestamp": "2026-04-13T16:25:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 6.4111,
+      "prior_variance": 0.294377,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 2.0026,
+      "prior_variance": 0.243815,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -3.9734,
+      "prior_variance": 0.287965,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin",
+      "prior_score": -0.0251,
+      "prior_variance": 0.19441,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Manitoba",
+      "path": "northamerica/canada/manitoba",
+      "prior_score": -1.6582,
+      "prior_variance": 0.228804,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -0.8546,
+      "prior_variance": 0.279635,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": 0.7064,
+      "prior_variance": 0.22245,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.7101,
+      "prior_variance": 0.538705,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.2643,
+      "prior_variance": 0.317497,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -2.6548,
+      "prior_variance": 0.231787,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -3.5075,
+      "prior_variance": 0.214485,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_score": -4.9597,
+      "prior_variance": 0.318272,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_score": -3.8673,
+      "prior_variance": 0.209763,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -3.9521,
+      "prior_variance": 0.259011,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ash Flat",
+      "path": "northamerica/unitedstates/arkansas/ashflat",
+      "prior_score": -7.5411,
+      "prior_variance": 0.432111,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.4482,
+      "prior_variance": 0.22672,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "city",
+      "path": "northamerica/unitedstates/wisconsin/city",
+      "prior_score": -6.7793,
+      "prior_variance": 0.359803,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -5.6109,
+      "prior_variance": 0.298081,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -4.9554,
+      "prior_variance": 0.249583,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -6.8879,
+      "prior_variance": 0.32404,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_score": -9.762,
+      "prior_variance": 0.518414,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kheshgi",
+      "path": "asia/pakistan/nowshera/kheshgi",
+      "prior_score": -9.2596,
+      "prior_variance": 0.442179,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bhagatawala (Chak 24 SB)",
+      "path": "asia/pakistan/sargodha/bhagatawala__chak_1",
+      "prior_score": -9.3098,
+      "prior_variance": 0.414528,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -11.0728,
+      "prior_variance": 0.575499,
+      "prior_n": 6
+    }
+  ]
+}

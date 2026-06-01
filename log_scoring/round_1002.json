@@ -1,0 +1,200 @@
+{
+  "round": 1002,
+  "timestamp": "2026-04-12T22:04:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Southland & Otago",
+      "path": "australiaandpacific/newzealand/otago",
+      "prior_rank": 2070,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_rank": 2215,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/california/sandiego/downtown",
+      "prior_rank": 1494,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_rank": 811,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_rank": 1717,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_rank": 1521,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_rank": 2628,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_rank": 1533,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_rank": 4203,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_rank": 3839,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_rank": 5363,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ponce",
+      "path": "northamerica/puertorico/ponce",
+      "prior_rank": 3800,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_rank": 3073,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_rank": 2680,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_rank": 2249,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_rank": 2205,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_rank": 5776,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_rank": 1804,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_rank": 5578,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_rank": 1858,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_rank": 1568,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/kitakyushu/moji",
+      "prior_rank": 2054,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_rank": 2598,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_rank": 1892,
+      "prior_wins": 17,
+      "prior_n": 1
+    }
+  ]
+}

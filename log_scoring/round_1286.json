@@ -1,0 +1,200 @@
+{
+  "round": 1286,
+  "timestamp": "2026-04-12T22:19:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ireland",
+      "path": "europe/ireland",
+      "prior_rank": 4255,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Southland",
+      "path": "australiaandpacific/newzealand/south_island/southland",
+      "prior_rank": 5123,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_rank": 3600,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_rank": 2167,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_rank": 4150,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_rank": 3737,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_rank": 3531,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_rank": 3399,
+      "prior_wins": 64,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_rank": 4168,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_rank": 3999,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_rank": 2641,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Halmstad",
+      "path": "europe/sweden/halmstad",
+      "prior_rank": 6150,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_rank": 5202,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_rank": 3707,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_rank": 3986,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_rank": 2471,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_rank": 2263,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_rank": 3011,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_rank": 3825,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_rank": 1642,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_rank": 5003,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_rank": 4817,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kalambo falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_rank": 4373,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_rank": 3355,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1950,
+  "timestamp": "2026-04-13T15:56:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_score": 9.0998,
+      "prior_variance": 0.5624,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 1.043,
+      "prior_variance": 0.290465,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 1.5898,
+      "prior_variance": 0.252114,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.3575,
+      "prior_variance": 0.261005,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_score": 2.2259,
+      "prior_variance": 0.324927,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 2.0192,
+      "prior_variance": 0.253183,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -2.1283,
+      "prior_variance": 0.345932,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 0.2274,
+      "prior_variance": 0.247414,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -2.4107,
+      "prior_variance": 0.233554,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_doming",
+      "prior_score": -2.8934,
+      "prior_variance": 0.282572,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -1.5339,
+      "prior_variance": 0.23319,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -2.047,
+      "prior_variance": 0.269447,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Calbayog",
+      "path": "asia/philippines/calbayog",
+      "prior_score": -2.4642,
+      "prior_variance": 0.214944,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -1.2463,
+      "prior_variance": 0.247602,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -1.9832,
+      "prior_variance": 0.240847,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_score": -5.1084,
+      "prior_variance": 0.341112,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_score": -3.6369,
+      "prior_variance": 0.318064,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -2.9335,
+      "prior_variance": 0.243387,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -5.7519,
+      "prior_variance": 0.279818,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -5.4969,
+      "prior_variance": 0.445785,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -6.4912,
+      "prior_variance": 0.29098,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.1002,
+      "prior_variance": 0.318377,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -9.2008,
+      "prior_variance": 0.467283,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "haroonabad",
+      "path": "asia/pakistan/khairpur_tamewali/haroonabad",
+      "prior_score": -9.1039,
+      "prior_variance": 0.451068,
+      "prior_n": 5
+    }
+  ]
+}

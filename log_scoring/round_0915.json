@@ -1,0 +1,200 @@
+{
+  "round": 915,
+  "timestamp": "2026-04-12T14:49:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 11.0687,
+      "prior_variance": 4.259593,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Washington",
+      "path": "northamerica/unitedstates/washington",
+      "prior_score": 8.68,
+      "prior_variance": 1.997521,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 14.2597,
+      "prior_variance": 7.58491,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 5.5561,
+      "prior_variance": 1.430165,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lindau",
+      "path": "europe/germany/badenwrttemberg/lindau",
+      "prior_score": 5.0939,
+      "prior_variance": 1.365406,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 4.2882,
+      "prior_variance": 1.418733,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 3.9779,
+      "prior_variance": 0.808033,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 1.7516,
+      "prior_variance": 0.683301,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -4.0283,
+      "prior_variance": 1.477623,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_score": 5.5935,
+      "prior_variance": 1.649484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.647,
+      "prior_variance": 0.457685,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_lla",
+      "prior_score": -2.5592,
+      "prior_variance": 1.940306,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Inderoy",
+      "path": "europe/norway/inderoy",
+      "prior_score": -1.5421,
+      "prior_variance": 1.282217,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -2.0672,
+      "prior_variance": 1.432908,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": 0.624,
+      "prior_variance": 1.356977,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": -0.7278,
+      "prior_variance": 0.676795,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": 0.9675,
+      "prior_variance": 0.734815,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_score": 1.9783,
+      "prior_variance": 1.735531,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -5.125,
+      "prior_variance": 1.350333,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "New Ireland",
+      "path": "asia/papuanewguinea/newireland",
+      "prior_score": -4.0204,
+      "prior_variance": 1.348394,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -3.625,
+      "prior_variance": 1.158471,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -5.5693,
+      "prior_variance": 1.448125,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_score": -5.6968,
+      "prior_variance": 1.339385,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_score": -3.9609,
+      "prior_variance": 1.404334,
+      "prior_n": 1
+    }
+  ]
+}

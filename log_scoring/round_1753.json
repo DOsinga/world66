@@ -1,0 +1,200 @@
+{
+  "round": 1753,
+  "timestamp": "2026-04-13T10:48:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_score": -0.8047,
+      "prior_variance": 0.794615,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Malta",
+      "path": "europe/malta",
+      "prior_score": 3.0519,
+      "prior_variance": 0.478478,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 3.8734,
+      "prior_variance": 0.349345,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 4.8336,
+      "prior_variance": 0.276238,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.9837,
+      "prior_variance": 0.315591,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_score": 3.623,
+      "prior_variance": 0.296669,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_score": 3.9722,
+      "prior_variance": 0.330793,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 4.0334,
+      "prior_variance": 0.334103,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lunigiana",
+      "path": "europe/italy/tuscany/lunigiana",
+      "prior_score": 1.8212,
+      "prior_variance": 0.302489,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.5838,
+      "prior_variance": 0.361091,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -0.2708,
+      "prior_variance": 0.423103,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.4665,
+      "prior_variance": 0.32606,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 1.7882,
+      "prior_variance": 0.339123,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 0.2854,
+      "prior_variance": 0.315077,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -4.8272,
+      "prior_variance": 0.496731,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_score": -3.1475,
+      "prior_variance": 0.314304,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -2.1301,
+      "prior_variance": 0.339102,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_score": -3.6508,
+      "prior_variance": 0.306472,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -5.26,
+      "prior_variance": 0.42473,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_score": -4.1115,
+      "prior_variance": 0.306822,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Espanola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -5.1023,
+      "prior_variance": 0.323316,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.2921,
+      "prior_variance": 0.34304,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.3626,
+      "prior_variance": 0.365118,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -5.7202,
+      "prior_variance": 0.303329,
+      "prior_n": 4
+    }
+  ]
+}

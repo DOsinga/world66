@@ -1,0 +1,200 @@
+{
+  "round": 164,
+  "timestamp": "2026-04-12T08:46:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tonga",
+      "path": "australiaandpacific/tonga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_mu": 20.7592,
+      "prior_sigma": 2.7868,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_mu": 23.126,
+      "prior_sigma": 5.7197,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_mu": 20.7763,
+      "prior_sigma": 3.7011,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/swindon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bhagatawala (Chak 24 SB)",
+      "path": "asia/pakistan/sargodha/bhagatawala__chak_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

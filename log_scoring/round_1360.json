@@ -1,0 +1,200 @@
+{
+  "round": 1360,
+  "timestamp": "2026-04-12T22:23:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds",
+      "prior_rank": 6075,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_rank": 6468,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_rank": 5206,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_rank": 6150,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_rank": 4312,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_rank": 5156,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_rank": 5745,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_rank": 5165,
+      "prior_wins": 47,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_rank": 7290,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_rank": 4885,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Rackeve",
+      "path": "europe/hungary/rackeve",
+      "prior_rank": 5133,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_rank": 4808,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_rank": 6502,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_rank": 6950,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_rank": 3121,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_rank": 6401,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_rank": 7695,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_rank": 6973,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_rank": 6215,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ballincollig",
+      "path": "europe/ireland/cork/ballincollig",
+      "prior_rank": 4662,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_rank": 6087,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Rapid City",
+      "path": "northamerica/unitedstates/southcarolina/rapidcity",
+      "prior_rank": 6398,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_rank": 3836,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "New Jersey",
+      "path": "northamerica/unitedstates/newjersey",
+      "prior_rank": 3991,
+      "prior_wins": 35,
+      "prior_n": 3
+    }
+  ]
+}

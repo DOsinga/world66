@@ -1,0 +1,200 @@
+{
+  "round": 1678,
+  "timestamp": "2026-04-13T10:41:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_score": 10.8995,
+      "prior_variance": 0.585525,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_score": 8.6743,
+      "prior_variance": 0.384948,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 10.2724,
+      "prior_variance": 0.46481,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 6.9962,
+      "prior_variance": 0.427166,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kowloon",
+      "path": "asia/china/hongkong/kowloon",
+      "prior_score": 7.3501,
+      "prior_variance": 0.447054,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 6.7144,
+      "prior_variance": 0.357538,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_score": 8.9789,
+      "prior_variance": 0.726445,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "England",
+      "path": "europe/unitedkingdom/england",
+      "prior_score": -3.1245,
+      "prior_variance": 0.483476,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensbe",
+      "prior_score": 4.5384,
+      "prior_variance": 0.377147,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 8.24,
+      "prior_variance": 0.397164,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 8.7952,
+      "prior_variance": 0.42212,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 2.2543,
+      "prior_variance": 0.353476,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_score": 3.096,
+      "prior_variance": 0.305376,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_score": -1.2318,
+      "prior_variance": 0.452762,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_score": -0.0819,
+      "prior_variance": 0.294073,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -2.9456,
+      "prior_variance": 0.583027,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.5883,
+      "prior_variance": 0.286298,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.9234,
+      "prior_variance": 0.317628,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -1.3066,
+      "prior_variance": 0.174357,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Schwaendi",
+      "path": "europe/switzerland/schwaendi",
+      "prior_score": -2.7459,
+      "prior_variance": 0.598416,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.0442,
+      "prior_variance": 0.303143,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -4.0226,
+      "prior_variance": 0.33334,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_score": 0.242,
+      "prior_variance": 0.343335,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -6.318,
+      "prior_variance": 0.456453,
+      "prior_n": 4
+    }
+  ]
+}

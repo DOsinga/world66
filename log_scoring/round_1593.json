@@ -1,0 +1,200 @@
+{
+  "round": 1593,
+  "timestamp": "2026-04-13T10:34:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_score": 2.8313,
+      "prior_variance": 0.325116,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 4.4351,
+      "prior_variance": 0.336332,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 2.1985,
+      "prior_variance": 0.520593,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra_vall",
+      "prior_score": 3.1677,
+      "prior_variance": 0.34722,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": 2.6754,
+      "prior_variance": 0.386313,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.1699,
+      "prior_variance": 0.378985,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 4.9467,
+      "prior_variance": 0.322092,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 1.2167,
+      "prior_variance": 0.455387,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sumatra",
+      "path": "asia/indonesia/sumatra",
+      "prior_score": 0.7438,
+      "prior_variance": 0.383193,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 2.1529,
+      "prior_variance": 0.357979,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/sherborne",
+      "prior_score": 1.4122,
+      "prior_variance": 0.432078,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 1.7924,
+      "prior_variance": 0.319398,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.697,
+      "prior_variance": 0.480536,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.5936,
+      "prior_variance": 0.343601,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -5.1695,
+      "prior_variance": 0.817735,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_score": 1.0964,
+      "prior_variance": 0.293528,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 2.1967,
+      "prior_variance": 0.48616,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Isla Verde",
+      "path": "northamerica/puertorico/islaverde",
+      "prior_score": 1.845,
+      "prior_variance": 0.341192,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 1.6426,
+      "prior_variance": 0.35093,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.9938,
+      "prior_variance": 0.368739,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
+      "prior_score": 0.6192,
+      "prior_variance": 0.282348,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 1.2631,
+      "prior_variance": 0.620735,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -1.9944,
+      "prior_variance": 0.306717,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_score": -5.0272,
+      "prior_variance": 0.431856,
+      "prior_n": 4
+    }
+  ]
+}

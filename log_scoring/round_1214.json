@@ -1,0 +1,200 @@
+{
+  "round": 1214,
+  "timestamp": "2026-04-12T22:15:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_rank": 6357,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_rank": 2386,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_rank": 4780,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_rank": 3015,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_rank": 3228,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/sherborne",
+      "prior_rank": 3242,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_rank": 1390,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tysfjord",
+      "path": "europe/norway/tysfjord",
+      "prior_rank": 2586,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_rank": 2764,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_rank": 1284,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_rank": 2744,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_rank": 4901,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_rank": 4826,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
+      "prior_rank": 2789,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_rank": 2605,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_rank": 3803,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_rank": 3343,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_rank": 5942,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_rank": 2143,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_rank": 2113,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_rank": 3098,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezon_province",
+      "prior_rank": 5002,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_rank": 4024,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/crovie",
+      "prior_rank": 3318,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

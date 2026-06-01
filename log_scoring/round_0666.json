@@ -1,0 +1,200 @@
+{
+  "round": 666,
+  "timestamp": "2026-04-12T10:41:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_mu": 22.9062,
+      "prior_sigma": 4.7766,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_mu": 23.2588,
+      "prior_sigma": 5.7805,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Merida",
+      "path": "northamerica/mexico/yucatan/merida",
+      "prior_mu": 23.0762,
+      "prior_sigma": 5.4154,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_mu": 22.1266,
+      "prior_sigma": 4.7082,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_mu": 22.2267,
+      "prior_sigma": 4.865,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_mu": 24.4454,
+      "prior_sigma": 4.4925,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_mu": 21.7887,
+      "prior_sigma": 4.0058,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_mu": 21.6025,
+      "prior_sigma": 4.7325,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/guanajuato/len",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/yucatan/puertoescondido",
+      "prior_mu": 22.5296,
+      "prior_sigma": 5.9114,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_mu": 22.633,
+      "prior_sigma": 5.933,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_mu": 22.6094,
+      "prior_sigma": 5.4215,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_mu": 22.7261,
+      "prior_sigma": 5.4015,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_mu": 22.3815,
+      "prior_sigma": 5.6859,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_mu": 21.5076,
+      "prior_sigma": 4.6992,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Santa Ana",
+      "path": "northamerica/mexico/santaana",
+      "prior_mu": 22.414,
+      "prior_sigma": 5.7525,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/anahuac",
+      "prior_mu": 22.7486,
+      "prior_sigma": 5.9387,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/yucatan/basconcobe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

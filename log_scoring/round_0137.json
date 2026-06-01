@@ -1,0 +1,200 @@
+{
+  "round": 137,
+  "timestamp": "2026-04-12T08:45:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Trogirska Riviera",
+      "path": "europe/croatia/trogirska_riviera",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "San Pedro",
+      "path": "northamerica/unitedstates/california/san_pedro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_mu": 20.9947,
+      "prior_sigma": 3.453,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ribeirao Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/stafford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Laatzen",
+      "path": "europe/germany/lowersaxony/laatzen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

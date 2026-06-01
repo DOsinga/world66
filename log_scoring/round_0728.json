@@ -1,0 +1,200 @@
+{
+  "round": 728,
+  "timestamp": "2026-04-12T10:45:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Brava",
+      "path": "europe/spain/costa_brava",
+      "prior_mu": 22.4191,
+      "prior_sigma": 4.8305,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_mu": 23.519,
+      "prior_sigma": 5.3834,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_mu": 22.9671,
+      "prior_sigma": 5.7122,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_mu": 21.5985,
+      "prior_sigma": 4.4108,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_mu": 22.0618,
+      "prior_sigma": 5.9477,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_mu": 22.2404,
+      "prior_sigma": 4.7781,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Tongatapu",
+      "path": "australiaandpacific/tonga/tongatapu",
+      "prior_mu": 21.5419,
+      "prior_sigma": 4.1594,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_mu": 22.0847,
+      "prior_sigma": 4.7047,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_mu": 22.488,
+      "prior_sigma": 5.4223,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_mu": 22.5093,
+      "prior_sigma": 5.3735,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_mu": 22.779,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_mu": 21.8344,
+      "prior_sigma": 4.5985,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_mu": 23.0543,
+      "prior_sigma": 4.8928,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_mu": 20.5584,
+      "prior_sigma": 3.8703,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_mu": 20.843,
+      "prior_sigma": 4.2703,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_mu": 19.2213,
+      "prior_sigma": 3.7254,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_mu": 18.1813,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_mu": 22.4394,
+      "prior_sigma": 5.9481,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_mu": 18.7849,
+      "prior_sigma": 5.0012,
+      "prior_n": 2
+    }
+  ]
+}

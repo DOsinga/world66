@@ -1,0 +1,200 @@
+{
+  "round": 551,
+  "timestamp": "2026-04-12T10:37:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec",
+      "path": "northamerica/canada/quebec",
+      "prior_mu": 22.5796,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Muskoka",
+      "path": "northamerica/canada/ontario/muskoka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_mu": 22.5856,
+      "prior_sigma": 5.6073,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_mu": 22.4126,
+      "prior_sigma": 5.5219,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Universities",
+      "path": "northamerica/canada/britishcolumbia/victoria/universities",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_mu": 22.2879,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_mu": 22.4272,
+      "prior_sigma": 5.5354,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_mu": 22.4645,
+      "prior_sigma": 5.6912,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_mu": 22.6544,
+      "prior_sigma": 5.9445,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_mu": 22.5066,
+      "prior_sigma": 5.5238,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_mu": 22.5756,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_mu": 22.7812,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_mu": 21.0571,
+      "prior_sigma": 3.0344,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_mu": 21.7895,
+      "prior_sigma": 5.9217,
+      "prior_n": 1
+    }
+  ]
+}

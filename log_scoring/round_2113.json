@@ -1,0 +1,200 @@
+{
+  "round": 2113,
+  "timestamp": "2026-04-13T16:12:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_score": 10.5645,
+      "prior_variance": 0.518503,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 9.9561,
+      "prior_variance": 0.52387,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 9.6761,
+      "prior_variance": 0.642668,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_score": 14.6493,
+      "prior_variance": 0.579901,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_score": 10.4452,
+      "prior_variance": 0.442734,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_score": 9.73,
+      "prior_variance": 0.620786,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.9298,
+      "prior_variance": 0.293769,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Utah",
+      "path": "northamerica/unitedstates/utah",
+      "prior_score": 9.9191,
+      "prior_variance": 0.561866,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 8.2373,
+      "prior_variance": 0.528019,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 4.9497,
+      "prior_variance": 0.273893,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco",
+      "prior_score": 12.0281,
+      "prior_variance": 0.492387,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 5.8265,
+      "prior_variance": 0.366493,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 4.5576,
+      "prior_variance": 0.34143,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 5.6373,
+      "prior_variance": 0.32693,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_score": 3.2594,
+      "prior_variance": 0.234182,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Courchevel",
+      "path": "europe/switzerland/courchevel",
+      "prior_score": -4.4799,
+      "prior_variance": 0.590337,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 2.9712,
+      "prior_variance": 0.234152,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 1.3708,
+      "prior_variance": 0.327465,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.8866,
+      "prior_variance": 0.269284,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_score": 1.3224,
+      "prior_variance": 0.241396,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": -0.372,
+      "prior_variance": 0.28862,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 1.5813,
+      "prior_variance": 0.249425,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ohio's Amish Country",
+      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
+      "prior_score": 0.6055,
+      "prior_variance": 0.297647,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -3.663,
+      "prior_variance": 0.235895,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "round": 633,
+  "timestamp": "2026-04-12T10:40:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 7,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_mu": 22.3266,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_mu": 22.3479,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_mu": 17.9822,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sudan",
+      "path": "africa/sudan",
+      "prior_mu": 18.1172,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

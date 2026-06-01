@@ -1,0 +1,200 @@
+{
+  "round": 327,
+  "timestamp": "2026-04-12T09:11:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chile",
+      "path": "southamerica/chile",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/capetown/stellenbosch",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_mu": 22.685,
+      "prior_sigma": 5.9439,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_mu": 21.1579,
+      "prior_sigma": 3.4394,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_mu": 22.4198,
+      "prior_sigma": 5.8935,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Xikou",
+      "path": "asia/china/xikou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_mu": 22.6175,
+      "prior_sigma": 5.6697,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_mu": 22.443,
+      "prior_sigma": 5.9021,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Fuerth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_mu": 22.4003,
+      "prior_sigma": 5.7155,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ikast",
+      "path": "europe/denmark/ikast",
+      "prior_mu": 22.0943,
+      "prior_sigma": 5.8406,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

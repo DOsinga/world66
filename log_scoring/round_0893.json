@@ -1,0 +1,200 @@
+{
+  "round": 893,
+  "timestamp": "2026-04-12T14:48:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_score": 9.3029,
+      "prior_variance": 3.791148,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.7013,
+      "prior_variance": 1.526655,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 5.4476,
+      "prior_variance": 1.445098,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkneys",
+      "prior_score": 9.9825,
+      "prior_variance": 1.980912,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_score": 5.4434,
+      "prior_variance": 1.509144,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 5.5203,
+      "prior_variance": 5.757707,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 5.9377,
+      "prior_variance": 1.522161,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/kapiti_coast",
+      "prior_score": 0.1388,
+      "prior_variance": 1.245924,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
+      "prior_score": 1.4014,
+      "prior_variance": 1.346164,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 3.3612,
+      "prior_variance": 1.347196,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 7.4794,
+      "prior_variance": 2.297204,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.5245,
+      "prior_variance": 0.786025,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -0.9541,
+      "prior_variance": 1.175026,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/sheffield",
+      "prior_score": 1.0089,
+      "prior_variance": 1.457228,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.0169,
+      "prior_variance": 1.209835,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -1.9284,
+      "prior_variance": 1.284366,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -1.9299,
+      "prior_variance": 1.471602,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -1.0691,
+      "prior_variance": 1.366393,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -4.8294,
+      "prior_variance": 0.678588,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_score": -4.446,
+      "prior_variance": 1.334278,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_score": -7.4282,
+      "prior_variance": 0.315951,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -6.3424,
+      "prior_variance": 1.585007,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Loch Sheldrake",
+      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
+      "prior_score": -7.0895,
+      "prior_variance": 1.099078,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -4.4307,
+      "prior_variance": 0.713374,
+      "prior_n": 2
+    }
+  ]
+}

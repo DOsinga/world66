@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-01'
 image: sthelena.jpg
 image_attribution: Sanfranman59
 image_license: CC BY-SA 3.0

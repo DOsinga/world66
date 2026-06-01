@@ -1,18 +1,10 @@
 ---
-title: "Eating Out in Cartagena"
+title: Eating Out in Cartagena
 type: section
 ---
 
-**Cartagena Restaurants** are full of variety. Tourists can enjoy a new gastronomic experience in these restaurants that serve anything from Italian food to seafood.
+Cartagena's food is built around Caribbean seafood — red snapper, barracuda, lobster, shrimp — prepared with tropical fruit, coconut milk, and local spices. The walled city has the best concentration of restaurants but also the highest prices. For better value, the restaurants in Bocagrande and Getsemaní offer similar quality at lower cost.
 
-**Restaurante Nautilus**
+[La Cevichería](/southamerica/colombia/cartagena/restaurante_la_cevicheria) is the most celebrated seafood restaurant in the old city, known for Caribbean-style ceviche with coconut and tropical fruit. The fish restaurants at [La Boquilla](/southamerica/colombia/cartagena/la_boquilla) village, a short bus ride north, serve the freshest catch with little fuss. For a formal setting, the Club de Pesca inside the [Fuerte de San Sebastián del Pastelillo](/southamerica/colombia/cartagena/san_sebastian_pastelillo) is Cartagena's most atmospheric upscale seafood option.
 
-Nautilus is more traditional seafood restaurant that is very casual. Customers have the privilege of getting to choose the fresh lobster that they wish to eat. Most lobsters come out straight out of a large fish tank within the restaurant; this is especially fun for children, who love to sit and watch the crustaceans interact with one another. Customers can even help prepare their own lobster to be cooked. The price at Nautilus range from $11.00 to $20.00. Nautilus' address is san Diego Cerrada 37 Number 10-86. This is one of the most luxurious Cartagena restaurants.
-
-**Cafe Havana**
-
-Cafe Havana is located on the corner of Calle del Guerro and and Media Luna. Cafe Havana serves the finest selection of Spanish dishes, and also offers a never-ending choice of alcoholic beverages. Cafe Havana is a local favorite, because the environment is a constant party. It is host to local musicians, singers and dancers. Dining at the Cafe Havana will cost diners around $20-$50. Cafe Havana is one of the Cartagena restaurants that entertains its guests while they eat.
-
-**Club De Pesca**
-
-Club De Pesca is a more formal Cartagena restaurant, and its known for its high class seafood. The Pargo Rojo, which is the Red Snapper, is a favorite at this restaurant. A person does not even have to know how to read the menu; just tell your waiter what you want, and Club De Pesca will make it for you. This high end restaurant costs $41+ USD PAX. It is located on Fuerte de Pastellito Manga, Cartagena, Colombia.
+Street food is excellent — arepas de choclo (sweet corn cakes), buñuelos (fried cheese fritters), and the coconut sweets at the [Portal de los Dulces](/southamerica/colombia/cartagena/portal_de_los_dulces) are all worth trying.

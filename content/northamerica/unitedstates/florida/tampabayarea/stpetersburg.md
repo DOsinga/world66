@@ -2,23 +2,24 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-31'
   poi_cleanup: '2026-04-21'
 image: stpetersburg.jpg
 image_attribution: pasa47
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:4th_St_Petersburg,_Florida,_August_2019.jpg
 latitude: 27.7731
+loc_type: city
 longitude: -82.64
 score: 0.54
 title: St. Petersburg
 type: location
-loc_type: city
 ---
 
 St. Petersburg sits at the tip of the Pinellas Peninsula, wrapped on three sides by Tampa Bay and the Gulf of Mexico. It is warmer, sunnier, and more laid-back than its larger neighbor [Tampa](/northamerica/unitedstates/florida/tampabayarea/tampa) across the bay — and it has better beaches, a stronger arts scene, and a walkable downtown that Tampa has long envied.
 
-The city punches well above its weight culturally. The Salvador Dalí Museum holds the largest collection of Dalí's work outside Europe, and the Museum of Fine Arts has an impressive spread of American, European, and pre-Columbian pieces. The Florida Holocaust Museum, one of the largest in the country, occupies several blocks of downtown. These three alone would justify a day trip from anywhere in Florida.
+The city punches well above its weight culturally. The [Salvador Dalí Museum](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/salvador_dali_museum) holds the largest collection of Dalí's work outside Europe, and the [Museum of Fine Arts](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/museum_of_fine_arts) has an impressive spread of American, European, and pre-Columbian pieces. The [Florida Holocaust Museum](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/florida_holocaust_museum), one of the largest in the country, occupies several blocks of downtown. These three alone would justify a day trip from anywhere in Florida.
 
-Downtown centers on Beach Drive, a handsome boulevard running along the waterfront with galleries, restaurants, and cafes spilling onto wide sidewalks. The newly redeveloped waterfront district connects to a network of parks and piers — the St. Pete Pier is worth a walk for the views across Tampa Bay. Farther south, the Grand Central District and the Edge District have the indie coffee shops, record stores, and craft breweries.
+Downtown centers on Beach Drive, a handsome boulevard running along the waterfront with galleries, restaurants, and cafes spilling onto wide sidewalks. The newly redeveloped waterfront district connects to a network of parks and piers — the [St. Pete Pier](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/st_pete_pier) is worth a walk for the views across Tampa Bay. Farther south, the Grand Central District and the Edge District have the indie coffee shops, record stores, and craft breweries.
 
-Fort De Soto Park, a short drive south, is consistently ranked among the best beaches in the United States — quieter and wilder than the strip at nearby Clearwater Beach. If you want to get out on the water, kayak rentals are easy to find and the mangrove channels are excellent for wildlife spotting.
+[Fort De Soto Park](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/fort_de_soto_park), a short drive south, is consistently ranked among the best beaches in the United States — quieter and wilder than the strip at nearby Clearwater Beach. If you want to get out on the water, [kayak rentals](/northamerica/unitedstates/florida/tampabayarea/stpetersburg/kayaking_mangrove_channels) are easy to find and the mangrove channels are excellent for wildlife spotting.

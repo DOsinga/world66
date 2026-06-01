@@ -4,6 +4,8 @@ longitude: 129.116655
 snippet: Local beach with lit bridge views at night
 tags:
 - things_to_do
+- beaches
+- sight
 title: Gwangalli Beach
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-28'
 image: dijon.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Dijon_-_Puits_de_Mo%C3%AFse_-_02.jpg
@@ -12,11 +13,10 @@ title: Dijon
 type: location
 ---
 
-Once the proud capital of the Dukes of Burgundy – Jean sans Peur, Philippe le Bon, Charles le Téméraire were born there – Dijon is nowadays a modern regional capital, within the only agglomeration with more than two hundred thousand inhabitants located between [Lyon](/europe/france/alpes/lyon) and [Paris](/europe/france/paris).
+Once the proud capital of the Dukes of Burgundy — Jean sans Peur, Philippe le Bon, and Charles le Téméraire were all born here — Dijon is now a comfortable regional capital between [Lyon](/europe/france/alpes/lyon) and [Paris](/europe/france/paris). The old town is small, dense, and largely intact: 97 hectares of protected monuments, glazed rooftops in the Burgundian style, half-timbered houses leaning into the pedestrianised streets, hôtels particuliers from the 17th and 18th centuries hidden behind discreet courtyards.
 
+The architectural centrepiece is the [Palace of the Dukes](/europe/france/east/burgundy/dijon/palace_of_the_dukes), which now houses both the city hall and the [Musée des Beaux-Arts](/europe/france/east/burgundy/dijon/musee_des_beaux_arts) — one of the best art museums in France outside Paris, and home to the spectacular tombs of the Burgundian dukes. Around the palace cluster the Gothic [Church of Notre-Dame](/europe/france/east/burgundy/dijon/notre_dame) (with its medieval Jacquemart clock and the famous owl-mascot of the city), [Dijon Cathedral](/europe/france/east/burgundy/dijon/dijon_cathedral) and its Romanesque crypt, and the riotously Renaissance [Église Saint-Michel](/europe/france/east/burgundy/dijon/saint_michel).
 
- The heir to an exceptional architectural heritage, one of the first sectors safeguarded in France, Dijon accounts for 97 ha of nationally classed monuments. Glazed rooftops, half-timbered houses, private mansions of the 17th and 18th centuries, the Saint Benign Cathedral, the Palace of the Dukes of Burgundy... The Estate of Rameau and Bossuet, rented by Voltaire, and in which Gustave Eiffel was born, was classed first in France for urban tourism.
+A trail of smaller museums fills the gaps: the [Magnin](/europe/france/east/burgundy/dijon/musee_magnin) (a 17th-century private mansion), the [Rude](/europe/france/east/burgundy/dijon/musee_rude) (in the transept of a half-ruined Gothic church), the [Archéologique](/europe/france/east/burgundy/dijon/musee_archeologique) in the Saint-Bénigne abbey dormitory, the [Vie Bourguignonne](/europe/france/east/burgundy/dijon/musee_de_la_vie_bourguignonne) in the Bernardine monastery. To the west of the centre, the [Chartreuse de Champmol](/europe/france/east/burgundy/dijon/chartreuse_de_champmol) preserves Claus Sluter's Well of Moses — one of the great works of late-medieval European sculpture.
 
-
- 
- Eight museums enrich the town: the Art museum in the Dukes’ Palace, one of the best in France, in which the tombs of the Dukes of Burgundy can be found, the Magnin museum (a very beautiful private mansion dating from the 17th century), the Rude museum (transept of the Saint Etienne church), the museums of Natural and Architectural History (ancient Benedictine abbey of Saint Benign), the museums of life in Burgundy and of Sacred Art, which form a remarkable ensemble of the 17th century (Bernardines’ convent and Saint Anne’s chapel) and the botanical gardens.
+Dijon also takes its food and wine seriously. The city is the northern anchor of the Burgundy wine region, headquarters of mustard (Maille, Edmond Fallot), and home of pain d'épices. The 2022 [Cité Internationale de la Gastronomie](/europe/france/east/burgundy/dijon/cite_de_la_gastronomie) makes the case in official form; [Eiffel's market hall](/europe/france/east/burgundy/dijon/les_halles), the wine bars around [Place de la Libération](/europe/france/east/burgundy/dijon/place_de_la_liberation), and a couple of Michelin-starred kitchens make it more convincingly. A day in Dijon and a day in the vineyards south is the classic Burgundy trip.

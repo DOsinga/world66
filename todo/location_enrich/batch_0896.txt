@@ -1,5 +1,0 @@
-northamerica/unitedstates/newmexico/laguna
-asia/india/goa/siolim
-europe/italy/lombardia/chiavenna
-northamerica/dominicanrepublic/bocachica
-europe/hungary/eger

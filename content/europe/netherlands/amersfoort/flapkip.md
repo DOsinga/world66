@@ -1,4 +1,0 @@
----
-title: Flapkip
-type: poi
----

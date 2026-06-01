@@ -1,0 +1,19 @@
+---
+done:
+  location_cleanup: '2026-04-10'
+image: omis.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Omi%C5%A1_city_panorama_(2018-05-16).jpg
+latitude: 43.443497
+loc_type: city
+longitude: 16.692277
+score: 0.63
+title: Omis
+type: location
+---
+
+Omis sits where the Cetina river cuts through a dramatic gorge and meets the Adriatic, about 25 kilometres south of [Split](/europe/croatia/split). For centuries it was a pirate stronghold — the Omiš pirates terrorised Venetian and Papal shipping from the 12th to the 14th century, using the narrow river canyon as a natural fortress. Two ruined fortresses still cling to the cliffs above town.
+
+Today Omis is best known for adventure sports. The Cetina gorge offers some of the best rafting and canyoning in [Croatia](/europe/croatia), with rapids running through a steep limestone canyon past waterfalls and caves. Zip lines span the gorge and rock climbing routes scale the cliffs above. The town itself is small and pleasant, with a car-free old centre squeezed between the river and the rock face, a long pebble beach, and a handful of good seafood restaurants along the waterfront.
+
+Omis makes an easy day trip from Split or a quieter alternative base for exploring the Dalmatian coast. In August, the town hosts the Festival of Dalmatian Klapa — traditional a cappella singing that echoes off the canyon walls.

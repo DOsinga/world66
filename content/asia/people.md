@@ -1,0 +1,16 @@
+---
+title: "People"
+type: section
+---
+
+Asia is home to around 4.7 billion people — roughly 60 percent of humanity — distributed unevenly across the continent. The Ganges plain of northern India and the river deltas of Bangladesh and eastern China are among the most densely populated places on earth. The steppes of Mongolia and the highlands of Central Asia are nearly empty.
+
+The continent contains more ethnic and linguistic diversity than anywhere else. Indonesia alone has over 270 million people speaking hundreds of languages across six thousand inhabited islands. [India](/asia/india) has twenty-two official languages and dozens of distinct regional cultures. [China](/asia/china)'s 91 percent Han majority contains enormous internal variation — the Han of Guangdong and the Han of Harbin share an ethnic label but not much else in the way of dialect, food, or daily culture.
+
+**Religion** shapes daily life across the continent more visibly than in most of Europe or North America. Islam is the majority religion across the Middle East, Central Asia, [Malaysia](/asia/malaysia), [Indonesia](/asia/indonesia), and [Bangladesh](/asia/bangladesh) — Indonesia is the world's largest Muslim-majority country by population. Hinduism dominates [India](/asia/india) and [Nepal](/asia/nepal). Buddhism takes distinct forms across [Thailand](/asia/thailand), [Sri Lanka](/asia/srilanka), [Myanmar](/asia/myanmar), [Japan](/asia/japan), and [Mongolia](/asia/mongolia). [Japan](/asia/japan) and [South Korea](/asia/southkorea) blend Buddhism with Shinto and Christianity respectively. [Israel](/asia/israel) is a Jewish state. In much of Asia, religion is not a private matter — it is embedded in architecture, food, festivals, working hours, and public behavior.
+
+**Family and community** remain the primary social structures across most of the continent. In Confucian-influenced East Asia — [China](/asia/china), [Japan](/asia/japan), [South Korea](/asia/southkorea), [Vietnam](/asia/vietnam) — hierarchies of age and role carry real weight in daily interactions. In South and Southeast Asia, family obligations often take precedence over everything else. This has practical implications for travelers: hospitality toward strangers is often genuine and generous, but social dynamics may be harder to read than back home.
+
+**Urban and rural** Asia are almost two different worlds. The megacities — [Tokyo](/asia/japan/tokyo), [Shanghai](/asia/china/shanghai), Jakarta, [Delhi](/asia/india/delhi), Seoul — are ultra-modern, wired, and in some cases among the most efficient places on earth. Rural areas a few hours away may have little reliable electricity and almost no English. The contrast can be disorienting, and it is part of what makes the continent endlessly interesting.
+
+A few things worth knowing: in most of Asia, public displays of anger or frustration are considered deeply inappropriate, and will often make situations worse. Dress codes matter — in temples, mosques, and many rural areas, covered shoulders and knees are expected. Learning even a handful of words in the local language signals respect and opens doors. And across the continent, an unexpected smile from a stranger is usually exactly what it appears to be.

@@ -1,0 +1,16 @@
+---
+title: "When to Go in Asia"
+type: section
+---
+
+Asia stretches from the Arctic to the equator and from the Mediterranean to the Pacific, so there is no single best time to visit. The right season depends entirely on where you are headed. What follows is a rough guide by region — always check specifics for your destination, because microclimates and local monsoon patterns can surprise you.
+
+**The Middle East and Gulf states** are best visited between November and March, when temperatures are warm but bearable. Summer in [Dubai](/asia/united_arab_emirates/dubai), [Qatar](/asia/qatar), or [Oman](/asia/oman) means 45-50°C heat that makes outdoor sightseeing genuinely unpleasant. [Turkey](/asia/turkey) and [Israel](/asia/israel) follow a more Mediterranean pattern — spring and autumn are ideal, summers are hot but manageable along the coasts, and winters bring snow to eastern [Turkey](/asia/turkey) and the mountains of [Iran](/asia/iran).
+
+**Central Asia** — [Uzbekistan](/asia/uzbekistan), [Kyrgyzstan](/asia/kyrgyzstan), [Kazakhstan](/asia/kazakhstan), [Tajikistan](/asia/tajikistan) — has extreme continental seasons. Winters are bitterly cold, summers scorching in the lowlands. The sweet spots are April to June and September to October, when the Silk Road cities are pleasant and the mountain passes are open. The high Pamirs and Tian Shan are only accessible in summer, roughly July and August.
+
+**South Asia** revolves around the monsoon. In [India](/asia/india), [Nepal](/asia/nepal), and [Sri Lanka](/asia/sri_lanka), the main monsoon runs roughly from June to September, bringing heavy rains to most of the subcontinent. October through March is the classic travel season — dry, warm, and comfortable in most regions. The exception is Sri Lanka's east coast, which has its own monsoon schedule and is best from April to September. The Himalayas have their own rules: trekking season in [Nepal](/asia/nepal) peaks in October-November and March-April.
+
+**Southeast Asia** is tropical year-round, but dry and wet seasons vary by country. [Thailand](/asia/thailand), [Laos](/asia/laos), [Cambodia](/asia/cambodia), and [Myanmar](/asia/myanmar) are driest from November to February — this is peak season, with pleasant temperatures and little rain. [Indonesia](/asia/indonesia) and [Malaysia](/asia/malaysia) have more complex patterns: Bali is best from April to October, while Malaysia's east coast closes down during the northeast monsoon from November to March. The [Philippines](/asia/philippines) is driest from December to May, but typhoon season from July to November is worth watching.
+
+**East Asia** has four distinct seasons, and each has its appeal. [Japan](/asia/japan) is stunning in cherry blossom season (late March to mid-April) and again in autumn (November), but both are peak tourist times. Summer is hot and humid across [Japan](/asia/japan), [South Korea](/asia/south_korea), and eastern [China](/asia/china), with a rainy season in June-July. Winter is cold in northern [China](/asia/china) and [South Korea](/asia/south_korea) but excellent for skiing in [Japan](/asia/japan). [China](/asia/china) is so vast that seasons vary dramatically — avoid the Golden Week holidays in early October and Chinese New Year in January or February, when half the country is on the move.

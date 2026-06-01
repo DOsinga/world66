@@ -1,0 +1,18 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+latitude: 37.3859
+longitude: 14.3672
+score: 0.61
+title: Piazza Armerina
+type: location
+loc_type: city
+image: piazza_armerina.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Piazza_Armerina_-_Italy_2015.JPG
+---
+
+Piazza Armerina is a small town in central Sicily, mainly famous for the Villa Romana del Casale just outside town. This 3rd-century Roman villa, buried by a landslide in the 12th century and rediscovered in the 19th, contains the largest and best-preserved collection of late Roman mosaics in the world, including the famous bikini-clad women athletes.
+
+The town itself has a pleasant medieval centre with a Baroque cathedral and some good restaurants. It makes a natural stop between the coast and the interior.

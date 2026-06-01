@@ -1,0 +1,23 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-12'
+  poi_cleanup: '2026-04-20'
+image: pattaya.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pattaya_Bay,_Pattaya_Beach,_Boats,_Thailand.jpg
+latitude: 12.9367
+loc_type: city
+longitude: 100.8865
+score: 0.62
+title: Pattaya
+type: location
+---
+
+Pattaya is Thailand's original beach resort, 147km southeast of [Bangkok](/asia/thailand/bangkok) on the Gulf of Thailand. It has an enormous amount of infrastructure built up around tourism — sprawling beach road, shopping malls, seafood restaurants, bars — and a reputation it has been working hard to move past. The city is brash and busy, and it delivers what it promises: reliable beaches, good food at every price point, and easy transport to offshore islands and the surrounding Chonburi province.
+
+Jomtien Beach, south of the main strip, is quieter and better for swimming. Ko Larn, a small island 45 minutes by speedboat, has cleaner water and good snorkelling. The Sanctuary of Truth — a massive hand-carved teakwood temple under construction since 1981 — is one of the more unusual sights in Thailand. Nong Nooch Tropical Garden, 15km south, is known for its elephant shows, Thai dance performances, and botanical collections.
+
+Pattaya works best as a base for exploring eastern Thailand or as a long weekend from Bangkok. The city itself is not pretty, but the food is excellent, the water is warm, and getting there and around is straightforward.

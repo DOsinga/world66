@@ -1,0 +1,19 @@
+---
+done:
+  location_cleanup: 2026-04-05
+image: panamacity.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).jpeg
+latitude: 8.9824
+loc_type: city
+longitude: -79.5199
+score: 0.58
+title: Panama City
+type: location
+---
+
+Panama City is the capital of Panama and, for its size, one of the most dramatically cosmopolitan cities in Latin America. Its skyline is unmistakable: a long wall of glass-and-steel towers rising above the Pacific across a crescent bay, the closest thing Central America has to Miami or Hong Kong. Behind that modern skyline sits a much older city — the **Casco Viejo**, founded in 1673 after pirates led by Henry Morgan sacked and burned the original settlement of Panamá Viejo. Between the two, the **Panama Canal** runs straight out of the city into the jungle, and it is the canal, still, that defines almost everything about this place: the money that built the towers, the flags of convenience, the ships queued up offshore, the banks that launder them.
+
+For travellers the three essential stops are the **Casco Viejo**, the **Panamá Viejo ruins**, and the **canal**. The Casco Viejo — a UNESCO World Heritage Site — is a compact grid of colonial streets, restored Spanish and French colonial mansions, small plazas, cathedrals, and some of the best restaurants and hotels in the country; twenty years ago it was a crumbling slum, and it has been restored (with all the gentrification baggage that entails) into one of the most atmospheric old-city centres in the Americas. **Panamá Viejo**, the original city, was abandoned after Morgan's raid and is now a park of ruined stone walls on the eastern edge of the modern city. The **Panama Canal** itself is best seen from the **Miraflores Locks visitor centre**, a short taxi from downtown, where you can watch enormous container ships rise or fall 18 metres in a single lock cycle — the new Centennial Bridge and the 2016-opened **Cocolí Locks** handle the biggest Neopanamax vessels.
+
+Beyond the canal, Panama City is an unexpectedly good wildlife destination. The **Parque Natural Metropolitano**, the only tropical rainforest inside any Central American capital, sits at the western edge of the city; **Soberanía National Park**, 30 minutes out, has some of the finest bird-watching in the Americas (including the Pipeline Road, a legendary birding site); and the **Amador Causeway**, a string of small islands connected by a 6 km causeway built with rock dug from the canal, is a breezy place for dinner and a view of the skyline. Stay in Casco Viejo if you can; eat a *sancocho* and drink a coffee at one of the Casco's cafés; and give the city at least three days.

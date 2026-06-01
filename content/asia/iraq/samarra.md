@@ -1,0 +1,21 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-21'
+latitude: 34.198
+loc_type: city
+longitude: 43.876
+score: 0.35
+title: Samarra
+type: location
+---
+
+Samarra is a city on the Tigris about 125 km north of Baghdad. For most of the 9th century it served as the capital of the Abbasid Caliphate, and from that period survive some extraordinary monuments.
+
+The most famous is the [Malwiya Minaret](/asia/iraq/samarra/malwiya_minaret) — a spiral tower of brick that corkscrews 52 metres into the sky beside the ruins of the [Great Mosque of Samarra](/asia/iraq/samarra/great_mosque_samarra). When it was built in 848 AD, the mosque was the largest in the world. The minaret is unique in Islamic architecture: a helix climbing a square base, wide enough that a rider could ascend on horseback. You can still climb to the top, which rewards you with a view across the Tigris and the flat surrounding plain that makes the isolation of the ancient capital suddenly comprehensible. It is one of the most striking structures in Iraq and not to be missed.
+
+The [Abu Dulaf Mosque](/asia/iraq/samarra/abu_dulaf_mosque), about ten kilometres to the north, has a smaller but similarly spiralling minaret and sees far fewer visitors.
+
+Samarra is also one of the holiest sites in Shia Islam. The [Al-Askari Shrine](/asia/iraq/samarra/al_askari_shrine) contains the tombs of the 10th and 11th Imams. Its golden dome was destroyed by a bomb in 2006, an act that triggered widespread sectarian violence across Iraq, but it has since been rebuilt. The shrine draws large numbers of pilgrims.
+
+Samarra is a day trip from Baghdad. The security situation has improved considerably since the worst years of the insurgency, but it is worth checking current conditions before you go.

@@ -1,0 +1,30 @@
+---
+done:
+  poi_cleanup: '2026-04-21'
+image: europe.jpg
+image_attribution: Jorge Royan
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg
+map_bounds:
+- - 34
+  - -12
+- - 58
+  - 25
+title: Europe
+type: location
+loc_type: continent
+---
+
+Europe is old in the best possible way. Every town has a cathedral, a castle, or a Roman ruin. Empires rose and fell here over two millennia, and the traces are everywhere — not in museums but in the streets, the food, the languages, and the stubborn local pride that makes every country feel genuinely distinct from its neighbors.
+
+The continent is smaller than it looks on a map and easier to navigate than almost anywhere else. High-speed trains, budget airlines, and an excellent motorway network mean you can have breakfast in [Paris](/europe/france/paris), lunch in Brussels, and dinner in [Amsterdam](/europe/netherlands/amsterdam) if you're so inclined. The Schengen Agreement removes border friction between most member states, and the Euro simplifies finances across 20 countries.
+
+Southern Europe is the perennial draw: [Italy](/europe/italy), [France](/europe/france), [Spain](/europe/spain), and [Greece](/europe/greece) together attract more tourists than anywhere else on earth. The combination of food, coastline, climate, history, and cities that still feel lived-in is hard to beat. The Mediterranean summer is glorious, though it comes with crowds and prices to match — the shoulder seasons of May and September are often better.
+
+Central Europe rewards travelers who venture off the main tourist trail. [Germany](/europe/germany) is far more varied than its reputation — romantic river valleys, medieval towns, and cities with serious cultural clout alongside the industrial heartland. [Austria](/europe/austria) and [Switzerland](/europe/switzerland) offer the Alps, two of the continent's most beautiful capitals, and a quality of life that shows in everything from the train timetables to the bread. [Czech Republic](/europe/czechrepublic), [Hungary](/europe/hungary), [Poland](/europe/poland), and [Slovakia](/europe/slovakia) offer much of what the west has — great cities, rich history, excellent food and drink — at prices that feel like a different era.
+
+Northern Europe surprises visitors who write it off as cold and expensive. In summer, [Sweden](/europe/sweden), [Norway](/europe/norway), [Denmark](/europe/denmark), and [Finland](/europe/finland) offer long daylight, outdoor culture, and cities that are among the most livable in the world. [Iceland](/europe/iceland) stands alone — geologically active, dramatically beautiful, and utterly unlike anywhere else. The [United Kingdom](/europe/unitedkingdom) and [Ireland](/europe/ireland) have their own textures: island mentalities, Celtic traditions that survive in surprising pockets, and a pub culture that still forms the backbone of social life.
+
+Eastern Europe and the Balkans have been transformed since 1989 and keep improving. [Croatia](/europe/croatia)'s Dalmatian coast now draws as many visitors as the French Riviera. [Montenegro](/europe/montenegro), [Albania](/europe/albania), and [Slovenia](/europe/slovenia) are quieter, cheaper, and increasingly worth the effort. [Romania](/europe/romania) and [Bulgaria](/europe/bulgaria) have landscapes and historical sites that barely register on most travelers' maps. Georgia and Armenia, depending on how broadly you draw Europe's eastern edge, offer a warmth of welcome and a richness of culture that make western European tourism feel transactional by comparison.
+
+Travel is not cheap in western Europe, but it's rarely as expensive as feared if you plan ahead. Budget airlines make flying affordable; FlixBus and night trains fill the gaps. Eat at lunch instead of dinner. Stay slightly outside the center. The further east you go, the further your money stretches.

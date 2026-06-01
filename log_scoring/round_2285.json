@@ -1,0 +1,200 @@
+{
+  "round": 2285,
+  "timestamp": "2026-04-13T16:27:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 6.4975,
+      "prior_variance": 0.401296,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 6.6297,
+      "prior_variance": 0.267343,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 4.3057,
+      "prior_variance": 0.225272,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.2195,
+      "prior_variance": 0.236209,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_score": 2.9368,
+      "prior_variance": 0.234338,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 0.759,
+      "prior_variance": 0.273054,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/nottingham",
+      "prior_score": 0.6405,
+      "prior_variance": 0.226316,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_score": 1.9711,
+      "prior_variance": 0.277971,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_score": 1.156,
+      "prior_variance": 0.236475,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": 1.9056,
+      "prior_variance": 0.267454,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.2684,
+      "prior_variance": 0.279853,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -1.4784,
+      "prior_variance": 0.229782,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_score": -3.583,
+      "prior_variance": 0.24017,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -4.0315,
+      "prior_variance": 0.252384,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.2663,
+      "prior_variance": 0.291318,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.367,
+      "prior_variance": 0.250331,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.6341,
+      "prior_variance": 0.216359,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -4.0642,
+      "prior_variance": 0.26098,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_score": -2.8156,
+      "prior_variance": 0.212712,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -5.2697,
+      "prior_variance": 0.230485,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -4.9451,
+      "prior_variance": 0.217055,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_score": -3.9361,
+      "prior_variance": 0.292369,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_score": -4.8726,
+      "prior_variance": 0.240081,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Basecles",
+      "path": "europe/belgium/basecles",
+      "prior_score": -5.2427,
+      "prior_variance": 0.192079,
+      "prior_n": 9
+    }
+  ]
+}

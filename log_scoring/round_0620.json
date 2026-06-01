@@ -1,0 +1,200 @@
+{
+  "round": 620,
+  "timestamp": "2026-04-12T10:40:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_mu": 23.8891,
+      "prior_sigma": 5.5564,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_mu": 22.8425,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_mu": 24.9995,
+      "prior_sigma": 4.2911,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_mu": 24.3556,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_mu": 21.8173,
+      "prior_sigma": 4.535,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_mu": 29.791,
+      "prior_sigma": 5.0246,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_mu": 25.8711,
+      "prior_sigma": 6.3251,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_mu": 21.1799,
+      "prior_sigma": 4.5895,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_mu": 22.4199,
+      "prior_sigma": 4.4192,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_mu": 21.7701,
+      "prior_sigma": 4.6791,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_mu": 20.7762,
+      "prior_sigma": 3.9328,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "South East",
+      "path": "europe/unitedkingdom/england/south_east",
+      "prior_mu": 21.7919,
+      "prior_sigma": 4.8325,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_mu": 22.1072,
+      "prior_sigma": 5.5143,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_mu": 22.5538,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/plymouth",
+      "prior_mu": 21.3524,
+      "prior_sigma": 4.1402,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_mu": 22.6948,
+      "prior_sigma": 5.9452,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_mu": 22.3194,
+      "prior_sigma": 5.7337,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_mu": 22.5686,
+      "prior_sigma": 5.9061,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_mu": 21.7377,
+      "prior_sigma": 4.4884,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_mu": 21.6971,
+      "prior_sigma": 4.5534,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/eastern_england/harlow",
+      "prior_mu": 18.4649,
+      "prior_sigma": 4.103,
+      "prior_n": 3
+    }
+  ]
+}

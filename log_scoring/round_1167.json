@@ -1,0 +1,200 @@
+{
+  "round": 1167,
+  "timestamp": "2026-04-12T22:13:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
+      "prior_rank": 240,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_rank": 338,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_rank": 315,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_rank": 79,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_rank": 22,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_rank": 987,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Malta",
+      "path": "europe/malta",
+      "prior_rank": 3074,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "S\u00e3o Miguel",
+      "path": "europe/portugal/theazores/so_miguel",
+      "prior_rank": 248,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_rank": 446,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_rank": 90,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_rank": 120,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_rank": 278,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hokkaido",
+      "path": "asia/japan/hokkaido",
+      "prior_rank": 512,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_rank": 70,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_rank": 419,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_rank": 928,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_rank": 157,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_rank": 3286,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_rank": 1352,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_rank": 414,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_rank": 101,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_rank": 29,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_pa",
+      "prior_rank": 115,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_rank": 832,
+      "prior_wins": 57,
+      "prior_n": 3
+    }
+  ]
+}

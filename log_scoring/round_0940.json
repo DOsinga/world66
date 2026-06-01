@@ -1,0 +1,200 @@
+{
+  "round": 940,
+  "timestamp": "2026-04-12T16:08:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maldives",
+      "path": "asia/maldives",
+      "prior_rank": 12,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_rank": 145,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_rank": 66,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "London",
+      "path": "europe/unitedkingdom/london",
+      "prior_rank": 50,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_rank": 43,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Dalmatia",
+      "path": "europe/croatia/dalmatia",
+      "prior_rank": 185,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_rank": 253,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Menorca",
+      "path": "europe/spain/balearicislands/menorca",
+      "prior_rank": 77,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Andalucia",
+      "path": "europe/spain/andalucia",
+      "prior_rank": 67,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_rank": 111,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_rank": 33,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_rank": 226,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_rank": 1,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wadi Rum",
+      "path": "asia/jordan/wadirum",
+      "prior_rank": 98,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_rank": 61,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_rank": 8127,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "BuBRrsLK",
+      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
+      "prior_rank": 8114,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_rank": 7563,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_rank": 8138,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_rank": 8084,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_rank": 8176,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_rank": 8091,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_rank": 8095,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Blue Star Cafe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
+      "prior_rank": 8149,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

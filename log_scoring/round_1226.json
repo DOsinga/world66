@@ -1,0 +1,200 @@
+{
+  "round": 1226,
+  "timestamp": "2026-04-12T22:16:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_rank": 3578,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_rank": 3537,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_rank": 1422,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_rank": 1948,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_rank": 1487,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_rank": 1928,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_rank": 3907,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "El Bierzo",
+      "path": "europe/spain/northernspain/bierzo",
+      "prior_rank": 4574,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Chiriqu\u00ed",
+      "path": "northamerica/panama/chiriqui",
+      "prior_rank": 2758,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_rank": 2123,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_rank": 3280,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_rank": 2622,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_rank": 2448,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_rank": 2507,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_rank": 6371,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_rank": 1103,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_rank": 4458,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_rank": 4008,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_rank": 2833,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_rank": 5831,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_rank": 4161,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_rank": 4164,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_rank": 2362,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_rank": 2582,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

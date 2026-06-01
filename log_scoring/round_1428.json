@@ -1,0 +1,200 @@
+{
+  "round": 1428,
+  "timestamp": "2026-04-12T22:27:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Carolina",
+      "path": "northamerica/unitedstates/southcarolina",
+      "prior_rank": 2169,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swindon",
+      "prior_rank": 3430,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "La Coruna",
+      "path": "europe/spain/lacoruna",
+      "prior_rank": 4841,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_rank": 3227,
+      "prior_wins": 52,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_rank": 1536,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_rank": 3203,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_rank": 5445,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_rank": 5114,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_rank": 2753,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_rank": 4729,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_rank": 4163,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_rank": 3063,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang",
+      "prior_rank": 3435,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_rank": 3388,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_rank": 4577,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_rank": 3232,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_rank": 4129,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_rank": 4902,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_rank": 2590,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_rank": 4756,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_rank": 1856,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_rank": 4242,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_rank": 4994,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_rank": 4294,
+      "prior_wins": 44,
+      "prior_n": 4
+    }
+  ]
+}

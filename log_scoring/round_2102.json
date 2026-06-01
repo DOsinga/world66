@@ -1,0 +1,200 @@
+{
+  "round": 2102,
+  "timestamp": "2026-04-13T16:10:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.3711,
+      "prior_variance": 0.393776,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 3.7641,
+      "prior_variance": 0.25441,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 4.2315,
+      "prior_variance": 0.222635,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.3869,
+      "prior_variance": 0.249822,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Paradise Gulf",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf",
+      "prior_score": 3.0502,
+      "prior_variance": 0.298765,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 2.5723,
+      "prior_variance": 0.267878,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_score": 0.6711,
+      "prior_variance": 0.304949,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/saratoga",
+      "prior_score": -1.7589,
+      "prior_variance": 0.240643,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Negros island",
+      "path": "asia/philippines/negrosisland",
+      "prior_score": 0.4185,
+      "prior_variance": 0.254828,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": 1.3656,
+      "prior_variance": 0.268398,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Time Zone",
+      "path": "northamerica/costarica/travelinformation/timezone",
+      "prior_score": -6.7565,
+      "prior_variance": 0.629192,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.783,
+      "prior_variance": 0.228018,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ventnor",
+      "path": "northamerica/unitedstates/newjersey/ventnor",
+      "prior_score": -4.2591,
+      "prior_variance": 0.253372,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.4307,
+      "prior_variance": 0.253906,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -6.5156,
+      "prior_variance": 0.345323,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swindon",
+      "prior_score": -0.6487,
+      "prior_variance": 0.358743,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/southcarolina/newport",
+      "prior_score": -5.2467,
+      "prior_variance": 0.292163,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -6.2493,
+      "prior_variance": 0.350687,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -2.4922,
+      "prior_variance": 0.269208,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.342,
+      "prior_variance": 0.254349,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -5.6441,
+      "prior_variance": 0.252653,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -8.052,
+      "prior_variance": 0.267346,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Vialar",
+      "path": "africa/algeria/vialar",
+      "prior_score": -6.1299,
+      "prior_variance": 0.373259,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hotle",
+      "path": "asia/pakistan/dera_ghazi_khan/hotle",
+      "prior_score": -9.7564,
+      "prior_variance": 0.378337,
+      "prior_n": 5
+    }
+  ]
+}

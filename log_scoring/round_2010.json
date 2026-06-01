@@ -1,0 +1,200 @@
+{
+  "round": 2010,
+  "timestamp": "2026-04-13T16:02:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Provence",
+      "path": "europe/france/midi/provence",
+      "prior_score": 9.101,
+      "prior_variance": 0.391202,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 5.9118,
+      "prior_variance": 0.336804,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.4194,
+      "prior_variance": 0.251157,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_score": 5.1942,
+      "prior_variance": 0.314696,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago",
+      "prior_score": 7.3736,
+      "prior_variance": 0.449227,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 4.9435,
+      "prior_variance": 0.248566,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 3.7155,
+      "prior_variance": 0.320478,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 1.3869,
+      "prior_variance": 0.249422,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_score": 3.2033,
+      "prior_variance": 0.258938,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cuenca",
+      "path": "europe/spain/la_mancha/cuenca",
+      "prior_score": 5.032,
+      "prior_variance": 0.303375,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 1.484,
+      "prior_variance": 0.295482,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 0.1521,
+      "prior_variance": 0.374972,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.5813,
+      "prior_variance": 0.277759,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.9187,
+      "prior_variance": 0.311425,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
+      "prior_score": 0.3895,
+      "prior_variance": 0.283605,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Michigan",
+      "path": "northamerica/unitedstates/michigan",
+      "prior_score": 1.0736,
+      "prior_variance": 0.394038,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": 0.038,
+      "prior_variance": 0.282284,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Wasilla",
+      "path": "northamerica/unitedstates/alaska/wasilla",
+      "prior_score": -3.4992,
+      "prior_variance": 0.297433,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -2.3644,
+      "prior_variance": 0.586779,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_score": -2.1826,
+      "prior_variance": 0.240178,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -4.908,
+      "prior_variance": 0.238091,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.5419,
+      "prior_variance": 0.352889,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_score": -5.6625,
+      "prior_variance": 0.333704,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -4.4606,
+      "prior_variance": 0.493329,
+      "prior_n": 5
+    }
+  ]
+}

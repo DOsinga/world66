@@ -1,0 +1,200 @@
+{
+  "round": 1827,
+  "timestamp": "2026-04-13T10:55:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amalfi",
+      "path": "europe/italy/campania/amalfi",
+      "prior_score": 11.8739,
+      "prior_variance": 0.788599,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 10.4108,
+      "prior_variance": 0.540832,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 11.2127,
+      "prior_variance": 0.660273,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.7956,
+      "prior_variance": 0.485227,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 7.0994,
+      "prior_variance": 0.495831,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 4.9658,
+      "prior_variance": 0.32132,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_score": 3.0187,
+      "prior_variance": 0.271907,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_score": 5.2185,
+      "prior_variance": 0.344388,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 3.4827,
+      "prior_variance": 0.356841,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_score": 2.7302,
+      "prior_variance": 0.310429,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_score": -0.2707,
+      "prior_variance": 0.237616,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.9329,
+      "prior_variance": 0.320879,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.3123,
+      "prior_variance": 0.271265,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -1.3444,
+      "prior_variance": 0.331459,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -1.0099,
+      "prior_variance": 0.342159,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -1.1103,
+      "prior_variance": 0.303763,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Victoria",
+      "path": "australiaandpacific/australia/victoria",
+      "prior_score": 0.6031,
+      "prior_variance": 0.310503,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.5345,
+      "prior_variance": 0.286097,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": -4.9609,
+      "prior_variance": 0.419764,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -4.2966,
+      "prior_variance": 0.392438,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -2.1072,
+      "prior_variance": 0.418022,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -1.8999,
+      "prior_variance": 0.401639,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -4.9816,
+      "prior_variance": 0.332361,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -6.1389,
+      "prior_variance": 0.326629,
+      "prior_n": 4
+    }
+  ]
+}

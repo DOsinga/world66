@@ -1,0 +1,200 @@
+{
+  "round": 1850,
+  "timestamp": "2026-04-13T10:57:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 5.1318,
+      "prior_variance": 0.402239,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas",
+      "prior_score": 5.2179,
+      "prior_variance": 0.382259,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.7103,
+      "prior_variance": 0.28901,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": 0.3811,
+      "prior_variance": 0.334064,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -1.8849,
+      "prior_variance": 0.322044,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_score": -1.3748,
+      "prior_variance": 0.303837,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.259,
+      "prior_variance": 0.314995,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": -0.2318,
+      "prior_variance": 0.256188,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -3.8998,
+      "prior_variance": 0.250928,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.5438,
+      "prior_variance": 0.25191,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -2.7951,
+      "prior_variance": 0.219356,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -2.1924,
+      "prior_variance": 0.341955,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -2.7348,
+      "prior_variance": 0.267093,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/haiti/caphaitien",
+      "prior_score": -2.5596,
+      "prior_variance": 0.342221,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -1.7344,
+      "prior_variance": 0.328041,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -3.6936,
+      "prior_variance": 0.280364,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": -3.3325,
+      "prior_variance": 0.331694,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -2.1197,
+      "prior_variance": 0.330392,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Carina",
+      "path": "australiaandpacific/australia/queensland/carina",
+      "prior_score": -6.0232,
+      "prior_variance": 0.344996,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -6.0439,
+      "prior_variance": 0.418532,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "dera ghazi khan",
+      "path": "asia/pakistan/dera_ghazi_khan/dera_ghazi_khan_1",
+      "prior_score": -8.89,
+      "prior_variance": 0.312907,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -8.4221,
+      "prior_variance": 0.403913,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -7.7512,
+      "prior_variance": 0.394073,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "MdFrJwObBzEDeO",
+      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
+      "prior_score": -14.673,
+      "prior_variance": 1.489925,
+      "prior_n": 5
+    }
+  ]
+}

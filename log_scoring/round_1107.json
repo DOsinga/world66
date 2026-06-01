@@ -1,0 +1,200 @@
+{
+  "round": 1107,
+  "timestamp": "2026-04-12T22:09:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Michigan",
+      "path": "northamerica/unitedstates/michigan",
+      "prior_rank": 4511,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_rank": 6565,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_rank": 3189,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_rank": 6552,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_rank": 5234,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_rank": 6500,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_rank": 3010,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_rank": 6774,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_rank": 8053,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_rank": 7112,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "rudrapyag",
+      "path": "asia/india/uttaranchal/rudrapyag",
+      "prior_rank": 4529,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_rank": 4971,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_rank": 925,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_rank": 5420,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_rank": 5406,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_rank": 3895,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_rank": 6731,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_rank": 6121,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_rank": 6972,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_rank": 5675,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_rank": 5849,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_rank": 6335,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
+      "prior_rank": 5869,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_rank": 5211,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1034,
+  "timestamp": "2026-04-12T22:05:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_rank": 4443,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_rank": 837,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_rank": 1774,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Niagara Frontier",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
+      "prior_rank": 1181,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_rank": 2621,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_rank": 1828,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_rank": 3407,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_rank": 3081,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_rank": 2627,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_rank": 1842,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_rank": 2610,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_rank": 3855,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_rank": 1294,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_rank": 2574,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bintan",
+      "path": "asia/indonesia/bintan",
+      "prior_rank": 2388,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Marie-Galante",
+      "path": "northamerica/guadeloupe/mariegalante",
+      "prior_rank": 3054,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_rank": 2418,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_rank": 2619,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_rank": 4201,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_rank": 2200,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_rank": 4800,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_rank": 3074,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_rank": 2549,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_rank": 1486,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

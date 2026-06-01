@@ -1,0 +1,200 @@
+{
+  "round": 675,
+  "timestamp": "2026-04-12T10:42:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_mu": 33.688,
+      "prior_sigma": 5.8458,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_mu": 26.4791,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_mu": 22.6839,
+      "prior_sigma": 5.7954,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_mu": 23.3969,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_mu": 21.2222,
+      "prior_sigma": 4.0302,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_eus/vitoria",
+      "prior_mu": 21.6295,
+      "prior_sigma": 4.5053,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_mu": 21.634,
+      "prior_sigma": 4.5764,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_mu": 22.2407,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_mu": 21.5655,
+      "prior_sigma": 3.9672,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/alcaladehenares",
+      "prior_mu": 22.8081,
+      "prior_sigma": 5.5845,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_mu": 21.5278,
+      "prior_sigma": 4.5686,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_mu": 22.175,
+      "prior_sigma": 5.8992,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_mu": 22.8156,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_mu": 21.8406,
+      "prior_sigma": 4.8388,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_mu": 21.12,
+      "prior_sigma": 3.9829,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "s'argamassa",
+      "path": "europe/spain/balearicislands/ibiza/sargamassa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_mu": 22.028,
+      "prior_sigma": 4.6607,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_mu": 22.6119,
+      "prior_sigma": 5.9467,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/catalonia/sant_andreu_de_lla",
+      "prior_mu": 21.9726,
+      "prior_sigma": 4.3485,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_mu": 22.4931,
+      "prior_sigma": 5.9094,
+      "prior_n": 1
+    }
+  ]
+}

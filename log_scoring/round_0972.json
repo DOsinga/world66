@@ -1,0 +1,200 @@
+{
+  "round": 972,
+  "timestamp": "2026-04-12T16:10:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_rank": 2104,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_rank": 832,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_rank": 3108,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_rank": 3414,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_rank": 4839,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_rank": 3235,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_rank": 3092,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_rank": 4372,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_rank": 1882,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_rank": 1587,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_rank": 3893,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_rank": 5959,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_rank": 3577,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_rank": 1674,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_rank": 4174,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_rank": 3535,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_rank": 6785,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_rank": 5218,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_rank": 8006,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_rank": 6379,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_rank": 5306,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_rank": 6674,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_rank": 7555,
+      "prior_wins": 12,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "bughlani",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/soker/bughlani",
+      "prior_rank": 7847,
+      "prior_wins": 5,
+      "prior_n": 3
+    }
+  ]
+}

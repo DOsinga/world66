@@ -1,0 +1,200 @@
+{
+  "round": 1823,
+  "timestamp": "2026-04-13T10:54:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 7.9506,
+      "prior_variance": 0.336627,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 7.3563,
+      "prior_variance": 0.390369,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_score": 4.9192,
+      "prior_variance": 0.42049,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 6.2528,
+      "prior_variance": 0.354203,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 3.9995,
+      "prior_variance": 0.350186,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.3614,
+      "prior_variance": 0.266094,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_score": 0.2135,
+      "prior_variance": 0.357582,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_score": 5.5205,
+      "prior_variance": 0.359429,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 5.7505,
+      "prior_variance": 0.329219,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 1.7777,
+      "prior_variance": 0.270135,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.3978,
+      "prior_variance": 0.31306,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 3.8714,
+      "prior_variance": 0.358397,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.588,
+      "prior_variance": 0.362512,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.8903,
+      "prior_variance": 0.310443,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.8217,
+      "prior_variance": 0.303566,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_score": 2.5729,
+      "prior_variance": 0.196708,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -3.144,
+      "prior_variance": 0.429879,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -2.6874,
+      "prior_variance": 0.450472,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -5.841,
+      "prior_variance": 0.314761,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.9,
+      "prior_variance": 0.449198,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
+      "prior_score": -4.4751,
+      "prior_variance": 0.334173,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_score": -6.3072,
+      "prior_variance": 0.51027,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_score": -3.0566,
+      "prior_variance": 0.275598,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Harrison",
+      "path": "northamerica/unitedstates/ohio/harrison",
+      "prior_score": -5.9864,
+      "prior_variance": 0.328864,
+      "prior_n": 5
+    }
+  ]
+}

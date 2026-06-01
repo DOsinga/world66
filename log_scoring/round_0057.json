@@ -1,0 +1,200 @@
+{
+  "round": 57,
+  "timestamp": "2026-04-11T19:26:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_mu": 27.63,
+      "prior_sigma": 4.07,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 27.04,
+      "prior_sigma": 5.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_mu": 26.34,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 21.74,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_mu": 23.17,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 21.83,
+      "prior_sigma": 3.05,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_mu": 21.79,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_mu": 21.82,
+      "prior_sigma": 3.49,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 22.11,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 21.76,
+      "prior_sigma": 5.37,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_mu": 21.5,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_mu": 21.74,
+      "prior_sigma": 4.75,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_mu": 21.75,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_mu": 18.69,
+      "prior_sigma": 4.82,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_mu": 21.9,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 20.86,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_mu": 21.5,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bay View",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
+      "prior_mu": 21.37,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_mu": 22.37,
+      "prior_sigma": 5.89,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_mu": 18.6,
+      "prior_sigma": 4.78,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 82,
+  "timestamp": "2026-04-12T08:03:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_mu": 37.65,
+      "prior_sigma": 4.68,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 32.76,
+      "prior_sigma": 3.68,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 24.52,
+      "prior_sigma": 3.07,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pamplona",
+      "path": "europe/spain/northernspain/pamplona",
+      "prior_mu": 25.3,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_mu": 22.88,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.31,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 22.18,
+      "prior_sigma": 3.21,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_mu": 21.86,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_mu": 22.11,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.94,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_mu": 21.2,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 20.47,
+      "prior_sigma": 3.06,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_mu": 22.49,
+      "prior_sigma": 5.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_mu": 21.26,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_mu": 22.1,
+      "prior_sigma": 4.36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Blandford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford",
+      "prior_mu": 20.1,
+      "prior_sigma": 3.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ratingen",
+      "path": "europe/germany/northrhinewestphalia/ratingen",
+      "prior_mu": 21.52,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Radford",
+      "path": "northamerica/unitedstates/virginia/radford",
+      "prior_mu": 20.77,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 18.61,
+      "prior_sigma": 3.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_mu": 21.6,
+      "prior_sigma": 4.35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_mu": 17.34,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_mu": 15.79,
+      "prior_sigma": 4.28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_mu": 19.17,
+      "prior_sigma": 4.95,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_mu": 15.63,
+      "prior_sigma": 4.86,
+      "prior_n": 2
+    }
+  ]
+}

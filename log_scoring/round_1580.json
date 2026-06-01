@@ -1,0 +1,200 @@
+{
+  "round": 1580,
+  "timestamp": "2026-04-13T10:33:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 6.0431,
+      "prior_variance": 0.329913,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.45,
+      "prior_variance": 0.291269,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.4763,
+      "prior_variance": 0.365586,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi",
+      "prior_score": 0.1792,
+      "prior_variance": 0.338213,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.8111,
+      "prior_variance": 0.404247,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -5.7061,
+      "prior_variance": 0.771917,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/groveland",
+      "prior_score": -2.0362,
+      "prior_variance": 0.468095,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -3.4066,
+      "prior_variance": 0.46081,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -0.7147,
+      "prior_variance": 0.310748,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -1.6902,
+      "prior_variance": 0.346274,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_score": -0.4923,
+      "prior_variance": 0.304511,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.7126,
+      "prior_variance": 0.408946,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": -0.1657,
+      "prior_variance": 0.37234,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_score": -3.716,
+      "prior_variance": 0.353705,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/yucatan/queretaro",
+      "prior_score": -5.8674,
+      "prior_variance": 0.587664,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Carrigaline",
+      "path": "europe/ireland/cork/carrigaline",
+      "prior_score": -3.5122,
+      "prior_variance": 0.335506,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -5.5244,
+      "prior_variance": 0.675949,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_score": -4.524,
+      "prior_variance": 0.412898,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.3473,
+      "prior_variance": 0.360539,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -5.8922,
+      "prior_variance": 0.417825,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -7.1967,
+      "prior_variance": 0.560044,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -6.547,
+      "prior_variance": 0.482437,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -7.1043,
+      "prior_variance": 0.312584,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.4617,
+      "prior_variance": 0.424816,
+      "prior_n": 3
+    }
+  ]
+}

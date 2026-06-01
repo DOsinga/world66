@@ -1,0 +1,31 @@
+[
+  {
+    "url": "/places/topi-antelope-boma-national-park",
+    "type": "Place",
+    "item-id": "43752",
+    "gtm-content-type": "Place",
+    "lat": "6.323604",
+    "lng": "33.975002",
+    "state": "Jonglei",
+    "country": "South Sudan",
+    "src": "https://img.atlasobscura.com/8BkjjRXEz2chyF5dCXm21ZLFtjIt13DpXHFLS3ozGO0/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNDRl/YmMzNDVhZjUzZDBm/NDhfTWFsZSBUb3Bp/IGluIEVhcmx5IE1v/cm5pbmcgTGlnaHQg/b24gVGVybWl0ZSBI/aWxsLmpwZw.jpg",
+    "width": "2133",
+    "height": "1405",
+    "name": "Topi of Boma National Park",
+    "description": "Every October, one of the largest migration of mammals in the world thunders through Boma National Park."
+  },
+  {
+    "url": "/places/sudd-wetland-south-sudan",
+    "type": "Place",
+    "item-id": "46265",
+    "gtm-content-type": "Place",
+    "lat": "8.380439",
+    "lng": "30.712002",
+    "country": "South Sudan",
+    "src": "https://img.atlasobscura.com/YFuhAwutMVgd2ZuzE_U5RW_NqoPBc4QMF4139okt8Dc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hYTIz/NGU0Yi0yZGZlLTRm/OWEtYWE4Mi0zMTRl/MTVkOWZhY2ViM2Rm/MmQ2ZDdmMGNmZWNl/MzBfR2V0dHlJbWFn/ZXMtMTE3MTI5NTM3/Ni5qcGc.jpg",
+    "width": "2500",
+    "height": "1664",
+    "name": "Sudd Wetland",
+    "description": "The inhabitants of the world\u2019s largest wetland have learned to navigate its dramatic seasonal changes."
+  }
+]

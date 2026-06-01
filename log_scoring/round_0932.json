@@ -1,0 +1,200 @@
+{
+  "round": 932,
+  "timestamp": "2026-04-12T16:08:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_rank": 101,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_rank": 91,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_rank": 113,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_rank": 96,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_rank": 142,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_rank": 202,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_rank": 19,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_rank": 187,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_rank": 230,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_rank": 218,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_rank": 13,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_rank": 160,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_rank": 8155,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_rank": 8168,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_rank": 8122,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mauritania",
+      "path": "africa/mauritania",
+      "prior_rank": 8206,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_rank": 7000,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "North Korea",
+      "path": "asia/northkorea",
+      "prior_rank": 8163,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_rank": 8218,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_rank": 8062,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_rank": 8145,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_rank": 8212,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_rank": 8137,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sunrise Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
+      "prior_rank": 8201,
+      "prior_wins": 1,
+      "prior_n": 2
+    }
+  ]
+}

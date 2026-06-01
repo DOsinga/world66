@@ -1,0 +1,200 @@
+{
+  "round": 1432,
+  "timestamp": "2026-04-12T22:27:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/yucatan/playadelcarmen",
+      "prior_rank": 151,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_rank": 286,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_rank": 457,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_rank": 2548,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/auckland_region",
+      "prior_rank": 313,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_rank": 222,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_rank": 241,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/oxford",
+      "prior_rank": 479,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Las Palmas",
+      "path": "europe/spain/canaryislands/crancanaria/las_palmas",
+      "prior_rank": 458,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_rank": 567,
+      "prior_wins": 114,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_rank": 1518,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_rank": 569,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_rank": 474,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Emilia-Romagna",
+      "path": "europe/italy/emiliaromagna",
+      "prior_rank": 961,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_rank": 952,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_rank": 1063,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_rank": 106,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_rank": 289,
+      "prior_wins": 108,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_rank": 588,
+      "prior_wins": 84,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_rank": 2609,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_rank": 1969,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_rank": 2084,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_rank": 1833,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_rank": 2132,
+      "prior_wins": 45,
+      "prior_n": 3
+    }
+  ]
+}

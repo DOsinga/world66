@@ -1,0 +1,200 @@
+{
+  "round": 985,
+  "timestamp": "2026-04-12T22:03:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_rank": 215,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_rank": 1235,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_rank": 34,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_rank": 897,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_rank": 318,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_rank": 1503,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_rank": 2239,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_rank": 218,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_rank": 186,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_rank": 871,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_rank": 726,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_rank": 311,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_rank": 1523,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_rank": 471,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_rank": 1210,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_rank": 1901,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_rank": 438,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_rank": 446,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_rank": 1639,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_rank": 416,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_rank": 2708,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_rank": 883,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_rank": 2739,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_rank": 2678,
+      "prior_wins": 15,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "/places/hunga-ha-apai-new-volcano-island",
+    "type": "Place",
+    "item-id": "2086",
+    "gtm-content-type": "Place",
+    "lat": "-20.550161",
+    "lng": "-175.40927",
+    "country": "Tonga",
+    "src": "https://img.atlasobscura.com/a1SdH6tkAkRgNidex1BGesTTrhAP0kTLn5fwGRW5xoQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zZWQ4/ZTY0Mi00YjYyLTQz/Y2ItOGM2MS0xYWQz/NTA3YzdlMzNmYzZl/NWNkOTMyYTMwZmQ0/ZmZfVmlld19mcm9t/X3N1bW1pdF9vZl9I/VEhIX2luX0p1bmVf/MjAxNyxfRGFtaWVu/X0dyb3VpbGxlLmpw/Zw.jpg",
+    "width": "1000",
+    "height": "667",
+    "name": "Hunga Ha&#39;apai New Volcano Island",
+    "description": "Underwater volcanic eruption forms new island off the coast of Tonga."
+  },
+  {
+    "url": "/places/haamonga-a-maui",
+    "type": "Place",
+    "item-id": "37042",
+    "gtm-content-type": "Place",
+    "lat": "-21.136576",
+    "lng": "-175.048024",
+    "city": "Niutoua",
+    "state": "Tongatapu",
+    "country": "Tonga",
+    "src": "https://img.atlasobscura.com/QS6RXFrk9PiwjmYBgMXEFG-HFykN5dTxCp8zzUtLod4/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NjA5/MDhlYS01MTYwLTQ0/MWYtYmY4Zi0yMjVj/NjY3M2U1MTJhYjIz/ZDc3MDc5ZmU5NjNi/MDVfMjcxOTQ5NTEx/OV8xZDRiOTgwOGNk/X28uanBn.jpg",
+    "width": "800",
+    "height": "600",
+    "name": "Ha\u2018amonga \u2018a Maui",
+    "description": "A massive trilithon nicknamed &quot;Stonehenge of the Pacific.&quot;"
+  },
+  {
+    "url": "/places/republic-of-minerva",
+    "type": "Place",
+    "item-id": "3377",
+    "gtm-content-type": "Place",
+    "lat": "-23.833336",
+    "lng": "-179.0",
+    "state": "Tongatapu",
+    "country": "Tonga",
+    "src": "https://img.atlasobscura.com/ctYtFXLeryesCWmPhGpcaMcg0VwN3Di51jNKTUiYkSM/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zYmRm/NmEwNjIwOWFjODZj/ZDNkODkzNTEzYTJl/YzNmNDhhNjI1YzRi/LmpwZw.jpg",
+    "width": "800",
+    "height": "599",
+    "name": "Republic of Minerva",
+    "description": "A failed utopia, shut down by a more legitimate nation."
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "round": 1839,
+  "timestamp": "2026-04-13T10:56:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 7.8984,
+      "prior_variance": 0.404565,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 7.2703,
+      "prior_variance": 0.392699,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 6.0538,
+      "prior_variance": 0.354144,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_score": 6.5615,
+      "prior_variance": 0.354086,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_score": 6.6048,
+      "prior_variance": 0.325989,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 4.8941,
+      "prior_variance": 0.325218,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 6.4735,
+      "prior_variance": 0.327827,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 1.7264,
+      "prior_variance": 0.261834,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tingo",
+      "path": "southamerica/peru/chachapoyas/tingo",
+      "prior_score": 0.0102,
+      "prior_variance": 0.29943,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.883,
+      "prior_variance": 0.307666,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -3.8053,
+      "prior_variance": 0.815707,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -1.0333,
+      "prior_variance": 0.30191,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.7255,
+      "prior_variance": 0.28752,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.2974,
+      "prior_variance": 0.306838,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
+      "prior_score": -0.8758,
+      "prior_variance": 0.303516,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.9398,
+      "prior_variance": 0.463381,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -5.4759,
+      "prior_variance": 0.434105,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_score": -4.6917,
+      "prior_variance": 0.344225,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -3.4794,
+      "prior_variance": 0.331218,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Chilton",
+      "path": "northamerica/unitedstates/wisconsin/chilton",
+      "prior_score": -6.233,
+      "prior_variance": 0.41708,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -6.0905,
+      "prior_variance": 0.960147,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -2.663,
+      "prior_variance": 0.296588,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Udayagi",
+      "path": "asia/india/andhrapradesh/udayagi",
+      "prior_score": -6.5436,
+      "prior_variance": 0.25714,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -7.1817,
+      "prior_variance": 0.456428,
+      "prior_n": 4
+    }
+  ]
+}

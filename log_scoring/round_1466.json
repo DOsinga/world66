@@ -1,0 +1,200 @@
+{
+  "round": 1466,
+  "timestamp": "2026-04-12T22:29:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Masai Mara N.R.",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
+      "prior_rank": 9,
+      "prior_wins": 90,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_rank": 454,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_rank": 182,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_rank": 53,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_rank": 467,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_rank": 1059,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cook Islands",
+      "path": "australiaandpacific/cookislands",
+      "prior_rank": 107,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_rank": 376,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "St. John",
+      "path": "northamerica/virginislands/stjohn",
+      "prior_rank": 2076,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_rank": 928,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_rank": 304,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_rank": 299,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ischia",
+      "path": "europe/italy/campania/ischia",
+      "prior_rank": 62,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_rank": 441,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_rank": 492,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_rank": 326,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_rank": 720,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_rank": 496,
+      "prior_wins": 96,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_rank": 782,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Shikoku",
+      "path": "asia/japan/shikoku",
+      "prior_rank": 330,
+      "prior_wins": 99,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_rank": 1051,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_rank": 536,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_rank": 1072,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_rank": 160,
+      "prior_wins": 125,
+      "prior_n": 6
+    }
+  ]
+}

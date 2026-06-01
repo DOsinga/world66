@@ -1,0 +1,200 @@
+{
+  "round": 850,
+  "timestamp": "2026-04-12T14:44:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 11.5591,
+      "prior_variance": 8.922535,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_score": 10.3265,
+      "prior_variance": 1.419557,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.3253,
+      "prior_variance": 1.96565,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 12.5327,
+      "prior_variance": 3.465317,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 11.0024,
+      "prior_variance": 2.624007,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Anguilla",
+      "path": "northamerica/anguilla",
+      "prior_score": 5.9676,
+      "prior_variance": 1.593161,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 7.2939,
+      "prior_variance": 1.917142,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 6.8434,
+      "prior_variance": 2.166762,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 1.8335,
+      "prior_variance": 1.857771,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 7.0384,
+      "prior_variance": 1.773539,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.2994,
+      "prior_variance": 0.693372,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 5.1435,
+      "prior_variance": 1.332323,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
+      "prior_score": 1.2202,
+      "prior_variance": 1.637715,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 0.6513,
+      "prior_variance": 1.81078,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_score": -6.0033,
+      "prior_variance": 1.20091,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kazakhstan",
+      "path": "asia/kazakhstan",
+      "prior_score": -3.6252,
+      "prior_variance": 1.435078,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -2.7662,
+      "prior_variance": 1.700591,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": 0.9916,
+      "prior_variance": 1.682641,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/chigwell",
+      "prior_score": -7.9984,
+      "prior_variance": 2.386755,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -3.6612,
+      "prior_variance": 0.756091,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -4.2561,
+      "prior_variance": 0.753306,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -6.8597,
+      "prior_variance": 1.176377,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -1.2182,
+      "prior_variance": 36.875979,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_score": -12.2909,
+      "prior_variance": 1.824466,
+      "prior_n": 1
+    }
+  ]
+}

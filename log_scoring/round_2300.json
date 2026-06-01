@@ -1,0 +1,200 @@
+{
+  "round": 2300,
+  "timestamp": "2026-04-13T16:29:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_score": 10.9064,
+      "prior_variance": 0.58146,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 8.7282,
+      "prior_variance": 0.4459,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 8.0885,
+      "prior_variance": 0.307795,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_score": 4.1972,
+      "prior_variance": 0.297768,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_score": 6.3013,
+      "prior_variance": 0.368881,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 3.6619,
+      "prior_variance": 0.270309,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.7601,
+      "prior_variance": 0.247223,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 2.2252,
+      "prior_variance": 0.208089,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.2527,
+      "prior_variance": 0.216955,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 2.0038,
+      "prior_variance": 0.244597,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": 0.8497,
+      "prior_variance": 0.201778,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_score": -0.4988,
+      "prior_variance": 0.216016,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_score": -1.3962,
+      "prior_variance": 0.235596,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -0.3734,
+      "prior_variance": 0.211366,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -3.4115,
+      "prior_variance": 0.199481,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_score": -1.5934,
+      "prior_variance": 0.199286,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -0.9527,
+      "prior_variance": 0.276249,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -3.9902,
+      "prior_variance": 0.222127,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -2.5085,
+      "prior_variance": 0.182251,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -6.8703,
+      "prior_variance": 0.246134,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -6.9764,
+      "prior_variance": 0.27379,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.2411,
+      "prior_variance": 0.267157,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -5.6959,
+      "prior_variance": 0.29448,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.2099,
+      "prior_variance": 0.277875,
+      "prior_n": 6
+    }
+  ]
+}

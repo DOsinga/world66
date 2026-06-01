@@ -1,0 +1,200 @@
+{
+  "round": 41,
+  "timestamp": "2026-04-11T19:25:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 28.31,
+      "prior_sigma": 5.0,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_mu": 22.98,
+      "prior_sigma": 5.88,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_mu": 22.84,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_mu": 22.51,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_mu": 22.08,
+      "prior_sigma": 4.57,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_mu": 22.51,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_mu": 21.56,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "North Carolina",
+      "path": "northamerica/unitedstates/northcarolina",
+      "prior_mu": 24.56,
+      "prior_sigma": 5.86,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_mu": 22.61,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_mu": 22.23,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_mu": 22.18,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_mu": 22.15,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_mu": 22.6,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_mu": 22.1,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_mu": 21.53,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_mu": 21.15,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "People",
+      "path": "asia/pakistan/lahore/people_1",
+      "prior_mu": 19.07,
+      "prior_sigma": 4.82,
+      "prior_n": 2
+    }
+  ]
+}

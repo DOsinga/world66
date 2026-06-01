@@ -1,0 +1,200 @@
+{
+  "round": 563,
+  "timestamp": "2026-04-12T10:37:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_mu": 28.0773,
+      "prior_sigma": 5.6146,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_mu": 22.4646,
+      "prior_sigma": 5.5484,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_mu": 21.9325,
+      "prior_sigma": 4.7035,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_mu": 22.5956,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_mu": 22.7942,
+      "prior_sigma": 5.7197,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_mu": 22.5651,
+      "prior_sigma": 5.8995,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_mu": 22.5627,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_mu": 21.6983,
+      "prior_sigma": 4.3288,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_mu": 22.4405,
+      "prior_sigma": 5.7746,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_mu": 22.4337,
+      "prior_sigma": 5.7596,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_mu": 21.9151,
+      "prior_sigma": 4.6617,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_mu": 22.5269,
+      "prior_sigma": 5.945,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_mu": 22.5044,
+      "prior_sigma": 5.7458,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_mu": 22.4901,
+      "prior_sigma": 5.8914,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bjuv",
+      "path": "europe/sweden/bjuv",
+      "prior_mu": 21.3086,
+      "prior_sigma": 4.6648,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_mu": 21.7888,
+      "prior_sigma": 4.575,
+      "prior_n": 2
+    }
+  ]
+}

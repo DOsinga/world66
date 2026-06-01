@@ -1,0 +1,72 @@
+{
+  "round": 664,
+  "timestamp": "2026-04-12T10:41:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 8,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_mu": 23.0257,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_mu": 22.8994,
+      "prior_sigma": 5.5163,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_mu": 21.2803,
+      "prior_sigma": 5.6613,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_mu": 22.8207,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_mu": 21.8097,
+      "prior_sigma": 4.3853,
+      "prior_n": 2
+    }
+  ]
+}

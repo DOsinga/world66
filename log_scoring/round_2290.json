@@ -1,0 +1,200 @@
+{
+  "round": 2290,
+  "timestamp": "2026-04-13T16:28:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 4.1661,
+      "prior_variance": 0.215324,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.4179,
+      "prior_variance": 0.21337,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/hamilton",
+      "prior_score": -1.0846,
+      "prior_variance": 0.2603,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.8493,
+      "prior_variance": 0.276838,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -1.1068,
+      "prior_variance": 0.255113,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.3581,
+      "prior_variance": 0.231347,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -1.6185,
+      "prior_variance": 0.214692,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Red Bank",
+      "path": "northamerica/unitedstates/newjersey/redbank",
+      "prior_score": -2.3533,
+      "prior_variance": 0.247615,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_score": -3.8014,
+      "prior_variance": 0.220584,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": -3.1869,
+      "prior_variance": 0.249779,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.3896,
+      "prior_variance": 0.188645,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.2702,
+      "prior_variance": 0.272098,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.9441,
+      "prior_variance": 0.222385,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_score": -0.492,
+      "prior_variance": 0.21758,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -2.9054,
+      "prior_variance": 0.256019,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Indonesia",
+      "path": "asia/indonesia",
+      "prior_score": -1.711,
+      "prior_variance": 0.321905,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.0587,
+      "prior_variance": 0.219235,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -1.7025,
+      "prior_variance": 0.232361,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -4.0619,
+      "prior_variance": 0.232791,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -5.5103,
+      "prior_variance": 0.384877,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -5.1733,
+      "prior_variance": 0.26344,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -5.828,
+      "prior_variance": 0.23042,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tuttlingen",
+      "path": "europe/germany/badenwrttemberg/tuttlingen",
+      "prior_score": -3.327,
+      "prior_variance": 0.263091,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -8.4615,
+      "prior_variance": 0.327172,
+      "prior_n": 5
+    }
+  ]
+}

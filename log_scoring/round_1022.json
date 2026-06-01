@@ -1,0 +1,200 @@
+{
+  "round": 1022,
+  "timestamp": "2026-04-12T22:05:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_rank": 5490,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_rank": 7297,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_rank": 6867,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Zhongshan",
+      "path": "asia/china/zhongshan",
+      "prior_rank": 7298,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hillsborough",
+      "path": "northamerica/saintvincentandthegrenadines/hillsborough",
+      "prior_rank": 5935,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_rank": 7622,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Carrigaline",
+      "path": "europe/ireland/cork/carrigaline",
+      "prior_rank": 7623,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hoeselt",
+      "path": "europe/belgium/hoeselt",
+      "prior_rank": 7670,
+      "prior_wins": 12,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_rank": 6884,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_rank": 5941,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_rank": 6698,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_rank": 7597,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_rank": 5910,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_rank": 6418,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_rank": 8073,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_rank": 7767,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_rank": 4287,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_rank": 7038,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_rank": 7577,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_rank": 7789,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_rank": 7783,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_rank": 7764,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_rank": 7468,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_rank": 6891,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

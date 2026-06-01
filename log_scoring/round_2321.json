@@ -1,0 +1,200 @@
+{
+  "round": 2321,
+  "timestamp": "2026-04-13T16:31:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 7.1682,
+      "prior_variance": 0.286068,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 4.0353,
+      "prior_variance": 0.225544,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 5.2412,
+      "prior_variance": 0.278977,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.2528,
+      "prior_variance": 0.26016,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.3104,
+      "prior_variance": 0.180055,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 4.166,
+      "prior_variance": 0.22969,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.2238,
+      "prior_variance": 0.240591,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 1.7441,
+      "prior_variance": 0.264793,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 4.7107,
+      "prior_variance": 0.251794,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.2392,
+      "prior_variance": 0.222485,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Eysturoy",
+      "path": "europe/faroeislands/eysturoy",
+      "prior_score": 3.2612,
+      "prior_variance": 0.331203,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": 0.1541,
+      "prior_variance": 0.245803,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_score": -0.3474,
+      "prior_variance": 0.220352,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_score": 2.9452,
+      "prior_variance": 0.25681,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -0.4891,
+      "prior_variance": 0.286985,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.4734,
+      "prior_variance": 0.243045,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham",
+      "prior_score": -1.1389,
+      "prior_variance": 0.198865,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.9993,
+      "prior_variance": 0.241261,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -1.954,
+      "prior_variance": 0.220976,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Robertson NSW",
+      "path": "australiaandpacific/australia/newsouthwales/robertson_nsw",
+      "prior_score": -1.9733,
+      "prior_variance": 0.218339,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -0.0859,
+      "prior_variance": 0.21436,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.9646,
+      "prior_variance": 0.220305,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -4.8269,
+      "prior_variance": 0.232921,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -9.8147,
+      "prior_variance": 0.559234,
+      "prior_n": 6
+    }
+  ]
+}

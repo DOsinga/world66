@@ -1,0 +1,200 @@
+{
+  "round": 1316,
+  "timestamp": "2026-04-12T22:21:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_rank": 3149,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_rank": 3875,
+      "prior_wins": 58,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_rank": 5740,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_rank": 6001,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_rank": 5545,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_rank": 5151,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_rank": 5792,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_rank": 4060,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_rank": 6160,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Brandenburg",
+      "path": "europe/germany/brandenburg",
+      "prior_rank": 4808,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_rank": 4569,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Goiania",
+      "path": "southamerica/brazil/goiania",
+      "prior_rank": 6270,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_rank": 6513,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_rank": 5805,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_rank": 4378,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_rank": 5423,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_rank": 3982,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_rank": 5530,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_rank": 4159,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_rank": 6665,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_rank": 5031,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_rank": 6132,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_rank": 4138,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_rank": 6412,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

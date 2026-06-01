@@ -1,0 +1,200 @@
+{
+  "round": 1524,
+  "timestamp": "2026-04-13T10:28:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 13.1007,
+      "prior_variance": 0.926511,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 8.362,
+      "prior_variance": 0.619974,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 6.3242,
+      "prior_variance": 0.352187,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 10.0054,
+      "prior_variance": 0.694347,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 10.092,
+      "prior_variance": 0.415294,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 9.8724,
+      "prior_variance": 1.333569,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 9.4242,
+      "prior_variance": 0.602833,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 7.9988,
+      "prior_variance": 0.614138,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Drakensberg",
+      "path": "africa/southafrica/drakensberg",
+      "prior_score": 5.3031,
+      "prior_variance": 0.795876,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sikkim",
+      "path": "asia/india/sikkim",
+      "prior_score": 4.9961,
+      "prior_variance": 0.566994,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 6.5704,
+      "prior_variance": 0.372075,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 6.2291,
+      "prior_variance": 0.35212,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 8.4173,
+      "prior_variance": 0.57825,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_score": 6.1243,
+      "prior_variance": 0.436877,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 5.6898,
+      "prior_variance": 0.411499,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_score": 6.2306,
+      "prior_variance": 0.590976,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 4.3885,
+      "prior_variance": 0.424958,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sieve Valley",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley",
+      "prior_score": 6.1221,
+      "prior_variance": 0.597369,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 6.1653,
+      "prior_variance": 0.415735,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 6.3388,
+      "prior_variance": 0.398922,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 5.1001,
+      "prior_variance": 0.4264,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_score": 5.9594,
+      "prior_variance": 0.473093,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 3.895,
+      "prior_variance": 0.584635,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 5.3687,
+      "prior_variance": 0.453597,
+      "prior_n": 3
+    }
+  ]
+}

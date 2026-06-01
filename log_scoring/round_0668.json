@@ -1,0 +1,200 @@
+{
+  "round": 668,
+  "timestamp": "2026-04-12T10:42:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_mu": 28.9844,
+      "prior_sigma": 6.986,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_mu": 34.8916,
+      "prior_sigma": 5.428,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_mu": 22.5087,
+      "prior_sigma": 3.1099,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_mu": 22.4899,
+      "prior_sigma": 4.6185,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_mu": 22.8838,
+      "prior_sigma": 4.6714,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_mu": 22.0262,
+      "prior_sigma": 5.7436,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Barossa Valley",
+      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
+      "prior_mu": 22.8358,
+      "prior_sigma": 5.6097,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "South-West",
+      "path": "australiaandpacific/australia/tasmania/southwest",
+      "prior_mu": 21.8725,
+      "prior_sigma": 4.5019,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_mu": 22.1204,
+      "prior_sigma": 5.4587,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_mu": 21.6414,
+      "prior_sigma": 4.4362,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_mu": 22.4878,
+      "prior_sigma": 5.5484,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_mu": 21.9822,
+      "prior_sigma": 4.5975,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_mu": 22.0752,
+      "prior_sigma": 5.4431,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_mu": 22.3731,
+      "prior_sigma": 5.255,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_mu": 22.2386,
+      "prior_sigma": 5.4702,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_mu": 22.5411,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_mu": 21.8981,
+      "prior_sigma": 4.7896,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_mu": 21.3683,
+      "prior_sigma": 3.6983,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_mu": 21.173,
+      "prior_sigma": 3.8101,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_mu": 21.6518,
+      "prior_sigma": 4.7104,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 19.9853,
+      "prior_sigma": 2.7573,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_mu": 18.7564,
+      "prior_sigma": 4.0891,
+      "prior_n": 3
+    }
+  ]
+}

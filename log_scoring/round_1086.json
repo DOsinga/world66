@@ -1,0 +1,200 @@
+{
+  "round": 1086,
+  "timestamp": "2026-04-12T22:08:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zapresic",
+      "path": "europe/croatia/zapresic",
+      "prior_rank": 8037,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanes",
+      "prior_rank": 8117,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Barcs",
+      "path": "europe/hungary/barcs",
+      "prior_rank": 8109,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sherwood Park",
+      "path": "northamerica/canada/alberta/sherwoodpark",
+      "prior_rank": 8116,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_rank": 7021,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_rank": 8143,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_rank": 7724,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_rank": 7743,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_rank": 7857,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "e",
+      "path": "northamerica/unitedstates/colorado/e",
+      "prior_rank": 8031,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_rank": 7287,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Vares",
+      "path": "europe/bosniaandherzegovina/vares",
+      "prior_rank": 7739,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_rank": 7803,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_rank": 5228,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/hajira",
+      "prior_rank": 5828,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/yucatan/sanjuandelro",
+      "prior_rank": 7909,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_rank": 7243,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_rank": 7170,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_rank": 7557,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "chitta",
+      "path": "asia/pakistan/soon_valley/history_about_wadi/chitta",
+      "prior_rank": 8134,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_rank": 4169,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_rank": 8217,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chad",
+      "path": "africa/chad",
+      "prior_rank": 7522,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_rank": 6419,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

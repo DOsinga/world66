@@ -1,0 +1,200 @@
+{
+  "round": 1371,
+  "timestamp": "2026-04-12T22:24:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_rank": 8129,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_rank": 7195,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_rank": 7752,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_rank": 7608,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_rank": 6709,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_rank": 5872,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_rank": 7435,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/chiautempan",
+      "prior_rank": 7982,
+      "prior_wins": 16,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Victorias City",
+      "path": "asia/philippines/negrosisland/victorias_city",
+      "prior_rank": 7633,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dombivli",
+      "path": "asia/india/maharashtra/dombivli",
+      "prior_rank": 7906,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ja\u00e9n (province)",
+      "path": "southamerica/peru/northern_pacific_t/jan",
+      "prior_rank": 8113,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_rank": 6871,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Jhunsi Allahabad, UP, India",
+      "path": "asia/india/uttarpradesh/jhunsi_allahabad",
+      "prior_rank": 7931,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_rank": 8070,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_rank": 7922,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_rank": 7088,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_rank": 7334,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rio Muni",
+      "path": "africa/equatorialguinea/riomuni",
+      "prior_rank": 7895,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_rank": 8004,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tattoos",
+      "path": "africa/southafrica/hermauns/tattoos",
+      "prior_rank": 8132,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "CqoEEEHbAlhJ",
+      "path": "europe/norway/kongsberg/cqoeeehbalhj",
+      "prior_rank": 7571,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tjuchum",
+      "path": "europe/netherlands/tjuchum",
+      "prior_rank": 8203,
+      "prior_wins": 8,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_rank": 6773,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "vascauti",
+      "path": "europe/romania/bucharest/vascauti",
+      "prior_rank": 8101,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 909,
+  "timestamp": "2026-04-12T14:49:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Japan",
+      "path": "asia/japan",
+      "prior_score": 13.261,
+      "prior_variance": 8.010804,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_score": -0.1248,
+      "prior_variance": 0.477764,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_score": 9.8959,
+      "prior_variance": 3.625478,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 4.0416,
+      "prior_variance": 1.518537,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 5.8046,
+      "prior_variance": 1.406147,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.867,
+      "prior_variance": 1.56047,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 7.427,
+      "prior_variance": 0.874316,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 7.419,
+      "prior_variance": 1.630147,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Marie-Galante",
+      "path": "northamerica/guadeloupe/mariegalante",
+      "prior_score": 1.3952,
+      "prior_variance": 1.833992,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 2.2614,
+      "prior_variance": 1.407242,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 2.0994,
+      "prior_variance": 1.570695,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kalambo falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.3123,
+      "prior_variance": 0.896314,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_score": 3.4969,
+      "prior_variance": 1.266684,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -4.605,
+      "prior_variance": 1.192041,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_score": -2.0444,
+      "prior_variance": 1.255991,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": 1.8488,
+      "prior_variance": 1.422081,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": 0.7608,
+      "prior_variance": 1.490822,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": 1.4273,
+      "prior_variance": 2.362173,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -0.1576,
+      "prior_variance": 1.511118,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ballincollig",
+      "path": "europe/ireland/cork/ballincollig",
+      "prior_score": -4.4203,
+      "prior_variance": 1.836104,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.8778,
+      "prior_variance": 1.43729,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": 1.8822,
+      "prior_variance": 1.5635,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_score": -7.555,
+      "prior_variance": 1.374331,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -3.6348,
+      "prior_variance": 1.307996,
+      "prior_n": 1
+    }
+  ]
+}

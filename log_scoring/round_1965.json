@@ -1,0 +1,200 @@
+{
+  "round": 1965,
+  "timestamp": "2026-04-13T15:58:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 6.6522,
+      "prior_variance": 0.283641,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_score": 0.6088,
+      "prior_variance": 0.283556,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 2.6457,
+      "prior_variance": 0.241953,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -0.5056,
+      "prior_variance": 0.343549,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.5938,
+      "prior_variance": 0.252342,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -1.6267,
+      "prior_variance": 0.291834,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_score": 0.1914,
+      "prior_variance": 0.28404,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Prefecture of Serres",
+      "path": "europe/greece/prefecture_of_serr",
+      "prior_score": -2.4226,
+      "prior_variance": 0.273271,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -2.0071,
+      "prior_variance": 0.245736,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -1.8237,
+      "prior_variance": 0.341218,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -1.2816,
+      "prior_variance": 0.32155,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_score": -2.0958,
+      "prior_variance": 0.286989,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -1.2018,
+      "prior_variance": 0.258936,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -1.9383,
+      "prior_variance": 0.264375,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -3.8772,
+      "prior_variance": 0.362249,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.2103,
+      "prior_variance": 0.248986,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -2.9175,
+      "prior_variance": 0.269112,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_score": -3.3159,
+      "prior_variance": 0.261954,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Barcs",
+      "path": "europe/hungary/barcs",
+      "prior_score": -4.7553,
+      "prior_variance": 0.400451,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -4.6242,
+      "prior_variance": 0.285066,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -5.0067,
+      "prior_variance": 0.3279,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_score": -6.1309,
+      "prior_variance": 0.318168,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.2118,
+      "prior_variance": 0.332894,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -4.6695,
+      "prior_variance": 0.263722,
+      "prior_n": 5
+    }
+  ]
+}

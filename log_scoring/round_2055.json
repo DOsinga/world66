@@ -1,0 +1,200 @@
+{
+  "round": 2055,
+  "timestamp": "2026-04-13T16:06:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 8.3229,
+      "prior_variance": 0.365679,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.2514,
+      "prior_variance": 0.334736,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 9.8049,
+      "prior_variance": 0.48127,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lazio",
+      "path": "europe/italy/lazio",
+      "prior_score": 1.5593,
+      "prior_variance": 0.601811,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Margaret River",
+      "path": "australiaandpacific/australia/westernaustralia/margaretriver",
+      "prior_score": 3.7794,
+      "prior_variance": 0.297316,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.5532,
+      "prior_variance": 0.303546,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 5.4208,
+      "prior_variance": 0.280036,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.1873,
+      "prior_variance": 0.265219,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Navarre",
+      "path": "europe/spain/navarre",
+      "prior_score": 4.3292,
+      "prior_variance": 0.338402,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 2.0662,
+      "prior_variance": 0.22441,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.1182,
+      "prior_variance": 0.290873,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.0104,
+      "prior_variance": 0.598519,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.8092,
+      "prior_variance": 0.327826,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": -0.0366,
+      "prior_variance": 0.456091,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kalambo falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.6142,
+      "prior_variance": 0.288266,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.4608,
+      "prior_variance": 0.252729,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -1.1831,
+      "prior_variance": 0.266771,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -3.2937,
+      "prior_variance": 0.312722,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -3.925,
+      "prior_variance": 0.280877,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -3.3951,
+      "prior_variance": 0.319517,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "kamploops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -2.4019,
+      "prior_variance": 0.246468,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yakouren",
+      "path": "africa/algeria/yakouren",
+      "prior_score": -5.2698,
+      "prior_variance": 0.259961,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_score": -6.4799,
+      "prior_variance": 0.335589,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.3746,
+      "prior_variance": 0.327626,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1957,
+  "timestamp": "2026-04-13T15:57:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_score": 10.9255,
+      "prior_variance": 0.420136,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Turkey",
+      "path": "asia/turkey",
+      "prior_score": 1.0639,
+      "prior_variance": 0.674688,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_score": 4.8253,
+      "prior_variance": 0.310305,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 7.1021,
+      "prior_variance": 0.35054,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 2.6018,
+      "prior_variance": 0.306641,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.2553,
+      "prior_variance": 0.30068,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 2.187,
+      "prior_variance": 0.288724,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 0.1214,
+      "prior_variance": 0.293172,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": -0.0223,
+      "prior_variance": 0.373659,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.3919,
+      "prior_variance": 0.263215,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.8136,
+      "prior_variance": 0.268044,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4257,
+      "prior_variance": 0.251185,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_score": -4.5763,
+      "prior_variance": 0.550878,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.7457,
+      "prior_variance": 0.255347,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -5.5155,
+      "prior_variance": 0.384041,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -1.105,
+      "prior_variance": 0.272721,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -0.8656,
+      "prior_variance": 0.248712,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Manzhouli",
+      "path": "asia/china/manzhouli",
+      "prior_score": -1.9683,
+      "prior_variance": 0.276463,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_score": -2.2218,
+      "prior_variance": 0.277532,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_score": 0.3842,
+      "prior_variance": 0.314235,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.0759,
+      "prior_variance": 0.1812,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/norfolk/wolferton",
+      "prior_score": -3.8114,
+      "prior_variance": 0.35846,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -3.5496,
+      "prior_variance": 0.260213,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -4.5836,
+      "prior_variance": 0.257993,
+      "prior_n": 6
+    }
+  ]
+}

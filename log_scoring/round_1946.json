@@ -1,0 +1,200 @@
+{
+  "round": 1946,
+  "timestamp": "2026-04-13T15:56:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 9.9207,
+      "prior_variance": 0.385355,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Austria",
+      "path": "europe/austria",
+      "prior_score": 5.8768,
+      "prior_variance": 0.352087,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Colorado",
+      "path": "northamerica/unitedstates/colorado",
+      "prior_score": 7.9536,
+      "prior_variance": 0.432182,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_score": 5.1566,
+      "prior_variance": 0.299745,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_score": 6.9284,
+      "prior_variance": 0.292527,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 1.2673,
+      "prior_variance": 0.278549,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 1.9296,
+      "prior_variance": 0.360991,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.33,
+      "prior_variance": 0.274606,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_score": 0.9422,
+      "prior_variance": 0.272882,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 1.2495,
+      "prior_variance": 0.330134,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 0.9762,
+      "prior_variance": 0.270064,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": -0.2592,
+      "prior_variance": 0.348823,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": -0.5058,
+      "prior_variance": 0.210376,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.963,
+      "prior_variance": 0.252593,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": 1.0351,
+      "prior_variance": 0.261583,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_score": -3.5342,
+      "prior_variance": 0.257375,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.784,
+      "prior_variance": 0.255443,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -1.754,
+      "prior_variance": 0.326805,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Frisian Islands",
+      "path": "europe/denmark/vadehavet/frisian_islands_in",
+      "prior_score": 2.0155,
+      "prior_variance": 0.275502,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -2.7934,
+      "prior_variance": 0.325626,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/loughborough",
+      "prior_score": -3.7595,
+      "prior_variance": 0.35162,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Odder",
+      "path": "europe/denmark/odder",
+      "prior_score": -1.7655,
+      "prior_variance": 0.252837,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -3.0764,
+      "prior_variance": 0.233619,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -3.8092,
+      "prior_variance": 0.315248,
+      "prior_n": 5
+    }
+  ]
+}

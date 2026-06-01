@@ -1,0 +1,200 @@
+{
+  "round": 1521,
+  "timestamp": "2026-04-13T10:27:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.0265,
+      "prior_variance": 0.375758,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -1.6207,
+      "prior_variance": 0.340116,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/huddersfield",
+      "prior_score": -1.7282,
+      "prior_variance": 0.521021,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_score": -0.9661,
+      "prior_variance": 0.412888,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_score": -5.5735,
+      "prior_variance": 0.547194,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -1.3548,
+      "prior_variance": 0.445683,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -3.4851,
+      "prior_variance": 0.38703,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -3.1718,
+      "prior_variance": 0.482822,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -3.3127,
+      "prior_variance": 0.437009,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -3.0079,
+      "prior_variance": 0.642792,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_score": -2.1357,
+      "prior_variance": 0.374634,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -2.4973,
+      "prior_variance": 0.44626,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -3.806,
+      "prior_variance": 0.401836,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -0.8869,
+      "prior_variance": 0.399193,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hotels near Harne Beach",
+      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
+      "prior_score": -3.3927,
+      "prior_variance": 0.356154,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_score": -3.1323,
+      "prior_variance": 0.460581,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "orenhofen",
+      "path": "europe/germany/rhinelandpalatinate/orenhofen",
+      "prior_score": -5.6258,
+      "prior_variance": 0.526366,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -3.0792,
+      "prior_variance": 0.337327,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -4.1215,
+      "prior_variance": 0.416835,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": -7.9846,
+      "prior_variance": 0.525886,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -5.3722,
+      "prior_variance": 0.52704,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/yucatan/tuxtepec",
+      "prior_score": -6.2065,
+      "prior_variance": 0.665376,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -8.0367,
+      "prior_variance": 0.689811,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -5.6529,
+      "prior_variance": 0.518999,
+      "prior_n": 3
+    }
+  ]
+}

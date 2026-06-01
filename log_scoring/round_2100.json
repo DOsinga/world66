@@ -1,0 +1,200 @@
+{
+  "round": 2100,
+  "timestamp": "2026-04-13T16:10:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 2.0727,
+      "prior_variance": 0.206062,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.3104,
+      "prior_variance": 0.265169,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 4.2098,
+      "prior_variance": 0.317154,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 1.4504,
+      "prior_variance": 0.305098,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.6094,
+      "prior_variance": 0.296816,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.5839,
+      "prior_variance": 0.261292,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -1.0036,
+      "prior_variance": 0.212169,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.3037,
+      "prior_variance": 0.235898,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -2.908,
+      "prior_variance": 0.262277,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": 0.1888,
+      "prior_variance": 0.224486,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.8376,
+      "prior_variance": 0.252358,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -1.5174,
+      "prior_variance": 0.272064,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_score": -3.505,
+      "prior_variance": 0.293662,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -3.0293,
+      "prior_variance": 0.296816,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.9676,
+      "prior_variance": 0.277538,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -2.8691,
+      "prior_variance": 0.252753,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.0975,
+      "prior_variance": 0.235618,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -5.7032,
+      "prior_variance": 0.347314,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -5.0306,
+      "prior_variance": 0.329336,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -6.9381,
+      "prior_variance": 0.333506,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -7.015,
+      "prior_variance": 0.408637,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -6.3796,
+      "prior_variance": 0.260785,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.809,
+      "prior_variance": 0.445648,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -8.1699,
+      "prior_variance": 0.320545,
+      "prior_n": 5
+    }
+  ]
+}

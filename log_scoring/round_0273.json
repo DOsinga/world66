@@ -1,0 +1,200 @@
+{
+  "round": 273,
+  "timestamp": "2026-04-12T09:09:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Patagonia",
+      "path": "southamerica/argentina/patagonia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Abruzzo",
+      "path": "europe/italy/abruzzo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Lunigiana",
+      "path": "europe/italy/tuscany/lunigiana",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_mu": 22.717,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bragana",
+      "path": "europe/portugal/bragana",
+      "prior_mu": 22.6673,
+      "prior_sigma": 5.9416,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_mu": 22.6398,
+      "prior_sigma": 5.9384,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_mu": 22.6723,
+      "prior_sigma": 5.6834,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_mu": 22.7245,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Holyoke",
+      "path": "northamerica/unitedstates/massachusetts/holyoke",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "city",
+      "path": "northamerica/unitedstates/wisconsin/city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

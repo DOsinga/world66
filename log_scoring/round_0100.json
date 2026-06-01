@@ -1,0 +1,200 @@
+{
+  "round": 100,
+  "timestamp": "2026-04-12T08:03:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_mu": 38.87,
+      "prior_sigma": 4.3,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 39.78,
+      "prior_sigma": 4.03,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 24.87,
+      "prior_sigma": 2.64,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_mu": 26.39,
+      "prior_sigma": 3.58,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_mu": 23.46,
+      "prior_sigma": 3.91,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_mu": 25.03,
+      "prior_sigma": 3.44,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_mu": 21.63,
+      "prior_sigma": 3.64,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_mu": 21.45,
+      "prior_sigma": 3.41,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_mu": 21.43,
+      "prior_sigma": 2.98,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 21.52,
+      "prior_sigma": 3.32,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_mu": 21.57,
+      "prior_sigma": 3.6,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_mu": 20.86,
+      "prior_sigma": 2.8,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 20.86,
+      "prior_sigma": 2.92,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_mu": 21.0,
+      "prior_sigma": 2.81,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 21.74,
+      "prior_sigma": 2.57,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 22.15,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 21.4,
+      "prior_sigma": 2.71,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_mu": 21.25,
+      "prior_sigma": 3.02,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_mu": 20.17,
+      "prior_sigma": 2.87,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_mu": 19.71,
+      "prior_sigma": 2.85,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_mu": 19.56,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_mu": 20.79,
+      "prior_sigma": 3.74,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_mu": 20.14,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_mu": 12.63,
+      "prior_sigma": 3.77,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 888,
+  "timestamp": "2026-04-12T14:47:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krabi",
+      "path": "asia/thailand/krabi",
+      "prior_score": 11.6833,
+      "prior_variance": 1.951131,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_score": 11.8851,
+      "prior_variance": 6.27096,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "George Town",
+      "path": "northamerica/caymanislands/grandcayman/george_town",
+      "prior_score": 12.3822,
+      "prior_variance": 2.840469,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 10.6232,
+      "prior_variance": 9.531973,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 7.1164,
+      "prior_variance": 1.493093,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 9.5367,
+      "prior_variance": 10.397109,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 6.8459,
+      "prior_variance": 1.55986,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 5.8376,
+      "prior_variance": 1.34465,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": -0.5993,
+      "prior_variance": 1.796947,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.5077,
+      "prior_variance": 3.690538,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": -3.405,
+      "prior_variance": 1.416987,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": 1.3435,
+      "prior_variance": 1.792284,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 0.9411,
+      "prior_variance": 1.332032,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": -0.717,
+      "prior_variance": 1.387026,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_score": 0.0593,
+      "prior_variance": 1.215576,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 5.5916,
+      "prior_variance": 1.65128,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": 0.1872,
+      "prior_variance": 1.398355,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": 3.4423,
+      "prior_variance": 1.44451,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": -0.754,
+      "prior_variance": 0.901774,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_score": -4.2111,
+      "prior_variance": 0.756189,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_score": -5.3375,
+      "prior_variance": 1.317773,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -4.8995,
+      "prior_variance": 1.613403,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -1.4182,
+      "prior_variance": 1.222163,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Port loko",
+      "path": "africa/sierraleone/portloko",
+      "prior_score": -7.2348,
+      "prior_variance": 0.728148,
+      "prior_n": 2
+    }
+  ]
+}

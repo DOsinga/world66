@@ -1,0 +1,200 @@
+{
+  "round": 1477,
+  "timestamp": "2026-04-13T10:24:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Algeria",
+      "path": "africa/algeria",
+      "prior_score": -8.1124,
+      "prior_variance": 0.747558,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -8.6877,
+      "prior_variance": 0.688134,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -2.4552,
+      "prior_variance": 0.486296,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -8.2647,
+      "prior_variance": 0.451359,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -5.1774,
+      "prior_variance": 0.764419,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/yucatan/viverosdelaloma",
+      "prior_score": -6.8209,
+      "prior_variance": 0.386159,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.937,
+      "prior_variance": 0.470396,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -5.8483,
+      "prior_variance": 0.541854,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -6.64,
+      "prior_variance": 0.423899,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -8.544,
+      "prior_variance": 0.669969,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -8.0785,
+      "prior_variance": 0.461426,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -8.9875,
+      "prior_variance": 0.804231,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Krasnovodsk",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -8.783,
+      "prior_variance": 0.44008,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Boghni",
+      "path": "africa/algeria/boghni",
+      "prior_score": -8.3243,
+      "prior_variance": 0.57363,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.6924,
+      "prior_variance": 0.520679,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -8.6632,
+      "prior_variance": 0.603994,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -8.8199,
+      "prior_variance": 0.592077,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southcarolina/deadwood",
+      "prior_score": -8.7799,
+      "prior_variance": 0.659633,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -8.5639,
+      "prior_variance": 0.665074,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -9.1892,
+      "prior_variance": 0.768556,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "sarainkhet sarson",
+      "path": "asia/india/uttaranchal/sarainkhet_sarson",
+      "prior_score": -5.8473,
+      "prior_variance": 0.620736,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "faisal bhtti",
+      "path": "asia/pakistan/cholistan/faisal_bhtti",
+      "prior_score": -8.7385,
+      "prior_variance": 0.586164,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -9.0986,
+      "prior_variance": 0.626793,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "CqoEEEHbAlhJ",
+      "path": "europe/norway/kongsberg/cqoeeehbalhj",
+      "prior_score": -8.0306,
+      "prior_variance": 0.39666,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1767,
+  "timestamp": "2026-04-13T10:49:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 13.1002,
+      "prior_variance": 0.884688,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 12.5586,
+      "prior_variance": 0.667277,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_score": 4.6087,
+      "prior_variance": 0.394007,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 4.9298,
+      "prior_variance": 0.352726,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 5.408,
+      "prior_variance": 0.351577,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 4.8653,
+      "prior_variance": 0.361362,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 4.3073,
+      "prior_variance": 0.365936,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 3.4304,
+      "prior_variance": 0.268943,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 1.5832,
+      "prior_variance": 0.300056,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.8208,
+      "prior_variance": 0.316007,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.5409,
+      "prior_variance": 0.355596,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.2261,
+      "prior_variance": 0.302758,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -5.3429,
+      "prior_variance": 0.470517,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": 0.1184,
+      "prior_variance": 0.338035,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/lowerhutt",
+      "prior_score": -2.7116,
+      "prior_variance": 0.349937,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.158,
+      "prior_variance": 0.307951,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -0.8722,
+      "prior_variance": 0.481366,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -2.9503,
+      "prior_variance": 0.318947,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -4.1793,
+      "prior_variance": 0.350607,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -6.0649,
+      "prior_variance": 0.386288,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -5.8209,
+      "prior_variance": 0.333017,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Delaware County",
+      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
+      "prior_score": -5.2474,
+      "prior_variance": 0.310858,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -5.6914,
+      "prior_variance": 0.346799,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -3.7772,
+      "prior_variance": 0.275711,
+      "prior_n": 5
+    }
+  ]
+}

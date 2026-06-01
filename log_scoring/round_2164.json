@@ -1,0 +1,200 @@
+{
+  "round": 2164,
+  "timestamp": "2026-04-13T16:16:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 9.3815,
+      "prior_variance": 0.335732,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 1.6033,
+      "prior_variance": 0.235905,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 3.0818,
+      "prior_variance": 0.251858,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 1.6534,
+      "prior_variance": 0.269151,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": 0.5075,
+      "prior_variance": 0.252173,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.4836,
+      "prior_variance": 0.212919,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_score": -1.3725,
+      "prior_variance": 0.202696,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.0461,
+      "prior_variance": 0.223994,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kaleden",
+      "path": "northamerica/canada/britishcolumbia/kaleden",
+      "prior_score": -2.5609,
+      "prior_variance": 0.244036,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_score": -2.8133,
+      "prior_variance": 0.289296,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -0.6571,
+      "prior_variance": 0.211077,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -3.4753,
+      "prior_variance": 0.235947,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.4676,
+      "prior_variance": 0.210315,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -1.2863,
+      "prior_variance": 0.220995,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -2.7377,
+      "prior_variance": 0.240056,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Water",
+      "path": "northamerica/costarica/travelinformation/water",
+      "prior_score": -4.7187,
+      "prior_variance": 0.296082,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.6905,
+      "prior_variance": 0.341753,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_score": -4.8697,
+      "prior_variance": 0.240403,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_score": -4.2664,
+      "prior_variance": 0.257339,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -3.7926,
+      "prior_variance": 0.318674,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -3.2328,
+      "prior_variance": 0.258214,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -3.8552,
+      "prior_variance": 0.375464,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.4659,
+      "prior_variance": 0.378744,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_score": -7.024,
+      "prior_variance": 0.404733,
+      "prior_n": 6
+    }
+  ]
+}

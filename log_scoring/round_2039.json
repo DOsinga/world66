@@ -1,0 +1,200 @@
+{
+  "round": 2039,
+  "timestamp": "2026-04-13T16:05:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spitsbergen",
+      "path": "europe/norway/spitsbergen",
+      "prior_score": 5.9828,
+      "prior_variance": 0.37329,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "New South Wales",
+      "path": "australiaandpacific/australia/newsouthwales",
+      "prior_score": 1.6774,
+      "prior_variance": 0.304229,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandres",
+      "prior_score": 3.9123,
+      "prior_variance": 0.275689,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 2.82,
+      "prior_variance": 0.278398,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Isola di San Pietro",
+      "path": "europe/italy/sardinia/isoladisanpietro",
+      "prior_score": 4.2088,
+      "prior_variance": 0.253324,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_score": 5.522,
+      "prior_variance": 0.274399,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "The High Coast",
+      "path": "europe/sweden/the_high_coast",
+      "prior_score": 2.8978,
+      "prior_variance": 0.277067,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.1431,
+      "prior_variance": 0.295118,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 0.5948,
+      "prior_variance": 0.327612,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 4.385,
+      "prior_variance": 0.306038,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.2945,
+      "prior_variance": 0.200834,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.5214,
+      "prior_variance": 0.21201,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.7086,
+      "prior_variance": 0.29845,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 3.1444,
+      "prior_variance": 0.245658,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -0.0509,
+      "prior_variance": 0.283531,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 1.9196,
+      "prior_variance": 0.238804,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.9589,
+      "prior_variance": 0.16196,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Senglea (or L-lsla)",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 3.4738,
+      "prior_variance": 0.228771,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.7266,
+      "prior_variance": 0.266774,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 2.2236,
+      "prior_variance": 0.276023,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -1.3036,
+      "prior_variance": 0.257124,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
+      "prior_score": -0.9664,
+      "prior_variance": 0.271024,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -1.9975,
+      "prior_variance": 0.261648,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.6206,
+      "prior_variance": 0.288237,
+      "prior_n": 5
+    }
+  ]
+}

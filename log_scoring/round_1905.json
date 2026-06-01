@@ -1,0 +1,200 @@
+{
+  "round": 1905,
+  "timestamp": "2026-04-13T14:35:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 7.5561,
+      "prior_variance": 0.351846,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 5.8523,
+      "prior_variance": 0.283697,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Taiwan",
+      "path": "asia/taiwan",
+      "prior_score": 7.3616,
+      "prior_variance": 0.305619,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 3.8062,
+      "prior_variance": 0.343877,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_score": 6.6559,
+      "prior_variance": 0.331478,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 6.1908,
+      "prior_variance": 0.333281,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 6.7492,
+      "prior_variance": 0.482884,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_score": 1.6322,
+      "prior_variance": 0.300207,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": -0.0198,
+      "prior_variance": 0.268804,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.3081,
+      "prior_variance": 0.195201,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_score": 1.2895,
+      "prior_variance": 0.318827,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": 0.0676,
+      "prior_variance": 0.280927,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -0.5046,
+      "prior_variance": 0.399765,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": 0.5149,
+      "prior_variance": 0.305459,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/plymouth",
+      "prior_score": -0.4028,
+      "prior_variance": 0.267772,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 1.0601,
+      "prior_variance": 0.262476,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.3686,
+      "prior_variance": 0.259547,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -0.9966,
+      "prior_variance": 0.291889,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.0102,
+      "prior_variance": 0.30605,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -0.6966,
+      "prior_variance": 0.311816,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 0.5626,
+      "prior_variance": 0.403267,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_score": -3.4203,
+      "prior_variance": 0.312461,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -9.0649,
+      "prior_variance": 0.412895,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_score": -10.4746,
+      "prior_variance": 0.387929,
+      "prior_n": 4
+    }
+  ]
+}

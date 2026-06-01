@@ -1,0 +1,200 @@
+{
+  "round": 1876,
+  "timestamp": "2026-04-13T10:59:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 8.8172,
+      "prior_variance": 0.56125,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_score": 3.4169,
+      "prior_variance": 0.266073,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 7.2502,
+      "prior_variance": 0.416029,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 4.9489,
+      "prior_variance": 0.357992,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 3.1771,
+      "prior_variance": 0.328942,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Jersey",
+      "path": "europe/channelislands/jersey",
+      "prior_score": 4.0906,
+      "prior_variance": 0.32588,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 1.1512,
+      "prior_variance": 0.352548,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 2.4271,
+      "prior_variance": 0.300264,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.5133,
+      "prior_variance": 0.395034,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": -0.2631,
+      "prior_variance": 0.266259,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.1094,
+      "prior_variance": 0.281556,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 1.7156,
+      "prior_variance": 0.292724,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -0.9762,
+      "prior_variance": 0.255768,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -1.0416,
+      "prior_variance": 0.248064,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.1919,
+      "prior_variance": 0.336932,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -1.6977,
+      "prior_variance": 0.268635,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.9109,
+      "prior_variance": 0.357093,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_score": -1.7632,
+      "prior_variance": 0.324091,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_score": -4.1279,
+      "prior_variance": 0.37763,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.4531,
+      "prior_variance": 0.272976,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -6.1343,
+      "prior_variance": 0.28021,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -4.8657,
+      "prior_variance": 0.393279,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -8.9443,
+      "prior_variance": 0.491509,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Porterville",
+      "path": "northamerica/unitedstates/california/centralvalley/porterville",
+      "prior_score": -5.3897,
+      "prior_variance": 0.346174,
+      "prior_n": 5
+    }
+  ]
+}

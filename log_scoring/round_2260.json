@@ -1,0 +1,200 @@
+{
+  "round": 2260,
+  "timestamp": "2026-04-13T16:25:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 3.8905,
+      "prior_variance": 0.210741,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 4.4557,
+      "prior_variance": 0.246192,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 2.8965,
+      "prior_variance": 0.217046,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/south_island/marlborough",
+      "prior_score": 3.8346,
+      "prior_variance": 0.249025,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": 0.1929,
+      "prior_variance": 0.229409,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.319,
+      "prior_variance": 0.222918,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 2.0544,
+      "prior_variance": 0.272166,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -2.0823,
+      "prior_variance": 0.283152,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -0.3496,
+      "prior_variance": 0.210799,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_score": -1.4913,
+      "prior_variance": 0.273443,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_score": -1.5611,
+      "prior_variance": 0.273104,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -2.7522,
+      "prior_variance": 0.241693,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/croydon",
+      "prior_score": -5.9497,
+      "prior_variance": 0.390429,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Wiehl",
+      "path": "europe/germany/northrhinewestphalia/wiehl",
+      "prior_score": -4.2188,
+      "prior_variance": 0.221077,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.0927,
+      "prior_variance": 0.273622,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -4.5227,
+      "prior_variance": 0.291474,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -4.8026,
+      "prior_variance": 0.385436,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_score": -6.0945,
+      "prior_variance": 0.29815,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Maykop",
+      "path": "europe/russia/krasnodar/maykop",
+      "prior_score": -5.879,
+      "prior_variance": 0.282048,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -4.4341,
+      "prior_variance": 0.312372,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.0667,
+      "prior_variance": 0.245525,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -4.7341,
+      "prior_variance": 0.274887,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Grange",
+      "path": "europe/ireland/cork/grange",
+      "prior_score": -3.4991,
+      "prior_variance": 0.281094,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -5.4636,
+      "prior_variance": 0.324852,
+      "prior_n": 5
+    }
+  ]
+}

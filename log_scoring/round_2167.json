@@ -1,0 +1,200 @@
+{
+  "round": 2167,
+  "timestamp": "2026-04-13T16:16:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_score": 5.3472,
+      "prior_variance": 0.527439,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "London",
+      "path": "europe/unitedkingdom/london",
+      "prior_score": 13.2662,
+      "prior_variance": 0.98724,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.6145,
+      "prior_variance": 0.560324,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tenerife",
+      "path": "europe/spain/canaryislands/tenerife",
+      "prior_score": 7.5729,
+      "prior_variance": 0.300133,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 7.2764,
+      "prior_variance": 0.278527,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_score": 6.7406,
+      "prior_variance": 0.288998,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 5.8801,
+      "prior_variance": 0.26775,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_score": 5.881,
+      "prior_variance": 0.335436,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cuba",
+      "path": "northamerica/thecaribbean/cuba",
+      "prior_score": 7.1348,
+      "prior_variance": 0.356266,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 5.9175,
+      "prior_variance": 0.399276,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Mombasa",
+      "path": "africa/kenya/mombasa",
+      "prior_score": 4.4853,
+      "prior_variance": 0.338923,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 2.0285,
+      "prior_variance": 0.263446,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 4.6762,
+      "prior_variance": 0.295219,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_score": 3.8836,
+      "prior_variance": 0.349747,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_score": 1.8553,
+      "prior_variance": 0.270117,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.0577,
+      "prior_variance": 0.283242,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "South Carolina",
+      "path": "northamerica/unitedstates/southcarolina",
+      "prior_score": 2.3799,
+      "prior_variance": 0.272214,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.2822,
+      "prior_variance": 0.254549,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -3.2431,
+      "prior_variance": 0.279332,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": 0.3838,
+      "prior_variance": 0.220556,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.255,
+      "prior_variance": 0.2434,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -4.3228,
+      "prior_variance": 0.270541,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -5.5072,
+      "prior_variance": 0.278783,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -5.6117,
+      "prior_variance": 0.261837,
+      "prior_n": 5
+    }
+  ]
+}

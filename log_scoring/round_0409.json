@@ -1,0 +1,200 @@
+{
+  "round": 409,
+  "timestamp": "2026-04-12T09:29:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_mu": 24.5286,
+      "prior_sigma": 5.8961,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_mu": 22.6472,
+      "prior_sigma": 4.8347,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_mu": 22.7111,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_mu": 21.8793,
+      "prior_sigma": 4.8313,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_mu": 21.8121,
+      "prior_sigma": 4.4766,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_mu": 22.6928,
+      "prior_sigma": 5.9461,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Puebla",
+      "path": "northamerica/mexico/yucatan/puebla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/yucatan/apizaco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/yucatan/queretaro",
+      "prior_mu": 22.6391,
+      "prior_sigma": 5.9384,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/yucatan/guerreronegro",
+      "prior_mu": 22.4768,
+      "prior_sigma": 5.905,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sahagun Hidalgo",
+      "path": "northamerica/mexico/yucatan/sahagunhidalgo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

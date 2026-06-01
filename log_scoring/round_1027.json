@@ -1,0 +1,200 @@
+{
+  "round": 1027,
+  "timestamp": "2026-04-12T22:05:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_rank": 2656,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_rank": 4684,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_rank": 5033,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_rank": 5877,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_rank": 2654,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_rank": 4663,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_rank": 5047,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_rank": 4023,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Maluku",
+      "path": "asia/indonesia/maluku",
+      "prior_rank": 4231,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_rank": 5476,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_rank": 6131,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_rank": 3838,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "caranzalem",
+      "path": "asia/india/goa/caranzalem",
+      "prior_rank": 2027,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_rank": 3644,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_rank": 3852,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_rank": 4689,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_rank": 4496,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_rank": 3892,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_rank": 5205,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_rank": 5114,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_rank": 3057,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/northampton",
+      "prior_rank": 1782,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_rank": 3785,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_rank": 4649,
+      "prior_wins": 10,
+      "prior_n": 1
+    }
+  ]
+}

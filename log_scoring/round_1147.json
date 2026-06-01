@@ -1,0 +1,200 @@
+{
+  "round": 1147,
+  "timestamp": "2026-04-12T22:11:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Romantic Russell",
+      "path": "australiaandpacific/newzealand/romanticrussell",
+      "prior_rank": 2484,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_riv",
+      "prior_rank": 3013,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_rank": 3110,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_rank": 2701,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/newplymouth",
+      "prior_rank": 3823,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_rank": 4053,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_rank": 4533,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_rank": 2059,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_rank": 3141,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_rank": 2522,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Morvan",
+      "path": "europe/france/east/burgundy/morvan",
+      "prior_rank": 3384,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_rank": 2947,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_rank": 3138,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_rank": 2889,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_rank": 4042,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_rank": 3416,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_rank": 3162,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_rank": 3163,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_rank": 2932,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_rank": 4404,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/greatyarmouth",
+      "prior_rank": 5472,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_rank": 3791,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_rank": 2884,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_rank": 5892,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

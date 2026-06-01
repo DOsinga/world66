@@ -1,0 +1,200 @@
+{
+  "round": 1137,
+  "timestamp": "2026-04-12T22:11:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_rank": 86,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_rank": 1124,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_rank": 308,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_rank": 2148,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_rank": 130,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_rank": 252,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_rank": 427,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_rank": 305,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_rank": 443,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_rank": 88,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_rank": 15,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_rank": 513,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_rank": 155,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_rank": 451,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_rank": 1349,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_rank": 181,
+      "prior_wins": 86,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_rank": 166,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_rank": 1813,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_rank": 1549,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_rank": 375,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_rank": 488,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_rank": 281,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Spitsbergen",
+      "path": "europe/norway/spitsbergen",
+      "prior_rank": 153,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_rank": 1584,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

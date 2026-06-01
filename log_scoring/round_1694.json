@@ -1,0 +1,200 @@
+{
+  "round": 1694,
+  "timestamp": "2026-04-13T10:42:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 5.8185,
+      "prior_variance": 0.387306,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 7.5314,
+      "prior_variance": 0.376786,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 6.1493,
+      "prior_variance": 0.315698,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 3.2093,
+      "prior_variance": 0.406926,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.6837,
+      "prior_variance": 0.351224,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.8305,
+      "prior_variance": 0.320708,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 5.0885,
+      "prior_variance": 0.36376,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.1724,
+      "prior_variance": 0.344318,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.7637,
+      "prior_variance": 0.286421,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_score": 1.8881,
+      "prior_variance": 0.390395,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 3.2103,
+      "prior_variance": 0.350217,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 3.8374,
+      "prior_variance": 0.449638,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 2.4242,
+      "prior_variance": 0.299224,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 2.5733,
+      "prior_variance": 0.337647,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 3.5548,
+      "prior_variance": 0.309661,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 3.2939,
+      "prior_variance": 0.429284,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_score": 1.5174,
+      "prior_variance": 0.401138,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 2.3125,
+      "prior_variance": 0.423384,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 4.3518,
+      "prior_variance": 0.327192,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lancaster County",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty",
+      "prior_score": 2.4829,
+      "prior_variance": 0.495366,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -1.6128,
+      "prior_variance": 0.389992,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Algeria",
+      "path": "africa/algeria",
+      "prior_score": -6.8806,
+      "prior_variance": 0.562716,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.6177,
+      "prior_variance": 0.309458,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kuwait",
+      "path": "asia/kuwait",
+      "prior_score": -4.0866,
+      "prior_variance": 0.573873,
+      "prior_n": 4
+    }
+  ]
+}

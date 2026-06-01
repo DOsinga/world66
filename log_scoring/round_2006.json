@@ -1,0 +1,200 @@
+{
+  "round": 2006,
+  "timestamp": "2026-04-13T16:02:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.8126,
+      "prior_variance": 0.537155,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Corniglia",
+      "path": "europe/italy/liguria/corniglia",
+      "prior_score": 6.3094,
+      "prior_variance": 0.315113,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 5.1604,
+      "prior_variance": 0.247209,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 2.8963,
+      "prior_variance": 0.241718,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_score": 2.6537,
+      "prior_variance": 0.264392,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 2.7192,
+      "prior_variance": 0.298472,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.5573,
+      "prior_variance": 0.32361,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 3.4818,
+      "prior_variance": 0.276316,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 3.5097,
+      "prior_variance": 0.246054,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": -0.371,
+      "prior_variance": 1.198272,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 3.0069,
+      "prior_variance": 0.269353,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.9508,
+      "prior_variance": 0.263046,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.2318,
+      "prior_variance": 0.424909,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 3.0925,
+      "prior_variance": 0.14218,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Nebel, Amrum",
+      "path": "europe/germany/schleswigholstein/nebel_amrum",
+      "prior_score": -0.577,
+      "prior_variance": 0.260918,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.2959,
+      "prior_variance": 0.346668,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_score": -3.1152,
+      "prior_variance": 0.331452,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.6043,
+      "prior_variance": 0.301939,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "jijel, algeria",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -3.8943,
+      "prior_variance": 0.250365,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -5.2124,
+      "prior_variance": 0.204295,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.5095,
+      "prior_variance": 0.324494,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -3.2576,
+      "prior_variance": 0.329534,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Athis-Mons",
+      "path": "europe/france/around_paris/athismons",
+      "prior_score": -5.1603,
+      "prior_variance": 0.314284,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.037,
+      "prior_variance": 0.272334,
+      "prior_n": 5
+    }
+  ]
+}

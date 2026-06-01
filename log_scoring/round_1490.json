@@ -1,0 +1,200 @@
+{
+  "round": 1490,
+  "timestamp": "2026-04-13T10:25:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": 1.3379,
+      "prior_variance": 0.395692,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.1494,
+      "prior_variance": 0.403805,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -4.4559,
+      "prior_variance": 0.94718,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_notting/leicester",
+      "prior_score": -0.205,
+      "prior_variance": 0.417417,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -1.0495,
+      "prior_variance": 0.325466,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -2.6839,
+      "prior_variance": 0.561694,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -0.6854,
+      "prior_variance": 0.497017,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.5512,
+      "prior_variance": 0.447407,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_score": -0.5061,
+      "prior_variance": 0.421445,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.3553,
+      "prior_variance": 0.225633,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.0363,
+      "prior_variance": 0.454307,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -1.0327,
+      "prior_variance": 0.45977,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.5542,
+      "prior_variance": 0.441736,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -1.5215,
+      "prior_variance": 0.734772,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.4872,
+      "prior_variance": 0.524425,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_score": -1.3237,
+      "prior_variance": 0.542733,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.0099,
+      "prior_variance": 0.412247,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -1.0771,
+      "prior_variance": 0.536851,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -1.133,
+      "prior_variance": 0.351473,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -1.5773,
+      "prior_variance": 0.604863,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -1.2574,
+      "prior_variance": 0.397068,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.1902,
+      "prior_variance": 0.471502,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_score": -1.5114,
+      "prior_variance": 0.373595,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Saudi Arabia",
+      "path": "asia/saudiarabia",
+      "prior_score": -9.0692,
+      "prior_variance": 0.744881,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 438,
+  "timestamp": "2026-04-12T09:30:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Cancun",
+      "path": "northamerica/mexico/yucatan/cancun",
+      "prior_mu": 23.7741,
+      "prior_sigma": 5.5102,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_mu": 25.9926,
+      "prior_sigma": 5.4896,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_mu": 22.5298,
+      "prior_sigma": 5.9139,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_mu": 25.7506,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_mu": 22.5322,
+      "prior_sigma": 4.6906,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_mu": 22.2558,
+      "prior_sigma": 5.7571,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_mu": 22.6381,
+      "prior_sigma": 5.938,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_mu": 22.03,
+      "prior_sigma": 4.8471,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_mu": 22.8629,
+      "prior_sigma": 5.9659,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_mu": 21.5363,
+      "prior_sigma": 3.8763,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_mu": 21.1,
+      "prior_sigma": 4.3496,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_mu": 21.6291,
+      "prior_sigma": 4.5602,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Colima",
+      "path": "northamerica/mexico/yucatan/colima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/yucatan/puertoescondido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/yucatan/monterrey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_mu": 22.1871,
+      "prior_sigma": 5.772,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/yucatan/viverosdelaloma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/anahuac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.5027,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/naulcapan",
+      "prior_mu": 19.1652,
+      "prior_sigma": 4.9269,
+      "prior_n": 2
+    }
+  ]
+}

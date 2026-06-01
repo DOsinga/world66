@@ -1,0 +1,200 @@
+{
+  "round": 1150,
+  "timestamp": "2026-04-12T22:12:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_rank": 533,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_rank": 951,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_rank": 1041,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_rank": 1028,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "St. George's",
+      "path": "northamerica/grenada/stgeorges",
+      "prior_rank": 497,
+      "prior_wins": 90,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_rank": 847,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_rank": 599,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_rank": 1425,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mosel",
+      "path": "europe/germany/wine/mosel",
+      "prior_rank": 1290,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_rank": 2452,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_rank": 3495,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_rank": 1548,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_rank": 1616,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_rank": 883,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_rank": 1043,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_rank": 927,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "The North Norfolk Coast",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
+      "prior_rank": 2944,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_rank": 2421,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_rank": 2050,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "North Cape",
+      "path": "europe/norway/northcape",
+      "prior_rank": 724,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_rank": 731,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_rank": 4254,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_rank": 1783,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_rank": 2687,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1494,
+  "timestamp": "2026-04-13T10:25:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andalucia",
+      "path": "europe/spain/andalucia",
+      "prior_score": 11.7757,
+      "prior_variance": 0.911865,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 9.2504,
+      "prior_variance": 0.827316,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Italian Riviera",
+      "path": "europe/italy/liguria/italianriviera",
+      "prior_score": 9.1802,
+      "prior_variance": 0.461865,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_score": 6.3047,
+      "prior_variance": 0.516332,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_score": 5.2659,
+      "prior_variance": 0.421018,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Okavango Delta",
+      "path": "africa/botswana/okavangodelta",
+      "prior_score": 7.5541,
+      "prior_variance": 0.617771,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Romantic Road",
+      "path": "europe/germany/bavaria/romanticroad",
+      "prior_score": 7.862,
+      "prior_variance": 0.507187,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/canterbury",
+      "prior_score": 8.3298,
+      "prior_variance": 0.520556,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 6.7704,
+      "prior_variance": 0.558831,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 8.3224,
+      "prior_variance": 0.544505,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 11.3734,
+      "prior_variance": 0.741937,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Amazon basin",
+      "path": "southamerica/ecuador/amazonbasin",
+      "prior_score": 4.5648,
+      "prior_variance": 0.596374,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 6.7923,
+      "prior_variance": 0.397748,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkneys",
+      "prior_score": 6.8173,
+      "prior_variance": 0.402842,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 7.8014,
+      "prior_variance": 0.532129,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_score": 5.9517,
+      "prior_variance": 0.432515,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 7.3568,
+      "prior_variance": 0.519542,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 7.6481,
+      "prior_variance": 0.486714,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 5.5149,
+      "prior_variance": 0.49649,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.7936,
+      "prior_variance": 0.817247,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 6.7073,
+      "prior_variance": 0.485491,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 6.845,
+      "prior_variance": 0.456405,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 7.1577,
+      "prior_variance": 0.633935,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 5.0781,
+      "prior_variance": 0.743934,
+      "prior_n": 5
+    }
+  ]
+}

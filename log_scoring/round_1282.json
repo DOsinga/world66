@@ -1,0 +1,200 @@
+{
+  "round": 1282,
+  "timestamp": "2026-04-12T22:19:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_rank": 7058,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_rank": 7123,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_rank": 5558,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Podgorica",
+      "path": "europe/serbiaandmontenegro/podgorica",
+      "prior_rank": 7136,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_rank": 5170,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_rank": 7645,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_rank": 6084,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_rank": 6042,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_rank": 6596,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_rank": 7211,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_rank": 7349,
+      "prior_wins": 18,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_rank": 5884,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_rank": 6965,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_rank": 7172,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_rank": 6722,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_rank": 7584,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_rank": 6064,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_rank": 4824,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_rank": 7240,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_rank": 7785,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_rank": 7359,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_rank": 6150,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_rank": 6916,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nauru",
+      "path": "australiaandpacific/nauru",
+      "prior_rank": 6550,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

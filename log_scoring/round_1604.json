@@ -1,0 +1,200 @@
+{
+  "round": 1604,
+  "timestamp": "2026-04-13T10:35:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 6.7218,
+      "prior_variance": 0.34728,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 4.9867,
+      "prior_variance": 0.415148,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": -0.5834,
+      "prior_variance": 0.306904,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -1.2299,
+      "prior_variance": 0.332834,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -2.5776,
+      "prior_variance": 0.383868,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.1451,
+      "prior_variance": 0.296065,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_score": 2.104,
+      "prior_variance": 0.345014,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.4878,
+      "prior_variance": 0.54499,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.8145,
+      "prior_variance": 0.24198,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_score": -2.4949,
+      "prior_variance": 0.315722,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Brava",
+      "path": "africa/capeverde/brava",
+      "prior_score": -0.8642,
+      "prior_variance": 0.439037,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -0.0017,
+      "prior_variance": 0.343209,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.3971,
+      "prior_variance": 0.325525,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.2794,
+      "prior_variance": 0.359236,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -1.9003,
+      "prior_variance": 0.310256,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -2.7662,
+      "prior_variance": 0.347203,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -2.8324,
+      "prior_variance": 0.413609,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.4439,
+      "prior_variance": 0.603622,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -2.7518,
+      "prior_variance": 0.421845,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_score": -7.2652,
+      "prior_variance": 0.363121,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -0.8117,
+      "prior_variance": 0.369834,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -3.2271,
+      "prior_variance": 0.359335,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -3.801,
+      "prior_variance": 0.464014,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -6.0568,
+      "prior_variance": 0.549565,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1479,
+  "timestamp": "2026-04-13T10:24:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shibuya",
+      "path": "asia/japan/tokyo/shibuya",
+      "prior_score": 16.6233,
+      "prior_variance": 1.092459,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 11.3333,
+      "prior_variance": 0.825072,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_score": 12.3162,
+      "prior_variance": 0.648046,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Loire valley",
+      "path": "europe/france/centre/loirevalley",
+      "prior_score": 10.2248,
+      "prior_variance": 0.854376,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 10.0452,
+      "prior_variance": 0.668735,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 10.1572,
+      "prior_variance": 0.988848,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_score": 10.2969,
+      "prior_variance": 1.019341,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_score": 9.5916,
+      "prior_variance": 0.660753,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 8.7907,
+      "prior_variance": 0.534163,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 8.4928,
+      "prior_variance": 0.665513,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_score": 8.0846,
+      "prior_variance": 0.4843,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 8.0216,
+      "prior_variance": 0.587391,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "South Korea",
+      "path": "asia/southkorea",
+      "prior_score": 8.9532,
+      "prior_variance": 1.076351,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_score": 6.2961,
+      "prior_variance": 0.325208,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_score": 11.5961,
+      "prior_variance": 0.403109,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/auckland",
+      "prior_score": 7.0815,
+      "prior_variance": 0.927077,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 9.4267,
+      "prior_variance": 0.556365,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_score": 7.1651,
+      "prior_variance": 0.542888,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 9.1083,
+      "prior_variance": 0.796716,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 7.4654,
+      "prior_variance": 0.429262,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 5.2205,
+      "prior_variance": 0.71225,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 8.7498,
+      "prior_variance": 0.615415,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 4.1319,
+      "prior_variance": 0.505654,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 9.9449,
+      "prior_variance": 0.684022,
+      "prior_n": 4
+    }
+  ]
+}

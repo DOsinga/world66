@@ -1,0 +1,200 @@
+{
+  "round": 1218,
+  "timestamp": "2026-04-12T22:15:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pantanal",
+      "path": "southamerica/brazil/pantanal",
+      "prior_rank": 524,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_rank": 1275,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_rank": 2108,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_rank": 2742,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_rank": 2077,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_rank": 1877,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_rank": 1509,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_rank": 3094,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_rank": 3424,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_rank": 2974,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_rank": 2184,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_rank": 2396,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_rank": 3802,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_rank": 2602,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_rank": 3353,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_rank": 2090,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_rank": 2901,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_rank": 2344,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bintan",
+      "path": "asia/indonesia/bintan",
+      "prior_rank": 3165,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_rank": 4523,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_rank": 2559,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_rank": 2121,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_rank": 2338,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "ryder",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
+      "prior_rank": 2332,
+      "prior_wins": 30,
+      "prior_n": 2
+    }
+  ]
+}

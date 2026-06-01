@@ -1,0 +1,200 @@
+{
+  "round": 1036,
+  "timestamp": "2026-04-12T22:05:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_rank": 4244,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_rank": 3356,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_rank": 3831,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_rank": 3745,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_rank": 4280,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_rank": 4775,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_rank": 6184,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_rank": 2686,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_rank": 2234,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_rank": 4612,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_rank": 2248,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_rank": 3441,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Encinitas",
+      "path": "northamerica/unitedstates/california/encinitas",
+      "prior_rank": 4720,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_rank": 5260,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_rank": 3899,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_rank": 1852,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_rank": 5449,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_rank": 4236,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_rank": 3835,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/wanganui",
+      "prior_rank": 5055,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/otago/invercargill",
+      "prior_rank": 3440,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_rank": 5322,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bragana",
+      "path": "europe/portugal/bragana",
+      "prior_rank": 3096,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_rank": 4252,
+      "prior_wins": 22,
+      "prior_n": 2
+    }
+  ]
+}

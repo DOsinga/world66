@@ -1,0 +1,200 @@
+{
+  "round": 2289,
+  "timestamp": "2026-04-13T16:28:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 4.1854,
+      "prior_variance": 0.267858,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 5.4546,
+      "prior_variance": 0.227601,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 1.7011,
+      "prior_variance": 0.351702,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Sieve Valley",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley",
+      "prior_score": 4.061,
+      "prior_variance": 0.23802,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 4.4098,
+      "prior_variance": 0.280758,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Watamu",
+      "path": "africa/kenya/thecoast/watamu",
+      "prior_score": 3.361,
+      "prior_variance": 0.234136,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.306,
+      "prior_variance": 0.224252,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 0.1105,
+      "prior_variance": 0.265992,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 2.2348,
+      "prior_variance": 0.207018,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.6593,
+      "prior_variance": 0.199444,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -1.8717,
+      "prior_variance": 0.20696,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 1.064,
+      "prior_variance": 0.215549,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_score": 0.4083,
+      "prior_variance": 0.253287,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_score": -0.6623,
+      "prior_variance": 0.214526,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.0631,
+      "prior_variance": 0.231627,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_score": -1.6907,
+      "prior_variance": 0.25368,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -4.0218,
+      "prior_variance": 0.233708,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -2.6197,
+      "prior_variance": 0.283989,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -2.943,
+      "prior_variance": 0.224086,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -2.3928,
+      "prior_variance": 0.202146,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -6.0773,
+      "prior_variance": 0.294059,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -5.9665,
+      "prior_variance": 0.271786,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_score": -7.9194,
+      "prior_variance": 0.373785,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -3.9663,
+      "prior_variance": 0.277804,
+      "prior_n": 5
+    }
+  ]
+}

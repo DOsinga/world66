@@ -1,0 +1,200 @@
+{
+  "round": 42,
+  "timestamp": "2026-04-11T19:25:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_mu": 26.17,
+      "prior_sigma": 5.23,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 23.08,
+      "prior_sigma": 5.58,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_mu": 21.43,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_mu": 21.96,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_mu": 22.08,
+      "prior_sigma": 4.77,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 21.76,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_mu": 21.73,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 22.48,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_mu": 21.7,
+      "prior_sigma": 4.6,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 22.22,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 20.17,
+      "prior_sigma": 4.16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "chakwal",
+      "path": "asia/pakistan/soon_valley/chakwal",
+      "prior_mu": 21.88,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 19.99,
+      "prior_sigma": 3.67,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "syed sagheer ul hassan douna",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/syed_sagheer_ul_ha",
+      "prior_mu": 17.98,
+      "prior_sigma": 6.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 16.57,
+      "prior_sigma": 4.77,
+      "prior_n": 3
+    }
+  ]
+}

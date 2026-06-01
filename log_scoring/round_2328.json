@@ -1,0 +1,200 @@
+{
+  "round": 2328,
+  "timestamp": "2026-04-13T16:31:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 10.9821,
+      "prior_variance": 0.54609,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_score": 3.4586,
+      "prior_variance": 0.417593,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.4756,
+      "prior_variance": 0.20612,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 2.5892,
+      "prior_variance": 0.248232,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 3.9346,
+      "prior_variance": 0.29076,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 3.2885,
+      "prior_variance": 0.244002,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 2.0103,
+      "prior_variance": 0.179266,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.3173,
+      "prior_variance": 0.234928,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.5201,
+      "prior_variance": 0.239227,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.5213,
+      "prior_variance": 0.215727,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.3185,
+      "prior_variance": 0.340308,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 2.8012,
+      "prior_variance": 0.242506,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bournemouth",
+      "prior_score": 1.7106,
+      "prior_variance": 0.258474,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 1.3516,
+      "prior_variance": 0.162758,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.6868,
+      "prior_variance": 0.237629,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 1.0948,
+      "prior_variance": 0.210272,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_score": 1.4129,
+      "prior_variance": 0.339059,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_score": 1.9031,
+      "prior_variance": 0.212795,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": 1.0126,
+      "prior_variance": 0.230343,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_score": -0.2906,
+      "prior_variance": 0.225248,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -1.9539,
+      "prior_variance": 0.208126,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -2.9069,
+      "prior_variance": 0.276974,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -1.8216,
+      "prior_variance": 0.259037,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -4.8036,
+      "prior_variance": 0.249006,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 341,
+  "timestamp": "2026-04-12T09:12:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Exumas",
+      "path": "northamerica/bahamas/exumas",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_mu": 25.4611,
+      "prior_sigma": 6.0275,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_mu": 22.7102,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_mu": 22.2753,
+      "prior_sigma": 5.7838,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_mu": 18.2839,
+      "prior_sigma": 6.7502,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_mu": 21.5422,
+      "prior_sigma": 4.7171,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_mu": 22.4792,
+      "prior_sigma": 5.9077,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_mu": 22.5047,
+      "prior_sigma": 5.9108,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

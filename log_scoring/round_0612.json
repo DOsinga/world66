@@ -1,0 +1,200 @@
+{
+  "round": 612,
+  "timestamp": "2026-04-12T10:39:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_mu": 29.2129,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_mu": 23.1884,
+      "prior_sigma": 4.2307,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_mu": 22.6929,
+      "prior_sigma": 5.926,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_mu": 22.6758,
+      "prior_sigma": 5.9427,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_mu": 22.7166,
+      "prior_sigma": 5.9489,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_mu": 23.254,
+      "prior_sigma": 4.1239,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Canakkale",
+      "path": "asia/turkey/canakkale",
+      "prior_mu": 22.7439,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_mu": 21.3287,
+      "prior_sigma": 3.9381,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_mu": 22.5206,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_mu": 22.661,
+      "prior_sigma": 5.9514,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_mu": 22.5656,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_mu": 22.0724,
+      "prior_sigma": 5.7413,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_mu": 22.2922,
+      "prior_sigma": 5.7571,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_mu": 21.6251,
+      "prior_sigma": 4.7289,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_mu": 21.9051,
+      "prior_sigma": 4.6173,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_mu": 21.7456,
+      "prior_sigma": 5.4986,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_mu": 21.5212,
+      "prior_sigma": 4.6216,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_mu": 22.6097,
+      "prior_sigma": 5.9346,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_mu": 22.5046,
+      "prior_sigma": 5.7196,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Turkey",
+      "path": "asia/turkey",
+      "prior_mu": 26.1572,
+      "prior_sigma": 5.3895,
+      "prior_n": 2
+    }
+  ]
+}

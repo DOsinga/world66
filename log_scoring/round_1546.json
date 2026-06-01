@@ -1,0 +1,200 @@
+{
+  "round": 1546,
+  "timestamp": "2026-04-13T10:30:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 4.2888,
+      "prior_variance": 0.338068,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rudesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 1.7528,
+      "prior_variance": 0.39607,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 3.09,
+      "prior_variance": 0.161739,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 2.6776,
+      "prior_variance": 0.450013,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 2.885,
+      "prior_variance": 0.339591,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 4.0483,
+      "prior_variance": 0.342852,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 2.9895,
+      "prior_variance": 0.337353,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_score": 3.4692,
+      "prior_variance": 0.409483,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_score": 2.5494,
+      "prior_variance": 0.399425,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swanage",
+      "prior_score": -0.1242,
+      "prior_variance": 0.531691,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 2.8696,
+      "prior_variance": 0.340721,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.8808,
+      "prior_variance": 0.375449,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 0.9482,
+      "prior_variance": 0.435141,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 2.2071,
+      "prior_variance": 0.389361,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": 0.0333,
+      "prior_variance": 0.443283,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.2067,
+      "prior_variance": 0.422296,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_score": 0.8863,
+      "prior_variance": 0.352837,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": -1.0172,
+      "prior_variance": 0.599982,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.2559,
+      "prior_variance": 0.422368,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": 1.7485,
+      "prior_variance": 0.298731,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 1.3833,
+      "prior_variance": 0.407237,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -1.9041,
+      "prior_variance": 0.422833,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 1.6798,
+      "prior_variance": 0.434175,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Zimbabwe",
+      "path": "africa/zimbabwe",
+      "prior_score": 0.7003,
+      "prior_variance": 0.350918,
+      "prior_n": 4
+    }
+  ]
+}

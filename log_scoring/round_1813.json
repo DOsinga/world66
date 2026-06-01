@@ -1,0 +1,200 @@
+{
+  "round": 1813,
+  "timestamp": "2026-04-13T10:53:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.188,
+      "prior_variance": 0.428337,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 7.353,
+      "prior_variance": 0.42937,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 5.6302,
+      "prior_variance": 0.248925,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.7359,
+      "prior_variance": 0.535813,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 5.9686,
+      "prior_variance": 0.337054,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/tigullio",
+      "prior_score": 3.0736,
+      "prior_variance": 0.433601,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_score": 7.0879,
+      "prior_variance": 0.401042,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.7522,
+      "prior_variance": 0.381914,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hangzhou",
+      "path": "asia/china/hangzhou",
+      "prior_score": 6.4212,
+      "prior_variance": 0.365329,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Rico",
+      "path": "northamerica/puertorico",
+      "prior_score": 7.1195,
+      "prior_variance": 0.401237,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 3.6954,
+      "prior_variance": 0.37367,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_score": 5.5548,
+      "prior_variance": 0.451142,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 5.8348,
+      "prior_variance": 0.385331,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 3.6588,
+      "prior_variance": 0.330698,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 4.8115,
+      "prior_variance": 0.449579,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": 0.8507,
+      "prior_variance": 0.187189,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -0.8656,
+      "prior_variance": 0.298122,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_score": -2.5595,
+      "prior_variance": 0.298044,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 1.6249,
+      "prior_variance": 0.319809,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.9038,
+      "prior_variance": 0.340409,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -1.1901,
+      "prior_variance": 0.396063,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_score": -3.0838,
+      "prior_variance": 0.343524,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.5283,
+      "prior_variance": 0.409278,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -4.8032,
+      "prior_variance": 0.428992,
+      "prior_n": 4
+    }
+  ]
+}

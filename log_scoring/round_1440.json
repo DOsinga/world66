@@ -1,0 +1,200 @@
+{
+  "round": 1440,
+  "timestamp": "2026-04-12T22:27:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_rank": 5119,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_rank": 4734,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "El Salvador",
+      "path": "northamerica/elsalvador",
+      "prior_rank": 5958,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kosovo",
+      "path": "europe/kosovo",
+      "prior_rank": 6213,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_rank": 4111,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_rank": 6486,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_rank": 4558,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_rank": 4992,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_rank": 7101,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_rank": 6382,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/invercargill",
+      "prior_rank": 4737,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/lowerhutt",
+      "prior_rank": 6738,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_rank": 7427,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_rank": 5150,
+      "prior_wins": 48,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_rank": 4878,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_rank": 4303,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_rank": 4867,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_rank": 4907,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_rank": 5875,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_rank": 5564,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/catanzaro/soveria_mannelli",
+      "prior_rank": 5386,
+      "prior_wins": 41,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Xikou",
+      "path": "asia/china/xikou",
+      "prior_rank": 6592,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_rank": 6053,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Yengema",
+      "path": "africa/sierraleone/yengema",
+      "prior_rank": 7535,
+      "prior_wins": 14,
+      "prior_n": 3
+    }
+  ]
+}

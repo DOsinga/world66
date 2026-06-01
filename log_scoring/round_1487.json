@@ -1,0 +1,200 @@
+{
+  "round": 1487,
+  "timestamp": "2026-04-13T10:25:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 3.1803,
+      "prior_variance": 0.538126,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 2.2174,
+      "prior_variance": 0.592999,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.571,
+      "prior_variance": 0.567317,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": 1.1749,
+      "prior_variance": 0.451544,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nicaragua",
+      "path": "northamerica/nicaragua",
+      "prior_score": -1.9263,
+      "prior_variance": 0.512036,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_score": -0.2644,
+      "prior_variance": 0.506852,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_score": -2.6047,
+      "prior_variance": 0.559049,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.556,
+      "prior_variance": 0.415244,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": 0.9494,
+      "prior_variance": 0.327754,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Prenzlauer Berg",
+      "path": "europe/germany/berlin/prenzlauerberg",
+      "prior_score": 1.9919,
+      "prior_variance": 0.453653,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_score": 0.2432,
+      "prior_variance": 0.268304,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.0747,
+      "prior_variance": 0.259986,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.4627,
+      "prior_variance": 0.307167,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": -0.3682,
+      "prior_variance": 0.599709,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.669,
+      "prior_variance": 0.336879,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 2.288,
+      "prior_variance": 0.452663,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Arecibo",
+      "path": "northamerica/puertorico/arecibo",
+      "prior_score": 0.4083,
+      "prior_variance": 0.629569,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -0.7662,
+      "prior_variance": 0.406868,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -1.037,
+      "prior_variance": 0.835818,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bad Kreuznach",
+      "path": "europe/germany/rhinelandpalatinate/badkreuznach",
+      "prior_score": -0.4194,
+      "prior_variance": 0.463821,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -1.2332,
+      "prior_variance": 0.480853,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/catalonia/sant_andreu_de_lla",
+      "prior_score": -1.097,
+      "prior_variance": 0.468952,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -2.3165,
+      "prior_variance": 0.510404,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -5.6586,
+      "prior_variance": 0.34434,
+      "prior_n": 4
+    }
+  ]
+}

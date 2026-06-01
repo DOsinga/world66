@@ -1,0 +1,200 @@
+{
+  "round": 2086,
+  "timestamp": "2026-04-13T16:09:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 7.618,
+      "prior_variance": 0.55632,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/yogyakarta",
+      "prior_score": 7.3669,
+      "prior_variance": 0.294008,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 3.7763,
+      "prior_variance": 0.320376,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": 0.2284,
+      "prior_variance": 0.27724,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.6204,
+      "prior_variance": 0.205465,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.0239,
+      "prior_variance": 0.181759,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -0.0974,
+      "prior_variance": 0.249906,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.4303,
+      "prior_variance": 0.261136,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Paderborn",
+      "path": "europe/germany/paderborn",
+      "prior_score": -0.5088,
+      "prior_variance": 0.227452,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -2.0085,
+      "prior_variance": 0.323345,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -2.2334,
+      "prior_variance": 0.296246,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_score": -2.9588,
+      "prior_variance": 0.355163,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Komarna",
+      "path": "europe/croatia/komarna",
+      "prior_score": -0.5092,
+      "prior_variance": 0.229295,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cochrane",
+      "path": "northamerica/canada/alberta/cochrane",
+      "prior_score": -1.7895,
+      "prior_variance": 0.25862,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_score": -2.8518,
+      "prior_variance": 0.264091,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_score": -2.6111,
+      "prior_variance": 0.293391,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lower saxony",
+      "path": "europe/germany/lowersaxony",
+      "prior_score": -2.6632,
+      "prior_variance": 0.355582,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_score": -2.7939,
+      "prior_variance": 0.212474,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -4.6561,
+      "prior_variance": 0.317462,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -3.4004,
+      "prior_variance": 0.269724,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -4.528,
+      "prior_variance": 0.310017,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -3.8622,
+      "prior_variance": 0.232611,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Saint-Leonard",
+      "path": "northamerica/canada/quebec/saintleonard",
+      "prior_score": -5.854,
+      "prior_variance": 0.309416,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -7.9895,
+      "prior_variance": 0.405619,
+      "prior_n": 5
+    }
+  ]
+}

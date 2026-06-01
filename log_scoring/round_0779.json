@@ -1,0 +1,200 @@
+{
+  "round": 779,
+  "timestamp": "2026-04-12T10:47:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_mu": 29.1526,
+      "prior_sigma": 6.983,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_mu": 22.4357,
+      "prior_sigma": 4.8398,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_mu": 22.7018,
+      "prior_sigma": 4.6206,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_mu": 21.5729,
+      "prior_sigma": 3.8293,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_mu": 23.1049,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_mu": 22.5306,
+      "prior_sigma": 5.944,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_mu": 21.8855,
+      "prior_sigma": 4.3968,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_mu": 23.7749,
+      "prior_sigma": 5.9753,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_mu": 21.6208,
+      "prior_sigma": 4.4492,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_mu": 21.767,
+      "prior_sigma": 4.5042,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Maryland",
+      "path": "northamerica/unitedstates/maryland",
+      "prior_mu": 22.3244,
+      "prior_sigma": 5.492,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_mu": 22.4134,
+      "prior_sigma": 5.9454,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_mu": 21.3033,
+      "prior_sigma": 4.5025,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_mu": 21.5101,
+      "prior_sigma": 4.8177,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_mu": 21.9392,
+      "prior_sigma": 5.5027,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_mu": 22.2403,
+      "prior_sigma": 5.4981,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_mu": 22.5515,
+      "prior_sigma": 5.5457,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_mu": 21.1155,
+      "prior_sigma": 5.8472,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_mu": 21.8512,
+      "prior_sigma": 5.6887,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 442,
+  "timestamp": "2026-04-12T09:30:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_mu": 21.7567,
+      "prior_sigma": 3.093,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_mu": 29.1218,
+      "prior_sigma": 6.954,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_mu": 22.6037,
+      "prior_sigma": 5.934,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_mu": 22.1211,
+      "prior_sigma": 5.7569,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_mu": 22.6489,
+      "prior_sigma": 5.9394,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_mu": 22.5356,
+      "prior_sigma": 5.9144,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_mu": 22.6558,
+      "prior_sigma": 5.9415,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_mu": 21.4878,
+      "prior_sigma": 5.9128,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_mu": 22.6415,
+      "prior_sigma": 5.9386,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_mu": 22.7215,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mandarmani",
+      "path": "asia/india/westbengal/mandarmani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Balaghat",
+      "path": "asia/india/madhyapradesh/balaghat",
+      "prior_mu": 22.6671,
+      "prior_sigma": 5.6966,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_mu": 21.6711,
+      "prior_sigma": 4.5858,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Nawanshahr",
+      "path": "asia/india/punjab/nawanshahr",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

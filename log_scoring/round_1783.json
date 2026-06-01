@@ -1,0 +1,200 @@
+{
+  "round": 1783,
+  "timestamp": "2026-04-13T10:50:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_score": 7.1233,
+      "prior_variance": 0.466726,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 3.977,
+      "prior_variance": 0.334936,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Island \u0160olta",
+      "path": "europe/croatia/island_solta",
+      "prior_score": 2.125,
+      "prior_variance": 0.351616,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 3.9378,
+      "prior_variance": 0.291818,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 2.4455,
+      "prior_variance": 0.305937,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.3593,
+      "prior_variance": 0.242941,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_score": 1.3803,
+      "prior_variance": 0.367635,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 3.5187,
+      "prior_variance": 0.210788,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.6313,
+      "prior_variance": 0.413312,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.0533,
+      "prior_variance": 0.314657,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": 0.3928,
+      "prior_variance": 0.31429,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.268,
+      "prior_variance": 0.360001,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 1.6146,
+      "prior_variance": 0.269123,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -0.0413,
+      "prior_variance": 0.373349,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 1.0936,
+      "prior_variance": 0.367016,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": 0.0828,
+      "prior_variance": 0.298602,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 0.6481,
+      "prior_variance": 0.300556,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -2.4785,
+      "prior_variance": 0.28938,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": 0.0972,
+      "prior_variance": 0.288798,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.413,
+      "prior_variance": 0.360146,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -3.6882,
+      "prior_variance": 0.404043,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gabon",
+      "path": "africa/gabon",
+      "prior_score": -3.5834,
+      "prior_variance": 0.31495,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -6.0686,
+      "prior_variance": 0.347731,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -7.5585,
+      "prior_variance": 0.35068,
+      "prior_n": 4
+    }
+  ]
+}

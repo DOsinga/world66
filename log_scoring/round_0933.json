@@ -1,0 +1,200 @@
+{
+  "round": 933,
+  "timestamp": "2026-04-12T16:08:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_rank": 32,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lofoten islands",
+      "path": "europe/norway/lofotenislands",
+      "prior_rank": 185,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_rank": 72,
+      "prior_wins": 230,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/otago/milford_sound",
+      "prior_rank": 38,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_rank": 109,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_rank": 77,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Saint Lucia",
+      "path": "northamerica/saintlucia",
+      "prior_rank": 96,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "St. John",
+      "path": "northamerica/virginislands/stjohn",
+      "prior_rank": 225,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_rank": 143,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Gold Coast",
+      "path": "australiaandpacific/australia/queensland/goldcoast",
+      "prior_rank": 247,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_rank": 163,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_rank": 8097,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_rank": 6064,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_rank": 8175,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_rank": 8141,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_rank": 8099,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_rank": 8197,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_rank": 8140,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Somaliland",
+      "path": "africa/somaliland",
+      "prior_rank": 8061,
+      "prior_wins": 2,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_rank": 8182,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "M Baiki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_rank": 8131,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_rank": 8187,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Baker Island",
+      "path": "australiaandpacific/bakerisland",
+      "prior_rank": 8080,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "AuYrfpJmYTzFiPA",
+      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
+      "prior_rank": 8118,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

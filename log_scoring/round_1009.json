@@ -1,0 +1,200 @@
+{
+  "round": 1009,
+  "timestamp": "2026-04-12T22:04:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_rank": 6046,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_rank": 5267,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/leicester_notting/highpeak",
+      "prior_rank": 3901,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_rank": 6983,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_rank": 6241,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_rank": 6476,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_rank": 6621,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_rank": 4158,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_rank": 7006,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_rank": 2688,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_rank": 4823,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_rank": 5616,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Brava",
+      "path": "africa/capeverde/brava",
+      "prior_rank": 5166,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_rank": 5412,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_rank": 5420,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_rank": 3016,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_rank": 4486,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_rank": 5841,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_rank": 6632,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_rank": 6665,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_rank": 6258,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kolomyia",
+      "path": "europe/ukraine/kolomyia",
+      "prior_rank": 5610,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_rank": 6801,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_rank": 6283,
+      "prior_wins": 6,
+      "prior_n": 1
+    }
+  ]
+}

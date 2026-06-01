@@ -1,0 +1,200 @@
+{
+  "round": 2304,
+  "timestamp": "2026-04-13T16:29:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 9.1302,
+      "prior_variance": 0.476755,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 5.2406,
+      "prior_variance": 0.315103,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 2.7828,
+      "prior_variance": 0.292317,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -2.8981,
+      "prior_variance": 0.466411,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -3.9633,
+      "prior_variance": 0.466089,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": -0.3528,
+      "prior_variance": 0.245769,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.7284,
+      "prior_variance": 0.231728,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.384,
+      "prior_variance": 0.258532,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 0.9957,
+      "prior_variance": 0.222248,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 1.6685,
+      "prior_variance": 0.231662,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_score": -1.456,
+      "prior_variance": 0.227489,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.7622,
+      "prior_variance": 0.218451,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -1.4509,
+      "prior_variance": 0.199576,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_score": -3.5935,
+      "prior_variance": 0.342726,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -2.2827,
+      "prior_variance": 0.256256,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/skegness",
+      "prior_score": -3.177,
+      "prior_variance": 0.252009,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -2.5051,
+      "prior_variance": 0.249832,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -3.6502,
+      "prior_variance": 0.194496,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Powell",
+      "path": "northamerica/unitedstates/wyoming/powell",
+      "prior_score": -4.068,
+      "prior_variance": 0.265346,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Yemkeshwar Malla Banas",
+      "path": "asia/india/uttaranchal/yemkeshwar_malla_b",
+      "prior_score": -5.5409,
+      "prior_variance": 0.294591,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -2.274,
+      "prior_variance": 0.186468,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -5.7167,
+      "prior_variance": 0.324798,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_score": -4.2607,
+      "prior_variance": 0.305178,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_score": -7.2737,
+      "prior_variance": 0.338436,
+      "prior_n": 6
+    }
+  ]
+}

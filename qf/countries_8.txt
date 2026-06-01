@@ -1,0 +1,15 @@
+content/australiaandpacific/kiribati.md
+content/australiaandpacific/marshallislands.md
+content/australiaandpacific/midwayislands.md
+content/australiaandpacific/nauru.md
+content/australiaandpacific/newcaledonia.md
+content/australiaandpacific/newzealand.md
+content/australiaandpacific/niue.md
+content/australiaandpacific/norfolkisland.md
+content/australiaandpacific/palau.md
+content/australiaandpacific/pitcairnislands.md
+content/australiaandpacific/solomonislands.md
+content/australiaandpacific/tonga.md
+content/australiaandpacific/tuvalu.md
+content/australiaandpacific/vanuatu.md
+content/australiaandpacific/wakeisland.md

@@ -1,0 +1,200 @@
+{
+  "round": 1921,
+  "timestamp": "2026-04-13T15:54:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maldives",
+      "path": "africa/maldives",
+      "prior_score": 12.8606,
+      "prior_variance": 0.547994,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_score": 7.5014,
+      "prior_variance": 0.46213,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 4.4159,
+      "prior_variance": 0.257084,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 4.2167,
+      "prior_variance": 0.262686,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 2.4906,
+      "prior_variance": 0.250571,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/chengdu/dujiangyan",
+      "prior_score": 3.5978,
+      "prior_variance": 0.278239,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 4.0381,
+      "prior_variance": 0.357848,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 2.806,
+      "prior_variance": 0.274193,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 2.6954,
+      "prior_variance": 0.330413,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_score": -0.2829,
+      "prior_variance": 0.324131,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.6635,
+      "prior_variance": 0.284143,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.6463,
+      "prior_variance": 0.335664,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.2463,
+      "prior_variance": 0.309101,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -2.3981,
+      "prior_variance": 0.300723,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.0008,
+      "prior_variance": 0.426135,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -1.2853,
+      "prior_variance": 0.321668,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.522,
+      "prior_variance": 0.269183,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.9166,
+      "prior_variance": 0.245296,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": -0.1098,
+      "prior_variance": 0.375901,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -0.7482,
+      "prior_variance": 0.358768,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -2.3582,
+      "prior_variance": 0.26448,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/keighley",
+      "prior_score": -3.6349,
+      "prior_variance": 0.310029,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 1.442,
+      "prior_variance": 0.321742,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -5.5987,
+      "prior_variance": 0.520869,
+      "prior_n": 5
+    }
+  ]
+}

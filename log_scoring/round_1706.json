@@ -1,0 +1,200 @@
+{
+  "round": 1706,
+  "timestamp": "2026-04-13T10:43:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 6.916,
+      "prior_variance": 0.38092,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 2.4634,
+      "prior_variance": 0.29589,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.1006,
+      "prior_variance": 0.367282,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 1.7757,
+      "prior_variance": 0.402417,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -0.4662,
+      "prior_variance": 0.339674,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.675,
+      "prior_variance": 0.309757,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 2.6877,
+      "prior_variance": 0.323644,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_score": 0.0053,
+      "prior_variance": 0.304894,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -2.5515,
+      "prior_variance": 0.343654,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -3.0816,
+      "prior_variance": 0.547481,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Surinam",
+      "path": "africa/mauritius/souillac/surinam",
+      "prior_score": -2.645,
+      "prior_variance": 0.327247,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Missouri",
+      "path": "northamerica/unitedstates/missouri",
+      "prior_score": -4.3013,
+      "prior_variance": 0.311521,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -6.1341,
+      "prior_variance": 0.422178,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.432,
+      "prior_variance": 0.392403,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -6.2739,
+      "prior_variance": 0.382611,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -7.587,
+      "prior_variance": 0.398026,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_score": -6.9391,
+      "prior_variance": 0.465834,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/luton",
+      "prior_score": -6.4134,
+      "prior_variance": 0.360171,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -7.4191,
+      "prior_variance": 0.388746,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "neguac",
+      "path": "northamerica/canada/newbrunswick/neguac",
+      "prior_score": -5.4206,
+      "prior_variance": 0.332819,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tipping",
+      "path": "northamerica/costarica/travelinformation/tipping",
+      "prior_score": -6.4092,
+      "prior_variance": 0.402212,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -9.5336,
+      "prior_variance": 0.41356,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -7.5644,
+      "prior_variance": 0.345599,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -7.0328,
+      "prior_variance": 0.386604,
+      "prior_n": 4
+    }
+  ]
+}

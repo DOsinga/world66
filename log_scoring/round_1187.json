@@ -1,0 +1,200 @@
+{
+  "round": 1187,
+  "timestamp": "2026-04-12T22:14:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_rank": 4118,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_rank": 4655,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_rank": 4856,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_rank": 2576,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_rank": 4519,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_rank": 4580,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_rank": 3325,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_rank": 2855,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_rank": 5644,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_rank": 2407,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/catalonia/sant_andreu_de_lla",
+      "prior_rank": 8082,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_rank": 5178,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_rank": 3298,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_rank": 5225,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_rank": 4527,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_rank": 5008,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_rank": 5652,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_rank": 3253,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_rank": 4060,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_rank": 2936,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Laguna",
+      "path": "asia/philippines/laguna",
+      "prior_rank": 2928,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_rank": 4156,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Marsa Matroh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_rank": 4790,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_rank": 2647,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

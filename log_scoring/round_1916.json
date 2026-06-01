@@ -1,0 +1,200 @@
+{
+  "round": 1916,
+  "timestamp": "2026-04-13T15:53:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 8.7817,
+      "prior_variance": 0.435107,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 3.8314,
+      "prior_variance": 0.359147,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 8.0638,
+      "prior_variance": 0.332729,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Israel",
+      "path": "asia/israel",
+      "prior_score": 2.6966,
+      "prior_variance": 0.326978,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.6475,
+      "prior_variance": 0.279998,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 5.4206,
+      "prior_variance": 0.345589,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_score": 3.9608,
+      "prior_variance": 0.277239,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 3.0989,
+      "prior_variance": 0.330235,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 4.2376,
+      "prior_variance": 0.277394,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.8559,
+      "prior_variance": 0.309123,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.6242,
+      "prior_variance": 0.32781,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_score": 2.2164,
+      "prior_variance": 0.414664,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_score": 2.674,
+      "prior_variance": 0.356966,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kizhi",
+      "path": "europe/russia/kizhi",
+      "prior_score": 1.1767,
+      "prior_variance": 0.428052,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 4.5538,
+      "prior_variance": 0.347166,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 1.8352,
+      "prior_variance": 0.31291,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.4545,
+      "prior_variance": 0.343415,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 0.7984,
+      "prior_variance": 0.316741,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 3.0394,
+      "prior_variance": 0.346965,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_score": 0.2235,
+      "prior_variance": 0.320797,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Limousin",
+      "path": "europe/france/centre/limousin",
+      "prior_score": -2.047,
+      "prior_variance": 0.329141,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.0144,
+      "prior_variance": 0.289572,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ivory Coast",
+      "path": "africa/ivorycoast",
+      "prior_score": -4.3963,
+      "prior_variance": 0.405836,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -7.1891,
+      "prior_variance": 0.337523,
+      "prior_n": 6
+    }
+  ]
+}

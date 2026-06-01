@@ -1,0 +1,200 @@
+{
+  "round": 21,
+  "timestamp": "2026-04-11T19:25:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 29.07,
+      "prior_sigma": 6.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_mu": 25.73,
+      "prior_sigma": 6.13,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 23.51,
+      "prior_sigma": 5.8,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_mu": 22.88,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_mu": 22.7,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 22.64,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_mu": 22.29,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_mu": 21.99,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    }
+  ]
+}

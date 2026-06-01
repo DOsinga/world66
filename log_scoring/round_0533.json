@@ -1,0 +1,200 @@
+{
+  "round": 533,
+  "timestamp": "2026-04-12T09:45:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_mu": 27.7657,
+      "prior_sigma": 2.8248,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_mu": 23.4911,
+      "prior_sigma": 2.2533,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_mu": 21.6391,
+      "prior_sigma": 2.105,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 22.4025,
+      "prior_sigma": 2.4733,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland",
+      "prior_mu": 21.1481,
+      "prior_sigma": 2.3167,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_mu": 21.4793,
+      "prior_sigma": 2.5037,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_mu": 21.2871,
+      "prior_sigma": 2.238,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_mu": 21.0767,
+      "prior_sigma": 2.5288,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_mu": 21.1401,
+      "prior_sigma": 2.572,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_mu": 21.0218,
+      "prior_sigma": 2.6137,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 20.6115,
+      "prior_sigma": 1.9981,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_mu": 21.4086,
+      "prior_sigma": 2.4882,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_mu": 21.0926,
+      "prior_sigma": 3.2151,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_mu": 20.4818,
+      "prior_sigma": 2.0331,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 20.5145,
+      "prior_sigma": 2.2153,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_mu": 20.6926,
+      "prior_sigma": 2.9197,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_mu": 20.333,
+      "prior_sigma": 2.2698,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_mu": 20.5141,
+      "prior_sigma": 2.229,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_mu": 20.0121,
+      "prior_sigma": 2.5212,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_mu": 20.7465,
+      "prior_sigma": 3.2242,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 20.072,
+      "prior_sigma": 1.9538,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_mu": 20.1924,
+      "prior_sigma": 2.3533,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 18.3853,
+      "prior_sigma": 2.454,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 21.7903,
+      "prior_sigma": 2.5227,
+      "prior_n": 8
+    }
+  ]
+}

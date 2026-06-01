@@ -1,0 +1,200 @@
+{
+  "round": 1237,
+  "timestamp": "2026-04-12T22:16:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_rank": 5274,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_rank": 3579,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_rank": 5885,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "South East",
+      "path": "europe/unitedkingdom/england/south_east",
+      "prior_rank": 5411,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
+      "prior_rank": 4301,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_rank": 4529,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Zambia",
+      "path": "africa/zambia",
+      "prior_rank": 4545,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_rank": 7013,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_rank": 4318,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_rank": 5562,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/hamilton",
+      "prior_rank": 6571,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_rank": 6808,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Solentiname Islands",
+      "path": "northamerica/nicaragua/solentiname_island",
+      "prior_rank": 5507,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_rank": 5531,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_rank": 4181,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_rank": 4753,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_rank": 4871,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Calice Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure",
+      "prior_rank": 5520,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_rank": 6360,
+      "prior_wins": 44,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_rank": 6364,
+      "prior_wins": 37,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_rank": 3615,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_rank": 4552,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cambridge",
+      "path": "northamerica/canada/ontario/cambridge",
+      "prior_rank": 5790,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_rank": 4650,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

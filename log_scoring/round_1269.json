@@ -1,0 +1,200 @@
+{
+  "round": 1269,
+  "timestamp": "2026-04-12T22:18:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "California",
+      "path": "northamerica/unitedstates/california",
+      "prior_rank": 1848,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/hollywood",
+      "prior_rank": 915,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_rank": 526,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Champagne",
+      "path": "europe/france/east/champagne",
+      "prior_rank": 1536,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/franzjosef",
+      "prior_rank": 1258,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_rank": 953,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_rank": 146,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_rank": 1044,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/italianriviera/tigullio",
+      "prior_rank": 826,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_rank": 1975,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_rank": 390,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mosel",
+      "path": "europe/germany/wine/mosel",
+      "prior_rank": 1463,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_rank": 582,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pontevedra City",
+      "path": "europe/spain/galicia/pontevedra_city",
+      "prior_rank": 2526,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "La Gomera",
+      "path": "europe/spain/canaryislands/lagomera",
+      "prior_rank": 814,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_rank": 1674,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_rank": 2719,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_rank": 637,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "New Territories",
+      "path": "asia/china/hongkong/newterritories",
+      "prior_rank": 2278,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_rank": 232,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lopud Island",
+      "path": "europe/croatia/lopud_island",
+      "prior_rank": 886,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_rank": 3100,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bornholm Island",
+      "path": "europe/denmark/bornholmisland",
+      "prior_rank": 1013,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_rank": 1877,
+      "prior_wins": 32,
+      "prior_n": 2
+    }
+  ]
+}

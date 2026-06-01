@@ -1,0 +1,200 @@
+{
+  "round": 864,
+  "timestamp": "2026-04-12T14:45:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_score": 10.8106,
+      "prior_variance": 1.536842,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 4.237,
+      "prior_variance": 0.931312,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 4.8331,
+      "prior_variance": 1.874148,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 3.4504,
+      "prior_variance": 1.511067,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 13.4802,
+      "prior_variance": 7.902452,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Menton",
+      "path": "europe/france/midi/menton",
+      "prior_score": 7.4114,
+      "prior_variance": 1.944224,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 8.117,
+      "prior_variance": 2.971608,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_score": 9.8216,
+      "prior_variance": 10.118633,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "West Coast",
+      "path": "asia/turkey/westcoast",
+      "prior_score": 6.2551,
+      "prior_variance": 1.529585,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_score": 2.5245,
+      "prior_variance": 1.470806,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 3.7052,
+      "prior_variance": 1.234682,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_score": 1.184,
+      "prior_variance": 1.48895,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": -1.0126,
+      "prior_variance": 1.29771,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -0.0589,
+      "prior_variance": 1.277744,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": 1.4767,
+      "prior_variance": 1.431695,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
+      "prior_score": 1.9594,
+      "prior_variance": 0.835885,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_score": -1.3788,
+      "prior_variance": 0.743991,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": 0.5153,
+      "prior_variance": 1.412365,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.1492,
+      "prior_variance": 1.498999,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.4114,
+      "prior_variance": 1.356538,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Khushab (Valley Soon Sakesar)",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1/khushab_valley_so",
+      "prior_score": -7.2546,
+      "prior_variance": 1.524624,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Madhegaon kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -9.9867,
+      "prior_variance": 9.649365,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -6.9531,
+      "prior_variance": 1.46255,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -10.4885,
+      "prior_variance": 8.976211,
+      "prior_n": 1
+    }
+  ]
+}

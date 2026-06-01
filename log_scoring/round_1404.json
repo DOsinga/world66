@@ -1,0 +1,200 @@
+{
+  "round": 1404,
+  "timestamp": "2026-04-12T22:25:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_rank": 1021,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_rank": 2937,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_rank": 1907,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_rank": 3704,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_rank": 4364,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_rank": 2420,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_rank": 3761,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_rank": 2568,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_rank": 3427,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_rank": 1996,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_rank": 7062,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_rank": 3960,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_rank": 4160,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_rank": 3994,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_rank": 4288,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_rank": 4502,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_rank": 3317,
+      "prior_wins": 64,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_rank": 5383,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_rank": 4196,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_rank": 4378,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_rank": 4947,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tripura",
+      "path": "asia/india/tripura",
+      "prior_rank": 3978,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_rank": 5497,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_rank": 5651,
+      "prior_wins": 26,
+      "prior_n": 3
+    }
+  ]
+}

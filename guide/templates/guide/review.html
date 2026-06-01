@@ -1,0 +1,38 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Branch Review — World66{% endblock %}
+
+{% block content %}
+<h1>Branch review: <code>{{ branch }}</code></h1>
+
+<form method="get" style="margin-bottom:1em;">
+  <input name="branch" value="{{ branch }}" style="width:30em;" placeholder="branch name or HEAD">
+  <button type="submit">Load</button>
+</form>
+
+{% if error %}
+  <p style="color: red;">{{ error }}</p>
+{% elif not pages %}
+  <p>No content files changed on <code>{{ branch }}</code> (vs <code>origin/main</code>).</p>
+{% else %}
+  <p>{{ pages|length }} page{{ pages|length|pluralize }} changed on <code>{{ branch }}</code>:</p>
+  <ul>
+    {% for p in pages %}
+    <li style="margin-bottom:0.6em;">
+      {% if p.deleted %}
+        <strong>{{ p.title }}</strong> <span style="color:#999;font-size:0.85em;">verwijderd</span>
+      {% else %}
+        <a href="/{{ p.url_path }}?branch={{ branch }}">{{ p.title }}</a>
+        {% if p.removed or p.added %}
+        <div style="font-size:0.82em;font-family:monospace;margin:0.15em 0 0 1em;line-height:1.5;">
+          {% for t in p.removed %}<div style="color:#c00;">− {{ t }}</div>{% endfor %}
+          {% for t in p.added %}<div style="color:#080;">+ {{ t }}</div>{% endfor %}
+          {% if p.more %}<div style="color:#999;">…</div>{% endif %}
+        </div>
+        {% endif %}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+{% endblock %}

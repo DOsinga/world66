@@ -1,0 +1,200 @@
+{
+  "round": 2004,
+  "timestamp": "2026-04-13T16:02:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cook Islands",
+      "path": "australiaandpacific/cookislands",
+      "prior_score": 9.0583,
+      "prior_variance": 0.444472,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 6.5303,
+      "prior_variance": 0.333598,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lago di Garda",
+      "path": "europe/italy/lombardia/lagodigarda",
+      "prior_score": 7.6183,
+      "prior_variance": 0.308679,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_score": 6.7537,
+      "prior_variance": 0.280736,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 4.0346,
+      "prior_variance": 0.289864,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 2.1741,
+      "prior_variance": 0.266381,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Santander",
+      "path": "europe/spain/northernspain/santander",
+      "prior_score": 3.6299,
+      "prior_variance": 0.239274,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": 1.597,
+      "prior_variance": 0.280981,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.8863,
+      "prior_variance": 0.257136,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -0.9306,
+      "prior_variance": 0.381049,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_score": -1.4262,
+      "prior_variance": 0.256029,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 0.78,
+      "prior_variance": 0.29105,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_score": 0.7248,
+      "prior_variance": 0.211451,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.2431,
+      "prior_variance": 0.272724,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -1.2437,
+      "prior_variance": 0.2372,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Asir",
+      "path": "asia/saudiarabia/asir",
+      "prior_score": -3.0252,
+      "prior_variance": 0.247141,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -4.0376,
+      "prior_variance": 0.462456,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -0.3523,
+      "prior_variance": 0.349024,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -1.9907,
+      "prior_variance": 0.309369,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga",
+      "prior_score": -4.1084,
+      "prior_variance": 0.253719,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Garca",
+      "path": "southamerica/brazil/garca",
+      "prior_score": -6.1841,
+      "prior_variance": 0.342616,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -5.3963,
+      "prior_variance": 0.307534,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.3414,
+      "prior_variance": 0.280985,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -4.7454,
+      "prior_variance": 0.418825,
+      "prior_n": 5
+    }
+  ]
+}

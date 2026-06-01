@@ -1,0 +1,200 @@
+{
+  "round": 1200,
+  "timestamp": "2026-04-12T22:14:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_rank": 3105,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_rank": 1512,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_rank": 2379,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_rank": 2451,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cabo Rojo",
+      "path": "northamerica/puertorico/caborojo",
+      "prior_rank": 1174,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/north_island/waikato",
+      "prior_rank": 4690,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_rank": 3321,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_rank": 2963,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_rank": 1711,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_rank": 4164,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Bucks County",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
+      "prior_rank": 3810,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_rank": 3651,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_rank": 4018,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_rank": 2411,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_rank": 2459,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_rank": 4248,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_rank": 2139,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_rank": 3606,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_rank": 6882,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_rank": 3568,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_rank": 1630,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_rank": 4557,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_rank": 3298,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_rank": 3413,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

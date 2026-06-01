@@ -1,0 +1,200 @@
+{
+  "round": 1755,
+  "timestamp": "2026-04-13T10:48:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 8.5828,
+      "prior_variance": 0.342274,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_score": -2.4194,
+      "prior_variance": 1.327396,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_score": 1.6186,
+      "prior_variance": 0.331246,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "San gil",
+      "path": "southamerica/colombia/san_gil",
+      "prior_score": 3.119,
+      "prior_variance": 0.31551,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 2.086,
+      "prior_variance": 0.285471,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Varatella Valley",
+      "path": "europe/italy/liguria/varatellavalley",
+      "prior_score": 1.7062,
+      "prior_variance": 0.331082,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -0.2691,
+      "prior_variance": 0.29742,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -4.5034,
+      "prior_variance": 0.219164,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -1.8254,
+      "prior_variance": 0.391928,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_score": -2.0342,
+      "prior_variance": 0.297758,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -2.851,
+      "prior_variance": 0.435597,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -2.2291,
+      "prior_variance": 0.349117,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Huayang Village",
+      "path": "asia/china/huayang_village",
+      "prior_score": -5.6648,
+      "prior_variance": 0.429481,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -1.8624,
+      "prior_variance": 0.284302,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Seaside Heights",
+      "path": "northamerica/unitedstates/newjersey/seaside_heights",
+      "prior_score": -1.919,
+      "prior_variance": 0.332702,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -4.1251,
+      "prior_variance": 0.341574,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -2.901,
+      "prior_variance": 0.303259,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.623,
+      "prior_variance": 0.38193,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -4.1387,
+      "prior_variance": 0.570319,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisc",
+      "prior_score": -6.619,
+      "prior_variance": 0.83884,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Century City",
+      "path": "northamerica/unitedstates/california/losangeles/centurycity",
+      "prior_score": -3.4646,
+      "prior_variance": 0.407852,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -3.1405,
+      "prior_variance": 0.285286,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_score": -4.0205,
+      "prior_variance": 0.328747,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -11.0194,
+      "prior_variance": 0.278003,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 119,
+  "timestamp": "2026-04-12T08:44:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_mu": 22.6033,
+      "prior_sigma": 3.0845,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swanage",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "McDowell County",
+      "path": "northamerica/unitedstates/northcarolina/mcdowell_county",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/catanzaro/soveria_mannelli",
+      "prior_mu": 21.6756,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Tjuchum",
+      "path": "europe/netherlands/tjuchum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

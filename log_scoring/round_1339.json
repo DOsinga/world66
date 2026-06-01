@@ -1,0 +1,200 @@
+{
+  "round": 1339,
+  "timestamp": "2026-04-12T22:22:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_rank": 208,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_rank": 1137,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_rank": 867,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_rank": 171,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_rank": 361,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_rank": 2366,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_rank": 1668,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_rank": 3740,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_rank": 499,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_rank": 1424,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Valle d'Aosta",
+      "path": "europe/italy/valledaosta",
+      "prior_rank": 1909,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_rank": 1125,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_rank": 1202,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_rank": 1040,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_rank": 1159,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon",
+      "prior_rank": 2768,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_rank": 2818,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_rank": 2020,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_rank": 1304,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_rank": 2192,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_rank": 416,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_rank": 796,
+      "prior_wins": 83,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_rank": 3395,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_rank": 488,
+      "prior_wins": 58,
+      "prior_n": 3
+    }
+  ]
+}

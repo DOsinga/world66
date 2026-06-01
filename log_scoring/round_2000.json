@@ -1,0 +1,200 @@
+{
+  "round": 2000,
+  "timestamp": "2026-04-13T16:01:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.538,
+      "prior_variance": 0.231821,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Haut-Languedoc Regional Nature Park",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg",
+      "prior_score": 1.8909,
+      "prior_variance": 0.270043,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 2.4844,
+      "prior_variance": 0.299312,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 1.1794,
+      "prior_variance": 0.338617,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Playa Brasilito",
+      "path": "northamerica/costarica/playabrasilito",
+      "prior_score": 3.2452,
+      "prior_variance": 0.262468,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": -1.2754,
+      "prior_variance": 0.438476,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": 0.1038,
+      "prior_variance": 0.341315,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.1651,
+      "prior_variance": 0.256866,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -0.743,
+      "prior_variance": 0.33486,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.8069,
+      "prior_variance": 0.293583,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Melville",
+      "path": "africa/southafrica/johannesburg/melville",
+      "prior_score": -3.8219,
+      "prior_variance": 0.45559,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -3.241,
+      "prior_variance": 0.255584,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -3.4795,
+      "prior_variance": 0.443486,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_score": -3.2962,
+      "prior_variance": 0.298201,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -2.2804,
+      "prior_variance": 0.289572,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Deleg",
+      "path": "southamerica/ecuador/deleg",
+      "prior_score": -4.2455,
+      "prior_variance": 0.40651,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -4.2581,
+      "prior_variance": 0.294351,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -3.8825,
+      "prior_variance": 0.272675,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -5.8822,
+      "prior_variance": 0.238242,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -6.1325,
+      "prior_variance": 0.441814,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/consett",
+      "prior_score": -6.309,
+      "prior_variance": 0.331868,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.0883,
+      "prior_variance": 0.271392,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dickenson Bay",
+      "path": "southamerica/argentina/dickensonbay",
+      "prior_score": -9.2419,
+      "prior_variance": 0.381951,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_1",
+      "prior_score": -5.4253,
+      "prior_variance": 0.757368,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2252,
+  "timestamp": "2026-04-13T16:24:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 9.7931,
+      "prior_variance": 0.40279,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 5.7446,
+      "prior_variance": 0.296265,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_score": 5.7815,
+      "prior_variance": 0.288084,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 2.8514,
+      "prior_variance": 0.197957,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_score": -0.3458,
+      "prior_variance": 0.15382,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_score": -1.5822,
+      "prior_variance": 0.237982,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -2.3094,
+      "prior_variance": 0.236337,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_score": -0.7586,
+      "prior_variance": 0.22641,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_score": -3.285,
+      "prior_variance": 0.241766,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -1.6612,
+      "prior_variance": 0.313288,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/yucatan/uruapan",
+      "prior_score": -3.5185,
+      "prior_variance": 0.214441,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.1459,
+      "prior_variance": 0.356662,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_score": -3.148,
+      "prior_variance": 0.220417,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -3.7076,
+      "prior_variance": 0.224671,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -3.1887,
+      "prior_variance": 0.251088,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -3.7915,
+      "prior_variance": 0.254532,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -3.6051,
+      "prior_variance": 0.244482,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Nanded",
+      "path": "asia/india/maharashtra/mumbai/nanded",
+      "prior_score": -4.6783,
+      "prior_variance": 0.29643,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.0379,
+      "prior_variance": 0.255053,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_score": -3.536,
+      "prior_variance": 0.218044,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_score": -3.0356,
+      "prior_variance": 0.229322,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -6.6671,
+      "prior_variance": 0.414864,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_score": -6.2212,
+      "prior_variance": 0.27297,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal_1",
+      "prior_score": -7.7188,
+      "prior_variance": 0.401565,
+      "prior_n": 5
+    }
+  ]
+}

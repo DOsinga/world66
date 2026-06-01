@@ -1,0 +1,200 @@
+{
+  "round": 1930,
+  "timestamp": "2026-04-13T15:55:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 4.38,
+      "prior_variance": 0.414318,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 4.417,
+      "prior_variance": 0.377832,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.9253,
+      "prior_variance": 0.279302,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_score": 2.6545,
+      "prior_variance": 0.242008,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_score": -0.8449,
+      "prior_variance": 0.446114,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -1.1107,
+      "prior_variance": 0.236826,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -1.2765,
+      "prior_variance": 0.462401,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -0.4517,
+      "prior_variance": 0.342503,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 0.4537,
+      "prior_variance": 0.30919,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -3.8734,
+      "prior_variance": 0.307524,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -1.3227,
+      "prior_variance": 0.26075,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -3.3693,
+      "prior_variance": 0.241288,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.0218,
+      "prior_variance": 0.2534,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_score": -2.8766,
+      "prior_variance": 0.28672,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -2.6024,
+      "prior_variance": 0.304275,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -1.4702,
+      "prior_variance": 0.242481,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -4.8821,
+      "prior_variance": 0.247961,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -1.9806,
+      "prior_variance": 0.249084,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_score": -4.685,
+      "prior_variance": 0.290067,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Clarence",
+      "path": "northamerica/unitedstates/newyorkstate/clarence",
+      "prior_score": -4.876,
+      "prior_variance": 0.44874,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -6.32,
+      "prior_variance": 0.374324,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -3.9819,
+      "prior_variance": 0.289694,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "e",
+      "path": "northamerica/unitedstates/colorado/e",
+      "prior_score": -7.6478,
+      "prior_variance": 0.642118,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_score": -7.7001,
+      "prior_variance": 0.646095,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 776,
+  "timestamp": "2026-04-12T10:47:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_mu": 25.6714,
+      "prior_sigma": 5.2851,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_mu": 23.3594,
+      "prior_sigma": 4.8528,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_mu": 22.8469,
+      "prior_sigma": 6.0118,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_mu": 21.5345,
+      "prior_sigma": 4.0214,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_mu": 23.1653,
+      "prior_sigma": 5.6795,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_mu": 22.6626,
+      "prior_sigma": 5.9351,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Oderzo",
+      "path": "europe/italy/veneto/oderzo",
+      "prior_mu": 21.8639,
+      "prior_sigma": 5.7174,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_mu": 19.5124,
+      "prior_sigma": 4.145,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/clitheroe",
+      "prior_mu": 21.8559,
+      "prior_sigma": 4.7023,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Monkstown",
+      "path": "europe/ireland/cork/monkstown",
+      "prior_mu": 22.2892,
+      "prior_sigma": 5.4241,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_mu": 21.7561,
+      "prior_sigma": 4.6411,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_mu": 22.2014,
+      "prior_sigma": 5.4954,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_mu": 22.7378,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_mu": 22.504,
+      "prior_sigma": 5.4192,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_mu": 16.4143,
+      "prior_sigma": 4.5444,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_mu": 22.5374,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_mu": 22.6766,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_mu": 21.5819,
+      "prior_sigma": 4.5089,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tipping",
+      "path": "northamerica/costarica/travelinformation/tipping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_mu": 22.2616,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_mu": 17.8333,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_mu": 22.5762,
+      "prior_sigma": 5.6652,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_mu": 22.2473,
+      "prior_sigma": 5.5217,
+      "prior_n": 1
+    }
+  ]
+}

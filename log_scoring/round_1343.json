@@ -1,0 +1,200 @@
+{
+  "round": 1343,
+  "timestamp": "2026-04-12T22:22:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_rank": 6994,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_rank": 4595,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_rank": 7106,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_rank": 5687,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_rank": 7407,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
+      "prior_rank": 7122,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/watford",
+      "prior_rank": 6604,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_rank": 7872,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_rank": 4944,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_rank": 7276,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_rank": 6981,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_rank": 3489,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Misamis Occidental",
+      "path": "asia/philippines/misamis_occidental",
+      "prior_rank": 7567,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_rank": 7918,
+      "prior_wins": 19,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_rank": 7110,
+      "prior_wins": 27,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_rank": 5905,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_rank": 7688,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Surnadal",
+      "path": "europe/norway/surnadal",
+      "prior_rank": 8023,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_rank": 8171,
+      "prior_wins": 13,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_rank": 7720,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_rank": 7384,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_rank": 6397,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Maple Creek",
+      "path": "northamerica/canada/saskatchewan/maple_creek",
+      "prior_rank": 6571,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_rank": 6964,
+      "prior_wins": 23,
+      "prior_n": 4
+    }
+  ]
+}

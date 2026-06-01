@@ -1,0 +1,200 @@
+{
+  "round": 1158,
+  "timestamp": "2026-04-12T22:12:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_rank": 6397,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Madhya Pradesh",
+      "path": "asia/india/madhyapradesh",
+      "prior_rank": 5006,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_rank": 3818,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_rank": 6643,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_rank": 6582,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_rank": 4536,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_rank": 7228,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_rank": 6592,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_rank": 7571,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_rank": 2697,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_rank": 6128,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_rank": 6131,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_rank": 4546,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_rank": 6825,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_rank": 6270,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_rank": 7210,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_rank": 5681,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_rank": 5396,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_rank": 7367,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_rank": 5709,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_rank": 6753,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_rank": 6089,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_rank": 5937,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur/wadi_matkhandoush",
+      "prior_rank": 7215,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

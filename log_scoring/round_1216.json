@@ -1,0 +1,200 @@
+{
+  "round": 1216,
+  "timestamp": "2026-04-12T22:15:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_rank": 5148,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_rank": 6468,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_rank": 5611,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
+      "prior_rank": 3959,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_rank": 3569,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_rank": 4902,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_rank": 5973,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_rank": 4272,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_rank": 5985,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Asir",
+      "path": "asia/saudiarabia/asir",
+      "prior_rank": 4508,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_rank": 4239,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_rank": 5098,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_rank": 3200,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_rank": 4188,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_rank": 6034,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_rank": 4524,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_rank": 7809,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_rank": 6478,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_rank": 4704,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_rank": 5170,
+      "prior_wins": 65,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_rank": 7050,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Inderoy",
+      "path": "europe/norway/inderoy",
+      "prior_rank": 5976,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_rank": 4293,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_rank": 4840,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

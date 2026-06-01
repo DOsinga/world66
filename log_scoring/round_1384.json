@@ -1,0 +1,200 @@
+{
+  "round": 1384,
+  "timestamp": "2026-04-12T22:24:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Azerbaijan",
+      "path": "europe/azerbaijan",
+      "prior_rank": 7231,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bournemouth",
+      "prior_rank": 2021,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_rank": 5790,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_rank": 5596,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Malawi",
+      "path": "africa/malawi",
+      "prior_rank": 6453,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Surin Province",
+      "path": "asia/thailand/surin_province",
+      "prior_rank": 4920,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_rank": 5526,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_rank": 4464,
+      "prior_wins": 75,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_rank": 2765,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_rank": 6156,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_rank": 5302,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_rank": 5632,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_rank": 4713,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_rank": 5825,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_rank": 5380,
+      "prior_wins": 54,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_rank": 4503,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_rank": 5511,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Clarkdale",
+      "path": "northamerica/unitedstates/arizona/clarkdale",
+      "prior_rank": 3616,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/berkhampsted",
+      "prior_rank": 3147,
+      "prior_wins": 53,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_rank": 4669,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_rank": 6096,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_rank": 5048,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_rank": 5939,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_rank": 5972,
+      "prior_wins": 32,
+      "prior_n": 4
+    }
+  ]
+}

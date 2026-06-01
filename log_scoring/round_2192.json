@@ -1,0 +1,200 @@
+{
+  "round": 2192,
+  "timestamp": "2026-04-13T16:19:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.5622,
+      "prior_variance": 0.30816,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_score": 4.0021,
+      "prior_variance": 0.228103,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.8225,
+      "prior_variance": 0.254077,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 3.7495,
+      "prior_variance": 0.238411,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 2.337,
+      "prior_variance": 0.299267,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.0702,
+      "prior_variance": 0.301803,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.2098,
+      "prior_variance": 0.237108,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.7839,
+      "prior_variance": 0.386102,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 3.8093,
+      "prior_variance": 0.309317,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.8109,
+      "prior_variance": 0.239996,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": -1.1752,
+      "prior_variance": 0.409243,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 1.1316,
+      "prior_variance": 0.316328,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": 0.037,
+      "prior_variance": 0.168527,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.3546,
+      "prior_variance": 0.237777,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": 0.5527,
+      "prior_variance": 0.33043,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.3446,
+      "prior_variance": 0.303611,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Nevada",
+      "path": "northamerica/unitedstates/nevada",
+      "prior_score": 2.5002,
+      "prior_variance": 0.376443,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Poughkeepsie",
+      "path": "northamerica/unitedstates/newyorkstate/poughkeepsie",
+      "prior_score": -2.793,
+      "prior_variance": 0.262683,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -5.5124,
+      "prior_variance": 0.258368,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.4146,
+      "prior_variance": 0.222191,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.8808,
+      "prior_variance": 0.35883,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -6.2158,
+      "prior_variance": 0.284392,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -6.0315,
+      "prior_variance": 0.320289,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -6.7695,
+      "prior_variance": 0.410421,
+      "prior_n": 6
+    }
+  ]
+}

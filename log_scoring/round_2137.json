@@ -1,0 +1,200 @@
+{
+  "round": 2137,
+  "timestamp": "2026-04-13T16:13:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 5.0823,
+      "prior_variance": 0.291871,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 5.799,
+      "prior_variance": 0.341031,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.5812,
+      "prior_variance": 0.287468,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 4.0896,
+      "prior_variance": 0.410023,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.5616,
+      "prior_variance": 0.221405,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 0.495,
+      "prior_variance": 0.313687,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Isle of Man",
+      "path": "europe/isleofman",
+      "prior_score": 2.5153,
+      "prior_variance": 0.284645,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": -0.2079,
+      "prior_variance": 0.30393,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.6657,
+      "prior_variance": 0.239326,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_score": -0.4437,
+      "prior_variance": 0.309753,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -1.4623,
+      "prior_variance": 0.218897,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.0222,
+      "prior_variance": 0.285482,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -3.1832,
+      "prior_variance": 0.311877,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -2.5273,
+      "prior_variance": 0.27034,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Timor-Leste",
+      "path": "asia/easttimor",
+      "prior_score": -0.5033,
+      "prior_variance": 0.271904,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_score": -3.5994,
+      "prior_variance": 0.315115,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -3.5606,
+      "prior_variance": 0.286412,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.1534,
+      "prior_variance": 0.281113,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Neumuenster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -4.6329,
+      "prior_variance": 0.31055,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Parkersburg",
+      "path": "northamerica/unitedstates/westvirginia/parkersburg",
+      "prior_score": -5.0774,
+      "prior_variance": 0.264411,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -5.6079,
+      "prior_variance": 0.554819,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -3.696,
+      "prior_variance": 0.404074,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_score": -7.035,
+      "prior_variance": 0.261531,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -10.7936,
+      "prior_variance": 0.472805,
+      "prior_n": 5
+    }
+  ]
+}

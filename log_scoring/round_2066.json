@@ -1,0 +1,200 @@
+{
+  "round": 2066,
+  "timestamp": "2026-04-13T16:07:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 4.5456,
+      "prior_variance": 0.271647,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 4.5878,
+      "prior_variance": 0.36983,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 6.355,
+      "prior_variance": 0.314379,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_score": 4.484,
+      "prior_variance": 0.252426,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_score": 2.9917,
+      "prior_variance": 0.300136,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 2.7351,
+      "prior_variance": 0.226176,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.7655,
+      "prior_variance": 0.258194,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": 0.2341,
+      "prior_variance": 0.243724,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -0.7977,
+      "prior_variance": 0.313727,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_score": 0.3389,
+      "prior_variance": 0.263099,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
+      "path": "europe/italy/calabria/hilltowns_of_the",
+      "prior_score": -0.1157,
+      "prior_variance": 0.235776,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_score": 0.5942,
+      "prior_variance": 0.251538,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -0.7077,
+      "prior_variance": 0.26389,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -3.7318,
+      "prior_variance": 0.311334,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -1.0216,
+      "prior_variance": 0.232977,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bowen",
+      "path": "australiaandpacific/australia/newsouthwales/bowen",
+      "prior_score": -2.0391,
+      "prior_variance": 0.268299,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.7561,
+      "prior_variance": 0.279265,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -1.9197,
+      "prior_variance": 0.268377,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.9234,
+      "prior_variance": 0.389155,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -3.8969,
+      "prior_variance": 0.299216,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_score": 0.4654,
+      "prior_variance": 0.273134,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_score": -8.3852,
+      "prior_variance": 0.364101,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_score": -4.9481,
+      "prior_variance": 0.316501,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Horley",
+      "path": "europe/unitedkingdom/england/horley",
+      "prior_score": -4.9198,
+      "prior_variance": 0.300798,
+      "prior_n": 5
+    }
+  ]
+}

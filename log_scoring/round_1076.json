@@ -1,0 +1,200 @@
+{
+  "round": 1076,
+  "timestamp": "2026-04-12T22:08:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_rank": 2036,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_rank": 2968,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_rank": 1568,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_rank": 2788,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_rank": 2582,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_rank": 3210,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_rank": 2677,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_rank": 2114,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_rank": 2587,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_rank": 4219,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_rank": 3172,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/murnau_am_staffels",
+      "prior_rank": 2746,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_rank": 7388,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Vila do conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_rank": 4462,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_rank": 4944,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_rank": 2844,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_rank": 4889,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/sheffield",
+      "prior_rank": 4230,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_rank": 2780,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_rank": 3578,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/losangeles/pasadena",
+      "prior_rank": 2192,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/eastland",
+      "prior_rank": 4029,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_rank": 4017,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_rank": 4624,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

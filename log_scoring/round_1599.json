@@ -1,0 +1,200 @@
+{
+  "round": 1599,
+  "timestamp": "2026-04-13T10:34:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -0.2396,
+      "prior_variance": 0.401856,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -1.4643,
+      "prior_variance": 0.325876,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -2.8525,
+      "prior_variance": 0.332622,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -4.5253,
+      "prior_variance": 0.381002,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 1.327,
+      "prior_variance": 0.327413,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": -1.3232,
+      "prior_variance": 0.340333,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.614,
+      "prior_variance": 0.331178,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_score": -4.3355,
+      "prior_variance": 0.386144,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -3.6106,
+      "prior_variance": 0.340684,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/southampton/warsash",
+      "prior_score": -4.3876,
+      "prior_variance": 0.316522,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_score": -5.8044,
+      "prior_variance": 0.371165,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -4.0486,
+      "prior_variance": 0.474789,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -0.5364,
+      "prior_variance": 0.318325,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.949,
+      "prior_variance": 0.356915,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_score": -5.9183,
+      "prior_variance": 0.482302,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -1.1261,
+      "prior_variance": 0.296236,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -6.3422,
+      "prior_variance": 0.405561,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.1032,
+      "prior_variance": 0.328585,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hannahurfri",
+      "path": "asia/china/hainanisland/hannahurfri",
+      "prior_score": -5.6008,
+      "prior_variance": 0.494553,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -5.2408,
+      "prior_variance": 0.438679,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -4.0717,
+      "prior_variance": 0.376205,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vinnista",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -5.6714,
+      "prior_variance": 0.353096,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": -5.6723,
+      "prior_variance": 0.394222,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.8632,
+      "prior_variance": 0.401336,
+      "prior_n": 3
+    }
+  ]
+}

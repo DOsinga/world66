@@ -1,0 +1,200 @@
+{
+  "round": 2138,
+  "timestamp": "2026-04-13T16:13:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_score": 6.0703,
+      "prior_variance": 0.292169,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_score": 6.0348,
+      "prior_variance": 0.25776,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 6.9469,
+      "prior_variance": 0.460372,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mosel",
+      "path": "europe/germany/rhinelandpalatinate/mosel",
+      "prior_score": 5.0275,
+      "prior_variance": 0.32492,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.6537,
+      "prior_variance": 0.28294,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Windward",
+      "path": "northamerica/grenada/carriacou/windward",
+      "prior_score": 1.3394,
+      "prior_variance": 0.294979,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_score": -0.5238,
+      "prior_variance": 0.252888,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": -1.0986,
+      "prior_variance": 0.28845,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -0.9522,
+      "prior_variance": 0.228127,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.3939,
+      "prior_variance": 0.208243,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.5656,
+      "prior_variance": 0.274572,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/southampton/warsash",
+      "prior_score": -3.6754,
+      "prior_variance": 0.259098,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -3.8444,
+      "prior_variance": 0.327659,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.0811,
+      "prior_variance": 0.258425,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -5.3475,
+      "prior_variance": 0.292462,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -3.61,
+      "prior_variance": 0.239561,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -5.3653,
+      "prior_variance": 0.274485,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -7.2523,
+      "prior_variance": 0.30109,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nebraska",
+      "path": "northamerica/unitedstates/nebraska",
+      "prior_score": -5.4531,
+      "prior_variance": 0.290396,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.4945,
+      "prior_variance": 0.255778,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_score": -5.3113,
+      "prior_variance": 0.34353,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -5.5139,
+      "prior_variance": 0.285297,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -7.3542,
+      "prior_variance": 0.398884,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.6594,
+      "prior_variance": 0.445116,
+      "prior_n": 6
+    }
+  ]
+}

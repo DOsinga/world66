@@ -1,0 +1,200 @@
+{
+  "round": 2166,
+  "timestamp": "2026-04-13T16:16:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_score": 6.8562,
+      "prior_variance": 0.292163,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 9.2678,
+      "prior_variance": 0.610434,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cebu",
+      "path": "asia/philippines/cebu",
+      "prior_score": 5.5056,
+      "prior_variance": 0.281366,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 7.5935,
+      "prior_variance": 0.274609,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 5.2538,
+      "prior_variance": 0.331446,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "\u00cele de R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r",
+      "prior_score": 6.4874,
+      "prior_variance": 0.393007,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 5.2693,
+      "prior_variance": 0.263816,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/rotorua",
+      "prior_score": 6.3759,
+      "prior_variance": 0.327888,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 4.9708,
+      "prior_variance": 0.330799,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 5.1216,
+      "prior_variance": 0.378432,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.468,
+      "prior_variance": 0.241118,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 3.687,
+      "prior_variance": 0.233928,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 3.706,
+      "prior_variance": 0.34938,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.947,
+      "prior_variance": 0.437691,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.7404,
+      "prior_variance": 0.302825,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 0.0365,
+      "prior_variance": 0.302353,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/sandiego/solanabeach",
+      "prior_score": 0.4561,
+      "prior_variance": 0.229243,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 0.4114,
+      "prior_variance": 0.406999,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_score": 0.2109,
+      "prior_variance": 0.232019,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 1.1516,
+      "prior_variance": 0.230392,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/clitheroe",
+      "prior_score": -0.5307,
+      "prior_variance": 0.267139,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_score": 1.8125,
+      "prior_variance": 0.268238,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Altos Mirandinos",
+      "path": "southamerica/venezuela/altos_mirandinos",
+      "prior_score": -5.9228,
+      "prior_variance": 0.277043,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "El Progreso",
+      "path": "northamerica/honduras/elprogreso",
+      "prior_score": -5.7412,
+      "prior_variance": 0.290197,
+      "prior_n": 5
+    }
+  ]
+}

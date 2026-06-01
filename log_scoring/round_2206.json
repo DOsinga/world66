@@ -1,0 +1,200 @@
+{
+  "round": 2206,
+  "timestamp": "2026-04-13T16:20:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 5.8367,
+      "prior_variance": 0.38117,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 4.0245,
+      "prior_variance": 0.257496,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_isl",
+      "prior_score": 2.7688,
+      "prior_variance": 0.266498,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_score": 1.491,
+      "prior_variance": 0.226283,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.5594,
+      "prior_variance": 0.224583,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 3.3316,
+      "prior_variance": 0.253542,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": 0.0495,
+      "prior_variance": 0.204333,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": 0.6978,
+      "prior_variance": 0.221436,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -0.6845,
+      "prior_variance": 0.22,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": -0.1932,
+      "prior_variance": 0.235939,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_score": -2.7613,
+      "prior_variance": 0.665882,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.4456,
+      "prior_variance": 0.223871,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -4.8551,
+      "prior_variance": 0.328163,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_score": -1.5491,
+      "prior_variance": 0.211708,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Zimbabwe",
+      "path": "africa/zimbabwe",
+      "prior_score": 0.0112,
+      "prior_variance": 0.24189,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.568,
+      "prior_variance": 0.277608,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -6.0655,
+      "prior_variance": 0.321386,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_score": -8.5197,
+      "prior_variance": 0.498053,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Runyanjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -6.8091,
+      "prior_variance": 0.305269,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_score": -7.7566,
+      "prior_variance": 0.443776,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -8.8029,
+      "prior_variance": 0.415868,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -10.6664,
+      "prior_variance": 0.458058,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -9.1595,
+      "prior_variance": 0.406975,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -10.3834,
+      "prior_variance": 0.681779,
+      "prior_n": 5
+    }
+  ]
+}

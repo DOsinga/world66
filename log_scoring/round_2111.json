@@ -1,0 +1,200 @@
+{
+  "round": 2111,
+  "timestamp": "2026-04-13T16:11:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_score": -0.0371,
+      "prior_variance": 0.528755,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.8173,
+      "prior_variance": 0.511487,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_score": 5.2136,
+      "prior_variance": 0.312439,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
+      "prior_score": 2.9917,
+      "prior_variance": 0.242291,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 3.8797,
+      "prior_variance": 0.291015,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Aland Islands",
+      "path": "europe/finland/alandislands",
+      "prior_score": 3.1595,
+      "prior_variance": 0.23307,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.7893,
+      "prior_variance": 0.268316,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 1.1876,
+      "prior_variance": 0.251313,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_score": 3.0779,
+      "prior_variance": 0.307763,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.6826,
+      "prior_variance": 0.408207,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 3.4046,
+      "prior_variance": 0.274848,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -0.0789,
+      "prior_variance": 0.21969,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.1444,
+      "prior_variance": 0.225373,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -0.775,
+      "prior_variance": 0.238803,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": -0.0838,
+      "prior_variance": 0.277272,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.8381,
+      "prior_variance": 0.237666,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_score": -1.4646,
+      "prior_variance": 0.255921,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -1.6087,
+      "prior_variance": 0.322377,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/lowerhutt",
+      "prior_score": -2.3419,
+      "prior_variance": 0.274626,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.0072,
+      "prior_variance": 0.228439,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Cortenuova",
+      "path": "europe/italy/lombardia/cortenuova",
+      "prior_score": -5.1529,
+      "prior_variance": 0.341334,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -2.4244,
+      "prior_variance": 0.259051,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -5.8165,
+      "prior_variance": 0.247105,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -5.401,
+      "prior_variance": 0.261547,
+      "prior_n": 7
+    }
+  ]
+}

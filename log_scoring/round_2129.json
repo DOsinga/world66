@@ -1,0 +1,200 @@
+{
+  "round": 2129,
+  "timestamp": "2026-04-13T16:13:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 7.2999,
+      "prior_variance": 0.495813,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_score": 3.8092,
+      "prior_variance": 0.253803,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 5.363,
+      "prior_variance": 0.288222,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 4.2528,
+      "prior_variance": 0.265055,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.3493,
+      "prior_variance": 0.224915,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 1.4425,
+      "prior_variance": 0.289384,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 1.5661,
+      "prior_variance": 0.350912,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 0.2264,
+      "prior_variance": 0.248322,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -1.1095,
+      "prior_variance": 0.298693,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.8592,
+      "prior_variance": 0.349663,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": 0.0772,
+      "prior_variance": 0.252749,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.1595,
+      "prior_variance": 0.201781,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_score": -0.5444,
+      "prior_variance": 0.26136,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -0.515,
+      "prior_variance": 0.269021,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -4.1901,
+      "prior_variance": 0.506716,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": -0.476,
+      "prior_variance": 0.240748,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
+      "prior_score": -1.1122,
+      "prior_variance": 0.240722,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -2.2189,
+      "prior_variance": 0.271922,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -0.7691,
+      "prior_variance": 0.250756,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.0938,
+      "prior_variance": 0.168663,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Okotoks",
+      "path": "northamerica/canada/alberta/okotoks",
+      "prior_score": -3.6095,
+      "prior_variance": 0.246779,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.5436,
+      "prior_variance": 0.280365,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_score": -5.9927,
+      "prior_variance": 0.314966,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.5971,
+      "prior_variance": 0.262266,
+      "prior_n": 6
+    }
+  ]
+}

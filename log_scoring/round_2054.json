@@ -1,0 +1,200 @@
+{
+  "round": 2054,
+  "timestamp": "2026-04-13T16:06:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 4.0021,
+      "prior_variance": 0.2538,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 5.9108,
+      "prior_variance": 0.285032,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.757,
+      "prior_variance": 0.259255,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mani",
+      "path": "europe/greece/mani",
+      "prior_score": 6.1766,
+      "prior_variance": 0.299001,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.6962,
+      "prior_variance": 0.252341,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_score": 2.1845,
+      "prior_variance": 0.256145,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.3678,
+      "prior_variance": 0.175106,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": -0.6696,
+      "prior_variance": 0.246497,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -4.4445,
+      "prior_variance": 0.363912,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.364,
+      "prior_variance": 0.338447,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_score": -2.7589,
+      "prior_variance": 0.269103,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -0.5647,
+      "prior_variance": 0.254017,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -4.0894,
+      "prior_variance": 0.488235,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -4.1704,
+      "prior_variance": 0.503188,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_score": -0.8259,
+      "prior_variance": 0.23936,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_score": -1.89,
+      "prior_variance": 0.274634,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -3.2268,
+      "prior_variance": 0.354235,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -5.0528,
+      "prior_variance": 0.266671,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.3006,
+      "prior_variance": 0.318992,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_score": -6.481,
+      "prior_variance": 0.267442,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -4.0619,
+      "prior_variance": 0.263349,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -4.7799,
+      "prior_variance": 0.286915,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -6.9735,
+      "prior_variance": 0.419867,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kollam",
+      "path": "asia/oman/musandampeninsula/kollam",
+      "prior_score": -4.954,
+      "prior_variance": 0.270916,
+      "prior_n": 5
+    }
+  ]
+}

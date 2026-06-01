@@ -1,0 +1,200 @@
+{
+  "round": 1493,
+  "timestamp": "2026-04-13T10:25:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.8633,
+      "prior_variance": 0.664825,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -2.5752,
+      "prior_variance": 0.40378,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.5484,
+      "prior_variance": 0.343272,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_score": -2.2279,
+      "prior_variance": 0.476363,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_score": -3.592,
+      "prior_variance": 0.43973,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -2.1556,
+      "prior_variance": 0.357625,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_score": -3.5178,
+      "prior_variance": 0.469696,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/sebastopol",
+      "prior_score": -3.0882,
+      "prior_variance": 0.482193,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -3.3089,
+      "prior_variance": 0.616849,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_score": -3.5424,
+      "prior_variance": 0.372792,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -4.0127,
+      "prior_variance": 0.414697,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pe",
+      "prior_score": -3.0622,
+      "prior_variance": 0.818698,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/watchet",
+      "prior_score": -1.9393,
+      "prior_variance": 0.446734,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.0902,
+      "prior_variance": 0.452316,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.2948,
+      "prior_variance": 0.431738,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ribeirao Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -4.2645,
+      "prior_variance": 0.421807,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -3.0973,
+      "prior_variance": 0.25724,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -2.4372,
+      "prior_variance": 0.325371,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_score": -3.386,
+      "prior_variance": 0.389472,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -0.7445,
+      "prior_variance": 0.456115,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.9446,
+      "prior_variance": 0.396964,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -4.7145,
+      "prior_variance": 0.411067,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ossendrecht",
+      "path": "europe/netherlands/ossendrecht",
+      "prior_score": -5.2227,
+      "prior_variance": 0.246101,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_score": -3.1186,
+      "prior_variance": 0.467132,
+      "prior_n": 4
+    }
+  ]
+}

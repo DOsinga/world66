@@ -1,0 +1,200 @@
+{
+  "round": 1610,
+  "timestamp": "2026-04-13T10:35:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.9899,
+      "prior_variance": 0.363434,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 3.1285,
+      "prior_variance": 0.312147,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.3611,
+      "prior_variance": 0.462316,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": 1.0845,
+      "prior_variance": 0.335006,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": 1.6954,
+      "prior_variance": 0.301752,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 2.3328,
+      "prior_variance": 0.400966,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 1.4539,
+      "prior_variance": 0.326158,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_score": 2.1566,
+      "prior_variance": 0.323147,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Encinitas",
+      "path": "northamerica/unitedstates/california/encinitas",
+      "prior_score": 0.7322,
+      "prior_variance": 0.330755,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.853,
+      "prior_variance": 0.539114,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland",
+      "prior_score": 1.7632,
+      "prior_variance": 0.177951,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 1.1088,
+      "prior_variance": 0.322939,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.8152,
+      "prior_variance": 0.330312,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_notting/leicester",
+      "prior_score": 0.0502,
+      "prior_variance": 0.316995,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 2.2886,
+      "prior_variance": 0.295842,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Prince Edward County",
+      "path": "northamerica/canada/ontario/prince_edward_coun",
+      "prior_score": 0.1816,
+      "prior_variance": 0.345718,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.8569,
+      "prior_variance": 0.264608,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -0.3586,
+      "prior_variance": 0.316004,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -0.7612,
+      "prior_variance": 0.343656,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mirande",
+      "path": "europe/france/midi/pyrenees/mirande",
+      "prior_score": -1.5976,
+      "prior_variance": 0.345752,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 1.0497,
+      "prior_variance": 0.504822,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_score": 0.8171,
+      "prior_variance": 0.315237,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 1.7793,
+      "prior_variance": 0.336262,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -4.3197,
+      "prior_variance": 0.51515,
+      "prior_n": 4
+    }
+  ]
+}

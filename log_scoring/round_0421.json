@@ -1,0 +1,200 @@
+{
+  "round": 421,
+  "timestamp": "2026-04-12T09:30:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_mu": 25.0864,
+      "prior_sigma": 6.0798,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_mu": 22.8729,
+      "prior_sigma": 4.7343,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_mu": 22.9479,
+      "prior_sigma": 5.9767,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_mu": 21.4891,
+      "prior_sigma": 2.7982,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_mu": 21.0003,
+      "prior_sigma": 3.1049,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_mu": 22.9279,
+      "prior_sigma": 5.7292,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_mu": 21.3544,
+      "prior_sigma": 4.4394,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    }
+  ]
+}

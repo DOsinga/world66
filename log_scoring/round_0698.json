@@ -1,0 +1,200 @@
+{
+  "round": 698,
+  "timestamp": "2026-04-12T10:43:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_mu": 24.044,
+      "prior_sigma": 5.8209,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_mu": 22.9408,
+      "prior_sigma": 4.6892,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_mu": 31.6787,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_mu": 26.1163,
+      "prior_sigma": 6.1214,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_mu": 22.2924,
+      "prior_sigma": 5.9473,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/manitousprings",
+      "prior_mu": 22.0609,
+      "prior_sigma": 4.6198,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_mu": 22.6819,
+      "prior_sigma": 5.6834,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_mu": 21.9612,
+      "prior_sigma": 4.717,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_mu": 22.8196,
+      "prior_sigma": 5.6076,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_mu": 22.8615,
+      "prior_sigma": 5.7206,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_mu": 22.4957,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Minnesota",
+      "path": "northamerica/unitedstates/minnesota",
+      "prior_mu": 21.5361,
+      "prior_sigma": 4.4092,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_mu": 18.1465,
+      "prior_sigma": 4.8661,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_mu": 22.62,
+      "prior_sigma": 5.9374,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Sandy",
+      "path": "northamerica/unitedstates/utah/sandy",
+      "prior_mu": 22.7141,
+      "prior_sigma": 5.9354,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_mu": 17.9154,
+      "prior_sigma": 6.6772,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

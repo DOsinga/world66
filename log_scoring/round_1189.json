@@ -1,0 +1,200 @@
+{
+  "round": 1189,
+  "timestamp": "2026-04-12T22:14:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_rank": 1717,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_rank": 1179,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_rank": 3874,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_rank": 933,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_rank": 4022,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_rank": 2336,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_rank": 2127,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/tigullio",
+      "prior_rank": 2331,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_rank": 3595,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_rank": 1888,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_rank": 589,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_rank": 1042,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_rank": 2339,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_rank": 3946,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_rank": 568,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_rank": 1274,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_rank": 3312,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_rank": 3476,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_rank": 3596,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santacruz",
+      "prior_rank": 2961,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_rank": 2455,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_rank": 3073,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_rank": 2850,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_rank": 1019,
+      "prior_wins": 43,
+      "prior_n": 3
+    }
+  ]
+}

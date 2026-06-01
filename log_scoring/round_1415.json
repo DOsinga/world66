@@ -1,0 +1,200 @@
+{
+  "round": 1415,
+  "timestamp": "2026-04-12T22:26:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_rank": 3614,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_rank": 3058,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_rank": 3958,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_rank": 4747,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_rank": 2754,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_rank": 2525,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_rank": 2369,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_rank": 2266,
+      "prior_wins": 74,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_rank": 3056,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Negev",
+      "path": "asia/israel/negev",
+      "prior_rank": 2231,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_rank": 1933,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_rank": 2902,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_rank": 3021,
+      "prior_wins": 94,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_rank": 2558,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_rank": 5531,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_rank": 1559,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_rank": 3069,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_rank": 2365,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_rank": 3156,
+      "prior_wins": 66,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/tewkesbury",
+      "prior_rank": 2062,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_rank": 1751,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_rank": 4067,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_rank": 4134,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon",
+      "prior_rank": 1727,
+      "prior_wins": 48,
+      "prior_n": 3
+    }
+  ]
+}

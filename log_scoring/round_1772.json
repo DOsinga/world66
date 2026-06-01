@@ -1,0 +1,200 @@
+{
+  "round": 1772,
+  "timestamp": "2026-04-13T10:49:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.4094,
+      "prior_variance": 0.3349,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Campania",
+      "path": "europe/italy/campania",
+      "prior_score": 11.9585,
+      "prior_variance": 0.687909,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": 4.467,
+      "prior_variance": 0.327747,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 3.6309,
+      "prior_variance": 0.30662,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.9924,
+      "prior_variance": 0.31389,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.0822,
+      "prior_variance": 0.309077,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 3.727,
+      "prior_variance": 0.34912,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 2.8017,
+      "prior_variance": 0.326669,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/greater_wellington/wairarapa",
+      "prior_score": 1.8387,
+      "prior_variance": 0.297064,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.3158,
+      "prior_variance": 0.437698,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 4.6696,
+      "prior_variance": 0.312743,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": 0.7423,
+      "prior_variance": 0.323984,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 1.2365,
+      "prior_variance": 0.304243,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 2.3189,
+      "prior_variance": 0.315992,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 0.939,
+      "prior_variance": 0.386211,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.0927,
+      "prior_variance": 0.437181,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_score": -2.9241,
+      "prior_variance": 0.340438,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -5.4822,
+      "prior_variance": 0.300637,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/sunderland",
+      "prior_score": -3.6784,
+      "prior_variance": 0.322716,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -7.1529,
+      "prior_variance": 0.350313,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.8865,
+      "prior_variance": 0.358313,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -6.3526,
+      "prior_variance": 0.492591,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -5.7828,
+      "prior_variance": 0.35535,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -7.1144,
+      "prior_variance": 0.36257,
+      "prior_n": 4
+    }
+  ]
+}

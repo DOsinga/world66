@@ -1,0 +1,200 @@
+{
+  "round": 1518,
+  "timestamp": "2026-04-13T10:27:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacel",
+      "prior_score": 1.8229,
+      "prior_variance": 0.625028,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 4.2367,
+      "prior_variance": 0.458472,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": -0.0551,
+      "prior_variance": 0.312755,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 1.2498,
+      "prior_variance": 0.340607,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": -0.0845,
+      "prior_variance": 0.522289,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": -4.168,
+      "prior_variance": 1.007011,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_doming",
+      "prior_score": -3.5503,
+      "prior_variance": 0.461858,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Yemkeshwar Malla Banas",
+      "path": "asia/india/uttaranchal/yemkeshwar_malla_b",
+      "prior_score": -5.6119,
+      "prior_variance": 0.508154,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -4.1736,
+      "prior_variance": 0.471329,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Port harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.7076,
+      "prior_variance": 0.507776,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -2.7419,
+      "prior_variance": 0.397174,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -6.5147,
+      "prior_variance": 0.35125,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.4101,
+      "prior_variance": 0.378798,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -5.7297,
+      "prior_variance": 0.427294,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.8413,
+      "prior_variance": 0.366609,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -5.5638,
+      "prior_variance": 0.402163,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -6.1894,
+      "prior_variance": 0.475186,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -5.7652,
+      "prior_variance": 0.510224,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Milton",
+      "path": "northamerica/canada/ontario/milton",
+      "prior_score": -5.6868,
+      "prior_variance": 0.506,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Saint-Leonard",
+      "path": "northamerica/canada/quebec/saintleonard",
+      "prior_score": -6.7194,
+      "prior_variance": 0.433488,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -6.3007,
+      "prior_variance": 0.592254,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_score": -4.9255,
+      "prior_variance": 0.446707,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/yucatan/naulcapan",
+      "prior_score": -5.7326,
+      "prior_variance": 0.321249,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mungivacca",
+      "path": "europe/italy/puglia/bari/mungivacca",
+      "prior_score": -4.3371,
+      "prior_variance": 0.358584,
+      "prior_n": 5
+    }
+  ]
+}

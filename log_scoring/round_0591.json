@@ -1,0 +1,200 @@
+{
+  "round": 591,
+  "timestamp": "2026-04-12T10:38:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_mu": 24.5031,
+      "prior_sigma": 4.0696,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_mu": 24.3761,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_mu": 23.2884,
+      "prior_sigma": 3.9163,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Miljet Island",
+      "path": "europe/croatia/miljet_island",
+      "prior_mu": 22.84,
+      "prior_sigma": 5.5318,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lo\u0161inj",
+      "path": "europe/croatia/losinjisland",
+      "prior_mu": 23.5834,
+      "prior_sigma": 4.4928,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_mu": 23.104,
+      "prior_sigma": 5.8799,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_mu": 23.2889,
+      "prior_sigma": 4.6202,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pelje\u0161ac",
+      "path": "europe/croatia/peljesac",
+      "prior_mu": 22.2306,
+      "prior_sigma": 4.3326,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Makarska",
+      "path": "europe/croatia/makarska",
+      "prior_mu": 22.0923,
+      "prior_sigma": 5.5696,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_mu": 23.3218,
+      "prior_sigma": 5.6681,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pa\u0161man Island",
+      "path": "europe/croatia/pasman_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_mu": 22.1289,
+      "prior_sigma": 5.7001,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_mu": 21.6836,
+      "prior_sigma": 4.7998,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_mu": 22.0561,
+      "prior_sigma": 5.427,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_mu": 22.9492,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Komarna",
+      "path": "europe/croatia/komarna",
+      "prior_mu": 21.4018,
+      "prior_sigma": 3.9775,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_mu": 22.5973,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_mu": 21.6182,
+      "prior_sigma": 4.8318,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Croatia",
+      "path": "europe/croatia",
+      "prior_mu": 29.1373,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    }
+  ]
+}

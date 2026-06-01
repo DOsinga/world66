@@ -1,0 +1,200 @@
+{
+  "round": 1919,
+  "timestamp": "2026-04-13T15:54:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/queenstown",
+      "prior_score": 13.1888,
+      "prior_variance": 0.876344,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/auckland_region",
+      "prior_score": 6.3883,
+      "prior_variance": 0.418923,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_score": 7.0666,
+      "prior_variance": 0.35507,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 9.1356,
+      "prior_variance": 0.509804,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 6.5366,
+      "prior_variance": 0.340388,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.9657,
+      "prior_variance": 0.494026,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 3.2746,
+      "prior_variance": 0.294236,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_score": 3.6158,
+      "prior_variance": 0.315037,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.4689,
+      "prior_variance": 0.337808,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 4.8965,
+      "prior_variance": 0.310702,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
+      "prior_score": 4.1759,
+      "prior_variance": 0.28743,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_score": 2.26,
+      "prior_variance": 0.189285,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Nainital",
+      "path": "asia/india/uttarpradesh/nainital",
+      "prior_score": 1.6672,
+      "prior_variance": 0.342181,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_score": 2.8659,
+      "prior_variance": 0.230209,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 2.992,
+      "prior_variance": 0.357724,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.534,
+      "prior_variance": 0.54169,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -0.9305,
+      "prior_variance": 0.248253,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_score": -2.9007,
+      "prior_variance": 0.282538,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": -5.1226,
+      "prior_variance": 0.357557,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -5.7681,
+      "prior_variance": 0.305334,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -3.6876,
+      "prior_variance": 0.298874,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -4.2679,
+      "prior_variance": 0.343126,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -5.7031,
+      "prior_variance": 0.399367,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "haroonabad",
+      "path": "asia/pakistan/khairpur_tamewali/haroonabad",
+      "prior_score": -9.0833,
+      "prior_variance": 0.456387,
+      "prior_n": 4
+    }
+  ]
+}

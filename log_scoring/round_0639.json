@@ -1,0 +1,200 @@
+{
+  "round": 639,
+  "timestamp": "2026-04-12T10:40:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_mu": 25.8508,
+      "prior_sigma": 5.7471,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lakes District",
+      "path": "southamerica/chile/lakesdistrict",
+      "prior_mu": 22.9315,
+      "prior_sigma": 5.6367,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_mu": 22.3685,
+      "prior_sigma": 4.7976,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_mu": 22.4386,
+      "prior_sigma": 5.7952,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Villarrica",
+      "path": "southamerica/chile/villarrica",
+      "prior_mu": 22.3598,
+      "prior_sigma": 5.7897,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Valle de Elqui",
+      "path": "southamerica/chile/valle_de_elqui",
+      "prior_mu": 22.5674,
+      "prior_sigma": 4.3997,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_mu": 23.0496,
+      "prior_sigma": 4.603,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_mu": 21.1257,
+      "prior_sigma": 3.5489,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_mu": 21.7723,
+      "prior_sigma": 4.642,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_mu": 22.1667,
+      "prior_sigma": 4.8182,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_mu": 22.7086,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_mu": 22.1579,
+      "prior_sigma": 4.4426,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_mu": 22.8142,
+      "prior_sigma": 5.6632,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_mu": 22.1483,
+      "prior_sigma": 5.2784,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_mu": 22.4649,
+      "prior_sigma": 5.3018,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_mu": 21.4978,
+      "prior_sigma": 3.9416,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_mu": 21.4387,
+      "prior_sigma": 4.6558,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 20.6121,
+      "prior_sigma": 2.5731,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_mu": 21.2279,
+      "prior_sigma": 4.4975,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_mu": 22.2236,
+      "prior_sigma": 5.2936,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_mu": 21.8828,
+      "prior_sigma": 4.8216,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_mu": 21.7305,
+      "prior_sigma": 5.067,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Limache",
+      "path": "southamerica/chile/limache",
+      "prior_mu": 20.764,
+      "prior_sigma": 2.8218,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ipiales",
+      "path": "southamerica/chile/ipiales",
+      "prior_mu": 21.3335,
+      "prior_sigma": 3.8473,
+      "prior_n": 3
+    }
+  ]
+}

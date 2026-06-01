@@ -1,0 +1,200 @@
+{
+  "round": 1960,
+  "timestamp": "2026-04-13T15:57:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_score": 11.084,
+      "prior_variance": 0.469704,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_score": 3.114,
+      "prior_variance": 0.257964,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_score": 5.3393,
+      "prior_variance": 0.27613,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": 0.4029,
+      "prior_variance": 0.350594,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 0.9839,
+      "prior_variance": 0.344447,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.3998,
+      "prior_variance": 0.285369,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.8161,
+      "prior_variance": 0.248537,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.089,
+      "prior_variance": 0.263964,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.4485,
+      "prior_variance": 0.316398,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_score": -2.7757,
+      "prior_variance": 0.245892,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -0.8684,
+      "prior_variance": 0.298824,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": 0.0557,
+      "prior_variance": 0.277539,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -2.3846,
+      "prior_variance": 0.315807,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -2.8231,
+      "prior_variance": 0.341134,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_score": -2.2744,
+      "prior_variance": 0.257454,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -4.9905,
+      "prior_variance": 0.292396,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -3.757,
+      "prior_variance": 0.313814,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -1.8459,
+      "prior_variance": 0.251523,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -4.7295,
+      "prior_variance": 0.248041,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Taram Gaun",
+      "path": "asia/india/uttaranchal/taram_gaun",
+      "prior_score": -5.6208,
+      "prior_variance": 0.279944,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Laguna Hills",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunahills",
+      "prior_score": -4.5406,
+      "prior_variance": 0.282964,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.2118,
+      "prior_variance": 0.332894,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -5.6517,
+      "prior_variance": 0.318847,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Roth",
+      "path": "europe/germany/rhinelandpalatinate/roth",
+      "prior_score": -4.2863,
+      "prior_variance": 0.302127,
+      "prior_n": 5
+    }
+  ]
+}

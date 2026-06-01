@@ -1,0 +1,200 @@
+{
+  "round": 937,
+  "timestamp": "2026-04-12T16:08:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_rank": 117,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_rank": 116,
+      "prior_wins": 136,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_rank": 22,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cappadocia",
+      "path": "asia/turkey/cappadocia",
+      "prior_rank": 120,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Italy",
+      "path": "europe/italy",
+      "prior_rank": 59,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_rank": 67,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_rank": 107,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_rank": 84,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_rank": 20,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_rank": 149,
+      "prior_wins": 91,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Transylvania",
+      "path": "europe/romania/transylvania",
+      "prior_rank": 76,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/carlisle",
+      "prior_rank": 5672,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_rank": 8160,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_rank": 8199,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_rank": 8219,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_rank": 8139,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_rank": 8120,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_rank": 8101,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_rank": 8140,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "schallodenbach",
+      "path": "europe/germany/rhinelandpalatinate/schallodenbach",
+      "prior_rank": 8092,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_rank": 8124,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "chitta",
+      "path": "asia/pakistan/soon_valley/history_about_wadi/chitta",
+      "prior_rank": 8164,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "bazral",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2/bazral",
+      "prior_rank": 8098,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_rank": 8083,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

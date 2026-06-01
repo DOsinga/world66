@@ -1,0 +1,200 @@
+{
+  "round": 342,
+  "timestamp": "2026-04-12T09:12:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_mu": 27.5599,
+      "prior_sigma": 4.8282,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_mu": 22.663,
+      "prior_sigma": 5.682,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Jinja",
+      "path": "africa/uganda/jinja",
+      "prior_mu": 22.2755,
+      "prior_sigma": 5.7838,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_mu": 22.7214,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/leicester_notting/highpeak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Pendle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_mu": 22.1673,
+      "prior_sigma": 5.7692,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_mu": 22.635,
+      "prior_sigma": 5.9379,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_mu": 22.8618,
+      "prior_sigma": 5.7204,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kirklees",
+      "path": "europe/unitedkingdom/kirklees",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

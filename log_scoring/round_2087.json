@@ -1,0 +1,200 @@
+{
+  "round": 2087,
+  "timestamp": "2026-04-13T16:09:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 9.3323,
+      "prior_variance": 0.360436,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.9032,
+      "prior_variance": 0.293608,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "North Coast",
+      "path": "northamerica/unitedstates/california/northcoast",
+      "prior_score": 1.7597,
+      "prior_variance": 0.475466,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_score": 5.6373,
+      "prior_variance": 0.380854,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 4.8839,
+      "prior_variance": 0.273584,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.6346,
+      "prior_variance": 0.283492,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 1.6489,
+      "prior_variance": 0.254301,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 3.2946,
+      "prior_variance": 0.251275,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": 0.7409,
+      "prior_variance": 0.296759,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -1.2325,
+      "prior_variance": 0.264472,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.3818,
+      "prior_variance": 0.241181,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -2.008,
+      "prior_variance": 0.286969,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": 0.4184,
+      "prior_variance": 0.174031,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_score": -1.182,
+      "prior_variance": 0.432266,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_score": -0.6311,
+      "prior_variance": 0.300279,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_score": -0.5706,
+      "prior_variance": 0.257976,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.3226,
+      "prior_variance": 0.244389,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_score": -4.5589,
+      "prior_variance": 0.237066,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_score": -2.0821,
+      "prior_variance": 0.250169,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_score": -4.9065,
+      "prior_variance": 0.25997,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -5.7873,
+      "prior_variance": 0.27624,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Port Richey",
+      "path": "northamerica/unitedstates/florida/portrichey",
+      "prior_score": -3.9061,
+      "prior_variance": 0.27007,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_score": -6.3035,
+      "prior_variance": 0.336471,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_score": -6.3015,
+      "prior_variance": 0.351109,
+      "prior_n": 5
+    }
+  ]
+}

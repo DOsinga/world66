@@ -1,0 +1,200 @@
+{
+  "round": 1111,
+  "timestamp": "2026-04-12T22:10:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_rank": 3178,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
+      "prior_rank": 4673,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Youghal",
+      "path": "europe/ireland/cork/youghal",
+      "prior_rank": 5145,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_rank": 6492,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_rank": 4725,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_rank": 4397,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_rank": 3215,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_rank": 3810,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_rank": 5595,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_rank": 6319,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_rank": 3840,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_rank": 2338,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_rank": 4288,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_rank": 5600,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_rank": 6055,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_rank": 4745,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_rank": 4237,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_rank": 5616,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_rank": 5767,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_rank": 5325,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_rank": 6101,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_rank": 5017,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_rank": 3599,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_rank": 5133,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

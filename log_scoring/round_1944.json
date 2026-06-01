@@ -1,0 +1,200 @@
+{
+  "round": 1944,
+  "timestamp": "2026-04-13T15:56:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_score": 9.0998,
+      "prior_variance": 0.5624,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 6.9859,
+      "prior_variance": 0.86857,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 8.8721,
+      "prior_variance": 0.444993,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 7.2507,
+      "prior_variance": 0.31563,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 6.5836,
+      "prior_variance": 0.295337,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_score": 0.9596,
+      "prior_variance": 0.296488,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 3.3998,
+      "prior_variance": 0.267169,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.2686,
+      "prior_variance": 0.303066,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 3.0452,
+      "prior_variance": 0.309595,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.3142,
+      "prior_variance": 0.307233,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_gu",
+      "prior_score": 4.177,
+      "prior_variance": 0.282596,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 2.6497,
+      "prior_variance": 0.269622,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 1.2156,
+      "prior_variance": 0.28959,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "England",
+      "path": "europe/unitedkingdom/england",
+      "prior_score": -2.5264,
+      "prior_variance": 0.412401,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 2.2107,
+      "prior_variance": 0.331532,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_score": -1.7982,
+      "prior_variance": 0.249825,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -0.6771,
+      "prior_variance": 0.375078,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_score": -0.4787,
+      "prior_variance": 0.377879,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "kolhapur",
+      "path": "asia/india/maharashtra/konkan/kolhapur",
+      "prior_score": -1.4624,
+      "prior_variance": 0.2571,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.3327,
+      "prior_variance": 0.252971,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bedfordshire",
+      "path": "europe/unitedkingdom/england/bedfordshire",
+      "prior_score": -2.018,
+      "prior_variance": 0.287125,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -3.5085,
+      "prior_variance": 0.2654,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -3.7851,
+      "prior_variance": 0.301848,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -2.7147,
+      "prior_variance": 0.281678,
+      "prior_n": 5
+    }
+  ]
+}

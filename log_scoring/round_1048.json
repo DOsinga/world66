@@ -1,0 +1,200 @@
+{
+  "round": 1048,
+  "timestamp": "2026-04-12T22:06:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_rank": 798,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_rank": 2224,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Outer Banks",
+      "path": "northamerica/unitedstates/northcarolina/outerbanks",
+      "prior_rank": 1241,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_rank": 2746,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_rank": 1543,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_rank": 3770,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Nevada",
+      "path": "northamerica/unitedstates/nevada",
+      "prior_rank": 1405,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_rank": 1566,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_rank": 2752,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_rank": 831,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_rank": 4851,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_rank": 1918,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_rank": 2155,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_rank": 2122,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_rank": 2180,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_rank": 3343,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_rank": 1981,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/cuba/pinardelrio",
+      "prior_rank": 5857,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_rank": 1165,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
+      "prior_rank": 3873,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_rank": 1016,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_rank": 2344,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_rank": 4432,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_rank": 2117,
+      "prior_wins": 16,
+      "prior_n": 1
+    }
+  ]
+}

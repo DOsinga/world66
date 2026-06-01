@@ -1,0 +1,200 @@
+{
+  "round": 1750,
+  "timestamp": "2026-04-13T10:47:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_score": 5.2562,
+      "prior_variance": 0.676411,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/auckland_region",
+      "prior_score": 6.7337,
+      "prior_variance": 0.500784,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Comillas",
+      "path": "europe/spain/northernspain/comillas",
+      "prior_score": 4.2358,
+      "prior_variance": 0.332019,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 2.2644,
+      "prior_variance": 0.337221,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/roatan",
+      "prior_score": 5.566,
+      "prior_variance": 0.303528,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.6494,
+      "prior_variance": 0.300962,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_score": 3.1899,
+      "prior_variance": 0.38634,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -1.6207,
+      "prior_variance": 0.344168,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.6093,
+      "prior_variance": 0.426617,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Limburg",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": -1.72,
+      "prior_variance": 0.314018,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_score": -3.3073,
+      "prior_variance": 0.292311,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 3.205,
+      "prior_variance": 0.312619,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -4.9149,
+      "prior_variance": 0.344033,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -5.4651,
+      "prior_variance": 0.276886,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -2.2541,
+      "prior_variance": 0.372772,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -2.4365,
+      "prior_variance": 0.3173,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -3.1033,
+      "prior_variance": 0.326029,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_score": -2.3415,
+      "prior_variance": 0.408184,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_score": -9.1401,
+      "prior_variance": 0.4689,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -9.9754,
+      "prior_variance": 0.304879,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "chitta",
+      "path": "asia/pakistan/soon_valley/history_about_wadi/chitta",
+      "prior_score": -8.5181,
+      "prior_variance": 0.478067,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.5721,
+      "prior_variance": 0.493174,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -8.9559,
+      "prior_variance": 0.498748,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_score": -9.3291,
+      "prior_variance": 0.365682,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "/places/talasea-airstrip",
+    "type": "Place",
+    "item-id": "27329",
+    "gtm-content-type": "Place",
+    "lat": "-5.317326",
+    "lng": "150.03729",
+    "city": "Talasea",
+    "state": "West New Britain Province",
+    "country": "Papua New Guinea",
+    "src": "https://img.atlasobscura.com/bj4rxBz_ZDKBUpusfSsP753WC3sCUVhjgJlJoWSUcGQ/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hOWE4/NTFlYi1kMjE2LTQw/NWUtYTI4Zi1kZThm/MTQ3ZDI3YTMzZWU4/NzRkNGVkMDlmMTcz/MGRfR2V0dHlJbWFn/ZXMtMTQ4NTIyODEz/LmpwZw.jpg",
+    "width": "4717",
+    "height": "3052",
+    "name": "Talasea Airstrip",
+    "description": "Two World War II aircraft lie within the jungle around this abandoned runway."
+  },
+  {
+    "url": "/places/the-tunnels-of-rabaul-rabaul-papua-new-guinea",
+    "type": "Place",
+    "item-id": "11619",
+    "gtm-content-type": "Place",
+    "lat": "-4.199826",
+    "lng": "152.164493",
+    "city": "Rabaul",
+    "state": "East New Britain Province",
+    "country": "Papua New Guinea",
+    "src": "https://img.atlasobscura.com/x9oLQod-OU2cnwg7xtfg_tznrpNOqMuEM6YwVwxaSjg/rs:fill:600:400:1/g:ce/c:853:568:nowe:0:352/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMDdi/ODExMzkwYjI4YTMw/ZmVfaW1hZ2UuanBn.jpg",
+    "width": "853",
+    "height": "1280",
+    "name": "The Tunnels of Rabaul",
+    "description": "This volcanically volatile island town is home to an abandoned series of tunnels left by the Japanese during WWII."
+  },
+  {
+    "url": "/places/kikori-river-basin-great-papuan-plateau",
+    "type": "Place",
+    "item-id": "39889",
+    "gtm-content-type": "Place",
+    "lat": "-6.400022",
+    "lng": "143.296724",
+    "city": "Kikori",
+    "state": "Gulf Province",
+    "country": "Papua New Guinea",
+    "src": "https://img.atlasobscura.com/0VoqMg-GMxp1i40Mcz1-SWa0sMU0dfOvEEetQMah0nY/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNzBh/ZWUyYS00MTE2LTQ5/NTAtYTk0Ny01N2I5/M2ZmMmEyOGVjNDE4/NTExZjJiYzQ1ZTMy/NzhfSU1HXzEwODIu/anBn.jpg",
+    "width": "1600",
+    "height": "1200",
+    "name": "Kikori River Basin",
+    "description": "Pristine natural wonders and unique cultural diversity, way off the beaten path."
+  }
+]

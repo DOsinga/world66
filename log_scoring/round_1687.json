@@ -1,0 +1,200 @@
+{
+  "round": 1687,
+  "timestamp": "2026-04-13T10:42:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.2059,
+      "prior_variance": 0.494705,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 4.7686,
+      "prior_variance": 0.45109,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.4634,
+      "prior_variance": 0.35437,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": 0.2644,
+      "prior_variance": 0.342866,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": -0.1643,
+      "prior_variance": 0.345836,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": -0.0343,
+      "prior_variance": 0.33872,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": -0.9962,
+      "prior_variance": 0.428703,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": -0.1146,
+      "prior_variance": 0.315061,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
+      "prior_score": -1.5363,
+      "prior_variance": 0.32319,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/cuba/holguin",
+      "prior_score": -0.4132,
+      "prior_variance": 0.452513,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": 2.5146,
+      "prior_variance": 0.357046,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -0.6542,
+      "prior_variance": 0.428102,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin",
+      "prior_score": 0.0344,
+      "prior_variance": 0.294443,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/colchester",
+      "prior_score": 0.317,
+      "prior_variance": 0.275985,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 0.0912,
+      "prior_variance": 0.341339,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -0.4402,
+      "prior_variance": 0.298533,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_score": -2.2573,
+      "prior_variance": 0.287625,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -1.7209,
+      "prior_variance": 0.296137,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.1931,
+      "prior_variance": 0.307087,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -2.4614,
+      "prior_variance": 0.317843,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -3.8566,
+      "prior_variance": 0.320937,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sant Boi",
+      "path": "europe/spain/catalonia/santboi",
+      "prior_score": -2.5502,
+      "prior_variance": 0.301693,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -3.8529,
+      "prior_variance": 0.245271,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.3104,
+      "prior_variance": 0.410482,
+      "prior_n": 4
+    }
+  ]
+}

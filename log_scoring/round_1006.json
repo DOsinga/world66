@@ -1,0 +1,200 @@
+{
+  "round": 1006,
+  "timestamp": "2026-04-12T22:04:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_rank": 730,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_rank": 2613,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_rank": 1324,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grand Turk",
+      "path": "northamerica/turksandcaicosislands/grandturk",
+      "prior_rank": 823,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_rank": 1479,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Drakensberg",
+      "path": "africa/southafrica/drakensberg",
+      "prior_rank": 1145,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_rank": 1707,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_rank": 1519,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_rank": 1121,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_rank": 1837,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/titikakapoor_knig",
+      "prior_rank": 2033,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/south_island/west_coast",
+      "prior_rank": 1694,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_rank": 780,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_rank": 510,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_rank": 1170,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_rank": 2218,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_rank": 112,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_rank": 1150,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_rank": 430,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_rank": 2309,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_rank": 1681,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_rank": 2214,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_rank": 460,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_rank": 2656,
+      "prior_wins": 15,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1294,
+  "timestamp": "2026-04-12T22:19:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_rank": 480,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_rank": 1057,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_rank": 29,
+      "prior_wins": 222,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Sicily",
+      "path": "europe/italy/sicily",
+      "prior_rank": 119,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_rank": 1089,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_rank": 365,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_rank": 33,
+      "prior_wins": 133,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_rank": 268,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_rank": 512,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_rank": 266,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_rank": 20,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_rank": 43,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_rank": 381,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Menorca",
+      "path": "europe/spain/balearicislands/menorca",
+      "prior_rank": 176,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Portree",
+      "path": "europe/unitedkingdom/scotland/skye/portree",
+      "prior_rank": 243,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_rank": 496,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_rank": 1099,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_rank": 369,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_rank": 395,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_rank": 728,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_rank": 1328,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Las Palmas",
+      "path": "europe/spain/grancanaria/laspalmas",
+      "prior_rank": 2233,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_rank": 319,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Laterbrunnen",
+      "path": "europe/switzerland/laterbrunnen",
+      "prior_rank": 303,
+      "prior_wins": 41,
+      "prior_n": 2
+    }
+  ]
+}

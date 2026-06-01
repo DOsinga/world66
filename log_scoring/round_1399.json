@@ -1,0 +1,200 @@
+{
+  "round": 1399,
+  "timestamp": "2026-04-12T22:25:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_rank": 3694,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_rank": 5455,
+      "prior_wins": 54,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/harrow",
+      "prior_rank": 6862,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_rank": 7491,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_rank": 7063,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/karanprayag/pauri",
+      "prior_rank": 4721,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_rank": 5829,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_rank": 7388,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_rank": 6374,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Portlaoise",
+      "path": "europe/ireland/carlow/portlaoise",
+      "prior_rank": 6110,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_rank": 5489,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_rank": 7044,
+      "prior_wins": 29,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_rank": 7014,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_rank": 7828,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_rank": 7662,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_rank": 7806,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_rank": 4966,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_rank": 6850,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_rank": 6222,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_rank": 6572,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_rank": 8085,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_rank": 6058,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_rank": 5598,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sherbro island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_rank": 7573,
+      "prior_wins": 13,
+      "prior_n": 3
+    }
+  ]
+}

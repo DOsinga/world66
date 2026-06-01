@@ -1,0 +1,200 @@
+{
+  "round": 1833,
+  "timestamp": "2026-04-13T10:55:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_score": 4.3068,
+      "prior_variance": 0.439212,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_score": 4.0955,
+      "prior_variance": 0.299628,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 5.854,
+      "prior_variance": 0.325291,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 3.6421,
+      "prior_variance": 0.264019,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 1.9794,
+      "prior_variance": 0.422856,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 2.8144,
+      "prior_variance": 0.301687,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/hawkes_bay/napier",
+      "prior_score": 4.2644,
+      "prior_variance": 0.354342,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/losangeles/longbeach",
+      "prior_score": -0.3634,
+      "prior_variance": 0.291901,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_score": 0.3509,
+      "prior_variance": 0.301593,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 1.5317,
+      "prior_variance": 0.33212,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 1.8278,
+      "prior_variance": 0.255171,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 1.3027,
+      "prior_variance": 0.317104,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": 0.6883,
+      "prior_variance": 0.319844,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": -0.025,
+      "prior_variance": 0.318847,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": 0.1764,
+      "prior_variance": 0.310534,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_score": 3.0735,
+      "prior_variance": 0.291138,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "rudrapyag",
+      "path": "asia/india/uttaranchal/rudrapyag",
+      "prior_score": -2.4917,
+      "prior_variance": 0.314245,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -1.1337,
+      "prior_variance": 0.32571,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -2.0863,
+      "prior_variance": 0.271494,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.5076,
+      "prior_variance": 0.332281,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -1.9462,
+      "prior_variance": 0.285694,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ravi",
+      "path": "europe/estonia/voru/ravi",
+      "prior_score": -5.5343,
+      "prior_variance": 0.379492,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -3.7456,
+      "prior_variance": 0.361193,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "North Korea",
+      "path": "asia/northkorea",
+      "prior_score": -9.6455,
+      "prior_variance": 0.534322,
+      "prior_n": 4
+    }
+  ]
+}

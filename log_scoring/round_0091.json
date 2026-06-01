@@ -1,0 +1,200 @@
+{
+  "round": 91,
+  "timestamp": "2026-04-12T08:03:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_mu": 21.9,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 24.06,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 21.16,
+      "prior_sigma": 2.57,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_mu": 21.24,
+      "prior_sigma": 3.04,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_mu": 20.96,
+      "prior_sigma": 3.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_mu": 22.29,
+      "prior_sigma": 4.24,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_mu": 23.92,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_mu": 22.58,
+      "prior_sigma": 5.46,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_mu": 20.5,
+      "prior_sigma": 3.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_mu": 21.13,
+      "prior_sigma": 3.15,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 20.89,
+      "prior_sigma": 3.72,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 20.4,
+      "prior_sigma": 2.76,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_mu": 21.14,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_mu": 21.66,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 20.87,
+      "prior_sigma": 3.46,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_mu": 20.72,
+      "prior_sigma": 3.43,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.13,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_mu": 20.75,
+      "prior_sigma": 3.64,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_mu": 20.36,
+      "prior_sigma": 2.89,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_mu": 20.91,
+      "prior_sigma": 3.19,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
+      "prior_mu": 21.1,
+      "prior_sigma": 4.03,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lubero",
+      "path": "africa/congokinshasa/lubero",
+      "prior_mu": 15.37,
+      "prior_sigma": 3.49,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 19.02,
+      "prior_sigma": 2.5,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_mu": 20.01,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    }
+  ]
+}

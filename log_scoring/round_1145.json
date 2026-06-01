@@ -1,0 +1,200 @@
+{
+  "round": 1145,
+  "timestamp": "2026-04-12T22:11:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_rank": 668,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/rivieramaya",
+      "prior_rank": 160,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_rank": 21,
+      "prior_wins": 88,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_rank": 228,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ghent",
+      "path": "europe/belgium/ghent",
+      "prior_rank": 181,
+      "prior_wins": 107,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lago di Garda",
+      "path": "europe/italy/lombardia/lagodigarda",
+      "prior_rank": 556,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_rank": 289,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_rank": 714,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_rank": 891,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_rank": 1525,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_rank": 740,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_rank": 253,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_rank": 877,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_rank": 1850,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_rank": 297,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_rank": 213,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_rank": 738,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_rank": 307,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cyprus",
+      "path": "asia/cyprus",
+      "prior_rank": 564,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_rank": 705,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_rank": 1050,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_rank": 304,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_rank": 1727,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_rank": 165,
+      "prior_wins": 43,
+      "prior_n": 2
+    }
+  ]
+}

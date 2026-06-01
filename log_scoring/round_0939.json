@@ -1,0 +1,200 @@
+{
+  "round": 939,
+  "timestamp": "2026-04-12T16:08:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_rank": 69,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_rank": 89,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_rank": 24,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kansai",
+      "path": "asia/japan/kansai",
+      "prior_rank": 117,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_rank": 10,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/oxford",
+      "prior_rank": 119,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_rank": 5,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_rank": 151,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mauritius",
+      "path": "africa/mauritius",
+      "prior_rank": 208,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_rank": 76,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_rank": 84,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_rank": 20,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_rank": 60,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_rank": 4922,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_rank": 8193,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_rank": 8156,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Aska",
+      "path": "asia/india/orissa/berhampur/aska",
+      "prior_rank": 8161,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_rank": 8118,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_rank": 8141,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_rank": 8080,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_rank": 8222,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_rank": 8132,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "BuBRrsLK",
+      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
+      "prior_rank": 8114,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "BbCMQeVjeZFcG",
+      "path": "europe/finland/kotka/bbcmqevjezfcg",
+      "prior_rank": 8215,
+      "prior_wins": 0,
+      "prior_n": 3
+    }
+  ]
+}

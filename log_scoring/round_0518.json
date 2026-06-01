@@ -1,0 +1,200 @@
+{
+  "round": 518,
+  "timestamp": "2026-04-12T09:45:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_mu": 35.6076,
+      "prior_sigma": 4.8203,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_mu": 28.1707,
+      "prior_sigma": 3.9613,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_mu": 23.3869,
+      "prior_sigma": 4.163,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_mu": 23.2522,
+      "prior_sigma": 3.2871,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 22.2827,
+      "prior_sigma": 2.706,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_mu": 21.4337,
+      "prior_sigma": 2.9311,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_mu": 23.1506,
+      "prior_sigma": 3.3519,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 21.8581,
+      "prior_sigma": 3.3634,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_mu": 22.0003,
+      "prior_sigma": 2.7358,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_mu": 21.6149,
+      "prior_sigma": 4.8153,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_mu": 21.4538,
+      "prior_sigma": 3.2682,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 21.1612,
+      "prior_sigma": 3.2638,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_mu": 21.242,
+      "prior_sigma": 3.6181,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_mu": 21.2956,
+      "prior_sigma": 3.6803,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 20.7758,
+      "prior_sigma": 2.8319,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_mu": 21.0602,
+      "prior_sigma": 3.764,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 20.9391,
+      "prior_sigma": 3.284,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_mu": 18.4886,
+      "prior_sigma": 3.5615,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_mu": 20.7211,
+      "prior_sigma": 3.2985,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_mu": 20.0199,
+      "prior_sigma": 2.7715,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_mu": 21.6592,
+      "prior_sigma": 4.071,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_mu": 20.9091,
+      "prior_sigma": 3.295,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_mu": 20.6752,
+      "prior_sigma": 3.0265,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_mu": 20.5692,
+      "prior_sigma": 4.3407,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 428,
+  "timestamp": "2026-04-12T09:30:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_mu": 23.0086,
+      "prior_sigma": 4.805,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_mu": 22.6901,
+      "prior_sigma": 5.9437,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_mu": 23.0004,
+      "prior_sigma": 5.6104,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "C\u00e9vennes",
+      "path": "europe/france/midi/cevennes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_mu": 22.1425,
+      "prior_sigma": 4.6801,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_mu": 22.6153,
+      "prior_sigma": 5.9354,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_mu": 21.7162,
+      "prior_sigma": 4.7407,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_mu": 21.678,
+      "prior_sigma": 4.7367,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Anglure",
+      "path": "europe/france/east/champagne/anglure",
+      "prior_mu": 22.7059,
+      "prior_sigma": 5.9478,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage",
+      "prior_mu": 22.624,
+      "prior_sigma": 5.9365,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_mu": 25.0976,
+      "prior_sigma": 6.0778,
+      "prior_n": 1
+    }
+  ]
+}

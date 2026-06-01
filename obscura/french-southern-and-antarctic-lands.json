@@ -1,0 +1,44 @@
+[
+  {
+    "url": "/places/kerguelen-islands",
+    "type": "Place",
+    "item-id": "5321",
+    "gtm-content-type": "Place",
+    "lat": "-49.328702",
+    "lng": "69.350372",
+    "country": "French Southern and Antarctic Lands",
+    "src": "https://img.atlasobscura.com/V2vS4zFg-mYAUWdmsf6fyhGIU_npl3VpltsV6cL7eIg/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYzAz/ZjcxODZiNmE5YmZl/NzdfS2VyZ3VlbGVu/X1JhbGxpZXJEdUJh/dHR5LkpQRw.jpg",
+    "width": "640",
+    "height": "446",
+    "name": "Kerguelen Islands",
+    "description": "French scientists make up the majority of the few humans to occupy this remote island in the extreme southern Indian Ocean."
+  },
+  {
+    "url": "/places/port-couvreux",
+    "type": "Place",
+    "item-id": "25882",
+    "gtm-content-type": "Place",
+    "lat": "-49.280218",
+    "lng": "69.689878",
+    "country": "French Southern and Antarctic Lands",
+    "src": "https://img.atlasobscura.com/GH7By7QvmpqQNODu97ut4fEjdOH8yXSn-Y6JdF8LM-c/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MWU3/ZDFkOTNlMjMxMWM2/ZDhfcDEuanBn.jpg",
+    "width": "2048",
+    "height": "1536",
+    "name": "Port Couvreux",
+    "description": "Scattered ruins and a tiny cemetery are all that remain of a failed attempt to colonize the inhospitable Desolate Islands."
+  },
+  {
+    "url": "/places/tromelin-island",
+    "type": "Place",
+    "item-id": "12377",
+    "gtm-content-type": "Place",
+    "lat": "-15.892222",
+    "lng": "54.524722",
+    "country": "French Southern and Antarctic Lands",
+    "src": "https://img.atlasobscura.com/qoltS6U4r0eVcNXcV84O4Gc8M5qV1QBRTwaXaJloNRc/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZWI1/MThiMGE2ZGFhZjYz/ZDRfVEFBRl9Ucm9t/ZWxpbjI5LkpQRw.jpg",
+    "width": "1200",
+    "height": "900",
+    "name": "Tromelin Island",
+    "description": "Now home to nothing but a weather station and a landing strip, a group of enslaved people were marooned on this tiny island for 15 years."
+  }
+]

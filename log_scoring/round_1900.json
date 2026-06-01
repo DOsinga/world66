@@ -1,0 +1,200 @@
+{
+  "round": 1900,
+  "timestamp": "2026-04-13T14:34:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mauritius",
+      "path": "africa/mauritius",
+      "prior_score": 9.3728,
+      "prior_variance": 0.523938,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.6315,
+      "prior_variance": 0.349263,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 1.8131,
+      "prior_variance": 0.469421,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Island \u0160olta",
+      "path": "europe/croatia/island_solta",
+      "prior_score": 2.461,
+      "prior_variance": 0.279758,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 2.851,
+      "prior_variance": 0.312156,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_isl",
+      "prior_score": 2.9465,
+      "prior_variance": 0.318253,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_score": -0.8604,
+      "prior_variance": 0.246325,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 2.5784,
+      "prior_variance": 0.464978,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.5055,
+      "prior_variance": 0.276669,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -2.9969,
+      "prior_variance": 0.28743,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.2313,
+      "prior_variance": 0.29518,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.9187,
+      "prior_variance": 0.322993,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.631,
+      "prior_variance": 0.263951,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.0133,
+      "prior_variance": 0.270048,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Zacapu",
+      "path": "northamerica/mexico/yucatan/zacapu",
+      "prior_score": -6.0046,
+      "prior_variance": 0.348529,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -2.0547,
+      "prior_variance": 0.303301,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -4.7584,
+      "prior_variance": 0.348248,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ikast",
+      "path": "europe/denmark/ikast",
+      "prior_score": -2.6206,
+      "prior_variance": 0.269194,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -4.0469,
+      "prior_variance": 0.383615,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -5.0375,
+      "prior_variance": 0.358389,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -5.9205,
+      "prior_variance": 0.294861,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Haryana",
+      "path": "asia/india/haryana",
+      "prior_score": -5.251,
+      "prior_variance": 0.323491,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Clarksburg",
+      "path": "northamerica/unitedstates/westvirginia/clarksburg",
+      "prior_score": -4.9625,
+      "prior_variance": 0.345032,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -7.2011,
+      "prior_variance": 0.567486,
+      "prior_n": 4
+    }
+  ]
+}

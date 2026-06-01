@@ -1,0 +1,200 @@
+{
+  "round": 1325,
+  "timestamp": "2026-04-12T22:21:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_rank": 2899,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_rank": 5691,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_rank": 2796,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_rank": 1930,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_rank": 1901,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bournemouth",
+      "prior_rank": 737,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_rank": 5102,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_rank": 3568,
+      "prior_wins": 62,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_rank": 3079,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_rank": 4264,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_rank": 4804,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_rank": 6302,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_rank": 4669,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_rank": 2050,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Black Sea Coast",
+      "path": "europe/georgia/blackseacoast",
+      "prior_rank": 2101,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cetinje",
+      "path": "europe/serbiaandmontenegro/cetinje",
+      "prior_rank": 2698,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_rank": 2802,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_rank": 4238,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_rank": 2691,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_rank": 3475,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_rank": 1781,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_rank": 3226,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_rank": 3319,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_rank": 1022,
+      "prior_wins": 57,
+      "prior_n": 4
+    }
+  ]
+}

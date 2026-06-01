@@ -1,0 +1,200 @@
+{
+  "round": 1787,
+  "timestamp": "2026-04-13T10:51:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 4.359,
+      "prior_variance": 0.39953,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 5.7418,
+      "prior_variance": 0.433686,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 4.7173,
+      "prior_variance": 0.344208,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 6.1802,
+      "prior_variance": 0.325367,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Southland",
+      "path": "australiaandpacific/newzealand/south_island/southland",
+      "prior_score": 1.3324,
+      "prior_variance": 0.306122,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/south_island/marlborough",
+      "prior_score": 4.0309,
+      "prior_variance": 0.308723,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_score": 3.6004,
+      "prior_variance": 0.296932,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 3.5115,
+      "prior_variance": 0.26864,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderne",
+      "prior_score": 2.2114,
+      "prior_variance": 0.371637,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.6588,
+      "prior_variance": 0.267588,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.2779,
+      "prior_variance": 0.417708,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 5.9192,
+      "prior_variance": 0.356004,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 4.0042,
+      "prior_variance": 0.319588,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 3.3301,
+      "prior_variance": 0.304511,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.4125,
+      "prior_variance": 0.317741,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -0.8385,
+      "prior_variance": 0.350558,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 2.2406,
+      "prior_variance": 0.34028,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -2.907,
+      "prior_variance": 0.272611,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mannheim",
+      "path": "europe/germany/mannheim",
+      "prior_score": -0.3828,
+      "prior_variance": 0.304881,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": -1.7904,
+      "prior_variance": 0.307704,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_score": -5.9204,
+      "prior_variance": 0.38181,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nawanshahr",
+      "path": "asia/india/punjab/nawanshahr",
+      "prior_score": -6.2796,
+      "prior_variance": 0.26601,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Saudi Arabia",
+      "path": "asia/saudiarabia",
+      "prior_score": -8.9639,
+      "prior_variance": 0.77281,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/haiti/portauprince",
+      "prior_score": -8.2825,
+      "prior_variance": 0.575302,
+      "prior_n": 4
+    }
+  ]
+}

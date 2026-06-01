@@ -1,0 +1,200 @@
+{
+  "round": 1161,
+  "timestamp": "2026-04-12T22:12:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gojal Valley",
+      "path": "asia/pakistan/hunzavalley/gojal_valley",
+      "prior_rank": 2779,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_rank": 4455,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_rank": 2516,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Madryn",
+      "path": "southamerica/argentina/puerto_madryn_1",
+      "prior_rank": 3095,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_rank": 1608,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "San gil",
+      "path": "southamerica/colombia/san_gil",
+      "prior_rank": 2212,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_rank": 2169,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_rank": 2023,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_rank": 2415,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_rank": 1216,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_rank": 2272,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_rank": 1960,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_rank": 2128,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_rank": 3343,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Podaca",
+      "path": "europe/croatia/makarskariviera/podaca",
+      "prior_rank": 4984,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_rank": 2245,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_rank": 1230,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_rank": 5435,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/northland/ninety_mile_beach",
+      "prior_rank": 1177,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_rank": 2934,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_rank": 1903,
+      "prior_wins": 81,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_rank": 4615,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_rank": 4254,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_rank": 2963,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

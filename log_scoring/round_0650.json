@@ -1,0 +1,200 @@
+{
+  "round": 650,
+  "timestamp": "2026-04-12T10:41:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_mu": 31.5315,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Burgundy",
+      "path": "europe/france/wine/burgundy",
+      "prior_mu": 23.5788,
+      "prior_sigma": 5.368,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_mu": 24.4503,
+      "prior_sigma": 4.9472,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Provence",
+      "path": "europe/france/midi_1/provence",
+      "prior_mu": 29.156,
+      "prior_sigma": 6.9863,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Fontainebleau",
+      "path": "europe/france/paris/fontainebleau",
+      "prior_mu": 22.4471,
+      "prior_sigma": 5.7848,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_mu": 22.0249,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_mu": 22.0754,
+      "prior_sigma": 5.4621,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_mu": 22.8185,
+      "prior_sigma": 5.7216,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_mu": 22.7361,
+      "prior_sigma": 5.575,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Burgundy",
+      "path": "europe/france/east/burgundy",
+      "prior_mu": 22.3273,
+      "prior_sigma": 4.6074,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_mu": 22.2646,
+      "prior_sigma": 5.9111,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_mu": 22.2353,
+      "prior_sigma": 5.9446,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_mu": 22.3613,
+      "prior_sigma": 5.8787,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_mu": 22.5701,
+      "prior_sigma": 5.9386,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Draginuan",
+      "path": "europe/france/midi/draginuan",
+      "prior_mu": 21.602,
+      "prior_sigma": 3.9208,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_mu": 25.4275,
+      "prior_sigma": 5.8907,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_mu": 22.4115,
+      "prior_sigma": 5.725,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_mu": 22.3877,
+      "prior_sigma": 5.7159,
+      "prior_n": 1
+    }
+  ]
+}

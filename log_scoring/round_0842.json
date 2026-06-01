@@ -1,0 +1,200 @@
+{
+  "round": 842,
+  "timestamp": "2026-04-12T14:44:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 10.3665,
+      "prior_variance": 2.44428,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_score": 7.4438,
+      "prior_variance": 1.683775,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 6.2735,
+      "prior_variance": 2.037119,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_score": 7.3951,
+      "prior_variance": 2.259244,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_score": 3.8811,
+      "prior_variance": 1.313358,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_score": -1.9562,
+      "prior_variance": 32.142808,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 4.2858,
+      "prior_variance": 1.368427,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 2.7385,
+      "prior_variance": 1.253157,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 3.5093,
+      "prior_variance": 1.279632,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/girona/banyoles",
+      "prior_score": 2.0511,
+      "prior_variance": 1.411174,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": -0.1466,
+      "prior_variance": 1.349281,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 4.368,
+      "prior_variance": 1.941621,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 1.8054,
+      "prior_variance": 1.504082,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.9973,
+      "prior_variance": 0.643699,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -1.5176,
+      "prior_variance": 1.326382,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -6.5956,
+      "prior_variance": 1.462638,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -3.7469,
+      "prior_variance": 1.36576,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -3.5621,
+      "prior_variance": 1.453464,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -2.2518,
+      "prior_variance": 1.168157,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -3.2454,
+      "prior_variance": 1.448139,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Escalante City",
+      "path": "asia/philippines/escalante_city",
+      "prior_score": -5.0558,
+      "prior_variance": 1.362298,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -5.0053,
+      "prior_variance": 1.696642,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -7.9013,
+      "prior_variance": 4.227112,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Baker Island",
+      "path": "australiaandpacific/bakerisland",
+      "prior_score": -6.0456,
+      "prior_variance": 3.178389,
+      "prior_n": 1
+    }
+  ]
+}

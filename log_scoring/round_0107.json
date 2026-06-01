@@ -1,0 +1,200 @@
+{
+  "round": 107,
+  "timestamp": "2026-04-12T08:04:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_mu": 27.92,
+      "prior_sigma": 4.06,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_mu": 29.18,
+      "prior_sigma": 3.78,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_mu": 27.76,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 22.57,
+      "prior_sigma": 2.97,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_mu": 22.82,
+      "prior_sigma": 3.07,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_mu": 23.37,
+      "prior_sigma": 3.96,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_mu": 24.9,
+      "prior_sigma": 2.74,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_mu": 21.32,
+      "prior_sigma": 3.41,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_mu": 21.21,
+      "prior_sigma": 3.47,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_mu": 21.74,
+      "prior_sigma": 2.77,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_mu": 20.83,
+      "prior_sigma": 3.23,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 20.85,
+      "prior_sigma": 2.88,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_mu": 20.88,
+      "prior_sigma": 2.74,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 20.6,
+      "prior_sigma": 2.68,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_mu": 20.84,
+      "prior_sigma": 3.43,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_mu": 20.25,
+      "prior_sigma": 2.56,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_mu": 20.79,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 20.48,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_mu": 20.94,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_mu": 20.85,
+      "prior_sigma": 3.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_mu": 20.41,
+      "prior_sigma": 3.54,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_mu": 19.24,
+      "prior_sigma": 2.81,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_mu": 14.75,
+      "prior_sigma": 4.11,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_mu": 15.74,
+      "prior_sigma": 3.14,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "round": 444,
+  "timestamp": "2026-04-12T09:31:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 18,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_mu": 24.3844,
+      "prior_sigma": 4.9654,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_mu": 23.8686,
+      "prior_sigma": 6.0977,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_mu": 22.9675,
+      "prior_sigma": 5.8153,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Slovenia",
+      "path": "europe/slovenia",
+      "prior_mu": 25.7507,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_mu": 23.3672,
+      "prior_sigma": 4.8335,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Portoroz",
+      "path": "europe/slovenia/portoroz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_mu": 22.4352,
+      "prior_sigma": 5.4308,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 21.0541,
+      "prior_sigma": 2.6159,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_mu": 21.9675,
+      "prior_sigma": 4.6915,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_mu": 22.7109,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jesenice",
+      "path": "europe/slovenia/jesenice",
+      "prior_mu": 21.9714,
+      "prior_sigma": 4.3896,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 715,
+  "timestamp": "2026-04-12T10:44:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lapland",
+      "path": "europe/finland/lapland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Aland Islands",
+      "path": "europe/finland/alandislands",
+      "prior_mu": 21.8748,
+      "prior_sigma": 4.4824,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_mu": 21.8046,
+      "prior_sigma": 4.6988,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_mu": 23.8605,
+      "prior_sigma": 5.773,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_mu": 21.6538,
+      "prior_sigma": 4.5081,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_mu": 21.5993,
+      "prior_sigma": 4.4704,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_mu": 21.7278,
+      "prior_sigma": 4.5909,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_mu": 21.6383,
+      "prior_sigma": 4.8005,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_mu": 22.4146,
+      "prior_sigma": 5.9031,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_mu": 21.7144,
+      "prior_sigma": 4.6933,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_mu": 22.4447,
+      "prior_sigma": 5.6684,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_mu": 22.2839,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_mu": 22.2192,
+      "prior_sigma": 5.9487,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_mu": 21.7094,
+      "prior_sigma": 4.3732,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_mu": 22.4817,
+      "prior_sigma": 5.7222,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_mu": 21.2091,
+      "prior_sigma": 3.4738,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_mu": 22.3813,
+      "prior_sigma": 5.9444,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_mu": 22.7038,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_mu": 21.8816,
+      "prior_sigma": 4.6096,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_mu": 22.5579,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

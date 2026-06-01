@@ -1,0 +1,200 @@
+{
+  "round": 1295,
+  "timestamp": "2026-04-12T22:19:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_rank": 3297,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_rank": 3743,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_rank": 2037,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_rank": 3775,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_rank": 1653,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_rank": 4233,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Manchester, Liverpool and North West",
+      "path": "europe/unitedkingdom/england/manchester_liverp",
+      "prior_rank": 1832,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/guanajuato/len",
+      "prior_rank": 3505,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_rank": 2792,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_rank": 6115,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_rank": 4652,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santacruz",
+      "prior_rank": 4580,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/virginia",
+      "prior_rank": 1254,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Guaruja",
+      "path": "southamerica/brazil/guaruja",
+      "prior_rank": 3877,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_rank": 4856,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_rank": 5165,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Mosjoen",
+      "path": "europe/norway/mosjoen",
+      "prior_rank": 3377,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Manitoba",
+      "path": "northamerica/canada/manitoba",
+      "prior_rank": 2928,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_rank": 2933,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_rank": 3785,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_rank": 4864,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_rank": 2526,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_rank": 4470,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mallakast\u00ebr",
+      "path": "europe/albania/mallakaster",
+      "prior_rank": 5601,
+      "prior_wins": 17,
+      "prior_n": 2
+    }
+  ]
+}

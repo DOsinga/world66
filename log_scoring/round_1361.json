@@ -1,0 +1,200 @@
+{
+  "round": 1361,
+  "timestamp": "2026-04-12T22:23:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_rank": 3322,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_rank": 4836,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_rank": 5545,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_rank": 5742,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_rank": 5394,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_rank": 6307,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_rank": 5224,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_rank": 6237,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_rank": 4781,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_rank": 5739,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_rank": 5350,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_rank": 5695,
+      "prior_wins": 42,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_rank": 5219,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/catanzaro/soveria_mannelli",
+      "prior_rank": 5459,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/eastland",
+      "prior_rank": 6308,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_rank": 6010,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_rank": 6846,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_rank": 4813,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_rank": 4638,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_rank": 4944,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Maryland",
+      "path": "northamerica/unitedstates/maryland",
+      "prior_rank": 5629,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_rank": 5371,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_rank": 5002,
+      "prior_wins": 43,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_rank": 3040,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

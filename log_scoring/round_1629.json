@@ -1,0 +1,200 @@
+{
+  "round": 1629,
+  "timestamp": "2026-04-13T10:37:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 9.7576,
+      "prior_variance": 0.523954,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 2.732,
+      "prior_variance": 0.32488,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 5.267,
+      "prior_variance": 0.327591,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.2477,
+      "prior_variance": 0.313288,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_score": -0.6645,
+      "prior_variance": 0.309478,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": -0.5583,
+      "prior_variance": 0.431456,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.0392,
+      "prior_variance": 0.322557,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.4331,
+      "prior_variance": 0.452045,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 2.2817,
+      "prior_variance": 0.301784,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": 0.6033,
+      "prior_variance": 0.399882,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -3.0371,
+      "prior_variance": 0.303353,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.45,
+      "prior_variance": 0.574629,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -4.0772,
+      "prior_variance": 0.47368,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -5.0427,
+      "prior_variance": 0.329057,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -4.7794,
+      "prior_variance": 0.297322,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/west_bromwich",
+      "prior_score": -6.8299,
+      "prior_variance": 0.478196,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_score": -6.7335,
+      "prior_variance": 0.322366,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -6.0666,
+      "prior_variance": 0.4791,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -5.6847,
+      "prior_variance": 0.382223,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Joescom Int'l",
+      "path": "africa/nigeria/lagos/joescom_intl",
+      "prior_score": -7.811,
+      "prior_variance": 0.607699,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_score": -6.7827,
+      "prior_variance": 0.350694,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -7.3396,
+      "prior_variance": 0.434844,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_score": -11.5113,
+      "prior_variance": 1.234273,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -7.5708,
+      "prior_variance": 0.365434,
+      "prior_n": 4
+    }
+  ]
+}

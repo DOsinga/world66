@@ -1,0 +1,200 @@
+{
+  "round": 48,
+  "timestamp": "2026-04-11T19:26:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 35.8,
+      "prior_sigma": 5.36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 28.6,
+      "prior_sigma": 5.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lanzarote",
+      "path": "europe/spain/canaryislands/lanzarote",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 28.34,
+      "prior_sigma": 4.96,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_mu": 23.52,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "St. George's",
+      "path": "northamerica/grenada/stgeorges",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_mu": 21.58,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 22.21,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_mu": 22.35,
+      "prior_sigma": 5.55,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 22.6,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_mu": 21.53,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_mu": 21.26,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 20.78,
+      "prior_sigma": 3.4,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_mu": 21.43,
+      "prior_sigma": 4.01,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_mu": 21.48,
+      "prior_sigma": 4.67,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_mu": 21.96,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_mu": 21.07,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_mu": 18.91,
+      "prior_sigma": 5.16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_mu": 22.12,
+      "prior_sigma": 5.61,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_mu": 17.74,
+      "prior_sigma": 6.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_mu": 22.45,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2276,
+  "timestamp": "2026-04-13T16:26:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.9607,
+      "prior_variance": 0.186882,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.7013,
+      "prior_variance": 0.247675,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": 2.1843,
+      "prior_variance": 0.24026,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.4031,
+      "prior_variance": 0.20422,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/canterbury",
+      "prior_score": 0.9974,
+      "prior_variance": 0.218674,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -1.2478,
+      "prior_variance": 0.216012,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_notting/kenilworth",
+      "prior_score": 0.6405,
+      "prior_variance": 0.227052,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Gyumri",
+      "path": "europe/armenia/gyumri",
+      "prior_score": -0.5149,
+      "prior_variance": 0.237762,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.393,
+      "prior_variance": 0.21974,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_score": -2.5019,
+      "prior_variance": 0.268105,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Gondomar",
+      "path": "europe/portugal/gondomar",
+      "prior_score": -2.1235,
+      "prior_variance": 0.222237,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -2.4297,
+      "prior_variance": 0.200784,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -3.3127,
+      "prior_variance": 0.220793,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": 0.7706,
+      "prior_variance": 0.2536,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -3.3535,
+      "prior_variance": 0.182441,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.3095,
+      "prior_variance": 0.232288,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -2.825,
+      "prior_variance": 0.219145,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_score": -3.3813,
+      "prior_variance": 0.289756,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.1687,
+      "prior_variance": 0.243911,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -4.0888,
+      "prior_variance": 0.383452,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tonstad",
+      "path": "europe/norway/tonstad",
+      "prior_score": -2.8187,
+      "prior_variance": 0.241616,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -3.7038,
+      "prior_variance": 0.265972,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -5.2541,
+      "prior_variance": 0.295723,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -6.9924,
+      "prior_variance": 0.281531,
+      "prior_n": 6
+    }
+  ]
+}

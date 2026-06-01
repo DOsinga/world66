@@ -1,0 +1,200 @@
+{
+  "round": 843,
+  "timestamp": "2026-04-12T14:44:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 9.2824,
+      "prior_variance": 2.275173,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 7.5361,
+      "prior_variance": 1.292437,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 6.3252,
+      "prior_variance": 1.229523,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": 2.8213,
+      "prior_variance": 2.227354,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 7.5306,
+      "prior_variance": 1.972897,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/coromandel",
+      "prior_score": 4.7877,
+      "prior_variance": 1.461062,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": 0.8939,
+      "prior_variance": 1.367284,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 6.0744,
+      "prior_variance": 1.747184,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -5.4404,
+      "prior_variance": 1.807702,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": 1.2215,
+      "prior_variance": 2.396691,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": -0.1724,
+      "prior_variance": 2.478853,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_score": 0.6166,
+      "prior_variance": 1.180916,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -9.1435,
+      "prior_variance": 1.607878,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": -3.7426,
+      "prior_variance": 1.458126,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -4.7874,
+      "prior_variance": 0.841813,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -7.2044,
+      "prior_variance": 4.787343,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -8.3652,
+      "prior_variance": 0.654374,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -8.8369,
+      "prior_variance": 0.638043,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_score": -7.9027,
+      "prior_variance": 0.704389,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/dadyal",
+      "prior_score": -12.0162,
+      "prior_variance": 8.29579,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "SANJAR SAIDAN",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/sanjar_saidan",
+      "prior_score": -15.5697,
+      "prior_variance": 1.301189,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "abdaal",
+      "path": "africa/somaliland/abdaal",
+      "prior_score": -16.3065,
+      "prior_variance": 0.860064,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -10.1873,
+      "prior_variance": 0.460134,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Somaliland",
+      "path": "africa/somaliland",
+      "prior_score": -19.2093,
+      "prior_variance": 5.116992,
+      "prior_n": 3
+    }
+  ]
+}

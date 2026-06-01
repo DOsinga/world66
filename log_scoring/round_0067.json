@@ -1,0 +1,200 @@
+{
+  "round": 67,
+  "timestamp": "2026-04-12T08:02:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 24.46,
+      "prior_sigma": 4.23,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_mu": 32.74,
+      "prior_sigma": 5.77,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_mu": 23.98,
+      "prior_sigma": 4.17,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_mu": 23.79,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_mu": 25.83,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_mu": 22.96,
+      "prior_sigma": 3.89,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_mu": 23.41,
+      "prior_sigma": 5.47,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_mu": 22.16,
+      "prior_sigma": 4.19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_mu": 22.5,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 23.38,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_mu": 23.66,
+      "prior_sigma": 5.06,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_mu": 21.12,
+      "prior_sigma": 3.15,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Myanmar",
+      "path": "asia/myanmar",
+      "prior_mu": 21.33,
+      "prior_sigma": 4.21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_mu": 21.6,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_mu": 21.85,
+      "prior_sigma": 3.29,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 20.79,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 21.22,
+      "prior_sigma": 3.85,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Limache",
+      "path": "southamerica/chile/limache",
+      "prior_mu": 21.02,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bay View",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
+      "prior_mu": 21.06,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_mu": 21.04,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_mu": 19.87,
+      "prior_sigma": 5.57,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_mu": 21.62,
+      "prior_sigma": 4.29,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 17.66,
+      "prior_sigma": 3.51,
+      "prior_n": 4
+    }
+  ]
+}

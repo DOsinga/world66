@@ -1,0 +1,200 @@
+{
+  "round": 1723,
+  "timestamp": "2026-04-13T10:45:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 6.6563,
+      "prior_variance": 0.307229,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.0062,
+      "prior_variance": 0.35352,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.7963,
+      "prior_variance": 0.45087,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.4982,
+      "prior_variance": 0.476201,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_score": 4.5545,
+      "prior_variance": 0.218265,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_score": 1.4947,
+      "prior_variance": 0.465771,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chiriqu\u00ed",
+      "path": "northamerica/panama/chiriqui",
+      "prior_score": 1.767,
+      "prior_variance": 0.359761,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 2.0457,
+      "prior_variance": 0.361087,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_score": 1.8575,
+      "prior_variance": 0.470917,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_score": 1.3716,
+      "prior_variance": 0.49346,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 1.8,
+      "prior_variance": 0.358901,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacel",
+      "prior_score": 2.5566,
+      "prior_variance": 0.396809,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 2.4184,
+      "prior_variance": 0.422023,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Newcastle and North East",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort",
+      "prior_score": 0.8449,
+      "prior_variance": 0.33485,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/kitakyushu/moji",
+      "prior_score": 1.6307,
+      "prior_variance": 0.32079,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.6841,
+      "prior_variance": 0.431335,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 2.8878,
+      "prior_variance": 0.311439,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": 1.4498,
+      "prior_variance": 0.395084,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "s'argamassa",
+      "path": "europe/spain/balearicislands/ibiza/sargamassa",
+      "prior_score": 0.836,
+      "prior_variance": 0.528058,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_score": 1.8538,
+      "prior_variance": 0.318542,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kiribati",
+      "path": "australiaandpacific/kiribati",
+      "prior_score": -1.168,
+      "prior_variance": 0.371804,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -0.786,
+      "prior_variance": 0.321854,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 1.3739,
+      "prior_variance": 0.339859,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -10.906,
+      "prior_variance": 0.71019,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2038,
+  "timestamp": "2026-04-13T16:05:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_score": 6.9586,
+      "prior_variance": 0.533113,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Channel Islands",
+      "path": "europe/channelislands",
+      "prior_score": 3.3891,
+      "prior_variance": 0.257422,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 3.1437,
+      "prior_variance": 0.307633,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 5.1302,
+      "prior_variance": 0.275834,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cape Cod",
+      "path": "northamerica/unitedstates/massachusetts/capecod",
+      "prior_score": -1.6526,
+      "prior_variance": 0.865764,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Watamu",
+      "path": "africa/kenya/thecoast/watamu",
+      "prior_score": 3.5745,
+      "prior_variance": 0.282216,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "s'argamassa",
+      "path": "europe/spain/balearicislands/ibiza/sargamassa",
+      "prior_score": 0.825,
+      "prior_variance": 0.357027,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 1.2439,
+      "prior_variance": 0.242785,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.1605,
+      "prior_variance": 0.28495,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_score": 1.5494,
+      "prior_variance": 0.396743,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 1.0169,
+      "prior_variance": 0.319911,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 1.3661,
+      "prior_variance": 0.237711,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_score": 2.0837,
+      "prior_variance": 0.261312,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 2.3476,
+      "prior_variance": 0.251738,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -0.51,
+      "prior_variance": 0.230431,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_score": -0.6771,
+      "prior_variance": 0.211087,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.4487,
+      "prior_variance": 0.258529,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.442,
+      "prior_variance": 0.268745,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -1.9067,
+      "prior_variance": 0.268252,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -4.986,
+      "prior_variance": 0.283562,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_score": -3.8763,
+      "prior_variance": 0.311045,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -3.8158,
+      "prior_variance": 0.276919,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.0045,
+      "prior_variance": 0.340138,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -4.8236,
+      "prior_variance": 0.316209,
+      "prior_n": 5
+    }
+  ]
+}

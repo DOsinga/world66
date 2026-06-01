@@ -1,0 +1,200 @@
+{
+  "round": 1347,
+  "timestamp": "2026-04-12T22:22:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kansai",
+      "path": "asia/japan/kansai",
+      "prior_rank": 97,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_rank": 99,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "New Zealand",
+      "path": "australiaandpacific/newzealand",
+      "prior_rank": 282,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_rank": 1606,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_rank": 348,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_rank": 123,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_rank": 202,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_rank": 226,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/wanaka",
+      "prior_rank": 241,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_rank": 119,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_rank": 270,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_rank": 324,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_rank": 342,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_rank": 262,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_rank": 1209,
+      "prior_wins": 86,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sri Lanka",
+      "path": "asia/srilanka",
+      "prior_rank": 105,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Viti levu",
+      "path": "australiaandpacific/fiji/vitilevu",
+      "prior_rank": 295,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_rank": 497,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_rank": 699,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_rank": 592,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/cuba/vinales",
+      "prior_rank": 132,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_rank": 70,
+      "prior_wins": 96,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_rank": 320,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_rank": 182,
+      "prior_wins": 146,
+      "prior_n": 7
+    }
+  ]
+}

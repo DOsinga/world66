@@ -1,0 +1,200 @@
+{
+  "round": 2299,
+  "timestamp": "2026-04-13T16:29:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_score": 7.5655,
+      "prior_variance": 0.293952,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 4.5237,
+      "prior_variance": 0.21491,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 3.8707,
+      "prior_variance": 0.287317,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.2072,
+      "prior_variance": 0.227638,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 2.3714,
+      "prior_variance": 0.233472,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 2.8738,
+      "prior_variance": 0.287604,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.1816,
+      "prior_variance": 0.221477,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 2.4192,
+      "prior_variance": 0.240865,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 0.1243,
+      "prior_variance": 0.219977,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_score": 1.7687,
+      "prior_variance": 0.232012,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.7984,
+      "prior_variance": 0.227387,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.0097,
+      "prior_variance": 0.20725,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.0555,
+      "prior_variance": 0.202595,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_score": 0.1423,
+      "prior_variance": 0.266367,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.4967,
+      "prior_variance": 0.22643,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_score": -1.0947,
+      "prior_variance": 0.25013,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": 0.884,
+      "prior_variance": 0.152815,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.1852,
+      "prior_variance": 0.238344,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": 0.2242,
+      "prior_variance": 0.226857,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -2.5333,
+      "prior_variance": 0.214703,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.522,
+      "prior_variance": 0.221798,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -1.8472,
+      "prior_variance": 0.207021,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -5.9586,
+      "prior_variance": 0.218138,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "ghamir dhariyan kot",
+      "path": "asia/pakistan/azad_kashmir/forward_kahuta/tanda_ghamir/ghamir_dhariyan_ko",
+      "prior_score": -9.74,
+      "prior_variance": 0.431424,
+      "prior_n": 5
+    }
+  ]
+}

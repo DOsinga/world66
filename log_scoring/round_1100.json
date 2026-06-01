@@ -1,0 +1,200 @@
+{
+  "round": 1100,
+  "timestamp": "2026-04-12T22:09:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_rank": 4066,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_rank": 5152,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_rank": 7246,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_rank": 7397,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_rank": 6442,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_rank": 5369,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince/banlung",
+      "prior_rank": 6462,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_rank": 5535,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_rank": 5513,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_rank": 6935,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tres Rios",
+      "path": "northamerica/costarica/tresrios",
+      "prior_rank": 5634,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_rank": 5515,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Trinity",
+      "path": "northamerica/unitedstates/california/shastacascade/trinity",
+      "prior_rank": 2570,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_rank": 5896,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_rank": 5286,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_rank": 6283,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_rank": 4512,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_rank": 5129,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_rank": 6876,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_rank": 4776,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_rank": 6313,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_rank": 6493,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_rank": 7245,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_rank": 5975,
+      "prior_wins": 10,
+      "prior_n": 2
+    }
+  ]
+}

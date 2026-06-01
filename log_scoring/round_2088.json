@@ -1,0 +1,200 @@
+{
+  "round": 2088,
+  "timestamp": "2026-04-13T16:09:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_score": 7.1527,
+      "prior_variance": 0.350146,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 5.883,
+      "prior_variance": 0.323408,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 6.4124,
+      "prior_variance": 0.382313,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_score": -0.5019,
+      "prior_variance": 0.374511,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_score": 4.2005,
+      "prior_variance": 0.304981,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 1.2888,
+      "prior_variance": 0.281569,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 1.2887,
+      "prior_variance": 0.225707,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Northern Cyprus",
+      "path": "asia/cyprus/northerncyprus",
+      "prior_score": 2.7588,
+      "prior_variance": 0.246469,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.549,
+      "prior_variance": 0.297235,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 1.3504,
+      "prior_variance": 0.235161,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Small Isles",
+      "path": "europe/unitedkingdom/scotland/small_isles",
+      "prior_score": 0.9656,
+      "prior_variance": 0.268567,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -1.9565,
+      "prior_variance": 0.311339,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 0.6384,
+      "prior_variance": 0.309231,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -2.1321,
+      "prior_variance": 0.233951,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": 0.1643,
+      "prior_variance": 0.260541,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -2.5216,
+      "prior_variance": 0.238014,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": 0.6543,
+      "prior_variance": 0.197565,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -3.9058,
+      "prior_variance": 0.245417,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -3.2065,
+      "prior_variance": 0.260612,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sirsa",
+      "path": "asia/india/haryana/sirsa",
+      "prior_score": -6.5523,
+      "prior_variance": 0.302429,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -7.7963,
+      "prior_variance": 0.327175,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.6448,
+      "prior_variance": 0.252743,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.1344,
+      "prior_variance": 0.321683,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "bughlani",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/soker/bughlani",
+      "prior_score": -10.8058,
+      "prior_variance": 0.42486,
+      "prior_n": 5
+    }
+  ]
+}

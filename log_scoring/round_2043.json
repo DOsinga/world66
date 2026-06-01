@@ -1,0 +1,200 @@
+{
+  "round": 2043,
+  "timestamp": "2026-04-13T16:05:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vieques",
+      "path": "northamerica/puertorico/vieques",
+      "prior_score": 4.2942,
+      "prior_variance": 0.383846,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Trinidad",
+      "path": "northamerica/cuba/trinidad",
+      "prior_score": 5.7583,
+      "prior_variance": 0.297637,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "C\u00e9vennes",
+      "path": "europe/france/midi/cevennes",
+      "prior_score": 2.837,
+      "prior_variance": 0.24581,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_s",
+      "prior_score": 3.2863,
+      "prior_variance": 0.259542,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.1119,
+      "prior_variance": 0.263082,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_score": 3.636,
+      "prior_variance": 0.260779,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_score": 2.3978,
+      "prior_variance": 0.356879,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_score": 1.2845,
+      "prior_variance": 0.241115,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.9918,
+      "prior_variance": 0.245214,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_score": 2.4907,
+      "prior_variance": 0.252763,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.5125,
+      "prior_variance": 0.291674,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang_1",
+      "prior_score": 1.1766,
+      "prior_variance": 0.241806,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 1.0562,
+      "prior_variance": 0.308044,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.9708,
+      "prior_variance": 0.298385,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 5.189,
+      "prior_variance": 0.297029,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_score": -2.0655,
+      "prior_variance": 0.272303,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Minnesota",
+      "path": "northamerica/unitedstates/minnesota",
+      "prior_score": -2.1107,
+      "prior_variance": 0.298209,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.0721,
+      "prior_variance": 0.284599,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -4.6145,
+      "prior_variance": 0.254276,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.7891,
+      "prior_variance": 0.238239,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.7613,
+      "prior_variance": 0.272555,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_score": -5.4505,
+      "prior_variance": 0.382991,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.3596,
+      "prior_variance": 0.356468,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -6.9994,
+      "prior_variance": 0.348102,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1650,
+  "timestamp": "2026-04-13T10:38:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.5299,
+      "prior_variance": 0.343438,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 5.9014,
+      "prior_variance": 0.370489,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 3.1295,
+      "prior_variance": 0.419436,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.3155,
+      "prior_variance": 0.366919,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.6385,
+      "prior_variance": 0.314055,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": -1.0376,
+      "prior_variance": 0.448243,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": 0.6335,
+      "prior_variance": 0.393523,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_score": 1.1822,
+      "prior_variance": 0.534093,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Marina del Rey",
+      "path": "northamerica/unitedstates/california/losangeles/marinadelrey",
+      "prior_score": 0.7903,
+      "prior_variance": 0.313702,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.3044,
+      "prior_variance": 0.335604,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -3.0227,
+      "prior_variance": 0.393941,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_score": -0.3199,
+      "prior_variance": 0.423658,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -1.6851,
+      "prior_variance": 0.331797,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.1407,
+      "prior_variance": 0.383246,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -3.2757,
+      "prior_variance": 0.196439,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -5.0542,
+      "prior_variance": 0.341419,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -4.0152,
+      "prior_variance": 0.325465,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.4551,
+      "prior_variance": 0.298645,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -5.2022,
+      "prior_variance": 0.299729,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -6.3793,
+      "prior_variance": 0.32334,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -7.3075,
+      "prior_variance": 0.571717,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -5.8026,
+      "prior_variance": 0.398601,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/naulcapan",
+      "prior_score": -7.4728,
+      "prior_variance": 0.68565,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.3142,
+      "prior_variance": 0.343183,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1198,
+  "timestamp": "2026-04-12T22:14:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_rank": 5482,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Maharashtra",
+      "path": "asia/india/maharashtra",
+      "prior_rank": 2565,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_rank": 3704,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_rank": 5691,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_rank": 5169,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_rank": 5234,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_rank": 4575,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Skerries",
+      "path": "europe/ireland/dublin/skerries",
+      "prior_rank": 5368,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/huddersfield",
+      "prior_rank": 6465,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_rank": 5172,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_rank": 5124,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_rank": 4772,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kiribati",
+      "path": "australiaandpacific/kiribati",
+      "prior_rank": 2329,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_rank": 4341,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_rank": 4812,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Malawi",
+      "path": "africa/malawi",
+      "prior_rank": 6432,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_rank": 4524,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_rank": 5478,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_rank": 4715,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_rank": 4691,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_rank": 4048,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_rank": 6686,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_rank": 7060,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_rank": 5853,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

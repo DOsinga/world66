@@ -1,0 +1,200 @@
+{
+  "round": 1545,
+  "timestamp": "2026-04-13T10:30:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 6.3721,
+      "prior_variance": 0.347366,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.0388,
+      "prior_variance": 0.4244,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/sandiego/delmar",
+      "prior_score": -1.1488,
+      "prior_variance": 0.53358,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/manitousprings",
+      "prior_score": 2.4735,
+      "prior_variance": 0.354009,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 0.9522,
+      "prior_variance": 0.41122,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_score": 1.4831,
+      "prior_variance": 0.339769,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -2.0611,
+      "prior_variance": 0.612905,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": 0.1821,
+      "prior_variance": 0.313308,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 2.4972,
+      "prior_variance": 0.358854,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 1.5988,
+      "prior_variance": 0.455729,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 2.1946,
+      "prior_variance": 0.364908,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": -0.1593,
+      "prior_variance": 0.355466,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": 0.0555,
+      "prior_variance": 0.363147,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -0.4058,
+      "prior_variance": 0.343212,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.1291,
+      "prior_variance": 0.416349,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": 0.3721,
+      "prior_variance": 0.190381,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -0.7291,
+      "prior_variance": 0.342714,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": -0.6415,
+      "prior_variance": 0.439128,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -2.0943,
+      "prior_variance": 0.336197,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_score": 0.6799,
+      "prior_variance": 0.3983,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -1.8935,
+      "prior_variance": 0.413834,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kazakhstan",
+      "path": "asia/kazakhstan",
+      "prior_score": -2.3924,
+      "prior_variance": 0.447329,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -3.1618,
+      "prior_variance": 0.331527,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -3.1472,
+      "prior_variance": 1.045758,
+      "prior_n": 3
+    }
+  ]
+}

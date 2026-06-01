@@ -1,0 +1,200 @@
+{
+  "round": 1306,
+  "timestamp": "2026-04-12T22:20:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_rank": 30,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rhodes",
+      "path": "europe/greece/rhodes",
+      "prior_rank": 354,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_rank": 246,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_rank": 177,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_rank": 1518,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_rank": 182,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/rotorua",
+      "prior_rank": 241,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_rank": 305,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_rank": 1080,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_rank": 1994,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_rank": 368,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_rank": 617,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_rank": 1014,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_rank": 1557,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "San Qurico D' Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_rank": 453,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_rank": 555,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_rank": 435,
+      "prior_wins": 95,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_rank": 329,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_rank": 1751,
+      "prior_wins": 80,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_rank": 292,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_rank": 2240,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_rank": 405,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_rank": 864,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_rank": 2004,
+      "prior_wins": 31,
+      "prior_n": 2
+    }
+  ]
+}

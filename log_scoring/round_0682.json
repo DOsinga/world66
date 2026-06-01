@@ -1,0 +1,104 @@
+{
+  "round": 682,
+  "timestamp": "2026-04-12T10:42:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_mu": 23.7948,
+      "prior_sigma": 5.847,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_mu": 22.8865,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Chaguaramas",
+      "path": "northamerica/trinidadandtobago/chaguaramas",
+      "prior_mu": 21.5993,
+      "prior_sigma": 4.5144,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_mu": 22.4012,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Princes Town",
+      "path": "northamerica/trinidadandtobago/princestown",
+      "prior_mu": 22.5749,
+      "prior_sigma": 5.9436,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_mu": 21.999,
+      "prior_sigma": 4.4771,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "La Romaine",
+      "path": "northamerica/trinidadandtobago/laromaine",
+      "prior_mu": 22.4579,
+      "prior_sigma": 5.6813,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_mu": 22.3469,
+      "prior_sigma": 5.7165,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "mourin",
+      "path": "northamerica/trinidadandtobago/mourin",
+      "prior_mu": 22.4387,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Debe",
+      "path": "northamerica/trinidadandtobago/debe",
+      "prior_mu": 22.2774,
+      "prior_sigma": 5.9134,
+      "prior_n": 1
+    }
+  ]
+}

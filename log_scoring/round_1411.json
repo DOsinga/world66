@@ -1,0 +1,200 @@
+{
+  "round": 1411,
+  "timestamp": "2026-04-12T22:26:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_rank": 6562,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_rank": 8066,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_rank": 8087,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_rank": 7620,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_rank": 7886,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_rank": 8125,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Taram Gaun",
+      "path": "asia/india/uttaranchal/taram_gaun",
+      "prior_rank": 8141,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "kotnali villages photo",
+      "path": "asia/india/uttaranchal/kotnali_villages_p",
+      "prior_rank": 8011,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_rank": 7269,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_rank": 7822,
+      "prior_wins": 18,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_rank": 5861,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Theranda",
+      "path": "europe/serbia/kosovoprovince/prizren/theranda",
+      "prior_rank": 8116,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_rank": 7719,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_rank": 6552,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_rank": 6912,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_rank": 6524,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_rank": 7096,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_rank": 7064,
+      "prior_wins": 23,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_rank": 7749,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_rank": 7870,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_rank": 7695,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_rank": 7788,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_rank": 7953,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_rank": 7875,
+      "prior_wins": 10,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 95,
+  "timestamp": "2026-04-12T08:03:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_mu": 30.89,
+      "prior_sigma": 4.17,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_mu": 22.8,
+      "prior_sigma": 3.43,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_mu": 23.04,
+      "prior_sigma": 3.34,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_mu": 22.06,
+      "prior_sigma": 3.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_mu": 23.29,
+      "prior_sigma": 3.33,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_mu": 21.63,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_mu": 23.03,
+      "prior_sigma": 3.37,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 21.61,
+      "prior_sigma": 2.92,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_mu": 21.62,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_mu": 20.95,
+      "prior_sigma": 2.82,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_mu": 22.01,
+      "prior_sigma": 4.17,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Limburg",
+      "path": "europe/germany/hesse/limburg",
+      "prior_mu": 20.91,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 21.01,
+      "prior_sigma": 3.13,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_mu": 21.64,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_mu": 21.42,
+      "prior_sigma": 3.48,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 20.82,
+      "prior_sigma": 2.56,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_mu": 21.98,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_mu": 20.74,
+      "prior_sigma": 2.95,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_mu": 20.79,
+      "prior_sigma": 4.29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_mu": 19.51,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 16.56,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_mu": 18.84,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_mu": 18.66,
+      "prior_sigma": 3.29,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_mu": 20.85,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    }
+  ]
+}

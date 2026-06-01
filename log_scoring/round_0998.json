@@ -1,0 +1,200 @@
+{
+  "round": 998,
+  "timestamp": "2026-04-12T22:03:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_rank": 7424,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_rank": 7916,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_rank": 7783,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_rank": 7032,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_rank": 7384,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_rank": 7643,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_rank": 8062,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_rank": 7597,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_rank": 5331,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Athis-Mons",
+      "path": "europe/france/around_paris/athismons",
+      "prior_rank": 7798,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Irricana .",
+      "path": "northamerica/canada/alberta/calgary/aroundtown/irricana",
+      "prior_rank": 7138,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_rank": 8186,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_rank": 7865,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_rank": 7748,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_rank": 8036,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_rank": 8088,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_rank": 7938,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_rank": 7542,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_rank": 8192,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_rank": 7455,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Krasnovodsk",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_rank": 8098,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_rank": 8065,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_rank": 3943,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_rank": 7562,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

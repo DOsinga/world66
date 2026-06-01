@@ -1,0 +1,200 @@
+{
+  "round": 1183,
+  "timestamp": "2026-04-12T22:13:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sulawesi",
+      "path": "asia/indonesia/sulawesi",
+      "prior_rank": 1779,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_rank": 1520,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_rank": 2350,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_rank": 1954,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_rank": 2142,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_rank": 1403,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_rank": 2436,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_rank": 2647,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_rank": 1803,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_rank": 2726,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Clare",
+      "path": "europe/ireland/clare",
+      "prior_rank": 1230,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_rank": 4767,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_rank": 1963,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_rank": 4126,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_rank": 1740,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_rank": 1993,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_rank": 2904,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_rank": 3289,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_rank": 1325,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_rank": 821,
+      "prior_wins": 95,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_rank": 1330,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_rank": 1919,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_rank": 1804,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Santa Ponsa",
+      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
+      "prior_rank": 3295,
+      "prior_wins": 26,
+      "prior_n": 2
+    }
+  ]
+}

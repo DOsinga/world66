@@ -1,0 +1,200 @@
+{
+  "round": 689,
+  "timestamp": "2026-04-12T10:43:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_mu": 32.4936,
+      "prior_sigma": 6.1381,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_mu": 29.097,
+      "prior_sigma": 6.962,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_mu": 22.3146,
+      "prior_sigma": 5.467,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_mu": 21.611,
+      "prior_sigma": 4.4336,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_mu": 21.269,
+      "prior_sigma": 4.5602,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Trinity",
+      "path": "northamerica/unitedstates/california/shastacascade/trinity",
+      "prior_mu": 22.3123,
+      "prior_sigma": 5.4649,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_mu": 22.4281,
+      "prior_sigma": 5.7226,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_mu": 22.2669,
+      "prior_sigma": 5.4722,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_mu": 21.8316,
+      "prior_sigma": 5.6455,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_mu": 22.4868,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequen",
+      "prior_mu": 21.6006,
+      "prior_sigma": 4.5084,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Clarksburg",
+      "path": "northamerica/unitedstates/westvirginia/clarksburg",
+      "prior_mu": 22.3951,
+      "prior_sigma": 5.3687,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_mu": 21.1891,
+      "prior_sigma": 4.6598,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_mu": 20.7859,
+      "prior_sigma": 4.1473,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_mu": 21.2238,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_mu": 20.6174,
+      "prior_sigma": 4.4161,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_mu": 21.5178,
+      "prior_sigma": 5.6246,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sunrise Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
+      "prior_mu": 21.9665,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

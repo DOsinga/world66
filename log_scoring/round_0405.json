@@ -1,0 +1,200 @@
+{
+  "round": 405,
+  "timestamp": "2026-04-12T09:29:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_mu": 24.7487,
+      "prior_sigma": 5.794,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_mu": 31.1936,
+      "prior_sigma": 6.3395,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_mu": 22.5392,
+      "prior_sigma": 5.8,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
+      "prior_mu": 22.7102,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Wyoming",
+      "path": "northamerica/unitedstates/wyoming",
+      "prior_mu": 23.748,
+      "prior_sigma": 5.9964,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_mu": 22.6424,
+      "prior_sigma": 5.9398,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ludlow",
+      "path": "northamerica/unitedstates/vermont/ludlow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/groveland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_mu": 22.4747,
+      "prior_sigma": 5.9071,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_mu": 22.2747,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_mu": 22.7033,
+      "prior_sigma": 5.9475,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_mu": 21.663,
+      "prior_sigma": 5.3581,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Pickerington",
+      "path": "northamerica/unitedstates/ohio/pickerington",
+      "prior_mu": 22.4487,
+      "prior_sigma": 5.9031,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_mu": 22.4882,
+      "prior_sigma": 5.9088,
+      "prior_n": 1
+    }
+  ]
+}

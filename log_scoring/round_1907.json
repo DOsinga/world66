@@ -1,0 +1,200 @@
+{
+  "round": 1907,
+  "timestamp": "2026-04-13T14:35:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Provence",
+      "path": "europe/france/midi/provence",
+      "prior_score": 8.9009,
+      "prior_variance": 0.457102,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_score": 7.3534,
+      "prior_variance": 0.427793,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "S\u00e3o Miguel",
+      "path": "europe/portugal/theazores/so_miguel",
+      "prior_score": 9.2581,
+      "prior_variance": 0.429335,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 8.1955,
+      "prior_variance": 0.413645,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "British Columbia",
+      "path": "northamerica/canada/britishcolumbia",
+      "prior_score": 4.9259,
+      "prior_variance": 0.412118,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 4.1509,
+      "prior_variance": 0.250948,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington",
+      "prior_score": 3.5087,
+      "prior_variance": 0.288698,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_score": -0.3925,
+      "prior_variance": 0.508519,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 2.5213,
+      "prior_variance": 0.352144,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": 1.3829,
+      "prior_variance": 0.258195,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_score": -1.8827,
+      "prior_variance": 0.3103,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_score": -0.3838,
+      "prior_variance": 0.308384,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -1.5742,
+      "prior_variance": 0.285645,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.2855,
+      "prior_variance": 0.348893,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_score": -2.5136,
+      "prior_variance": 0.274453,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.0548,
+      "prior_variance": 0.259338,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.0676,
+      "prior_variance": 0.222179,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_score": -0.1618,
+      "prior_variance": 0.22022,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -1.6545,
+      "prior_variance": 0.242635,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -2.2464,
+      "prior_variance": 0.429772,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Haryana",
+      "path": "asia/india/haryana",
+      "prior_score": -5.251,
+      "prior_variance": 0.323491,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -6.2409,
+      "prior_variance": 0.331323,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -7.0345,
+      "prior_variance": 0.453275,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.0094,
+      "prior_variance": 0.418944,
+      "prior_n": 4
+    }
+  ]
+}

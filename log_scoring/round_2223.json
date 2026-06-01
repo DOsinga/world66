@@ -1,0 +1,200 @@
+{
+  "round": 2223,
+  "timestamp": "2026-04-13T16:21:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 9.0265,
+      "prior_variance": 0.308666,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 6.7651,
+      "prior_variance": 0.395926,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 5.5535,
+      "prior_variance": 0.324671,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 4.6777,
+      "prior_variance": 0.244995,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.0739,
+      "prior_variance": 0.227276,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 3.8157,
+      "prior_variance": 0.233355,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 5.5449,
+      "prior_variance": 0.259234,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_score": 4.657,
+      "prior_variance": 0.312846,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.3894,
+      "prior_variance": 0.228841,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 1.9789,
+      "prior_variance": 0.231309,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 1.635,
+      "prior_variance": 0.229468,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/yucatan/queretaro",
+      "prior_score": -4.2943,
+      "prior_variance": 0.269688,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -1.8545,
+      "prior_variance": 0.231991,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_score": 0.3331,
+      "prior_variance": 0.263544,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 0.7161,
+      "prior_variance": 0.228617,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_score": -1.2748,
+      "prior_variance": 0.230871,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -1.6851,
+      "prior_variance": 0.28105,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": 0.0904,
+      "prior_variance": 0.254906,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -2.2363,
+      "prior_variance": 0.293696,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Zagouhan",
+      "path": "africa/tunisia/zagouhan",
+      "prior_score": -2.7993,
+      "prior_variance": 0.203403,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.858,
+      "prior_variance": 0.209623,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_score": -0.5311,
+      "prior_variance": 0.230314,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.3663,
+      "prior_variance": 0.315815,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nigeria",
+      "path": "africa/nigeria",
+      "prior_score": -7.4148,
+      "prior_variance": 0.348245,
+      "prior_n": 5
+    }
+  ]
+}

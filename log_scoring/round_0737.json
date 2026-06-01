@@ -1,0 +1,200 @@
+{
+  "round": 737,
+  "timestamp": "2026-04-12T10:45:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_mu": 25.5891,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_mu": 22.4873,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kazanlak",
+      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
+      "prior_mu": 21.801,
+      "prior_sigma": 5.6373,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_mu": 21.7006,
+      "prior_sigma": 4.7356,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_mu": 21.9197,
+      "prior_sigma": 5.5486,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_mu": 21.0872,
+      "prior_sigma": 3.8756,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pereira",
+      "path": "southamerica/colombia/pereira",
+      "prior_mu": 21.2982,
+      "prior_sigma": 3.8628,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_mu": 21.5843,
+      "prior_sigma": 4.3013,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_mu": 21.8451,
+      "prior_sigma": 4.6994,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "New Brunswick",
+      "path": "northamerica/canada/newbrunswick",
+      "prior_mu": 21.2355,
+      "prior_sigma": 3.9126,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "campbell river",
+      "path": "northamerica/canada/britishcolumbia/campbell_river",
+      "prior_mu": 21.6857,
+      "prior_sigma": 4.4923,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_mu": 20.8138,
+      "prior_sigma": 2.9824,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ballangen",
+      "path": "europe/norway/ballangen",
+      "prior_mu": 21.6032,
+      "prior_sigma": 4.5361,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_mu": 21.0416,
+      "prior_sigma": 3.7453,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_mu": 18.9383,
+      "prior_sigma": 4.0664,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_mu": 21.648,
+      "prior_sigma": 4.8347,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_mu": 22.6592,
+      "prior_sigma": 5.6352,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Loch Sheldrake",
+      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
+      "prior_mu": 22.399,
+      "prior_sigma": 5.9459,
+      "prior_n": 1
+    }
+  ]
+}

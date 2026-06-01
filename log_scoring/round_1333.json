@@ -1,0 +1,200 @@
+{
+  "round": 1333,
+  "timestamp": "2026-04-12T22:22:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/eastbourne",
+      "prior_rank": 5332,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_rank": 3593,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cava dei Tirreni",
+      "path": "europe/italy/campania/cavadeitirreni",
+      "prior_rank": 4474,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_rank": 4093,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_rank": 6051,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_rank": 4781,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_rank": 3101,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_rank": 4791,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_rank": 4157,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_rank": 4247,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_rank": 2970,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_rank": 4458,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_rank": 5693,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Maluku",
+      "path": "asia/indonesia/maluku",
+      "prior_rank": 3607,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "La desirade",
+      "path": "northamerica/guadeloupe/ladesirade",
+      "prior_rank": 5139,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_rank": 4605,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Chaguaramas",
+      "path": "northamerica/trinidadandtobago/chaguaramas",
+      "prior_rank": 3346,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_rank": 5708,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_rank": 4830,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "O Ribeiro Valley",
+      "path": "europe/spain/galicia/o__ribeiro_valley",
+      "prior_rank": 4216,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "O Rosal Valley",
+      "path": "europe/spain/galicia/o_rosal_valley",
+      "prior_rank": 6197,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_rank": 5433,
+      "prior_wins": 44,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_rank": 5001,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Eustis",
+      "path": "northamerica/unitedstates/florida/eustis",
+      "prior_rank": 5424,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

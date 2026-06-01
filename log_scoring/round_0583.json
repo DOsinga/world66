@@ -1,0 +1,200 @@
+{
+  "round": 583,
+  "timestamp": "2026-04-12T10:38:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_mu": 22.5077,
+      "prior_sigma": 5.7696,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_mu": 22.114,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Soon Valley Ugalisharif",
+      "path": "asia/pakistan/soon_valley/soon_valley_ugalis",
+      "prior_mu": 22.8469,
+      "prior_sigma": 5.9453,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kahigala",
+      "path": "asia/pakistan/azad_kashmir/hajira/kahigala",
+      "prior_mu": 22.4397,
+      "prior_sigma": 5.7801,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_mu": 19.2231,
+      "prior_sigma": 5.2129,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_mu": 18.0077,
+      "prior_sigma": 5.2361,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "hafizabad",
+      "path": "asia/pakistan/islamabad/hafizabad",
+      "prior_mu": 22.472,
+      "prior_sigma": 5.9272,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_mu": 22.2425,
+      "prior_sigma": 5.7824,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_mu": 19.369,
+      "prior_sigma": 5.0705,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "pakistan",
+      "path": "asia/pakistan/sargodha/pakistan",
+      "prior_mu": 18.8234,
+      "prior_sigma": 5.1401,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Siakh in Tehsil Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/siakh_in_tehsil_da",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "shahzad",
+      "path": "asia/pakistan/dera_ghazi_khan/shahzad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Tibbi Qaisrani (Miana)",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1",
+      "prior_mu": 21.7159,
+      "prior_sigma": 5.8026,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "chah bangul wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/chah_bangul_wala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "qureshi from yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/qureshi_from_yaroo",
+      "prior_mu": 18.204,
+      "prior_sigma": 6.7073,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

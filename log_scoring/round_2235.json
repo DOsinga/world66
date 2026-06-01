@@ -1,0 +1,200 @@
+{
+  "round": 2235,
+  "timestamp": "2026-04-13T16:23:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 4.0741,
+      "prior_variance": 0.25219,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.6775,
+      "prior_variance": 0.278328,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 5.2687,
+      "prior_variance": 0.242278,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 0.8035,
+      "prior_variance": 0.219012,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.5152,
+      "prior_variance": 0.217615,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -2.3042,
+      "prior_variance": 0.429748,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 2.0063,
+      "prior_variance": 0.262575,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.5331,
+      "prior_variance": 0.201462,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -3.4506,
+      "prior_variance": 0.35019,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -0.3029,
+      "prior_variance": 0.205545,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.9322,
+      "prior_variance": 0.24406,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -1.9601,
+      "prior_variance": 0.19392,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_score": -4.775,
+      "prior_variance": 0.343131,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_score": -2.6324,
+      "prior_variance": 0.226433,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -4.0162,
+      "prior_variance": 0.246603,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -5.9891,
+      "prior_variance": 0.348126,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -3.0906,
+      "prior_variance": 0.239459,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_score": -5.4423,
+      "prior_variance": 0.257545,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -5.7838,
+      "prior_variance": 0.279733,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_score": -4.1678,
+      "prior_variance": 0.276336,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_score": -5.6987,
+      "prior_variance": 0.303948,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.3385,
+      "prior_variance": 0.322903,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/yucatan/viverosdelaloma",
+      "prior_score": -5.6194,
+      "prior_variance": 0.287506,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -8.562,
+      "prior_variance": 0.319474,
+      "prior_n": 5
+    }
+  ]
+}

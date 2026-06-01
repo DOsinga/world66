@@ -1,0 +1,200 @@
+{
+  "round": 1292,
+  "timestamp": "2026-04-12T22:19:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_rank": 5561,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Torrevieja",
+      "path": "europe/spain/spanishcostas/torrevieja",
+      "prior_rank": 6196,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_rank": 7007,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_rank": 4544,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_rank": 5519,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_rank": 6155,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kuwait",
+      "path": "asia/kuwait",
+      "prior_rank": 2175,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_rank": 4872,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_rank": 5317,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_rank": 3840,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_rank": 6100,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_rank": 5158,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_rank": 5140,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_rank": 4155,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_rank": 5795,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_rank": 5211,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_rank": 4668,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_rank": 6757,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Woerden",
+      "path": "europe/netherlands/woerden",
+      "prior_rank": 7157,
+      "prior_wins": 31,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Trinity",
+      "path": "northamerica/unitedstates/california/shastacascade/trinity",
+      "prior_rank": 2999,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_rank": 6349,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_rank": 6586,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_rank": 7466,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "sarainkhet sarson",
+      "path": "asia/india/uttaranchal/sarainkhet_sarson",
+      "prior_rank": 6579,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

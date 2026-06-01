@@ -1,0 +1,200 @@
+{
+  "round": 359,
+  "timestamp": "2026-04-12T09:13:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_mu": 31.8741,
+      "prior_sigma": 6.3074,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/canterbury",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Antarctica",
+      "path": "antarctica",
+      "prior_mu": 26.3099,
+      "prior_sigma": 6.1015,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_mu": 22.7251,
+      "prior_sigma": 5.8352,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_mu": 22.7523,
+      "prior_sigma": 5.7074,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_mu": 22.9348,
+      "prior_sigma": 5.7292,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_mu": 22.4987,
+      "prior_sigma": 5.5824,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_mu": 22.5213,
+      "prior_sigma": 5.9106,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Hillcrest",
+      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_mu": 22.7169,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_mu": 22.5285,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_mu": 22.2891,
+      "prior_sigma": 5.6227,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_mu": 22.7024,
+      "prior_sigma": 5.9474,
+      "prior_n": 1
+    }
+  ]
+}

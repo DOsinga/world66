@@ -1,0 +1,200 @@
+{
+  "round": 1542,
+  "timestamp": "2026-04-13T10:29:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -2.9924,
+      "prior_variance": 0.414656,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": -0.0891,
+      "prior_variance": 0.465297,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.8045,
+      "prior_variance": 0.271854,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_score": -3.8154,
+      "prior_variance": 0.566512,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.3112,
+      "prior_variance": 0.987141,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -3.3899,
+      "prior_variance": 0.151211,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -2.6744,
+      "prior_variance": 0.391907,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_score": -5.4892,
+      "prior_variance": 0.279861,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.6459,
+      "prior_variance": 0.411476,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.5097,
+      "prior_variance": 0.307445,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.5255,
+      "prior_variance": 0.403985,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -5.2875,
+      "prior_variance": 0.2964,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -4.8457,
+      "prior_variance": 0.46832,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -6.4564,
+      "prior_variance": 0.361014,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -7.0211,
+      "prior_variance": 0.407518,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Porterville",
+      "path": "northamerica/unitedstates/california/centralvalley/porterville",
+      "prior_score": -5.9015,
+      "prior_variance": 0.489468,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -8.2958,
+      "prior_variance": 0.478709,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Somerset",
+      "path": "northamerica/unitedstates/newjersey/somerset",
+      "prior_score": -5.8164,
+      "prior_variance": 0.422547,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -4.5888,
+      "prior_variance": 0.485657,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -4.3697,
+      "prior_variance": 0.315907,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/yucatan/aguaprieta",
+      "prior_score": -7.0518,
+      "prior_variance": 0.4437,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Samundri",
+      "path": "asia/pakistan/faisalabad/samundri",
+      "prior_score": -8.9601,
+      "prior_variance": 0.481919,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "shahzad",
+      "path": "asia/pakistan/dera_ghazi_khan/shahzad",
+      "prior_score": -11.3936,
+      "prior_variance": 0.569451,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "BuBRrsLK",
+      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
+      "prior_score": -11.8168,
+      "prior_variance": 1.220681,
+      "prior_n": 5
+    }
+  ]
+}

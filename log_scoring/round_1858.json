@@ -1,0 +1,200 @@
+{
+  "round": 1858,
+  "timestamp": "2026-04-13T10:58:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_score": 7.8219,
+      "prior_variance": 0.340737,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.3803,
+      "prior_variance": 0.262314,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 5.1666,
+      "prior_variance": 0.496961,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 4.911,
+      "prior_variance": 0.260772,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 4.7348,
+      "prior_variance": 0.308675,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 6.0884,
+      "prior_variance": 0.349274,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 5.9343,
+      "prior_variance": 0.302058,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.4843,
+      "prior_variance": 0.315339,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 2.2826,
+      "prior_variance": 0.317928,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.2069,
+      "prior_variance": 0.362478,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": -0.0753,
+      "prior_variance": 0.341686,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.8804,
+      "prior_variance": 0.31656,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_score": -0.7842,
+      "prior_variance": 0.327537,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Nauru",
+      "path": "australiaandpacific/nauru",
+      "prior_score": -5.1601,
+      "prior_variance": 0.635959,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.0696,
+      "prior_variance": 0.309147,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_score": -0.622,
+      "prior_variance": 0.25462,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_score": -1.7827,
+      "prior_variance": 0.300442,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -1.5594,
+      "prior_variance": 0.271305,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -3.5343,
+      "prior_variance": 0.35697,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.026,
+      "prior_variance": 0.371793,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -3.8424,
+      "prior_variance": 0.310562,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -1.8655,
+      "prior_variance": 0.348372,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -4.0412,
+      "prior_variance": 0.414349,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -4.8846,
+      "prior_variance": 0.320421,
+      "prior_n": 4
+    }
+  ]
+}

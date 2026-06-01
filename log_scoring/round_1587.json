@@ -1,0 +1,200 @@
+{
+  "round": 1587,
+  "timestamp": "2026-04-13T10:33:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_score": 8.7454,
+      "prior_variance": 0.907027,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.8952,
+      "prior_variance": 0.467417,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 6.2266,
+      "prior_variance": 0.44137,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 7.8362,
+      "prior_variance": 0.384107,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_score": 4.4521,
+      "prior_variance": 0.533819,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.3021,
+      "prior_variance": 0.328099,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 5.3455,
+      "prior_variance": 0.377977,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 3.331,
+      "prior_variance": 0.396959,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_score": 4.4214,
+      "prior_variance": 0.442958,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 0.7002,
+      "prior_variance": 0.388371,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.4854,
+      "prior_variance": 0.311539,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 3.3014,
+      "prior_variance": 0.356447,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.181,
+      "prior_variance": 0.391912,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla",
+      "prior_score": 2.1813,
+      "prior_variance": 0.457228,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.4456,
+      "prior_variance": 0.394469,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_score": 0.0384,
+      "prior_variance": 0.408551,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 2.1749,
+      "prior_variance": 0.374183,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -0.8491,
+      "prior_variance": 0.397915,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dar es salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": 0.3164,
+      "prior_variance": 0.486841,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.683,
+      "prior_variance": 0.366241,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -0.5961,
+      "prior_variance": 0.463454,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kosovo",
+      "path": "europe/kosovo",
+      "prior_score": -1.4747,
+      "prior_variance": 0.322824,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.0965,
+      "prior_variance": 0.355117,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.8472,
+      "prior_variance": 0.366695,
+      "prior_n": 4
+    }
+  ]
+}

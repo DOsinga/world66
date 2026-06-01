@@ -1,0 +1,200 @@
+{
+  "round": 1854,
+  "timestamp": "2026-04-13T10:57:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 6.22,
+      "prior_variance": 0.375301,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 6.854,
+      "prior_variance": 0.464422,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 3.7955,
+      "prior_variance": 0.257864,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -0.8373,
+      "prior_variance": 0.242253,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 2.6985,
+      "prior_variance": 0.278671,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.1227,
+      "prior_variance": 0.451015,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.3724,
+      "prior_variance": 0.314217,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_score": -1.4133,
+      "prior_variance": 0.28545,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_score": -2.5824,
+      "prior_variance": 0.300286,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -3.1907,
+      "prior_variance": 0.317855,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_score": -1.4602,
+      "prior_variance": 0.285917,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_score": -6.6079,
+      "prior_variance": 0.410575,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -3.7092,
+      "prior_variance": 0.304492,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.9509,
+      "prior_variance": 0.305314,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Harrisburg",
+      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
+      "prior_score": -3.6503,
+      "prior_variance": 0.392223,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/chico",
+      "prior_score": -2.5363,
+      "prior_variance": 0.268959,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -4.0396,
+      "prior_variance": 0.313325,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.8134,
+      "prior_variance": 0.331708,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -3.959,
+      "prior_variance": 0.412786,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -3.3914,
+      "prior_variance": 0.300107,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -3.2024,
+      "prior_variance": 0.322865,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_score": -4.3995,
+      "prior_variance": 0.287387,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -6.7446,
+      "prior_variance": 0.390905,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -11.8014,
+      "prior_variance": 1.232897,
+      "prior_n": 4
+    }
+  ]
+}

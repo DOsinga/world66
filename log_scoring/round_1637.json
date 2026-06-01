@@ -1,0 +1,200 @@
+{
+  "round": 1637,
+  "timestamp": "2026-04-13T10:37:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Africa",
+      "path": "africa/southafrica",
+      "prior_score": -2.105,
+      "prior_variance": 0.841816,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -4.1643,
+      "prior_variance": 0.445572,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.4805,
+      "prior_variance": 0.348119,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 4.1274,
+      "prior_variance": 0.315083,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -2.8874,
+      "prior_variance": 0.39778,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_score": -1.1558,
+      "prior_variance": 0.314326,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.8388,
+      "prior_variance": 0.32549,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.7427,
+      "prior_variance": 0.317251,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Manzhouli",
+      "path": "asia/china/manzhouli",
+      "prior_score": -2.2521,
+      "prior_variance": 0.358812,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_score": -2.3109,
+      "prior_variance": 0.380347,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Surnadal",
+      "path": "europe/norway/surnadal",
+      "prior_score": -4.115,
+      "prior_variance": 0.383151,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -5.8172,
+      "prior_variance": 0.419553,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/losangeles/santaclarita",
+      "prior_score": -4.8654,
+      "prior_variance": 0.496476,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -4.0943,
+      "prior_variance": 0.386229,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_notting/northampton",
+      "prior_score": -4.1166,
+      "prior_variance": 0.340813,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -1.9998,
+      "prior_variance": 0.358463,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_score": -4.7901,
+      "prior_variance": 0.396105,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -5.8138,
+      "prior_variance": 0.397217,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.322,
+      "prior_variance": 0.497672,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.455,
+      "prior_variance": 0.495712,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -3.6495,
+      "prior_variance": 0.395582,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Anglure",
+      "path": "europe/france/east/champagne/anglure",
+      "prior_score": -3.2724,
+      "prior_variance": 0.419178,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -4.1449,
+      "prior_variance": 0.385454,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -4.863,
+      "prior_variance": 0.292828,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+anthropic
+Django==6.0.3
+Markdown
+numpy
+PyYAML
+python-frontmatter
+scipy
+uvicorn[standard]
+geopy
+httpx
+Pillow
+pillow-heif
+python-dotenv
+sqlite-vec
+apsw
+openai

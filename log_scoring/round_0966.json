@@ -1,0 +1,200 @@
+{
+  "round": 966,
+  "timestamp": "2026-04-12T16:09:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_rank": 30,
+      "prior_wins": 90,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_rank": 627,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_rank": 794,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_rank": 5144,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_rank": 2197,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_rank": 3082,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_rank": 4235,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_rank": 1178,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_rank": 2373,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_sen",
+      "prior_rank": 3473,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_rank": 2580,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_rank": 1066,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_rank": 5011,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Deleg",
+      "path": "southamerica/ecuador/deleg",
+      "prior_rank": 6042,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_rank": 4775,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_rank": 4259,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jinggangshan",
+      "path": "asia/china/jinggangshan",
+      "prior_rank": 5303,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_rank": 8096,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_rank": 5605,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_rank": 3487,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ratingen",
+      "path": "europe/germany/northrhinewestphalia/ratingen",
+      "prior_rank": 5915,
+      "prior_wins": 30,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_rank": 5324,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_rank": 5913,
+      "prior_wins": 17,
+      "prior_n": 3
+    }
+  ]
+}

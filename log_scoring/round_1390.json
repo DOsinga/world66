@@ -1,0 +1,200 @@
+{
+  "round": 1390,
+  "timestamp": "2026-04-12T22:25:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_rank": 2519,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_rank": 5398,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_rank": 3769,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_rank": 2050,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_rank": 2223,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_rank": 3763,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_rank": 2731,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Herceg Novi",
+      "path": "europe/serbiaandmontenegro/hercegnovi",
+      "prior_rank": 1527,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_rank": 3523,
+      "prior_wins": 50,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_rank": 829,
+      "prior_wins": 146,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_rank": 1127,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_rank": 2294,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_rank": 995,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_rank": 2708,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_rank": 2385,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_rank": 3064,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_rank": 1913,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_rank": 3088,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_rank": 2058,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_rank": 1719,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_rank": 1911,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_rank": 3584,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_rank": 2084,
+      "prior_wins": 68,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_rank": 7803,
+      "prior_wins": 9,
+      "prior_n": 3
+    }
+  ]
+}

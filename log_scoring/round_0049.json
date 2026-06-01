@@ -1,0 +1,200 @@
+{
+  "round": 49,
+  "timestamp": "2026-04-11T19:26:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_mu": 29.93,
+      "prior_sigma": 6.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_mu": 31.54,
+      "prior_sigma": 4.87,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_mu": 27.21,
+      "prior_sigma": 5.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 29.6,
+      "prior_sigma": 4.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_mu": 26.2,
+      "prior_sigma": 4.97,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_mu": 24.48,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_mu": 22.32,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_mu": 22.61,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_mu": 23.4,
+      "prior_sigma": 6.03,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 22.48,
+      "prior_sigma": 5.57,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_mu": 21.52,
+      "prior_sigma": 4.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_mu": 21.61,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_mu": 21.93,
+      "prior_sigma": 5.66,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_mu": 21.25,
+      "prior_sigma": 4.64,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 21.33,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_mu": 20.42,
+      "prior_sigma": 5.63,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_mu": 21.67,
+      "prior_sigma": 4.57,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "A perfect day",
+      "path": "europe/czechrepublic/prague/aperfectday",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_mu": 13.94,
+      "prior_sigma": 5.74,
+      "prior_n": 2
+    }
+  ]
+}

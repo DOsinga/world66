@@ -1,0 +1,200 @@
+{
+  "round": 608,
+  "timestamp": "2026-04-12T10:39:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_mu": 25.6546,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_mu": 22.7733,
+      "prior_sigma": 5.9185,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_mu": 22.7031,
+      "prior_sigma": 5.6432,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_mu": 22.781,
+      "prior_sigma": 5.5547,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 20.5257,
+      "prior_sigma": 2.3508,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_mu": 22.5575,
+      "prior_sigma": 5.9373,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Wasilla",
+      "path": "northamerica/unitedstates/alaska/wasilla",
+      "prior_mu": 21.5781,
+      "prior_sigma": 4.7885,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_mu": 22.4969,
+      "prior_sigma": 5.5509,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_mu": 22.1566,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_mu": 21.9434,
+      "prior_sigma": 4.8248,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_mu": 22.8145,
+      "prior_sigma": 5.6333,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_mu": 21.891,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Scappoose",
+      "path": "northamerica/unitedstates/oregon/scappoose",
+      "prior_mu": 22.4352,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_mu": 21.7996,
+      "prior_sigma": 4.4986,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_mu": 22.4085,
+      "prior_sigma": 5.6793,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_mu": 17.8475,
+      "prior_sigma": 6.4436,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sylvania",
+      "path": "northamerica/unitedstates/ohio/sylvania",
+      "prior_mu": 21.9615,
+      "prior_sigma": 5.9112,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 19.6204,
+      "prior_sigma": 2.5262,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southcarolina/aberdeen",
+      "prior_mu": 22.6788,
+      "prior_sigma": 5.6891,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Central Valley",
+      "path": "northamerica/unitedstates/california/centralvalley",
+      "prior_mu": 22.5168,
+      "prior_sigma": 5.5364,
+      "prior_n": 1
+    }
+  ]
+}

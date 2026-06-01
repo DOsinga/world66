@@ -1,0 +1,200 @@
+{
+  "round": 2049,
+  "timestamp": "2026-04-13T16:06:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 8.1109,
+      "prior_variance": 0.301856,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_score": 8.4836,
+      "prior_variance": 0.353366,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "West Coast",
+      "path": "asia/turkey/westcoast",
+      "prior_score": 5.0479,
+      "prior_variance": 0.301955,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.919,
+      "prior_variance": 0.248166,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_score": 1.7663,
+      "prior_variance": 0.241533,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.9456,
+      "prior_variance": 0.273437,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.4258,
+      "prior_variance": 0.290322,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.8705,
+      "prior_variance": 0.224294,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.7889,
+      "prior_variance": 0.286052,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": 0.4581,
+      "prior_variance": 0.25032,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Gujarat",
+      "path": "asia/india/gujarat",
+      "prior_score": -0.0579,
+      "prior_variance": 0.217934,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -1.2084,
+      "prior_variance": 0.278305,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.8938,
+      "prior_variance": 0.28842,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -1.5259,
+      "prior_variance": 0.211142,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Laguna",
+      "path": "asia/philippines/laguna",
+      "prior_score": -0.7167,
+      "prior_variance": 0.248171,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": 0.0912,
+      "prior_variance": 0.275501,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_score": -3.2261,
+      "prior_variance": 0.275375,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Shirak Marz",
+      "path": "europe/armenia/shirak_marz",
+      "prior_score": -4.5614,
+      "prior_variance": 0.297213,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_score": -4.355,
+      "prior_variance": 0.30658,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.0051,
+      "prior_variance": 0.263723,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -6.3134,
+      "prior_variance": 0.27401,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kudal",
+      "path": "asia/india/maharashtra/kudal",
+      "prior_score": -5.0771,
+      "prior_variance": 0.295337,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -5.1712,
+      "prior_variance": 0.343207,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.6432,
+      "prior_variance": 0.288611,
+      "prior_n": 5
+    }
+  ]
+}

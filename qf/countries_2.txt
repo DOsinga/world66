@@ -1,0 +1,15 @@
+content/africa/gabon.md
+content/africa/gambia.md
+content/africa/ghana.md
+content/africa/guineabissau.md
+content/africa/guineeconakry.md
+content/africa/ivorycoast.md
+content/africa/kenya.md
+content/africa/lesotho.md
+content/africa/liberia.md
+content/africa/libya.md
+content/africa/madagascar.md
+content/africa/malawi.md
+content/africa/mali.md
+content/africa/mauritania.md
+content/africa/mauritius.md

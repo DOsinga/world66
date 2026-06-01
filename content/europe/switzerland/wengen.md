@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-05-28'
 image: wengen.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:1_wengen_2012.jpg
@@ -12,8 +13,8 @@ title: Wengen
 type: location
 ---
 
-Wengen is a car-free village perched on a sunny terrace above the Lauterbrunnen Valley in the Bernese Oberland. You reach it by cog railway from Lauterbrunnen — there is no road — and that isolation is part of its charm. The views from the village across to the Jungfrau, the Mönch, and the Eiger are among the most famous in [Switzerland](/europe/switzerland).
+Wengen is a car-free village perched on a sunny terrace above the Lauterbrunnen Valley in the Bernese Oberland. You reach it by cog railway from Lauterbrunnen — there is no road — and that isolation is part of its charm. The views from the village across to the Jungfrau, the Mönch, and the [Eiger](/europe/switzerland/wengen/eiger_north_face) are among the most famous in [Switzerland](/europe/switzerland).
 
-In winter Wengen is a serious ski resort, host to the Lauberhorn downhill — the longest and one of the most dangerous races on the World Cup circuit. The slopes suit intermediates well, with long runs down into Grindelwald on the other side. In summer the meadows fill with wildflowers and the hiking is superb: trails lead along cliff edges above the valley, up to the Männlichen ridge, and through to the Kleine Scheidegg, where the Jungfrau Railway begins its climb to the highest station in Europe.
+In winter Wengen is a serious ski resort, host to the [Lauberhorn downhill](/europe/switzerland/wengen/lauberhorn_race) — the longest and one of the most dangerous races on the World Cup circuit. The slopes suit intermediates well, with long runs down into Grindelwald on the other side. In summer the meadows fill with wildflowers and the hiking is superb: trails lead along cliff edges above the valley, up to the [Männlichen](/europe/switzerland/wengen/mannlichen) ridge, and through to [Kleine Scheidegg](/europe/switzerland/wengen/kleine_scheidegg), where the Jungfrau Railway begins its climb to the [Jungfraujoch](/europe/switzerland/wengen/jungfraujoch), the highest station in Europe.
 
 The village itself is small and quietly upmarket — chalets, a few good restaurants, no cars, no noise. It is an excellent base for exploring the Jungfrau region without the crowds of [Interlaken](/europe/switzerland/interlaken).

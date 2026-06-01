@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/orlando
-asia/kazakhstan/semipalatinsk
-australiaandpacific/solomonislands/newgeorgia
-northamerica/unitedstates/colorado/keystone
-northamerica/unitedstates/massachusetts/plymouth

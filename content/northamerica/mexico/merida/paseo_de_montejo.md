@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - architecture
+- paseo_de_montejo
 title: Paseo de Montejo
 type: poi
 ---

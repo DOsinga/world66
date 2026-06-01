@@ -1,0 +1,14 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 42.432054
+longitude: -8.644763
+snippet: Arcaded old-town square with the scallop-shell chapel
+tags:
+- things_to_do
+- landmark
+title: Herrería Square
+type: poi
+---
+
+Herrería Square takes its name from the blacksmith shops that once operated under its stone arcades. The square is lined with noble houses dating from the 15th and 16th centuries, and the distinctive Capilla de la Peregrina stands at one end — a round chapel shaped like a scallop shell. It's one of the main gathering points in the old town, lively at all hours and particularly atmospheric in autumn when street vendors roast chestnuts on the pavement.

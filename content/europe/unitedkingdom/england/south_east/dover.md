@@ -1,0 +1,21 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  poi_cleanup: '2026-04-19'
+image: dover.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dover_from_the_top_of_Dover_Castle_-_geograph.org.uk_-_4061940.jpg
+latitude: 51.125127
+loc_type: city
+longitude: 1.313423
+score: 0.51
+title: Dover
+type: location
+---
+
+When you think of Dover, you probably think of white cliffs — those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel has taken much of the traffic and the town itself has seen better days.
+
+Most people pass straight through, which is a mistake if you have a few hours. Dover Castle, commanding the clifftops above the harbour, is one of the finest medieval fortresses in England — its history stretches from the Iron Age through the Napoleonic wars to the Second World War, when the tunnels beneath served as the command centre for the Dunkirk evacuation. The white cliffs themselves are best appreciated from the National Trust visitor centre at the top, with walks along the clifftop path toward South Foreland Lighthouse.
+
+The town below is modest, but the Barbican and old harbour area have some character, and you can walk the waterfront promenade with views across to France on a clear day.

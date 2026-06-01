@@ -1,0 +1,18 @@
+---
+title: "Budget Travel Ideas in Montecatini Terme"
+type: section
+---
+
+**Accommodations**
+
+A large portion of a vacation budget can be used on accommodations and that is especially true for European vacations. As travelers we want to stay in hotels that are comfortable, reliable, and most importantly affordable. Montecatini Terme is a friend of the budget traveler looking for a nice hotel that won't leave them begging for food on Tuscany streets. Located in the center in Montecatini Terme near the thermal spa is Hotel Cioci de Luise. It is also near the rail station and a good place to stay if you are coming into the city via train. Nightly rates for Hotel Cioc de Luise are $55 US dollars for one guest and $33 US dollar per guest staying together. The atmosphere of the budget hotel is that of subtle romance mixed with classic Italian pieces. There is a large courtyard in which a fountain resides and plenty of parking available if you drove into the city. There is a restaurant on-site that provides visitors with authentic Tuscan cuisine. Free breakfast is available. Save some money and take an extra piece of bread or apple with you from breakfast for a snack later in the day.
+
+Villa la Reggia is located in Spianate, which is less than twenty minutes from Montecatini Terme. Rates are low and affordable with visitors paying roughly $100 a night. Accommodations at Villa la Reggia will leave you wondering if you're being charged by the hour instead of by the day. The actual building is a breathtaking Tuscan villa that has been transformed into a working hotel. There are 16 double rooms, a suite, and two apartment with full working kitchens. All rooms have air conditioning, internet access, satellite TV, and bathrooms with a shower and hair dryer. The decor of the rooms is modern mixed with a touch of classic Tuscan design. Villa la Reggia also has a swimming pool, sauna, and jacuzzi. Breakfast is included and this free meal will help save additional money in Montecatini Terme.
+
+**Activities**
+
+Montecatini Terme is jammed packed with activities for tourists to experience and surprisingly many of those attractions are within the price range of the budget traveler. For a price of only $10 Euros you can take the Funiculare to Montecatini Alto. This section of the city is on a very high hill and the Funiculare is a cable car that easily transports you to the top. The trip to the top takes about 15 minutes, but the view of the descending city below can't be missed. Once you arrive in Montecatini Alto, comprised of medieval buildings, you can simply explore. Try to plan your visit to the top portion of the city in the afternoon, so you can watch the sun set on your way down the mountain. Just remember to hold on tight while on the Funiculare because the ride can be steep.
+
+Grotta Giusti Spa gives the impression of being too pricey for a budget vacation, but that is not the case. The thermal therapeutic swimming pool at the spa is relaxing and peaceful. A waterfall and four mini spiral pools complete the large swimming pool. Water temperatures remain around 35 degrees Celsius. Spending a full day here will cost at least $100 Euros, but if you arrive after 2:00 pm it only cost $11 Euros. This offer is only available on weekdays. The price drops to only $7 Euros if you arrive at 1:00 pm and leave at 3:00 pm.
+
+The best way to enjoy a stay in Montecatini Terme on a budget is to simply walk about the city. It doesn't cost anything and you get to see the city up close. Bring a camera to catch all the sites and some comfortable shoes to save your feet from blisters. You'll probably find things that you never expected to find just by exploring Montecatini Terme by foot.

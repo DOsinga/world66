@@ -1,0 +1,16 @@
+---
+done:
+  poi_cleanup: '2026-04-19'
+latitude: 27.051105
+longitude: 88.258533
+opening_hours: 8:00-17:00, closed Monday and during monsoon
+snippet: Oldest working tea garden near Darjeeling, factory tours
+tags:
+- things_to_do
+- sight
+title: Happy Valley Tea Estate
+type: poi
+story: "Happy Valley was established in 1854, just 14 years after the British first planted tea in Darjeeling, making it one of the original estates in the industry. Darjeeling teas from this estate have been sold at auction under the 'Darjeeling' geographical indication since the 1980s — one of the first food products in the world to receive this protection."
+---
+
+Happy Valley Tea Estate, established in 1854, is the closest working tea garden to Darjeeling town and the easiest to visit independently. The estate produces first, second, and monsoon flush teas, and on most mornings you can watch the picking and see the processing inside the factory — the withering, rolling, fermenting, and drying stages that turn fresh leaf into the finished product. The estate offers a sweeping view of Kanchenjunga on clear days. Buy directly from the factory shop; the teas are genuine estate-grown Darjeeling and cheaper than tourist shops in town.

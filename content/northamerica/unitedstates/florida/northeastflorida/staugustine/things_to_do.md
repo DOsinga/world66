@@ -1,0 +1,6 @@
+---
+title: Things to Do
+type: section
+---
+
+St. Augustine's attractions cluster in and around the old city, making most of the highlights walkable. The [Castillo de San Marcos](/northamerica/unitedstates/florida/northeastflorida/staugustine/castillo_de_san_marcos) and the [Colonial Spanish Quarter Museum](/northamerica/unitedstates/florida/northeastflorida/staugustine/colonial_spanish_quarter) give the best feel for the city's 450 years of history. The [Lightner Museum](/northamerica/unitedstates/florida/northeastflorida/staugustine/lightner_museum) and [Flagler College](/northamerica/unitedstates/florida/northeastflorida/staugustine/flagler_college) are worth visiting for their extraordinary Gilded Age architecture. South across the Bridge of Lions, the [St. Augustine Lighthouse](/northamerica/unitedstates/florida/northeastflorida/staugustine/st_augustine_lighthouse) and [Anastasia State Park](/northamerica/unitedstates/florida/northeastflorida/staugustine/anastasia_state_park) fill out an afternoon. The [Fort Matanzas National Monument](/northamerica/unitedstates/florida/northeastflorida/staugustine/fort_matanzas), 14 miles south, is accessible by free ferry and usually uncrowded.

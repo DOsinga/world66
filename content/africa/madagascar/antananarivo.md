@@ -1,0 +1,26 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
+  location_enrich: '2026-05-16'
+image: antananarivo.jpg
+image_attribution: Sascha Grabow
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Anosy,_Central_Antananarivo,_Capital_of_Madagascar,_Photo_by_Sascha_Grabow.jpg
+latitude: -18.910012
+loc_type: city
+longitude: 47.525581
+score: 0.46
+title: Antananarivo
+type: location
+---
+
+Antananarivo, thankfully shortened to Tana by tourists and locals alike, is the bustling capital of Madagascar.
+
+Built on hillsides and ridges and ringed with rice paddies, Tana is an interesting place to spend a few days either at the beginning or end of your holiday. As it is also the location of the country's major international airport, most visitors will find themselves at least passing through the city.
+
+Founded in 1610 after a Malagasy king conquered several villages in the area, it was named Antananarivo (town of 1000) because a garrison of 1000 men were left behind to defend the newly gained territory.
+
+A palace (Rova) was built on the highest hill and in such a prominent position that it could be seen for tens of kilometres in just about any direction. Despite the modern version burning down in suspicious circumstances during the 1990s, the shell of the Rova remains the most dominant and recognised feature of the city today and it is a must see for any newcomers to the Malagasy capital.
+
+Tana is a great city to explore by foot, but be warned that its streets and many stairways are steep and demanding and the continual advances of beggars or street vendors can grow tiresome.

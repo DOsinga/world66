@@ -1,0 +1,14 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+latitude: 22.1866
+longitude: 113.5316
+snippet: Macau's oldest temple, namesake of the territory
+tags:
+- things_to_do
+- landmark
+title: A-Ma Temple
+type: poi
+---
+
+Macau's oldest temple, dedicated to the sea goddess A-Ma who is said to have given the territory its name — when Portuguese sailors asked, the locals answered "A-Ma Gao", the bay of A-Ma. The temple predates the Portuguese arrival in 1557 and is still a working place of worship: pilgrims burn coils of incense in the courtyard, rub the carved stones of the boats on the rock behind the altars for luck, and leave offerings at the six prayer halls stepping up the hillside.

@@ -1,0 +1,23 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-15'
+  poi_cleanup: '2026-04-19'
+image: rourkela.jpg
+image_attribution: skinny79 on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/46617817@N06/4973058825
+latitude: 22.2309
+loc_type: city
+longitude: 84.8679
+score: 0.31
+title: Rourkela
+type: location
+---
+
+Rourkela is Odisha's steel city, built in the late 1950s around one of India's largest and most modern integrated steel plants, a collaboration between India and Germany. Situated on the banks of the Brahmani River in Sundargarh district, it has grown into Odisha's second largest city with a population of around 500,000.
+
+Despite its industrial origins, Rourkela is well-planned and surprisingly green. The [National Institute of Technology (NIT)](/asia/india/orissa/rourkela/nit_rourkela) campus is one of India's premier technical institutions, and the brand-new [Birsa Munda International Hockey Stadium](/asia/india/orissa/rourkela/biju_patnaik_hockey_stadium), which hosted the 2023 World Cup, has put the city on the global sporting map. The city is well connected by rail to Kolkata, Bhubaneswar, Mumbai, and Delhi, and has flight connections to Bhubaneswar.
+
+The main attractions are outside the city itself. [Vedavyas](/asia/india/orissa/rourkela/vedavyas), at the sacred confluence of three rivers, is an important pilgrimage site. [Mandira Dam](/asia/india/orissa/rourkela/mandira_dam) and [Indira Gandhi Park](/asia/india/orissa/rourkela/indira_gandhi_park), the largest park in Odisha, are popular with locals. The spectacular [Khandadhar](/asia/india/orissa/rourkela/khandadhar) waterfall, the highest in the state, makes an excellent day trip.

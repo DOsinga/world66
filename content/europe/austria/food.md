@@ -1,0 +1,12 @@
+---
+title: "Food"
+type: section
+---
+
+Austrian food shares roots with its German and Hungarian neighbors but has its own distinct identity — heavier on the pastry, more refined in the classics, and deeply proud of its regional traditions. Wiener Schnitzel, a thin cutlet of veal pounded flat, breaded, and fried in butter until it puffs and crackles, is the national dish and it's served everywhere. Tafelspitz, boiled beef with horseradish and apple sauce, is Vienna's other great contribution. In the mountains, expect Käsespätzle (cheesy egg noodles), Tiroler Gröstl (a hearty potato and meat hash), and Kaiserschmarrn — torn-up fluffy pancakes dusted with powdered sugar, originally made for Emperor Franz Joseph and now served at every ski hut in the Alps.
+
+The pastry tradition is serious. Sachertorte, the dense chocolate cake with apricot jam, has been the subject of a legal battle between Hotel Sacher and Café Demel — both claim the original recipe, and you should try both and pick a side. Apfelstrudel, when done right with hand-pulled dough so thin you can read a newspaper through it, is a different experience from what you get outside Austria. Every bakery and café has its own Mehlspeisen (flour-based sweets), and skipping dessert is basically not done.
+
+Coffee house culture is central to Austrian life, especially in [Vienna](/europe/austria/vienna). This is not a grab-and-go coffee country. You sit, you order a Melange (similar to a cappuccino), a Verlängerter (a long black), or an Einspänner (espresso with whipped cream in a glass), and you stay as long as you like. The waiter brings a glass of water alongside your coffee without being asked. The great Viennese cafés — Central, Sperl, Hawelka, Bräunerhof — are institutions, and spending an afternoon in one is as much a cultural experience as visiting a museum.
+
+Austria is a serious wine country, and most of the production stays within its borders, so you'll drink things here that are hard to find elsewhere. Grüner Veltliner, a peppery, versatile white, is the flagship grape, and Austrian Rieslings from the Wachau and Kamptal are world-class. The Heuriger tradition — seasonal wine taverns where winemakers serve their own new wine with cold buffets of bread, cheese, and spreads — is one of the best ways to eat and drink in Austria. You'll find them on the outskirts of [Vienna](/europe/austria/vienna) in districts like Grinzing, Nussdorf, and Stammersdorf, and throughout the wine regions of Lower Austria and Burgenland.

@@ -3,10 +3,8 @@ address: Via San Nicolò 30, Trieste
 latitude: 45.650187
 longitude: 13.772084
 tags:
-- James Joyce
-- Literature
 - things_to_do
-- landmark
+- sight
 title: Joyce's House on Via San Nicolò
 type: poi
 snippet: "Plaque marking where Joyce wrote Dubliners"

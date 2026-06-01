@@ -6,9 +6,9 @@ latitude: 45.648576
 longitude: 13.773108
 opening_hours: Apr–Oct daily 09:00–18:00; Nov–Mar daily 10:00–17:00
 tags:
-- One Day in Trieste
 - things_to_do
-- landmark
+- sight
+- museum
 title: Castello di San Giusto
 type: poi
 ---

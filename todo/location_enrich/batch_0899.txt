@@ -1,5 +1,0 @@
-asia/jordan/irbid
-northamerica/unitedstates/kentucky/louisville
-northamerica/mexico/juarez
-europe/france/midi/dordogne/cahors
-europe/slovakia/zilina

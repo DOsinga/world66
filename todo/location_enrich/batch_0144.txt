@@ -1,5 +1,0 @@
-asia/indonesia/irianjaya/manokwari
-europe/italy/lombardia/lagodigarda/salo
-northamerica/honduras/laceiba
-northamerica/unitedstates/virginia/lynchburg
-northamerica/canada/britishcolumbia/princegeorge

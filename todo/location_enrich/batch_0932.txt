@@ -1,5 +1,0 @@
-asia/yemen/shibam
-asia/thailand/mahasarakham
-asia/china/shanxiprovince/mtwutai
-africa/kenya/westernkenya/kakamega
-africa/algeria/tindouf

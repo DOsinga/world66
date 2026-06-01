@@ -5,8 +5,8 @@ longitude: -87.787
 phone: 773-763-0660
 snippet: Chicago drive-in hot dog stand open since 1948.
 tags:
-- food_and_drink
-- restaurants
+- eating_out
+- restaurant
 title: Superdawg
 type: poi
 url: www.superdawg.com

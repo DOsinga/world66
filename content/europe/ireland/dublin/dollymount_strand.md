@@ -6,7 +6,8 @@ longitude: -6.167425
 snippet: Long sandy beach on Bull Island with bird sanctuary
 tags:
 - things_to_do
-- nature
+- beaches
+- sight
 title: Dollymount Strand
 type: poi
 ---

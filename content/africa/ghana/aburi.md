@@ -1,14 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-29'
+image: aburi.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beautiful_lush_landscape_of_Aburi_Ghana.jpg
 latitude: 5.8475
+loc_type: city
 longitude: -0.1753
+score: 0.41
 title: Aburi
 type: location
-score: 0.41
-loc_type: city
 ---
 
-Aburi sits in the Akuapem Ridge hills about 35 km north of [Accra](/africa/ghana/accra), and the main reason to come here is the Aburi Botanical Gardens. Established by the British in 1890, the gardens cover 65 hectares of tropical plants, towering palms, and shaded walkways. It is a cool, green escape from the heat and noise of Accra, and makes an easy half-day trip from the capital.
+Aburi sits in the Akuapem Ridge hills about 35 km north of [Accra](/africa/ghana/accra), and the main reason to come here is the [Aburi Botanical Gardens](/africa/ghana/aburi/aburi_botanical_gardens). Established by the British in 1890, the gardens cover 65 hectares of tropical plants, towering palms, and shaded walkways. It is a cool, green escape from the heat and noise of Accra, and makes an easy half-day trip from the capital.
 
-The town itself is quiet and pleasant, with a small market and wide views over the Accra plains. The road up from Accra winds through the hills and passes through several small towns known for furniture-making and woodcarving — worth a browse if you have time.
+The town itself is quiet and pleasant, with a small market and [wide views over the Accra plains](/africa/ghana/aburi/akuapem_ridge_views). The road up from Accra winds through the hills and passes through several small towns known for furniture-making and [woodcarving](/africa/ghana/aburi/woodcarving_workshops) — worth a browse if you have time.

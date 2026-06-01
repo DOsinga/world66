@@ -1,7 +1,11 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-05-29'
   poi_cleanup: '2026-04-19'
+image: szentendre.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Main_Square,_Szentendre,_Hungary.JPG
 latitude: 47.667761
 loc_type: city
 longitude: 19.076047
@@ -10,6 +14,6 @@ title: Szentendre
 type: location
 ---
 
-Szentendre is a small Baroque town on the Danube bend, 19 km north of Budapest, originally settled by Serbian Orthodox refugees fleeing the Ottoman advance in the 17th and 18th centuries. The Serbs built a cluster of distinctive Orthodox churches whose towers still punctuate the skyline, and the town's south Slav character — Cyrillic inscriptions, Mediterranean-style facades, Orthodox crosses — gives it an atmosphere unlike anywhere else in Hungary.
+Szentendre is a small Baroque town on the Danube bend, 19 km north of [Budapest](/europe/hungary/budapest), originally settled by Serbian Orthodox refugees fleeing the Ottoman advance in the 17th and 18th centuries. The Serbs built a cluster of distinctive Orthodox churches whose towers still punctuate the skyline, and the town's south Slav character — Cyrillic inscriptions, Mediterranean-style facades, Orthodox crosses — gives it an atmosphere unlike anywhere else in Hungary.
 
-The Serbs largely left in the 19th century, and industrial development never arrived, preserving the town's Baroque streetscape intact. Artists discovered it in the 1920s and established a colony; today Szentendre has a density of galleries, museums, and craft shops unusual for a town of 20,000. The two main museums are the Margit Kovács Museum (ceramics) and the Ferenczy Museum (Hungarian Impressionist painting). Just outside town, the Skanzen open-air ethnographic museum is the largest of its kind in Hungary. The town is an easy day trip from Budapest by HÉV suburban train (45 minutes from Batthyány tér) or boat.
+The Serbs largely left in the 19th century, and industrial development never arrived, preserving the town's Baroque streetscape intact. Artists discovered it in the 1920s and established a colony; today Szentendre has a density of galleries, museums, and craft shops unusual for a town of 20,000. The two main museums are the [Margit Kovács Museum](/europe/hungary/szentendre/margit_kovacs_museum) (ceramics) and the [Ferenczy Museum](/europe/hungary/szentendre/ferenczy_museum) (Hungarian Impressionist painting), and the triangular [Fő tér](/europe/hungary/szentendre/fo_ter) at the centre is ringed by pastel Baroque townhouses and the [Blagovestenska Church](/europe/hungary/szentendre/blagovestenska_church). Just outside town, the [Skanzen](/europe/hungary/szentendre/skanzen) open-air ethnographic museum is the largest of its kind in Hungary. The town is an easy day trip from Budapest by HÉV suburban train (45 minutes from Batthyány tér) or boat.

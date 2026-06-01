@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Oran is not far west off 0 degrees longitude in-line with London. Oran is Algerias' second largest, important and busiest city with approximately 1 million inhabitants. It is located on the coast of Algeria by the Meditteranean Sea. 
+Oran is Algeria's second-largest city, on the Mediterranean coast about 430 km west of Algiers. Es-Senia International Airport (ORN), 10 km south of the centre, has direct flights to Paris, Marseille, Lyon, Madrid, Barcelona, Istanbul, Casablanca, Tunis, and Algiers, served by Air Algérie, Tassili Airlines, Air France, Transavia, Iberia, Turkish Airlines, and others.
 
-Orans' international airport is located a few miles south of the city-centre and is named Oran Es-Senia airport as it is situated in the village of Es-Senia (a suburb of Oran). Airlines flying into Oran Es-Senia include Air Algerie, Air France, Air Lib... 
-
-Those who prefer journeys by sea or need to take a vehicle abroad can use the boat services from the main ports in Oran. There are constant ferries to Spain and France and a few other countries but the top destination is Alicante.
+The Port of Oran handles regular passenger ferries to Alicante, Marseille, and Sète — useful if you are bringing a car. Trains connect Oran to Algiers (about four hours on the Coradia service) and west to Sidi Bel Abbès and [Tlemcen](/africa/algeria/tlemcen).

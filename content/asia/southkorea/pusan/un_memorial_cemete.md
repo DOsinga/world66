@@ -6,6 +6,7 @@ longitude: 129.09528
 snippet: World's only UN cemetery, honoring Korean War fallen
 tags:
 - things_to_do
+- sight
 title: UN Memorial Cemetery
 type: poi
 ---

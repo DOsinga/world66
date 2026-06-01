@@ -5,8 +5,8 @@ longitude: 13.772801
 opening_hours: Mon–Sat 08:30–21:00; closed Sun
 price: Sandwich ~€4; bollito ~€10
 tags:
-- One Day in Trieste
 - eating_out
+- restaurant
 title: Buffet da Pepi
 type: poi
 snippet: "1897 boiled-meat lunch institution in Austro-Hungarian tradition"

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-05-29'
 image: cabarete.jpg
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Cabarete_Sosua_Dominican_Republic_People.jpg
@@ -16,6 +17,6 @@ Cabarete is one of the top kitesurfing and windsurfing destinations in the Carib
 
 The trade winds blow from the east almost year-round, giving Cabarete near-perfect side-onshore conditions. The best season runs from February to August, with June bringing the strongest winds — up to 30 knots — and the annual kiteboarding world tour. On a typical day the morning is calm, the wind picks up around 11:00 (good for beginners), and by 12:30 the thermal kicks in with consistent, solid conditions until around 16:00.
 
-**Kite Beach**, about a kilometre from the town centre, is the main launch spot — sandy beach, several kiteschools, and a reef 300 metres offshore that creates flat, shallow water on one side and decent swell on the other. **Bozo Beach** next door is a quieter alternative with no reef. For proper waves, **Encuentro Beach** is a well-known surf break that also works for kiting. And **La Boca**, a river mouth 6 km east of town, has glass-flat water perfect for freestyle.
+[Kite Beach](/northamerica/dominicanrepublic/puertoplata/cabarete/kite_beach), about a kilometre from the town centre, is the main launch spot — sandy beach, several kiteschools, and a reef 300 metres offshore that creates flat, shallow water on one side and decent swell on the other. For proper waves, [Encuentro Beach](/northamerica/dominicanrepublic/puertoplata/cabarete/encuentro_beach) is a well-known surf break that also works for kiting. [La Boca](/northamerica/dominicanrepublic/puertoplata/cabarete/la_boca), a river mouth 6 km east of town, has glass-flat water perfect for freestyle.
 
 Beyond the wind sports, Cabarete has a good strip of restaurants and bars along the beach road, and the nightlife runs late. It is a genuinely fun place to spend a few days, even if you have never touched a kite.

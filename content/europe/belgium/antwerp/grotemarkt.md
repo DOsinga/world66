@@ -1,18 +1,16 @@
 ---
-latitude: 50.846729
-longitude: 4.352408
+latitude: 51.2211
+longitude: 4.3997
 tags:
 - things_to_do
-- monument
+- sight
 - square
 title: Grote Markt
 type: poi
+snippet: Antwerp's irregular central square — guild houses, City Hall, Brabo fountain
+story: "The Brabo fountain in the centre is the city's founding myth made bronze. The giant Druon Antigoon demanded a toll from sailors on the Scheldt and cut off the hand of anyone who refused. The Roman soldier Silvius Brabo cut off Antigoon's hand and threw it into the river — 'handwerpen' in Dutch, supposedly the origin of the name Antwerp."
 ---
 
-The heart of the City on the Scheldt beats at the 'Grote Markt', an irregularly-shaped square, surrounded by decorative guild houses dating from the 16th and 17th century. This square is home to the statue of Brabo.
+The irregular shape of the Grote Markt was set by medieval property lines and never tidied up — which is part of its charm. The square is ringed by tall, narrow guild houses with stepped gables from the late sixteenth and seventeenth centuries, when Antwerp was the wealthiest trading city in Europe. The Stadhuis (City Hall), a 1564 masterpiece of Italianate-Flemish architecture, dominates the west side.
 
-According to a 16th century legend his action (flinging a hand, or in Dutch 'Hand werpen') led to the city being given its name. The 15th century City Hall is a successful blend of the Flemish style and Italian Renaissance characteristics.
-
-Probably the best example of this blended architecture is the Stadhuis, the Town Hall built between 1561 and 1564.
-
-type: Squares
+The Brabo fountain in the centre, with the soldier in mid-throw, is the most photographed object in the city. The café terraces along the south side of the square fill up on summer evenings — sit there with a glass of De Koninck, and you have the full Antwerp experience. The square is best in the late afternoon when the low sun lights the gabled fronts.

@@ -1,14 +1,8 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Denver International Airport (DIA) 24 miles (40km) northeast of downtown is among the nation's ten busiest. Most major car rental companies have booths at the Ground Transportation Center on the 5th level near baggage claim. Vans shuttles and taxis also queue up outside the 5th level doors. Regular Regional Transit District (RTD) buses the Airporter and the Denver Airport Shuttle ply between the airport and downtown Denver from dawn until well after dark. There are also more expensive door-to-door shuttle services. If you're driving from downtown allow at least 40 minutes just to reach the airport.
+The downtown core, LoDo, Civic Center, the Highlands and Capitol Hill are walkable to and from each other, and the free MallRide shuttle runs the length of the 16th Street Mall every few minutes. Beyond that, RTD light rail is genuinely useful — the W line runs west to Jefferson County, the E and H lines south, and the A line connects Union Station to the airport in 37 minutes. The L line tram runs up Welton through Five Points into RiNo.
 
-Visitors to the Museum of Natural History Larimer Square the zoo and many other attractions can board the RTD's special Cultural Connection Trolley with the purchase of an all-day ticket. One-hour self-guided tours aboard the trolley are an excellent way to orient yourself. Climb aboard in front of the Denver Center for the Performing Arts at the west end of downtown.
-
-Denver's five mile (8km) long RTD light rail line passes through downtown with NB (northbound) trains running on California St while SB (southbound) trains follow Stout St. Trains run every five minutes during peak periods. Bikes may board during off-peak hours with permit only.
-
-Drivers of cars and riders of motorbikes will need the vehicle's registration papers liability insurance and an international drivers permit in addition to their domestic license. In general Colorado is less tolerant of speeding than most Western states and if you consistently push the speed limits you stand a good chance of a run-in with the highway patrol. Be warned: fines are stiff. Seat belts are required for the driver and front seat passenger and for all passengers on highways and interstates. On motorcycles helmets are required for anyone under 18. Driving is on the right.
-
-Denver has a truly wonderful network of bicycle routes on city streets plus trails along the Platte River Greenway Cherry Creek and Bear Creek. See the *Denver Metro Bike Routes* map in the Denver phone book for route suggestions.
+Cycling is excellent: the South Platte and Cherry Creek trails together form a continuous, car-free network from downtown out to most directions of the city. Denver B-Cycle stations are scattered across the central neighborhoods. For trips out to the mountains, a car is essentially required — most rental companies are at the airport with downtown counters too.

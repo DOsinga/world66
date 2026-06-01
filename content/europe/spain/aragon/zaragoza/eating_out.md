@@ -3,48 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Aragonese food is robust and meat-heavy: roast lamb (ternasco de Aragón), cured Teruel ham, and migas (breadcrumbs fried with pork and garlic). The streets west of the Basílica del Pilar — around Calle del Temple and Calle de la Libertad — are packed with tapas bars and pintxo bars in the early evening.
 
-**Pizza Nostra**
-
-Great crispy pizzas. Trattoria style.     
-
-address: Marqués casa Jiménez, 8
-
-tel: +34-976-158504
-
-**Antonio**
-
-
-
-address: Plaza San Pedro Nolasco, 5
-
-tel: +34-976-397474
-
-**Casa Emilio **
-
- 
-
-fax: +34-976435839
-
-address: Avenida de Madrid, 5
-
-tel: +34-976435839
-
-**Rinconada de Lorenzo **
-
-Great Aragonese food.   
-
-address: La Salle, 3
-
-tel: +34-976-555108
-
-**Venta de los Caballos **
-
-Located out of town you can find this Aragonese restaurant. Take the road to Madrid.  
-
-fax: +34-976-332300
-
-address: Carretera de Madrid, Km 311
-
-tel: +34-976-332300
+**Casa Lac** (Calle de los Mártires 12) claims to be the oldest restaurant in Spain, open since 1825, and still serves traditional Aragonese dishes in a formal dining room. **La Rinconada de Lorenzo** (Calle de la Salle 3) has long been the local choice for good Aragonese cooking at reasonable prices. For a cheaper, more casual meal, the tapas bars around Calle de Heroísmo and Calle de los Estébanes in the old town are reliable and genuinely busy with locals rather than tourists.

@@ -3,7 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Direct buses from Tallinn take one and a half hours. Although there is a railway station in Haapsalu, there are no trains and the tracks have been removed.
+The easiest connection from Tallinn is by direct bus, which takes around one and a half hours. Several services run daily; check the Lux Express and Elron timetables for current schedules. Haapsalu has a railway station — a beautiful building worth visiting in its own right — but there are no longer any passenger trains; the tracks were removed decades ago.
 
-**Contributors**
-September 20, 2005
+From Tallinn by car takes about the same time as the bus, roughly 100 km via Highway 8. Haapsalu is also the departure point for ferries to the western islands of Hiiumaa and Vormsi.

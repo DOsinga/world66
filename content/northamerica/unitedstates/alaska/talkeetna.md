@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-29'
 image: talkeetna.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Welcome_to_beautiful_downtown_Talkeetna.jpg
@@ -17,8 +18,8 @@ Talkeetna is a small Alaskan town with an outsized personality. Sitting at the c
 
 The town is about three hours north of [Anchorage](/northamerica/unitedstates/alaska/anchorage) by road or rail, at the end of the 14-mile Talkeetna Spur Road. You will not pass through on the way to somewhere else -- you have to want to come here. That deliberate isolation is part of the charm.
 
-There is one paved road, a handful of log buildings, and more small aircraft than you can count. On a clear day the views of Denali are staggering. Walk to the end of Main Street and down to the riverbank, where grey glacial water rushes past and the mountain fills the sky. The historic Fairview Inn anchors the town center, and Nagley's Store across the road is an institution -- grab an ice cream and watch the parade of bush pilots, fishermen, and day-trippers.
+There is one paved road, a handful of log buildings, and more small aircraft than you can count. On a clear day the views of Denali are staggering. Walk to the end of Main Street and down to the [riverbank](/northamerica/unitedstates/alaska/talkeetna/river_confluence), where grey glacial water rushes past and the mountain fills the sky. The historic [Fairview Inn](/northamerica/unitedstates/alaska/talkeetna/fairview_inn) anchors the town center, and [Nagley's Store](/northamerica/unitedstates/alaska/talkeetna/nagleys_store) across the road is an institution -- grab an ice cream and watch the parade of bush pilots, fishermen, and day-trippers.
 
-Flightseeing around Denali is expensive but extraordinary. Several operators fly glacier landings and summit circuits that put you face to face with Alaska's most dramatic scenery. Fishing is the other big draw, with salmon, grayling, and trout all within reach. For hikers, multi-day treks into the backcountry around [Denali National Park](/northamerica/unitedstates/alaska/denali_national_park_and_preserve) offer some of the wildest terrain on the continent.
+Flightseeing around Denali is expensive but extraordinary. Operators like [Talkeetna Air Taxi](/northamerica/unitedstates/alaska/talkeetna/talkeetna_air_taxi) and [K2 Aviation](/northamerica/unitedstates/alaska/talkeetna/k2_aviation) fly glacier landings and summit circuits that put you face to face with Alaska's most dramatic scenery. Fishing is the other big draw, with salmon, grayling, and trout all within reach. For hikers, multi-day treks into the backcountry around [Denali National Park](/northamerica/unitedstates/alaska/denali_national_park_and_preserve) offer some of the wildest terrain on the continent.
 
 Day visitors flood in during summer, but stay a few nights and the crowds thin out. Talkeetna rewards the unhurried. Doors are left unlocked, locals are generous with their time, and the forest presses in from every side. This is the Alaska people imagine but rarely find.

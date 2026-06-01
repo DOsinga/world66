@@ -6,6 +6,8 @@ longitude: 100.5958
 snippet: Songkhla's oldest temple with vivid historical frescoes and museum
 tags:
 - things_to_do
+- sight
+- temple
 title: Wat Matchimawat
 type: poi
 ---

@@ -4,6 +4,7 @@ longitude: 100.5987
 snippet: "Hilltop panorama over Songkhla's lake, gulf, and old town"
 tags:
 - things_to_do
+- sight
 title: Khao Noi
 type: poi
 ---

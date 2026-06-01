@@ -7,6 +7,10 @@ title: Batna
 type: location
 score: 0.35
 loc_type: city
+image: batna.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Belezma_parc_national.png
+image_license: CC BY 4.0
+image_attribution: BullyanDZ
 ---
 
 Batna is a gateway town in eastern Algeria, sitting at over 1,000 metres on the northern edge of the Aurès Mountains. The town itself is functional rather than charming — the French built it as a military camp in 1844 to control the roads running south into the Sahara — but the surroundings are the reason to come.

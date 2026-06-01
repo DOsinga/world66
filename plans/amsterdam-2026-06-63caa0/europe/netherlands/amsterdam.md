@@ -1,0 +1,1 @@
+Amsterdam is a city of canals and world-class museums.

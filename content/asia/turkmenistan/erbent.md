@@ -7,6 +7,10 @@ done:
   location_cleanup: '2026-04-10'
 score: 0.18
 loc_type: city
+image: erbent.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Erbent-2015.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Bjørn Christian Tørrissen
 ---
 
 Erbent oasis lies 156 km from Ashgabat in the Central Karakum desert, and is one of the few inhabited pockets in an otherwise empty expanse of sand. The oasis has preserved many traditional nomadic customs and handicrafts over the centuries. It is also known as the home territory of the Tazy — a lean, long-legged Turkmen hunting dog similar in shape to the Afghan hound, bred for coursing game across the open steppe.

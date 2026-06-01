@@ -8,6 +8,10 @@ score: 0.47
 title: Le Havre
 type: location
 loc_type: city
+image: lehavre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Le_Havre,_France_from_the_Air_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: DiscoA340
 ---
 
 Le Havre is France's second-largest port and one of the country's most architecturally distinctive cities. Bombed almost flat in September 1944, it was rebuilt from scratch by the modernist architect Auguste Perret between 1945 and 1964 — a singular act of urban planning that earned it UNESCO World Heritage status in 2005. Most visitors pass through on their way to or from Britain; that's a mistake.

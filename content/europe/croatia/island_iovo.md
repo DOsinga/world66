@@ -7,6 +7,10 @@ done:
   location_cleanup: 2026-04-07
 score: 0.6
 loc_type: city
+image: island_iovo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ciovo-01-Croatia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Maju603
 ---
 
 Čiovo is a small island just off the coast of [Trogir](/europe/croatia/trogir), connected to the old town by a short bridge. That proximity to one of Dalmatia's most beautiful medieval cities is part of the appeal, but Čiovo has its own character: quieter, greener, and with better beaches than the mainland.

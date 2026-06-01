@@ -6,6 +6,7 @@ latitude: 46.2017
 longitude: 6.1468
 snippet: Techno and electronic club popular with students
 tags:
+- bars_and_cafes
 - nightlife
 title: Bypass
 type: poi

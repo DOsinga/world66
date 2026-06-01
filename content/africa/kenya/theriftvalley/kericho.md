@@ -1,16 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-28'
+image: kericho.jpg
+image_attribution: Bjørn Christian Tørrissen
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kenya-Tealand-Near-Kericho-2012.JPG
 latitude: -0.320997
+loc_type: city
 longitude: 35.226128
+score: 0.45
 title: Kericho
 type: location
-score: 0.45
-loc_type: city
 ---
 
-Kericho is a clean, prosperous town set in the wet highlands of the western Rift Valley, and the undisputed capital of Kenya's tea industry. The surrounding countryside is carpeted in tea for many kilometres in every direction — a rolling green landscape that gives the region a distinctive character found nowhere else in the country.
+Kericho is a clean, prosperous town set in the wet highlands of the western Rift Valley, and the undisputed capital of Kenya's tea industry. The surrounding countryside is carpeted in [tea](/africa/kenya/theriftvalley/kericho/tea_plantations) for many kilometres in every direction — a rolling green landscape that gives the region a distinctive character found nowhere else in the country.
 
 The economy here has revolved around tea since the British colonial era, and the plantations remain working estates today. Every few weeks, teams of pluckers move methodically through each row, harvesting the leaves that end up in cups around the world. Driving into Kericho from any direction means passing through this sea of green, with neat housing complexes for the plantation workers dotted among the fields.
 
-The town itself is a convenient base for exploring the western highlands. It sits roughly four hours west of Nairobi and about an hour east of Kisumu on the shores of Lake Victoria, making it a natural stopping point on journeys across the region.
+The town itself is a convenient base for exploring the western highlands. It sits roughly four hours west of Nairobi and about an hour east of Kisumu on the shores of Lake Victoria, making it a natural stopping point on journeys across the region. The colonial-era [Tea Hotel](/africa/kenya/theriftvalley/kericho/tea_hotel) is the local landmark and a useful starting point for plantation tours. For a quieter half-day, drive east to the [Chagaik Arboretum](/africa/kenya/theriftvalley/kericho/chagaik_arboretum) or west into the [Mau Forest](/africa/kenya/theriftvalley/kericho/mau_forest).

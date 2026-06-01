@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-28'
   poi_cleanup: '2026-04-19'
 image: lifou.jpg
 image_license: Public domain
@@ -18,4 +19,4 @@ Lifou is the largest of the Loyalty Islands — a raised coral atoll about 100 k
 
 The island's population of around 10,000 is predominantly Kanak — specifically from the Drehu people, who have inhabited Lifou for centuries. Kanak culture is present and respected here in ways that feel different from Noumea. Villages still operate around tribal authority. Much of the land is communally owned. Visitors are welcome, but this is not a resort island — there are no large hotels, no nightlife, and not much in the way of organized tourism. That's precisely the point.
 
-The main settlement is Wé, in the east, where you'll find the airstrip, shops, and the island's administrative functions. The west coast, around Easo and Chépénéhé, is quieter and has some of the best beaches.
+The main settlement is [Wé](/australiaandpacific/newcaledonia/lifou/we_town), in the east, where you'll find the airstrip, shops, and the island's administrative functions. The west coast, around [Easo](/australiaandpacific/newcaledonia/lifou/easo_beach) and Chépénéhé, is quieter and has some of the best beaches.

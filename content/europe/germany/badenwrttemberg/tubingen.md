@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-29'
 image: tubingen.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Altstadt-tuebingen-1.jpg
@@ -13,6 +14,6 @@ title: Tubingen
 type: location
 ---
 
-Tubingen is one of the loveliest university towns in Germany — a place where nearly a third of the 85,000 inhabitants are students, and the whole town has the energy and affordability that brings. The old town is a steep tangle of half-timbered houses, narrow alleys, and stairways climbing the hillside above the Neckar river. The Holzmarkt and the Marktplatz form the heart of it, overlooked by the Gothic Stiftskirche St. Georg and the imposing Schloss Hohentubingen.
+Tubingen is one of the loveliest university towns in Germany — a place where nearly a third of the 85,000 inhabitants are students, and the whole town has the energy and affordability that brings. The old town is a steep tangle of half-timbered houses, narrow alleys, and stairways climbing the hillside above the Neckar river. The Holzmarkt and the [Marktplatz](/europe/germany/badenwrttemberg/tubingen/marktplatz) form the heart of it, overlooked by the Gothic [Stiftskirche St. Georg](/europe/germany/badenwrttemberg/tubingen/stiftskirche) and the imposing [Schloss Hohentubingen](/europe/germany/badenwrttemberg/tubingen/schloss_hohentubingen).
 
-The Holderlin Tower, where the poet Friedrich Holderlin spent the last 36 years of his life in a state of gentle madness, stands on the riverbank and is one of Germany's most poignant literary landmarks. Punt boats on the Neckar, outdoor cafes on the Marktplatz, and an excellent bookshop scene all contribute to a town that rewards a day or two of wandering.
+The [Holderlinturm](/europe/germany/badenwrttemberg/tubingen/holderlinturm), where the poet Friedrich Holderlin spent the last 36 years of his life in a state of gentle madness, stands on the riverbank and is one of Germany's most poignant literary landmarks. [Punt boats on the Neckar](/europe/germany/badenwrttemberg/tubingen/stocherkahn), outdoor cafes on the Marktplatz, and an excellent bookshop scene all contribute to a town that rewards a day or two of wandering.

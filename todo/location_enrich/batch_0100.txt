@@ -1,5 +1,0 @@
-southamerica/brazil/portoseguro
-northamerica/unitedstates/california/sthelena
-northamerica/unitedstates/nebraska/ponca
-africa/guineabissau/bafata
-northamerica/unitedstates/california/inlandempire/rancho_cucamonga

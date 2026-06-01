@@ -1,19 +1,6 @@
 ---
-title: "Bars and Cafes in Mombasa"
+title: Bars and Cafes in Mombasa
 type: section
 ---
 
-Mombasa has a bustling daytime atmosphere, as well as a nightlife
-that is not to be missed. With many bars and
-cafes, visitors can really get a true sense of Kenyan-style either by
-drinking coffee at a café or partying as they sip drinks and light up
-the dance floor at any of these popular clubs and nightspots throughout
-the city:
-
-**Bars in Mombasa**
-
-**Bora Bora Night Club:** Located on the North Coast before the
-major hotel strip, the Bora Bora Night Club is a great place to enjoy a
-quieter night out. Featuring an adult crowd, the club admission
-includes a cabaret show with both local and Russian dancers. The great
-shows and music keep people coming
+Mombasa's drinking life splits between the noisy open-air bars of the island and the polished hotel terraces of the North Coast. Around Moi Avenue and Mnazi Moja Road, places like **Casablanca** are the local downtown classic — cold Tuskers, plastic chairs, and a dance floor by midnight. The North Coast hotels (Bamburi, Nyali) have proper cocktail bars and beachfront terraces. For a daytime espresso break, head to one of the Nyali coffee houses such as **Cafe Mocha**. Tropical rain stops nothing — most bars are open to the air anyway.

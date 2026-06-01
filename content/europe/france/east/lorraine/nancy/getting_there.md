@@ -3,6 +3,6 @@ title: Getting There
 type: section
 ---
 
-Nancy is well connected by rail. The TGV to Paris takes approximately 90 minutes from Nancy station; trains also run frequently to Strasbourg (1 hour), Metz (40 minutes), and Luxembourg City. The station is on the southern edge of the city centre, about 15 minutes' walk from Place Stanislas or a short tram ride.
+Nancy has a TGV station with fast trains from Paris-Est (about 90 minutes) and connections to Strasbourg (40 minutes) and Luxembourg (70 minutes). It is well connected to Metz (30 minutes) and serves as a useful base for a circuit of the Lorraine region.
 
-By car, Nancy is on the A31 autoroute connecting Luxembourg and Lyon. Parking in the city centre is metered and increasingly restricted; the car parks near the train station or at the edge of the centre are more convenient. The nearest airport with regular international connections is Metz-Nancy-Lorraine (LOR), 40 km south, with Air France flights to Paris and some European destinations.
+By car, Nancy sits on the A31 motorway between Metz and Dijon, about three hours from Paris. The city is compact and the centre is partially pedestrianised, so most visitors park on the edge of the old town and walk. There are several large underground car parks near Place Stanislas. Nancy does not have a civilian airport worth using — Paris Charles de Gaulle and Luxembourg Airport are the nearest international hubs.

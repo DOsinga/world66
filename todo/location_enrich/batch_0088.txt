@@ -1,5 +1,0 @@
-southamerica/brazil/manaus
-northamerica/thecaribbean/dominica/roseau
-africa/morocco/nkob
-asia/india/orissa/dhenkanal
-northamerica/unitedstates/westvirginia/charleston

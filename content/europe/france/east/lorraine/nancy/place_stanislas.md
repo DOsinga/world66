@@ -1,16 +1,13 @@
 ---
 title: Place Stanislas
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-latitude: 48.69361
-longitude: 6.18306
+tags: [things_to_do, sight, architecture]
+latitude: 48.6936
+longitude: 6.1831
 story: >
-  Place Stanislas was built not by the Duke of Lorraine but by Stanislas Leszczyński, the former king of Poland who was given the duchy as a consolation prize after losing his throne. He commissioned the architect Emmanuel Héré to create one of the grandest urban squares in Europe, and Héré delivered — the gilded wrought-iron gates, fountains, and Baroque facades were completed in just five years, between 1752 and 1756. When Stanislas died in 1766 the duchy passed to France, and the square has been French ever since.
+  The square was built by Stanislas Leszczyński, the deposed king of Poland who became Duke of Lorraine in 1737 as part of a diplomatic settlement. He used it to honour his son-in-law Louis XV of France — the royal monogram still appears on the gates. When Stanislas died in 1766, Lorraine passed to France and the square was renamed after him by the grateful city.
 ---
 
-The finest public square in eastern France and one of the most beautiful in Europe. The Place Stanislas is a UNESCO World Heritage Site, a large pedestrianised space enclosed on three sides by matching Baroque facades and on the fourth by a triumphal arch. The corner pavilions are connected by Jean Lamour's famous gilded wrought-iron gates — elaborate masterpieces of 18th-century decorative ironwork, gilded in gold leaf.
+Place Stanislas is one of the finest 18th-century squares in Europe, a UNESCO World Heritage Site since 1983. The ensemble was designed by Héré de Corny in the 1750s: a broad rectangle of honey-coloured stone buildings punctuated at each corner by gilded wrought-iron gates and lanterns by Jean Lamour. At night, when the fountains are lit and the gilding catches the light, it is genuinely spectacular.
 
-The square is perfectly proportioned: wide enough to feel monumental, enclosed enough to feel intimate. Fountains at the corners add movement and sound. At night the whole composition is lit dramatically. The Musée des Beaux-Arts occupies the northwest pavilion; the Hôtel de Ville the south side. Beyond the Arc Héré at the northern end, the Place de la Carrière extends the axis through a long, tree-lined space to the Hemicycle beyond.
+The square is pedestrianised and animated throughout the day. One side is occupied by the Hotel de Ville (city hall), another by the Opéra. The Museum of Fine Arts sits in one of the corner pavilions. A triumphal arch, the Arc Héré, connects the square northward to the long, formal Place de la Carrière and beyond to the Palais du Gouvernement — together, the three spaces form one of the great urban sequences of French classicism.

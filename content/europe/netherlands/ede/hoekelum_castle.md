@@ -9,7 +9,7 @@ phone: +31 (0)318 632 124
 snippet: 14th-century estate with English-style parkland open for walks
 tags:
 - things_to_do
-- landmark
+- sight
 title: Hoekelum Castle
 type: poi
 url: www.kasteelhoekelum.nl

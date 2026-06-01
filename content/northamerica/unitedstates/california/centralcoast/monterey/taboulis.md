@@ -3,6 +3,7 @@ latitude: 36.6177
 longitude: -121.9005
 tags:
 - eating_out
+- restaurant
 title: Tabouli's
 type: poi
 ---

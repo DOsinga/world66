@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
 image: calafate.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:El_Calafate_(25825005237).jpg

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - landmark
 - square
+- centro_historico
 title: Plaza Mayor
 type: poi
 ---

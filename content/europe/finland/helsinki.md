@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-29'
   poi_cleanup: '2026-04-19'
 image: helsinki.jpg
 image_license: CC BY 2.0
@@ -13,7 +14,7 @@ title: Helsinki
 type: location
 ---
 
-Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of Senate Square, the covered market halls, the design shops of the Punavuori district, and the ferry terminal for Suomenlinna island fortress are all within easy walking distance of each other.
+Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of [Senate Square](/europe/finland/helsinki/senate_square), the covered [market halls](/europe/finland/helsinki/old_market_hall), the design shops of the [Punavuori](/europe/finland/helsinki/punavuori) district, and the ferry terminal for [Suomenlinna](/europe/finland/helsinki/suomenlinna) island fortress are all within easy walking distance of each other.
 
 The city has grown considerably since the 1990s and now has a restaurant and cultural scene that holds its own against other northern European capitals. The population of greater Helsinki is around one million — roughly a fifth of the entire country.
 

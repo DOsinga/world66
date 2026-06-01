@@ -1,5 +1,0 @@
-europe/france/centre/loirevalley/valencay
-southamerica/brazil/ribeiraopreto
-southamerica/brazil/cuiaba
-europe/unitedkingdom/england/south_east/winchester
-europe/spain/la_mancha/alcazar_de_san_juan

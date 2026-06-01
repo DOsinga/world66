@@ -3,6 +3,6 @@ title: Eating Out
 type: section
 ---
 
-Nancy eats well. The cuisine of Lorraine is richer and more substantial than typical French food — Quiche Lorraine (the real thing, with cream, lardons, and egg rather than the thin supermarket versions) was invented here; so was the Bergamote, a hard amber candy made with bergamot oil that is essentially the city's edible souvenir. The brasserie tradition is strong, and the restaurants around Place Stanislas range from tourist-oriented to seriously good.
+Nancy's cuisine is solidly Lorraine: quiche lorraine (the original version, made with cream and lardons but no cheese), potée lorraine (a slow-cooked pork and vegetable stew), tarte aux mirabelles (plum tart), and macarons, which were invented here by Carmelite nuns in the 17th century and are still made at a handful of bakeries to a slightly different recipe than the Parisian version.
 
-For a proper local meal, look for menus featuring potée lorraine (a pork and vegetable stew), mirabelle plum dishes in season (July and August), and the local Moselle wines or Mirabelle eau-de-vie. The covered market at Marché Central (open Tuesday to Sunday mornings) is excellent for cheese, charcuterie, and local produce.
+The best restaurant area is around rue des Maréchaux and the Vieille Ville streets east of Place Stanislas. The market hall and its surroundings also have good brasseries serving traditional Lorraine cooking at reasonable prices.

@@ -1,5 +1,0 @@
-europe/france/centre/loirevalley/chaumont
-europe/sweden/kramfors
-asia/india/himachalpradesh/kullu
-southamerica/paraguay/aregua
-europe/germany/lowersaxony/wolfenbttel

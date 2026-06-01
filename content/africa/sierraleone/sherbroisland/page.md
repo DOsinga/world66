@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-05-23'
 image: sherbroisland.jpg
 image_license: CC BY-SA 3.0
+image_attribution: tormentor4555
 image_source: https://commons.wikimedia.org/wiki/File:Sherbro_Island_-_panoramio_(1).jpg
 latitude: 7.5121
 loc_type: city

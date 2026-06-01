@@ -1,14 +1,6 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-Oran comprises of many sandy clean beaches throughout the region. A few are Les Andalouses, Cap Blanc, Madagh Plage and Cap Falcon. These sensational caosts and beaches drag the sense of paradise and class into the air and are used dramatically over the spring and summer periods. Reported by **Youcef Hakem**.
-
-**Beachs**
-
-**Cap Blanc**
-
-Oran's furthest beach from the city centre but the poshest of the others. Mainly for private usage where many homes have been built nearby and are being built at the moment expanding it into a larger village. Reported by **Youcef Hakem**.
-
-email: youcef@hakem.net
+Oran's beach strip runs west along the coast from the city centre, past the suburb of Ain el-Turck and on to Les Andalouses. The water is cleanest at the western end; the closer-in beaches are crowded in July and August. Cap Blanc, 30 km out, is the most upmarket — rocky coves rather than sand, fewer crowds. Cap Falcon and Madagh complete the line of summer destinations west of the city.

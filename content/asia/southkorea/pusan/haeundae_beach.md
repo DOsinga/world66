@@ -2,8 +2,9 @@
 title: "Haeundae Beach"
 type: poi
 tags:
-  - beaches
   - things_to_do
+  - beaches
+  - sight
 snippet: Korea's most famous beach with lively promenade
 latitude: 35.157781
 longitude: 129.158132

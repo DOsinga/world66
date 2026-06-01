@@ -3,6 +3,6 @@ title: When to Go
 type: section
 ---
 
-Nancy is a year-round destination. The climate is continental — cold winters, warm summers, with the mirabelle plum harvest in late July and August being a particular seasonal highlight when the orchards around the city are in full production and the markets overflow with the small golden fruit.
+Nancy is worth visiting year-round, but spring and early summer (April to June) are the best months — the chestnut-lined squares are in leaf, the outdoor cafe terraces open, and the light is good. The city is relatively uncrowded compared to more obvious French tourist destinations.
 
-December is worth considering: the Christmas market on Place Stanislas, set against the illuminated Baroque facades and gilded gates, is one of the finest in France. The square is purpose-built for dramatic night lighting, and the market makes full use of it. Summer brings festivals and outdoor concerts to the square, though the city is busier with tourists. Spring and autumn are the most comfortable for walking the Art Nouveau circuit.
+July and August bring more visitors, but Nancy never gets as overwhelmed as Alsace or Provence. The market and the main sights operate normally through summer. Autumn brings mirabelle plum season (the city's most famous product) in August and September, and the Fêtes de la Mirabelle in late summer is the year's main local festival. Winter is cold and grey but the Christmas market on Place Stanislas is one of the better ones in the region.

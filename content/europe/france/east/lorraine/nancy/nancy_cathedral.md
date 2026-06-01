@@ -1,16 +1,11 @@
 ---
 title: Nancy Cathedral
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-latitude: 48.69139
-longitude: 6.18611
-story: >
-  The cathedral contains an unusual memorial: a mosaic in the floor marking the spot where Stanislas Leszczyński — former king of Poland and Duke of Lorraine — was fatally burned in 1766. He tripped over his dressing gown while reaching for burning coals from his fireplace, caught fire, and died from his burns several days later. He was 88 years old.
+tags: [things_to_do, sight]
+latitude: 48.6914
+longitude: 6.1861
 ---
 
-Nancy Cathedral — the Cathedral of Our Lady of the Annunciation — stands just off Place Stanislas and is often overlooked in favour of the more dramatic square. That's a mistake: the interior is one of the finest Baroque ecclesiastical spaces in France, with a nave that soars above elaborately decorated side chapels, gilded cornices, and a treasury of 18th-century religious art.
+Nancy Cathedral (Cathédrale Notre-Dame-de-l'Annonciation) is a Baroque church built in the early 18th century, which makes it an outlier in a country where cathedrals are mostly Gothic. The interior is broad and somewhat restrained by French standards, but the treasury, housed in a former sacristy, holds a remarkable collection of reliquaries and liturgical objects, including some pieces from the pre-Revolutionary Duchy.
 
-The treasury is particularly worth seeing: it holds a collection of 15th to 18th-century reliquaries, liturgical vessels, and embroidered vestments that document the wealth and ambitions of the Dukes of Lorraine. Entry to the treasury is separate from the free-to-enter nave. The cathedral is a 5-minute walk east from Place Stanislas.
+The cathedral stands a short walk from Place Stanislas, along the rue de la Source. Unlike many French cathedral visits, this one is quick — the building is elegant but not especially large. The most interesting feature is the 1867 iron-framed dome over the crossing, an early example of structural ironwork in a sacred building.

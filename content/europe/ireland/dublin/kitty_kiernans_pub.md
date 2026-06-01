@@ -3,8 +3,9 @@ title: Kitty Kiernan's Pub
 type: poi
 snippet: "Traditional local pub in Whitehall with live music most nights"
 tags:
-- things_to_do
-- nightlife
+- bars_and_cafes
+- bar
+- pub
 address: Collins Avenue West, Whitehall, Dublin 9
 phone: "+353 1 837 8316"
 latitude: 53.383605

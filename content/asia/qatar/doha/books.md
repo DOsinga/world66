@@ -1,31 +1,10 @@
 ---
-title: "Books in Doha"
+title: Books
 type: section
-author: "Gordon Robison & Paul Greenway"
-isbn: "1864501324"
 ---
 
-These are some great books to help you in your travels in and around Doha.
+**Cities of Salt** by Abdelrahman Munif is the closest the Gulf region has to a canonical novel — a five-volume sequence tracing the transformation of an unnamed Arabian country by oil, written by a Saudi-Syrian author who was stripped of his Saudi citizenship for the book's unflattering portrait of the oil era. Banned across most of the Gulf but widely read; the first volume is the most accessible entry point.
 
-### [Lonely Planet Bahrain, Kuwait & Qatar](/asia/qatar/doha/books/lonely_planet_bahr)
+**The Buried: An Archaeology of the Egyptian Revolution** by Peter Hessler is not about Qatar but illuminates the cultural and political currents that shape the wider Arab world Qatar operates within. Hessler lived in Cairo for five years and writes about Egyptian society with the same close attention he brought to China.
 
-If you're
-planning to visit and spend a day, a week or longer period of time in
-the Middle East Arabian countries like Bahrain, Kuwait and Qatar, this
-is a necessary guide you'll want to have along with you. Keeping in
-mind the visitor’s need, the book is beautifully illustrated with maps
-and photos and the book’s size makes it comfortable to keep along with
-you while traveling.
-
-The front cover shows a specimen of beautiful
-Islamic architecture. The book’s three separate sections deal with the
-three different countries. It contains maps of various parts of
-Bahrain, [more..](/asia/qatar/doha/books/lonely_planet_bahr)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1864501324/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: Gordon Robison & Paul Greenway
-
-isbn: 1864501324
+**Qatar: Small State, Big Politics** by Mehran Kamrava (Cornell University Press) is the most rigorous analysis of how a country of 300,000 citizens parlays enormous gas wealth and a foreign policy of calculated ambiguity into outsized global influence. Academic but readable; the best single book on modern Qatar.

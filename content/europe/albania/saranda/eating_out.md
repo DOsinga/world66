@@ -3,8 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-There are a lot of bars and restaurants on the city
+Saranda's restaurant scene is strongest along the waterfront promenade and on the streets behind it. Seafood is the obvious choice — fresh fish is brought in daily and grilled simply with olive oil and lemon in the Ionian style. Byrek (flaky pastry filled with cheese or spinach) and tavë kosi (lamb baked with yoghurt and eggs) are the Albanian dishes to try.
 
-We currently have no Eating Out listed in Saranda.
+**Lekursi Castle Restaurant** on the hilltop above town serves Albanian cuisine in the restored Ottoman fort — the food is good and the sunset view over the bay is the real draw. Reservations help in summer.
 
-If you do know any Eating Out in Saranda, please [Add].
+**La Banana** on the main road is a casual spot known for decent Albanian home cooking at honest prices. The side streets along the promenade hold a mix of seafood restaurants, pizza places, and cafes serving Albanians and tourists alike.

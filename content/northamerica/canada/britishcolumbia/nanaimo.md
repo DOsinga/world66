@@ -8,6 +8,10 @@ longitude: -123.9381
 score: 0.5
 title: Nanaimo
 type: location
+image: nanaimo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nanaimo,_British_Columbia_(19373715156).jpg
+image_license: CC BY 2.0
+image_attribution: David Stanley from Nanaimo, Canada
 ---
 
 Nanaimo is the second-largest city on Vancouver Island, set on the east coast looking across the Strait of Georgia to the mainland. It started as a coal-mining town and still has a slightly rough-around-the-edges feel compared to polished [Victoria](/northamerica/canada/britishcolumbia/victoria) to the south, but that is changing fast — the waterfront has been cleaned up, the old town has good restaurants and breweries, and the harbour is genuinely beautiful.

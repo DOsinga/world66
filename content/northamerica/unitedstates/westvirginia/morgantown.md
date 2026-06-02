@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-30'
+  location_enrich: '2026-06-02'
 latitude: 39.6297
+loc_type: city
 longitude: -79.9559
+score: 0.4
+sources:
+- https://en.wikipedia.org/wiki/Morgantown,_West_Virginia
+- https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit
+- https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest
 title: Morgantown
 type: location
-score: 0.4
-loc_type: city
-sources:
-  - https://en.wikipedia.org/wiki/Morgantown,_West_Virginia
-  - https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit
-  - https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest
 ---
 
 Morgantown is West Virginia University's town, and the university shapes everything about it — the energy, the nightlife, the rhythm of the year. Visit during the academic year and you'll find a lively, quasi-bohemian atmosphere that belies the surrounding Appalachian hills. Visit in summer and the place goes quiet. Plan accordingly.

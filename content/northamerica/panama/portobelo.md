@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 image: portobelo.jpg
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Portobelo_Ruins_and_bay.jpg
@@ -8,6 +9,8 @@ latitude: 9.5497
 loc_type: city
 longitude: -79.6503
 score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n
 title: Portobelo
 type: location
 ---

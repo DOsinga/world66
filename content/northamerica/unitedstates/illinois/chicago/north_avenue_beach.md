@@ -1,12 +1,14 @@
 ---
 address: 1600 N Lake Shore Dr, Chicago, IL 60613
-category: Sight
 done:
   poi_cleanup: '2026-04-20'
 latitude: 41.9112
 longitude: -87.6264
 phone: 773-327-2706
 snippet: Chicago's most popular beach, with skyline views and summer volleyball
+tags:
+- things_to_do
+- sight
 title: North Avenue Beach
 type: poi
 ---

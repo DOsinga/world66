@@ -1,5 +1,0 @@
-europe/italy/liguria/italianriviera/rivieradellepalme/mallare
-northamerica/unitedstates/arkansas/littlerock
-southamerica/bolivia/oruro
-asia/indonesia/java/bogor
-europe/sweden/rebro

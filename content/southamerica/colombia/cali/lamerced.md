@@ -6,7 +6,7 @@ longitude: -76.5345
 snippet: Cali's oldest church with colonial and pre-Columbian museums
 tags:
 - things_to_do
-- landmark
+- sight
 title: La Merced
 type: poi
 ---

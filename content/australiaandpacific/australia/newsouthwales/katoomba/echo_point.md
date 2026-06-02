@@ -4,10 +4,12 @@ done:
 latitude: -33.732239
 longitude: 150.312166
 snippet: Dramatic clifftop lookout over the Three Sisters and the Jamison Valley
+story: >
+  The Gundungurra tell of three sisters — Meehni, Wimlah and Gunnedoo — who were turned to stone by a cleverman (a man of special power) to protect them during a battle with the Nepean people. He was killed before he could reverse the magic, and the three sisters have stood there ever since, waiting.
 tags:
-- things_to_do
-- viewpoint
-- landmark
+  - things_to_do
+  - sight
+  - landmark
 title: Echo Point
 type: poi
 ---

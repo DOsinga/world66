@@ -1,5 +1,0 @@
-northamerica/unitedstates/utah/ogden
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe
-africa/mali/mopti
-southamerica/peru/ancash
-europe/denmark/tonder

@@ -14,6 +14,10 @@ longitude: 6.6327
 score: 0.68
 title: Lausanne
 type: location
+image: lausanne.jpg
+image_source: https://www.flickr.com/photos/25382620@N03/43158941011
+image_license: CC BY 2.0
+image_attribution: Gabriel GM on Flickr
 ---
 
 Lausanne tumbles down three steep hills to the shore of Lake Geneva, and that verticality shapes everything about the city. You are always climbing or descending, catching sudden views of the lake and the French Alps beyond. It is a compact place — walkable in theory, breathless in practice — with a medieval old town stacked above a lakefront that feels almost Mediterranean on a summer evening.

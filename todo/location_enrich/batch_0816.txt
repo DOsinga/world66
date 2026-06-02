@@ -1,5 +1,0 @@
-europe/italy/veneto/cortina_dampezzo
-northamerica/thecaribbean/guadeloupe/mariegalante
-northamerica/unitedstates/california/olympic_valley
-africa/morocco/ourika
-asia/turkmenistan/krasnovodsk

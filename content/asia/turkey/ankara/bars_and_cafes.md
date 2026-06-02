@@ -1,14 +1,8 @@
 ---
-title: "Bars and Cafes"
+title: Bars and Cafes
 type: section
 ---
 
-Well, Ankara is not Paris and is not really famous for its nightlife - less than Istanbul for example - but anyway I found always a lot of things to do.
+Ankara's café and bar scene is concentrated in Kızılay and in the Tunalı Hilmi Caddesi area in Çankaya. Kızılay has dozens of tea houses and small bars along the side streets off the main square. Tunalı Hilmi is the more upscale option, with wine bars, cocktail bars, and the terraced cafes popular with students from the nearby universities.
 
- Especially in summertimes there are a lot of bars, cafes and clubs with gardens and open courtyards behind the house, that's really nice and makes a cosy atmosphere.
-
- To have a beer you should stroll around in Kizilay (Red Moon) in the center of the town. You will find three, four parallel streets full of small beer gardens with spicy food and (turkish) life music.
-
- For a great dinner I would recommend the Osmanic style restaurants at the Kale.
-
- Ankara is also an important center for cultural life: The city has three symphony orchestras and five theaters (featuring opera ballet and drama).
+Ankara also has a significant classical music and arts scene — the Presidential Symphony Orchestra performs regularly at the Cumhurbaşkanlığı Senfoni Orkestrası concert hall, and the State Opera runs productions throughout the winter season.

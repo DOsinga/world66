@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-01'
 latitude: 34.120244
 longitude: 35.651858
 title: Jbeil (Byblos)

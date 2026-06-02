@@ -5,6 +5,7 @@ longitude: -4.7732
 snippet: "Century-old bodega famous for its own-label Montilla-Moriles fino"
 tags:
 - bars_and_cafes
+- bar
 title: Bodega Campos
 type: poi
 ---

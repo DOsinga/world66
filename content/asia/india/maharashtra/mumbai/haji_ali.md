@@ -6,7 +6,7 @@ longitude: 72.809035
 snippet: Island mosque reached by a causeway that floods at high tide
 tags:
 - things_to_do
-- landmark
+- sight
 title: Haji Ali Dargah
 type: poi
 ---

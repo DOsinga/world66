@@ -2,12 +2,15 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 8.8267
+loc_type: city
 longitude: -82.9735
 score: 0.49
+sources:
+- https://en.wikipedia.org/wiki/San_Vito,_Costa_Rica
 title: San Vito
 type: location
-loc_type: city
 ---
 
 San Vito is a small town in the southern highlands of Costa Rica, about 1,000 meters above sea level in the Coto Brus valley. It was founded in the 1950s by Italian immigrant families who came to establish coffee plantations, and that heritage is still noticeable — you can find decent pasta and proper espresso here, which is unusual for this part of the world.

@@ -1,56 +1,23 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-01'
+image: santa_rosa.jpg
+image_attribution: Frank Schulenburg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Comstock_House,_Santa_Rosa_(2012).jpg
 latitude: 38.440492
+loc_type: city
 longitude: -122.714105
+score: 0.44
 title: Santa Rosa
 type: location
-score: 0.44
-loc_type: city
 ---
 
-Travel Guide
+Santa Rosa is the largest city in California's North Bay and the county seat of Sonoma County, sitting 55 miles north of San Francisco at the heart of Sonoma's wine country. It is not, in itself, a picture-postcard destination — much of the historic downtown was lost first to the 1906 earthquake and then to mid-century redevelopment — but it makes an excellent base for exploring the surrounding vineyards, redwood parks, and Pacific coast, and it has a handful of genuinely good small museums of its own.
 
-Located 55 miles north of San Francisco, the city of Santa Rosa is the
-center of California’s famous wine country and offers fun family
-attractions, world-class spas, challenging golf courses, delicious
-wines, spectacular natural beauty, and a close proximity to the Pacific
-Ocean. This charming city’s downtown area is chock full of unique shops
-and restaurants serving food made with the freshest local ingredients
-and you’ll find plenty to do whether you’re visiting for a weekend of
-shopping, a romantic getaway or a fun family vacation.
+The two things every visitor sees are the [Charles M. Schulz Museum](/northamerica/unitedstates/california/santa_rosa/charles_m_schulz_museum), a serious tribute to the creator of Peanuts (Schulz lived and worked here for the last 30 years of his life), and the [Luther Burbank Home and Gardens](/northamerica/unitedstates/california/santa_rosa/luther_burbank_home_and_gardens), where the horticulturist who bred the Russet Burbank potato and the Shasta daisy lived and experimented for half a century. Beyond those, the [Museum of Sonoma County](/northamerica/unitedstates/california/santa_rosa/museum_of_sonoma_county) is housed in a 1909 Carnegie post office and combines local history with contemporary art, and the small [Church of One Tree](/northamerica/unitedstates/california/santa_rosa/church_of_one_tree) on the edge of Juilliard Park is built — pews and all — from the timber of a single redwood.
 
-Originally home to the Pomo, Miwok and Wappo Indian tribes, the city of
-Santa Rosa was established by the Spanish in the early 1800s as the
-Rancho Cabeza de Santa Rosa. Father Juan Amorosa, who followed the
-Spanish custom of naming waterways after saints, called the main stream
-in the area Santa Rosa, after Santa Rosa de Lima. Once the name had
-been given to the stream, it spread out to encompass the entire
-surrounding area and lasts as the city’s name to this day. During
-California’s gold rush, many prospectors who came for the state’s
-riches chose instead to settle in the area and work the land as
-farmers. In 1870, the railroad came to town, increasing the population
-of this sleepy agricultural town to more than quadruple its original
-size.**
+The walkable centre of gravity is [Railroad Square](/northamerica/unitedstates/california/santa_rosa/railroad_square), a few blocks of stone-fronted buildings west of Highway 101 that survived the earthquake and now hold antique shops, restaurants, and the SMART commuter station. Across the freeway, [Old Courthouse Square](/northamerica/unitedstates/california/santa_rosa/old_courthouse_square) was reunified in 2017 — for decades a road ran through the middle of it — and now functions as the city's main public space, with farmers markets in summer.
 
-**Home to famed horticulturist, Luther Burbank, this lovingly preserved
-home and garden in Santa Rosa is where Burbank lived and conducted
-experiments and observations in plant breeding for more than 50 years.
-The one-acre park offers free self-guided tours of Burbank’s home,
-gardens, greenhouse, and grave daily from 8am-dusk. Drop-in guided
-tours are available Tues-Sun 10-3:30pm for a small charge.
-www.lutherburbank.org
-
-Santa Rosa’s Charles M. Schulz Museum highlights the art of the famous
-and well-loved cartoonist through a variety of art exhibits, murals,
-personal artifacts, and a Snoopy-themed labyrinth. Open Mon-Fri (except
-Tues in winter) 11am-5pm; Sat-Sun 10am-5pm. admission ranges from
-$5-$8. www.schulzmuseum.org
-
-Railroad Square became the commercial center of Santa Rosa in the 1870s
-and continues to function as a popular shopping district and tourist
-attraction today. Listed on the National Register of Historic Places,
-the fully restored Santa Rosa Depot is now home to the Northwestern
-Pacific Railroad Historical Society and Rail Room Gallery which offers
-special railroad and historical exhibits, including a miniature
-Northwestern Pacific train.
+The real reason most people stay in Santa Rosa, though, is what lies outside it: the Russian River, the Sonoma Coast, Armstrong Redwoods, and the wine routes through Healdsburg, Sebastopol, and the Alexander Valley. The city is closer to all of these than Napa or San Francisco, and considerably cheaper.

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
 image: duncan.jpg
 image_attribution: Doug Hay
 image_license: CC BY 2.0

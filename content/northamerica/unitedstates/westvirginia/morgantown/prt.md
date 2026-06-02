@@ -7,6 +7,12 @@ tags:
   - transport
 latitude: 39.6348
 longitude: -79.9541
+story: >
+  The PRT was supposed to be the future of American urban transit. Funded by the Nixon
+  administration's Department of Transportation in 1975 as a prototype for systems to be
+  built across US cities, it attracted enormous attention — and then nothing happened. Every
+  other city that was supposed to get a version never built one. Morgantown's keeps running,
+  carrying students every day, the sole surviving example of a transport revolution that didn't happen.
 sources:
   - https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit
 ---

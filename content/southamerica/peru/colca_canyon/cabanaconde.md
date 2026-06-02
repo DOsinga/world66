@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
 image: cabanaconde.jpg
 image_attribution: Pethrus
 image_license: CC BY-SA 4.0

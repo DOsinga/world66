@@ -3,7 +3,7 @@ latitude: 37.8013
 longitude: -122.2602
 tags:
 - things_to_do
-- landmark
+- sight
 title: Lake Merritt
 type: poi
 snippet: "Downtown tidal lagoon with walking path and boat rentals"

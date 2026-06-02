@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Cancun has good restaurants for visitors both downtown, and in the Hotel Zone. Restaurants in the Hotel Zone are pricier, are more American in both their decor and menu items than in downtown. There are far more restaurants in the Hotel Zone for visitors, and include everything form Agentinian steak houses to Italian cuisine. However, I enjoyed the restaurants downtown much more, as the food was different from what I can get at home, and less expensive.
+Eating in the Hotel Zone is convenient but expensive and aimed squarely at international tastes — most resort guests rarely leave their all-inclusive. For better food at lower prices, head downtown to Avenida Yaxchilán, Parque Las Palapas, and the Mercado 23, where the cocinas económicas serve Yucatecan staples: cochinita pibil, panuchos, salbutes, sopa de lima. Several of the bay's best restaurants — La Habichuela, Lorenzillo's, Du Mexique, Río Churrasco — combine waterfront settings with serious cooking. The fresh-caught seafood at Isla Mujeres is half the cost and twice as good as in the Hotel Zone if you make the 20-minute ferry trip across.

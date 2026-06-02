@@ -1,55 +1,16 @@
 ---
-title: "When to Go in Seattle"
+title: "When to Go"
 type: section
 ---
 
-Seattle is a city that offers many
-different festivals and events throughout the year. If you're planning
-a trip to Seattle, here are a some events that you should consider because they offer something for everyone in the family.
+Seattle's reputation for rain is more accurate as mythology than meteorology. The city does not get particularly heavy rainfall — annual totals are lower than New York or Miami — but it gets a lot of grey days: overcast, drizzly, and dim from October through March. The rain comes in a fine persistent mist rather than downpours, and Seattleites learn to function in it without umbrellas. The joke is that locals can identify tourists by their rain gear.
 
-**Spring Road Trip**
+**Summer (June–September)** is the time to visit if you want the city at its most enjoyable. Temperatures are mild — typically 70–80°F (21–27°C) — the mountains are clear, and the long evenings encourage the outdoor culture that Seattle does well. The sky stays light until nearly 10pm in June. Crowds are highest in July and August.
 
-The
-Cascade Loop is a 2 day road trip over Steven Pass and the North
-Cross State Highway. The SR 20 stretch is open from Spring to
-early Winter but if often closed during the winter. Driving the Cascade Loop by car takes time but offers
-the most rewarding scenery in the state of Washington because you will
-drive through towns that look as if they are straight out of a western movie. Also,
-you'll get to see the majestic Columbia River.
+**Spring (March–May)** is cool and changeable, with cherry blossoms at the University of Washington Quad (usually late March) providing one of the most beautiful urban spectacles in the Pacific Northwest. The crowds are manageable and accommodation prices are reasonable.
 
-**May Festivities**Seattle celebrates the arrival of the spring with many yachting events. The first Saturday in May, the official start date of yachting season in Seattle, is celebrated with
-a fleet of boat sailing from Lake Union to Lake Washington. Other festivities in May include street fairs in
-the University District and the celebration of Norwegian Constitution Day on May 17 in the Ballard district.**
+**Autumn (October–November)** brings back the grey but also turns the deciduous forests in the hills remarkable colours. This is when the Pacific Northwest mushroom season begins — the farmers' markets at Pike Place fill with chanterelles and porcini.
 
-Memorial Day Weekend**
+**Winter (December–February)** is the low season: hotels are cheaper, the museums are uncrowded, and the ski resorts at Snoqualmie Pass (45 minutes) and Stevens Pass (90 minutes) are open. Downtown can feel quiet on weekday evenings.
 
-Families visiting Seattle will enjoy the Northwest Folklife
-Festival that showcases
-traditional and folk arts of more than 100 countries. People of
-Africa, the Americas, Asia, Europe and other parts of the world are in Seattle to provide music, dancing, craft exhibits and other demonstrations of customs from around the world. Another
-great event during Memorial Day Weekend is the Bumbershoot--an arts festival that takes place at the Seattle Center.
-
-**June Festivities**
-
-A great event in June is the Fremont Fair, which is similar to the Northwest Folklife Festival but it is less publicized. The Fremont Fair includes a parade and lots of live music.**
-
-July Festivities**
-
-Mid July is the setting for the Bite of Seattle Food festival. There's also the 23-day Seattle Seafair that marks the start of all Summer festivals in Seattle with several street parades and hydroplane races on Lake Washington.**
-
-December Festivities**
-
-Being a port city, the highlight of Christmas celebration in Seattle is the Christmas
-Cruise, a water parade of many colorfully
-illuminated boats. This is a nice event for couples of all ages to share a romantic moment.
-
-**Winter Sports**
-
-Seattle
-is a perfect hub for visiting nearby skiing and
-snowboarding spots. Snoqualmie Pass is an hour east on the Interstate 90 highway and Stevens Pass is an
-amazing resort about 2 hours east of Seattle on Highway 2.
-Farther east of Stevens Pass is Mission Ridge, which is near Wenatchee.
-
-**Contributors**
-September 29, 2009
+**Key events:** The Northwest Folklife Festival fills Seattle Center on Memorial Day weekend with music and craft from around the world. Seafair runs for several weeks in July and August, culminating in hydroplane races on Lake Washington. Bumbershoot, a major music and arts festival, traditionally closes the summer over Labour Day weekend in Seattle Center.

@@ -8,6 +8,7 @@ phone: 957 47 17 61
 snippet: Locals' tapas bar with montaditos near the old town
 tags:
 - bars_and_cafes
+- bar
 title: La Canoa
 type: poi
 ---

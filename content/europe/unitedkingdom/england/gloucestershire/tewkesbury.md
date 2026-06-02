@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-06-02'
 image: tewkesbury.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Tewkesbury_Abbey_and_Mill_Avon_from_Ham_path.jpg

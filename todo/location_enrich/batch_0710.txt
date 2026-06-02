@@ -1,5 +1,0 @@
-europe/germany/brandenburg/potsdam
-northamerica/mexico/xalapa
-europe/germany/lowersaxony/east_frisian_islands/wangerooge
-southamerica/peru/pacasmayo
-northamerica/unitedstates/california/eureka_ca

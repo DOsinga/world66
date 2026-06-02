@@ -4,7 +4,7 @@ latitude: 33.9598
 longitude: 130.9486
 tags:
 - things_to_do
-- landmark
+- sight
 title: Akama Shrine
 type: poi
 ---

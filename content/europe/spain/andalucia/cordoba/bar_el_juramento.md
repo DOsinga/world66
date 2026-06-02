@@ -5,6 +5,7 @@ longitude: -4.7735
 snippet: Honest neighbourhood tapas bar near the Mezquita with Montilla wines
 tags:
 - bars_and_cafes
+- bar
 title: Bar El Juramento
 type: poi
 ---

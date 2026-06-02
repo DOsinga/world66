@@ -1,5 +1,0 @@
-europe/france/corsica/ajaccio
-australiaandpacific/australia/southaustralia/mount_gambier
-northamerica/unitedstates/kansas/nicodemus
-northamerica/unitedstates/nevada/gerlach
-africa/angola/saurimo

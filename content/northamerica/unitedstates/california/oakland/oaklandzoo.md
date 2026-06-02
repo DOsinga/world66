@@ -5,7 +5,7 @@ longitude: -122.1478
 phone: 510-632-9525
 tags:
 - things_to_do
-- landmark
+- sight
 title: Oakland Zoo
 snippet: Mid-sized zoo with California native animals and gondola bay views
 type: poi

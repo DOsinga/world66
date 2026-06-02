@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-01'
 image: portoseguro.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Porto_Seguro.1.jpg

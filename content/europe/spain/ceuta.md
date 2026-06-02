@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
 image: ceuta.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Ceuta_y_la_pen%C3%ADnsula_de_Almina_desde_el_mirador_de_Isabel_II.jpg
@@ -8,6 +9,8 @@ latitude: 35.8944
 loc_type: city
 longitude: -5.3558
 score: 0.52
+sources:
+- https://en.wikipedia.org/wiki/Ceuta
 title: Ceuta
 type: location
 ---

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-02'
 image: aurangabad.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bibi_Ka_Maqbara_-_The_Taj_Of_Deccan.jpg
@@ -8,6 +9,8 @@ latitude: 19.8762
 loc_type: city
 longitude: 75.3433
 score: 0.54
+sources:
+- https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra
 title: Aurangabad
 type: location
 ---

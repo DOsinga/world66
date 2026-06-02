@@ -7,9 +7,8 @@ longitude: 30.5136
 snippet: Steep cobbled street linking Upper Town to Podil, Bulgakov's childhood home
 tags:
 - things_to_do
-- sights
-- street
-- story
+- neighbourhood
+- sight
 title: Andriyivskyy Descent
 type: neighbourhood
 ---

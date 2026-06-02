@@ -1,20 +1,23 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-02'
 latitude: 33.284575
 loc_type: city
 longitude: 131.491306
 score: 0.66
 title: Beppu
 type: location
+image: beppu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beppu_City.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Japanexperterna
 ---
 
-As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - *onsen*, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, [Oita](/asia/japan/kyushu/oita), the city's purpose is less that of industry and commerce than that of a resort town. Hordes of tourists - primarily domestic - descend on Beppu across the year to take in its plentiful, geothermal riches. As a result the city is usually considered not so much a conventional sightseeing destination as one for relaxation and enjoyment.
+Beppu is Japan's most famous hot spring resort, a city of 120,000 people on the eastern coast of Kyushu that sits above one of the most geothermally active patches of earth on the planet. More hot spring water flows through Beppu than anywhere else in Japan — second only to Yellowstone in the world — and the city wears this identity completely. Steam rises from vents along the streets, the smell of sulphur is inescapable in the old spa districts, and the entire economy revolves around relaxation, bathing, and the pleasures of geothermal heat.
 
-The few main "sights" promoted in Beppu are its ***jigoku***, or "hells" - hot springs not for bathing, but rather viewing. While tackiness tends to be part and parcel for each of them, a few are tasteful and attractive enough to be worthy of a stop. For completionists, a day pass including eight of the nine *jigoku* is available, but for most visitors two or three are more than sufficient. Most of them are located in and around the northern **Kannawa** district, which itself is one of the city's most active "spa towns." A strong smell of sulfur permeates the air, and several individual onsen and most lodgings provide numerous bathing opportunities. Other notable spa towns include Shibaseki, Kankai-ji and Myoban hot springs.
+The most famous attractions are the nine jigoku, or "hells" — boiling springs not for bathing but for viewing. [Umi Jigoku](/asia/japan/kyushu/beppu/umi_jigoku), the cobalt-blue Sea Hell, is the most photographed. [Chinoike Jigoku](/asia/japan/kyushu/beppu/chinoike_jigoku) is a vivid blood-red mud pool. [Tatsumaki Jigoku](/asia/japan/kyushu/beppu/tatsumaki_jigoku) erupts as a geyser every half-hour. A combined day pass covers eight of the nine and is the standard tourist circuit. The jigoku are concentrated in the [Kannawa district](/asia/japan/kyushu/beppu/kannawa_district), Beppu's most atmospheric spa town, where steam rises from pavement cracks and the streets smell perpetually of sulfur.
 
-Arguably the most atmospheric bathhouse is the Meiji-era **Takegawara Onsen**, somewhat oddly located in a bustling nightlife area full of hostess bars. Still maintained in its original, rustic form, Takegawara offers one of Beppu's few sand baths - a trademark more famously held by Ibusuki (further south in Kyushu, near Kagoshima).
+For actual bathing, the historic [Takegawara Onsen](/asia/japan/kyushu/beppu/takegawara_onsen) offers the city's most famous sand bath in a Meiji-era wooden building from 1879. The [Beppu Beach Sand Bath](/asia/japan/kyushu/beppu/beppu_beach_sand_bath) provides a more scenic version beside the bay. The [Beppu Ropeway](/asia/japan/kyushu/beppu/beppu_ropeway) ascends Mount Tsurumi for panoramic views over the steaming city and Beppu Bay. The somewhat eccentric [Kifune Castle](/asia/japan/kyushu/beppu/kifune_castle) on the eastern hill makes a good walk with views as reward.
 
-For those seeking kitsch, the **Beppu Hihokan** in Kannawa offers a weird, Japanese take on a museum of erotica. Further to the east, on a hill sits the reconstructed **Kifune-jo**, a castle based upon an original that no one seems certain actually ever existed!
-
-Beppu is also home to Ritsumeikan Asia-Pacific University, an international school with students from more than 40 countries, which gives the city a more cosmopolitan dining and nightlife scene than you might expect.
+Beppu is primarily a domestic resort destination — most visitors are Japanese and the town's character is shaped accordingly, with a density of ryokan, onsen facilities, and the slightly raucous atmosphere of a Japanese holiday town. Ritsumeikan Asia-Pacific University on the hill above the city brings an international student population that has diversified the dining and nightlife in the centre. For international travelers, Beppu is an excellent introduction to Japanese onsen culture in an accessible, English-friendly setting on the main Kyushu rail route.

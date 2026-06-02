@@ -3,20 +3,8 @@ title: "Beaches"
 type: section
 ---
 
-Like.... Uau... Lisboa has several nearby beaches, and you can find it very hard not to go for a swim on the hot summer days. 
+Lisbon is unusually well-served by beaches for a European capital. The closest are along the Estoril Line — the railway from Cais do Sodré runs west along the Tagus and then the coast, stopping at beaches including Estoril and [Cascais](/europe/portugal/cascais) before reaching its terminus. The water is Atlantic, which means it is noticeably colder than Mediterranean beaches, but the sand is excellent and the scenery dramatic.
 
-The fastest way to get there is to take the *Linha do Estoril* train at *Cais do Sodré*, there's a metro station over there. 
+[Carcavelos](/europe/portugal/lisbon/carcavelos) is the first ocean-facing beach on the line, a long west-facing stretch that is the best surf beach within easy reach and very popular on summer weekends. Further along, Estoril has a smaller, sheltered beach next to the casino. Cascais itself has several small beaches in and around the town.
 
-You should ride the train until *Carcavelos* witch is the first beach washed by the open sea. But, if you're in the mood to walk a bit you **must** go all the way to *Cascais* and stroll through the most amazing scenery culminating in *Guincho* (of course you can take a taxi or a bus there too). 
-
-Enjoy the sun and the **unspoiled** dunes and beaches!!
-
-**Beachs**
-
-**Guincho**
-
-Just 1 or 2 miles from *Cascais*. A little windy. Great sets. Amazing scenery.
-
-**Carcavelos**
-
-A very long beach, nevertheless a bit crouded all through late spring, summer and early fall. Great sets. A lot of fun and hot girls. good for food
+On the south bank of the Tagus, [Costa da Caparica](/europe/portugal/lisbon/costa_da_caparica) offers a long stretch of Atlantic beach that Lisboetas prefer for serious beach days — take the ferry from Cais do Sodré to Cacilhas, then bus. A small train runs along the coast from Caparica in summer, stopping at numbered beach bars. [Fonte da Telha](/europe/portugal/lisbon/fonte_da_telha) and [Guincho](/europe/portugal/lisbon/guincho) (near Cascais) are the wilder options for surfers and wind.

@@ -1,8 +1,11 @@
 ---
-category: Sight
 latitude: 47.1268
 longitude: 0.9987
 snippet: Romanesque church with unique hollow octagonal pyramid vaults
+tags:
+- things_to_do
+- sight
+- architecture
 title: Collegiate Church of Saint-Ours
 type: poi
 ---

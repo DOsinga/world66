@@ -5,10 +5,16 @@ score: 0.34
 title: Parañaque
 type: location
 loc_type: city
+done: true
+sources:
+  - https://en.wikipedia.org/wiki/Para%C3%B1aque
+  - https://en.wikivoyage.org/wiki/Para%C3%B1aque
 ---
 
-Parañaque sits in the southern part of Metro Manila, wedged between the airport and the coast. Most travelers experience it involuntarily, stuck in traffic on their way to or from Ninoy Aquino International Airport. But the city has more going on than its reputation as a transit corridor suggests.
+Parañaque sits in the southern part of Metro Manila, wedged between the airport and the coast. Most travelers pass through it on the way somewhere else, sitting in traffic on the roads fanning out from Ninoy Aquino International Airport. The city deserves more than that reputation.
 
-Baclaran Church, officially the National Shrine of Our Mother of Perpetual Help, draws enormous crowds every Wednesday for its novena services. The surrounding Baclaran Market is a chaotic, sprawling bazaar where you can find almost anything at rock-bottom prices. Along the coast, the Entertainment City complex of casino-resorts has transformed the bayfront into Manila's glitziest strip, though the contrast with the surrounding neighborhoods is stark.
+The old heart of Parañaque around the barangay of San Andres is one of the oldest settled places in the Manila area — the parish church here dates from around 1580. To the north, Baclaran Church draws tens of thousands of devotees every Wednesday for the novena to Our Lady of Perpetual Help, one of the largest recurring religious gatherings in Asia. The surrounding Baclaran Market is a sprawling bazaar of extraordinary density and cheapness, selling everything from fresh fish to clothing to cheap electronics.
 
-For food, the Seafood Market at the CCP Complex area offers a classic Manila experience: you choose your fish and shellfish from the vendors, then hand it to a nearby restaurant to cook however you like. It is not fancy, but it is fresh and fun, especially with a group.
+Along the coast, the Entertainment City development has transformed the bayfront into the Philippines' answer to Macau. The four integrated casino-resorts — Solaire, City of Dreams, Okada Manila, and Westside City — are deliberately spectacular, and the baywalk between them offers one of Manila's better sunsets. Okada Manila's indoor lagoon and outdoor beach club are worth a visit even for confirmed non-gamblers.
+
+South of the airport, the BF Homes district is a genuinely liveable residential neighbourhood with a long-established restaurant and bar strip on Aguirre Avenue. It offers a quieter, more local version of Manila life than the casino corridor — good food, reasonable prices, and pavements actually worth walking on. The Parañaque Integrated Terminal Exchange (PITX) near the Coastal Road is the modern gateway for buses to southern Luzon, and is itself a small architectural achievement worth acknowledging.

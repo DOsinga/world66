@@ -1,17 +1,8 @@
 ---
-address: Blvd. Mijares 1357 col. centro
-email: reservaciones@restaurantelcomal.com
-phone: 01 624 14 25508
-price: $8 usd- $28 usd
-title: Eating Out
-type: poi
-url: www.restaurantelcomal.com
+title: "Eating Out"
+type: section
 ---
 
-### ["El Comal" De la Buena comida Mexicana...
+San José del Cabo eats better than its modest size suggests. The centro histórico has a cluster of restaurants around Plaza Mijares and along Calle Álvaro Obregón covering everything from traditional Mexican to modern Baja cuisine — and prices are considerably lower than the resort corridor hotels along the beach. The organic Saturday market on Calle Coronado is worth arriving early for: fresh tamales, local cheese, artisan mezcal, and produce from the sierra.
 
-Classic Mexican cuisine;
-
-Preserving the original open courtyard with the fruit trees & colorful bougambilias. "El Comal" De la Buena comida Mexicana...](/northamerica/mexico/sanjosedelcabo/eatingout/el_comal_de_la_b) is situated in the heart of San Jose del Cabo in one of the oldest monumental Buildings. Featuring delicacies such as Chicken enmoladas, Deep fried red snapper, beef medallions with a thyme mole sauce...and our signature Margarita... Pomegranate Margarita.
-
-type: Mexican
+The Baja kitchen makes heavy use of the sea: fresh tuna, dorado, and shrimp come off boats that dock at La Playita a few kilometres east. The local style combines these with ingredients from the huertas (small farms) in the mountains behind the city — avocado, papaya, chilies, and citrus. For a traditional sit-down meal, the restaurants around Plaza Mijares fill with a mixed local and visitor crowd well into the evening.

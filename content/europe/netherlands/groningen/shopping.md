@@ -1,30 +1,10 @@
 ---
-address: Gedempte zuiderdiep 65 9711 HC Groningen
-email: info@depaardebloem.nl
-latitude: 53.214755
-longitude: 6.566551
-phone: 050-3132672
 title: Shopping
-type: poi
+type: section
+tags:
+- shopping
 ---
 
-One of the most interesting shopping streets is the Folkingestraat, which leads straight from the train station over the Museum Bridge to the Vismarkt. Before 1945 this used to be the centre of the jewish shops. Nowadays you find art galleries and some arabic shops.
+The **Folkingestraat** is Groningen's most interesting shopping street — a continuation of the route from the station over the Museum Bridge to the Vismarkt. Until 1945 it was the centre of the city's Jewish quarter; today it is lined with small galleries, independent shops, and a steadily growing number of restaurants. The street has been voted the best shopping street in the Netherlands more than once.
 
-**Contributors**
-March 28, 2006
-
-### [De Paardebloem, biological food products](/europe/netherlands/groningen/shopping/natuurwinkel_groni)
-
-*Natuurwinkel de Paardebloem*, supermarket for biological/veg products and food, sells 100% biological food products.
-
-Open:** **tue+fri+sat 9am - 5pm
-
-type: Markets
-
-
-
-tel: 050-3132672
-
-address: Gedempte zuiderdiep 65 9711 HC Groningen
-
-email:
+For mainstream brands, the **Herestraat** runs from the Grote Markt south to the station and covers the usual chains. The Saturday **Vismarkt** flea market is good for browsing, and Tuesday and Saturday bring fresh produce to the Grote Markt itself.

@@ -7,8 +7,9 @@ longitude: -87.6737
 phone: 773-489-3160
 snippet: Legendary Wicker Park rock venue, now permanently closed
 tags:
-- things_to_do
 - bars_and_cafes
+- bar
+- wicker_park
 title: Double Door
 type: poi
 ---

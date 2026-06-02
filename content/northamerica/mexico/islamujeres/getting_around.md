@@ -1,11 +1,14 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-To get around the island, you can rent golf cart, rent a moped, or take a taxi. Taxi's cost 40 to 60 peso's, depending how far you are going, and you should agree on the price before you get in. Taxi's are preferrable to golf carts or mopeds if you are short on time, as the distances can be quite far (although most people seems to really enjoy driving around on a golf cart). Don't be suprised if when riding in a taxi, if the driver stops for other people going in the same direction. Taxi, and other drivers did a good job in driving slowly around the golf carts and mopeds.
+Isla Mujeres is 8km long and less than 1km wide, which means most of the island is reachable without much effort. The town centre and Playa Norte are walkable from the ferry dock in minutes. Getting to Punta Sur at the southern tip is the only journey that really calls for transport.
 
-Tip: When taking the ferry across, someone may tried to rent you a golf cart or moped before you get to the island. Don't worry, there are plenty on the island, and you'll get a better rate if you wait to get there. Don't believe them when they say a taxi ride on the island will cost beween $8 and &10 USD.
+Golf carts are the signature vehicle of the island and the most enjoyable way to explore it. Rental outfits are clustered near the ferry dock and along the main streets in town. A full-day rental costs roughly the same as a taxi back and forth to Punta Sur a couple of times, so it makes sense if you plan to move around. Book early in the morning during high season — the best carts go quickly.
 
-**Contributors**
-February 25, 2005
+Mopeds and bicycles are the cheaper alternative and work perfectly well on the flat, narrow roads. The same rental places that offer golf carts usually have mopeds, and a handful of shops also hire bicycles. Traffic is light enough that neither requires any particular nerve.
+
+Taxis are available and useful if you just need a single trip. Agree on the fare before you get in — the standard ride from town to Punta Sur should cost around 80–100 pesos at current rates, but drivers will quote higher to arrivals off the ferry. Taxis occasionally pick up other passengers heading the same way; this is normal and not cause for concern.
+
+There are no buses. There is no need for a car.

@@ -1,17 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-01'
 latitude: 46.819196
+loc_type: city
 longitude: 29.474065
+score: 0.32
 title: Tighina
 type: location
-score: 0.32
-loc_type: city
 ---
 
 Tighina (known in Russian as Bender) is a city of around 80,000 on the west bank of the Dniester, technically within Moldova's constitutional borders but controlled by Transnistrian authorities. It sits just across the river from [Tiraspol](/europe/moldova/tiraspol) and is usually visited as part of the same trip.
 
-The city's main attraction is its Ottoman fortress, built in the 16th century under Suleiman the Magnificent and still largely intact. The fortress is imposing — massive stone walls above the Dniester — and entry is possible through Transnistrian-administered permits, which guides in Chisinau can arrange.
+The city's main attraction is the [Tighina Fortress](/europe/moldova/tighina/tighina_fortress), built in the 16th century under Suleiman the Magnificent and still largely intact. The fortress is imposing — massive stone walls above the Dniester — and entry is possible through Transnistrian-administered permits, which guides in Chisinau can arrange. Beyond the citadel, the [Transfiguration Cathedral](/europe/moldova/tighina/transfiguration_cathedral), the [Memorial of Glory](/europe/moldova/tighina/memorial_glory) and a curious [Bendery Military Museum](/europe/moldova/tighina/bendery_military_museum) hidden in a string of disused railway carriages complete the half-day circuit.
 
 The city itself has a lived-in, slightly neglected feel. The tension of its ambiguous political status — on the Moldovan side of the river but under Transnistrian governance — gives it an air that is different from either a normal Moldovan or a normal Transnistrian town.
 

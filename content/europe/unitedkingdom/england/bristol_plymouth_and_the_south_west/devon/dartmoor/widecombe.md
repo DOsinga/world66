@@ -12,6 +12,10 @@ title: Widecombe-in-the-Moor
 type: location
 score: 0.49
 loc_type: city
+image: widecombe.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Widecombe-in-the-Moor_-_October_2013.jpg
+image_license: CC0
+image_attribution: Pasicles
 ---
 
 Widecombe-in-the-Moor is a small granite village at the heart of the southern part of Dartmoor, better known to most people through the old folk song "[Widecombe Fair](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe/widecombe_fair)." The song tells the tale of a horse that died from the strain of carrying seven riders to the fair, and whose ghost still haunts the moor — a story that suits the windswept landscape rather well.

@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: 2026-04-06
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
+image: gioia_tauro.jpg
+image_attribution: Niels Johannes
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Gioia_Tauro_port_2006.jpg
 latitude: 38.424
 loc_type: city
 longitude: 15.899
 score: 0.36
 title: Gioia Tauro
 type: location
-image: gioia_tauro.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Gioia_Tauro_port_2006.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Niels Johannes
 ---
 
 Gioia Tauro sits on the Tyrrhenian coast in the province of Reggio Calabria, the site of ancient Metauros, a Greek city of Magna Graecia. Today it is best known for its [port](/europe/italy/calabria/gioia_tauro/port_of_gioia_tauro), one of the largest container transshipment terminals in the Mediterranean — ships arrive from Asia and the Americas, exchange cargo, and depart without the goods ever touching Italian roads.

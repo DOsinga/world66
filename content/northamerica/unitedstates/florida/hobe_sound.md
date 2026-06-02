@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-01'
 latitude: 27.080492
 longitude: -80.139918
 title: Hobe Sound

@@ -1,13 +1,15 @@
 ---
-title: "Mohave Museum of History and Arts"
+title: Mohave Museum of History and Arts
 type: poi
 tags:
   - things_to_do
   - museum
-latitude: 35.1939
-longitude: -114.0541
+latitude: 35.1909
+longitude: -114.0511
+sources:
+  - https://en.wikipedia.org/wiki/Kingman,_Arizona
 ---
 
-A surprisingly deep county museum covering everything from Hualapai basketry to the 1956 marriage of Andy Devine — the gravel-voiced Hollywood character actor who grew up in Kingman and gave the main street its name. The Andy Devine room is part shrine, part film archive, and you can lose half an hour to it without meaning to.
+The Mohave Museum of History and Arts is the best place in Kingman to get a handle on the region's past. Exhibits cover the pre-Columbian Hualapai and Mohave peoples, the arrival of the railroad in the 1880s, the Route 66 era, and the area's mining history. There is a notable section on Andy Devine, the Hollywood character actor who grew up in Kingman — the main street through town is named Andy Devine Avenue in his honour.
 
-Other rooms hold mining equipment from the boom years, dioramas of Hualapai and Mohave village life, and a portrait gallery of every U.S. president and first lady. It is the kind of unfashionable local museum that puts more interesting things on display than its budget suggests it should be able to.
+The museum also maintains a small but well-curated collection of Native American basketry and beadwork, and rotates temporary exhibits from regional artists. It sits close to downtown and pairs well with a walk through the historic district.

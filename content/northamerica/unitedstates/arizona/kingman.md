@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-02'
 image: kingman.jpg
 image_attribution: Ken Lund
 image_license: CC BY-SA 2.0
@@ -14,8 +14,10 @@ title: Kingman
 type: location
 ---
 
-Kingman is a Route 66 town through and through. Sitting in the high desert of northwestern Arizona, it was a key stop on the Mother Road and still trades happily on that history — the downtown stretch of old Route 66 is lined with vintage motels, diners, and a good [Arizona Route 66 Museum](/northamerica/unitedstates/arizona/kingman/route_66_museum) housed in the old Powerhouse building.
+Kingman is a Route 66 town through and through. Sitting in the high desert of northwestern Arizona, it was a key stop on the Mother Road and still trades happily on that history — the downtown stretch of old Route 66 is lined with vintage motels, diners, and a good [Route 66 Museum](/northamerica/unitedstates/arizona/kingman/route_66_museum) housed in the old Powerhouse building.
 
-The town is a natural stopping point between Las Vegas and the Grand Canyon, and most travellers use it as exactly that. But Kingman has its own quiet appeal. The [Hualapai Mountains](/northamerica/unitedstates/arizona/kingman/hualapai_mountain_park) rise to the south, offering pine-forested hiking trails and cool relief from the desert heat. To the west, the winding drive along old Route 66 through the Black Mountains to [Oatman](/northamerica/unitedstates/arizona/kingman/oatman) — a former gold mining town where burros wander the streets — is one of the most scenic stretches of the original highway.
+The town is a natural stopping point between Las Vegas and the Grand Canyon, and most travellers use it as exactly that. But Kingman has its own quiet appeal. The [Hualapai Mountains](/northamerica/unitedstates/arizona/kingman/hualapai_mountains) rise to the south, offering pine-forested hiking trails and cool relief from the desert heat. To the west, the winding drive along old Route 66 through the Black Mountains to [Oatman](/northamerica/unitedstates/arizona/kingman/oatman) — a former gold mining town where burros wander the streets — is one of the most scenic stretches of the original highway. The [Hackberry General Store](/northamerica/unitedstates/arizona/kingman/hackberry_general_store), 23 miles east on the original Route 66 alignment, is another worthwhile detour.
+
+Downtown, the [Mohave Museum of History and Arts](/northamerica/unitedstates/arizona/kingman/mohave_museum) covers the region's history from its Native American past through the railroad era, and the [Bonelli House](/northamerica/unitedstates/arizona/kingman/bonelli_house) gives a vivid sense of early-twentieth-century domestic life in a desert railroad town. The handsome [Kingman Railroad Depot](/northamerica/unitedstates/arizona/kingman/kingman_railroad_depot) still receives the Amtrak Southwest Chief.
 
 Kingman is hot in summer and surprisingly cold in winter, sitting at about 3,300 feet of elevation. Spring and autumn are the best times to pass through.

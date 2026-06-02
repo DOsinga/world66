@@ -1,8 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Kingman sits at the junction of Interstate 40 and US-93, the main road between Las Vegas and Phoenix. From Las Vegas it is about 170 kilometres south; from Flagstaff about 240 kilometres west; from the South Rim of the Grand Canyon about 290 kilometres west via Williams.
+Kingman sits at the junction of Interstate 40 and US Route 93, making it a natural crossroads. From Las Vegas it is 100 miles southeast on US-93; from Flagstaff it is 150 miles west on I-40. The drive from either direction takes under two hours.
 
-The Amtrak Southwest Chief stops once daily in each direction at the historic Kingman depot, on the long-distance route between Chicago and Los Angeles. Greyhound and Flixbus also serve Kingman. The small Kingman Airport (IGM) handles only general aviation; the nearest commercial airports are Las Vegas (LAS) and Flagstaff (FLG).
+The Southwest Chief Amtrak train stops at the historic [Kingman Railroad Depot](/northamerica/unitedstates/arizona/kingman/kingman_railroad_depot) — the eastbound train typically arrives in the early hours, the westbound in the early morning. Check Amtrak schedules carefully as the stop is a flag stop in the small hours. Greyhound and Flixbus also serve Kingman with connections to Phoenix, Las Vegas, and Los Angeles.
+
+There is no commercial air service to Kingman. The nearest airports are Las Vegas (Harry Reid International, about 90 minutes northwest) and Phoenix Sky Harbor (about 3 hours southeast).

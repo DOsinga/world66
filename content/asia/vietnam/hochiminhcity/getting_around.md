@@ -3,8 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-Ho Chi Minh City is spread across a large area and the street grid is complex. The most practical transport is Grab — the app works perfectly, prices are fixed, and drivers find you by GPS rather than requiring you to describe where you are. Standard taxis (Mai Linh and Vinasun are the two reliable companies) are also metered and safe; avoid unmarked taxis.
+**Grab** is the essential tool for getting around Ho Chi Minh City. The app works perfectly, prices are fixed before you confirm, and drivers find you by GPS. Both car and motorbike options are available; the motorbike (GrabBike) is faster in traffic and half the price. Standard metered taxis (Mai Linh and Vinasun are the two reliable companies) are safe; avoid unmarked taxis without meters.
 
-The city is not pleasant to walk in the heat of the day, but District 1 is compact enough to cover on foot in the morning and evening. Crossing the road requires the famous technique: step off the pavement, walk steadily at a constant pace, and let the motorbikes flow around you. Do not hesitate or stop suddenly.
+**On foot:** District 1 is compact enough to cover on foot in the early morning and evening. Crossing the street is the famous challenge — step off the pavement, walk steadily at a constant pace, and let the motorbikes flow around you. Do not hesitate or stop suddenly. The technique is genuinely learnable in a few attempts.
 
-The metro (Metro Line 1) opened in 2024, connecting Bến Thành station in District 1 to the eastern suburbs; it will be extended gradually. Xe ôm (motorbike taxis) are fast and cheap but require negotiating a price before you get on — Grab's motorbike option is easier. Bicycle rental is available in the Pham Ngu Lao area.
+**Metro:** Metro Line 1 opened in 2024, connecting Bến Thành station in central District 1 to the eastern suburbs (Thủ Đức). Extensions are planned but not yet complete. The line is clean, cheap, and air-conditioned — useful for reaching destinations along its route.
+
+**Bicycle rental** is available in the Pham Ngu Lao area for those who want to explore at their own pace; the city is flat and manageable on a bicycle if you travel outside peak hours.
+
+**Xe ôm** (motorbike taxis) are fast and cheap for short hops but require agreeing a price before you get on — the Grab motorbike option removes this negotiation and is usually preferred.

@@ -1,15 +1,17 @@
 ---
-title: "Oatman"
+title: Oatman Drive (Black Mountains Route 66)
 type: poi
 tags:
   - things_to_do
-  - day_trips
-latitude: 35.0269
-longitude: -114.3833
+  - sight
+latitude: 35.0243
+longitude: -114.3829
 story: >
-  The wild burros that roam Oatman's main street are descendants of pack animals turned loose by miners when the gold ran out in the 1940s. Federally protected as a feral herd, they wander into shops, beg for carrots from tourists, and occasionally hold up the daily mock-gunfight that the town stages for visitors. A sign at the edge of town warns drivers to slow down because the burros have absolute right of way.
+  Oatman was a gold rush town that peaked in 1915 and by the 1940s had been almost completely bypassed by history — until the new Interstate 40 killed its traffic and left it to the burros. The feral donkeys that roam Oatman's main street are descendants of pack animals released by miners when the gold ran out. Today they outnumber the permanent residents and have become the town's main attraction.
+sources:
+  - https://en.wikipedia.org/wiki/Oatman,_Arizona
 ---
 
-The 50-kilometre drive west from Kingman to Oatman along Historic Route 66 climbs through the Black Mountains over Sitgreaves Pass, a hair-raising stretch of switchbacks with no guardrails that was once the most feared section of the entire Mother Road. The view from the top, looking down toward the Colorado River and the Mojave beyond, is genuinely cinematic.
+The drive west from Kingman along the old Route 66 through the Black Mountains to the ghost town of Oatman is one of the most dramatic stretches of the original highway. The road climbs steeply through bare volcanic rock, switchbacking up to Sitgreaves Pass at 3,550 feet before dropping down into the Colorado River valley. The views are spectacular and the road itself — narrow, unguarded, and twisting — gives you a sense of why early motorists considered it a serious challenge.
 
-Oatman itself is a former gold-mining boomtown that nearly died when the highway bypassed it, then resurrected itself as a Wild West tourist village. The wooden boardwalks, the saloon, and the burros are unapologetic kitsch, but the desert setting and the drive itself make the trip worth it. Allow a half-day round trip from Kingman.
+Oatman is a former gold-mining town that now exists mainly for the tourists who come to feed its resident feral burros and browse the wooden boardwalk shops. The Oatman Hotel, where Clark Gable and Carole Lombard honeymooned in 1939, still stands and is open as a restaurant and small museum. Allow half a day for the full round trip from Kingman, including time to stop at the pass and wander Oatman.

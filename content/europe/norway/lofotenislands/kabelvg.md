@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-01'
 image: kabelvg.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kabelvaag2016.jpg
@@ -18,7 +19,7 @@ the commercial aspect of the Lofoten Fishery was first developed over
 coves and inlets around Kabelvåg, in the Vågan district, to harvest
 their share of the cod that migrate here every year. Vågan developed
 into the centre of the medieval region of Hålogaland. In the grounds of
-the Lofoten Museum in Storvågan, 1 km west of Kabelvåg, you will find
+the [Lofoten Museum](/europe/norway/lofotenislands/kabelvg/lofoten_museum) in [Storvågan](/europe/norway/lofotenislands/kabelvg/storvagan), 1 km west of Kabelvåg, you will find
 the remains of this old centre, formerly known as Vågar. Stockfish
 exports to the Mediterranean formed the basis for Vågan’s growth and
 development. Stockfish became a trading commodity around the year 1000
@@ -62,7 +63,7 @@ The Lofoten Regional Museum is located there, and within its grounds
 annual archaeological excavations are carried out under the direction
 of the Vågastemne Foundation. The excavations are a pilot project
 involving the participation of school children. Also on the site, we
-find the Espolin Gallery where the larger part of the works of artist
+find the [Espolin Gallery](/europe/norway/lofotenislands/kabelvg/espolin_gallery) where the larger part of the works of artist
 Kaare Espolin Johnson are on display. The collection was a gift given
-by the artist to Vågan Council. The Lofoten Aquarium and the tourist
-centre Nyvågar contribute towards making Storvågan a unique resort.
+by the artist to Vågan Council. The [Lofoten Aquarium](/europe/norway/lofotenislands/kabelvg/lofoten_aquarium) and the tourist
+centre Nyvågar contribute towards making Storvågan a unique resort. The towering wooden [Vågan Church](/europe/norway/lofotenislands/kabelvg/vagan_church), known locally as the Lofoten Cathedral, completes the village's main set of sights.

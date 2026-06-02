@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Piura's centre is compact and easily walked in a morning. The Plaza de Armas, the colonial churches, and a couple of small museums make up the historic core. Beyond town, the appeal is the coast: the broad Pacific beaches of Máncora, Colán, and Paita are all reachable as day trips or short overnight stays.
+Piura's main sights are concentrated in the compact historic centre, within walking distance of the Plaza de Armas. The cathedral, several colonial churches, and two small museums fill a comfortable half-day. The city serves well as a base for day trips to the beaches of the Sechura coast, the artisan village of Catacaos, and the colonial port of Paita.

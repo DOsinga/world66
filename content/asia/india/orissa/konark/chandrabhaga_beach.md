@@ -1,15 +1,17 @@
 ---
-title: "Chandrabhaga Beach"
+title: Chandrabhaga Beach
 type: poi
 tags:
   - things_to_do
-  - beach
-latitude: 19.8688
-longitude: 86.1213
+  - sight
+latitude: 19.8878
+longitude: 86.1178
 story: >
-  Every February, on the seventh day of the bright fortnight of the month of Magha, pilgrims gather here before dawn for a ritual bath, believing the waters of the Chandrabhaga river — which once flowed to the sea here but has since dried up — still flow underground beneath the sands and bring healing to those who bathe at sunrise.
+  The beach is named after the Chandrabhaga River, which once met the sea here. Over the centuries the river has shifted course and the mouth has silted up, leaving only the beach. Each year in late January or February, the Chandrabhaga Mela brings thousands of pilgrims to bathe in the sea at sunrise during the Magha Saptami festival — believed to be the day when the sun shines directly into the sanctum of the Sun Temple.
+sources:
+  - https://en.wikipedia.org/wiki/Chandrabhaga_Beach
 ---
 
-The closest beach to Konark, about three kilometres east of the Sun Temple. The sand is wide and grey-gold, and on a clear morning the Bay of Bengal here is one of the most photogenic stretches of coast in eastern India.
+Chandrabhaga Beach lies about 3 kilometres east of the Sun Temple, reached by a short road through scrub and sand dunes. It is a long, quiet stretch of open coast on the Bay of Bengal — undeveloped except for a few chai stalls — with powerful surf that makes swimming risky but the scenery dramatic. The sand is clean and the beach rarely crowded outside festival season.
 
-The beach is associated with the Magha Saptami festival in late winter, when tens of thousands of pilgrims descend for a pre-dawn bath. The rest of the year it is a quiet stretch frequented by a few fishing families, day-trippers from Puri, and the occasional small dolphin pod offshore. Olive ridley turtles nest along this coast, although the main rookery is further south at Gahirmatha.
+The contrast with the temple is part of the appeal: after several hours surrounded by centuries of human artistry, an hour on an empty beach watching the waves is a useful rebalancing. The Chandrabhaga Mela festival in January or February transforms the place entirely — tens of thousands of pilgrims, music, and ceremonies at dawn — and if you happen to be in Odisha at that time, it's worth planning around.

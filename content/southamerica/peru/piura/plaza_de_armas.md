@@ -1,15 +1,17 @@
 ---
-title: "Plaza de Armas"
+title: Plaza de Armas
 type: poi
 tags:
   - things_to_do
   - sight
-latitude: -5.1944
-longitude: -80.6321
+latitude: -5.1966
+longitude: -80.6268
 story: >
-  The marble Pola statue at the centre of the plaza — a slender female figure holding a torch — was carved in Italy in 1870 and shipped to Piura at the expense of a local merchant. It supposedly represents the Republic, but more cynical locals claim it is just the merchant's mistress.
+  Piura was the first Spanish city founded on the South American continent — Francisco Pizarro established it here in 1532, before moving it twice to its current location. The Plaza de Armas has been the civic heart of the city for nearly five centuries, which makes the Sunday evening paseo — when families from all walks of life stroll the square and buy helados from the vendors — feel like a very long tradition indeed.
+sources:
+  - https://en.wikipedia.org/wiki/Piura
 ---
 
-The shaded heart of old Piura, lined with ficus and tamarind trees that throw deep shadow over the benches even at midday. The plaza was laid out in the 1580s when the town moved to its present site, and the shape has not changed much since.
+The Plaza de Armas is the natural starting point for any visit to Piura. It is a handsome square, shaded by old trees and lined with colonial-era buildings on three sides, with the cathedral closing the fourth. The centrepiece is a bronze statue of Independence liberator Francisco Bolognesi, and the surrounding benches fill in the evenings with families, couples, and shoeshine boys.
 
-The east side is dominated by the yellow facade of the cathedral; the south side by the imposing Municipalidad. In the early evenings the square fills with families, ice-cream sellers, and shoe-shiners, and it is the most pleasant place in town to sit and watch Piura wind down for the night.
+The atmosphere is relaxed and genuinely local — this is not a tourist square but a working civic space where people actually use it. Come in the late afternoon when the light softens and the vendors set up their carts, and stay for the evening when the square really comes alive.

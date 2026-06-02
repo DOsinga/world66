@@ -2,24 +2,24 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-19'
-image: taxila.jpg
-image_attribution: User:Themajiks
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:An_old_tree_at_taxila_ruins_in_Pakistan_2014-01-15_00-57.jpg
 latitude: 33.7462
 loc_type: city
 longitude: 72.8397
 score: 0.48
 title: Taxila
 type: location
+image: taxila.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dharmarajika_stupa,Taxila.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Sasha Isachenko
 ---
 
 Taxila is one of South Asia's most important archaeological sites, a UNESCO World Heritage Site sprawling across the Punjab plains about 35 kilometres northwest of Islamabad. For over a thousand years, from roughly the 5th century BC to the 5th century AD, this was a centre of learning, trade, and Buddhist art that rivalled anything in the ancient world.
 
-What makes Taxila remarkable is the sheer layering of civilizations. Three distinct city ruins sit within a few kilometres of each other: [Bhir Mound](/asia/pakistan/taxila/bhir_mound), the oldest and most chaotic; [Sirkap](/asia/pakistan/taxila/sirkap), built on a Greek grid plan by Bactrian colonists; and [Sirsukh](/asia/pakistan/taxila/sirsukh), the fortified Kushan-era city. Between and around them lie dozens of Buddhist monasteries and stupas — including the [Dharmarajika Stupa](/asia/pakistan/taxila/dharmarajika_stupa), [Jaulian](/asia/pakistan/taxila/jaulian), and [Mohra Muradu](/asia/pakistan/taxila/mohra_muradu) — their carved friezes showing a unique fusion of Greek and Buddhist artistic traditions known as Gandhara art.
+What makes Taxila remarkable is the sheer layering of civilizations. Three distinct city ruins sit within a few kilometres of each other: Bhir Mound, the oldest and most chaotic; Sirkap, built on a Greek grid plan by Bactrian colonists; and Sirsukh, the fortified Kushan-era city. Between and around them lie dozens of Buddhist monasteries and stupas, their carved friezes showing a unique fusion of Greek and Buddhist artistic traditions known as Gandhara art.
 
-The site saw rule by the Persians under Darius I, conquest by Alexander the Great in 326 BC, the Mauryan empire of Ashoka, Bactrian Greeks, Scythians, Parthians, and finally the Kushans before the White Huns swept through around 460 AD. The British archaeologist Sir John Marshall spent twenty years excavating here, and much of what he uncovered fills the excellent on-site [Taxila Museum](/asia/pakistan/taxila/taxila_museum).
+The site saw rule by the Persians under Darius I, conquest by Alexander the Great in 326 BC, the Mauryan empire of Ashoka, Bactrian Greeks, Scythians, Parthians, and finally the Kushans before the White Huns swept through around 460 AD. The British archaeologist Sir John Marshall spent twenty years excavating here, and much of what he uncovered fills the excellent on-site Taxila Museum.
 
 You can visit Taxila as a day trip from Islamabad or [Rawalpindi](/asia/pakistan/rawalpindi) -- it is an easy 30-minute drive along the Grand Trunk Road. Plan for a full day if you want to see the museum and at least two or three of the major ruins. The site is vast and spread out, so hiring a local guide and transport between sites is worthwhile.

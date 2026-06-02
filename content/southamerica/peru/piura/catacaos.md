@@ -1,15 +1,17 @@
 ---
-title: "Catacaos"
+title: Catacaos
 type: poi
 tags:
   - things_to_do
-  - day_trips
-latitude: -5.2667
-longitude: -80.6789
+  - sight
+latitude: -5.2669
+longitude: -80.6742
 story: >
-  Catacaos is famous for chicha de jora, a mildly fermented maize beer brewed by hundreds of small home-based chicherías across the town. The traditional sign that a household has fresh chicha for sale is a white flag hanging from a bamboo pole outside the door; brown flags mean the brew has gone slightly stronger. The system has worked unchanged for several centuries.
+  Catacaos is also known for its chicha de jora — a fermented maize beer with pre-Columbian roots. The traditional chicharras (chicha bars) in the village are often identified by a red or white flag hung outside the door, a custom that dates back centuries. The chicha here is made fresh daily and tastes nothing like the commercial versions sold in Lima.
+sources:
+  - https://en.wikipedia.org/wiki/Catacaos
 ---
 
-A small market town about 12 kilometres southwest of Piura, easily reached by colectivo or taxi. Catacaos is celebrated across northern Peru for three things: chicha de jora, gold and silver filigree jewellery, and a packed Sunday market that sprawls across the central streets.
+Catacaos is a small town 12 kilometres south of Piura that is famous across northern Peru for its craftspeople. The main street is lined with stalls selling gold and silver filigree jewellery, straw hats (similar to Panama hats and just as finely woven), ceramics, and embroidered textiles — all produced locally. Prices are considerably lower than in Lima shops and the quality is high.
 
-The artisans' market — open daily but liveliest on Sundays — is the best place in the region to buy traditional Piuran straw hats, woven cotton hammocks, and the delicate filigree work that Catacaos has produced since colonial times. Several picanterías along the main street serve the local specialities of seco de chabelo and tamales verdes. Allow half a day.
+The town is also worth visiting for its food. The market restaurants serve picarones (sweet potato doughnuts in molasses syrup), ceviche, and the local specialty seco de cabrito (slow-cooked goat with coriander and beer). Take a combi from central Piura; the journey takes about 20 minutes. Saturday mornings are the most animated, when the market expands into the surrounding streets.

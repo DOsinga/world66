@@ -1,5 +1,5 @@
 ---
-title: "Mohra Muradu"
+title: Mohra Muradu
 type: poi
 tags:
   - things_to_do
@@ -7,9 +7,11 @@ tags:
 latitude: 33.7608
 longitude: 72.8606
 story: >
-  The miniature votive stupa in the assembly hall — a stone replica of the great stupa above, complete with carved Buddha figures around its base — is one of the most exquisite small works of Gandhara art still standing in situ. It was buried under earth and rubble for a thousand years before excavators uncovered it in 1916, which is why it survives so completely.
+  The stupa from Mohra Muradu was dismantled stone by stone and reassembled inside the Taxila Museum, where it forms the centrepiece of the main gallery. This is one of the few cases anywhere in the world where an entire monument has been relocated inside a museum rather than left in situ — and for once, the result is justified: you can study the Gandhara carving on the drum at close range and in good light, which simply isn't possible at most outdoor sites.
+sources:
+  - https://en.wikipedia.org/wiki/Mohra_Muradu
 ---
 
-A Buddhist monastery and stupa complex in a quiet valley about four kilometres northeast of the Taxila Museum, dating from the 2nd to the 5th century AD. Mohra Muradu is smaller and less visited than Jaulian or Dharmarajika, which is part of its charm — you can easily have the place to yourself.
+Mohra Muradu is a Buddhist stupa and monastery complex set in a narrow side valley a few kilometres from the main Taxila sites. The monastery dates from the 2nd to 5th century AD and is one of the best-preserved examples of monastic architecture in the entire Taxila complex — cells, courtyards, and the main stupa platform are all clearly visible.
 
-The monastery's cells, kitchen, and assembly hall are well preserved enough to follow the daily routines of the monks who lived here. The famous miniature stupa in the meeting hall is the highlight, but the larger main stupa above the monastery is also good, with friezes of Buddhas and bodhisattvas in unfaded detail.
+The site is quieter and less visited than Dharmarajika or Jaulian, which gives it a particular atmosphere. The surrounding landscape — small fields, a seasonal stream, the Margalla Hills in the background — has probably not changed as dramatically as the valley nearer Islamabad. Bring a picnic and allow time to simply sit in the monastery courtyard; there are worse places to spend an afternoon.

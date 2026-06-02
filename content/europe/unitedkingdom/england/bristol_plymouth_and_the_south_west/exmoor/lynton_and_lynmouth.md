@@ -1,10 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-latitude: 51.204884
+  location_enrich: '2026-06-01'
+latitude: 51.2290
 loc_type: city
-longitude: -3.850564
+longitude: -3.8330
 score: 0.57
+sources:
+  - https://en.wikipedia.org/wiki/Lynton
+  - https://en.wikipedia.org/wiki/Lynmouth
+  - https://en.wikipedia.org/wiki/Lynton_and_Lynmouth_Cliff_Railway
+  - https://en.wikipedia.org/wiki/Valley_of_Rocks
 title: Lynton and Lynmouth
 type: location
 ---

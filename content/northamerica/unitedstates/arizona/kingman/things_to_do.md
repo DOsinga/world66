@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Kingman's attractions split between Route 66 nostalgia and the high-desert landscape that surrounds it. The compact historic downtown can be walked in a couple of hours, and most of the museums sit within a few blocks of each other along Andy Devine Avenue, which is the old Route 66 alignment through town. For longer days, head south into the Hualapai Mountains or west along Historic Route 66 to Oatman.
+Kingman is compact enough to cover on foot. The old downtown along Beale Street holds most of the historic buildings, while the Route 66 Museum is the obvious first stop for anyone driving the Mother Road. From there, a half-day drive west through the Black Mountains to Oatman is the most memorable thing you can do near the city. For something wilder, the Hualapai Mountains to the south offer pine forest and hiking trails that feel a world away from the desert floor.

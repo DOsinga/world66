@@ -3,13 +3,16 @@ title: "'Eua National Park"
 type: poi
 tags:
   - things_to_do
-  - nature
-latitude: -21.3700
-longitude: -174.9300
+  - sight
+  - park
+latitude: -21.3875
+longitude: -174.9339
 story: >
-  The forest here is one of the oldest in the South Pacific — 'Eua is geologically forty million years old, the senior of all the Tongan islands by a margin of about thirty-eight million years. As a result it harbours plants and birds found nowhere else in Tonga, including the endemic koki (red shining-parrot) whose call is the soundtrack of the forest interior.
+  'Eua's forest is one of only two places in the world where the Tongan megapode (a ground-dwelling mound-building bird) still survives in the wild. The birds build enormous mounds of volcanic soil and forest debris — sometimes metres high — in which they lay their eggs and use the heat of decomposition to incubate them. They are shy and not often seen, but the mounds are unmissable on the forest trails.
+sources:
+  - https://en.wikipedia.org/wiki/%CA%BBEua
 ---
 
-A 450-hectare national park covering the high spine of 'Eua, protecting a stretch of original Tongan rainforest, dolinas, limestone caves, and dramatic clifftop lookouts. Several trails of varying length cross the park, with the loop to the Lakufa'anga lookout — a wave-pounded cliff face on the east coast where ancient Tongans once trapped flying foxes — being the most popular.
+'Eua National Park covers the heart of the island and protects one of Tonga's last remnants of native lowland rainforest. The park is criss-crossed by a network of trails that range from short walks to the clifftop lookouts on the east coast to full-day routes through the interior. The east-coast cliffs — where the limestone has been eroded into dramatic terraces and sea stacks — are the park's most spectacular feature, with views stretching to the horizon over the South Pacific.
 
-Hire a local guide through your guesthouse; the trails are unmarked, the forest is dense, and the guides know where the koki feed and the entrances to the larger caves. Half a day is enough for the main lookouts; a full day takes you across the island and back.
+The forest itself is worth lingering in. 'Eua has several bird species found nowhere else in Tonga, including the blue-crowned lorikeet and Polynesian whistler. The trails are generally well-marked but can be slippery after rain, and the vegetation is thick enough that it's easy to lose the path. A local guide (bookable through the island's guesthouses) is worthwhile for the longer routes. The park has no entry fee and no facilities.

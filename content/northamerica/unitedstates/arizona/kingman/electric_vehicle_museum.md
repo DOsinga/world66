@@ -1,15 +1,17 @@
 ---
-title: "Route 66 Electric Vehicle Museum"
+title: Route 66 Electric Vehicle Museum
 type: poi
 tags:
   - things_to_do
   - museum
-latitude: 35.1894
-longitude: -114.053
+latitude: 35.1889
+longitude: -114.0522
 story: >
-  The world's first museum dedicated solely to electric vehicles opened inside Kingman's Powerhouse Building in 2014. Many of the cars in its collection were donated by the Historic Electric Vehicle Foundation, which had been hunting for a permanent home for its growing fleet of early EVs — some dating from before 1910, when battery cars briefly outsold petrol ones in the United States.
+  The museum claims to be the world's first dedicated solely to electric vehicles — which is ironic given its location in a Route 66 town built on the gasoline-powered road trip. The collection includes pre-1900 electric carriages, 1920s electric milk floats, and a 1912 Detroit Electric — a vehicle whose range on a single charge was comparable to many modern EVs.
+sources:
+  - https://en.wikipedia.org/wiki/Kingman,_Arizona
 ---
 
-Tucked into the same Powerhouse Building as the Route 66 Museum, this small but unusual collection holds about thirty electric vehicles spanning more than a century of failed and revived attempts to electrify the road. Highlights include a 1909 Baker Electric, a couple of futuristic concept cars from the 1990s GM EV1 era, and a few oddities like a Sebring-Vanguard CitiCar from the 1970s.
+The Route 66 Electric Vehicle Museum occupies the Powerhouse building alongside the Route 66 Museum, and makes for a natural companion visit. The collection runs from the earliest electric vehicles of the late nineteenth century through to more recent models, making the case that the electric car is not a new idea at all — it was actually the dominant technology before the internal combustion engine took over after 1910.
 
-It is a curious counterpoint to the petrol-soaked nostalgia upstairs, and worth twenty minutes even if you came in for Route 66. The entry fee is bundled with the main museum ticket.
+The exhibits are thoughtfully laid out and the collection includes some genuinely rare pieces. The juxtaposition of cutting-edge sustainable transport with the gasoline culture of Route 66 makes for an unexpectedly thought-provoking afternoon.

@@ -1,15 +1,18 @@
 ---
-title: "Arizona Route 66 Museum"
+title: Route 66 Museum
 type: poi
 tags:
   - things_to_do
   - museum
-latitude: 35.1894
-longitude: -114.053
+  - sight
+latitude: 35.1889
+longitude: -114.0522
 story: >
-  The museum is housed in the 1907 Powerhouse Building, the brick generating plant that once delivered electricity to the gold mines in nearby Oatman. When mining declined the building sat empty for decades, and it was nearly demolished before Kingman's preservationists pushed for its conversion into a Route 66 visitor centre and museum in the late 1990s.
+  The museum occupies the old Powerhouse building, a 1907 Spanish Colonial Revival structure that once generated electricity for the entire town. During World War II, the building served as a training facility for Army Air Corps cadets — among them a young Clark Gable, who trained at nearby Kingman Army Air Field and later married actress Carole Lombard while stationed here.
+sources:
+  - https://en.wikipedia.org/wiki/Kingman_Commercial_Historic_District
 ---
 
-The Arizona Route 66 Museum is the most thorough museum on the Mother Road anywhere along its 4,000-kilometre length, and the obvious first stop for anyone passing through Kingman. The exhibits walk you from the wagon-trail era through the Dust Bowl migrations of the 1930s, the post-war heyday of car culture, and the road's bypass by Interstate 40 in the 1970s.
+The Route 66 Museum in Kingman's historic Powerhouse building is one of the better stops along the entire Mother Road. The exhibits trace the highway's history from its designation in 1926 through its golden age in the 1950s and eventual decommissioning in 1985, covering the culture, cars, and roadside Americana that defined the route. Scale models of gas stations and diners, vintage signage, and period photographs give the experience real texture.
 
-Vintage cars, neon signs, period diner booths, and oral-history recordings from former Route 66 business owners are scattered through the galleries. The same building also houses the Electric Vehicle Museum and the official Kingman Visitor Center, so you can pick up maps for the rest of your trip on the way out.
+The Powerhouse itself is worth a look — the 1907 Spanish Colonial Revival building is handsome, and shares its courtyard with a visitor centre, a gift shop stocked with Route 66 memorabilia, and the Electric Vehicle Museum next door. Admission is modest and the museum takes around an hour to get through properly.

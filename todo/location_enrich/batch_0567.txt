@@ -1,5 +1,0 @@
-northamerica/unitedstates/alaska/ketchikan
-asia/philippines/quezon_province/lucena
-asia/turkey/alanya
-northamerica/unitedstates/tennessee/sewanee
-europe/portugal/theazores/so_miguel/ponta_delgada

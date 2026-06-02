@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
 image: negros_oriental.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Apo_island_-_panoramio.jpg
@@ -8,6 +9,8 @@ latitude: 9.3085
 loc_type: city
 longitude: 123.308
 score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Negros_Oriental
 title: Negros Oriental
 type: location
 ---

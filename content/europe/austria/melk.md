@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-02'
 image: melk.jpg
 image_attribution: C.Stadler/Bwag
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Melk_-_Stift_(1).JPG
 latitude: 48.227207
+loc_type: city
 longitude: 15.336999
 score: 0.63
 title: Melk
 type: location
-loc_type: city
 ---
 
 Melk is dominated by its abbey. Stift Melk, a Benedictine monastery perched on a rocky bluff above the Danube, is one of the finest Baroque buildings in Europe and the sight of it rising above the river is genuinely breathtaking. The building you see today dates from the early eighteenth century, when Abbot Berthold Dietmayr commissioned Jakob Prandtauer to transform the medieval monastery into something spectacular. He succeeded — the golden-yellow facade stretches for over 300 metres, and the interior, particularly the church and the library, is Baroque excess at its most magnificent.

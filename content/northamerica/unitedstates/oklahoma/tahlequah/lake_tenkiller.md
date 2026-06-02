@@ -14,4 +14,6 @@ title: Lake Tenkiller
 type: poi
 ---
 
-About 20 miles south of Tahlequah, Lake Tenkiller is considered one of the clearest lakes in Oklahoma. The Illinois River feeds it, which accounts for the unusual water quality. It draws swimmers, scuba divers, boaters, and anglers. State parks line the shore and there are several marinas with boat rentals.
+About 20 miles south of Tahlequah, Lake Tenkiller is consistently rated one of the clearest lakes in Oklahoma — a dam reservoir on the Illinois River where the water is visibly different from the murky red-clay lakes that dominate most of the state. The clarity draws scuba divers, an unusual activity for an inland Oklahoma lake, as well as swimmers, boaters, and bass anglers.
+
+Tenkiller State Park and Cherokee Landing State Park both offer camping and boat ramps along the shore. The dam at the southern end is worth seeing; the water backed up behind it flooded the town of Tenkiller, and the original town site is visible in low-water years. From Tahlequah, take US-82 south and then OK-100 to reach the lake.

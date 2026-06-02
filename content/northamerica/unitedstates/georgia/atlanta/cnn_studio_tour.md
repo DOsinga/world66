@@ -8,7 +8,7 @@ phone: (404) 827-2300
 snippet: Behind-the-scenes look at a live news operation
 tags:
 - things_to_do
-- landmark
+- sight
 title: CNN Studio Tour
 type: poi
 ---

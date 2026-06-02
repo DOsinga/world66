@@ -1,13 +1,17 @@
 ---
-title: "Bonelli House"
+title: Bonelli House
 type: poi
 tags:
   - things_to_do
   - sight
+  - architecture
+  - historic_house
 latitude: 35.1913
 longitude: -114.0513
+sources:
+  - https://en.wikipedia.org/wiki/Bonelli_House
 ---
 
-A 1915 tufa-stone house, one of the best surviving examples of the Anglo-Territorial style of architecture that briefly dominated Arizona's railroad towns at the turn of the twentieth century. The Bonelli family, Swiss-Mormon settlers who had crossed the Colorado River from Nevada in the 1870s, lived in this house for nearly seventy years.
+The Bonelli House at the corner of Fifth and Spring Streets is Kingman's finest surviving example of early-twentieth-century domestic architecture. Built in 1915 for prosperous merchant George Bonelli, the two-storey house features a mix of Territorial and Victorian elements — wide wrap-around porch, decorative woodwork, and native tufa stone construction that kept the interior cool in Kingman's fierce summers.
 
-Inside, the rooms are furnished with the family's original possessions — pianos, sewing machines, kitchen tools, and quilts — giving an unusually intact picture of a frontier merchant family's life. The thick tufa walls keep the interior cool even on the hottest desert afternoons. Volunteer-led tours run on weekdays.
+The house is now a local museum maintained by the Mohave Museum of History and Arts, and is listed on the National Register of Historic Places. Period furnishings fill the rooms and docent-led tours run on weekdays. It gives a good sense of what middle-class life in a desert railroad town looked like at the turn of the last century.

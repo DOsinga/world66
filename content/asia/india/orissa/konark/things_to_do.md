@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Konark is, for almost all visitors, a single-monument town. The Sun Temple is the reason to come, and a careful visit takes a half-day. A handful of smaller sites, the beach, and an annual dance festival give reason to linger longer.
+Konark is essentially a single-destination town. Almost every visitor comes for the Sun Temple, and it deserves as much time as you can give it — plan at least two to three hours for a thorough visit. Beyond the temple, the Archaeological Museum houses a strong collection of the sculpture removed from the site, and Chandrabhaga Beach a few kilometres to the east offers a quiet stretch of coast where you can decompress after the intensity of the carvings.

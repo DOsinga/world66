@@ -1,15 +1,18 @@
 ---
-title: "Humpback Whale Watching"
+title: Whale Watching
 type: poi
 tags:
   - things_to_do
-  - nature
-latitude: -21.3952
-longitude: -174.8988
+  - sight
+  - wildlife
+latitude: -21.395216
+longitude: -174.898776
 story: >
-  Tonga is one of only three countries in the world where it is legal to swim with humpback whales in the wild, and 'Eua's location at the edge of a deep Pacific trench means the whales pass within metres of the shoreline. Mothers and newborn calves often spend long periods resting in the calmer water on the lee side of the island, where boat operators can switch off the engine and let you slip into the water nearby.
+  'Eua's position near deep water means whales sometimes approach very close to the island — closer than they typically come around Tongatapu. There are occasional reports of humpbacks visible from the shore itself, particularly from the east coast cliffs, which is almost unheard of at most whale-watching destinations in the Pacific.
+sources:
+  - https://en.wikipedia.org/wiki/%CA%BBEua
 ---
 
-From June to October, the South Pacific humpback whales arrive in Tongan waters from their Antarctic feeding grounds to calve and mate. 'Eua sits unusually close to the migration route — the seabed drops to deep water within a kilometre of the island — and the whales are often visible from the cliff lookouts as they breach offshore.
+Whale watching around 'Eua runs from approximately June through October, when humpback whales migrate through Tongan waters to breed and give birth. 'Eua has a small advantage over other Tongan whale-watching destinations: the island sits close to the edge of the shallower Tongan platform, meaning whales often pass through deeper water nearby and can be seen from the coast as well as from boats.
 
-A small handful of licensed operators on the island run swim-with-whales tours from a couple of small boats. Trips depart from Nafanua Harbour in the early morning when the sea is calmest. Numbers in the water are limited (four swimmers and a guide per group), and the experience is regulated and expensive but unforgettable.
+The island's guesthouses can arrange whale-watching trips with local boat operators. Because 'Eua is less developed than Vava'u — Tonga's main whale-watching hub — trips here tend to be less crowded and the experience more intimate. Swimming with whales is also possible under Tonga's permit system, though availability depends on the operators and conditions on the day.

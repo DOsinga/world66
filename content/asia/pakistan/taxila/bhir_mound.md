@@ -1,15 +1,17 @@
 ---
-title: "Bhir Mound"
+title: Bhir Mound
 type: poi
 tags:
   - things_to_do
   - sight
 latitude: 33.7442
-longitude: 72.8200
+longitude: 72.82
 story: >
-  When Alexander the Great's army reached Taxila in 326 BC, this is the city they entered — already several hundred years old, already a centre of Vedic learning. The bewildered Greek soldiers would have walked these very lanes, and one of Alexander's chroniclers describes a marketplace here selling cloth, copper utensils, and trained mongooses for snake-catching.
+  This is the city that Alexander the Great entered in 326 BC when the king of Taxila submitted to him without a fight, hoping to use Macedonian power against a rival. Alexander spent some weeks here, held athletic and cavalry competitions in the Greek tradition, then marched on toward the Punjab. Whether he appreciated the sophistication of the city he was visiting is not recorded.
+sources:
+  - https://en.wikipedia.org/wiki/Bhir_Mound
 ---
 
-The oldest of Taxila's three city sites, dating from around the 6th century BC to the 2nd century BC. Bhir Mound was the city the Persian Achaemenids absorbed into their empire, the city Alexander the Great visited, and the early Mauryan capital from which Chandragupta Maurya's grandson Ashoka launched his Buddhist mission.
+Bhir Mound is the oldest of Taxila's three excavated cities, and the hardest to read. Unlike Sirkap — with its orderly Greek grid — Bhir Mound is an organic maze of walls and chambers that reflect centuries of piecemeal growth. It was occupied from roughly the 6th century BC until the Bactrian Greeks replaced it with Sirkap around 180 BC, and the layers of rebuilding on rebuilding make the archaeology complex.
 
-Unlike its successors, Bhir Mound was never planned. The excavated streets meander in the medieval Indian style, with houses and shops crowded together along irregular alleys, and the walls of houses were built from unworked river stones rather than cut blocks. It is the least visually spectacular of the three city sites, but the most evocative — this is where the Taxila story begins.
+What you see today is a series of low stone walls at ground level, with the general outline of streets and building plots visible. It is not impressive in the way that Sirkap or Jaulian are impressive, but archaeologically it is fascinating — this is the city described by Chinese pilgrims as Takshashila, one of the great centres of learning in the ancient world. Wandering through it requires some imagination, but a local guide who knows where to look can make it come alive.

@@ -6,6 +6,7 @@ longitude: 45.345
 snippet: Sabaean moon temple with five standing pillars
 tags:
 - things_to_do
+- sight
 title: Barran Temple (Throne of Bilqis)
 type: poi
 ---

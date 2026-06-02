@@ -5,6 +5,7 @@ latitude: 42.198644
 longitude: 2.695956
 done:
   location_cleanup: 2026-04-10
+  location_enrich: '2026-06-03'
 score: 0.6
 loc_type: city
 image: besal.jpg

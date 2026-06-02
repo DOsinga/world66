@@ -1,0 +1,200 @@
+{
+  "round": 1471,
+  "timestamp": "2026-04-13T10:23:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tuvalu",
+      "path": "australiaandpacific/tuvalu",
+      "prior_score": -2.0108,
+      "prior_variance": 0.383765,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -3.6719,
+      "prior_variance": 0.473972,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -1.8395,
+      "prior_variance": 0.408732,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -3.1502,
+      "prior_variance": 0.902353,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -2.2326,
+      "prior_variance": 0.407048,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.8116,
+      "prior_variance": 0.420029,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -3.0027,
+      "prior_variance": 0.415151,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cochrane",
+      "path": "northamerica/canada/alberta/cochrane",
+      "prior_score": -2.1933,
+      "prior_variance": 0.349326,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_score": -2.1571,
+      "prior_variance": 0.412063,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -3.7755,
+      "prior_variance": 0.408663,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.457,
+      "prior_variance": 0.400624,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_score": -2.107,
+      "prior_variance": 0.431328,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Surco",
+      "path": "southamerica/peru/surco",
+      "prior_score": -5.358,
+      "prior_variance": 1.198774,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.957,
+      "prior_variance": 0.397413,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -3.106,
+      "prior_variance": 0.529332,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -3.5714,
+      "prior_variance": 0.462363,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.7242,
+      "prior_variance": 0.561893,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -3.4456,
+      "prior_variance": 0.435122,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_score": -2.4627,
+      "prior_variance": 0.424562,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_score": -3.3754,
+      "prior_variance": 0.525712,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -3.9433,
+      "prior_variance": 0.417262,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_score": -5.8525,
+      "prior_variance": 0.497761,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_score": -3.39,
+      "prior_variance": 0.488184,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Gjilan",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+      "prior_score": -5.6068,
+      "prior_variance": 0.472069,
+      "prior_n": 3
+    }
+  ]
+}

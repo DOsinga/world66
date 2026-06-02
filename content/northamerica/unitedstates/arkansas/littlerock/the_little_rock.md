@@ -1,17 +1,20 @@
 ---
 title: The Little Rock
 type: poi
+latitude: 34.7529
+longitude: -92.2617
 tags:
   - things_to_do
   - sight
-  - river_market_district
-neighbourhood: River Market District
-latitude: 34.7506
-longitude: -92.2656
-sources:
-  - https://en.wikipedia.org/wiki/Little_Rock,_Arkansas
+story: >
+  The city is named for a small outcropping of rock on the south bank of the
+  Arkansas River, used as a landmark by French explorers and river travellers
+  long before European settlement. The "big rock" on the north bank was used
+  as the landmark by travellers coming from the north — the smaller south-bank
+  rock became the reference point for the river crossing and eventually gave
+  the city its name.
 ---
 
-The city gets its name from a small rock formation on the south bank of the Arkansas River, used for centuries as a navigation landmark. French explorer Bernard de la Harpe noted it in 1722, calling it "la petite roche" to distinguish it from a larger rock formation upstream. When the city was laid out in 1821, the name stuck.
+On the south bank of the Arkansas River, just below the Interstate 30 bridge, a small rocky outcropping is embedded in the riverbank — this is the actual "little rock" that gave the city its name. French explorers called it La Petite Roche to distinguish it from the larger rock formation on the north bank (La Grande Roche, now in North Little Rock).
 
-The rock itself — a modest sandstone outcropping — is preserved behind Riverfront Park, marked by a plaque and accessible by a short trail from the main riverwalk. It is a satisfyingly anti-climactic sight: the founding landmark of a state capital, and it's barely knee-high. The setting on the riverbank is pleasant regardless, and the surrounding park is a good place to walk and watch the Arkansas River traffic.
+It is not a dramatic sight, but it is a genuine piece of the city's origin, and the riverfront walk here is pleasant. A small marker identifies the spot. The Arkansas River Trail passes directly alongside and connects to Riverfront Park.

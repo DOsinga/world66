@@ -1,0 +1,200 @@
+{
+  "round": 190,
+  "timestamp": "2026-04-12T08:47:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_mu": 24.1819,
+      "prior_sigma": 5.4724,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Mirande",
+      "path": "europe/france/midi/pyrenees/mirande",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mannheim",
+      "path": "europe/germany/mannheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swindon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lafayette, LA",
+      "path": "northamerica/unitedstates/louisiana/lafayette_la",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Penas Blancas",
+      "path": "northamerica/nicaragua/penas_blancas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "tarli",
+      "path": "asia/india/maharashtra/konkan/tarli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "pakistan",
+      "path": "asia/pakistan/sargodha/pakistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

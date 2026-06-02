@@ -1,0 +1,104 @@
+{
+  "round": 484,
+  "timestamp": "2026-04-12T09:32:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_mu": 21.4994,
+      "prior_sigma": 4.6892,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_mu": 20.1508,
+      "prior_sigma": 2.7678,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_mu": 21.4134,
+      "prior_sigma": 4.0017,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_mu": 21.9688,
+      "prior_sigma": 5.7445,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_mu": 22.9513,
+      "prior_sigma": 5.6065,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 20.1364,
+      "prior_sigma": 2.2148,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_mu": 22.4034,
+      "prior_sigma": 5.8897,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_mu": 22.5058,
+      "prior_sigma": 5.9109,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1383,
+  "timestamp": "2026-04-12T22:24:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_rank": 5035,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_rank": 7647,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_rank": 7630,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_rank": 5616,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_rank": 4436,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_rank": 6398,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_rank": 5096,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_rank": 7191,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_rank": 6607,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_rank": 6032,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_rank": 5906,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_rank": 5351,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_rank": 5804,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_rank": 6375,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_rank": 6893,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_rank": 6898,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_notting/northampton",
+      "prior_rank": 7375,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Alton",
+      "path": "northamerica/unitedstates/illinois/alton",
+      "prior_rank": 7320,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chetek",
+      "path": "northamerica/unitedstates/wisconsin/chetek",
+      "prior_rank": 7489,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_rank": 7114,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_rank": 5052,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_rank": 6512,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_rank": 7262,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_rank": 7551,
+      "prior_wins": 22,
+      "prior_n": 5
+    }
+  ]
+}

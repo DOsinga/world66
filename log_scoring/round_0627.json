@@ -1,0 +1,72 @@
+{
+  "round": 627,
+  "timestamp": "2026-04-12T10:40:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 8,
+  "order": [
+    {
+      "rank": 1,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_mu": 17.808,
+      "prior_sigma": 6.6606,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_mu": 21.6831,
+      "prior_sigma": 5.8947,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_mu": 22.6891,
+      "prior_sigma": 5.6826,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_mu": 18.1063,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_mu": 18.5236,
+      "prior_sigma": 5.1216,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 10.9498,
+      "prior_sigma": 3.3934,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Chad",
+      "path": "africa/chad",
+      "prior_mu": 22.2115,
+      "prior_sigma": 5.7877,
+      "prior_n": 1
+    }
+  ]
+}

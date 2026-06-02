@@ -1,0 +1,200 @@
+{
+  "round": 380,
+  "timestamp": "2026-04-12T09:14:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_mu": 25.0745,
+      "prior_sigma": 6.0806,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Burgundy",
+      "path": "europe/france/east/burgundy",
+      "prior_mu": 23.0665,
+      "prior_sigma": 5.5603,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Comino",
+      "path": "europe/malta/gozo/comino",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_mu": 22.5369,
+      "prior_sigma": 5.913,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/north_island/taranaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_mu": 22.7276,
+      "prior_sigma": 5.7104,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Zimbabwe",
+      "path": "africa/zimbabwe",
+      "prior_mu": 21.9299,
+      "prior_sigma": 4.8365,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_mu": 22.25,
+      "prior_sigma": 5.7806,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_mu": 21.5553,
+      "prior_sigma": 4.1708,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wuhan",
+      "path": "asia/china/wuhan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_mu": 22.4507,
+      "prior_sigma": 5.9018,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/losangeles/burbank",
+      "prior_mu": 22.7101,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Sherwood Park",
+      "path": "northamerica/canada/alberta/sherwoodpark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    }
+  ]
+}

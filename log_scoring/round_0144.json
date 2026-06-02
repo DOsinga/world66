@@ -1,0 +1,200 @@
+{
+  "round": 144,
+  "timestamp": "2026-04-12T08:45:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/sherborne",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junctio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/ashburton",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hayward",
+      "path": "northamerica/unitedstates/california/hayward",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Take it away!",
+      "path": "takeaway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1725,
+  "timestamp": "2026-04-13T10:45:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 5.7827,
+      "prior_variance": 0.265885,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 5.5036,
+      "prior_variance": 0.335639,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.6806,
+      "prior_variance": 0.33405,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 3.4736,
+      "prior_variance": 0.36434,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 2.2465,
+      "prior_variance": 0.341451,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.636,
+      "prior_variance": 0.485082,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -0.2999,
+      "prior_variance": 0.316474,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -0.1677,
+      "prior_variance": 0.341615,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -0.4765,
+      "prior_variance": 0.361393,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -0.3086,
+      "prior_variance": 0.312909,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": 0.2833,
+      "prior_variance": 0.328737,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.5947,
+      "prior_variance": 0.304315,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.4663,
+      "prior_variance": 0.307758,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -3.0334,
+      "prior_variance": 0.447528,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.0014,
+      "prior_variance": 0.364257,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -3.0111,
+      "prior_variance": 0.423071,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -1.1152,
+      "prior_variance": 0.323459,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -0.8717,
+      "prior_variance": 0.322755,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_score": -2.5657,
+      "prior_variance": 0.359671,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_score": -2.7364,
+      "prior_variance": 0.318237,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hampton",
+      "path": "northamerica/unitedstates/virginia/hampton",
+      "prior_score": -2.1015,
+      "prior_variance": 0.321867,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -3.7212,
+      "prior_variance": 0.33489,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -5.3275,
+      "prior_variance": 0.455493,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -4.5515,
+      "prior_variance": 0.33897,
+      "prior_n": 4
+    }
+  ]
+}

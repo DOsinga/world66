@@ -1,0 +1,200 @@
+{
+  "round": 2349,
+  "timestamp": "2026-04-13T16:33:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shibuya",
+      "path": "asia/japan/tokyo/shibuya",
+      "prior_score": 12.8576,
+      "prior_variance": 0.721281,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_score": 6.8056,
+      "prior_variance": 0.463887,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 8.6292,
+      "prior_variance": 0.279895,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_score": -1.0804,
+      "prior_variance": 0.352921,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 5.675,
+      "prior_variance": 0.220622,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_score": 4.671,
+      "prior_variance": 0.241853,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 4.9934,
+      "prior_variance": 0.237234,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 5.0579,
+      "prior_variance": 0.236258,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 4.9049,
+      "prior_variance": 0.258444,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.8904,
+      "prior_variance": 0.227514,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 3.9072,
+      "prior_variance": 0.214871,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 4.5729,
+      "prior_variance": 0.270169,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.7121,
+      "prior_variance": 0.245471,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "South Australia",
+      "path": "australiaandpacific/australia/southaustralia",
+      "prior_score": 0.2603,
+      "prior_variance": 0.290163,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 4.8933,
+      "prior_variance": 0.269667,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Disko Bay",
+      "path": "northamerica/greenland/diskobay",
+      "prior_score": 4.163,
+      "prior_variance": 0.281445,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.8234,
+      "prior_variance": 0.227417,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 1.1641,
+      "prior_variance": 0.253684,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 0.5703,
+      "prior_variance": 0.202281,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 0.9229,
+      "prior_variance": 0.255127,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.0238,
+      "prior_variance": 0.205625,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_score": 1.9558,
+      "prior_variance": 0.23798,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -3.6504,
+      "prior_variance": 0.429405,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_score": 0.9646,
+      "prior_variance": 0.236542,
+      "prior_n": 6
+    }
+  ]
+}

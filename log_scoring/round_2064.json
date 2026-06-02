@@ -1,0 +1,200 @@
+{
+  "round": 2064,
+  "timestamp": "2026-04-13T16:07:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 8.5576,
+      "prior_variance": 0.318078,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 6.8208,
+      "prior_variance": 0.270546,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 4.38,
+      "prior_variance": 0.3138,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 7.4138,
+      "prior_variance": 0.368488,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.7225,
+      "prior_variance": 0.312665,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Boa vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 2.3612,
+      "prior_variance": 0.262299,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Central Coast",
+      "path": "northamerica/unitedstates/california/centralcoast",
+      "prior_score": 5.4994,
+      "prior_variance": 0.524862,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_score": 7.7416,
+      "prior_variance": 0.28991,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 6.0186,
+      "prior_variance": 0.280958,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 5.272,
+      "prior_variance": 0.354882,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 3.6812,
+      "prior_variance": 0.303633,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 4.3441,
+      "prior_variance": 0.310904,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 4.9094,
+      "prior_variance": 0.290488,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 2.882,
+      "prior_variance": 0.227662,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.6211,
+      "prior_variance": 0.2657,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 2.9343,
+      "prior_variance": 0.255148,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_score": 2.4804,
+      "prior_variance": 0.191581,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": -0.5184,
+      "prior_variance": 0.293945,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_score": 2.3049,
+      "prior_variance": 0.422771,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 0.5099,
+      "prior_variance": 0.258895,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ridgeway",
+      "path": "europe/unitedkingdom/england/ridgeway",
+      "prior_score": -0.3256,
+      "prior_variance": 0.310505,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -0.8545,
+      "prior_variance": 0.258552,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -1.5209,
+      "prior_variance": 0.292872,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "shahzad",
+      "path": "asia/pakistan/dera_ghazi_khan/shahzad",
+      "prior_score": -10.2961,
+      "prior_variance": 0.459038,
+      "prior_n": 5
+    }
+  ]
+}

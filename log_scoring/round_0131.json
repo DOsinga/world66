@@ -1,0 +1,200 @@
+{
+  "round": 131,
+  "timestamp": "2026-04-12T08:44:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Jersey",
+      "path": "europe/channelislands/jersey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Streymoy",
+      "path": "europe/faroeislands/streymoy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Elduvik",
+      "path": "europe/faroeislands/eysturoy/elduvik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Shenyang",
+      "path": "asia/china/shenyang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_mu": 18.3387,
+      "prior_sigma": 6.758,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

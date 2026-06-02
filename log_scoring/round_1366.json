@@ -1,0 +1,200 @@
+{
+  "round": 1366,
+  "timestamp": "2026-04-12T22:23:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_rank": 6453,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_rank": 6617,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_rank": 3983,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_rank": 6440,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_rank": 7039,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_rank": 4581,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_rank": 6335,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_rank": 6845,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_rank": 4240,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_rank": 4546,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_rank": 4525,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_rank": 4398,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_rank": 5941,
+      "prior_wins": 40,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_rank": 5060,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_rank": 3061,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/sheffield",
+      "prior_rank": 5209,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_rank": 5069,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_rank": 7403,
+      "prior_wins": 38,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_rank": 2246,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_rank": 7302,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_rank": 6940,
+      "prior_wins": 30,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_rank": 3435,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_rank": 6531,
+      "prior_wins": 31,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_rank": 4781,
+      "prior_wins": 24,
+      "prior_n": 3
+    }
+  ]
+}

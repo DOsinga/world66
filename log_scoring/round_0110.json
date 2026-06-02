@@ -1,0 +1,200 @@
+{
+  "round": 110,
+  "timestamp": "2026-04-12T08:44:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "\u00cele de R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Zimbabwe",
+      "path": "africa/zimbabwe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Morelia",
+      "path": "northamerica/mexico/yucatan/morelia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sauerland",
+      "path": "europe/germany/northrhinewestphalia/sauerland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Manipur",
+      "path": "asia/india/manipur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/yucatan/tijuana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Ouesso",
+      "path": "africa/congobrazzaville/ouesso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1180,
+  "timestamp": "2026-04-12T22:13:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_rank": 4684,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_rank": 4502,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_rank": 6275,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_rank": 1744,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_rank": 3569,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_rank": 4881,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_rank": 4985,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_rank": 4037,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_rank": 4043,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_rank": 3776,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_rank": 3819,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_rank": 4263,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomi",
+      "prior_rank": 5256,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_rank": 4512,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Centre",
+      "path": "europe/france/centre",
+      "prior_rank": 6164,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_rank": 5161,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/whanganui_region/newplymouth",
+      "prior_rank": 5444,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_rank": 4745,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_rank": 4034,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_rank": 4235,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_rank": 5663,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_rank": 3794,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_rank": 4806,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_rank": 2667,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

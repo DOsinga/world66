@@ -1,0 +1,200 @@
+{
+  "round": 1885,
+  "timestamp": "2026-04-13T14:33:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_score": 8.5165,
+      "prior_variance": 0.373118,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "High Sierra",
+      "path": "northamerica/unitedstates/california/highsierra",
+      "prior_score": 7.0979,
+      "prior_variance": 0.382175,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_score": 5.6675,
+      "prior_variance": 0.441529,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 7.2346,
+      "prior_variance": 0.416394,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 0.4619,
+      "prior_variance": 0.323472,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_score": 4.6549,
+      "prior_variance": 0.259488,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 5.3519,
+      "prior_variance": 0.376982,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_p",
+      "prior_score": 2.9966,
+      "prior_variance": 0.252764,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.1732,
+      "prior_variance": 0.337999,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_score": 1.1228,
+      "prior_variance": 0.319988,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.8928,
+      "prior_variance": 0.350943,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_score": 3.1859,
+      "prior_variance": 0.246364,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 1.249,
+      "prior_variance": 0.256224,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": 0.7965,
+      "prior_variance": 0.324347,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Junin de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": 0.601,
+      "prior_variance": 0.234387,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -1.9663,
+      "prior_variance": 0.309656,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -1.9857,
+      "prior_variance": 0.249278,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ohio",
+      "path": "northamerica/unitedstates/ohio",
+      "prior_score": -3.4282,
+      "prior_variance": 0.376722,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_score": -4.6799,
+      "prior_variance": 0.293119,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -2.2733,
+      "prior_variance": 0.284272,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -6.3184,
+      "prior_variance": 0.449757,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -6.5095,
+      "prior_variance": 0.378622,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -6.6924,
+      "prior_variance": 0.316228,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.9342,
+      "prior_variance": 0.454116,
+      "prior_n": 4
+    }
+  ]
+}

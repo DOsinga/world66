@@ -1,0 +1,200 @@
+{
+  "round": 1058,
+  "timestamp": "2026-04-12T22:07:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_rank": 673,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/waikato/waitomo",
+      "prior_rank": 1284,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_rank": 1880,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_rank": 812,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_rank": 435,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_rank": 2076,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_rank": 1288,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_rank": 1197,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/centralspain/caceres",
+      "prior_rank": 847,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_rank": 2756,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_rank": 2940,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_rank": 1276,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_rank": 1285,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_rank": 1605,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_rank": 1715,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_rank": 1505,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_rank": 1038,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_rank": 2120,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_rank": 2989,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_rank": 1545,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_rank": 3632,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_rank": 2302,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_rank": 5031,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_rank": 1183,
+      "prior_wins": 37,
+      "prior_n": 2
+    }
+  ]
+}

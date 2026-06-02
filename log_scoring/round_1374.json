@@ -1,0 +1,200 @@
+{
+  "round": 1374,
+  "timestamp": "2026-04-12T22:24:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_rank": 7536,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_rank": 5515,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_rank": 5801,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_rank": 7657,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_rank": 7423,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/haiti/caphaitien",
+      "prior_rank": 6277,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_rank": 5388,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_rank": 7480,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_rank": 3568,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_rank": 6934,
+      "prior_wins": 30,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_rank": 7311,
+      "prior_wins": 25,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_rank": 5764,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_rank": 6759,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/lowerhutt",
+      "prior_rank": 6782,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_rank": 7092,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_rank": 7456,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_rank": 6446,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_rank": 7093,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_rank": 4857,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_rank": 5456,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_rank": 7830,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_rank": 6105,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_rank": 6450,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_rank": 6914,
+      "prior_wins": 18,
+      "prior_n": 3
+    }
+  ]
+}

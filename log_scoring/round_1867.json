@@ -1,0 +1,200 @@
+{
+  "round": 1867,
+  "timestamp": "2026-04-13T10:58:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_score": 8.2163,
+      "prior_variance": 0.334406,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 5.2457,
+      "prior_variance": 0.302023,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 4.6104,
+      "prior_variance": 0.371613,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 8.16,
+      "prior_variance": 0.383305,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/capetown/stellenbosch",
+      "prior_score": 5.9595,
+      "prior_variance": 0.293762,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 5.187,
+      "prior_variance": 0.51894,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 5.3904,
+      "prior_variance": 0.358624,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.5992,
+      "prior_variance": 0.35187,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/tellaro",
+      "prior_score": 4.1298,
+      "prior_variance": 0.231928,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.6064,
+      "prior_variance": 0.280363,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Belgium",
+      "path": "europe/belgium",
+      "prior_score": -3.6357,
+      "prior_variance": 0.315479,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -3.7619,
+      "prior_variance": 0.294674,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": 0.831,
+      "prior_variance": 0.241118,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.7944,
+      "prior_variance": 0.293918,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lorca",
+      "path": "europe/spain/spanishcostas/lorca",
+      "prior_score": 0.6054,
+      "prior_variance": 0.193221,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.3955,
+      "prior_variance": 0.415228,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -1.3021,
+      "prior_variance": 0.243979,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -2.5042,
+      "prior_variance": 0.259567,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ridgeway",
+      "path": "europe/unitedkingdom/england/ridgeway",
+      "prior_score": 0.3503,
+      "prior_variance": 0.313905,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_score": -1.7162,
+      "prior_variance": 0.369636,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.4499,
+      "prior_variance": 0.524076,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -7.414,
+      "prior_variance": 0.496569,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "TAUNSA SHARIF",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif",
+      "prior_score": -10.0899,
+      "prior_variance": 0.490003,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Viipuri",
+      "path": "europe/russia/viipuri",
+      "prior_score": -5.2205,
+      "prior_variance": 0.313928,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1193,
+  "timestamp": "2026-04-12T22:14:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_rank": 6609,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_rank": 3385,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_rank": 3766,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_rank": 2761,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_rank": 2124,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_rank": 5186,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_rank": 2435,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_rank": 2079,
+      "prior_wins": 94,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_rank": 6339,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lunigiana",
+      "path": "europe/italy/tuscany/lunigiana",
+      "prior_rank": 1941,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith",
+      "prior_rank": 2366,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/marlow",
+      "prior_rank": 3351,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_rank": 4369,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_rank": 4157,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_rank": 3355,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_rank": 5655,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_rank": 6492,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_rank": 5349,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_rank": 1980,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_rank": 5048,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_rank": 4543,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_rank": 4213,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Surinam",
+      "path": "africa/mauritius/souillac/surinam",
+      "prior_rank": 5014,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_rank": 5957,
+      "prior_wins": 30,
+      "prior_n": 4
+    }
+  ]
+}

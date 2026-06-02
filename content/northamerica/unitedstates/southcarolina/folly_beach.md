@@ -1,0 +1,19 @@
+---
+done:
+  location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
+image: folly_beach.jpg
+image_attribution: Brian Stansberry
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Folly-Beach-from-pier-sc.jpg
+latitude: 32.655485
+loc_type: city
+longitude: -79.94078
+score: 0.49
+title: Folly Beach
+type: location
+---
+
+Folly Beach is a small barrier island community just twenty minutes south of [Charleston](/northamerica/unitedstates/southcarolina/charleston), and it wears its reputation as "the Edge of America" with pride. This is Charleston's laid-back counterpoint — a six-mile stretch of sand where surfers, fishermen, and beach bums have been coming for generations. The vibe is deliberately unhurried, with locally owned shops and restaurants lining Center Street and a conspicuous absence of high-rise development.
+
+[The Folly Beach Pier](/northamerica/unitedstates/southcarolina/folly_beach/folly_beach_pier) is the main landmark, stretching over a thousand feet into the Atlantic and drawing anglers and sunset watchers alike. The island's northeast end is home to the [Morris Island Lighthouse](/northamerica/unitedstates/southcarolina/folly_beach/morris_island_lighthouse), visible from the beach at low tide, and the surrounding waters are popular for kayaking and paddleboarding. Folly is also the closest reliable [surf break](/northamerica/unitedstates/southcarolina/folly_beach/surfing) to Charleston, and the local surf culture runs deep. If you are looking for a beach town that feels more like a neighborhood than a resort, Folly Beach delivers.

@@ -1,0 +1,200 @@
+{
+  "round": 1093,
+  "timestamp": "2026-04-12T22:08:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_rank": 3207,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_rank": 4380,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ohio's Amish Country",
+      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
+      "prior_rank": 3816,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_rank": 4706,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_rank": 4067,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_rank": 5557,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_rank": 4959,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_rank": 4179,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_rank": 5341,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_rank": 5370,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_rank": 6439,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_rank": 4310,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_rank": 4970,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_rank": 2607,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_rank": 5247,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_rank": 3410,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Peja",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/peja",
+      "prior_rank": 3936,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kosovo",
+      "path": "europe/kosovo",
+      "prior_rank": 5374,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "El Salvador",
+      "path": "northamerica/elsalvador",
+      "prior_rank": 4845,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_rank": 4489,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/yucatan/puertoescondido",
+      "prior_rank": 5393,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_rank": 3013,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_rank": 5604,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_rank": 6471,
+      "prior_wins": 12,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 766,
+  "timestamp": "2026-04-12T10:47:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_mu": 22.7132,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_mu": 23.8127,
+      "prior_sigma": 5.6629,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Les Saintes",
+      "path": "northamerica/guadeloupe/lessaintes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_mu": 21.6655,
+      "prior_sigma": 3.8983,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_mu": 20.904,
+      "prior_sigma": 3.9184,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Playa Brasilito",
+      "path": "northamerica/costarica/playabrasilito",
+      "prior_mu": 22.478,
+      "prior_sigma": 5.7554,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_mu": 22.637,
+      "prior_sigma": 5.5475,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Isle of Man",
+      "path": "europe/isleofman",
+      "prior_mu": 22.2153,
+      "prior_sigma": 5.4609,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_mu": 21.6549,
+      "prior_sigma": 4.5041,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Asia",
+      "path": "asia",
+      "prior_mu": 15.076,
+      "prior_sigma": 6.2586,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Around Town",
+      "path": "northamerica/canada/alberta/calgary/aroundtown",
+      "prior_mu": 22.2738,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_mu": 22.1635,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_mu": 22.5868,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_mu": 22.2697,
+      "prior_sigma": 5.3496,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_mu": 22.5053,
+      "prior_sigma": 5.2333,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_mu": 22.383,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1299,
+  "timestamp": "2026-04-12T22:20:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portugal",
+      "path": "europe/portugal",
+      "prior_rank": 3565,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nevada",
+      "path": "northamerica/unitedstates/nevada",
+      "prior_rank": 1201,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_rank": 3114,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_rank": 2726,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tiro",
+      "prior_rank": 2104,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_rank": 2275,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_rank": 3049,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Canakkale",
+      "path": "asia/turkey/canakkale",
+      "prior_rank": 4628,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_rank": 2344,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_rank": 606,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_rank": 1640,
+      "prior_wins": 82,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_rank": 1261,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_rank": 3657,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_rank": 4214,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_rank": 1776,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_rank": 1265,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_rank": 1557,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_rank": 4966,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_rank": 911,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_rank": 2580,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_rank": 6767,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_rank": 4306,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_rank": 4569,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_rank": 4589,
+      "prior_wins": 31,
+      "prior_n": 3
+    }
+  ]
+}

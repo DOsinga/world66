@@ -1,0 +1,200 @@
+{
+  "round": 2082,
+  "timestamp": "2026-04-13T16:09:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 14.4186,
+      "prior_variance": 0.667408,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.7919,
+      "prior_variance": 0.333673,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 3.4438,
+      "prior_variance": 0.300644,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.1333,
+      "prior_variance": 0.229466,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 3.1244,
+      "prior_variance": 0.303444,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty",
+      "prior_score": 3.365,
+      "prior_variance": 0.297159,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.2116,
+      "prior_variance": 0.284413,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 1.3644,
+      "prior_variance": 0.262192,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 3.4738,
+      "prior_variance": 0.284818,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 2.3586,
+      "prior_variance": 0.256391,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/torquay",
+      "prior_score": 2.0168,
+      "prior_variance": 0.218552,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": -0.0194,
+      "prior_variance": 0.311338,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_score": 3.5908,
+      "prior_variance": 0.1967,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 0.8148,
+      "prior_variance": 0.25947,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 2.6786,
+      "prior_variance": 0.452315,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/yucatan/veracruz",
+      "prior_score": -2.0346,
+      "prior_variance": 0.256731,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.3571,
+      "prior_variance": 0.276398,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -1.3943,
+      "prior_variance": 0.343587,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": 1.3802,
+      "prior_variance": 0.174858,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 2.2427,
+      "prior_variance": 0.17613,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": 0.063,
+      "prior_variance": 0.286992,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.1107,
+      "prior_variance": 0.269782,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -1.5336,
+      "prior_variance": 0.345628,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -4.0788,
+      "prior_variance": 0.249778,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1220,
+  "timestamp": "2026-04-12T22:15:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_rank": 2740,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_rank": 3090,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_rank": 2593,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_rank": 3108,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_isl",
+      "prior_rank": 4233,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/exeter",
+      "prior_rank": 2649,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_rank": 3796,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_rank": 2094,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_rank": 2537,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_rank": 2878,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_rank": 4290,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_rank": 6181,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_rank": 3204,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_rank": 4732,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_rank": 4526,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_rank": 4528,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_rank": 2397,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_rank": 3298,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ambohimanga",
+      "path": "africa/madagascar/ambohimanga",
+      "prior_rank": 4028,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_rank": 4541,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_rank": 2376,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_rank": 5046,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_rank": 4023,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_rank": 4548,
+      "prior_wins": 21,
+      "prior_n": 2
+    }
+  ]
+}

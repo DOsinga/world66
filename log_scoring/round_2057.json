@@ -1,0 +1,200 @@
+{
+  "round": 2057,
+  "timestamp": "2026-04-13T16:06:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.7115,
+      "prior_variance": 0.27256,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 2.6212,
+      "prior_variance": 0.287328,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 0.8147,
+      "prior_variance": 0.231093,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -1.1213,
+      "prior_variance": 0.274763,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 2.62,
+      "prior_variance": 0.260547,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 1.7586,
+      "prior_variance": 0.241225,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Cumbria",
+      "path": "europe/unitedkingdom/cumbria",
+      "prior_score": 2.7949,
+      "prior_variance": 0.306646,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": 0.5284,
+      "prior_variance": 0.376804,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.8548,
+      "prior_variance": 0.240227,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "O Saln\u00e9s (Salnes Valley)",
+      "path": "europe/spain/northernspain/o_salns_salnes",
+      "prior_score": 1.4723,
+      "prior_variance": 0.26438,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": 0.5129,
+      "prior_variance": 0.230273,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_score": -0.3702,
+      "prior_variance": 0.306123,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Morelia",
+      "path": "northamerica/mexico/yucatan/morelia",
+      "prior_score": -2.6833,
+      "prior_variance": 0.267138,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -0.4355,
+      "prior_variance": 0.205565,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/losangeles/pasadena",
+      "prior_score": -0.4312,
+      "prior_variance": 0.32618,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.1319,
+      "prior_variance": 0.242541,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.1152,
+      "prior_variance": 0.236815,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ballerup",
+      "path": "europe/denmark/ballerup",
+      "prior_score": -4.4753,
+      "prior_variance": 0.265703,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -4.5235,
+      "prior_variance": 0.278784,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kudal",
+      "path": "asia/india/maharashtra/kudal",
+      "prior_score": -5.0771,
+      "prior_variance": 0.295337,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -4.9569,
+      "prior_variance": 0.294386,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Jerico",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": -4.2319,
+      "prior_variance": 0.415953,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_score": -6.0094,
+      "prior_variance": 0.246023,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "pind gali abbottabad",
+      "path": "asia/pakistan/abbottabad/pind_gali_abbottab",
+      "prior_score": -6.6709,
+      "prior_variance": 0.253589,
+      "prior_n": 5
+    }
+  ]
+}

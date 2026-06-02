@@ -1,0 +1,200 @@
+{
+  "round": 2282,
+  "timestamp": "2026-04-13T16:27:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 6.7656,
+      "prior_variance": 0.267673,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 5.3794,
+      "prior_variance": 0.243859,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 6.6862,
+      "prior_variance": 0.300778,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_nati",
+      "prior_score": 5.2684,
+      "prior_variance": 0.238975,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "\u00cele de R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r",
+      "prior_score": 6.4206,
+      "prior_variance": 0.301905,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 5.1995,
+      "prior_variance": 0.257523,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 4.0525,
+      "prior_variance": 0.266193,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 2.1598,
+      "prior_variance": 0.255671,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 3.892,
+      "prior_variance": 0.207289,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 2.9559,
+      "prior_variance": 0.211797,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": 1.9056,
+      "prior_variance": 0.267454,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_score": 1.7446,
+      "prior_variance": 0.204221,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.4208,
+      "prior_variance": 0.189849,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": 0.2062,
+      "prior_variance": 0.194718,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.8964,
+      "prior_variance": 0.223393,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 1.0808,
+      "prior_variance": 0.231433,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -0.9474,
+      "prior_variance": 0.199934,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -1.7679,
+      "prior_variance": 0.2421,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.2778,
+      "prior_variance": 0.251511,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.3045,
+      "prior_variance": 0.232615,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_score": -2.3182,
+      "prior_variance": 0.222887,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.7419,
+      "prior_variance": 0.231727,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -3.5521,
+      "prior_variance": 0.243758,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.1973,
+      "prior_variance": 0.234615,
+      "prior_n": 6
+    }
+  ]
+}

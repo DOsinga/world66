@@ -1,0 +1,200 @@
+{
+  "round": 1956,
+  "timestamp": "2026-04-13T15:57:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 6.4321,
+      "prior_variance": 0.44756,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "The Lakes",
+      "path": "africa/kenya/lakes",
+      "prior_score": -0.4307,
+      "prior_variance": 0.261061,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -2.8083,
+      "prior_variance": 0.346108,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 2.9345,
+      "prior_variance": 0.32298,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 2.733,
+      "prior_variance": 0.314376,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 0.7852,
+      "prior_variance": 0.694441,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 3.6717,
+      "prior_variance": 0.264572,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 4.1251,
+      "prior_variance": 0.340495,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_score": 1.713,
+      "prior_variance": 0.424494,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_score": 2.7548,
+      "prior_variance": 0.336627,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": -0.0193,
+      "prior_variance": 0.293781,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 1.4446,
+      "prior_variance": 0.260479,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.7714,
+      "prior_variance": 0.293271,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 3.8931,
+      "prior_variance": 0.306078,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/tauranga",
+      "prior_score": 3.4734,
+      "prior_variance": 0.287324,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington",
+      "prior_score": 5.1948,
+      "prior_variance": 0.283173,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/truckee",
+      "prior_score": 1.0052,
+      "prior_variance": 0.270205,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_score": 1.4101,
+      "prior_variance": 0.25013,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.7658,
+      "prior_variance": 0.278836,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 1.2389,
+      "prior_variance": 0.301225,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "The Coast",
+      "path": "northamerica/unitedstates/newhampshire/thecoast",
+      "prior_score": -0.0598,
+      "prior_variance": 0.273697,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.1908,
+      "prior_variance": 0.246323,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Beckenham",
+      "path": "europe/unitedkingdom/england/beckenham",
+      "prior_score": -3.7631,
+      "prior_variance": 0.328111,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kincumber",
+      "path": "australiaandpacific/australia/newsouthwales/kincumber",
+      "prior_score": -2.4682,
+      "prior_variance": 0.280619,
+      "prior_n": 5
+    }
+  ]
+}

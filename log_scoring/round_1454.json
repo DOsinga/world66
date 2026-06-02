@@ -1,0 +1,200 @@
+{
+  "round": 1454,
+  "timestamp": "2026-04-12T22:28:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_rank": 3664,
+      "prior_wins": 49,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_rank": 2722,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_rank": 5272,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_rank": 3425,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Uruguay",
+      "path": "southamerica/uruguay",
+      "prior_rank": 3365,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_rank": 2824,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_rank": 2602,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_rank": 4302,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_rank": 3273,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_rank": 4733,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_rank": 3984,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_rank": 1580,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/whanganui_region/newplymouth",
+      "prior_rank": 6020,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Papua New Guinea",
+      "path": "asia/papuanewguinea",
+      "prior_rank": 4738,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_rank": 4856,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_rank": 2464,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_rank": 3986,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_rank": 2967,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_rank": 2289,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_rank": 5893,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_rank": 4739,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_rank": 3288,
+      "prior_wins": 77,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_rank": 3570,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_rank": 3136,
+      "prior_wins": 42,
+      "prior_n": 4
+    }
+  ]
+}

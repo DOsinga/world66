@@ -1,0 +1,200 @@
+{
+  "round": 2011,
+  "timestamp": "2026-04-13T16:02:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 4.9837,
+      "prior_variance": 0.38825,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.1731,
+      "prior_variance": 0.284407,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 3.3534,
+      "prior_variance": 0.210343,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_score": -0.1503,
+      "prior_variance": 0.287188,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 0.8663,
+      "prior_variance": 0.282124,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.633,
+      "prior_variance": 0.251764,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.573,
+      "prior_variance": 0.257713,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_score": 1.0678,
+      "prior_variance": 0.232205,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -1.2476,
+      "prior_variance": 0.286061,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": 0.5864,
+      "prior_variance": 0.289307,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/waikato/hamilton",
+      "prior_score": -1.2673,
+      "prior_variance": 0.246677,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.487,
+      "prior_variance": 0.244501,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -1.5328,
+      "prior_variance": 0.215434,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_score": -0.4828,
+      "prior_variance": 0.286968,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Khujhirt",
+      "path": "asia/mongolia/khujhirt",
+      "prior_score": -2.0501,
+      "prior_variance": 0.278846,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Xikou",
+      "path": "asia/china/xikou",
+      "prior_score": -3.1319,
+      "prior_variance": 0.350269,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -3.9777,
+      "prior_variance": 0.252212,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/hajira",
+      "prior_score": -6.7625,
+      "prior_variance": 0.432063,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_score": -3.9835,
+      "prior_variance": 0.264619,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.4437,
+      "prior_variance": 0.295551,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -5.0838,
+      "prior_variance": 0.304612,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.3304,
+      "prior_variance": 0.347721,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_score": -5.9976,
+      "prior_variance": 0.341417,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.7683,
+      "prior_variance": 0.573045,
+      "prior_n": 5
+    }
+  ]
+}

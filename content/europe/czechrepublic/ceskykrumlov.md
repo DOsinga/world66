@@ -1,0 +1,25 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
+image: ceskykrumlov.jpg
+image_license: CC BY-SA 3.0 igo
+image_source: https://commons.wikimedia.org/wiki/File:Historic_Centre_of_%C4%8Cesk%C3%BD_Krumlov-111747.jpg
+latitude: 48.810653
+loc_type: city
+longitude: 14.315059
+score: 0.74
+sources:
+- https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov
+title: Český Krumlov
+type: location
+---
+
+Český Krumlov is one of the most strikingly beautiful small towns in Central Europe. A tight loop of the Vltava river almost completely encircles the old town, and above it rises a vast castle complex — the second largest in the Czech Republic after Prague Castle. The entire historic center is a UNESCO World Heritage Site.
+
+The town has around 13,000 residents but attracts vastly more visitors, especially in summer when the streets fill with day-trippers from Prague (about 3 hours by bus or train). The experience is best if you stay overnight — the atmosphere after the tour buses leave in the late afternoon is completely different.
+
+The castle (Státní hrad a zámek Český Krumlov) has a magnificent Baroque theater that still retains its original stage machinery and scenery — one of the best preserved in Europe. The castle gardens are worth exploring, and the tower offers exceptional views. Several guided tours run through different parts of the complex.
+
+The town is also an activity center: kayaking and rafting on the Vltava are popular in summer, and the surrounding countryside is good for cycling.

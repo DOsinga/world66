@@ -1,0 +1,14 @@
+---
+title: "Top 5 Must Do's in Benin"
+type: section
+---
+
+**1. Walk the Route des Esclaves in Ouidah.** Start at the Place Chacha in the center of [Ouidah](/africa/benin/ouidah), where slaves were auctioned, and walk the four kilometers to the beach, passing memorials and the Tree of Forgetting where captives were forced to circle before boarding the ships. The path ends at the Door of No Return, a towering arch on the sand facing the Atlantic. It is solemn, powerful, and one of the most important historical sites in Africa. Allow a couple of hours and consider hiring a local guide who can bring the history to life.
+
+**2. Take a pirogue to Ganvie.** Hire a motorized canoe at the lakeside in Abomey-Calavi and glide out onto Lake Nokoue to [Ganvie](/africa/benin/ganvie), where an entire town of 30,000 people lives on stilts above the water. You will pass fishermen setting nets, children paddling to school, and a floating market where goods are traded from canoe to canoe. The town was founded by people escaping Dahomey slave raiders, and the ingenuity of building a complete community on water is remarkable. Go in the morning for the best light and the most activity.
+
+**3. Explore the Royal Palaces of Abomey.** The UNESCO-listed palace compound at [Abomey](/africa/benin/abomey) is where twelve kings of Dahomey ruled from the 1600s to the French conquest. The walls are decorated with extraordinary bas-reliefs depicting battles, human sacrifices, and the legendary female warriors. The museum inside holds royal thrones -- including one mounted on human skulls -- ceremonial clothing, and weapons. Hire the on-site guide for the full story of each king and their reign.
+
+**4. Experience voodoo at its source.** Visit the Temple of Pythons in [Ouidah](/africa/benin/ouidah), where dozens of royal pythons slither freely through a small compound, sacred to the voodoo faith. Walk through the Fetish Market in [Cotonou](/africa/benin/cotonou), where dried animal parts, herbs, and powders are sold for spiritual and medicinal purposes. If you visit in early January, the Voodoo Festival on January 10th in Ouidah is a day of public ceremonies, drumming, and dance that offers an authentic window into this living religion.
+
+**5. Visit the Somba tata villages.** In the Atakora mountains near Natitingou, the Somba people live in remarkable fortified tower houses called tata somba -- two-story structures of mud and thatch that look like miniature castles, with grain stores on the roof and livestock on the ground floor. Walking between the [Somba villages](/africa/benin/sombavillages) with a local guide is a genuinely immersive experience, and the landscape of rocky hills, baobab trees, and red earth is stunning. This is about as far off the beaten track as you can get in West Africa.

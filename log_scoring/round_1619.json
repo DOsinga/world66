@@ -1,0 +1,200 @@
+{
+  "round": 1619,
+  "timestamp": "2026-04-13T10:36:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_score": 4.0486,
+      "prior_variance": 0.607126,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 4.1299,
+      "prior_variance": 0.385593,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 5.0104,
+      "prior_variance": 0.334379,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 4.2151,
+      "prior_variance": 0.328177,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.9991,
+      "prior_variance": 0.306313,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 4.2538,
+      "prior_variance": 0.308353,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 4.4725,
+      "prior_variance": 0.35064,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 5.5035,
+      "prior_variance": 0.415314,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 4.3585,
+      "prior_variance": 0.305076,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Azerbaijan",
+      "path": "europe/azerbaijan",
+      "prior_score": -6.7135,
+      "prior_variance": 0.432903,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lopud Island",
+      "path": "europe/croatia/lopud_island",
+      "prior_score": 4.4997,
+      "prior_variance": 0.327001,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 3.0724,
+      "prior_variance": 0.50095,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
+      "prior_score": 1.1226,
+      "prior_variance": 0.331389,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Hallingdal",
+      "path": "europe/norway/hallingdal",
+      "prior_score": 1.9678,
+      "prior_variance": 0.322117,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 3.8018,
+      "prior_variance": 0.436702,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_score": 1.7638,
+      "prior_variance": 0.257719,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -2.3911,
+      "prior_variance": 0.359954,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.8929,
+      "prior_variance": 0.362981,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -3.3582,
+      "prior_variance": 0.369737,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -4.0143,
+      "prior_variance": 0.524038,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_score": -3.0121,
+      "prior_variance": 0.301764,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -8.1491,
+      "prior_variance": 0.609378,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pinner",
+      "path": "europe/unitedkingdom/england/pinner",
+      "prior_score": -3.4053,
+      "prior_variance": 0.397702,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_score": -9.2069,
+      "prior_variance": 1.142279,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+set -e
+
+pull
+claude -p "Ga verder met location_cleanup" --model claude-sonnet-4-6 --dangerously-skip-permissions

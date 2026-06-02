@@ -1,0 +1,200 @@
+{
+  "round": 1278,
+  "timestamp": "2026-04-12T22:19:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_rank": 6417,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_rank": 7496,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_rank": 8115,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_rank": 7432,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_rank": 7646,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_rank": 7030,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kozanh",
+      "path": "europe/greece/kozanh",
+      "prior_rank": 7717,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_rank": 7510,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_rank": 7513,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_rank": 7385,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_rank": 6315,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverp/helmshore",
+      "prior_rank": 6017,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_rank": 6101,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/solihull",
+      "prior_rank": 7412,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_rank": 6416,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_rank": 6044,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_rank": 7713,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_rank": 7224,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/ontario",
+      "prior_rank": 7157,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_rank": 7354,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Altos Mirandinos",
+      "path": "southamerica/venezuela/altos_mirandinos",
+      "prior_rank": 7569,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_rank": 6974,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_rank": 6559,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_rank": 6514,
+      "prior_wins": 20,
+      "prior_n": 3
+    }
+  ]
+}

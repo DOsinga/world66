@@ -1,0 +1,200 @@
+{
+  "round": 177,
+  "timestamp": "2026-04-12T08:46:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Winelands",
+      "path": "africa/southafrica/winelands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 20.8287,
+      "prior_sigma": 2.9961,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

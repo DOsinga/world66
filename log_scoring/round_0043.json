@@ -1,0 +1,200 @@
+{
+  "round": 43,
+  "timestamp": "2026-04-11T19:25:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 32.86,
+      "prior_sigma": 6.08,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_mu": 33.27,
+      "prior_sigma": 5.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_mu": 22.86,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_mu": 23.06,
+      "prior_sigma": 5.74,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.81,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_mu": 24.35,
+      "prior_sigma": 4.77,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_mu": 22.54,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 22.68,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_mu": 22.64,
+      "prior_sigma": 4.1,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 21.84,
+      "prior_sigma": 4.34,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_mu": 22.95,
+      "prior_sigma": 4.67,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_mu": 21.83,
+      "prior_sigma": 4.82,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 21.79,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "La isabela",
+      "path": "northamerica/dominicanrepublic/laisabela",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_mu": 22.45,
+      "prior_sigma": 5.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_mu": 21.74,
+      "prior_sigma": 4.55,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_mu": 22.4,
+      "prior_sigma": 5.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_mu": 22.35,
+      "prior_sigma": 5.55,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 19.12,
+      "prior_sigma": 5.03,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 14.28,
+      "prior_sigma": 4.33,
+      "prior_n": 4
+    }
+  ]
+}

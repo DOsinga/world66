@@ -1,0 +1,200 @@
+{
+  "round": 2053,
+  "timestamp": "2026-04-13T16:06:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 7.8248,
+      "prior_variance": 0.408945,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 7.4535,
+      "prior_variance": 0.400682,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 5.3612,
+      "prior_variance": 0.290956,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 1.6226,
+      "prior_variance": 0.244453,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 2.8975,
+      "prior_variance": 0.259701,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 2.2035,
+      "prior_variance": 0.331601,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_score": 0.8947,
+      "prior_variance": 0.248652,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Forster",
+      "path": "australiaandpacific/australia/newsouthwales/forster",
+      "prior_score": -0.8857,
+      "prior_variance": 0.254032,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": 0.1048,
+      "prior_variance": 0.246786,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -0.2321,
+      "prior_variance": 0.308737,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_score": 0.3998,
+      "prior_variance": 0.267998,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.9984,
+      "prior_variance": 0.282475,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -2.3451,
+      "prior_variance": 0.223707,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -2.3436,
+      "prior_variance": 0.242562,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -3.6201,
+      "prior_variance": 0.278166,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -6.2301,
+      "prior_variance": 0.378044,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -2.6085,
+      "prior_variance": 0.315899,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -2.6935,
+      "prior_variance": 0.267285,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -2.0943,
+      "prior_variance": 0.368301,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.2954,
+      "prior_variance": 0.346434,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Alega",
+      "path": "australiaandpacific/americansamoa/alega",
+      "prior_score": -2.5129,
+      "prior_variance": 0.230892,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_score": -5.9166,
+      "prior_variance": 0.306392,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -6.5279,
+      "prior_variance": 0.255133,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -6.8667,
+      "prior_variance": 0.850676,
+      "prior_n": 5
+    }
+  ]
+}

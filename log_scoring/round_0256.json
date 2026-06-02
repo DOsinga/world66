@@ -1,0 +1,200 @@
+{
+  "round": 256,
+  "timestamp": "2026-04-12T09:08:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_mu": 22.6229,
+      "prior_sigma": 4.9054,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_mu": 22.0488,
+      "prior_sigma": 5.6936,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_mu": 22.6881,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chaguaramas",
+      "path": "northamerica/trinidadandtobago/chaguaramas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_mu": 22.5251,
+      "prior_sigma": 5.9133,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

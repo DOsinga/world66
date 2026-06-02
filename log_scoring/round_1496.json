@@ -1,0 +1,200 @@
+{
+  "round": 1496,
+  "timestamp": "2026-04-13T10:25:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": -0.1678,
+      "prior_variance": 0.596943,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -0.6948,
+      "prior_variance": 0.328968,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_score": -1.0723,
+      "prior_variance": 0.387986,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -2.5005,
+      "prior_variance": 0.650975,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_score": -4.2752,
+      "prior_variance": 0.561227,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -4.5983,
+      "prior_variance": 0.391347,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -6.5709,
+      "prior_variance": 0.642251,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Jiangxi",
+      "path": "asia/china/jiangxi",
+      "prior_score": -2.5974,
+      "prior_variance": 0.314913,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_score": -9.3336,
+      "prior_variance": 1.018454,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -6.4726,
+      "prior_variance": 0.408528,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_score": -13.1795,
+      "prior_variance": 2.026144,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -7.4292,
+      "prior_variance": 0.927166,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chowchilla",
+      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
+      "prior_score": -7.1579,
+      "prior_variance": 0.446214,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -10.2081,
+      "prior_variance": 0.545998,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -8.5039,
+      "prior_variance": 0.560117,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -7.8765,
+      "prior_variance": 0.570538,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_score": -8.0649,
+      "prior_variance": 0.496718,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Nigeria",
+      "path": "africa/nigeria",
+      "prior_score": -8.1226,
+      "prior_variance": 0.505329,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -11.0516,
+      "prior_variance": 0.49595,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "tibbi miana",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
+      "prior_score": -11.6201,
+      "prior_variance": 0.541692,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "TORDHER",
+      "path": "asia/pakistan/karachi/tordher",
+      "prior_score": -10.0768,
+      "prior_variance": 0.734489,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mahala",
+      "path": "asia/pakistan/nowshera/kheshgi/mahala",
+      "prior_score": -11.0123,
+      "prior_variance": 0.616076,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -12.1649,
+      "prior_variance": 0.650272,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.387,
+      "prior_variance": 0.752704,
+      "prior_n": 5
+    }
+  ]
+}

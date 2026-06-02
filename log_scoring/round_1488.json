@@ -1,0 +1,200 @@
+{
+  "round": 1488,
+  "timestamp": "2026-04-13T10:25:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/saranda/jal",
+      "prior_score": 2.1745,
+      "prior_variance": 0.47655,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 2.8993,
+      "prior_variance": 0.287022,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 1.8465,
+      "prior_variance": 0.463647,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": -0.7458,
+      "prior_variance": 0.400985,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 1.014,
+      "prior_variance": 0.475464,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.5855,
+      "prior_variance": 0.347301,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 2.2256,
+      "prior_variance": 0.450576,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.3447,
+      "prior_variance": 0.408419,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Muros",
+      "path": "europe/spain/northernspain/muros",
+      "prior_score": 1.2681,
+      "prior_variance": 0.423731,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.2537,
+      "prior_variance": 0.409234,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.636,
+      "prior_variance": 0.276093,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 2.2502,
+      "prior_variance": 0.351348,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 1.0565,
+      "prior_variance": 0.462053,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 2.3148,
+      "prior_variance": 0.456603,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 1.5358,
+      "prior_variance": 0.441783,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": 0.5327,
+      "prior_variance": 0.424605,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 1.0738,
+      "prior_variance": 0.452264,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/nottingham",
+      "prior_score": 0.7257,
+      "prior_variance": 0.318604,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": -0.2532,
+      "prior_variance": 0.443522,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 1.2639,
+      "prior_variance": 0.474266,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.8214,
+      "prior_variance": 0.45718,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "New Hampshire",
+      "path": "northamerica/unitedstates/newhampshire",
+      "prior_score": 1.8951,
+      "prior_variance": 0.654689,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": -0.0511,
+      "prior_variance": 0.517158,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -1.2021,
+      "prior_variance": 0.617207,
+      "prior_n": 3
+    }
+  ]
+}

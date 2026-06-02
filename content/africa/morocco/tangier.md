@@ -1,0 +1,25 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-02
+  location_enrich: '2026-06-01'
+  poi_cleanup: '2026-04-19'
+image: tangier.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Faro_del_cabo_Espartel,_Marruecos,_2015-12-11,_DD_02.JPG
+latitude: 35.7596
+loc_type: city
+longitude: -5.834
+score: 0.59
+title: Tangier
+type: location
+---
+
+Tangier sits at the northwestern tip of Africa, where the Mediterranean meets the Atlantic and Europe shimmers on the horizon. For centuries this position made it a crossroads of civilizations, a free port, and an international zone where anything went. The old reputation for intrigue has faded, but the city's restless energy has not.
+
+The [medina](/africa/morocco/tangier/medina) tumbles down from the [kasbah](/africa/morocco/tangier/kasbah) on its hilltop, a maze of narrow lanes lined with spice shops, tea houses, and crumbling riads being slowly restored. At its heart, the [Petit Socco](/africa/morocco/tangier/the_petit_socco) still draws people to its cafe terraces, much as it did when Burroughs and Bowles made Tangier their home. Below, the [Grand Socco](/africa/morocco/tangier/the_grand_socco) marks the threshold between old and new, its leafy plaza connecting the medina to the wide French-colonial boulevards of the [ville nouvelle](/africa/morocco/tangier/ville_nouvelle).
+
+Outside the city walls, the waterfront stretches along a sweeping bay where locals swim and drink mint tea at beach bars. A short drive west takes you to [Cap Spartel](/africa/morocco/tangier/cap_spartel), where the two seas meet, and the [Caves of Hercules](/africa/morocco/tangier/caves_of_hercules) carved into the cliffs below. The light here is extraordinary, shifting from Mediterranean blue to Atlantic grey within the space of an afternoon.
+
+Tangier is also changing fast. A new high-speed rail link connects it to [Casablanca](/africa/morocco/casablanca) and [Rabat](/africa/morocco/rabat), the port area is being redeveloped, and a wave of boutique hotels and restaurants has arrived. It is still rough around the edges, and that is part of its charm.

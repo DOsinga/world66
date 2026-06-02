@@ -1,0 +1,200 @@
+{
+  "round": 752,
+  "timestamp": "2026-04-12T10:46:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_mu": 24.8265,
+      "prior_sigma": 5.8823,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_mu": 21.9894,
+      "prior_sigma": 4.3133,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_mu": 22.5584,
+      "prior_sigma": 5.553,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_mu": 22.3053,
+      "prior_sigma": 5.7275,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_mu": 21.2955,
+      "prior_sigma": 2.797,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_mu": 22.4677,
+      "prior_sigma": 5.9108,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_mu": 21.269,
+      "prior_sigma": 3.7647,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_mu": 21.1847,
+      "prior_sigma": 3.283,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_mu": 22.2648,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Black Sea Coast",
+      "path": "europe/georgia/blackseacoast",
+      "prior_mu": 21.4899,
+      "prior_sigma": 4.834,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_mu": 21.0622,
+      "prior_sigma": 3.3647,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_mu": 21.8533,
+      "prior_sigma": 4.7402,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_mu": 21.5942,
+      "prior_sigma": 4.3304,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_mu": 22.522,
+      "prior_sigma": 5.6549,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_mu": 18.7199,
+      "prior_sigma": 4.9433,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_mu": 19.4829,
+      "prior_sigma": 4.0433,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_mu": 22.4416,
+      "prior_sigma": 5.715,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_mu": 21.9986,
+      "prior_sigma": 5.2118,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_mu": 22.7825,
+      "prior_sigma": 5.7219,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_mu": 18.4323,
+      "prior_sigma": 4.3049,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ilford",
+      "path": "europe/unitedkingdom/england/ilford",
+      "prior_mu": 18.1467,
+      "prior_sigma": 4.9466,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

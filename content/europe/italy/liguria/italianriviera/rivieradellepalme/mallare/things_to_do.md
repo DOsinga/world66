@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Mallare's sights are few but genuine — medieval religious architecture and castle ruins set against a forested valley that sees almost no tourist traffic.
+Mallare is a small village with a handful of genuine historic monuments. The abbey, the church, the hillside shrine, and the ruined castles are all close together and make for an easy half-day walk.

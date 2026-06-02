@@ -1,0 +1,200 @@
+{
+  "round": 247,
+  "timestamp": "2026-04-12T09:08:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_mu": 26.4505,
+      "prior_sigma": 5.5469,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/hollywood",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_mu": 22.1279,
+      "prior_sigma": 5.7582,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_mu": 22.7212,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_mu": 22.275,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/coventry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_mu": 22.219,
+      "prior_sigma": 5.7761,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

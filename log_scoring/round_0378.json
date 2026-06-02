@@ -1,0 +1,200 @@
+{
+  "round": 378,
+  "timestamp": "2026-04-12T09:14:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_mu": 22.7128,
+      "prior_sigma": 5.9487,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tilos",
+      "path": "europe/greece/tilos",
+      "prior_mu": 21.9076,
+      "prior_sigma": 4.8256,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Campo de Criptana",
+      "path": "europe/spain/la_mancha/campo_de_criptana_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/truckee",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/shrewsbury",
+      "prior_mu": 21.762,
+      "prior_sigma": 4.8065,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_mu": 22.9711,
+      "prior_sigma": 5.979,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_mu": 22.1845,
+      "prior_sigma": 5.765,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hainaut",
+      "path": "europe/belgium/hainaut",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_mu": 22.4607,
+      "prior_sigma": 5.9046,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "North America",
+      "path": "northamerica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

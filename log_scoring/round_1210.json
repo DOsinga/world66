@@ -1,0 +1,200 @@
+{
+  "round": 1210,
+  "timestamp": "2026-04-12T22:15:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_rank": 5485,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_rank": 1922,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_rank": 3323,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_rank": 3937,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_rank": 2945,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_rank": 2385,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_rank": 3259,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_rank": 2944,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_rank": 4096,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_rank": 6358,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_rank": 3017,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_rank": 5219,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_rank": 2382,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_rank": 3100,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national",
+      "prior_rank": 2405,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_rank": 3581,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_rank": 6885,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_rank": 6945,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_rank": 3205,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_rank": 3411,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_rank": 2137,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_rank": 1912,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_rank": 3655,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_rank": 3748,
+      "prior_wins": 36,
+      "prior_n": 3
+    }
+  ]
+}

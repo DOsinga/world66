@@ -1,0 +1,200 @@
+{
+  "round": 1909,
+  "timestamp": "2026-04-13T15:53:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/saintbartholomy",
+      "prior_score": 7.8686,
+      "prior_variance": 0.335772,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_score": 3.9529,
+      "prior_variance": 0.360553,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.6393,
+      "prior_variance": 0.287136,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_score": 1.2894,
+      "prior_variance": 0.261009,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/canterbury",
+      "prior_score": 0.8864,
+      "prior_variance": 0.317398,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": 0.0298,
+      "prior_variance": 0.281615,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nagaland",
+      "path": "asia/india/nagaland",
+      "prior_score": 0.6488,
+      "prior_variance": 0.278593,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.8035,
+      "prior_variance": 0.328644,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_score": -3.9868,
+      "prior_variance": 0.285181,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -4.506,
+      "prior_variance": 0.402898,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_score": -3.7615,
+      "prior_variance": 0.177156,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.5657,
+      "prior_variance": 0.344779,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -5.7674,
+      "prior_variance": 0.320398,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -5.5537,
+      "prior_variance": 0.376932,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.0839,
+      "prior_variance": 0.26037,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_score": -7.7289,
+      "prior_variance": 0.450043,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -4.9463,
+      "prior_variance": 0.329814,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.2235,
+      "prior_variance": 0.250568,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.145,
+      "prior_variance": 0.268625,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Elk City",
+      "path": "northamerica/unitedstates/oklahoma/elk_city",
+      "prior_score": -5.8212,
+      "prior_variance": 0.323268,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.608,
+      "prior_variance": 0.425912,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -9.0422,
+      "prior_variance": 0.644039,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_score": -8.8871,
+      "prior_variance": 0.72505,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -7.95,
+      "prior_variance": 0.413764,
+      "prior_n": 5
+    }
+  ]
+}

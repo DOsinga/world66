@@ -1,0 +1,200 @@
+{
+  "round": 879,
+  "timestamp": "2026-04-12T14:46:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 14.4271,
+      "prior_variance": 7.470586,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 12.8328,
+      "prior_variance": 2.968302,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 8.0149,
+      "prior_variance": 1.564106,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Alsace",
+      "path": "europe/france/east/alsace",
+      "prior_score": 7.218,
+      "prior_variance": 1.566229,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 2.082,
+      "prior_variance": 1.285511,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.7449,
+      "prior_variance": 1.331251,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/bangalore/mysore",
+      "prior_score": 4.1964,
+      "prior_variance": 1.656327,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 3.4829,
+      "prior_variance": 1.445452,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/marlow",
+      "prior_score": 0.9903,
+      "prior_variance": 1.282343,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 2.3023,
+      "prior_variance": 1.303076,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/tigullio",
+      "prior_score": 4.72,
+      "prior_variance": 1.348067,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.8826,
+      "prior_variance": 0.643414,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": 0.7887,
+      "prior_variance": 1.31452,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.9335,
+      "prior_variance": 1.31325,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 1.7089,
+      "prior_variance": 1.253996,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": 0.2927,
+      "prior_variance": 1.310289,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -1.4721,
+      "prior_variance": 1.379606,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_score": -5.6783,
+      "prior_variance": 2.134428,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -0.2872,
+      "prior_variance": 1.411964,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "SASTAGO",
+      "path": "europe/spain/aragon/sastago",
+      "prior_score": -0.9286,
+      "prior_variance": 1.495526,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_score": -6.8303,
+      "prior_variance": 1.893136,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -6.3142,
+      "prior_variance": 1.637118,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -10.4588,
+      "prior_variance": 1.787998,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "San-Pedro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -3.1305,
+      "prior_variance": 1.368302,
+      "prior_n": 1
+    }
+  ]
+}

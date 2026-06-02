@@ -1,0 +1,200 @@
+{
+  "round": 230,
+  "timestamp": "2026-04-12T09:07:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_mu": 22.2782,
+      "prior_sigma": 5.7841,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Orange County",
+      "path": "northamerica/unitedstates/california/orangecounty",
+      "prior_mu": 23.2479,
+      "prior_sigma": 5.7357,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Baja California",
+      "path": "northamerica/mexico/yucatan/bajacalifornia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_mu": 22.2735,
+      "prior_sigma": 5.7836,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    }
+  ]
+}

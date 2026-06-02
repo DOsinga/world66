@@ -1,0 +1,200 @@
+{
+  "round": 17,
+  "timestamp": "2026-04-11T19:24:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_mu": 31.68,
+      "prior_sigma": 6.5,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_mu": 23.96,
+      "prior_sigma": 5.84,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_mu": 27.61,
+      "prior_sigma": 5.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_mu": 22.6,
+      "prior_sigma": 5.82,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_mu": 22.95,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_mu": 22.28,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 22.91,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    }
+  ]
+}

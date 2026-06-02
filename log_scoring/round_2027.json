@@ -1,0 +1,200 @@
+{
+  "round": 2027,
+  "timestamp": "2026-04-13T16:04:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.733,
+      "prior_variance": 0.291861,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/italianriviera/tigullio",
+      "prior_score": 4.5675,
+      "prior_variance": 0.374846,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lantau",
+      "path": "asia/china/hongkong/lantau",
+      "prior_score": 4.697,
+      "prior_variance": 0.336286,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 2.9546,
+      "prior_variance": 0.266943,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.7243,
+      "prior_variance": 0.287258,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 4.0699,
+      "prior_variance": 0.241952,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 0.3368,
+      "prior_variance": 0.261595,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.0895,
+      "prior_variance": 0.260234,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -1.6598,
+      "prior_variance": 0.284471,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.2944,
+      "prior_variance": 0.311117,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": 0.483,
+      "prior_variance": 0.261724,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/watchet",
+      "prior_score": -1.8772,
+      "prior_variance": 0.24592,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.813,
+      "prior_variance": 0.266512,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -0.9244,
+      "prior_variance": 0.274838,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.5701,
+      "prior_variance": 0.266171,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -1.7441,
+      "prior_variance": 0.258709,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -1.8708,
+      "prior_variance": 0.190663,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -2.982,
+      "prior_variance": 0.276003,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -2.7445,
+      "prior_variance": 0.269847,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Arva",
+      "path": "europe/ireland/arva",
+      "prior_score": -4.8408,
+      "prior_variance": 0.292745,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -5.5506,
+      "prior_variance": 0.295078,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ialomita",
+      "path": "europe/romania/ialomita",
+      "prior_score": -5.2712,
+      "prior_variance": 0.309954,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -5.799,
+      "prior_variance": 0.261004,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -9.8953,
+      "prior_variance": 0.664001,
+      "prior_n": 5
+    }
+  ]
+}

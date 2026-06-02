@@ -1,0 +1,200 @@
+{
+  "round": 139,
+  "timestamp": "2026-04-12T08:45:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "South Dakota",
+      "path": "northamerica/unitedstates/southdakota",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

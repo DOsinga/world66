@@ -1,0 +1,200 @@
+{
+  "round": 228,
+  "timestamp": "2026-04-12T09:07:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Italy",
+      "path": "europe/italy",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_mu": 22.9672,
+      "prior_sigma": 4.944,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_3",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Encinitas",
+      "path": "northamerica/unitedstates/california/encinitas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_mu": 22.997,
+      "prior_sigma": 5.6119,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Khujhirt",
+      "path": "asia/mongolia/khujhirt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_mu": 20.2661,
+      "prior_sigma": 2.9001,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Miramar",
+      "path": "northamerica/unitedstates/florida/miramar",
+      "prior_mu": 22.5284,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Aars",
+      "path": "europe/denmark/aars",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

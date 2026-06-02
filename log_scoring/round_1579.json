@@ -1,0 +1,200 @@
+{
+  "round": 1579,
+  "timestamp": "2026-04-13T10:33:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.7092,
+      "prior_variance": 0.309555,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Trobriand Islands",
+      "path": "asia/papuanewguinea/trobriand_islands",
+      "prior_score": -0.6056,
+      "prior_variance": 0.342236,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -0.868,
+      "prior_variance": 0.411166,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": -0.492,
+      "prior_variance": 0.443653,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_score": 1.3849,
+      "prior_variance": 0.663555,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 1.0841,
+      "prior_variance": 0.399529,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -2.3177,
+      "prior_variance": 0.618672,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mannheim",
+      "path": "europe/germany/mannheim",
+      "prior_score": -0.3968,
+      "prior_variance": 0.40233,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": -0.851,
+      "prior_variance": 0.347631,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.87,
+      "prior_variance": 0.397092,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -1.4182,
+      "prior_variance": 0.325538,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -2.6736,
+      "prior_variance": 0.445249,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_score": -2.7964,
+      "prior_variance": 0.39264,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Joinville",
+      "path": "southamerica/brazil/joinville",
+      "prior_score": -2.4925,
+      "prior_variance": 0.312919,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_score": -3.3488,
+      "prior_variance": 0.407844,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Inderoy",
+      "path": "europe/norway/inderoy",
+      "prior_score": -1.5524,
+      "prior_variance": 0.312992,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.025,
+      "prior_variance": 0.316845,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
+      "prior_score": -3.7547,
+      "prior_variance": 0.34338,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -4.5509,
+      "prior_variance": 0.654209,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -3.1749,
+      "prior_variance": 0.369843,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -4.3878,
+      "prior_variance": 0.571985,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -3.5945,
+      "prior_variance": 0.456565,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_score": -6.3141,
+      "prior_variance": 0.436376,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -5.7706,
+      "prior_variance": 0.476255,
+      "prior_n": 3
+    }
+  ]
+}

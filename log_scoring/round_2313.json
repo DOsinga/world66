@@ -1,0 +1,200 @@
+{
+  "round": 2313,
+  "timestamp": "2026-04-13T16:30:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 7.1371,
+      "prior_variance": 0.528023,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 3.8567,
+      "prior_variance": 0.228298,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 3.8292,
+      "prior_variance": 0.248255,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_score": 5.1988,
+      "prior_variance": 0.267087,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 2.8733,
+      "prior_variance": 0.278118,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_score": 5.4945,
+      "prior_variance": 0.321432,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.8216,
+      "prior_variance": 0.299938,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_score": 1.5142,
+      "prior_variance": 0.227151,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_score": 2.6194,
+      "prior_variance": 0.291002,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver/northvancouver",
+      "prior_score": 1.9423,
+      "prior_variance": 0.276045,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Prince Edward County",
+      "path": "northamerica/canada/ontario/prince_edward_coun",
+      "prior_score": 0.2846,
+      "prior_variance": 0.258252,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_score": 0.8129,
+      "prior_variance": 0.235162,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 3.3307,
+      "prior_variance": 0.266181,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 2.5197,
+      "prior_variance": 0.221929,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_score": -0.5686,
+      "prior_variance": 0.202783,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 0.7663,
+      "prior_variance": 0.265317,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -1.1767,
+      "prior_variance": 0.247197,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Oderzo",
+      "path": "europe/italy/veneto/oderzo",
+      "prior_score": -0.7561,
+      "prior_variance": 0.241205,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": 0.099,
+      "prior_variance": 0.328821,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": 0.2351,
+      "prior_variance": 0.244586,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": 0.0159,
+      "prior_variance": 0.21647,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.1057,
+      "prior_variance": 0.226516,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -7.7448,
+      "prior_variance": 0.428685,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.4404,
+      "prior_variance": 0.263693,
+      "prior_n": 5
+    }
+  ]
+}

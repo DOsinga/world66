@@ -1,0 +1,200 @@
+{
+  "round": 1212,
+  "timestamp": "2026-04-12T22:15:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_rank": 1622,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_rank": 2509,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_rank": 3692,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_rank": 3181,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_rank": 5470,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_rank": 2616,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_rank": 6049,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_rank": 3125,
+      "prior_wins": 53,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_rank": 1689,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_rank": 2925,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_rank": 1919,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_rank": 1483,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Saint Bartholomy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_rank": 2423,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_rank": 1497,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pagosa Springs",
+      "path": "northamerica/unitedstates/colorado/pagosa_springs",
+      "prior_rank": 1688,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_rank": 2867,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_rank": 2337,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_rank": 4397,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_rank": 1952,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_rank": 4260,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_rank": 4616,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_rank": 4023,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_rank": 3474,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_rank": 3133,
+      "prior_wins": 40,
+      "prior_n": 3
+    }
+  ]
+}

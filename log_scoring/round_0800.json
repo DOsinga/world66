@@ -1,0 +1,200 @@
+{
+  "round": 800,
+  "timestamp": "2026-04-12T10:48:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_mu": 25.2376,
+      "prior_sigma": 4.996,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_mu": 21.5123,
+      "prior_sigma": 3.9135,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_mu": 23.4213,
+      "prior_sigma": 4.1158,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_mu": 22.7493,
+      "prior_sigma": 5.9365,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_mu": 22.1653,
+      "prior_sigma": 5.5228,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_mu": 22.3819,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_mu": 20.8391,
+      "prior_sigma": 2.5575,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "The Rift Valley",
+      "path": "africa/kenya/theriftvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "South Africa",
+      "path": "africa/southafrica",
+      "prior_mu": 19.7929,
+      "prior_sigma": 4.2178,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_mu": 22.4508,
+      "prior_sigma": 5.4322,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_mu": 21.6579,
+      "prior_sigma": 4.2986,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_mu": 21.1217,
+      "prior_sigma": 3.9189,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Permet",
+      "path": "europe/albania/lezha_castle/permet",
+      "prior_mu": 22.5742,
+      "prior_sigma": 5.3832,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_mu": 22.4092,
+      "prior_sigma": 5.3967,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_mu": 22.4093,
+      "prior_sigma": 5.8947,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Muehlen",
+      "path": "europe/austria/muehlen",
+      "prior_mu": 21.3879,
+      "prior_sigma": 4.5189,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_mu": 21.6612,
+      "prior_sigma": 4.4266,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_mu": 18.7854,
+      "prior_sigma": 4.3273,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_mu": 18.9069,
+      "prior_sigma": 5.0175,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_mu": 20.6628,
+      "prior_sigma": 4.4823,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "kana mohri",
+      "path": "asia/pakistan/azad_kashmir/bagh/kana_mohri_1",
+      "prior_mu": 18.2421,
+      "prior_sigma": 4.9371,
+      "prior_n": 2
+    }
+  ]
+}

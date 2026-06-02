@@ -1,0 +1,72 @@
+{
+  "round": 609,
+  "timestamp": "2026-04-12T10:39:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 8,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_mu": 22.4411,
+      "prior_sigma": 4.2101,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_mu": 22.0713,
+      "prior_sigma": 4.7035,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_mu": 22.5827,
+      "prior_sigma": 5.9451,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_mu": 22.1981,
+      "prior_sigma": 5.7685,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_mu": 21.0359,
+      "prior_sigma": 3.6489,
+      "prior_n": 3
+    }
+  ]
+}

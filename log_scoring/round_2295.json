@@ -1,0 +1,200 @@
+{
+  "round": 2295,
+  "timestamp": "2026-04-13T16:28:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canada",
+      "path": "northamerica/canada",
+      "prior_score": -1.5683,
+      "prior_variance": 0.345099,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.717,
+      "prior_variance": 0.215042,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/upperhutt",
+      "prior_score": -2.8849,
+      "prior_variance": 0.214175,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.5407,
+      "prior_variance": 0.204105,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -2.3891,
+      "prior_variance": 0.426861,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.4295,
+      "prior_variance": 0.212633,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -5.1391,
+      "prior_variance": 0.260054,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.3028,
+      "prior_variance": 0.213338,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -4.9599,
+      "prior_variance": 0.239084,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -3.948,
+      "prior_variance": 0.246934,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_score": -7.9194,
+      "prior_variance": 0.373785,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_score": -7.3678,
+      "prior_variance": 0.315219,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -6.7889,
+      "prior_variance": 0.27979,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_score": -7.5206,
+      "prior_variance": 0.334447,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -6.2186,
+      "prior_variance": 0.466375,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_score": -4.7899,
+      "prior_variance": 0.23312,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_score": -6.4249,
+      "prior_variance": 0.341924,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -7.1344,
+      "prior_variance": 0.290812,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "chakwal",
+      "path": "asia/pakistan/soon_valley/chakwal",
+      "prior_score": -6.5727,
+      "prior_variance": 0.233563,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -6.6794,
+      "prior_variance": 0.315097,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -5.9584,
+      "prior_variance": 0.201645,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_score": -7.3663,
+      "prior_variance": 0.58842,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -6.3199,
+      "prior_variance": 0.231676,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -7.2965,
+      "prior_variance": 0.245183,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{% extends "guide/base.html" %}
+
+{% block title %}Your experiences — {{ passport.title }}{% endblock %}
+
+{% block body_style %}
+<style>
+#content { display: none; }
+.step-wrap { max-width: 560px; margin: 56px auto; padding: 0 24px 80px; }
+.step-indicator { display: flex; gap: 8px; margin-bottom: 40px; }
+.step-dot { width: 32px; height: 4px; border-radius: 2px; background: var(--line-2); }
+.step-dot.active { background: var(--accent); }
+.step-dot.done { background: var(--accent); opacity: .4; }
+
+.card-stage {
+  perspective: 1200px;
+  height: 420px;
+  position: relative;
+}
+
+.exp-card {
+  position: absolute;
+  inset: 0;
+  background: white;
+  border: 1px solid var(--line-2);
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 8px 40px rgba(0,0,0,.08);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  transition: transform .55s cubic-bezier(.4,0,.2,1), opacity .55s ease;
+  will-change: transform, opacity;
+}
+
+/* States: incoming (right), active (center), outgoing (left) */
+.exp-card.state-right  { transform: translateX(60px) rotateY(-8deg); opacity: 0; pointer-events: none; }
+.exp-card.state-active { transform: translateX(0) rotateY(0deg); opacity: 1; pointer-events: all; }
+.exp-card.state-left   { transform: translateX(-60px) rotateY(8deg); opacity: 0; pointer-events: none; }
+
+.card-counter {
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.card-question {
+  font-family: var(--display-font);
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: var(--ink);
+  line-height: 1.35;
+  margin-bottom: 24px;
+}
+label { display: block; font-weight: 500; font-size: .85rem; margin-bottom: 6px; color: var(--mute); }
+input[type=text], textarea {
+  width: 100%;
+  padding: 11px 15px;
+  border: 1px solid var(--line-2);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-family: var(--body-font);
+  background: var(--paper);
+  color: var(--ink);
+}
+textarea { resize: none; height: 90px; }
+input:focus, textarea:focus { outline: 2px solid var(--accent); border-color: transparent; }
+.field { margin-bottom: 16px; }
+
+.card-actions {
+  margin-top: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.next-btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 28px;
+  font-size: .95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .15s;
+}
+.next-btn:hover { background: var(--accent-ink); }
+.skip-link {
+  font-size: .85rem;
+  color: var(--mute);
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+}
+.skip-link:hover { color: var(--ink); }
+
+.dot-row {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 24px;
+}
+.dot-step {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--line-2);
+  transition: background .25s;
+}
+.dot-step.active { background: var(--accent); }
+.dot-step.done { background: var(--accent); opacity: .45; }
+
+.error-msg { color: #c0392b; font-size: .85rem; margin-top: 6px; display: none; }
+.error-msg.visible { display: block; }
+</style>
+{% endblock %}
+
+{% block wide_content %}
+<div class="step-wrap">
+  <div class="step-indicator">
+    <div class="step-dot active"></div>
+    <div class="step-dot"></div>
+    <div class="step-dot"></div>
+    <div class="step-dot"></div>
+  </div>
+
+  <form method="post" id="expForm">
+    {% csrf_token %}
+
+    <div class="card-stage" id="cardStage">
+
+      <div class="exp-card state-active" id="card-1">
+        <div class="card-counter">Experience 1 of 3</div>
+        <h2 class="card-question">What's a trip that changed you?</h2>
+        <div class="field">
+          <label for="title_1">Where or what was it?</label>
+          <input type="text" id="title_1" name="title_1" placeholder="e.g. Cycling through the Mekong Delta at dawn" autocomplete="off">
+          <div class="error-msg" id="err-1">Please give this experience a title.</div>
+        </div>
+        <div class="field">
+          <label for="description_1">What made it unforgettable? <span style="font-weight:400">(optional)</span></label>
+          <textarea id="description_1" name="description_1" placeholder="A sentence about the moment, the feeling, why it stuck with you…"></textarea>
+        </div>
+        <div class="card-actions">
+          <button type="button" class="skip-link" onclick="advance(1, true)">Skip</button>
+          <button type="button" class="next-btn" onclick="advance(1, false)">Next &rarr;</button>
+        </div>
+      </div>
+
+      <div class="exp-card state-right" id="card-2">
+        <div class="card-counter">Experience 2 of 3</div>
+        <h2 class="card-question">A place you dream of going back to?</h2>
+        <div class="field">
+          <label for="title_2">Where or what was it?</label>
+          <input type="text" id="title_2" name="title_2" placeholder="e.g. Cocktails on a rooftop in Berlin at 2am" autocomplete="off">
+          <div class="error-msg" id="err-2">Please give this experience a title.</div>
+        </div>
+        <div class="field">
+          <label for="description_2">What made it unforgettable? <span style="font-weight:400">(optional)</span></label>
+          <textarea id="description_2" name="description_2" placeholder="A sentence about the moment, the feeling, why it stuck with you…"></textarea>
+        </div>
+        <div class="card-actions">
+          <button type="button" class="skip-link" onclick="advance(2, true)">Skip</button>
+          <button type="button" class="next-btn" onclick="advance(2, false)">Next &rarr;</button>
+        </div>
+      </div>
+
+      <div class="exp-card state-right" id="card-3">
+        <div class="card-counter">Experience 3 of 3</div>
+        <h2 class="card-question">One moment you'll tell people about forever?</h2>
+        <div class="field">
+          <label for="title_3">Where or what was it?</label>
+          <input type="text" id="title_3" name="title_3" placeholder="e.g. Standing alone in front of Klimt's The Kiss in Vienna" autocomplete="off">
+          <div class="error-msg" id="err-3">Please give this experience a title.</div>
+        </div>
+        <div class="field">
+          <label for="description_3">What made it unforgettable? <span style="font-weight:400">(optional)</span></label>
+          <textarea id="description_3" name="description_3" placeholder="A sentence about the moment, the feeling, why it stuck with you…"></textarea>
+        </div>
+        <div class="card-actions">
+          <button type="button" class="skip-link" onclick="submitForm()">Skip &amp; finish</button>
+          <button type="button" class="next-btn" onclick="advance(3, false)">Finish &rarr;</button>
+        </div>
+      </div>
+
+    </div><!-- card-stage -->
+
+    <div class="dot-row">
+      <div class="dot-step active" id="dot-1"></div>
+      <div class="dot-step" id="dot-2"></div>
+      <div class="dot-step" id="dot-3"></div>
+    </div>
+  </form>
+</div>
+
+<script>
+var current = 1;
+
+function advance(from, skip) {
+  if (!skip) {
+    var titleEl = document.getElementById('title_' + from);
+    var errEl = document.getElementById('err-' + from);
+    if (!titleEl.value.trim()) {
+      errEl.classList.add('visible');
+      titleEl.focus();
+      return;
+    }
+    errEl.classList.remove('visible');
+  }
+
+  if (from >= 3) { submitForm(); return; }
+
+  var outCard = document.getElementById('card-' + from);
+  var inCard  = document.getElementById('card-' + (from + 1));
+
+  // outgoing slides left
+  outCard.classList.remove('state-active');
+  outCard.classList.add('state-left');
+
+  // incoming slides in from right
+  inCard.classList.remove('state-right');
+  inCard.classList.add('state-active');
+
+  // update dots
+  document.getElementById('dot-' + from).classList.remove('active');
+  document.getElementById('dot-' + from).classList.add('done');
+  document.getElementById('dot-' + (from + 1)).classList.add('active');
+
+  current = from + 1;
+
+  // focus first input of new card after transition
+  setTimeout(function() {
+    var inp = inCard.querySelector('input[type=text]');
+    if (inp) inp.focus();
+  }, 300);
+}
+
+function submitForm() {
+  document.getElementById('expForm').submit();
+}
+
+// Allow Enter to advance
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Enter' && e.target.tagName !== 'TEXTAREA') {
+    e.preventDefault();
+    advance(current, false);
+  }
+});
+</script>
+{% endblock %}

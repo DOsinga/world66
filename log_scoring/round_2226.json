@@ -1,0 +1,200 @@
+{
+  "round": 2226,
+  "timestamp": "2026-04-13T16:21:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.9141,
+      "prior_variance": 0.377738,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 1.8555,
+      "prior_variance": 0.233076,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.2358,
+      "prior_variance": 0.216922,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3256,
+      "prior_variance": 0.290784,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 2.1327,
+      "prior_variance": 0.252886,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_score": -0.2443,
+      "prior_variance": 0.256585,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.0361,
+      "prior_variance": 0.160425,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Asan",
+      "path": "australiaandpacific/guam/asan",
+      "prior_score": -1.4442,
+      "prior_variance": 0.246257,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.3559,
+      "prior_variance": 0.237203,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -0.9435,
+      "prior_variance": 0.233884,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.3883,
+      "prior_variance": 0.202493,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/berkhampsted",
+      "prior_score": -1.7597,
+      "prior_variance": 0.250681,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -1.5977,
+      "prior_variance": 0.236878,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -2.3678,
+      "prior_variance": 0.261205,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -2.0819,
+      "prior_variance": 0.253989,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.1103,
+      "prior_variance": 0.201364,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -1.697,
+      "prior_variance": 0.283378,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vares",
+      "path": "europe/bosniaandherzegovina/vares",
+      "prior_score": -5.0372,
+      "prior_variance": 0.348409,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_score": -4.8324,
+      "prior_variance": 0.221159,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -2.7307,
+      "prior_variance": 0.305869,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Wayne",
+      "path": "northamerica/unitedstates/newjersey/wayne",
+      "prior_score": -5.5426,
+      "prior_variance": 0.288881,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -5.6569,
+      "prior_variance": 0.318665,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -7.1322,
+      "prior_variance": 0.338377,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani (Miana)",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1",
+      "prior_score": -9.4863,
+      "prior_variance": 0.413581,
+      "prior_n": 5
+    }
+  ]
+}

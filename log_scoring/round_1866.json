@@ -1,0 +1,200 @@
+{
+  "round": 1866,
+  "timestamp": "2026-04-13T10:58:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_score": 6.7128,
+      "prior_variance": 0.266954,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.7287,
+      "prior_variance": 0.269779,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Basque Region",
+      "path": "europe/france/midi/basqueregion",
+      "prior_score": 4.0563,
+      "prior_variance": 0.390323,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.4905,
+      "prior_variance": 0.168287,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 2.6882,
+      "prior_variance": 0.38332,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.4807,
+      "prior_variance": 0.247984,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_score": -0.3054,
+      "prior_variance": 0.212732,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -0.0413,
+      "prior_variance": 0.304309,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 3.0958,
+      "prior_variance": 0.256371,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.7243,
+      "prior_variance": 0.304237,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": 0.6113,
+      "prior_variance": 0.279657,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 1.6865,
+      "prior_variance": 0.260028,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Trobriand Islands",
+      "path": "asia/papuanewguinea/trobriand_islands",
+      "prior_score": -0.236,
+      "prior_variance": 0.28039,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.4843,
+      "prior_variance": 0.241,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Limburg",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": -1.3921,
+      "prior_variance": 0.254713,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -2.583,
+      "prior_variance": 0.27466,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.2968,
+      "prior_variance": 0.409811,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tashkorgan",
+      "path": "asia/china/tashkorgan",
+      "prior_score": -1.4702,
+      "prior_variance": 0.356768,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -4.9126,
+      "prior_variance": 0.704671,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -5.5035,
+      "prior_variance": 0.386335,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Duhok",
+      "path": "asia/iraq/arbil/duhok",
+      "prior_score": -6.3749,
+      "prior_variance": 0.344883,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -5.8786,
+      "prior_variance": 0.302033,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_score": -8.3698,
+      "prior_variance": 0.508519,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_score": -7.1455,
+      "prior_variance": 0.412029,
+      "prior_n": 4
+    }
+  ]
+}

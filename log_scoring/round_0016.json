@@ -1,0 +1,200 @@
+{
+  "round": 16,
+  "timestamp": "2026-04-11T19:24:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_mu": 22.51,
+      "prior_sigma": 5.81,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 272,
+  "timestamp": "2026-04-12T09:09:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "\u00cele de R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_mu": 23.0471,
+      "prior_sigma": 5.7012,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
+      "prior_mu": 22.9029,
+      "prior_sigma": 5.7259,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_mu": 21.9202,
+      "prior_sigma": 4.8271,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_mu": 22.6468,
+      "prior_sigma": 5.9391,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_mu": 21.9271,
+      "prior_sigma": 4.8364,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_mu": 22.6365,
+      "prior_sigma": 5.4536,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_mu": 19.5068,
+      "prior_sigma": 2.5795,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

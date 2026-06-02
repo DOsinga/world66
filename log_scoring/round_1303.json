@@ -1,0 +1,200 @@
+{
+  "round": 1303,
+  "timestamp": "2026-04-12T22:20:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_rank": 4060,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_rank": 6105,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_rank": 5849,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_rank": 6421,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_rank": 5334,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hainaut",
+      "path": "europe/belgium/hainaut",
+      "prior_rank": 6449,
+      "prior_wins": 34,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_rank": 7172,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Brandenburg",
+      "path": "europe/germany/brandenburg",
+      "prior_rank": 6312,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_rank": 6152,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_rank": 7063,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_rank": 6285,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_rank": 4699,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_rank": 5892,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_rank": 6465,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_rank": 4504,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_rank": 1968,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_rank": 7228,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_rank": 6642,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_rank": 4117,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_rank": 2992,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jiangxi",
+      "path": "asia/china/jiangxi",
+      "prior_rank": 7666,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_rank": 7074,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_rank": 1662,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_rank": 4352,
+      "prior_wins": 33,
+      "prior_n": 3
+    }
+  ]
+}

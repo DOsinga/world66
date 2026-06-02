@@ -1,0 +1,200 @@
+{
+  "round": 1117,
+  "timestamp": "2026-04-12T22:10:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Provence",
+      "path": "europe/france/midi_1/provence",
+      "prior_rank": 169,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_rank": 267,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Everest Region",
+      "path": "asia/nepal/everest_region",
+      "prior_rank": 11,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_rank": 73,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_rank": 110,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_rank": 119,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_rank": 155,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_rank": 312,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_rank": 1918,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_rank": 901,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_rank": 648,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kazbegi",
+      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
+      "prior_rank": 1166,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_rank": 1847,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_rank": 666,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_rank": 689,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_rank": 2039,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_rank": 2432,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorci",
+      "prior_rank": 913,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Salo",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_rank": 1261,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_rank": 325,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bocas del toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_rank": 491,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_rank": 536,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_rank": 348,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_rank": 1740,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

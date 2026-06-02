@@ -1,0 +1,17 @@
+---
+done:
+  location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
+latitude: 9.4903
+loc_type: city
+longitude: 123.9164
+score: 0.56
+title: Pamilacan Island
+type: location
+---
+
+Pamilacan is a small coral island in the Bohol Sea, home to about 250 families and surrounded by some of the richest waters in the Visayas. The island's name comes from "pilak," a large hooked implement the islanders once used to catch manta rays and whale sharks. Those days are over — marine mammals are now fully protected by Philippine law — but the jaws and bones of past catches still decorate some village homes.
+
+The waters around Pamilacan are a breeding ground for dolphins, whale sharks, and Bryde's whales. [Dolphin-watching trips](/asia/philippines/bohol/pamilacanisland/dolphin_watching) leave from the island early in the morning, and sightings are common. The island itself has a [200-year-old Spanish watchtower](/asia/philippines/bohol/pamilacanisland/spanish_watchtower) on its northeast side, a small chapel with an old Santa Cruz at the altar, and white sand beaches rimming a rocky interior where you can spot fossilised seashells in the limestone.
+
+The [marine sanctuary](/asia/philippines/bohol/pamilacanisland/marine_sanctuary) off the coast offers good snorkelling over healthy coral, and the slow pace of village life makes this a worthwhile day trip from Panglao.

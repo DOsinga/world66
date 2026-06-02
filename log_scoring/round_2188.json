@@ -1,0 +1,200 @@
+{
+  "round": 2188,
+  "timestamp": "2026-04-13T16:18:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 4.3823,
+      "prior_variance": 0.226774,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 6.1337,
+      "prior_variance": 0.26468,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 3.7704,
+      "prior_variance": 0.296256,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 5.6182,
+      "prior_variance": 0.265937,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.7177,
+      "prior_variance": 0.281176,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 3.6611,
+      "prior_variance": 0.232686,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 3.7603,
+      "prior_variance": 0.14619,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 2.5174,
+      "prior_variance": 0.320974,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_riv",
+      "prior_score": 2.6738,
+      "prior_variance": 0.325581,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.5385,
+      "prior_variance": 0.278069,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 1.762,
+      "prior_variance": 0.249245,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 1.518,
+      "prior_variance": 0.245593,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 3.0237,
+      "prior_variance": 0.252475,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.3041,
+      "prior_variance": 0.276672,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 2.2212,
+      "prior_variance": 0.214962,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 4.0409,
+      "prior_variance": 0.278023,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Zambia",
+      "path": "africa/zambia",
+      "prior_score": -0.1137,
+      "prior_variance": 0.309648,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_score": -1.1703,
+      "prior_variance": 0.303339,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Henan Province",
+      "path": "asia/china/henan_province",
+      "prior_score": -2.1239,
+      "prior_variance": 0.383376,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_score": -4.2354,
+      "prior_variance": 0.239188,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -4.0703,
+      "prior_variance": 0.301208,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -2.537,
+      "prior_variance": 0.262487,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -5.7612,
+      "prior_variance": 0.398194,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/ontario",
+      "prior_score": -5.101,
+      "prior_variance": 0.335911,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1598,
+  "timestamp": "2026-04-13T10:34:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 9.7692,
+      "prior_variance": 0.648387,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/franzjosef",
+      "prior_score": 6.6566,
+      "prior_variance": 0.388456,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 6.6394,
+      "prior_variance": 0.340769,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_score": 4.0605,
+      "prior_variance": 0.441364,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 6.2688,
+      "prior_variance": 0.335755,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_score": 6.3961,
+      "prior_variance": 0.435331,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.5885,
+      "prior_variance": 0.42102,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 6.597,
+      "prior_variance": 0.343184,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 5.4341,
+      "prior_variance": 0.500387,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": -3.2276,
+      "prior_variance": 1.240894,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 5.2414,
+      "prior_variance": 0.391723,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 4.2318,
+      "prior_variance": 0.452351,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 3.099,
+      "prior_variance": 0.310683,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_score": -0.9244,
+      "prior_variance": 1.048826,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 5.4443,
+      "prior_variance": 0.536584,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 4.3194,
+      "prior_variance": 0.292849,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 2.2528,
+      "prior_variance": 0.354392,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 1.0568,
+      "prior_variance": 0.426971,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 1.9969,
+      "prior_variance": 0.450743,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.0832,
+      "prior_variance": 0.413318,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -5.6216,
+      "prior_variance": 0.482317,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
+      "prior_score": -1.564,
+      "prior_variance": 0.435478,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -5.9807,
+      "prior_variance": 0.447535,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -6.3272,
+      "prior_variance": 0.424402,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2335,
+  "timestamp": "2026-04-13T16:32:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Italy",
+      "path": "europe/italy",
+      "prior_score": 12.926,
+      "prior_variance": 0.590062,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 13.577,
+      "prior_variance": 0.835672,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_score": 2.1117,
+      "prior_variance": 0.37646,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/queenstown",
+      "prior_score": 12.6652,
+      "prior_variance": 0.850365,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 6.6185,
+      "prior_variance": 0.453481,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/otago/milford_sound",
+      "prior_score": 13.2793,
+      "prior_variance": 0.585945,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 11.9441,
+      "prior_variance": 0.627925,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 6.526,
+      "prior_variance": 0.301315,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Palau",
+      "path": "australiaandpacific/palau",
+      "prior_score": 9.6307,
+      "prior_variance": 0.611885,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Cook Islands",
+      "path": "australiaandpacific/cookislands",
+      "prior_score": 8.9805,
+      "prior_variance": 0.383315,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 5.7987,
+      "prior_variance": 0.26349,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 7.2419,
+      "prior_variance": 0.396936,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.6671,
+      "prior_variance": 0.255669,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 5.9458,
+      "prior_variance": 0.24227,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 6.1768,
+      "prior_variance": 0.344033,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 2.2777,
+      "prior_variance": 0.241135,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.1728,
+      "prior_variance": 0.344176,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 5.9571,
+      "prior_variance": 0.295844,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_score": 3.7501,
+      "prior_variance": 0.273479,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 2.7395,
+      "prior_variance": 0.204168,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 1.0725,
+      "prior_variance": 0.213172,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.3585,
+      "prior_variance": 0.256213,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 0.9523,
+      "prior_variance": 0.212229,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 0.9235,
+      "prior_variance": 0.238152,
+      "prior_n": 6
+    }
+  ]
+}

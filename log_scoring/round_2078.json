@@ -1,0 +1,200 @@
+{
+  "round": 2078,
+  "timestamp": "2026-04-13T16:08:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_score": 7.1612,
+      "prior_variance": 0.289886,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kailua",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 6.0968,
+      "prior_variance": 0.315073,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 6.7926,
+      "prior_variance": 0.292663,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Austria",
+      "path": "europe/austria",
+      "prior_score": 6.1646,
+      "prior_variance": 0.291201,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/northland/ninety_mile_beach",
+      "prior_score": 1.6686,
+      "prior_variance": 0.244867,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 6.1117,
+      "prior_variance": 0.281813,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_score": 4.5854,
+      "prior_variance": 0.386228,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 3.4504,
+      "prior_variance": 0.262735,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.1628,
+      "prior_variance": 0.319594,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -2.0945,
+      "prior_variance": 0.363453,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.3591,
+      "prior_variance": 0.290466,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_score": 3.5129,
+      "prior_variance": 0.261952,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 3.5917,
+      "prior_variance": 0.339596,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 2.1584,
+      "prior_variance": 0.269649,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland",
+      "prior_score": 1.6318,
+      "prior_variance": 0.148051,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Victoria",
+      "path": "australiaandpacific/australia/victoria",
+      "prior_score": -0.0841,
+      "prior_variance": 0.294701,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.595,
+      "prior_variance": 0.215998,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 2.348,
+      "prior_variance": 0.222262,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.8266,
+      "prior_variance": 0.253284,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.3793,
+      "prior_variance": 0.282375,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 1.4994,
+      "prior_variance": 0.337399,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "bacolod",
+      "path": "asia/philippines/bacolod",
+      "prior_score": -1.5422,
+      "prior_variance": 0.286568,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -4.0961,
+      "prior_variance": 0.393709,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "pir azeem khan koroona kheshgi payan",
+      "path": "asia/pakistan/nowshera/kheshgi/pir_azeem_khan_kor",
+      "prior_score": -11.5621,
+      "prior_variance": 0.708867,
+      "prior_n": 5
+    }
+  ]
+}

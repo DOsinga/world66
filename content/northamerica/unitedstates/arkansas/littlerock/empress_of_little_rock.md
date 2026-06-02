@@ -1,19 +1,21 @@
 ---
 title: The Empress of Little Rock
 type: poi
+latitude: 34.7382
+longitude: -92.2807
 tags:
   - things_to_do
   - sight
   - architecture
-  - quapaw_quarter
-neighbourhood: Quapaw Quarter
-latitude: 34.7392
-longitude: -92.2881
-sources:
-  - https://en.wikipedia.org/wiki/Hornibrook_House
-story: "The Empress was built in 1888 by James Hornibrook, a saloon owner who reportedly constructed it out of rivalry with his neighbour — he wanted a grander house than the man next door. The peaked tower, the wraparound veranda, and the stained-glass windows that scatter coloured light through the interior on sunny mornings are all the product of that competitive spite."
+story: >
+  The house was built in 1888 by James Hornibrook, a saloon owner. A competing
+  saloon owner was building a fine house on the same block. Hornibrook, not to
+  be outdone, hired architect Max Orlopp Jr. to build something grander — and
+  the resulting Gothic Queen Anne mansion, with its turrets, wraparound porch,
+  and deeply carved woodwork, is widely considered the finest Victorian house in
+  the state.
 ---
 
-The Empress of Little Rock is one of the finest examples of Gothic Queen Anne architecture in the United States — a Victorian fantasy in wood, with a three-story octagonal tower, wraparound verandas on two levels, and elaborate gingerbread trim that looks like it was designed by someone who had read too many fairy tales. It was built in 1888 for a saloon owner named James Hornibrook, supposedly to outdo his neighbours.
+The Empress of Little Rock is a stunning 1888 Gothic Queen Anne mansion in the Quapaw Quarter, now operating as a bed and breakfast. The house was built for saloon-owner James Hornibrook in a competitive act of one-upmanship and is widely cited as the finest example of Gothic Queen Anne architecture in the United States.
 
-The building now operates as a bed and breakfast, which means you can stay here if you book in advance. Even if you don't, the exterior is worth walking past — it stands on Scott Street in the Quapaw Quarter, surrounded by other Victorian-era homes that are grand in their own right but cannot quite compete with this one. Tours of the interior are sometimes available; check ahead.
+The exterior is a cascade of towers, turrets, wraparound porches, and intricately carved woodwork — painted in period colours that emphasise the layered ornament. Even if you are not staying here, the exterior alone is worth a walk-by, and the owners occasionally offer house tours. 1366 Scott St.

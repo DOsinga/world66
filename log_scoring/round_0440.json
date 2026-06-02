@@ -1,0 +1,200 @@
+{
+  "round": 440,
+  "timestamp": "2026-04-12T09:30:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_mu": 28.3583,
+      "prior_sigma": 5.1482,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_mu": 24.2907,
+      "prior_sigma": 5.8318,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Xi'an",
+      "path": "asia/china/xian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_mu": 24.5611,
+      "prior_sigma": 4.5863,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_mu": 23.0783,
+      "prior_sigma": 5.5458,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_mu": 24.4646,
+      "prior_sigma": 6.1073,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Coloane",
+      "path": "asia/china/macau/coloane",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Taipa",
+      "path": "asia/china/macau/taipa",
+      "prior_mu": 21.6945,
+      "prior_sigma": 4.7381,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_mu": 22.2432,
+      "prior_sigma": 5.7789,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Luoyang",
+      "path": "asia/china/luoyang",
+      "prior_mu": 22.7383,
+      "prior_sigma": 5.9516,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Henan Province",
+      "path": "asia/china/henan_province",
+      "prior_mu": 22.5321,
+      "prior_sigma": 5.8161,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_mu": 22.0268,
+      "prior_sigma": 4.7018,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_mu": 21.6384,
+      "prior_sigma": 5.6267,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wuhan",
+      "path": "asia/china/wuhan",
+      "prior_mu": 21.7826,
+      "prior_sigma": 5.6181,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Teahouses",
+      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

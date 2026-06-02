@@ -1,17 +1,22 @@
 ---
 title: Örebro Castle
 type: poi
+latitude: 59.2739
+longitude: 15.2153
 tags:
   - things_to_do
   - sight
   - architecture
-latitude: 59.2739
-longitude: 15.2153
-sources:
-  - https://en.wikipedia.org/wiki/%C3%96rebro_Castle
-story: "In 1810, Jean-Baptiste Bernadotte — a French Napoleonic marshal who spoke no Swedish — was elected Crown Prince of Sweden in this castle, eventually becoming King Karl XIV Johan. The election was held here partly to demonstrate Sweden's neutrality: Örebro was as far from both Napoleon and the Russian border as you could get. Bernadotte went on to found the dynasty that still occupies the Swedish throne."
+story: >
+  The castle was a royal residence from the 14th century and the site of
+  several Swedish Riksdag assemblies. In 1810, the Swedish Riksdag met here
+  to elect Jean-Baptiste Bernadotte — a French marshal and favourite of
+  Napoleon — as crown prince of Sweden. He became King Karl Johan XIV and
+  founded the dynasty that still reigns today.
 ---
 
-Örebro Castle is one of the best-preserved medieval castles in Sweden — a compact, square fortress on an island in the River Svartån, with round towers at each corner and a Renaissance palace block rising above the original fortifications. It began as a simple defensive tower in the 13th century, was expanded into a castle during the 14th and 15th centuries, and was transformed into a grand Renaissance residence by King Karl IX in the late 16th century. The result is a building that reads as a coherent whole despite being built across three centuries.
+Örebro Castle is a medieval fortress on an island in the River Svartån, at the centre of the city. A fortified tower was first built here in the 14th century; the structure was expanded over the following two centuries into a grand Renaissance castle with four round towers and a moat. It remains the most recognisable landmark in the city and one of Sweden's best-preserved medieval castles.
 
-The castle is still owned by the Swedish state and is partly in use as a county administrative building, which gives it a working quality unusual among heritage monuments. Guided tours run regularly in summer and cover the history of the building and the remarkable political events it has witnessed — the castle hosted multiple Swedish royal elections, including the 1810 election of a French Napoleonic marshal as Crown Prince. The surrounding parkland and the river views are as pleasant as the interior. Entry to the grounds is free; castle tours carry a small charge.
+The castle is open for guided tours and houses the regional county governor's offices — one of the few Swedish medieval castles still in active administrative use. The interior includes exhibition rooms and period-furnished halls. The surrounding park along the river is excellent for an evening walk.
+
+Guided tours available in summer and on weekends. Small admission fee.

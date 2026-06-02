@@ -1,0 +1,200 @@
+{
+  "round": 2059,
+  "timestamp": "2026-04-13T16:07:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Makarska Riviera",
+      "path": "europe/croatia/makarskariviera",
+      "prior_score": 6.3726,
+      "prior_variance": 0.35917,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Italian Riviera",
+      "path": "europe/italy/liguria/italianriviera",
+      "prior_score": 8.6215,
+      "prior_variance": 0.346322,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 3.7035,
+      "prior_variance": 0.288509,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Portoroz",
+      "path": "europe/slovenia/portoroz",
+      "prior_score": 2.2309,
+      "prior_variance": 0.213835,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 3.4519,
+      "prior_variance": 0.255819,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 2.7413,
+      "prior_variance": 0.279659,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/manitousprings",
+      "prior_score": 2.3697,
+      "prior_variance": 0.27491,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Meghalaya",
+      "path": "asia/india/meghalaya",
+      "prior_score": 4.9533,
+      "prior_variance": 0.622695,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 1.0917,
+      "prior_variance": 0.254324,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.7219,
+      "prior_variance": 0.25911,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": -0.9502,
+      "prior_variance": 0.442936,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 1.5251,
+      "prior_variance": 0.231466,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -3.139,
+      "prior_variance": 0.262782,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_score": -3.6478,
+      "prior_variance": 0.382522,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.6683,
+      "prior_variance": 0.238088,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/ware",
+      "prior_score": -4.7825,
+      "prior_variance": 0.353955,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_score": -5.7017,
+      "prior_variance": 0.268198,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -5.4969,
+      "prior_variance": 0.274204,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisc",
+      "prior_score": -6.5641,
+      "prior_variance": 0.573413,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -7.0181,
+      "prior_variance": 0.280244,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -5.8504,
+      "prior_variance": 0.28331,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.4288,
+      "prior_variance": 0.250383,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -6.9017,
+      "prior_variance": 0.37607,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_score": -9.2915,
+      "prior_variance": 0.348374,
+      "prior_n": 6
+    }
+  ]
+}

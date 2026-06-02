@@ -1,0 +1,200 @@
+{
+  "round": 14,
+  "timestamp": "2026-04-11T19:24:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jamaica",
+      "path": "northamerica/jamaica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 22.64,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_mu": 22.78,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 18.07,
+      "prior_sigma": 6.53,
+      "prior_n": 1
+    }
+  ]
+}

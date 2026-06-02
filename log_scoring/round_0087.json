@@ -1,0 +1,200 @@
+{
+  "round": 87,
+  "timestamp": "2026-04-12T08:03:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_mu": 25.21,
+      "prior_sigma": 5.01,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 29.44,
+      "prior_sigma": 2.98,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 26.92,
+      "prior_sigma": 3.73,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_mu": 26.08,
+      "prior_sigma": 4.78,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_mu": 22.64,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_mu": 22.13,
+      "prior_sigma": 3.54,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 22.19,
+      "prior_sigma": 2.71,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_mu": 22.34,
+      "prior_sigma": 3.79,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_mu": 25.26,
+      "prior_sigma": 3.45,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_mu": 21.36,
+      "prior_sigma": 4.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/northland/kaitaia",
+      "prior_mu": 21.39,
+      "prior_sigma": 4.01,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_mu": 21.91,
+      "prior_sigma": 3.54,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 19.5,
+      "prior_sigma": 3.02,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_mu": 21.06,
+      "prior_sigma": 3.64,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_mu": 21.3,
+      "prior_sigma": 3.17,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 20.0,
+      "prior_sigma": 3.1,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Germany",
+      "path": "europe/germany",
+      "prior_mu": 23.78,
+      "prior_sigma": 4.22,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_mu": 20.67,
+      "prior_sigma": 3.41,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_mu": 21.2,
+      "prior_sigma": 3.8,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_mu": 20.45,
+      "prior_sigma": 3.46,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_mu": 20.46,
+      "prior_sigma": 3.6,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_mu": 20.6,
+      "prior_sigma": 3.8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_mu": 18.17,
+      "prior_sigma": 3.11,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_mu": 17.83,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    }
+  ]
+}

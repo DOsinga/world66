@@ -1,0 +1,200 @@
+{
+  "round": 2035,
+  "timestamp": "2026-04-13T16:04:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palm island",
+      "path": "northamerica/saintvincentandthegrenadines/palmisland",
+      "prior_score": 2.2325,
+      "prior_variance": 0.28626,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 2.2139,
+      "prior_variance": 0.260214,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 1.659,
+      "prior_variance": 0.306104,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.0935,
+      "prior_variance": 0.277096,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -0.9806,
+      "prior_variance": 0.267534,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -0.226,
+      "prior_variance": 0.201381,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.0378,
+      "prior_variance": 0.350904,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -2.4376,
+      "prior_variance": 0.247493,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -2.8821,
+      "prior_variance": 0.287052,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.568,
+      "prior_variance": 0.260521,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.3138,
+      "prior_variance": 0.275397,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Carlow",
+      "path": "europe/ireland/carlow",
+      "prior_score": -0.8367,
+      "prior_variance": 0.227216,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_score": -2.1939,
+      "prior_variance": 0.304083,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -3.588,
+      "prior_variance": 0.20397,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -1.9714,
+      "prior_variance": 0.264657,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -1.958,
+      "prior_variance": 0.42633,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -1.7779,
+      "prior_variance": 0.312651,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -0.9639,
+      "prior_variance": 0.330775,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -2.9201,
+      "prior_variance": 0.247997,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -8.4834,
+      "prior_variance": 0.360728,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_score": -4.9887,
+      "prior_variance": 0.274573,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -4.9137,
+      "prior_variance": 0.282589,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mulkan Mohra",
+      "path": "asia/pakistan/azad_kashmir/mirpur/mulkan_mohra",
+      "prior_score": -8.7839,
+      "prior_variance": 0.312623,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_score": -11.1184,
+      "prior_variance": 0.666992,
+      "prior_n": 5
+    }
+  ]
+}

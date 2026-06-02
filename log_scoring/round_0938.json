@@ -1,0 +1,200 @@
+{
+  "round": 938,
+  "timestamp": "2026-04-12T16:08:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_rank": 135,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_rank": 79,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_rank": 16,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_rank": 36,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_rank": 43,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_eus/sansebastian",
+      "prior_rank": 47,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_rank": 72,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_rank": 34,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/oxford",
+      "prior_rank": 119,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_rank": 161,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hong Kong Island",
+      "path": "asia/china/hongkong/hongkongisland",
+      "prior_rank": 62,
+      "prior_wins": 90,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bahamas",
+      "path": "northamerica/bahamas",
+      "prior_rank": 96,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_rank": 1381,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/netherton",
+      "prior_rank": 8089,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_rank": 8136,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wake Island",
+      "path": "australiaandpacific/wakeisland",
+      "prior_rank": 8117,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_rank": 8142,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_rank": 8121,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Jamshaid awan",
+      "path": "asia/pakistan/abbottabad/jamshaid_awan",
+      "prior_rank": 8157,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "ghazi chok",
+      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
+      "prior_rank": 8209,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_rank": 8081,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_rank": 8206,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_rank": 8102,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "J-1 On-line Internet Cafe",
+      "path": "asia/philippines/manila/j1_online_intern",
+      "prior_rank": 8205,
+      "prior_wins": 4,
+      "prior_n": 4
+    }
+  ]
+}

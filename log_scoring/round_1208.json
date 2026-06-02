@@ -1,0 +1,200 @@
+{
+  "round": 1208,
+  "timestamp": "2026-04-12T22:15:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_rank": 3090,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_rank": 3473,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_rank": 3337,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_rank": 2747,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Soppong",
+      "path": "asia/thailand/maehongson/soppong",
+      "prior_rank": 2706,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Hersonnissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_rank": 3767,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_rank": 3764,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_rank": 1673,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_rank": 1890,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_rank": 3161,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_rank": 1759,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_rank": 2699,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_rank": 1831,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_rank": 2147,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_rank": 3388,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Novi Sad",
+      "path": "europe/serbiaandmontenegro/novisad",
+      "prior_rank": 1386,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_rank": 2818,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_rank": 1470,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_rank": 3302,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_rank": 2811,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_rank": 4271,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_rank": 1598,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_rank": 2051,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester",
+      "prior_rank": 2856,
+      "prior_wins": 28,
+      "prior_n": 2
+    }
+  ]
+}

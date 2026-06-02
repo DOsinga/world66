@@ -1,0 +1,72 @@
+[
+  {
+    "url": "/places/oceanographic-museum-monaco",
+    "type": "Place",
+    "item-id": "8086",
+    "gtm-content-type": "Place",
+    "lat": "43.730972",
+    "lng": "7.425219",
+    "country": "Monaco",
+    "src": "https://img.atlasobscura.com/LvSqFmof1RcahEmh-wdX12Ol7tKquVDTb-sbDENRD20/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy82Mjcz/YWU3OWVhOTU2ZTIz/YjFfbW9uYWNvb2Nl/YW5tdXNldW0wNC5q/cGc.jpg",
+    "width": "683",
+    "height": "1024",
+    "name": "Oceanographic Museum",
+    "description": "Museum celebrating the ocean, with the largest wunderkammer dedicated to sea exploration."
+  },
+  {
+    "url": "/places/juan-manuel-fangio-statue",
+    "type": "Place",
+    "item-id": "37403",
+    "gtm-content-type": "Place",
+    "lat": "43.732494",
+    "lng": "7.422586",
+    "country": "Monaco",
+    "src": "https://img.atlasobscura.com/Ds4jQYhrsCIAf8sZ2Zp2kDyg-RtcqpvS7X7oeusjc5g/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jOTI0/ZjA1Ny1iM2I4LTQ2/Y2YtOWQyNC1hYTJj/ZTQyODU0ZWM3YTEw/ZWY3YjdmYWRmOWNm/MTBfSnVhbl9NYW51/ZWxfRmFuZ2lvX1N0/YXR1ZV8tX3Bhbm9y/YW1pby5qcGc.jpg",
+    "width": "800",
+    "height": "600",
+    "name": "Juan Manuel Fangio Statue",
+    "description": "This statue of the great Argentinian car driver is located near a famous curve of the Monaco Grand Prix."
+  },
+  {
+    "url": "/places/fort-antoine-theatre",
+    "type": "Place",
+    "item-id": "61748",
+    "gtm-content-type": "Place",
+    "lat": "43.733056",
+    "lng": "7.427942",
+    "country": "Monaco",
+    "src": "https://img.atlasobscura.com/tr_2Goutjaqor9BNRkK6IIjv5NbGRqFo80okOmh7btU/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZTZk/YjgwNC04MDBhLTQ2/NjgtYmRhNS0wMDVj/OTc3ZTcxOTQ1YWJi/MTEyODdmYzI4NDFk/ZGRfUFhMXzIwMjMx/MDExXzE1MTY0NTU3/NC5NUC5qcGc.jpg",
+    "width": "4032",
+    "height": "2268",
+    "name": "Fort Antoine Theatre",
+    "description": "This public amphitheater was once a key part of Monaco\u2019s defense strategy."
+  },
+  {
+    "url": "/places/f1-mclaren",
+    "type": "Place",
+    "item-id": "65996",
+    "gtm-content-type": "Place",
+    "lat": "43.741022",
+    "lng": "7.430321",
+    "country": "Monaco",
+    "src": "https://img.atlasobscura.com/dgBhWrE7ouc8PWlXEu7z0ouWVH-tsJFCjf-8GSuPoZw/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83NGUw/MGYzMS1mM2E5LTQ5/ODQtOWI4My1lOTkz/ZTUyMjNmNjcyNjc1/NWE4Mzg0NGE4N2Nl/NzNfMTAwMDA5MTc4/Ny5qcGc.jpg",
+    "width": "2048",
+    "height": "1536",
+    "name": "F1 McLaren",
+    "description": "A bronze tribute to Mika H\u00e4kkinen&#39;s 1998 Monaco victory."
+  },
+  {
+    "url": "/places/national-museum-of-automatons-and-dolls-of-yesteryear",
+    "type": "Place",
+    "item-id": "2442",
+    "gtm-content-type": "Place",
+    "lat": "43.744373",
+    "lng": "7.431269",
+    "country": "Monaco",
+    "src": "https://img.atlasobscura.com/uVswVXuymJRk63WlYeWZfqgG-vMLLjUwkujt5KyOtXo/rs:fill:600:400:1/g:ce/c:600:400:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iYWIx/NjlkZDY3Mjg2MGE4/ZmZiZDFkNzAwMTg1/MDBlMzZkZDQxODg5/LmpwZw.jpg",
+    "width": "547",
+    "height": "640",
+    "name": "Automatons and Dolls of Yesteryear",
+    "description": "Thousands of costumed dolls fill one of the world&#39;s creepiest museums."
+  }
+]

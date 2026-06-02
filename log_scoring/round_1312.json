@@ -1,0 +1,200 @@
+{
+  "round": 1312,
+  "timestamp": "2026-04-12T22:20:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_rank": 1124,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Alcazar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_jua",
+      "prior_rank": 7324,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Tonstad",
+      "path": "europe/norway/tonstad",
+      "prior_rank": 7367,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_rank": 7599,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_rank": 5214,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_rank": 7234,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_rank": 6260,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_rank": 7110,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/yucatan/nuevolaredo",
+      "prior_rank": 6093,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_rank": 5016,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_rank": 7556,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_rank": 5543,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_rank": 5652,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ballerup",
+      "path": "europe/denmark/ballerup",
+      "prior_rank": 7993,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_rank": 7685,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_rank": 7860,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_rank": 7345,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/newyorkstate/middletown",
+      "prior_rank": 7705,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_rank": 6579,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Laguna Hills",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunahills",
+      "prior_rank": 4020,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_rank": 6196,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_rank": 6614,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vinnista",
+      "path": "europe/ukraine/vinnista",
+      "prior_rank": 7767,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Theranda",
+      "path": "europe/serbia/kosovoprovince/prizren/theranda",
+      "prior_rank": 7924,
+      "prior_wins": 8,
+      "prior_n": 3
+    }
+  ]
+}

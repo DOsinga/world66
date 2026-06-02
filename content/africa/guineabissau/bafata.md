@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-01'
 image: bafata.jpg
 image_attribution: Jcornelius
 image_license: CC BY-SA 4.0
@@ -10,6 +10,10 @@ latitude: 12.17234
 loc_type: city
 longitude: -14.655503
 score: 0.26
+sources:
+  - https://en.wikipedia.org/wiki/Bafat%C3%A1
+  - https://en.wikipedia.org/wiki/Our_Lady_of_Grace_Cathedral,_Bafat%C3%A1
+  - https://en.wikipedia.org/wiki/Bafat%C3%A1_Airport
 title: Bafata
 type: location
 ---

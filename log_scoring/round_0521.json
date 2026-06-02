@@ -1,0 +1,200 @@
+{
+  "round": 521,
+  "timestamp": "2026-04-12T09:45:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 21.8676,
+      "prior_sigma": 2.9293,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_mu": 22.8429,
+      "prior_sigma": 3.2439,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_mu": 21.3917,
+      "prior_sigma": 3.7824,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.3287,
+      "prior_sigma": 3.2253,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_mu": 21.5254,
+      "prior_sigma": 3.3559,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_mu": 20.9732,
+      "prior_sigma": 3.0276,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 21.0068,
+      "prior_sigma": 2.8755,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 20.9754,
+      "prior_sigma": 3.2455,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_mu": 20.9776,
+      "prior_sigma": 2.8929,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_mu": 21.2661,
+      "prior_sigma": 2.9593,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_mu": 20.9154,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_mu": 20.8842,
+      "prior_sigma": 2.6991,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_mu": 20.6864,
+      "prior_sigma": 2.4737,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 20.4501,
+      "prior_sigma": 2.6066,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_mu": 20.8131,
+      "prior_sigma": 3.4388,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_mu": 20.4464,
+      "prior_sigma": 3.3343,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_mu": 20.7574,
+      "prior_sigma": 2.8987,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Schagen",
+      "path": "europe/netherlands/schagen",
+      "prior_mu": 20.7794,
+      "prior_sigma": 3.1386,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_mu": 20.9405,
+      "prior_sigma": 3.1947,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_mu": 20.1208,
+      "prior_sigma": 3.073,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_mu": 20.6343,
+      "prior_sigma": 3.1244,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_mu": 20.5905,
+      "prior_sigma": 3.6076,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_mu": 18.4528,
+      "prior_sigma": 3.8763,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_mu": 16.0243,
+      "prior_sigma": 3.132,
+      "prior_n": 5
+    }
+  ]
+}

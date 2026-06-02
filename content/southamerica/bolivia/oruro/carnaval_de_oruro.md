@@ -1,18 +1,22 @@
 ---
 title: Carnaval de Oruro
 type: poi
+latitude: -17.9644
+longitude: -67.1131
 tags:
   - things_to_do
   - sight
-latitude: -17.9667
-longitude: -67.1167
-sources:
-  - https://en.wikipedia.org/wiki/Carnival_of_Oruro
-story: "The UNESCO designation of the Carnaval de Oruro as a Masterpiece of the Oral and Intangible Heritage of Humanity came in 2001. The Diablada — the Devil Dance at the festival's heart — involves some 28,000 performers dancing through the city streets in a single procession that can last up to 11 hours without stopping. The elaborate devil masks, hand-crafted by master artisans, can take months to make and cost thousands of dollars."
+story: >
+  The Diablada — the Dance of the Devils — depicts the biblical battle between
+  Archangel Michael and Lucifer, with the dancers representing the seven deadly
+  sins in costumes that can weigh over 40 kilos and cost the equivalent of
+  months of wages to commission. The tradition predates the Spanish conquest,
+  and the Christian overlay was added gradually over centuries rather than
+  imposed all at once.
 ---
 
-The Carnaval de Oruro, held in February or early March depending on the lunar calendar, is one of the great spectacles of South America — a UNESCO Intangible Heritage event that draws tens of thousands of visitors to a city of barely 300,000 people. The central event is the Entrada, a massive procession in which dozens of dance fraternities perform traditional dances through the streets from dawn until after nightfall.
+The Carnaval de Oruro is one of South America's great festivals, designated a UNESCO Intangible Cultural Heritage of Humanity. It takes place in February or early March (the exact dates change each year, falling on the Saturday before Ash Wednesday) and draws over 400,000 visitors to a city of 280,000 people.
 
-The Diablada (Dance of the Devils) is the most famous element: hundreds of dancers in extraordinary horned, glittering devil masks re-enact the battle between good and evil as an act of devotion to the Virgen del Socavón. Other dances performed during the Carnival include the Morenada (a dance referencing the colonial slave trade), the Caporales, the Tinku, and the Suri Sikuri. Each fraternity rehearses year-round and wears costumes that represent enormous financial and artistic investment.
+The centrepiece is the Entrada, a parade that runs for up to eleven hours through the streets of the city. Some 28,000 dancers in forty-eight different dance groups perform the Diablada and other traditional Andean dances, all moving toward the Santuario del Socavón. The costumes are extraordinary: full-face devil masks, sequined capes, feathered headdresses. Each dance troupe has its own band. The sound is relentless and the spectacle is overwhelming.
 
-If you plan to attend, book accommodation in Oruro months in advance and accept that prices triple. Bring layers — the altiplano nights are cold even in February. Tickets for grandstand seating along the route sell out quickly; standing along the street is free and often more atmospheric.
+Advance planning is essential. Hotels in Oruro book up months ahead and prices multiply tenfold. Many visitors arrange accommodation in La Paz and take an early bus in on the parade day — a three-hour journey.

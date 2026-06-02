@@ -1,0 +1,200 @@
+{
+  "round": 1808,
+  "timestamp": "2026-04-13T10:53:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 12.1608,
+      "prior_variance": 0.484735,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 2.7416,
+      "prior_variance": 0.339413,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 5.4382,
+      "prior_variance": 0.35954,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 4.8311,
+      "prior_variance": 0.292522,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 3.6332,
+      "prior_variance": 0.382549,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/otago/dunedin",
+      "prior_score": 4.9459,
+      "prior_variance": 0.416357,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.5824,
+      "prior_variance": 0.354939,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 3.0208,
+      "prior_variance": 0.33696,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Uruguay",
+      "path": "southamerica/uruguay",
+      "prior_score": 1.4273,
+      "prior_variance": 0.426519,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 1.0096,
+      "prior_variance": 0.297755,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.1483,
+      "prior_variance": 0.469805,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/truckee",
+      "prior_score": 1.2341,
+      "prior_variance": 0.333555,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": 1.3255,
+      "prior_variance": 0.310054,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.8613,
+      "prior_variance": 0.297268,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": 0.9563,
+      "prior_variance": 0.363583,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -3.9012,
+      "prior_variance": 0.321834,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/vermont/chester",
+      "prior_score": -1.9269,
+      "prior_variance": 0.245127,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_score": -4.1495,
+      "prior_variance": 0.32472,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_score": -2.9651,
+      "prior_variance": 0.190529,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -2.3364,
+      "prior_variance": 0.361005,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Nakhchivan",
+      "path": "europe/azerbaijan/naxcivan",
+      "prior_score": -3.287,
+      "prior_variance": 0.249131,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -4.0771,
+      "prior_variance": 0.297734,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Upper West",
+      "path": "africa/ghana/upper_west",
+      "prior_score": -4.3421,
+      "prior_variance": 0.328315,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_score": -6.4226,
+      "prior_variance": 0.45915,
+      "prior_n": 5
+    }
+  ]
+}

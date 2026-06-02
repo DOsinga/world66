@@ -1,0 +1,200 @@
+{
+  "round": 1040,
+  "timestamp": "2026-04-12T22:06:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_rank": 417,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_rank": 233,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_rank": 51,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_rank": 580,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_rank": 512,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_rank": 379,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Montenegro",
+      "path": "europe/montenegro",
+      "prior_rank": 395,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Portree",
+      "path": "europe/unitedkingdom/scotland/skye/portree",
+      "prior_rank": 56,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_rank": 166,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_rank": 682,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_rank": 27,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_rank": 346,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_rank": 375,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_rank": 677,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dominica",
+      "path": "northamerica/dominica",
+      "prior_rank": 235,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_rank": 218,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_rank": 263,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_rank": 139,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_rank": 531,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_rank": 221,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_rank": 2544,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_rank": 1773,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_rank": 838,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/casadecampo/la_romana",
+      "prior_rank": 130,
+      "prior_wins": 44,
+      "prior_n": 2
+    }
+  ]
+}

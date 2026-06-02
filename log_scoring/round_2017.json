@@ -1,0 +1,200 @@
+{
+  "round": 2017,
+  "timestamp": "2026-04-13T16:03:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 12.4801,
+      "prior_variance": 0.630452,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 6.8264,
+      "prior_variance": 0.253744,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 7.3573,
+      "prior_variance": 0.320846,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.0229,
+      "prior_variance": 0.417397,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.6601,
+      "prior_variance": 0.260843,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 3.913,
+      "prior_variance": 0.272404,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 3.0219,
+      "prior_variance": 0.26731,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 5.0145,
+      "prior_variance": 0.441061,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 5.8771,
+      "prior_variance": 0.279702,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Disko Bay",
+      "path": "northamerica/greenland/diskobay",
+      "prior_score": 4.6016,
+      "prior_variance": 0.345757,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": -0.6143,
+      "prior_variance": 0.250996,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mexico",
+      "path": "northamerica/mexico",
+      "prior_score": -4.3618,
+      "prior_variance": 0.475138,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.4155,
+      "prior_variance": 0.336814,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_score": 1.4496,
+      "prior_variance": 0.247685,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 0.192,
+      "prior_variance": 0.248862,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Transkei",
+      "path": "africa/southafrica/transkei",
+      "prior_score": -3.192,
+      "prior_variance": 0.258409,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": 0.028,
+      "prior_variance": 0.1817,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": 0.0896,
+      "prior_variance": 0.248354,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -1.4399,
+      "prior_variance": 0.199195,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": 0.1653,
+      "prior_variance": 0.252668,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Robertson NSW",
+      "path": "australiaandpacific/australia/newsouthwales/robertson_nsw",
+      "prior_score": -1.9479,
+      "prior_variance": 0.243963,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -4.1436,
+      "prior_variance": 0.494776,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -5.8631,
+      "prior_variance": 0.394231,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -5.4376,
+      "prior_variance": 0.279711,
+      "prior_n": 5
+    }
+  ]
+}

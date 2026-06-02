@@ -1,0 +1,200 @@
+{
+  "round": 753,
+  "timestamp": "2026-04-12T10:46:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_mu": 29.4154,
+      "prior_sigma": 6.8076,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_mu": 29.3751,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_mu": 28.422,
+      "prior_sigma": 5.125,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_mu": 25.379,
+      "prior_sigma": 6.0991,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Trinidad",
+      "path": "northamerica/cuba/trinidad",
+      "prior_mu": 22.0374,
+      "prior_sigma": 4.6834,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/whitby",
+      "prior_mu": 24.6675,
+      "prior_sigma": 6.0346,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_mu": 22.6703,
+      "prior_sigma": 5.4787,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Abruzzo",
+      "path": "europe/italy/abruzzo",
+      "prior_mu": 21.9233,
+      "prior_sigma": 4.2867,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_mu": 21.8945,
+      "prior_sigma": 4.4794,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_mu": 22.2392,
+      "prior_sigma": 5.6566,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_mu": 22.5165,
+      "prior_sigma": 5.8106,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_mu": 22.5475,
+      "prior_sigma": 5.487,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_mu": 21.8571,
+      "prior_sigma": 4.2107,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_mu": 22.2602,
+      "prior_sigma": 5.9378,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_mu": 20.8864,
+      "prior_sigma": 4.6834,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_mu": 21.4337,
+      "prior_sigma": 3.8508,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "al khasra",
+      "path": "asia/oman/alkhuwair/al_khasra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 11,
+  "timestamp": "2026-04-11T19:24:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_mu": 22.28,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "chakwal",
+      "path": "asia/pakistan/soon_valley/chakwal",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

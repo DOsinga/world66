@@ -1,0 +1,200 @@
+{
+  "round": 2222,
+  "timestamp": "2026-04-13T16:21:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 7.4649,
+      "prior_variance": 0.318246,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 2.785,
+      "prior_variance": 0.226205,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 2.8014,
+      "prior_variance": 0.221445,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_score": 0.2328,
+      "prior_variance": 0.24869,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.7914,
+      "prior_variance": 0.27245,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Madryn",
+      "path": "southamerica/argentina/puerto_madryn_1",
+      "prior_score": 2.9717,
+      "prior_variance": 0.233244,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -0.384,
+      "prior_variance": 0.258751,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.5606,
+      "prior_variance": 0.210552,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.8379,
+      "prior_variance": 0.208469,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 1.9138,
+      "prior_variance": 0.242796,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/ashbourne",
+      "prior_score": -0.782,
+      "prior_variance": 0.21501,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": -0.168,
+      "prior_variance": 0.237152,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.0788,
+      "prior_variance": 0.270071,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.3955,
+      "prior_variance": 0.226006,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.0881,
+      "prior_variance": 0.244787,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.985,
+      "prior_variance": 0.229431,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -1.8507,
+      "prior_variance": 0.269542,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.4088,
+      "prior_variance": 0.207432,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.4357,
+      "prior_variance": 0.292678,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Maple Creek",
+      "path": "northamerica/canada/saskatchewan/maple_creek",
+      "prior_score": -4.0418,
+      "prior_variance": 0.221071,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_score": -7.4209,
+      "prior_variance": 0.549336,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -6.7577,
+      "prior_variance": 0.417606,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -7.6333,
+      "prior_variance": 0.378485,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_score": -12.6396,
+      "prior_variance": 0.470334,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1863,
+  "timestamp": "2026-04-13T10:58:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_score": 6.2406,
+      "prior_variance": 0.456486,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_score": 4.377,
+      "prior_variance": 0.604786,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 6.5474,
+      "prior_variance": 0.52569,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.478,
+      "prior_variance": 0.379619,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 3.5498,
+      "prior_variance": 0.292798,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.5385,
+      "prior_variance": 0.299199,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": 0.5536,
+      "prior_variance": 0.250257,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": -0.3297,
+      "prior_variance": 0.267935,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": -0.494,
+      "prior_variance": 0.628262,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/otago/invercargill",
+      "prior_score": -0.1557,
+      "prior_variance": 0.24951,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -2.0002,
+      "prior_variance": 0.304821,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.3724,
+      "prior_variance": 0.314217,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.4334,
+      "prior_variance": 0.259042,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -2.4702,
+      "prior_variance": 0.151936,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.2618,
+      "prior_variance": 0.284061,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -1.6825,
+      "prior_variance": 0.450563,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -0.3526,
+      "prior_variance": 0.264664,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -2.8891,
+      "prior_variance": 0.344371,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_score": -2.2416,
+      "prior_variance": 0.193473,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.3397,
+      "prior_variance": 0.317479,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.4228,
+      "prior_variance": 0.414137,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -4.1939,
+      "prior_variance": 0.258921,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -7.2429,
+      "prior_variance": 0.388,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "caston norfolk",
+      "path": "europe/unitedkingdom/england/castonnorfolk",
+      "prior_score": -7.9273,
+      "prior_variance": 0.467677,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1430,
+  "timestamp": "2026-04-12T22:27:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_rank": 435,
+      "prior_wins": 116,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_rank": 474,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_rank": 1371,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_rank": 726,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Umbria",
+      "path": "europe/italy/umbria",
+      "prior_rank": 2343,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_rank": 656,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/salisbury",
+      "prior_rank": 763,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_rank": 902,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_rank": 1523,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_rank": 1258,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_rank": 1234,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_rank": 1521,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_rank": 1986,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_rank": 1850,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_rank": 909,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_rank": 3958,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_rank": 1077,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_rank": 890,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_rank": 229,
+      "prior_wins": 102,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bocas del toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_rank": 1764,
+      "prior_wins": 59,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_rank": 907,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "San gil",
+      "path": "southamerica/colombia/san_gil",
+      "prior_rank": 1537,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Otavalo Imbabura",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_rank": 821,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_rank": 774,
+      "prior_wins": 55,
+      "prior_n": 3
+    }
+  ]
+}

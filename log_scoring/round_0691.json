@@ -1,0 +1,200 @@
+{
+  "round": 691,
+  "timestamp": "2026-04-12T10:43:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_mu": 22.5152,
+      "prior_sigma": 4.0308,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_mu": 23.049,
+      "prior_sigma": 4.9035,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Cadiz",
+      "path": "europe/spain/cadiz",
+      "prior_mu": 23.6052,
+      "prior_sigma": 5.7615,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_mu": 24.3918,
+      "prior_sigma": 6.0304,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_mu": 22.3656,
+      "prior_sigma": 5.9023,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pontevedra City",
+      "path": "europe/spain/galicia/pontevedra_city",
+      "prior_mu": 22.3628,
+      "prior_sigma": 5.5542,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_mu": 22.7347,
+      "prior_sigma": 5.6602,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_mu": 22.7457,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_mu": 22.681,
+      "prior_sigma": 5.5607,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_mu": 22.5854,
+      "prior_sigma": 5.8906,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_mu": 22.9888,
+      "prior_sigma": 5.969,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_mu": 23.5608,
+      "prior_sigma": 4.7525,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_mu": 20.6221,
+      "prior_sigma": 3.1295,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "costa dorada",
+      "path": "europe/spain/catalonia/costa_dorada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_mu": 21.4113,
+      "prior_sigma": 3.9476,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceitu",
+      "prior_mu": 22.4317,
+      "prior_sigma": 5.7827,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_mu": 22.5746,
+      "prior_sigma": 5.3901,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_mu": 18.2451,
+      "prior_sigma": 6.743,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_mu": 17.1971,
+      "prior_sigma": 4.6039,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_mu": 19.2939,
+      "prior_sigma": 4.3421,
+      "prior_n": 3
+    }
+  ]
+}

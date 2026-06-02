@@ -3,8 +3,6 @@ title: When to Go
 type: section
 ---
 
-Oruro has essentially two states: Carnaval season and everything else. The festival falls in February or early March (the weekend before Ash Wednesday) and is worth planning an entire trip around, but requires advance planning — accommodation books out months ahead and prices spike dramatically.
+The answer for most visitors is simple: come for Carnaval, which falls on the Saturday before Ash Wednesday (usually February or early March). This is when Oruro transforms from a scrappy mining city into one of the greatest festival destinations in South America. Book accommodation months ahead — the city fills completely.
 
-Outside of Carnaval, Oruro is a functional provincial city with a harsh climate. The altiplano sits above 3,700 metres, which means altitude sickness is a real consideration. Nights are cold year-round; even in the Bolivian summer (December–February) temperatures drop near freezing after dark. Bring layers regardless of when you arrive.
-
-If you cannot make Carnaval, the period around All Saints' Day (late October / November) brings smaller-scale folk events and is a pleasant time to visit without the Carnival crowds.
+Outside carnival season, Oruro is at its most bearable between October and April, when the altiplano gets some rain and temperatures are slightly less punishing. The dry winter months (May through September) bring bitter cold at night — the city sits at 3,700 metres and winter nights can drop below freezing. The thin air affects most visitors; altitude sickness is common on arrival and takes a day or two to pass. Don't plan to do much on your first day.

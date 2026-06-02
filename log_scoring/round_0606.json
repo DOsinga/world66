@@ -1,0 +1,200 @@
+{
+  "round": 606,
+  "timestamp": "2026-04-12T10:39:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_mu": 23.163,
+      "prior_sigma": 5.7376,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Corfu",
+      "path": "europe/greece/corfu",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_mu": 23.6489,
+      "prior_sigma": 5.4884,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mani",
+      "path": "europe/greece/mani",
+      "prior_mu": 23.9941,
+      "prior_sigma": 5.5874,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_mu": 23.1162,
+      "prior_sigma": 4.1833,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_mu": 23.6584,
+      "prior_sigma": 4.9279,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_mu": 22.732,
+      "prior_sigma": 4.6031,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_mu": 21.7264,
+      "prior_sigma": 4.5868,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_mu": 23.1642,
+      "prior_sigma": 5.9731,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_mu": 22.5749,
+      "prior_sigma": 5.9524,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_mu": 24.6266,
+      "prior_sigma": 4.2805,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_mu": 22.2837,
+      "prior_sigma": 5.7531,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_mu": 22.4542,
+      "prior_sigma": 5.951,
+      "prior_n": 1
+    }
+  ]
+}

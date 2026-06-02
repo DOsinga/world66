@@ -1,0 +1,200 @@
+{
+  "round": 1988,
+  "timestamp": "2026-04-13T16:00:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lofoten islands",
+      "path": "europe/norway/lofotenislands",
+      "prior_score": 13.4442,
+      "prior_variance": 0.513238,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 6.7992,
+      "prior_variance": 0.292911,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 7.8375,
+      "prior_variance": 0.33205,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 5.4076,
+      "prior_variance": 0.355637,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national",
+      "prior_score": 7.0245,
+      "prior_variance": 0.250943,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 4.8227,
+      "prior_variance": 0.283992,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 5.3057,
+      "prior_variance": 0.325314,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 4.3707,
+      "prior_variance": 0.298898,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 3.4355,
+      "prior_variance": 0.331166,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.9834,
+      "prior_variance": 0.279716,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": 0.3336,
+      "prior_variance": 0.257503,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_score": 4.471,
+      "prior_variance": 0.289622,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.6148,
+      "prior_variance": 0.276086,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cherating",
+      "path": "asia/malaysia/kuantan/cherating",
+      "prior_score": 0.3369,
+      "prior_variance": 0.272673,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.4125,
+      "prior_variance": 0.242696,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 0.6617,
+      "prior_variance": 0.430595,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.2923,
+      "prior_variance": 0.254282,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -0.8026,
+      "prior_variance": 0.295382,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -0.5703,
+      "prior_variance": 0.253331,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -1.6334,
+      "prior_variance": 0.335185,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bardufoss",
+      "path": "europe/norway/bardufoss",
+      "prior_score": -1.5752,
+      "prior_variance": 0.270625,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_score": -3.2668,
+      "prior_variance": 0.388546,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -2.9506,
+      "prior_variance": 0.299512,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -6.3292,
+      "prior_variance": 0.250942,
+      "prior_n": 5
+    }
+  ]
+}

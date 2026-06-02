@@ -1,0 +1,200 @@
+{
+  "round": 1935,
+  "timestamp": "2026-04-13T15:55:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Streymoy",
+      "path": "europe/faroeislands/streymoy",
+      "prior_score": 3.3453,
+      "prior_variance": 0.352577,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "South Dakota",
+      "path": "northamerica/unitedstates/southdakota",
+      "prior_score": 2.0724,
+      "prior_variance": 0.28188,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Black Sea Coast",
+      "path": "europe/romania/blackseacoast",
+      "prior_score": -0.5565,
+      "prior_variance": 0.319789,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": 1.0431,
+      "prior_variance": 0.313627,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Czestochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": 0.2307,
+      "prior_variance": 0.316194,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/sheffield",
+      "prior_score": -0.9813,
+      "prior_variance": 0.306026,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -2.1928,
+      "prior_variance": 0.321416,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Grand erg",
+      "path": "africa/algeria/granderg",
+      "prior_score": -2.7018,
+      "prior_variance": 0.301409,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": -0.1764,
+      "prior_variance": 0.293433,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": -1.2998,
+      "prior_variance": 0.391774,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "campbell river",
+      "path": "northamerica/canada/britishcolumbia/campbell_river",
+      "prior_score": -1.1925,
+      "prior_variance": 0.245524,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/arcata",
+      "prior_score": -1.0879,
+      "prior_variance": 0.269538,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -0.7073,
+      "prior_variance": 0.256273,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_score": -0.3516,
+      "prior_variance": 0.246323,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.9054,
+      "prior_variance": 0.25988,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -0.4741,
+      "prior_variance": 0.232084,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -1.2998,
+      "prior_variance": 0.275147,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.2132,
+      "prior_variance": 0.308263,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.5341,
+      "prior_variance": 0.307174,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_score": -2.2363,
+      "prior_variance": 0.367647,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.7509,
+      "prior_variance": 0.304419,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
+      "prior_score": -3.9399,
+      "prior_variance": 0.401401,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hannahurfri",
+      "path": "asia/china/hainanisland/hannahurfri",
+      "prior_score": -4.8306,
+      "prior_variance": 0.337694,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.7669,
+      "prior_variance": 0.343412,
+      "prior_n": 4
+    }
+  ]
+}

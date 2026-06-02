@@ -1,0 +1,200 @@
+{
+  "round": 1370,
+  "timestamp": "2026-04-12T22:24:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagorno-Karabakh (Karabakh)",
+      "path": "europe/azerbaijan/nagornokarabakh",
+      "prior_rank": 2484,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pleven",
+      "path": "europe/bulgaria/sofia/pleven",
+      "prior_rank": 7528,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_rank": 7184,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_rank": 6725,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_rank": 7091,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nanded",
+      "path": "asia/india/maharashtra/mumbai/nanded",
+      "prior_rank": 7078,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_rank": 5690,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_rank": 7980,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_rank": 7824,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_rank": 6376,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_rank": 6924,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_rank": 6596,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_rank": 6892,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_rank": 7920,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_rank": 5620,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_rank": 7332,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_rank": 7646,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Pirules",
+      "path": "northamerica/mexico/yucatan/pirules",
+      "prior_rank": 7834,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_rank": 7756,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_rank": 7193,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_rank": 8095,
+      "prior_wins": 9,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_rank": 7309,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_rank": 7741,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Echterdingen",
+      "path": "europe/germany/badenwrttemberg/echterdingen",
+      "prior_rank": 6763,
+      "prior_wins": 19,
+      "prior_n": 3
+    }
+  ]
+}

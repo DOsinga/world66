@@ -1,0 +1,200 @@
+{
+  "round": 2278,
+  "timestamp": "2026-04-13T16:27:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lapland",
+      "path": "europe/finland/lapland",
+      "prior_score": 7.2218,
+      "prior_variance": 0.360479,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 4.6408,
+      "prior_variance": 0.236492,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.3674,
+      "prior_variance": 0.244111,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 3.7632,
+      "prior_variance": 0.226073,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.4663,
+      "prior_variance": 0.240013,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.2373,
+      "prior_variance": 0.285517,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.9787,
+      "prior_variance": 0.295659,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -3.3164,
+      "prior_variance": 0.247189,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_score": -1.5027,
+      "prior_variance": 0.228662,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_score": -1.648,
+      "prior_variance": 0.238279,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.7388,
+      "prior_variance": 0.253182,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.3982,
+      "prior_variance": 0.189581,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_score": -2.4756,
+      "prior_variance": 0.208584,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -1.1797,
+      "prior_variance": 0.212562,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.9652,
+      "prior_variance": 0.288241,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -3.3967,
+      "prior_variance": 0.238107,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -2.564,
+      "prior_variance": 0.241456,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": -5.6152,
+      "prior_variance": 0.381807,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.5217,
+      "prior_variance": 0.216701,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "El oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -6.0779,
+      "prior_variance": 0.294013,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -3.2433,
+      "prior_variance": 0.209822,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -6.2368,
+      "prior_variance": 0.362096,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_score": -6.1492,
+      "prior_variance": 0.321653,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -5.5513,
+      "prior_variance": 0.526989,
+      "prior_n": 6
+    }
+  ]
+}

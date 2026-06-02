@@ -1,0 +1,200 @@
+{
+  "round": 2242,
+  "timestamp": "2026-04-13T16:23:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.2178,
+      "prior_variance": 0.155553,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 2.6404,
+      "prior_variance": 0.271748,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.8857,
+      "prior_variance": 0.213554,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.2166,
+      "prior_variance": 0.23149,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 3.9,
+      "prior_variance": 0.266003,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.7677,
+      "prior_variance": 0.217616,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": 0.1268,
+      "prior_variance": 0.273463,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.6787,
+      "prior_variance": 0.207011,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 4.4319,
+      "prior_variance": 0.224557,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": 0.946,
+      "prior_variance": 0.253156,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 1.4865,
+      "prior_variance": 0.283565,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 2.9513,
+      "prior_variance": 0.242004,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -0.5436,
+      "prior_variance": 0.236063,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.3844,
+      "prior_variance": 0.227942,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.6592,
+      "prior_variance": 0.261709,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -1.8786,
+      "prior_variance": 0.262904,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.2215,
+      "prior_variance": 0.276773,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pereira",
+      "path": "southamerica/colombia/pereira",
+      "prior_score": -0.4736,
+      "prior_variance": 0.26614,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.5148,
+      "prior_variance": 0.212296,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -4.4409,
+      "prior_variance": 0.243904,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/yucatan/tijuana",
+      "prior_score": -5.5814,
+      "prior_variance": 0.389468,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_score": -7.1285,
+      "prior_variance": 0.299971,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -8.5803,
+      "prior_variance": 0.388183,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Birote",
+      "path": "asia/pakistan/azad_kashmir/mirpur/birote",
+      "prior_score": -9.0914,
+      "prior_variance": 0.357447,
+      "prior_n": 5
+    }
+  ]
+}

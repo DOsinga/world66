@@ -1,0 +1,200 @@
+{
+  "round": 466,
+  "timestamp": "2026-04-12T09:31:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_mu": 22.7326,
+      "prior_sigma": 4.8506,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_mu": 22.2666,
+      "prior_sigma": 5.7827,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_mu": 22.8892,
+      "prior_sigma": 5.8553,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_mu": 21.8768,
+      "prior_sigma": 4.8302,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_mu": 22.501,
+      "prior_sigma": 5.6747,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ganpati Phule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_mu": 21.9301,
+      "prior_sigma": 4.8365,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tripura",
+      "path": "asia/india/tripura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_mu": 21.8574,
+      "prior_sigma": 4.8283,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_mu": 21.1299,
+      "prior_sigma": 5.7522,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "India",
+      "path": "asia/india",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_mu": 21.9764,
+      "prior_sigma": 4.6902,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Taram Gaun",
+      "path": "asia/india/uttaranchal/taram_gaun",
+      "prior_mu": 21.7545,
+      "prior_sigma": 4.8098,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Malla Banas",
+      "path": "asia/india/uttaranchal/malla_banas_8",
+      "prior_mu": 14.8958,
+      "prior_sigma": 5.7777,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Yoga Teacher Training India",
+      "path": "asia/india/uttaranchal/yoga_teacher_train",
+      "prior_mu": 21.824,
+      "prior_sigma": 5.7288,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_mu": 17.9141,
+      "prior_sigma": 5.2014,
+      "prior_n": 2
+    }
+  ]
+}

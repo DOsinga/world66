@@ -1,0 +1,200 @@
+{
+  "round": 1883,
+  "timestamp": "2026-04-13T14:33:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.6101,
+      "prior_variance": 0.246103,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": -0.6098,
+      "prior_variance": 0.307708,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_score": 1.5035,
+      "prior_variance": 0.383633,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 0.7338,
+      "prior_variance": 0.275266,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.6715,
+      "prior_variance": 0.367424,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": 0.8641,
+      "prior_variance": 0.317744,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": 0.338,
+      "prior_variance": 0.3159,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": 0.3177,
+      "prior_variance": 0.266703,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.5714,
+      "prior_variance": 0.359827,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -0.6449,
+      "prior_variance": 0.240323,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.6438,
+      "prior_variance": 0.267518,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dzanga-Sangha",
+      "path": "africa/centralafricanrepublic/dzanga_sangha",
+      "prior_score": -0.6182,
+      "prior_variance": 0.505942,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -3.074,
+      "prior_variance": 0.260047,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -3.0697,
+      "prior_variance": 0.192838,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_score": -2.5926,
+      "prior_variance": 0.36493,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -4.2721,
+      "prior_variance": 0.296562,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -5.0555,
+      "prior_variance": 0.246306,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -3.5684,
+      "prior_variance": 0.267138,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.7578,
+      "prior_variance": 0.371611,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -6.1432,
+      "prior_variance": 0.33154,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Passaic",
+      "path": "northamerica/unitedstates/newjersey/passaic",
+      "prior_score": -8.5618,
+      "prior_variance": 0.986835,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.3525,
+      "prior_variance": 0.282513,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_score": -7.3404,
+      "prior_variance": 0.384899,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_score": -8.4366,
+      "prior_variance": 0.765073,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 859,
+  "timestamp": "2026-04-12T14:45:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 8.6754,
+      "prior_variance": 4.078441,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/losangeles/santamonica",
+      "prior_score": 10.4499,
+      "prior_variance": 6.175392,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 6.5194,
+      "prior_variance": 1.672226,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 7.4285,
+      "prior_variance": 2.138652,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 5.5202,
+      "prior_variance": 2.052486,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 3.8386,
+      "prior_variance": 1.473759,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_score": 0.5334,
+      "prior_variance": 0.842821,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_score": 5.4241,
+      "prior_variance": 1.590541,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": -0.4637,
+      "prior_variance": 1.559134,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 2.4145,
+      "prior_variance": 0.720054,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 2.3956,
+      "prior_variance": 1.370324,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_score": 0.5417,
+      "prior_variance": 1.264992,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -1.6806,
+      "prior_variance": 1.208546,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": 2.5192,
+      "prior_variance": 1.537497,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -8.5744,
+      "prior_variance": 2.850865,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "KARNATAKA",
+      "path": "asia/india/maharashtra/konkan/karnataka",
+      "prior_score": -7.8426,
+      "prior_variance": 1.469936,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": 2.3636,
+      "prior_variance": 1.539555,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -0.7956,
+      "prior_variance": 1.387826,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Schwaendi",
+      "path": "europe/switzerland/schwaendi",
+      "prior_score": -10.1446,
+      "prior_variance": 9.684754,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_score": -5.5021,
+      "prior_variance": 1.615971,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lubon",
+      "path": "europe/poland/lubon",
+      "prior_score": -7.7899,
+      "prior_variance": 3.688359,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -13.2339,
+      "prior_variance": 7.679899,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -9.3433,
+      "prior_variance": 2.775407,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_score": -10.3218,
+      "prior_variance": 9.272438,
+      "prior_n": 1
+    }
+  ]
+}

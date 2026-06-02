@@ -1,0 +1,200 @@
+{
+  "round": 559,
+  "timestamp": "2026-04-12T10:37:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zanzibar",
+      "path": "africa/tanzania/zanzibar",
+      "prior_mu": 24.8319,
+      "prior_sigma": 5.5786,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_mu": 24.5014,
+      "prior_sigma": 6.0804,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_mu": 22.4565,
+      "prior_sigma": 5.4683,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_mu": 22.3357,
+      "prior_sigma": 5.7839,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_par",
+      "prior_mu": 22.2259,
+      "prior_sigma": 4.6238,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national",
+      "prior_mu": 23.5357,
+      "prior_sigma": 5.0414,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_mu": 22.1158,
+      "prior_sigma": 4.7001,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_mu": 22.8307,
+      "prior_sigma": 5.9513,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_mu": 23.0212,
+      "prior_sigma": 4.5365,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_mu": 21.6694,
+      "prior_sigma": 4.4426,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Southern Highlands",
+      "path": "africa/tanzania/sothern_highlands",
+      "prior_mu": 22.7017,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Dar es salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_mu": 22.4255,
+      "prior_sigma": 5.6807,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_mu": 22.5939,
+      "prior_sigma": 5.9523,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_mu": 22.5078,
+      "prior_sigma": 5.4884,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_mu": 22.5939,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_mu": 21.4971,
+      "prior_sigma": 4.7296,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_mu": 25.6636,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    }
+  ]
+}

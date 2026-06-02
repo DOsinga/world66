@@ -1,0 +1,200 @@
+{
+  "round": 1860,
+  "timestamp": "2026-04-13T10:58:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.3466,
+      "prior_variance": 0.416415,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 7.0363,
+      "prior_variance": 0.348631,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/canterbury",
+      "prior_score": 7.5917,
+      "prior_variance": 0.364023,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 4.564,
+      "prior_variance": 0.260627,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/franzjosef",
+      "prior_score": 6.6084,
+      "prior_variance": 0.314345,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hungary",
+      "path": "europe/hungary",
+      "prior_score": -2.7326,
+      "prior_variance": 0.521269,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 5.9052,
+      "prior_variance": 0.445902,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_score": -1.6999,
+      "prior_variance": 0.221583,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.0855,
+      "prior_variance": 0.263178,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.3394,
+      "prior_variance": 0.318305,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Joinville",
+      "path": "southamerica/brazil/joinville",
+      "prior_score": -2.2714,
+      "prior_variance": 0.243999,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": 0.244,
+      "prior_variance": 0.293021,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.1533,
+      "prior_variance": 0.268185,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -1.8529,
+      "prior_variance": 0.285074,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -3.9191,
+      "prior_variance": 0.352342,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -4.0492,
+      "prior_variance": 0.203694,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "San Pedro",
+      "path": "northamerica/unitedstates/california/san_pedro",
+      "prior_score": -2.8371,
+      "prior_variance": 0.295319,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_score": -3.4856,
+      "prior_variance": 0.38274,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -3.6497,
+      "prior_variance": 0.245579,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -6.1359,
+      "prior_variance": 0.347891,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -4.0412,
+      "prior_variance": 0.414349,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.6651,
+      "prior_variance": 0.432162,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Port harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -5.651,
+      "prior_variance": 0.390144,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -11.3981,
+      "prior_variance": 0.588334,
+      "prior_n": 4
+    }
+  ]
+}

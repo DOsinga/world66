@@ -1,17 +1,15 @@
 ---
 title: Vogel Schwartz Sculpture Garden
 type: poi
+latitude: 34.7489
+longitude: -92.2617
 tags:
   - things_to_do
   - sight
-  - river_market_district
-neighbourhood: River Market District
-latitude: 34.7519
-longitude: -92.2639
-sources:
-  - https://en.wikipedia.org/wiki/Vogel_Schwartz_Sculpture_Garden
 ---
 
-The Vogel Schwartz Sculpture Garden occupies a stretch of the Arkansas River Trail along the north edge of the Clinton Presidential Center grounds, with over 85 large-scale sculptures displayed along a landscaped riverside path. The collection spans contemporary American and international sculptors, and the outdoor setting against the river makes it more appealing than many indoor sculpture collections.
+The Vogel Schwartz Sculpture Garden runs along the Arkansas River Trail between the Clinton Presidential Center and the river, displaying over 90 large-scale sculptures in a free outdoor setting. The collection ranges from figurative bronzes to abstract steel and stone works, installed along a mile of paved path with the river and the downtown skyline as backdrop.
 
-Admission is free and the garden is open at all hours. It connects naturally to the Clinton Library grounds and the broader riverfront parkway, making it easy to combine with a walk along the Arkansas River Trail. The trail itself runs for 17 miles on both sides of the river and is one of Little Rock's better outdoor assets.
+It is one of the larger free outdoor sculpture collections in the South. The setting is relaxed — people cycle, run, and walk dogs past the sculptures — and the combination with the riverside trail makes it a natural part of any afternoon in the River Market area.
+
+Open daily, free admission. Arkansas River Trail at Riverfront Park.

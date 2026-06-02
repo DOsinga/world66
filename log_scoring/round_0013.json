@@ -1,0 +1,200 @@
+{
+  "round": 13,
+  "timestamp": "2026-04-11T19:24:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 22.68,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_mu": 22.74,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 22.12,
+      "prior_sigma": 5.88,
+      "prior_n": 1
+    }
+  ]
+}

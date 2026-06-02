@@ -1,0 +1,200 @@
+{
+  "round": 801,
+  "timestamp": "2026-04-12T10:48:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Garden Route",
+      "path": "africa/southafrica/gardenroute",
+      "prior_mu": 24.0486,
+      "prior_sigma": 4.1258,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_mu": 23.6722,
+      "prior_sigma": 4.5988,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_mu": 22.3494,
+      "prior_sigma": 5.726,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.428,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_mu": 21.9687,
+      "prior_sigma": 4.4526,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_mu": 21.4342,
+      "prior_sigma": 4.7196,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_mu": 21.172,
+      "prior_sigma": 3.6722,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_mu": 22.5092,
+      "prior_sigma": 5.5518,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_mu": 20.6596,
+      "prior_sigma": 2.3563,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_mu": 22.7275,
+      "prior_sigma": 5.9338,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_mu": 21.2254,
+      "prior_sigma": 3.7757,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_mu": 21.5389,
+      "prior_sigma": 4.1272,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_mu": 21.0995,
+      "prior_sigma": 3.3208,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_mu": 22.0741,
+      "prior_sigma": 4.3645,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_mu": 22.2765,
+      "prior_sigma": 5.4524,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_mu": 17.9788,
+      "prior_sigma": 6.4852,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_mu": 14.6645,
+      "prior_sigma": 5.3732,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/solihull",
+      "prior_mu": 21.1402,
+      "prior_sigma": 3.8789,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kudal",
+      "path": "asia/india/maharashtra/kudal",
+      "prior_mu": 20.1009,
+      "prior_sigma": 3.4913,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_mu": 17.9269,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_mu": 21.4196,
+      "prior_sigma": 4.7654,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

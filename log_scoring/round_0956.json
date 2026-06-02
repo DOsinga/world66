@@ -1,0 +1,200 @@
+{
+  "round": 956,
+  "timestamp": "2026-04-12T16:09:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "London",
+      "path": "europe/unitedkingdom/london",
+      "prior_rank": 91,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_rank": 61,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Courchevel",
+      "path": "europe/switzerland/courchevel",
+      "prior_rank": 6234,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_rank": 4281,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_rank": 4260,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_rank": 1300,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_rank": 980,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_rank": 2789,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_rank": 3299,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_rank": 3416,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_rank": 4552,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kalinago Territory",
+      "path": "northamerica/dominica/caribterritory",
+      "prior_rank": 3327,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_rank": 5818,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_rank": 5635,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_rank": 3323,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_rank": 6569,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_rank": 5852,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_rank": 4158,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_rank": 4190,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Witney",
+      "path": "europe/unitedkingdom/england/witney",
+      "prior_rank": 6036,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bretten",
+      "path": "europe/germany/badenwrttemberg/bretten",
+      "prior_rank": 6763,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_rank": 5034,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yemen",
+      "path": "asia/yemen",
+      "prior_rank": 8162,
+      "prior_wins": 1,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+---
+title: "Health"
+type: section
+---
+
+This is one of the healthiest regions in the world to travel. [Australia](/australiaandpacific/australia) and [New Zealand](/australiaandpacific/newzealand) have excellent healthcare systems, clean tap water, and no required vaccinations for entry. You don't need malaria prophylaxis or special precautions for either country. Travel insurance is still essential — Australian hospitals will treat you in an emergency, but the bills for non-residents are steep.
+
+Australia's wildlife reputation precedes it, and while the creatures are real, the danger is manageable with basic awareness. Snakes and spiders exist but rarely cause serious harm if you watch where you step and don't reach into places you can't see. Box jellyfish and Irukandji are seasonal hazards in tropical waters from October to May — swim only at patrolled beaches with stinger nets, or wear a lycra suit. Saltwater crocodiles inhabit rivers and coastlines across the tropical north; heed warning signs and never swim in unmarked waterways. The single biggest health hazard in Australia is the sun. UV levels are extreme, particularly in summer, and sunburn can happen in under fifteen minutes. Wear high-SPF sunscreen, a hat, and reapply constantly.
+
+Ocean safety deserves its own mention across the entire region. Australian beaches have powerful rip currents — always swim between the red and yellow flags where lifeguards patrol. New Zealand's west coast beaches are similarly powerful and often unpatrolled. In the Pacific islands, reef breaks, strong currents, and remote locations mean that water incidents can turn serious quickly. Don't swim alone, don't overestimate your abilities, and ask locals about conditions before you get in.
+
+On the Pacific islands, the health picture shifts slightly. Mosquito-borne illnesses — dengue fever primarily, and occasionally Zika or chikungunya — occur in [Fiji](/australiaandpacific/fiji), [Tonga](/australiaandpacific/tonga), [French Polynesia](/australiaandpacific/frenchpolynesia), and other tropical island nations. Use insect repellent and cover up at dawn and dusk. Tap water isn't always safe to drink on smaller islands, so stick to bottled or treated water when unsure. Medical facilities on remote Pacific islands can be very basic, so carry a decent first-aid kit and any prescription medications you'll need for the full duration of your trip.

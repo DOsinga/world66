@@ -1,0 +1,200 @@
+{
+  "round": 2344,
+  "timestamp": "2026-04-13T16:33:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 5.1165,
+      "prior_variance": 0.263913,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_score": -0.9325,
+      "prior_variance": 0.281823,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -2.8791,
+      "prior_variance": 0.198001,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": -0.1981,
+      "prior_variance": 0.196968,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_score": -0.6887,
+      "prior_variance": 0.280465,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_notting/buxton",
+      "prior_score": -1.7625,
+      "prior_variance": 0.295239,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_score": -0.9797,
+      "prior_variance": 0.223573,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -2.8269,
+      "prior_variance": 0.234601,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanmateo",
+      "prior_score": -3.6355,
+      "prior_variance": 0.312665,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -1.8494,
+      "prior_variance": 0.19141,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -3.1558,
+      "prior_variance": 0.224613,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/gosport",
+      "prior_score": -3.9753,
+      "prior_variance": 0.294724,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -2.9027,
+      "prior_variance": 0.142849,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_score": -3.1984,
+      "prior_variance": 0.206376,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -2.7164,
+      "prior_variance": 0.208939,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -4.5765,
+      "prior_variance": 0.222412,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Miramar",
+      "path": "northamerica/unitedstates/florida/miramar",
+      "prior_score": -4.1531,
+      "prior_variance": 0.234689,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.2423,
+      "prior_variance": 0.219635,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_score": -1.6881,
+      "prior_variance": 0.235412,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -3.6467,
+      "prior_variance": 0.20953,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Soon Valley Ugalisharif",
+      "path": "asia/pakistan/soon_valley/soon_valley_ugalis",
+      "prior_score": -3.1035,
+      "prior_variance": 0.216227,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -4.7549,
+      "prior_variance": 0.177269,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -6.3252,
+      "prior_variance": 0.262914,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Williamstown",
+      "path": "northamerica/unitedstates/newjersey/williamstown",
+      "prior_score": -6.5831,
+      "prior_variance": 0.297804,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2158,
+  "timestamp": "2026-04-13T16:15:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "France",
+      "path": "europe/france",
+      "prior_score": 14.9578,
+      "prior_variance": 0.857264,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.4704,
+      "prior_variance": 0.282429,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 4.7587,
+      "prior_variance": 0.269881,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 6.7572,
+      "prior_variance": 0.539575,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_score": 4.5021,
+      "prior_variance": 0.291857,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Northern Ireland",
+      "path": "europe/unitedkingdom/northernireland",
+      "prior_score": 4.2751,
+      "prior_variance": 0.285121,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_score": 2.562,
+      "prior_variance": 0.277349,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.8386,
+      "prior_variance": 0.25643,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 1.6415,
+      "prior_variance": 0.216588,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Safaga",
+      "path": "africa/egypt/hurghada/safaga",
+      "prior_score": 0.1809,
+      "prior_variance": 0.305345,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -1.1738,
+      "prior_variance": 0.463938,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.2666,
+      "prior_variance": 0.28495,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -4.176,
+      "prior_variance": 0.247635,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cochrane",
+      "path": "northamerica/canada/alberta/cochrane",
+      "prior_score": -1.8417,
+      "prior_variance": 0.21112,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -1.6227,
+      "prior_variance": 0.262269,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.044,
+      "prior_variance": 0.203635,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -0.9836,
+      "prior_variance": 0.280362,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Central Valley",
+      "path": "northamerica/unitedstates/california/centralvalley",
+      "prior_score": -5.2109,
+      "prior_variance": 0.348904,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_score": -4.5864,
+      "prior_variance": 0.3264,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_score": -3.6808,
+      "prior_variance": 0.235,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -3.6983,
+      "prior_variance": 0.289974,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -2.9581,
+      "prior_variance": 0.260056,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_score": -3.9631,
+      "prior_variance": 0.241949,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -6.5098,
+      "prior_variance": 0.479347,
+      "prior_n": 6
+    }
+  ]
+}

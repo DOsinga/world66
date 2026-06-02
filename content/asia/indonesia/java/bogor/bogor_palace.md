@@ -1,17 +1,22 @@
 ---
 title: Bogor Palace (Istana Bogor)
 type: poi
+latitude: -6.5980
+longitude: 106.7973
 tags:
   - things_to_do
   - sight
   - architecture
-latitude: -6.5980
-longitude: 106.7973
-sources:
-  - https://en.wikipedia.org/wiki/Bogor_Palace
-story: "A large herd of spotted deer (Axis axis) has lived on the palace grounds since at least the late 18th century. The deer are completely tame and have become a symbol of the city — they appear on Bogor's seal. President Sukarno used the palace as his main residence during the early independence period and filled it with an enormous art collection, much of it depicting women in various states of undress, which scandalised visiting foreign dignitaries."
+story: >
+  The palace grounds are home to a herd of spotted deer — descendants of animals
+  gifted to President Sukarno — that graze freely on the lawns inside the
+  Botanical Gardens. The deer have become such an established sight that they
+  appear on Bogor's city emblem. Sukarno also amassed one of the largest private
+  art collections in Asia here; the palace holds around 2,000 paintings and
+  hundreds of sculptures, many of them erotic works that reportedly shocked
+  foreign dignitaries.
 ---
 
-Bogor Palace (Istana Bogor) is the Indonesian presidential palace that sits within the northeast corner of the Botanical Gardens, a Dutch colonial building dating from 1745 that has served as a retreat for successive Dutch governors-general and, since independence, as a presidential getaway from Jakarta. The palace grounds are home to the famous herd of spotted deer that roams freely across the lawns — you can view them from the gardens' perimeter path.
+Bogor Palace is one of six presidential palaces in Indonesia, occupying a prime position within the Botanical Gardens. The current building dates from 1856, when Dutch Governor-General Herman Willem Daendels rebuilt the original colonial retreat as a formal palace. After Indonesian independence, President Sukarno made it a regular residence and filled it with art.
 
-Access to the palace interior is restricted to organised tours, which must be arranged through the Presidential Palace Secretariat in advance. The tour covers the state rooms and a portion of the extensive art collection assembled by President Sukarno, who used this as his primary residence in the 1950s and 1960s. Independent visitors can see the exterior and the deer from the adjacent botanical gardens without any special permission.
+The palace interior can only be visited by prior arrangement through the government secretariat, and access is not guaranteed. However, the exterior and grounds are visible from the Botanical Gardens fence along Jalan Ir. H. Juanda, and the deer grazing on the palace lawns are one of Bogor's most distinctive sights. The building itself is a handsome neoclassical structure in white and cream.

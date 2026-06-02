@@ -1,0 +1,200 @@
+{
+  "round": 523,
+  "timestamp": "2026-04-12T09:45:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_mu": 29.9594,
+      "prior_sigma": 3.2104,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_mu": 23.7853,
+      "prior_sigma": 3.4265,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_mu": 22.8,
+      "prior_sigma": 2.7975,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_mu": 22.1947,
+      "prior_sigma": 4.2426,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_mu": 20.987,
+      "prior_sigma": 2.9605,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_mu": 22.3736,
+      "prior_sigma": 3.7085,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_mu": 21.6381,
+      "prior_sigma": 3.9061,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 21.0408,
+      "prior_sigma": 3.641,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 20.842,
+      "prior_sigma": 2.8397,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 20.8688,
+      "prior_sigma": 2.5876,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_mu": 20.9327,
+      "prior_sigma": 2.6696,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_mu": 20.8156,
+      "prior_sigma": 2.8715,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_mu": 21.0357,
+      "prior_sigma": 3.4421,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_mu": 20.9708,
+      "prior_sigma": 3.1163,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_mu": 20.8832,
+      "prior_sigma": 3.2929,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_mu": 21.0752,
+      "prior_sigma": 3.426,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_mu": 20.5625,
+      "prior_sigma": 2.5421,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_mu": 20.5695,
+      "prior_sigma": 2.3541,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 20.3797,
+      "prior_sigma": 2.3839,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_mu": 20.3761,
+      "prior_sigma": 2.5084,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_mu": 20.9046,
+      "prior_sigma": 2.979,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_mu": 18.7721,
+      "prior_sigma": 2.7762,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_mu": 13.6961,
+      "prior_sigma": 3.8343,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 20.0606,
+      "prior_sigma": 2.8397,
+      "prior_n": 5
+    }
+  ]
+}

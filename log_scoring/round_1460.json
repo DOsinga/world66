@@ -1,0 +1,200 @@
+{
+  "round": 1460,
+  "timestamp": "2026-04-12T22:28:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_rank": 621,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_rank": 1108,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Les Saintes",
+      "path": "northamerica/guadeloupe/lessaintes",
+      "prior_rank": 982,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/casadecampo/la_romana",
+      "prior_rank": 4200,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_rank": 1957,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "West Coast",
+      "path": "asia/turkey/westcoast",
+      "prior_rank": 842,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Santa Eulalia",
+      "path": "europe/spain/balearicislands/ibiza/santaeulalia",
+      "prior_rank": 1222,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_rank": 639,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_rank": 1055,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_rank": 2691,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/christchurch",
+      "prior_rank": 728,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_rank": 2451,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_rank": 2101,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_rank": 3370,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_rank": 2166,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_rank": 849,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_rank": 1661,
+      "prior_wins": 80,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_rank": 1429,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_rank": 1559,
+      "prior_wins": 81,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_rank": 738,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_rank": 2627,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_rank": 2144,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_rank": 350,
+      "prior_wins": 158,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/lynton_and_lynmout",
+      "prior_rank": 700,
+      "prior_wins": 74,
+      "prior_n": 4
+    }
+  ]
+}

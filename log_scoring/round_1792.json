@@ -1,0 +1,200 @@
+{
+  "round": 1792,
+  "timestamp": "2026-04-13T10:51:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 13.3558,
+      "prior_variance": 0.722783,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_score": 8.9028,
+      "prior_variance": 0.518452,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cayman Islands",
+      "path": "northamerica/thecaribbean/caymanislands",
+      "prior_score": 7.0673,
+      "prior_variance": 0.419405,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Crete",
+      "path": "europe/greece/crete",
+      "prior_score": 11.9163,
+      "prior_variance": 0.697278,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Abruzzo",
+      "path": "europe/italy/abruzzo",
+      "prior_score": 3.7725,
+      "prior_variance": 0.266022,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/harrogate",
+      "prior_score": 2.838,
+      "prior_variance": 0.349211,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 1.8419,
+      "prior_variance": 0.312392,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 5.4135,
+      "prior_variance": 0.314745,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 2.1193,
+      "prior_variance": 0.412936,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.4951,
+      "prior_variance": 0.311393,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 2.0749,
+      "prior_variance": 0.303486,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_score": 1.0721,
+      "prior_variance": 0.295418,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.3527,
+      "prior_variance": 0.479946,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -2.0984,
+      "prior_variance": 0.346364,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -0.51,
+      "prior_variance": 0.337564,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_score": 0.5854,
+      "prior_variance": 0.232048,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_score": 2.3854,
+      "prior_variance": 0.274623,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -2.342,
+      "prior_variance": 0.3093,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -0.3196,
+      "prior_variance": 0.28616,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.6775,
+      "prior_variance": 0.320103,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.7466,
+      "prior_variance": 0.361601,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -6.0317,
+      "prior_variance": 0.415924,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -4.785,
+      "prior_variance": 0.294176,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -6.5701,
+      "prior_variance": 0.488792,
+      "prior_n": 5
+    }
+  ]
+}

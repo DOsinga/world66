@@ -1,0 +1,200 @@
+{
+  "round": 1555,
+  "timestamp": "2026-04-13T10:31:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Acadia",
+      "path": "northamerica/unitedstates/maine/acadia",
+      "prior_score": 6.3724,
+      "prior_variance": 0.43492,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.962,
+      "prior_variance": 0.40804,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 3.816,
+      "prior_variance": 0.474953,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 6.1698,
+      "prior_variance": 0.369089,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_score": 0.4452,
+      "prior_variance": 0.385691,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 4.7807,
+      "prior_variance": 0.38567,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 4.9587,
+      "prior_variance": 0.394175,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_score": 5.301,
+      "prior_variance": 0.616108,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "The Land of the Cathars",
+      "path": "europe/france/midi/languedoc/the_land_of_the_ca",
+      "prior_score": 5.4296,
+      "prior_variance": 0.426144,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 5.1121,
+      "prior_variance": 0.366785,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.5163,
+      "prior_variance": 0.49206,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_score": 5.8423,
+      "prior_variance": 0.44387,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_score": 6.3215,
+      "prior_variance": 0.454357,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": -0.2694,
+      "prior_variance": 0.510354,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 4.0736,
+      "prior_variance": 0.429182,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 3.3229,
+      "prior_variance": 0.447403,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 4.2344,
+      "prior_variance": 0.35198,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 4.8551,
+      "prior_variance": 0.431631,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.2696,
+      "prior_variance": 0.306516,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Playa del Ingl\u00e9s",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.963,
+      "prior_variance": 0.317519,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 4.7337,
+      "prior_variance": 0.419261,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": 1.0625,
+      "prior_variance": 0.497492,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_score": 0.7528,
+      "prior_variance": 0.376314,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 3.5999,
+      "prior_variance": 0.386311,
+      "prior_n": 5
+    }
+  ]
+}

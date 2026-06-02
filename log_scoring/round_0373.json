@@ -1,0 +1,200 @@
+{
+  "round": 373,
+  "timestamp": "2026-04-12T09:14:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/yucatan/playadelcarmen",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_mu": 24.8011,
+      "prior_sigma": 6.1393,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_mu": 23.3429,
+      "prior_sigma": 5.6849,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/manitousprings",
+      "prior_mu": 22.5294,
+      "prior_sigma": 5.9138,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 21.9408,
+      "prior_sigma": 2.5587,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_mu": 21.7591,
+      "prior_sigma": 4.744,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_mu": 22.7178,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_mu": 22.7908,
+      "prior_sigma": 5.711,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "McLean",
+      "path": "northamerica/unitedstates/virginia/mclean",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

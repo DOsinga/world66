@@ -1,0 +1,200 @@
+{
+  "round": 2130,
+  "timestamp": "2026-04-13T16:13:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.2945,
+      "prior_variance": 0.338417,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_score": 4.8366,
+      "prior_variance": 0.32268,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.3451,
+      "prior_variance": 0.209662,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 2.2603,
+      "prior_variance": 0.28634,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": -1.4088,
+      "prior_variance": 0.274085,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.33,
+      "prior_variance": 0.270186,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -0.0584,
+      "prior_variance": 0.23418,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.5995,
+      "prior_variance": 0.289132,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 1.1675,
+      "prior_variance": 0.290141,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.9017,
+      "prior_variance": 0.260218,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -1.8853,
+      "prior_variance": 0.311564,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -1.743,
+      "prior_variance": 0.284852,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -1.0481,
+      "prior_variance": 0.216168,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 0.5557,
+      "prior_variance": 0.322001,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -1.6086,
+      "prior_variance": 0.230885,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hessen",
+      "path": "europe/germany/hessen",
+      "prior_score": -0.5033,
+      "prior_variance": 0.325574,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -0.6179,
+      "prior_variance": 0.226537,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -1.9923,
+      "prior_variance": 0.214194,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -0.5154,
+      "prior_variance": 0.247908,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_score": -1.8133,
+      "prior_variance": 0.275036,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.4347,
+      "prior_variance": 0.32607,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -4.1375,
+      "prior_variance": 0.283481,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Udham Singh Naga",
+      "path": "asia/india/uttaranchal/udham_singh_naga",
+      "prior_score": -5.7247,
+      "prior_variance": 0.318293,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -6.6686,
+      "prior_variance": 0.345058,
+      "prior_n": 5
+    }
+  ]
+}

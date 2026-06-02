@@ -1,0 +1,200 @@
+{
+  "round": 1713,
+  "timestamp": "2026-04-13T10:44:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 14.1051,
+      "prior_variance": 1.248283,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Scuba Diving",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
+      "prior_score": 15.3728,
+      "prior_variance": 0.841632,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Western Samoa",
+      "path": "australiaandpacific/westernsamoa",
+      "prior_score": 2.3775,
+      "prior_variance": 0.45541,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 2.7829,
+      "prior_variance": 0.308744,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shetland",
+      "path": "europe/unitedkingdom/scotland/shetland",
+      "prior_score": 2.5446,
+      "prior_variance": 0.319033,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": 0.3348,
+      "prior_variance": 0.361216,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 1.1416,
+      "prior_variance": 0.319496,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 3.0796,
+      "prior_variance": 0.39508,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 2.1629,
+      "prior_variance": 0.389237,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 0.935,
+      "prior_variance": 0.348928,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 0.3397,
+      "prior_variance": 0.350707,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": -0.0407,
+      "prior_variance": 0.285691,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": -0.3567,
+      "prior_variance": 0.362901,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -0.4554,
+      "prior_variance": 0.238622,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Negros island",
+      "path": "asia/philippines/negrosisland",
+      "prior_score": 0.9028,
+      "prior_variance": 0.32519,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_score": -1.6322,
+      "prior_variance": 0.29971,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_score": -1.6555,
+      "prior_variance": 0.311909,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.2876,
+      "prior_variance": 0.303292,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/kapiti_coast/raumati_beach",
+      "prior_score": -2.0804,
+      "prior_variance": 0.342352,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -1.7572,
+      "prior_variance": 0.31705,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimen",
+      "prior_score": 0.4342,
+      "prior_variance": 0.331817,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_score": -2.1032,
+      "prior_variance": 0.304789,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.077,
+      "prior_variance": 0.339309,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -6.2853,
+      "prior_variance": 0.307748,
+      "prior_n": 4
+    }
+  ]
+}

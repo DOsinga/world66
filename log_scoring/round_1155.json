@@ -1,0 +1,200 @@
+{
+  "round": 1155,
+  "timestamp": "2026-04-12T22:12:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_rank": 4018,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_rank": 5639,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_rank": 4068,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_rank": 4580,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Salt island",
+      "path": "northamerica/britishvirginislands/saltisland",
+      "prior_rank": 5018,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Around Town",
+      "path": "northamerica/canada/alberta/calgary/aroundtown",
+      "prior_rank": 4391,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_rank": 3569,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_rank": 5473,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_rank": 5938,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_rank": 6565,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_rank": 4394,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_rank": 4216,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_rank": 4019,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_rank": 7365,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_rank": 4549,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_rank": 6114,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_rank": 5029,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_rank": 6141,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_rank": 5548,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_rank": 5909,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_rank": 4010,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_rank": 6644,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_rank": 5642,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Surnadal",
+      "path": "europe/norway/surnadal",
+      "prior_rank": 7570,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

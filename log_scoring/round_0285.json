@@ -1,0 +1,200 @@
+{
+  "round": 285,
+  "timestamp": "2026-04-12T09:10:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Phuket",
+      "path": "asia/thailand/phuket",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Lantau",
+      "path": "asia/china/hongkong/lantau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadei",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_mu": 22.7273,
+      "prior_sigma": 5.9504,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Clifton",
+      "path": "northamerica/saintvincentandthegrenadines/clifton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_mu": 22.663,
+      "prior_sigma": 5.6904,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "SASTAGO",
+      "path": "europe/spain/aragon/sastago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_doming",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_mu": 22.4267,
+      "prior_sigma": 5.9005,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_mu": 22.7179,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

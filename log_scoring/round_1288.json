@@ -1,0 +1,200 @@
+{
+  "round": 1288,
+  "timestamp": "2026-04-12T22:19:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_rank": 3361,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_rank": 2315,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_rank": 3343,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_rank": 2822,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_rank": 3980,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_rank": 5656,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_rank": 2651,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "costa dorada",
+      "path": "europe/spain/spanishcostas/costa_dorada",
+      "prior_rank": 5796,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_rank": 6278,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_rank": 4851,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_rank": 2426,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_rank": 3459,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_rank": 2993,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_rank": 4728,
+      "prior_wins": 51,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_rank": 4172,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_rank": 5805,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_rank": 5282,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_rank": 5369,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_rank": 4136,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_rank": 2785,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_rank": 5298,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_rank": 3229,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_rank": 4870,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_rank": 3524,
+      "prior_wins": 63,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2209,
+  "timestamp": "2026-04-13T16:20:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 8.4653,
+      "prior_variance": 0.32092,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_score": 4.3034,
+      "prior_variance": 0.250125,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.964,
+      "prior_variance": 0.239529,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 1.1833,
+      "prior_variance": 0.265618,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester",
+      "prior_score": 1.2899,
+      "prior_variance": 0.255175,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 1.2743,
+      "prior_variance": 0.244953,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/sandiego/escondido",
+      "prior_score": -2.2053,
+      "prior_variance": 0.238595,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -3.6426,
+      "prior_variance": 0.252884,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.4104,
+      "prior_variance": 0.213979,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.2895,
+      "prior_variance": 0.256571,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "New Jersey",
+      "path": "northamerica/unitedstates/newjersey",
+      "prior_score": -4.0716,
+      "prior_variance": 0.352571,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Upper Montclair",
+      "path": "northamerica/unitedstates/newjersey/uppermontclair",
+      "prior_score": -5.1522,
+      "prior_variance": 0.251935,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Somerset",
+      "path": "northamerica/unitedstates/newjersey/somerset",
+      "prior_score": -5.4287,
+      "prior_variance": 0.284632,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -4.8636,
+      "prior_variance": 0.238089,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/wakefield",
+      "prior_score": -3.3093,
+      "prior_variance": 0.236934,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/consett",
+      "prior_score": -6.1023,
+      "prior_variance": 0.267174,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -2.6784,
+      "prior_variance": 0.23523,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -3.0563,
+      "prior_variance": 0.233746,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.3337,
+      "prior_variance": 0.299387,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -4.1311,
+      "prior_variance": 0.254349,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -5.6352,
+      "prior_variance": 0.310367,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -4.3296,
+      "prior_variance": 0.249424,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -9.2071,
+      "prior_variance": 0.502615,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -5.7556,
+      "prior_variance": 0.263149,
+      "prior_n": 6
+    }
+  ]
+}

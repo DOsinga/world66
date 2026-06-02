@@ -1,0 +1,200 @@
+{
+  "round": 1703,
+  "timestamp": "2026-04-13T10:43:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_score": 8.6766,
+      "prior_variance": 0.52075,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_score": 7.7051,
+      "prior_variance": 0.518756,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 1.2873,
+      "prior_variance": 0.299079,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Oman",
+      "path": "asia/oman",
+      "prior_score": 5.9683,
+      "prior_variance": 0.397461,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Calice Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure",
+      "prior_score": -1.7614,
+      "prior_variance": 0.337636,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.6373,
+      "prior_variance": 0.280329,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": 0.3504,
+      "prior_variance": 0.312282,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -4.2659,
+      "prior_variance": 0.31123,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -0.884,
+      "prior_variance": 0.312155,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kozanh",
+      "path": "europe/greece/kozanh",
+      "prior_score": -3.5867,
+      "prior_variance": 0.393914,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -3.1641,
+      "prior_variance": 0.326158,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_score": -5.2857,
+      "prior_variance": 0.354151,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.5691,
+      "prior_variance": 0.387867,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -3.3763,
+      "prior_variance": 0.345401,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Yantra",
+      "path": "europe/bulgaria/gornaoryahovica/yantra",
+      "prior_score": -3.8351,
+      "prior_variance": 0.426792,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Basecles",
+      "path": "europe/belgium/basecles",
+      "prior_score": -5.8254,
+      "prior_variance": 0.22904,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -5.9002,
+      "prior_variance": 0.351418,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -5.152,
+      "prior_variance": 0.491454,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -6.1992,
+      "prior_variance": 0.348544,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -6.6476,
+      "prior_variance": 0.527449,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Griffith",
+      "path": "northamerica/unitedstates/indiana/griffith",
+      "prior_score": -6.4274,
+      "prior_variance": 0.389864,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -5.612,
+      "prior_variance": 0.403882,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.5149,
+      "prior_variance": 0.455658,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -7.5372,
+      "prior_variance": 0.580777,
+      "prior_n": 5
+    }
+  ]
+}

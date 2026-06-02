@@ -1,0 +1,200 @@
+{
+  "round": 392,
+  "timestamp": "2026-04-12T09:14:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_mu": 25.3136,
+      "prior_sigma": 5.694,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_mu": 23.3316,
+      "prior_sigma": 5.014,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_mu": 23.7898,
+      "prior_sigma": 4.9185,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_mu": 24.0818,
+      "prior_sigma": 5.7929,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_mu": 21.7846,
+      "prior_sigma": 4.8131,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_mu": 25.0629,
+      "prior_sigma": 5.9348,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_mu": 22.3929,
+      "prior_sigma": 5.5639,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Malawi",
+      "path": "africa/malawi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_mu": 22.6346,
+      "prior_sigma": 5.6782,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_mu": 22.5241,
+      "prior_sigma": 5.9132,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.9495,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_mu": 21.9373,
+      "prior_sigma": 4.8374,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_mu": 22.2445,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dickenson Bay",
+      "path": "southamerica/argentina/dickensonbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

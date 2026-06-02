@@ -1,0 +1,200 @@
+{
+  "round": 1249,
+  "timestamp": "2026-04-12T22:17:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Rift Valley",
+      "path": "africa/kenya/theriftvalley",
+      "prior_rank": 1660,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_rank": 5409,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_rank": 2298,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Madhya Pradesh",
+      "path": "asia/india/madhyapradesh",
+      "prior_rank": 3029,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_rank": 1359,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_rank": 5248,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_rank": 3346,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/chichester",
+      "prior_rank": 3297,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
+      "prior_rank": 3378,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_rank": 4432,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_rank": 3060,
+      "prior_wins": 59,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_rank": 4570,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_rank": 4243,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_rank": 2597,
+      "prior_wins": 101,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_rank": 6102,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_rank": 4329,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_rank": 5537,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_rank": 3036,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_rank": 4726,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_rank": 3293,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/vermont/chester",
+      "prior_rank": 4791,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aiea",
+      "path": "northamerica/unitedstates/hawaii/aiea",
+      "prior_rank": 5053,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_rank": 1461,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_rank": 4074,
+      "prior_wins": 23,
+      "prior_n": 2
+    }
+  ]
+}

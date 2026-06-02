@@ -1,0 +1,200 @@
+{
+  "round": 2075,
+  "timestamp": "2026-04-13T16:08:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.0695,
+      "prior_variance": 0.317542,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Carnac",
+      "path": "europe/france/aquitaine/carnac",
+      "prior_score": 3.6769,
+      "prior_variance": 0.288197,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.8004,
+      "prior_variance": 0.346573,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_score": 4.1508,
+      "prior_variance": 0.371936,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.1965,
+      "prior_variance": 0.257573,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 2.3341,
+      "prior_variance": 0.21915,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_score": 2.8509,
+      "prior_variance": 0.275707,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_score": 1.1855,
+      "prior_variance": 0.260914,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_score": 2.0493,
+      "prior_variance": 0.250784,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/chichester",
+      "prior_score": 1.5222,
+      "prior_variance": 0.300698,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 2.985,
+      "prior_variance": 0.258936,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 2.0511,
+      "prior_variance": 0.254435,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_score": 0.1407,
+      "prior_variance": 0.238852,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_score": 1.0334,
+      "prior_variance": 0.301526,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -0.7005,
+      "prior_variance": 0.262568,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 2.1684,
+      "prior_variance": 0.28779,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": -0.4689,
+      "prior_variance": 0.249289,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 2.1903,
+      "prior_variance": 0.249071,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 1.2396,
+      "prior_variance": 0.250383,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.4693,
+      "prior_variance": 0.302234,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -1.6184,
+      "prior_variance": 0.27264,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -4.98,
+      "prior_variance": 0.347654,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanes",
+      "prior_score": -4.5449,
+      "prior_variance": 0.345526,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "PesTeCPvzsxDFv",
+      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
+      "prior_score": -16.4419,
+      "prior_variance": 0.983421,
+      "prior_n": 6
+    }
+  ]
+}

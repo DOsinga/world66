@@ -1,0 +1,200 @@
+{
+  "round": 556,
+  "timestamp": "2026-04-12T10:37:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_mu": 25.7505,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_mu": 23.4011,
+      "prior_sigma": 5.9933,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Himachal Pradesh",
+      "path": "asia/india/himachalpradesh",
+      "prior_mu": 22.9159,
+      "prior_sigma": 4.475,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_mu": 22.3149,
+      "prior_sigma": 4.2766,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_mu": 20.8735,
+      "prior_sigma": 2.7255,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_mu": 22.0579,
+      "prior_sigma": 4.5323,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_mu": 21.6732,
+      "prior_sigma": 4.7959,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_mu": 21.6344,
+      "prior_sigma": 4.4123,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_mu": 22.2598,
+      "prior_sigma": 5.678,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_mu": 22.4488,
+      "prior_sigma": 5.9351,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ganpati Phule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_mu": 21.5311,
+      "prior_sigma": 3.9954,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_mu": 22.5201,
+      "prior_sigma": 5.9328,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_mu": 21.7406,
+      "prior_sigma": 5.6384,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ambala",
+      "path": "asia/india/haryana/ambala",
+      "prior_mu": 22.5203,
+      "prior_sigma": 5.9474,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_mu": 18.2511,
+      "prior_sigma": 6.7079,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Nawanshahr",
+      "path": "asia/india/punjab/nawanshahr",
+      "prior_mu": 22.3306,
+      "prior_sigma": 5.935,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "tarli",
+      "path": "asia/india/maharashtra/konkan/tarli",
+      "prior_mu": 22.4091,
+      "prior_sigma": 5.7367,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "bapatla",
+      "path": "asia/india/andhrapradesh/bapatla",
+      "prior_mu": 18.9516,
+      "prior_sigma": 4.3068,
+      "prior_n": 3
+    }
+  ]
+}

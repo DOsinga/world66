@@ -1,0 +1,20 @@
+---
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-05-22'
+image: kutaisi.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kutaisi_%26_White_Bridge_as_seen_from_Mt_Gora_(August_2011)-cropped.jpg
+latitude: 42.271608
+loc_type: city
+longitude: 42.705447
+score: 0.57
+title: Kutaisi
+type: location
+---
+
+Kutaisi is Georgia's second city and one of the oldest continuously inhabited cities in the world, sitting on the Rioni River in the western region of Imereti. It was the capital of the ancient Kingdom of Colchis — the land of the Golden Fleece of Greek mythology — and later the seat of the medieval Kingdom of Georgia. Today it is a lively market city with significant historic monuments, an airport with European low-cost connections, and good access to the forested gorges and mountains of western Georgia.
+
+The centrepiece of the old city is the [Bagrati Cathedral](/europe/georgia/kutaisi/bagrati_cathedral), an 11th-century masterpiece of Georgian ecclesiastical architecture — though substantially rebuilt after being blown up by the Ottomans in 1691. Together with the [Gelati Monastery](/europe/georgia/kutaisi/gelati_monastery) complex, completed in the 12th century under King David the Builder and containing remarkable Byzantine-style mosaics, it constitutes a UNESCO World Heritage Site. Gelati also houses the tomb of David the Builder himself.
+
+Just outside the city, the [Sataplia Nature Reserve](/europe/georgia/kutaisi/sataplia_nature_reserve) combines a karst cave system with a patch of subtropical Colchic forest and preserved dinosaur footprints. The [Prometheus Caves](/europe/georgia/kutaisi/prometheus_caves) further up the Imereti valley are larger and more spectacular. The [Kutaisi Synagogue](/europe/georgia/kutaisi/kutaisi_synagogue) is a reminder of the ancient Jewish community that once made up a substantial part of the city's population. Kutaisi makes a practical base for western Georgia: [Borjomi](/europe/georgia/borjomi), [Batumi](/europe/georgia/batumi), and the Caucasus mountain passes are all accessible from here.

@@ -1,0 +1,200 @@
+{
+  "round": 1443,
+  "timestamp": "2026-04-12T22:27:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_rank": 7977,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_rank": 7887,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_rank": 7458,
+      "prior_wins": 25,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Paramus",
+      "path": "northamerica/unitedstates/newjersey/paramus",
+      "prior_rank": 8018,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_rank": 7889,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_rank": 7449,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lubon",
+      "path": "europe/poland/lubon",
+      "prior_rank": 7955,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_rank": 7173,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_rank": 7699,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_rank": 8020,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_rank": 7770,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_rank": 7562,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_rank": 7963,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_rank": 8121,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_rank": 8211,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Guinea-Bissau",
+      "path": "africa/guineabissau",
+      "prior_rank": 7671,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Liberia",
+      "path": "africa/liberia",
+      "prior_rank": 7933,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_rank": 8022,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_rank": 7270,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_rank": 8184,
+      "prior_wins": 7,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_rank": 7838,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jaranwala",
+      "path": "asia/pakistan/gujrat/jaranwala",
+      "prior_rank": 6417,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_rank": 8201,
+      "prior_wins": 4,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_rank": 5391,
+      "prior_wins": 37,
+      "prior_n": 5
+    }
+  ]
+}

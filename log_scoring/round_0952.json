@@ -1,0 +1,200 @@
+{
+  "round": 952,
+  "timestamp": "2026-04-12T16:09:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "French Alps",
+      "path": "europe/france/alpes",
+      "prior_rank": 208,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Xi'an",
+      "path": "asia/china/xian",
+      "prior_rank": 771,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_rank": 1023,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_rank": 2322,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_rank": 230,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Orebic",
+      "path": "europe/croatia/orebic",
+      "prior_rank": 2269,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_rank": 1921,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_rank": 4822,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_rank": 3552,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_rank": 3576,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Noia",
+      "path": "europe/spain/northernspain/noia",
+      "prior_rank": 6650,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_rank": 6843,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_rank": 7220,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_rank": 6539,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_rank": 6503,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_rank": 6592,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_rank": 5477,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_rank": 7855,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_rank": 5452,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_rank": 7102,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_rank": 5920,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_rank": 7717,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Beautiful Historic Indian Head Saskatchewan",
+      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
+      "prior_rank": 6285,
+      "prior_wins": 17,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1031,
+  "timestamp": "2026-04-12T22:05:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_rank": 1470,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_rank": 1260,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_rank": 2642,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_rank": 2651,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_rank": 1514,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_rank": 2410,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_rank": 2197,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_rank": 4455,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_rank": 1081,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_rank": 2377,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_rank": 4202,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_rank": 2720,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_rank": 4217,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_eus/portugalete",
+      "prior_rank": 2375,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_rank": 1797,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_rank": 4847,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_rank": 4224,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/canterbury",
+      "prior_rank": 1611,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Teton Valley",
+      "path": "northamerica/unitedstates/idaho/teton_valley",
+      "prior_rank": 2634,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Junin de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_rank": 3802,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pensacola",
+      "path": "northamerica/unitedstates/florida/pensacola",
+      "prior_rank": 3010,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Argentina valley",
+      "path": "europe/italy/liguria/argentinavalley",
+      "prior_rank": 2279,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_rank": 2016,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_rank": 2727,
+      "prior_wins": 18,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+title: Food
+type: section
+---
+
+Asian food is extraordinarily varied — varied enough that lumping it all together barely makes sense. What unites it is freshness, the central role of rice or noodles, and a sophistication with spice and balance that has taken the rest of the world centuries to appreciate.
+
+**East Asia** — [China](/asia/china), [Japan](/asia/japan), [South Korea](/asia/southkorea), [Taiwan](/asia/taiwan) — is where food becomes obsession. [Japan](/asia/japan) has arguably the most developed food culture on earth: ramen shops that have been perfecting their broth for generations, sushi bars where fish is treated as carefully as fine wine, izakayas where you can graze for hours. [South Korea](/asia/southkorea)'s barbecue and kimchi are famous, but the depth of the cuisine goes much further. [Taiwan](/asia/taiwan)'s night markets — stinky tofu, scallion pancakes, beef noodle soup — are a sensory education. Chinese regional cooking is its own universe: the fiery numbing heat of Sichuan, the dim sum tradition of Guangdong, the Islamic lamb dishes of Xinjiang, the dumplings and wheat noodles of the north.
+
+**Southeast Asia** — [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Malaysia](/asia/malaysia), [Indonesia](/asia/indonesia), [Singapore](/asia/singapore) — is where street food culture reaches its peak. Bangkok's sidewalk stalls produce pad thai, som tam, and mango sticky rice that no restaurant version anywhere else has matched. Vietnamese food is built around freshness: pho, banh mi, and bun cha are deceptively simple and endlessly good. [Malaysia](/asia/malaysia) and [Singapore](/asia/singapore) are where Chinese, Malay, and Indian traditions have fused into something distinctive — laksa, char kway teow, nasi lemak. [Indonesia](/asia/indonesia)'s rice table (rijsttafel) is the best way to sample a cuisine that varies enormously across thousands of islands.
+
+**South Asia** — [India](/asia/india), [Sri Lanka](/asia/srilanka), [Nepal](/asia/nepal) — has a cuisine so regional that traveling from state to state feels like changing countries entirely. The spiced lamb of Rajasthan is nothing like the coconut curries of Kerala or the fish dishes of Bengal. [Sri Lanka](/asia/srilanka) does things with coconut milk, curry leaf, and dried fish that are distinct from Indian cooking despite the geographic proximity. South Asian food is also the most vegetarian-friendly in the world — not by accident, but by deep cultural tradition.
+
+**The Middle East** — [Lebanon](/asia/lebanon), [Israel](/asia/israel), [Turkey](/asia/turkey), [Iran](/asia/iran) — offers food built on fresh vegetables, legumes, and grilled meat. Lebanese mezze is one of the great eating traditions: hummus, tabbouleh, fattoush, kibbeh, and a dozen other dishes arriving at the table in small portions. [Turkey](/asia/turkey) offers extraordinary range, from Aegean olive oil dishes to the kebab culture of the southeast. [Iran](/asia/iran) is underrated as a food destination — saffron rice dishes, herb-heavy stews, and excellent pomegranate-walnut sauces reward any visitor who makes it there.
+
+**Central Asia** — [Uzbekistan](/asia/uzbekistan), [Kazakhstan](/asia/kazakhstan), [Kyrgyzstan](/asia/kyrgyzstan) — has a heartier tradition rooted in nomadic and Silk Road culture. Plov (rice pilaf cooked with meat and carrots) is the signature dish of Uzbekistan, cooked in enormous quantities for celebrations. Samsa (baked meat pastries), lagman (hand-pulled noodles), and various grilled meats feature across the region. The bread — lepyoshka, baked in clay ovens — is excellent.
+
+One practical note: in much of Asia, the best food is not in restaurants. It is at street stalls, market counters, and small family-run spots with plastic chairs. Eat where locals eat, follow the longest queues, and be suspicious of menus translated into six languages.

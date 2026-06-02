@@ -1,0 +1,200 @@
+{
+  "round": 305,
+  "timestamp": "2026-04-12T09:10:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_mu": 31.8702,
+      "prior_sigma": 6.3035,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/grasmere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Watamu",
+      "path": "africa/kenya/thecoast/watamu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/waikato/coromandel",
+      "prior_mu": 22.2278,
+      "prior_sigma": 5.7771,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Leyte island",
+      "path": "asia/philippines/leyteisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_mu": 22.7158,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_mu": 21.5614,
+      "prior_sigma": 5.5136,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Palagru\u017ea",
+      "path": "europe/croatia/korcula/palagruza_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/delaware",
+      "prior_mu": 22.4576,
+      "prior_sigma": 5.9044,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

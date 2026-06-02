@@ -1,0 +1,200 @@
+{
+  "round": 461,
+  "timestamp": "2026-04-12T09:31:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_mu": 25.2338,
+      "prior_sigma": 5.0983,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_mu": 22.7203,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_mu": 22.4791,
+      "prior_sigma": 5.9068,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Teton Valley",
+      "path": "northamerica/unitedstates/idaho/teton_valley",
+      "prior_mu": 22.7791,
+      "prior_sigma": 5.7127,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_mu": 22.7734,
+      "prior_sigma": 5.7137,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "North Coast",
+      "path": "northamerica/unitedstates/california/northcoast",
+      "prior_mu": 21.7503,
+      "prior_sigma": 4.7546,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_mu": 22.3318,
+      "prior_sigma": 5.7639,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_mu": 22.5277,
+      "prior_sigma": 5.7403,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_mu": 22.7218,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_mu": 20.4942,
+      "prior_sigma": 2.5786,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_mu": 22.6115,
+      "prior_sigma": 5.9346,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Slidell",
+      "path": "northamerica/unitedstates/louisiana/slidell",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_mu": 20.3423,
+      "prior_sigma": 3.7597,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Waldorf",
+      "path": "northamerica/unitedstates/maryland/waldorf",
+      "prior_mu": 22.0369,
+      "prior_sigma": 5.8672,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_mu": 22.3992,
+      "prior_sigma": 5.8992,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "North Dakota",
+      "path": "northamerica/unitedstates/northdakota",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_mu": 22.6389,
+      "prior_sigma": 5.9394,
+      "prior_n": 1
+    }
+  ]
+}

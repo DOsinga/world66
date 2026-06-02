@@ -1,0 +1,200 @@
+{
+  "round": 2022,
+  "timestamp": "2026-04-13T16:03:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 6.5093,
+      "prior_variance": 0.28196,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 1.6892,
+      "prior_variance": 0.133524,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_score": 4.2901,
+      "prior_variance": 0.292989,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.5429,
+      "prior_variance": 0.259433,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.2264,
+      "prior_variance": 0.260722,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 1.347,
+      "prior_variance": 0.267442,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Canakkale",
+      "path": "asia/turkey/canakkale",
+      "prior_score": 2.775,
+      "prior_variance": 0.276283,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_score": 1.7568,
+      "prior_variance": 0.264521,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.8681,
+      "prior_variance": 0.273981,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 2.5062,
+      "prior_variance": 0.222414,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 3.1008,
+      "prior_variance": 0.326867,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 2.2423,
+      "prior_variance": 0.252931,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 0.0927,
+      "prior_variance": 0.300242,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": 1.2878,
+      "prior_variance": 0.357509,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tongatapu",
+      "path": "australiaandpacific/tonga/tongatapu",
+      "prior_score": 3.0773,
+      "prior_variance": 0.286507,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -1.9618,
+      "prior_variance": 0.355885,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_score": -0.369,
+      "prior_variance": 0.297871,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -1.6027,
+      "prior_variance": 0.24381,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -1.7684,
+      "prior_variance": 0.251304,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.5475,
+      "prior_variance": 0.242578,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -5.2596,
+      "prior_variance": 0.273888,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -5.8962,
+      "prior_variance": 0.289196,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -4.4633,
+      "prior_variance": 0.314957,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -11.5846,
+      "prior_variance": 0.472271,
+      "prior_n": 5
+    }
+  ]
+}

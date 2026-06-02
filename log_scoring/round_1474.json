@@ -1,0 +1,200 @@
+{
+  "round": 1474,
+  "timestamp": "2026-04-13T10:24:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Indonesia",
+      "path": "asia/indonesia",
+      "prior_score": -3.0433,
+      "prior_variance": 0.717698,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 4.6673,
+      "prior_variance": 0.591633,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.4052,
+      "prior_variance": 0.46053,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_score": -0.0256,
+      "prior_variance": 0.586319,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 0.7399,
+      "prior_variance": 0.425872,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.4726,
+      "prior_variance": 0.566514,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 1.3899,
+      "prior_variance": 0.409501,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": -0.5031,
+      "prior_variance": 0.51703,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": 1.6284,
+      "prior_variance": 0.345092,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_score": 0.8087,
+      "prior_variance": 0.40947,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Marie-Galante",
+      "path": "northamerica/guadeloupe/mariegalante",
+      "prior_score": 2.1204,
+      "prior_variance": 0.406688,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": 0.2835,
+      "prior_variance": 0.448398,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.2535,
+      "prior_variance": 0.460489,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 3.2006,
+      "prior_variance": 0.284425,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": 0.1165,
+      "prior_variance": 0.420308,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.0184,
+      "prior_variance": 0.32345,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.272,
+      "prior_variance": 0.345272,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Guanica",
+      "path": "northamerica/puertorico/guanica",
+      "prior_score": 1.4399,
+      "prior_variance": 0.430629,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.8643,
+      "prior_variance": 0.54959,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -4.3032,
+      "prior_variance": 1.031926,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_score": -0.4596,
+      "prior_variance": 0.354873,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": 0.3347,
+      "prior_variance": 0.410858,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -0.7455,
+      "prior_variance": 0.420555,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_score": 0.4136,
+      "prior_variance": 0.436236,
+      "prior_n": 3
+    }
+  ]
+}

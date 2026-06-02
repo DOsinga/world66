@@ -1,0 +1,200 @@
+{
+  "round": 1679,
+  "timestamp": "2026-04-13T10:41:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/saintbartholomy",
+      "prior_score": 8.0535,
+      "prior_variance": 0.401319,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 7.1638,
+      "prior_variance": 0.5386,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 7.1849,
+      "prior_variance": 0.379354,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland_island",
+      "prior_score": 2.1828,
+      "prior_variance": 0.205497,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 2.1563,
+      "prior_variance": 0.331449,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -1.2728,
+      "prior_variance": 0.36424,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pensacola",
+      "path": "northamerica/unitedstates/florida/pensacola",
+      "prior_score": 1.4053,
+      "prior_variance": 0.336297,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.2819,
+      "prior_variance": 0.391145,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.123,
+      "prior_variance": 0.333803,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.014,
+      "prior_variance": 0.207854,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": 0.1146,
+      "prior_variance": 0.332388,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": 0.4772,
+      "prior_variance": 0.302601,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -0.7078,
+      "prior_variance": 0.311617,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -0.0769,
+      "prior_variance": 0.37539,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.4085,
+      "prior_variance": 0.287861,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Odisha",
+      "path": "asia/india/orissa",
+      "prior_score": -0.5678,
+      "prior_variance": 0.415585,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.2953,
+      "prior_variance": 0.328753,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.3975,
+      "prior_variance": 0.327,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 1.5924,
+      "prior_variance": 0.320284,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.2149,
+      "prior_variance": 0.368548,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -2.3899,
+      "prior_variance": 0.449857,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": -0.4321,
+      "prior_variance": 0.368112,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mardakan",
+      "path": "europe/azerbaijan/mardakan",
+      "prior_score": -4.8258,
+      "prior_variance": 0.364215,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -7.4031,
+      "prior_variance": 0.50039,
+      "prior_n": 4
+    }
+  ]
+}

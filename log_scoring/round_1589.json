@@ -1,0 +1,200 @@
+{
+  "round": 1589,
+  "timestamp": "2026-04-13T10:33:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 16.5669,
+      "prior_variance": 0.857344,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_score": 15.817,
+      "prior_variance": 1.112861,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/otago/milford_sound",
+      "prior_score": 15.2441,
+      "prior_variance": 0.771869,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_score": 4.9409,
+      "prior_variance": 0.198828,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 5.5804,
+      "prior_variance": 0.390317,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Northern Spain",
+      "path": "europe/spain/northernspain",
+      "prior_score": 3.88,
+      "prior_variance": 0.36982,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 5.042,
+      "prior_variance": 0.356253,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 4.2366,
+      "prior_variance": 0.301305,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.7483,
+      "prior_variance": 0.334444,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Northern Cyprus",
+      "path": "asia/cyprus/northerncyprus",
+      "prior_score": 2.8589,
+      "prior_variance": 0.301876,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.8022,
+      "prior_variance": 0.550405,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 2.669,
+      "prior_variance": 0.348654,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sandoy",
+      "path": "europe/faroeislands/sandoy",
+      "prior_score": 1.988,
+      "prior_variance": 0.503642,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 1.9356,
+      "prior_variance": 0.406264,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 1.9522,
+      "prior_variance": 0.367998,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_score": 4.4839,
+      "prior_variance": 0.349806,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 2.4558,
+      "prior_variance": 0.356855,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 3.3783,
+      "prior_variance": 0.350079,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.7456,
+      "prior_variance": 0.489529,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_score": 0.8589,
+      "prior_variance": 0.428623,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": 0.8945,
+      "prior_variance": 0.476367,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -5.5593,
+      "prior_variance": 0.463232,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_score": -2.5748,
+      "prior_variance": 0.449211,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.3983,
+      "prior_variance": 0.470152,
+      "prior_n": 4
+    }
+  ]
+}

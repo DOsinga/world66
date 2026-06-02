@@ -1,0 +1,32 @@
+{
+  "round": 487,
+  "timestamp": "2026-04-12T09:32:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 3,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_mu": 20.531,
+      "prior_sigma": 5.4465,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_mu": 22.4898,
+      "prior_sigma": 5.909,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gabon",
+      "path": "africa/gabon",
+      "prior_mu": 22.7094,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    }
+  ]
+}

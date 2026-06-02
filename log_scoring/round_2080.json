@@ -1,0 +1,200 @@
+{
+  "round": 2080,
+  "timestamp": "2026-04-13T16:09:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 8.0487,
+      "prior_variance": 0.277821,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.9338,
+      "prior_variance": 0.331455,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.189,
+      "prior_variance": 0.276925,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 4.1872,
+      "prior_variance": 0.241497,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 3.0923,
+      "prior_variance": 0.26788,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 4.5588,
+      "prior_variance": 0.266112,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_score": 1.8809,
+      "prior_variance": 0.370415,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.2286,
+      "prior_variance": 0.419162,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_score": 1.7381,
+      "prior_variance": 0.254048,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_score": 1.8471,
+      "prior_variance": 0.307561,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 2.215,
+      "prior_variance": 0.317514,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_score": 2.5938,
+      "prior_variance": 0.246694,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.0541,
+      "prior_variance": 0.307593,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.6286,
+      "prior_variance": 0.281213,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": 0.5664,
+      "prior_variance": 0.270406,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.8332,
+      "prior_variance": 0.350922,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_score": 0.3431,
+      "prior_variance": 0.159671,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.9824,
+      "prior_variance": 0.325825,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.1695,
+      "prior_variance": 0.277292,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.9913,
+      "prior_variance": 0.281597,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sahagun Hidalgo",
+      "path": "northamerica/mexico/yucatan/sahagunhidalgo",
+      "prior_score": -6.3804,
+      "prior_variance": 0.284596,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -3.4104,
+      "prior_variance": 0.291028,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mandangad",
+      "path": "asia/india/maharashtra/konkan/mandangad",
+      "prior_score": -5.1174,
+      "prior_variance": 0.335286,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_score": -12.5365,
+      "prior_variance": 0.690232,
+      "prior_n": 5
+    }
+  ]
+}

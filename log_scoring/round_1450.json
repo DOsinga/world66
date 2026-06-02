@@ -1,0 +1,200 @@
+{
+  "round": 1450,
+  "timestamp": "2026-04-12T22:28:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_rank": 3784,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_rank": 5094,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_rank": 5407,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_rank": 6357,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_rank": 6260,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_rank": 5822,
+      "prior_wins": 59,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed",
+      "prior_rank": 3635,
+      "prior_wins": 49,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_rank": 4502,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Odisha",
+      "path": "asia/india/orissa",
+      "prior_rank": 5886,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_rank": 2726,
+      "prior_wins": 56,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_rank": 5567,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_rank": 3584,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_rank": 6465,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "M'zab",
+      "path": "africa/algeria/mzab",
+      "prior_rank": 4503,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_rank": 5977,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_rank": 6973,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_rank": 5542,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_rank": 3382,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_rank": 4290,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_rank": 3711,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_rank": 4973,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville_nort",
+      "prior_rank": 3569,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_rank": 6118,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_rank": 4142,
+      "prior_wins": 34,
+      "prior_n": 3
+    }
+  ]
+}

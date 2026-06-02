@@ -1,0 +1,200 @@
+{
+  "round": 2153,
+  "timestamp": "2026-04-13T16:15:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/northernspain/sansebastian",
+      "prior_score": 8.7549,
+      "prior_variance": 0.397416,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 6.7881,
+      "prior_variance": 0.349839,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Merida",
+      "path": "northamerica/mexico/yucatan/merida",
+      "prior_score": 6.214,
+      "prior_variance": 0.295696,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.6254,
+      "prior_variance": 0.444908,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.9765,
+      "prior_variance": 0.215505,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.1631,
+      "prior_variance": 0.271421,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/murnau_am_staffels",
+      "prior_score": 1.166,
+      "prior_variance": 0.250727,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_score": 0.1769,
+      "prior_variance": 0.210694,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Honduras",
+      "path": "northamerica/honduras",
+      "prior_score": -1.6579,
+      "prior_variance": 0.265581,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -2.2345,
+      "prior_variance": 0.26005,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -1.2454,
+      "prior_variance": 0.214901,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.2719,
+      "prior_variance": 0.3223,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -0.7388,
+      "prior_variance": 0.204394,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": 0.1432,
+      "prior_variance": 0.225723,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -2.6117,
+      "prior_variance": 0.120737,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -1.5322,
+      "prior_variance": 0.219841,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -2.8606,
+      "prior_variance": 0.23107,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.8313,
+      "prior_variance": 0.223525,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": -0.5283,
+      "prior_variance": 0.223542,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -2.335,
+      "prior_variance": 0.239659,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -4.8584,
+      "prior_variance": 0.2601,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hayward",
+      "path": "northamerica/unitedstates/california/hayward",
+      "prior_score": -5.3281,
+      "prior_variance": 0.377357,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_score": -4.1601,
+      "prior_variance": 0.268806,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -8.643,
+      "prior_variance": 0.390682,
+      "prior_n": 7
+    }
+  ]
+}

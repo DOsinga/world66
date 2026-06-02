@@ -1,0 +1,200 @@
+{
+  "round": 242,
+  "timestamp": "2026-04-12T09:08:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Robben Island",
+      "path": "africa/southafrica/capetown/robbenisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_mu": 21.6084,
+      "prior_sigma": 5.5305,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_mu": 22.7205,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Le Havre",
+      "path": "europe/france/nord/lehavre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/losangeles/longbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_mu": 21.6872,
+      "prior_sigma": 5.5369,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Albert Lea",
+      "path": "northamerica/unitedstates/minnesota/albertlea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

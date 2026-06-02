@@ -1,0 +1,200 @@
+{
+  "round": 1574,
+  "timestamp": "2026-04-13T10:32:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 3.6825,
+      "prior_variance": 0.431019,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.1797,
+      "prior_variance": 0.440316,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_score": 3.9629,
+      "prior_variance": 0.36463,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -1.1364,
+      "prior_variance": 0.58201,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -1.9435,
+      "prior_variance": 0.320016,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -0.6841,
+      "prior_variance": 0.416709,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -1.715,
+      "prior_variance": 0.347954,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/thetfordnorfolk",
+      "prior_score": -4.1061,
+      "prior_variance": 0.428283,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.9625,
+      "prior_variance": 0.38389,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_score": -6.3952,
+      "prior_variance": 0.493992,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_score": -2.357,
+      "prior_variance": 0.313038,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_score": -1.7838,
+      "prior_variance": 0.261392,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.7429,
+      "prior_variance": 0.332281,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.517,
+      "prior_variance": 0.360864,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.7993,
+      "prior_variance": 0.750596,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -5.4963,
+      "prior_variance": 0.563428,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_score": -10.1671,
+      "prior_variance": 0.707806,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.7975,
+      "prior_variance": 0.442661,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -5.3539,
+      "prior_variance": 0.330073,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_score": -5.8636,
+      "prior_variance": 0.654505,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Laatzen",
+      "path": "europe/germany/lowersaxony/laatzen",
+      "prior_score": -6.2951,
+      "prior_variance": 0.350116,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -7.6131,
+      "prior_variance": 0.42467,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -9.1882,
+      "prior_variance": 0.439659,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bouenza region",
+      "path": "africa/congobrazzaville/bouenzaregion",
+      "prior_score": -9.2588,
+      "prior_variance": 0.56378,
+      "prior_n": 4
+    }
+  ]
+}

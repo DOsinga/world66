@@ -1,0 +1,200 @@
+{
+  "round": 68,
+  "timestamp": "2026-04-12T08:02:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_mu": 24.48,
+      "prior_sigma": 4.38,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 23.7,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "St. George's",
+      "path": "northamerica/grenada/stgeorges",
+      "prior_mu": 25.27,
+      "prior_sigma": 5.03,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 23.83,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_mu": 22.08,
+      "prior_sigma": 4.01,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_mu": 22.05,
+      "prior_sigma": 4.85,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_mu": 22.34,
+      "prior_sigma": 3.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_mu": 21.97,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.21,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_mu": 21.64,
+      "prior_sigma": 3.41,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_mu": 21.42,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_mu": 22.33,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_mu": 22.23,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_mu": 20.84,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_mu": 21.04,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 21.32,
+      "prior_sigma": 4.13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 21.26,
+      "prior_sigma": 4.16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_mu": 22.07,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_mu": 21.09,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_mu": 20.19,
+      "prior_sigma": 3.9,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_mu": 20.44,
+      "prior_sigma": 3.72,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_mu": 22.43,
+      "prior_sigma": 5.4,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_mu": 19.03,
+      "prior_sigma": 4.87,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_mu": 20.48,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    }
+  ]
+}

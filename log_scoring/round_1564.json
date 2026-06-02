@@ -1,0 +1,200 @@
+{
+  "round": 1564,
+  "timestamp": "2026-04-13T10:31:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gran Canaria",
+      "path": "europe/spain/grancanaria",
+      "prior_score": 8.5932,
+      "prior_variance": 0.456954,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_score": 2.743,
+      "prior_variance": 0.462597,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.8025,
+      "prior_variance": 0.402363,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 2.8681,
+      "prior_variance": 0.326725,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 1.0416,
+      "prior_variance": 0.297533,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_score": -0.68,
+      "prior_variance": 0.370468,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.9306,
+      "prior_variance": 0.305821,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": -0.1066,
+      "prior_variance": 0.658212,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.3547,
+      "prior_variance": 0.189987,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.2671,
+      "prior_variance": 0.425788,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -4.5337,
+      "prior_variance": 0.680541,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Komarna",
+      "path": "europe/croatia/komarna",
+      "prior_score": -0.417,
+      "prior_variance": 0.283629,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -1.4224,
+      "prior_variance": 0.390306,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -0.4448,
+      "prior_variance": 0.289281,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -1.2866,
+      "prior_variance": 0.345291,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_score": -7.1791,
+      "prior_variance": 0.578706,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.803,
+      "prior_variance": 0.617178,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -8.087,
+      "prior_variance": 0.527062,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -3.4424,
+      "prior_variance": 0.496005,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -4.2043,
+      "prior_variance": 0.305049,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -7.7891,
+      "prior_variance": 0.515542,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.8381,
+      "prior_variance": 0.374978,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.6993,
+      "prior_variance": 0.365887,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -9.7763,
+      "prior_variance": 0.751757,
+      "prior_n": 4
+    }
+  ]
+}

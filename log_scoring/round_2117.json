@@ -1,0 +1,200 @@
+{
+  "round": 2117,
+  "timestamp": "2026-04-13T16:12:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "US Virgin Islands",
+      "path": "northamerica/thecaribbean/virginislands",
+      "prior_score": 6.8317,
+      "prior_variance": 0.381763,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": -0.0344,
+      "prior_variance": 0.23129,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 2.4782,
+      "prior_variance": 0.294578,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": 0.3449,
+      "prior_variance": 0.268395,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 1.033,
+      "prior_variance": 0.264488,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 0.9393,
+      "prior_variance": 0.27029,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.1866,
+      "prior_variance": 0.214323,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -2.0531,
+      "prior_variance": 0.246549,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Chernobyl",
+      "path": "europe/ukraine/chernobyl",
+      "prior_score": -2.1563,
+      "prior_variance": 0.291502,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.3983,
+      "prior_variance": 0.243365,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -2.537,
+      "prior_variance": 0.252096,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -1.4959,
+      "prior_variance": 0.271188,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.4001,
+      "prior_variance": 0.220087,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gauteng",
+      "path": "africa/southafrica/gauteng",
+      "prior_score": -1.0858,
+      "prior_variance": 0.28687,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -3.123,
+      "prior_variance": 0.573727,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -2.6844,
+      "prior_variance": 0.200661,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.6562,
+      "prior_variance": 0.241195,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.7588,
+      "prior_variance": 0.259843,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -6.7486,
+      "prior_variance": 0.359797,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_score": -3.9563,
+      "prior_variance": 0.30894,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -3.6686,
+      "prior_variance": 0.247033,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -4.6715,
+      "prior_variance": 0.337783,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -3.3094,
+      "prior_variance": 0.245638,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "J-1 On-line Internet Cafe",
+      "path": "asia/philippines/manila/j1_online_intern",
+      "prior_score": -11.5604,
+      "prior_variance": 0.605795,
+      "prior_n": 5
+    }
+  ]
+}

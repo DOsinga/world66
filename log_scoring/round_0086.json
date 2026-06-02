@@ -1,0 +1,200 @@
+{
+  "round": 86,
+  "timestamp": "2026-04-12T08:03:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_mu": 24.03,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_mu": 23.71,
+      "prior_sigma": 4.79,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_mu": 22.49,
+      "prior_sigma": 4.42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_mu": 29.04,
+      "prior_sigma": 3.8,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_mu": 23.01,
+      "prior_sigma": 3.24,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_mu": 22.52,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 21.28,
+      "prior_sigma": 3.75,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 21.62,
+      "prior_sigma": 3.03,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_mu": 21.36,
+      "prior_sigma": 3.57,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_mu": 21.9,
+      "prior_sigma": 4.23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_mu": 20.98,
+      "prior_sigma": 3.17,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 20.95,
+      "prior_sigma": 3.46,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_mu": 21.51,
+      "prior_sigma": 3.5,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_mu": 21.38,
+      "prior_sigma": 3.52,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_mu": 21.16,
+      "prior_sigma": 3.12,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_mu": 21.91,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_mu": 20.73,
+      "prior_sigma": 3.31,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_mu": 21.01,
+      "prior_sigma": 3.58,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_mu": 21.24,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_mu": 19.24,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_mu": 20.84,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_mu": 19.45,
+      "prior_sigma": 3.62,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zuchwil",
+      "path": "europe/switzerland/zuchwil",
+      "prior_mu": 17.39,
+      "prior_sigma": 3.96,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_mu": 21.82,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    }
+  ]
+}

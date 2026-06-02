@@ -1,0 +1,200 @@
+{
+  "round": 1959,
+  "timestamp": "2026-04-13T15:57:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 11.1115,
+      "prior_variance": 0.43032,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compos",
+      "prior_score": 7.522,
+      "prior_variance": 0.336552,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Burgundy",
+      "path": "europe/france/wine/burgundy",
+      "prior_score": 7.7284,
+      "prior_variance": 0.306219,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 5.0019,
+      "prior_variance": 0.320122,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.81,
+      "prior_variance": 0.255327,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 6.6476,
+      "prior_variance": 0.335719,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 1.94,
+      "prior_variance": 0.263604,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 1.5493,
+      "prior_variance": 0.24588,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_score": 0.696,
+      "prior_variance": 0.262569,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.8447,
+      "prior_variance": 0.264154,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 1.6567,
+      "prior_variance": 0.284107,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 5.1955,
+      "prior_variance": 0.258751,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_score": 5.5325,
+      "prior_variance": 0.323902,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 3.0269,
+      "prior_variance": 0.298267,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Shenandoah",
+      "path": "northamerica/unitedstates/virginia/shenandoah",
+      "prior_score": 0.5965,
+      "prior_variance": 0.351363,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.8882,
+      "prior_variance": 0.284552,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 3.0229,
+      "prior_variance": 0.237493,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": 0.7733,
+      "prior_variance": 0.312369,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 0.7566,
+      "prior_variance": 0.370943,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -1.7198,
+      "prior_variance": 0.256337,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": -0.0728,
+      "prior_variance": 0.24342,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Music Row",
+      "path": "northamerica/unitedstates/tennessee/nashville/musicrow",
+      "prior_score": 1.9774,
+      "prior_variance": 0.287769,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -2.1461,
+      "prior_variance": 0.314719,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.2118,
+      "prior_variance": 0.332894,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "round": 611,
+  "timestamp": "2026-04-12T10:39:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 4,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_mu": 22.618,
+      "prior_sigma": 5.902,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kiribati",
+      "path": "australiaandpacific/kiribati",
+      "prior_mu": 22.7347,
+      "prior_sigma": 5.9388,
+      "prior_n": 1
+    }
+  ]
+}

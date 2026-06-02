@@ -1,0 +1,200 @@
+{
+  "round": 526,
+  "timestamp": "2026-04-12T09:45:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_mu": 37.2506,
+      "prior_sigma": 4.2508,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_mu": 24.3025,
+      "prior_sigma": 2.5153,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_mu": 22.1878,
+      "prior_sigma": 3.0413,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_mu": 22.762,
+      "prior_sigma": 2.3404,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_mu": 25.4187,
+      "prior_sigma": 3.1035,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_mu": 22.9026,
+      "prior_sigma": 2.7708,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_mu": 21.0638,
+      "prior_sigma": 2.6707,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.3251,
+      "prior_sigma": 2.604,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.1518,
+      "prior_sigma": 2.8447,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_mu": 21.1454,
+      "prior_sigma": 3.1015,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_mu": 21.7662,
+      "prior_sigma": 2.2563,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_mu": 21.769,
+      "prior_sigma": 3.0591,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_mu": 21.3637,
+      "prior_sigma": 3.3104,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/midsland",
+      "prior_mu": 21.1091,
+      "prior_sigma": 2.3109,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_mu": 21.1589,
+      "prior_sigma": 2.9372,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_mu": 20.6657,
+      "prior_sigma": 2.3675,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 20.5804,
+      "prior_sigma": 2.4025,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_mu": 20.4265,
+      "prior_sigma": 2.4835,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_mu": 20.609,
+      "prior_sigma": 2.666,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_mu": 16.4387,
+      "prior_sigma": 3.5835,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_mu": 15.3619,
+      "prior_sigma": 3.2346,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_mu": 20.6786,
+      "prior_sigma": 2.8164,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_mu": 18.8436,
+      "prior_sigma": 3.1251,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_mu": 18.0362,
+      "prior_sigma": 2.8909,
+      "prior_n": 6
+    }
+  ]
+}

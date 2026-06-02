@@ -1,0 +1,200 @@
+{
+  "round": 1122,
+  "timestamp": "2026-04-12T22:10:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_rank": 7482,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_rank": 5728,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_rank": 4876,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Haiti",
+      "path": "northamerica/thecaribbean/haiti",
+      "prior_rank": 7964,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/haiti/gonaveisland",
+      "prior_rank": 7837,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Huayang Village",
+      "path": "asia/china/huayang_village",
+      "prior_rank": 7797,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_rank": 7355,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_rank": 7809,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Engelskirchen",
+      "path": "europe/germany/northrhinewestphalia/engelskirchen",
+      "prior_rank": 7739,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_rank": 8057,
+      "prior_wins": 8,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cranford",
+      "path": "northamerica/unitedstates/newjersey/cranford",
+      "prior_rank": 7363,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_rank": 7812,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_rank": 7282,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_rank": 7858,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_rank": 8061,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_rank": 7860,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Chilton",
+      "path": "northamerica/unitedstates/wisconsin/chilton",
+      "prior_rank": 6190,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_rank": 7820,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_rank": 7813,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_rank": 7941,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Madhegaon kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_rank": 8186,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "kotnali villages photo",
+      "path": "asia/india/uttaranchal/kotnali_villages_p",
+      "prior_rank": 7631,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_rank": 8055,
+      "prior_wins": 9,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_rank": 7920,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

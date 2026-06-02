@@ -1,0 +1,48 @@
+[
+  {
+    "url": "/places/gros-piton-saint-lucia",
+    "type": "Place",
+    "item-id": "45374",
+    "gtm-content-type": "Place",
+    "lat": "13.803317",
+    "lng": "-61.066969",
+    "city": "Soufriere",
+    "country": "Saint Lucia",
+    "src": "https://img.atlasobscura.com/mGpwwSPli7akM8j5f_yAe4gGFsiZOtDINCmAuJIvR5Q/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81NjM0/OTY3ZDlhZGIxNmNl/MmNfR3JvcyBQaXRv/biwgUGV0aXRlIFBp/dG9uLCBTYWludCBM/dWNpYSBmcm9tIGEg/ZGlzdGFuY2Ugd2l0/aCBncmVlbmVyeSBp/biB0aGUgZm9yZWdy/b3VuZC5qcGc.jpg",
+    "width": "5200",
+    "height": "3467",
+    "name": "Gros Piton",
+    "description": "The larger of two volcanic peaks rising out of the crystalline waters of the Caribbean."
+  },
+  {
+    "url": "/places/sulphur-springs-saint-lucia",
+    "type": "Place",
+    "item-id": "42899",
+    "gtm-content-type": "Place",
+    "lat": "13.838205",
+    "lng": "-61.046911",
+    "city": "Soufriere",
+    "country": "Saint Lucia",
+    "src": "https://img.atlasobscura.com/9laKvc2QXlcTXkgPVFCLine23Kdj2j98HdvvMSbLKm4/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zYTUx/NDg1NC05MWFkLTQ4/NWQtOWQxMy1jYmFk/MzMyNTM5MTljNTg3/NzVkNDdkMzM5NzAw/MDFfNzMzNzA3Nzc3/NF8yYmQyNDdjOGIw/X28uanBn.jpg",
+    "width": "800",
+    "height": "600",
+    "name": "Sulphur Springs",
+    "description": "Come for the springs; stay for the mud bath."
+  },
+  {
+    "url": "/places/piton-falls",
+    "type": "Place",
+    "item-id": "68685",
+    "gtm-content-type": "Place",
+    "lat": "13.837046",
+    "lng": "-61.061364",
+    "city": "Belle Vue",
+    "state": "Soufri\u00e8re",
+    "country": "Saint Lucia",
+    "src": "https://img.atlasobscura.com/0BU8IrkVrGSqkiczzsDyTHkHS7uYM2KVMwhKJjzJXVU/rs:fill:600:400:1/g:ce/c:1749:1166:nowe:469:2451/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NjYz/MGM2Ni1iYTVhLTQ3/YjgtOGVhYS02N2Mw/YTdhYzE5MWRlNTFh/YzRjMDM3ZWNjMDRh/ZmJfSU1HXzc5MTEu/anBlZw.jpg",
+    "width": "3024",
+    "height": "4032",
+    "name": "Piton Falls",
+    "description": "A volcanically-heated waterfall in the St. Lucian rainforest."
+  }
+]

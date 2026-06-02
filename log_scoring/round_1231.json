@@ -1,0 +1,200 @@
+{
+  "round": 1231,
+  "timestamp": "2026-04-12T22:16:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_rank": 2597,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_rank": 5562,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_rank": 4288,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_rank": 6027,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_rank": 2605,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_rank": 4533,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_rank": 2434,
+      "prior_wins": 74,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_rank": 5047,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_rank": 4309,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_rank": 3799,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jinja",
+      "path": "africa/uganda/jinja",
+      "prior_rank": 2430,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_rank": 4335,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Junin de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_rank": 5085,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_rank": 4216,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_rank": 1923,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_rank": 2206,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Brunei",
+      "path": "asia/brunei",
+      "prior_rank": 4297,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_rank": 6047,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_rank": 3572,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_rank": 2276,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_rank": 3097,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_rank": 3965,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_rank": 4293,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_rank": 1813,
+      "prior_wins": 48,
+      "prior_n": 3
+    }
+  ]
+}

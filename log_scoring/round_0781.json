@@ -1,0 +1,200 @@
+{
+  "round": 781,
+  "timestamp": "2026-04-12T10:47:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Italian Riviera",
+      "path": "europe/italy/liguria/italianriviera",
+      "prior_mu": 22.8246,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_mu": 25.6889,
+      "prior_sigma": 6.3881,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_mu": 23.8591,
+      "prior_sigma": 5.889,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/auckland_region",
+      "prior_mu": 24.7635,
+      "prior_sigma": 6.1459,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Falkland Islands",
+      "path": "southamerica/falklandislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_mu": 22.3818,
+      "prior_sigma": 5.5345,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_mu": 21.2945,
+      "prior_sigma": 3.9327,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
+      "prior_mu": 21.9765,
+      "prior_sigma": 4.2628,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_mu": 21.2522,
+      "prior_sigma": 3.4609,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/guanajuato/len",
+      "prior_mu": 22.2589,
+      "prior_sigma": 5.41,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_mu": 21.3619,
+      "prior_sigma": 4.5245,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_mu": 21.471,
+      "prior_sigma": 4.7157,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_mu": 22.3963,
+      "prior_sigma": 5.6828,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_mu": 20.8349,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nord",
+      "path": "europe/france/nord",
+      "prior_mu": 17.2449,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_mu": 22.2517,
+      "prior_sigma": 5.4631,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Escalante City",
+      "path": "asia/philippines/escalante_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_mu": 21.3258,
+      "prior_sigma": 4.1672,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_mu": 21.9418,
+      "prior_sigma": 5.3029,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_mu": 18.9888,
+      "prior_sigma": 5.2334,
+      "prior_n": 2
+    }
+  ]
+}

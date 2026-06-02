@@ -1,0 +1,200 @@
+{
+  "round": 434,
+  "timestamp": "2026-04-12T09:30:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colorado",
+      "path": "northamerica/unitedstates/colorado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_mu": 22.8779,
+      "prior_sigma": 4.8744,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/hollywood",
+      "prior_mu": 23.0605,
+      "prior_sigma": 5.7545,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_mu": 22.3462,
+      "prior_sigma": 5.7851,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Shasta Cascade",
+      "path": "northamerica/unitedstates/california/shastacascade",
+      "prior_mu": 22.6826,
+      "prior_sigma": 5.9449,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pennsylvania",
+      "path": "northamerica/unitedstates/pennsylvania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_mu": 22.1504,
+      "prior_sigma": 5.746,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Century City",
+      "path": "northamerica/unitedstates/california/losangeles/centurycity",
+      "prior_mu": 22.1811,
+      "prior_sigma": 5.4035,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_mu": 22.319,
+      "prior_sigma": 5.7744,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_mu": 20.4898,
+      "prior_sigma": 2.7529,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_mu": 22.0969,
+      "prior_sigma": 5.7276,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_mu": 22.6623,
+      "prior_sigma": 5.6821,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 20.0644,
+      "prior_sigma": 2.4273,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_mu": 22.527,
+      "prior_sigma": 5.9135,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_mu": 21.227,
+      "prior_sigma": 5.7518,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_mu": 22.2162,
+      "prior_sigma": 5.7757,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_mu": 18.344,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1421,
+  "timestamp": "2026-04-12T22:26:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_rank": 833,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_rank": 3320,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_rank": 339,
+      "prior_wins": 100,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sinai Peninsula",
+      "path": "africa/egypt/sinaidesert",
+      "prior_rank": 1241,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_rank": 1478,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_rank": 1585,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_rank": 1532,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_rank": 1123,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_rank": 3950,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_rank": 3418,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Carnac",
+      "path": "europe/france/aquitaine/carnac",
+      "prior_rank": 1562,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gipuzkoa",
+      "path": "europe/spain/gipuzkoa",
+      "prior_rank": 2279,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_eus/laguardia",
+      "prior_rank": 2715,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_rank": 2535,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_rank": 1745,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_rank": 929,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_rank": 2401,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_rank": 3606,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_rank": 890,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_rank": 1109,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_rank": 1070,
+      "prior_wins": 104,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_rank": 1718,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_rank": 2058,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_rank": 1413,
+      "prior_wins": 50,
+      "prior_n": 3
+    }
+  ]
+}

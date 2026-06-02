@@ -1,0 +1,200 @@
+{
+  "round": 1248,
+  "timestamp": "2026-04-12T22:17:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_rank": 714,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_rank": 1345,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_rank": 3759,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_rank": 1970,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_rank": 2486,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_rank": 476,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_rank": 3311,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_rank": 1733,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_rank": 937,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Playa Brasilito",
+      "path": "northamerica/costarica/playabrasilito",
+      "prior_rank": 3435,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Valpolicella",
+      "path": "europe/italy/veneto/valpolicella",
+      "prior_rank": 2560,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_rank": 2028,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_rank": 3567,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington",
+      "prior_rank": 1658,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Guernsey",
+      "path": "europe/channelislands/guernsey",
+      "prior_rank": 1081,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_rank": 1446,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Winchester Hants",
+      "path": "europe/unitedkingdom/england/winchesterhants",
+      "prior_rank": 1869,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_rank": 2024,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacoruna",
+      "prior_rank": 2556,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_rank": 3566,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_rank": 2637,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_rank": 2468,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_rank": 1451,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_rank": 3819,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

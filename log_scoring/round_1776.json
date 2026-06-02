@@ -1,0 +1,200 @@
+{
+  "round": 1776,
+  "timestamp": "2026-04-13T10:50:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_score": 3.224,
+      "prior_variance": 0.316335,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 4.1875,
+      "prior_variance": 0.370378,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": -0.064,
+      "prior_variance": 0.230389,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_score": 0.7122,
+      "prior_variance": 0.325663,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 1.8525,
+      "prior_variance": 0.324387,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_score": 0.7862,
+      "prior_variance": 0.299977,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Millaa Millaa",
+      "path": "australiaandpacific/australia/queensland/millaamillaa",
+      "prior_score": -0.2163,
+      "prior_variance": 0.312636,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.3762,
+      "prior_variance": 0.307228,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -2.3774,
+      "prior_variance": 0.290989,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_score": -3.0127,
+      "prior_variance": 0.33603,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -2.4379,
+      "prior_variance": 0.235491,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/keighley",
+      "prior_score": -4.0247,
+      "prior_variance": 0.418961,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Laguna",
+      "path": "northamerica/unitedstates/newmexico/laguna",
+      "prior_score": -3.5487,
+      "prior_variance": 0.324045,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -3.7159,
+      "prior_variance": 0.349237,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_score": 0.2639,
+      "prior_variance": 0.309176,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Water",
+      "path": "northamerica/costarica/travelinformation/water",
+      "prior_score": -5.2333,
+      "prior_variance": 0.374467,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -6.0538,
+      "prior_variance": 0.393157,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -6.0515,
+      "prior_variance": 0.384767,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/virginia/chester",
+      "prior_score": -8.8404,
+      "prior_variance": 0.520113,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/yucatan/basconcobe",
+      "prior_score": -5.9622,
+      "prior_variance": 0.337962,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ha\u2019il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -5.426,
+      "prior_variance": 0.275698,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -7.1068,
+      "prior_variance": 0.342822,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -6.8242,
+      "prior_variance": 0.364859,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -6.9204,
+      "prior_variance": 0.616524,
+      "prior_n": 4
+    }
+  ]
+}

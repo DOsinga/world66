@@ -1,0 +1,200 @@
+{
+  "round": 1897,
+  "timestamp": "2026-04-13T14:34:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
+      "prior_score": 12.2053,
+      "prior_variance": 0.66152,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bhutan",
+      "path": "asia/bhutan",
+      "prior_score": 10.5689,
+      "prior_variance": 1.317652,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Loire valley",
+      "path": "europe/france/centre/loirevalley",
+      "prior_score": 9.8051,
+      "prior_variance": 0.571151,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 10.1358,
+      "prior_variance": 0.464584,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 9.2609,
+      "prior_variance": 0.513326,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kenya",
+      "path": "africa/kenya",
+      "prior_score": -2.3003,
+      "prior_variance": 0.517778,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Rhodes",
+      "path": "europe/greece/rhodes",
+      "prior_score": 10.7478,
+      "prior_variance": 0.5701,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 5.5832,
+      "prior_variance": 0.327174,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 4.4226,
+      "prior_variance": 0.308113,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_score": 3.4696,
+      "prior_variance": 0.193886,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 4.3666,
+      "prior_variance": 0.315245,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.1874,
+      "prior_variance": 0.216619,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_score": 3.572,
+      "prior_variance": 0.300475,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 3.2781,
+      "prior_variance": 0.269896,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_score": 2.5533,
+      "prior_variance": 0.263445,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 1.4724,
+      "prior_variance": 0.337204,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Alto Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
+      "prior_score": 0.1857,
+      "prior_variance": 0.267536,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 3.6661,
+      "prior_variance": 0.321703,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.5574,
+      "prior_variance": 0.252055,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -0.3286,
+      "prior_variance": 0.27375,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -2.7506,
+      "prior_variance": 0.291862,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_score": -3.5151,
+      "prior_variance": 0.296419,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -1.9661,
+      "prior_variance": 0.423926,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Joescom Int'l",
+      "path": "africa/nigeria/lagos/joescom_intl",
+      "prior_score": -6.9988,
+      "prior_variance": 0.401511,
+      "prior_n": 4
+    }
+  ]
+}

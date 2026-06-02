@@ -1,0 +1,200 @@
+{
+  "round": 1461,
+  "timestamp": "2026-04-12T22:28:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_rank": 1977,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "George Town",
+      "path": "northamerica/caymanislands/grandcayman/george_town",
+      "prior_rank": 3866,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_rank": 822,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_rank": 2840,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_rank": 1486,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_rank": 1270,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_rank": 638,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_rank": 1064,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_rank": 434,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Koh Chang",
+      "path": "asia/thailand/kohchang",
+      "prior_rank": 1946,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_rank": 584,
+      "prior_wins": 112,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Disko Bay",
+      "path": "northamerica/greenland/diskobay",
+      "prior_rank": 579,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_rank": 1518,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_rank": 1175,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_rank": 732,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_rank": 647,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_rank": 3005,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_rank": 1516,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_rank": 560,
+      "prior_wins": 76,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_rank": 1180,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_rank": 729,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_rank": 240,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_rank": 1973,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_rank": 1919,
+      "prior_wins": 45,
+      "prior_n": 3
+    }
+  ]
+}

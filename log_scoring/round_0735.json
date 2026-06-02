@@ -1,0 +1,200 @@
+{
+  "round": 735,
+  "timestamp": "2026-04-12T10:45:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Masai Mara N.R.",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
+      "prior_mu": 32.287,
+      "prior_sigma": 6.2794,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_mu": 23.3231,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_mu": 24.9884,
+      "prior_sigma": 4.6521,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_mu": 22.4011,
+      "prior_sigma": 5.4905,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_mu": 25.0717,
+      "prior_sigma": 5.416,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_nati",
+      "prior_mu": 22.3352,
+      "prior_sigma": 5.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_mu": 22.7254,
+      "prior_sigma": 5.9076,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_mu": 25.1492,
+      "prior_sigma": 4.9865,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_mu": 22.4238,
+      "prior_sigma": 5.4597,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_mu": 20.9816,
+      "prior_sigma": 2.6586,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_mu": 21.5409,
+      "prior_sigma": 4.6535,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_mu": 22.7284,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Windsor",
+      "path": "northamerica/unitedstates/california/windsor",
+      "prior_mu": 22.4572,
+      "prior_sigma": 5.6801,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_mu": 22.2243,
+      "prior_sigma": 5.8683,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_mu": 22.3862,
+      "prior_sigma": 5.3783,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/luton",
+      "prior_mu": 19.0859,
+      "prior_sigma": 4.7067,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cuzy",
+      "path": "europe/france/east/cuzy",
+      "prior_mu": 22.4818,
+      "prior_sigma": 5.5458,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif",
+      "prior_mu": 18.2614,
+      "prior_sigma": 5.1937,
+      "prior_n": 2
+    }
+  ]
+}

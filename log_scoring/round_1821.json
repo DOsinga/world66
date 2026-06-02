@@ -1,0 +1,200 @@
+{
+  "round": 1821,
+  "timestamp": "2026-04-13T10:54:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.2776,
+      "prior_variance": 0.305565,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 4.423,
+      "prior_variance": 0.323528,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.2452,
+      "prior_variance": 0.231467,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.325,
+      "prior_variance": 0.492112,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 1.3437,
+      "prior_variance": 0.359033,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 2.0168,
+      "prior_variance": 0.297901,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.4242,
+      "prior_variance": 0.245195,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.8742,
+      "prior_variance": 0.282172,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": 0.3113,
+      "prior_variance": 0.328734,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hawes_and_gayle",
+      "prior_score": -0.7903,
+      "prior_variance": 0.261603,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 1.3718,
+      "prior_variance": 0.354911,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_score": -0.6874,
+      "prior_variance": 0.288121,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -1.4305,
+      "prior_variance": 0.333777,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Steccato",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -1.6084,
+      "prior_variance": 0.268739,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": -0.1012,
+      "prior_variance": 0.274294,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -1.6043,
+      "prior_variance": 0.33629,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.8895,
+      "prior_variance": 0.278553,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -1.0937,
+      "prior_variance": 0.35928,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "island park",
+      "path": "northamerica/unitedstates/idaho/island_park",
+      "prior_score": -2.3492,
+      "prior_variance": 0.325559,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/gosport",
+      "prior_score": -4.4825,
+      "prior_variance": 0.367717,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -3.4871,
+      "prior_variance": 0.318026,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/fullerton",
+      "prior_score": -3.5619,
+      "prior_variance": 0.275963,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -4.9983,
+      "prior_variance": 0.377228,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -5.1046,
+      "prior_variance": 0.516186,
+      "prior_n": 4
+    }
+  ]
+}

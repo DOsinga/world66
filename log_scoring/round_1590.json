@@ -1,0 +1,200 @@
+{
+  "round": 1590,
+  "timestamp": "2026-04-13T10:34:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_score": 0.2518,
+      "prior_variance": 0.33428,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.697,
+      "prior_variance": 0.480536,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 3.0388,
+      "prior_variance": 0.522009,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": 0.8317,
+      "prior_variance": 0.413875,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 1.4254,
+      "prior_variance": 0.215485,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Museum District",
+      "path": "northamerica/unitedstates/texas/houston/museumdistrict",
+      "prior_score": -0.751,
+      "prior_variance": 0.396499,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Zambia",
+      "path": "africa/zambia",
+      "prior_score": -0.8614,
+      "prior_variance": 0.431779,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.5875,
+      "prior_variance": 0.304064,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tingo",
+      "path": "southamerica/peru/chachapoyas/tingo",
+      "prior_score": -0.4193,
+      "prior_variance": 0.367952,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -2.5147,
+      "prior_variance": 0.537047,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": 0.4359,
+      "prior_variance": 0.324327,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_score": 1.8755,
+      "prior_variance": 0.392931,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Black Sea Coast",
+      "path": "europe/romania/blackseacoast",
+      "prior_score": 1.11,
+      "prior_variance": 0.402091,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": 0.6271,
+      "prior_variance": 0.321247,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_score": -1.4699,
+      "prior_variance": 0.320333,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": 1.049,
+      "prior_variance": 0.56721,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": 1.2971,
+      "prior_variance": 0.303893,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -0.3869,
+      "prior_variance": 0.426798,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -1.4261,
+      "prior_variance": 0.404524,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -0.1566,
+      "prior_variance": 0.296733,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_score": -1.2652,
+      "prior_variance": 0.43262,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Manitoba",
+      "path": "northamerica/canada/manitoba",
+      "prior_score": -1.0628,
+      "prior_variance": 0.456706,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -3.4685,
+      "prior_variance": 0.833739,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -2.9393,
+      "prior_variance": 0.376337,
+      "prior_n": 4
+    }
+  ]
+}

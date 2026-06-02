@@ -1,0 +1,128 @@
+{
+  "round": 412,
+  "timestamp": "2026-04-12T09:29:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 15,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_mu": 22.7125,
+      "prior_sigma": 4.849,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lake khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_mu": 21.7675,
+      "prior_sigma": 4.812,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_mu": 22.2074,
+      "prior_sigma": 5.766,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_mu": 22.9044,
+      "prior_sigma": 5.7259,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 22.9443,
+      "prior_sigma": 2.7008,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_mu": 22.4821,
+      "prior_sigma": 5.908,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_mu": 22.7339,
+      "prior_sigma": 5.9512,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_mu": 22.821,
+      "prior_sigma": 5.6537,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_mu": 22.0368,
+      "prior_sigma": 5.6921,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Khujhirt",
+      "path": "asia/mongolia/khujhirt",
+      "prior_mu": 22.7181,
+      "prior_sigma": 5.4183,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_mu": 22.2431,
+      "prior_sigma": 5.7798,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1759,
+  "timestamp": "2026-04-13T10:48:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon",
+      "prior_score": 3.8413,
+      "prior_variance": 0.343804,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 0.8434,
+      "prior_variance": 0.393179,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 0.9542,
+      "prior_variance": 0.340318,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.684,
+      "prior_variance": 0.344426,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 1.3518,
+      "prior_variance": 0.301893,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 3.1159,
+      "prior_variance": 0.385179,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 4.7289,
+      "prior_variance": 0.320564,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": 2.0911,
+      "prior_variance": 0.306224,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.6648,
+      "prior_variance": 0.318925,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/north_island/eastland",
+      "prior_score": 0.1543,
+      "prior_variance": 0.305245,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 0.929,
+      "prior_variance": 0.402664,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 0.7875,
+      "prior_variance": 0.304356,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.3345,
+      "prior_variance": 0.244955,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -0.8536,
+      "prior_variance": 0.311703,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.1875,
+      "prior_variance": 0.287029,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -2.1194,
+      "prior_variance": 0.296167,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -2.3844,
+      "prior_variance": 0.311883,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.1643,
+      "prior_variance": 0.299689,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -4.6104,
+      "prior_variance": 0.354613,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -0.8485,
+      "prior_variance": 0.310382,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.663,
+      "prior_variance": 0.297378,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -5.131,
+      "prior_variance": 0.327352,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_score": -6.2203,
+      "prior_variance": 0.591299,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.8341,
+      "prior_variance": 0.441753,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1274,
+  "timestamp": "2026-04-12T22:18:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_rank": 7909,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_rank": 7503,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_rank": 7158,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_rank": 8088,
+      "prior_wins": 11,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_rank": 6573,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_rank": 5569,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_rank": 7730,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_rank": 5637,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Brong Ahafo Region",
+      "path": "africa/ghana/brong_ahafo_region",
+      "prior_rank": 7688,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_rank": 6357,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_rank": 8109,
+      "prior_wins": 10,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_rank": 5828,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_rank": 7984,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_rank": 8076,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_rank": 8049,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_rank": 5453,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_rank": 6241,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_rank": 7384,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_rank": 7986,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_rank": 7509,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_rank": 7371,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_rank": 7236,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_rank": 8178,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_rank": 8040,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1719,
+  "timestamp": "2026-04-13T10:45:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_score": 6.9096,
+      "prior_variance": 0.406196,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_score": 4.6135,
+      "prior_variance": 0.42825,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 1.4035,
+      "prior_variance": 0.437553,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 4.7264,
+      "prior_variance": 0.376413,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_gu",
+      "prior_score": 4.5021,
+      "prior_variance": 0.337618,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 1.8628,
+      "prior_variance": 0.31365,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Marche",
+      "path": "europe/italy/marche",
+      "prior_score": 1.9163,
+      "prior_variance": 0.346533,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.4882,
+      "prior_variance": 0.313789,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -2.1596,
+      "prior_variance": 0.259445,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Chengde",
+      "path": "asia/china/chengde",
+      "prior_score": 3.5332,
+      "prior_variance": 0.235152,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_score": -0.8782,
+      "prior_variance": 0.351356,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.2793,
+      "prior_variance": 0.342532,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.4893,
+      "prior_variance": 0.328226,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": 0.123,
+      "prior_variance": 0.327074,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -1.8945,
+      "prior_variance": 0.30256,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": 0.8907,
+      "prior_variance": 0.383228,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
+      "prior_score": -3.6468,
+      "prior_variance": 0.331987,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.6292,
+      "prior_variance": 0.337294,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_score": -4.9216,
+      "prior_variance": 0.365957,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -2.9731,
+      "prior_variance": 0.356474,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Galanta",
+      "path": "europe/slovakia/galanta",
+      "prior_score": -5.6071,
+      "prior_variance": 0.412634,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Podujeva",
+      "path": "europe/serbia/kosovoprovince/podujeva_1",
+      "prior_score": -8.3627,
+      "prior_variance": 0.633211,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kheshgi",
+      "path": "asia/pakistan/nowshera/kheshgi",
+      "prior_score": -10.1441,
+      "prior_variance": 0.551633,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -10.2723,
+      "prior_variance": 0.733936,
+      "prior_n": 5
+    }
+  ]
+}

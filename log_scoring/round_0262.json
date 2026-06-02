@@ -1,0 +1,200 @@
+{
+  "round": 262,
+  "timestamp": "2026-04-12T09:09:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_mu": 21.9959,
+      "prior_sigma": 4.8333,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Southland",
+      "path": "australiaandpacific/newzealand/south_island/southland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/kitakyushu/moji",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_mu": 18.0698,
+      "prior_sigma": 6.5306,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_mu": 22.1511,
+      "prior_sigma": 5.7622,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tcby",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1351,
+  "timestamp": "2026-04-12T22:23:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brunsumm",
+      "path": "europe/netherlands/brunsumm",
+      "prior_rank": 8198,
+      "prior_wins": 8,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "neuve englise",
+      "path": "europe/france/nord/neuve_englise",
+      "prior_rank": 8083,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_rank": 7672,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_rank": 8092,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_rank": 8130,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_rank": 7040,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_rank": 7960,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_rank": 8131,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_rank": 7696,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_rank": 8214,
+      "prior_wins": 3,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_rank": 7783,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_rank": 7815,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_rank": 8211,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_rank": 7508,
+      "prior_wins": 26,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_rank": 7282,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lula",
+      "path": "northamerica/unitedstates/mississippi/lula",
+      "prior_rank": 7085,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_rank": 8050,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_rank": 7956,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_rank": 8110,
+      "prior_wins": 10,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "m sila",
+      "path": "africa/algeria/m_sila",
+      "prior_rank": 8134,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_rank": 8052,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Chad",
+      "path": "africa/chad",
+      "prior_rank": 8069,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_rank": 8135,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_rank": 8128,
+      "prior_wins": 5,
+      "prior_n": 3
+    }
+  ]
+}

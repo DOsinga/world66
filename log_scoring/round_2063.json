@@ -1,0 +1,200 @@
+{
+  "round": 2063,
+  "timestamp": "2026-04-13T16:07:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 6.6691,
+      "prior_variance": 0.367863,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_score": 6.2117,
+      "prior_variance": 0.402786,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bridgetown",
+      "path": "northamerica/barbados/bridgetown",
+      "prior_score": 6.2221,
+      "prior_variance": 0.351126,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_score": 6.3059,
+      "prior_variance": 0.326237,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 6.8276,
+      "prior_variance": 0.314422,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.2255,
+      "prior_variance": 0.25003,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_score": -2.7783,
+      "prior_variance": 0.596485,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hesse/wiesbaden",
+      "prior_score": 1.0597,
+      "prior_variance": 0.248943,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": 0.4769,
+      "prior_variance": 0.220748,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 0.3822,
+      "prior_variance": 0.277793,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_score": 0.5942,
+      "prior_variance": 0.251538,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.2357,
+      "prior_variance": 0.288316,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.3555,
+      "prior_variance": 0.22441,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_score": -0.7163,
+      "prior_variance": 0.238818,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 0.2099,
+      "prior_variance": 0.353205,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -0.7308,
+      "prior_variance": 0.240657,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": -0.4142,
+      "prior_variance": 0.207934,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.7404,
+      "prior_variance": 0.270038,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 1.6144,
+      "prior_variance": 0.280625,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -2.1156,
+      "prior_variance": 0.260982,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -0.974,
+      "prior_variance": 0.344569,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": -0.5959,
+      "prior_variance": 0.292726,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -3.4166,
+      "prior_variance": 0.471351,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "South Ural",
+      "path": "europe/russia/ural/south_ural",
+      "prior_score": -7.3005,
+      "prior_variance": 0.40627,
+      "prior_n": 5
+    }
+  ]
+}

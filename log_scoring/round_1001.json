@@ -1,0 +1,200 @@
+{
+  "round": 1001,
+  "timestamp": "2026-04-12T22:04:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_rank": 3011,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_rank": 1159,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_rank": 357,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_rank": 1874,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_rank": 4987,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_rank": 1082,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_rank": 3794,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_rank": 1855,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_rank": 654,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/losangeles/catalina",
+      "prior_rank": 2806,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_rank": 1383,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_rank": 2046,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_rank": 1957,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_rank": 3054,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nova Scotia",
+      "path": "northamerica/canada/novascotia",
+      "prior_rank": 960,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Newfoundland",
+      "path": "northamerica/canada/newfoundland",
+      "prior_rank": 3402,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Guatemala",
+      "path": "northamerica/guatemala",
+      "prior_rank": 1600,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_rank": 1548,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_rank": 838,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_rank": 2621,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_rank": 3476,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Aiea",
+      "path": "northamerica/unitedstates/hawaii/aiea",
+      "prior_rank": 1850,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_rank": 1831,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_rank": 3538,
+      "prior_wins": 13,
+      "prior_n": 1
+    }
+  ]
+}

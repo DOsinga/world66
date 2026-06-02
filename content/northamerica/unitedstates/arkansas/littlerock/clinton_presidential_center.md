@@ -1,17 +1,21 @@
 ---
 title: Clinton Presidential Center
 type: poi
+latitude: 34.7479
+longitude: -92.2628
 tags:
   - things_to_do
   - museum
-  - sight
-latitude: 34.7531
-longitude: -92.2636
-sources:
-  - https://en.wikipedia.org/wiki/Clinton_Presidential_Center
-story: "The building itself is designed to look like a bridge extending over the Arkansas River — an intentional metaphor chosen by Clinton for 'building a bridge to the 21st century,' the campaign slogan from his 1996 re-election. The cantilever extends 90 feet beyond its supports, making it one of the longest in the United States."
+story: >
+  The building is designed to look like a bridge extending over the Arkansas
+  River — a deliberate metaphor for the "bridge to the 21st century" that
+  defined Clinton's 1996 campaign. Whether or not you find that compelling,
+  the archive holds 80 million pages of documents, the largest presidential
+  library collection in history.
 ---
 
-The Clinton Presidential Center occupies a striking glass-and-steel building cantilevered over the Arkansas River, designed by Polshek Partnership and opened in 2004. Whatever you think of the forty-second president, this is one of the better-executed presidential libraries in the country — the exhibits are honest about the low points (impeachment gets its own section), the building is genuinely interesting architecturally, and the park around it is pleasant.
+The William J. Clinton Presidential Center sits on the south bank of the Arkansas River in the River Market District and anchors the redevelopment of Little Rock's waterfront. The building itself is striking — a long glass rectangle cantilevered over the river on stilts, designed by Polshek Partnership Architects to evoke a bridge.
 
-The main exhibition space recreates the Cabinet Room and the Oval Office as they were during the Clinton administration, and moves chronologically through the eight years in office. The library holds 80 million pages of documents from the presidency. The attached restaurant has good views across the river. Admission is around $10; the grounds are free and worth walking even if you skip the library itself.
+The permanent exhibition is one of the more honest and well-designed presidential library displays in the country. It covers the Clinton years chronologically, with reproductions of the Oval Office and Cabinet Room, and includes exhibits on the economy, the Lewinsky investigation, and the failed healthcare reforms without airbrushing the low points. The grounds include a park with good river views and the restored Choctaw Station.
+
+Open daily. Admission charged. 1200 President Clinton Ave.

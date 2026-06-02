@@ -1,0 +1,200 @@
+{
+  "round": 2103,
+  "timestamp": "2026-04-13T16:11:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.5647,
+      "prior_variance": 0.322599,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 5.9183,
+      "prior_variance": 0.347597,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 7.3334,
+      "prior_variance": 0.443325,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -1.0607,
+      "prior_variance": 0.31963,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 5.1415,
+      "prior_variance": 0.305443,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 3.4055,
+      "prior_variance": 0.234408,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_nati",
+      "prior_score": 1.2877,
+      "prior_variance": 0.249289,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 0.4802,
+      "prior_variance": 0.382863,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_score": 4.0849,
+      "prior_variance": 0.229642,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.045,
+      "prior_variance": 0.286864,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.1576,
+      "prior_variance": 0.221337,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -0.7418,
+      "prior_variance": 0.350256,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Laurel Highlands",
+      "path": "northamerica/unitedstates/pennsylvania/laurel_highlands",
+      "prior_score": 0.2046,
+      "prior_variance": 0.299321,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.5814,
+      "prior_variance": 0.239936,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Fuerth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.9107,
+      "prior_variance": 0.273556,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -0.8878,
+      "prior_variance": 0.275297,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Alcazar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_jua",
+      "prior_score": -2.1517,
+      "prior_variance": 0.255698,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Draginuan",
+      "path": "europe/france/midi/draginuan",
+      "prior_score": -1.9148,
+      "prior_variance": 0.278568,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -0.6165,
+      "prior_variance": 0.240221,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/arcata",
+      "prior_score": -1.0273,
+      "prior_variance": 0.218654,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -1.6678,
+      "prior_variance": 0.305586,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -4.7831,
+      "prior_variance": 0.2846,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -1.7212,
+      "prior_variance": 0.279648,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Japiim",
+      "path": "southamerica/brazil/japiim",
+      "prior_score": -7.3831,
+      "prior_variance": 0.329162,
+      "prior_n": 5
+    }
+  ]
+}

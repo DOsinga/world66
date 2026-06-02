@@ -1,0 +1,200 @@
+{
+  "round": 539,
+  "timestamp": "2026-04-12T10:36:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
+      "prior_mu": 30.225,
+      "prior_sigma": 6.449,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_mu": 22.542,
+      "prior_sigma": 5.5391,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Wales",
+      "path": "europe/unitedkingdom/wales",
+      "prior_mu": 23.2488,
+      "prior_sigma": 5.9686,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Northern Ireland",
+      "path": "europe/unitedkingdom/northernireland",
+      "prior_mu": 22.4575,
+      "prior_sigma": 5.5279,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_mu": 22.633,
+      "prior_sigma": 5.9004,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_mu": 22.3787,
+      "prior_sigma": 4.6984,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/warwick",
+      "prior_mu": 22.5189,
+      "prior_sigma": 5.7736,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_mu": 21.8593,
+      "prior_sigma": 4.8173,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_mu": 22.3063,
+      "prior_sigma": 5.5683,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/dover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_mu": 21.5994,
+      "prior_sigma": 4.6238,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_mu": 22.7552,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_mu": 21.6758,
+      "prior_sigma": 3.9376,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/keighley",
+      "prior_mu": 22.455,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/loughborough",
+      "prior_mu": 18.0084,
+      "prior_sigma": 6.5308,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/mersea_island_esse",
+      "prior_mu": 20.7474,
+      "prior_sigma": 4.1493,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/norfolk/briston",
+      "prior_mu": 18.1235,
+      "prior_sigma": 6.5028,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

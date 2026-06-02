@@ -1,0 +1,200 @@
+{
+  "round": 821,
+  "timestamp": "2026-04-12T14:32:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 6.9852,
+      "prior_variance": 1.017259,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Rincon",
+      "path": "northamerica/puertorico/rincon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla/sylt",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/girona/banyoles",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Baker Island",
+      "path": "australiaandpacific/bakerisland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

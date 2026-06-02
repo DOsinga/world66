@@ -1,0 +1,200 @@
+{
+  "round": 1026,
+  "timestamp": "2026-04-12T22:05:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
+      "prior_rank": 4110,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_rank": 6669,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Laguna Hills",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunahills",
+      "prior_rank": 7002,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_rank": 7798,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/ware",
+      "prior_rank": 7832,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_rank": 7796,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_rank": 7256,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_rank": 7098,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_rank": 7458,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_rank": 7494,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_rank": 5090,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_rank": 7616,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_rank": 7276,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_rank": 7615,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Zielonka",
+      "path": "europe/poland/zielonka",
+      "prior_rank": 7652,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ravi",
+      "path": "europe/estonia/voru/ravi",
+      "prior_rank": 8160,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_rank": 7455,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_rank": 7951,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_rank": 7875,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_rank": 7887,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_rank": 6760,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_rank": 7780,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_rank": 7074,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Madhegaon kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_rank": 8082,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

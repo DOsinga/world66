@@ -1,0 +1,200 @@
+{
+  "round": 27,
+  "timestamp": "2026-04-11T19:25:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tibet",
+      "path": "asia/china/tibet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_mu": 22.95,
+      "prior_sigma": 5.87,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_mu": 22.88,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_mu": 23.61,
+      "prior_sigma": 6.07,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_mu": 22.28,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_mu": 22.88,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/leicester_notting/chesterfield",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_mu": 22.27,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ruskin",
+      "path": "northamerica/unitedstates/florida/ruskin",
+      "prior_mu": 18.33,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_mu": 22.83,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "syed sagheer ul hassan douna",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/syed_sagheer_ul_ha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

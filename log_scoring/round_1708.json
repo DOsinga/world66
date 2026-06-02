@@ -1,0 +1,200 @@
+{
+  "round": 1708,
+  "timestamp": "2026-04-13T10:44:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 4.9093,
+      "prior_variance": 0.3345,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_score": 0.8537,
+      "prior_variance": 0.489661,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 3.7443,
+      "prior_variance": 0.488963,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "The Lakes",
+      "path": "africa/kenya/lakes",
+      "prior_score": -0.7449,
+      "prior_variance": 0.315178,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Boa vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 2.2898,
+      "prior_variance": 0.322548,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.0289,
+      "prior_variance": 0.449003,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.4112,
+      "prior_variance": 0.371295,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_score": 5.147,
+      "prior_variance": 0.332429,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.9832,
+      "prior_variance": 0.307257,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 3.6441,
+      "prior_variance": 0.325577,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Epernay",
+      "path": "europe/france/nord/epernay",
+      "prior_score": 3.7859,
+      "prior_variance": 0.35616,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 2.9879,
+      "prior_variance": 0.321513,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 2.8382,
+      "prior_variance": 0.372009,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 4.1528,
+      "prior_variance": 0.338002,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 2.322,
+      "prior_variance": 0.275016,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.9498,
+      "prior_variance": 0.385639,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 1.3717,
+      "prior_variance": 0.259972,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": 2.9273,
+      "prior_variance": 0.356166,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": 2.1319,
+      "prior_variance": 0.361256,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Morvan",
+      "path": "europe/france/east/burgundy/morvan",
+      "prior_score": 1.6529,
+      "prior_variance": 0.34942,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -1.2293,
+      "prior_variance": 0.321308,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.779,
+      "prior_variance": 0.441348,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_score": -4.4572,
+      "prior_variance": 0.329518,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sherwood Park",
+      "path": "northamerica/canada/alberta/sherwoodpark",
+      "prior_score": -5.2268,
+      "prior_variance": 0.392132,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 249,
+  "timestamp": "2026-04-12T09:08:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Corfu",
+      "path": "europe/greece/corfu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_mu": 26.3251,
+      "prior_sigma": 5.5204,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Champagne",
+      "path": "europe/france/east/champagne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Trebbia Valley",
+      "path": "europe/italy/liguria/trebbiavalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kyrgyzstan",
+      "path": "asia/kyrgyzstan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "La Mancha",
+      "path": "europe/spain/la_mancha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ouderkerk aan den IJssel",
+      "path": "europe/netherlands/ouderkerk_aan_den",
+      "prior_mu": 17.9482,
+      "prior_sigma": 6.5009,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_mu": 22.6475,
+      "prior_sigma": 5.9404,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

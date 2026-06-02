@@ -1,0 +1,200 @@
+{
+  "round": 1554,
+  "timestamp": "2026-04-13T10:30:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 4.5296,
+      "prior_variance": 0.414516,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_score": 6.3215,
+      "prior_variance": 0.454357,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 7.1816,
+      "prior_variance": 0.455078,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Epernay",
+      "path": "europe/france/nord/epernay",
+      "prior_score": 3.9618,
+      "prior_variance": 0.399441,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "O Ribeiro Valley",
+      "path": "europe/spain/galicia/o__ribeiro_valley",
+      "prior_score": -0.5161,
+      "prior_variance": 0.32956,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_score": -0.3621,
+      "prior_variance": 0.380324,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_score": 0.1603,
+      "prior_variance": 0.323709,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -0.898,
+      "prior_variance": 0.299773,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -0.6919,
+      "prior_variance": 0.396908,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 2.4926,
+      "prior_variance": 0.372219,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": -0.1804,
+      "prior_variance": 0.335691,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_score": -5.3477,
+      "prior_variance": 0.412845,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Jiangsu Province",
+      "path": "asia/china/jiangsu_province",
+      "prior_score": -0.6609,
+      "prior_variance": 0.273367,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Upper West",
+      "path": "africa/ghana/upper_west",
+      "prior_score": -4.9704,
+      "prior_variance": 0.425869,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.898,
+      "prior_variance": 0.524245,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -5.6663,
+      "prior_variance": 0.329132,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.316,
+      "prior_variance": 0.420226,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Horley",
+      "path": "europe/unitedkingdom/england/horley",
+      "prior_score": -5.5387,
+      "prior_variance": 0.40594,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -6.1874,
+      "prior_variance": 0.311778,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wayne",
+      "path": "northamerica/unitedstates/newjersey/wayne",
+      "prior_score": -6.4967,
+      "prior_variance": 0.555585,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -5.8289,
+      "prior_variance": 0.430695,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -7.0863,
+      "prior_variance": 0.667684,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_score": -5.7068,
+      "prior_variance": 0.478059,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_score": -6.8061,
+      "prior_variance": 0.590289,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1358,
+  "timestamp": "2026-04-12T22:23:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_rank": 2769,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dzanga-Sangha",
+      "path": "africa/centralafricanrepublic/dzanga_sangha",
+      "prior_rank": 5348,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_rank": 4283,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_rank": 5020,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_rank": 3788,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang_1",
+      "prior_rank": 5537,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_rank": 6735,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_rank": 3954,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_rank": 5022,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimen",
+      "prior_rank": 4390,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_rank": 6219,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_rank": 5475,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_rank": 5874,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_rank": 4519,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_rank": 3285,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_rank": 4466,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_rank": 3442,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Castelo Branco",
+      "path": "europe/portugal/castelo_branco",
+      "prior_rank": 5240,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_rank": 5552,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_rank": 4948,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_rank": 1384,
+      "prior_wins": 117,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_rank": 2964,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_rank": 4691,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_rank": 6832,
+      "prior_wins": 14,
+      "prior_n": 3
+    }
+  ]
+}

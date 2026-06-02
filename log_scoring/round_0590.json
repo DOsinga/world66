@@ -1,0 +1,200 @@
+{
+  "round": 590,
+  "timestamp": "2026-04-12T10:38:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_mu": 25.9882,
+      "prior_sigma": 5.2605,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_mu": 24.1567,
+      "prior_sigma": 5.6658,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_mu": 25.2338,
+      "prior_sigma": 5.0999,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_mu": 22.4749,
+      "prior_sigma": 5.3146,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 20.4146,
+      "prior_sigma": 2.5783,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_mu": 22.5525,
+      "prior_sigma": 4.7154,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Nagorno-Karabakh (Karabakh)",
+      "path": "europe/azerbaijan/nagornokarabakh",
+      "prior_mu": 20.2978,
+      "prior_sigma": 3.5555,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_mu": 16.6061,
+      "prior_sigma": 4.3139,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nakhchivan",
+      "path": "europe/azerbaijan/naxcivan",
+      "prior_mu": 22.8349,
+      "prior_sigma": 4.2712,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_mu": 21.7096,
+      "prior_sigma": 4.4967,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_mu": 21.4966,
+      "prior_sigma": 4.265,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_mu": 20.9548,
+      "prior_sigma": 3.5515,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lenkaran",
+      "path": "europe/azerbaijan/baku/lenkaran",
+      "prior_mu": 21.2208,
+      "prior_sigma": 3.899,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_mu": 21.4944,
+      "prior_sigma": 4.4071,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_mu": 21.9893,
+      "prior_sigma": 5.2572,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_mu": 21.7681,
+      "prior_sigma": 3.8819,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_mu": 19.0505,
+      "prior_sigma": 3.5299,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_mu": 20.7746,
+      "prior_sigma": 3.831,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_mu": 20.7599,
+      "prior_sigma": 3.856,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Azerbaijan",
+      "path": "europe/azerbaijan",
+      "prior_mu": 19.08,
+      "prior_sigma": 4.8543,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_mu": 19.1742,
+      "prior_sigma": 4.8819,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_mu": 21.0174,
+      "prior_sigma": 4.3682,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_mu": 21.2734,
+      "prior_sigma": 4.6411,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_mu": 19.5718,
+      "prior_sigma": 3.9813,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+---
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
+image: myrtlebeach.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:BroadwayAtTheBeach1.jpg
+latitude: 33.6954
+loc_type: city
+longitude: -78.8901
+score: 0.54
+title: Myrtle Beach
+type: location
+---
+
+Myrtle Beach is South Carolina's resort machine — 60 miles of Atlantic coastline, more than a hundred golf courses, and a strip of hotels, water parks, and seafood buffets that caters to millions of visitors each summer. It is unabashedly commercial and entirely unapologetic about it. If you come looking for unspoiled natural beauty, head further down the coast. If you come looking for a beach with warm water, easy access, and every conceivable form of family entertainment within five minutes, this is one of the best-equipped stretches of coast in the eastern United States.
+
+The city's reputation rests on two things: golf and the beach. The golf is genuinely excellent — the courses around Myrtle Beach range from resort layouts designed by marquee architects to unpretentious municipal tracks, and the sheer concentration of options (over 80 courses within an easy drive) is remarkable. Off-season packages in spring and fall are a serious bargain. The beach itself is broad and flat, the water warm from late May through September, and the sand the color of pale caramel.
+
+The commercial strip along Ocean Boulevard and Kings Highway is relentless: souvenir shops, mini-golf courses, Ripley's franchises, and chain restaurants line every block. [Broadway at the Beach](/northamerica/unitedstates/southcarolina/myrtlebeach/broadway_at_the_beach), a sprawling entertainment complex a few miles inland, draws visitors with its restaurants, live shows, and the [Ripley's Aquarium](/northamerica/unitedstates/southcarolina/myrtlebeach/ripley_aquarium). The [Myrtle Beach Boardwalk](/northamerica/unitedstates/southcarolina/myrtlebeach/myrtle_beach_boardwalk) is the pedestrian heart of the oceanfront, stretching a mile along the beach. It's unsubtle, but it works — particularly for families with children who need to be kept busy after dark.
+
+Outside summer, Myrtle Beach quiets down considerably. [Myrtle Beach State Park](/northamerica/unitedstates/southcarolina/myrtlebeach/myrtle_beach_state_park) to the south preserves a stretch of maritime forest and quieter beach worth visiting year-round. The golf crowds arrive in spring and fall, but the beach empties and many attractions close or reduce hours. In winter, the town is notably still — which has its own appeal if you want to walk an empty beach.

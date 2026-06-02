@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Örebro's sights centre on the castle and the river, with the Wadköping open-air museum and Oset marshes offering good alternatives to the city-centre attractions. The castle alone justifies a visit; everything else can be fitted around it in a single day.
+Örebro is a compact city and the main sights are all within comfortable walking distance of the castle. A day is enough for the highlights; the city makes a natural stop on a journey between Stockholm and Gothenburg. The Oset nature reserve, twenty minutes' walk from the centre, is worth the detour for birdwatchers.

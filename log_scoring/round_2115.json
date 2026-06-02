@@ -1,0 +1,200 @@
+{
+  "round": 2115,
+  "timestamp": "2026-04-13T16:12:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 13.956,
+      "prior_variance": 1.287822,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vatican City",
+      "path": "europe/vaticancity",
+      "prior_score": 10.3973,
+      "prior_variance": 0.48147,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_score": 7.2761,
+      "prior_variance": 0.295579,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Slovenia",
+      "path": "europe/slovenia",
+      "prior_score": 6.473,
+      "prior_variance": 0.294749,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 6.9645,
+      "prior_variance": 0.388049,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 6.001,
+      "prior_variance": 0.307671,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Costa Smeralda",
+      "path": "europe/italy/sardinia/costasmeralda",
+      "prior_score": 9.4121,
+      "prior_variance": 0.420247,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 3.8271,
+      "prior_variance": 0.261969,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_score": 4.9466,
+      "prior_variance": 0.327981,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 2.5074,
+      "prior_variance": 0.401752,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 2.9897,
+      "prior_variance": 0.264772,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Burgundy",
+      "path": "europe/france/east/burgundy",
+      "prior_score": 3.9888,
+      "prior_variance": 0.294856,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dordogne",
+      "path": "europe/france/midi/dordogne",
+      "prior_score": 5.4871,
+      "prior_variance": 0.33926,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.0179,
+      "prior_variance": 0.31078,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.0347,
+      "prior_variance": 0.289338,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.6899,
+      "prior_variance": 0.248069,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_score": 2.8909,
+      "prior_variance": 0.411989,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 4.8206,
+      "prior_variance": 0.377657,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_score": 3.2814,
+      "prior_variance": 0.249829,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 3.658,
+      "prior_variance": 0.253655,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_score": 4.3387,
+      "prior_variance": 0.280564,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.4369,
+      "prior_variance": 0.201705,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/scarborough",
+      "prior_score": -0.835,
+      "prior_variance": 0.276354,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.7813,
+      "prior_variance": 0.295267,
+      "prior_n": 5
+    }
+  ]
+}

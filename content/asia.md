@@ -1,0 +1,26 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+image: asia.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/24046097@N00">Romain
+  Guy</a> from San Francisco, USA
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg
+title: Asia
+type: location
+loc_type: continent
+---
+
+Asia is home to more than half of humanity, and traveling here makes that fact feel utterly real. Cities press in from all sides. Temples materialize in the middle of rice paddies. Food arrives in forms you have never imagined. No other continent offers such a range of experiences packed so densely together.
+
+The continent spans from the Mediterranean coast of [Turkey](/asia/turkey) in the west to the Pacific shores of [Japan](/asia/japan) in the east, and from the Siberian steppe in the north to the tropical islands of [Indonesia](/asia/indonesia) in the south. That breadth means generalizations barely hold. A traveler in [Kyrgyzstan](/asia/kyrgyzstan) is having a completely different experience from one in [Singapore](/asia/singapore) — different language, religion, climate, food, infrastructure, and daily rhythm. The word "Asia" describes a geography, not a culture.
+
+**The Middle East** — [Turkey](/asia/turkey), [Israel](/asia/israel), [Jordan](/asia/jordan), [Lebanon](/asia/lebanon), [Syria](/asia/syria), [Iraq](/asia/iraq), [Iran](/asia/iran), [Saudi Arabia](/asia/saudiarabia), [Oman](/asia/oman), [Qatar](/asia/qatar), [Kuwait](/asia/kuwait), [Bahrain](/asia/bahrain), and the Gulf states — is the cradle of three world religions and some of the oldest cities on earth. [Jordan](/asia/jordan)'s Petra and [Israel](/asia/israel)'s Jerusalem draw pilgrims and tourists alike. The Gulf states have reinvented themselves as hubs of transit and luxury. [Iran](/asia/iran), often overlooked, has extraordinary Persian heritage and some of the most hospitable people on the continent.
+
+**Central Asia** — [Kazakhstan](/asia/kazakhstan), [Kyrgyzstan](/asia/kyrgyzstan), [Uzbekistan](/asia/uzbekistan), [Tajikistan](/asia/tajikistan), [Turkmenistan](/asia/turkmenistan), [Afghanistan](/asia/afghanistan), and [Mongolia](/asia/mongolia) — is the region most travelers bypass. That is their loss. The Silk Road cities of Samarkand and Bukhara are genuinely breathtaking. The mountains of [Kyrgyzstan](/asia/kyrgyzstan) are among the least-visited in the world. [Mongolia](/asia/mongolia)'s empty steppe, where nomadic herding culture survives largely intact, is unlike anywhere else on earth.
+
+**South Asia** — [India](/asia/india), [Nepal](/asia/nepal), [Pakistan](/asia/pakistan), [Bangladesh](/asia/bangladesh), [Sri Lanka](/asia/srilanka), [Bhutan](/asia/bhutan), and the [Maldives](/asia/maldives) — is the Indian subcontinent. [India](/asia/india) alone could occupy a lifetime of travel: the Taj Mahal, the temples of Rajasthan, the backwaters of Kerala, the chaos of Delhi. [Nepal](/asia/nepal) is one of the world's great trekking destinations. [Sri Lanka](/asia/srilanka) offers remarkable variety in a compact area. [Pakistan](/asia/pakistan)'s Karakoram Highway, running north toward the Chinese border, is one of the most dramatic road journeys on the planet.
+
+**Southeast Asia** — [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Cambodia](/asia/cambodia), [Laos](/asia/laos), [Myanmar](/asia/myanmar), [Malaysia](/asia/malaysia), [Indonesia](/asia/indonesia), [Singapore](/asia/singapore), the [Philippines](/asia/philippines), [Brunei](/asia/brunei), and [East Timor](/asia/easttimor) — is where most first-time visitors to Asia begin. The infrastructure for travelers is excellent, the food is outstanding, and the costs are low. Angkor Wat, the Thai islands, Bali, Halong Bay — these are the names people know. But the region also rewards slower travel: the rural highlands of [Vietnam](/asia/vietnam), the slow boats of [Laos](/asia/laos), the remote islands of the [Philippines](/asia/philippines).
+
+**Northeast Asia** — [China](/asia/china), [Japan](/asia/japan), [South Korea](/asia/southkorea), [North Korea](/asia/northkorea), and [Taiwan](/asia/taiwan) — is the continent's economic and cultural powerhouse. [Japan](/asia/japan) and [South Korea](/asia/southkorea) have managed to preserve tradition alongside extreme modernity. [China](/asia/china) is vast enough to be a region unto itself, with megacities like [Beijing](/asia/china/beijing), [Shanghai](/asia/china/shanghai), and [Hong Kong](/asia/china/hongkong) alongside landscapes of extraordinary variety. [Taiwan](/asia/taiwan), often underrated, is easy to travel and has some of the best street food in the world. [North Korea](/asia/northkorea) remains essentially closed except for organized tours.

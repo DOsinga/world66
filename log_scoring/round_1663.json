@@ -1,0 +1,200 @@
+{
+  "round": 1663,
+  "timestamp": "2026-04-13T10:40:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_score": 10.6825,
+      "prior_variance": 0.501882,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_score": 11.3681,
+      "prior_variance": 1.296398,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_score": 5.4072,
+      "prior_variance": 0.341229,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 7.4496,
+      "prior_variance": 0.456517,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 4.3176,
+      "prior_variance": 0.345016,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 8.393,
+      "prior_variance": 0.642698,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 2.5531,
+      "prior_variance": 0.708733,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 5.7603,
+      "prior_variance": 0.487954,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 1.3775,
+      "prior_variance": 0.313259,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 1.3413,
+      "prior_variance": 0.532432,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 3.047,
+      "prior_variance": 0.309954,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tunisia",
+      "path": "africa/tunisia",
+      "prior_score": -3.8756,
+      "prior_variance": 0.840812,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Condado",
+      "path": "northamerica/puertorico/condado",
+      "prior_score": 4.3799,
+      "prior_variance": 0.346989,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -3.882,
+      "prior_variance": 0.368791,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "McDowell County",
+      "path": "northamerica/unitedstates/northcarolina/mcdowell_county",
+      "prior_score": -3.187,
+      "prior_variance": 0.304203,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -1.7034,
+      "prior_variance": 0.39013,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -1.9688,
+      "prior_variance": 0.306428,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": 0.8296,
+      "prior_variance": 0.330985,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": 0.8003,
+      "prior_variance": 0.309259,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.6315,
+      "prior_variance": 0.302732,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": 0.2588,
+      "prior_variance": 0.324783,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.1275,
+      "prior_variance": 0.331104,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -6.6046,
+      "prior_variance": 0.466241,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
+      "prior_score": -14.7219,
+      "prior_variance": 1.233805,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,15 +1,14 @@
 ---
-title: Saint Nicholas Church (Nikolaikyrkan)
+title: Saint Nicholas Church (Sankt Nikolai kyrka)
 type: poi
+latitude: 59.2722
+longitude: 15.2114
 tags:
   - things_to_do
   - sight
-latitude: 59.2722
-longitude: 15.2114
-sources:
-  - https://en.wikipedia.org/wiki/Saint_Nicholas_Church,_%C3%96rebro
+  - architecture
 ---
 
-Saint Nicholas Church (Nikolaikyrkan) is Örebro's oldest surviving building, a medieval stone church that has stood in the city centre since the 13th century. It was originally a Franciscan monastery church, then passed to the city after the Reformation, and has served as the main parish church ever since. The exterior is sober medieval stonework; the interior was heavily renovated in the 19th century, when the Gothic vaulting was painted and the furnishings updated.
+Saint Nicholas Church is the main parish church of central Örebro, a medieval Gothic structure that has been rebuilt and expanded several times since its founding in the 13th century. The tower dates from the 15th century and is the most prominent historical element; the nave was substantially altered in the 19th century.
 
-The church sits at the main market square (Stortorget), which makes it an easy point of orientation in the city centre. The tower offers occasional views across the rooftops to the castle. The church is open daily; services are still held here.
+The church stands in the middle of the city centre, a few minutes from the castle, and is the spiritual counterpart to the castle's secular authority. The interior is worth a look for its medieval vaulting and the mix of periods visible in the decoration. Free entry; open daily.

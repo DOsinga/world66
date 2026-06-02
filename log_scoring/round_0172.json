@@ -1,0 +1,200 @@
+{
+  "round": 172,
+  "timestamp": "2026-04-12T08:46:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brazil",
+      "path": "southamerica/brazil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Texas",
+      "path": "northamerica/unitedstates/texas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "South Carolina",
+      "path": "northamerica/unitedstates/southcarolina",
+      "prior_mu": 22.724,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_pa",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Pirules",
+      "path": "northamerica/mexico/yucatan/pirules",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Clarence",
+      "path": "northamerica/unitedstates/newyorkstate/clarence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Dry Gap",
+      "path": "northamerica/unitedstates/kentucky/dry_gap",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    }
+  ]
+}

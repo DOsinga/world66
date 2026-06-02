@@ -1,0 +1,200 @@
+{
+  "round": 2003,
+  "timestamp": "2026-04-13T16:01:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 8.4022,
+      "prior_variance": 0.334675,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.6102,
+      "prior_variance": 0.329368,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 6.7385,
+      "prior_variance": 0.343847,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 6.6763,
+      "prior_variance": 0.356942,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.6331,
+      "prior_variance": 0.385731,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 4.3823,
+      "prior_variance": 0.377387,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 2.545,
+      "prior_variance": 0.375467,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.7757,
+      "prior_variance": 0.278786,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": -0.3156,
+      "prior_variance": 0.250668,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 4.3239,
+      "prior_variance": 0.215204,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 2.0656,
+      "prior_variance": 0.27546,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.4767,
+      "prior_variance": 0.298646,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": 0.2101,
+      "prior_variance": 0.264462,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.7203,
+      "prior_variance": 0.245353,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_score": 1.6405,
+      "prior_variance": 0.322652,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -0.9834,
+      "prior_variance": 0.297369,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": 0.6736,
+      "prior_variance": 0.288704,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.8246,
+      "prior_variance": 0.294873,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_score": -0.7458,
+      "prior_variance": 0.270098,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
+      "prior_score": -1.2835,
+      "prior_variance": 0.321878,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -2.7486,
+      "prior_variance": 0.253775,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
+      "prior_score": -3.2171,
+      "prior_variance": 0.278445,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.1874,
+      "prior_variance": 0.274023,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -2.2422,
+      "prior_variance": 0.254904,
+      "prior_n": 5
+    }
+  ]
+}

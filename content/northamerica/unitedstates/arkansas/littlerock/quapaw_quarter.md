@@ -1,15 +1,13 @@
 ---
 title: Quapaw Quarter
-type: neighbourhood
+type: poi
+latitude: 34.7425
+longitude: -92.2820
 tags:
   - things_to_do
   - neighbourhood
-latitude: 34.7380
-longitude: -92.2900
-sources:
-  - https://en.wikipedia.org/wiki/Quapaw_Quarter
 ---
 
-The Quapaw Quarter is the historic core of Little Rock — a nine-square-mile area that includes the central business district and the city's oldest residential neighbourhoods. Named after the Quapaw people who inhabited this part of Arkansas before European settlement, it is the place to wander if you want to understand the city's architectural history.
+The Quapaw Quarter is Little Rock's historic heart — a nine-square-mile district centred on the oldest residential and commercial areas of the city. The neighbourhood takes its name from the Quapaw Nation, the indigenous people who lived in central Arkansas before European settlement.
 
-The neighbourhood holds the densest concentration of pre–Civil War and Victorian-era architecture in Arkansas: Queen Anne cottages, Colonial Revival townhouses, and Craftsman bungalows that function as ordinary homes and businesses rather than museum pieces. The Governor's Mansion area and the MacArthur Park district are the most intact parts. A self-guided walking tour map is available from the Quapaw Quarter Association; the organisation has spent decades fighting to preserve buildings that most southern cities demolished during urban renewal.
+The area is most easily explored on foot. The densest concentration of antebellum and Victorian architecture in Arkansas is here: Queen Anne cottages, Colonial Revival townhouses, Gothic churches, and Craftsman bungalows. Unlike many Southern historic districts, much of the Quapaw Quarter remains lived-in and genuinely residential, which gives it a character that over-restored tourist districts lack. The Governor's Mansion is at the western edge; MacArthur Park anchors the south.

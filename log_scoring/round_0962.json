@@ -1,0 +1,200 @@
+{
+  "round": 962,
+  "timestamp": "2026-04-12T16:09:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_rank": 462,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_rank": 1401,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Makarska Riviera",
+      "path": "europe/croatia/makarskariviera",
+      "prior_rank": 1110,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_rank": 288,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_rank": 847,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_rank": 1390,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_rank": 1754,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_rank": 2824,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_rank": 3984,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_rank": 3860,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_rank": 4194,
+      "prior_wins": 88,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_rank": 2167,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_rank": 4468,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_rank": 3426,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_rank": 6887,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_rank": 6800,
+      "prior_wins": 31,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_rank": 6489,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_rank": 6882,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_rank": 6123,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_rank": 7531,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_rank": 7484,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_rank": 7405,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_rank": 4760,
+      "prior_wins": 30,
+      "prior_n": 4
+    }
+  ]
+}

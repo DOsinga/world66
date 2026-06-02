@@ -1,15 +1,13 @@
 ---
-title: Kujang Monument
+title: Kujang Monument (Tugu Kujang)
 type: poi
+latitude: -6.6015
+longitude: 106.8051
 tags:
   - things_to_do
   - sight
-latitude: -6.6015
-longitude: 106.8051
-sources:
-  - https://en.wikipedia.org/wiki/Kujang_Monument
 ---
 
-The Kujang Monument stands at a busy roundabout in the southern part of the city, a large concrete sculpture of a kujang — the traditional Sundanese ceremonial dagger, with its distinctive curved blade and asymmetrical form. The monument was erected in 1995 and serves as Bogor's best-known civic symbol, appearing on signage and souvenirs throughout the city.
+The Kujang Monument is a 25-metre obelisk in the Sempur area of Bogor, topped with a replica of the kujang — a traditional Sundanese ceremonial blade with a distinctive hooked shape. The monument was built in 1982 as a symbol of Bogor's Sundanese cultural identity and is one of the city's most recognisable landmarks.
 
-The kujang is more than a weapon — it is central to Sundanese cultural identity, associated with the Sunda Kingdom that controlled this region before the arrival of Islam and the Mataram Sultanate. The monument itself is not particularly beautiful up close, but it is worth pausing at if you are in the area, and the surrounding roundabout is a good landmark for orienting yourself in the southern part of the city.
+The surrounding area, Sempur Park, is a large green space popular with local families on weekends. The monument itself is best seen from the street; the park is a decent place to rest after the Botanical Gardens.

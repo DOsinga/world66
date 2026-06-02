@@ -1,0 +1,200 @@
+{
+  "round": 141,
+  "timestamp": "2026-04-12T08:45:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Zanzibar",
+      "path": "africa/tanzania/zanzibar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_mu": 27.3912,
+      "prior_sigma": 3.5808,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Chengde",
+      "path": "asia/china/chengde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/highpeak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Djibouti",
+      "path": "africa/djibouti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

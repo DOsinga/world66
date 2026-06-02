@@ -1,0 +1,200 @@
+{
+  "round": 1039,
+  "timestamp": "2026-04-12T22:06:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_lagun",
+      "prior_rank": 2456,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_rank": 5036,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_rank": 4366,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Marche",
+      "path": "europe/italy/marche",
+      "prior_rank": 4659,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_rank": 3416,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_rank": 3352,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_rank": 2370,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "New Territories",
+      "path": "asia/china/hongkong/newterritories",
+      "prior_rank": 2997,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_rank": 2013,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_rank": 1263,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_rank": 2671,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vieux Fort",
+      "path": "northamerica/saintlucia/vieuxfort",
+      "prior_rank": 4842,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_rank": 2994,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Israel",
+      "path": "asia/israel",
+      "prior_rank": 1966,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Murcia",
+      "path": "europe/spain/spanishcostas/murcia",
+      "prior_rank": 3851,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_rank": 5523,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_rank": 3211,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_rank": 3884,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_rank": 2825,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_rank": 3005,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_rank": 5057,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_rank": 2936,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_rank": 3366,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_rank": 3044,
+      "prior_wins": 14,
+      "prior_n": 1
+    }
+  ]
+}

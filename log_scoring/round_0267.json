@@ -1,0 +1,200 @@
+{
+  "round": 267,
+  "timestamp": "2026-04-12T09:09:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_mu": 22.8008,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_mu": 20.4846,
+      "prior_sigma": 2.9231,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

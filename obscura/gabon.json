@@ -1,0 +1,34 @@
+[
+  {
+    "url": "/places/loango-national-park",
+    "type": "Place",
+    "item-id": "4272",
+    "gtm-content-type": "Place",
+    "lat": "-2.153834",
+    "lng": "9.589604",
+    "city": "Ndougou",
+    "state": "Ogooue-Maritime",
+    "country": "Gabon",
+    "src": "https://img.atlasobscura.com/JJ2YGVHsteQtEHjfL-JfU9yukIwbjsRA74WbPfRVP3s/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NzUx/ZTgxMGE4YWFkNjM3/MjVmNGExYTFiNGU3/Zjc2ZmVmM2I3YTBi/LmpwZw.jpg",
+    "width": "1600",
+    "height": "870",
+    "name": "Loango National Park",
+    "description": "The true jewel of Africa&#39;s west coast known as &quot;Africa&#39;s Last Eden.&quot;"
+  },
+  {
+    "url": "/places/oklo-reactor",
+    "type": "Place",
+    "item-id": "2255",
+    "gtm-content-type": "Place",
+    "lat": "-1.394444",
+    "lng": "13.160833",
+    "city": "Mounana",
+    "state": "Haut-Ogooue",
+    "country": "Gabon",
+    "src": "https://img.atlasobscura.com/y2xoyVzPb2H66OqiqnDuCahSWZygkLRgppLL91QkAb8/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8zOGRi/NjMxYjRlZmZlYzFi/N2YwZGUzZWFlNDNj/NTI1ZWM1NTI1OGVk/LmpwZw.jpg",
+    "width": "545",
+    "height": "280",
+    "name": "Oklo Reactor",
+    "description": "The world&#39;s first and only natural nuclear reactor."
+  }
+]

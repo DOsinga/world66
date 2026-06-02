@@ -1,0 +1,200 @@
+{
+  "round": 708,
+  "timestamp": "2026-04-12T10:43:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bath",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/brighton",
+      "prior_mu": 22.9778,
+      "prior_sigma": 2.6482,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_mu": 23.5859,
+      "prior_sigma": 5.0562,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_mu": 22.4784,
+      "prior_sigma": 3.9688,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_mu": 21.4291,
+      "prior_sigma": 3.8133,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_mu": 23.1037,
+      "prior_sigma": 5.5295,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_mu": 23.1067,
+      "prior_sigma": 4.6228,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/chichester",
+      "prior_mu": 21.4281,
+      "prior_sigma": 4.4883,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/malvern_hills",
+      "prior_mu": 21.6038,
+      "prior_sigma": 4.704,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_mu": 22.3309,
+      "prior_sigma": 5.6912,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/leeds",
+      "prior_mu": 21.4551,
+      "prior_sigma": 4.3841,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_mu": 22.7193,
+      "prior_sigma": 5.6902,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_mu": 20.9268,
+      "prior_sigma": 2.8873,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_mu": 21.6934,
+      "prior_sigma": 4.5486,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/sudbury",
+      "prior_mu": 21.6677,
+      "prior_sigma": 4.8002,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_mu": 20.5145,
+      "prior_sigma": 2.8362,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_mu": 21.4234,
+      "prior_sigma": 4.4724,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_mu": 21.3583,
+      "prior_sigma": 4.5568,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/eastern_england/peterborough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/harrow",
+      "prior_mu": 22.0424,
+      "prior_sigma": 4.698,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/goole",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/doncaster",
+      "prior_mu": 21.4605,
+      "prior_sigma": 4.6636,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_mu": 22.5142,
+      "prior_sigma": 5.7974,
+      "prior_n": 1
+    }
+  ]
+}

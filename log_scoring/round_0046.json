@@ -1,0 +1,200 @@
+{
+  "round": 46,
+  "timestamp": "2026-04-11T19:26:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/cambridge",
+      "prior_mu": 22.8,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_mu": 31.96,
+      "prior_sigma": 6.28,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jerusalem",
+      "path": "asia/palestinianauthority/jerusalem",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 23.73,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_mu": 31.18,
+      "prior_sigma": 6.8,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_mu": 23.43,
+      "prior_sigma": 4.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_mu": 29.36,
+      "prior_sigma": 5.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 22.03,
+      "prior_sigma": 4.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_mu": 22.24,
+      "prior_sigma": 5.33,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 22.31,
+      "prior_sigma": 3.94,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_mu": 23.69,
+      "prior_sigma": 4.91,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_mu": 22.05,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 21.26,
+      "prior_sigma": 4.61,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_mu": 22.09,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_mu": 21.95,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_mu": 22.26,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_mu": 21.0,
+      "prior_sigma": 3.76,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 21.82,
+      "prior_sigma": 5.42,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_mu": 22.63,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_mu": 22.3,
+      "prior_sigma": 5.5,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

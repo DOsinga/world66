@@ -1,0 +1,200 @@
+{
+  "round": 2322,
+  "timestamp": "2026-04-13T16:31:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_score": 5.8538,
+      "prior_variance": 0.380831,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 4.3781,
+      "prior_variance": 0.366696,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 5.8087,
+      "prior_variance": 0.319295,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Valpolicella",
+      "path": "europe/italy/veneto/valpolicella",
+      "prior_score": 4.1774,
+      "prior_variance": 0.201202,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 5.0662,
+      "prior_variance": 0.210975,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 0.026,
+      "prior_variance": 0.302699,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.5926,
+      "prior_variance": 0.279461,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_score": -0.5562,
+      "prior_variance": 0.197774,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.1877,
+      "prior_variance": 0.203115,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -2.5834,
+      "prior_variance": 0.213128,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -0.7566,
+      "prior_variance": 0.26186,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.3291,
+      "prior_variance": 0.224937,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -1.6744,
+      "prior_variance": 0.207981,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.524,
+      "prior_variance": 0.197361,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -0.6158,
+      "prior_variance": 0.230319,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -0.9994,
+      "prior_variance": 0.207079,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_score": -1.6795,
+      "prior_variance": 0.29593,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -2.2703,
+      "prior_variance": 0.186154,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -1.9341,
+      "prior_variance": 0.235461,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -1.4708,
+      "prior_variance": 0.194874,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -2.1737,
+      "prior_variance": 0.221001,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_score": -5.0718,
+      "prior_variance": 0.289991,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_score": -5.8194,
+      "prior_variance": 0.278733,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -9.2076,
+      "prior_variance": 0.481138,
+      "prior_n": 6
+    }
+  ]
+}

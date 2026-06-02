@@ -1,0 +1,200 @@
+{
+  "round": 1398,
+  "timestamp": "2026-04-12T22:25:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_rank": 4149,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_rank": 4169,
+      "prior_wins": 78,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_rank": 4495,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_rank": 5047,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_rank": 4081,
+      "prior_wins": 57,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_rank": 3695,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_rank": 6798,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_rank": 5276,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lower saxony",
+      "path": "europe/germany/lowersaxony",
+      "prior_rank": 4972,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_rank": 4665,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_rank": 4105,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_rank": 2382,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_rank": 5838,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_rank": 6476,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_rank": 4631,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_rank": 4370,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_rank": 5053,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_rank": 3757,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_rank": 3690,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_rank": 5108,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_rank": 3764,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_rank": 5092,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Princes Town",
+      "path": "northamerica/trinidadandtobago/princestown",
+      "prior_rank": 6781,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_rank": 5087,
+      "prior_wins": 29,
+      "prior_n": 3
+    }
+  ]
+}

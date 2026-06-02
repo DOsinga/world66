@@ -1,0 +1,200 @@
+{
+  "round": 942,
+  "timestamp": "2026-04-12T16:08:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_rank": 4,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_rank": 88,
+      "prior_wins": 158,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_rank": 18,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_rank": 40,
+      "prior_wins": 91,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_rank": 55,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_rank": 48,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mallorca",
+      "path": "europe/spain/balearicislands/mallorca",
+      "prior_rank": 46,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_rank": 14,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sardinia",
+      "path": "europe/italy/sardinia",
+      "prior_rank": 73,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Aruba",
+      "path": "northamerica/thecaribbean/aruba",
+      "prior_rank": 54,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_rank": 26,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_rank": 9,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_rank": 34,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_rank": 81,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_rank": 3246,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_rank": 8123,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_rank": 8119,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_rank": 8098,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Teahouses",
+      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
+      "prior_rank": 8145,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_rank": 8120,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_rank": 8097,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_rank": 8171,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_rank": 8147,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "AuYrfpJmYTzFiPA",
+      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
+      "prior_rank": 8227,
+      "prior_wins": 0,
+      "prior_n": 4
+    }
+  ]
+}

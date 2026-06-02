@@ -1,0 +1,200 @@
+{
+  "round": 2174,
+  "timestamp": "2026-04-13T16:17:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 8.2626,
+      "prior_variance": 0.476298,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 8.2607,
+      "prior_variance": 0.308021,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/montana/yellowstone",
+      "prior_score": 9.5124,
+      "prior_variance": 0.725835,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 8.7341,
+      "prior_variance": 0.362255,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Faroe Islands",
+      "path": "europe/faroeislands",
+      "prior_score": 6.1168,
+      "prior_variance": 0.464687,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 7.7178,
+      "prior_variance": 0.427518,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mauritius",
+      "path": "africa/mauritius",
+      "prior_score": 9.2891,
+      "prior_variance": 0.420616,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cuba",
+      "path": "northamerica/cuba",
+      "prior_score": 3.2288,
+      "prior_variance": 0.569373,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_score": 9.2014,
+      "prior_variance": 0.375213,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 8.2294,
+      "prior_variance": 0.423285,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 6.3557,
+      "prior_variance": 0.43176,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bohol",
+      "path": "asia/philippines/bohol",
+      "prior_score": 5.5947,
+      "prior_variance": 0.370281,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.1576,
+      "prior_variance": 0.314526,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Shikoku",
+      "path": "asia/japan/shikoku",
+      "prior_score": 6.9078,
+      "prior_variance": 0.303158,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vietnam",
+      "path": "asia/vietnam",
+      "prior_score": 6.5123,
+      "prior_variance": 0.498625,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_score": 4.8951,
+      "prior_variance": 0.408764,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 6.17,
+      "prior_variance": 0.274555,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 6.1429,
+      "prior_variance": 0.275978,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_score": 5.6782,
+      "prior_variance": 0.237178,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 4.1511,
+      "prior_variance": 0.276687,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 3.741,
+      "prior_variance": 0.153929,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay",
+      "prior_score": 2.2026,
+      "prior_variance": 0.249537,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/hollywood",
+      "prior_score": 5.1898,
+      "prior_variance": 0.344447,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -2.579,
+      "prior_variance": 0.325326,
+      "prior_n": 6
+    }
+  ]
+}

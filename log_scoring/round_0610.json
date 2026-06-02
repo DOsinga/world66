@@ -1,0 +1,200 @@
+{
+  "round": 610,
+  "timestamp": "2026-04-12T10:39:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_mu": 31.5741,
+      "prior_sigma": 6.3339,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Corsica",
+      "path": "europe/france/corsica",
+      "prior_mu": 26.5354,
+      "prior_sigma": 5.3766,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_mu": 28.5503,
+      "prior_sigma": 7.3104,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_mu": 26.0473,
+      "prior_sigma": 5.8426,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_mu": 23.4079,
+      "prior_sigma": 5.9061,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_mu": 23.3282,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Champagne",
+      "path": "europe/france/east/champagne",
+      "prior_mu": 22.925,
+      "prior_sigma": 5.7571,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Loire Valley",
+      "path": "europe/france/wine/loirevalley",
+      "prior_mu": 30.7161,
+      "prior_sigma": 6.9058,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_mu": 22.764,
+      "prior_sigma": 5.4941,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_mu": 22.7238,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_mu": 22.2206,
+      "prior_sigma": 5.4327,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_mu": 21.9322,
+      "prior_sigma": 4.8278,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_mu": 22.5952,
+      "prior_sigma": 5.9452,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_mu": 22.2971,
+      "prior_sigma": 5.6657,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_mu": 22.4904,
+      "prior_sigma": 5.8809,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacel",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_mu": 22.249,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Centre",
+      "path": "europe/france/centre",
+      "prior_mu": 21.6412,
+      "prior_sigma": 4.5273,
+      "prior_n": 2
+    }
+  ]
+}

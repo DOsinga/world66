@@ -1,0 +1,200 @@
+{
+  "round": 1928,
+  "timestamp": "2026-04-13T15:55:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Okavango Delta",
+      "path": "africa/botswana/okavangodelta",
+      "prior_score": 7.2458,
+      "prior_variance": 0.459558,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 8.0216,
+      "prior_variance": 0.656044,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 8.7245,
+      "prior_variance": 0.971666,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_eus/sansebastian",
+      "prior_score": 10.0269,
+      "prior_variance": 0.600239,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 6.8988,
+      "prior_variance": 0.361587,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.3506,
+      "prior_variance": 0.278712,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.9537,
+      "prior_variance": 0.345169,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_score": 4.3966,
+      "prior_variance": 0.295104,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/coromandel",
+      "prior_score": 3.6778,
+      "prior_variance": 0.316125,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_score": 0.1474,
+      "prior_variance": 0.752597,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.3594,
+      "prior_variance": 0.301148,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 3.8885,
+      "prior_variance": 0.316452,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 3.0912,
+      "prior_variance": 0.384205,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "East Frisian Islands",
+      "path": "europe/germany/lowersaxony/east_frisian_islan",
+      "prior_score": 1.8051,
+      "prior_variance": 0.266332,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.255,
+      "prior_variance": 0.24388,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 2.0308,
+      "prior_variance": 0.408371,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": 0.8987,
+      "prior_variance": 0.251494,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -1.4366,
+      "prior_variance": 0.292534,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_score": -2.2716,
+      "prior_variance": 0.3273,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cuiaba",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.4104,
+      "prior_variance": 0.284044,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.4244,
+      "prior_variance": 0.243439,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -3.308,
+      "prior_variance": 0.343378,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -2.7394,
+      "prior_variance": 0.28614,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "NAMANPURA",
+      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
+      "prior_score": -10.7813,
+      "prior_variance": 0.623901,
+      "prior_n": 4
+    }
+  ]
+}

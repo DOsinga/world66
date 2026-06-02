@@ -1,0 +1,6 @@
+---
+title: "Things to Do"
+type: section
+---
+
+Matanzas earns its reputation as Cuba's cultural capital largely through the [Teatro Sauto](/northamerica/thecaribbean/cuba/matanzas/teatro_sauto), one of the finest 19th-century theaters in the Americas, which faces the [Plaza de la Vigía](/northamerica/thecaribbean/cuba/matanzas/plaza_de_la_vigia) alongside the [Museo Histórico Provincial](/northamerica/thecaribbean/cuba/matanzas/museo_historico_provincial). The city was also the birthplace of danzón and rumba, and the musical tradition is still alive — the [Casa de la Cultura](/northamerica/thecaribbean/cuba/matanzas/casa_de_la_cultura) hosts regular performances. The [Museo Farmacéutico](/northamerica/thecaribbean/cuba/matanzas/museo_farmaceutico) on Calle Milanés is the best-preserved 19th-century pharmacy in Latin America. North of the city, the [Río Yumurí](/northamerica/thecaribbean/cuba/matanzas/rio_yumuri) runs through a deep valley that rewards a quiet afternoon's exploration. For something different, the [Ermita de Monserrate](/northamerica/thecaribbean/cuba/matanzas/ermita_monserrate) offers the best views over the city, while the [Cuevas de Bellamar](/northamerica/thecaribbean/cuba/matanzas/cuevas_de_bellamar) are a short drive south.

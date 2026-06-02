@@ -1,0 +1,200 @@
+{
+  "round": 931,
+  "timestamp": "2026-04-12T16:08:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_rank": 144,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_rank": 89,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Campania",
+      "path": "europe/italy/campania",
+      "prior_rank": 119,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Aeolian Islands",
+      "path": "europe/italy/sicily/aeolianislands",
+      "prior_rank": 139,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Canary Islands",
+      "path": "europe/spain/canaryislands",
+      "prior_rank": 202,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dalmatia",
+      "path": "europe/croatia/dalmatia",
+      "prior_rank": 42,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_rank": 104,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_rank": 39,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_rank": 231,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Iceland",
+      "path": "europe/iceland",
+      "prior_rank": 164,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_rank": 237,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_rank": 246,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_rank": 257,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_rank": 112,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_rank": 3790,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_rank": 8161,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_rank": 8167,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_rank": 8221,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Berberati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_rank": 8204,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_rank": 8194,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "J-1 On-line Internet Cafe",
+      "path": "asia/philippines/manila/j1_online_intern",
+      "prior_rank": 8153,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "ghazi chok",
+      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
+      "prior_rank": 8086,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_rank": 8070,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "BbCMQeVjeZFcG",
+      "path": "europe/finland/kotka/bbcmqevjezfcg",
+      "prior_rank": 8109,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

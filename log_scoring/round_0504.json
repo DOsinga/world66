@@ -1,0 +1,200 @@
+{
+  "round": 504,
+  "timestamp": "2026-04-12T09:43:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_mu": 22.4465,
+      "prior_sigma": 5.8264,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_mu": 24.5852,
+      "prior_sigma": 4.5826,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_mu": 23.9543,
+      "prior_sigma": 5.8646,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 22.7397,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_mu": 22.7445,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_mu": 22.4866,
+      "prior_sigma": 5.7701,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_mu": 21.9031,
+      "prior_sigma": 4.7053,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_mu": 21.7592,
+      "prior_sigma": 4.595,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 22.2956,
+      "prior_sigma": 5.7797,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Achterhoek & Liemers",
+      "path": "europe/netherlands/achterhoek__lieme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_mu": 22.6792,
+      "prior_sigma": 5.9353,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_mu": 22.6164,
+      "prior_sigma": 5.9278,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_mu": 22.34,
+      "prior_sigma": 5.7296,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 22.175,
+      "prior_sigma": 5.6604,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_mu": 22.7053,
+      "prior_sigma": 5.9445,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "weerp",
+      "path": "europe/netherlands/weerp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

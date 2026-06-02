@@ -1,0 +1,25 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-04
+  location_enrich: '2026-05-11'
+  poi_cleanup: '2026-04-19'
+image: calbayog.jpg
+image_attribution: Patrickroque01
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Calbayog_City_Hall,_Jose_Avelino_Avenue_(Calbayog,_Samar;_04-27-2023).jpg
+latitude: 12.067
+loc_type: city
+longitude: 124.5947
+score: 0.39
+title: Calbayog
+type: location
+---
+
+Calbayog is the largest city on [Samar Island](/asia/philippines/samarisland), sprawling across three districts on the island's western coast. It is not a tourist city in any conventional sense — this is a working Philippine port town with a busy market, jeepneys painted in eye-watering colours, and the kind of easy-going local life that makes the Philippines so appealing when you get off the beaten path.
+
+The real draw is the surrounding nature. Samar's interior is wild and densely forested — part of the largest remaining tract of primary tropical forest in the Philippines. Waterfalls are everywhere: Bangon-Bugtong Falls has a deep circular pool perfect for swimming, Pan-as Falls drops into mist, and Tabokno Falls is a favourite picnic spot. The Mawacat Slide is a natural 50-metre water slide carved into mossy rock at a 45-degree angle — you ride it down into a cold pool at the bottom.
+
+The coast offers beaches at Malajog, Lo-ok, and Bagacay. Malajog, with its grey sand and towering rock formations, is the most developed. The caves are worth exploring too — Guinogo-an has a cathedral-like entrance leading into dark tunnels, and Danao Cave has seven chambers full of bats.
+
+In town, the cathedral of Saints Peter and Paul is the oldest and largest on Samar, a solid Spanish-era church in the city centre. The Samar Archaeological Museum at Christ the King College has burial jars and artefacts dating back centuries.

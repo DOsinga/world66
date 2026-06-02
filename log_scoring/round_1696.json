@@ -1,0 +1,200 @@
+{
+  "round": 1696,
+  "timestamp": "2026-04-13T10:43:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ibiza Town",
+      "path": "europe/spain/balearicislands/ibiza/ibizatown",
+      "prior_score": 5.4646,
+      "prior_variance": 0.423401,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "George Town",
+      "path": "northamerica/caymanislands/grandcayman/george_town",
+      "prior_score": 7.2904,
+      "prior_variance": 0.269761,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 9.2706,
+      "prior_variance": 0.753852,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Varadero",
+      "path": "northamerica/cuba/varadero",
+      "prior_score": 6.1595,
+      "prior_variance": 0.437316,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 5.0271,
+      "prior_variance": 0.378342,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 6.6861,
+      "prior_variance": 0.400347,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 3.9217,
+      "prior_variance": 0.293667,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Robben Island",
+      "path": "africa/southafrica/capetown/robbenisland",
+      "prior_score": 4.717,
+      "prior_variance": 0.350994,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 4.9079,
+      "prior_variance": 0.347876,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/nationalparks/cur_national_par",
+      "prior_score": 3.6589,
+      "prior_variance": 0.395057,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 3.9305,
+      "prior_variance": 0.412225,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.7032,
+      "prior_variance": 0.359269,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": 0.3645,
+      "prior_variance": 0.300582,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 1.3716,
+      "prior_variance": 0.301426,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": 0.2215,
+      "prior_variance": 0.312989,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.9075,
+      "prior_variance": 0.326916,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": -0.0351,
+      "prior_variance": 0.326682,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.3823,
+      "prior_variance": 0.327553,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 2.8611,
+      "prior_variance": 0.354146,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.2038,
+      "prior_variance": 0.350402,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hoeselt",
+      "path": "europe/belgium/hoeselt",
+      "prior_score": -5.096,
+      "prior_variance": 0.269741,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_score": -6.0074,
+      "prior_variance": 0.358417,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Jamshaid awan",
+      "path": "asia/pakistan/abbottabad/jamshaid_awan",
+      "prior_score": -9.924,
+      "prior_variance": 0.418174,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_score": -3.4303,
+      "prior_variance": 0.413337,
+      "prior_n": 4
+    }
+  ]
+}

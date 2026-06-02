@@ -1,0 +1,200 @@
+{
+  "round": 1164,
+  "timestamp": "2026-04-12T22:12:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_rank": 3595,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_rank": 5809,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_rank": 5891,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_rank": 4525,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_rank": 4539,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_rank": 5640,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_rank": 5625,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_rank": 6821,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_rank": 4180,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_rank": 4344,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_rank": 6178,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_rank": 6399,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_rank": 6200,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Devonport Tasmania Australia",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_rank": 4757,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_rank": 6310,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_rank": 6444,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_rank": 4260,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_rank": 4499,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_rank": 4714,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Zhongshan",
+      "path": "asia/china/zhongshan",
+      "prior_rank": 5280,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_rank": 6177,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_rank": 5233,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_rank": 4537,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_rank": 5687,
+      "prior_wins": 16,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1627,
+  "timestamp": "2026-04-13T10:36:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 10.8469,
+      "prior_variance": 0.504523,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Akihabara",
+      "path": "asia/japan/tokyo/akihabara",
+      "prior_score": 5.5637,
+      "prior_variance": 0.600437,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_score": 8.3584,
+      "prior_variance": 0.470389,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.3433,
+      "prior_variance": 0.411983,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 5.077,
+      "prior_variance": 0.307976,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_score": 6.352,
+      "prior_variance": 0.510476,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 4.1758,
+      "prior_variance": 0.404151,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_score": 5.5084,
+      "prior_variance": 0.357971,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/alassio",
+      "prior_score": 5.1714,
+      "prior_variance": 0.414406,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 4.1849,
+      "prior_variance": 0.362074,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 5.056,
+      "prior_variance": 0.280116,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 5.1971,
+      "prior_variance": 0.363936,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 2.2787,
+      "prior_variance": 0.323511,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 2.0889,
+      "prior_variance": 0.335486,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.7505,
+      "prior_variance": 0.467249,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": 0.4726,
+      "prior_variance": 0.316974,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 1.2022,
+      "prior_variance": 0.317155,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.7479,
+      "prior_variance": 0.509642,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": -0.3545,
+      "prior_variance": 0.357521,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.1718,
+      "prior_variance": 0.357961,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tripura",
+      "path": "asia/india/tripura",
+      "prior_score": -3.1122,
+      "prior_variance": 0.337455,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -1.7024,
+      "prior_variance": 0.41024,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -5.2979,
+      "prior_variance": 0.334975,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cabot",
+      "path": "northamerica/unitedstates/arkansas/cabot",
+      "prior_score": -6.3608,
+      "prior_variance": 0.607412,
+      "prior_n": 3
+    }
+  ]
+}

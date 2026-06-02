@@ -1,0 +1,200 @@
+{
+  "round": 1924,
+  "timestamp": "2026-04-13T15:54:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 7.8206,
+      "prior_variance": 0.301904,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "New South Wales",
+      "path": "australiaandpacific/australia/newsouthwales",
+      "prior_score": 1.0978,
+      "prior_variance": 0.376415,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kitakyushu/kokura",
+      "prior_score": 0.3146,
+      "prior_variance": 0.260463,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 1.2426,
+      "prior_variance": 0.253146,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Podaca",
+      "path": "europe/croatia/makarskariviera/podaca",
+      "prior_score": 1.8685,
+      "prior_variance": 0.290786,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 2.6543,
+      "prior_variance": 0.305678,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -0.9585,
+      "prior_variance": 0.250328,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/ledbury",
+      "prior_score": 0.4898,
+      "prior_variance": 0.295328,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.2618,
+      "prior_variance": 0.268325,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.1545,
+      "prior_variance": 0.310351,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -1.7788,
+      "prior_variance": 0.250919,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Prefecture of Serres",
+      "path": "europe/greece/prefecture_of_serr",
+      "prior_score": -2.7991,
+      "prior_variance": 0.331928,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -1.9176,
+      "prior_variance": 0.243594,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 1.1778,
+      "prior_variance": 0.299101,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_score": 0.522,
+      "prior_variance": 0.314655,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -1.1793,
+      "prior_variance": 0.300009,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -2.3709,
+      "prior_variance": 0.278127,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Balatonm\u00c3\u00a1riaf\u00fcrd\u00c5\u2018",
+      "path": "europe/hungary/balatonmriafrd",
+      "prior_score": -3.0339,
+      "prior_variance": 0.304511,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -3.2425,
+      "prior_variance": 0.258984,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -4.7979,
+      "prior_variance": 0.49394,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_score": -2.4543,
+      "prior_variance": 0.41756,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -5.1084,
+      "prior_variance": 0.349646,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_score": -9.5143,
+      "prior_variance": 0.487847,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -9.7209,
+      "prior_variance": 0.572658,
+      "prior_n": 5
+    }
+  ]
+}

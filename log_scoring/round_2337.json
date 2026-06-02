@@ -1,0 +1,200 @@
+{
+  "round": 2337,
+  "timestamp": "2026-04-13T16:32:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 9.8419,
+      "prior_variance": 0.348573,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 8.257,
+      "prior_variance": 0.484701,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 4.5733,
+      "prior_variance": 0.294258,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 5.345,
+      "prior_variance": 0.295261,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.0565,
+      "prior_variance": 0.254913,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 4.9931,
+      "prior_variance": 0.231133,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_score": 3.4864,
+      "prior_variance": 0.222856,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 4.2639,
+      "prior_variance": 0.262294,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_score": -0.9886,
+      "prior_variance": 0.227899,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 1.4965,
+      "prior_variance": 0.25752,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 3.4231,
+      "prior_variance": 0.217345,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "New Territories",
+      "path": "asia/china/hongkong/newterritories",
+      "prior_score": 2.9364,
+      "prior_variance": 0.206757,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.6687,
+      "prior_variance": 0.212168,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_score": 0.8175,
+      "prior_variance": 0.249901,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.4538,
+      "prior_variance": 0.275158,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -1.3494,
+      "prior_variance": 0.21319,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.9068,
+      "prior_variance": 0.266061,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.111,
+      "prior_variance": 0.203096,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -2.7027,
+      "prior_variance": 0.152487,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -3.2229,
+      "prior_variance": 0.242569,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": 0.4265,
+      "prior_variance": 0.232847,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.1069,
+      "prior_variance": 0.270616,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -4.0548,
+      "prior_variance": 0.23244,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -4.6343,
+      "prior_variance": 0.203318,
+      "prior_n": 7
+    }
+  ]
+}

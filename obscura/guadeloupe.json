@@ -1,0 +1,49 @@
+[
+  {
+    "url": "/places/an-chodye-la-kaz-a-soup-guadeloupe",
+    "type": "Place",
+    "item-id": "33751",
+    "gtm-content-type": "Place",
+    "lat": "16.237434",
+    "lng": "-61.532784",
+    "city": "Pointe-a-Pitre",
+    "state": "Grande-Terre",
+    "country": "Guadeloupe",
+    "src": "https://img.atlasobscura.com/UD5BPwL10E_xQhmkswHEduKxJokx5BnWPXRqqQkHxdM/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85NjRi/M2NhNS1iMzhlLTQx/NTktOGI1Zi0wNGM0/ZjgxNDYyNTNlM2Yy/ZjE4ODJiOGNkZTE5/ZjJfNjUzMTQ2MTNf/NDg5OTA2OTAxNzc1/OTEzXzI5ODY3MzE2/NjIwMDc3NzEwMTlf/bigxKS5qcGc.jpg",
+    "width": "1080",
+    "height": "1350",
+    "name": "An Chody\u00e8 La",
+    "description": "A Caribbean chef recreates his enslaved great-great-grandmother&#39;s dishes inside the home she purchased after buying her freedom."
+  },
+  {
+    "url": "/places/fort-delgres-memorial",
+    "type": "Place",
+    "item-id": "25489",
+    "gtm-content-type": "Place",
+    "lat": "15.988908",
+    "lng": "-61.723015",
+    "city": "Basse-Terre",
+    "country": "Guadeloupe",
+    "src": "https://img.atlasobscura.com/-C8Glp4HoomBzDUUOVQ4PV6teYjgCrVCfIosJvfbufc/rs:fill:600:400:1/g:ce/c:4482:2988:nowe:690:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iNTBj/NGNmMGQ4YjJhMDFl/ODZfMjAxODAyMTFf/MTEzNDI5LmpwZw.jpg",
+    "width": "5312",
+    "height": "2988",
+    "name": "Fort Delgr\u00e8s Memorial",
+    "description": "A stone circle on the slopes of a Caribbean volcano commemorates the leader of an anti-slavery uprising."
+  },
+  {
+    "url": "/places/cimetiere-de-mornealeau",
+    "type": "Place",
+    "item-id": "17038",
+    "gtm-content-type": "Place",
+    "lat": "16.32901",
+    "lng": "-61.460233",
+    "city": "Morne-A-l&#39;Eau",
+    "state": "Pointe-\u00e0-Pitre",
+    "country": "Guadeloupe",
+    "src": "https://img.atlasobscura.com/pttfZCxoyxyZGzUHuXZDUM4IlxcxxfTC8Xr6faE--2c/rs:fill:600:400:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9vbGx3/dXBpbG1kbDg3amtl/MGUwNWExNmY2Y2Iz/MDVmYzc1X0lNR18y/MDE2MDMxMV8xNjA5/MDg0ODIuanBn.jpg",
+    "width": "5344",
+    "height": "3006",
+    "name": "Cimeti\u00e8re de Morne-\u00c0-l&#39;Eau (Cemetery of Morne-\u00e0-l&#39;eau)",
+    "description": "At first glance, little checkered structures on the hillside look like they house the living, not the dead."
+  }
+]

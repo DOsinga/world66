@@ -1,0 +1,200 @@
+{
+  "round": 963,
+  "timestamp": "2026-04-12T16:09:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_rank": 608,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_rank": 237,
+      "prior_wins": 93,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_rank": 577,
+      "prior_wins": 125,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_rank": 1521,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_rank": 1471,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_rank": 4858,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_rank": 2850,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_rank": 3624,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_rank": 3830,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_rank": 4097,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_rank": 5477,
+      "prior_wins": 39,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_rank": 4937,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_rank": 1215,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ganpati Phule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_rank": 3944,
+      "prior_wins": 48,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_rank": 6530,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Draginuan",
+      "path": "europe/france/midi/draginuan",
+      "prior_rank": 6829,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_rank": 4797,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_rank": 6234,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_rank": 6708,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_rank": 4729,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_rank": 8204,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_rank": 7453,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_rank": 7625,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

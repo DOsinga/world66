@@ -1,0 +1,17 @@
+---
+title: Things to do
+type: poi
+---
+
+**Contributors**
+April 24, 2005
+
+### [Rosa Marasco](/europe/unitedkingdom/northernireland/belfast/things_to_do/rosa_marasco)
+
+Take a black taxi tour (tel 90642264) to the Shankill and Falls roads to see the beatuful political murals of the Troubles.
+
+type: Trekking
+
+
+
+[[rate it]](/europe/unitedkingdom/northernireland/belfast/things_to_do/rosa_marasco)

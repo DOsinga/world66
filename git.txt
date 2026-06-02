@@ -1,0 +1,37 @@
+# Workflow: direct op DOsinga/world66 (als maintainer)
+
+# 1. Clone de repo
+cd ~/proj
+git clone https://github.com/DOsinga/world66.git world66
+cd world66
+
+# 2. Maak een branch aan voor je werk
+git checkout -b feature/mijn-aanpassing
+
+# 3. Doe je wijzigingen, commit per stap
+git add .
+git commit -m "Korte duidelijke beschrijving van wat je hebt gedaan"
+
+# 4. Push naar origin en maak een PR
+git push -u origin feature/mijn-aanpassing
+# Ga naar GitHub en open een pull request naar main
+
+# --- Opruimen als de PR gemerged is ---
+git checkout main
+git pull origin main
+git branch -d feature/mijn-aanpassing
+
+# --- Worktrees voor parallel werk ---
+# Maak een worktree aan voor een extra branch
+git worktree add ../world66-mijn-aanpassing -b feature/mijn-aanpassing origin/main
+
+# Verwijder worktree als je klaar bent
+git worktree remove ../world66-mijn-aanpassing
+git branch -d feature/mijn-aanpassing
+
+# De mappenstructuur ziet er dan zo uit:
+# ~/proj/
+# ├── world66/                        # hoofdrepo
+# ├── world66-mijn-aanpassing/        # worktree voor feature 1
+# ├── world66-andere-feature/         # worktree voor feature 2
+# └── world66-bugfix/                 # worktree voor feature 3

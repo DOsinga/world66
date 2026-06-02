@@ -1,0 +1,21 @@
+---
+done:
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-05-12'
+image: tehran.jpg
+image_attribution: Laurens R. Krol
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_Azadi_Tower_(2).jpg
+latitude: 35.689252
+loc_type: city
+longitude: 51.3896
+score: 0.44
+title: Tehran
+type: location
+---
+
+**Tehran** is the capital of Iran and, with a metropolitan population of around 15 million, one of the largest cities in the Middle East. It sits on a high plateau at about 1,200 metres, backed by the enormous snow-capped **Alborz** range — the 5,671-metre peak of Mount Damavand, Iran's highest mountain, is just 60 km north of the city. The physical setting is extraordinary; the city itself is not. Tehran grew dramatically in the 20th century from a provincial town into a sprawling modern capital, and it looks it. Heavy traffic, air pollution, and a mostly 1960s–70s concrete skyline are what first-time visitors notice. The charm of Iran — the exquisite blue-tiled mosques and covered bazaars of Isfahan, Shiraz and Yazd — is not really to be found here.
+
+What Tehran has instead is a handful of genuinely extraordinary sights and the unique privilege of being the place where modern Iranian life is actually lived. The **Golestan Palace**, the 19th-century Qajar-dynasty residence with its mirrored halls and tiled outer walls, is a UNESCO World Heritage Site and the best glimpse of pre-revolutionary royal Iran. The adjacent **Grand Bazaar** is one of the largest covered markets in the world, a 10-kilometre labyrinth of alleys still structured by trade. The **National Museum of Iran** holds the finest collection of Persian antiquities anywhere, including pieces from Persepolis and the extraordinary salt mummies of Zanjan. The **Treasury of National Jewels**, in the vaults of the Central Bank of Iran, displays some of the most spectacular crown jewels on earth — the Peacock Throne, the 182-carat Sea of Light (*Darya-ye Noor*) pink diamond, and a jewel-encrusted globe made from 51,000 individual gemstones. The **Carpet Museum** is surprisingly excellent. And the former **US Embassy**, now the *Museum of the Den of Espionage*, is a piece of history all its own: it is where the 1979 hostage crisis began, and its walls are still covered in the anti-American murals that became the defining visual of the revolution.
+
+Most visitors to Iran spend only a day or two here, using Tehran as the arrival and departure point for the rest of the country. The **northern suburbs** — Darband, Tajrish, Darakeh — are noticeably cooler, greener, and more affluent, with tea houses along mountain streams and hiking trails into the Alborz starting directly from the metro stops. Three major **ski resorts** — **Dizin**, **Shemshak**, and **Tochal** — are within two hours' drive, and the closest of them (Tochal) is reachable by cable car from inside the city itself. Come to Iran for Isfahan and Persepolis; but give Tehran two full days. Check current travel advisories and visa requirements, which have been unpredictable for foreign visitors in recent years.

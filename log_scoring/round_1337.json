@@ -1,0 +1,200 @@
+{
+  "round": 1337,
+  "timestamp": "2026-04-12T22:22:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_rank": 6715,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_rank": 7065,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_rank": 6422,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_rank": 3854,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/wanganui",
+      "prior_rank": 6186,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_rank": 4929,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_rank": 4495,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_rank": 7230,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_rank": 4575,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_rank": 3112,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_rank": 3792,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Bihac",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_rank": 5820,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_rank": 3334,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Jesenice",
+      "path": "europe/slovenia/jesenice",
+      "prior_rank": 7691,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_rank": 6516,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_rank": 6030,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_rank": 5976,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_rank": 5811,
+      "prior_wins": 41,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_rank": 6127,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_rank": 4895,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_rank": 3805,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_rank": 6476,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_rank": 5530,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_rank": 6182,
+      "prior_wins": 15,
+      "prior_n": 3
+    }
+  ]
+}

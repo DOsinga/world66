@@ -1,0 +1,200 @@
+{
+  "round": 34,
+  "timestamp": "2026-04-11T19:25:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_mu": 22.29,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_mu": 21.54,
+      "prior_sigma": 4.67,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 22.09,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_mu": 22.75,
+      "prior_sigma": 4.8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.56,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 22.15,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_mu": 22.91,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_mu": 23.19,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_mu": 22.57,
+      "prior_sigma": 5.67,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_mu": 21.91,
+      "prior_sigma": 5.67,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_mu": 22.29,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_mu": 21.86,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_mu": 21.24,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pakpattan",
+      "path": "asia/pakistan/pakpattan",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_mu": 21.08,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

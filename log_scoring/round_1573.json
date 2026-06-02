@@ -1,0 +1,200 @@
+{
+  "round": 1573,
+  "timestamp": "2026-04-13T10:32:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 6.1259,
+      "prior_variance": 0.360103,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 3.1268,
+      "prior_variance": 0.514303,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.5204,
+      "prior_variance": 0.337639,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 6.4723,
+      "prior_variance": 0.507417,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 4.1612,
+      "prior_variance": 0.376263,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 5.6347,
+      "prior_variance": 0.417726,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.8394,
+      "prior_variance": 0.414508,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 4.3095,
+      "prior_variance": 0.331885,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 7.9288,
+      "prior_variance": 0.371264,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 4.9402,
+      "prior_variance": 0.183664,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 5.6757,
+      "prior_variance": 0.5439,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.2866,
+      "prior_variance": 0.36167,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 3.024,
+      "prior_variance": 0.327445,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 4.8605,
+      "prior_variance": 0.332799,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 4.2939,
+      "prior_variance": 0.381075,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.7828,
+      "prior_variance": 0.385407,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 3.1998,
+      "prior_variance": 0.421995,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 3.9381,
+      "prior_variance": 0.338767,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 3.0558,
+      "prior_variance": 0.398672,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.3416,
+      "prior_variance": 0.332777,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 2.0824,
+      "prior_variance": 0.417472,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national",
+      "prior_score": 4.333,
+      "prior_variance": 0.371614,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 1.8862,
+      "prior_variance": 0.763556,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "La Gran Sabana",
+      "path": "southamerica/venezuela/lagransabana",
+      "prior_score": 4.034,
+      "prior_variance": 0.379136,
+      "prior_n": 4
+    }
+  ]
+}

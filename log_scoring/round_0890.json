@@ -1,0 +1,200 @@
+{
+  "round": 890,
+  "timestamp": "2026-04-12T14:47:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 7.5357,
+      "prior_variance": 0.782236,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Everest Region",
+      "path": "asia/nepal/everest_region",
+      "prior_score": 8.7668,
+      "prior_variance": 11.099554,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pembrokeshire Coast National Park",
+      "path": "europe/unitedkingdom/wales/pembrokeshire_coas",
+      "prior_score": 4.0707,
+      "prior_variance": 1.862477,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_score": 6.7206,
+      "prior_variance": 2.163315,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Korcula",
+      "path": "europe/croatia/korcula",
+      "prior_score": 7.4699,
+      "prior_variance": 1.741396,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 8.47,
+      "prior_variance": 9.628686,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 6.0252,
+      "prior_variance": 1.546607,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.9844,
+      "prior_variance": 1.292628,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_score": 6.7116,
+      "prior_variance": 1.615637,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Friedrichshain",
+      "path": "europe/germany/berlin/friedrichshain",
+      "prior_score": 2.537,
+      "prior_variance": 1.53294,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 6.7845,
+      "prior_variance": 0.715345,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 4.5783,
+      "prior_variance": 0.60415,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_score": 0.5358,
+      "prior_variance": 1.229131,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": 4.2017,
+      "prior_variance": 1.858034,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": 1.0237,
+      "prior_variance": 1.307181,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 1.1107,
+      "prior_variance": 1.445397,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Cava dei Tirreni",
+      "path": "europe/italy/campania/cavadeitirreni",
+      "prior_score": 1.9309,
+      "prior_variance": 1.310907,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_score": -3.0825,
+      "prior_variance": 1.355328,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -2.0475,
+      "prior_variance": 1.302041,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -6.1995,
+      "prior_variance": 1.395873,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -2.7935,
+      "prior_variance": 1.349796,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -2.5871,
+      "prior_variance": 1.237545,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_score": -13.3936,
+      "prior_variance": 7.933816,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -7.8527,
+      "prior_variance": 0.6891,
+      "prior_n": 2
+    }
+  ]
+}

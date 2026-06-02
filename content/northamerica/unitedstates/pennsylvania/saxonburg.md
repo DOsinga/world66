@@ -1,0 +1,21 @@
+---
+done:
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-06-01'
+image: saxonburg.jpg
+image_attribution: McCart42
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Saxonburg_PA_South_Butler_Street.jpg
+latitude: 40.750601
+loc_type: city
+longitude: -79.814118
+score: 0.3
+title: Saxonburg
+type: location
+---
+
+Saxonburg is a small borough in Butler County, about 23 miles northeast of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh). Founded in 1832 by German immigrants, the town has a quiet Main Street with a handful of restaurants and local businesses.
+
+Saxonburg's most notable claim to history is its connection to John A. Roebling, the engineer who designed the Brooklyn Bridge. Roebling was one of the town's founders and began manufacturing wire rope here before moving his operation to New Jersey. The [John Roebling House](/northamerica/unitedstates/pennsylvania/saxonburg/roebling_house) on South Rebecca Street and a historical marker on Main Street commemorate the site. The [Saxonburg Historic District](/northamerica/unitedstates/pennsylvania/saxonburg/historic_district) preserves much of the original German colonial layout and is on the National Register.
+
+The [Saxonburg Festival of the Arts](/northamerica/unitedstates/pennsylvania/saxonburg/saxonburg_festival), held in early September, draws visitors with craft booths, a parade, and a morning 5K run. The town is a pleasant stop if you are exploring the countryside north of Pittsburgh, though it is not a destination in itself.

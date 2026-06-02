@@ -1,0 +1,200 @@
+{
+  "round": 2031,
+  "timestamp": "2026-04-13T16:04:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 2.1553,
+      "prior_variance": 0.204167,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_score": -0.2086,
+      "prior_variance": 0.328306,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 1.7976,
+      "prior_variance": 0.278055,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_score": 3.0629,
+      "prior_variance": 0.324293,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": 0.7948,
+      "prior_variance": 0.249147,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
+      "prior_score": 2.391,
+      "prior_variance": 0.263901,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_score": 1.1627,
+      "prior_variance": 0.209126,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 1.5909,
+      "prior_variance": 0.274063,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 1.247,
+      "prior_variance": 0.282784,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/langeoog",
+      "prior_score": 0.196,
+      "prior_variance": 0.255118,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Morvan",
+      "path": "europe/france/east/burgundy/morvan",
+      "prior_score": 1.1967,
+      "prior_variance": 0.314096,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.3517,
+      "prior_variance": 0.348186,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Turda",
+      "path": "europe/romania/transylvania/turda",
+      "prior_score": 0.6316,
+      "prior_variance": 0.286719,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": 1.4213,
+      "prior_variance": 0.27428,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Brunei",
+      "path": "asia/brunei",
+      "prior_score": 0.7446,
+      "prior_variance": 0.233748,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Haridwar",
+      "path": "asia/india/uttarpradesh/haridwar",
+      "prior_score": 0.7608,
+      "prior_variance": 0.313938,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/osnabrck",
+      "prior_score": 0.3803,
+      "prior_variance": 0.295429,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.3596,
+      "prior_variance": 0.166615,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.0918,
+      "prior_variance": 0.257487,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_score": -0.4768,
+      "prior_variance": 0.288477,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.4093,
+      "prior_variance": 0.451866,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.6667,
+      "prior_variance": 0.327759,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_score": -5.8229,
+      "prior_variance": 0.314873,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -6.9355,
+      "prior_variance": 0.335863,
+      "prior_n": 6
+    }
+  ]
+}

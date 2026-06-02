@@ -1,0 +1,200 @@
+{
+  "round": 1190,
+  "timestamp": "2026-04-12T22:14:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_rank": 1442,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_rank": 1926,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_rank": 2818,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Liguria",
+      "path": "europe/italy/liguria",
+      "prior_rank": 2634,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_rank": 503,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_rank": 578,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_rank": 643,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_rank": 1302,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_rank": 1469,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_rank": 1141,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_rank": 1124,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_rank": 621,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_rank": 1537,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_rank": 3749,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_rank": 1106,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_rank": 638,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_rank": 2836,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_rank": 1512,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_rank": 3449,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_rank": 1920,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Portoroz",
+      "path": "europe/slovenia/portoroz",
+      "prior_rank": 2977,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Belgrade",
+      "path": "europe/serbiaandmontenegro/belgrade",
+      "prior_rank": 1181,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_rank": 4530,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_rank": 5650,
+      "prior_wins": 24,
+      "prior_n": 3
+    }
+  ]
+}

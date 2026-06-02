@@ -1,0 +1,200 @@
+{
+  "round": 1828,
+  "timestamp": "2026-04-13T10:55:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 12.3839,
+      "prior_variance": 0.556129,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 8.0456,
+      "prior_variance": 0.431806,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.5421,
+      "prior_variance": 0.519884,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 9.3134,
+      "prior_variance": 0.452476,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_score": 8.3775,
+      "prior_variance": 0.350916,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Santa Eulalia",
+      "path": "europe/spain/balearicislands/ibiza/santaeulalia",
+      "prior_score": 5.2068,
+      "prior_variance": 0.327994,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bordeaux",
+      "path": "europe/france/wine/bordeaux",
+      "prior_score": 8.3171,
+      "prior_variance": 0.478622,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 3.4526,
+      "prior_variance": 0.303858,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 1.4824,
+      "prior_variance": 0.344835,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 5.1933,
+      "prior_variance": 0.440769,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 1.3554,
+      "prior_variance": 0.270576,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bihac",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -1.6065,
+      "prior_variance": 0.257396,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": 0.5275,
+      "prior_variance": 0.361988,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.3189,
+      "prior_variance": 0.284691,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": 0.1502,
+      "prior_variance": 0.280573,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.7755,
+      "prior_variance": 0.33768,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 6.9749,
+      "prior_variance": 0.410255,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.6752,
+      "prior_variance": 0.391574,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -4.4177,
+      "prior_variance": 0.271439,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -6.7135,
+      "prior_variance": 0.384519,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -6.5398,
+      "prior_variance": 0.579307,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -6.1389,
+      "prior_variance": 0.326629,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.6427,
+      "prior_variance": 0.457409,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -10.7617,
+      "prior_variance": 0.361721,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1291,
+  "timestamp": "2026-04-12T22:19:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_rank": 6997,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_rank": 6632,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_rank": 5060,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_rank": 7188,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_rank": 6992,
+      "prior_wins": 39,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_rank": 7081,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_rank": 7223,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_rank": 5676,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_rank": 4072,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_rank": 6690,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_rank": 6562,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_rank": 7536,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_rank": 6517,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_rank": 5863,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_rank": 6380,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_rank": 6688,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_rank": 6206,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_rank": 7052,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_rank": 5710,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_rank": 7576,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Turkmenistan",
+      "path": "asia/turkmenistan",
+      "prior_rank": 4813,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pakistan",
+      "path": "asia/pakistan",
+      "prior_rank": 7712,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_rank": 5598,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/yucatan/queretaro",
+      "prior_rank": 6399,
+      "prior_wins": 14,
+      "prior_n": 2
+    }
+  ]
+}

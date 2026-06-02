@@ -1,0 +1,200 @@
+{
+  "round": 2301,
+  "timestamp": "2026-04-13T16:29:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 8.924,
+      "prior_variance": 0.473311,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Wadi Rum",
+      "path": "asia/jordan/wadirum",
+      "prior_score": 8.1875,
+      "prior_variance": 0.330034,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 6.1507,
+      "prior_variance": 0.312284,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 6.7021,
+      "prior_variance": 0.240614,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Argolis",
+      "path": "europe/greece/argolis",
+      "prior_score": 6.4532,
+      "prior_variance": 0.328956,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lombok",
+      "path": "asia/indonesia/lombok",
+      "prior_score": 6.3498,
+      "prior_variance": 0.254385,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.4999,
+      "prior_variance": 0.317696,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 7.1011,
+      "prior_variance": 0.337864,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.1171,
+      "prior_variance": 0.327976,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 4.4785,
+      "prior_variance": 0.23836,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Philippines",
+      "path": "asia/philippines",
+      "prior_score": -2.6772,
+      "prior_variance": 0.360924,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ancash",
+      "path": "southamerica/peru/ancash",
+      "prior_score": 2.3719,
+      "prior_variance": 0.439257,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 3.467,
+      "prior_variance": 0.234321,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/auckland",
+      "prior_score": 7.1478,
+      "prior_variance": 0.402478,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 3.6049,
+      "prior_variance": 0.270452,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
+      "prior_score": 2.2789,
+      "prior_variance": 0.214098,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.0948,
+      "prior_variance": 0.240639,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 2.8356,
+      "prior_variance": 0.228372,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_eus/portugalete",
+      "prior_score": 1.5888,
+      "prior_variance": 0.206318,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -1.6396,
+      "prior_variance": 0.204214,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -1.106,
+      "prior_variance": 0.205247,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_score": 0.7077,
+      "prior_variance": 0.256795,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -0.1007,
+      "prior_variance": 0.327062,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -6.5056,
+      "prior_variance": 0.406278,
+      "prior_n": 5
+    }
+  ]
+}

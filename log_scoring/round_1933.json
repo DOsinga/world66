@@ -1,0 +1,200 @@
+{
+  "round": 1933,
+  "timestamp": "2026-04-13T15:55:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.7556,
+      "prior_variance": 0.39379,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.667,
+      "prior_variance": 0.251285,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -3.229,
+      "prior_variance": 0.314479,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_score": -5.8176,
+      "prior_variance": 0.507022,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.6807,
+      "prior_variance": 0.271632,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.6535,
+      "prior_variance": 0.255124,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -4.9599,
+      "prior_variance": 0.348713,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -4.5992,
+      "prior_variance": 0.305675,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_score": -6.7838,
+      "prior_variance": 0.298822,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Rapid City",
+      "path": "northamerica/unitedstates/southcarolina/rapidcity",
+      "prior_score": -3.4856,
+      "prior_variance": 0.241581,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -5.9335,
+      "prior_variance": 0.251592,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "bapatla",
+      "path": "asia/india/andhrapradesh/bapatla",
+      "prior_score": -7.6981,
+      "prior_variance": 0.508271,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mardakan",
+      "path": "europe/azerbaijan/mardakan",
+      "prior_score": -4.5127,
+      "prior_variance": 0.352672,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -7.5655,
+      "prior_variance": 0.408776,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -6.0922,
+      "prior_variance": 0.356897,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_score": -8.9232,
+      "prior_variance": 0.734887,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_score": -8.3537,
+      "prior_variance": 0.237386,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Hong",
+      "path": "africa/nigeria/yola/hong",
+      "prior_score": -8.8911,
+      "prior_variance": 0.511771,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -8.747,
+      "prior_variance": 0.516311,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_score": -8.0571,
+      "prior_variance": 0.383501,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "caston norfolk",
+      "path": "europe/unitedkingdom/england/castonnorfolk",
+      "prior_score": -7.9308,
+      "prior_variance": 0.412801,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -9.2704,
+      "prior_variance": 0.549712,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -9.0633,
+      "prior_variance": 0.656308,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -8.984,
+      "prior_variance": 0.350066,
+      "prior_n": 5
+    }
+  ]
+}

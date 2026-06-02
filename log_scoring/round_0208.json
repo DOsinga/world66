@@ -1,0 +1,200 @@
+{
+  "round": 208,
+  "timestamp": "2026-04-12T09:06:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Isle of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Dalian",
+      "path": "asia/china/dalian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/ware",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_mu": 22.7175,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Podujeva",
+      "path": "europe/serbia/kosovoprovince/podujeva_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

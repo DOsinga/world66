@@ -1,0 +1,200 @@
+{
+  "round": 755,
+  "timestamp": "2026-04-12T10:46:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_mu": 22.006,
+      "prior_sigma": 4.6647,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_mu": 22.6489,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_mu": 22.5517,
+      "prior_sigma": 3.7259,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_mu": 21.7848,
+      "prior_sigma": 4.4879,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_mu": 21.2838,
+      "prior_sigma": 4.0257,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_mu": 22.2156,
+      "prior_sigma": 5.3869,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
+      "prior_mu": 22.8328,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_mu": 29.0481,
+      "prior_sigma": 6.9995,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Goiania",
+      "path": "southamerica/brazil/goiania",
+      "prior_mu": 21.3458,
+      "prior_sigma": 3.7943,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_mu": 21.2884,
+      "prior_sigma": 3.9126,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_mu": 21.5767,
+      "prior_sigma": 4.6401,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_mu": 21.2949,
+      "prior_sigma": 3.8834,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Roma",
+      "path": "australiaandpacific/australia/queensland/roma",
+      "prior_mu": 21.7252,
+      "prior_sigma": 4.4708,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_mu": 21.6501,
+      "prior_sigma": 4.4735,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_mu": 18.7934,
+      "prior_sigma": 4.948,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_mu": 21.6268,
+      "prior_sigma": 5.7072,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_mu": 18.516,
+      "prior_sigma": 4.4026,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "bughlani",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/soker/bughlani",
+      "prior_mu": 20.8641,
+      "prior_sigma": 4.6891,
+      "prior_n": 2
+    }
+  ]
+}

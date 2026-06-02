@@ -1,0 +1,200 @@
+{
+  "round": 2329,
+  "timestamp": "2026-04-13T16:31:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.7173,
+      "prior_variance": 0.21845,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 1.896,
+      "prior_variance": 0.208527,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 1.5237,
+      "prior_variance": 0.221129,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.6321,
+      "prior_variance": 0.225509,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -1.8363,
+      "prior_variance": 0.232934,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.4992,
+      "prior_variance": 0.261253,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Tann",
+      "path": "europe/switzerland/tann",
+      "prior_score": -2.5682,
+      "prior_variance": 0.242099,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -0.8164,
+      "prior_variance": 0.211611,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -0.7761,
+      "prior_variance": 0.208176,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Marina del Rey",
+      "path": "northamerica/unitedstates/california/losangeles/marinadelrey",
+      "prior_score": 0.4481,
+      "prior_variance": 0.215549,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -3.1207,
+      "prior_variance": 0.221978,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.4803,
+      "prior_variance": 0.270741,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -2.4993,
+      "prior_variance": 0.217531,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Melville",
+      "path": "africa/southafrica/johannesburg/melville",
+      "prior_score": -3.358,
+      "prior_variance": 0.381689,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -2.3413,
+      "prior_variance": 0.221706,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -2.3726,
+      "prior_variance": 0.150304,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.8057,
+      "prior_variance": 0.242886,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "North Dakota",
+      "path": "northamerica/unitedstates/northdakota",
+      "prior_score": -4.3807,
+      "prior_variance": 0.249595,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_score": -1.4194,
+      "prior_variance": 0.212279,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_score": -4.0408,
+      "prior_variance": 0.219544,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.1553,
+      "prior_variance": 0.270925,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -7.1465,
+      "prior_variance": 0.297194,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Penas Blancas",
+      "path": "northamerica/nicaragua/penas_blancas",
+      "prior_score": -6.5156,
+      "prior_variance": 0.341069,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -10.9738,
+      "prior_variance": 0.550958,
+      "prior_n": 6
+    }
+  ]
+}

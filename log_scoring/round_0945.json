@@ -1,0 +1,200 @@
+{
+  "round": 945,
+  "timestamp": "2026-04-12T16:08:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 28,
+      "prior_wins": 138,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "France",
+      "path": "europe/france",
+      "prior_rank": 64,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_rank": 69,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_rank": 30,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_rank": 44,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Japan",
+      "path": "asia/japan",
+      "prior_rank": 8,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_rank": 71,
+      "prior_wins": 137,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bali",
+      "path": "asia/indonesia/bali",
+      "prior_rank": 7,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_rank": 45,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_rank": 6,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_rank": 57,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_rank": 5673,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Irricana .",
+      "path": "northamerica/canada/alberta/calgary/aroundtown/irricana",
+      "prior_rank": 8143,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_rank": 8109,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_rank": 8082,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_rank": 8078,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sudan",
+      "path": "africa/sudan",
+      "prior_rank": 8144,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_rank": 8178,
+      "prior_wins": 0,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_rank": 8090,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_rank": 8098,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_rank": 8122,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "MdFrJwObBzEDeO",
+      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
+      "prior_rank": 8218,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Fog Lifter Caffe",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
+      "prior_rank": 8075,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tcby",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
+      "prior_rank": 8133,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

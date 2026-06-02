@@ -1,0 +1,200 @@
+{
+  "round": 1862,
+  "timestamp": "2026-04-13T10:58:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalonia",
+      "path": "europe/spain/catalonia",
+      "prior_score": 5.6808,
+      "prior_variance": 0.418666,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_score": -0.0885,
+      "prior_variance": 0.439026,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 4.2426,
+      "prior_variance": 0.248297,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 3.0199,
+      "prior_variance": 0.3317,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 3.0168,
+      "prior_variance": 0.251,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 1.2334,
+      "prior_variance": 0.261049,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.0537,
+      "prior_variance": 0.321456,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.2521,
+      "prior_variance": 0.312008,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/marlow",
+      "prior_score": 1.3516,
+      "prior_variance": 0.306203,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": 0.3283,
+      "prior_variance": 0.26864,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
+      "prior_score": -0.1604,
+      "prior_variance": 0.227921,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -2.0685,
+      "prior_variance": 0.243518,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.3473,
+      "prior_variance": 0.345475,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -1.6862,
+      "prior_variance": 0.254641,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": 0.0506,
+      "prior_variance": 0.404279,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -2.3476,
+      "prior_variance": 0.246146,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.7957,
+      "prior_variance": 0.230905,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_score": -4.1619,
+      "prior_variance": 0.525331,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fuerth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.6654,
+      "prior_variance": 0.37504,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_score": -2.0716,
+      "prior_variance": 0.373733,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -1.8489,
+      "prior_variance": 0.309051,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -6.3237,
+      "prior_variance": 0.334484,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Yass",
+      "path": "australiaandpacific/australia/newsouthwales/yass",
+      "prior_score": -3.5688,
+      "prior_variance": 0.299169,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -7.1357,
+      "prior_variance": 0.386282,
+      "prior_n": 6
+    }
+  ]
+}

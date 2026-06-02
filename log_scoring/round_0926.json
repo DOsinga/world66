@@ -1,0 +1,200 @@
+{
+  "round": 926,
+  "timestamp": "2026-04-12T14:50:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 8.2135,
+      "prior_variance": 0.736742,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 2.9069,
+      "prior_variance": 1.363765,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_score": 6.9353,
+      "prior_variance": 1.485304,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.8296,
+      "prior_variance": 1.716161,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 5.1321,
+      "prior_variance": 0.944781,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 2.4764,
+      "prior_variance": 1.201915,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 1.801,
+      "prior_variance": 1.213896,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 2.9259,
+      "prior_variance": 1.44529,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Safaga",
+      "path": "africa/egypt/hurghada/safaga",
+      "prior_score": 2.7701,
+      "prior_variance": 1.220468,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 0.3226,
+      "prior_variance": 0.730486,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_score": 1.0082,
+      "prior_variance": 1.345507,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -2.4214,
+      "prior_variance": 2.082514,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": 1.9516,
+      "prior_variance": 1.314941,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": 0.2565,
+      "prior_variance": 1.261045,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": 1.0605,
+      "prior_variance": 1.466689,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -1.6409,
+      "prior_variance": 1.260898,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Alega",
+      "path": "australiaandpacific/americansamoa/alega",
+      "prior_score": -0.9238,
+      "prior_variance": 1.317765,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kazakhstan",
+      "path": "asia/kazakhstan",
+      "prior_score": -2.7423,
+      "prior_variance": 0.800913,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.5226,
+      "prior_variance": 0.403226,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -3.8156,
+      "prior_variance": 0.832739,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -10.8554,
+      "prior_variance": 8.522776,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_score": -7.7461,
+      "prior_variance": 1.890876,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -3.3512,
+      "prior_variance": 1.547907,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -9.6554,
+      "prior_variance": 1.945309,
+      "prior_n": 2
+    }
+  ]
+}

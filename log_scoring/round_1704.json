@@ -1,0 +1,200 @@
+{
+  "round": 1704,
+  "timestamp": "2026-04-13T10:43:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_p",
+      "prior_score": 4.0898,
+      "prior_variance": 0.333193,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 3.9469,
+      "prior_variance": 0.401425,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 0.3202,
+      "prior_variance": 0.345853,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.0326,
+      "prior_variance": 0.41795,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 1.7358,
+      "prior_variance": 0.387386,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.9337,
+      "prior_variance": 0.30433,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -2.5543,
+      "prior_variance": 0.319575,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_score": 1.5581,
+      "prior_variance": 0.438906,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 0.7823,
+      "prior_variance": 0.297465,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 0.9696,
+      "prior_variance": 0.320459,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 2.3223,
+      "prior_variance": 0.315057,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 1.5248,
+      "prior_variance": 0.301431,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 1.5051,
+      "prior_variance": 0.310672,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.9122,
+      "prior_variance": 0.314669,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.9653,
+      "prior_variance": 0.322593,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.5101,
+      "prior_variance": 0.305205,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 1.3564,
+      "prior_variance": 0.323908,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.2607,
+      "prior_variance": 0.247077,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_score": -0.3061,
+      "prior_variance": 0.267115,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.3135,
+      "prior_variance": 0.241093,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -1.8987,
+      "prior_variance": 0.462157,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -2.3567,
+      "prior_variance": 0.414947,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -5.5049,
+      "prior_variance": 0.401343,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.0642,
+      "prior_variance": 0.293362,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1478,
+  "timestamp": "2026-04-13T10:24:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 1.7455,
+      "prior_variance": 0.428179,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 2.0978,
+      "prior_variance": 0.365911,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 0.3502,
+      "prior_variance": 0.36087,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 1.352,
+      "prior_variance": 0.478974,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 1.558,
+      "prior_variance": 0.557769,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 0.1956,
+      "prior_variance": 0.465098,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.4818,
+      "prior_variance": 0.396414,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 2.7308,
+      "prior_variance": 0.486379,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 0.9643,
+      "prior_variance": 0.408621,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_score": 0.9262,
+      "prior_variance": 0.377188,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/murnau_am_staffels",
+      "prior_score": 1.0613,
+      "prior_variance": 0.418277,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -0.17,
+      "prior_variance": 0.31782,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_score": 1.1635,
+      "prior_variance": 0.330547,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_score": -2.3678,
+      "prior_variance": 0.705805,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": 0.0721,
+      "prior_variance": 0.440428,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": -0.1261,
+      "prior_variance": 0.398391,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 2.143,
+      "prior_variance": 0.488447,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_score": 0.3088,
+      "prior_variance": 0.438946,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_score": 1.4226,
+      "prior_variance": 0.414036,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": 1.083,
+      "prior_variance": 0.429343,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Baja California",
+      "path": "northamerica/mexico/yucatan/bajacalifornia",
+      "prior_score": -0.1898,
+      "prior_variance": 0.583698,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.8114,
+      "prior_variance": 0.343164,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": 0.1233,
+      "prior_variance": 0.432656,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": 0.4447,
+      "prior_variance": 0.449271,
+      "prior_n": 3
+    }
+  ]
+}

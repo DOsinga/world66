@@ -1,0 +1,200 @@
+{
+  "round": 157,
+  "timestamp": "2026-04-12T08:45:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/greater_wellington/wairarapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_mu": 22.5286,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 20.1402,
+      "prior_sigma": 2.6193,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Waldorf",
+      "path": "northamerica/unitedstates/maryland/waldorf",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Cha bait wala Yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_bait_wala_yaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

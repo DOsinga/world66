@@ -1,0 +1,200 @@
+{
+  "round": 950,
+  "timestamp": "2026-04-12T16:08:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_rank": 66,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_rank": 3651,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_rank": 2137,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sulawesi",
+      "path": "asia/indonesia/sulawesi",
+      "prior_rank": 2668,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_rank": 3206,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_rank": 3428,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_rank": 4152,
+      "prior_wins": 56,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Astorga",
+      "path": "europe/spain/astorga",
+      "prior_rank": 2427,
+      "prior_wins": 102,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
+      "prior_rank": 4438,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_rank": 4459,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_rank": 2702,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_rank": 3884,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_rank": 4874,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_rank": 7184,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "New Jersey",
+      "path": "northamerica/unitedstates/newjersey",
+      "prior_rank": 6931,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_rank": 5936,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_rank": 7692,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Port harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_rank": 6453,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Maykop",
+      "path": "europe/russia/krasnodar/maykop",
+      "prior_rank": 7065,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Guinea",
+      "path": "africa/guineeconakry",
+      "prior_rank": 8208,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_rank": 8075,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_rank": 7996,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_rank": 8211,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

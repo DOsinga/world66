@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Little Rock concentrates most of its visitor interest in a compact area between the State Capitol to the west and the River Market District on the riverfront. The Clinton Presidential Library anchors one end; the historic Quapaw Quarter neighbourhood spreads south from the other.
+Little Rock is a walkable city with a concentrated downtown core. The River Market District and the Quapaw Quarter hold most of what visitors come to see — presidential library, presidential history, presidential irony (the 1957 Central High crisis is well documented here). Get a free day pass to the river trail and walk it end to end.

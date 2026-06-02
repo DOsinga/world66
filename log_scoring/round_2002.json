@@ -1,0 +1,200 @@
+{
+  "round": 2002,
+  "timestamp": "2026-04-13T16:01:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 3.7605,
+      "prior_variance": 0.444815,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 3.2478,
+      "prior_variance": 0.280131,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.1948,
+      "prior_variance": 0.266883,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.0721,
+      "prior_variance": 0.28305,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": -0.2408,
+      "prior_variance": 0.27284,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.0004,
+      "prior_variance": 0.259838,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 2.1591,
+      "prior_variance": 0.335695,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San gil",
+      "path": "southamerica/colombia/san_gil",
+      "prior_score": 2.8778,
+      "prior_variance": 0.274097,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.0626,
+      "prior_variance": 0.31075,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Marche",
+      "path": "europe/italy/marche",
+      "prior_score": 2.1057,
+      "prior_variance": 0.269925,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -1.9589,
+      "prior_variance": 0.233561,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/boulogne/le_touquet",
+      "prior_score": 1.1523,
+      "prior_variance": 0.255027,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.5475,
+      "prior_variance": 0.297214,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -1.7841,
+      "prior_variance": 0.215818,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.9436,
+      "prior_variance": 0.259653,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -0.0798,
+      "prior_variance": 0.244448,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Inderoy",
+      "path": "europe/norway/inderoy",
+      "prior_score": -1.8252,
+      "prior_variance": 0.25079,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -1.5063,
+      "prior_variance": 0.262679,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ningxia",
+      "path": "asia/china/ningxia",
+      "prior_score": -2.0593,
+      "prior_variance": 0.263797,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_score": -4.7334,
+      "prior_variance": 0.355473,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -4.6516,
+      "prior_variance": 0.349212,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.6247,
+      "prior_variance": 0.244259,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Monte Sereno",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
+      "prior_score": -6.8519,
+      "prior_variance": 0.524489,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -5.1045,
+      "prior_variance": 0.297172,
+      "prior_n": 5
+    }
+  ]
+}

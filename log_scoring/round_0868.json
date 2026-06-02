@@ -1,0 +1,200 @@
+{
+  "round": 868,
+  "timestamp": "2026-04-12T14:46:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_score": 13.7132,
+      "prior_variance": 7.819498,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_score": 10.1731,
+      "prior_variance": 1.664639,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "St. Thomas",
+      "path": "northamerica/virginislands/stthomas",
+      "prior_score": 6.9202,
+      "prior_variance": 2.247846,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 6.7665,
+      "prior_variance": 2.138798,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 6.0779,
+      "prior_variance": 1.385976,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_score": -2.062,
+      "prior_variance": 1.342127,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.6116,
+      "prior_variance": 1.371687,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 4.1121,
+      "prior_variance": 1.332315,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 2.4377,
+      "prior_variance": 1.331597,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 4.1294,
+      "prior_variance": 1.47602,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 1.378,
+      "prior_variance": 1.46165,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.9561,
+      "prior_variance": 0.333577,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": 2.6463,
+      "prior_variance": 1.233097,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": -0.1031,
+      "prior_variance": 1.573905,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 0.2684,
+      "prior_variance": 1.478499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": -1.9129,
+      "prior_variance": 0.84365,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.3028,
+      "prior_variance": 2.07462,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -4.2946,
+      "prior_variance": 1.186443,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_score": -2.6657,
+      "prior_variance": 1.576023,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -5.4013,
+      "prior_variance": 1.243059,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -2.9412,
+      "prior_variance": 0.856548,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_score": -6.2802,
+      "prior_variance": 3.34176,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -3.9505,
+      "prior_variance": 1.390644,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -2.1558,
+      "prior_variance": 1.848194,
+      "prior_n": 1
+    }
+  ]
+}

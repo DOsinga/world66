@@ -1,0 +1,200 @@
+{
+  "round": 1426,
+  "timestamp": "2026-04-12T22:27:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Rift Valley",
+      "path": "africa/kenya/theriftvalley",
+      "prior_rank": 665,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_rank": 2368,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_rank": 2877,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/yucatan/puertoaventuras",
+      "prior_rank": 3145,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_rank": 2224,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_rank": 2398,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_rank": 2889,
+      "prior_wins": 82,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_rank": 3965,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Laugarvatn",
+      "path": "europe/iceland/laugarvatn",
+      "prior_rank": 2517,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_rank": 2648,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Boa vista",
+      "path": "africa/capeverde/boavista",
+      "prior_rank": 3393,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_rank": 2031,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_3",
+      "prior_rank": 4511,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_rank": 5837,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_nati",
+      "prior_rank": 3401,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_rank": 3037,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_rank": 2836,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_rank": 2875,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_rank": 3064,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_rank": 2776,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_rank": 1517,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_rank": 3585,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_rank": 1649,
+      "prior_wins": 112,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_rank": 4415,
+      "prior_wins": 34,
+      "prior_n": 4
+    }
+  ]
+}

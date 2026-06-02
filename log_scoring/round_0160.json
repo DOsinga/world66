@@ -1,0 +1,200 @@
+{
+  "round": 160,
+  "timestamp": "2026-04-12T08:46:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_mu": 21.4885,
+      "prior_sigma": 3.317,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/skipton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Senegal",
+      "path": "africa/senegal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Santa Clara de Tulpancingo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santa_clara_de_tul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

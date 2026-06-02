@@ -1,0 +1,200 @@
+{
+  "round": 1945,
+  "timestamp": "2026-04-13T15:56:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tulum",
+      "path": "northamerica/mexico/yucatan/tulum",
+      "prior_score": 9.3155,
+      "prior_variance": 0.525453,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.3891,
+      "prior_variance": 0.289801,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 4.2023,
+      "prior_variance": 0.310902,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.9799,
+      "prior_variance": 0.187674,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Lindau",
+      "path": "europe/germany/badenwrttemberg/lindau",
+      "prior_score": 3.8291,
+      "prior_variance": 0.261231,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 3.0277,
+      "prior_variance": 0.291741,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Saint-Pierre",
+      "path": "northamerica/martinique/saintpierre",
+      "prior_score": 3.148,
+      "prior_variance": 0.232543,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 3.0813,
+      "prior_variance": 0.323803,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 3.4734,
+      "prior_variance": 0.259205,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": 0.0252,
+      "prior_variance": 0.283998,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_eus/laguardia",
+      "prior_score": 3.5889,
+      "prior_variance": 0.252022,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Brunei",
+      "path": "asia/brunei",
+      "prior_score": 0.6656,
+      "prior_variance": 0.275876,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_score": -0.9897,
+      "prior_variance": 0.269793,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Guaruja",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -0.1921,
+      "prior_variance": 0.286144,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.4719,
+      "prior_variance": 0.307398,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_score": -2.5062,
+      "prior_variance": 0.301566,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -4.3455,
+      "prior_variance": 0.390778,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -2.0157,
+      "prior_variance": 0.270113,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_score": -0.7054,
+      "prior_variance": 0.283622,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -1.6686,
+      "prior_variance": 0.304427,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_score": -2.8726,
+      "prior_variance": 0.255969,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.6317,
+      "prior_variance": 0.301846,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -2.3765,
+      "prior_variance": 0.245727,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -4.0883,
+      "prior_variance": 0.303493,
+      "prior_n": 4
+    }
+  ]
+}

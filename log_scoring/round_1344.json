@@ -1,0 +1,200 @@
+{
+  "round": 1344,
+  "timestamp": "2026-04-12T22:22:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_rank": 3405,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_rank": 5612,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_rank": 6591,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_rank": 4716,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_rank": 7101,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kaleden",
+      "path": "northamerica/canada/britishcolumbia/kaleden",
+      "prior_rank": 6982,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_rank": 6707,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_rank": 6509,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_rank": 7874,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_rank": 7259,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_rank": 4390,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/stafford",
+      "prior_rank": 6841,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_rank": 5891,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Port Richey",
+      "path": "northamerica/unitedstates/florida/portrichey",
+      "prior_rank": 7129,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_rank": 6607,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_rank": 6775,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_rank": 7593,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_rank": 7051,
+      "prior_wins": 24,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wrzesnia",
+      "path": "europe/poland/wrzesnia",
+      "prior_rank": 5159,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_rank": 7586,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pleasant Grove",
+      "path": "northamerica/unitedstates/utah/pleasantgrove",
+      "prior_rank": 5569,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/konkan/nagpur",
+      "prior_rank": 6098,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mahlow",
+      "path": "europe/germany/brandenburg/mahlow",
+      "prior_rank": 6974,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Varlosen",
+      "path": "europe/germany/lowersaxony/varlosen",
+      "prior_rank": 7148,
+      "prior_wins": 16,
+      "prior_n": 3
+    }
+  ]
+}

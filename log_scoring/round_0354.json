@@ -1,0 +1,200 @@
+{
+  "round": 354,
+  "timestamp": "2026-04-12T09:13:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_mu": 31.6787,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bocas del toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Robben Island",
+      "path": "africa/southafrica/capetown/robbenisland",
+      "prior_mu": 22.7329,
+      "prior_sigma": 5.7082,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "La Coruna",
+      "path": "europe/spain/lacoruna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bintan",
+      "path": "asia/indonesia/bintan",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_mu": 21.9612,
+      "prior_sigma": 4.5439,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Amriswil",
+      "path": "europe/switzerland/amriswil",
+      "prior_mu": 22.4767,
+      "prior_sigma": 5.9066,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_mu": 21.7435,
+      "prior_sigma": 4.8067,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 188,
+  "timestamp": "2026-04-12T08:47:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/yucatan/rivieramaya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bavaria",
+      "path": "europe/germany/bavaria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_mu": 21.5863,
+      "prior_sigma": 2.3528,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tsavo N.P.",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kitakyushu",
+      "path": "asia/japan/kyushu/kitakyushu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Negev",
+      "path": "asia/israel/negev",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Millaa Millaa",
+      "path": "australiaandpacific/australia/queensland/millaamillaa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ialomita",
+      "path": "europe/romania/ialomita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_mu": 22.4775,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Sheikh",
+      "path": "africa/somaliland/sheikh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

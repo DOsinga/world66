@@ -1,0 +1,200 @@
+{
+  "round": 1856,
+  "timestamp": "2026-04-13T10:57:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 10.5718,
+      "prior_variance": 0.451079,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.4771,
+      "prior_variance": 0.373334,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 2.1678,
+      "prior_variance": 0.460767,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 3.0997,
+      "prior_variance": 0.420352,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Takunoshima",
+      "path": "asia/japan/ryukyuislands/takunoshima",
+      "prior_score": 0.7608,
+      "prior_variance": 0.408619,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 1.3398,
+      "prior_variance": 0.201305,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 1.9045,
+      "prior_variance": 0.318614,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 1.4089,
+      "prior_variance": 0.29605,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 1.1151,
+      "prior_variance": 0.184047,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 3.3652,
+      "prior_variance": 0.395214,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.0696,
+      "prior_variance": 0.309147,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_score": 0.4991,
+      "prior_variance": 0.400065,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nicaragua",
+      "path": "northamerica/nicaragua",
+      "prior_score": -1.2708,
+      "prior_variance": 0.40535,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": 0.3146,
+      "prior_variance": 0.284568,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -1.7145,
+      "prior_variance": 0.2361,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -3.0917,
+      "prior_variance": 0.243251,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_score": -3.2067,
+      "prior_variance": 0.222779,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.4618,
+      "prior_variance": 0.376609,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.4727,
+      "prior_variance": 0.42883,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -4.8883,
+      "prior_variance": 0.361718,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -2.4394,
+      "prior_variance": 0.308513,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -7.1642,
+      "prior_variance": 0.355373,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "TORDHER",
+      "path": "asia/pakistan/karachi/tordher",
+      "prior_score": -9.642,
+      "prior_variance": 0.441755,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.416,
+      "prior_variance": 0.317815,
+      "prior_n": 7
+    }
+  ]
+}

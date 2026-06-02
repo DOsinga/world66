@@ -1,0 +1,200 @@
+{
+  "round": 1634,
+  "timestamp": "2026-04-13T10:37:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_score": 8.6675,
+      "prior_variance": 0.473557,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Switzerland",
+      "path": "europe/switzerland",
+      "prior_score": 4.0987,
+      "prior_variance": 0.589544,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chile",
+      "path": "southamerica/chile",
+      "prior_score": -1.7175,
+      "prior_variance": 0.810859,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_score": 9.1934,
+      "prior_variance": 0.498312,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 6.0995,
+      "prior_variance": 0.69316,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 6.3215,
+      "prior_variance": 0.405578,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.4709,
+      "prior_variance": 0.555242,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 6.2295,
+      "prior_variance": 0.331148,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 5.983,
+      "prior_variance": 0.546936,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_score": 3.7114,
+      "prior_variance": 0.423651,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Friuli Venezia Giulia",
+      "path": "europe/italy/friuliveneziagiulia",
+      "prior_score": 3.1983,
+      "prior_variance": 0.439447,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 5.7646,
+      "prior_variance": 0.507906,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 3.9963,
+      "prior_variance": 0.228296,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_score": 3.4731,
+      "prior_variance": 0.334752,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_score": 4.3533,
+      "prior_variance": 0.439096,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.0519,
+      "prior_variance": 0.380705,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/centralspain/caceres",
+      "prior_score": 4.166,
+      "prior_variance": 0.356953,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 2.7798,
+      "prior_variance": 0.340407,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_score": 4.4568,
+      "prior_variance": 0.314782,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -0.5763,
+      "prior_variance": 0.438684,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 3.7682,
+      "prior_variance": 0.280489,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Romania",
+      "path": "europe/romania",
+      "prior_score": 3.679,
+      "prior_variance": 0.414804,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_score": -3.0078,
+      "prior_variance": 0.352848,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/watford",
+      "prior_score": -3.8578,
+      "prior_variance": 0.338973,
+      "prior_n": 4
+    }
+  ]
+}

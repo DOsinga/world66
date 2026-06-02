@@ -1,0 +1,200 @@
+{
+  "round": 2097,
+  "timestamp": "2026-04-13T16:10:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Croatia",
+      "path": "europe/croatia",
+      "prior_score": 2.0218,
+      "prior_variance": 0.741893,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 6.0533,
+      "prior_variance": 0.284485,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 6.1322,
+      "prior_variance": 0.290853,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 4.8532,
+      "prior_variance": 0.241879,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_score": 3.9959,
+      "prior_variance": 0.375806,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Roppongi",
+      "path": "asia/japan/tokyo/roppongi",
+      "prior_score": 5.0086,
+      "prior_variance": 0.214335,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.3225,
+      "prior_variance": 0.308849,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_score": 5.2768,
+      "prior_variance": 0.412351,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 3.4585,
+      "prior_variance": 0.287845,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_score": 2.4649,
+      "prior_variance": 0.215812,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/saranda/jal",
+      "prior_score": 2.3846,
+      "prior_variance": 0.256799,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national",
+      "prior_score": 2.7744,
+      "prior_variance": 0.223965,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 1.7708,
+      "prior_variance": 0.332144,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Big pine key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 1.0283,
+      "prior_variance": 0.222436,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.6216,
+      "prior_variance": 0.257132,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -0.6051,
+      "prior_variance": 0.276351,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_score": -2.1778,
+      "prior_variance": 0.274009,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.3572,
+      "prior_variance": 0.246481,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
+      "prior_score": -2.2643,
+      "prior_variance": 0.308958,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "oran",
+      "path": "africa/algeria/oran/oran_1",
+      "prior_score": -3.0724,
+      "prior_variance": 0.285689,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.2629,
+      "prior_variance": 0.29117,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/indiana/auburn",
+      "prior_score": -5.1958,
+      "prior_variance": 0.290638,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.3184,
+      "prior_variance": 0.243362,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_score": -3.5897,
+      "prior_variance": 0.26261,
+      "prior_n": 5
+    }
+  ]
+}

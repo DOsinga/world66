@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Bogor's main draw is the Botanical Gardens — one of the greatest tropical gardens in Asia — and the Presidential Palace within them. The rest of the city has scattered attractions worth half a day's exploration, from a zoology museum to a monument to a Sundanese dagger.
+The Botanical Gardens are the reason to come to Bogor, and they alone justify the day trip from Jakarta. Give them at least half a day, and more if you're interested in tropical botany. The Presidential Palace inside the gardens is visible from outside but requires advance booking to visit. Everything else in Bogor can be done in an afternoon.

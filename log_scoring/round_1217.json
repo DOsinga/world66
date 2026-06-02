@@ -1,0 +1,200 @@
+{
+  "round": 1217,
+  "timestamp": "2026-04-12T22:15:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_rank": 229,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_rank": 906,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_rank": 3067,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_rank": 2582,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_rank": 3270,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkneys",
+      "prior_rank": 494,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_rank": 235,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_rank": 1461,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_rank": 1113,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Elba",
+      "path": "europe/italy/tuscany/elba",
+      "prior_rank": 526,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_rank": 604,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_rank": 3274,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_rank": 2100,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_rank": 587,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_par",
+      "prior_rank": 742,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_rank": 2574,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_rank": 4080,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_rank": 748,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_rank": 4241,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_rank": 2412,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_rank": 1128,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_rank": 859,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_rank": 307,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_rank": 609,
+      "prior_wins": 39,
+      "prior_n": 2
+    }
+  ]
+}

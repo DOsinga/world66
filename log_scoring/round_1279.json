@@ -1,0 +1,200 @@
+{
+  "round": 1279,
+  "timestamp": "2026-04-12T22:19:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venezuela",
+      "path": "southamerica/venezuela",
+      "prior_rank": 7862,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_rank": 6543,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_rank": 8139,
+      "prior_wins": 7,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_rank": 5651,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_rank": 6534,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ialomita",
+      "path": "europe/romania/ialomita",
+      "prior_rank": 7826,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_rank": 7519,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_rank": 8096,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_rank": 8012,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_rank": 6330,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_rank": 6571,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_rank": 7867,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_rank": 7484,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_rank": 8152,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_rank": 6160,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southcarolina/aberdeen",
+      "prior_rank": 8179,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_rank": 6576,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_rank": 7644,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_rank": 7835,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_rank": 7813,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_rank": 7576,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Diego",
+      "path": "southamerica/venezuela/altos_mirandinos/san_diego",
+      "prior_rank": 7963,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_rank": 7727,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_rank": 7107,
+      "prior_wins": 13,
+      "prior_n": 3
+    }
+  ]
+}

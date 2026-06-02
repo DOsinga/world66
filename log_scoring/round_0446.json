@@ -1,0 +1,200 @@
+{
+  "round": 446,
+  "timestamp": "2026-04-12T09:31:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_mu": 26.1778,
+      "prior_sigma": 6.1849,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_mu": 22.2146,
+      "prior_sigma": 4.656,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_mu": 22.7281,
+      "prior_sigma": 5.9505,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.7255,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_mu": 22.2874,
+      "prior_sigma": 5.5423,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Maharashtra",
+      "path": "asia/india/maharashtra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_mu": 22.462,
+      "prior_sigma": 5.9049,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_mu": 22.6904,
+      "prior_sigma": 5.9458,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_mu": 22.6857,
+      "prior_sigma": 5.9453,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_mu": 22.2291,
+      "prior_sigma": 5.5243,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_mu": 22.6171,
+      "prior_sigma": 5.9356,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "sarainkhet sarson",
+      "path": "asia/india/uttaranchal/sarainkhet_sarson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/karanprayag/pauri",
+      "prior_mu": 22.2434,
+      "prior_sigma": 5.7798,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Malla Banas",
+      "path": "asia/india/uttaranchal/malla_banas_8",
+      "prior_mu": 18.2282,
+      "prior_sigma": 6.7405,
+      "prior_n": 1
+    }
+  ]
+}

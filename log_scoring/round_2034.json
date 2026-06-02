@@ -1,0 +1,200 @@
+{
+  "round": 2034,
+  "timestamp": "2026-04-13T16:04:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 11.8306,
+      "prior_variance": 0.627755,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_score": 7.4606,
+      "prior_variance": 0.290926,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 5.1789,
+      "prior_variance": 0.362544,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 4.9609,
+      "prior_variance": 0.268996,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Southland & Otago",
+      "path": "australiaandpacific/newzealand/otago",
+      "prior_score": 4.8432,
+      "prior_variance": 0.53895,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 2.3965,
+      "prior_variance": 0.357955,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 0.3453,
+      "prior_variance": 0.304383,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 0.9537,
+      "prior_variance": 0.267476,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.3005,
+      "prior_variance": 0.246632,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 2.1229,
+      "prior_variance": 0.249078,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.6927,
+      "prior_variance": 0.269203,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.2692,
+      "prior_variance": 0.251894,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": 0.0037,
+      "prior_variance": 0.257614,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": 0.0959,
+      "prior_variance": 0.233481,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -1.315,
+      "prior_variance": 0.253619,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -2.1363,
+      "prior_variance": 0.307603,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/bolton__by__bowl",
+      "prior_score": -1.8116,
+      "prior_variance": 0.362372,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_score": -4.9728,
+      "prior_variance": 0.436174,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.7129,
+      "prior_variance": 0.294494,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.2201,
+      "prior_variance": 0.293528,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_score": -2.011,
+      "prior_variance": 0.252906,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_score": -3.2074,
+      "prior_variance": 0.270086,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -5.6866,
+      "prior_variance": 0.288398,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nanded",
+      "path": "asia/india/maharashtra/mumbai/nanded",
+      "prior_score": -4.4138,
+      "prior_variance": 0.299307,
+      "prior_n": 5
+    }
+  ]
+}

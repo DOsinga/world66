@@ -1,0 +1,200 @@
+{
+  "round": 1972,
+  "timestamp": "2026-04-13T15:58:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nepal",
+      "path": "asia/nepal",
+      "prior_score": 8.4906,
+      "prior_variance": 0.756808,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_score": 7.4767,
+      "prior_variance": 0.385354,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 7.4062,
+      "prior_variance": 0.382042,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 8.9547,
+      "prior_variance": 0.673408,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 7.6263,
+      "prior_variance": 0.39178,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 6.1688,
+      "prior_variance": 0.303543,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.5414,
+      "prior_variance": 0.232363,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "The Azores",
+      "path": "europe/portugal/theazores",
+      "prior_score": 9.0983,
+      "prior_variance": 0.411705,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Corsica",
+      "path": "europe/france/corsica",
+      "prior_score": 10.0426,
+      "prior_variance": 0.58537,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.8355,
+      "prior_variance": 0.260175,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -0.9125,
+      "prior_variance": 0.327141,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 2.0123,
+      "prior_variance": 0.282003,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.3999,
+      "prior_variance": 0.300079,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.279,
+      "prior_variance": 0.251846,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -1.2646,
+      "prior_variance": 0.288121,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -0.9435,
+      "prior_variance": 0.253095,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.26,
+      "prior_variance": 0.32878,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 2.0908,
+      "prior_variance": 0.268067,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": 0.2325,
+      "prior_variance": 0.242687,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -2.0331,
+      "prior_variance": 0.295737,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -3.8805,
+      "prior_variance": 0.295873,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/mumbai/nagpur",
+      "prior_score": -3.5632,
+      "prior_variance": 0.263048,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.2257,
+      "prior_variance": 0.322674,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -1.5944,
+      "prior_variance": 0.347447,
+      "prior_n": 5
+    }
+  ]
+}

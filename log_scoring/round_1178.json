@@ -1,0 +1,200 @@
+{
+  "round": 1178,
+  "timestamp": "2026-04-12T22:13:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/cornwall",
+      "prior_rank": 265,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_rank": 300,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/california/sandiego/downtown",
+      "prior_rank": 842,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/auckland_region",
+      "prior_rank": 492,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_rank": 242,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Guadeloupe",
+      "path": "northamerica/thecaribbean/guadeloupe",
+      "prior_rank": 837,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_rank": 2608,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_rank": 731,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_rank": 605,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_rank": 1334,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/celleligure",
+      "prior_rank": 1162,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_rank": 2552,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_rank": 904,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_rank": 2354,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_rank": 996,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_rank": 581,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_rank": 2485,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_rank": 816,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_rank": 2189,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national",
+      "prior_rank": 946,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/yucatan/sanjosedelcabo",
+      "prior_rank": 1350,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Canakkale",
+      "path": "asia/turkey/canakkale",
+      "prior_rank": 2650,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_rank": 1520,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_rank": 1335,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

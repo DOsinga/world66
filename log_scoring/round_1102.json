@@ -1,0 +1,200 @@
+{
+  "round": 1102,
+  "timestamp": "2026-04-12T22:09:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maharashtra",
+      "path": "asia/india/maharashtra",
+      "prior_rank": 4481,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "South Australia",
+      "path": "australiaandpacific/australia/southaustralia",
+      "prior_rank": 4848,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kazakhstan",
+      "path": "asia/kazakhstan",
+      "prior_rank": 5517,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Azad Kashmir",
+      "path": "asia/pakistan/azad_kashmir",
+      "prior_rank": 1444,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_rank": 5403,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_rank": 2152,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_rank": 5598,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_rank": 3863,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_rank": 6274,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_rank": 6260,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Landsberg",
+      "path": "europe/germany/bavaria/landsberg",
+      "prior_rank": 5359,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_rank": 3693,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_rank": 5545,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_rank": 6276,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_rank": 4072,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_rank": 4300,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_rank": 5170,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_rank": 5127,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/waikato/hamilton",
+      "prior_rank": 6368,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/lowerhutt",
+      "prior_rank": 5845,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kaleden",
+      "path": "northamerica/canada/britishcolumbia/kaleden",
+      "prior_rank": 6076,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_rank": 5817,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_rank": 6003,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_rank": 6722,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

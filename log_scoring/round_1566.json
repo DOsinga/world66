@@ -1,0 +1,200 @@
+{
+  "round": 1566,
+  "timestamp": "2026-04-13T10:31:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Switzerland",
+      "path": "europe/switzerland",
+      "prior_score": 3.2935,
+      "prior_variance": 0.731773,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gojal Valley",
+      "path": "asia/pakistan/hunzavalley/gojal_valley",
+      "prior_score": 2.976,
+      "prior_variance": 0.411036,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
+      "prior_score": 3.491,
+      "prior_variance": 0.386733,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/north_island/northland",
+      "prior_score": 2.907,
+      "prior_variance": 0.436818,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 3.4279,
+      "prior_variance": 0.34094,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 3.6079,
+      "prior_variance": 0.442198,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 3.0242,
+      "prior_variance": 0.391145,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.7502,
+      "prior_variance": 0.361592,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 2.5947,
+      "prior_variance": 0.215435,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/skipton",
+      "prior_score": 3.167,
+      "prior_variance": 0.292325,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Fischland-Darss-Zingst",
+      "path": "europe/germany/mecklenburgwesternpomerania/fischland_darss",
+      "prior_score": 2.0755,
+      "prior_variance": 0.31564,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Collaroy",
+      "path": "australiaandpacific/australia/newsouthwales/collaroy",
+      "prior_score": -1.053,
+      "prior_variance": 0.487159,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 1.0297,
+      "prior_variance": 0.405196,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 2.2733,
+      "prior_variance": 0.513265,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 4.8208,
+      "prior_variance": 0.574929,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.4321,
+      "prior_variance": 0.391743,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 2.2852,
+      "prior_variance": 0.494681,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.6358,
+      "prior_variance": 0.632261,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.1365,
+      "prior_variance": 0.40158,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.5941,
+      "prior_variance": 0.425962,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 3.557,
+      "prior_variance": 0.435051,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_score": 2.9671,
+      "prior_variance": 0.41883,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -1.3477,
+      "prior_variance": 0.406066,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "s'argamassa",
+      "path": "europe/spain/balearicislands/ibiza/sargamassa",
+      "prior_score": 2.5699,
+      "prior_variance": 0.457192,
+      "prior_n": 3
+    }
+  ]
+}

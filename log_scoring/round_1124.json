@@ -1,0 +1,200 @@
+{
+  "round": 1124,
+  "timestamp": "2026-04-12T22:10:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_rank": 1151,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_rank": 1358,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_rank": 777,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_rank": 500,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_rank": 35,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_rank": 472,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_rank": 1686,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_rank": 2452,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_rank": 466,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_rank": 941,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vermont",
+      "path": "northamerica/unitedstates/vermont",
+      "prior_rank": 89,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_rank": 3174,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hangzhou",
+      "path": "asia/china/hangzhou",
+      "prior_rank": 1092,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_rank": 843,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_rank": 477,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_rank": 761,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_rank": 4039,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_rank": 2939,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_rank": 1298,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_rank": 2273,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Isola di San Pietro",
+      "path": "europe/italy/sardinia/isoladisanpietro",
+      "prior_rank": 1121,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_rank": 1127,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/stowonthewold",
+      "prior_rank": 2459,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_rank": 1290,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

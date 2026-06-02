@@ -1,0 +1,200 @@
+{
+  "round": 534,
+  "timestamp": "2026-04-12T10:36:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_mu": 21.6487,
+      "prior_sigma": 4.5655,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_mu": 22.4147,
+      "prior_sigma": 5.6617,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national",
+      "prior_mu": 22.9599,
+      "prior_sigma": 5.858,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_mu": 22.6049,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/calistoga",
+      "prior_mu": 22.6129,
+      "prior_sigma": 5.5669,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_mu": 22.5565,
+      "prior_sigma": 5.4356,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_mu": 22.4172,
+      "prior_sigma": 5.8684,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_mu": 21.5727,
+      "prior_sigma": 4.6824,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_mu": 21.5504,
+      "prior_sigma": 4.6817,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanrafael",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Woodbridge",
+      "path": "northamerica/unitedstates/virginia/woodbridge",
+      "prior_mu": 21.855,
+      "prior_sigma": 4.6755,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_mu": 21.3312,
+      "prior_sigma": 4.5242,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_mu": 18.8231,
+      "prior_sigma": 5.0011,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_mu": 21.4444,
+      "prior_sigma": 5.5965,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Starkville",
+      "path": "northamerica/unitedstates/mississippi/starkville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1061,
+  "timestamp": "2026-04-12T22:07:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_rank": 28,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rajasthan",
+      "path": "asia/india/rajasthan",
+      "prior_rank": 198,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_rank": 9,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_rank": 327,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_rank": 301,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Utah",
+      "path": "northamerica/unitedstates/utah",
+      "prior_rank": 50,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_rank": 27,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_rank": 104,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_rank": 2722,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_rank": 31,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_rank": 17,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_rank": 464,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Zanzibar",
+      "path": "africa/tanzania/zanzibar",
+      "prior_rank": 103,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_rank": 619,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "High Sierra",
+      "path": "northamerica/unitedstates/california/highsierra",
+      "prior_rank": 319,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_rank": 94,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_rank": 202,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_rank": 321,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/canterbury",
+      "prior_rank": 221,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/saintbartholomy",
+      "prior_rank": 175,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_rank": 7,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Vava'u Group",
+      "path": "australiaandpacific/tonga/vavau_group",
+      "prior_rank": 774,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "St. John",
+      "path": "northamerica/virginislands/stjohn",
+      "prior_rank": 717,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_rank": 624,
+      "prior_wins": 60,
+      "prior_n": 3
+    }
+  ]
+}

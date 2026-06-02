@@ -1,17 +1,22 @@
 ---
-title: Wadköping
+title: Wadköping Open-Air Museum
 type: poi
+latitude: 59.2730
+longitude: 15.2190
 tags:
   - things_to_do
+  - museum
   - sight
-  - neighbourhood
-latitude: 59.2710
-longitude: 15.2220
-sources:
-  - https://en.wikipedia.org/wiki/Wadk%C3%B6ping
-story: "Wadköping was created in the 1960s from buildings that were scheduled for demolition during Örebro's urban renewal. Rather than simply tear them down, the city moved them here piece by piece and reassembled them as an open-air historical quarter. The name comes from the fictional town in Hjalmar Bergman's novels — Bergman (1883–1931) was born in Örebro and set much of his fiction in a thinly veiled version of the city."
+story: >
+  Wadköping takes its name from the fictional market town in Hjalmar Bergman's
+  novels — Bergman grew up in Örebro and used the city as the model for his
+  satirical portrait of Swedish provincial life. The houses assembled here were
+  rescued from demolition in the 1960s urban renewal that gutted much of central
+  Örebro; what's left of the old city lives on as an outdoor museum.
 ---
 
-Wadköping is an open-air museum district assembled from old wooden buildings rescued from demolition across Örebro during the 1960s urban renewal period. The collection of 17th–19th century homes, workshops, and farm buildings has been arranged into a coherent street plan alongside the River Svartån, south of the castle. The effect is more organic than most such assemblages — the buildings feel like they belong together, and local craftspeople use some of the premises as working studios and shops.
+Wadköping is an open-air museum quarter of old wooden houses on the bank of the River Svartån, assembled from buildings that were slated for demolition during the 1960s reconstruction of Örebro's city centre. The name comes from Hjalmar Bergman's novels — Bergman, one of Sweden's major early-20th-century writers, set his books in a fictional version of his hometown.
 
-A bakery, a pharmacy museum, and a smithy still operate in their original building types. In summer, the streets fill with craft demonstrations and open-house events; in winter it is quiet and atmospheric in a different way. The district is also home to the Hjalmar Bergman museum, dedicated to Örebro's most significant literary son — whose dark, tragicomic novels about small-town Swedish life are widely read in Scandinavia but little translated into English.
+The collection includes workshops, shops, and a pharmacy from the 18th and 19th centuries, all relocated and reconstructed into a coherent village street. Some buildings operate as working craft shops; others are open for guided visits in summer. The setting along the river, adjacent to the castle park, is particularly pleasant in good weather.
+
+Free to enter the grounds; some houses charge a small admission fee. Open year-round.

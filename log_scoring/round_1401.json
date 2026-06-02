@@ -1,0 +1,200 @@
+{
+  "round": 1401,
+  "timestamp": "2026-04-12T22:25:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_rank": 244,
+      "prior_wins": 101,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tenerife",
+      "path": "europe/spain/canaryislands/tenerife",
+      "prior_rank": 474,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_rank": 1694,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_rank": 684,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_rank": 2523,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_rank": 606,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Black Hills",
+      "path": "northamerica/unitedstates/southdakota/blackhills",
+      "prior_rank": 884,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_rank": 628,
+      "prior_wins": 112,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_rank": 1068,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lopud Island",
+      "path": "europe/croatia/lopud_island",
+      "prior_rank": 3072,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_rank": 2027,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_rank": 1162,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_rank": 494,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_rank": 1410,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_rank": 3198,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_rank": 1575,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_rank": 2037,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_rank": 1915,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_rank": 468,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_rank": 4147,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_rank": 2255,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_rank": 1566,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_rank": 2057,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_rank": 2392,
+      "prior_wins": 44,
+      "prior_n": 3
+    }
+  ]
+}

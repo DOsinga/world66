@@ -1,0 +1,200 @@
+{
+  "round": 324,
+  "timestamp": "2026-04-12T09:11:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_mu": 23.236,
+      "prior_sigma": 6.0143,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Krk Island",
+      "path": "europe/croatia/krkisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_mu": 22.7348,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_mu": 22.1723,
+      "prior_sigma": 5.8466,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_mu": 21.4919,
+      "prior_sigma": 5.5054,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_mu": 22.7159,
+      "prior_sigma": 5.949,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_mu": 22.5246,
+      "prior_sigma": 5.9132,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_mu": 22.6934,
+      "prior_sigma": 5.9462,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_mu": 21.6577,
+      "prior_sigma": 4.7344,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kotayk Marz",
+      "path": "europe/armenia/kotayk_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_mu": 18.9373,
+      "prior_sigma": 5.2072,
+      "prior_n": 2
+    }
+  ]
+}

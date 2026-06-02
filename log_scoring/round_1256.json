@@ -1,0 +1,200 @@
+{
+  "round": 1256,
+  "timestamp": "2026-04-12T22:17:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_rank": 6693,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_rank": 7337,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_rank": 6054,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Orange Park",
+      "path": "northamerica/unitedstates/florida/orangepark",
+      "prior_rank": 8114,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_rank": 7348,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_rank": 7546,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Clarksburg",
+      "path": "northamerica/unitedstates/westvirginia/clarksburg",
+      "prior_rank": 6048,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/newjersey/salem",
+      "prior_rank": 6966,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_rank": 7514,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_rank": 7798,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_rank": 6761,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Yoga Teacher Training India",
+      "path": "asia/india/uttaranchal/yoga_teacher_train",
+      "prior_rank": 5485,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_rank": 6894,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Milagro",
+      "path": "southamerica/ecuador/milagro",
+      "prior_rank": 7092,
+      "prior_wins": 31,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_rank": 8150,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_rank": 6971,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/west_bromwich",
+      "prior_rank": 6352,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_rank": 6763,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_rank": 7843,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_rank": 6443,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Faisalabad",
+      "path": "asia/unitedarabemirates/sharjah/faisalabad",
+      "prior_rank": 8128,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Runyanjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_rank": 7903,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tattoos",
+      "path": "africa/southafrica/hermauns/tattoos",
+      "prior_rank": 8062,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_rank": 6920,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

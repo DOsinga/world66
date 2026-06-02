@@ -1,0 +1,200 @@
+{
+  "round": 152,
+  "timestamp": "2026-04-12T08:45:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_mu": 22.726,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "North Coast",
+      "path": "northamerica/unitedstates/california/northcoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_mu": 22.715,
+      "prior_sigma": 3.0174,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Pambula",
+      "path": "australiaandpacific/australia/newsouthwales/pambula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "hafizabad",
+      "path": "asia/pakistan/islamabad/hafizabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Money",
+      "path": "travelwise/money",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "AuYrfpJmYTzFiPA",
+      "path": "europe/russia/krasnoyarsk_region/auyrfpjmytzfipa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

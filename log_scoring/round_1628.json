@@ -1,0 +1,200 @@
+{
+  "round": 1628,
+  "timestamp": "2026-04-13T10:37:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 11.6199,
+      "prior_variance": 1.26794,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_score": 5.3064,
+      "prior_variance": 0.303467,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 8.6347,
+      "prior_variance": 0.459144,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 4.0923,
+      "prior_variance": 0.434175,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Terschelling",
+      "path": "europe/netherlands/waddenislands/terschelling",
+      "prior_score": 2.4039,
+      "prior_variance": 0.225262,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.4129,
+      "prior_variance": 0.325936,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 0.7187,
+      "prior_variance": 0.419791,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tiro",
+      "prior_score": 3.5643,
+      "prior_variance": 0.423506,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Long Island",
+      "path": "northamerica/unitedstates/newyorkstate/long_island",
+      "prior_score": 1.7511,
+      "prior_variance": 0.402335,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.86,
+      "prior_variance": 0.354713,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 2.677,
+      "prior_variance": 0.709291,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacoruna",
+      "prior_score": 3.1421,
+      "prior_variance": 0.413149,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.1463,
+      "prior_variance": 0.350191,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_borml",
+      "prior_score": -0.0025,
+      "prior_variance": 0.409019,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_score": 1.9029,
+      "prior_variance": 0.316861,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 2.4578,
+      "prior_variance": 0.357491,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -1.1977,
+      "prior_variance": 0.318919,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Texas",
+      "path": "northamerica/unitedstates/texas",
+      "prior_score": 2.9036,
+      "prior_variance": 0.404757,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": 1.3073,
+      "prior_variance": 0.462575,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.396,
+      "prior_variance": 0.348824,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -3.5195,
+      "prior_variance": 0.44752,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -4.7351,
+      "prior_variance": 0.488,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_score": -3.074,
+      "prior_variance": 0.263353,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -4.2389,
+      "prior_variance": 0.28934,
+      "prior_n": 4
+    }
+  ]
+}

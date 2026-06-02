@@ -1,0 +1,200 @@
+{
+  "round": 167,
+  "timestamp": "2026-04-12T08:46:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tampa Bay Area",
+      "path": "northamerica/unitedstates/florida/tampabayarea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Jakarta",
+      "path": "asia/indonesia/jakarta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Gujarat",
+      "path": "asia/india/gujarat",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "St.George",
+      "path": "northamerica/saintvincentandthegrenadines/stgeorge",
+      "prior_mu": 22.724,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cameroon",
+      "path": "africa/cameroon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "New Ireland",
+      "path": "asia/papuanewguinea/newireland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/sebastopol",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/eastern_england/ware",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

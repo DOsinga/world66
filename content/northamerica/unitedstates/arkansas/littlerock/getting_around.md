@@ -3,6 +3,8 @@ title: Getting Around
 type: section
 ---
 
-Downtown Little Rock and the River Market are walkable if you are staying in the area. The main visitor sites — Clinton Library, Old State House, Historic Arkansas Museum, and the riverfront — are within comfortable walking distance of each other.
+Downtown Little Rock is walkable — the River Market District, Old State House, Historic Arkansas Museum, and Clinton Presidential Center are all within ten minutes on foot of each other. MacArthur Park and the Quapaw Quarter are a fifteen-minute walk south.
 
-Beyond downtown, a car is useful. Little Rock Central High School National Historic Site is about two miles south; the Heights neighbourhood and SoMa dining areas are a short drive. The Rock Region Metro bus system covers the city but is oriented toward commuters rather than visitors. Uber and Lyft operate throughout the metro area. The Arkansas River Trail offers a car-free option for exploring the riverfront on both sides of the river — bike rentals are available near the River Market.
+The Rock Region Metro operates buses throughout the city, but the schedule is infrequent and routes are oriented toward commuters. A car is useful if you want to reach Central High School (about two miles southwest of downtown) or explore SoMa.
+
+The Arkansas River Trail is a 15.6-mile paved loop crossing the river on two bridges and running through both Little Rock and North Little Rock. It is excellent for cycling and running and passes several major attractions. Bike rental is available near the River Market.

@@ -1,0 +1,200 @@
+{
+  "round": 1021,
+  "timestamp": "2026-04-12T22:05:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Everest Region",
+      "path": "asia/nepal/everest_region",
+      "prior_rank": 40,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_rank": 1611,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_rank": 147,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Yucatan",
+      "path": "northamerica/mexico/yucatan",
+      "prior_rank": 106,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "St. Thomas",
+      "path": "northamerica/virginislands/stthomas",
+      "prior_rank": 379,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_rank": 136,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_rank": 806,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_rank": 602,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_rank": 1053,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_rank": 1721,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_rank": 768,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_rank": 1047,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_rank": 2175,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_rank": 699,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_rank": 1612,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_rank": 256,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_rank": 444,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_rank": 605,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_rank": 692,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_rank": 890,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_rank": 916,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_rank": 807,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_rank": 322,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_rank": 1424,
+      "prior_wins": 18,
+      "prior_n": 1
+    }
+  ]
+}

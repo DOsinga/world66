@@ -1,0 +1,200 @@
+{
+  "round": 2146,
+  "timestamp": "2026-04-13T16:14:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greenland",
+      "path": "northamerica/greenland",
+      "prior_score": 0.0125,
+      "prior_variance": 0.346154,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -0.0841,
+      "prior_variance": 0.210325,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.3522,
+      "prior_variance": 0.249866,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.3751,
+      "prior_variance": 0.263956,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 2.234,
+      "prior_variance": 0.218703,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -0.818,
+      "prior_variance": 0.214432,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Nantes",
+      "path": "europe/france/normandy/nantes",
+      "prior_score": 2.5138,
+      "prior_variance": 0.270041,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Venezuela",
+      "path": "southamerica/venezuela",
+      "prior_score": -4.9417,
+      "prior_variance": 0.440892,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -3.757,
+      "prior_variance": 0.255546,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bihar",
+      "path": "asia/india/bihar",
+      "prior_score": -5.03,
+      "prior_variance": 0.239439,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/stafford",
+      "prior_score": -3.2611,
+      "prior_variance": 0.259307,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_score": -4.4126,
+      "prior_variance": 0.271974,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_score": -4.915,
+      "prior_variance": 0.301851,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -3.7996,
+      "prior_variance": 0.320979,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_score": -4.4807,
+      "prior_variance": 0.470969,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -3.7354,
+      "prior_variance": 0.272574,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -3.699,
+      "prior_variance": 0.274873,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Loch Sheldrake",
+      "path": "northamerica/unitedstates/newyorkstate/lochsheldrake",
+      "prior_score": -5.2867,
+      "prior_variance": 0.315968,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.5732,
+      "prior_variance": 0.379663,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Mauritania",
+      "path": "africa/mauritania",
+      "prior_score": -7.7006,
+      "prior_variance": 0.404358,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.7246,
+      "prior_variance": 0.32822,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -8.6262,
+      "prior_variance": 0.456227,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -7.3781,
+      "prior_variance": 0.268848,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -4.1279,
+      "prior_variance": 0.242595,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 991,
+  "timestamp": "2026-04-12T22:03:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_rank": 4633,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_rank": 3241,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_rank": 4559,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_rank": 3811,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Calderdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
+      "prior_rank": 4999,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_rank": 5231,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_rank": 7143,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kharipati, Nagarkot Phedi",
+      "path": "asia/nepal/dhulikel/kharipati_nagarko",
+      "prior_rank": 5414,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_rank": 4555,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/sandiego/julian",
+      "prior_rank": 4786,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_rank": 4308,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_rank": 5421,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin",
+      "prior_rank": 3933,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_rank": 3560,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_rank": 6602,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Salt island",
+      "path": "northamerica/britishvirginislands/saltisland",
+      "prior_rank": 4261,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_rank": 5791,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_rank": 4998,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_rank": 4776,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_rank": 5441,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_rank": 6249,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_rank": 4310,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_rank": 4263,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_rank": 4991,
+      "prior_wins": 9,
+      "prior_n": 1
+    }
+  ]
+}

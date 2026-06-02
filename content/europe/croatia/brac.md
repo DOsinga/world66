@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-02'
 latitude: 43.3239
+loc_type: city
 longitude: 16.6548
+score: 0.64
 title: Brac
 type: location
-score: 0.64
-loc_type: city
 ---
 
 Brač is the third-largest island in the Adriatic and the largest in central Dalmatia, easily reached by ferry from [Split](/europe/croatia/split). The island is covered in pine woods, vineyards, and olive groves, and its famous white stone has been used in buildings around the world — including, it is claimed, the White House in Washington DC.

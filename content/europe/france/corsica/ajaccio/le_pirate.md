@@ -5,6 +5,7 @@ longitude: 8.736
 snippet: "Harbourside restaurant with generous Corsican seafood and bouillabaisse"
 tags:
 - eating_out
+- restaurant
 title: Le Pirate
 type: poi
 ---

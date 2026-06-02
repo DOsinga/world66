@@ -9,7 +9,6 @@ opening_hours: Apr–Sep 09:00–19:00 (last entry 18:30); Oct–Mar 09:00–17:
   16:30). Closed 25 Dec and 1 Jan.
 snippet: Italy's only Nazi concentration camp, now a sobering national monument
 tags:
-- One Day in Trieste
 - things_to_do
 - museum
 title: Risiera di San Sabba

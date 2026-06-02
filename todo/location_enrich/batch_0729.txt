@@ -1,5 +1,0 @@
-africa/benin/cotonou
-europe/hungary/bkfrd
-northamerica/unitedstates/kansas/mcpherson
-southamerica/bolivia/potosi
-northamerica/unitedstates/california/salinas

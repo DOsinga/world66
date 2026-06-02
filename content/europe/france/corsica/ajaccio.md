@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-20'
 image: ajaccio.jpg
 image_license: CC BY 2.0
@@ -10,6 +11,9 @@ latitude: 41.9192
 loc_type: city
 longitude: 8.7386
 score: 0.67
+sources:
+  - https://en.wikipedia.org/wiki/Ajaccio
+  - https://en.wikipedia.org/wiki/Mus%C3%A9e_Fesch
 title: Ajaccio
 type: location
 ---

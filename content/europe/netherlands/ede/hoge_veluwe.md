@@ -6,7 +6,9 @@ longitude: 5.817664
 snippet: Vast national park with free white bikes and a world-class art museum
 tags:
 - things_to_do
-- landmark
+- sight
+- cycling
+- wildlife
 title: Hoge Veluwe National Park
 type: poi
 url: www.hogeveluwe.nl

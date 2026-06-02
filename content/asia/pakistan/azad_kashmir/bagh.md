@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-02'
 latitude: 33.980008
+loc_type: city
 longitude: 73.773788
 score: 0.31
+sources:
+- https://en.wikipedia.org/wiki/Bagh_District
 title: Bagh
 type: location
-loc_type: city
 ---
 
 Travel Guide

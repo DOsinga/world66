@@ -3,10 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-Antwerp is a place where you are unlikely to die of hunger or thirst. Of course you can just enjoy the Belgian Waffels and Belgian beers, finished off with a nice plate of cheese. But at a certain time, you want to grab a bite. No fear, Antwerp has all sorts of food for both the million and the millionaire. The 'Grote Markt', and its vicinity, is swarmed with places where you can grab a quick meal, such as frites or a kebab. There are countless cafes where simple but tasty lunches and meals are served. What to eat? That is up to you. Indulge in the traditional Flemmish cuisine (there is more to Antwerp than beer and frites), go for extremely sophisticated gastronomy or choose exotic cuisines from all around the world.
+Antwerp eats well at every level. The Flemish classics are everywhere: *stoofvlees* (beer-braised beef stew with frites), *paling in 't groen* (eel in green herb sauce), *garnaalkroketten* (deep-fried shrimp croquettes). The city has unusually good North African and Indian food, a result of long-standing migration. The fashion and design crowds support a strong New Nordic-inflected scene, particularly around Het Zuid and the design quarter.
 
-## Categories
+For a proper Belgian dinner, [Het Pomphuis](/europe/belgium/antwerp/het_pomphuis), the converted pumphouse on the docks, is the city's grandest setting. **Bourla** by the theatre is a more central classic. [Ciro's](/europe/belgium/antwerp/ciros), in the Zuid, is the institutional place for *stoofvlees*. For a low-budget but excellent local lunch, the small frituurs around Stadsfeestzaal are reliable, and **De Foyer** in the Bourla theatre serves a good brasserie menu.
 
-[Restaurants](/europe/belgium/antwerp/eatingout?subsection=Restaurants)
-
-[Cafes](/europe/belgium/antwerp/eatingout?subsection=Cafes)
+For breakfast or coffee with serious pastry, [Goossens Bakery](/europe/belgium/antwerp/goossens_bakery) on Korte Gasthuisstraat has been a family business since 1884.

@@ -1,13 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-22'
+  location_enrich: '2026-06-02'
 latitude: 37.840835
+loc_type: city
 longitude: 24.862382
+score: 0.6
 title: Andros
 type: location
-score: 0.6
-loc_type: city
 ---
 
 Andros is the northernmost and second-largest island of the Cyclades, but it feels nothing like its famous neighbours. Where Mykonos and Santorini draw crowds, Andros is green, mountainous, and relatively quiet — an island of stone-walled footpaths, spring-fed valleys, and Venetian dovecotes scattered across the hillsides.

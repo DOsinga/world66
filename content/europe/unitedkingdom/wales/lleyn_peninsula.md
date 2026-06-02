@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
 image: lleyn_peninsula.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ll%C5%B7n_Peninsula_near_Nefyn,_North_Wales,_UK.jpg
@@ -8,6 +9,11 @@ latitude: 52.8712
 loc_type: city
 longitude: -4.4788
 score: 0.54
+sources:
+- https://en.wikipedia.org/wiki/Ll%C5%B7n_Peninsula
+- https://en.wikipedia.org/wiki/Bardsey_Island
+- https://en.wikipedia.org/wiki/Portmeirion
+- https://en.wikipedia.org/wiki/Ffestiniog_Railway
 title: Lleyn Peninsula
 type: location
 ---

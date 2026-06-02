@@ -1,5 +1,0 @@
-northamerica/saintvincentandthegrenadines/canouan
-europe/germany/brandenburg/cottbus
-europe/finland/kuopio
-northamerica/unitedstates/florida/thepanhandle/tallahassee
-northamerica/unitedstates/wyoming/pinedale_wyoming

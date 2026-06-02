@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
 image: puertoaventuras.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Moon_Over_the_Water_in_Puerto_Aventuras_Mexico_(21038706159).jpg

@@ -1,34 +1,25 @@
 ---
 done:
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-05-29'
+image: tarlac.jpg
+image_attribution: jopetsy from Metro Manila, Philippines
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Capas_Tarlac_May_2018_(42450722332).jpg
 latitude: 15.493725
 loc_type: city
 longitude: 120.496409
 score: 0.37
+sources:
+  - https://en.wikipedia.org/wiki/Tarlac
+  - https://en.wikipedia.org/wiki/Tarlac_City
 title: Tarlac
 type: location
 ---
 
-Travel Guide
+Tarlac City sits in the middle of the Central Luzon plain, the capital of landlocked Tarlac province and a regional crossroads between [Manila](/asia/philippines/manila) and the cooler hills further north. Most travellers see it as a stop on the way somewhere else — to Baguio, to Pampanga, or out to the beaches at [Zambales](/asia/philippines/zambales) — but the city itself is a friendly, slow provincial centre with a few worthwhile stops and good access to the surrounding sugarcane country.
 
-In line with the E-commerce Act of 2000 and a directive from no less
-than **Her Excellency, President Gloria Macapagal Arroyo**, for all
-LGUs to establish their own websites, it is with great pride and honor
-that I now present to you
+The province is famously diverse for its size: Kapampangan in the south, Ilocano and Pangasinan in the north, with Tagalog as the common language. This mix shows up in the food (Kapampangan kitchens are some of the best in the Philippines) and in the patchwork of churches, town fiestas, and old plantation houses. The [Capas National Shrine](/asia/philippines/tarlac/capas_national_shrine), north of the city, marks the end point of the Bataan Death March and is the most significant World War II memorial in the country.
 
-www.tarlaccity.gov.ph - the
-official website of Tarlac City.
+The flat plain made Tarlac one of the great sugar provinces under the Spanish and American periods, and the haciendas of the Cojuangco and Aquino families — long the political power centre of the country — are still here. [Hacienda Luisita](/asia/philippines/tarlac/hacienda_luisita), just outside the city, remains the biggest single estate in the Philippines, and the [Aquino Center](/asia/philippines/tarlac/aquino_center) on the estate tells the story of Ninoy and Cory. Up on a nearby ridge, the [Monasterio de Tarlac](/asia/philippines/tarlac/monasterio_de_tarlac) offers the best long view of the plain.
 
-The entry of our beloved city in cyberspace has come to age... lets take
-advantage of the vast potential the internet has to offer in terms of
-tourism and economic investments.
-
-It is my ardent desire for this medium (Internet) to also serve as a
-convergence for all Tarlaqueños here and abroad. The chance is now here
-for our fellow Filipinos and for our brothers from the other parts of
-the world to keep abreast with the advances in our city's socio-economic
-status, our culture, our people and our local scenic places.
-
-Tarlac City is now opening its doors to global information
-exchange...together, lets us break down the barriers of time and space
-and pursue growth alongside with the rest of the world.
+Tarlac is on the North Luzon Expressway, about 125 km from Manila, an easy two-hour drive in normal traffic. Buses run constantly from Cubao and Pasay. The city has no airport of its own — the nearest is Clark, about 50 km south.

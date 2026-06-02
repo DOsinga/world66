@@ -1,14 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-** Road **
+Nashik is 170 km northeast of Mumbai. By road, the most common route is the NH3 (Agra Road) via the Kasara Ghat; the drive takes three to four hours depending on traffic leaving Mumbai. State buses and private coaches run frequently between Mumbai's various bus terminals and Nashik's CBS (Central Bus Stand).
 
-Mumbai-Nasik 185 kms. via Thane-Kasara - Igatpuri, Ghoti
-NH-3. Pune-Nasik 202 kms. via Rajguru Nagar, Narayangaon, Sangamner
-NH-50. Asiad & Taxi service from Mumbai & Thane available.
+By train, the nearest mainline station is Nashik Road, about 8 km south of the city centre, on the Mumbai–Manmad Central Railway line. Express trains from Mumbai's CSMT take around three to four hours. Auto-rickshaws and taxis connect the station to the city.
 
-** Rail **
-
-Nasik Road is one of the major stations on Central Railway (Mumbai - Nasik 188 kms).
+Nashik does not have a commercial airport. The nearest option is Mumbai's Chhatrapati Shivaji Maharaj International Airport, from which road or rail connections onwards are practical. A small airstrip at Ozar, 20 km from Nashik, serves occasional charter flights.

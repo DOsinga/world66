@@ -1,5 +1,0 @@
-northamerica/unitedstates/colorado/vail
-europe/portugal/beja
-africa/tunisia/chebika
-europe/unitedkingdom/england/eastern_england/huntingdon
-northamerica/unitedstates/minnesota/duluth

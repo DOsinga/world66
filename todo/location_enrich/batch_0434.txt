@@ -1,5 +1,0 @@
-northamerica/canada/ontario/sarnia
-europe/hungary/salgotarjan
-northamerica/unitedstates/pennsylvania/saxonburg
-northamerica/unitedstates/california/yountville
-asia/japan/honshu/himeji

@@ -6,7 +6,7 @@ longitude: -4.778
 snippet: Ancient sixteen-arch bridge across the Guadalquivir
 tags:
 - things_to_do
-- landmark
+- sight
 title: Roman Bridge
 type: poi
 ---

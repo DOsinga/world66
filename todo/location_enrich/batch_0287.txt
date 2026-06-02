@@ -1,5 +1,0 @@
-europe/france/aquitaine/lege_cap_ferret
-europe/unitedkingdom/england/south_east/oxford
-asia/srilanka/matara
-europe/albania/pogradec
-africa/libya/benghazi

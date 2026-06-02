@@ -1,59 +1,21 @@
 ---
-title: Las Pinas City
-type: location
-latitude: 14.480901
-longitude: 120.981786
 done:
   location_cleanup: 2026-04-04
-score: 0.35
+  location_enrich: '2026-06-02'
+latitude: 14.480901
 loc_type: city
+longitude: 120.981786
+score: 0.35
+title: Las Pinas City
+type: location
+image: las_pinas_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bamboo_Organ_Church,_Las_Pi%C3%B1as,_Nov_2023.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ralff Nestor Nacor
 ---
 
-Geography
+Las Piñas is a city of about 600,000 people on the southern edge of Metro Manila, separated from the capital's airport by the city of Parañaque. It is best known outside the Philippines for a single extraordinary object: the [Bamboo Organ](las_pinas_city/bamboo_organ) in Saint Joseph's Church, built by a Spanish friar in the 1820s and the only large pipe organ in the world with bamboo pipes. The organ draws international organists each February for the annual Bamboo Organ Festival.
 
-Las Piñas is bounded on the north and northeast by the city of
-Parañaque; on the east and southeast by the city of Muntinlupa; on the south by
-the municipality of Imus, Cavite; on the southwest and west by the municipality
-of Bacoor, Cavite; and on the northwest by the scenic Manila Bay. Half of its
-land area has already been developed for residential purposes, while the
-remainder is being utilized for commercial, industrial, and institutional
-purposes.
+Beyond the church, Las Piñas is a largely residential city that has retained pockets of older character amid the Metro Manila sprawl. The [Zapote Bridge](las_pinas_city/zapote_bridge) is a historic stone bridge associated with the Philippine Revolution, and the [Las Piñas–Parañaque Wetland Park](las_pinas_city/lppchea) is a surprising patch of coastal mangroves and mudflats on the Manila Bay coast that serves as a critical habitat for migratory birds. The [Sarao Jeepney Factory](las_pinas_city/sarao_jeepney_factory) is the original manufacturer of the iconic Filipino jeepney and offers a glimpse into one of the country's most distinctive cultural industries.
 
-Climate
-
-Just like the rest of the towns and cities comprising Metro Manila,
-Las Piñas City has two distinct seasons; the dry season which covers
-the months of November to April and the wet season from May to October.
-The maximum rainfall normally occurs in the month of June, July and
-August.
-**Population**
-
-There is tremendous increase of population due to migration from
-different regions as its record shows that in 1960, its population was
-16,093 which grew to 43,372 in 1970, to 81,610 in 1975, 136,514 in 1980
-and 207,770 in 1985, projected to be at 405,123 in 1990, 413,086 (1995
-census) and recently to a whopping 528,011 (2000 census).
-
-**Language
-**
-
-As Las Piñas is located within Metro Manila, its predominant language
-or dialect spoken isTagalog which accounts for 94.4% of its total
-population. 2% speak Cebuano and the remaining 3.6% accounts for
-Ilonggo, Bicolano, Waray, Pampangueno and other dialects.
-
-**Government**
-
-**
-**Like other cities in the Philippines,
-Las Piñas City is governed by a Mayor and Vice mayor elected for a
-three-year terms. The Mayor is the executive head and leads the city's
-departments in executing the city ordinances and improving public
-services. The Vice mayor heads a legislative council, which is in
-charge of creating the city's policies.
-
-Las Piñas City, being a part of the Metro Manila
-region, has its mayor in the Metro Manila Council headed by the Metro
-Manila Development Authority (MMDA). This council formulates
-development plans that seeks to solve the problems and improve the
-conditions in the metropolis.
+Las Piñas is easily reached from central Manila by LRT Line 1 to the Dr. Santos station, or by jeepney and bus along the major roads. Most visitors come as a half-day trip from Manila.

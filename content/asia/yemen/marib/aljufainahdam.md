@@ -1,7 +1,7 @@
 ---
 title: "Al-Jufainah Dam"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, sight]
 latitude: 15.3880
 longitude: 45.2700
 snippet: "Ancient dam from the Great Marib irrigation network"

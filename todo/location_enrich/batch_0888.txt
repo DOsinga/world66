@@ -1,5 +1,0 @@
-asia/northkorea/mangyongdae
-europe/poland/sosnowiec
-asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal
-asia/israel/beer_sheva
-asia/turkey/tekirdag

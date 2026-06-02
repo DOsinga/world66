@@ -5,9 +5,10 @@ latitude: 48.398511
 longitude: 9.992502
 snippet: World's tallest church spire at 161 metres
 tags:
-- sights
 - things_to_do
-- landmark
+- sight
+- architecture
+story: "Construction of the Minster was funded entirely by Ulm's citizens, not by the Church or any noble patron — an extraordinary act of civic ambition for a medieval city. Building began in 1377 and the citizens kept paying for centuries, but the spire was still unfinished when the Reformation arrived and money dried up. The final 50 metres were only completed in 1890, more than 500 years after the foundation stone was laid."
 title: Ulm Minster
 type: poi
 ---

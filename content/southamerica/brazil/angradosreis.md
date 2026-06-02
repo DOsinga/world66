@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-31'
 image: angradosreis.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Angra_dos_Reis,_Brazil_2018_116.jpg

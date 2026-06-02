@@ -8,6 +8,7 @@ phone: 296 288 930
 snippet: Stylish restaurant and jazz lounge with changing blackboard menus
 tags:
 - eating_out
+- restaurant
 title: Colégio 27
 type: poi
 ---

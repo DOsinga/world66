@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
+image: vama_veche.jpg
+image_attribution: lucianf from Bucharest, Romania
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Vama_Veche_2005_(2436247131).jpg
 latitude: 43.7525
+loc_type: city
 longitude: 28.5722
+score: 0.47
 title: Vama Veche
 type: location
-score: 0.47
-loc_type: city
-image: vama_veche.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Vama_Veche_2005_(2436247131).jpg
-image_license: CC BY 2.0
-image_attribution: lucianf from Bucharest, Romania
 ---
 
 Vama Veche is Romania's most bohemian beach village — a scrappy, sun-baked strip on the Black Sea coast, just 7 km from the Bulgarian border. For decades it was the unofficial refuge of artists, students, nudists, and anyone seeking to escape the regimented seaside resorts further north. That spirit has survived, though barely.
@@ -19,4 +20,6 @@ The village once belonged to Gagauzian farmers and fishermen who called it Ilanl
 
 Today the village has grown considerably — there are guesthouses, restaurants, and even a couple of three- and four-star hotels like Hotel Laguna and Club d'Or. The streets are narrow and crowded in summer, the music from competing bars carries far into the night, and it has some of the feel of a student complex that forgot to grow up. Whether that's a selling point depends entirely on you.
 
-The festival calendar is the real draw now: Stufstock (rock and alternative), Folk You, Filmstock, the International Freedom Festival Jazz, and Salsa & Bachata Week all pass through in summer. Come for one of these and the village makes complete sense. Come in late September, and you'll find something closer to the original: quieter, windswept, and genuinely lovely.
+The festival calendar is the real draw now: [Stufstock](/europe/romania/vama_veche/stufstock) (rock and alternative), Folk You, Filmstock, the International Freedom Festival Jazz, and Salsa & Bachata Week all pass through in summer. Come for one of these and the village makes complete sense. Come in late September, and you'll find something closer to the original: quieter, windswept, and genuinely lovely.
+
+The [beach](/europe/romania/vama_veche/vama_veche_beach) is the anchor of it all — about a kilometre of fine sand, shallow water close to shore, and whatever the night has washed up. The quiet village of [2 Mai](/europe/romania/vama_veche/2_mai_village), 5 km north, offers a calmer alternative for those who want to read in peace rather than dance on the sand.

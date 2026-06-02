@@ -1,10 +1,18 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
+image: lourdes.jpg
+image_attribution: Moahim
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2018_-_Basilique_Notre-Dame-du-Rosaire_de_Lourdes.jpg
 latitude: 43.0941
 loc_type: city
 longitude: -0.0465
 score: 0.59
+sources:
+- https://en.wikipedia.org/wiki/Lourdes
+- https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Lourdes
 title: Lourdes
 type: location
 image: lourdes.jpg
@@ -17,6 +25,6 @@ Lourdes is a small Pyrenean town of some 15,000 people that attracts five millio
 
 The reason is a single event. In 1858, a 14-year-old local girl named Bernadette Soubirous reported 18 apparitions of the Virgin Mary at a grotto beside the Gave de Pau river. The Virgin instructed her to drink from a spring she found there; the spring still flows, and millions believe its waters have healing properties. Lourdes has been one of the world's great Catholic pilgrimage sites ever since.
 
-Apart from its religious significance, the town itself is worth a look. A medieval castle perches on a rocky outcrop above the town, having served as a fortress, a state prison, and a residence of the Counts of Bigorre over the centuries. The surrounding Pyrenean landscape is spectacular — the mountains rise sharply just beyond the town, and the region offers excellent hiking and day trips into the high mountains.
+Apart from its religious significance, the town itself is worth a look. The [Château Fort](/europe/france/midi/pyrenees/lourdes/chateau_fort_de_lourdes) perches on a rocky outcrop above the town, having served as a fortress, a state prison, and a residence of the Counts of Bigorre over the centuries, and now houses a good Pyrenean museum. The [Funiculaire du Pic du Jer](/europe/france/midi/pyrenees/lourdes/pic_du_jer) rises from the edge of town to panoramic mountain views. The surrounding Pyrenean landscape is spectacular — the mountains rise sharply just beyond the town, and the region offers excellent hiking and day trips into the high mountains.
 
 The best time to visit is spring or autumn, when the pilgrimage crowds are smaller. Summer can be overwhelming, but even then the atmosphere is unlike anywhere else in France — candlelit processions, people of all nationalities, and a sincerity of faith that is genuinely moving whether you share it or not.

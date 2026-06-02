@@ -1,20 +1,8 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-**all**
+Nerja's coastline is a string of small coves and beaches at the foot of the cliffs, separated by rocky headlands and accessed by steps from the town above. The water is clear and deep close to shore — the rock falls away quickly — making it good for snorkelling.
 
-**Playa Torrecilla**
-
-This is one of the more quiet beaches. (Nudist, mainly old and saggy)
-
-email: konfor1@superonline.com
-
-**Playa El Salon **
-
-Small enclosed beach with reasonable sand which is a bit stoney and hard on your feet. Clean water. Lots of cafes nearby.
-
-**Playa Burriana**
-
-The biggest beach in the area - 20 minutes walk from the town centre in the opposite direction. Lively, with a good choice of restaurants and sunloungers for hire.
+The town beaches (Calahonda, El Salón, La Torrecilla) are close to the centre and busy in season; Playa Burriana to the east is the largest and liveliest, with chiringuitos, sun loungers and parking; Playa de Maro a few kilometres east is the prettiest but harder to reach. Bring water shoes — the pebbly sand is hard on bare feet on most of the smaller beaches.

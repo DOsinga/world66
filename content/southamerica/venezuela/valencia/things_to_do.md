@@ -1,0 +1,6 @@
+---
+title: Things to Do
+type: section
+---
+
+Valencia's compact historic centre clusters around the [Plaza Bolívar](/southamerica/venezuela/valencia/plaza_bolivar) and the [Cathedral](/southamerica/venezuela/valencia/cathedral). A few blocks away, the [Casa Páez](/southamerica/venezuela/valencia/casa_paez) — home of the independence-war general José Antonio Páez — and the [Capitolio](/southamerica/venezuela/valencia/capitolio) anchor the city's nineteenth-century quarter. South of the city, the [Campo de Carabobo](/southamerica/venezuela/valencia/campo_de_carabobo) is the battlefield where Venezuelan independence was sealed in 1821. Outside the centre, the [Acuario de Valencia](/southamerica/venezuela/valencia/acuario), [Parque Recreacional Sur](/southamerica/venezuela/valencia/parque_sur), and [Parque Nacional San Esteban](/southamerica/venezuela/valencia/san_esteban) offer green space and easy hiking. Sports fans can take in a game at the [Estadio José Bernardo Pérez](/southamerica/venezuela/valencia/estadio_jose_bernardo_perez) or a bullfight at the [Plaza de Toros Monumental](/southamerica/venezuela/valencia/plaza_de_toros). Industrial-era curiosities include the [Camoruco railway terminus](/southamerica/venezuela/valencia/camoruco_railway) and the [Iglesia de San Blas](/southamerica/venezuela/valencia/san_blas) up the hill.

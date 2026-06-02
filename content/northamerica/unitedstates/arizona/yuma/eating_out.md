@@ -3,14 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-## Categories
-
-[Seafood](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Seafood)
-[Italian](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Italian)
-[Greek](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Greek)
-
-[Japanese](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Japanese)
-[Mexican](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Mexican)
-
-[American](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=American)
-[Chinese](/northamerica/unitedstates/arizona/yuma/eatingout?subsection=Chinese)
+Yuma's dining scene is shaped by its border location and its winter snowbird population. Mexican food is the obvious strength — the proximity to Sonora means authentic options rather than Tex-Mex approximations. Downtown along Main Street and Madison Avenue has the most interesting independent spots.

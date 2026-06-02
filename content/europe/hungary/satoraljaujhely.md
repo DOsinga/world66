@@ -8,6 +8,10 @@ longitude: 21.65615
 score: 0.41
 title: Sátoraljaújhely
 type: location
+image: satoraljaujhely.jpg
+image_source: https://commons.wikimedia.org/wiki/File:S%C3%A1toralja%C3%BAjhely,_HUN.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Pudelek (Marcin Szala)
 ---
 
 Sátoraljaújhely is Hungary's northernmost town, tucked against the Slovak border at the foot of the volcanic Zemplén Hills. The poet Sándor Petőfi described its setting as "incomparably beautiful," and the hills — often compared by visitors to a miniature Vesuvius — still dominate the view.

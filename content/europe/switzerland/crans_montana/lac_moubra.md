@@ -2,8 +2,8 @@
 title: "Lac de la Moubra"
 type: poi
 tags: [things_to_do, sight, lake]
-latitude: 46.3115
-longitude: 7.4681
+latitude: 46.3043
+longitude: 7.4781
 story: "The Lac de la Moubra is the largest of the plateau lakes, sitting at 1,424 metres and covering about 11 hectares. In summer it becomes the social hub of the resort — swimmers, paddleboarders, and picnickers gather on the grassy banks while the Valais peaks shimmer in the reflection. A protected bird reserve borders the southern shore."
 ---
 

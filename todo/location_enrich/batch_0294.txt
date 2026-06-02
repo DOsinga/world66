@@ -1,5 +1,0 @@
-europe/unitedkingdom/scotland/moray
-europe/croatia/narona
-europe/italy/tuscany/punta_ala
-asia/saudiarabia/riyadh
-northamerica/unitedstates/california/centralvalley/stockton

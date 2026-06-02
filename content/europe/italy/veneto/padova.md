@@ -7,6 +7,10 @@ title: Padova
 type: location
 score: 0.63
 loc_type: city
+image: padova.jpg
+image_source: https://commons.wikimedia.org/wiki/File:(Padova)_Basilica_di_Sant%27Antonio_di_Padova_-_Chiostro_del_noviziato_-_East_view.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Didier Descouens
 ---
 
 Padova — Padua in English — is one of northern Italy's most rewarding cities, often overlooked by travellers heading straight to [Venice](/europe/italy/veneto/venice) just 40 minutes away by train. That is a mistake. The city has one of the oldest universities in the world (founded 1222, where Galileo taught), the extraordinary Scrovegni Chapel with Giotto's frescoes — widely considered the starting point of Western painting — and the oldest botanical garden in Europe.

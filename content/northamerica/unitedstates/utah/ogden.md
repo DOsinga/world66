@@ -2,12 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
+image: ogden.jpg
+image_attribution: sirrobot on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/81116336@N00/229266354
 latitude: 41.223005
+loc_type: city
 longitude: -111.973843
 score: 0.43
 title: Ogden
 type: location
-loc_type: city
 ---
 
 Ogden sits where the Wasatch Mountains meet the Great Basin, a railroad town that grew up rough and never quite smoothed out all its edges. For decades it was the junction where transcontinental trains changed crews, and that history of movement and commerce still shapes the place. Historic 25th Street, once notorious for its saloons and gambling dens, is now lined with restaurants, brewpubs, and shops — but the old brick buildings still have character the suburbs cannot match.

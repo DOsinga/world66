@@ -7,6 +7,10 @@ title: Suez
 type: location
 score: 0.37
 loc_type: city
+image: suez.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Baycrest
 ---
 
 Suez sits at the southern mouth of the canal that bears its name, where the Red Sea meets one of the world's busiest shipping lanes. It is a gritty transport hub rather than a tourist destination, but it serves as the jumping-off point for travel into the Sinai Peninsula, and there is something mesmerizing about watching massive container ships glide through a desert landscape.

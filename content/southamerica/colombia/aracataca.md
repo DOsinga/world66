@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 10.5906
+loc_type: city
 longitude: -74.1877
+score: 0.4
 title: Aracataca
 type: location
-score: 0.4
-loc_type: city
 ---
 
 Aracataca is a small town in the Magdalena department of northern Colombia, about 90 km south of Santa Marta. It is the birthplace of Gabriel García Márquez, and the town served as the template for Macondo, the mythical town at the heart of *One Hundred Years of Solitude*. For anyone who has read the novel, wandering Aracataca's dusty streets under the fierce Caribbean sun is a genuinely strange experience — the bananas, the heat, the lassitude, the sense of time behaving oddly.

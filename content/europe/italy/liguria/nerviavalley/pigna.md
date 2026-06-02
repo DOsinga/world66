@@ -7,6 +7,10 @@ title: Pigna
 type: location
 score: 0.47
 loc_type: city
+image: pigna.jpg
+image_source: https://commons.wikimedia.org/wiki/File:18037_Pigna_IM,_Italy_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: villlamania
 ---
 
 Pigna is a small hilltop village high in the Nervia Valley, inland from Ventimiglia in the far west of [Liguria](/europe/italy/liguria). Together with neighbouring [Castelvittorio](/europe/italy/liguria/nerviavalley/castelvittorio), it sits on a narrow, winding road that climbs through terraced hillsides above [Dolceacqua](/europe/italy/liguria/nerviavalley/dolceacqua).

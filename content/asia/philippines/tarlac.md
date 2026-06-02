@@ -1,10 +1,12 @@
 ---
-title: Tarlac
-type: location
+done:
+  location_enrich: '2026-06-02'
 latitude: 15.493725
+loc_type: city
 longitude: 120.496409
 score: 0.37
-loc_type: city
+title: Tarlac
+type: location
 ---
 
 Travel Guide

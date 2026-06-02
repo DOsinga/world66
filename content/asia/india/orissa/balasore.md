@@ -7,6 +7,10 @@ title: Balasore
 type: location
 score: 0.3
 loc_type: city
+image: balasore.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Emami_Jagannath_Temple,_Balasore,_Odisha.jpg
+image_license: CC0
+image_attribution: Apurv013
 ---
 
 Balasore is a coastal district in the far north of Odisha (formerly Orissa), bordered by West Bengal to the north and the Bay of Bengal to the east. The district town is a busy trading centre in a fertile agricultural area, traditionally known as the granary of Odisha for its rice production.

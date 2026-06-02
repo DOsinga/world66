@@ -8,6 +8,10 @@ score: 0.48
 title: Ankara
 type: location
 loc_type: city
+image: ankara.jpg
+image_source: https://commons.wikimedia.org/wiki/File:ANKARA_KOCATEPE_CAM%C4%B0%C4%B0.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Uğurgüler06
 ---
 
 Ankara is a very old city; but it does not have a lot to show for that fact. Founded in 2 000 BC the city gained its modern prominence only in 1923 when it became the capital of Turkey. 

@@ -7,6 +7,10 @@ title: Mutare
 type: location
 score: 0.36
 loc_type: city
+image: mutare.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mutare_Area,_Zimbabwe.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Seabifar
 ---
 
 Mutare is the largest town in Zimbabwe's Eastern Highlands, situated in a narrow valley near the Mozambique border with forested mountains rising on all sides. It is the commercial centre for the region and a practical base for exploring some of Zimbabwe's most spectacular highland scenery.

@@ -9,6 +9,10 @@ score: 0.67
 title: Ella
 type: location
 loc_type: city
+image: ella.jpg
+image_source: https://commons.wikimedia.org/wiki/File:SL_Ella_asv2020-01_img22_View_from_Little_Adams_Peak.jpg
+image_license: FAL
+image_attribution: A.Savin
 ---
 
 Ella is a small hill town in Sri Lanka's southern highlands that punches well above its weight. Perched at about 1,000 metres, it sits in a gap in the mountain wall where the land drops away dramatically to the southern plains — a view that on clear days stretches all the way to the coast. The town itself is little more than a single main street, but the setting is extraordinary.

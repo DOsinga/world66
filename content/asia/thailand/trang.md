@@ -8,6 +8,10 @@ score: 0.56
 title: Trang
 type: location
 loc_type: city
+image: trang.jpg
+image_source: https://www.flickr.com/photos/94636189@N00/3565756415
+image_license: CC BY-SA 2.0
+image_attribution: zhaffsky on Flickr
 ---
 
 Trang province is southern Thailand's best-kept secret: the same dramatic limestone karsts, white-sand beaches, and turquoise Andaman Sea as Krabi and Phang Nga, but without the crowds. The coastline stretches nearly 200 kilometres and shelters more than 46 islands, many of them barely visited.

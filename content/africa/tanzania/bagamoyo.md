@@ -1,12 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 latitude: -6.442208
+loc_type: city
 longitude: 38.906219
+score: 0.45
 title: Bagamoyo
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Bagamoyo is a historic coastal town about 75 km north of [Dar es Salaam](/africa/tanzania/daressalaam). Founded in the late 1700s by families related to the ruler of [Oman](/asia/oman), it grew into one of the most important towns on the East African coast during the 19th century as the terminus of the slave and ivory trade route from Lake Tanganyika.

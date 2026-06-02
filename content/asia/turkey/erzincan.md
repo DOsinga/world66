@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 latitude: 39.607343
+loc_type: city
 longitude: 39.201321
+score: 0.41
 title: Erzincan
 type: location
-score: 0.41
-loc_type: city
+image: erzincan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:ErzincanCenter.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Bertramz
 ---
 
 Erzincan is a city in eastern Anatolia, set in a broad valley between mountain ranges. It has been repeatedly devastated by earthquakes — most recently in 1992 — which is why the modern city looks newer than its history suggests. What survived, or was rebuilt, includes the Mama Hatun Kümbeti (a distinctive Seljuk tomb with a conical roof) and the ruins of Altintepe, a significant Urartian site about 20km east of the city.

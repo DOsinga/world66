@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
+image: toraja_highland.jpg
+image_attribution: Jorge Franganillo
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ke%27te%27_Kesu%27_1.jpg
 latitude: -2.966619
+loc_type: city
 longitude: 119.875
+score: 0.61
 title: Toraja Highland
 type: location
-score: 0.61
-loc_type: city
 ---
 
 Tana Toraja — often shortened to Tator — is one of the most remarkable cultural destinations in Sulawesi, and arguably in all of Indonesia. The Torajan people are famous above all for their funeral ceremonies, which can last for days, involve the slaughter of dozens of buffalo, and are attended by hundreds of guests. In Torajan belief, death is not an abrupt ending but a gradual transition, and the elaborate rituals that accompany it reflect this — the deceased may be kept at home for months or years before burial. Bodies are ultimately interred in cliff-face graves or placed in hanging coffins on rocky outcrops, a practice similar to that of Sagada in the Philippines.

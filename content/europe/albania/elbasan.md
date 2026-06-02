@@ -9,6 +9,10 @@ score: 0.38
 title: Elbasan
 type: location
 loc_type: city
+image: elbasan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Elbasan_alb.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Monika Kostera
 ---
 
 Elbasan is a mid-sized city in central Albania, sitting in the broad Shkumbin river valley between Tirana and the mountains that climb toward North Macedonia. It is an industrial town — a massive Soviet-built steel plant dominates the outskirts and left a mark on the city's character — but at its heart is a remarkably intact Ottoman walled city that most visitors driving through never bother to stop for. They should.

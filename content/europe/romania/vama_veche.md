@@ -7,6 +7,10 @@ title: Vama Veche
 type: location
 score: 0.47
 loc_type: city
+image: vama_veche.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vama_Veche_2005_(2436247131).jpg
+image_license: CC BY 2.0
+image_attribution: lucianf from Bucharest, Romania
 ---
 
 Vama Veche is Romania's most bohemian beach village — a scrappy, sun-baked strip on the Black Sea coast, just 7 km from the Bulgarian border. For decades it was the unofficial refuge of artists, students, nudists, and anyone seeking to escape the regimented seaside resorts further north. That spirit has survived, though barely.

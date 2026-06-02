@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 image: kitzbuehel.jpg
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kitzbuehel03.JPG

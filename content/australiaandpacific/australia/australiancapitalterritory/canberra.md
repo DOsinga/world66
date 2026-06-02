@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-02'
 image: canberra.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Canberra_panorama_from_Mount_Ainslie.jpg

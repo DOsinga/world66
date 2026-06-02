@@ -1,39 +1,8 @@
 ---
-title: "Getting Around in San Jose del Cabo"
+title: "Getting Around"
 type: section
 ---
 
-**S****an Jose del Cabo Transportation** is good because this city is part of the Municipality of Los Cabos, which is very a popular destination for both local and foreign tourists. The city of San Jose del Cabo is well known for the great options it offers in terms of sport fishing, water sports, golf, and sandy beaches.
+The centro histórico of San José is compact and walkable. The beach area south of town is a 15-20 minute walk or a short taxi ride. The tourist corridor between San José and Cabo San Lucas is not walkable — it runs for 30 kilometres along the coast — so a car, taxi, or the Subur Cabos bus service is necessary for moving between the two towns.
 
-**Getting There by Plane**
-
-The first thing to do is to get there. The city is served mainly by the Los Cabos International Airport (IATA airport code: SJD).
-This airport has received several upgrades throughout the years and
-currently it serves about 3 million passengers every year. Many local
-and international airlines offer direct flights from and to San Jose del Cabo
-from several cities around North America (Canada, United States and
-Mexico). If you're traveling from within Mexico, it is a good idea to
-first check out the fare prices from Mexicana's Click, Viva Aerobus, Volarie and Aerobus, because these smaller companies offer deeper discounts to compete with the more established Aeromexico and Mexicana.
-
-**Getting Around by Car**
-Even though this city only has about 50,000 inhabitants, it is a
-pleasant surprise to find that the highway system leading to this city
-is well constructed. Whenever you're driving around Mexico's highways,
-you can always choose between the carretera libre (free highway) or the carretera pagada
-(literally, paid highway). Drive only through the free roadway when you
-have plenty of time because the speed limit is pretty low (around 50
-kilometers per hour) and the road conditions are not as good as on the
-paid highways. Driving to San Jose del Cabo
-is safe throughout most of the year, however you should pay attention
-to the weather alerts during the hurricane season in the period between
-August and October. If you hold a driver's license from the United
-States or Canada, there is no need to apply for an international
-driver's permit because of NAFTA regulations. However, if you're a
-citizen from any other country, it is recommended to apply for an
-international driver's license because it will make the car rental
-process (including buying insurance) easier.
-
-**Contributors**
-January 27, 2010
-
-February 02, 2010
+Taxis in San José are inexpensive by North American standards for town trips; negotiate the fare before getting in. Ride-hailing apps have limited coverage in this part of Baja. Hiring a car at the airport is practical if you plan to explore independently — the road to Cabo Pulmo (90 minutes up the coast) requires a vehicle, and most of the beaches north and south of town have limited public transport.

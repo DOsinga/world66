@@ -1,27 +1,13 @@
 ---
-address: 11 Le Thanh Ton St, District 1
-phone: 08/823-7694
-price: Main courses US$5-US$20
-tags:
-- eating_out
-- restaurant
-title: Hoi An
+title: "Hoi An Restaurant"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - vietnamese
+latitude: 10.7772
+longitude: 106.7017
+snippet: "Elegant central Vietnamese restaurant in a traditional-style shophouse on Le Thanh Ton Street"
 ---
 
-Run by the same folks who bring you Mandarin just around the corner , Hoi An serves a similar compliment of fine, authentic Vietnamese; here the focus is on central Vietnam's light fare. On busy Le Thanh Ton Street just north of the town center, the building is a nice re-creation of a traditional Vietnamese home, and the upstairs dining room is an interesting faux-rustic blend of wood and bamboo. Presentation here is unique, like the hollowed coconut that was used to serve a fine crab and asparagus, and everything is good. Try the drunken shrimp, large prawns soaked in rice whiskey and pan-fried at tableside. Order a cover-the-table meal for a group, and you're sure to go away smiling. Call ahead to ask about the authentic Vietnamese classical music (most nights). Daily 5:30-11:00pm
-
-**Contributors**
-June 25, 2005
-
-type: Vietnamese
-
-
-
-
-
-tel: 08/823-7694
-
-address: 11 Le Thanh Ton St, District 1
-
-PriceOfMenu: Main courses US$5-US$20
+Hoi An Restaurant on Le Thanh Ton Street specialises in the lighter, more herb-forward cooking of central Vietnam — the style associated with the ancient town of the same name. The building is a handsome recreation of a traditional Vietnamese home, with an upstairs dining room that blends bamboo and dark wood in a way that feels theatrical but not unconvincing. Dishes include crab and asparagus in coconut shell, and drunken shrimp — large prawns soaked in rice whisky and pan-fried at the table. Traditional Vietnamese classical music plays most evenings. More expensive than street food but good value for the quality.

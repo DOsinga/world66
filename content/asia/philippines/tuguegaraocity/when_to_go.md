@@ -3,12 +3,8 @@ title: "When to Go"
 type: section
 ---
 
-**Tuguegarao City: when to go** is the primary thing you must know before you plan your trip. This city is located in the northern Philippines and is surrounded with mountains. Because of this, Tuguegarao is cooler than the most of the Phillippines.
+Tuguegarao has a striking climate. The Cagayan Valley is sheltered from both the Pacific and South China Sea weather systems by mountain ranges on either side, which means the city receives less rainfall than most of the Philippines and heats up intensely in the dry season. It regularly records the highest temperatures in the country — readings above 42°C in April and May are common, making it an uncomfortable time to be outdoors for long. Come between November and February for cooler, drier weather that's well suited to cave exploration and river activities.
 
-#### **Endure summer**
+August is the month of the **Pav-vurulun Festival**, Tuguegarao's city festival celebrating Ibanag culture. The highlight is the Pancit Batil Patung eating contest, alongside street dancing, beauty pageants, and a battle of the bands. It's the liveliest time to be in the city, though August is also one of the wetter months — expect afternoon showers. The typhoon season runs roughly June through October, with the heaviest rainfall in September and October, when flooding in the valley is possible.
 
-Since Tuguegarao City is a cold place, the best time to go is during the summer months. April and May are the hottest months in the Philippines, so you can only endure the summer by spending your time in a chilly place. However, they are also the driest months, and there are so many things to do in Tuguegarao when the weather is nice. For example, you could go on nature hikes or try mountain climbing. On the other hand, you could go to Cagayan River for kayaking and rafting. Because it is hot elsewhere in the Phillippines, these months will be more busy.
-
-#### **Witnessing the City Festival**
-
-August is also a great time to visit Tuguegarao City. In this month, the city celebrates the Pav-vurulun Festival. There are beauty pageants, a street dance competition and a battle of the bands. Many local visitors and guests coming from neighboring cities and provinces flock in the city to witness this magnificent festival, so it can be crowded during the time of the festival. Keep in mind August is the second-wettest month on average.
+December and January are the most pleasant months overall: temperatures are manageable, trails and caves are accessible, and the river is navigable.

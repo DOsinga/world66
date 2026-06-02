@@ -1,5 +1,0 @@
-southamerica/peru/ica
-africa/kenya/thecoast/kilifi
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford
-africa/algeria/touggourt
-europe/netherlands/amstelveen

@@ -5,6 +5,7 @@ longitude: 8.7368
 snippet: "Central terrace café facing Place Foch's Napoleon statue"
 tags:
 - bars_and_cafes
+- bar
 title: Café Napoléon
 type: poi
 ---

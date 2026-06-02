@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 image: vail.jpg
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Vail,_Colorado_1.jpg
@@ -8,12 +9,15 @@ latitude: 39.643803
 loc_type: city
 longitude: -106.388823
 score: 0.66
+sources:
+- https://en.wikipedia.org/wiki/Vail,_Colorado
+- https://en.wikipedia.org/wiki/Vail_Ski_Resort
 title: Vail
 type: location
 ---
 
 Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built — Tyrolean-style architecture, pedestrian village cores, and a relentless focus on the ski experience.
 
-The mountain is enormous: over 2,000 hectares of skiable terrain spread across three distinct areas. The front side offers groomed cruisers and bump runs above the tree line. The legendary Back Bowls — seven vast open bowls of ungroomed snow — are what set Vail apart from most other North American resorts. Blue Sky Basin, accessed via the Back Bowls, adds gladed tree skiing in a spectacular setting.
+The [mountain](/northamerica/unitedstates/colorado/vail/vail_ski_resort) is enormous: over 2,000 hectares of skiable terrain spread across three distinct areas. The front side offers groomed cruisers and bump runs above the tree line. The legendary Back Bowls — seven vast open bowls of ungroomed snow — are what set Vail apart from most other North American resorts. Blue Sky Basin, accessed via the Back Bowls, adds gladed tree skiing in a spectacular setting.
 
-In summer, Vail reinvents itself as a hiking and mountain biking destination. The Gore Creek trail, the Berry Picker trail to the top of Vail Mountain, and the more ambitious routes into the Eagles Nest Wilderness are all accessed from town. The village hosts a free concert series and the pedestrian areas fill with outdoor dining. Vail is about two hours west of [Denver](/northamerica/unitedstates/colorado/denver) on Interstate 70, with Eagle County Airport offering direct flights from several US cities in winter.
+In summer, Vail reinvents itself as a hiking and mountain biking destination. The [Gore Creek trail](/northamerica/unitedstates/colorado/vail/gore_creek_trail), the Berry Picker trail to the top of Vail Mountain, and the more ambitious routes into the [Eagles Nest Wilderness](/northamerica/unitedstates/colorado/vail/eagles_nest_wilderness) are all accessed from town. The village hosts the [Bravo! Vail music festival](/northamerica/unitedstates/colorado/vail/bravo_vail) in June and a free summer concert series; the [Betty Ford Alpine Gardens](/northamerica/unitedstates/colorado/vail/betty_ford_alpine_gardens) and the [Colorado Ski and Snowboard Museum](/northamerica/unitedstates/colorado/vail/colorado_ski_snowboard_museum) add cultural depth. Vail is about two hours west of [Denver](/northamerica/unitedstates/colorado/denver) on Interstate 70, with Eagle County Airport offering direct flights from several US cities in winter.

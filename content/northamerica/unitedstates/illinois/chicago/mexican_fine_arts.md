@@ -6,7 +6,9 @@ longitude: -87.673
 phone: 312-738-1503
 snippet: Free museum of Mexican art in the heart of Pilsen
 tags:
-- museums
+- things_to_do
+- museum
+- pilsen
 title: National Museum of Mexican Art
 type: poi
 url: www.nationalmuseumofmexicanart.org

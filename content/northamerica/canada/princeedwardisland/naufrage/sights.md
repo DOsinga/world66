@@ -1,8 +1,8 @@
 ---
-title: "Sights in Naufrage"
+title: Things to Do
 type: section
 ---
 
-Goose River
+The [Naufrage Lighthouse](/northamerica/canada/princeedwardisland/naufrage/naufrage_lighthouse) on the harbour point and the [Naufrage Harbour](/northamerica/canada/princeedwardisland/naufrage/naufrage_harbour) itself are the focal points of the community. The nearby [beach](/northamerica/canada/princeedwardisland/naufrage/pei_red_sand_beaches) with its red sandstone cliffs is uncrowded even in summer.
 
-Home to just over sixty people, Goose River is what some would call your average community on Prince Edward Island. Located just fifteen minutes from the world famous Greenwich National Park, Goose River is also a great destination for visiting golfers. It is less than a half an hour away from seven golf courses, including the Links at Crowbush Cove, Dundarave Golf Course, Brudenell Golf Course, and for those who aren't familiar with the game, there's the Canadian Golf Academy, also just half an hour from Goose River. Goose River is also home to some breathtaking views at sunset on our beaches.
+The main attraction in the area is [Greenwich section of PEI National Park](/northamerica/canada/princeedwardisland/naufrage/greenwich_national_park), about 15 kilometres west, with its rare parabolic dune system, long beach, and boardwalk trail over a lagoon. For golf, the Links at Crowbush Cove is one of the top-rated courses in Atlantic Canada, about 20 minutes away.

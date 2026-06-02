@@ -1,29 +1,16 @@
 ---
-address: 39 Le Thi Hong Gam Street, District 1
-phone: +84- 822 260
-price: $6.00
-tags:
-- eating_out
-- restaurant
-- neighbourhood
-title: Pho 24
+title: "Pho 24"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - vietnamese
+  - pho
+latitude: 10.7756
+longitude: 106.6949
+snippet: "Popular pho chain that helped standardise and popularise Vietnamese noodle soup citywide"
 ---
 
-takes the country's beloved beef or chicken noodle soup (*pho*),
-with its cinnamon-and-anise-scented broth, to new heights. Bowls are
-served in a colonial-style room, with wrought-iron detailing and paper
-lanterns.
+Pho 24 is a Vietnamese fast-food chain that made its name by bringing consistent, reliable phở to a younger urban audience. The bowls are clean, the broth decent rather than exceptional, and the settings air-conditioned and accessible. It is not the most atmospheric phở experience in the city — that honour belongs to the old family-run spots on Pasteur Street — but it is a reasonable introduction if you are new to the dish, and the prices are low.
 
-**Contributors**
-March 21, 2007
-
-type: Vietnamese
-
-
-
-tel: +84- 822 260
-
-address: 39 Le Thi Hong Gam Street, District 1
-
-PriceOfMenu: $6.00
+The Le Thi Hong Gam Street branch is conveniently placed near the Ben Thanh Market area.

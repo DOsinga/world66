@@ -8,6 +8,7 @@ phone: 957 48 31 12
 snippet: Established flamenco tablao in a 16th-century house by the Mezquita
 tags:
 - bars_and_cafes
+- bar
 title: Tablao Flamenco El Cardenal
 type: poi
 ---

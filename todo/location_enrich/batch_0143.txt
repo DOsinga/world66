@@ -1,5 +1,0 @@
-asia/saudiarabia/taif
-asia/philippines/guimaras
-europe/unitedkingdom/england/south_east/chichester
-europe/romania/deva
-africa/morocco/oujda

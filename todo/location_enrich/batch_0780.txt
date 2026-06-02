@@ -1,5 +1,0 @@
-europe/ukraine/kirovograd
-europe/belgium/waterloo
-europe/germany/bavaria/thurnau
-europe/germany/schleswigholstein/north_frisian_islands
-europe/spain/sant_andreu_de_llavaneres

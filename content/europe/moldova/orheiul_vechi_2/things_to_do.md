@@ -1,10 +1,9 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-There are some very interesting things to do in Orhei Vechi, one is to go and explore its
-monastery cave and other caves . This are caves build in th 14th century by the monks.The other thing what to do in Orhei Vechi is hiking in its canyon and its Raut river. The landscape is just breath taking and its worth visiting it.
+Everything at Orheiul Vechi radiates from the cave monastery complex carved into the limestone promontory above the Raut River loop. The walk from the car park to the cliffs takes about 20 minutes through the village of Butuceni, passing traditional Moldovan farmhouses.
 
-**Contributors**
-June 12, 2007
+The cave monastery is the centrepiece, but the broader archaeological park rewards slow exploration. The clifftop above the caves offers views of the full river bend — one of the most distinctive landscapes in Moldova. In summer, local villagers sell wine and snacks at informal roadside stops along the path.
+

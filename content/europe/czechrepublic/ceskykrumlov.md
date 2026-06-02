@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 image: ceskykrumlov.jpg
 image_license: CC BY-SA 3.0 igo
 image_source: https://commons.wikimedia.org/wiki/File:Historic_Centre_of_%C4%8Cesk%C3%BD_Krumlov-111747.jpg
@@ -9,6 +10,8 @@ latitude: 48.810653
 loc_type: city
 longitude: 14.315059
 score: 0.74
+sources:
+- https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov
 title: Český Krumlov
 type: location
 ---

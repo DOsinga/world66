@@ -1,16 +1,18 @@
 ---
-title: Rex Hotel Rooftop Bar
+title: "Rex Hotel"
 type: poi
-snippet: "Legendary rooftop bar where US military briefed press during the Vietnam War"
 tags:
-- things_to_do
-- nightlife
-- landmark
-address: 141 Nguyen Hue Boulevard, District 1, Ho Chi Minh City
-latitude: 10.773889
-longitude: 106.703056
+  - things_to_do
+  - sight
+  - landmark
+  - history
+latitude: 10.7758
+longitude: 106.7015
+snippet: "Iconic colonial-era hotel on Nguyen Hue Boulevard, billet of US military officers during the Vietnam War"
+sources:
+  - https://en.wikipedia.org/wiki/Rex_Hotel
 ---
 
-The rooftop garden bar of the Rex Hotel is one of the most historically loaded drinking spots in Southeast Asia. During the Vietnam War, the US military held its daily press briefings — sardonically nicknamed the "Five O'Clock Follies" by the journalists who attended — in this building. Correspondents from AP, Reuters, and every major newspaper in the world passed through.
+The Rex Hotel on Nguyen Hue Boulevard is one of the most historically resonant hotels in Southeast Asia. During the American War, it served as a billet for senior US military officers and as the site of the daily military press briefings that journalists nicknamed "the Five O'Clock Follies" — a term that entered the English language as shorthand for official optimism detached from reality on the ground.
 
-Today the rooftop remains open to the public and retains a faded grandeur: potted topiary, fountains, strings of lights, and a view over the chaos of Nguyen Hue Boulevard below. The cocktails are expensive by local standards. Come for the history and the view, not the drinks prices.
+The hotel still operates as a luxury property and retains much of its dated grandeur: ornate lobbies, uniformed staff, a colonial-era swimming pool. The rooftop garden bar is the classic Saigon experience — cold beer under fairy lights with views down the boulevard toward City Hall. Even if you are not staying, the lobby and public areas are worth wandering through.

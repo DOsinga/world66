@@ -7,6 +7,11 @@ tags:
   - historic_building
 latitude: 42.6643
 longitude: 44.6272
+story: >
+  During the Persian invasion of 1795 the church became a refuge for Tbilisi's most sacred relics —
+  the cross of Saint Nino and the icon of the Saviour — carried here by monks who fled the burning
+  capital. The treasures survived, hidden in the mountains, while the city below was sacked and
+  largely destroyed.
 sources:
   - https://en.wikipedia.org/wiki/Gergeti_Trinity_Church
 ---

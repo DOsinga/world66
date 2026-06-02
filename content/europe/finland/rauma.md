@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-01'
+image: rauma.jpg
+image_attribution: pjt56
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Rauma_3.jpg
 latitude: 61.1289
+loc_type: city
 longitude: 21.5039
+score: 0.52
 title: Rauma
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Rauma is one of Finland's oldest towns and home to the largest unified wooden old town in the Nordic countries. Old Rauma, a UNESCO World Heritage Site since 1991, is a living neighbourhood of about 600 colourful wooden buildings dating from the 18th and 19th centuries — not a museum, but a place where people actually live, shop, and eat.

@@ -1,12 +1,13 @@
 ---
-latitude: 49.538071
-longitude: 7.403559
+latitude: 51.2172
+longitude: 6.7766
 tags:
 - shopping
-title: South Central
+- neighbourhood
+title: City Süd
 type: poi
 ---
 
-Extending from the southern end of the Kö to Friedrichstrasse is the shopping mile of the 'City Süd'. A wide range of shops selling books and other media, home electronics and all items of daily use jostle with numerous 'in' rendezvous, pubs and restaurants for all tastes, an ambience that attracts many visitors.
+The City Süd stretches south from the Königsallee along Graf-Adolf-Straße and Friedrichstraße. It is a slightly more relaxed alternative to the Kö, with a mix of mainstream fashion chains, bookshops, electronics stores, and a good number of cafés and restaurants.
 
-type: Music
+This is the everyday shopping district where Düsseldorfers come when they are not dressing to impress on the Königsallee. The street is wide and easy to navigate, and the proximity to the main station makes it a natural stopping point for arriving visitors.

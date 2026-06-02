@@ -7,7 +7,8 @@ longitude: 72.8334
 snippet: Grand 1833 neoclassical building housing the Asiatic Society library
 tags:
 - things_to_do
-- monument
+- sight
+- architecture
 title: Town Hall
 type: poi
 ---

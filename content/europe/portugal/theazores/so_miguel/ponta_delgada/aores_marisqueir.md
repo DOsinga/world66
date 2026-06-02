@@ -6,6 +6,8 @@ phone: 296 385 093
 snippet: Popular local seafood spot near the marina
 tags:
 - eating_out
+- restaurant
+- seafood
 title: Açores Marisqueira
 type: poi
 ---

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-30'
+  location_enrich: '2026-06-02'
 image: kazbegi.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:View_of_Stepantsminda_09.23.jpg

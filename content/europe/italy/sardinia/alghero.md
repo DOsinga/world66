@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
 image: alghero.jpg
 image_attribution: Alexander Samoylyk on Flickr
 image_license: CC BY 2.0

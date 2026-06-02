@@ -8,7 +8,7 @@ story: Napoleon was baptised here on 21 July 1771, two years after his birth —
   is displayed inside.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Cathédrale Notre-Dame de la Miséricorde
 type: poi
 ---

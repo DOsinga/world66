@@ -1,5 +1,0 @@
-asia/china/bei_dai_he
-europe/spain/andalucia/carmona
-northamerica/unitedstates/california/goldcountry/mariposa
-europe/germany/badenwrttemberg/ulm
-europe/spain/aragon/jaca

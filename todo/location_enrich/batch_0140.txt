@@ -1,5 +1,0 @@
-northamerica/unitedstates/texas/mckinney
-europe/italy/sicily/palermo
-northamerica/canada/ontario/haliburton
-asia/yemen/aden
-europe/macedonia/ohrid

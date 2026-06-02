@@ -1,54 +1,18 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - africa/djibouti/lakeassal
+  - africa/djibouti/lakeabbe
+  - africa/djibouti/tadjoura
 ---
 
-Djibouti City is the capital of the Republic of Djibouti and is a melting pot of different cultures and ethnicities. For a get-away from the republic's capital, try venturing on one of these day trip options.
+The country of Djibouti is small enough that most of its highlights are accessible as day trips from the capital. The landscape outside the city shifts dramatically from the coastal lowlands to lunar volcanic fields and extraordinary salt lakes — a geological intensity that makes Djibouti one of the more visually remarkable countries in Africa. A 4WD is necessary for most excursions; hire one with a driver through your hotel or a local operator.
 
-**Ardoukoba Volcano**
+[Lake Assal](/africa/djibouti/lakeassal) is the most visited day trip: one of the lowest points on Earth and the saltiest lake outside Antarctica, surrounded by jet-black lava fields and crystalline salt flats that shimmer in the heat. The drive from the city takes about an hour and a half.
 
-Located 100 kilometers from Djibouti City, the Ardoukoba Volcano is
-a spectacular sight of a natural phenomenon that occurred in 1978 for a
-week after the infamous 1.8m fissure earthquake. This was the first
-volcanic eruption in the region in 3000 years and the craters still
-explicitly illustrate the magnitude of the disaster.
+[Lac Abbé](/africa/djibouti/lakeabbe) is the more remote and more extraordinary destination: a surreal landscape of limestone chimneys exhaling steam from geothermal vents, used as the filming location for the original *Planet of the Apes*. Allow a full day and consider an overnight stay to see the chimneys at dawn.
 
-**Lake Assal**
+[Tadjoura](/africa/djibouti/tadjoura) is the oldest town in Djibouti, a whitewashed coastal settlement across the Gulf of Tadjoura. Reachable by ferry from the city waterfront, it makes for a pleasant half-day excursion with good seafood at the waterfront restaurants. The Goda Mountains behind the town shelter the only forest in Djibouti.
 
-Lake Assal is a fantastic day trip option for its dormant volcanoes,
-jet black lave fields and a rich aquatic floral and faunal life. The
-lake is a whopping 492 feet below sea level and is a breathtakingly
-beautiful and serene spot for a day picnic. Lake Assal is nestled on
-the Tarmac Road that is located a few kilometers to the west of
-Djibouti City. The thrilling drive offers visitors several interesting
-vistas including the Lac Goublet, a seawater loch that is popularly
-referred to as the ‘pit of demons’. There are other innumerable
-volcanic remains and a particularly striking volcanic pathway that
-bifurcates two lakes.
-
-**Lake Abbe**
-
-This is one of the most isolated places in the region and is a good
-option for a relaxed and peaceful day trip without too much frantic
-tourist activity. The natural landscape is thoroughly unique and is
-interspersed with innumerable lofty limestone chimneys eructating
-steam. This rare natural occurrence is the consequence of calcareous
-deposits over a long period of time. This desolate and unique
-destination played host to the filming of the flick ‘Planet of the Apes’.
-
-**Tadjoura**
-
-Tadjoura is a fascinating historical town that is touted to be the
-oldest in Djibouti. Its separates the gulf of Afar and Issa lands and
-was initially a small hamlet that was the hub of the slave trafficking
-trade in the region. The lush green Goda Mountains overlook the village
-and the azure blue sea charmingly surrounds it. Tadjoura looks
-magnificent from the adjoining sea and its quaint structures are
-montages of an engaging erstwhile legacy. A few kilometers down the old
-town are several towering peaks and undiscovered beaches with rich
-coral reefs that are ideal for deep sea diving and snorkeling.
-
-Djibouti City offers day trippers several options ranging from
-gorgeous locations that offer picturesque natural beauty and
-awe-inspiring natural phenomenon along with old historical hubs that
-accentuate the impact of an exotic holiday.
+The Moucha and Maskali Islands offer good snorkelling and are a popular half-day trip by boat from the port. Whale shark snorkelling runs from October to February at Arta Plage, about 40km west of the city — operators in town can organise this.

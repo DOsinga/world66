@@ -6,7 +6,10 @@ longitude: 11.9148
 snippet: Hilltop medieval fortress with sweeping views from the Dolomites to Venice.
 tags:
 - things_to_do
+- sight
 - landmark
+story: >
+  The Rocca's earliest documented history goes back to the 10th century, but Roman-era finds suggest the site was used for defence much earlier. Caterina Cornaro used it as part of her modest court after ceding Cyprus to Venice in 1489 — the view from the towers would have reminded her of what she had given up in exchange for this pleasant exile.
 title: Rocca
 type: poi
 ---

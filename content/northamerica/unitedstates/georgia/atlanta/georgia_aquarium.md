@@ -8,7 +8,7 @@ phone: (404) 581-4000
 snippet: One of the world's largest aquariums, famous for whale sharks
 tags:
 - things_to_do
-- landmark
+- sight
 title: Georgia Aquarium
 type: poi
 url: www.georgiaaquarium.org

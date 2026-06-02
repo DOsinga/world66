@@ -1,40 +1,8 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
-address: "Rua dos Andradas 454, first floor Manaus"
-email: "eco-discovery@bol.com.br"
-phone: "32344737"
-url: "members.virtualtourist.com"
 ---
 
-Getting around Manaus.
+Central Manaus is compact enough to walk between the main sights — the Teatro, the cathedral, the Mercado, and the port are within a few blocks of each other. Beyond the centre, the city sprawls and the heat is punishing, so taxis and ride-hailing apps (Uber and 99 both operate) are the easiest way to get around. The bus system is extensive but routes can be hard to decipher for short visits.
 
-Manaus is surrounded by rivers and flooted forest. a lot of points you only reach by boat
-
-### [Boat transport](/southamerica/brazil/manaus/getting_around/boat_transport)
-
-In Manaus you will find a lot of options of fluvial transport.
-
-Many places you only can reach by motor boat or canoe in the highwater season , and this transport is really amazing.
-
-Also to get out (Belem, Obidos, Tabatinga ...) the boat transport is better and cheaper than fly, showing the amazon rainforest and local customs, offering a oportunity to learn more about the amazon
-
-
-
-[[rate it]](/southamerica/brazil/manaus/getting_around/boat_transport)
-
-tel: 32344737
-
-url: [members.virtualtourist.com](http://members.virtualtourist.com/vt/lm/1ddc/?i=0)
-
-address: Rua dos Andradas 454, first floor Manaus
-
-email: eco-discovery@bol.com.br
-
-### [Taxi](/southamerica/brazil/manaus/getting_around/taxi)
-
-It's the best way to get around Manaus
-
-
-
-[[rate it]](/southamerica/brazil/manaus/getting_around/taxi)
+Boats are the city's other circulation system. The Estação Hidroviária downtown is the gateway to slow river travel — from a few hours to several days. For Encontro das Águas and short jungle excursions, motorised canoes leave from the wharves at the eastern end of the port. The Manaus monorail, conceived for the 2014 World Cup, was never finished and remains a stalled curiosity.

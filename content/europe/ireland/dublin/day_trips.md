@@ -3,20 +3,4 @@ title: "Day Trips"
 type: section
 ---
 
-Here are a few suggestions for an outdoor trip.
-
-**Contributors**
-October 01, 2005
-
-### [The village of Portmarnock
-
-Thevillage of Portmarnock is without a port yet! However, does have
-a station, that in the1850's at a leisurely 40.m.p.h. brought thousands
-to the beach, connecting station and strand by horse drawn cariage.
-These days the old pleasure train has become the "sardine-line" to "Banklin"!
-
-Portmarnock, the name coming from St.Marnock who arrived there in
-the fifth century. Marnock a missionary of St.Patrick, converted the
-local Celts from worshiping Water, Trees,and Wells, to Christianity.
-(Tendencies that are still prevalent today if you observe the
-inhabitants fancy more..](/europe/ireland/dublin/day_trips/the_village_of_por)
+Dublin is well placed for day trips. The **Wicklow Mountains** begin barely 20 km south — Glendalough's monastic ruins in their glacial valley are the standout destination. **Howth** headland to the northeast gives you cliff walks and fresh seafood in 30 minutes on the DART. The coastal villages of Dalkey, Killiney, and Dún Laoghaire are also on the DART line and worth a couple of hours each. **Powerscourt Estate** in Co. Wicklow, with its 47 acres of formal gardens backed by Sugar Loaf Mountain, makes a pleasant half-day by car or tour bus.

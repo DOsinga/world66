@@ -1,5 +1,0 @@
-europe/spain/andalucia/sanlcar
-asia/philippines/negrosisland/sagay_city
-asia/cambodia/kratie
-northamerica/canada/britishcolumbia/cowichan_bay_bc
-northamerica/unitedstates/california/placerville

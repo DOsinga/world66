@@ -7,7 +7,7 @@ phone: 312-939-2438
 snippet: World-class aquarium on the Lake Michigan waterfront
 tags:
 - things_to_do
-- landmark
+- sight
 title: Shedd Aquarium
 type: poi
 url: www.sheddaquarium.org

@@ -4,7 +4,7 @@ longitude: 52.5424
 snippet: 18th-century vaulted bazaar with spices, carpets, and copperware
 tags:
 - things_to_do
-- landmark
+- market
 title: Bazaar-e Vakil
 type: poi
 ---

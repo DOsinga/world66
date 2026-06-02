@@ -1,15 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 latitude: 29.974498
 longitude: 32.537086
 title: Suez
 type: location
 score: 0.37
 loc_type: city
+image: suez.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Baycrest
 ---
 
-Suez sits at the southern mouth of the canal that bears its name, where the Red Sea meets one of the world's busiest shipping lanes. It is a gritty transport hub rather than a tourist destination, but it serves as the jumping-off point for travel into the Sinai Peninsula, and there is something mesmerizing about watching massive container ships glide through a desert landscape.
+Suez sits at the southern mouth of the canal that bears its name, where the Red Sea meets one of the world's busiest shipping lanes. It is a gritty transport hub rather than a tourist destination, but it serves as the jumping-off point for travel into the Sinai Peninsula, and there is something mesmerizing about watching massive container ships glide through a desert landscape. The [Suez Canal Viewpoint](/africa/egypt/suez/suez_canal_viewpoint) at Port Tewfik is the best place to watch the convoys pass, and the [Port Tewfik Memorial](/africa/egypt/suez/port_tewfik_memorial) commemorates the First World War campaigns fought across the canal zone. The [Suez National Museum](/africa/egypt/suez/suez_museum) covers the city's history from ancient Clysma through the 1973 war.
 
 **Transiting the Suez Canal**
 

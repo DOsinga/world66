@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - market
   - food
+  - centro_historico
 latitude: 20.9641
 longitude: -89.6218
 ---

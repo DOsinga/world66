@@ -3,20 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-The best places to eat out in Basel are located close to the Barfuesserplatz.
+The best concentration of restaurants is around Barfüsserplatz and in the old town streets between the Marktplatz and the Rhine. Basel's cuisine reflects its position at the intersection of Swiss, French, and German culinary traditions — you will find schnitzel and rösti alongside French-influenced brasserie food and excellent Italian restaurants.
 
-## Categories
+Local specialities worth seeking out include Basler Mehlsuppe (a dark, roasted flour soup, traditionally eaten during Fasnacht) and Leckerli — a spiced gingerbread-style biscuit that makes a good souvenir. Swiss German portions tend to be generous and prices are high by European standards.
 
-[US American](/europe/switzerland/basel/eatingout?subsection=US%20American%20)
-[International](/europe/switzerland/basel/eatingout?subsection=International%20)
-[South & Central American](/europe/switzerland/basel/eatingout?subsection=South%20%26%20Central%20American%20)
-[Specials](/europe/switzerland/basel/eatingout?subsection=Specials%20)
-
-[Japanese](/europe/switzerland/basel/eatingout?subsection=Japanese%20)
-[African](/europe/switzerland/basel/eatingout?subsection=African%20)
-[French](/europe/switzerland/basel/eatingout?subsection=French%20)
-[Chinese](/europe/switzerland/basel/eatingout?subsection=Chinese%20)
-
-[Italian](/europe/switzerland/basel/eatingout?subsection=Italian%20)
-[Indian](/europe/switzerland/basel/eatingout?subsection=Indian%20)
-[Local](/europe/switzerland/basel/eatingout?subsection=Local)
+For something more casual, the Münsterplatz area has good bakeries and the market on Marktplatz (Tuesday and Saturday mornings) sells produce from the surrounding region.

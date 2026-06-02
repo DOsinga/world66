@@ -3,24 +3,8 @@ title: "Shopping"
 type: section
 ---
 
-**Shopping in Anchorage**
+The main downtown shopping is along Fourth and Fifth Avenues, anchored by the **Fifth Avenue Mall** (Nordstrom and around fifty other shops) on Fifth and C Street. For Alaskan-made goods, look for the **silver hand** sticker on items in shops along Fourth Avenue — it certifies a piece was made by an Alaska Native artist. The **Alaska Native Heritage Center** gift shop also has the best selection of authentic work in the city.
 
- Whether you live in Anchorage or are just visiting, try to make a point of visiting some of the Native Alaskan shops. They are located throughout the city, with several located downtown. There are so many things to choose from: iceworms, Native baskets and clothing, ivory carvings, Mukluks, jewelry, various furs, as well as the strange looking, Native knife, the Ulu (a must have for everyone)
+Outdoor gear is the city's other strength. **REI** has a flagship store on Northern Lights Boulevard; **AMH** (Alaska Mountaineering and Hiking) on Spenard Road carries serious equipment for backcountry trips and stocks the best maps and books. The state's signature outdoor brand, Cabela's-equivalent **Big Ray's**, has been outfitting Alaskans since 1947.
 
- **Apone's T-Shirt Cache** (htey offer a Free Catalog)
-
- 436 W. 4th Avenue 
-
- (800)770-1007 
-
- **Fifth Avenue Mall**
-
- Corner of Fifth and Street
-
- This mall seems to offer some of everything, including: Nordstrom, restaurants over 50 specialty shops.
-
- **Alaska Native Arts and Crafts**
-
- 333 West 4th Avenue
-
- (907)274-2932
+For groceries, sourdough bread, smoked salmon, and other take-home Alaskan food, the **Saturday Market** (Spring through September) in the parking lot on West 3rd Avenue is the best one-stop. **Indian Valley Meats** sells reindeer sausage and smoked salmon by mail order around the country.

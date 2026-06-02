@@ -1,28 +1,10 @@
 ---
-address: 130 Abuloma Road Portharcourt
-phone: 08065886127
 title: Eating Out in Port Harcourt
 type: section
 ---
 
-bretheren assembly
+Port Harcourt's food scene divides roughly into Nigerian cooking — dominated by the flavours of the Niger Delta — and the international restaurants that have grown up around the oil industry's expatriate community. The city has Lebanese, Chinese, and Continental restaurants at the upper end, and an excellent range of Nigerian food at the street and chop-house level.
 
-### [BAKERS PALACE](/africa/nigeria/portharcourt/eating_out/bakers_palace)
+The [Niger Delta culinary tradition](/africa/nigeria/portharcourt/delta_cuisine) is the most important thing to try: banga soup with starch, fresh fish pepper soup, and ofe akwu are the dishes that define this part of Nigeria. Seek them out at local buka restaurants rather than the formal establishments. [Asia Town](/africa/nigeria/portharcourt/asia_town_restaurant) in Old GRA is the best-known option for Chinese and Asian food. The [Ice Cream Bar](/africa/nigeria/portharcourt/ice_cream_bar) in Woji is a good spot for gelato and sweet things in the afternoon heat.
 
-Located at 130 Abuloma Road Portharcourt Rivers State.. we have all african delicacies ..... Amala ..Eba..Pounded yam..,, Eforiro ... Egusi....Ogbonu.....Vegetable...Afam(soups) Also bake fresh.. well prepared snacks.. Meat pie....Beef Bread....Ham & Egg.....saussage Rolls etc.....Our Ice Cream is rich and creammy... Call on us for your outdoor cathering services
-
-Bakers palce is a place to be... with your loved ones....
-
-Don't hesitate to pay us a visit....
-
-Think Portharcourt City ??........ You think of Bakers Palace....
-
-type: African
-
-
-
-[[rate it]](/africa/nigeria/portharcourt/eating_out/bakers_palace)
-
-tel: 08065886127
-
-address: 130 Abuloma Road Portharcourt
+For [street food and suya](/africa/nigeria/portharcourt/suya_trail), head to the roadsides around Trans Amadi and Rumuola after dark, where charcoal fires and queuing crowds mark the best stalls.

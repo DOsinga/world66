@@ -1,12 +1,12 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
 ---
 
-The Southern city of Atlanta, nestled into the foothills of the Appalachian Mountains, has mild weather for most of the year. The altitude of this large city and its rather close proximity to the Gulf of Mexico make summers bearable, while the Northern mountains protect Atlanta from blasts of cold air making winters not so harsh. The area receives a lot of rain throughout the year, although the highest concentrations of rainfall occur in spring, particularly in March. Atlanta has four distinct seasons and a temperate climate. There's not really a particular period of time during the year when the majority of tourists come to town. Obviously, there is always a large amount of visitors, both international and domestic, that are in Atlanta, especially as it's such a big city with lots of activity. People come for both business and pleasure, so it's basically impossible to avoid the tourists. Therefore, your best bet is to visit the city when the weather is best for the things you want to do.
+Atlanta has a humid subtropical climate with four seasons and a long pollen season — the city consistently tops the American Asthma & Allergy Foundation's lists for spring pollen counts.
 
-**The Seasons**
+The best months are mid-April through mid-May and September through early November: daytime temperatures in the high teens to mid-20s C and the dogwoods and azaleas at full bloom (spring) or the trees turning (autumn). July and August are hot, humid, and frequently broken by afternoon thunderstorms — uncomfortable but not impossible.
 
-Summer is quite hot and humid, temperatures frequently rise above 90 degrees Fahrenheit. Sometimes heat waves settle into the area for days. Although tornado activity is common in this area of the United States, tornadoes rarely hit Atlanta, so it's not a huge problem to consider while making your vacation plans. If you're a fan of hot, sunny weather you may want to visit during the summer, however, autumn can be even more pleasant, especially if you're planning on walking a lot around the city. Autumn brings cool breezes, sunshine, and brilliantly colored trees. Being in the foothills of the Appalachians makes Atlanta a beautiful spot to view the fall colors. Rainfall is minimal, and temperatures hover around the 60s and 70s, perfect for a city stroll.
+Winter is mild by American standards (daytime highs around 11°C) with occasional ice storms; snow is rare. The week between Christmas and New Year is a quiet, pleasant time to visit if you do not mind closed restaurants.
 
-Winters in Atlanta can be cold, with temperatures dropping below freezing at night. The temperatures during the day get quite a bit higher, however, making ouside activities not so uncomfortable. Occasionally there is snowfall, but not very often. More often, the city receives ice storms, which can be even more hazerdous. This season is somewhat random in that warm fronts can make Atlanta seem like it's in springtime in the middle of winter, while polar air masses can come in and lower temperatures to single digits. Winter isn't exactly an ideal time to visit the city, although there are still indoor activities to do such as see concerts, theater events, art galleries, etc. Spring is similar to fall in its temperatures, but asthma sufferers be wary, Atlanta has one of the highest pollen and particle pollution levels in the U.S.
+The Atlanta Dogwood Festival runs in mid-April, Music Midtown in mid-September, and the National Black Arts Festival in summer.

@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  location_enrich: '2026-05-22'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-20'
 image: hochiminhcity.jpg
 image_license: CC BY 2.0

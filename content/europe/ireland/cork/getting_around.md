@@ -1,10 +1,10 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Cork is a bustling centre of activity inorder to see the whole city a horse and trap is a must. But don't worry if bringing your own with you isn't an option you will be able to rent them from **Billies Horsey Palace** on *Cornmarket St.*
+Cork city centre sits on an island between two channels of the River Lee. The historic core is small enough that almost everything of interest is within a 15-minute walk, but the hills on either bank are steep — St Anne's in Shandon means a real climb.
 
-There are many different modes of transport availble to the visitor , these include *piggyback, horseback* or *horse* and *trap. *
+Bus Éireann runs city services from St Patrick's Street and Parnell Place to the surrounding suburbs and to Cork Airport. Taxis are widely available; Free Now and Bolt both operate. The Cork Bike Share scheme has stations around the centre, and the Cork Greenway towards Passage West makes a pleasant car-free cycle.
 
-From *St.Patrick's* Street horse and traps leave every fifteen minutes to all outlying suburban areas. Typical prices for a one mile journey (1.2km) is €0.21. This includes the use of the blanket for the duration of the trip.
+Driving in the centre is rarely worth it. Use one of the multi-storey car parks (Paul Street, Carroll's Quay, North Main Street) and walk.

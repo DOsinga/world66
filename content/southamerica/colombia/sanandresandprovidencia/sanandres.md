@@ -2,16 +2,20 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: ‘2026-04-09’
+  location_enrich: '2026-05-31'
+image: sanandres.jpg
+image_attribution: jabello1964
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:San_Andr%C3%A9s,_San_Andr%C3%A9s_y_Providencia,_Colombia_-_panoramio_(1).jpg
 latitude: 12.58301
+loc_type: city
 longitude: -81.697568
 score: 0.61
+sources:
+- https://en.wikipedia.org/wiki/San_Andr%C3%A9s_Island
+- https://en.wikipedia.org/wiki/Johnny_Cay
 title: San Andrés
 type: location
-image: sanandres.jpg
-image_source: https://commons.wikimedia.org/wiki/File:San_Andr%C3%A9s,_San_Andr%C3%A9s_y_Providencia,_Colombia_-_panoramio_(1).jpg
-image_license: CC BY 3.0
-image_attribution: jabello1964
-loc_type: city
 ---
 
 San Andrés is a Caribbean island belonging to Colombia, sitting closer to Nicaragua than to the Colombian mainland. The sea around the island is famous for its "seven colours" — bands of turquoise, aquamarine, and deep blue created by the varying depth of the coral reef — and the snorkelling and diving are outstanding.

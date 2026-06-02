@@ -3,8 +3,8 @@ title: "Bongo Billy's Buena Vista Cafe"
 type: poi
 snippet: "Local coffee roaster and community hangout"
 tags:
-- restaurants
-- cafe
+  - eating_out
+  - cafe
 address: "713 South US Highway 24, Buena Vista, CO"
 phone: "(719) 395-2634"
 url: "https://www.bongobillys.com"

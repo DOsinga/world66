@@ -6,7 +6,7 @@ phone: +31 (0)318 651 812
 snippet: 17th-century country house with a moat and wooded estate
 tags:
 - things_to_do
-- landmark
+- sight
 title: Kernhem Mansion
 type: poi
 ---

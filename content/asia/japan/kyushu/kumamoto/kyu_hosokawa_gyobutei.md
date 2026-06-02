@@ -1,6 +1,6 @@
 ---
-latitude: 32.6637
-longitude: 130.7044
+latitude: 32.8126
+longitude: 130.7080
 snippet: "Beautifully restored Edo-period samurai residence, rarely crowded"
 tags:
 - things_to_do

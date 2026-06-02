@@ -1,15 +1,15 @@
 ---
-address: Palazzo Lardarel Via Tornabuoni 19
-email: info@officinadetornabuoni.com
-phone: '055.210628'
-tags:
-- shopping
-- shop
-title: Erboristeria Inglese
+title: Officina dei Tornabuoni
 type: poi
+tags:
+  - shopping
+  - shop
+latitude: 43.7710
+longitude: 11.2490
+address: Via Tornabuoni 19, 50123 Florence
 url: www.officinadetornabuoni.com
 ---
 
-Tradition meets Innovation with this complete range of natural, therapeutic products. Erboristeria Inglese has been committed for over a century to the creation and perfection of Natural products for Beauty and Wellbeing. Herbal Medicine and Natural Cosmetics, using plants from tuscany and following old traditional formulas of Caterina de' Medici.
+A historic herbal pharmacy and cosmetics shop on Via Tornabuoni, operating for over a century with a focus on natural products and traditional Florentine formulas. The shop carries herbal remedies, natural cosmetics, and beauty products drawing on Tuscan plants and the centuries-old herbal medicine tradition of the city's pharmacies and convents.
 
-type: Speciality shops
+A more affordable and less famous alternative to the Officina di Santa Maria Novella, with a good range of Florentine botanical products in the handsome palazzo setting.

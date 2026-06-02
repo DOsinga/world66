@@ -1,17 +1,10 @@
 ---
-latitude: 49.698605
-longitude: -96.157949
+latitude: 49.8910
+longitude: -97.1100
 tags:
 - eating_out
-title: Provencher
+title: Provencher / St. Boniface
 type: poi
 ---
 
-St. Boniface is home to the largest French speaking community in
-western Canada. What better place to find some of the finest French
-restaurants in the city than in the French Quarter?
-
-**Contributors**
-March 30, 2005
-
-type: African
+The French Quarter across the Provencher Bridge in St. Boniface — the largest Francophone community in western Canada. Rue Provencher and the surrounding streets have the best French restaurants in the city, along with the Cathedral of Saint Boniface (where Louis Riel is buried) and the Franco-Manitoban Cultural Centre. Cross the striking contemporary pedestrian bridge from The Forks for a half-day that feels like a different city.

@@ -1,5 +1,0 @@
-asia/cambodia/phnompenh
-europe/slovenia/bled
-northamerica/unitedstates/washington/olympia
-europe/switzerland/verbier
-asia/china/xinjiangprovince/turpan

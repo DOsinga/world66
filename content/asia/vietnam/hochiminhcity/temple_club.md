@@ -1,34 +1,16 @@
 ---
-address: 29 – 31 Ton That Thiep, D1
-phone: +84 829 9244
-price: VND80,000-VND150,000
-tags:
-- eating_out
-- restaurant
-- church
-- bar
-- club
-title: Temple Club
+title: "Temple Club"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - vietnamese
+  - fine_dining
+latitude: 10.7761
+longitude: 106.7016
+snippet: "Atmospheric colonial-era restaurant and bar with art deco furnishings for sale"
 ---
 
-his high-end restaurant, attached to an equally elegant bar and lounge,
-is a must-see place for its art deco furniture (all of which are for
-sale) as much as for its scrumptious food (its appetiser platter is a
-must-try). A good place
-to impress out-of-town business colleagues or clients.
+The Temple Club occupies a restored colonial shophouse on Ton That Thiep Street in District 1, its interiors furnished with antique pieces — lacquerware, carved wood, old photographs — all of which are available for purchase. The restaurant serves Vietnamese cuisine in the upmarket Saigon style: dishes that are familiar but carefully presented, with French influence in the sauces and the wine list. The appetiser platter is a strong opening.
 
-**Contributors**
-March 21, 2007
-
-type: Vietnamese
-
-
-
-
-
-tel: +84 829 9244
-
-address: 29 – 31 Ton That Thiep, D1
-
-PriceOfMenu: VND80,000-VND150,000
+The bar attached to the restaurant is one of the more civilised places in the tourist centre to have an evening drink — no sound system, no touts, just a well-stocked bar in an elegant room.

@@ -4,15 +4,15 @@ done:
 latitude: 43.7697
 longitude: 19.5428
 snippet: Heritage narrow-gauge railway looping through mountain forests
-story: 'The Sargan Eight gets its name from the figure-of-eight shape the track traces
+story: >
+  The Sargan Eight gets its name from the figure-of-eight shape the track traces
   up the mountain. It was originally part of a narrow-gauge line connecting Belgrade
   to the Adriatic coast, but the route was too steep for standard trains and was abandoned
   in 1974. The restored tourist railway runs the same switchbacks the original engineers
   devised in the 1920s.
-
-  '
 tags:
-- history
+  - things_to_do
+  - sight
 title: Sargan Eight Railway
 type: poi
 ---

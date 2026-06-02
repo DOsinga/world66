@@ -6,6 +6,7 @@ latitude: 46.2007
 longitude: 6.1477
 snippet: Lively Old Town bar with a summer terrace
 tags:
+- bars_and_cafes
 - things_to_do
 - bar
 title: Le Roi Ubu

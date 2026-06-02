@@ -2,40 +2,25 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-05-29'
   poi_cleanup: '2026-04-19'
+image: antwerp.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amberes;_vistas_MAS_2.jpg
 latitude: 51.22111
+loc_type: city
 longitude: 4.399708
 score: 0.66
 title: Antwerp
 type: location
-loc_type: city
-image: antwerp.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Amberes;_vistas_MAS_2.jpg
 ---
 
-Antwerp is one of the Belgium cities where you can fancy yourself the King of Belgium over a glass of *Koninck* beer (or one of the other 400 brands) with a view on the old guildhouses on the Grote Markt. Belgium's second city, and the biggest one of Flanders, is also a receptacle of monuments, museums and churches. Besides this, the city of Rubens, is the world’s centre for diamond processing as well as Belgium’s primary seaport.
+Antwerp is the place where you can sit on the [Grote Markt](/europe/belgium/antwerp/grotemarkt) with a Bolleke glass of De Koninck beer in front of the old guildhouses and feel for a moment like a wealthy sixteenth-century merchant. Belgium's second city, and the biggest in Flanders, is a working harbour, a centre of the global diamond trade, the home town of Pieter Paul Rubens, and — quietly, since the 1980s — one of the most important cities in international fashion. It is also a city with a slight inferiority complex about Brussels and Bruges, and a sharper edge than either.
 
+The heart of the city beats at the Grote Markt, an irregular square surrounded by stepped-gable guild houses and dominated by the Stadhuis and the Brabo Fountain. The [Cathedral of Our Lady](/europe/belgium/antwerp/cathedral_of_our_lady), one block south, holds four Rubens masterpieces including the *Descent from the Cross*; its 123-metre tower is the highest in the Low Countries. [Rubenshuis](/europe/belgium/antwerp/rubenshuis) on Wapper is the painter's own Italianate palace, restored as a museum.
 
- 
- The heart of the city on the Scheldt beats at the 'Grote Markt', an irregularly-shaped square, surrounded by decorative guild housedating from the 16th and 17th century. This square is home to the statue of Brabo. According to a 16th century legend, his action of 'handwerpen' (Dutch for 'flinging your hand') led to the city's name. Silvius Brabo is said to have flung the hand of Antigonus, a giant who terrorized passing ships. The 15th century City Hall on the square shows a successful blend of the Flemish style and Italian Renaissance characteristics. Southeast of the square, you can see the 'Onze Lieve Vrouwe Cathedral', a beautiful Gothic cathedral which will throw the rest of the square in the shade.
+For the Renaissance city, the [Plantin-Moretus](/europe/belgium/antwerp/plantin_moretus) printing works on Vrijdagmarkt is the unmissable sight — a sixteenth-century workshop preserved intact, UNESCO-listed, with the two oldest surviving printing presses in the world. The [Sint-Pauluskerk](/europe/belgium/antwerp/stpauluskerk) holds three more Rubens paintings and a strange Baroque rocky-Calvary garden. For the modern city, the [MAS museum](/europe/belgium/antwerp/mas) on the docks has a free panoramic roof terrace and tells the harbour story. The [Royal Museum of Fine Arts (KMSKA)](/europe/belgium/antwerp/kmska) in [Het Zuid](/europe/belgium/antwerp/het_zuid) reopened in 2022 with one of Europe's best Flemish collections, and the [Red Star Line Museum](/europe/belgium/antwerp/red_star_line) on the old emigrant docks is one of the most moving museums in Belgium.
 
+The [Diamond District](/europe/belgium/antwerp/diamond_district) — a square mile of streets behind Central Station handling 84% of the world's rough diamond trade — gives the city its unusual social mix of Orthodox Jews and Indian Jain traders. Out beyond Berchem station, the late-nineteenth-century streets of [Zurenborg](/europe/belgium/antwerp/zurenborg), built up between 1894 and 1906, contain the best collection of eclectic and Art Nouveau architecture in Europe; [Cogels-Osylei](/europe/belgium/antwerp/cogelsosylei) is the showpiece.
 
- 
- Antwerp's most famous resident is undoubtedly Pieter Paul Rubens. The painter's, and diplomat's, spirit is present all throughout town. His statue is at the 'Groenplaats' and he was buried at the St Paulus kerk. Many churches are enriched with his paintings. The Rubenshuis, the place where the painter lived and worked, still exudes the grandeur of the height of the Baroque in Antwerp. In the decorative restored Rockoxhuis, Rubens has a substantial presence, together with Jordaens, Matsys and his pupil Van Dyck.
-
-
- 
- The city of Rubens is a paradise for museum lovers. The Fine Arts Museum in the south houses over a thousand works by classical painters, including the Flemish Primitives. In addition, you can enjoy over 1500 more recent works. Naturally, this is where you will find the world's most beautiful and largest collection of the work of Antwerpen's great master Rubens. The Museum of Contemporary Art (MUHKA) has a collection of mainly Belgian art from the nineteen-seventies. These are only a few of the museums you will come across on your walk from the central station to the Grote Markt Mayer van den Bergh Museum is dedicated to fine and applied arts, particularly from the 14th to the 16th century. If you are at the Berchem station, make sure you see the Zurenborg district, known for its unique architectural complexities. Nowhere else in Europe than here will you find such a decorative collection of Art Nouveau and Jugendstil houses. 
-
-
- 
- The city of diamonds has its main museum in the heart of the diamond district, the streets behind the central station. This part of the city is known as the 'Jerusalem of the North', because it has the largest settlement of Orthodox Jews in this part of Europe. Over 70% of the world's cutting and trading in diamonds takes place in Antwerp. 
-
-
- 
- One of the resasons why Antwerp can maintain its world centre position is because of the port's international trade links. A river cruise is definately not to be missed, not only to admire the famous skyline with its antique towers from the water, but also to experience the busy world port from the inside. Those who don't like boats can still enjoy the Scheldt from the unique promenade near the 'Steen'. The Steen is the oldest building within Antwerp and houses the National Maritime Museum with its open-air department exhibiting real ships.
-
-
- 
- So when your eyes are tired and your feet are raw because of all the miles you have walked, sit down again at the Grote Markt and soak in the atmosphere. Prepare yourself for a night out in the sparkling city with its many names and its slight inferiority complex (Brussels and Bruges still get all the attention). May the beers soothe your tiredness and soften your own dialect.
+When your feet give out, settle back at the Grote Markt with another Bolleke, watch the cathedral spire light up at dusk, and start planning where to eat. The city earns the patience.

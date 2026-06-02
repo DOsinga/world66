@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-05-29'
 image: boulder.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Balanced_Rock.jpg
@@ -12,15 +13,8 @@ title: Boulder
 type: location
 ---
 
-Boulder is as beautiful as it is unique. Visitors here are treated to both a sensory and cultural treat. We have 4 very distinct seasons, with a moderate to cold winter. The Boulderites motto is "if you don't like the weather, wait 5 minutes and it'll change". The moral: Always carry a jacket. 
+Boulder sits at the foot of the Rocky Mountains in Colorado, where the flat plains abruptly end and the Flatirons — massive tilted slabs of red sandstone — rise almost vertically from the edge of town. Few American cities have a setting like this: you can be hiking in genuine wilderness within twenty minutes of downtown.
 
-Snug against the dramatic Flatirons of the Rocky Mountains, the view is breathtaking from most anywhere in town. Boulder is one of the few cities to be literally up against the mountains, which helps create the environment. The founding fathers also sought to preserve this beauty by surrounding the city with parks and open space, so the Denver metroplex will never encroach as it has on neighboring towns. 
+The city is home to the University of Colorado and has developed a culture shaped by outdoor sports, academic life, and a counterculture streak going back to the 1960s. [Pearl Street Mall](/northamerica/unitedstates/colorado/boulder/pearl_street_mall), the pedestrian heart of downtown, is one of the most lively street scenes in the American West — street performers, independent shops, good restaurants, and the constant backdrop of the mountains. The [Dushanbe Teahouse](/northamerica/unitedstates/colorado/boulder/dushanbe_teahouse), a gift from Boulder's Tajik sister city decorated with hand-carved ceilings and ceramic panels, is one of the most beautiful small buildings in Colorado.
 
-Downtown Boulder is a mecca for arts and crafts and other cultural activities. Most noticible, and unique, is the Pearl Street Mall, which is a must for any visitor at any time of year. Pearl Street is a protected outdoor walking mall lined with oddball shops, and even odder people. You're almost always find to find a juggler, unicycle rider or magician on the Mall, while being treated to various musical accompanyments. 
-
-A 30 minute drive west up any of the well groomed canyon roads and you'll be treated to some of the most incredible Rocky Mountain views anywhere, and world class resorts like the Eudora Ski Area near
-[Estes Park](/northamerica/unitedstates/colorado/estespark). 
-
-<b>Words of warning to the traveller:</b> Boulder is home to the University of Colorado (widely considered a "Public Ivy League" school) with a student population of 25,000 students. Make hotel and entertainment reservations well ahead of time or you might not be able to stay in town. During home "Big 12" football games, or other times when parents or alumnii are in town, Boulder bulges over and can barely handle the population due to the strict anti-growth laws. Also, don't expect to stay here inexpensively. The cost-of-living is very high in Boulder. Hotels and B&B's charge premium rates, and eating out can get very expensive if you don't visit the same places the students go rather than the tourist targets. A Best Bet is to eat at one of the many bars and restaurants on "The Hill" near campus.
-
-Minor corrections by [Cobras](/world/member/cobras) on 07 November 04
+For the outdoors, [Chautauqua Park](/northamerica/unitedstates/colorado/boulder/chautauqua_park) at the base of the Flatirons is the starting point for dozens of trails ranging from gentle walks to technical rock climbs on the Flatiron faces. The [University of Colorado Museum of Natural History](/northamerica/unitedstates/colorado/boulder/cu_museum_natural_history) on the nearby CU campus is free and worth an hour. Boulder is an expensive town — the University and the outdoor industry have driven up prices considerably — but the setting and the quality of the hiking are unmatched anywhere along the Front Range.

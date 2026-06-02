@@ -7,7 +7,7 @@ story: Built by caliph Abd al-Rahman III in 936 as a statement of Umayyad power,
   so completely that for centuries even its location was forgotten.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Medina Azahara
 type: poi
 ---

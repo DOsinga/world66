@@ -3,19 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-Abbottabad offers several country's most aesthetic travelling possibilities.
+The centre of Abbottabad is walkable in an hour, but most sights — Shimla Hill, the cantonment outskirts, the Ilyasi Mosque — sit a couple of kilometres apart and a vehicle helps.
 
-Tthandiani is the most renowned and a real scenic detination only 2 hours drive from Abbottabad. The alpine scenery, forests, lanscape and climate; everything a perfact mountain picnic spot should have is there at Thandiani. A well-maintained zig-zag road from Abbottabad to Thandiani entertains travellers throughout the way. Thandiani is also the highest place in Abbottabad division. Standing over the Thandiani, if the weather is clear, its a possible view of Nanga Parbat and other high mountains of Northern Areas, Kohistan and Kaghan regions.
+**Auto-rickshaws** are the cheapest local transport, useful for short hops in the city. Negotiate the fare before starting; short rides are 100–200 rupees.
 
-There is a lovely, extremely charming and easy 2 - 3 days trek to Nathia Gali. Although, this trek is considered to be a little dangerous because of wild fauna along the way, but can be done safely by having permission to stay in 2 rest houses on the trek by forest department.
+**Taxis** ply the main routes. For half-day or full-day hires (the standard way to visit Thandiani or the Galyat) expect to pay 3,000–5,000 rupees depending on season and your bargaining. Most hotels and the tourist information office on Jinnah Road will arrange a driver.
 
-Nathia Gali is another great option to visit. Equal of better in beauty of Thandiani, Nathiagali offers a multiple day stay because of its natural aatractions. Well furnished hotels and rest houses provide almost every demand of life as per visitor's requirement. Various public and private transport is also available for any further Get Around in the region.
+For onward travel along the Karakoram Highway — to Naran, Gilgit, or the Galyat — **shared minibuses (Suzuki vans)** depart from Cantt Plaza and the Mansehra Road junction. Tickets are cheap but the vans only leave when full.
 
-Shimla Pahari is the highest place in the Abbottabad city offers allround views throught the region and whole city. It can be an easy walk from the main Abbottabad city.
-
-Ilyasi Mosque is renowned for its round the year natural fresh water. This mosque is also famous for its different architectural design. A very important and delicious charm of Ilyasi Mosque is 'Hot Pakorras'. A few shops offer this fresh hot and perhaps the most tasty 'Pakorras' in Pakistan.
-
-As Abbottabad is the most advanced and modren city on the Karakoram Highway, there can be many accessible destinations throughout the Upper Punjab, NWFP, AJ&K and Northern Areas of Pakistan. Also, there can be many trekking possibilities in the areas for those who are fit and love mountain walks.
-
-**Contributors**
-April 18, 2006
+Within the cantonment, walking is pleasant in good weather. Beyond the centre, the streets become steeper and less consistent in surface.

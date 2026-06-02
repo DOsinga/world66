@@ -4,6 +4,7 @@ longitude: -25.6692
 snippet: "Late-15th-century parish church with Manueline carved doorway"
 tags:
 - things_to_do
+- sight
 - landmark
 title: Igreja Matriz de São Sebastião
 type: poi

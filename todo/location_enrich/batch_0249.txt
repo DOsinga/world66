@@ -1,5 +1,0 @@
-northamerica/unitedstates/maryland/annapolis
-northamerica/unitedstates/california/saratoga
-northamerica/mexico/puertovallarta
-northamerica/mexico/cancun
-africa/morocco/tangier

@@ -1,22 +1,11 @@
 ---
-title: "Day Trips in Peshawar"
+title: "Day Trips"
 type: section
+linked_locations:
+  - asia/pakistan/khyberpass
+  - asia/pakistan/taxila
+  - asia/pakistan/darraadamkhel
+  - asia/pakistan/mardan
 ---
 
-Of the many places a traveler could venture for **Peshawar day trips**, Mardan is a relatively nearby destination that offers travelers a good time.
-
-** Travel**
-
-Mardan is just over 60 kilometers northeast of the larger city of Peshawar. Good roads and transport options run through Mardan, as it is on the way for people traveling between Peshawar and the twin cities of Islamabad and Rawalpindi. Buses and private cars are the most common means of transport between these cities, and the distance can be traveled in under 1 hour if the roadways are clear of major traffic. Because of the large urban population in the region, traffic can be an issue and it is recommended to consult local sources on the actual expected travel time before departing.
-
-** Historical Sites**
-
-The recorded history of the city of Mardan dates back over 2,200 years, although evidence has been found of human inhabitants in the area dating back tens of thousands of years. The city is known for its great historical value and has been the site of many archeological digs and finds. Various ancient ruins are scattered in and around the city and are available for viewing by tourists. Tours are offered to travelers and can be a great way to see many interesting sites in one day.
-
-** Mardan Museum**
-
-The Mardan Museum houses hundreds of ancient sculptures and artifacts retrieved in nearby archeological digs in the region. The work of smugglers has greatly diminished the number of items locals claim should be on display at the museum. The museum is currently housed in the town hall which has been a temporary location since its opening in 1991. Plans for a formal, dedicated building have seen numerous setbacks since then but are said to be progressing in 2010.
-
-** Festivals**
-
-Two main annual celebrations are known as the two Eids, or the two main Muslim festivals. The first, Eid al-Fitr, is the smaller of the two festivals and is held in September to celebrate the end of Ramadan. The second and larger festival, Eid al-Adha, or "Festival of Sacrifice" is held in November and commemorate the willingness of Abraham (Ibrahim) to sacrifice his son in obedience to God (Allah). In addition to these days-long festivals, there is also a smaller weekly fair held where goods such as food and livestock are bought and sold.
+Peshawar is the natural base for several of the most historically significant sites in the region. The **Khyber Pass** — 20 km from the city — requires a permit and an armed escort arranged through the Khyber Rifles; the trip into the pass is a genuine frontier experience. **Taxila**, an hour's drive east, is one of the great archaeological sites of the ancient world: a UNESCO World Heritage site preserving the ruins of a city that was in turn Achaemenid, Greek, and Buddhist. **Darra Adam Khel**, the famous arms bazaar where the Pashtun frontier gunsmiths copy any weapon on request, is 40 km south — visit with a local guide. **Mardan**, northeast of Peshawar, gives access to more Gandharan Buddhist ruins at the Takht-i-Bahi monastery.

@@ -5,10 +5,18 @@ latitude: 36.631099
 longitude: -4.56749
 score: 0.43
 loc_type: city
+done:
+  location_enrich: '2026-06-01'
+sources:
+  - https://en.wikipedia.org/wiki/Benalm%C3%A1dena
+  - https://en.wikipedia.org/wiki/Benalm%C3%A1dena_Stupa
+  - https://en.wikipedia.org/wiki/Castillo_de_Colomares
 ---
 
-Arroyo de la Miel is a lively town on the Costa del Sol, technically part of the municipality of Benalmadena but with its own distinct character. Where the coastal strip of Benalmadena Costa is all tourist apartments and beach bars, Arroyo de la Miel feels more like a real Spanish town — locals outnumber visitors, the tapas bars fill up after nine in the evening, and the weekly market on Fridays is worth a visit.
+Arroyo de la Miel is the working heart of Benalmádena municipality — a real Spanish town sitting at the foot of the Sierra de Mijas, just inland from the holiday apartments and beach bars of the coast. Locals outnumber tourists, the tapas bars fill up after nine in the evening, and the Friday market on Avenida de la Constitución draws people from across the surrounding area.
 
-The town sits at the foot of the hills, just inland from the coast, and the Tivoli World amusement park and the Benalmadena cable car are both here. The cable car rises to the top of Monte Calamorro, where on a clear day you can see across to the Rif Mountains of Morocco. The old centre around Plaza de la Iglesia has some good restaurants and a relaxed atmosphere that the beachfront developments lack.
+The town's name means "Honey Stream" in Spanish, a reference to the small arroyo that once ran through the valley. Today it is best known as the departure point for the Benalmádena cable car, which hauls passengers 8,000 metres up to the summit of Monte Calamorro at 771 metres above sea level. On a clear day the view stretches across the Strait of Gibraltar to the Rif Mountains of Morocco. At the base of the cable car, Tivoli World is one of the oldest amusement parks in Spain, a fixture on the Costa del Sol since the 1970s.
 
-Arroyo de la Miel has its own Cercanias train station on the Malaga-Fuengirola line, making it easy to reach [Malaga](/europe/spain/andalucia/mlaga) in about 25 minutes without dealing with traffic or parking. It is a practical base if you want to explore the Costa del Sol without staying in one of the big resort hotels.
+The old centre around Plaza de la Iglesia is quiet and pleasant — a few good restaurants, a 17th-century church, and the kind of shaded square where you can drink coffee without being handed an English menu. Down the hill toward Benalmádena Pueblo, the remarkable Stupa of Enlightenment rises above the hillside, the largest Buddhist stupa in the Western world, built with the blessing of the Dalai Lama and consecrated in 2003.
+
+Arroyo de la Miel has its own Cercanías station on the Málaga–Fuengirola line. [Málaga](/europe/spain/andalucia/mlaga) is 25 minutes away, and the airport 15 minutes. It makes a practical base for exploring the Costa del Sol without committing to one of the big resort hotels on the seafront.

@@ -8,8 +8,8 @@ phone: 773-281-2001
 snippet: Chicago-style hot dogs under the Fullerton L stop, walls covered in band
   memorabilia
 tags:
-- things_to_do
-- eat
+- eating_out
+- restaurant
 title: Demon Dogs
 type: poi
 ---

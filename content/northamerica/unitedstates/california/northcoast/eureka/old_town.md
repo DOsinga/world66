@@ -1,8 +1,9 @@
 ---
-latitude: 40.8021
-longitude: -124.1637
+latitude: 40.8037
+longitude: -124.1664
 tags:
 - things_to_do
+- neighbourhood
 title: Old Town
 type: neighbourhood
 ---

@@ -4,7 +4,7 @@ longitude: 52.5416
 snippet: 18th-century mosque with 48 twisted stone columns
 tags:
 - things_to_do
-- landmark
+- sight
 title: Masjed-e Vakil
 type: poi
 ---

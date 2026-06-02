@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
+  location_enrich: '2026-05-28'
   poi_cleanup: '2026-04-19'
 image: kenmare.jpg
 image_license: CC BY-SA 4.0

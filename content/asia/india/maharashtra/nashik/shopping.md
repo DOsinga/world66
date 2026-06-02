@@ -1,24 +1,8 @@
 ---
-email: sales@flowerstogurgaon.com
-latitude: 10.673995
-longitude: 76.186901
 title: Shopping
-type: poi
-url: www.flowerstogurgaon.com
+type: section
 ---
 
-Send Flower India Send Flowers to India Florists Gift Flowers in India
+Nashik's main shopping is centred on the old city near the Panchavati quarter and Mahatma Gandhi Road. The city is well known for grapes and wine — you can buy wine directly at Sula Vineyards and several other wineries west of town, often at better prices than you would find in Mumbai. The Sarafdars Bazaar near the old town is the place for traditional silver jewellery and religious items.
 
-### [Send Flower](/asia/india/maharashtra/nashik/shopping/send_flower)
-
-Send Flower
-
-type: Shopping centers and malls
-
-
-
-[[rate it]](/asia/india/maharashtra/nashik/shopping/send_flower)
-
-url: [www.flowerstogurgaon.com](http://www.flowerstogurgaon.com/)
-
-email: sales@flowerstogurgaon.com
+Nashik is also a centre for the production of silver padukas (holy footwear for temples) and bronze ritual objects, which make distinctive and compact souvenirs. The market streets around the Ram Kund ghats have a good selection of devotional goods alongside the usual range of fruit and vegetables.

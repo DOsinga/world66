@@ -1,17 +1,19 @@
 ---
 city_tier: 3
-done:
-  city_tag_migration: '2026-04-17'
-  location_cleanup: 2026-04-05
-  location_enrich: '2026-05-02'
-  poi_cleanup: '2026-04-20'
+done: true
 image: amersfoort.jpg
 image_attribution: acediscovery
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
 latitude: 52.16377
 longitude: 5.408885
+loc_type: city
 score: 0.51
+sources:
+  - https://en.wikipedia.org/wiki/Amersfoort
+  - https://en.wikipedia.org/wiki/Koppelpoort
+  - https://en.wikipedia.org/wiki/Mondriaan_House
+  - https://en.wikipedia.org/wiki/Museum_Flehite
 tags:
 - history
 - medieval
@@ -19,7 +21,6 @@ tags:
 - day_trip
 title: Amersfoort
 type: location
-loc_type: city
 ---
 
 Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.

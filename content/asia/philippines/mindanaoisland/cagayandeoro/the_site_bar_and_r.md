@@ -2,7 +2,7 @@
 title: "The Site Bar and Restaurant"
 type: poi
 tags:
-  - things_to_do
+  - eating_out
   - restaurant
 snippet: "Popular bar and restaurant on Rosario Strip"
 address: "Rosario Strip, Limketkai Drive, Cagayan de Oro City"

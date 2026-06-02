@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
+image: mandamados.jpg
+image_attribution: Aleksei m
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Agios_Taxiarchis_Monastery.jpg
 latitude: 39.310716
 loc_type: city
 longitude: 26.336002
 score: 0.5
 title: Mandamados
 type: location
-image: mandamados.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Agios_Taxiarchis_Monastery.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Aleksei m
 ---
 
 Mandamados is a small village in the northeastern part of [Lesbos](/europe/greece/lesbos), about 35 km from Mytilini. It sits in hilly country inland from the north coast, surrounded by olive groves and pine forest, and has two things that draw visitors from all over the island: its pottery and its monastery.

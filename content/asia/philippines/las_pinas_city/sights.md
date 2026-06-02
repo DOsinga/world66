@@ -1,10 +1,9 @@
 ---
-title: "Sights"
+title: Sights in Las Piñas City
 type: section
+tags: [things_to_do, sight]
 ---
 
-MMD Global Manpower Services Co.
+Las Piñas's principal historic sights are concentrated in the older parts of the city near the town centre. The [Saint Joseph's Church](st_joseph_church) and its [Bamboo Organ](bamboo_organ) are the headline attractions — they are in fact the same complex, a designated National Cultural Treasure.
 
-We currently have no Sights listed in Las Pinas City.
-
-If you do know any Sights in Las Pinas City, please [Add].
+The [Zapote Bridge](zapote_bridge), at the Las Piñas–Bacoor boundary, is a colonial-era stone bridge associated with the Philippine Revolution. On the coast, the [Las Piñas–Parañaque Wetland Park](lppchea) is a protected natural area on Manila Bay — one of the very few remaining coastal wetlands in the National Capital Region.

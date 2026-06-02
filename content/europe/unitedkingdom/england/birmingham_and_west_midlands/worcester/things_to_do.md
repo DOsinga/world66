@@ -1,13 +1,6 @@
 ---
-title: "Things to do in Worcester"
+title: "Things to Do"
 type: section
 ---
 
-Visit the Royal Worcester Factory - known by collectors eveywhere as a source of fine porcelain. Tours are £5 for adults. The webside may be partly under review but sufficient detail for visiting is available. It involves numerous steps and hence is not suitable for the disadvantaged - nor are children under 11 allowed on the tour.
-
-Visits to the museum cost £3 for adults. The factory is the oldest in England still open for production.
-
-http://www.royal-worcester.co.uk/docs/home.htm
-
-**Contributors**
-December 06, 2004
+Worcester rewards a slow walk. The Cathedral, the Commandery, and the porcelain museum are the obvious anchors, but the city reveals more detail as you wander the medieval street grid — a timber-framed merchant's house here, a Georgian assembly room there, a view of the Severn between every gap in the riverfront buildings.

@@ -1,14 +1,10 @@
 ---
-title: "Day Trips in Groningen"
+title: Day trips
 type: section
+tags:
+- day_trips
 ---
 
-Groningen is the capital city of Groningen Province in the Netherlands. **Groningen** **Day Trips** are an excellent way to see the surrounding areas of the city. Here are some Groningen Day Trips to consider.
+The countryside around Groningen rewards a slow afternoon. Within an hour by car or bike you can see mound villages, Romanesque churches, and the long flat expanse of the Wadden coast.
 
-**Warffum**
-
-The village of Warffum is 20 minutes for Groningen. A &ldquo;mound village&rdquo;, Warffum was constructed to be above flood levels. Everything in the village is constructed above the line, including livestock pens. Just outside the village is a medieval fair that is open during the weekends from 10 am to 5 pm. This village is one of the most historic villages in the Netherlands. Warffum is connected to Groningen by train. It is easily accessible by car as well.
-
-**Uithuizen**
-
-Uithulizen is another mound village near Groningen and is famous for one particular architectural gem. The village&rsquo;s church dates
+**Bourtange** is a perfectly restored star-shaped fortress town near the German border, an hour southeast. **Uithuizen** has the 14th-century Menkemaborg, a fairy-tale moated manor open as a museum. **Pieterburen** is the home of a seal sanctuary on the Wadden coast — and the starting point for guided walks across the mudflats at low tide, a uniquely Dutch experience. To the northwest, **Lauwersoog** is the ferry port to Schiermonnikoog, the smallest and quietest of the Wadden islands.

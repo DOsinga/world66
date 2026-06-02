@@ -1,5 +1,0 @@
-asia/thailand/songkhla
-northamerica/canada/manitoba/winnipeg
-europe/france/around_paris/beauvais
-africa/niger/koure
-europe/hungary/koszeg

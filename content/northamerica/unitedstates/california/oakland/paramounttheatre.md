@@ -8,8 +8,10 @@ phone: 510-465-6400
 snippet: Restored 1931 Art Deco movie palace with Wurlitzer organ
 tags:
 - things_to_do
+- uptown
 - architecture
 title: Paramount Theatre
+neighbourhood: Uptown
 type: poi
 ---
 

@@ -1,5 +1,0 @@
-europe/italy/lazio/rome
-northamerica/canada/ontario/fort_erie
-europe/italy/molise/isernia
-europe/belgium/sintniklaas
-southamerica/peru/huancabamba

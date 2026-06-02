@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-01'
 image: forte_dei_marmi.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Forte_dei_Marmi.jpg
@@ -8,6 +9,9 @@ latitude: 43.959589
 loc_type: city
 longitude: 10.169939
 score: 0.62
+sources:
+  - https://en.wikipedia.org/wiki/Forte_dei_Marmi
+  - https://en.wikipedia.org/wiki/Pietrasanta
 title: Forte dei Marmi
 type: location
 ---

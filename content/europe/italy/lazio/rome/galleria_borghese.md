@@ -1,6 +1,9 @@
 ---
 address: Piazzale Scipione Borghese 5, 00197 Rome
 admission: €15 plus €2 booking fee; booking essential
+image: borghese_gallery.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Galleria_borghese_facade.jpg
 latitude: 41.9138
 longitude: 12.4921
 opening_hours: Tue–Sun 09:00–19:00; closed Mon

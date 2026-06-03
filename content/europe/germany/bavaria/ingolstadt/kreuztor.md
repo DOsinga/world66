@@ -2,8 +2,8 @@
 title: Kreuztor
 type: poi
 tags: [things_to_do, sight, architecture]
-latitude: 48.7630
-longitude: 11.4230
+latitude: 48.7642
+longitude: 11.4179
 story: >
   The Kreuztor was built around 1385 as part of the medieval city fortifications that once enclosed all of Ingolstadt. It is one of the best-preserved late-medieval city gates in Bavaria, built from brick in the characteristic stepped-gable style of the period. The gate survived because it was converted to other uses after its military purpose ended — at various points it served as a prison, a granary, and a storage facility.
 ---

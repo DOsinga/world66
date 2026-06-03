@@ -2,8 +2,8 @@
 title: Royal Palace (Dvorac)
 type: poi
 tags: [things_to_do, museum, sight]
-latitude: 42.3906
-longitude: 18.9260
+latitude: 42.3875
+longitude: 18.9244
 story: >
   King Nikola I built this palace in 1867 and it served as the official royal residence until Montenegro was absorbed into the Kingdom of Serbs, Croats and Slovenes in 1918. The building is unusually modest for a royal palace — barely larger than a prosperous merchant's house in Vienna or Paris. King Nikola was known to visitors as the "peasant king" and the simplicity of his palace was frequently remarked upon by European diplomats accustomed to Versailles-scale grandeur.
 ---

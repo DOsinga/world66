@@ -2,8 +2,8 @@
 title: Stadttheater Ingolstadt
 type: poi
 tags: [things_to_do, sight]
-latitude: 48.7640
-longitude: 11.4250
+latitude: 48.7631
+longitude: 11.4289
 story: >
   The Stadttheater is most famous in German theatrical history as the place where Rainer Werner Fassbinder worked as a director in the late 1960s, staging radical productions that helped launch his career before he moved to film. Several of his early stage works premiered here, and the theatre's willingness to produce politically charged work was part of what drew him to Ingolstadt.
 ---

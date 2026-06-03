@@ -2,8 +2,8 @@
 title: National Museum of Montenegro
 type: poi
 tags: [things_to_do, museum]
-latitude: 42.3906
-longitude: 18.9255
+latitude: 42.3893
+longitude: 18.9229
 story: >
   The King Nikola Palace contains the monarch's personal collection of gifts from European royalty — an odd inventory that includes a billiard table from the Tsar, weapons from various heads of state, and a collection of family portraits. King Nikola had five daughters who married into European royal families, which made him, briefly, the grandfather-in-law of most of the crowned heads of Europe. He called himself the "father-in-law of Europe."
 ---

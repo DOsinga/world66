@@ -2,8 +2,8 @@
 title: Cetinje Monastery
 type: poi
 tags: [things_to_do, sight]
-latitude: 42.3904
-longitude: 18.9219
+latitude: 42.3877
+longitude: 18.9214
 story: >
   The monastery claims to hold the right hand of John the Baptist — one of the most significant relics in Orthodox Christianity. The relic's provenance is contested by scholars, but its presence has made Cetinje a pilgrimage destination for centuries. The relic was taken to Russia for safekeeping during the 20th century and returned to Montenegro in 1978; it is displayed for veneration during major feast days.
 ---

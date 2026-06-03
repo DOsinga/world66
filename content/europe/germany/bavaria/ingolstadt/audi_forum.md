@@ -2,8 +2,8 @@
 title: Audi Forum Ingolstadt
 type: poi
 tags: [things_to_do, museum]
-latitude: 48.7742
-longitude: 11.4369
+latitude: 48.7826
+longitude: 11.4148
 story: >
   The Audi Forum sits on the site of the original NSU factory, which Audi acquired in 1969. The four rings of the Audi logo represent the merger of the four companies that formed Auto Union in 1932: Audi, DKW, Horch, and Wanderer. The museum traces this complicated corporate history through nearly a century of German automotive engineering, from brass-era tourers to Formula 1 racing cars.
 ---

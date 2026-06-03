@@ -1,5 +1,0 @@
-northamerica/unitedstates/northdakota/williston
-africa/malawi/chintheche
-asia/philippines/makati
-europe/albania/gjirokaster
-northamerica/unitedstates/texas/amarillo

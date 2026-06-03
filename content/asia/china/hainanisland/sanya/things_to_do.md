@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-Sanya's main attractions divide between beach activities and a handful of inland and island sites. The beaches at Yalong Bay (resort-lined, 35 km from the airport), Dadonghai (2 km from downtown, busy and local in feel), and Sanya Bay (the longest stretch, more accessible) each have a different character. Wuzhizhou Island, 2.7 km offshore, is the place for diving and water sports. Further inland, Nanwan Monkey Island — reached by cable car — has over 2,500 macaques living on a forested headland. The Binlang Ethnic Village gives some insight into Li minority life, though visitors should expect a degree of touristification.
+Sanya's attractions divide between the beaches (Yalong, Dadonghai, Sanya Bay, Haitang Bay), the cultural-scenic complexes along the coast west of the city (Nanshan Temple, Tianya Haijiao), and a handful of inland and offshore destinations (Wuzhizhou Island, Luhuitou Park, the Tropical Botanical Garden).
+
+If your time is short: half a day at Yalong Bay or Dadonghai, half a day on the western coastal loop (Nanshan and Tianya Haijiao together), and a day trip to Wuzhizhou Island covers the essentials. Luhuitou Park is worth the climb at sunset for the panorama. The Sanya International Duty Free Mall in Haitang Bay is a tourist attraction in its own right whether you intend to buy anything or not.

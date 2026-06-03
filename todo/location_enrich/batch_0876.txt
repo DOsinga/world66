@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/paso_robels
-europe/italy/umbria/magione
-northamerica/nicaragua/boaco
-northamerica/unitedstates/oklahoma/hugo
-asia/pakistan/kamra

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: 36.3131
 longitude: 74.6684
 title: Ganish

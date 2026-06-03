@@ -2,8 +2,8 @@
 title: "Le Hameau (The Hamlet)"
 type: poi
 address: "Domaine de Chantilly, 60500 Chantilly"
-latitude: 49.1925
-longitude: 2.4828
+latitude: 49.1940
+longitude: 2.4940
 snippet: "Eighteenth-century rustic retreat that inspired Marie Antoinette's"
 tags:
 - things_to_do

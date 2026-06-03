@@ -4,8 +4,8 @@ type: poi
 address: "Hippodrome de Chantilly, 60500 Chantilly"
 url: "www.france-galop.com"
 opening_hours: "First Sunday of June"
-latitude: 49.1975
-longitude: 2.4792
+latitude: 49.1917
+longitude: 2.4750
 snippet: "The French Derby — Chantilly's biggest racing day of the year"
 tags:
 - things_to_do

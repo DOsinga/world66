@@ -1,33 +1,26 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-19'
 image: prague.jpg
 image_attribution: Jakub Hałun
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:20190816_View_of_Prague_from_Old_Castle_Stairs_1646_5385.jpg
 latitude: 50.087465
+loc_type: city
 longitude: 14.421254
 score: 0.78
 title: Prague
 type: location
-loc_type: city
 ---
 
-We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the pretty Vltava (Moldau) River this capital city of 1 216 000 is unique among Eastern European capitals: It survived World War II nearly intact. As a result it has beautiful architecture ranging from Romanesque and Gothic to Renaissance and baroque. For younger travelers Prague is very much the place to be in Europe and many foreigners have moved in attracted by the city’s beauty and commercial opportunities. 
+We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the Vltava (Moldau) River, this capital of 1.3 million is unique among Central European cities: it survived World War II nearly intact. As a result it has beautiful architecture spanning Romanesque, Gothic, Renaissance, baroque, Art Nouveau, and modernist periods — all within walking distance of each other.
 
-Most of the city’s attractions are in the center known as Stare Mesto or Old Town and can easily be seen on foot. There is also a trolley service and a clean efficient subway. 
+Most of the city’s main attractions cluster in the centre. [Prague Castle](/europe/czechrepublic/prague/prague_castle) on the [Hradčany](/europe/czechrepublic/prague/hradcany) hill is the obvious starting point — the world’s largest coherent castle complex, containing [St Vitus Cathedral](/europe/czechrepublic/prague/st_vitus_cathedral) and [Golden Lane](/europe/czechrepublic/prague/golden_lane). Crossing the [Charles Bridge](/europe/czechrepublic/prague/charles_bridge) on foot brings you down into [Malá Strana](/europe/czechrepublic/prague/mala_strana), the baroque Lesser Town, with the [Church of St Nicholas](/europe/czechrepublic/prague/church_of_st_nicholas) and the [Lennon Wall](/europe/czechrepublic/prague/lennon_wall). From there the bridge leads to [Staré Město](/europe/czechrepublic/prague/stare_mesto), the Old Town, where the [Old Town Square](/europe/czechrepublic/prague/old_town_square) and its [Astronomical Clock](/europe/czechrepublic/prague/astronomical_clock) draw the crowds.
 
-East of the Old Town Square is the glittering art-nouveau Obecni Dum or Municipal House Prague’s most ornate building. Its exterior has been likened to a Victorian Easter egg and the cafe and restaurant flanking the main entrance are among the highlights of the city with art-nouveau flourishes down to the doorknobs. The Dum also houses Smetana Hall the city’s largest concert space (although beautiful to look at the acoustics are not outstanding). 
+The Art Nouveau [Municipal House](/europe/czechrepublic/prague/municipal_house) on náměstí Republiky is Prague’s most ornate building; independent Czechoslovakia was proclaimed from its Smetana Hall in 1918. The adjacent [Estates Theatre](/europe/czechrepublic/prague/estates_theatre), where Mozart himself conducted the premiere of Don Giovanni in 1787, is the finest 18th-century opera house in Central Europe. The [Jewish Quarter](/europe/czechrepublic/prague/josefov) (Josefov) contains six historic synagogues, the [Old Jewish Cemetery](/europe/czechrepublic/prague/josefov_old_cemetery), and the haunting [Pinkas Synagogue](/europe/czechrepublic/prague/pinkas_synagogue) memorial.
 
-Some of the best shopping in the Old Town is on Celetna Ulice—where you’ll also see the House of the Black Madonna the country’s best example of Cubist architecture.
+The centre of modern Prague is [Wenceslas Square](/europe/czechrepublic/prague/wenceslas_square), site of the 1989 Velvet Revolution. The [National Museum](/europe/czechrepublic/prague/national_museum) dominates its upper end; the [Lucerna Palace](/europe/czechrepublic/prague/lucerna_palace) arcade below it — designed by President Havel’s grandfather — is a perfect antidote to polished tourist Prague. East of the Old Town, the [Mucha Museum](/europe/czechrepublic/prague/mucha_museum) dedicates itself to the great Art Nouveau illustrator; a longer trip to [Veletržní Palace](/europe/czechrepublic/prague/veletrzni_palace) in [Holešovice](/europe/czechrepublic/prague/holešovice) rewards those who want the full Mucha Slav Epic cycle.
 
-The center of modern Prague can be found at Wenceslas Square which was the site of the demonstrations that led to the overthrow of the Communists. A number of fast-food restaurants have found their way onto the square but we prefer the wonderfully threadbare cafe in the art-nouveau Hotel Europa. The square has some decent shopping although a better selection of crafts and glass can be found in Old Town. At the top of the square is the disappointing but architecturally interesting National Museum.
-
-If you’re shopping in the vicinity of the square be sure to check out the Lucerna Passage the elegant pedestrian complex with theaters and cafes that runs beneath the Lucerna Palace. It was designed by president Vaclav Havel’s grandfather and is still owned by the president and his sister.
-
-Prague has dozens of other sights including the Mozart Museum (it’s in the villa where he wrote Don Giovanni—not a great collection of material but interesting nonetheless) the Museum of the City of Prague (which has a miniature model of the city circa 1827) and many branches of the National Gallery.
-
-The city is a world leader in theater set design—two of the best companies are the Magic Lantern (multimedia productions) and the Ta Fantastika (featuring black-clad actors who move invisibly across the stage). The National Marionette Theater is famous for its ongoing puppet production of Mozart’s Don Giovanni. Prague also has three opera houses (the Estates the National and the Prague State Opera). The city’s most notable classical music festival the Prague Spring Festival is held May-June. Concerts are held around the city throughout the year.
-
-If you have time take the funicular railroad to see the gardens atop Petrin Hill which has a midsized version of the Eiffel Tower. Day trips from Prague can be taken to see Charles IV’s impressive 14th-century Gothic Karlstejn Castle (18 mi/29 km from town) complete with an imperial palace art murals the Church of Our Lady and nearby Koneprusy Caves; Kutna Hora; the bizarre 13th-century Konopiste Castle near Benesov known for its eccentric mix of art weapons and stuffed hunting trophies (this was the home of Archduke Franz Ferdinand—his assassination in July 1914 at Sarajevo began World War I); the 15th-century medieval town of Tabor (with a mysterious 7-mi/11-km maze of underground tunnels built in the 15th and 16th centuries); Cesky Sternberk Castle (stucco decorations coins and weapons); 11th-century Hluboka Castle; Turnov the Czech Republic’s precious-stones center; Terezin a World War II concentration camp and political prison; and Lidice a village singled out for punishment—and burned to the ground—by the Nazis for the assassination of Nazi-installed Czech leader Reinhard Heydrich (today there is a museum on the site where the town stood).
+The hill of [Petřín](/europe/czechrepublic/prague/petrin_hill), reached by funicular from Malá Strana, has gardens, a mini Eiffel Tower, and views. The [Vyšehrad](/europe/czechrepublic/prague/vysehrad_fortress) fortress south of the centre is quieter, with the national cemetery where Dvořák and Smetana lie. Day trips from Prague reach Kutná Hora (a Gothic ossuary and silver-mining town), Karlštejn Castle, and Terezín — a World War II concentration camp turned memorial, 60 km north.

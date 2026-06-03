@@ -7,6 +7,10 @@ title: Pontianak
 type: location
 score: 0.41
 loc_type: city
+image: pontianak.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Equator_Pontianak_Monument.jpg
+image_license: CC BY 2.0
+image_attribution: baka_neko_baka
 ---
 
 Pontianak is the capital of West Kalimantan province on the island of Borneo, sitting almost exactly on the equator. The Tugu Khatulistiwa (Equator Monument) a few kilometres north of the city centre marks the line, and on the equinoxes in March and September you can watch your shadow disappear entirely at noon.

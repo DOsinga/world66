@@ -7,6 +7,10 @@ title: Safi
 type: location
 score: 0.46
 loc_type: city
+image: safi.jpg
+image_source: https://www.flickr.com/photos/110608682@N04/31087469701
+image_license: CC BY-SA 2.0
+image_attribution: hansbirger on Flickr
 ---
 
 Safi is Morocco's pottery capital, a working Atlantic port city where craft and industry sit side by side. The Kechaoua quarter — an entire hillside neighborhood of kilns, workshops, and showrooms — produces the distinctive blue-and-white glazed ceramics sold across Morocco. You can buy directly from the potters here at prices well below what you'd pay in Marrakech or Fez.

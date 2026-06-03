@@ -2,8 +2,8 @@
 title: "Borgia Apartments"
 type: poi
 address: Vatican Museums, Vatican City
-latitude: 41.9035
-longitude: 12.4538
+latitude: 41.9033
+longitude: 12.4550
 snippet: "Six rooms frescoed by Pinturicchio for Pope Alexander VI"
 tags:
 - things_to_do

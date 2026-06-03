@@ -2,8 +2,8 @@
 title: "Bernini's Baldachin"
 type: poi
 address: St. Peter's Basilica, Vatican City
-latitude: 41.9020
-longitude: 12.4537
+latitude: 41.9022
+longitude: 12.4533
 snippet: "Bernini's spiralling bronze canopy over the papal altar"
 tags:
 - things_to_do

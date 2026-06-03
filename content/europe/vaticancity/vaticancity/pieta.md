@@ -3,7 +3,7 @@ title: "Michelangelo's Pietà"
 type: poi
 address: St. Peter's Basilica, Vatican City
 latitude: 41.9022
-longitude: 12.4540
+longitude: 12.4533
 snippet: "Michelangelo's marble masterpiece, sculpted when he was 24"
 tags:
 - things_to_do

@@ -1,5 +1,0 @@
-europe/italy/tuscany/orbetello
-asia/pakistan/gujranwala
-europe/netherlands/rotterdam
-northamerica/unitedstates/kansas/larned
-europe/germany/lowersaxony/goettingen

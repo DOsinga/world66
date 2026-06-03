@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-12'
+  location_enrich: '2026-06-03'
 latitude: 55.489834
 longitude: -5.094937
 title: Whiting Bay

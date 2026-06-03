@@ -7,6 +7,8 @@ snippet: Elephant orphanage with daily public feeding sessions
 tags:
 - things_to_do
 - day_trips
+- langata
+neighbourhood: Langata
 title: David Sheldrick Wildlife Trust
 type: poi
 ---

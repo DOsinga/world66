@@ -3,4 +3,8 @@ title: "Things to Do"
 type: section
 ---
 
-The Al-Baleed Archaeological Park on the edge of the city is Salalah's most significant sight — a UNESCO World Heritage Site preserving the ruins of a medieval port city that was a major centre of the frankincense trade. The Museum of the Frankincense Land inside the park covers Dhofar's history from prehistory through the incense trade era. Further afield, the tomb of the Prophet Job (Nabi Ayub) sits on a hillside west of town and offers panoramic views of the city and mountains. During the khareef season, Wadi Darbat east of the city fills with waterfalls and is surrounded by lush greenery.
+Salalah's headline sight is the [Al-Baleed Archaeological Park](/asia/oman/salalah/al_baleed_park) — a UNESCO World Heritage Site on the eastern edge of the city where a medieval frankincense-trade metropolis lies excavated and accessible, with the excellent Museum of the Frankincense Land alongside it. In town, [Haffa Souq](/asia/oman/salalah/haffa_souq) is the place to buy genuine Dhofari frankincense, and the [Salalah Museum](/asia/oman/salalah/salalah_museum) in the Cultural Center covers the region's history.
+
+West of the city, the [Tomb of the Prophet Job (Nabi Ayub)](/asia/oman/salalah/tomb_of_job) sits on a hillside with panoramic views, and [Mughsail Beach](/asia/oman/salalah/mughsail_beach) (35 km) has natural limestone blowholes as well as a long, deserted bay. Heading east, [Taqah Fort](/asia/oman/salalah/taqah_fort) is the gateway to [Wadi Darbat](/asia/oman/salalah/wadi_darbat), which fills with waterfalls and greenery during the khareef monsoon. Further east, the fishing town of [Mirbat](/asia/oman/salalah/mirbat) has old merchant architecture and the site of the famous 1972 battle.
+
+In the Qara mountains north of the city, [Ain Razat springs](/asia/oman/salalah/ain_razat) are particularly good for birdwatching during and after the monsoon.

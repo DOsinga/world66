@@ -5,6 +5,7 @@ latitude: 5.3924
 longitude: -4.052
 snippet: Tropical rainforest reserve on the edge of the city
 tags:
+- things_to_do
 - nature
 - park
 title: Banco Park

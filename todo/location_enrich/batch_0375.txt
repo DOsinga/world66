@@ -1,5 +1,0 @@
-northamerica/unitedstates/indiana/franklin
-southamerica/colombia/neiva
-europe/ireland/carrigaline
-europe/italy/calabria/cosenza
-europe/france/midi/provence/les_beaux_de_prove

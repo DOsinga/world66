@@ -9,6 +9,7 @@ snippet: Quirky bar with an oxygen counter at Soho Square
 tags:
 - bars_and_cafes
 - bar
+- soho_square
 title: Oxygen Bar at Soho Square
 type: poi
 url: soho-sharm.com

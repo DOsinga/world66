@@ -1,31 +1,8 @@
 ---
-title: "Books in Oberammergau"
+title: "Books"
 type: section
-author: "Counsell, Michael"
-isbn: "1853118915"
 ---
 
-Book Reviews
+For Oberammergau itself, the literature is mostly about the Passion Play. **James Shapiro's *Oberammergau: The Troubling Story of the World's Most Famous Passion Play*** (2000) is the essential one — a Columbia scholar's investigation of how the village navigated the play's centuries-long association with antisemitism and rewrote the script for the modern era. It is sympathetic to the villagers without flinching from the hard questions.
 
-**Contributors**
-December 04, 2009
-
-### [Every Pilgrim's Guide To Oberammergau And Its Passion Play](/europe/germany/bavaria/oberammergau/books/every_pilgrims_gu)
-
-**A Christian Guide to Oberammergau **
-
-The Every Pilgrim's Guide To Oberammergau And Its Passion Play is a paperback guide to the world famous Passion of the Christ play of Oberammergau.
-This 160 page book focuses mainly on the Passion play, providing plenty
-of details for every scene. It's written
-specially for Roman Catholic readers, so readers of other religions might
-not agree with the content and or be turned off by the long list of
-quotes from the Bible. Given the graphic nature of the events
-of the Passion of the Christ play, the content might not be [more..](/europe/germany/bavaria/oberammergau/books/every_pilgrims_gu)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1853118915/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: Counsell, Michael
-
-isbn: 1853118915
+For Bavarian context, **Karl Stankiewitz's *Hexen, Wallfahrten, Räuber: Bayerische Sagen*** offers folk tales from across the region; in English, **Greg Steinmetz's *The Richest Man Who Ever Lived*** on the Fugger banking dynasty captures the late-medieval Bavaria that shaped both Augsburg and the Alpine valleys. For something narrower, the village tourist office sells **Otto Huber's *Passion Play Oberammergau***, the official illustrated companion produced for each ten-year cycle, with photographs of the productions back through the 20th century.

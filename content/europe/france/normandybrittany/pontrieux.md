@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 image: pontrieux.jpg
 image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:France_Cotes_d_Armor_Pontrieux_Port_02.jpg

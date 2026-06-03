@@ -10,6 +10,10 @@ longitude: 2.463669
 score: 0.51
 title: Chantilly
 type: location
+image: chantilly.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Chantilly_1.jpg
+image_license: CC0
+image_attribution: Jebulon
 ---
 
 Forty kilometres north of [Paris](/europe/france/paris), Chantilly is one of the most complete aristocratic estates in France — a [château](/europe/france/nord/chantilly/chateau_de_chantilly), a [park](/europe/france/nord/chantilly/parc_de_chantilly) laid out by Le Nôtre, a racing stable built to house two hundred horses, and a [forest](/europe/france/nord/chantilly/foret_de_chantilly) that still stretches for thousands of acres around it. The whole domain was left to the Institut de France in 1884 by the Duke of Aumale, and has changed remarkably little since.

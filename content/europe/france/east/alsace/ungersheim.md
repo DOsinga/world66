@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: 47.877551
 longitude: 7.306572
 title: Ungersheim

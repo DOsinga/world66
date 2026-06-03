@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Dalian's position on the coast means seafood dominates the menu. Sea cucumber, abalone, and various shellfish are local specialities. Korean and Japanese food is widely available, a legacy of close historical ties with both countries. The markets around Qingniwa Street are a good place to eat cheaply and watch locals shop.
+Dalian is famous throughout China for its seafood. Sea urchin, abalone, scallops, sea cucumber, and a variety of clams and crabs are local specialities — the cold Yellow Sea waters produce excellent shellfish. The markets near the port and at Fujiazhuang are the best introduction: buy live seafood and take it to a nearby restaurant for cooking. Away from the coast, northeast Chinese cooking (dongbei cai) is hearty and satisfying, with dishes built around pork, pickled cabbage, and wheat-based staples.

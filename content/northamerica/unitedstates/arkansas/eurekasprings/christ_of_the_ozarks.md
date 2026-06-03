@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 36.3946
-longitude: -93.7313
+latitude: 36.4090
+longitude: -93.7253
 story: >
   At 67 feet tall and weighing more than a million pounds, the Christ of the Ozarks was commissioned in 1966 by Gerald L.K. Smith, a controversial right-wing political figure. The statue's unusual box-like form — arms extended horizontally, the figure almost featureless — has prompted comparisons to a milk carton, a refrigerator, and a bowling pin. Smith also built a replica of the Holy Land near the statue, which operated as a theme park until 2008.
 ---

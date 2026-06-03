@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - architecture
-latitude: 36.3889
-longitude: -93.7481
+latitude: 36.4164
+longitude: -93.7728
 story: >
   Architect E. Fay Jones designed Thorncrown Chapel under a strict constraint: nothing wider than two feet could be used in construction, because the site was only accessible by a forest footpath and all materials had to be carried in by hand. The result is a structure of extraordinary lightness — 425 windows containing 6,000 square feet of glass, held up by an interlocking framework of pine struts, rising 48 feet without a single load-bearing wall.
 ---

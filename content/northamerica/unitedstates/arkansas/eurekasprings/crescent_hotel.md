@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - historic_house
-latitude: 36.4031
-longitude: -93.7359
+latitude: 36.4083
+longitude: -93.7374
 story: >
   In the late 1930s, a fraudster named Norman Baker bought the Crescent Hotel and reopened it as a cancer hospital. Baker had no medical training but charged desperate patients enormous sums for a "cure" of water from the hotel's springs mixed with watermelon seed, brown corn silk, and carbolic acid. He was convicted of mail fraud in 1940 and sentenced to four years in prison. Ghost hunters have claimed the hotel's basement — where Baker stored the bodies of patients who died during "treatment" — is one of the most haunted spots in America.
 ---

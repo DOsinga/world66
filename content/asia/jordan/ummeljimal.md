@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-21'
+  location_enrich: '2026-06-03'
+image: ummeljimal.jpg
+image_attribution: Qais E. Tweissi
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Mafraq-Umm_el_Jimal.jpg
 latitude: 32.328503
 loc_type: city
 longitude: 36.365952

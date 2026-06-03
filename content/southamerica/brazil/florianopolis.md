@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-03'
 image: florianopolis.jpg
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Morro_da_Cruz,_Florian%C3%B3polis_-_SC,_Brazil_-_panoramio_(cropped).jpg

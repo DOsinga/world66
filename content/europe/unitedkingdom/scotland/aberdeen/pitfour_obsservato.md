@@ -3,34 +3,10 @@ tags:
 - day_trips
 title: Pitfour Observatory
 type: poi
+latitude: 57.5282
+longitude: -1.9539
 ---
 
-Pitfour
-Observatory was built in 1845 by the fifth Laird of Pitfour, Admiral
-Sir George Ferguson, so that he and his guests could watch horse
-racing. The Laird had constructed a four and a half mile race course to
-indulge his passion for horse racing, without having to leave his own
-estate. The race course was exactly 50 feet wide and level, with all
-troughs levelled with rock from local quarries. The course was
-nicknamed the “Ascot of the North”.
+Pitfour Observatory was built in 1845 by Admiral Sir George Ferguson, fifth Laird of Pitfour, so that he and his guests could watch horse racing from an elevated vantage point. The Laird had constructed a four-and-a-half-mile private racecourse on his estate — exactly 50 feet wide and levelled using rock from local quarries — and nicknamed it the “Ascot of the North.” The observatory gave spectators a panoramic view of the whole course.
 
-The Observatory was purchased and renovated in the 1990s by the
-local authority. It’s open daily 10 - 17 from May to September and it’s
-free of charge to enter. There are great panoramic views from the
-windows in the octagonal tower, with information boards detailing all
-the local landmarks.
-
-The Observatory is fairly well sign posted from the the A952 running
-between Mintlaw and Fraserburgh and the A950 west of Mintlaw. If you
-are following the signs from the A950 make sure you take the first,
-sharp left, a mile or so at the 2nd junction once you’ve left the A950.
-The sign isn’t clear there, as there are 2 left turns If you drive past
-a graveyard you have taken the wrong turn. There’s a large car park
-with picnic benches. It only takes a few minutes to walk to the
-conservatory There are several possible walks in the woods and you can
-also visit the Louden Wood Stone Circle and a chambered cairn.
-
-****
-
-**Contributors**
-February 29, 2008
+The estate racecourse is long gone, but the octagonal tower observatory survives. It was purchased and renovated by the local authority in the 1990s and is open free of charge from May to September, 10am to 5pm. Panoramic views from the windows take in much of Buchan. The surrounding woods contain the Louden Wood Stone Circle and a chambered cairn, making a half-day outing of the visit. Pitfour is about 40 miles north of Aberdeen on the A952 between Mintlaw and Fraserburgh.

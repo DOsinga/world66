@@ -5,10 +5,10 @@ latitude: 3.147107
 longitude: 101.708601
 snippet: KL's main shopping and nightlife strip
 tags:
-- shopping
 - things_to_do
+- neighbourhood
 title: Bukit Bintang
-type: poi
+type: neighbourhood
 ---
 
 Kuala Lumpur's busiest shopping and entertainment district, centered on Jalan Bukit Bintang. The strip runs from Pavilion KL at the western end through Lot 10, Fahrenheit 88, and Sungei Wang Plaza — a reliable progression from international luxury brands down to affordable local goods and electronics.

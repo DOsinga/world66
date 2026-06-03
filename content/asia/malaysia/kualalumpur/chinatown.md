@@ -4,6 +4,7 @@ longitude: 101.6975
 snippet: Bustling market streets and hawker stalls centred on Jalan Petaling
 tags:
 - things_to_do
+- neighbourhood
 title: Chinatown
 type: neighbourhood
 ---

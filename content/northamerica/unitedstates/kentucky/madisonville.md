@@ -1,11 +1,12 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-06-03'
 latitude: 37.3281
+loc_type: city
 longitude: -87.4988
 title: Madisonville
 type: location
-loc_type: city
 ---
 
 Madisonville is the county seat of Hopkins County in western Kentucky, a small city that grew around coal mining and manufacturing. It sits in the Western Kentucky Coal Field region, and like many towns in this area, it has had to adapt as the coal industry contracted. The city has a modest downtown with a few historic buildings and serves as a regional centre for the surrounding rural area.

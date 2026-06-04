@@ -1,6 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
+image: roses.jpg
+image_attribution: Gordito1869
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Roses_mit_Sporthafen.jpg
 latitude: 42.263202
 loc_type: city
 longitude: 3.175533
@@ -9,6 +14,6 @@ title: Roses
 type: location
 ---
 
-Roses is the largest resort on the northern stretch of the Costa Brava, sitting on a wide sandy bay just 30 kilometres south of the French border. It is less exclusive than nearby [Cadaqués](/europe/spain/catalonia/cadaques) and less hectic than the southern Costa Brava mega-resorts — a family-friendly town with good beaches, a fishing harbour that still functions, and a ruined 16th-century citadel overlooking it all.
+Roses is the largest resort on the northern stretch of the Costa Brava, sitting on a wide sandy bay just 30 kilometres south of the French border. It is less exclusive than nearby [Cadaqués](/europe/spain/catalonia/cadaques) and less hectic than the southern Costa Brava mega-resorts — a family-friendly town with good [beaches](/europe/spain/catalonia/roses/playa_de_roses), a [fishing harbour](/europe/spain/catalonia/roses/port_de_roses) that still functions, and the [ruined 16th-century Ciutadella](/europe/spain/catalonia/roses/ciutadella_de_roses) overlooking it all.
 
-The town makes an excellent base for exploring this corner of Catalonia. The Cap de Creus natural park — a wild, windswept headland of twisted rock formations — is a short drive north. [Figueres](/europe/spain/catalonia/figueres), home to the Dalí Theatre-Museum, is half an hour inland. The coast between Roses and Cadaqués offers some of the best diving and kayaking on the Mediterranean, with hidden coves accessible only from the water.
+The town makes an excellent base for exploring this corner of Catalonia. The [Cap de Creus natural park](/europe/spain/catalonia/roses/cap_de_creus) — a wild, windswept headland of twisted rock formations — is a short drive north. [Figueres](/europe/spain/catalonia/figueres), home to the Dalí Theatre-Museum, is half an hour inland. The coast between Roses and Cadaqués offers some of the best diving and kayaking on the Mediterranean, with hidden coves accessible only from the water. Foodies make the pilgrimage to [El Bulli 1846](/europe/spain/catalonia/roses/el_bulli_1846), Ferran Adrià's old kitchen at Cala Montjoi, now a museum to the restaurant that twice topped the world rankings.

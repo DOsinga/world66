@@ -1,32 +1,13 @@
 ---
+latitude: 34.2100
+longitude: -4.0100
 tags:
 - eating_out
+- bar
 title: Café Biyaz
 type: poi
 ---
 
-**Cafe Biyaz**
+**Café Biyaz** is a small local cafe on Avenue Mohammed V in Taza-Bas, the kind of no-frills Moroccan cafe that serves espresso, mint tea, and sodas to a clientele of local men watching football. Coffee runs to around 6 dirhams, tea to 4. The atmosphere is relaxed and informal.
 
-Down the street at the corner,you can also enjoy your espresso cafe at Cafe biyaz, may be have a conversation with Khalid, the owner...you can ask for your favourite news channel, or may watch a live soccer game with locals....A place where you can meet nice people and you will enjoy it.
-
-The Menu
-
-- Cafe espresso 6 Dh - 0.60 Euro
-
-- Mint tea 4 Dh - 0.40 Euro
-
-- Soda / Coca or Fanta.. 6 Dh - 0.60 Euro
-
-- Other drinks upon request
-
-To be served well ask for Khalid, the owner.
-
-**Bernhadette:**
-While the service in the café might be very good, as a woman however you should consider another choice of café. You might get into some ambiguous light by visiting this café as a woman.
-
-**Contributors**
-August 13, 2006
-
-August 21, 2006
-
-type: Local
+As is common in many traditional Moroccan cafes, the space can feel predominantly male and may not be the most comfortable option for women travelling alone — the **Café Picasso** on the same avenue is generally considered a more welcoming choice across a wider range of visitors.

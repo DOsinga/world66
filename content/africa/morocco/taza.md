@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: taza.jpg
 image_attribution: Timothy A. Gonsalves
 image_license: CC BY-SA 4.0

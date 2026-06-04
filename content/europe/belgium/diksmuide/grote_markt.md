@@ -10,3 +10,5 @@ type: poi
 ---
 
 Diksmuide's main square was completely destroyed during WWI and rebuilt in the interwar period in a Flemish Renaissance style. The result is a coherent ensemble of stepped gables, arcaded ground floors, and a belfry that gives the square a convincing historic feel despite its relatively recent construction. It is a pleasant place to sit with a coffee and the starting point for walks around the town centre.
+
+The belfry contains a 30-bell carillon and is part of the UNESCO-listed group of belfries of Belgium and France. The adjacent Sint-Niklaaskerk was also entirely rebuilt after the war, reconstructed in 14th-century Gothic style. Together, the square and church form the civic core of a town that essentially reinvented itself from rubble.

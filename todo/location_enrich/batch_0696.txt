@@ -1,5 +1,0 @@
-northamerica/mexico/morelia
-asia/iran/meshkinshahr
-northamerica/canada/britishcolumbia/lillooet
-africa/libya/misurata
-asia/thailand/soppong

@@ -1,5 +1,0 @@
-northamerica/unitedstates/delaware/georgetown
-europe/spain/canaryislands/grancanaria/agaete
-asia/malaysia/kuala_kubu_baru
-europe/italy/umbria/orvieto
-europe/spain/northernspain/tuy_tui

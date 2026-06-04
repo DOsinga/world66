@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: khabarovsk.jpg
 image_attribution: Glucke
 image_license: CC BY-SA 3.0

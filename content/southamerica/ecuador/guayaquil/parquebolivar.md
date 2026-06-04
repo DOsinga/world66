@@ -1,29 +1,14 @@
 ---
-address: Chimborazo Street
-latitude: 37.533831
-longitude: -77.416211
-opening_hours: 7 to 18
+latitude: -2.1913
+longitude: -79.8861
 tags:
-- sights
-title: Parque Bolivar
+- things_to_do
+- sight
+title: Parque Bolívar
 type: poi
+story: "The iguanas of Parque Bolívar are green iguanas (Iguana iguana) — entirely wild, but so accustomed to humans that they will eat from your hand. The colony has been living in the park's trees for generations; local tradition says the iguanas have been here for at least a century, making them among the city's oldest residents."
 ---
 
-Gardens with big Green Iguanas (Iguana iguana). Is a great place to see the Iguanas getting feed is amazing to see them falling down the tree or an Iguana fight, with the others males, is a good place to visit and is just a few steps away.
+Parque Bolívar is a central plaza most famous for its population of wild green iguanas, which have taken up residence in the trees and on the paths over many generations. Dozens of the large reptiles sun themselves on branches and benches, indifferent to the people passing around them. It is one of Guayaquil's most distinctive sights.
 
-**Contributors**
-January 05, 2005
-
-January 06, 2005
-
-type: Parks, Gardens and Zoos
-
-
-
-
-
-address: Chimborazo Street
-
-openings: 7 to 6 pm
-
-openingHours: 7 to 18
+The park is surrounded by important buildings: the Metropolitan Cathedral faces one side and the old city hall another. The iguanas are most active in the morning and after rain, when they descend from the trees to dry themselves in the sun. This is a short but memorable stop in the city centre.

@@ -3,9 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-You can visit Madrid just about anytime of the year as Madrid activities are plentiful year round, but the *very best* times to visit Madrid are in May and October when the weather is at it's best. Because Spain is a top tourist destination for foreigners and the number one tourist destination for Europeans, flights are plentiful and frequent. Major carriers from North America to Madrid Barajas International Airport (MAD) include: Air Europa, American, Continental, Delta, Iberia, Spainair, and US Airways.
+**Madrid Barajas Airport (MAD)** is one of Europe's largest hubs and well connected to North America, Latin America, and the rest of Europe. The four terminals (T1, T2, T3 share a complex; T4 is several kilometres apart with its own satellite T4S for long-haul) are linked by free shuttle buses. **Metro line 8** runs from both terminal areas to Nuevos Ministerios in the centre in around 25 minutes (€5 including airport supplement); the **Cercanías C-1** train links T4 to Atocha in 30 minutes. Taxis to the centre are a flat €30 by city ordinance.
 
-For cheap flights between cities, Vueling (www.vueling.com) is a good bet as well as Air Europa and Spainair. Iberia may be a bit more expensive than most airlines within Spain as it is Spain's main domestic airline. From the UK, the top airlines to Madrid include: British Airways, Iberia, Monarch Airlines, Ryanair, and Spainair.
-
-**Contributors**
-May 15, 2008
+The **Atocha** and **Chamartín** stations handle long-distance trains. The **AVE high-speed network** reaches Barcelona in 2h30, Seville in 2h30, Málaga in 2h45, and Valencia in 1h50, making rail competitive with flying for most domestic trips. The **bus station** at Méndez Álvaro (south of the centre, metro Méndez Álvaro) serves cheaper intercity routes via ALSA, Avanza, and others.

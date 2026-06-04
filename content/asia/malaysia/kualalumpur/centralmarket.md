@@ -4,6 +4,8 @@ longitude: 101.695532
 snippet: "Restored 1930s art deco market hall selling Malaysian crafts and batik"
 tags:
 - shopping
+- chinatown
+- market
 title: Central Market
 type: poi
 ---

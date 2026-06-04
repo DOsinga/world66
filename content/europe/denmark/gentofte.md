@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-03'
 latitude: 55.753595
 longitude: 12.541436
 title: Gentofte

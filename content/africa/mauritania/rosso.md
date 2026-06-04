@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-03'
 latitude: 16.5132
 longitude: -15.81
 title: Rosso

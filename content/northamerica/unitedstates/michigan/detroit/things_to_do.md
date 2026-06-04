@@ -3,6 +3,8 @@ title: 'Things to Do'
 type: section
 ---
 
-Beyond the major museums, Detroit and its suburbs offer plenty to keep you busy. The Henry Ford Museum and Greenfield Village in Dearborn can easily fill a full day, with everything from JFK's limousine to Thomas Edison's laboratory. The Motown Museum is a must for music lovers. Belle Isle, a 982-acre island park in the Detroit River, has an aquarium, conservatory, and great skyline views.
+Detroit's attractions split across downtown, Midtown, the riverfront, and the suburbs of Dearborn and Bloomfield Hills. The Detroit Institute of Arts and the adjacent Detroit Historical Museum anchor Midtown's cultural quarter. The Motown Museum on West Grand Boulevard, Hitsville USA itself, draws music pilgrims year-round. Down by the river, Belle Isle is a 982-acre island park designed by Frederick Law Olmsted with an aquarium, conservatory, and skyline views.
 
-In the northern suburb of Bloomfield Hills, Meadow Brook Hall is the fourth-largest historic house museum in the United States. This 110-room Tudor-revival mansion was built between 1926 and 1929 for Matilda Dodge Wilson, widow of auto pioneer John Dodge. The surrounding grounds and nature trails are worth exploring.
+The car museums are unmissable. The Henry Ford Museum and the adjoining Greenfield Village in Dearborn together make one of the great American museums — a full day at least. In the city itself, the Ford Piquette Avenue Plant is where the Model T was built.
+
+Downtown architecture rewards looking up. The Guardian Building's Art Deco lobby, the Fisher Building's marble interior, and the restored Michigan Central Station are all worth a detour. Filter the POIs below by category to focus on museums, sights, neighbourhoods, or architecture.

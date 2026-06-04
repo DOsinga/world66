@@ -1,5 +1,0 @@
-europe/denmark/r_southern_fyn
-asia/northkorea/kaesong
-northamerica/unitedstates/hawaii/kailua
-northamerica/saintvincentandthegrenadines/bequia
-europe/russia/moscow

@@ -1,5 +1,0 @@
-northamerica/unitedstates/newjersey/morristown
-europe/italy/abruzzo/carunchio
-northamerica/unitedstates/newyorkstate/saratoga
-northamerica/unitedstates/washington/enumclaw
-asia/tajikistan/dushanbe

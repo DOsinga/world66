@@ -1,19 +1,24 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-01'
 image: nuria.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Nuria13.jpg
 latitude: 42.3977
-loc_type: city
+loc_type: feature
 longitude: 2.1547
 score: 0.58
+sources:
+  - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
+  - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria_Rack_Railway
+  - https://en.wikipedia.org/wiki/Virgin_of_Nuria
 title: Vall de Núria
 type: location
 ---
 
-Vall de Núria is not a town but a high mountain sanctuary at 2,000 metres in the eastern Pyrenees, accessible only by the **Cremallera de Núria** rack railway — Spain's only surviving rack line. The valley is car-free and snowbound in winter, ringed by peaks that top 2,900 metres.
+Vall de Núria sits in a high cirque of the eastern Pyrenees at 1,967 metres — a place that feels entirely cut off from the modern world because it genuinely is. There is no road into the valley. The only way in is the **Cremallera de Núria**, Spain's sole surviving rack railway, which has been hauling pilgrims and hikers up through the Gorges del Freser since 1931.
 
-The rack railway climbs from Ribes de Freser (reachable by mainline train from [Barcelona](/europe/spain/catalonia/barcelona) via [Ripoll](/europe/spain/catalonia/ripoll)) through a spectacular gorge to the sanctuary complex at the top. The journey itself is half the point. At the top you will find the Santuari de la Mare de Déu de Núria, a pilgrimage church dating to the 11th century, along with a lake, walking trails, and in winter a small ski station. In summer, chairlifts access higher ground for ridge walks with views into France.
+At the top, the valley floor opens to reveal a single imposing building: the Santuari de la Mare de Déu de Núria, a sanctuary complex that incorporates a Romanesque church, a hotel, a restaurant, and a small lake. The Virgin of Núria is one of the patron saints of Catalonia, and the sanctuary draws pilgrims who have been making this journey for centuries — long before the railway existed, on foot through the gorge. Today Catalans come with young children as much as rosary beads, packing picnic bags for the lake and muddy walks above the treeline.
 
-A combined ticket from Barcelona covers the mainline train, the rack railway, and various activities (archery, horse riding, chairlift) — good value for a day trip.
+The rack railway journey from Ribes de Freser is exhilarating in its own right: the train clings to vertiginous cliffs above the river, passes through short tunnels, and emerges into the open valley with the sanctuary directly ahead. In winter the valley becomes a modest ski station — the highest in Catalonia — and in summer chairlifts carry walkers onto the ridges with views into France. The combination of pilgrimage history, mountain scenery, and the train journey makes this one of the most distinctive half-day or full-day outings from Barcelona.

@@ -5,8 +5,12 @@ snippet: "Wildlife reserve with Big Five views against the city skyline"
 tags:
   - things_to_do
   - day_trips
+  - langata
 latitude: -1.3602
 longitude: 36.8339
+neighbourhood: Langata
+story: >
+  The park shares its southern boundary with the open plains of the Athi-Kapiti ecosystem, so it is not fenced on that side — animals migrate in and out seasonally. This openness is what makes it viable as a wildlife habitat, but it also means the park is under constant pressure from the expanding city on its other three sides. The Nairobi–Mombasa Standard Gauge Railway runs along the park's southern edge, and the debate over its impact on wildlife movement has been one of Kenya's most contentious environmental arguments.
 ---
 
 Nairobi National Park is the only major wildlife reserve inside a capital city anywhere in the world. Just 7 km from the city centre, its 117 square kilometres of open grassland, forest, and riverine habitat support over 100 mammal species, including lion, leopard, cheetah, buffalo, and both black and white rhino — four of the Big Five in all. The Nairobi skyline is visible from the plains.

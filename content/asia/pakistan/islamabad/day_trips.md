@@ -1,21 +1,10 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
+linked_locations:
+  - asia/pakistan/taxila
+  - asia/pakistan/rawalpindi
+  - asia/pakistan/murree
 ---
 
-...
-
-**Contributors**
-May 13, 2009
-
-### [Hunza Panorama Day Hikes(Adventure Tour)](/asia/pakistan/islamabad/day_trips/hunza_panorama_day)
-
-Take a hiking tour through the Valley of Hunza, nestled close to the Chinese border. This immortalised Kingdom will take you back in time, and you will learn first hand some of the ancient myths attached to it. It is famous for the longevity of its people, its fresh fruits and its lively atmosphere.
-
-Duration: 9 day(s)
-
-Location: Islamabad - Chilas - Karimabad - Rakaposhi - Ulter Hike - Gulmit - Chilas - Islamabad
-
-Day 1: Islamabad - Arrival at Islamabad airport, where you will be met, and then transfer to hotel. Overnight at the hotel.
-
-Day 2: Chilas - [more..](/asia/pakistan/islamabad/day_trips/hunza_panorama_day)
+Islamabad is one of the best bases in Pakistan for day trips. Taxila — a UNESCO World Heritage site with the ruins of the Gandhara civilisation — is 35 km west and easily reached in a morning. Rawalpindi, the chaotic twin city 15 km south, contrasts sharply with the modernist capital. The colonial-era hill station of Murree, 60 km north-east at 2,300 metres, is a popular summer escape from the heat of the plains.

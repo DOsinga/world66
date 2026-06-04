@@ -4,7 +4,7 @@ longitude: 101.687645
 snippet: "Ornate six-tiered Chinese temple with city skyline views"
 tags:
 - things_to_do
-- landmark
+- sight
 title: Thean Hou Temple
 type: poi
 ---

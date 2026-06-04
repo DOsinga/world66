@@ -1,5 +1,0 @@
-europe/armenia/yerevan
-europe/italy/tuscany/volterra
-europe/croatia/trpanj
-europe/hungary/erdobenye
-europe/latvia/ventspils

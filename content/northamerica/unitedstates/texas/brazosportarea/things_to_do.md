@@ -1,0 +1,6 @@
+---
+title: "Things to Do"
+type: section
+---
+
+The Brazosport area's main appeal is a combination of Gulf Coast beach access and exceptional birdwatching. [Quintana Beach County Park](/northamerica/unitedstates/texas/brazosportarea/quintana_beach_county_park) is the most rewarding beach destination — well-maintained, uncrowded, and good for fishing and families. [Surfside Beach](/northamerica/unitedstates/texas/brazosportarea/surfside_beach) is four miles of open Gulf shoreline close to Houston, popular for swimming, surf fishing, and casual beach days. [Brazoria National Wildlife Refuge](/northamerica/unitedstates/texas/brazosportarea/brazoria_national_wildlife_refuge) is one of the top birdwatching sites in Texas, particularly in winter. [Sea Center Texas](/northamerica/unitedstates/texas/brazosportarea/sea_center_texas) in Lake Jackson is a free state aquarium and the world's largest redfish hatchery. The [Brazosport Center for the Arts and Sciences](/northamerica/unitedstates/texas/brazosportarea/brazosport_center_for_arts_sciences) in Clute has a planetarium and natural history museum. For fishing, the [Freeport harbor](/northamerica/unitedstates/texas/brazosportarea/freeport_harbor) is where the working shrimping fleet docks and where you can buy fresh catch direct from the boats.

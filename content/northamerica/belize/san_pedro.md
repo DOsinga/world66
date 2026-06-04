@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 latitude: 17.915
 longitude: -87.9657
 title: San Pedro

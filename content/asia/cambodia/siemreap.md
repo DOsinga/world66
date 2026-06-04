@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-02'
 image: siemreap.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.jpg
@@ -13,17 +14,10 @@ title: Siem Reap
 type: location
 ---
 
-Travel Guide
+**Siem Reap** — "Defeat of Siam" — is the gateway to the greatest concentration of medieval monuments on earth. [Angkor Wat](/asia/cambodia/siemreap/angkor_wat), [Angkor Thom](/asia/cambodia/siemreap/angkor_thom), [Ta Prohm](/asia/cambodia/siemreap/ta_prohm), [Preah Khan](/asia/cambodia/siemreap/preah_khan), and a hundred other temples spread across the Angkor Archaeological Park are the reason most people come, and three days is the practical minimum to see the essentials. The city itself is small and walkable, sitting on the Siem Reap River between a canal and the southern edge of the park.
 
-We currently have no information about Siem Reap.
+Beyond the temples, the huge natural reservoir of **Tonlé Sap** lies to the south. A boat trip to [Kampong Phluk](/asia/cambodia/siemreap/kampong_phluk) or other floating villages on the lake is one of the most memorable half-day excursions in the country. The [Cambodia Landmine Museum](/asia/cambodia/siemreap/cambodia_landmine_museum) on the road to [Banteay Srei](/asia/cambodia/siemreap/banteay_srei) is harrowing but essential; run by former Khmer Rouge child soldier and self-taught deminer Aki Ra, it gives context to a landscape that is still being cleared of ordnance.
 
-If you do know any general information about Siem Reap, please [Edit this article].
+In the evenings, [Phare, the Cambodian Circus](/asia/cambodia/siemreap/phare_cambodian_circus) puts on one of the best performances in Southeast Asia — a social-enterprise troupe combining acrobatics, music, and storytelling. [Pub Street](/asia/cambodia/siemreap/pub_street) and the [Old Market](/asia/cambodia/siemreap/old_market) quarter provide the standard nightlife and souvenir options; the Wat Damnak and Wat Bo neighbourhoods east of the river are quieter and have better restaurants, including the remarkable **Cuisine Wat Damnak**.
 
-If you know any hotels in Siem Reap or restaurants in Siem Reap, please [[Add].](/destinations/addItemWizard?addwhere=asia/cambodia/siemreap)
-
-**Siem Reap** is the nearest town to **Angkor Wat**. The name Siam Reap actually means the "defeat of Siam" — today’s [Thailand](/asia/thailand). It is quite a small town and you can walk around to see the city. It is reported to be safe enough to be out after dark. Siam Reap draws visitors for its world-famous monuments nearby: [Angkor wat](/asia/cambodia/angkorwat). Visiting the hundred-or-so temples and studying the forests around Siem Reap is still the main reason for being in the city. If you are fed up with seeing more temples you can still spend a couple of extra days to relax here and find some nice things to do in the area. The huge natural reservoir, **Tonle Sap**, is just to the south of Siem Reap and provides relaxing boat trips. **Banteay Chhmar** is located 30 km north of Angkor Wat and is a reasonable safe haven to visit. It has a small but elaborate temple that is was built around a thousand years ago. You can arrange a car, a driver an a hotel in Banteay Chhmar for around USD 30. 
- 
- 
- 
-
-Due to its closeness to Angkor Wat it is no surprise you can find a lot of hotels and restaurants in Siem Reap to accommodate the large influx of travellers. There is a crocodile farm in the south of Siem Reap that is well worth a visit. You can easily arrange a driver to go to the temples and many of them are very well informed about the temples. Other very good and inexpensive ways of getting around include by motorcycle or bicycle.
+The [Angkor National Museum](/asia/cambodia/siemreap/angkor_national_museum) on Sihanouk Avenue is worth an hour before or after the temples for context on Khmer history. Hire a tuk-tuk driver through your hotel for the Angkor circuits — most are knowledgeable and the relationship across multiple days is worth establishing early.

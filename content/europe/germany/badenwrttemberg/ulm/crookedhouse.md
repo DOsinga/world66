@@ -5,7 +5,9 @@ latitude: 48.3979
 longitude: 9.9897
 snippet: Medieval half-timbered house tilted dramatically over the River Blau
 tags:
-- sights
+- things_to_do
+- sight
+- architecture
 title: Crooked House
 type: poi
 ---

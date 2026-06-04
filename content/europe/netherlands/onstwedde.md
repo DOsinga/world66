@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 image: onstwedde.jpg
 image_attribution: Gouwenaar
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:20190827_Nicolaaskerk1_Onstwedde.jpg
 latitude: 53.036791
+loc_type: city
 longitude: 7.038894
+score: 0.29
 title: Onstwedde
 type: location
-score: 0.29
-loc_type: city
 ---
 
 Onstwedde is a village about 30 kilometres south-east of Groningen, with a history stretching back more than 1,100 years. In early documents it appears as Uneswido — a name that already hints at how old this quiet corner of Groningen really is.

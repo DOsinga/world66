@@ -1,43 +1,14 @@
 ---
-address: Beverely center, Blue Area
-email: info@cinnamon.com.pk
-phone: 51 220 6988, FAX 51 227 4147
-tags:
-- eating_out
-title: Cinnamon Restaurant / Cafe
+title: Cinnamon
 type: poi
-url: www.cinnamon.com.pk
+latitude: 33.7220
+longitude: 73.0658
+address: Beverly Centre, Blue Area
+tags:
+  - eating_out
+  - restaurant
 ---
 
-Cinnamon offers contemporary European cuisine in stylish, sophisticated surroundings. When the restaurant first opened its doors a few years ago, food connoisseurs raved about Cinnamon’s delectable food and impeccable service, declaring it one of the best new additions to the city’s restaurant scene.
+Cinnamon was one of the first proper fine-dining restaurants in Islamabad when it opened in the early 2000s and remains a fixture of the city's special-occasion calendar. The menu is contemporary European with a few Mediterranean detours — pastas, grilled fish, beef tenderloin, chocolate fondant — competent rather than dazzling but consistently well-executed.
 
-Today, cinnamon still defines the fine-dining experience in the city and has evolved from a restaurant to a culinary establishment with something to offer for every occasion.
-
-Timings
-
-Summer:
-
-Lunch : 12.30 - 3.30 p.m.
-
-Dinner : 7:00 p.m - 11.30 p.m.
-
-Winter:
-
-Lunch : 12.30 - 3.30 p.m.
-
-Dinner : 6.30 p.m - 11:00 (Last Orders)
-
-**Contributors**
-May 13, 2009
-
-type: European
-
-
-
-tel: 51 220 6988, FAX 51 227 4147
-
-url: [www.cinnamon.com.pk](http://www.cinnamon.com.pk/index.htm)
-
-address: Beverely center, Blue Area
-
-email: info@cinnamon.com.pk
+The dining room is in the Beverly Centre on the central Jinnah Avenue (Blue Area). It is one of the few places in the city where smart-casual dress is the norm; bookings are advisable for dinner.

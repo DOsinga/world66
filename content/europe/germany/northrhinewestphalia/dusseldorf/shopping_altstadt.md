@@ -1,17 +1,13 @@
 ---
-latitude: 53.550493
-longitude: 9.99778
+latitude: 51.2267
+longitude: 6.7716
 tags:
 - shopping
-title: Altstadt
+- altstadt
+title: Altstadt Shopping
 type: poi
 ---
 
-The Old Town (Altstadt), known to most for its cheek-by-jowl line-up of
-over 260 pubs as a centre of conviviality, is also home to small
-boutiques and avant-garde shops. Being so close to the Kö, it is ideal
-for a stroll after or in between that experience. The Altstadt is also
-where numerous museums and galleries may be found, forming what is
-styled the 'Arts Axis' in an arc from river-side to river-side.
+The Altstadt — best known for its pubs — also hides good shopping in its narrow lanes. The emphasis here is on independent boutiques, vintage clothing shops, record stores, and specialist food shops rather than department stores.
 
-type: Markets
+The 'Arts Axis' stretches from river-side to river-side through the Altstadt, connecting museums and galleries, with a scattering of design and print shops along the route. It makes for a good walk that combines culture with browsing, and the density of cafés means there are plenty of places to stop and rest.

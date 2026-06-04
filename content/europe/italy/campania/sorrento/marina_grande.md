@@ -3,7 +3,8 @@ latitude: 40.6283
 longitude: 14.3726
 snippet: Old fishing quarter with seafood restaurants below the cliffs
 tags:
-- sights
+  - things_to_do
+  - neighbourhood
 title: Marina Grande
 type: neighbourhood
 ---

@@ -10,6 +10,8 @@ story: The walls contain 82 towers, each historically maintained by a different 
   gardens below, which have been cultivated continuously since at least the Neolithic.
 tags:
 - things_to_do
+- sight
+- architecture
 title: Diyarbakır City Walls
 type: poi
 ---

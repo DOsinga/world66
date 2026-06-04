@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-03'
 image: lugano.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Lago_di_Lugano_at_Sunset_(cropped_2).jpg

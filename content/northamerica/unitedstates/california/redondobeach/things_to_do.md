@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-redondo beach attractions
-
-We currently have no Things to do listed in Redondo Beach.
-
-If you do know any Things to do in Redondo Beach, please [Add].
+Redondo Beach is built around its waterfront. Most of what visitors come for is at the pier and the small horseshoe-shaped harbour just to the south of it, or along the wide beach that runs north into Hermosa. Inland, the neighbourhoods are pleasant residential suburbs but offer little for the visitor. Allow a half-day for the core sights; if you cycle the Strand to Manhattan Beach you have a full day's outing.

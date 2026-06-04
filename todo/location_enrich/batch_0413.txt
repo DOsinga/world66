@@ -1,5 +1,0 @@
-asia/vietnam/hochiminhcity
-europe/spain/andalucia/torredelmar
-europe/greece/andros
-europe/bulgaria/primorsko
-europe/germany/bavaria/altmuhl

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 image: ayvalik.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ayval%C4%B1k,_Turkey.jpg

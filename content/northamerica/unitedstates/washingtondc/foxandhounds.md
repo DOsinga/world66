@@ -1,15 +1,16 @@
 ---
-address: 1537 17th Street NW
-latitude: 37.289948
-longitude: -79.963008
-phone: 202-232-6307
-tags:
-- bars_and_cafes
-title: Fox and Hounds
+title: "Fox and Hounds"
 type: poi
-url: www.washingtonpost.com
+tags:
+  - bars_and_cafes
+  - bar
+latitude: 38.9154
+longitude: -77.0376
+address: "1537 17th Street NW"
+phone: "202-232-6307"
+neighbourhood: Dupont Circle
 ---
 
-You won't find a stronger drink at a better price, at least not in the trendy DuPont Circle area. Trio's Fox & Hounds (next to the Trio Restaurant) brings you a glass full of liquor and a small 6 oz. bottle of mixer for a very reasonable $3-$4. Especially on pleasant evenings, the ample outside seating makes this a perfect place to gather with friends. This place is hardly a secret, though, so it can get very crowded - best to leave work half an hour early and start here. The atmosphere is extremely casual and the clientele is a mix of ethnicities and sexual orientation. The bar food is fine, but hardly spectacular. Also, this is a serious drinking bar; the jukebox is first-rate but there is no pool table and the decor is anything but trendy.
+Fox and Hounds is a long-running Dupont Circle bar that has stayed resolutely unpretentious through decades of neighbourhood gentrification. The drinks are strong and generously priced by Washington standards — a real rarity in a city where a beer can easily cost $8. The outside seating on pleasant evenings attracts a mixed crowd of neighbours, Capitol Hill types, and tourists who have wandered off the monument trail.
 
-type: Bars
+The atmosphere is casual bordering on dive bar, which is exactly the point. No DJ, no velvet rope, no cocktail menu written in four languages. Just a good jukebox, cold beer, and the kind of bar that DC's increasingly expensive neighbourhoods don't produce any more.

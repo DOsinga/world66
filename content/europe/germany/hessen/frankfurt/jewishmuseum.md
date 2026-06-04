@@ -9,6 +9,7 @@ snippet: Frankfurt's Jewish history in the former Rothschild palace.
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Jewish Museum
 type: poi
 ---

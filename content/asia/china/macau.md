@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-02'
 image: macau.jpg
 image_attribution: LN9267
 image_license: CC BY-SA 4.0
@@ -18,9 +19,9 @@ type: location
 
 Macau is the strangest city in China and probably the strangest city in Asia: a tiny former Portuguese colony of 30 square kilometres at the mouth of the Pearl River, 60 km across the water from Hong Kong, where Jesuit baroque churches, Cantonese temples, Portuguese egg tarts and the largest concentration of casinos in the world all exist on top of one another. Portugal handed the territory back to China in 1999 after 442 years; since then Macau has boomed on the back of gambling money to become the richest city in the world by GDP per capita.
 
-There are two Macaus. The **Macau Peninsula** is the old city, and its historic centre — **Largo do Senado**, the Ruins of **São Paulo**, **Mount Fortress**, **A-Ma Temple** — is a UNESCO World Heritage Site that still feels pleasantly Portuguese despite being surrounded by high-rises. Pastel stucco, black-and-white tiled pavements, little squares, Catholic iconography, bakeries selling *pastéis de nata*. Then there is the **Cotai Strip** on reclaimed land between the islands of [Taipa](/asia/china/taipa) and [Coloane](/asia/china/coloane) — an astonishing row of Vegas-style mega-casinos (The Venetian, Wynn, MGM, Galaxy, City of Dreams) that together take in more gambling revenue than the whole of the United States. Even if you do not gamble, the scale of the place is worth seeing once.
+There are two Macaus. The **Macau Peninsula** is the old city, and its historic centre — [Senado Square](/asia/china/macau/senado_square), the [Ruins of São Paulo](/asia/china/macau/ruins_of_sao_paulo), [Monte Fort](/asia/china/macau/monte_fort), [A-Ma Temple](/asia/china/macau/a_ma_temple) — is a UNESCO World Heritage Site that still feels pleasantly Portuguese despite being surrounded by high-rises. Pastel stucco, black-and-white tiled pavements, little squares, Catholic iconography, bakeries selling *pastéis de nata*. Then there is the [Cotai Strip](/asia/china/macau/cotai_strip) on reclaimed land between the islands of [Taipa](/asia/china/taipa) and [Coloane](/asia/china/coloane) — an astonishing row of Vegas-style mega-casinos ([The Venetian](/asia/china/macau/venetian_macao), Wynn, MGM, Galaxy, City of Dreams) that together take in more gambling revenue than the whole of the United States. Even if you do not gamble, the scale of the place is worth seeing once.
 
-Two days is enough to take in both sides: one for the peninsula on foot, one for the casinos, Taipa Village and the surprisingly quiet island of Coloane with its black-sand beach and Portuguese-era village. The food is one of Asia's best under-appreciated cuisines — a fusion of Portuguese, Chinese, Indian and Malay ingredients that produced dishes like **African chicken**, **minchi** (minced pork and potatoes), and the seafood rice stews of old colonial cookbooks.
+Two days is enough to take in both sides: one for the peninsula on foot, one for the casinos, [Taipa Village](/asia/china/macau/taipa_village) and the surprisingly quiet [Coloane Village](/asia/china/macau/coloane_village) with its black-sand beach and Portuguese-era square. The food is one of Asia's best under-appreciated cuisines — a fusion of Portuguese, Chinese, Indian and Malay ingredients that produced dishes like **African chicken**, **minchi** (minced pork and potatoes), and the seafood rice stews of old colonial cookbooks.
 
 ## Destinations in Macau
 

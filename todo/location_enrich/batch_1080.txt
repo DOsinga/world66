@@ -1,5 +1,0 @@
-northamerica/thecaribbean/puertorico/bayamon
-southamerica/venezuela/puertolacruz
-europe/switzerland/leysin
-europe/azerbaijan/aqsu
-europe/italy/emiliaromagna/parma

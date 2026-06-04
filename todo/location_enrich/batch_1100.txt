@@ -1,5 +1,0 @@
-europe/france/east/burgundy/montral
-europe/unitedkingdom/wales/anglesey/holyhead
-northamerica/thecaribbean/cuba/baracoa
-asia/vietnam/hue/aroundhue/tamgianglagoon
-europe/unitedkingdom/scotland/fort_william

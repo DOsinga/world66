@@ -3,15 +3,14 @@ title: "Day Trips"
 type: section
 ---
 
-Several important ruins can be visited on a one day trip, of which the most spectacular is [Kuelap](/southamerica/peru/chachapoyas/kuelap_1). Nature can be impressive too, with the third highest waterfall in the world at only a one hour drive and two hours walk away.
+The area around Chachapoyas is extraordinarily rich in sites, most of which are day-trip distance from the city.
 
-**Contributors**
-February 19, 2007
+[**Kuélap**](/southamerica/peru/chachapoyas/kuelap) is the headline — the massive Chachapoyas fortress accessible by cable car, about 1 hour from Chachapoyas. Most visitors come here first and then explore further.
 
-### [Gocta Falls](/southamerica/peru/chachapoyas/day_trips/gocta_falls)
+[**Gocta Falls**](/southamerica/peru/chachapoyas/gocta_falls) — 771 metres in two drops, one of the tallest waterfalls in the world. About 1 hour's drive from Chachapoyas and a 2–3 hour hike. Best done as a full day.
 
-The 770 meters high Gocta Falls in the world will not fail to impress you. The easiest way to get there is with an organized tour: they put you in a minibus or a taxi to the village where the walk starts. In the village a local guide will be arranged for you (obligatory), to take you along the jungle trail to the waterfall. They provide rubber boots when there is a lot of mud. The standard trip is first to a viewpoint (2 hours), then about an hour more to the base of the upper fall. The walk back takes less time as it's slightly downhill. Back in the village they'll prepare you a [more..](/southamerica/peru/chachapoyas/day_trips/gocta_falls)
+[**Karajía**](/southamerica/peru/chachapoyas/karajia) — the Chachapoyas cliff-face sarcophagi, eerie and unmissable. About 1.5 hours by road.
 
+**Revash** — smaller mausolea built into cliff faces, less visited than Karajía, about 1.5 hours south. Often combined with a visit to the Museum of Leimebamba, which holds hundreds of Chachapoyas mummies recovered from a cloud-forest lagoon in 1997.
 
-
-[[rate it]](/southamerica/peru/chachapoyas/day_trips/gocta_falls)
+**Leimebamba Museum** — probably the best Chachapoyas archaeology museum, with the 219 mummies from Laguna de los Cóndors displayed in a carefully designed facility in the village of Leimebamba, 1.5 hours south of Chachapoyas.

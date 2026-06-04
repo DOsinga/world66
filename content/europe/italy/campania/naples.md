@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-21'
 image: naples.jpg
 image_license: CC BY-SA 4.0
@@ -20,7 +21,7 @@ Naples is Italy's most overwhelming city — chaotic, filthy in patches, extraor
 
 The historic centre is dense with churches, palaces, and underground Greek-Roman streets. Neapolis was founded as a Greek colony around 600 BC, conquered by Rome in 327 BC, and coveted by every subsequent power in the Mediterranean — Byzantine, Norman, Angevin, Aragonese, Spanish, Bourbon. This succession left the city with an improbable concentration of medieval churches, baroque chapels, and Bourbon palaces. The centre is a UNESCO World Heritage Site, and it rewards wandering: turn into a side street and you might find a 14th-century church, a shrine made of street lamps and plastic flowers, or a man selling sfogliatelle from a crate.
 
-The **National Archaeological Museum** holds the greatest collection of Roman artefacts in the world, most of it excavated from Pompeii and Herculaneum. It is the single most important reason to spend time in Naples. The **Sansevero Chapel** contains the Veiled Christ, one of the most technically astonishing sculptures ever made. **Castel dell'Ovo** at the harbour and **Castel Nuovo** near the port are both worth walking through for the views alone.
+The [National Archaeological Museum](/europe/italy/campania/naples/national_museum_of) holds the greatest collection of Roman artefacts in the world, most of it excavated from Pompeii and Herculaneum. It is the single most important reason to spend time in Naples. The [Sansevero Chapel](/europe/italy/campania/naples/cappella_sansevero) contains the Veiled Christ, one of the most technically astonishing sculptures ever made. [Castel dell'Ovo](/europe/italy/campania/naples/castel_dellovo) at the harbour and [Castel Nuovo](/europe/italy/campania/naples/castel_nuovo) near the port are both worth walking through for the views alone. Below [Via dei Tribunali](/europe/italy/campania/naples/via_dei_tribunali), the [Naples Underground](/europe/italy/campania/naples/naples_underground) offers 40 metres of Greek and Roman tunnels. The [Pio Monte della Misericordia](/europe/italy/campania/naples/pio_monte_misericordia) on the same street houses Caravaggio's greatest painting. The [Fontanelle Cemetery](/europe/italy/campania/naples/fontanelle_cemetery) in Materdei and the [Catacombs of San Gennaro](/europe/italy/campania/naples/catacombs_san_gennaro) at Capodimonte represent the city's extraordinary relationship with its dead. [Castel Sant'Elmo](/europe/italy/campania/naples/castel_santelmo) and the [Certosa di San Martino](/europe/italy/campania/naples/certosa_san_martino) on the [Vomero](/europe/italy/campania/naples/vomero) hill offer the best views in the city.
 
 Naples is also the birthplace of pizza, and Neapolitan pizza is a serious thing — made with a specific dough, cooked in a wood-burning oven, eaten immediately. Any pizzeria with a queue of locals is probably doing it right. The street food is excellent too: fried pizza, fried fish, pastries from the pasticcerie on every corner.
 

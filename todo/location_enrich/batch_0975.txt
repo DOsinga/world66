@@ -1,5 +1,0 @@
-europe/russia/orel
-africa/tunisia/sidibousaid
-southamerica/brazil/campinagrande
-southamerica/guyana/bartica
-europe/spain/galicia/monterrei

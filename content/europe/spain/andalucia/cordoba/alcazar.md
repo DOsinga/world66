@@ -8,7 +8,7 @@ story: It was in this Alcázar in 1486 that Christopher Columbus first met Ferdi
   and asked again, after Granada had fallen, and got his ships.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Alcázar de los Reyes Cristianos
 type: poi
 ---

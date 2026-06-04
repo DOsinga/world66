@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-02'
 image: trier.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Trier-Blick-vom_Weishaus.JPG
@@ -13,15 +14,8 @@ title: Trier
 type: location
 ---
 
-Trier is a 2000-year-old Roman city near Luxembourg, the oldest city in Germany! It was home to six Roman emperors and has many ruins including the impressive Porta Nigra, a four-story structure that was once part of the city’s walls. "Roma Secunda", the second Rome, was another name for Trier, and nowhere else in Germany are Roman times so vividly recalled as here.
+Trier is Germany’s oldest city, founded by the Romans around 17 BC and so important to the empire that it was called "Roma Secunda" — the second Rome. It was home to six Roman emperors at various points and served as the effective capital of the Western Empire in the 4th century. Nowhere else in Germany are Roman times so tangibly present: eight UNESCO World Heritage Sites are clustered within the old city, including the [Porta Nigra](/europe/germany/rhinelandpalatinate/trier/portanigra), the [Aula Palatina](/europe/germany/rhinelandpalatinate/trier/aula_palatina), the [Roman Baths](/europe/germany/rhinelandpalatinate/trier/romanbaths), and the [Amphitheatre](/europe/germany/rhinelandpalatinate/trier/amphitheatre).
 
+The city sits in a narrow valley of the Moselle, surrounded by forest and vineyards. It is one of Germany’s finest wine towns — the Moselle-Saar-Ruwer is among the world’s great Riesling regions, and Trier is its historic heart. The [Trier Cathedral](/europe/germany/rhinelandpalatinate/trier/trier_cathedral), dating to the 4th century, is the oldest Christian church in Germany. The [Karl Marx House](/europe/germany/rhinelandpalatinate/trier/karl_marx_house) on Brückenstrasse was the birthplace of Karl Marx in 1818.
 
- The city is situated in a rather small valley of the river Moselle and surrounded by forests, wineyards and nice villages. Trier itself has about a 100.000 inhabitants and a strange sounding dialect. It is also the birthplace of Karl Marx and a university town with a lively nightlife and interesting Franco-German cuisine.
-
-
-
-
- It’s worth more than a day trip. If time permits take a boat trip up the river towards [Cochem](/europe/germany/rhinelandpalatinate/mosel/cochem) or Bernkastel to see the scenery and the beautiful view. Trier is famous for its lively way to party in the streets, especially in summertime. You should see the "Altstadtfest" when the whole city is one big party with lots of live events, local food, wine and beer.
-
-
- With some more days of leisure time you should use the proximity of Trier to three neighbouring countries. It is only 30 minutes by car to the French border, not much more to [Belgium](/europe/belgium), and [Luxembourg](/europe/luxembourg) is practically on the doorstep. Trier is located about *110 mi/175 km west of Frankfurt.*
+Trier is a university town of around 100,000 people with a lively student population and a café culture centred around the Hauptmarkt and Viehmarktplatz. It is also closer to [Luxembourg](/europe/luxembourg) (30 minutes) than to most German cities. A day trip barely scratches the surface — two or three days gives you time to walk all the Roman monuments, take a boat up the Moselle to [Cochem](/europe/germany/rhinelandpalatinate/mosel/cochem), and do justice to the wines.

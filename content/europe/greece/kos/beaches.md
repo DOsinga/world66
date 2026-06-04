@@ -3,11 +3,6 @@ title: "Beaches"
 type: section
 ---
 
-The island of Kos has various very beautiful beaches turned into popular touristy resorts and providing everything to enjoy a pleasant day. Numerous secluded coves are also available for those preferring calm and peacefulness. The quantity and variety of the beaches in Kos is impressive: long or small beaches with white, golden or black sand, beaches with smooth pebbles and picturesque coves are offering their crystalline waters.
+Kos has a long stretch of north-coast beaches running west from Kos Town. Most are flat and sandy with calm, shallow water — good for families and casual swimmers. The more attractive and less crowded beaches are generally further west, toward Mastichari and Kefalos. Kefalos Bay, at the western tip of the island, has several lovely beaches and is quieter than the main resort strip.
 
-**Contributors**
-June 07, 2005
-
-### Tingaki
-
-Tingaki is a lovley beach with the best nude sunbathing in Kos.
+[Tingaki](/europe/greece/kos/tingaki) is the closest quality beach to Kos Town, about 10 km west. Paradise Beach and Sunny Beach further west are popular with windsurfers. The southern coast has wilder, windier beaches suited to those who want to escape the organised resort scene.

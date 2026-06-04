@@ -2,21 +2,26 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
 latitude: 49.193174
+loc_type: city
 longitude: 2.463669
 score: 0.51
 title: Chantilly
 type: location
-loc_type: city
+image: chantilly.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Chantilly_1.jpg
+image_license: CC0
+image_attribution: Jebulon
 ---
 
-Forty kilometres north of Paris, Chantilly is one of the most complete aristocratic estates in France — a château, a park laid out by Le Nôtre, a racing stable built to house two hundred horses, and a forest that still stretches for thousands of acres around it. The whole domain was left to the Institut de France in 1884 by the Duke of Aumale, and has changed remarkably little since.
+Forty kilometres north of [Paris](/europe/france/paris), Chantilly is one of the most complete aristocratic estates in France — a [château](/europe/france/nord/chantilly/chateau_de_chantilly), a [park](/europe/france/nord/chantilly/parc_de_chantilly) laid out by Le Nôtre, a racing stable built to house two hundred horses, and a [forest](/europe/france/nord/chantilly/foret_de_chantilly) that still stretches for thousands of acres around it. The whole domain was left to the Institut de France in 1884 by the Duke of Aumale, and has changed remarkably little since.
 
-The château houses the Musée Condé, which holds the second-largest collection of old master paintings in France after the Louvre. The stables — the Grandes Écuries — were built in the early 18th century by the Duke of Bourbon, who apparently believed he would be reincarnated as a horse and wanted appropriate accommodation waiting for him. Today they house the Musée du Cheval, a living museum of horsemanship with daily equestrian demonstrations.
+The château houses the [Musée Condé](/europe/france/nord/chantilly/musee_conde), which holds the second-largest collection of old master paintings in France after the Louvre. The [stables — the Grandes Écuries](/europe/france/nord/chantilly/grandes_ecuries) — were built in the early 18th century by the Duke of Bourbon, who apparently believed he would be reincarnated as a horse and wanted appropriate accommodation waiting for him. Today they house the [Musée du Cheval](/europe/france/nord/chantilly/musee_du_cheval), a living museum of horsemanship with daily equestrian demonstrations.
 
-The park is a mix of styles accumulated over three centuries: formal French gardens and the Grand Canal from Le Nôtre's 17th-century design, an English garden added later, a hamlet that inspired Marie Antoinette's famous retreat at Versailles, and the Maison de Sylvie tucked into the woodland. It is large enough to spend an entire afternoon wandering.
+The park is a mix of styles accumulated over three centuries: formal French gardens and the Grand Canal from Le Nôtre's 17th-century design, an [English garden](/europe/france/nord/chantilly/jardin_anglais) added later, a [hamlet](/europe/france/nord/chantilly/hameau) that inspired Marie Antoinette's famous retreat at Versailles, and the Maison de Sylvie tucked into the woodland. It is large enough to spend an entire afternoon wandering.
 
-Chantilly is also inseparable from French horse racing. The town gave its name to crème Chantilly — whipped cream, supposedly invented here for a banquet hosted by the chef Vatel — and hosts two of the season's five Classic races each June. The Hippodrome sits directly next to the château grounds.
+Chantilly is also inseparable from French horse racing. The town gave its name to crème Chantilly — whipped cream, supposedly invented here for a banquet hosted by the chef Vatel — and hosts [two of the season's five Classic races each June](/europe/france/nord/chantilly/prix_du_jockey_club). The [Hippodrome](/europe/france/nord/chantilly/hippodrome_de_chantilly) sits directly next to the château grounds.
 
 The town itself is quiet, with a handful of restaurants and cafés catering to visitors. Most people come as a day trip from Paris on the direct train from Gare du Nord, which takes about 25 minutes.

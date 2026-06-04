@@ -1,16 +1,8 @@
 ---
-title: "Getting Around in Florianopolis"
+title: "Getting Around"
 type: section
 ---
 
-**The North, the Center and the South**
-Getting around Florianopolis
-is quite easy because the city can be divided into 3 main regions: the
-north, the historic center and the south. The north sector of Florianopolis
-is where most beaches are and where most tourist attractions are, so
-here is where you will spend most of your time during your stay. The
-historical center is full of examples of the colonial era of Brazil.
-The narrow alleys and rows of colonial houses, churches and buildings
-will take you back in time and provide plenty of opportunities for
-great photographs. Here you will also find the historic Public Market,
-whose construction dates
+The island is about 54 km long and the beaches are spread around its entire coastline, so a car or scooter makes a significant difference. Rental is straightforward from the airport or city centre. The public bus network connects the main areas but journeys can be slow, especially in summer when traffic backs up on the two bridges and main roads.
+
+App-based taxis (99 and Uber) work across the island and are reliable. Bikes are popular around the Lagoa da Conceição area, where the flat terrain and cycle paths make them practical for getting between the lagoon, beach, and restaurants. For the surf beaches on the east coast and the colonial villages on the west, a car is the most flexible option.

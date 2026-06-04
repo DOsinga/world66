@@ -1,5 +1,0 @@
-australiaandpacific/australia/queensland/airliebeach
-europe/france/midi/provence/orange
-southamerica/peru/tarapoto
-asia/afghanistan/ghazni
-southamerica/peru/lima

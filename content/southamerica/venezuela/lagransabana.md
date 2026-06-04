@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 image: lagransabana.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Gran_Sabana_-_Panoramica_frente_a_la_comunidad_de_Wonken.JPG
@@ -16,6 +17,6 @@ La Gran Sabana is a spectacular highland plateau in southeastern Bolívar state,
 
 The region is home to the indigenous Pemón people, who maintain communities throughout the Gran Sabana and serve as guides and hosts for visitors. Their knowledge of the landscape is essential for treks to the tepuis.
 
-The main access route is the road from Ciudad Guayana south to Santa Elena de Uairén, near the Brazilian border — a long but extraordinary drive. The town of Santa Elena is the main base for organizing treks, particularly the ascent of Mount Roraima. The Roraima trek takes 5–6 days return and requires a guide by law; the summit plateau is a surreal world of black rock, quartz crystals, endemic plants, and near-permanent cloud.
+The main access route is the road from Ciudad Guayana south to [Santa Elena de Uairén](/southamerica/venezuela/lagransabana/santa_elena_de_uairen), near the Brazilian border — a long but extraordinary drive. The town of Santa Elena is the main base for organizing treks, particularly the ascent of [Mount Roraima](/southamerica/venezuela/lagransabana/mount_roraima). The Roraima trek takes 5–6 days return and requires a guide by law; the summit plateau is a surreal world of black rock, quartz crystals, endemic plants, and near-permanent cloud.
 
-Closer to the main road, the waterfall at Quebrada de Jaspe runs over vivid red jasper stone — one of the Gran Sabana's most photographed sights. El Paují, a small community near the Brazilian border, is known for its community tourism and birding.
+Closer to the main road, the waterfall at [Quebrada de Jaspe](/southamerica/venezuela/lagransabana/quebrada_de_jaspe) runs over vivid red jasper stone — one of the Gran Sabana's most photographed sights. [El Paují](/southamerica/venezuela/lagransabana/el_pauji), a small community near the Brazilian border, is known for its community tourism and birding. The entire plateau lies inside [Canaima National Park](/southamerica/venezuela/lagransabana/canaima_national_park), a UNESCO World Heritage Site that also covers Angel Falls to the west.

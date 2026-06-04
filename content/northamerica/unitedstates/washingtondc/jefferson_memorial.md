@@ -1,36 +1,14 @@
 ---
-address: East Basin Drive SW
-opening_hours: Open Daily  8 a.m. to midnight, closed December 25
-phone: 202.426.6841
-tags:
-- things_to_do
-- landmark
-title: Jefferson Memorial
+title: "Jefferson Memorial"
 type: poi
-url: www.nps.gov
+tags:
+  - things_to_do
+  - sight
+latitude: 38.8814
+longitude: -77.0365
+story: "The Jefferson Memorial was not universally welcomed when built. Critics complained that it blocked the view of the Tidal Basin and that its classical style was backward-looking. FDR, who championed the project, reportedly ordered that the cherry trees blocking the construction site be felled by night, knowing that protesters would chain themselves to the trees in daytime."
 ---
 
-On the shore of the Tidal Basin is found an elegant monument to the
-author of The Declaration of Independence and the third president of
-the United States, Thomas Jefferson. The rotunda style is based on the
-rotunda Jefferson built at the [University of Virginia](/northamerica/unitedstates/virginia/charlottesville), in turn based on the [Pantheon](/europe/italy/lazio/rome/sights/pantheon).
-The memorial is most beautiful in the springtime when the cherry
-blossoms that are planted all around it are in bloom, but this it is
-most visited.
+The Jefferson Memorial stands on the south bank of the Tidal Basin, its white dome visible from across the water. It was completed in 1943, during World War II, and the classical rotunda style was Jefferson's own preference — he loved the Pantheon in Rome and built something similar at the University of Virginia. The memorial houses a 19-foot bronze statue of Jefferson and quotations from the Declaration of Independence and other writings carved into the curved walls.
 
-**Contributors**
-October 14, 2005
-
-type: Memorials
-
-
-
-
-
-tel: 202.426.6841
-
-openingHours: Open Daily 8 a.m. to midnight, closed December 25
-
-url: [www.nps.gov](http://www.nps.gov/thje/)
-
-address: East Basin Drive SW
+The setting is the thing. The Tidal Basin is ringed with Japanese cherry trees, a gift from Japan in 1912, that bloom in late March or early April. During cherry blossom season the combination of pink blossoms, white marble, and still water is extraordinary — and extraordinarily crowded. Come in the off season or at dawn for a quiet experience of one of Washington's most beautiful spots. The memorial is open 24 hours.

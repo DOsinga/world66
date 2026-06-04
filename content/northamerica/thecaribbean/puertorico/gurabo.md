@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-06-03'
 title: Gurabo
 type: location
 latitude: 18.2544

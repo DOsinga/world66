@@ -1,14 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-01'
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803
 score: 0.55
+sources:
+  - https://en.wikipedia.org/wiki/Callander
+  - https://en.wikipedia.org/wiki/Loch_Lubnaig
+  - https://en.wikipedia.org/wiki/Ben_Ledi
 title: Callander
 type: location
 ---
 
-Callander is one of the two gateway towns to the Trossachs, the other being Aberfoyle. Sitting on the River Teith at the edge of the Highlands, it is a handsome stone-built town that fills with walkers, cyclists, and day-trippers in summer.
+Callander sits at the point where the Scottish Lowlands give way to the Highlands — not gradually but all at once, with the mountains rising directly from the town's back garden. It is one of the two main gateways to the Loch Lomond and The Trossachs National Park, the other being Aberfoyle to the south, and it handles the role with more character than most gateway towns can muster. The main street is broad and stone-built, lined with independent shops and cafes that have been catering to walkers and cyclists since the Victorian era, when the railway brought the first wave of Glasgow day-trippers.
 
-The Trossachs themselves — a compact landscape of lochs, wooded hills, and narrow glens — were made famous by Sir Walter Scott, and this is Rob Roy MacGregor country. The visitor centre in town invites you to decide for yourself whether Rob Roy was a noble hero or a vicious outlaw. Beyond the legend, Callander is a good base for walking the Rob Roy Way, cycling to the Falls of Leny, or driving the scenic road along Loch Katrine.
+The landscape around Callander is the kind that makes people stop mid-stride. This is Rob Roy MacGregor country — the clan chief, cattle thief, and folk hero whose life Walter Scott romanticised in his 1817 novel. The Rob Roy and Trossachs Visitor Centre in town lets you work out for yourself whether he was a noble outlaw or just an outlaw. Beyond the legend, the draws are immediate and physical: the roar of the Falls of Leny in spate, the sight of Ben Ledi reflected in Loch Lubnaig, the path through birch and oak along the River Teith.
+
+The town is small — under 3,000 people — but punches well above its weight as a base for exploring the Trossachs. Loch Katrine, Loch Venachar, and Loch Lubnaig are all within easy cycling distance. The Rob Roy Way long-distance walking route passes through, and the National Cycle Route 7 runs along the old railway line. For those who prefer their wilderness from a cafe window, the main street has enough to occupy a rainy afternoon.

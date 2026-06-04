@@ -1,16 +1,14 @@
 ---
-address: garden avenue
-latitude: 2.679746
-longitude: 101.898931
-tags:
-- things_to_do
-- museum
 title: Islamabad Museum
 type: poi
+latitude: 33.6864
+longitude: 73.0764
+address: Garden Avenue, Shakarparian
+tags:
+  - things_to_do
+  - museum
 ---
 
-Islamabad museum presents a long historic sequence of the land where Pakistan is situated today. Pakistan has been a seat of the world's leading civilizations from the time immemorial. There is plenty of evidence to support this argument now on display in Islamabad Museum. For example, 20 million years old fossil remains, 2 million years old man-made stone tools, 7000 years old early human settlements which lead to the world famous Indus Civilization, Gandhara Grave Culture and Gandhara art, early Islamic settlements, Sultanate and Mughal period, their art and craft.
- 
- The Museum is located at Garden Avenue, Shakarparian, Islamabad. It is open for visitors, Thursday to Tuesday, from 09:30 to 16:30 hrs without break. Wednesday is weekly off and there is a prayer break on every Friday from 12:30 to 14:00 hrs.
+The Islamabad Museum is the federal state museum, housed in a low modernist building on Garden Avenue on the south side of Shakarparian. The collection follows the deep history of the region from prehistoric stone tools and Indus Valley artefacts through the Gandhara Buddhist period — the highlight, with several rooms of standing Buddhas, friezes from Taxila, and a famous gilded fasting Siddhartha — into Mughal painting and Islamic calligraphy.
 
-type: general
+Open Thursday to Tuesday, 9.30 to 16.30; closed Wednesdays. Friday has a long lunchtime prayer break from 12.30 to 14.00. Allow about two hours.

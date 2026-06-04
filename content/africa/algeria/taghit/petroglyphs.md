@@ -6,6 +6,13 @@ longitude: -1.9964
 tags:
 - things_to_do
 - sight
+story: >
+  The engravings near Taghit date to between 6,000 and 12,000 years ago, during
+  the African Humid Period when the Sahara supported savanna grasslands and lakes.
+  The animals depicted — elephants, hippos, ostriches, cattle — had vanished
+  from the region millennia before the engravings were discovered by European
+  explorers in the 19th century. They remain in the open air, unprotected and
+  largely unknown outside specialist circles.
 ---
 
 A collection of Neolithic rock engravings scattered across several sites near [Taghit](/africa/algeria/taghit), the most accessible at Barrebi and along the Zousfana valley. The carvings date back thousands of years to a time when the Sahara was fertile grassland, and they depict the animals that once lived here: elephants, ostriches, cattle, antelopes, and human figures with bows and spears.

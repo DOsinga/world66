@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-02'
 image: konstanz.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Rheintorturm_in_Konstanz.jpg
@@ -8,6 +9,8 @@ latitude: 47.659216
 loc_type: city
 longitude: 9.175072
 score: 0.54
+sources:
+- https://en.wikipedia.org/wiki/Konstanz
 title: Konstanz
 type: location
 ---

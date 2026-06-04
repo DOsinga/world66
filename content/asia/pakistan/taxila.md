@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-19'
 latitude: 33.7462
+loc_type: city
 longitude: 72.8397
 score: 0.48
 title: Taxila
 type: location
-loc_type: city
+image: taxila.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dharmarajika_stupa,Taxila.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Sasha Isachenko
 ---
 
 Taxila is one of South Asia's most important archaeological sites, a UNESCO World Heritage Site sprawling across the Punjab plains about 35 kilometres northwest of Islamabad. For over a thousand years, from roughly the 5th century BC to the 5th century AD, this was a centre of learning, trade, and Buddhist art that rivalled anything in the ancient world.

@@ -1,5 +1,0 @@
-northamerica/mexico/colima
-asia/china/zhongshan
-asia/india/maharashtra/malvan
-europe/slovenia/piran
-northamerica/unitedstates/northcarolina/durham

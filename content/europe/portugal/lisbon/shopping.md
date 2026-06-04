@@ -3,16 +3,10 @@ title: "Shopping"
 type: section
 ---
 
-Lisbon is also a city for shopping, where you can choose between traditional shops and modern shopping malls. The best parts for shopping is the pedestrians area between *Praça do Comércio* and *Largo S. Domingos* Here you’ll find lots of fashionable shops with all the great international brands. If you really want to spend a lot of money, go shopping on the *Avenida da Liberdade*. The best tourist shops are around the Castello S. Jorge, if you want to buy some local specialties, you’d better go to Bairro Alto and avoid the touristical highlights. 
+The best Lisbon shopping is for things that are authentically Portuguese: azulejo tiles, wine and ginjinha, sardine tins (Conserveira de Lisboa on Rua dos Bacalhoeiros is the original and best), cork products, and traditional textiles. The Chiado neighbourhood has the highest concentration of quality independent shops, including Portuguese design, ceramics, and the ancient Livraria Bertrand bookshop on Rua Garrett.
 
-**Shops**
+Rua Augusta in Baixa is the main pedestrianised shopping street — busier and more international than Chiado. Príncipe Real has attracted high-end independent boutiques, antique dealers, and the Mercado de Príncipe Real (an organic food and local producers market on Saturdays).
 
-[**Napoleao - Port store**](http://www.napoleao.co.pt)
+Avenida da Liberdade is where international luxury brands concentrate, in the grand buildings that line both sides of the boulevard. LX Factory in Alcântara, a former industrial complex transformed into a creative hub, has interesting independent shops and a lively weekend market.
 
-Wine and Port store next to the Madalena Church, great selection of wines and port wines (you can also taste). Don’t expect lower prices than in other European countries! Inside the shop there is a Roman ruine 
-
-fax: +35 21 - – 886 11 09
-
-address: Rua dos Fanqueiros 70, 1100 – 231 Lisbon
-
-tel: +35 21 – 887 20 42 or 886 11 08
+The Feira da Ladra flea market at Campo de Santa Clara in the Alfama runs on Tuesdays and Saturdays from 9am to 6pm — a good place to rummage for old tiles, books, and vintage objects.

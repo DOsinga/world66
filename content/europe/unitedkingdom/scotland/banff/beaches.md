@@ -1,21 +1,10 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-The beach at Banff Links sited at the west side of the town is usually very popular in the summer, car park adjacent to the Links Hotel and the caravan site. There is a great playpark for the kids and a nice walk westwards to the 'Red Well' a Roman Chalyneate spring or if into walking you could go a bit further to Whitehills where there is a nice harbour recently converted into a marina which houses many yachts. There is a surf club located at the east side of the beach, they hire wet suits so even if it's not a great day you can still have a great time.
+Banff has two beaches that bookend the town. To the west, **Banff Links** is a half-mile of golden sand backed by dune grassland, with a caravan park, a children's play area, and a surf club that hires wetsuits and boards. A coastal path runs west from the Links past the curious **Red Well** — a chalybeate spring with a small stone canopy locally claimed to be Roman — and on to the converted fishing harbour at Whitehills.
 
-**Contributors**
-January 24, 2006
+To the east, **Banff Bay Beach** at the mouth of the Deveron is smaller and more sheltered, an easy stroll from the town centre and reliably busy with wading birds and the occasional seal.
 
-### [Banff Links Beach](/europe/unitedkingdom/scotland/banff/beaches/banff_links_beach)
-
-A 1/2 mile stretch of golden sand. A great playpark for the kids, surfing and watersports available. Nice caravan park.
-
-
-
-[[rate it]](/europe/unitedkingdom/scotland/banff/beaches/banff_links_beach)
-
-### [Banff Bay Beach](/europe/unitedkingdom/scotland/banff/beaches/banff_bay_beach)
-
-Situated at the mouth of the river Deveron just below the Deveron Bridge is a nice small beach convenient from the town, usually lots of birds around and the occasional seal.
+The North Sea here is cold even in midsummer — wetsuits aren't optional if you're swimming or surfing.

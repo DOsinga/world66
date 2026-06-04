@@ -1,16 +1,21 @@
 ---
-title: Leavenworth
-type: location
-latitude: 39.311326
-longitude: -94.922759
 done:
   location_cleanup: 2026-04-06
-score: 0.58
+  location_enrich: '2026-06-02'
+image: leavenworth.jpg
+image_attribution: Jonathan Miske on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/127035585@N03/22007378952
+latitude: 47.5963
 loc_type: city
+longitude: -120.6615
+score: 0.58
+title: Leavenworth
+type: location
 ---
 
-Considered by many to be "Washington's Playground", the Leavenworth area is an adventure and outdoor enthusiasts dream. Activities abound from the extreme to the mild, from white water river rafting and snow sports to birding and walking along the Wenatchee River. The town itself is modeled as a Bavarian village in a setting of towering mountains and vibrant rivers. 
+Leavenworth is a small town in the Cascades of central Washington that reinvented itself in the 1960s as a Bavarian alpine village — lederhosen, gingerbread facades, and all. The transformation is unapologetically artificial and completely effective. More than two million people visit each year, drawn by the mountain scenery, outdoor activities, and a calendar of festivals that includes Oktoberfest, Maifest, and one of the most elaborate Christmas light displays in the Pacific Northwest.
 
-A short history: In the early 1960's the people of Leavenworth realized they needed to make an incredible effort to change their situation and decided to change the appearance of town to bring in tourists. In 1965, after much deliberation and research, the community leaders were swayed by the backdrop of Alpine hills and turned the town into a Bavarian Village. Determined to make the theme deeper than a facelift on buildings, the entire community banded together to create a credible illusion of a true Bavarian alpine village. With costumes that they designed and made in their homes and with entire families working together to man stores and services, the dream has become a reality. Major festivals have been created in the Bavarian theme and have become famous throughout the Northwest. The official Washington State Autumn Leaf festival, Maifest, and Christmas Lighting Festivals lead the show of 13 major events and seasonal entertainment. 
+The setting does most of the heavy lifting. The Wenatchee River cuts through the valley, the [Icicle Creek](/northamerica/unitedstates/washington/leavenworth/icicle_creek) canyon heads into the Cascades to the southwest, and the peaks above town are genuinely dramatic. Hiking, river rafting, rock climbing, mountain biking, and cross-country skiing are all within easy reach. The downtown shops and restaurants pile on the Bavarian theming hard — good-humoured and commercially savvy in equal measure.
 
-With more than two million visitors each year, Leavenworth has become one of the top destinations for visitors to the Pacific Northwest, and continues to change and adapt with new activities, festivals, and events. The Bavarian village is becoming known as a haven of the arts, culture, nature, and recreation.
+The [Leavenworth Nutcracker Museum](/northamerica/unitedstates/washington/leavenworth/leavenworth_nutcracker_museum) is a genuine oddity worth visiting, and the [Leavenworth Ski Hill](/northamerica/unitedstates/washington/leavenworth/leavenworth_ski_hill) offers community skiing in winter. For darker history, the [Iron Goat Trail](/northamerica/unitedstates/washington/leavenworth/iron_goat_trail) near Stevens Pass passes the site of the 1910 Wellington avalanche — the deadliest in US history.

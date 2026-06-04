@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 image: hammerfest.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Hammerfest_Juni_2005.jpg
@@ -16,4 +17,4 @@ Hammerfest claims the title of the world's northernmost city, perched on the isl
 
 In winter, the sun disappears entirely from mid-November to late January, and temperatures drop well below freezing with fierce Arctic winds. The polar night is an experience in itself — a twilight world of blue-grey light and orange glows on the southern horizon. In summer the midnight sun shines from mid-May to late July, and the town comes alive.
 
-Hammerfest is a stop on the [Hurtigruten](/europe/norway/hurtigruten) coastal voyage and makes a good base for exploring Finnmark. The harbour is the heart of town, and you can walk most of the centre in half an hour. The main draws are the Museum of Reconstruction, king crab safaris on the fjord, and the sheer novelty of standing in one of the most northerly settlements on earth.
+Hammerfest is a stop on the [Hurtigruten](/europe/norway/hurtigruten) coastal voyage and makes a good base for exploring Finnmark. The harbour is the heart of town, and you can walk most of the centre in half an hour. The main draws are the [Museum of Reconstruction](/europe/norway/hammerfest/museum_of_reconstruction), [king crab safaris](/europe/norway/hammerfest/king_crab_safari) on the fjord, the [Meridian Column](/europe/norway/hammerfest/meridian_column) UNESCO site, and the sheer novelty of standing in one of the most northerly settlements on earth.

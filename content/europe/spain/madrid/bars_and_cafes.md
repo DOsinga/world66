@@ -1,29 +1,10 @@
 ---
-title: "Bars and Cafes in Madrid"
+title: "Bars and Cafes"
 type: section
 ---
 
-Visitors will find hundreds of **Madrid bars and cafes** in this lively city, which is known to never sleep. Whatever your taste and preferences, Madrid has something to offer you. Here are some great places in Madrid to relax over a cup of coffee, wine or beer.
+Madrid does not really do café culture the way Paris or Vienna do — it does tapas crawls. The drink is incidental; the point is to walk from bar to bar in the company of friends, picking up small dishes along the way. The classic circuits are **La Latina** (around Plaza de la Paja and Cava Baja) on a Sunday lunchtime after El Rastro, **Huertas** (around Plaza Santa Ana) into the small hours, and **Malasaña** for the younger and more design-conscious crowd.
 
-**Chapandaz**
+A handful of historic cafés are still worth a stop in their own right. **Café Gijón** on the Paseo de Recoletos has been a literary haunt since 1888. **Chocolatería San Ginés**, off Calle del Arenal, has served churros con chocolate 24 hours a day for over a century. **Cervecería Alemana** on Plaza Santa Ana was a favourite of Hemingway's and still feels exactly as it did then.
 
-This long-standing bar, situated on Calle Fernando el Catolico 77, is the perfect beginning or ending to a night out in Madrid. With a cave-like setting, this bar serves great drinks and plays good music. A must-try is their signature drink, called “leche de pantera,” which combines rum with milk and cinnamon.
-
-**La Hemeroteca**
-
-This quaint café is in Avenida Filipinas 14, and has ben in business for over 30 years. It’s a great place to enjoy a cup of tea or coffee over a conversation with friends, or even while reading a book. Their milkshakes are a must-try. This café, which stocks a wide range of newspapers and magazines for the avid reader, also offers painting and photography galleries and games like darts and billiards.
-
-**La Sultana**
-
-This ocean-themed bar on Calle Melenez Valdes 51 is the perfect place to spend a night out, with its great music and pleasant environment. Besides, La Sultana offers excellent food like pizzas and nachos, cooked fresh in its pizzeria. This place airs sports games on its TV, and is frequented by football fans. If your poison happens to be rum, then you’ll be in luck here--La Sultana offers over 20 different types of rum cocktails for about $7 each
-
-**Café Commercial**
-
-Located at Glorieta de Bilbao, this café has been continuously operating in Madrid since the 1880s, and is still run by the same family. The ground floor remains quaint, with its classic furniture and general look, while the first floor houses a modern-style Internet café. Filled with locals, artists and hip crowds, Café Commercial is a great place to enjoy a good drink before starting the night.
-
-**Chocolateria San Gines**
-
-Adjacent to the Church of San Gines, chocoholics will love this place for its thick hot chocolate and churros (sticks of fried dough that can be dunked in the hot chocolate). It is also known for its wide selection of coffees and teas. Most people frequent Chocolateria San Gines late at night, after a night of partying. Interestingly, this quaint place has been around for over a century!
-
-**Contributors**
-March 22, 2010
+For nightlife proper, **Sala El Sol**, **Joy Eslava**, and the converted clubs of **Calle de la Princesa** run until 6 am or later — Madrid genuinely does not sleep. Drinking-age rules are loose and a caña (small glass of beer) is around €2.50–€3, almost always with a free tapa.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 latitude: 39.6837
 longitude: -75.7497
 title: Newark

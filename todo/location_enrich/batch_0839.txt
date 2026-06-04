@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/northcoast/healdsburg
-northamerica/panama/balboa
-northamerica/unitedstates/maine/kennebunkport
-northamerica/canada/quebec/quebeccity
-europe/bulgaria/blagoevgrad

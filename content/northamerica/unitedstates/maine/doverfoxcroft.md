@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-06-03'
 latitude: 45.1835
 longitude: -69.2276
 title: Dover-Foxcroft

@@ -1,5 +1,0 @@
-southamerica/bolivia/sucre
-northamerica/unitedstates/kansas/paola
-europe/armenia/syunik_marz/meghri
-africa/namibia/walvisbay
-africa/nigeria/abeokuta

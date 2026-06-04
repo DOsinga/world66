@@ -1,19 +1,15 @@
 ---
-title: 'Day Trips'
+title: Day Trips
 type: section
+linked_locations:
+  - europe/germany/hessen/rudesheim
+  - europe/germany/hessen/wiesbaden
+  - europe/germany/rhinelandpalatinate/mainz
+  - europe/germany/badenwrttemberg/heidelberg
+  - europe/germany/hessen/darmstadt
+  - europe/germany/hessen/marburg
 ---
 
-Frankfurt's central location makes it an excellent base for day trips. The most popular destinations include the following:
+Frankfurt's central location and excellent train network make it a strong base for day trips. Within an hour by train you can be in the Rhine valley at **Rüdesheim** or **Mainz**, the spa-elegance of **Wiesbaden**, or the picturesque university town of **Heidelberg** an hour to the south. **Darmstadt**, half an hour by S-Bahn, has the Hochzeitsturm and Mathildenhöhe — the centre of the Jugendstil movement in Germany. **Marburg** an hour and a half north is a perfectly preserved medieval university town with a castle on the hill and one of Germany's most beautiful Gothic churches.
 
-**Heidelberg **
-
-It takes about an hour from Frankfurt to reach Heidelberg, a beautiful city in Germany. Lying on the river Nectar, the city is steeped in tradition. Some of the most noted attractions here include the old town and the rubble of Heidelberg castle. The Baroque Old Town, situated at the south of the river Nectar, has the remnants of the famous Heidelberg Castle perched on the top of the Konigstuhl. The castle, originally built in the 15th century, has survived several raids by foreign intruders. Efforts to restore the castle to its former glory have been foiled either because of natural disaster or because of the locals using it as a quarry to build their houses. The castle gardens and terraces offer excellent vistas of the old town and the Nectar Valley. Aside from the castle ruins, the students’ prison and the Kurpfälzisches Museum are worth spending few hours visiting.
-
-**Trier**
-
-Located 120 miles southwest of Frankfurt, Trier is the oldest city in Germany, dating , Middle Rhine Valley has plenty of stunning sights to explore including castles, historic towns and vineyards. The rock of Loreley and the remnants of the astounding fortress of Burg Rheinfels are the most visited sites here. Castles like Marksburg Castle, Ehrenbreitstein and Schloss Stolzenfels are also worth a visit. Besides, you can get some recreation out of being involved in outdoor activities like hiking, biking, boat trips and playing golf.
-
-**Mainz**
-
-Located at the confluence of the Main and Rhine Rivers in Germany, Mainz is an ideal place for a day trip from Frankfurt. Mainz has an array of interesting spots to captivate the minds of tourists. The most visited attractions here include Mainz Cathedral, the Markt, the Gutenberg Museum, Chagall Windows and the Town Hall. The colossal Dom St. Martin and St. Stephan Cathedral, one of the oldest castles built in the late 10th century are interesting to see. Markt and the Guttenberg Museum have a collection of old books. Chagall Windows, on the other hand, is a fascinating Gothic church with windows decorated and colored by Marc Chagall who used 18 hues of blue to make this masterpiece.
-
+For a longer day, the Romantic Rhine — the World Heritage stretch between Bingen and Koblenz, with the Loreley rock and a string of hilltop castles — is best done as a cruise: take the train to Rüdesheim, board a KD river boat, and disembark at St. Goarshausen for the train back. Allow a full day. **Trier**, Germany's oldest city, is two hours away on the ICE and a long day trip; better as an overnight if you can manage it.

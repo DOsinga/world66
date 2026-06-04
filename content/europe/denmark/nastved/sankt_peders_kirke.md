@@ -8,7 +8,7 @@ tags:
   - sight
   - church
 story: >
-  The interior frescoes include a portrait of King Valdemar IV and his wife, Queen Helvig — one of very few surviving medieval portraits of Danish royalty painted in their own lifetime. The church served as the royal burial site for members of the Valdemar dynasty in the 14th century.
+  The interior frescoes in Sankt Peders Kirke include a portrait of King Valdemar IV and his wife, Queen Helvig — one of very few surviving medieval portraits of Danish royalty painted in their own lifetime. The church served as the royal burial site for members of the Valdemar dynasty in the 14th century.
 ---
 
 Sankt Peders Kirke is Næstved's largest and most important medieval church, built in red brick in the Gothic style during the 14th century. The interior is famous for its extensive frescoes, which cover the vault ceilings with scenes from the life of Christ, depictions of saints, and the remarkable royal portraits that make it unique among Danish churches.

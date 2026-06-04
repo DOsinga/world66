@@ -1,5 +1,0 @@
-northamerica/unitedstates/pennsylvania/johnstown
-europe/montenegro/budva
-europe/lithuania/vilnius
-northamerica/mexico/sanblas
-northamerica/mexico/tehuacan

@@ -1,14 +1,10 @@
 ---
-title: "Day Trips in Villa de Leyva"
+title: "Day Trips"
 type: section
 ---
 
-Planning **Villa de Leyva day trips** isn't very difficult. Most of the tourist sites are located within a short distance of each other, and the weather is pleasant enough to sustain an entire day of exploration. Visitors planning Villa de Leyva Day Trips** **should find the following information very useful.
+The countryside around Villa de Leyva packs an extraordinary density of things to see into a small area. Most of the major sites lie within 15 kilometres of town — manageable on foot, by bicycle, or by taxi.
 
-**Santuario de Iguaque**
+The Santuario de Flora y Fauna Iguaque, about 14 kilometres from town, is a high-altitude national park centred on the sacred Iguaque lagoon of the Muisca people. The trail from the park entrance to the lake climbs through cloud forest to open páramo, gaining about 900 metres of elevation. It is a serious hike requiring fitness and warm clothing even in the dry season, but the lake — silent, mist-wrapped, utterly remote feeling despite being a few kilometres from one of Colombia's most visited towns — is one of the finest places in Boyacá. Local buses drop you 3 kilometres short of the entrance.
 
-Located along the southern boundary of Villa de Leyva, this is among the most popular of natural parks in Colombia. Though the Santuario is a bit smaller than some of the other national parks, it presents a more scenic landscape, complete with an exotic view of the surrounding mountains. This natural sanctuary boasts of many bizarrely-shaped lagunas, some at an altitude of more than 3500 meters. Visitors should be ready to walk-a-bit to reach Santuario. The local buses drop visitors about 3 km from the main entrance. This path can be accessed only on-foot. The park has a wide range of flora and fauna owing to the merging of wetland forests and tropical highlands. Those who are inclined towards adventure sports can either camp or climb along the hiking-trails.
-
-**Walking Tours**
-
-To explore the natural splendor that encompasses Villa de Leyva, visitors are advised to ditch the cab-rides and favor walking. Further, the state government has now arranged for many kinds of walking tours. Some of these tours are also arranged by the private tour operators. The trail includes walking along the El Fosil (the local museum), El Infiernito (pre-historic ruins) and Monasterio de Santo Ecce Homo (Royal Monastery). A bit further, the wetland landscape gives way to some violent waterfalls. People interested in greener lifestyles or sciences can also explore the organic agricultural practices used in the private farms.
+Ráquira, about 45 minutes by bus, is one of the most colourful villages in Colombia — its streets are painted in brilliant terracotta, orange, and yellow, and its Sunday market is the best craft market in the region. The village has been a pottery centre for centuries, and you can watch artisans working in several shops along the main street.

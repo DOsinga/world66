@@ -1,16 +1,13 @@
 ---
-address: Phanit Wattana Rd.
-category: Sight
-tags:
-- things_to_do
 title: Wat Hua Wiang
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 19.3015
+longitude: 97.9680
 ---
 
-This temple enshrines a brass Buddha image, Phra Chao Phara La Khaeng, a replica of the one in Myanmar.
+Wat Hua Wiang, on Phanit Wattana Road in the market area of Mae Hong Son, is notable for its brass Buddha image, Phra Chao Phara La Khaeng — a replica of a revered image in Myanmar. The Burmese-style seated figure has a distinctive narrow face and elongated features characteristic of Mandalay-period craftsmanship.
 
-type: general
-
-
-
-address: Phanit Wattana Rd.
+The temple is an active place of worship and is visited primarily by local people rather than tourists. It has a more lived-in, authentic feel than the more photogenic lake temples. Combined with the morning market on the same street, it makes for a good early-morning walk.

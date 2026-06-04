@@ -1,29 +1,12 @@
 ---
-address: 34 Le Duan St., Ho Chi Minh City, Vietnam
-latitude: 11.059565
-longitude: 106.684622
-opening_hours: 10:00am - 9:00pm
-phone: 08/822-7897
-tags:
-- things_to_do
-- square
-- restaurant
-title: Diamond Plaza
+title: "Diamond Plaza"
 type: poi
+tags:
+  - shopping
+  - shop
+latitude: 10.7808
+longitude: 106.6983
+snippet: "Modern shopping mall next to Notre-Dame Cathedral with a cinema and international food court"
 ---
 
-Department Store, District 1
-
-Diamond Plaza, a shiny, modern department store complex, has three floors of shopping as well as restaurants, a bowling alley, and Saigon's first Western-style cinema.
-
-type: Hotspots
-
-
-
-
-
-tel: 08/822-7897
-
-openingHours: 10:00am - 9:00pm
-
-address: 34 Le Duan St., Ho Chi Minh City, Vietnam
+Diamond Plaza is a multi-floor shopping mall on Le Duan Street, directly adjacent to Notre-Dame Cathedral and the Central Post Office. The mall houses a mix of international brands, a food court on the upper floors, and a cinema — useful for a cool break from the midday heat. Upmarket by Vietnamese mall standards, it caters primarily to the Vietnamese professional class and well-heeled visitors. A practical place to pick up branded goods or grab air-conditioned lunch.

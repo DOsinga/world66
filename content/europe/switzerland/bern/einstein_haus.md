@@ -13,3 +13,5 @@ type: poi
 ---
 
 The Einstein Haus is the apartment at Kramgasse 49 where Albert Einstein lived from 1903 to 1905, the years in which he developed the Special Theory of Relativity while working as a patent clerk in Bern. The apartment is preserved with period furniture and displays relating to Einstein's life and work. He was 26 when he published his four landmark papers of 1905, one of the most productive years in the history of physics.
+
+The apartment is on the second floor of a typical Old Town building, modest in scale — Einstein was earning a junior clerk's salary at the patent office. The display includes his patent office desk, period photographs, and interactive panels explaining the 1905 papers in accessible terms. A short walk along Kramgasse from the Zytglogge, it pairs naturally with the clock tower that featured in his thought experiments about time.

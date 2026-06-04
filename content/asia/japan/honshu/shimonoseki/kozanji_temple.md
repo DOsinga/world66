@@ -4,7 +4,7 @@ longitude: 130.9618
 snippet: National Treasure Zen temple with rare cypress-bark thatched roof
 tags:
 - things_to_do
-- landmark
+- sight
 title: Kozanji Temple
 type: poi
 ---

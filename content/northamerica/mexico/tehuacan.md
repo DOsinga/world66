@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: tehuacan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_tehuacan_puebla.JPG
 image_license: CC BY-SA 3.0

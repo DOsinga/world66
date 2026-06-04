@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 image: marsala.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Marsala,_Sicily._Saline.jpg
@@ -16,4 +17,6 @@ Marsala is the second city of the Province of [Trapani](/europe/italy/sicily/tra
 
 The name comes from the Arabic "Marsa Allah" (Port of God), a reminder that the Saracens held this coast for centuries. Marsala is also where Garibaldi and his Thousand landed on 11 May 1860 to begin the campaign that would overthrow Bourbon rule in Sicily and eventually unify Italy.
 
-The old town is a pleasant grid of baroque churches and low stone buildings, walkable and quiet. The archaeological museum houses remains from a Punic warship found offshore, and the salt flats south of town — shared with Trapani — are beautiful at sunset, with their windmills and pink-tinged pools.
+The old town is a pleasant grid of baroque churches and low stone buildings, walkable and quiet. The [archaeological museum](/europe/italy/sicily/marsala/museo_archeologico_baglio_anselmi) houses the remains of a Punic warship found offshore, and the [salt flats](/europe/italy/sicily/marsala/saline_della_laguna) shared with Trapani are beautiful at sunset, with their windmills and pink-tinged pools. Just offshore, the small island of [Motya](/europe/italy/sicily/marsala/mozia_island) preserves an entire Phoenician city.
+
+The two big **Marsala** cellars — [Cantine Florio](/europe/italy/sicily/marsala/florio_winery) and [Cantine Pellegrino](/europe/italy/sicily/marsala/cantine_pellegrino) — both run tastings, and the [duomo](/europe/italy/sicily/marsala/marsala_cathedral) on Piazza della Repubblica is dedicated, oddly, to Thomas Becket of Canterbury.

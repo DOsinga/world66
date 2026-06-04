@@ -2,7 +2,7 @@
 address: Brick Lane, London E1
 latitude: 51.522532
 longitude: -0.071661
-opening_hours: Market: Sun 10am–5pm; shops and restaurants daily
+opening_hours: "Market: Sun 10am–5pm; shops and restaurants daily"
 snippet: East London's street of vintage, bagels, curry houses, and Sunday market
 tags:
 - shopping

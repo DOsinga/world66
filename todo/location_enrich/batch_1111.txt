@@ -1,5 +1,0 @@
-europe/poland/krakow
-northamerica/unitedstates/massachusetts/concord
-africa/centralafricanrepublic/zinga
-southamerica/chile/valdivia
-africa/rwanda/ruhengeri

@@ -1,5 +1,0 @@
-northamerica/unitedstates/iowa/desmoines
-northamerica/belize/sanignacio
-europe/croatia/island_vis
-europe/croatia/peljesac/viganj
-europe/finland/hanko

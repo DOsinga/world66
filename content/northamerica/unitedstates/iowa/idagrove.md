@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-04'
 latitude: 42.344975
 longitude: -95.471358
 title: Ida Grove

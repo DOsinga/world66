@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: bastia.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bastia,_A_Marina,_Vechju_Portu.jpg

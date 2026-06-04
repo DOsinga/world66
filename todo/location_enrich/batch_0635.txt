@@ -1,5 +1,0 @@
-africa/morocco/safi
-asia/turkey/kackar/rize
-europe/belgium/jabbeke
-asia/indonesia/pontianak
-asia/india/uttarpradesh/gorakhpur

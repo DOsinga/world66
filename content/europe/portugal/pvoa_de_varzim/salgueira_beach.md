@@ -5,6 +5,9 @@ done:
 latitude: 41.383531
 longitude: -8.771371
 snippet: Atlantic surf beach at the north end of the promenade
+tags:
+  - things_to_do
+  - beach
 title: Salgueira Beach
 type: poi
 ---

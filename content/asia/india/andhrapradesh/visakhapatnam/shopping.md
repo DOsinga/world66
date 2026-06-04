@@ -1,26 +1,6 @@
 ---
-address: Jagadamba Junction
-latitude: 17.712378
-longitude: 83.303004
 title: Shopping
-type: poi
+type: section
 ---
 
-Here are a few suggested places where you can go shopping.
-
-**Contributors**
-February 28, 2007
-
-### [Lepakshi Emporium](/asia/india/andhrapradesh/visakhapatnam/shopping/lepakshi_emporium)
-
-**Lepakshi** is where you will find hand crafted wonders from all over the state. Run by the Governament Lepakshi offers wide variety of choice in hand crafted items not only from Andhra Pradesh but different parts of India too.
-
-Lepakshi Emporium is situated in the Heart of the Business district i.e Jagadamba Junction.
-
-type: Speciality shops
-
-
-
-[[rate it]](/asia/india/andhrapradesh/visakhapatnam/shopping/lepakshi_emporium)
-
-address: Jagadamba Junction
+Jagadamba Junction is the main commercial centre for both everyday shopping and craft goods. The [Lepakshi Emporium](/asia/india/andhrapradesh/visakhapatnam/lepakshi_emporium) is the best single stop for Andhra handicrafts. For textiles, Pochampally ikat and Dharmavaram silk are the regional specialities worth looking for.

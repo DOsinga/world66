@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 image: champery.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Champery-02.jpg
@@ -12,6 +13,6 @@ title: Champéry
 type: location
 ---
 
-Champéry is a traditional Swiss-French mountain village in the canton of Valais, sitting at 1,050 metres on the slopes above the Illiez valley near the French border. It is best known as one of the gateways to the Portes du Soleil, one of the world's largest linked ski areas, which straddles the Swiss-French border and connects over a dozen resorts including Morzine, Avoriaz, and Les Gets. From Geneva Airport the village is around 90 minutes by bus, rail, or car.
+Champéry is a traditional Swiss-French mountain village in the canton of Valais, sitting at 1,050 metres on the slopes above the Illiez valley near the French border. It is best known as one of the gateways to the [Portes du Soleil](/europe/switzerland/champery/portes_du_soleil), one of the world's largest linked ski areas, which straddles the Swiss-French border and connects over a dozen resorts including Morzine, Avoriaz, and Les Gets. From Geneva Airport the village is around 90 minutes by bus, rail, or car.
 
-The village has retained much of its traditional character, with wooden chalets, a small main street of local shops and restaurants, and a church whose tall spire is visible from the valley below. In winter the skiing and snowboarding draw the crowds, with pistes suited to all levels and cross-border touring that takes you into France and back. In summer Champéry becomes a quieter destination for hiking, mountain biking, and paragliding, with the cable cars and chairlifts still running to give access to the high alpine terrain above the treeline.
+The village has retained much of its traditional character, with wooden chalets, a small main street of local shops and restaurants, and a church whose tall spire is visible from the valley below. In winter the skiing and snowboarding draw the crowds, with pistes suited to all levels — including the fearsome [Pas de Chavanette (Swiss Wall)](/europe/switzerland/champery/pas_de_chavanette) on the French border, one of the steepest mogul faces in Europe. In summer Champéry becomes a quieter destination for [hiking, mountain biking](/europe/switzerland/champery/summer_hiking), and paragliding, with the cable cars and chairlifts still running to give access to the high alpine terrain above the treeline. The [Dents du Midi](/europe/switzerland/champery/dents_du_midi), the dramatic seven-summit ridge dominating the eastern skyline, provides the most iconic views.

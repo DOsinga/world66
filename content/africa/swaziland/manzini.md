@@ -1,17 +1,22 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
+image: manzini.jpg
+image_attribution: Bgabel
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg
 latitude: -26.497644
+loc_type: city
 longitude: 31.375082
+score: 0.39
 title: Manzini
 type: location
-score: 0.39
-loc_type: city
 ---
 
 Manzini is Eswatini's largest city and its commercial and industrial hub, though it has not been the capital since the British moved the administrative centre to [Mbabane](/africa/swaziland/mbabane) after the Anglo-Boer War. It has more bustle and grit than Mbabane, and visitors tend to pass through rather than linger.
 
-The main draw is the Manzini Market, held twice a week in the town centre. It is one of the best markets in the country for fresh produce, traditional crafts, dried foods, and general commerce — far less curated than the tourist-facing stalls in the Ezulwini Valley. Go in the morning when it is at its liveliest.
+The main draw is the [Manzini Market](/africa/swaziland/manzini/manzini_market), held on Mondays and Fridays in the town centre. It is one of the best markets in the country for fresh produce, traditional crafts, dried foods, and general commerce — far less curated than the tourist-facing stalls in the Ezulwini Valley. Go in the morning when it is at its liveliest. The [Cathedral of Our Lady of Assumption](/africa/swaziland/manzini/our_lady_of_assumption_cathedral) and the [Mavuso Sports Centre](/africa/swaziland/manzini/mavuso_sports_centre) are the other fixed points of the city.
 
 King Mswati III International Airport is located near Sikhuphe, about 45 minutes' drive to the east, and handles most of the country's scheduled international flights. The older Matsapha Airport, just north of Manzini, now operates mainly charters.
 

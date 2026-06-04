@@ -3,4 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-The Lonar crater is the main reason to visit. One of the world's five largest meteorite impact craters, it ranks third in size and is the only one formed in basalt rock. Within the depression lies a saline lake, and around the rim stand ruins of temples built in the Hemadanti style. Hundreds of peafowl live inside the crater, along with monitor lizards, langurs, chinkaras, and both resident and migratory birds.
+There is little to detain you in Malkapur itself — the town is a working agricultural and railway centre rather than a sightseeing destination. The reason travellers come here is to reach the **Lonar Crater**, about 100 km southeast across the Buldhana district. The crater is the only known hypervelocity meteorite impact in basalt rock anywhere on Earth, and it is one of the more genuinely remarkable natural sites in central India.
+
+In the town itself, the **Malkapur Railway Station** — a working station on the Central Railway's Mumbai–Nagpur line — is the most visible piece of infrastructure and a useful orientation point.

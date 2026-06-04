@@ -1,5 +1,0 @@
-africa/morocco/taroudant
-europe/italy/liguria/laspezia
-northamerica/canada/alberta/sylvan_lake
-asia/southkorea/chejuisland
-asia/india/rajasthan/sriganganagar

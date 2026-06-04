@@ -3,12 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**all**
+Dalian Zhoushuizi International Airport (DLC) has direct flights from Beijing (1h15), Shanghai (2h), Guangzhou, Hong Kong, Seoul, and Tokyo. Domestic connections are frequent and competitively priced.
 
-**By air**
+By rail, high-speed G-trains from Beijing take around five hours via Shenyang — a comfortable option. Overnight trains from Beijing are also an option for those who want to save on accommodation.
 
-Having domestic and international air connections. There’re daily flights from Beijing (1 hour and 10 minutes), Shanghai (1 hour and 35 minutes), Guangzhou (2 hours and 55 minutes), Hong Kong (3 hours) to Dalian.
-
-**By boat**
-
-Regular boats from Tianjin, Shanghai, Qingdao, Yantai and Weihai can take you to Dalian. Tickets can be bought at the ferry terminal in the east of Dalian, not far from the Friendship Hotel. Tickets are also sold at a booth in front of the railway station. Bus No.13 goes from the railway station [more..](/asia/china/liaoning/dalian/gettingthere/byboat)
+By sea, Dalian has ferry connections across the Bohai Sea to Yantai, Penglai, and Tianjin. The overnight ferry from Yantai is a popular and scenic alternative to the train, with berths available at reasonable prices.

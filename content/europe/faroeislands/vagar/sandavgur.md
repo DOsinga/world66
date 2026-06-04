@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: sandavgur.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sandav%C3%A1gur,_Faroe_Islands.JPG

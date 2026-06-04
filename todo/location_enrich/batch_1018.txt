@@ -1,5 +1,0 @@
-asia/india/andhrapradesh/kadiri
-africa/egypt/maadi
-northamerica/honduras/sanpedrosula
-europe/greece/aegina
-europe/russia/the_black_sea_coas/anapa

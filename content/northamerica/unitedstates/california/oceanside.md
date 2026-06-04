@@ -1,18 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 latitude: 33.19587
+loc_type: city
 longitude: -117.379483
+score: 0.53
+sources:
+- https://en.wikipedia.org/wiki/Oceanside,_California
 title: Oceanside
 type: location
-score: 0.53
-loc_type: city
 ---
 
-Oceanside, the perfect spot for surfing in San Diego county. You can view current surf conditions in realtime by accessing the internet. In addition there are two live web cams positioned on either side of the pier.
+Oceanside is a surf town and military city on the San Diego County coast, about 40 miles north of the city. For most of the 20th century it was known primarily as the gateway to [Marine Corps Base Camp Pendleton](/northamerica/unitedstates/california/oceanside/camp_pendleton) and not much else. That has changed — the downtown area around the [Oceanside Pier](/northamerica/unitedstates/california/oceanside/oceanside_pier) has developed a genuine restaurant and arts scene, and the [California Surf Museum](/northamerica/unitedstates/california/oceanside/california_surf_museum) is one of the best of its kind anywhere.
 
-There is a large public pier that extends well out into the Pacific Ocean. The pier is free. You can fish off the pier or stroll out to the end for ice cream at the restuarant perched on the end. Along the way, you are likely to see an interesting assortment of fresh fish caught by the people fishing. You may also see seals or dolphins swimming nearby.
+The pier is the city's heart. It stretches nearly 2,000 feet into the Pacific and is free to walk at any hour — you can fish, watch the surf breaks, or simply stroll to the end for the views. Dolphins and seals are regularly spotted in the water below. The beach on either side of the pier is wide and uncrowded compared to beaches further south, with good surf that draws a dedicated local community.
 
-Oceanside is also the main entrance to Marine Corps Base Camp Pendleton. The base encompasses approximately 17 miles of the Pacific coastline. Camp Pendleton is home to the 25,000 Marines that make up the First Marine Expeditionary Force (I MEF), including the First Marine Division.
+Four miles inland, [Mission San Luis Rey de Francia](/northamerica/unitedstates/california/oceanside/mission_san_luis_rey) is the largest of California's 21 missions, still active and remarkably well preserved. [Buena Vista Lagoon](/northamerica/unitedstates/california/oceanside/buena_vista_lagoon) on the southern edge of the city is a rare freshwater lagoon that attracts serious birdwatchers. [Mount Ecclesia](/northamerica/unitedstates/california/oceanside/mount_ecclesia), the hilltop headquarters of the Rosicrucian Fellowship, adds an unexpected esoteric note.
 
-There is also an AMTRAK station and a commuter train station in Oceanside.
+Oceanside is accessible by Amtrak and the COASTER commuter train from San Diego — the [Oceanside Transit Center](/northamerica/unitedstates/california/oceanside/getting_there) is one of the busiest rail hubs in the region. [Carlsbad](/northamerica/unitedstates/california/carlsbad) is immediately to the south, and [San Diego](/northamerica/unitedstates/california/sandiego) is about an hour away by rail.

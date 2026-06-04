@@ -1,20 +1,27 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-03'
 image: kailua.jpg
 image_attribution: Calbear22
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Oceanfront_south_of_Hulihee_Palace.JPG
-latitude: 19.64
-longitude: -155.9969
-score: 0.68
-title: Kailua-Kona
-type: location
+latitude: 21.3975
 loc_type: city
+longitude: -157.7394
+score: 0.68
+title: Kailua
+type: location
 ---
 
-Kailua-Kona is the main tourist town on the Big Island's sunny west coast, a compact strip of shops, restaurants, and historic sites strung along Ali'i Drive with the blue Pacific on one side and the slopes of Hualalai volcano on the other. The weather here is almost absurdly reliable — dry and warm year-round while the east side of the island gets drenched.
+Kailua is the largest town on Oahu's windward coast, a relaxed suburban beach town tucked between the Koolau mountain range and one of the great beaches of the Pacific. For decades it was the quiet alternative to Waikiki — a place where Honolulu workers came home to weatherboard houses, lawns full of plumeria, and an unhurried small-town pace. The crowds have caught up, but Kailua still feels distinctly different from the south shore: greener, breezier, more residential, and dominated by the curving white sand of [Kailua Beach](/northamerica/unitedstates/hawaii/kailua/kailua_beach) and the smaller, even more spectacular [Lanikai Beach](/northamerica/unitedstates/hawaii/kailua/lanikai_beach) next door.
 
-The town's waterfront is dominated by Hulihe'e Palace, a 19th-century royal retreat, and Ahu'ena Heiau, the temple where Kamehameha the Great spent his final years. But most visitors come for the water. The snorkeling along the Kona coast is some of the best in Hawaii, with manta ray night dives a particular thrill — operators take you out at dusk to float above giant mantas drawn to the plankton attracted by underwater lights.
+The town centre is a low-key strip of shops and restaurants a few blocks back from the water. The beaches face directly into the trade winds, which makes Kailua one of the best places in the world for stand-up paddleboarding, kayaking, and kitesurfing. Three offshore islands — Flat Island close to shore, and the twin [Mokulua islets](/northamerica/unitedstates/hawaii/kailua/na_mokulua) visible from Lanikai — are seabird sanctuaries that can be reached by kayak on calm mornings.
 
-Kailua-Kona is also the home of the Ironman World Championship, held here every October since 1978. The race route along the Queen K highway and back through town is part of the local identity. The town is a good base for exploring the Big Island's west coast — Kealakekua Bay for dolphins and Captain Cook's monument, the coffee farms of the Kona coffee belt on the hillside above town, and the black and white sand beaches stretching north and south.
+Behind the town, the Koolau range climbs steeply into a wall of green ridges, draped almost permanently in clouds and waterfalls. The [Kawainui Marsh](/northamerica/unitedstates/hawaii/kailua/kawainui_marsh), the largest freshwater wetland in Hawaii, sits between the mountains and town. Pre-contact Hawaiian sites are scattered through the area, including the ancient [Ulupō Heiau](/northamerica/unitedstates/hawaii/kailua/ulupo_heiau) temple, which sits — improbably — behind a YMCA.
+
+Kailua is a 30-minute drive over the Pali Highway from Honolulu. There are no hotels in town (a deliberate local policy), but vacation rentals are widely available. Bring reef-safe sunscreen, rent a bike or a kayak, and plan to do very little.
+
+## Destinations
+
+See also [Honolulu](/northamerica/unitedstates/hawaii/honolulu) and [Haleiwa](/northamerica/unitedstates/hawaii/haleiwa) on Oahu.

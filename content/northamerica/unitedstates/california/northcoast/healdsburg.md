@@ -1,6 +1,11 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
+image: healdsburg.jpg
+image_attribution: Clay Gilliland
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Healdsburg_California,_2013_(8526213231).jpg
 latitude: 38.610681
 loc_type: city
 longitude: -122.870138

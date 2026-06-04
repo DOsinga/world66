@@ -5,7 +5,8 @@ latitude: 28.650682
 longitude: 77.232961
 snippet: India's largest mosque with tower views over Old Delhi
 tags:
-- sights
+- things_to_do
+- sight
 title: Jama Masjid
 type: poi
 ---

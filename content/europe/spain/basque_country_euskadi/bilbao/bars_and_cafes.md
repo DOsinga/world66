@@ -1,25 +1,6 @@
 ---
-title: "Bars and Cafes in Bilbao"
+title: "Bars and Cafes"
 type: section
 ---
 
-Hello there,
-I would recommend 2 places for fine food in Casco Viejo. There are scores.
-Take the # 58 Bilbaobus to the last stop and go to the opposite corner for
-Botxo Kafe
-Plaza Santos Juanes 2
-Bilbao, Spain
-Tel: 944 156 147
-5 selections in each of 2 platos plus a full bottle of wine, bread, and dessert for 9.50 Euros.
-An excellent meal!!!!
-Walk across the street and find Calle Somera
-and try some very creative tapas, pinchos at:
-K-2 PUB
-Somera 10
-Bilbao, Spain
-Tel: 944 163 390
-Prices are very reasonable starting at under 1 Euros.
-
-David C.
-Seattle,Wa.
-June 2010
+The pintxo bar circuit is the defining Bilbao social experience. Bars in the Casco Viejo and the Ensanche district lay out elaborate small plates on their counters from around 7pm, and the custom is to move from bar to bar — eating two or three at each, washing them down with a small beer (zurito) or a glass of txakoli. Calle del Perro, Calle Ledesma, and the streets around Plaza Nueva are the best areas to start.

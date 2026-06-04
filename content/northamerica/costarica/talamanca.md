@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
+image: talamanca.jpg
+image_attribution: Jan Helebrant
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Costa_Rica_-_Puerto_Viejo_de_Talamanca_(53996236712).jpg
 latitude: 9.6333
+loc_type: city
 longitude: -82.8333
+score: 0.59
 title: Talamanca
 type: location
-score: 0.59
-loc_type: city
 ---
 
 The Canton of Talamanca, in Costa Rica's Limón province, is the country's southern Caribbean zone — and one of its most remarkable corners. It holds roughly 3% of the world's biodiversity, packed into a landscape that runs from coral reefs and turtle-nesting beaches to cloud-drenched rainforest and the high peaks of the Talamanca mountain range.

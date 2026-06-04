@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
+  location_enrich: '2026-06-04'
 image: alappuzha.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg
@@ -16,6 +17,6 @@ Alappuzha, also known as Alleppey, is the gateway to Kerala's backwaters and one
 
 The town was founded in 1762 and grew into a busy trading port, with coir factories, warehouses and commercial establishments lining the canals. Christianity took root here early, and the Church Missionary Society established its local headquarters in 1816. The town still has a pleasantly faded colonial atmosphere along its waterfront.
 
-Most visitors come for the backwater trips. You can hire a houseboat for an overnight cruise through palm-fringed canals, take the public ferry from [Kollam](/asia/india/kerala/kollam) (an eight-hour journey that is one of Kerala's classic experiences), or arrange a shorter canoe trip through the narrower waterways where the houseboats cannot go. The annual Nehru Trophy Boat Race, held on Punnamada Lake in August, is a spectacular event with enormous snake boats crewed by over a hundred rowers.
+Most visitors come for the backwater trips. You can hire a [houseboat for an overnight cruise](/asia/india/kerala/alappuzha/backwater_houseboat_cruise) through palm-fringed canals, take the public ferry from [Kollam](/asia/india/kerala/kollam) (an eight-hour journey that is one of Kerala's classic experiences), or arrange a shorter canoe trip through the narrower waterways where the houseboats cannot go. The annual [Nehru Trophy Boat Race](/asia/india/kerala/alappuzha/nehru_trophy_boat_race), held on Punnamada Lake in August, is a spectacular event with enormous snake boats crewed by over a hundred rowers.
 
-Alappuzha also has a long sandy beach backed by dense palm groves, and the surrounding Kuttanad region is one of the few places in the world where farming takes place below sea level.
+Alappuzha also has a long sandy [beach](/asia/india/kerala/alappuzha/alappuzha_beach) backed by dense palm groves, and the surrounding Kuttanad region — traversed by the [Pamba River](/asia/india/kerala/alappuzha/pamba_river) — is one of the few places in the world where farming takes place below sea level. The [coir industry](/asia/india/kerala/alappuzha/coir_heritage) that made the town prosperous has left a legacy of canals and colonial-era warehouses that are still visible around the port area.

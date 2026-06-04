@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 latitude: 59.996994
 longitude: 32.296246
 title: Staraya Ladoga

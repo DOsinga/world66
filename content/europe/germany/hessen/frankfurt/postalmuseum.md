@@ -5,6 +5,10 @@ latitude: 50.104485
 longitude: 8.676185
 phone: +49 (0)69 60600
 snippet: Free museum on the Museumsufer with postal history and stamps
+tags:
+- things_to_do
+- museum
+- sachsenhausen
 title: Postal Museum
 type: poi
 url: www.museumsstiftung.de

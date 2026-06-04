@@ -1,14 +1,15 @@
 ---
-latitude: 53.7639
-longitude: -2.0244
-snippet: National Trust wooded valley with waterfalls and the off-grid Gibson Mill
+latitude: 53.7600
+longitude: -2.0450
 tags:
 - things_to_do
 - sight
 title: Hardcastle Crags
 type: poi
+story: >
+  Gibson Mill at Hardcastle Crags was one of the early mills to transition from water to steam power in the 1850s. It later became a mill workers' leisure facility with a dance floor and café — one of the more unusual second acts in industrial history. The National Trust restored it and now operates it as a visitor centre, powered by a combination of renewable energy sources.
 ---
 
-A National Trust property in the wooded valley of Hebden Water, just upstream from Hebden Bridge. Paths follow the river through beech and oak woods past tumbling waterfalls and gritstone outcrops; the going is easy enough for families and good enough for serious walkers to lengthen into a day.
+Hardcastle Crags is a wooded valley above Hebden Bridge where two streams meet among ancient woodland owned by the National Trust. It is consistently rated one of the best short walking destinations in West Yorkshire, and it deserves the reputation. The paths along the valley floor are easy and can be walked in an hour; the rocky crags above add distance and drama for those who want it.
 
-The valley feels remarkable for how green and watery it is in a region so often described as bleak. In late spring the woods fill with bluebells and wild garlic; in autumn the foliage along the river is some of the most colourful in West Yorkshire.
+At the heart of the valley is Gibson Mill, a restored Victorian cotton mill that houses a café and visitor centre. The mill's waterwheel is still functional. The contrast between the dark stone industrial building and the surrounding woodland is striking, and the café makes a good destination in its own right on a wet day.

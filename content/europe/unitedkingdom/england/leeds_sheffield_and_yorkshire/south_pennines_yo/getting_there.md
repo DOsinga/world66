@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-The South Pennines are one of the easiest English uplands to reach without a car. The **Caldervale Line** runs along the bottom of the Calder Valley with hourly stopping services between Manchester Victoria and Leeds; useful stations include Todmorden, Hebden Bridge, Mytholmroyd, and Sowerby Bridge. Any walk in the area can start from a platform.
+The South Pennines is well served by rail along the Calder Valley line, which connects Leeds and Manchester via Hebden Bridge, Mytholmroyd, Todmorden, and Walsden. Trains run frequently throughout the day. From Leeds, Hebden Bridge takes about 30 minutes; from Manchester Victoria, about 40 minutes. The train is the sensible option — the valley roads are narrow and parking is limited in the town centres.
 
-By car, the M62 trans-Pennine motorway skirts the southern edge of the area; from the north, the A646 runs through the Calder Valley from Halifax to Burnley. Parking in the smaller villages is limited at weekends — use the train when you can.
-
-Manchester Airport is around 50 minutes by train; Leeds Bradford Airport is closer but has fewer connections.
+By car from the east, the M62 motorway crosses the South Pennines at its highest point and gives easy access to Ripponden and Sowerby Bridge. From the west, the same motorway brings you in via Rochdale. The A646 follows the valley floor between Halifax and Todmorden and passes through or near most of the main towns.

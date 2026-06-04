@@ -1,16 +1,15 @@
 ---
 latitude: 53.6989
 longitude: -1.9939
-snippet: England's longest continuous road climb, popular with cyclists since the 2014 Tour de France
-story: 'Cragg Vale featured in stage 2 of the 2014 Tour de France Grand Départ, when the peloton swept south from York via this very valley — and the village painted yellow bicycles all along the route. The climb has remained on every serious British cyclist''s tick list since.'
 tags:
 - things_to_do
 - sight
-- cycling
 title: Cragg Vale
 type: poi
+story: >
+  Cragg Vale was home in the 1760s to the "Cragg Vale Coiners" — a gang of weavers and farmers who clipped gold from genuine coins and used the shavings to make counterfeit currency. At their height they were producing roughly a third of all the false coin in circulation in England. Their leader, "King David" Hartley, was eventually caught and hanged at York in 1770. The gang's story was retold in Benjamin Myers' novel The Gallows Pole, later adapted for television.
 ---
 
-The Cragg Vale climb from Mytholmroyd to the Calderdale–Lancashire border ascends 290 metres over 5.5 miles at an unrelenting two to four per cent — making it, by repute, the longest continuous road climb in England. Cyclists from across the country come to ride it and the road is shared with patient drivers; on a Sunday in summer the field is thick with bicycles.
+Cragg Vale is a long, narrow valley climbing south from Mytholmroyd through wooded cloughs and open moorland. The B6138 road runs through it, but the valley is best explored on foot — the paths on either side of the stream offer a choice of woodland walks or high moorland routes. At the top of the valley, the road reaches Blackstone Edge, one of the highest points on the South Pennines and the site of a Roman road that is one of the best-preserved stretches of Roman road surface in Britain.
 
-The valley itself is sleepy: a couple of stone-built villages, a working chapel, and a pub at the top (the Robin Hood, now under the name The Hinchliffe Arms) where most riders pause for refreshment before the long descent back.
+The village itself is small — a church, a pub, a scatter of farms. The appeal is the landscape: a classic Pennine valley that changes character from sheltered woodland at the bottom to bare moor at the top within a single walk.

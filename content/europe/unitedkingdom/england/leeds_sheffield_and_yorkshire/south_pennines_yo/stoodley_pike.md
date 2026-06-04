@@ -1,15 +1,15 @@
 ---
-latitude: 53.714
+latitude: 53.7140
 longitude: -2.0424
-snippet: 121-foot stone monument on the Pennine Way, visible for miles
-story: 'The first monument on this site was begun in 1814 to celebrate the abdication of Napoleon and completed in 1815 after Waterloo — but it collapsed in 1854, supposedly the same day the British ambassador left St Petersburg at the start of the Crimean War. The current monument went up in 1856 to mark the war''s end. Locals still tell the story as if the stones themselves are tracking European peace and war.'
 tags:
 - things_to_do
 - sight
 title: Stoodley Pike
 type: poi
+story: >
+  The original monument was built to mark Napoleon's abdication in 1814. It collapsed in 1854 — on the very day that the Russian ambassador left London at the start of the Crimean War, which local legend found suitably ominous. The replacement was built immediately and has stood since. There is a spiral staircase inside leading to a viewing gallery, though access is sometimes restricted.
 ---
 
-The blackened gritstone obelisk that rises above the Calder Valley is the most photographed landmark in the South Pennines. Stoodley Pike sits at 400 metres on a windy moorland ridge, visible from miles away, and a short staircase inside leads to an internal viewing balcony at the top — bring a torch, it is unlit.
+Stoodley Pike is a 120-foot stone obelisk standing at 1,300 feet on the moor above Todmorden, visible from across the Calder Valley and from miles in every direction. It is the South Pennines' most recognisable landmark and the most satisfying walk in the area. The Pennine Way passes directly beside it, and a straightforward moorland path leads up from the valley in about an hour.
 
-The classic approach is on foot from Hebden Bridge or Mankinholes along the Pennine Way: about an hour and a half each way over moorland that is bleak in winter and rolling-green in summer. On a clear day you can see across to the Yorkshire Dales in the north and Pendle Hill to the west.
+The views from the base are excellent in all directions — on a clear day, the Pennines roll away to the north, the valley towns lie below, and on a very clear day you can see the hills of Lancashire to the west. The walk up and back, starting from Mytholmroyd or Hebden Bridge, makes a half-day excursion that is accessible to any reasonably fit walker.

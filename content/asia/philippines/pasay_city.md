@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-04'
 latitude: 14.5437
 longitude: 120.99465
 title: Pasay City

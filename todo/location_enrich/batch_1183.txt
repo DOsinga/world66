@@ -1,5 +1,0 @@
-europe/france/midi/provence/menton
-northamerica/unitedstates/iowa/cedarrapids
-asia/india/maharashtra/bhandardhara
-europe/unitedkingdom/scotland/arran/brodick
-europe/netherlands/breda

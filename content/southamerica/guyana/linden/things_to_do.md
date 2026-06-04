@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Linden is a working town rather than a tourist destination, and there is not much in the way of conventional attractions. The Demerara River setting is pleasant, the bauxite industry history is visible in the landscape, and the town is the logical staging point for travel south toward the Rupununi savannahs and the Brazilian border.
+Linden's main appeal is its river setting and its role as a gateway to the Guyanese interior. The Demerara River provides the backdrop for the town, and the surrounding laterite landscape — stained deep red-orange from bauxite ore — gives it a visual character unlike anywhere else in the country.

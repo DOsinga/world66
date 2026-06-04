@@ -1,7 +1,6 @@
 ---
 latitude: 36.2087
 longitude: -81.6708
-snippet: Three-acre garden of native High Country plants in the heart of town
 tags:
 - things_to_do
 - sight
@@ -10,6 +9,6 @@ title: Daniel Boone Native Gardens
 type: poi
 ---
 
-A quiet, three-acre garden devoted exclusively to plants native to the southern Appalachians. Paths wind through rhododendron and mountain laurel thickets, a fern glade, a meadow, and a small reflecting pool. Spring brings ephemeral wildflowers — trillium, bloodroot, jack-in-the-pulpit — and in June the rhododendrons explode.
+A small but well-maintained botanical garden beside the Horn in the West amphitheater, showcasing plants native to North Carolina. The garden was established in 1963 and covers several acres of informal landscaping with labeled species ranging from ferns and wildflowers to native shrubs and trees. It is a pleasant place to spend an hour, particularly in late spring when the mountain wildflowers are at their peak.
 
-The garden adjoins the Hickory Ridge Homestead and the Horn in the West amphitheatre, which makes it easy to combine all three in one afternoon. Open seasonally; modest admission.
+The forged iron entry gate, a gift to the garden, is considered a notable example of craft ironwork. Admission is low and the garden is often uncrowded — a calm contrast to the more visited trails in the area.

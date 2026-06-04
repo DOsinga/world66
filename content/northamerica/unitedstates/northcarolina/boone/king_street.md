@@ -1,15 +1,13 @@
 ---
-latitude: 36.2167
+latitude: 36.2178
 longitude: -81.6745
-snippet: Boone's compact downtown spine of bookshops, breweries, and restaurants
 tags:
 - things_to_do
 - neighbourhood
-- king_street
-title: King Street (Downtown Boone)
+title: King Street
 type: neighbourhood
 ---
 
-King Street is downtown Boone — about eight walkable blocks of brick storefronts, independent bookshops, breweries, and restaurants stretched along the highway that bisects the town. The west end is closer to the Appalachian State campus; the east end leans more local. Both halves are stuffed with student-friendly cafés, outfitters selling hiking gear, and music venues that range from listening-room folk to college-rock dives.
+King Street is the main artery of Boone's downtown — a compact several-block stretch that manages to be genuinely lively without feeling contrived. The mix leans toward independent businesses: breweries, coffee shops, bookshops, outdoor gear retailers, and a handful of restaurants that range from collegiate-casual to surprisingly good. The student population from App State keeps it busy year-round.
 
-Park once and wander. Mast General Store at 630 West King is an institution: a sprawling outfitter and old-fashioned candy shop housed in a building that has been a merchant on the street in some form since 1913.
+The street is best on foot. The buildings are mostly early 20th century commercial structures, and the backdrop is always the surrounding ridgelines. Weekend evenings bring live music to several of the bars. The Saturday farmers' market, held nearby, is worth timing your visit around.

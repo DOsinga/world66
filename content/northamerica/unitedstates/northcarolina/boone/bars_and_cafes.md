@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: Bars and Cafes
 type: section
 ---
 
-Boone's bar scene is shaped by the university and by a strong North Carolina craft-beer streak. Expect IPAs, mountain-themed names, and a friendly mix of students and outdoor types.
+Boone has a solid brewery scene and a coffee culture that leans toward the serious. The App State student population keeps both well-patronised, and the town has enough independent options to make the bar-hopping worthwhile for a night or two.

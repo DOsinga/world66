@@ -1,7 +1,6 @@
 ---
 latitude: 36.174
 longitude: -81.662
-snippet: Family-friendly ski area minutes from town, open since 1962
 tags:
 - things_to_do
 - sight
@@ -9,6 +8,6 @@ title: Appalachian Ski Mountain
 type: poi
 ---
 
-Appalachian Ski Mountain — known locally as App Ski — is one of three ski areas in Watauga County and the closest to Boone. The mountain is modest by Rocky-Mountain standards (12 trails, 365 feet of vertical, terrain park), but it has the friendliest pricing and the gentlest learning slopes in the High Country.
+The closest ski area to Boone, Appalachian Ski Mountain is about 6 miles south of town on NC 221. It has twelve slopes, a terrain park, and consistently reliable snowmaking equipment — essential given that North Carolina winters can be unpredictable. The vertical drop is modest compared to western resorts, but for the eastern US it is a legitimate ski area with runs for all ability levels.
 
-Snowmaking runs from December into March; on a good cold-snap the conditions are surprisingly solid. There is also an outdoor ice rink at the base lodge — open to non-skiers — which is a small, sweet touch on a winter weekend.
+The season typically runs December through March. The ski school is well regarded and attracts families from Charlotte and the Piedmont who want an accessible introduction to skiing. Night skiing is available, which makes a midweek evening on the slopes a practical option if you are based in Boone.

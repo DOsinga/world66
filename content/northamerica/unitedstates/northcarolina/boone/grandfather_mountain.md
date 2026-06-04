@@ -1,17 +1,15 @@
 ---
-latitude: 36.0958
-longitude: -81.8311
-snippet: Mile-high swinging bridge and one of the most distinctive peaks in the Appalachians
-story: "Grandfather Mountain is so biologically rich that UNESCO designated it an International Biosphere Reserve in 1992 — the only privately owned site in the world to receive that status at the time. The mountain has 16 distinct ecological communities, and species you would normally have to drive to Canada to see grow on its summit."
+latitude: 36.0976
+longitude: -81.8260
 tags:
 - things_to_do
 - sight
 title: Grandfather Mountain
 type: poi
+story: >
+  The Mile High Swinging Bridge at Grandfather Mountain's summit was built in 1952 and has been repaired and reinforced several times since. At 5,305 feet, it links two rocky outcrops above a 1,000-foot drop. The bridge sways in wind — deliberately, by design — and on a gusty day the experience is memorably vertiginous. A ranger on duty has described it as "the only place in North Carolina where you can get airsick standing still."
 ---
 
-Grandfather Mountain — named for the craggy face that elders saw in its summit profile — rises to 5,946 feet and is among the most striking peaks in the eastern United States. The attraction at the top, run by a non-profit, includes the Mile High Swinging Bridge, a wildlife habitat with native species (black bears, river otters, cougars, eagles), and a small natural history museum.
+Grandfather Mountain is the most distinctive peak in the Blue Ridge, visible from dozens of miles away with its craggy summit silhouette. It sits about 15 miles southeast of Boone on US 221 and is the kind of place that rewards a full day. The private park at the summit includes several miles of hiking trails, habitat areas with native wildlife (bears, cougars, golden eagles, river otters), and the famous Mile High Swinging Bridge connecting the two highest outcrops.
 
-The trails on the back side of the mountain are not for the timid: the Grandfather Trail traverses a series of rocky outcrops with ladders and cables, and the views from Calloway Peak make the effort worthwhile on a clear day. There is also a less strenuous nature trail loop near the swinging bridge.
-
-About 20 minutes south of Boone via US-221 or the Blue Ridge Parkway.
+The views from the summit on a clear day extend across layers of Blue Ridge ridgelines in all directions — on exceptionally clear days, you can see the Piedmont far below to the east. The nature museum at the entrance is decent, the wildlife habitats are genuinely engaging for children and adults alike, and the bridge is worth it even if heights make you nervous.

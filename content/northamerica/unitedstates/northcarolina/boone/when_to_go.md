@@ -1,14 +1,8 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
 ---
 
-Boone runs a year-round calendar of reasons to visit, each tied to a particular activity.
+Autumn is the peak season — mid-October brings some of the finest fall colour in the eastern United States, and the Blue Ridge Parkway can be genuinely crowded on weekends. If you want the colour without the crowds, the weekdays immediately before peak colour are often better than the peak weekend itself.
 
-**Autumn (mid-September to late October)** is the headline season. The hardwood forests of the High Country produce some of the most reliable fall colour in the eastern United States, and the Blue Ridge Parkway becomes a slow procession of cars chasing the peak. Mid-October is usually the apex; reserve lodging well in advance.
-
-**Summer (June through August)** is reliably 10 degrees cooler than the piedmont — a genuine refuge from southern heat. App State summer programs are running, outdoor drama is playing nightly, and the Parkway is fully open.
-
-**Winter (December through early March)** brings snow, ski traffic, and a quieter campus. Storms can be substantial; plan for road delays. Many small attractions close for the season, but the ski areas (App, Beech, Sugar) hum from mid-December through February.
-
-**Spring** is muddy and unpredictable but quiet, with rhododendron and dogwood blooming in late April. Off-peak rates apply.
+Summer offers relief from lowland heat and reliable access to all the trails and outdoor activities. The elevation means temperatures rarely exceed 80°F even in July. Winter is cold and snowy enough to make the ski resorts viable, and the town has a certain quietness in January and February that suits some travellers. Spring wildflower season (April–May) is underrated and the trails are far less crowded.

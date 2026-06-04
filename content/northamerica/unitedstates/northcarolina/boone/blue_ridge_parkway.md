@@ -1,15 +1,15 @@
 ---
-latitude: 36.0938
-longitude: -81.8214
-snippet: America's longest linear park, with dramatic overlooks just south of town
-story: 'When the Linn Cove Viaduct opened in 1987 it completed the last unbuilt section of the Blue Ridge Parkway after a 52-year project — engineers had to thread the road around the fragile slopes of Grandfather Mountain by lowering pre-cast concrete segments from above to avoid scarring the rock.'
+latitude: 36.1468
+longitude: -81.7036
 tags:
 - things_to_do
 - sight
-title: Blue Ridge Parkway
+title: Blue Ridge Parkway (Boone Section)
 type: poi
+story: >
+  The Linn Cove Viaduct, a few miles south of Boone near Grandfather Mountain, was the last section of the Blue Ridge Parkway to be completed — it opened in 1987, 52 years after construction began elsewhere on the road. Engineers designed the S-curved concrete viaduct to avoid disturbing the fragile rock face of Grandfather Mountain. It was assembled from above using a specially designed construction vehicle, placing segments without ever touching the mountainside below.
 ---
 
-The Blue Ridge Parkway runs 469 miles from Virginia's Shenandoah down to the Great Smoky Mountains, and the stretch closest to Boone is one of the most scenic on the entire road. From overlooks like Thunder Hill and Yonahlossee you look out across ridges that recede in fading shades of blue — the haze that gives the mountains their name.
+The Blue Ridge Parkway is America's most visited national park unit, and the section near Boone is among its finest stretches. Running along the ridgeline south and east of town, it offers a series of dramatic overlooks, meadows, and hiking trails that can be sampled in an afternoon or explored over several days. Access is easy — the parkway intersects with US 221 and other roads just a few miles from downtown.
 
-The Parkway is closed to commercial traffic and has a 45 mph speed limit; the point is to drive slowly. Plan to stop often. Within twenty miles of Boone you can reach the Moses H. Cone Memorial Park (with miles of carriage trails), the Julian Price Memorial Park (lake and easy walks), and the engineering wonder of the Linn Cove Viaduct, which curves elegantly around the flank of Grandfather Mountain.
+The Julian Price Park, about 12 miles south of Boone, has a lake, campground, and easy trails that are excellent for families. Price Park picnic area is a good base. Further south, the Linn Cove Viaduct hugs the base of Grandfather Mountain and is one of the most photographed pieces of infrastructure on the East Coast. The parkway is open year-round, though sections may close in severe winter weather.

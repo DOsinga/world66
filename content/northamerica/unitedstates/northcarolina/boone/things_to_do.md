@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Boone is the gateway to the North Carolina High Country: the Blue Ridge Parkway, Grandfather Mountain, Tweetsie Railroad, and a downtown with bookshops, breweries, and an Appalachian-state-college pulse. Pick a base, then radiate out into the mountains.
+Boone's appeal is the Blue Ridge landscape that surrounds it and the outdoor access that entails. The town also has a lively university culture thanks to Appalachian State, with art galleries, music, and a well-worn downtown. Fall colour along the Blue Ridge Parkway is among the best in the eastern United States.

@@ -1,14 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/belgium/namur
 ---
 
-**Day Trips**
-
-**Chateau de Veves**
-
-In the nearby village of Celles the Chateau de Veves is a very pictoresque castles in the Ardennes. Inside one can see and learn everything about late-medieval and 18th century life in a castle. Open from April to end October (from 10am till 6pm) Adults : 175 BEF - Children : 100 BEF In the near [more..](/europe/belgium/dinant/daytrips/chateaudeveves)
-
-**Annevoie**
-
-The gardens of Annevoie (15km outside Dinant) were created in the 18th century by Charles-Alexis de Montpellier. The combination of beautiful flower beds and running water (without any mechanical aid) make these gardens to some of the most wonderful in Europe.  The gardens can be visited from Ap [more..](/europe/belgium/dinant/daytrips/annevoie)
+Dinant is a fine base for exploring the Meuse valley and the western Ardennes. Within 15 km: the Château de Vêves at Celles, the water gardens at Annevoie, and the picturesque ruined Château de Walzin on the Lesse. The historic city of Namur, capital of Wallonia, is a 30-minute train ride north and worth a day on its own. Han-sur-Lesse, with its famous show cave reached by underground tram, is 45 minutes by car. Cross the French border at Givet for a contrasting French Meuse town in under an hour.

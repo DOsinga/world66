@@ -1,5 +1,0 @@
-southamerica/venezuela/lagransabana
-asia/pakistan/swat
-europe/bulgaria/cape_kaliakra
-northamerica/unitedstates/washington/ellensburg
-europe/greece/crete/sitia

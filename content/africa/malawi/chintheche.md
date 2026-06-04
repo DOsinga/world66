@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 latitude: -11.831382
 longitude: 34.169301
 title: Chintheche

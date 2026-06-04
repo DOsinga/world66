@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - bar
-latitude: 39.7185
-longitude: -121.8373
+latitude: 39.7233
+longitude: -121.8158
 story: >
   Sierra Nevada Pale Ale, first brewed in 1980 by Ken Grossman and Paul Camusi in a converted space in downtown Chico, is widely credited with launching America's craft beer revolution. Grossman had been a homebrewer with a strong preference for the hop-forward ales he'd read about in British brewing books; the result was a beer with more bitterness and aroma than anything commercially available in the US at the time. The brewery moved to its current purpose-built campus in 1989 and has since grown into one of the country's largest craft brewers — though it still feels like a local institution.
 ---

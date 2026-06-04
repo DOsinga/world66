@@ -2,13 +2,14 @@
 latitude: 40.7694
 longitude: -111.8897
 tags:
-- things_to_do
-- sight
+  - things_to_do
+  - sight
 title: Eagle Gate
 type: poi
-story: "Built in 1859 to mark the entrance to Brigham Young's estate, the Eagle Gate has been rebuilt three times. The current 4,000-pound bronze eagle with its 20-foot wingspan is the fourth version; the original was carved from wood and painted to look like metal."
+story: >
+  The original Eagle Gate was built in 1859 from local wood and stood just 22 feet high. It marked the boundary of Brigham Young's private estate and the road into City Creek Canyon. The present bronze eagle — weighing 4,000 lb with a 20-foot wingspan — dates from a 1960s replacement and sits on a 76-foot arch spanning State Street.
 ---
 
-The Eagle Gate spans State Street at South Temple, directly in front of the Brigham Young Historic Park. Erected in 1859 to mark the entrance to Brigham Young's property, it has been replaced and upgraded several times over the decades, growing larger with each iteration.
+The Eagle Gate stands at the intersection of State Street and South Temple, marking the historic entrance to Brigham Young's property and the road into City Creek Canyon. It is one of the most recognisable landmarks in downtown Salt Lake City, though most people pass under it without slowing down.
 
-The current cast-iron and bronze eagle, with a wingspan of 20 feet and weighing 4,000 pounds, sits atop an arch spanning 76 feet across the road. It serves as a powerful symbol of the early Mormon settlement of Salt Lake City and makes for one of the most distinctive photo opportunities in downtown, particularly at sunset when the gold eagle catches the light.
+The original 1859 structure was a simple wooden gateway; the present version is a much grander arch of granite and bronze. The location makes it a natural reference point for exploring the Temple Square neighbourhood on foot.

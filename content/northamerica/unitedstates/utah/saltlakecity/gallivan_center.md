@@ -1,13 +1,15 @@
 ---
-latitude: 40.7630
-longitude: -111.8906
-tags:
-- things_to_do
-- sight
 title: Gallivan Center
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.76444
+longitude: -111.88972
+sources:
+  - https://en.wikipedia.org/wiki/Gallivan_Center
 ---
 
-The Gallivan Center is a public outdoor plaza in the middle of downtown, covering a city block between 200 South and 300 South. The space serves as the city's main outdoor events venue, hosting free summer concerts, winter ice skating, food festivals, and community events throughout the year.
+The John W. Gallivan Utah Center is an outdoor plaza in the heart of downtown Salt Lake City, one block south of the main commercial strip. It has an ice-skating rink in winter, a lawn for outdoor concerts and events in summer, a public art installation (Asteroid Landed Softly by Richard Serra), and surrounding restaurants and cafes.
 
-The centre includes a year-round outdoor ice skating rink in winter, a large chess set, and public art installations. On weekday lunch hours it fills with office workers; in the evenings and on weekends it hosts a regular rotation of free programming. It is one of the better public spaces in downtown and a good place to understand what the city does on a summer evening.
+It is one of the most active public spaces in downtown SLC and a good place to get a sense of the city's secular social life. Summer lunchtime concerts and the annual Utah Arts Festival use the plaza as their main venue.

@@ -1,13 +1,13 @@
 ---
-latitude: 40.7597
-longitude: -111.8321
+latitude: 40.7567
+longitude: -111.8098
 tags:
-- things_to_do
-- sight
+  - things_to_do
+  - sight
 title: Utah's Hogle Zoo
 type: poi
 ---
 
-Utah's Hogle Zoo sits at the mouth of Emigration Canyon on the eastern edge of the city, adjacent to This Is The Place Heritage Park. The zoo houses several hundred species, with notable exhibits for great apes, big cats, elephants, and giraffes, plus a popular children's area with interactive elements and a small train.
+Utah's Hogle Zoo sits at the mouth of Emigration Canyon, east of downtown, and has been operating since 1931. It is a full-service zoo with elephants, giraffes, big cats, primates, red pandas, and a large reptile collection. The zoo is undergoing ongoing expansion, with newer habitats designed to provide more space and better visitor viewing angles.
 
-The zoo has undergone major renovations in recent years, adding a large African Savanna habitat that gives the giraffes, zebras, and other plains animals considerably more room than in older zoos. Summer evenings sometimes feature live music events in the grounds. It is a practical half-day stop if you are already heading out to Emigration Canyon or the Heritage Park next door.
+A free or low-cost option for families that want a full day out, the zoo is particularly popular in spring and autumn when the weather is mild and the animals are most active. It connects with nearby Red Butte Garden and the University of Utah, making the eastern foothills a good area to spend a half or full day.

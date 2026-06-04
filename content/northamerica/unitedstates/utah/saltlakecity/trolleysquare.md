@@ -2,14 +2,13 @@
 latitude: 40.757394
 longitude: -111.872533
 tags:
-- things_to_do
-- sight
-- architecture
+  - things_to_do
+  - sight
+  - architecture
 title: Trolley Square
 type: poi
-story: "The trolley barns were built between 1908 and 1910 to house Salt Lake City's electric streetcar fleet. When the trolleys were decommissioned in 1945, the barns sat unused for decades before being converted into a retail and dining complex in the 1970s — one of the early examples of adaptive reuse of industrial architecture in the United States."
 ---
 
-Trolley Square occupies a block of converted Victorian-era streetcar barns on the east side of downtown. The red-brick industrial buildings have been transformed into a shopping and dining complex with an eclectic mix of restaurants, bars, and independent shops arranged around an interior courtyard. The complex was designated a National Historic Site.
+Trolley Square is a converted complex of historic trolley car barns on 700 East, now housing shops, restaurants, and a cinema. The brick buildings date from 1908 and once housed the Salt Lake City streetcar fleet; after the trolley system closed in 1945, the complex sat underused until it was restored and repurposed as a retail destination in the 1970s.
 
-The architecture is the real draw — high ceilings, exposed ironwork, and original brickwork give the space a character entirely absent from the city's newer malls. It is a practical stop for an evening out, with several good restaurants and a lively bar scene at weekends.
+The architecture is the draw as much as the shopping — the vaulted ceilings, exposed brick, and large open spaces give it a character that generic shopping centres lack. Look for the original water tower that still stands at the centre of the complex.

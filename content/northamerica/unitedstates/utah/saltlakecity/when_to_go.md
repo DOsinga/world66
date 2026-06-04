@@ -3,12 +3,6 @@ title: When to Go
 type: section
 ---
 
-Salt Lake City sits at 4,300 feet in a high desert basin, which gives it a climate of extremes: dry, bright summers with temperatures reaching the high 90s Fahrenheit (35°C), and cold winters with heavy snow in the mountains and periodic inversions that trap cold air and smog in the valley.
+Salt Lake City works as a base year-round, but the experience is very different by season. Winter (November through March) is ski season: the Wasatch resorts receive some of the lightest, deepest powder snow in North America, and the city's proximity to the slopes is the main reason many people visit at all. Spring and autumn are the best seasons for city exploration and hiking — warm days, cool nights, and uncrowded trails. Summer is hot in the valley (temperatures regularly exceed 35°C) but the mountains are accessible and cool.
 
-**Winter (December–March)** is ski season, when the Wasatch resorts receive their famous powder. The city itself can be grey and smoggy during inversions, but the mountains above the inversion layer are spectacular. If you are skiing, January and February offer the best conditions.
-
-**Spring (April–May)** is when the valley blooms, with fruit trees and wildflowers and temperatures in the 60s–70s (15–25°C). It is a good time for hiking the lower trails and city sightseeing without summer heat.
-
-**Summer (June–August)** brings heat and outdoor concerts. Red Butte Garden's summer concert series runs through July and August, the Pioneer Day celebrations on 24 July are an event, and the mountains are accessible for hiking and cycling.
-
-**Autumn (September–October)** is arguably the best time: cooler temperatures, the aspens turning gold in the canyons, and less crowded ski resorts for early-season skiing in late October.
+The Sundance Film Festival in Park City every January brings a significant influx of visitors, and hotel prices in the greater Salt Lake area spike accordingly.

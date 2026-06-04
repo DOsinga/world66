@@ -1,14 +1,10 @@
 ---
 title: Day Trips
 type: section
+linked_locations:
+  - northamerica/unitedstates/utah/parkcity
+  - northamerica/unitedstates/utah/provoandutahvalley
+  - northamerica/unitedstates/utah/bonneville
 ---
 
-Salt Lake City's location makes it an excellent base for day trips into genuinely varied terrain. Within an hour in any direction you can reach mountain ski resorts, desert canyon country, historic mining towns, and the world's largest saltwater lake.
-
-**Park City** (30 minutes east on I-80) is the most obvious day trip — a well-preserved mining-era Main Street, two major ski resorts, and the Utah Olympic Park. In summer the mountain bike trails are excellent.
-
-**Antelope Island** (45 minutes northwest) puts you on an island in the Great Salt Lake surrounded by bison and shorebirds, with swimming beaches and hiking trails.
-
-**Bonneville Salt Flats** (1 hour west on I-80) are the flattest, strangest landscape in Utah — drive out onto the salt crust and you will understand why land speed record attempts happen here.
-
-**Arches National Park** is three hours south on US-191 near Moab — too far for a true day trip but manageable as an overnight.
+The area around Salt Lake City offers an unusual density of day-trip options. [Park City](/northamerica/unitedstates/utah/parkcity) is 45 minutes east via I-80 and justifies a full day for skiing in winter or mountain biking in summer. The Bonneville Salt Flats are 90 minutes west — otherworldly terrain where you can walk on a white crust extending to the horizon. To the south, [Provo](/northamerica/unitedstates/utah/provoandutahvalley) is worth a visit for Brigham Young University and the excellent Sundance resort in the canyon above it. Antelope Island in the Great Salt Lake is only an hour away and the closest place to see bison, pronghorn, and shore birds from the city.

@@ -1,13 +1,13 @@
 ---
-latitude: 40.7640
-longitude: -111.8435
-tags:
-- things_to_do
-- museum
 title: Utah Museum of Fine Arts
 type: poi
+tags:
+  - things_to_do
+  - museum
+latitude: 40.7639
+longitude: -111.8384
 ---
 
-The Utah Museum of Fine Arts sits on the University of Utah campus in the Marcia and John Price Museum Building, a large purpose-built facility that opened in 2001. The collection spans several thousand years and multiple continents, with particular strengths in ancient Egyptian and Greek antiquities, European paintings from the Renaissance through the nineteenth century, and American Western art.
+The Utah Museum of Fine Arts on the University of Utah campus has a permanent collection spanning ancient Egyptian antiquities, European Old Masters, American paintings, Asian decorative arts, and a growing collection of Utah and regional art. The building, opened in 2001, is purpose-built for the collection with good natural light and an airy layout.
 
-The Utah and Southwest collection is the most distinctive section, featuring works that document the landscape, people, and culture of the region — including landscape paintings from the era when the canyon country was being mapped and photographed for the first time. Admission is free for University of Utah students and reasonably priced for the public. The museum is often uncrowded on weekday mornings.
+Admission is reasonable and the museum is uncrowded by the standards of major city art museums. The contemporary Utah art section is a good place to understand what local artists are actually making, rather than the pioneer-history paintings that dominate many Utah institutions.

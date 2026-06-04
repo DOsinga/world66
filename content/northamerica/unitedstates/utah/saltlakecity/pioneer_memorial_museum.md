@@ -1,13 +1,13 @@
 ---
-latitude: 40.7752
-longitude: -111.8893
-tags:
-- things_to_do
-- museum
 title: Pioneer Memorial Museum
 type: poi
+tags:
+  - things_to_do
+  - museum
+latitude: 40.7766
+longitude: -111.8897
 ---
 
-The Pioneer Memorial Museum, operated by the Daughters of Utah Pioneers, houses one of the largest collections of pioneer artifacts in the American West. The four-story building near the State Capitol contains thousands of items brought by hand across the plains: furniture, tools, clothing, documents, and domestic objects that belonged to the Mormon pioneers who settled Utah from 1847 onward.
+The Pioneer Memorial Museum on North Main Street houses one of the largest collections of Mormon pioneer artefacts in the world: wagons, handcarts, clothing, furniture, tools, and personal items from the mass westward migration of the 1840s–1870s. The museum is operated by the Daughters of Utah Pioneers and is free to enter.
 
-The collection is idiosyncratic and extensive — everything from wagons and guns to bonnets and baby shoes. It is more of an archive than a designed museum experience, but for anyone interested in the material culture of the overland migration, the depth and variety of what is here is remarkable. Admission is free.
+It is unpretentious and not flashy, but for anyone interested in the reality of pioneer life — rather than the idealised version — the sheer quantity and variety of artefacts is remarkable. The carriage house at the back contains the largest collection of historic vehicles in Utah.

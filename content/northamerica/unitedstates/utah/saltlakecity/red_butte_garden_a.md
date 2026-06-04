@@ -4,13 +4,12 @@ latitude: 40.761436
 longitude: -111.82675
 phone: 801-581-4747
 tags:
-- things_to_do
-- sight
-- park
+  - things_to_do
+  - sight
 title: Red Butte Garden and Arboretum
 type: poi
 ---
 
-Red Butte Garden occupies 100 acres on the south side of the University of Utah campus, backing directly against the Wasatch Mountains. The formal gardens include native Utah plants, herb and rose gardens, a children's discovery garden, and ponds, while the wilder upper sections connect to trails leading up into the foothills. The views over the Salt Lake Valley are excellent throughout.
+Red Butte Garden sits on the eastern slopes of the University of Utah campus, backed up against the Wasatch Mountains. The 100-acre garden and arboretum includes formal flower beds, a natural area with canyon trails, a children's garden, and an outdoor amphitheatre that hosts a well-regarded summer concert series.
 
-The garden runs a popular summer outdoor concert series that draws national acts — if one happens to fall on your visit, it is worth knowing about. A small admission fee applies to the formal garden areas; the upper trails are free.
+The views across the Salt Lake Valley from the upper terraces are excellent, and the garden's position at the foot of the mountains means it feels genuinely wild at the edges. Admission is charged for the formal garden areas; the outer trails and natural areas are free. Combine it with the Hogle Zoo next door for a full day in the eastern foothills.

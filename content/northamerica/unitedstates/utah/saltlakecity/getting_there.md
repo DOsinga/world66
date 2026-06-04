@@ -3,8 +3,6 @@ title: Getting There
 type: section
 ---
 
-Salt Lake City International Airport (SLC) is the main hub for flights into Utah, served by most major US airlines including Delta (which uses it as a hub), Southwest, United, American, and JetBlue. International flights arrive primarily from Canada, Mexico, and London. The airport is about 5 miles northwest of downtown; TRAX light rail connects the terminals to downtown in about 25 minutes.
+Salt Lake City International Airport (SLC) is about 6km west of downtown and served by most major US carriers, with direct flights from Europe (typically via a New York or Los Angeles connection). The airport is compact and efficient by American standards.
 
-Amtrak's California Zephyr (Chicago–San Francisco) and Desert Wind (Los Angeles–Chicago) both stop at the Salt Lake Amtrak station at 340 South 600 West, though the train schedule is not always convenient — check times carefully. Greyhound buses connect Salt Lake City to Las Vegas, Denver, and other regional cities.
-
-By car, Salt Lake City sits at the intersection of I-15 (north-south spine of the West) and I-80 (trans-continental route), making it easily accessible by road from most directions.
+TRAX light rail connects the airport to downtown in about 25 minutes for a low fare. Taxis and rideshares are available outside arrivals. Amtrak's California Zephyr stops at Salt Lake City on its Chicago–San Francisco route, arriving on a scenic overnight run through the Rockies from Denver. Greyhound covers major interstate bus connections.

@@ -3,6 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Salt Lake City packs a surprising range into a compact, walkable downtown. The Mormon historic sites clustered around Temple Square form the cultural heart, but the city has far more to offer: world-class natural history and art museums, a vibrant arts district, and unmatched access to the Wasatch Mountains just minutes from downtown.
-
-For outdoor activities, the canyons east of the city are the main draw — Big and Little Cottonwood Canyons offer skiing in winter and hiking in summer, while Emigration Canyon follows the original pioneer route into the valley. The Great Salt Lake itself, visible from almost everywhere in the city, is unique on a global scale and worth at least one visit.
+Salt Lake City divides into clusters of interest. Temple Square and the surrounding blocks contain nearly all the LDS historical sites and several of the best museums. The University of Utah campus to the east has Red Butte Garden, the Natural History Museum, and the Hogle Zoo. Downtown has the performing arts venues, the Clark Planetarium, and the historic architecture of Main Street. And the mountains start almost at the city limits.

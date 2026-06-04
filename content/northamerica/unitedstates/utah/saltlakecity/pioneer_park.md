@@ -1,14 +1,13 @@
 ---
-latitude: 40.7593
-longitude: -111.9023
-tags:
-- things_to_do
-- sight
-- park
 title: Pioneer Park
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7601
+longitude: -111.9027
 ---
 
-Pioneer Park is a public square in the western part of downtown, occupying the block where the first Mormon pioneers camped when they arrived in the Salt Lake Valley in July 1847. The park is modest in scale but significant historically, and hosts the city's largest and most popular farmers market on Saturday mornings from late spring through autumn.
+Pioneer Park in the western downtown marks the spot where Brigham Young and the pioneer party arrived in the Salt Lake Valley on 24 July 1847 and declared "This is the right place." The park hosts Salt Lake City's largest farmers market on Saturday mornings through the growing season — probably the best reason for most visitors to make the trip to the western end of downtown.
 
-The Saturday market draws dozens of vendors selling local produce, baked goods, cheese, honey, plants, and crafts, along with food stalls and live music. It is one of the better morning activities in the city, giving a sense of the local food culture. The park itself is a community gathering space with a somewhat gritty character relative to the polished Temple Square area nearby.
+The farmers market (July through October) draws local producers selling vegetables, fruit, bread, cheese, honey, and prepared food. It is genuinely good by American farmers market standards and gives a taste of Utah's considerable agricultural output.

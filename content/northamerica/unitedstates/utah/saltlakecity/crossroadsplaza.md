@@ -1,12 +1,13 @@
 ---
-latitude: 40.7680
-longitude: -111.8929
+latitude: 40.7694
+longitude: -111.8955
 tags:
-- shopping
-title: City Creek Center
+  - shopping
+  - market
+title: The Gateway
 type: poi
 ---
 
-City Creek Center is the main downtown shopping complex, built on the site of the former Crossroads Plaza mall directly across from Temple Square. When the original mall was demolished and rebuilt, it reopened in 2012 as an open-air retail development with over 100 shops, a retractable glass roof, and a landscaped creek running through its central walkways.
+The Gateway is an outdoor shopping and entertainment complex at the western edge of downtown, built on the former site of the Denver and Rio Grande Western Railroad freight yards. It opened in 2001 in time for the 2002 Winter Olympics and houses shops, restaurants, a cinema, and an ice-skating rink in winter.
 
-The centre includes a good mix of mid-range and upscale retailers and is particularly convenient if you are already visiting Temple Square or the Church History Museum nearby. Parking is validated on weekdays with a minimum purchase; Sundays are free.
+The complex is less busy than it once was, but it remains a convenient option for shopping and eating in the western downtown area, and the wide pedestrian streets and open-air layout make it pleasant in good weather. The Clark Planetarium is nearby.

@@ -1,13 +1,13 @@
 ---
-latitude: 40.7692
-longitude: -111.8994
-tags:
-- things_to_do
-- museum
 title: Clark Planetarium
 type: poi
+tags:
+  - things_to_do
+  - museum
+latitude: 40.7658
+longitude: -111.8986
 ---
 
-Clark Planetarium is a free-admission science museum and full-dome theatre in the Gateway shopping district. The permanent exhibits explain astronomy, space exploration, and Earth science, with interactive displays for all ages. The IMAX and dome theatres charge separately for shows.
+Clark Planetarium is a free science museum on North Temple, a short walk from Temple Square. The ground-floor exhibits cover space science, rocketry, and climate with interactive displays aimed at family audiences. Admission to the exhibits is free; the IMAX and dome theatre shows charge separately.
 
-It is a practical family stop particularly in bad weather, and its downtown location near Temple Square makes it easy to combine with a visit to the historic sites. The free exhibits include a working weather station on the roof and a pendulum display demonstrating Earth's rotation.
+The planetarium's dome theatre shows run throughout the day and include both film programming and live star presentations. For children, it is one of the most engaging free attractions downtown. The gift shop stocks a good selection of science and astronomy books.

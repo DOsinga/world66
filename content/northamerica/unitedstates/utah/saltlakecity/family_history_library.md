@@ -1,14 +1,19 @@
 ---
-latitude: 40.7700
-longitude: -111.8920
-tags:
-- things_to_do
-- museum
 title: Family History Library
 type: poi
-story: "The LDS Church has been systematically photographing, transcribing, and indexing genealogical records from around the world since the 1930s, driven by the belief that members can perform proxy baptisms for deceased ancestors. The result is the world's largest genealogical library — and because the records are freely accessible to anyone, non-Mormons with European, Latin American, or African ancestry often find that Salt Lake City holds more information about their families than any institution in their home country."
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7697
+longitude: -111.8930
+story: >
+  The LDS Church has the largest collection of genealogical records in the
+  world, with over 3 billion names. The records are stored in a granite mountain
+  vault in Little Cottonwood Canyon — the same quarry that provided stone for
+  the Temple — where constant temperature and humidity preserve microfilm and
+  digital records indefinitely. Anyone, not just Mormons, can use the library.
 ---
 
-The Family History Library on West Temple Street, next to Temple Square, holds the world's largest genealogical collection: billions of records from countries all over the world, spanning centuries of births, deaths, marriages, and census data. The library is free and open to the public, regardless of religion, and the staff are trained to help visitors research their family trees.
+The Family History Library next to Temple Square is the largest genealogical library in the world, operated by the LDS Church but open free of charge to the general public. Its collection includes billions of records covering births, marriages, deaths, censuses, and land records from countries around the world, with particularly strong holdings for Europe and the Americas.
 
-If you have ancestors from anywhere with decent historical record-keeping — Europe, Latin America, parts of Africa and Asia — there is a reasonable chance this library holds records about them that you could not find anywhere else. Researchers come from all over the world specifically to use it.
+Experienced volunteers help visitors research their family history. It is worth a visit even if genealogy is not your primary interest, simply because the scale of the collection — and what it says about the LDS Church's systematic global record-gathering programme — is remarkable in itself.

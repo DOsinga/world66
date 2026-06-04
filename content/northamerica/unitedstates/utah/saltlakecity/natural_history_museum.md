@@ -1,14 +1,19 @@
 ---
-latitude: 40.7655
-longitude: -111.8228
-tags:
-- things_to_do
-- museum
 title: Natural History Museum of Utah
 type: poi
-story: "Utah is one of the best places in the world to find dinosaur fossils — the Morrison Formation, which runs through the state, has yielded more complete specimens than almost anywhere else on Earth. The museum's dinosaur hall contains real fossils, not casts, mounted in the positions and environments where they were found."
+tags:
+  - things_to_do
+  - museum
+latitude: 40.7644
+longitude: -111.8219
+story: >
+  Utah is one of the richest dinosaur fossil states in the US. The museum's
+  dinosaur hall contains dozens of complete skeletons excavated from the Utah
+  desert, including a ceratopsian skull so heavy that the mount required
+  engineering support usually reserved for steel girders. The building itself
+  is designed to evoke the geology of the Colorado Plateau.
 ---
 
-The Natural History Museum of Utah opened a spectacular new building in 2011 on the hillside campus of the University of Utah, with sweeping views of the Salt Lake Valley from the upper gallery windows. The building itself is striking — copper-clad forms that echo the angular geology of the Colorado Plateau — and the collection inside is world-class.
+The Natural History Museum of Utah opened in its current building on the University of Utah campus in 2011 — a striking copper-clad structure designed to cascade down the hillside like a series of geological strata. The dinosaur hall is the centrepiece and one of the best in the American West: complete skeletons of allosaurus, camarasaurus, stegosaurus, and a dozen other species excavated from Utah's Jurassic-era Morrison Formation.
 
-The dinosaur galleries are the highlight, with enormous and complete specimens including an Allosaurus, Stegosaurus, and multiple sauropods, all presented with exceptional interpretive materials. The Utah Peoples gallery covers the twelve Native nations with historical ties to the state. A geology hall explains the remarkable landscape that makes Utah such a destination for paleontologists and hikers alike. Budget two to three hours.
+Beyond dinosaurs, the museum covers Utah's diverse geology, native cultures (a sensitively presented section on the state's many indigenous peoples), and minerals. The top floor offers sweeping views across the Salt Lake Valley. Allow at least two hours.

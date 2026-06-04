@@ -1,15 +1,14 @@
 ---
-address: 736 W. North Temple, Salt Lake City
-latitude: 40.7704
-longitude: -111.9131
-tags:
-- eating_out
-- restaurant
-- mexican
 title: Red Iguana
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - mexican
+latitude: 40.7762
+longitude: -111.9040
 ---
 
-The Red Iguana is Salt Lake City's most beloved restaurant, a family-owned Mexican spot that has been running on North Temple Street since 1985. The speciality is mole — the restaurant offers seven or eight different moles depending on the season, from deep black mole negro to bright green pipián, all made from scratch and served with chicken, pork, or enchiladas.
+Red Iguana at 736 West North Temple is the most celebrated Mexican restaurant in Salt Lake City and one of the best in Utah. It specialises in regional Mexican moles — the complex, slow-cooked sauces that are the highest expression of Mexican cuisine — with seven different varieties on the menu at any time, from the dark, smoky negro to a bright, fruity fruit mole. The restaurant has been locally owned for decades and the quality has remained consistent.
 
-Lines form before the doors open at weekends. The dining room is casual and loud, the service fast, and the portions generous. If you can only eat one meal in Salt Lake City, most locals would direct you here.
+Expect a wait at dinner, especially on weekends; the restaurant does not take reservations for most parties. The second location (Red Iguana 2) is a short walk away and shares the queue. The enchilada mole negro is the dish to order if you want to understand what the fuss is about.

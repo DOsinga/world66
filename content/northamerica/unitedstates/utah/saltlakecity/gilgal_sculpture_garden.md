@@ -1,15 +1,20 @@
 ---
-latitude: 40.7532
-longitude: -111.8738
-tags:
-- things_to_do
-- sight
-- park
 title: Gilgal Sculpture Garden
 type: poi
-story: "The garden's most famous work is a sphinx with the head of Joseph Smith, founder of the Mormon Church. Creator Thomas Child, a bricklayer, spent 18 years carving all the works himself, drawing on biblical and LDS scripture. He buried himself on the site before it was developed as a park — the placement of his grave among the sculptures was intentional."
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7476
+longitude: -111.8675
+story: >
+  Thomas Child, a local mason and LDS bishop, spent 18 years (1945–1963)
+  carving the sculptures himself from stone he selected by hand. One of the
+  most distinctive pieces is a sphinx with the face of Joseph Smith, the
+  founder of Mormonism — an image that would strike many observers as
+  eccentric, to say the least. Child intended the garden as a personal
+  meditation on LDS theology and biblical symbolism.
 ---
 
-Gilgal Sculpture Garden is one of Salt Lake City's stranger attractions: a small enclosed park in a residential neighbourhood containing 12 large stone sculptures and 70 carved stones, all created by one man, bricklayer Thomas B.H. Child Jr., between 1945 and 1963. The works draw heavily on LDS scripture and personal symbolism, including a sphinx with the face of Joseph Smith, a figure wearing a Masonic apron, and several carved biblical quotations.
+Gilgal Sculpture Garden in the Sugar House neighbourhood is one of Salt Lake City's genuine surprises. Thomas Child, a local mason and bishop in the LDS Church, spent nearly 20 years creating 12 large stone sculptures in his backyard, each one combining Mormon scriptural symbolism with surprisingly surreal visual imagery.
 
-The garden was designated a Salt Lake City landmark in 1991 and is now maintained by the city. Entry is free. It is genuinely unusual — the kind of personal, eccentric, obsessive artistic project that is much more interesting than most official public art — and worth the short detour for anyone with a taste for the odd.
+The garden was preserved after Child's death and is now a public park open free of charge. It is small enough to see in 20 minutes but strange enough to linger in for an hour. The sphinx with Joseph Smith's face is the most discussed piece, but all 12 sculptures are worth examining. A hidden gem in the most literal sense.

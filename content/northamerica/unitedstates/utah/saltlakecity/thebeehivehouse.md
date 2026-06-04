@@ -4,15 +4,16 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.769747
 longitude: -111.888579
+snippet: Brigham Young's restored 1854 home with free daily tours
 tags:
-- things_to_do
-- sight
-- historic_house
+  - things_to_do
+  - sight
 title: The Beehive House
 type: poi
-story: "The beehive symbol carved above the entrance represents industry — the core virtue of the Mormon pioneer ethic. Brigham Young chose it deliberately, and it is now the official state symbol of Utah. The house next door, the Lion House, was home to his larger household; the Beehive House was his personal residence."
+story: >
+  The beehive was Brigham Young's personal symbol, representing industriousness and cooperation — the same values he preached as he organised tens of thousands of Mormon settlers to build an entire civilization in the Great Basin. The original decorative beehive on the rooftop cupola gave the house its name.
 ---
 
-The Beehive House at 67 East South Temple was the official residence of Brigham Young, second president of the Church of Jesus Christ of Latter-day Saints and the governor of Utah Territory, from 1854 until his death in 1877. Built in a Greek Revival style, it is a National Historic Landmark, restored and furnished with original pieces and period artifacts.
+Built in 1854, the Beehive House served as Brigham Young's official residence and the social centre of early Salt Lake City. The house is a National Historic Landmark, fully restored and furnished with original pieces and period artefacts. Free guided tours run daily and give a vivid picture of life for Young's family in the mid-19th century.
 
-Free guided tours run daily and provide a close look at life in the Young household, including the parlors, dining room, and period furnishings. It stands directly next to the Lion House and Eagle Gate, making it part of a walkable cluster of early Mormon history sites on South Temple Street.
+The adjacent Lion House (at number 63) was Young's second official residence, and the two buildings together formed a compound that housed much of his family. The Beehive House tour includes the formal rooms where Young entertained territorial governors, army officers, and visiting dignitaries.

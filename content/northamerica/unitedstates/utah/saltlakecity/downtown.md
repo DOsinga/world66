@@ -1,13 +1,13 @@
 ---
-latitude: 40.7680
-longitude: -111.8927
-tags:
-- things_to_do
-- neighbourhood
 title: Downtown
 type: neighbourhood
+tags:
+  - things_to_do
+  - neighbourhood
+latitude: 40.7608
+longitude: -111.8911
 ---
 
-Salt Lake City's downtown is compact and walkable, built on the original grid laid out by Brigham Young with extra-wide streets designed for turning ox teams. Temple Square anchors the northwest corner, the City-County Building the east, and the Gallivan Center plaza the south end of the main commercial strip along 200 South.
+Downtown Salt Lake City runs from the railroad tracks in the west to about 500 East, and from North Temple to 400 South. It contains Temple Square, the main commercial strip along Main Street, the performing arts venues, the TRAX hub, and the majority of the city's hotels. The street grid is logical and most downtown sites are within walking distance of each other.
 
-The grid makes navigation simple: addresses are counted outward from Temple Square in all four directions, in increments of 100 per block. 400 South is four blocks south of Temple; 300 East is three blocks east. Once you understand this system, which covers the entire valley, you can locate any address instantly. Downtown is well served by TRAX light rail, with multiple stations along Main Street.
+The eastern part of downtown — closer to the Gateway and the arena — has a more entertainment-focused character. The blocks immediately around Temple Square have the highest concentration of tourists. Main Street between 100 South and 400 South is the commercial core.

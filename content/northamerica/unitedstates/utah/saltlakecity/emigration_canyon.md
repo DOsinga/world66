@@ -1,13 +1,19 @@
 ---
-latitude: 40.7463
-longitude: -111.7817
-tags:
-- things_to_do
-- sight
 title: Emigration Canyon
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7480
+longitude: -111.7760
+story: >
+  The Mormon pioneer party descended Emigration Canyon on 22–24 July 1847
+  after a gruelling journey from Winter Quarters, Nebraska. Brigham Young
+  was ill with mountain fever for most of the descent and saw the valley for
+  the first time from a wagon bed. The spot where he allegedly said "This is
+  the right place, drive on" is marked by a monument at the canyon mouth.
 ---
 
-Emigration Canyon was the final stretch of the Mormon Pioneer Trail — the route along which Brigham Young and the first 148 pioneers descended into the Salt Lake Valley in July 1847. The canyon road follows much the same alignment as the original wagon track, and driving it in the opposite direction (east from the city) gives a vivid sense of how the pioneers experienced their first view of the valley.
+Emigration Canyon is the route taken by Brigham Young and the first group of Mormon pioneers into the Salt Lake Valley in 1847. A paved road follows the canyon floor, and it is a pleasant cycling or driving route with several trailheads giving access to the Wasatch Mountain ridgeline above.
 
-Today the canyon is a popular cycling and running route for city residents, with a 14-mile paved road climbing to about 6,400 feet at Big Mountain Pass. The lower reaches are lined with expensive homes; the upper canyon becomes wilder. Ruth's Diner, a Salt Lake institution operating since 1930, sits near the canyon mouth and is a good stop for breakfast or lunch before or after the climb.
+The This Is the Place Heritage Park at the canyon mouth commemorates the pioneer arrival with a large monument and a living history village. The village demonstrates pioneer life with historic buildings and costumed interpreters and is particularly engaging for children.

@@ -1,14 +1,13 @@
 ---
-latitude: 40.7300
-longitude: -111.9360
-tags:
-- things_to_do
-- sight
-- park
 title: Jordan River Parkway
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7200
+longitude: -111.9250
 ---
 
-The Jordan River Parkway is a paved trail running roughly 40 miles along the Jordan River from Utah Lake in the south to the Great Salt Lake in the north, passing through Salt Lake City's western neighborhoods. The trail is flat and accessible, used by cyclists, runners, and families, and passes through several parks and natural areas along the way.
+The Jordan River Parkway is a 45-mile paved trail running along the Jordan River from Utah Lake to the Great Salt Lake. Within Salt Lake City it passes through a green corridor of parks, wetlands, and open space that cuts through the otherwise urban west side. Cycling the parkway is a good way to see the city's less-visited western neighbourhoods and the working-class communities that live there.
 
-The river and its corridor provide a strip of green through the more industrial western parts of the city. Several access points allow for shorter out-and-back rides; the full length is a good day trip by bicycle. The parkway connects multiple city and county parks along its route.
+The trail is mostly flat and well-maintained. The section through Cottonwood Park and the Jordan River Nature Center has good birding; the river's riparian corridor supports herons, egrets, and a surprisingly rich variety of songbirds for an urban setting.

@@ -1,13 +1,13 @@
 ---
-latitude: 40.7462
-longitude: -111.8701
-tags:
-- things_to_do
-- neighbourhood
 title: 9th and 9th
 type: neighbourhood
+tags:
+  - things_to_do
+  - neighbourhood
+latitude: 40.7520
+longitude: -111.8620
 ---
 
-The intersection of 9th East and 9th South gives its name to one of Salt Lake City's most appealing neighbourhoods: a dense block of independent restaurants, coffee shops, boutiques, and the Tower Theatre, all clustered within a few blocks. The residential streets surrounding it are lined with modest early twentieth-century bungalows and good trees.
+The 9th and 9th neighbourhood — centred on the intersection of 9th Avenue and 9th East — is Salt Lake City's most pleasant urban village, a compact stretch of independent coffee shops, bookstores, wine bars, restaurants, and boutiques. It has a distinctly non-LDS character and feels closer to a Portland or Seattle neighbourhood than the rest of the city.
 
-This is Salt Lake City's version of a bohemian neighbourhood — which in context means cafes that stay open late, a yoga studio or two, and more secondhand bookshops than anywhere else in the valley. It is a 20-minute walk or short bus ride from Temple Square, and makes a good contrast to the LDS-dominated historic centre.
+This is the best area in Salt Lake City for a slow afternoon: a coffee at the 9th and 9th Coffee Co., lunch at Mazza, a browse through Weller Book Works (an excellent independent bookshop), and an evening drink at one of the small bars. The neighbourhood is walkable and the streets are lined with mature trees.

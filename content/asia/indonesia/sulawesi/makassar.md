@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 latitude: -5.1348
 longitude: 119.4124
 title: Makassar

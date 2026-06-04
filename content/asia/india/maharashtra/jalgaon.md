@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-05-21'
+  location_enrich: '2026-06-03'
+image: jalgaon.jpg
+image_attribution: HongYu HenzaiSuru
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Jalgaon_skyline.jpg
 latitude: 20.842883
 loc_type: city
 longitude: 75.526125

@@ -1,5 +1,0 @@
-europe/greece/siros
-europe/russia/tyumen
-northamerica/nicaragua/jinotega
-europe/germany/bavaria/ingolstadt
-europe/montenegro/cetinje

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: iloilo.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Miagao_Church_(Iloilo-Antique_Road,_Miagao,_Iloilo;_10-21-2022).jpg
@@ -15,7 +15,7 @@ type: location
 
 Iloilo City sits at the southern tip of Panay island in the Western Visayas, a university town and regional capital that most travelers pass through on their way to Guimaras or Boracay. That is a mistake. Iloilo has genuine character — crumbling colonial churches, a lively waterfront, and what many Filipinos consider the best food scene outside Manila.
 
-The [Calle Real heritage district](/asia/philippines/iloilo/calle_real) preserves a row of grand commercial buildings from the American colonial period, their facades still intact if faded. The [Jaro Cathedral](/asia/philippines/iloilo/jaro_cathedral), with the [Jaro Belfry](/asia/philippines/iloilo/jaro_belfry) standing oddly separate across the plaza, and [Miagao Church](/asia/philippines/iloilo/miagao_church) — a UNESCO World Heritage Site forty kilometres west — anchor any sightseeing itinerary. The [Lopez Heritage House](/asia/philippines/iloilo/lopez_heritage_house) and the [Lizares Mansion](/asia/philippines/iloilo/lizares_mansion) in Jaro round out the colonial architecture. The [Iloilo Museum of Contemporary Art (ILOMOCA)](/asia/philippines/iloilo/iloilo_museum_contemporary_art) in the business park is a genuinely good modern museum.
+The [Calle Real heritage district](/asia/philippines/iloilo/calle_real) preserves a row of grand commercial buildings from the American colonial period, their facades still intact if faded. The [Jaro Cathedral](/asia/philippines/iloilo/jaro_cathedral), with the [Jaro Belfry](/asia/philippines/iloilo/jaro_belfry) standing oddly separate across the plaza, and [Miagao Church](/asia/philippines/iloilo/miagao_church) — a UNESCO World Heritage Site forty kilometres west — anchor any sightseeing itinerary. In Jaro, the [Lopez Heritage House](/asia/philippines/iloilo/lopez_heritage_house), the [Lizares Mansion](/asia/philippines/iloilo/lizares_mansion), [Casa Mariquit](/asia/philippines/iloilo/casa_mariquit), and the [Ledesma Mansion](/asia/philippines/iloilo/ledesma_mansion) form one of the best concentrations of colonial domestic architecture in the Philippines. The [Old Jaro Municipal Hall](/asia/philippines/iloilo/old_jaro_municipal_hall) recalls Jaro's former status as an independent municipality. The [Iloilo Museum of Contemporary Art (ILOMOCA)](/asia/philippines/iloilo/iloilo_museum_contemporary_art) in the business park is a genuinely good modern museum.
 
 But Iloilo's real draw is eating. La Paz batchoy, the city's signature noodle soup loaded with pork offal and chicharron, is the dish that put Iloilo on the Filipino food map, and [Ted's La Paz Batchoy at La Paz Market](/asia/philippines/iloilo/la_paz_market) is still the standard. Seafood from the Iloilo Strait is excellent and cheap.
 

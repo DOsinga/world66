@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: menlo_park.jpg
 image_attribution: LPS.1
 image_license: CC0

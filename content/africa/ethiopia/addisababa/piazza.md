@@ -4,6 +4,7 @@ longitude: 38.746
 snippet: Italian-influenced district with great pizza and atmosphere
 tags:
 - things_to_do
+- neighbourhood
 title: The Piazza
 type: neighbourhood
 ---

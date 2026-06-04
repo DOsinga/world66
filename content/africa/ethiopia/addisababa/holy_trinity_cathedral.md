@@ -4,6 +4,11 @@ done:
 latitude: 9.0218
 longitude: 38.7582
 snippet: Haile Selassie's burial place with Afewerk Tekle stained glass
+story: >
+  The British officer Major General Orde Wingate, who organised the Gideon Force that helped
+  restore Emperor Haile Selassie to the throne in 1941, is buried in the cathedral grounds —
+  an unusual honour for a foreigner in one of Ethiopia's most sacred churches. Haile Selassie
+  himself attended the funeral and requested the burial here.
 tags:
 - things_to_do
 - church

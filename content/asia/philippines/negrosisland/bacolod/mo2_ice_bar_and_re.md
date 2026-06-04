@@ -3,8 +3,8 @@ title: 'MO2 ICE Bar and Restaurant'
 type: poi
 snippet: Bacolod's go-to nightlife venue with live bands and cold drinks
 tags:
-- nightlife
-- eating_out
+- bars_and_cafes
+- bar
 address: 'Lacson Street, Mandalagan'
 phone: '+63-34-441-1481'
 latitude: 10.6918

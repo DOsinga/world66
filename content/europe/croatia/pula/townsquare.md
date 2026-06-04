@@ -1,12 +1,14 @@
 ---
 category: Sight
-latitude: 44.8685
-longitude: 13.8434
+latitude: 44.8702
+longitude: 13.8418
 snippet: Ancient Roman forum with the intact Temple of Augustus
 tags:
 - things_to_do
-- historical_site
-title: Forum
+- sight
+story: >
+  The Temple of Augustus on the Forum is one of the best-preserved Roman temples anywhere in the world, largely because it spent several centuries as a granary — the Venetian administration found it more useful as a food store than a ruin, which saved it from being quarried for building stone like most of Pula's other Roman monuments.
+title: Forum and Temple of Augustus
 type: poi
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-The food in Scilla is uncomplicated and excellent: swordfish (pesce spada) caught in the Strait of Messina is the local signature, served grilled, in pasta sauce, or rolled into the involtini that Calabrian cooks have refined for generations. Most of the worthwhile restaurants are in Chianalea, with terraces over the water.
+Scilla's great dish is swordfish — the narrow boats you see on Marina Grande are purpose-built for hunting it in the Strait of Messina, where the fish migrate each summer. The swordfish here is fresher than anywhere inland can offer. Look for it grilled, in involtini stuffed with capers and breadcrumbs, or as a pasta sauce. The seafood in general is exceptional; the Chianalea restaurants have the best settings.

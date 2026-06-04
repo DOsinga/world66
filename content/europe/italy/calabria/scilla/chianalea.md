@@ -1,16 +1,13 @@
 ---
-latitude: 38.2552
-longitude: 15.7155
-snippet: Pastel-coloured fishermen's quarter built directly into the sea
-story: 'Chianalea is sometimes called "the little Venice of the South" because the alleys end in the water rather than dry land — fishermen historically tied their boats to their own front doors. The medieval houses are built so close to the sea that a high winter storm still occasionally slaps spray against the windows.'
+latitude: 38.2490
+longitude: 15.7180
 tags:
 - things_to_do
 - neighbourhood
-- chianalea
 title: Chianalea
 type: neighbourhood
 ---
 
-Chianalea is the postcard half of Scilla. A single stone-paved alley winds between pastel houses whose foundations sit directly in the sea, with side passages that drop straight to the water. Boats are pulled up against the kitchen doors of the old fishermen's families, and the smell is of salt, garlic, and frying anchovies.
+Chianalea is the fishermen's quarter of Scilla, a narrow row of pastel-coloured houses squeezed between the coastal road and the sea on the northern side of the castle headland. The houses are built directly over the water — some have small doors that open onto mooring steps, and fishing boats are tied up against the walls below. It is one of the most atmospheric streets in Calabria.
 
-The right way to experience it is to wander slowly from the Castello Ruffo end and out along the alley until it runs out, then double back for an aperitif at one of the seaside terraces. Sunset is the best moment — the rocks of Sicily across the water turn pink, and the lights along the strait begin to come on.
+Walk the length of it slowly: the street is barely two people wide in places, the light off the water changes through the day, and the colours of the façades — yellow, ochre, dusty rose — are at their best in the late afternoon. Several restaurants open onto the waterfront, and eating swordfish here, with Sicily visible across the strait, is one of the more memorable meals you can have in southern Italy.

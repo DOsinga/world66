@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 image: bargarh.jpg
 image_attribution: Manas.pradh
 image_license: CC BY-SA 3.0

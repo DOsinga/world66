@@ -1,25 +1,10 @@
 ---
-address: National Centre, Post Bag 8426, Hutchins Road 2nd cross, Bangalore 560084
-email: cleophasfds@yahoo.co.in
-phone: '9008999236'
 tags:
 - getting_there
-title: State Road Transport Corporation
+title: By Road (KSRTC)
 type: poi
+latitude: 15.3358
+longitude: 76.4610
 ---
 
-Hampi is 350 kms from Bangalore. KSRTC Buses ply regularly between Bangalore and Hospet, and between Hospet and Hampi. You can chose from a wide variety of classes on the Bangalore Hospet route. Semi-deluxe, Deluxe, and the most comfortable Volvo buses.
-
-There is a daily bus between Bangalore and Hampi as well. But only the deluxe class operate on this route. Tickets can be booked at numerous private operators, or from a number of Karnataka State Road Transport Corportation (KSRTC) booking counters across Bangalore.
-
-type: By Road
-
-
-
-
-
-tel: 9008999236
-
-address: National Centre, Post Bag 8426, Hutchins Road 2nd cross, Bangalore 560084
-
-email: cleophasfds@yahoo.co.in
+Hampi is 350 km from Bangalore. KSRTC buses run regularly between Bangalore and Hospet (the nearest town, 13 km from Hampi), with options ranging from semi-deluxe to Volvo-class coaches. Journey time is around 8–9 hours. There are also direct daily buses from Bangalore to Hampi Bazaar on the deluxe route. From Hospet, share autos and local buses connect to Hampi frequently throughout the day. Private operators also run overnight sleeper coaches from Bangalore, Goa, and Hyderabad.

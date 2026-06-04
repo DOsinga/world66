@@ -2,13 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-19'
+image: syracuse.jpg
+image_attribution: James Earle Fraser
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_Statue_and_Maxwell_School,_Syracuse_University,_2012.jpg
 latitude: 43.048122
+loc_type: city
 longitude: -76.147424
 score: 0.39
 title: Syracuse
 type: location
-loc_type: city
 ---
 
 Syracuse is the fourth-largest city in [New York State](/northamerica/unitedstates/newyorkstate) and regularly claims the title of snowiest large city in America, averaging over 120 inches per year thanks to lake-effect storms rolling off Lake Ontario. The city grew rich on salt mining in the 19th century -- it was known as "Salt City" -- and later became an industrial center. Today it is primarily a university town, anchored by Syracuse University on the hill above downtown.

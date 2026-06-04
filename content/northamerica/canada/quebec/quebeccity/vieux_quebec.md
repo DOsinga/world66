@@ -6,7 +6,8 @@ longitude: -71.2074
 snippet: Only walled city in North America, UNESCO World Heritage since 1985
 tags:
 - things_to_do
-- landmark
+- sight
+- neighbourhood
 title: Vieux-Québec (Old City)
 type: poi
 ---

@@ -1,9 +1,6 @@
 ---
-title: Things to do
+title: Things to Do
 type: section
 ---
 
-One of the best things to do is take a camel ride.
-
-**Contributors**
-September 22, 2005
+Errachidia is a stopover town rather than a destination in its own right, but the immediate area has a few worthwhile sights — the Ziz Gorges, the palmery, and the spring at Meski. The town itself is best walked through on a single afternoon: the central market, the French-era streets, and a glass of mint tea on the main square.

@@ -1,13 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-address: "north yorkshire england"
-email: "trish_693@hotmail.com"
-zipcode: "yo7 1qd"
 ---
 
-taverna vergina lampi kos
+Kos Town's restaurant scene caters heavily to the mass tourist market — beach bars, cocktail places, and tavernas with picture menus in multiple languages line the harbour front. Better food is found a few streets inland, where local tavernas serve fresh fish, grilled octopus, and the Greek island standards at honest prices.
 
-### Taverna vergina
-
-Very friendly, family run taverna. The food is cooked in full view of a lot of the tables which we thought was very good. Katerina the daughter of the owner was very friendly and bubbly, in fact we have kept in touch with them and Katerina and husband hope to join us when we go to Mykonos in May.When we were there in May 2004 it was as aparty of 4 aged 54, 49, 47 & 46 We will be returning in August as another party of 7 this time ages 50, 47, 25, 25, 23, 22 and 18months so should be fun. We will definately be eating there again.
+Kos produces good local wine; the Halaris winery near the village of Pyli is worth seeking out if you have transport. The mountain village of Zia is touristy but the tavernas there do serve reasonable Greek food with good views toward the Turkish coast.

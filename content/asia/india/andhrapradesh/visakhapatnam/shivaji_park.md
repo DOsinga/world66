@@ -1,23 +1,11 @@
 ---
-latitude: 19.027279
-longitude: 72.838398
+latitude: 17.7150
+longitude: 83.3500
 tags:
-- things_to_do
-- landmark
+  - things_to_do
+  - sight
 title: Shivaji Park
 type: poi
-url: www.visitvizag.in
 ---
 
-Spread over an area of 3 acres Shivaji Park is one of the attractions of Vizag. Open in the evenings Shivaji Park have many attractions like Skating Ring, Amphi theater, food courts make This Park an ideal picnic spot. Usually opens until 10:00pm in the night everyday, since most of the days there are ususally some kind of amusement programmes for the people of Vizag.
-
-**Contributors**
-September 25, 2006
-
-type: Parks, Gardens and Zoos
-
-
-
-
-
-url: www.visitvizag.in
+Shivaji Park is a small urban park near the beach that serves as an evening gathering spot for the local neighbourhood. The park has a skating rink, an amphitheatre that hosts occasional cultural programmes, and food stalls that do good business once the sun drops. It's not a destination in itself, but a pleasant half-hour stop if you're walking the waterfront area after RK Beach.

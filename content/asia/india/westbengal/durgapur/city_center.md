@@ -5,9 +5,9 @@ latitude: 23.534948
 longitude: 87.303368
 snippet: Steel town's main social hub with malls, cineplex, and restaurants
 tags:
-- things_to_do
-- shopping
-- entertainment
+  - things_to_do
+  - shopping
+  - sight
 title: City Center
 type: poi
 ---

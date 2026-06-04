@@ -1,5 +1,0 @@
-europe/czechrepublic/prague
-africa/ivorycoast/abidjan
-europe/france/east/lorraine/hattonchatel
-europe/unitedkingdom/england/south_east/gosport
-southamerica/brazil/curitiba

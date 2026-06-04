@@ -1,5 +1,0 @@
-europe/latvia/daugavpils
-northamerica/unitedstates/california/willows
-asia/indonesia/cirebon
-southamerica/ecuador/cuenca
-northamerica/thecaribbean/puertorico/gurabo

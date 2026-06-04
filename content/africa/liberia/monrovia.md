@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: monrovia.jpg
 image_attribution: David Stanley
 image_license: CC BY 2.0

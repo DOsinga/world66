@@ -1,7 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
   poi_cleanup: '2026-04-19'
 image: vilnius.jpg
 image_attribution: F H Mira on Flickr

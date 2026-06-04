@@ -1,5 +1,0 @@
-europe/denmark/nastved
-europe/unitedkingdom/england/birmingham_and_west_midlands/walsall
-africa/kenya/thecoast/watamu
-europe/france/east/burgundy/vezelay
-northamerica/mexico/monterrey

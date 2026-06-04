@@ -1,7 +1,7 @@
 ---
 latitude: 36.519238
 longitude: -5.317754
-snippet: Hill walking in the Sierra Crestellina, with a memorable railway station approach
+snippet: Hill walking in the Serrania de Ronda, with a memorable railway station approach
 tags:
   - things_to_do
   - sight

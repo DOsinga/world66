@@ -3,16 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-There are literally 100's of restaurants located in Acapulco all offering different fare as well as from modest to the most upscale restaurants in the world. Here are a few from each category.
+Acapulco's best eating is at the simpler end: fresh ceviche mixed to order at a beachside palapa, grilled fish at a no-frills market stall, or a taco stand on the Zócalo at midnight. The resort hotel restaurants exist and serve adequate food at inflated prices, but they are not the point.
 
-UPSCALE
+The local speciality is pescado a la talla — a whole snapper or red snapper butterflied and grilled over charcoal with a paste of chilli and spices. The best versions are found at Beto's on Playa Condesa, where fishermen bring the catch directly and tables fill by noon. El Amigo Miguel in the old town near the Zócalo is the classic for seafood on a budget — noisy, cheerful, and very good.
 
-Baikal, Coyuca 22, Madeiras, Zibu, Kookaburra, Becco, Bellavista all located on the scenic Hwy with the exception of Coyuca 22 in Traditional/Old Acapulco.
+For a more elaborate meal, **Zibu** on the Carretera Escénica combines Thai and Mexican flavours in an open-air space overlooking the bay — the tuna tacos are outstanding. **Madeiras**, also on the Carretera Escénica, is the traditional splurge option with bay views from every table.
 
-Gold Zone
-
-Sucasa, La Tortuga, El Cabrito, Forza Italia, El Olvito, Paradise, barbaroja
-
-Traditional/Old town ACA
-
-Mi Piacci, El Amigo Miguel, Marisco Nachos, La cabana de caleta, Hotel Los Flamingos
+The market area around the Zócalo has the cheapest and most local food in the city: pozole, enfrijoladas, and tamales from women who have been feeding the neighbourhood for decades.

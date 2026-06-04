@@ -1,5 +1,0 @@
-northamerica/canada/ontario/quintewest
-europe/france/centre/loirevalley/fontevraud
-asia/thailand/kanchanaburi
-northamerica/trinidadandtobago/port_of_spain
-asia/saudiarabia/mecca

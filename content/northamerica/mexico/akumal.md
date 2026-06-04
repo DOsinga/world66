@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 image: akumal.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Akumal_Half-moon_Bay-27527-2.jpg

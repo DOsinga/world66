@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 latitude: 37.2153
 longitude: -93.2982
 title: Springfield

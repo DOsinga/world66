@@ -3,30 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-There are a lot of places to eat out in Syracuse, NY.
+Armory Square is the best place to eat in downtown Syracuse — a cluster of restored 19th-century brick warehouses filled with independent restaurants and bars. [Lemongrass](/northamerica/unitedstates/newyorkstate/syracuse/lemongrass) does upscale Thai and Asian fusion here, while [Ambrosia](/northamerica/unitedstates/newyorkstate/syracuse/ambrosia) covers sushi and eclectic American.
 
-**all**
-
-**Panera Bread**
-
-Panera Bread is a chain that recently moved into Syracuse. Located in a suburb, people go there to comfortably eat soft breads and soups.
-
-address: (near Target) Fayetteville, NY
-
-**Lemongrass**
-
-The Lemongrass is a fancy place to eat in downtown. It's a very tasteful looking restaurant, and in a good neighborhood.
-
-address: Armory Square : Downtown Syracuse
-
-**Olive Garden**
-
-The Olive Garden is an italian restaurant that did not originate in Syracuse. They have great salads and pasta. It is located on Erie Boulevard, the main street in DeWitt (a suburb of syracuse)
-
-address: Erie Boulevard, between Bridge St. and Thompson Rd. (?)
-
-**TGIFridays**
-
-Located in Shoppingtown mall(in DeWitt), Fridays is the only sit-down and waited restaurant in the mall. It's also a chain restaurant.
-
-address: Shoppingtown Mall, DeWitt
+Dinosaur Bar-B-Que on Willow Street is a Syracuse institution — a biker-themed barbecue joint that started here before expanding across the northeast. The ribs and pulled pork are genuinely good, the portions enormous, and the wait on weekends long.

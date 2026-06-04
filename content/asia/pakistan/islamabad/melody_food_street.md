@@ -1,33 +1,14 @@
 ---
-address: Blue Area
-latitude: 33.712762
-longitude: 73.063001
-tags:
-- eating_out
 title: Melody Food Street
 type: poi
+latitude: 33.7128
+longitude: 73.0630
+address: G-6 Markaz
+tags:
+  - eating_out
+  - restaurant
 ---
 
-In Melody G-6 Markaz is a newly opened food area with variety of food to choose from with some nationally famous restaurant names having outlets there. Plenty of BBQ and traditional Pakistani food with a variety of fresh fruit juices to choose from.
+Melody Food Street in the G-6 Markaz is the original concentrated eating strip of Islamabad, dating from the 1980s. A short pedestrian lane is lined with maybe forty small kitchens — barbeque grills, biryani houses, naan shops, kebab joints, lassi stalls — most of them open until late into the night.
 
-**Contributors**
-May 09, 2009
-
-type: Local
-
-
-
-
-
-address: Blue Area
-
-In Melody G-6 Markaz is a newly opened food area with variety of food to choose from with some nationally famous restaurant names having outlets there. Plenty of BBQ and traditional Pakistani food with a variety of fresh fruit juices to choose from.
-
-**Contributors**
-May 09, 2009
-
-type: Local
-
-
-
-address: Blue Area
+The food is honest, cheap and best on the grill: chapli kebab, beef seekh, chicken tikka, naan straight from the tandoor. The atmosphere on a warm evening, with tables spilling into the street and smoke from the grills, is one of the more characterful experiences in the otherwise carefully zoned capital.

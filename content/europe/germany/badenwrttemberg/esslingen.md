@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: esslingen.jpg
 image_attribution: Qwerty123uiop
 image_license: CC0

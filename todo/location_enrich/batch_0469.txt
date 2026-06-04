@@ -1,5 +1,0 @@
-europe/germany/badenwrttemberg/esslingen
-europe/france/corsica/bastia
-asia/oman/jabrin
-europe/norway/lillehammer
-asia/philippines/las_pinas_city

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: grindelwald.jpg
 image_attribution: W. Bulach
 image_license: CC BY-SA 4.0

@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Ærø rewards slow travel. The island is small enough that you can reach most of it by bicycle in a day, and the lack of rush is part of the point.
+Ærø is small enough that you can see most of the highlights in a long weekend, but it rewards a slower visit. The three main towns — Ærøskøbing, Marstal, and Søby — each have a distinct character, and the gentle countryside between them is laced with cycle paths, stone-fenced fields, and quiet beaches.

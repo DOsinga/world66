@@ -1,8 +1,12 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Ærø is accessible only by ferry. The main route runs from Svendborg on Funen to Ærøskøbing, taking about 75 minutes. There are also ferries from Faaborg to Søby in the northwest of the island, and from Mommark on the mainland to Marstal on the eastern tip.
+Ærø has no bridge — every visit involves a ferry. Three routes connect the island to the mainland.
 
-Ferries are run by Ærøfærgerne and carry both foot passengers and cars. In summer the boats can be busy — book car space ahead if you want to bring a vehicle. Most visitors find a bicycle sufficient once on the island.
+- **Svendborg to Ærøskøbing.** The main route, run by Ærøfærgerne. About 75 minutes, several sailings a day year-round. Foot passengers, cars, and bicycles all welcome. Book ahead in summer if you are bringing a car.
+- **Faaborg to Søby.** About one hour. Useful if you are coming from the west of Funen.
+- **Fynshav (Als) to Søby.** About 70 minutes. The shortcut from southern Jutland and northern Germany — saves a long drive around through Funen.
+
+Svendborg and Faaborg both connect by train and bus to the wider Danish railway network, with frequent services from Copenhagen and Odense. Ærø also has a small airfield south of Marstal but no scheduled commercial flights.

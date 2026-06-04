@@ -1,14 +1,11 @@
 ---
-title: "Kaesong Folk Hotel"
+title: Kaesong Folk Hotel
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-latitude: 37.9750
-longitude: 126.5580
+tags: [things_to_do, sight]
+latitude: 37.9767
+longitude: 126.5531
 ---
 
-The Kaesong Folk Hotel is a rare thing in North Korea: genuine traditional architecture being used as it was intended, as a place to sleep. The complex consists of a collection of restored Korean hanok-style buildings — wooden structures with curved tiled roofs — arranged around courtyards in the old neighbourhood west of the city centre.
+The Kaesong Folk Hotel is a complex of traditional Korean courtyard houses converted into tourist accommodation in 1989. There are around 50 rooms spread across nineteen restored hanok buildings, with paper-screen sliding doors, heated ondol floors, and shared courtyards.
 
-Staying here is possible on some tour itineraries, and worth the extra planning. The rooms are simple but the buildings are the real thing: low-slung, calm, and quite unlike the Stalinist concrete of Pyongyang hotels. The communal areas in the morning, when mist sits in the courtyards and other guests drift between buildings, offer one of the more peaceful moments available to visitors in North Korea.
+For most foreign visitors who get to spend the night here — as part of overnight tours from Pyongyang — it is the only chance on the trip to sleep in a non-Soviet-era building. The standards are basic and the heating in winter can be erratic, but the place itself is the experience. The hotel's restaurant serves the traditional pansangki, an elaborate multi-bowl table-set of Kaesong specialities, which is itself a reason to overnight here.

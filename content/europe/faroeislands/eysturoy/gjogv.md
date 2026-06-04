@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-05'
 image: gjogv.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Eysturoy,_Gj%C3%B3gv_(3).jpg

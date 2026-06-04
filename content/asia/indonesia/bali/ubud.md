@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
   poi_cleanup: '2026-04-19'
 image: ubud.jpg
 image_attribution: Unknown

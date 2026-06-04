@@ -1,0 +1,5 @@
+europe/greece/thessaloniki
+europe/russia/novosibirsk
+asia/indonesia/bali/ubud
+northamerica/unitedstates/michigan/muskegon
+northamerica/unitedstates/alaska/homer

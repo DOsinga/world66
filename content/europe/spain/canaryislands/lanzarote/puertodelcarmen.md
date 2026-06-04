@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 image: puertodelcarmen.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:PuertodelcarmenBeach.JPG

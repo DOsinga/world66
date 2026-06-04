@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/tahoe_city
-europe/moldova/orhei
-europe/unitedkingdom/scotland/northberwick
-europe/italy/liguria/portofino
-northamerica/unitedstates/nevada/winnemucca

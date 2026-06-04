@@ -34,6 +34,7 @@
     "africa/algeria/tiziouzou",
     "africa/algeria/tlemcen",
     "africa/algeria/touggourt",
+    "africa/angola",
     "africa/angola/benguela",
     "africa/angola/cabinda",
     "africa/angola/catumbela",
@@ -45,6 +46,20 @@
     "africa/angola/massoulo",
     "africa/angola/namibe",
     "africa/angola/ondjiva",
-    "africa/angola/porto_amboim"
+    "africa/angola/porto_amboim",
+    "africa/angola/saurimo",
+    "africa/angola/soyo",
+    "africa/benin",
+    "africa/benin/abomey",
+    "africa/benin/cotonou",
+    "africa/benin/djougou",
+    "africa/benin/ganvie",
+    "africa/benin/grandpopo",
+    "africa/benin/ouidah",
+    "africa/benin/parakou",
+    "africa/benin/portonovo",
+    "africa/botswana/francistown",
+    "africa/botswana/gaborone",
+    "africa/botswana/ghanzi"
   ]
 }

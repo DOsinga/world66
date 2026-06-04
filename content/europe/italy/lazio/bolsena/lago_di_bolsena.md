@@ -1,15 +1,19 @@
 ---
-latitude: 42.5990
-longitude: 11.9330
-tags:
-- things_to_do
-- sight
 title: Lago di Bolsena
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 42.6100
+longitude: 11.9700
 story: >
-  The two islands visible from the shore — Bisentina and Martana — have unusual histories. Bisentina was used as a retreat by several popes and contains chapels built by the Farnese family; Martana is where the Ostrogoth queen Amalasuntha was strangled in 535 AD on the orders of her cousin Theodahad, triggering the Byzantine invasion of Italy.
+  The lake fills a volcanic caldera created by eruptions around 300,000 years
+  ago. Its two islands — Bisentina and Martana — are also volcanic in origin.
+  Martana island is where Amalasuntha, queen of the Ostrogoths, was murdered in
+  534 AD on the orders of her cousin Theodahad; her killing gave Byzantine
+  Emperor Justinian the pretext to launch his invasion of Italy.
 ---
 
-Lago di Bolsena is the largest volcanic lake in Europe, formed in the crater of an ancient volcano about 370,000 years ago. The water is clean, the shore is largely undeveloped, and in summer the lake is the main reason people come to Bolsena. Swimming is excellent from the rocky beach below the town and from several other access points around the perimeter.
+Lago di Bolsena is the largest volcanic lake in Europe, about 12km long and 11km wide. The water is clean enough to swim in — a fact that surprises visitors used to more polluted Italian lakes — and the shore has several good beaches accessible from the town. In summer the lake fills with sailboats and windsurfers; outside July and August it is remarkably quiet.
 
-Boat rentals are available from the lakefront, and it is possible to row out to the two small islands. The lake also has a reputation for eels, which appear in local restaurants prepared alla brace or in umido; the eel of Bolsena was famously served to Pope Martin IV in 1281, and the mediaeval poet Dante placed the pope in Purgatory specifically for his gluttony in eating too many of them.
+The lakefront promenade beneath the old town is a pleasant evening walk. Local restaurants along the water serve the lake's famously good eels, typically grilled over charcoal or cooked with tomatoes and herbs. If you are here in summer, a boat trip out to the Isola Bisentina — which has a 15th-century Franciscan convent and gardens open to visitors — is well worth the modest ferry fare.

@@ -1,14 +1,22 @@
 ---
-latitude: 42.6441
-longitude: 11.9855
-tags:
-- things_to_do
-- sight
-- museum
 title: Rocca Monaldeschi della Cervara
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - museum
+latitude: 42.6441
+longitude: 11.985
+story: >
+  The castle takes its name from the Monaldeschi family, a noble clan that
+  dominated this part of Lazio in the medieval period and whose bloody internal
+  feuding eventually destroyed them. Their downfall culminated in 1328 when one
+  branch assassinated another at Orvieto Cathedral, triggering a decade of
+  warfare throughout the Viterbo region.
+sources:
+  - https://en.wikipedia.org/wiki/Bolsena
 ---
 
-The Rocca Monaldeschi della Cervara is a thirteenth-century fortress that dominates the hilltop medieval quarter above the lake shore. The castle was built to control the Via Cassia, the ancient Roman road running north-south through Lazio, and served as the seat of local power through the medieval period. Today it houses the Museo Territoriale del Lago di Bolsena.
+The Rocca Monaldeschi is the 13th-century castle that anchors the upper town of Bolsena, its square towers visible from the lakefront below. The building is in good condition and houses the Museo Territoriale del Lago di Bolsena, a well-organised small museum covering the area's geology, Etruscan and Roman archaeology, and lake ecology.
 
-The museum covers the natural history of the volcanic lake and the archaeology of the surrounding area, with exhibits on the Etruscans, the Roman settlement, and the geology of the volcanic crater that created the lake. The views from the castle walls over the lake and the two islands — Bisentina and Martana — are excellent. Entry is inexpensive and the combination of the castle architecture, the museum, and the views makes it worth the short climb from the town centre.
+The museum is worth an hour for the Etruscan material alone: grave goods, bronzes, and ceramics from the tombs that are scattered through the surrounding countryside. There is also good coverage of the lake's volcanic origins and the unusual biology of its thermal springs.

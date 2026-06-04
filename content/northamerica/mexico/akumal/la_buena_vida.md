@@ -4,6 +4,7 @@ longitude: -87.3172
 snippet: "Beachside restaurant on Half Moon Bay with swings at the bar"
 tags:
 - eating_out
+- bars_and_cafes
 - restaurant
 - bar
 title: La Buena Vida

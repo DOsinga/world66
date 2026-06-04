@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 latitude: 7.321154
 loc_type: city
 longitude: 13.587821

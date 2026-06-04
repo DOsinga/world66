@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-08
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-19'
 image: crans_montana.jpg
 image_license: CC BY-SA 4.0

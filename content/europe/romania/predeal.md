@@ -2,16 +2,16 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-04'
+image: predeal.jpg
+image_attribution: cod_gabriel
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Predeal_and_Mount_Postavaru.jpg
 latitude: 45.502688
+loc_type: city
 longitude: 25.576158
+score: 0.48
 title: Predeal
 type: location
-score: 0.48
-loc_type: city
-image: predeal.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Predeal_and_Mount_Postavaru.jpg
-image_license: CC BY 2.0
-image_attribution: cod_gabriel
 ---
 
 Predeal is the highest town in Romania, sitting at about 1,100 metres in the Bucegi Mountains on the border between Transylvania and Wallachia. It is a modest ski resort — smaller and quieter than neighbouring [Sinaia](/europe/romania/sinaia) or [Poiana Brașov](/europe/romania/brasov) — with a handful of runs on the [Clăbucet ski area](/europe/romania/predeal/clabucet_ski_area) suited to beginners and intermediates.

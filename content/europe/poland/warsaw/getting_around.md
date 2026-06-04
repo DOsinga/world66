@@ -3,19 +3,14 @@ title: "Getting Around"
 type: section
 ---
 
-City Transport in Warsaw
+Warsaw has an integrated public transport system (ZTM) covering the metro, trams, and buses. A single ticket covers all three modes and is valid for transfers within a time window. 24-hour and 72-hour tourist passes are good value if you're using the system frequently.
 
-**Bus **(~200 lines)**, Tram**(~30 lines)** and Metro** (1 line) systems are fully integrated in ZTM - City Transport Authority.
+**Metro:** Two lines cross the city. Line 1 runs north-south through the centre and is the most useful; Line 2 runs east-west, connecting Praga to the western districts and stopping at the centre. The metro is clean, fast, and runs until around 1am.
 
-**Trains** are run by Koleje Mazowieckie. You buy tickets on the
-station, or, if there is no ticket selling point, on the train (in the
-1st car) There are 1-time tickets and zone tickets, valid in certain
-zones (1, 2, or 3 zones) for a certain period of time.
+**Trams:** Extensive tram network covering areas the metro doesn't reach. Route 4 from the Old Town area to Łazienki Park is a useful tourist route.
 
-If you're travelling a local train during a work-free day (Sat, Sun,
-holidays) there are discounts: -15% one-way, -33% two-way tickets.
+**Taxis and ride-share:** Uber and Bolt operate across Warsaw and are cheaper than traditional taxis. If using a conventional taxi, use the meter and choose a licensed company.
 
-**Contributors**
-September 05, 2005
+**Cycling:** Nextbike operates a city bike scheme with docking stations throughout central Warsaw and along the Vistula embankment. The riverside cycling paths are excellent.
 
-September 05, 2005
+**Walking:** The Old Town, Royal Route, and Powiśle districts are very walkable. The distances between the major sights are larger than they appear on the map — between the Old Town and Łazienki Park is about 4km.

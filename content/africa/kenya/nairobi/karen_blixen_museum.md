@@ -5,6 +5,8 @@ snippet: The Out of Africa farmhouse, preserved since the 1930s
 tags:
 - things_to_do
 - day_trips
+- karen
+neighbourhood: Karen
 title: Karen Blixen Museum
 type: poi
 ---

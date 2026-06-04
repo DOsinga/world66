@@ -5,6 +5,8 @@ snippet: Traditional villages and dance performances from 42 ethnic groups
 tags:
 - things_to_do
 - day_trips
+- langata
+neighbourhood: Langata
 title: Bomas of Kenya
 type: poi
 ---

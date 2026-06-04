@@ -1,8 +1,10 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
 ---
 
-Summer (June to August) is peak season on Ærø, and for good reason: the weather is mild, the ferries run frequently, and the island's cafes and museums are all open. July and early August are the busiest weeks — families from the mainland fill the rental houses, and Ærøskøbing can feel crowded relative to its normal pace. Book accommodation several months ahead for July.
+Ærø is at its best from late May to early September, when the days are long, the ferries run frequently, and the cafes and small museums are open. July and August are the busiest months — book accommodation well in advance if you want to rent one of the old houses in Ærøskøbing.
 
-Late May and September are the sweet spots: warm enough for cycling and kayaking, light enough in the evenings, and quiet enough that you won't need a reservation at the restaurant. Spring is good for birdwatching, especially along the southern coast. The island is not really a winter destination, though the old town is atmospheric in snow if you happen to be passing through.
+Spring (late April–May) is quiet and the countryside is full of wildflowers and lambs. Autumn is golden and atmospheric but many of the smaller venues close from October. Winter is genuinely off-season — the island has fewer than 6,000 residents and outside of Ærøskøbing things can feel deserted, though the towns remain charming under a dusting of snow.
+
+The Ærø Sailing Race (Ærø Rundt) in late July fills Marstal and Ærøskøbing harbours with classic wooden yachts and is one of the highlights of the local summer.

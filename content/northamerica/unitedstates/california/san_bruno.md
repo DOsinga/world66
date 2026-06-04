@@ -1,38 +1,22 @@
 ---
-title: San Bruno
-type: location
+done:
+  location_enrich: '2026-06-03'
+image: san_bruno.jpg
+image_attribution: Robert E. Nylund
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:SanBruno.jpg
 latitude: 37.624854
+loc_type: city
 longitude: -122.414599
 score: 0.35
-loc_type: city
+title: San Bruno
+type: location
 ---
 
-Travel Guide
+San Bruno is a working-class suburb on the western edge of San Francisco Bay, jammed between [San Francisco International Airport](/northamerica/unitedstates/california/san_bruno/sfo_airport) and the wooded ridges of San Bruno Mountain. Few visitors come here on purpose — most pass through changing planes or stopping at the BART station — but the city is more interesting than its strip-mall first impression suggests.
 
-San Bruno is located at 37°37′31″N, 122°25′31″W (37.625288, -122.425266) GR1 . The city is located between South San Francisco and Millbrae, near the San Francisco International Airport and about 12 miles (19 km) south of downtown San Francisco.
+This was the site of [Tanforan Racetrack](/northamerica/unitedstates/california/san_bruno/tanforan), one of the most famous horse-racing venues on the West Coast for sixty years, and later a [Japanese-American internment assembly centre](/northamerica/unitedstates/california/san_bruno/tanforan_assembly_center) where families were held in former horse stalls in 1942 before being shipped to camps further inland. The shopping mall that replaced the track now carries a sober memorial to that history. The [Golden Gate National Cemetery](/northamerica/unitedstates/california/san_bruno/golden_gate_cemetery) on the north side of town is one of the largest military cemeteries in the United States, with 140,000 graves in geometric rows.
 
-According to the United States Census Bureau, the city has a total area of 14.1 km² (5.5 mi²), all land. The city spreads from the mostly flat lowlands near San Francisco Bay into the foothills of the Santa Cruz Mountains,
-which rise to more than 600 feet above sea level (183 m) in Crestmoor
-and more than 700 feet (213 m) above sea level in the northwestern
-corner of the city. San Bruno City Hall sits at an official elevation
-of 41 feet (12.5 m) above sea level.
+For walkers, [Junipero Serra County Park](/northamerica/unitedstates/california/san_bruno/junipero_serra_park) climbs into the coastal hills with trails through oak woodland and grassland, with views back across the bay to the runways. The [National Archives](/northamerica/unitedstates/california/san_bruno/leo_ryan_federal_building) at the Leo J. Ryan Federal Building hold a major Pacific Region collection — particularly strong on Chinese immigration records from the Angel Island era — and are open to researchers.
 
-Portions of Mills Park, Crestmoor, and Rollingwood are very hilly
-and feature some canyons and ravines. Creeks, many of them now in
-culverts, flow from springs in the hills toward San Francisco Bay. Just
-west of Skyline Boulevard is San Andreas Lake, outside the city limits, which gave its name to the famous San Andreas Fault in 1895. The lake is actually one of several reservoirs used by the San Francisco Water Department.
-
-San Bruno City Park, bordered by Crystal Springs Avenue and El
-Crystal School, is the major municipal park. It offers shaded walkways
-and hiking trials, picnic tables, a playground, a small ballpark, a
-municipal swimming pool, and a recreation center that includes an
-indoor basketball court once used for training by the San Francisco Warriors basketball team. There are smaller municipal parks in other parts of the city.
-
-Junipero Serra County Park, also accessible from Crystal Springs
-Avenue, is a 100-acre (.405 square kilometer) park owned by San Mateo
-County and includes numerous hiking trails, as well as picnic shelters,
-barbecue pits, and picnic tables. The wilderness area was named for Junipero Serra, a Franciscan
-friar who founded many of the Spanish missions in California during the
-eighteenth century; Serra regularly passed through what is now San
-Bruno whenever he visited the mission at San Francisco. The park is
-administered by the San Mateo County Parks and Recreation Department, which charges a small entry fee on weekends.
+San Bruno makes a practical stopover if your flight is at SFO: hotels are cheaper than downtown San Francisco, BART and Caltrain both reach the city in twenty minutes, and the Pacific is twenty minutes' drive over the ridge to Pacifica.

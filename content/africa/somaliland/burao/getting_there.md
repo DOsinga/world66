@@ -1,10 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Burao is around 165 km east of [Hargeisa](/africa/somaliland/hargeisa) on a paved road that is generally in reasonable condition. Shared minibuses (called Hiace by the type of Toyota van used) leave Hargeisa for Burao throughout the day and take three to four hours. Private taxis can be arranged through guesthouses in Hargeisa.
+Burao Airport (IATA: BUO) handles scheduled flights connecting the city to Hargeisa, and intermittently to other destinations in the region. Services are operated by small regional carriers and schedules are subject to change — check locally before relying on a particular flight.
 
-**Burao Airport** has occasional flights from Hargeisa and Berbera, mostly small-scale services aimed at local traders. Most visitors arrive by road.
-
-Foreign travellers need a Somaliland visa (issued at Hargeisa airport or the Somaliland mission in Addis Ababa) and a special permit to travel beyond Hargeisa — get the permit at the tourism office in the capital before heading east. Security conditions can change; check before travelling and avoid the area east of Burao toward the Sool region unless you have current local advice.
+The overland route from Hargeisa takes roughly three to four hours by shared taxi or minibus on a road that has improved considerably in recent years. The road passes through dramatic semi-arid landscape with occasional nomadic encampments. Shared vehicles depart when full from the main bus yard in Hargeisa. Independent travellers should check current security conditions before travelling, as the situation can change.

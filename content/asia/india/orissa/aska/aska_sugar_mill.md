@@ -1,14 +1,19 @@
 ---
-latitude: 19.606087
-longitude: 84.672452
-tags:
-- things_to_do
-- sight
 title: Aska Sugar Mill
 type: poi
-story: "The mill was established in 1824 during the British colonial period, making it one of the oldest industrial sugar operations in Asia. The local climate and the availability of sugarcane in the Ganjam plains made the location commercially attractive. The mill gave Aska its longstanding nickname: the 'Sugar City of Odisha.'"
+tags:
+  - things_to_do
+  - sight
+latitude: 19.6100
+longitude: 84.6640
+story: >
+  The Aska Sugar Mill, established in 1824 during the British colonial period,
+  is claimed to be one of the oldest sugar mills in Asia. The area around Aska
+  had been producing cane sugar long before the British arrived, but the mill
+  industrialised and scaled up the process. At its height it was the economic
+  engine of the town and gave Aska its nickname, the "Sugar City of India."
 ---
 
-The Aska Sugar Mill, established in 1824, is one of the oldest sugar mills in Asia and the industrial landmark that has shaped the town's identity. The mill continues to operate and the sight of the factory and its chimney stack is the most distinctive feature of the town's skyline.
+The sugar mill is the historical and economic foundation of Aska and still operates today, giving the town a distinctive industrial character uncommon in rural Odisha. The mill and its surrounding compound are not open for public tours, but its chimney and processing buildings are visible from the road and give a sense of the town's colonial-era industry.
 
-The mill is not open for general visitor tours, but the sugar-processing season (roughly November through March) brings visible activity to the facility and a sweetness to the air around the town. For visitors with an interest in industrial history or in understanding the colonial economic infrastructure of Odisha, the mill represents a tangible piece of that story.
+During the crushing season (typically November to March), the smell of processing cane hangs over the town and truck traffic increases significantly on the roads leading in from the surrounding sugarcane fields.

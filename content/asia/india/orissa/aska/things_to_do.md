@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Aska is a small town in Ganjam District with limited conventional tourist attractions. The main reasons to visit are the Khambeswari temple, the historic sugar mill, and the proximity to the Lakhari Valley Wildlife Sanctuary.
+Aska is a small market town with limited conventional tourist sights. The main interest is the Khambeswari temple, the industrial heritage of the old sugar mill, and the nearby Lakhari Valley Wildlife Sanctuary, which makes a worthwhile half-day excursion.

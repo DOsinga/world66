@@ -1,12 +1,8 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
 ---
 
-**Summer (June to August)** is the obvious season: the midnight sun lingers above the horizon in late June, the via ferrata and zipline on Øyfjellet are open, and the Vefsna river runs full enough for salmon to leap at Laksforsen. Average highs hover around 16 to 18°C and Sjøgata feels alive with cafés spilling out onto the street.
+Summer (June–August) is the obvious choice: the midnight sun means long evenings to explore Sjøgata, and hiking on Øyfjellet and kayaking the fjord are both at their best. July is warmest, with temperatures reaching 20°C. The via ferrata and zipline operate from June to September.
 
-**Autumn** brings short, vivid days and the first northern lights; the forests around the town turn copper and gold. Many outdoor operators wind down by mid-September, but it is a fine time for low-light photography along the fjord.
-
-**Winter** is dark and snowy — temperatures regularly drop below -10°C — but it is also when snowmobile safaris run across the Helgeland plateau and the chances of catching the aurora are high. Pack proper gear; this is not a casual cold-weather destination.
-
-**Spring** is muddy and quiet, but late May into early June is one of the loveliest moments, with the snow line creeping up the mountains and the river running hard with meltwater.
+Winter brings heavy snowfall and reliable opportunities to see the northern lights — the sky over Helgeland is dark enough to be genuinely spectacular on a clear night. Snowmobile safaris run across the plateau in January and February. The Nordland Railway journey through the snowy landscape is one of the more atmospheric train rides in Europe at any time of year, but particularly in winter.

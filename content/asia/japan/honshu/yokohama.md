@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 image: yokohama.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Minato_Mirai_In_Blue.jpg

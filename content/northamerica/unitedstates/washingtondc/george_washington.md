@@ -1,36 +1,14 @@
 ---
-address: On the Mall, at 15th St.
-opening_hours: 9:00 am to 4:45 pm daily
-phone: 202.426.6841
-tags:
-- things_to_do
-- landmark
-title: Washington Monument
+title: "Washington Monument"
 type: poi
-url: www.nps.gov
+tags:
+  - things_to_do
+  - sight
+latitude: 38.8895
+longitude: -77.0353
+story: "Construction of the Washington Monument was halted for 23 years due to the Civil War and funding disputes. When work resumed in 1876, the marble used for the upper section came from a different quarry than the original — which is why the monument has a visible change in stone colour about a third of the way up, something visible on a clear day from the ground."
 ---
 
-The **Washington Monument** is the largest monument, and the most
-recognizable point on Washington's skyline. Finished in 1885, it is the
-the largest masonry
-structure in the world. While it offers the highest view of
-downtown, at 555 ft., be sure to be there early as they day's tickets,
-free as always, are handed out at 8:30 AM. Reservations are
-available by phone at 1-800-967-2283 from 10 am to 10 pm EST.
+The Washington Monument is the defining element of the National Mall's skyline: a 555-foot marble obelisk at the centre of the city's plan, aligned with the White House to the north and the Jefferson Memorial to the south. When it was completed in 1884, it was the tallest structure in the world. It held that record for five years until the Eiffel Tower went up.
 
-**Contributors**
-October 14, 2005
-
-type: Memorials
-
-
-
-
-
-tel: 202.426.6841
-
-openingHours: 9:00 am to 4:45 pm daily
-
-url: [www.nps.gov](http://www.nps.gov/wamo/home.htm)
-
-address: On the Mall, at 15th St.
+The interior has an elevator to the observation level at 500 feet, with views across the city in all directions. Timed entry passes are required and sell out quickly — book well in advance at recreation.gov. The monument's exterior is particularly striking at night when it is lit, and the base is surrounded by a ring of 50 American flags, one for each state.

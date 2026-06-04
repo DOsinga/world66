@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-20'
 image: washingtondc.jpg
 image_license: CC BY-SA 3.0
@@ -14,11 +15,10 @@ title: Washington D.C.
 type: location
 ---
 
-The capital of the United States of America is a city rife with contradiction and irony. Beautiful monuments to our history exist steps away from some of the worst slums in America. The city that professes to lead the free world can barely govern itself, its own city government often plagued with corruption. Of the United States but not a state itself, the District of Columbia occupies a unique niche in American culture, the city whose purpose by design (for better or worse)is to rule.
+The capital of the United States is a city purpose-built for government and now one of the most visited destinations in the country. Washington DC sits on the Potomac River where Maryland and Virginia meet — an artificial district carved from both states in 1790 so the new republic's capital would belong to no single state. The plan was Pierre Charles L'Enfant's: a grid overlaid with diagonal avenues radiating from the Capitol and the White House, designed to be imposing.
 
+What makes Washington remarkable for visitors is the concentration of free national institutions. The Smithsonian museums — a dozen of them stretching along the [National Mall](/northamerica/unitedstates/washingtondc/the_national_mall) — charge no admission. The [National Gallery of Art](/northamerica/unitedstates/washingtondc/national_gallery_of_art), one of the finest in the country, is free. The monuments and memorials — the [Lincoln Memorial](/northamerica/unitedstates/washingtondc/lincoln_memorial), [Vietnam Veterans Memorial](/northamerica/unitedstates/washingtondc/vietnam_veterans_memorial), [Washington Monument](/northamerica/unitedstates/washingtondc/george_washington) — are open day and night. A city that could easily charge its visitors instead lets them in without cost, which gives the whole place a strange civic generosity.
 
- Historical monuments, museums, and government buildings abound in Washington. Around the Mall, a park in the center of the city, you can find the U.S. Capital building, the museums of the Smithsonian, the National Archives, the White House, the Washington Monument, and the Lincoln and Jefferson Memorials. Across the Potomac river in Virginia are the Pentagon and Arlington National Cemetery. Just to the northeast of Washington in Maryland, an easy car ride away, is another great city, Baltimore. The Chesapeake Bay and the Atlantic Ocean are easily accessible. The city and the surrounding suburbs in Maryland and Virginia have an active and exciting night-life. There are clubs, bars, and theaters to satisfy any taste and restaurants of nearly every type in existence.
+Beyond the monuments, Washington has neighbourhoods worth exploring for their own sake. [Georgetown](/northamerica/unitedstates/washingtondc/georgetown), the oldest part of the city, has Federal and Victorian row houses, good restaurants, and the C&O Canal. [Dupont Circle](/northamerica/unitedstates/washingtondc/dupont_circle) has long been a centre of intellectual and bohemian life, with bookshops, cafes, and the [Phillips Collection](/northamerica/unitedstates/washingtondc/phillips_collection). [Adams Morgan](/northamerica/unitedstates/washingtondc/adams_morgan) is the most ethnically mixed neighbourhood, with Ethiopian restaurants, Latin American food, and genuine vitality. [Capitol Hill](/northamerica/unitedstates/washingtondc/capitol_hill) — the residential neighbourhood around the Capitol — is one of the finest Victorian townhouse districts in America, and [Eastern Market](/northamerica/unitedstates/washingtondc/eastern_market) at its centre has been trading since 1873.
 
-
- Although technically located in the South, Washington is a very cosmopolitan city and in fact bears little resemblance at all to the rest of the U.S. Indeed, to most Americans it is a fascinating
- place to visit, teeming with politics, diplomacy, history, and scandal; but they wouldn't want to live there! Those of us who live "inside the Beltway" by choice wouldn't have it any other way.
+The city has a troubled side easy to miss on a monument tour. Washington has one of the highest income inequalities of any American city; prosperous neighbourhoods north and west of the Capitol share a city with poorer communities east of the Anacostia River that see few tourists. The politics are permanently dramatic — this is where decisions are made — and proximity to power gives the place an intensity found nowhere else in the country.

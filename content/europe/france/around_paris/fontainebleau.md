@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 image: fontainebleau.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:L%27%C3%A9tang_aux_carpes_vue_du_ciel.jpg
@@ -14,6 +15,6 @@ type: location
 
 Fontainebleau is a small town about 60 km south of [Paris](/europe/france/paris), surrounded by one of the largest and most beautiful forests in the Ile-de-France. It is an easy day trip from the capital and a welcome escape from the city's intensity.
 
-The main attraction is the Chateau de Fontainebleau, which Napoleon III called "the true residence of kings, the house of the centuries." No other chateau in France can claim to have housed 34 sovereigns, from Louis VI to Napoleon III. French kings came here in autumn for the hunting season, and the forest around the palace served as their hunting ground. The chateau is the first Renaissance building in France built outside Italy — the Galerie Francois I, with its stucco ornaments and frescoes, is particularly fine. The formal gardens and carp pond are a good place to spend an hour after the interior.
+The main attraction is the [Palace of Fontainebleau](/europe/france/around_paris/fontainebleau/palace_of_fontainebleau), which Napoleon called "the true residence of kings, the house of the centuries." No other chateau in France can claim to have housed 34 sovereigns, from Louis VI to Napoleon III. French kings came here in autumn for the hunting season, and the forest around the palace served as their hunting ground. The chateau is the first Renaissance building in France built outside Italy — the Galerie François I, with its stucco ornaments and frescoes, is particularly fine. Inside the palace, the [Chinese Museum](/europe/france/around_paris/fontainebleau/chinese_museum) holds a remarkable collection of Qing dynasty objects assembled by Empress Eugénie.
 
-The forest of Fontainebleau is famous in its own right. It covers some 25,000 hectares and is scattered with sandstone boulders that attract thousands of sport climbers every year — Fontainebleau bouldering is renowned worldwide. In autumn the forest is spectacular, with beech and oak turning red and gold. The area is also good for canoeing on the Loing river.
+The [Forest of Fontainebleau](/europe/france/around_paris/fontainebleau/forest_of_fontainebleau) is famous in its own right. It covers some 25,000 hectares and is scattered with sandstone boulders that attract thousands of sport climbers every year — Fontainebleau bouldering is renowned worldwide. In autumn the forest is spectacular, with beech and oak turning red and gold. The area is also good for canoeing on the Loing river.

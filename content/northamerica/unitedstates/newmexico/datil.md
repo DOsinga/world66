@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 image: datil.jpg
 image_attribution: Anthony J. Bentley
 image_license: Public domain

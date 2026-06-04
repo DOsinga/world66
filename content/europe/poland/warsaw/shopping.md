@@ -1,41 +1,10 @@
 ---
-address: Koło
-latitude: 52.198394
-longitude: 18.635756
-title: Shopping
-type: poi
+title: "Shopping"
+type: section
 ---
 
-Shop till you drop!
+Warsaw's shopping has diversified considerably since 1989. The centre has several large malls (Złote Tarasy next to the Palace of Culture is the most central), but the more interesting shopping is in the independent shops along Nowy Świat and Mokotowska Street, and at the weekend markets.
 
-**Contributors**
-March 12, 2006
+The Koło flea market, running every weekend in the Wola district, is one of the best flea markets in Central Europe — sprawling, unpredictable, and excellent for vintage clothing, communist-era ceramics, amber jewellery, and old Polish posters. Get there by 10am for the best selection. The Hala Mirowska covered market nearby sells fresh produce and is worth a look on its own.
 
-### [Flea Market](/europe/poland/warsaw/shopping/flea_market)
-
-This place is almost like eBay:) Flea Market is organised every weekend in Koło (between "Koło" and "Dalibora" tram stops), it is good to get there about 10 - 11 am. It is hard to find parking space so it is advised to take public transport.
-
-Getting there:
-
-- bus: 129, 159, 167
-- tram: 13, 20, 23, 24 (from center) or 2, 13 (from Huta)
-
-type: Antiques
-
-
-
-[[rate it]](/europe/poland/warsaw/shopping/flea_market)
-
-address: Koło
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Polish amber from the Baltic coast is widely sold in Warsaw and makes a good, genuinely local souvenir. Buy from dedicated jewellers rather than tourist kiosks — the quality difference is obvious.

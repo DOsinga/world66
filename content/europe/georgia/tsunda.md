@@ -1,12 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
+image: tsunda.jpg
+image_attribution: Alexkom000
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2025-05-25_Lake_Tsunda,_Tmogvi_1.jpg
 latitude: 41.409431
+loc_type: city
 longitude: 43.329159
+score: 0.3
 title: Tsunda
 type: location
-score: 0.3
-loc_type: city
 ---
 
-Just before you reach [Vardzia](/europe/georgia/vardzia) coming from Alkhatsikhe you pass the lake of Tsunda and Tsunde itself. It's a very small place with only a few houses, but interesting because it has hot springs and a place to spend the night when it is too cold to camp in [Vardzia](/europe/georgia/vardzia). Ask for the Sauna or Banja and you will be taken to a family house a bit away from the other houses. The grandmother who runs the place is very friendly. There is an indoor swimming pool, with great hot mineral water and two showers. You may join the family for their dinner of khinkali and home brewn booze. All included in the price of ten lari for a double.
+Just before you reach [Vardzia](/europe/georgia/vardzia) coming from Alkhatsikhe, you pass through Tsunda — a hamlet of a handful of houses tucked into the Kura valley. The place is almost entirely off the tourist map, but it deserves a stop for one simple reason: [hot mineral springs](/europe/georgia/tsunda/tsunda_hot_springs).
+
+A family-run bathhouse offers an indoor pool fed by naturally heated mineral water. After a day clambering around Vardzia's cave-carved cliffs, soaking in the warm sulphurous water is one of the better experiences in the region. Ask locally for the banja and you will be directed to the right house. The family is welcoming, the price modest, and dinner of khinkali and home-distilled chacha is sometimes on offer. It is the kind of place that reminds you why travelling slowly through Georgia pays dividends.
+
+The [Kura valley walk](/europe/georgia/tsunda/kura_valley_walk) between Tsunda and Vardzia along the river bank is also worthwhile — around 5–6 km through volcanic canyon country with almost no other visitors.

@@ -1,28 +1,13 @@
 ---
-title: "Getting There in Las Pinas City"
+title: Getting There
 type: section
+tags: [getting_there]
 ---
 
-When planning your trip to **Las Pinas City**, **Getting There** will most likely be at the top of your list of things to do. With close to half a million habitants, Las Pinas City is a popular destination for visitors to the Philippines. Here are some things to consider when planning your trip to Las Pinas City.
+Las Piñas is part of Metro Manila and is easily reached from central Manila. The most convenient option for most visitors is LRT Line 1 (the old yellow line), which has a station at Dr. Santos in Las Piñas — a short walk or tricycle ride from Saint Joseph's Church and the Bamboo Organ. The LRT connects Las Piñas to central Manila stations including Baclaran, Vito Cruz, and beyond.
 
-**Choosing an Airline**
+By road, Las Piñas is accessible via the Alabang–Zapote Road and the Las Piñas–Cavite Expressway (CALAX) for drivers coming from the south. Traffic on all routes into Metro Manila can be severe; the LRT is generally faster and more reliable for access to the main sights.
 
-A good starting point is to check out air fares to the Ninoy Aquino International Airport (better known as NAIA and with IATA airport code: MNL)
-which serves the general area of Manila and its surrounding
-metropolitan areas. Several international airlines offer flights to and
-from this airport. If you're traveling from North America, it is a good
-idea to check out connecting flights or book books for the final leg of
-your flight with Hawaiian Airlines, because Hawaiian Airlines offers
-special discounts to Manila. The Filipino population in Hawaii is quite
-substantial and that is why they offer such discounts.
+Jeepneys and buses also connect Las Piñas to Paranaque, Muntinlupa, and other parts of Metro Manila. Ride-share services (Grab) operate throughout the area and are reliable for getting between locations within Las Piñas itself.
 
-**Getting to Las Pinas City**After arriving to the Ninoy Aquino International Airport, you will first need to clear customs. From the airport there are several options to get to Las Pinas
-City. The fastest and most convenient option is to go with one of the
-many private shuttles and charters that go directly to the hotel you're
-staying. This option is specially great for large parties with several
-suit cases. Other options are to grab a taxi or bus from the nearby bus
-station. Just make sure that the taxi driver starts the meter only
-after telling him your destination.
-
-**Contributors**
-March 04, 2010
+International visitors arrive at Ninoy Aquino International Airport in Paranaque, adjacent to Las Piñas. The airport is a 20–40 minute drive from the Bamboo Organ depending on traffic.

@@ -1,54 +1,11 @@
 ---
-title: "When to Go in Las Pinas City"
+title: When to Go
 type: section
+tags: [when_to_go]
 ---
 
-The tropical climate of the Philippines can be a
-bit overwhelming to some visitors, so it is best when planning a trip
-to **Las Pinas that you think about when to go** long before you book
-your tickets. With wet-dry seasons that have been known to overlap with
-one another, even with a lot of planning, you can still end up with
-rain during the dry time, so it is best if you are open to the
-possibilities and able to adjust your schedule accordingly.
+Las Piñas has a tropical climate, and the most important factor in timing a visit is the monsoon. The dry season runs from December through April, with December to February being the most pleasant months — warm but not oppressive, and low chance of rain. March and April are hot (35°C+) and humid before the rains break.
 
-**Weather in Las Pinas**
+The wet season (June to November) brings heavy rain and the risk of typhoons, which can disrupt travel across the Metro Manila area. September and October are statistically the worst months for typhoon activity.
 
-The months of March to May are generally dry, while June through to
-November are typically extremely wet with typhoons along the coast on
-their way to more northern countries. December through to May is
-normally dry, but during the summer months of March through May, the
-humidity and density of the air can be a bit overwhelming with average
-temperatures reaching 95 degrees on many days.
-
-If the heat does not agree with you, it is best to visit during the
-cooler months before March. If you do not mind the heat, then you can
-select from any time in the dry season. Traveling during the dry season
-will ensure that you will get to tour all the sites that you traveled to
-Las Pinas to see.
-
-**Annual Traditions in Las Pinas**
-
-Another great time to visit Las Pinas is during a holiday time. Many of
-the most significant annual holidays here take place in the dry season,
-so visitors should have no problem reaching the festivities. Christmas
-is a big holiday in the Catholic country and residents enjoy decorating
-and celebrating for long periods of time, so it should come as little
-surprise to see Christmas decorations springing up around September. The
-Christmas season in Las Pinas and the entire country lasts until
-mid-January when Filipinos observe the flight of the Holy Family to
-Egypt.
-
-Look for other fiestas happening in Las Pinas around the time of your
-trip as well to really experience the festive spirit of Filipinos.
-Flores de Mayo is a popular celebration that marks a great time to visit
-the country. Observed near the end of May, the festivities include
-women parading in amazing gowns to honor the Virgin Mary.
-
-Whenever you visit Las Pinas, be prepared for the beautiful
-tropical climate and to experience all the great attractions that the
-city has to offer.
-
-**Contributors**
-January 26, 2010
-
-January 29, 2010
+The single best reason to time a visit to Las Piñas specifically is the **Bamboo Organ International Music Festival**, held each February. A week of concerts by international organists, both in Saint Joseph's Church and in other venues, it is the event for which Las Piñas is known internationally. Advance planning is needed as accommodation in the Metro Manila area fills during festival week.

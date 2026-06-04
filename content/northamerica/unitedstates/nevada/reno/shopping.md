@@ -3,7 +3,8 @@ title: "Shopping"
 type: section
 ---
 
-When you want to do some Reno shopping, go to the Meadowood Mall at 5000 Meadowland Mall Circle located at the intersection of South Virginia Street and South McCarran Boulevard. Great bargains and sales can be found at such stores as Bath & Body Works, Charlotte Russe, The Disney Store, Eddie Bauer, Stride Rite Shoes, Victoria's Secret, The Body Shop, Cache, Borders Express, and Buckle. When you get hungry, there is a food court with places like Dairy Queen, Flaming Wok, Famous Grill, Sbarro, Tokyo Grill, and Steak Escape. If you prefer a restaurant, try Bully's Sports Bar & Grill.
+Shopping in Reno divides between the standard mall scene at the city's edges and a much more interesting strip of independent shops in **Midtown**, the redeveloping district along South Virginia Street a few blocks south of the casino core. The Midtown shops — vinyl, vintage clothing, art and design, **Natural Selection** for taxidermy and oddities, **Junkee Clothing Exchange** for second-hand — are the most rewarding browsing in town.
 
-**Contributors**
-May 11, 2009
+For mainstream brands, the **Meadowood Mall** at the southern end of South Virginia Street covers the usual department stores and the **Summit Reno** shopping centre in south Reno has the higher-end options.
+
+**Cabela's** at the eastern edge of town is a huge outdoor gear barn worth a stop if you are heading on to backcountry Nevada or Burning Man. Tax-free Nevada makes some larger purchases (jewellery, electronics) noticeably cheaper than across the border in California.

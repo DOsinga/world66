@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 53.4850
-longitude: 6.2100
+latitude: 53.4893
+longitude: 6.2320
 story: >
   The island's name means "island of the grey monks" in Frisian — a reference to the Cistercian monks from Klaarkamp monastery on the mainland who farmed the island from the 13th century. The monks were expelled during the Reformation, but the contemplative silence of the place they chose seems to have survived them by several centuries.
 ---

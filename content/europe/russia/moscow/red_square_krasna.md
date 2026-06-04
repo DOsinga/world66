@@ -1,5 +1,10 @@
 ---
 category: Sight
+latitude: 55.7546
+longitude: 37.6201
+tags:
+- things_to_do
+- sight
 title: Red Square (Krasnaya Ploshchad)
 type: poi
 ---

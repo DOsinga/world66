@@ -5,6 +5,10 @@ done:
 latitude: 37.9756
 longitude: 126.5561
 snippet: Exceptional Koryo celadon in a Confucian academy
+story: The Sungkyunkwan academy where the museum is housed was established in 992
+  AD to train Koryo officials in Confucian scholarship. The same institution later
+  inspired the Joseon-era Sungkyunkwan in Seoul, meaning the dynasty that replaced
+  the Koryo modelled its own academy on a Koryo precedent.
 tags:
 - things_to_do
 - museum

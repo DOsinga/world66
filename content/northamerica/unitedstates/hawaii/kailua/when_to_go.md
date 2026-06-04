@@ -1,8 +1,8 @@
 ---
-title: When to Go
+title: "When to Go"
 type: section
 ---
 
-Kailua's windward location means it gets more rain than Honolulu — short showers blow through almost any day of the year, especially in the cooler months. The trade-off is that the trade winds keep the climate fresh and the landscape green. Mid-morning is reliably sunny year-round.
+The Kona coast is one of the driest parts of Hawaii — the leeward side of the island is sheltered from the trade winds that drench the Hilo side. Temperatures stay between 24 and 30°C year-round, and rain is rare. Any time is a reasonable time to visit.
 
-The driest, hottest stretch is June to September, when temperatures average around 28°C and the swimming is at its calmest. December to February is cooler (low 20s by night, mid-20s by day), windier, with more frequent rain and bigger surf on the north shore — but the trade-off is fewer crowds and humpback whales offshore. Watch the surf advisories during winter; high swells occasionally close even the protected windward beaches.
+The main events worth timing a trip around are the Ironman World Championship in October, when the town fills with athletes and spectators, and the Kona Coffee Cultural Festival in November. The Ironman is impressive to watch but accommodation prices spike and everything books out months ahead. If you want a quieter visit, April–June and September are the sweet spots: weather is good, prices are reasonable, and the mantas are out year-round.

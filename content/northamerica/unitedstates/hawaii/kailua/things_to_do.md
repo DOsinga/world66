@@ -1,6 +1,6 @@
 ---
-title: Things to Do
+title: "Things to Do"
 type: section
 ---
 
-Kailua's appeal is mostly outdoors. The two great beaches and the offshore islands draw most visitors, but the area also has a remarkable density of ancient Hawaiian sites for somewhere this developed. Hiking trails climb into the Koolau ridges; kayaking and paddleboarding rentals are everywhere.
+Kailua-Kona blends Hawaiian history with world-class water sports. The town itself is compact and walkable; most of the best snorkeling and diving is a short boat ride away.

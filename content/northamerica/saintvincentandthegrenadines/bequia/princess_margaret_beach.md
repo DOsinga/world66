@@ -1,12 +1,15 @@
 ---
-title: Princess Margaret Beach
+title: "Princess Margaret Beach"
 type: poi
-tags: [things_to_do, sight, beaches]
-latitude: 13.0017
-longitude: -61.2433
-story: "The beach was renamed in 1958 after Princess Margaret visited and swam here. Locals had previously called it Tony Gibbon Beach, and most of the older residents still do."
+tags:
+  - things_to_do
+  - sight
+latitude: 12.9981
+longitude: -61.2369
+story: >
+  Princess Margaret Beach gets its name from a royal visit in 1958, when Princess Margaret stopped here during a Caribbean tour and reportedly declared it her favourite beach. Whether she said it or someone decided she ought to have, the name stuck. The beach itself has changed very little since.
 ---
 
-Princess Margaret is Bequia's main beach — a long curve of white sand on the south side of Admiralty Bay, fringed by sea grape trees and backed by low headlands. The water is shallow, clear, and calm, with good snorkelling along the rocks at either end of the beach. There are no big developments here; a single low-key beach bar, the Jack's, sits in the middle of the strand.
+Princess Margaret Beach is the closest good beach to Port Elizabeth — a fifteen-minute walk or short water taxi ride along the south shore of the bay. The sand is soft and white, the water is calm and clear, and the fringe of sea-grape trees provides shade. It is one of the more beautiful beaches in the Grenadines.
 
-The beach can be reached on foot along the Belmont Walkway from Port Elizabeth (a pleasant 20-minute walk past restaurants, gardens, and small jetties) or by water taxi from the main dock for a few EC dollars. Lower Bay, smaller and even quieter, lies over the next headland and is reached by a short cliff-side path from the western end.
+The beach has a couple of small beach bars and a snack stand, but nothing that could be called a resort. At the southern end, the rocks provide some of the better snorkelling near town. A water taxi from the dinghy dock is the easiest way to get there if you are staying in Port Elizabeth or on a boat in the bay.

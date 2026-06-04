@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-06-03'
+  location_enrich: '2026-06-04'
 image: purwokerto.jpg
 image_attribution: Tyo Satriany
 image_license: CC BY-SA 4.0

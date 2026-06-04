@@ -1,10 +1,8 @@
 ---
-title: Getting There
+title: "Getting There"
 type: section
 ---
 
-Kailua is about 25 km from Honolulu over the Koolau mountains and 35 km from Honolulu International Airport. The drive takes 30–45 minutes depending on traffic and route.
+Kona International Airport (KOA) is about 15km north of the town centre and receives direct flights from the US mainland (Los Angeles, San Francisco, Seattle, Portland, Phoenix) as well as interisland connections from Honolulu. A taxi or rideshare into town takes about 20 minutes and costs around $25–35. Car rental is available at the airport and is the most practical option if you plan to explore beyond the immediate town.
 
-Two scenic mountain highways climb out of Honolulu and drop you in Kailua: the **Pali Highway** (H-61), which passes the spectacular Nu‘uanu Pali Lookout, and the **Likelike Highway** (H-63), which uses a longer tunnel and lands further north in Kāneʻohe. The Pali route is the more attractive drive.
-
-Public bus service from Honolulu and Waikiki to Kailua is run by TheBus (route 67 from Ala Moana Centre), but it takes well over an hour and is not very frequent — most visitors rent a car or use ride-share. There are no resorts or hotels in Kailua town itself; accommodation is in vacation rentals booked in advance.
+The road north along the Kohala coast (Queen Ka'ahumanu Highway) and south toward Captain Cook and the Kona coffee country are both well-served by rental car. There is no train service on the Big Island.

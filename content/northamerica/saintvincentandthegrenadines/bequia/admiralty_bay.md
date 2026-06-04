@@ -1,12 +1,15 @@
 ---
-title: Admiralty Bay
+title: "Admiralty Bay"
 type: poi
-tags: [things_to_do, sight]
-latitude: 13.0028
-longitude: -61.2444
-story: "Admiralty Bay was named for the British naval ships that used it as a sheltered anchorage during the colonial era. By the 1970s it had become one of the most famous yacht stops in the Caribbean — every cruising sailor between Antigua and Grenada knows it, and it is one of the few harbours in the world where you can still pay your harbour dues to a man in a rowboat."
+tags:
+  - things_to_do
+  - sight
+latitude: 13.0111
+longitude: -61.2344
+story: >
+  During the age of sail, Admiralty Bay was a critical anchorage for both British and French naval squadrons competing for control of the Caribbean. Bequia's position just south of St. Vincent made it a natural waypoint. Today the bay holds a different fleet — cruising yachts from Europe and North America — but the same sheltered anchorage that made it valuable in the 18th century keeps it popular now.
 ---
 
-Admiralty Bay is the broad horseshoe-shaped natural harbour on the leeward side of Bequia and the centre of life on the island. Yachts and small cruise vessels anchor in deep water close to shore, water taxis criss-cross the bay between the main quay at Port Elizabeth, the Princess Margaret and Lower Bay beaches, and a string of waterfront restaurants line the curving shoreline.
+Admiralty Bay is one of the finest natural harbours in the eastern Caribbean, and Port Elizabeth — the small town along its eastern shore — exists largely because of it. The bay is deep and sheltered, and in high season it fills with cruising yachts from across the Atlantic, giving the waterfront a cosmopolitan feel quite disproportionate to the island's size.
 
-The Belmont Walkway, a paved waterfront path from Port Elizabeth around to Princess Margaret Beach, is the best introduction to the bay — it runs past most of the harbour-front bars and restaurants and gives you views across the anchorage. Sunsets from the western shore are exceptional; sundowners at any of the bars overlooking the bay are essentially mandatory.
+The best way to appreciate the bay is from the waterfront path that runs through Port Elizabeth: bars and restaurants look out over the water, dinghy traffic moves back and forth between the yachts and the dinghy dock, and the model boats displayed in the craft shops are scaled-down versions of the real thing floating a hundred metres away.

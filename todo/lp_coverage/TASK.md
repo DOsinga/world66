@@ -99,8 +99,10 @@ location for that destination.
 9. **Link POIs from the overview.** After creating POI pages, re-read the overview and
    add markdown links wherever a POI name is mentioned.
 
-10. **Add a hero image.** If the location file has no `image:` field, invoke the
-    `find-photo` skill. Do not auto-pick without review.
+10. **Add hero images to the location and all sub-locations.** Every location and
+    sub-location page must have an `image:` field. Use the `find-photo` skill for each
+    one that is missing it. Do not auto-pick without review. Do not leave any page —
+    including child city or region pages — without an image.
 
 11. **Mark done** in frontmatter:
     `python3 tools/mark_done.py lp_coverage <path/to/page.md>`
@@ -115,7 +117,8 @@ location for that destination.
 - [ ] `python3 tools/grep_obscura.py` was run; matching entries used as inspiration only
 - [ ] Each new POI has coordinates matching its actual location
 - [ ] Major `things_to_do` POIs have a `story:` field
-- [ ] Hero image assigned via `find-photo`, with `image_source` and `image_license`
+- [ ] Hero image assigned via `find-photo` on the main location page, with `image_source` and `image_license`
+- [ ] All sub-location pages also have hero images
 - [ ] Missing useful sections created; empty-stub sections not added
 - [ ] Overview text links to the major POIs
 - [ ] `done: { lp_coverage: <today> }` set on the main location file

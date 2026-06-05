@@ -1,0 +1,5 @@
+europe/france/midi/camargue
+europe/germany/rhinelandpalatinate/middlerhinevalley
+asia/myanmar/hpaan
+asia/laos/siphandon
+southamerica/colombia/salento

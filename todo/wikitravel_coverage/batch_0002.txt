@@ -1,0 +1,5 @@
+asia/philippines/siargao
+asia/southkorea/gyeongju
+asia/southkorea/andong
+southamerica/chile/chiloearchipelago
+southamerica/colombia/tayrona

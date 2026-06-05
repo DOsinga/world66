@@ -13,4 +13,4 @@ The area around Chachapoyas is extraordinarily rich in sites, most of which are 
 
 **Revash** — smaller mausolea built into cliff faces, less visited than Karajía, about 1.5 hours south. Often combined with a visit to the Museum of Leimebamba, which holds hundreds of Chachapoyas mummies recovered from a cloud-forest lagoon in 1997.
 
-**Leimebamba Museum** — probably the best Chachapoyas archaeology museum, with the 219 mummies from Laguna de los Cóndors displayed in a carefully designed facility in the village of Leimebamba, 1.5 hours south of Chachapoyas.
+[**Leymebamba Museum**](/southamerica/peru/chachapoyas/leymebamba_museum) — probably the best Chachapoyas archaeology museum, with the 219 mummies from Laguna de los Cóndores displayed in a carefully designed facility in the village of Leymebamba, 1.5 hours south of Chachapoyas.

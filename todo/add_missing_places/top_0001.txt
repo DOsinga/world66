@@ -1,5 +1,0 @@
-asia/japan/honshu/kamakura
-asia/japan/honshu/hakone
-asia/vietnam/phu_quoc
-northamerica/mexico/yucatan/uxmal
-asia/southkorea/gyeongju

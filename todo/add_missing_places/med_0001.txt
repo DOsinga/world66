@@ -1,5 +1,3 @@
 asia/indonesia/bali/nusa_penida
 asia/vietnam/con_dao
 northamerica/mexico/bacalar
-asia/cambodia/kampot
-southamerica/chile/atacamadesert/san_pedro_de_atacama

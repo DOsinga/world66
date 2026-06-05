@@ -1,5 +1,1 @@
-northamerica/mexico/chiapas/palenque
-asia/philippines/siargao
-asia/thailand/pai
-southamerica/brazil/fernando_de_noronha
 southamerica/brazil/lencois_maranhenses

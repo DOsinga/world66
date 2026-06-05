@@ -10,6 +10,15 @@ This task adds new destination pages to World66 for places that Wikivoyage cover
 
 ## For each path
 
+### 0. Confirm the place is genuinely missing
+
+Before creating anything, verify the location doesn't already exist:
+
+1. Run `find content -iname '<slug>.md'` using the last segment of the path as the slug.
+2. Also try no-underscore and diacritic-folded variants: e.g. for `phu_quoc` also try `phuquoc`.
+3. If a file is found, verify it's the same place (check coordinates / title).
+4. If it already exists, skip this entry — run `python3 tools/mark_done.py add_missing_places <path/to/page.md>` and move on.
+
 ### 1. Determine place type
 
 Check the path and decide `loc_type`:

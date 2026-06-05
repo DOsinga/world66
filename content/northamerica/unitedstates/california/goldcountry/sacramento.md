@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: sacramento.jpg
 image_attribution: Roc0ast3r
 image_license: CC0

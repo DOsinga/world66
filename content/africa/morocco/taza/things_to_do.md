@@ -1,5 +1,5 @@
 ---
-title: Sights
+title: Things to Do in Taza
 type: section
 ---
 

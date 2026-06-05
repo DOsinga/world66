@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: pag_island.jpg
 image_attribution: Carsten Steger
 image_license: CC BY-SA 4.0

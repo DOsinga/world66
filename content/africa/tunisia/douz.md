@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-04'
 image: douz.jpg
 image_attribution: Panoramio user
 image_license: CC BY 3.0

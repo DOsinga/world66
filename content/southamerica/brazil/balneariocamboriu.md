@@ -1,9 +1,12 @@
 ---
-title: "Practical Information"
-type: section
+title: "Balneário Camboriú"
+type: location
+loc_type: city
+latitude: -26.9906
+longitude: -48.6344
 ---
 
-Balneario Camboriú: A city of beautiful contrasts...
+Balneário Camboriú is a city of beautiful contrasts...
 
 Balneário Camboriú county meets in a few minutes the modern structure of a touristic spot in its central beach, ( a bay of 6 kilometers of tall buildings, night life, shopping centers and many hotels) with the most beautiful natural landscapes, virgins beaches, amazing sights and the hospitality of the people (like in all south Beaches)
 

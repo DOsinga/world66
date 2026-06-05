@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: altena.jpg
 image_attribution: Dmitrij Rodionov, DR
 image_license: CC BY-SA 3.0

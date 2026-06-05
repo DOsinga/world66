@@ -11,8 +11,12 @@ location for that destination.
 
 ## For each location
 
-1. **Check what's already there.** Read the existing location `.md` file (if any) and all
-   files in the location's directory. Note the current POI count and what sections exist.
+1. **Check what's already there.** Before writing anything:
+   - Run `find content -iname '<slug>.md'` using the last path segment. Also try
+     no-underscore and diacritic-folded variants (e.g. `phu_quoc` and `phuquoc`).
+   - If the file exists at a different path than the batch entry, use the existing path.
+   - Read the location `.md` file and all files in its directory. Note the current POI
+     count and what sections exist.
 
 2. **If the location file does not exist yet, create it.** Look at how neighbouring
    locations in the same country are structured (check siblings in the parent directory).

@@ -1,5 +1,4 @@
 asia/india/assam/majuli
-asia/vietnam/phuquoc
 asia/vietnam/phongnha
 australiaandpacific/australia/westernaustralia/kimberley
 southamerica/ecuador/mindo

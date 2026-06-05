@@ -1,6 +1,9 @@
 ---
-title: "Beaches in Baška"
-type: section
+title: "Baška"
+type: location
+loc_type: city
+latitude: 44.9667
+longitude: 14.7333
 ---
 
 The Great Beach is a natural pebble beach, 1800 m long, which can take several thousand swimmers with ease. It's particularly suitable for children and non-swimmers.

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-07'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: southofmombasa.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ferry_in_Mombasa,_Kenya.jpg

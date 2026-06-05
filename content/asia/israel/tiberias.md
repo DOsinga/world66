@@ -9,6 +9,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tiberias
 title: Tiberias
 type: location
+image: tiberias.jpg
+image_source: https://commons.wikimedia.org/wiki/File:St_peters_tiberias_1.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wikimedia Commons
 ---
 
 *Asia > Israel > Tiberias*

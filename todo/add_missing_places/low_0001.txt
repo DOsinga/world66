@@ -1,0 +1,5 @@
+asia/china/yunnanprovince/yuanyang
+asia/laos/si_phan_don
+southamerica/bolivia/copacabana
+africa/zambia/livingstone
+northamerica/mexico/oaxaca/hierve_el_agua

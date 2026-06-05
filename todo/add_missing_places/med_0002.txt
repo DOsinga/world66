@@ -1,0 +1,5 @@
+asia/indonesia/sulawesi/tana_toraja
+asia/myanmar/hpa_an
+asia/nepal/chitwan
+africa/zimbabwe/hwange
+northamerica/canada/the_yukon_territory/whitehorse

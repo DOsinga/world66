@@ -1,0 +1,5 @@
+europe/france/midi/languedoc/carcassonne
+europe/croatia/dalmatia/dubrovnik
+europe/croatia/dalmatia/split
+europe/croatia/dalmatia/hvar
+europe/switzerland/zermatt

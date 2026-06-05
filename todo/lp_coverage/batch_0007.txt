@@ -1,0 +1,5 @@
+asia/thailand/pai
+asia/vietnam/ninhbinh
+asia/vietnam/phongnha
+asia/vietnam/phuquoc
+asia/india/uttaranchal/rishikesh

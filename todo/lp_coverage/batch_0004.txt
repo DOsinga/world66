@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/oxford
+europe/unitedkingdom/england/bath
+europe/unitedkingdom/england/york
+europe/norway/lofoten
+europe/georgia/tbilisi

@@ -1,0 +1,5 @@
+europe/greece/corfu
+europe/greece/crete
+europe/greece/meteora
+europe/spain/canaryislands/tenerife
+europe/spain/balearicislands/menorca

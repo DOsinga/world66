@@ -9,6 +9,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sharjah
 title: Sharjah
 type: location
+image: sharjah.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sharjah_Fort_(Al_Hisn).JPG
+image_license: CC BY-SA 4.0
+image_attribution: Wikimedia Commons
 ---
 
 *Asia > United Arab Emirates > Sharjah*

@@ -3,6 +3,7 @@ title: Jeti-Oguz Valley
 type: poi
 tags:
   - things_to_do
+  - day_trips
   - sight
 latitude: 42.3667
 longitude: 78.2000

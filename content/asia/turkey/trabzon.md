@@ -9,6 +9,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Trabzon
 title: Trabzon
 type: location
+image: trabzon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ayasofyatrabzon.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wikimedia Commons
 ---
 
 *Asia > Turkey > Trabzon*

@@ -8,6 +8,9 @@ phone: 418 692-3861
 snippet: The iconic turreted railway hotel dominating Old Québec
 tags:
 - things_to_do
+- sight
+- architecture
+story: "The Château Frontenac was designed by New York architect Bruce Price in 1893, inspired by the Scottish Baronial and Loire Valley château styles. During the Second World War, it served as an unlikely war council: in 1943 and 1944 Churchill and Roosevelt held the Quebec Conferences here, planning the D-Day invasion and the Pacific strategy in its ornate corridors while Canadian Prime Minister Mackenzie King hosted."
 title: Château Frontenac
 type: poi
 url: www.fairmont.com/frontenac-quebec

@@ -1,10 +1,11 @@
 ---
 title: Getting There
 type: section
+tags: [getting_there]
 ---
 
-McGhee Tyson Airport (TYS) lies about 12 miles south of downtown in Alcoa, Tennessee. It is a mid-size regional airport with direct connections to most major US hubs — Atlanta, Charlotte, Chicago, Dallas, New York, and Washington. Car rental desks are in the terminal. A taxi or rideshare from the airport to downtown takes 20 to 30 minutes depending on traffic.
+McGhee Tyson Airport (TYS) is about 20 kilometres south of downtown, served by major US carriers including American, Delta, United, and Southwest. Non-stop flights connect to Atlanta, Charlotte, Chicago, Dallas, and several other hubs. Getting from the airport to downtown takes about 25 minutes by car; there is no direct rail or bus link, so a taxi or rideshare is the practical option.
 
-By car, Knoxville sits at the junction of I-40 (east–west) and I-75 (north–south), making it an easy drive from Nashville (2.5 hours west), Asheville (1.5 hours east), and Chattanooga (1.5 hours south). The Smoky Mountains park entrance at Gatlinburg is about 45 minutes southeast on US-441.
+Knoxville is on Interstate 40, which connects it to Nashville (about three hours west) and Asheville, North Carolina (about 2.5 hours east). Interstate 75 runs north-south through the city, connecting to Lexington, Kentucky in the north and Chattanooga to the south. Driving is by far the most common way people arrive.
 
-Amtrak does not serve Knoxville. Greyhound and Megabus run routes connecting to Nashville, Atlanta, and other southeastern cities, with the bus station near downtown on Magnolia Avenue.
+Amtrak does not serve Knoxville. Greyhound operates a station downtown, with connections to Nashville and other regional cities, but schedules are limited.

@@ -1,14 +1,10 @@
 ---
-title: When to Go
+title: "When to Go"
 type: section
 ---
 
-Búzios has a warm subtropical climate year-round — the water temperature rarely drops below 22°C even in winter (June–August). The main question is crowds, not weather.
+Búzios has a warm subtropical climate year-round, but timing matters if you want to avoid crowds or rain. January and February are peak summer: hot, humid, and crowded, with prices at their highest and every restaurant full. The Carnival period draws especially large numbers. The water is warm and conditions are good for swimming, but you won't have much of it to yourself.
 
-January and February are summer school holidays in Brazil. The town fills to capacity, prices spike, beaches get crowded, and Rua das Pedras becomes genuinely hectic. If you enjoy atmosphere and don't mind competition for a sun lounger, this is also the most energetic time to visit.
+April through June is the sweet spot — the crowds have thinned, prices come down, the weather remains warm (typically 22–28°C), and the sea is still inviting. Rainfall increases in May and June but showers are usually brief rather than sustained. July and August bring cooler but still pleasant weather, and fewer visitors than summer, though the July school holidays see a spike.
 
-**April and May** are widely considered the best months. The school crowds are gone, the weather is still warm and dry, and accommodation prices ease off. October and November offer similar conditions coming into summer.
-
-The rainy season runs roughly from November to March. Rain tends to come in afternoon bursts rather than all-day downpours and usually clears quickly, but it can interrupt diving visibility.
-
-**Reveillon (New Year's Eve)** brings enormous crowds and parties on the beaches — a very Brazilian spectacle, but book months in advance if you want to be there.
+September to November is another good window: temperatures rising again, less rain than the early wet season, and relatively uncrowded. Avoid long weekends throughout the year, when Rio day-trippers descend on the peninsula and the town's infrastructure is tested.

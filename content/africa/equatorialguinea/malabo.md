@@ -1,16 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
+image: malabo.jpg
+image_attribution: Amitsawant0812
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Malabo.jpg
 latitude: 3.741877
+loc_type: city
 longitude: 8.774066
+score: 0.34
 title: Malabo
 type: location
-score: 0.34
-loc_type: city
 ---
 
-Malabo the capital of Equatorial Guinea is set beautifully between the cloud-capped Pico Malabo on one side and high ocean waves on the other. Unfortunately there are no good beaches nearby, and there are no agencies to arrange a hiking trip in the inland, but the city has quite some tourist potential nevertheless. 
+Malabo is the capital of [Equatorial Guinea](/africa/equatorialguinea), set on the northern tip of Bioko Island between the cloud-capped peak of Pico Basile and the open waters of the Gulf of Guinea. It is one of the smallest and least-visited capitals in Africa — and one of the wealthiest on paper, thanks to offshore oil revenues that have transformed the skyline but done little for most of the population.
 
-For the moment it's just potential. The city is pretty rundown and with just a handful of restaurants and hotels worthy of the name, Malabo lacks a lot of infrastructure. It does have numerous bars, however, where you can get a quick shot of booze. 
+The city has real character in its older quarters. [St. Elizabeth's Cathedral](/africa/equatorialguinea/malabo/st_elizabeths_cathedral) and the colonial-era streets around the Plaza de la Independencia reflect Spanish rule and the upheavals that followed independence in 1968. The [Malabo Market](/africa/equatorialguinea/malabo/malabo_market) is the best place to observe daily life. The infrastructure has improved dramatically since oil money began flowing in the 1990s, but Malabo remains expensive and bureaucratically complicated for independent travellers.
 
-A trip to [Luba](/africa/equatorialguinea/luba) or even Riaba is absolutely worthwhile. It gives you an impression of the scenery of the island and both have good beaches. On the way to Riaba you can see the Moka Valley with its crater lake.
+A trip to [Luba](/africa/equatorialguinea/luba) or even Riaba is absolutely worthwhile. It gives an impression of the island's scenery that the capital cannot. The road south to Riaba passes through banana plantations and the green Moka Valley with its crater lake — the most rewarding drive on the island.

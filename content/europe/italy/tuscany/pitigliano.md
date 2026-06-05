@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 image: pitigliano.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Pitigliano-veduta.JPG
@@ -8,14 +9,16 @@ latitude: 42.634827
 loc_type: city
 longitude: 11.673549
 score: 0.62
+sources:
+- https://en.wikipedia.org/wiki/Pitigliano
 title: Pitigliano
 type: location
 ---
 
-The town is situated on a steep tuff rock, 313 metres above sea-level. The area of Pitigliano and far to the south of Rome is characterised by tuff stone, a hardened type of volcanic magma. The typical Tuscan landscape with small farm houses on soft hills is rarely found here. South Tuscany is wild and many sided, similar to neighbouring Latio, the area around Rome. Small creeks have cut steep valleys into the landscape and there is a lot of woodland. Not far from Pitigliano is Lake Bolsena, a huge water-filled crater and the largest Italian lake. From Siena you can see Mount Amiata, an isolated volcano 1738 metres high, and a favourite skiing area in winter. Near the coast are extended flat zones, which were notorious for malaria contamination up to the 1930's. This was the area that was home for famous bandits like Domenico Tiburzi. Nowadays the Maremma coast 50 kilometres from Pitigliano has beautiful beaches that are hardly developed.
+Pitigliano sits on a narrow spur of volcanic tuff in the deep south of Tuscany, three hundred metres above the surrounding valleys, its buildings clinging to the cliff edge so closely that from the road below the town and the rock appear to be a single formation. It is one of the most dramatic townscapes in central Italy, and it is still largely unknown outside the region.
 
-Southern Tuscany was once one of the most important centres of the Etruscans. There are numerous cave-tombs of that period around Pitigliano, caves cut deep into the tuff, that are today used as cellars and sheds. Later Pitigliano became Roman. There's hardly anything left from this period. But under the town houses are cellars in use which have lots of little niches, in which 2000 years ago the urns of the dead used to stand.
+The landscape here is nothing like the rolling hills of Chianti. South Tuscany is wild country — volcanic tuff, deep wooded gorges, thermal springs, and the Maremma plain running to the coast. The area was the heartland of the Etruscans, and their presence is everywhere: cave tombs cut into the cliffs, and above all the [vie cave](/europe/italy/tuscany/pitigliano/vie_cave) — ancient sunken roads carved ten or twenty metres deep into the soft rock, running for kilometres between the hilltop towns. They are extraordinary and largely unvisited.
 
-In mediaeval times, from the 9 th century on, the Langobard family Aldobrandesci ruled the region of Pitigliano. After 1312 the Orsini family took over and from 1604 the Medici's.
+In the 16th century Pitigliano became home to one of the largest Jewish communities in rural Tuscany. The town was known as "La Piccola Gerusalemme" — the Little Jerusalem — and the remains of that community, its synagogue, bakery, mikveh, and cellars, have been preserved as [La Piccola Gerusalemme](/europe/italy/tuscany/pitigliano/la_piccola_gerusalemme), a museum of real depth.
 
-Of further interest is the Jewish history of Pitigliano. For a long time there was an extraordinary large Jewish community, that influenced the cultural life of the town together with the gentile population.
+The [Palazzo Orsini](/europe/italy/tuscany/pitigliano/palazzo_orsini) dominates the western end of town, a fortified palace built by the family that ruled here for three centuries before the Medicis arrived. The caves carved into the tuff beneath the streets — used for millennia as cellars, sheds, and refuges — can be explored on guided tours that depart from the museum. The local white wine, Bianco di Pitigliano, is clean and very drinkable. Nearby [Sorano and Sovana](/europe/italy/tuscany/pitigliano/day_trips) are worth a half day each.

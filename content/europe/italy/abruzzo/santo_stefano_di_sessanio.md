@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 image: santo_stefano_di_sessanio.jpg
 image_license: CC BY-SA 3.0 de
 image_source: https://commons.wikimedia.org/wiki/File:Santo_Stefano_di_Sessanio_2013_by-RaBoe_013.jpg

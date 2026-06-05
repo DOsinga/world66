@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 image: traverse_city.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Traverse_County_Courthouse.jpg
@@ -12,8 +13,10 @@ title: Traverse City
 type: location
 ---
 
-Traverse City sits at the base of the two arms of Grand Traverse Bay in northern Michigan and styles itself the Cherry Capital of the World. The surrounding Leelanau and Old Mission peninsulas are covered in cherry orchards and vineyards, and the National Cherry Festival each July draws big crowds.
+Traverse City sits at the base of the two arms of Grand Traverse Bay in northern Michigan and styles itself the Cherry Capital of the World. The surrounding Leelanau and Old Mission peninsulas are covered in cherry orchards and vineyards, and the [National Cherry Festival](/northamerica/unitedstates/michigan/traverse_city/national_cherry_festival) each July draws big crowds.
 
-The wine scene has grown significantly — there are now over 40 wineries on the two peninsulas, and the cool-climate whites (particularly Riesling) are genuinely good. The region also produces excellent craft beer and cider. Downtown Traverse City is compact and walkable, with independent shops, restaurants, and the beautifully restored State Theatre.
+The wine scene has grown significantly — there are now over 40 wineries on the two peninsulas, and the cool-climate whites (particularly Riesling) are genuinely good. The region also produces excellent craft beer and cider. Downtown Traverse City is compact and walkable, with independent shops, restaurants, and the beautifully restored [State Theatre](/northamerica/unitedstates/michigan/traverse_city/state_theatre).
 
-The area's real draw is the landscape. Sleeping Bear Dunes National Lakeshore, about 25 miles west, has towering sand bluffs overlooking Lake Michigan and is consistently rated one of the most beautiful spots in the Midwest. The bay itself is good for sailing, kayaking, and swimming in summer, and the surrounding forests fill with colour in autumn. In winter, the region pivots to skiing and snowshoeing.
+The area's real draw is the landscape. Sleeping Bear Dunes National Lakeshore, about 25 miles west, has towering sand bluffs overlooking Lake Michigan and is consistently rated one of the most beautiful spots in the Midwest. The bay itself is good for sailing, kayaking, and swimming in summer, and the surrounding forests fill with colour in autumn. In winter, the region pivots to skiing and snowshoeing. The [Leelanau Trail](/northamerica/unitedstates/michigan/traverse_city/leelanau_trail) offers a fine car-free route for cyclists and walkers through orchards and vineyards.
+
+One of Traverse City's most unusual attractions is the former [Traverse City State Hospital](/northamerica/unitedstates/michigan/traverse_city/traverse_city_state_hospital), a grand 19th-century Kirkbride asylum whose main building stretches nearly a quarter mile across a hillside campus. Now redeveloped as the Village at Grand Traverse Commons, it houses restaurants, studios, and shops — and its underground tunnel system can be explored on guided tours. The [Dennos Museum Center](/northamerica/unitedstates/michigan/traverse_city/dennos_museum) on the Northwestern Michigan College campus has one of the country's best collections of Inuit art, a genuinely surprising find in a small Midwest city.

@@ -1,20 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 latitude: 38.82996
 longitude: 16.431557
 title: Catanzaro
 type: location
 score: 0.48
 loc_type: city
+image: catanzaro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catanzaro_-_vista_d%27insieme_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: AlMo18
 ---
 
-Catanzaro is the capital of the Province of Catanzaro and also of the region Calabria since 1970 (before then the region capital was [Reggio Calabria](/europe/italy/calabria/reggio) ).
+Catanzaro is the capital of Calabria, sitting on a dramatic ridge above the Fiumarella gorge in the toe of the Italian boot. The city is bisected by the deep valley and reconnected by the massive [Viadotto Morandi](/europe/italy/calabria/catanzaro/viadotto_morandi) — one of the highest concrete viaducts in southern Italy, completed in 1960. A [funicular railway](/europe/italy/calabria/catanzaro/catanzaro_funicular) dating from 1929 still carries residents between the upper historic centre and the lower commercial quarter, one of the few surviving urban funiculars in the south.
 
-This town rises on a rock and is split into two parts by the steep Fiumarella valley, the two sections being connected by a huge concrete steel bridge (the Viadotto Morandi ), among the highest in Europe, built in 1960 to the design of architect Riccardo Morandi . The beach town Catanzaro Lido, located about 5 kilometers south, has a wide promenade and a harbor for small fishing and pleasure boats.
+The old town was built over three hills in Byzantine times. From the 11th century Catanzaro was the lace capital of Europe, producing the finest silk and linen for the Vatican and for merchants who came from across the continent. A devastating earthquake in 1783 wiped away most of the ancient buildings; a second in 1832 completed what the first had started. The [Cathedral](/europe/italy/calabria/catanzaro/cathedral) was rebuilt in the 1950s but retains important paintings and silver from the earlier church. The [Museo Provinciale](/europe/italy/calabria/catanzaro/museo_provinciale) holds Magna Graecia archaeology and Byzantine religious art that explain the region's deep, layered history.
 
-The old town was built over three hills (St. Trifone or St. Rocco Hill; Episcopate's Hill; St. John's Hill) in Byzantine times. Catanzaro was since the 11th century the lace capital of the world with a large silkworm breeding, it produced all the laces and linens used in the Vatican and supplied merchants that came from all over Europe to buy the silk in the port of Reggio Calabria soon before Pentecost day.
-
-A devastating earthquake in 1783 wiped away churches, palaces and a large part of the population, and a second in 1832 completed the destruction of most ancient historical buildings.
-
-Catanzaro is home of the Nobel prize winner prof. Renato Dulbecco and of the contemporary artist Mimmo Rotella, inventor of the Decollage .
+Catanzaro is the birthplace of Nobel Prize winner Renato Dulbecco (medicine, 1975) and of Mimmo Rotella, the artist who invented décollage. The beach town Catanzaro Lido, five kilometres south, has a long promenade on the Ionian Sea.

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-03'
 image: gaeta__ulysses_ri.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Gaeta_-_Comune_di_Gaeta_-_2023-09-27_14-39-34_001.jpeg

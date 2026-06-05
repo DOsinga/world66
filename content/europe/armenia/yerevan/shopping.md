@@ -3,20 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-**all**
-
-**Pag Shuka (Covered Market)**
-
-The pag shuka is the largest market in downtown Yerevan. Fresh produce, meat and preserves are sold here.  
-
-**Carpet shop Vasilian**
-
-Shop just off Republic square, nice people, nice things to buy.
-
-email: gvasilyan@hotmail.ru
-
-address: 4/4 Abovian street
-
-tel: (3741)545152
-
-bookingurl: [www.vasilyan.boom.ru](http://www.vasilyan.boom.ru)
+The Vernissage weekend market is the obvious starting point for anyone shopping for souvenirs: carpets, silver, woodwork, painted Soviet ephemera, and the obligatory pomegranate everything. For higher-quality crafts and Armenian fashion, the boutique scene along Abovyan Street and the small shops in Kentron are more rewarding. The covered Pak Shuka and the open GUM Market are where to go for dried fruit, walnuts, churchkhela, and other edible souvenirs.

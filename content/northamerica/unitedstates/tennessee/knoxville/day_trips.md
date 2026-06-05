@@ -6,10 +6,8 @@ linked_locations:
   - northamerica/unitedstates/tennessee/gatlinburg
 ---
 
-The [Great Smoky Mountains National Park](/northamerica/unitedstates/tennessee/greatsmokymountainsnationalpark) is the obvious day trip from Knoxville — and one of the best. The park entrance at Sugarlands is under an hour's drive, and the Newfound Gap Road through the mountains to Cherokee, North Carolina is one of the great drives in the eastern United States. The park is free and open year-round, though summer and fall weekends bring serious traffic.
+Knoxville's best asset as a base is its proximity to [Great Smoky Mountains National Park](/northamerica/unitedstates/tennessee/greatsmokymountainsnationalpark), the most visited national park in the United States. The park boundary is less than an hour's drive from downtown; [Gatlinburg](/northamerica/unitedstates/tennessee/gatlinburg), the main gateway town on the Tennessee side, is about 55 kilometres southeast.
 
-[Gatlinburg](/northamerica/unitedstates/tennessee/gatlinburg), the tourist town at the park's northern gateway, is simultaneously kitschy and useful — good for pancake breakfasts, outfitter shops, and the Anakeesta mountain park above town.
+The Smoky Mountains offer everything from easy waterfall walks to strenuous ridge hikes. Clingmans Dome, the highest point in the park at 2,025 metres, is accessible by road to within a short walk of the summit. The Appalachian Trail crosses the park along the state line ridge.
 
-Asheville, North Carolina lies 75 miles east on I-40 and makes a rewarding day trip or overnight for its food scene, craft breweries, and the Biltmore Estate — George Vanderbilt's enormous château in the Blue Ridge Mountains.
-
-Oak Ridge, 25 miles west of Knoxville, was built in secret during World War II to enrich uranium for the Manhattan Project. The American Museum of Science and Energy and the Manhattan Project National Historical Park (at the Y-12 National Security Complex) tell the story well, and a guided bus tour of the former secret city is one of the more unusual half-days available anywhere in Tennessee.
+Other options within a couple of hours of Knoxville include Chattanooga (a worthwhile city with its own attractions), the Cumberland Gap National Historical Park to the north, and the historic town of Jonesborough, Tennessee's oldest town.

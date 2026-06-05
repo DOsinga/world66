@@ -11,6 +11,9 @@ story: 'In 1392, the scholar and loyalist Chong Mong-ju was lured to this bridge
   it to iron in the rock.
 
   '
+tags:
+- things_to_do
+- sight
 title: Sonjuk Bridge
 type: poi
 ---

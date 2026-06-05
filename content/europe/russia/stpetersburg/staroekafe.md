@@ -4,8 +4,8 @@ latitude: 59.9205
 longitude: 30.326
 snippet: Quiet Fontanka café for borscht and tea, no fuss
 tags:
-- things_to_do
-- eating
+- eating_out
+- restaurant
 - nevskiyprospekt
 title: Staroe Kafe
 type: poi

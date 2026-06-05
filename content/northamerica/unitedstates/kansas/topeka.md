@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
   poi_cleanup: '2026-04-19'
 image: topeka.jpg
 image_attribution: w_lemay
@@ -22,4 +22,4 @@ The single most important place here is the [Brown v. Board of Education Nationa
 
 The [Kansas State Capitol](/northamerica/unitedstates/kansas/topeka/kansas_state_capitol) is worth an hour of your time. John Steuart Curry's murals inside depict John Brown and the violent period before the Civil War when Kansas was a battleground over slavery — raw, expressionist paintings that feel nothing like typical government-building decoration. The [Memorial Building](/northamerica/unitedstates/kansas/topeka/memorial_building) nearby is another handsome civic landmark, and [Grace Cathedral](/northamerica/unitedstates/kansas/topeka/grace_cathedral) a few blocks west is the best architectural building downtown.
 
-The [Topeka Zoo](/northamerica/unitedstates/kansas/topeka/topeka_zoo) is genuinely good, known especially for its Gorilla Encounter. The [Historic Ward-Meade Park](/northamerica/unitedstates/kansas/topeka/ward_meade_park) is pleasant on a warm afternoon. The [Evel Knievel Museum](/northamerica/unitedstates/kansas/topeka/evel_knievel_museum) is a better-than-expected collection. The [Equality House](/northamerica/unitedstates/kansas/topeka/equality_house) across from the Westboro Baptist Church is a peculiarly Topeka landmark, and [Truckhenge](/northamerica/unitedstates/kansas/topeka/truckhenge) on the north edge of town rewards fans of roadside folk art. The [Kansas Museum of History](/northamerica/unitedstates/kansas/topeka/kansas_museum_of_history) provides solid context on the state. The Tallgrass Prairie National Preserve lies about an hour south and is worth combining into a visit.
+The [Topeka Zoo](/northamerica/unitedstates/kansas/topeka/topeka_zoo) is genuinely good, known especially for its Gorilla Encounter, and sits within [Gage Park](/northamerica/unitedstates/kansas/topeka/gage_park), a large Victorian-era public park with a vintage carousel dating from 1908. The [Historic Ward-Meade Park](/northamerica/unitedstates/kansas/topeka/ward_meade_park) is pleasant on a warm afternoon. The [Evel Knievel Museum](/northamerica/unitedstates/kansas/topeka/evel_knievel_museum) is a better-than-expected collection. The [Equality House](/northamerica/unitedstates/kansas/topeka/equality_house) across from the Westboro Baptist Church is a peculiarly Topeka landmark, and [Truckhenge](/northamerica/unitedstates/kansas/topeka/truckhenge) on the north edge of town rewards fans of roadside folk art. The [Kansas Museum of History](/northamerica/unitedstates/kansas/topeka/kansas_museum_of_history) provides solid context on the state. The Tallgrass Prairie National Preserve lies about an hour south and is worth combining into a visit.

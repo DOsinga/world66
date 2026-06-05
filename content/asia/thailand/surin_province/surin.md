@@ -10,6 +10,8 @@ latitude: 15.061014
 loc_type: city
 longitude: 103.761312
 score: 0.46
+sources:
+- https://en.wikipedia.org/wiki/Surin,_Surin
 title: Surin
 type: location
 ---

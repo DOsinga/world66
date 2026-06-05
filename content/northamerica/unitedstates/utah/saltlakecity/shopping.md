@@ -1,14 +1,8 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-**all**
+Downtown shopping centres around City Creek Center (formerly Crossroads Plaza), an open-air mall directly across from Temple Square with over 100 stores. The Gateway, in the western part of downtown, provides a second retail hub with more of an entertainment focus.
 
-**Crossroads Plaza**
-
-Nordstrom, Mervyn's, and over 145 specialty stores, services, restaurants and theaters. Across from Temple Square. Open daily (except selected holidays). Free validated parking; park free on Sundays. 
-
-**Factory Stores @ Park City**
-
-Save 30 - 70% at 50 manufacturers' outlets. Mon-Sat 10 am-9 pm, Sun 11 am-6 pm. 20 minutes from Salt Lake. I-80 East, Exit 145, turn right at McDonald's.
+For independent shopping, the 9th and 9th neighbourhood has independent boutiques and secondhand shops. The Pioneer Park farmers market on Saturday mornings (late spring through autumn) is the best place for local food products. Factory outlet shopping is available at outlets in Lehi and Tanger, both south of the city on I-15.

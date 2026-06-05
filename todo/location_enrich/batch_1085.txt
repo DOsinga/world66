@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/ardmore
-northamerica/unitedstates/colorado/idaho_springs
-africa/kenya/theriftvalley/nakuru
-northamerica/unitedstates/arizona/kayenta
-asia/philippines/vigan

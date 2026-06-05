@@ -1,19 +1,8 @@
 ---
-title: "Things to do in Larnaca"
+title: "Things to Do in Larnaca"
 type: section
 ---
 
-Larnaca is located near the east coast of Cyprus. It is a
-combination of old Turkish streets, Greek ruins, religious symbols, and
-modern amenities. The city saw a large influx of European immigrants,
-particularly from Lebanon, in the 1970s. Larnaca was once the second-
-or third-most important city in Cyprus, but the immigration gave rise
-to the city's modern-day importance.
+Larnaca is Cyprus's third city and main gateway — most visitors arrive here and then move on, but those who linger find more to reward them than the city's modest reputation suggests. The name means "funerary chest" in Greek, which neatly captures the archaeology: ancient Kition underlies much of the modern city, and tombs keep turning up in construction.
 
-**Larnaca things to do **focus
-on the area's history. In fact, the name "Larnaca" means "funerary
-chest" in Greek, an indication of the many tombs and ruins found in the
-city.**Ruins of Ancient Kitium**
-
-One of the oldest sights in
-Larnaca, the ruins of Ancient Kitium date
+The seafront promenade, Finikoudes, gives the city its visual centre — a kilometre of palm-lined waterfront with cafes at one end and the castle at the other. Behind it, the Skala quarter preserves the old Ottoman street pattern and the great Byzantine church of St. Lazarus. A short drive inland or south opens up the salt lake, the Hala Sultan Tekke mosque, and the airport, where divers departing for the Zenobia wreck pass arrivals who have never heard of it.

@@ -3,12 +3,8 @@ title: "Things to Do"
 type: section
 ---
 
-Kodaikanal's main sight is the **Kodai Lake** at the centre of town — a star-shaped artificial lake created in 1863 by a British collector. Cycling and boating on the lake are the classic activities; both are easily arranged at the lakeside. The 5 km circuit around the lake by foot takes about an hour.
+Kodaikanal rewards a couple of days rather than a single rushed day trip from Madurai. The main sights cluster around the lake and along the escarpment edge, with longer treks into the surrounding Palani Hills for those who want to go deeper.
 
-**Coaker's Walk** is a 1 km path along the edge of the escarpment with views down to the plains 2,000 metres below, when the clouds permit. The clouds don't always permit. Go early morning.
+The essential circuit covers [Kodai Lake](/asia/india/tamilnadu/kodaikanal/kodai_lake) and a lap around it on foot or bicycle, [Coaker's Walk](/asia/india/tamilnadu/kodaikanal/coakers_walk) along the escarpment edge, [Pillar Rocks](/asia/india/tamilnadu/kodaikanal/pillar_rocks) and nearby [Green Valley Views](/asia/india/tamilnadu/kodaikanal/green_valley_views), and the eerie [Guna Caves](/asia/india/tamilnadu/kodaikanal/guna_caves) in the shola forest. Add the [Kodaikanal Solar Observatory](/asia/india/tamilnadu/kodaikanal/kodaikanal_solar_observatory) if you have any interest in science — it is one of the hill station's less obvious but more rewarding visits.
 
-**Pillar Rocks** are three vertical granite columns rising 120 metres, a short drive or long walk from the lake. Often wreathed in mist. The **Bear Shola Falls**, Pine Forest, and **Green Valley Views** (formerly Suicide Point, renamed) are other standard stops around the hill.
-
-The **Kodaikanal Solar Observatory**, one of the oldest in India (1899), is perched above the town and open for visits on weekend mornings — worth arranging if you have an interest in science or astronomy.
-
-The surrounding Palani Hills have good trekking. **Dolphin's Nose** is a 6 km trail to a prominent rock ledge. Longer treks into the Palani Hills require permits from the forest department.
+For [trekking](/asia/india/tamilnadu/kodaikanal/palani_hills_trekking), the surrounding Palani Hills offer routes ranging from the accessible trail to [Dolphin's Nose](/asia/india/tamilnadu/kodaikanal/dolphins_nose) to multi-day treks into the interior. The [Shembaganur Museum of Natural History](/asia/india/tamilnadu/kodaikanal/shembaganur_museum) is worth an hour for its collection of local flora and fauna specimens.

@@ -1,5 +1,0 @@
-europe/latvia/jurmala
-northamerica/unitedstates/california/shastacascade/oroville
-asia/japan/kunitachi_tokyo
-asia/india/orissa/sambalpur
-europe/sweden/smaaland

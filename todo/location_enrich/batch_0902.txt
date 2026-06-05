@@ -1,5 +1,0 @@
-europe/spain/la_mancha/oropesa
-asia/india/madhyapradesh/bandhavgarh
-asia/india/karnataka/hampi
-europe/germany/saxony/hoyerswerda
-europe/croatia/split

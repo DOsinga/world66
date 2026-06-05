@@ -1,10 +1,12 @@
 ---
 title: 'Bacolod Public Plaza'
 type: poi
-category: 'Sight'
+tags:
+  - things_to_do
+  - sight
 address: 'Rizal Street, Bacolod City'
-latitude: 10.664645
-longitude: 122.958562
+latitude: 10.6762
+longitude: 122.9517
 snippet: "Tree-shaded Spanish-era plaza at the city's heart"
 ---
 

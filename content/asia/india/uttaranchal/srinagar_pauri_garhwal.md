@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: srinagar_pauri_garhwal.jpg
 image_attribution: Nitin Maletha
 image_license: CC BY-SA 4.0

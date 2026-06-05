@@ -1,44 +1,10 @@
 ---
-title: "Getting There in Oberammergau"
+title: "Getting There"
 type: section
 ---
 
-Rich with culture and natural beauty, Oberammergau remains one of
-the most popular tourist destinations in all of Bavaria. A host of
-transportation options exist in order to reach this idyllic town.
+**By train.** Oberammergau is the end of a single-track branch line from Murnau, in turn reached from Munich in about an hour. The full trip takes 1h45 to 2h with one change, with the Bayern-Ticket a good-value option for the day. The station sits a five-minute walk south of the village centre across the Ammer.
 
-**Train**
+**By road.** From Munich the drive takes about 90 minutes on the A95 motorway to Eschenlohe, then the B23 through Ettal. From the west the B23 runs in from Augsburg via the Ammergau valley. Parking in the village is paid and limited in summer; large free lots sit at the edge.
 
-Tourists traveling by train will arrive at the town’s
-main station, Oberammergau Bahnhof, which lies across the river on the
-opposite side of the city center. Travel from Munich takes only two
-hours, while the journey from Frankfurt takes seven hours. Both cities
-offer daily service to Oberammergau. Train travel remains available
-from most directions, with the majority of the connections occurring in
-southern town of Murnau.
-
-**Car**
-
-Many tourists decide against public transportation,
-preferring to drive to Oberammergau instead. Driving offers a faster
-commute than most trains. FThe drive from Munich runs
-about 1½ hours, while the Frankfurt journey takes approximately 5½
-hours. It’s an easy drive with the B-23 bringing motorists directly to
-town. Drivers originating from Munich will discover that the major
-Autobahn A-95 seamlessly connects to the B-23.
-
-**Air**
-
-Three major airport facilities lie within close
-distance to Oberammergau: Munich, Salzburg and Innsbruck. Although
-Innsbruck remains the closest to town (only 43 miles), many tourists
-prefer landing in Munich, as the German city offers tremendous motorway
-and train access to Oberammergau. A host of major airlines service all
-three regions.
-
-**Bus**
-
-The Bavarian town of Garmisch-Partenkirchen offers
-regional bus service to Oberammergau via its bustling bus station, RVO
-Regionalverkehr Oberbayern. During non-winter months, the town of
-Füssen shuttles approximately four buses a day to Oberammergau.
+**By air.** The nearest airports are Munich (95 km) and Innsbruck (70 km). Both have direct buses or trains as far as Garmisch-Partenkirchen, where you change for Oberammergau. Salzburg (175 km) is a longer transfer but useful for some itineraries. There is no airport shuttle service to the village itself.

@@ -1,25 +1,14 @@
 ---
-address: Main Road Jinnah Super market Islamabad
-phone: (51)-2650953
-tags:
-- eating_out
-title: Kabul Restaurant'
+title: Kabul Restaurant
 type: poi
+latitude: 33.7186
+longitude: 73.0560
+address: Jinnah Super Market, F-7 Markaz
+tags:
+  - eating_out
+  - restaurant
 ---
 
-In Jinnah Super market a well known Restaurant in Islamabad with it's delicious "Bar+B+Q)" in the Town since 1983.
+A long-standing Afghan restaurant in the Jinnah Super Market — chapli kebab, mantu dumplings, Kabuli pulao and the trademark Afghan bread baked in a tandoor by the entrance. Among the older eating houses in the market, opened in the 1980s when Islamabad's Afghan refugee community first started to grow.
 
-Afghani Food outlet in Islamabad. They serve you very tasty well cooked/bbqed dishes. Afghani chicken tikka is the most favorite dish.
-
-**Contributors**
-May 09, 2009
-
-type: Local
-
-
-
-
-
-tel: (51)-2650953
-
-address: Main Road Jinnah Super market Islamabad
+The Afghan-style chicken tikka, roasted slowly over coals, is the signature dish. Sit in the back room rather than the street-facing area to avoid the worst of the traffic noise.

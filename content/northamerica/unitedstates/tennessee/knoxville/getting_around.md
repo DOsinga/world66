@@ -1,12 +1,11 @@
 ---
 title: Getting Around
 type: section
+tags: [getting_around]
 ---
 
-Downtown Knoxville is walkable. Market Square, the Old City, World's Fair Park, and the University of Tennessee campus can all be reached on foot from the centre. The Tennessee River waterfront is a short walk south.
+Downtown Knoxville is compact and walkable. Market Square, Gay Street, World's Fair Park, the Old City, and Volunteer Landing can all be reached on foot within fifteen minutes of each other. The University of Tennessee campus is a twenty-minute walk south from Market Square, or five minutes by bus.
 
-The Knoxville Area Transit (KAT) system runs local buses, but coverage outside downtown is patchy. A free downtown trolley called the Old Town Trolley loops through the main visitor areas and is useful for the basic circuit.
+The Knoxville Area Transit (KAT) bus system covers the city, and a free shuttle called the Old City Trolley connects downtown to the Old City neighbourhood. Rideshare services (Uber and Lyft) are widely available and cheap within the downtown area.
 
-A car is essentially required for anything outside downtown — the airport, suburban shopping, and particularly the drive to the Smoky Mountains. Rideshares (Uber, Lyft) work well within the city. Lime scooters and e-bikes are available in the downtown core and along the river greenways.
-
-The Urban Wilderness — a network of greenways and mountain bike trails south of downtown — is best accessed by bike or car.
+For getting to the Smoky Mountains, you will need a car. There is no public transport link to Gatlinburg or Townsend, and the park itself has very limited bus access from those gateway towns. Car hire is available at the airport and in the city.

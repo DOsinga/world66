@@ -1,12 +1,13 @@
 ---
 title: When to Go
 type: section
+tags: [when_to_go]
 ---
 
-Spring (March–May) is Knoxville at its best. Temperatures are mild, the surrounding mountains are green, and the drive to the Smokies for wildflower season is spectacular. Fall (September–November) is equally good — autumn colour in the mountains peaks in mid-October, and the football season adds a particular electricity to the city.
+Spring (April and May) is the best time to visit Knoxville. The dogwood trees bloom across the city in April, which the annual Dogwood Arts Festival celebrates with outdoor exhibitions and events. Temperatures are mild, the Smoky Mountains are accessible, and the city is at its most photogenic.
 
-Summer (June–August) is hot and humid. The university slows down when students leave, but the city is still lively. The mountains offer cooler air when the heat downtown becomes oppressive.
+Autumn (September through November) is the other strong season. The mountain colours in October are exceptional and Knoxville fills with energy from the University of Tennessee football season — which is either an attraction or a reason to avoid certain weekends, depending on your tolerance for orange-clad crowds of 100,000 people.
 
-Winter (December–February) is mild by northern standards but can bring occasional ice storms. The mountains receive genuine snow, which draws crowds to the Smokies even in cold months. Knoxville itself stays quiet in winter, with lower hotel prices and no competition for restaurant tables.
+Summer is hot and humid, with temperatures regularly above 35°C in July and August. The Smoky Mountains offer cooler refuge, but popular trails and Gatlinburg itself get extremely crowded. Winter is mild by comparison with much of the US — snow is rare in Knoxville, though the mountains may have snow from December through March.
 
-The Tennessee Theatre and Bijou Theatre run year-round performance programmes worth checking when planning your dates. The Dogwood Arts Festival in April fills Market Square and the university area with outdoor events and is worth timing a visit around.
+The Big Ears music festival in late March is worth timing a visit around if that sort of programming appeals.

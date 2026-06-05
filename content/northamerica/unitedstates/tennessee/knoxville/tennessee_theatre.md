@@ -1,15 +1,14 @@
 ---
 title: Tennessee Theatre
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - theatre
+tags: [things_to_do, sight, architecture]
 latitude: 35.9622
 longitude: -83.9194
+story: "The Tennessee Theatre opened in 1928 as a movie palace for Loew's cinemas. It was nearly demolished in the 1970s but Knoxville residents rallied to save it. Today it is the official state theatre of Tennessee and its Moorish interior — all gilded plasterwork and painted ceilings — remains largely intact."
+sources:
+  - https://en.wikipedia.org/wiki/Tennessee_Theatre
 ---
 
-The Tennessee Theatre opened in 1928 as a movie palace on Gay Street, and it remains one of the finest examples of Moorish Revival theatre architecture in the American South. The interior is extraordinary: ornate plasterwork, hand-stencilled ceilings in gold and red, and a massive Wurlitzer pipe organ that still functions and is played at certain events.
+The Tennessee Theatre on Gay Street is one of the finest surviving movie palaces in the American South. Opened in 1928, it seats nearly 1,600 people inside a lavishly decorated Moorish-revival interior: gilded arches, ornate plasterwork, painted ceilings, and the original Wurlitzer theatre organ, which still plays before select events.
 
-The theatre was rescued from potential demolition in the 1970s and has operated as a performing arts venue ever since. It hosts classical music, Broadway touring productions, film screenings, and the occasional stand-up comedy show. If you are in Knoxville for more than a night, checking the schedule and attending a performance is the best use of an evening — the building alone rewards the visit even if the programme doesn't particularly interest you. Tickets are generally affordable by major-city standards.
+The theatre hosts a mixed programme of concerts, touring Broadway productions, classic films, and community events. Even if you don't attend a performance, it's worth stepping into the lobby to see the scale of the place. The building anchors Gay Street and is one of the best reasons to walk that stretch of downtown.

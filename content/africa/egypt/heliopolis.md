@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-06-03'
 title: Heliopolis
 type: location
 latitude: 30.100599

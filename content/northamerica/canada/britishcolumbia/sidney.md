@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-03'
 image: sidney.jpg
 image_attribution: Joe Mabel
 image_license: CC BY-SA 3.0

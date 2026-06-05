@@ -1,6 +1,6 @@
 ---
-title: Eating Out
+title: "Eating Out"
 type: section
 ---
 
-Seafood dominates the menu in Búzios. The fishing boats that still work out of João Fernandes beach land their catch in the morning, and much of it ends up on restaurant tables the same evening. The main strip, Rua das Pedras, is lined with open-fronted restaurants. Competition is fierce enough that quality is generally good; prices are higher than the Brazilian average but reasonable by international standards.
+Búzios eats well. The restaurants clustered along Rua das Pedras range from simple grilled-fish spots to places that take themselves very seriously, and the seafood — landed from the bay and the open Atlantic — is generally excellent. Moqueca, the Brazilian fish stew made with coconut milk and dendê palm oil, is the dish to order when you don't know what else to choose.

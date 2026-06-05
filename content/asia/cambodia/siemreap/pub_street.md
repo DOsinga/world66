@@ -2,7 +2,7 @@
 latitude: 13.3548263
 longitude: 103.8547837
 tags:
-- nightlife
+- bars_and_cafes
 - bar
 - landmark
 title: Pub Street

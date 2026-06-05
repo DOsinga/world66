@@ -5,6 +5,7 @@ latitude: 54.6784
 longitude: 25.2878
 snippet: Contemporary art gallery in Vilnius Old Town
 tags:
+- things_to_do
 - museum
 title: Vartai
 type: poi

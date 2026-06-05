@@ -1,5 +1,0 @@
-europe/france/midi/pyrenees/tarasconsurari
-asia/lebanon/beirut
-europe/russia/ulan_ude
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay
-asia/cambodia/sihanoukville

@@ -2,6 +2,9 @@
 address: Red square, 3
 latitude: 55.754703
 longitude: 37.621438
+tags:
+- shopping
+- market
 title: GUM
 type: poi
 url: www.gum.ru

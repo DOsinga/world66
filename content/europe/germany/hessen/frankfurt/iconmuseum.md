@@ -8,7 +8,9 @@ opening_hours: Closed on Mondays
 phone: +49 69 212 36262
 snippet: Russian and Greek Orthodox icons on Frankfurt's Museumsufer
 tags:
-- museums
+- things_to_do
+- museum
+- sachsenhausen
 title: Icon Museum
 type: poi
 ---

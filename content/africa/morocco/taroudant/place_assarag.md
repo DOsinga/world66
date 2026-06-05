@@ -5,8 +5,8 @@ latitude: 30.472
 longitude: -8.8766
 snippet: Taroudant's unhurried main square lined with cafe terraces
 tags:
-- history
-- viewpoint
+- things_to_do
+- sight
 title: Place Assarag
 type: poi
 ---

@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Calderón's main draw is its bread figurine workshops, where you can watch the dough figures being shaped and painted by hand. There is also a pretty church on the main square worth a look.
+Calderón is built around a single craft: the **mazapán** bread dough figurines that visitors come from [Quito](/southamerica/ecuador/quito) to buy. A short morning walks you past the workshops on Carapungo, the plain stone church on the main square, and the **Cementerio de Calderón** with its painted graves. Allow half a day, or longer if you plan on hanging around for lunch.

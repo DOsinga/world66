@@ -7,6 +7,8 @@ snippet: Hand-feed endangered Rothschild's giraffes from a raised platform
 tags:
 - things_to_do
 - day_trips
+- karen
+neighbourhood: Karen
 title: Giraffe Centre
 type: poi
 ---

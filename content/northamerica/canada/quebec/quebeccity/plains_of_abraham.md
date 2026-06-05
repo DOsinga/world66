@@ -6,6 +6,8 @@ phone: 418 648-4071
 snippet: "1759 battlefield where French Canada fell, now a beloved urban park"
 tags:
 - things_to_do
+- sight
+story: "The battle lasted barely 15 minutes. Both commanding generals — British General Wolfe and French General Montcalm — died of their wounds within hours of each other. When news reached Europe, a French diplomat remarked that France had lost 'a few acres of snow.' The battle decided that North America would eventually be English-speaking."
 title: Plains of Abraham
 type: poi
 ---

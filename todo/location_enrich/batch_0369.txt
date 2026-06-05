@@ -1,5 +1,0 @@
-northamerica/unitedstates/northcarolina/hatteras_island
-australiaandpacific/marshallislands/jaluitatoll
-australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt
-southamerica/peru/colca_canyon/chivay
-africa/mauritius/moka

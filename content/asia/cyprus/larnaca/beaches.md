@@ -3,18 +3,6 @@ title: "Beaches"
 type: section
 ---
 
-We currently have no Beaches listed in Larnaca.
+Larnaca's beaches stretch along the coast on both sides of the airport. Finikoudes beach, the main town strand, runs along the promenade and is well organised with sunbeds and facilities, though it has the narrow, stony foreshore that characterises much of this coast. Mackenzie beach, just south of the airport, is wider and more popular with locals, with beach bars and a livelier atmosphere.
 
-If you do know any Beaches in Larnaca, please [Add].
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The salt lake system west of the airport offers something different from October through April: the flamingos that overwinter there can be watched from a 3-kilometre walking trail along the northern shore.

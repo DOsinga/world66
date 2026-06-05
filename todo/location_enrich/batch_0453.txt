@@ -1,5 +1,0 @@
-africa/morocco/tinmal
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury
-europe/germany/northrhinewestphalia/duisburg
-europe/poland/krynicazdroj
-northamerica/mexico/naucalpan

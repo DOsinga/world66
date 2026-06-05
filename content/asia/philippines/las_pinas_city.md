@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: 2026-04-04
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
+image: las_pinas_city.jpg
+image_attribution: Ralff Nestor Nacor
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bamboo_Organ_Church,_Las_Pi%C3%B1as,_Nov_2023.jpg
 latitude: 14.480901
 loc_type: city
 longitude: 120.981786
 score: 0.35
 title: Las Pinas City
 type: location
-image: las_pinas_city.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bamboo_Organ_Church,_Las_Pi%C3%B1as,_Nov_2023.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Ralff Nestor Nacor
 ---
 
 Las Piñas is a city of about 600,000 people on the southern edge of Metro Manila, separated from the capital's airport by the city of Parañaque. It is best known outside the Philippines for a single extraordinary object: the [Bamboo Organ](las_pinas_city/bamboo_organ) in Saint Joseph's Church, built by a Spanish friar in the 1820s and the only large pipe organ in the world with bamboo pipes. The organ draws international organists each February for the annual Bamboo Organ Festival.

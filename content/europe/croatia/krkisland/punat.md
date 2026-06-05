@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 image: punat.jpg
 image_license: CC BY-SA 3.0 de
 image_source: https://commons.wikimedia.org/wiki/File:Punat_krk.jpg

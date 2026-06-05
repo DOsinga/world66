@@ -2,10 +2,13 @@
 category: Sight
 done:
   poi_cleanup: '2026-04-19'
-latitude: 44.8694
+latitude: 44.8709
 longitude: 13.8478
 snippet: Roman twin-arched gate leading to castle and museum
-title: Town Walls
+tags:
+- things_to_do
+- sight
+title: Porta Gemina (Twin Gate)
 type: poi
 ---
 

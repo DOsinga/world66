@@ -1,5 +1,0 @@
-europe/austria/koessen
-northamerica/unitedstates/idaho/teton_valley/victor
-europe/armenia/shirak_marz/gyumri
-europe/austria/schladming
-northamerica/unitedstates/connecticut/middletown

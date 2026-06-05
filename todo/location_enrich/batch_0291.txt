@@ -1,5 +1,0 @@
-northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city
-europe/france/normandybrittany/trouville
-europe/portugal/pvoa_de_varzim
-europe/spain/canaryislands/lanzarote/arrecife
-europe/italy/tuscany/cortona

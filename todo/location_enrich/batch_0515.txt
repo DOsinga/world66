@@ -1,5 +1,0 @@
-northamerica/thecaribbean/virginislands/stthomas
-northamerica/unitedstates/iowa/idagrove
-asia/thailand/surat_thani
-asia/japan/honshu/yokohama
-asia/india/manipur/khongjom

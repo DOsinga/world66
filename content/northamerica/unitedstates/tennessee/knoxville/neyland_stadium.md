@@ -1,21 +1,12 @@
 ---
 title: Neyland Stadium
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - sport
-latitude: 35.9549
-longitude: -83.9251
-story: >
-  The stadium sits directly on the bank of the Tennessee River, which allowed an unusual
-  tradition: from the 1960s into the 2000s, some Tennessee football fans arrived on game day
-  by boat, docking on the river below the stadium. The Vol Navy, as this flotilla is known,
-  has grown into one of the most distinctive tailgate traditions in American college football.
+tags: [things_to_do, sight, sport]
+latitude: 35.9550
+longitude: -83.9250
+story: "Neyland Stadium was built in 1921 with a capacity of 3,200. It has been expanded eleven times since and now holds over 102,000 people, making it the fifth-largest stadium in the world by capacity. On home game Saturdays in autumn, the population of Knoxville effectively doubles."
 ---
 
-Neyland Stadium is one of the largest sports stadiums in the world, with a capacity over 100,000 — and on autumn Saturdays when the Tennessee Volunteers play at home, it fills to that capacity in a sea of orange. The noise is genuinely extraordinary: the stadium amplifies crowd sound in ways that make it among the loudest college football environments in the country.
+Neyland Stadium is the University of Tennessee's football coliseum and one of the defining facts about Knoxville. It seats over 102,000 people and on game days from September through November the city turns orange — literally, the Tennessee Volunteers' colour — and the noise is audible from kilometres away.
 
-If you are in Knoxville during football season and have any tolerance for the spectacle of American college sport, attending a game is the most authentic single experience the city offers. Tickets for minor games can be found at face value or below; major rivalry games sell out months in advance. The walk from downtown across the Gay Street Bridge to the stadium is part of the experience — the campus fills with orange-clad fans for hours before kickoff.
-
-If there is no game during your visit, the stadium can be seen from the river walk and the UT campus. The Tennessee football program has a museum inside the stadium that is open on non-game days.
+Even if you have no interest in American football, it is worth watching a game if you are in Knoxville on a Saturday in the season. The stadium sits on the Tennessee River, and fans arrive by boat along the river as well as on foot from downtown. The experience is less a sporting event than a regional cultural ritual. Tickets for popular games sell out well in advance, but visiting the campus and walking the river path on game day costs nothing.

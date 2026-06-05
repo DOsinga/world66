@@ -1,9 +1,11 @@
 ---
 address: University of St. La Salle, La Salle Avenue, Bacolod City
-category: Museum
-latitude: 10.6803
-longitude: 122.9563
+latitude: 10.6787
+longitude: 122.9625
 snippet: Negros heritage and religious art in a university museum
+tags:
+  - things_to_do
+  - museum
 title: Museo Negrense De La Salle
 type: poi
 ---

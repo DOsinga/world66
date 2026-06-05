@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-04'
 image: tagaytay.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Tagaytay_Highlands,_Philippines_(lulaymb)_3_-_Flickr.jpg

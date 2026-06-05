@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-02'
+  location_enrich: '2026-06-04'
 image: bude.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Crooklets_Beach_Bude_-_geograph.org.uk_-_1450635.jpg

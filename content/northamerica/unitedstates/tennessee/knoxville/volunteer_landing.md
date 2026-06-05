@@ -1,13 +1,13 @@
 ---
-title: Volunteer Landing and Waterfront
+title: Volunteer Landing
 type: poi
-tags:
-  - things_to_do
-  - sight
+tags: [things_to_do, sight, park]
 latitude: 35.9587
 longitude: -83.9168
+sources:
+  - https://en.wikipedia.org/wiki/Volunteer_Landing
 ---
 
-Volunteer Landing is a riverside park and promenade along the south bank of the Tennessee River, just below downtown and the UT campus. The walk stretches from the Gay Street Bridge west toward the stadium, with views across the water to the Forks of the River area. It is the most pleasant green space in central Knoxville and the best place to understand the city's relationship with the river that shaped it.
+Volunteer Landing is a riverfront park along the Tennessee River at the southern edge of downtown. The path runs for about a mile below the historic Gay Street and Henley Street bridges, connecting downtown to the university district on foot or by bike. Kayak and canoe rentals are available in season, and the riverfront gives you a perspective on the city that the street grid doesn't provide.
 
-The landing has a small marina, a boat ramp, and access to the Greenway trail network. In summer it hosts outdoor events and food trucks. The Tennessee Riverboat Company runs sightseeing cruises from the dock — a relaxed hour on the water with good views of the downtown skyline and the Sunsphere. The Vol Navy boats moored here before home football games add a particular atmosphere in autumn.
+The Tennessee River is wide and slow here, and the park is a popular spot for an evening walk. From certain angles you can see both the old Henley Bridge — a 1931 Art Deco span — and the Sunsphere tower above the treeline. A small amphitheater at the landing hosts outdoor events in summer.

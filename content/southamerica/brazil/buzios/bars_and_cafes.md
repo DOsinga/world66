@@ -1,6 +1,6 @@
 ---
-title: Bars and Cafes
+title: "Bars and Cafes"
 type: section
 ---
 
-After dark, Rua das Pedras transforms into Búzios's nightlife corridor. The bars here stay open late and pour caipirinhas with notable enthusiasm. The scene is younger and livelier than you might expect from a beach resort — in high season (January and February) it can get genuinely rowdy. Quieter spots exist along the waterfront for those who prefer conversation to competition.
+The nightlife concentrates almost entirely on Rua das Pedras. As the sun goes down the street fills up, the bars spill onto the pavement, and what was a quiet afternoon shopping strip becomes genuinely lively. Caipirinhas made with local cachaça are the drink of choice; the quality varies but at the better spots they are very good.

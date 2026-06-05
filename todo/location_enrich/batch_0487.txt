@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/largo
-europe/spain/spanishcostas/calpe
-northamerica/unitedstates/southcarolina/columbia
-northamerica/unitedstates/california/santa_cruz
-europe/spain/andalucia/algeciras

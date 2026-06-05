@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-04'
 image: volubilis.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Volubilis_Longshot_II.jpg
@@ -21,7 +22,7 @@ As you approach Volubilis, you will see the ruins on a long, high plateau. This 
 The entrance to the site is through a small gate, built in 168 AD. There is a ticket office and a cafe with a terrace, where you can get cool drinks and a reasonable tajine. The best time to come is early morning or late afternoon, because it can get real hot at the site. The site is open from sunrise to sunset.
  
 
-Coming from the entrance the first sight is the olive press, which reflects the olive’s importance to the city. When you walk on you see the Forum, the Basilica and the Capitol. Continuing on you get to the Triumphal Arch. To your right, you will find most of the Mansions with their beautiful mosaic floors. Make sure to see Diana bathing and Bacchus surrounded by the Four Seasons. 
+Coming from the entrance the first sight is the olive press, which reflects the olive’s importance to the city. When you walk on you see the [Basilica and Forum](/africa/morocco/volubilis/basilica_and_forum) and the Capitol. Continuing on you get to the [Triumphal Arch](/africa/morocco/volubilis/triumphal_arch). To your right, you will find most of the Mansions with their beautiful mosaic floors — above all the [House of Venus](/africa/morocco/volubilis/house_of_venus) with its mosaics of Diana bathing and Bacchus surrounded by the Four Seasons, and the [House of Orpheus](/africa/morocco/volubilis/house_of_orpheus) near the entrance. The [Palace of Gordian](/africa/morocco/volubilis/gordians_palace) at the north end of the site gives the best overview of the plateau.
  
 
 Volubilis is a lovely place to be at sunset, just make sure you have arranged a ride back to [Meknes](/africa/morocco/meknes) or [Moulay Idriss](/africa/morocco/moulayidriss) beforehand.

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-01'
+  location_enrich: '2026-06-03'
 latitude: 36.596391
 longitude: -119.451188
 title: Reedley

@@ -4,6 +4,7 @@ longitude: -2.6023
 tags:
 - things_to_do
 - museum
+- harbourside
 title: M Shed
 type: poi
 snippet: Free Bristol history museum in a 1950s harbourside transit shed

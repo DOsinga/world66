@@ -1,19 +1,14 @@
 ---
 title: Sunsphere
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
+tags: [things_to_do, sight, architecture]
 latitude: 35.9617
 longitude: -83.9232
-story: >
-  The Sunsphere became an unlikely pop-culture icon when a 1996 Simpsons episode suggested
-  Knoxville had "sold the Sunsphere for wigs" and that the ball was full of wig storage.
-  In a twist of civic self-deprecation, Knoxville found this funny enough to embrace: a
-  local wig company briefly displayed wigs in the observation deck in 2010 as a tribute.
+story: "The Sunsphere was built for the 1982 World's Fair at a cost of $7 million. In 1996, The Simpsons immortalised it by suggesting the city had stored its wig collection inside the golden globe — a joke that briefly became more famous than the structure itself."
+sources:
+  - https://en.wikipedia.org/wiki/Sunsphere
 ---
 
-The Sunsphere is Knoxville's defining landmark — a gold-tinted geodesic ball perched on a 266-foot steel tower in World's Fair Park, built for the 1982 World's Fair where it served as the centrepiece of an exposition themed around energy. The golden colour comes from 24-karat gold dust fused into the glass panels.
+The Sunsphere is Knoxville's most recognisable landmark — a 266-foot steel truss tower capped with a sphere of gold-tinted glass, built for the 1982 World's Fair and still standing at the northern edge of World's Fair Park. From the observation deck on the fifth level you get a panoramic view of downtown, the Tennessee River curving south, and the distant Blue Ridge on clear days.
 
-The observation deck on the fifth level of the sphere is free to enter and offers the best panoramic view of the city and the mountains beyond. On clear days the ridgeline of the Great Smokies is visible to the southeast. The tower's lower floors host a small exhibit about the 1982 exposition and some casual restaurant seating. It is not a long visit, but the view justifies the short detour.
+The tower is free to visit during opening hours. The upper floors house a wine bar with the same view at a gentler pace. Whatever you think of the architecture, it works as an orientation exercise: spend twenty minutes up there and Knoxville's geography clicks into place.

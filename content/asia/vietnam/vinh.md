@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 latitude: 18.735841
 longitude: 105.69061
 title: Vinh
@@ -9,5 +10,6 @@ score: 0.4
 loc_type: city
 ---
 
-**Vinh** is a rather nondescript city on the coast to the south of [Hanoi](/asia/vietnam/hanoi). It is the centre of some of the poorest areas in Vietnam and thus provides the visitor some insight into the difficulties facing a country emerging from a long period of isolation. 
- While specific sights of note are few and far between in this province, a trip through it provides food for thought. **Ho Chi Minh** was born 14 kilometres from Vinh and a museum is established in his home town of Kim Lien Village to commerate the fact.
+**Vinh** is a provincial city on the central Vietnamese coast, about 300 kilometres south of Hanoi. It is the centre of Nghệ An province, one of the poorest in the country, and it wears this history plainly — the city was almost entirely destroyed by American bombing during the war and was rebuilt in the 1970s with East German assistance, which explains its unusually Soviet character: wide boulevards, planned blocks, and a formality unusual in Vietnamese cities.
+
+For visitors, the main draw is [Ho Chi Minh's birthplace](/asia/vietnam/vinh/kim_lien_birthplace) at Kim Lien village, 14 kilometres west — the thatched house where he was born in 1890 is preserved, along with an extensive museum covering his life and the independence movement. [Ho Chi Minh Square](/asia/vietnam/vinh/ho_chi_minh_square) in the city centre has the tallest statue of him in Vietnam. The [Cửa Lò beach](/asia/vietnam/vinh/cua_lo_beach) 15 kilometres east provides some relief if you are spending more than a day — it is a domestic resort and the seafood is good. Most travellers use Vinh as an overnight stop on the north-south route, and a half-day is enough to see the city itself.

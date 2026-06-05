@@ -1,5 +1,0 @@
-europe/france/midi/dordogne/bergerac
-europe/italy/liguria/bocca_di_magra
-africa/algeria/bechar
-europe/italy/trentinoaltoadige/trento
-asia/philippines/misamis_occidental

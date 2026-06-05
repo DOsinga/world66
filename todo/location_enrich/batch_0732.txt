@@ -1,5 +1,0 @@
-northamerica/canada/northwestterritories/fort_smith
-africa/ghana/takoradi
-europe/italy/lazio/latina
-northamerica/mexico/oaxaca
-southamerica/brazil/fortaleza

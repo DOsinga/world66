@@ -1,6 +1,6 @@
 ---
-title: Shopping
+title: "Shopping"
 type: section
 ---
 
-Búzios has better shopping than most Brazilian beach resorts. Rua das Pedras concentrates the best of it: local designers, jewellers selling aquamarines and topaz mined in Minas Gerais, and craft shops selling ceramics, leather, and hammocks. The quality varies but the curation is generally higher than at beach market stalls.
+Shopping in Búzios means Rua das Pedras. The street is lined with boutiques selling beachwear, locally made jewellery, and tropical fashion labels that never quite make it out of the resort circuit. Prices are high by Brazilian standards — this is a destination that knows what the market will bear — but the quality at the better jewellery shops is genuine. Look for pieces made with Brazilian gemstones: aquamarines, tourmalines, and citrines from Minas Gerais.

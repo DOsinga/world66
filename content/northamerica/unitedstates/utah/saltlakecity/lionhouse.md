@@ -1,13 +1,15 @@
 ---
-address: 63 East South Temple.
+address: 63 East South Temple
 latitude: 40.769807
 longitude: -111.888997
 tags:
-- sights
+- things_to_do
+- sight
+- historic_house
 title: Lion House
 type: poi
 ---
 
-Named after the stone lion sculpted for the front porch, this multi-gabled building, once part of the Brigham Young residence, was built in 1856. The charming rooms on the upper levels are now used for weddings and other parties (no tours). On the lower level is a public cafeteria, The Pantry.(801) 363-5466
+The Lion House, named for the stone lion on the front porch, was built in 1856 as part of Brigham Young's residential compound on South Temple Street. The multi-gabled building originally served as housing for several of Young's wives and their children; its long row of upstairs windows reflects the practical arrangement required by polygamous family life on the frontier.
 
-type: Mormon Sights
+The upper floors are now used for private events and receptions and are not open for regular tours. The lower level, however, operates as a public cafeteria called The Pantry, serving basic American comfort food at reasonable prices — it is a somewhat surreal experience to have a bowl of soup in what was once the domestic hub of one of the most influential households in pioneer America.

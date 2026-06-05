@@ -1,19 +1,14 @@
 ---
-title: Forensic Anthropology Center (Body Farm)
+title: William M. Bass Forensic Anthropology Center
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 35.9385
-longitude: -83.9297
-story: >
-  The facility was founded in 1981 by forensic anthropologist William Bass after he
-  misidentified the age of a body at a crime scene — a mistake that prompted him to
-  establish systematic research into human decomposition. The first subject was Bass himself,
-  who pre-donated his own body to the facility he created. His forensic memoir "Death's
-  Acre" recounts the founding in careful, unexpectedly readable prose.
+tags: [things_to_do, sight]
+latitude: 35.9606
+longitude: -83.9207
+story: "William Bass founded the facility in 1981 with a single donated body and a converted storage shed. It was the first research facility in the world dedicated to studying human decomposition in outdoor conditions. Bass later became a true-crime author, co-writing the 'Body Farm' novel series that brought the research centre unexpected fame."
+sources:
+  - https://en.wikipedia.org/wiki/Forensic_Anthropology_Center
 ---
 
-The University of Tennessee's Forensic Anthropology Center — better known as the Body Farm — is one of the more unusual institutions in American science. Founded in 1981, it is a three-acre outdoor research facility where human bodies are placed in various conditions (buried, submerged, exposed) to allow researchers to study the process of decomposition. The data generated has become foundational for forensic science, particularly for determining time of death in criminal investigations.
+The William M. Bass Forensic Anthropology Center at the University of Tennessee — widely known as the Body Farm — is a research facility that studies human decomposition under outdoor conditions. Founded in 1981, it is the original such facility in the world and has trained forensic investigators and contributed to criminal prosecutions across the United States.
 
-The facility itself is not open to tourists and the grounds are enclosed and secured. However, the UT Forensic Anthropology Center operates a small exhibit at the university that explains the science and history. For those interested in true crime, forensic science, or unusual academic history, the exhibit is worth a visit. Patricia Cornwell's early crime novels and Thomas Harris's silence of the lambs mythology both drew from the research that happens here.
+The facility is not open to the public, but it is worth knowing about: the research done here genuinely changed forensic science and law enforcement. FBI agents, medical examiners, and forensic anthropologists from around the world have trained on site. If you are curious about the science, the East Tennessee History Center downtown has context on William Bass's career and the facility's influence.

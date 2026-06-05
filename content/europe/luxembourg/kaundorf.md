@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-04'
 image: kaundorf.jpg
 image_attribution: MMFE
 image_license: CC BY-SA 3.0

@@ -5,8 +5,8 @@ longitude: -106.6490
 phone: (505) 764-0249
 snippet: Intimate historic venue for live music on Central Ave
 tags:
-- things_to_do
-- nightlife
+- bars_and_cafes
+- bar
 title: Sunshine Theatre
 type: poi
 ---

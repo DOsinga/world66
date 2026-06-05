@@ -1,0 +1,119 @@
+# Major City Neighbourhoods Task
+
+## Goal
+
+Every major world city should have **at least 10 neighbourhood POIs**, each with a hero image, and **at least 20 other POIs** (across all sections) tagged with each neighbourhood's slug. This makes the neighbourhood pages genuinely useful browsing surfaces.
+
+## For each city in the batch
+
+### 1. Audit the current state
+
+```bash
+# Count existing neighbourhood POIs
+find content/<path> -name "*.md" | xargs grep -l "type: neighbourhood"
+
+# Count POIs tagged with a specific neighbourhood slug
+grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md"
+```
+
+Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps, not replacing what's there.
+
+### 2. Plan the neighbourhood set
+
+Research the city's neighbourhoods. Look for the 10–15 most characterful, visitor-relevant districts — the places travellers actually go to, the areas with a distinct identity. Aim for geographic spread across the city. Good sources: Wikivoyage, Lonely Planet, local tourism boards.
+
+Each neighbourhood needs:
+- A distinct character or identity worth describing
+- Enough attractions, restaurants, and bars to collect 20+ POIs
+- A recognisable name (preferably the one locals use)
+
+### 3. Create missing neighbourhood POIs
+
+For each neighbourhood that doesn't exist yet, create `content/<city_path>/<slug>.md`:
+
+```yaml
+---
+title: "Neighbourhood Name"
+type: neighbourhood
+tags:
+  - things_to_do
+  - neighbourhood
+latitude: <centre_lat>
+longitude: <centre_lng>
+image: <filename>.jpg
+image_source: https://commons.wikimedia.org/wiki/File:...
+image_license: CC BY-SA 4.0
+---
+
+First paragraph: what defines this neighbourhood — its character, its history, what kind of place it is. Don't start with "X is a neighbourhood in Y."
+
+Second paragraph: the streets, landmarks, and atmosphere. Walk the reader through what they'll find. Name specific streets, squares, markets, or buildings that anchor the area.
+
+Third paragraph (optional for large/complex neighbourhoods): what to do, eat, or drink here — a preview of the POIs within it.
+```
+
+Key rules:
+- **Image is mandatory.** Use `find-photo` skill to source a Wikimedia Commons image. Don't create a neighbourhood POI without one.
+- **Coordinates** should be the approximate centre of the neighbourhood, not a single building. Use OpenStreetMap to find the centroid.
+- **Neighbourhood POIs carry only `things_to_do` and `neighbourhood` as tags.** Do not add `restaurant`, `bar`, or other category tags to the neighbourhood POI itself.
+- Slug should be the neighbourhood's common name, lowercase with underscores: `de_pijp`, `kreuzberg`, `le_marais`.
+
+### 4. Tag existing POIs with the neighbourhood slug
+
+For every POI that sits geographically within a neighbourhood, add the neighbourhood's slug to its `tags` list. Also add `neighbourhood: Name` as a display field.
+
+```yaml
+# Before
+tags:
+  - eating_out
+  - restaurant
+
+# After
+tags:
+  - eating_out
+  - south_bank
+  - restaurant
+neighbourhood: South Bank
+```
+
+Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
+
+**Target: each neighbourhood page should collect ≥20 POIs.** If an existing neighbourhood has fewer, create new POIs until it reaches the target.
+
+### 5. Create new POIs if needed
+
+If a neighbourhood doesn't have enough POIs to reach 20, add them. Use:
+
+```bash
+python3 tools/wiki_geosearch.py <lat> <lng> --radius 2000 --limit 20 --json
+python3 tools/grep_obscura.py <country> <city>
+```
+
+Focus POIs on the neighbourhood's character. A museum district should have museums; a dining neighbourhood needs restaurants; a creative district needs galleries and bars. See the `location_enrich` TASK.md for POI writing standards.
+
+### 6. Update the city overview
+
+If the overview mentions neighbourhoods by name, add markdown links to the neighbourhood POI pages. This is the only direct path from the overview text to a neighbourhood POI.
+
+### 7. Commit
+
+One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tagged`
+
+## Checklist before committing each city
+
+- [ ] City has ≥10 neighbourhood POIs
+- [ ] Each neighbourhood POI has an image (sourced via `find-photo`)
+- [ ] Each neighbourhood POI has accurate coordinates
+- [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
+- [ ] Each neighbourhood collects ≥20 POIs via its slug tag
+- [ ] Tagged POIs also have `neighbourhood: Name` display field set
+- [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
+
+## Reference implementations
+
+| City | Notes |
+|------|-------|
+| `europe/netherlands/amsterdam` | Gold standard — 20 neighbourhoods, all with images |
+| `asia/japan/tokyo` | 12 neighbourhoods, well-tagged POIs |
+| `southamerica/chile/santiago` | 10 neighbourhoods, complete tagging |
+| `europe/italy/lazio/rome` | Partial (3) — shows the tagging pattern in action |

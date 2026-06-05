@@ -1,5 +1,0 @@
-southamerica/brazil/barretos
-northamerica/unitedstates/california/centralvalley/manteca
-africa/congobrazzaville/brazzaville
-europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton
-northamerica/costarica/heredia

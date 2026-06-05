@@ -2,7 +2,7 @@
 
 ## Goal
 
-Every major world city should have **at least 10 neighbourhood POIs**, each with a hero image, and **at least 20 other POIs** (across all sections) tagged with each neighbourhood's slug. This makes the neighbourhood pages genuinely useful browsing surfaces.
+Every major world city should aim for **around 10 neighbourhood POIs**, each with a hero image, and **around 20 other POIs** (across all sections) tagged with each neighbourhood's slug. These are targets, not hard minimums — a city with 6 well-chosen neighbourhoods is fine, and a neighbourhood with 12 well-tagged POIs is better than a neighbourhood with 20 thin ones. The goal is that neighbourhood pages become genuinely useful browsing surfaces.
 
 ## For each city in the batch
 
@@ -78,7 +78,7 @@ neighbourhood: South Bank
 
 Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
 
-**Target: each neighbourhood page should collect ≥20 POIs.** If an existing neighbourhood has fewer, create new POIs until it reaches the target.
+**Target: each neighbourhood page should collect around 20 POIs.** If an existing neighbourhood has fewer, add more where there are real things worth covering — but don't pad with weak POIs just to hit a number.
 
 ### 5. Create new POIs if needed
 
@@ -101,11 +101,11 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 
 ## Checklist before committing each city
 
-- [ ] City has ≥10 neighbourhood POIs
+- [ ] City has as many neighbourhood POIs as makes sense (target ~10)
 - [ ] Each neighbourhood POI has an image (sourced via `find-photo`)
 - [ ] Each neighbourhood POI has accurate coordinates
 - [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
-- [ ] Each neighbourhood collects ≥20 POIs via its slug tag
+- [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
 - [ ] Tagged POIs also have `neighbourhood: Name` display field set
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 

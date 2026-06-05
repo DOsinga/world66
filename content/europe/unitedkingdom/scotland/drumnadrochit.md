@@ -9,6 +9,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Drumnadrochit
 title: Drumnadrochit
 type: location
+image: drumnadrochit.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cottages_in_Drumnadrochit_-_geograph.org.uk_-_2443303.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Trevor Littlewood
 ---
 
 *Europe > United Kingdom > Scotland > Drumnadrochit*

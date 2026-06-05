@@ -28,11 +28,32 @@ location for that destination.
 3. **Fix any structure issues** on existing pages: wrong tags, truncated filenames, spam,
    misplaced sections, missing `type:` fields.
 
-4. **Decide the POI target** for this destination:
+4. **Decide the structure for this destination.**
+
+   The approach depends on what kind of place it is:
+
+   **Single-location destinations** (a city, a single natural site, a small island):
+   Add POIs directly to the location's directory. Target:
    - Major LP-featured city (e.g. Dubrovnik, Cusco): **at least 30 POIs**
-   - Scenic region or island (e.g. Cinque Terre, Crete, Lofoten): **15–25 POIs**
    - Natural site or park (e.g. Serengeti, Komodo, Borobudur): **10–15 POIs**
    - Small or niche destination: **the real highlights only**, however many that is
+
+   **Regions and multi-town islands** (e.g. Cinque Terre, Corfu, Crete, Lofoten, the Algarve):
+   These need one of two structures — choose based on how the destination works in practice:
+
+   - **Use sub-locations** when the region has several distinct towns or areas worth
+     covering separately. Create child location pages (e.g. `corfu/corfu_town`,
+     `corfu/paleokastritsa`) each with their own POIs. The region overview page links
+     to them and gives the big picture. Check if neighbouring regions in the same country
+     already use this pattern.
+
+   - **Use direct POIs** when the destination is best understood as a single experience
+     (e.g. Cinque Terre — the five villages are visited together as a trail, not as
+     separate destinations). Add POIs directly to the region page: the villages, the
+     hiking trails, the viewpoints, the boat stops.
+
+   If unsure, look at how LOCATIONS.md defines `region` vs `city` vs `feature`, and at
+   how the destination is actually visited by travellers.
 
 5. **Gather POI candidates** from all three sources — don't skip any:
    - `python3 tools/wiki_geosearch.py <lat> <lng> --radius 5000 --limit 25 --json` —
@@ -77,6 +98,7 @@ location for that destination.
 
 ## Before committing each destination
 
+- [ ] For regions/islands: either sub-locations created OR direct POIs added (not an empty region page)
 - [ ] POI count is at or near the target for the destination's tier
 - [ ] `python3 tools/wiki_geosearch.py` was run and useful results used
 - [ ] `python3 tools/grep_obscura.py` was run; matching entries used as inspiration only

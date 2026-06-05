@@ -11,8 +11,18 @@ location for that destination.
 
 ## For each location
 
-1. **Check what's already there.** Read the existing location `.md` file (if any) and all
-   files in the location's directory. Note the current POI count and what sections exist.
+1. **Check what's actually there — don't assume it's thin.** A destination being in this
+   batch means it was identified as a potential gap, not a confirmed one. Many will turn
+   out to be well-covered already, with sub-locations, POIs, and sections that the gap
+   analysis missed.
+
+   - Run `find content/<path> -name "*.md" | wc -l` to get a rough file count
+   - Check for sub-locations: `ls content/<path>/` — there may already be child cities or
+     regions with their own content
+   - Scan the POI and section files that exist
+   - If the destination is already well-covered, mark it done and move on:
+     `python3 tools/mark_done.py lp_coverage <path/to/page.md>`
+   - Only proceed with enrichment if there are real gaps worth filling.
 
 2. **If the location file does not exist yet, create it.** Look at how neighbouring
    locations in the same country are structured (check siblings in the parent directory).

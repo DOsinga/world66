@@ -1,9 +1,14 @@
 ---
-title: "Day Trips in Salt Lake City"
+title: Day Trips
 type: section
 ---
 
-If you are traveling with your family, you have to include time to see some Salt Lake City attractions. One that you and your children will enjoy is a trip to Clark Planetarium. With an IMAX Theatre and the Hansen Dome Theatre, there is much to see and do here. The free exhibits explain how telescopes work, designs of future space shuttles, rocketry, images from Hubble telescope, how pendulums function, and information on international space stations. There is also a functioning weather station on top of the building. For directions and schedule of events, visit their website, clarkplanetarium.org.
+Salt Lake City's location makes it an excellent base for day trips into genuinely varied terrain. Within an hour in any direction you can reach mountain ski resorts, desert canyon country, historic mining towns, and the world's largest saltwater lake.
 
-**Contributors**
-May 12, 2009
+**Park City** (30 minutes east on I-80) is the most obvious day trip — a well-preserved mining-era Main Street, two major ski resorts, and the Utah Olympic Park. In summer the mountain bike trails are excellent.
+
+**Antelope Island** (45 minutes northwest) puts you on an island in the Great Salt Lake surrounded by bison and shorebirds, with swimming beaches and hiking trails.
+
+**Bonneville Salt Flats** (1 hour west on I-80) are the flattest, strangest landscape in Utah — drive out onto the salt crust and you will understand why land speed record attempts happen here.
+
+**Arches National Park** is three hours south on US-191 near Moab — too far for a true day trip but manageable as an overnight.

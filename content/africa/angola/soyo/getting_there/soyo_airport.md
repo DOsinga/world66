@@ -2,8 +2,8 @@
 title: "Soyo Airport"
 type: poi
 tags:
-  - things_to_do
-  - sight
+  - getting_there
+  - transport
 latitude: -6.141
 longitude: 12.372
 sources:

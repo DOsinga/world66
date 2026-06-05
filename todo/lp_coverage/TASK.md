@@ -45,12 +45,13 @@ location for that destination.
      covering separately. Create child location pages (e.g. `corfu/corfu_town`,
      `corfu/paleokastritsa`) each with their own POIs. The region overview page links
      to them and gives the big picture. Check if neighbouring regions in the same country
-     already use this pattern.
+     already use this pattern. For example, Cinque Terre already has sub-location pages
+     for Monterosso and Riomaggiore — Vernazza, Corniglia, and Manarola still need theirs.
 
-   - **Use direct POIs** when the destination is best understood as a single experience
-     (e.g. Cinque Terre — the five villages are visited together as a trail, not as
-     separate destinations). Add POIs directly to the region page: the villages, the
-     hiking trails, the viewpoints, the boat stops.
+   - **Use direct POIs** when the destination is best understood as a single experience —
+     a national park, a single bay, a short hiking area. Add POIs directly to the region
+     page: the trails, the viewpoints, the villages if they're just stops rather than
+     destinations in themselves.
 
    If unsure, look at how LOCATIONS.md defines `region` vs `city` vs `feature`, and at
    how the destination is actually visited by travellers.

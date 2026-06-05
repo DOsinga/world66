@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: montepulciano.jpg
+image_attribution: Qbert88
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Montepulciano_-_San_Biagio_-_Panorama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Montepulciano_San_Biagio_Facciata.JPG
 latitude: 43.0931
 loc_type: city
 longitude: 11.7821

@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: reggiocalabria.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Reggio_Calabria_-_Museo_Nazionale_-_Bronzi_di_Riace_197309-1-0001.jpg
+image_attribution: Benjamin Smith
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Reggio_Calabria_-_Lungomare_Falcomatà_-_6.jpg
 latitude: 38.1105
 loc_type: city
 longitude: 15.6467

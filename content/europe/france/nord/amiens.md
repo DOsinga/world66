@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: amiens.jpg
+image_attribution: Gzen92
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Amiens_Cathedrale_Notre-Dame_Facade_Ouest_2014.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cathédrale_Notre-Dame_-_façade_(Amiens)_(3).jpg
 latitude: 49.893
 loc_type: city
 longitude: 2.2993

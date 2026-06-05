@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: reggioemilia.jpg
+image_attribution: Toksave
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:ReggioemiliaAereaOA.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Reggio_nell'Emilia_aerial_Italy_view.jpg
 latitude: 44.699
 loc_type: city
 longitude: 10.6311

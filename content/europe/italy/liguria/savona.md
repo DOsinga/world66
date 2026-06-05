@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: savona.jpg
+image_attribution: Mstyslav Chernov
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Savona_from_the_harbor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Harbor_of_Savona,_Riviera_di_Ponente_(Mediterranean_Sea),_Liguria,_Italy.jpg
 latitude: 44.3083
 loc_type: city
 longitude: 8.4821

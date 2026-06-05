@@ -1,13 +1,14 @@
 ---
-latitude: 40.6299
-longitude: -111.7952
-tags:
-- things_to_do
-- sight
 title: Big Cottonwood Canyon
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - skiing
+latitude: 40.6300
+longitude: -111.7400
 ---
 
-Big Cottonwood Canyon cuts east into the Wasatch Mountains from the Salt Lake Valley, reaching elevations above 10,000 feet within 15 miles of the city. In winter it provides access to Brighton and Solitude ski resorts; in summer it becomes one of the main hiking corridors for the city, with trailheads leading to alpine lakes, peaks, and the high ridgeline of the range.
+Big Cottonwood Canyon, the next major canyon north of Little Cottonwood, climbs from the city's eastern edge to the Brighton and Solitude ski resorts at the top — both excellent in winter, with Solitude tending toward gentler skiing and Brighton known for its terrain park and night skiing.
 
-The canyon road is a popular cycling route in summer — the climb to Brighton gains 4,000 feet over about 15 miles, and the descent is fast. Camping is available at several sites within the canyon. The reservoir at the bottom, Millcreek Canyon, is a water source for the city and swimming is not permitted, but fishing is. The canyon is a 25-minute drive from downtown.
+In summer the canyon offers easy access to high-altitude hiking. The Lake Blanche trail, a 7-mile out-and-back to a granite-rimmed alpine lake, is one of the most popular day-hikes from the city. Donut Falls, a short walk in the upper canyon, is a family-friendly cascade through a hole in a rock. Wildflowers peak in mid-July.

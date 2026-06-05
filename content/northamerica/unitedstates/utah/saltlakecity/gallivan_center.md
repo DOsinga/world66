@@ -1,13 +1,14 @@
 ---
-latitude: 40.7630
-longitude: -111.8906
-tags:
-- things_to_do
-- sight
 title: Gallivan Center
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7644
+longitude: -111.8897
+address: 239 South Main Street
 ---
 
-The Gallivan Center is a public outdoor plaza in the middle of downtown, covering a city block between 200 South and 300 South. The space serves as the city's main outdoor events venue, hosting free summer concerts, winter ice skating, food festivals, and community events throughout the year.
+The John W. Gallivan Center is a small downtown plaza built in the 1980s as a counter to the failure of mid-century urban renewal — a pocket of green and water-features at street level in the middle of the office district. The plaza hosts the Twilight Concert Series in summer, weekly farmers markets, and a popular outdoor ice rink in winter (December to February).
 
-The centre includes a year-round outdoor ice skating rink in winter, a large chess set, and public art installations. On weekday lunch hours it fills with office workers; in the evenings and on weekends it hosts a regular rotation of free programming. It is one of the better public spaces in downtown and a good place to understand what the city does on a summer evening.
+The "Asteroid Landed Softly" sculpture in the centre of the plaza — a 9-foot bronze meteor balanced on a stone — is a defining downtown landmark. The plaza is the easiest place to find a sit-and-coffee moment in central downtown.

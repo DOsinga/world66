@@ -1,15 +1,16 @@
 ---
-latitude: 40.7606
-longitude: -111.8894
-tags:
-- things_to_do
-- sight
-- architecture
 title: Exchange Place Historic District
 type: poi
-story: "Exchange Place was Salt Lake City's answer to the Mormon commercial dominance of Main Street — a cluster of tall office buildings developed by non-Mormon (called 'Gentile' by Mormons) businessmen in the early 1900s who wanted a downtown district independent of LDS-affiliated commerce. The result was a miniature financial district with a distinctly different architectural character from the rest of the city centre."
+tags:
+  - things_to_do
+  - sight
+  - architecture
+latitude: 40.7606
+longitude: -111.8894
+story: >
+  Exchange Place was developed in the early 1900s as Salt Lake's non-Mormon financial district — a deliberate counterweight to the LDS-dominated commercial core around Main Street and Temple Square. The financiers behind it included Samuel Newhouse, a copper magnate, who built the Newhouse Hotel and the Boston Building. The district fell into decline by the 1970s before being restored in the 1990s.
 ---
 
-Exchange Place is a small historic district on the south side of 400 South, centred on the block between Main and State Streets. Listed on the National Register of Historic Places, the district preserves a cluster of early twentieth-century commercial buildings in Classical Revival and Renaissance Revival styles — unusually urbane architecture for a Western American city of that period.
+Exchange Place, a one-block development immediately south of the Gallivan Center, is the city's best-preserved cluster of early-twentieth-century commercial architecture. The Boston Building (1911), Newhouse Building (1911), and the Felt Building (1909) frame a small plaza; the Stock Exchange Building (1908), now offices, stands at the centre.
 
-The buildings were developed by the non-Mormon business community as a financial and commercial alternative to the LDS-dominated main streets. Today the district is mostly offices, but the ground-floor streetscape is walkable and the architecture is well preserved. The Salt Lake Stock Exchange and Mining Exchange buildings are the standout examples.
+The buildings are still in commercial use and the plaza is open to the public. Several restaurants and bars occupy the ground floors, including the long-running Bambara restaurant in the old Boston Building, and the district is a popular pre-show stop for theatre-goers heading to the Eccles Theater one block north.

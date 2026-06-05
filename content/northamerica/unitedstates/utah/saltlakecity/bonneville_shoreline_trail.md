@@ -1,13 +1,16 @@
 ---
-latitude: 40.7650
-longitude: -111.8100
-tags:
-- things_to_do
-- sight
 title: Bonneville Shoreline Trail
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - cycling
+latitude: 40.7700
+longitude: -111.8000
+story: >
+  The trail follows the long beach line of prehistoric Lake Bonneville, the vast Ice Age lake that filled the eastern Great Basin between about 30,000 and 12,000 years ago. At its peak the lake stood about 1,000 feet higher than the current Great Salt Lake. The visible shoreline benches — long horizontal terraces cut into the Wasatch foothills — are the wave-cut platforms of that lake.
 ---
 
-The Bonneville Shoreline Trail runs along the eastern bench of the Salt Lake Valley at an elevation of roughly 4,800 feet — the approximate shoreline of Lake Bonneville, the ancient inland sea that covered much of Utah during the last ice age and left the Great Salt Lake as its remnant. The trail extends for about 100 miles along the foot of the Wasatch Front, with significant segments accessible from Salt Lake City trailheads.
+The Bonneville Shoreline Trail is a long, mostly single-track path that follows the prehistoric shoreline of Lake Bonneville around the eastern edge of the Salt Lake Valley. Completed sections run for about 90 miles in the Salt Lake metro; the goal is eventually a continuous 280-mile trail from Brigham City to Nephi.
 
-The trail is accessible from dozens of points along the east bench suburbs, providing an easy way to get above the city without driving into the canyons. Views west across the Salt Lake Valley are excellent, particularly in the early morning and at sunset. The terrain is gentle enough for beginners but substantial enough for regular use; trail runners use it year-round.
+The trail is a few hundred feet above the city and follows the contours of the foothills, offering near-constant views of the valley below. Several access points from the city — at the top of City Creek, behind the University of Utah, above Red Butte Garden, and at the mouth of Emigration Canyon — make it the easiest serious walking/running/biking option from downtown. Mountain bikers love the technical sections; runners stick to the smoother northern reaches.

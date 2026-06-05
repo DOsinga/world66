@@ -1,14 +1,15 @@
 ---
-address: 876 E. 900 South, Salt Lake City
-latitude: 40.7470
-longitude: -111.8694
-tags:
-- bars_and_cafes
-- bar
 title: Tower Theatre
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7461
+longitude: -111.8702
+address: 876 East 900 South
+neighbourhood: 9th & 9th
 ---
 
-The Tower Theatre is Salt Lake City's oldest independent cinema, operating since 1928 in a 1920s-era building in the 9th and 9th neighbourhood. The theatre shows independent, foreign, and documentary films alongside repertory screenings, and has survived as an independent operation through decades when most of its counterparts closed.
+The Tower Theatre, a small Art-Deco cinema built in 1928 on the corner of 9th & 9th, is Salt Lake's flagship art-house movie theatre. Run by the Salt Lake Film Society as a non-profit, it shows independent films, documentaries, foreign-language releases, and the better midnight programming.
 
-The building retains much of its original interior character, and the surrounding 9th and 9th neighbourhood — with its independent restaurants, coffee shops, and bookstores — makes it a pleasant evening destination. The theatre is a short walk or bus ride from downtown.
+The single-screen auditorium has been carefully restored to its 1928 appearance, with original mouldings and a neon-lit marquee. During the Sundance Film Festival in January, the Tower is one of the main Salt Lake screening venues — typically showing the festival's documentary programme. Even without a film, the building's exterior is a 9th & 9th landmark.

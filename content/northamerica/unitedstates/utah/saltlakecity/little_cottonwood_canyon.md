@@ -1,14 +1,16 @@
 ---
-latitude: 40.5752
-longitude: -111.7788
-tags:
-- things_to_do
-- sight
 title: Little Cottonwood Canyon
 type: poi
-story: "The granite for the Salt Lake Temple was quarried from Little Cottonwood Canyon. Workers hauled it out on ox-drawn wagons — a journey that took four days each way — over the 40 years of the temple's construction. The quarry site is still visible from the canyon road."
+tags:
+  - things_to_do
+  - sight
+  - skiing
+latitude: 40.5734
+longitude: -111.7600
+story: >
+  The granite that was used to build the Salt Lake Temple came from a quarry at the mouth of Little Cottonwood Canyon. The blocks were hauled the 20 miles to Temple Square by ox-team for years before a temporary railway was built specifically for the project. The original quarry pit is still visible just inside the canyon entrance.
 ---
 
-Little Cottonwood Canyon runs southeast from the Salt Lake Valley to Alta and Snowbird ski resorts, both of which consistently rank among the best ski destinations in North America. The canyon receives some of the deepest and driest powder snow in Utah — a combination of geography and the lake effect from the Great Salt Lake that produces remarkably light, cold snow. Both resorts are under an hour from the airport.
+Little Cottonwood Canyon, about 20 miles southeast of downtown Salt Lake, is one of the great alpine canyons of the American West. The narrow road climbs through granite cliffs and lodgepole pine forest to two of North America's most respected ski resorts — Snowbird at 8,100 feet and Alta at 8,500 feet, both legendary for their snow quality.
 
-In summer, the canyon offers access to serious alpine terrain: the ridge above 11,000 feet is the domain of experienced hikers, while lower trails through the aspens and wildflowers are accessible to all. The canyon road itself, climbing 3,500 feet in about eight miles, is a dramatic drive regardless of season.
+Outside ski season, the canyon offers world-class hiking and climbing. The granite walls are major rock-climbing destinations, particularly the Pentapitch area near the canyon entrance. Hiking trails climb to Cecret Lake (a 2-mile family-friendly walk in summer), Sunset Peak, and the spectacular Devil's Castle ridge. Winter avalanche control sometimes closes the canyon entirely; check road conditions before driving up.

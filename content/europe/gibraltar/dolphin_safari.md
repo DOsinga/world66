@@ -6,6 +6,7 @@ phone: +350 200 71914
 snippet: Long-running boat trips to see dolphins in the Strait
 tags:
 - things_to_do
+- wildlife
 title: Dolphin Safari
 type: poi
 ---

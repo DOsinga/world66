@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
   poi_cleanup: '2026-04-21'
 image: budva.jpg
 image_license: CC BY-SA 2.0
@@ -21,4 +21,4 @@ The [old town](/europe/montenegro/budva/old_town) survived the 1979 earthquake i
 
 The beaches immediately in front of the hotel strip — [Slovenska obala](/europe/montenegro/budva/slovenska_obala) — are crowded. The better beaches are south of town: [Mogren beach](/europe/montenegro/budva/mogren_beach) (a short walk from the old town walls, a local favourite), and the string of beaches continuing south toward [Sveti Stefan](/europe/montenegro/sveti_stefan). [Bečići and Rafailovići](/europe/montenegro/budva/becici_beach) are popular with families; Pržno is smaller and quieter. The uninhabited [Sveti Nikola island](/europe/montenegro/budva/sveti_nikola_island) offshore is reachable by water taxi and has several good swimming spots.
 
-Budva has good restaurants in and around the old town, and the nightlife is genuinely lively in summer — [Top Hill](/europe/montana/budva/top_hill) above the town is one of the Adriatic's most celebrated open-air clubs. It's also a reasonable base for day trips to [Kotor](/europe/montenegro/kotor) (30km north) and [Cetinje](/europe/montenegro/cetinje) (35km inland).
+Budva has good restaurants in and around the old town, and the nightlife is genuinely lively in summer — [Top Hill](/europe/montenegro/budva/top_hill) above the town is one of the Adriatic's most celebrated open-air clubs. It's also a reasonable base for day trips to [Kotor](/europe/montenegro/kotor) (30km north) and [Cetinje](/europe/montenegro/cetinje) (35km inland).

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: johnstown.jpg
 image_source: https://www.flickr.com/photos/16069488@N00/10860852496
 image_license: CC BY-SA 2.0

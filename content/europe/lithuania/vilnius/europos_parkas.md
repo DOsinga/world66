@@ -14,7 +14,7 @@ tags:
   - things_to_do
   - museum
   - nature
-  - art_deco
+  - sculpture
 ---
 
 Europos Parkas is a 55-hectare open-air sculpture park about 12 km north of Vilnius, set in mixed woodland on the site identified as the geographic centre of Europe. The park was founded by sculptor Gintaras Karosas in 1991 and has grown to include over 100 works by artists from more than 30 countries, including works by Sol LeWitt, Dennis Oppenheim, and Magdalena Abakanowicz.

@@ -9,6 +9,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gaziantep
 title: Gaziantep
 type: location
+image: gaziantep.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gaziantep.jpg
+image_license: Public domain
+image_attribution: Wikimedia Commons
 ---
 
 *Asia > Turkey > Gaziantep*

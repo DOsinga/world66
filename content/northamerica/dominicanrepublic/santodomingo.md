@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_create: '2026-06-04'
   location_enrich: '2026-05-21'
 image: santodomingo.jpg
 image_license: Public domain

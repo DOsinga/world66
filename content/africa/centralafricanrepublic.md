@@ -1,11 +1,13 @@
 ---
 title: Central African Republic
 type: location
-loc_type: country
+loc_type: region
 latitude: 6.6
 longitude: 20.9
 ---
 
-The Central African Republic sits in the heart of the continent, a landlocked country of savanna, rainforest, and rivers. It is one of the world's least visited and most difficult countries to travel in — chronic instability, armed groups in the interior, and poor infrastructure make most of it inaccessible to independent travellers. The capital [Bangui](/africa/centralafricanrepublic/bangui) on the Ubangi River is the main point of entry.
+The Central African Republic sits at the geographic heart of Africa, a landlocked country of dense equatorial rainforest in the southwest and savannah and semi-arid scrub in the north and east. It is one of the least visited countries on the continent — not because it lacks interest, but because it is genuinely difficult. Infrastructure is minimal, the security situation has been volatile for years, and getting around requires patience and local guidance. For travellers who make the effort, it is raw, memorable, and largely free of the crowds that have reached even the more remote parts of East and West Africa.
 
-What the country does have is exceptional wildlife, particularly in the southwest. The Dzanga-Sangha Reserve, part of a transboundary protected area shared with Cameroon and the Republic of the Congo, has some of the most accessible forest elephants and western lowland gorillas in Africa, as well as bongo antelope and remarkable concentrations of forest wildlife. The Dzanga Bai — a forest clearing where dozens of elephants gather to drink — is one of the great wildlife spectacles on the continent, though reaching it requires serious logistical planning.
+The capital, [Bangui](/africa/centralafricanrepublic/bangui), sits on the Oubangui River with the Democratic Republic of the Congo on the opposite bank. It is a real African city with a riverfront market, a lively KM5 neighbourhood, and the kind of chaotic energy that comes from a capital managing too little infrastructure for too many people. A day trip northwest brings you to [Boali](/africa/centralafricanrepublic/boali), where a wide waterfall on the Mbali River drops 50 metres over a basalt ledge — one of the few developed tourist sites in the country.
+
+The far southwest is the country's outstanding natural treasure: [Dzanga-Sangha](/africa/centralafricanrepublic/dzanga_sangha), a protected rainforest that holds habituated western lowland gorillas and forest elephants that gather at the Dzanga Bai mineral clearing in remarkable concentrations. Getting there is an expedition — a long rough drive from Bangui or a charter flight — but for wildlife enthusiasts this ranks among the best experiences in Africa. The country's languages are French and Sangho, the national lingua franca spoken across ethnic lines.

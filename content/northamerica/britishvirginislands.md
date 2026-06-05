@@ -2,10 +2,14 @@
 title: British Virgin Islands
 type: location
 loc_type: country
-latitude: 18.4
-longitude: -64.6
+latitude: 18.431
+longitude: -64.623
 ---
 
-The British Virgin Islands are a British Overseas Territory of about 60 islands in the northeastern Caribbean, directly east of the US Virgin Islands. Tortola is the main island and holds the capital Road Town; Virgin Gorda, Jost Van Dyke, and Anegada are the other principal inhabited islands.
+The British Virgin Islands are a British Overseas Territory in the northeastern Caribbean, consisting of around 60 islands and cays of which only about 16 are inhabited. The four main islands are [Tortola](/northamerica/britishvirginislands/tortola), [Virgin Gorda](/northamerica/britishvirginislands/virgingorda), [Jost Van Dyke](/northamerica/britishvirginislands/jostvandyke), and [Anegada](/northamerica/britishvirginislands/anegada). The territory is one of the premier sailing destinations in the world, and much of its infrastructure — marinas, anchorages, beach bars — is oriented around the boat.
 
-The BVI are one of the world's premier sailing destinations — the sheltered waters, steady trade winds, and closely spaced anchorages make them ideal for bareboat charters. The Baths on Virgin Gorda, where enormous granite boulders form sea-flooded grottoes and pools, is the territory's most-visited attraction. Anegada is the exception in the island group: completely flat, made of limestone and coral rather than volcanic rock, and ringed by a reef that has wrecked hundreds of ships. Hurricane Irma in 2017 caused severe damage; recovery has been extensive but the charm of the islands is intact.
+The sailing is the thing. The Sir Francis Drake Channel, sheltered by islands on both sides, offers reliable trade winds and dozens of anchorages within a short sail of each other. Bareboat charters are available from Road Town on Tortola and from a handful of other marinas; you don't need to be an expert, and many people arrive knowing almost nothing about sailing and leave with a tan and a new skill. For non-sailors, ferries connect the main islands frequently enough to island-hop comfortably.
+
+The BVI is noticeably quieter and more expensive than many Caribbean destinations, which suits its visitors well. The beaches are excellent — Cane Garden Bay and Brewer's Bay on Tortola, White Bay on Jost Van Dyke, the long north coast of Anegada — and the snorkelling and diving are among the best in the eastern Caribbean, particularly around Anegada's reef and the wreck of the RMS Rhone off Salt Island.
+
+*North America > British Virgin Islands*

@@ -2,14 +2,14 @@
 title: Dominican Republic
 type: location
 loc_type: country
-latitude: 18.7
-longitude: -70.2
+latitude: 18.7357
+longitude: -70.1627
 ---
 
-The Dominican Republic occupies the eastern two-thirds of Hispaniola, the island it shares with Haiti. It's the Caribbean's most visited destination — a country of all-inclusive beach resorts, colonial history, and dramatic landscape.
+The Dominican Republic occupies the eastern two-thirds of Hispaniola, the island it shares with Haiti, and is the most visited country in the Caribbean. The appeal is obvious: two coasts, hundreds of kilometres of beach, warm water year-round, and a culture built on music, food, and an enthusiasm for life that is genuinely contagious. But the country is more than its resorts.
 
-[Santo Domingo](/northamerica/dominicanrepublic/santodomingo) is the oldest continuously inhabited European settlement in the Americas, founded in 1498. The Colonial Zone is a UNESCO World Heritage Site: cobblestone streets, the first cathedral in the New World, and the palace of Diego Columbus. The city's nightlife — merengue, bachata, and open-air bars — runs until dawn.
+[Santo Domingo](/northamerica/dominicanrepublic/santodomingo), the capital, is the oldest continuously inhabited European settlement in the Americas. The Zona Colonial, a UNESCO World Heritage Site, is where Christopher Columbus's son built his palace, where the first cathedral in the New World still holds mass, and where the cobblestoned Calle Las Damas runs past colonial buildings that have been standing since the 1500s. It is a real, lived-in neighbourhood, not a museum, and the contrast between the 16th-century buildings and the rooftop bars is part of the charm.
 
-[Punta Cana](/northamerica/dominicanrepublic/punta_cana) at the eastern tip has the resort beaches most visitors come for: flat palm-fringed coastline, warm shallow water, and a dense concentration of large resort hotels. [Puerto Plata](/northamerica/dominicanrepublic/puertoplata) on the north coast is older, more characterful, and has good surfing at Cabarete. [Las Terrenas](/northamerica/dominicanrepublic/lasterrenas) and [Samaná](/northamerica/dominicanrepublic/samana) on the northeastern peninsula draw a more independent crowd, with whale-watching season (January to March) a major attraction.
+The north coast has some of the country's finest beaches around [Puerto Plata](/northamerica/dominicanrepublic/puertoplata) and the Samaná Peninsula, where humpback whales arrive to breed between January and March. [Punta Cana](/northamerica/dominicanrepublic/punta_cana) on the east coast is the resort heartland — a vast strip of all-inclusive hotels fronting one of the Caribbean's finest beaches. The interior, which most visitors never see, is mountainous — the Cordillera Central rises to nearly 3,100 metres at Pico Duarte, the highest peak in the Caribbean. There is genuine tropical forest up there, and a Dominican backcountry that has nothing to do with the beach.
 
-The interior is mountainous, green, and rarely visited by tourists — the Cordillera Central reaches over 3,000 metres at Pico Duarte, the highest peak in the Caribbean.
+Merengue and bachata were both born here. The food — rice and beans (la bandera), sancocho, chivo guisado — is the honest cooking of the Caribbean tropics, not fancy but deeply satisfying. The local spirit is Presidente beer and Brugal rum.

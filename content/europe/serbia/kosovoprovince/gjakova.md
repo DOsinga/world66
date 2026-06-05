@@ -1,21 +1,13 @@
 ---
-done:
-  location_cleanup: '2026-04-10'
-  location_enrich: '2026-05-12'
-image: gjakova.jpg
-image_attribution: Bdx
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Street_in_the_Old_Bazaar_of_Gjakova,_2025.jpg
-latitude: 42.3803
-loc_type: city
-longitude: 20.4289
-score: 0.38
 title: Gjakova
 type: location
+loc_type: city
+latitude: 42.3803
+longitude: 20.4289
 ---
 
-Gjakova (Serbian: Đakovica) is a city in southwest Kosovo, known for one of the best-preserved Ottoman bazaars in the Balkans. The Çarshia e Gjatë — the Long Bazaar — stretches for nearly a kilometre and was largely rebuilt after the 1998–99 war, in which much of the old town was destroyed. The reconstruction was careful and the bazaar today is an active market with craftsmen's shops, mosques, and cafés.
+Gjakova (Đakovica in Serbian) is one of Kosovo's larger cities, in the southwest of the country near the Albanian border. It has a strong Albanian character and a long history as a trading and craft centre — the old bazaar, Çarshia e Gjatë, is one of the best-preserved Ottoman bazaars in the Balkans, stretching for nearly a kilometre through the centre of the old town.
 
-The city suffered heavily during the Kosovo War. Many buildings were burned and thousands of residents fled. The rebuilding that followed was substantial, and Gjakova has recovered considerably, though the events of that period remain part of the community's living memory.
+The city was badly damaged during the 1999 war, when a large proportion of its buildings were burned or destroyed. Rebuilding has been extensive, and today the old bazaar has been largely restored. Wandering through it — past workshops making copper goods, leather, and wood — gives a vivid sense of what a working Ottoman commercial street looked like. The bazaar is still genuinely active, not a tourist simulacrum.
 
-The Hadum Mosque, dating from the 16th century, is the most significant historical monument. The Ethnographic Museum nearby gives context to the region's Albanian cultural traditions. The area around Gjakova is predominantly ethnic Albanian.
+Beyond the bazaar, the Hadum Mosque (16th century), the old hamam, and several historic houses are worth seeing. Gjakova has a lively café culture and a younger population than many Kosovo cities; the streets around the bazaar are animated in the evenings.

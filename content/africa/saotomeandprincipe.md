@@ -2,12 +2,12 @@
 title: São Tomé and Príncipe
 type: location
 loc_type: country
-latitude: 0.2
-longitude: 6.6
+latitude: 0.1864
+longitude: 6.6131
 ---
 
-São Tomé and Príncipe is a small island nation in the Gulf of Guinea, straddling the Equator about 300km off the coast of Gabon. It's one of Africa's smallest and least-visited countries, and one of its most naturally beautiful: two volcanic islands covered in dense montane forest, with waterfalls, endemic birds, and beaches that see almost no tourists.
+São Tomé and Príncipe is a small island nation in the Gulf of Guinea, about 250 kilometres off the west coast of Gabon. It consists of two main islands — São Tomé, the larger and more populated, and [Príncipe](/africa/saotomeandprincipe/principe) to the north — plus a handful of smaller islets. The country has a population of around 200,000 and covers just over 1,000 square kilometres. It is one of Africa's smallest and least-visited countries, and that is a significant part of its appeal.
 
-[São Tomé](/africa/saotomeandprincipe/saotome), the main island and capital, has colonial Portuguese architecture — painted in peeling pastel — alongside vast ruined cocoa plantations (roças) from the era when the islands were one of the world's largest cocoa producers. [Príncipe](/africa/saotomeandprincipe/principe), smaller and even more remote, is a UNESCO Biosphere Reserve. Both islands were uninhabited when Portuguese sailors arrived in the 15th century; the workforce brought to run the plantations created a distinctive Creole culture.
+The islands were uninhabited when Portuguese sailors arrived in the 1470s. The Portuguese brought enslaved Africans to work sugar plantations, and the islands became one of the world's leading sugar producers in the 16th century before the trade shifted to Brazil. The legacy of this history is visible in the culture — Portuguese is the official language, Catholicism the dominant religion, and the population is descended primarily from enslaved Africans from various parts of the continent. The colonial-era plantation houses, called *roças*, are scattered across both islands; some are crumbling and atmospheric, some have been converted to accommodation.
 
-Direct flights from Lisbon and several African cities connect the islands; there are no overland borders. Malaria is present — prophylaxis is recommended.
+The natural environment is the main draw for visitors. Both islands are green, hilly, and volcanic, with lush rainforest covering the interior mountain ranges, dramatic basalt sea stacks (most famously the Pico Cão Grande on São Tomé), and excellent beaches. Príncipe is particularly well preserved — it is a UNESCO Biosphere Reserve — and has some of the finest diving in West Africa. The rainy season runs roughly October to May; the dry season from June to September is the most popular time to visit.

@@ -1,11 +1,13 @@
 ---
-title: Micronesia (Federated States of)
+title: Micronesia, Federated States of
 type: location
 loc_type: country
-latitude: 7.4
-longitude: 150.5
+latitude: 7.4256
+longitude: 150.5508
 ---
 
-The Federated States of Micronesia is a nation of 607 islands spread across the western Pacific, north of the Equator and east of the Philippines. The four states — Yap, Chuuk, Pohnpei, and Kosrae — each have their own language and culture, linked by the Carolinian cultural tradition and by a Compact of Free Association with the United States that provides defence guarantees and financial assistance.
+The Federated States of Micronesia is four very different island states scattered across an enormous stretch of the western Pacific. [Yap](/australiaandpacific/micronesiafederatedstatesof/yap), [Chuuk](/australiaandpacific/micronesiafederatedstatesof/chuuk), [Pohnpei](/australiaandpacific/micronesiafederatedstatesof/pohnpei), and [Kosrae](/australiaandpacific/micronesiafederatedstatesof/kosrae) share a federal government but little else — each has its own language, culture, and character, and each rewards a separate visit.
 
-The FSM is most famous among divers for Truk Lagoon (now called Chuuk Lagoon), where the remains of over 60 Japanese warships sunk during Operation Hailstone in 1944 lie on the seafloor — the world's largest accessible wreck dive site. Yap is known for its traditional stone money (large limestone discs used in ceremonial exchange) and for reliable encounters with manta rays. Pohnpei has the mysterious ancient ruins of Nan Madol — a city of stone corridors and islets built on a reef, sometimes called the Venice of the Pacific.
+For divers, this is one of the finest destinations on earth. Chuuk's lagoon holds over forty Japanese warships sunk during the Second World War, now encrusted with coral and teeming with fish — the greatest wreck diving site in the world by most reckonings. Yap is the global capital for manta ray encounters, with resident mantas present year-round in the channels. Pohnpei and Kosrae both have spectacular reef walls and coral gardens, far less visited than the more famous sites.
+
+Above the waterline, the FSM offers ancient ruins ([Nan Madol](/australiaandpacific/micronesiafederatedstatesof/pohnpei/nan_madol) on Pohnpei, [Leluh](/australiaandpacific/micronesiafederatedstatesof/kosrae/leluh_ruins) on Kosrae), living traditional culture on Yap, and lush jungle on every island. Infrastructure is basic and inter-island travel is infrequent, so planning takes patience. The reward is a Pacific that feels genuinely remote — very few mass tourists make it here.

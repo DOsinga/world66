@@ -1,15 +1,13 @@
 ---
-title: United Arab Emirates
+title: "United Arab Emirates"
 type: location
 loc_type: country
-latitude: 24.0
-longitude: 54.0
+latitude: 24.0000
+longitude: 54.0000
 ---
 
-The United Arab Emirates is a federation of seven emirates on the southeastern corner of the Arabian Peninsula, where the Persian Gulf meets the Gulf of Oman. In half a century it has transformed from a pearl-diving and trading backwater into one of the world's most ambitious urban experiments — a place of record-breaking skyscrapers, indoor ski slopes in the desert, and some of the busiest airports on earth.
+The United Arab Emirates is a federation of seven emirates on the southeastern tip of the Arabian Peninsula, bordered by Saudi Arabia to the south and west and Oman to the east. It has transformed itself within a single generation from a collection of pearl-diving and fishing settlements into one of the wealthiest countries in the world, built on oil revenues and a determined project of urban development and economic diversification.
 
-[Dubai](/asia/unitedarabemirates/dubai) is the engine: a city that has invented and reinvented itself so many times that it now defies easy description. The old creek-side souk district and the Bastakiya wind-tower quarter survive alongside the Burj Khalifa and the artificial islands of Palm Jumeirah. It is simultaneously the most international city in the Middle East and one of the most carefully stage-managed. [Abu Dhabi](/asia/unitedarabemirates/abudhabi), the capital, is quieter and considerably richer in oil wealth, home to the Sheikh Zayed Grand Mosque and the Louvre Abu Dhabi on Saadiyat Island.
+Dubai is the most visited of the seven, a global city that has staked its reputation on superlatives: the tallest building, the largest shopping mall, the most ambitious artificial islands. It rewards those who engage with it on its own terms — the old Creek district, the gold and spice souks, and the neighbourhood of Al Fahidi still carry traces of the pre-oil city — but it is fundamentally a 21st-century invention. Abu Dhabi, the capital and largest emirate, has a more stately character and is home to the Louvre Abu Dhabi, the Sheikh Zayed Grand Mosque, and the oil wealth that underwrites the federation. Sharjah, between them, has reinvented itself as a cultural emirate with exceptional museums.
 
-The smaller emirates — [Sharjah](/asia/unitedarabemirates/sharjah), [Ras Al Khaimah](/asia/unitedarabemirates/rasalkhaimah), [Fujairah](/asia/unitedarabemirates/fujairah), Ajman, and Umm Al Quwain — each have their own character. Fujairah faces the Indian Ocean rather than the Gulf and has a more traditional feel; Ras Al Khaimah has mountains and adventure tourism.
-
-The UAE is tolerant of non-Muslim visitors but conservative by Western standards: alcohol is restricted to licensed venues, modest dress is expected outside hotels and beach resorts, and Ramadan brings significant changes to daily rhythms. The best time to visit is October to April, when temperatures are bearable; summer heat and humidity are extreme.
+The outer emirates — Fujairah on the Gulf of Oman coast, Ras Al Khaimah in the north, Ajman and Umm Al Quwain on the Gulf — are less developed and offer a different, quieter experience. Fujairah in particular has good snorkelling and diving, rugged mountain scenery in the Hajar range, and the oldest mosque in the UAE at Badiyah. Al Ain, inland in the Abu Dhabi emirate, is an oasis city with UNESCO-listed falaj irrigation systems and a well-preserved old market. The Liwa oasis in the Empty Quarter is the most dramatic desert landscape, with dunes that rival anything in the Sahara.

@@ -1,14 +1,16 @@
 ---
-latitude: 40.7593
-longitude: -111.9023
-tags:
-- things_to_do
-- sight
-- park
 title: Pioneer Park
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - park
+  - market
+latitude: 40.7635
+longitude: -111.9019
+address: 350 South 300 West
 ---
 
-Pioneer Park is a public square in the western part of downtown, occupying the block where the first Mormon pioneers camped when they arrived in the Salt Lake Valley in July 1847. The park is modest in scale but significant historically, and hosts the city's largest and most popular farmers market on Saturday mornings from late spring through autumn.
+Pioneer Park, a full city block immediately west of downtown, is the original fort site where the first Mormon settlers wintered over in 1847-48. The current park is mostly grass and ringed by mature cottonwoods, with a small playground and the historic Pioneer Fort marker on the eastern edge.
 
-The Saturday market draws dozens of vendors selling local produce, baked goods, cheese, honey, plants, and crafts, along with food stalls and live music. It is one of the better morning activities in the city, giving a sense of the local food culture. The park itself is a community gathering space with a somewhat gritty character relative to the polished Temple Square area nearby.
+From June through October, Pioneer Park hosts the Downtown Farmers Market on Saturday mornings — one of the best big-city farmers markets in the western US, with around 200 vendors of produce, prepared food, and crafts. The Twilight Concert Series often uses the park as an alternate venue. Outside event days the park has historically attracted a homeless population; the city has been working to balance social services with park use.

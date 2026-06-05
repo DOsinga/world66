@@ -1,13 +1,15 @@
 ---
-latitude: 40.7590
-longitude: -111.8986
-tags:
-- things_to_do
-- museum
-title: Utah State History Museum
+title: Rio Grande Depot / Utah State History
 type: poi
+tags:
+  - things_to_do
+  - museum
+  - architecture
+latitude: 40.7626
+longitude: -111.9000
+address: 300 South Rio Grande Street (450 West)
 ---
 
-The Utah State History Museum occupies a large building near the Rio Grande Depot in the Granary District, and holds the main collection of artifacts, documents, and photographs relating to Utah's history from pre-contact Native cultures through the pioneer period and into the twentieth century.
+The Rio Grande Depot, opened in 1910 as the Denver and Rio Grande Railroad's western Utah terminal, is a grand Renaissance Revival station of pale stone, vaulted ceilings, and high-arched windows. The original Pullman ticket counter and the wood-paneled waiting room are intact. It is one of the city's most photogenic interiors and a National Historic Landmark.
 
-The permanent galleries cover the Fremont and Ancestral Puebloan cultures, the Spanish colonial period, the Mormon migration, the construction of the transcontinental railroad (Utah was where the Central Pacific and Union Pacific met in 1869), and the mining boom. Admission is free, making it one of the better value stops in the city. The museum building itself is the former Rio Grande train station, an ornate Beaux Arts structure worth seeing for its own sake.
+The building now houses the Utah State History collection — free exhibits on Utah's archaeology, mining history, Native American cultures, and historic photography. The collection is more focused than the much larger Pioneer Memorial Museum and useful for visitors interested in the state's non-Mormon history. Open weekdays only; closed Saturdays and Sundays.

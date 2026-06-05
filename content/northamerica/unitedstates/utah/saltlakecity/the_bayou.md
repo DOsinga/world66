@@ -1,14 +1,14 @@
 ---
-address: 645 S. State Street, Salt Lake City
-latitude: 40.7523
-longitude: -111.8877
-tags:
-- bars_and_cafes
-- bar
 title: The Bayou
 type: poi
+tags:
+  - bars_and_cafes
+  - bar
+latitude: 40.7568
+longitude: -111.8908
+address: 645 South State Street
 ---
 
-The Bayou is Salt Lake City's craft beer institution, a New Orleans-themed bar on State Street with one of the most extensive tap and bottle selections in the state. Utah has unusually restrictive liquor laws, making places like The Bayou particularly valued by residents — the selection includes local Utah breweries alongside a large range of American and imported craft beers.
+The Bayou is the city's serious beer bar — 250-plus bottles, with a deep selection of European imports and the best Belgian list in Utah. The Cajun-leaning kitchen does decent gumbo, jambalaya, and po-boys, but most regulars come for the beer.
 
-The Cajun-inspired food menu (jambalaya, gumbo, po-boys) is better than bar food has any right to be. The atmosphere is casual and unpretentious, and it draws a mixed crowd of regulars. If you are curious about how craft beer culture survives in a state where 3.2% beer in grocery stores was the norm until recently, The Bayou is the place to find out.
+The space is large, dim, and reliably comfortable, with pool tables in the back and a small stage for occasional jazz and blues. It is one of the few Salt Lake bars where you can sit at the bar without ordering food (most local bars require it under the state's liquor rules, but the Bayou has the right licence). Open daily until late.

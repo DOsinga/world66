@@ -1,14 +1,15 @@
 ---
-latitude: 40.7672
-longitude: -111.8921
-tags:
-- things_to_do
-- sight
-- architecture
 title: Wells Fargo Center
 type: poi
+tags:
+  - things_to_do
+  - sight
+  - architecture
+latitude: 40.7634
+longitude: -111.8907
+address: 299 South Main Street
 ---
 
-The Wells Fargo Center is Salt Lake City's tallest building, a 422-foot, 24-story office tower completed in 1998 in the heart of downtown. The building's granite and glass design references the red sandstone canyons of southern Utah, and its height gives it a commanding presence in a relatively low-rise downtown core.
+The Wells Fargo Center, completed in 1998, is Salt Lake's tallest building at 422 feet (24 storeys). The polished granite shaft, designed by Kohn Pedersen Fox, holds offices for the Wells Fargo regional headquarters and the Stoel Rives law firm. The ground-floor lobby and the small plaza outside are open to the public.
 
-The building is primarily an office tower and not open for general visitors, but it anchors the downtown skyline and the accompanying street-level plaza includes public art and connections to the TRAX light rail system. It is a useful landmark for orienting yourself in the central business district.
+The tower is most useful as an orientation landmark. The Pegasus statue outside the Main Street entrance — a reference to the original Wells Fargo Bank logo — is a popular meeting point. From the upper-floor windows of the Market Street Grill restaurant on the building's third floor you get one of the best mid-rise city views.

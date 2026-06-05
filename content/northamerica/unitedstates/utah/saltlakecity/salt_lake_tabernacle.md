@@ -1,15 +1,16 @@
 ---
-latitude: 40.7700
-longitude: -111.8905
-tags:
-- things_to_do
-- sight
-- architecture
 title: Salt Lake Tabernacle
 type: poi
-story: "The Tabernacle's famous acoustic design predates modern sound engineering by more than a century. The dome was constructed without a single nail — wooden pegs and rawhide were used throughout. A pin dropped at the pulpit end can be heard clearly at the far end of the hall, 170 feet away."
+tags:
+  - things_to_do
+  - sight
+  - architecture
+latitude: 40.7706
+longitude: -111.8919
+story: >
+  The Tabernacle's domed roof is supported by no internal columns. The structure relies on a lattice of timber arches pegged together with rawhide and wood pegs — nails were scarce in 1860s Utah. Architect Henry Grow had built bridges before designing churches; the roof is essentially a series of upside-down truss bridges.
 ---
 
-The Salt Lake Tabernacle, completed in 1875, is one of the most remarkable acoustic spaces in the United States. The great oval dome seats nearly 8,000 people and was built using a self-supporting lattice-work roof of wooden trusses and pegs — no nails, no metal reinforcement — that has lasted nearly 150 years. The famous Tabernacle Choir at Temple Square has been broadcasting weekly from this hall since 1929.
+Completed in 1867, the Salt Lake Tabernacle is one of the most distinctive buildings of nineteenth-century America. The 250-foot-long elliptical roof, a vast wooden bowl visible from across the square, sits on 44 sandstone piers and contains a 7,000-seat auditorium remarkable for its acoustics — a pin dropped at the pulpit is audible at the back of the gallery.
 
-Free public organ recitals are held at noon Monday through Saturday, and the Choir rehearses on Thursday evenings with the public welcome to attend. The building underwent major seismic retrofitting in the early 2000s but retains its original character entirely. Standing inside and hearing the tour guide demonstrate the acoustics — a whispered word travelling the length of the hall — is one of those travel moments that is genuinely surprising.
+The building is home to the Mormon Tabernacle Choir (officially "The Tabernacle Choir at Temple Square"), which has broadcast every Sunday since 1929 — the longest-running continuous network broadcast in US history. Free organ recitals, with the building's massive 1867 organ, are given daily at noon (12:30pm Sunday) and are well worth catching even if you have no interest in religion.

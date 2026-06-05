@@ -1,13 +1,15 @@
 ---
-latitude: 40.7463
-longitude: -111.7817
-tags:
-- things_to_do
-- sight
 title: Emigration Canyon
 type: poi
+tags:
+  - things_to_do
+  - sight
+latitude: 40.7517
+longitude: -111.7917
+story: >
+  The Mormon pioneer party of 1847 emerged from this canyon on 24 July, after a five-month journey from Nauvoo, Illinois. The last few miles of their descent into the Salt Lake Valley are largely the route of today's Emigration Canyon Road. Pioneer Day, marking that descent, is Utah's most-celebrated state holiday.
 ---
 
-Emigration Canyon was the final stretch of the Mormon Pioneer Trail — the route along which Brigham Young and the first 148 pioneers descended into the Salt Lake Valley in July 1847. The canyon road follows much the same alignment as the original wagon track, and driving it in the opposite direction (east from the city) gives a vivid sense of how the pioneers experienced their first view of the valley.
+Emigration Canyon, just east of the University of Utah, is the route by which the original Mormon pioneer party entered the Salt Lake Valley in July 1847. The narrow paved road climbs from Hogle Zoo up over Little Mountain summit, then descends into Parley's Canyon and I-80 — a popular scenic loop drive from Salt Lake.
 
-Today the canyon is a popular cycling and running route for city residents, with a 14-mile paved road climbing to about 6,400 feet at Big Mountain Pass. The lower reaches are lined with expensive homes; the upper canyon becomes wilder. Ruth's Diner, a Salt Lake institution operating since 1930, sits near the canyon mouth and is a good stop for breakfast or lunch before or after the climb.
+The canyon is a favourite cycling climb for the city's road riders, with a steady 6% gradient and a wide enough shoulder for safety. Several restaurants and small shops cluster around the mouth of the canyon, including Ruth's Diner — the oldest restaurant in continuous operation in Utah, occupying a converted streetcar built in 1930. The fall colours in late September and early October are spectacular.

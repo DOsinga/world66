@@ -1,30 +1,13 @@
 ---
-email: phg_ecuador@yahoo.com.es
-opening_hours: 09H00 to 04H00 PM
-phone: 283 3807
+latitude: -2.2067
+longitude: -79.8586
 tags:
-- sights
+- things_to_do
+- sight
 title: Guayaquil Historic Park
 type: poi
-url: www.parquehistorico.com
 ---
 
-It's a delightful place as soon as you arrive you will feel what Guayaquil's looks like back in the 60's they had rebuild everything and the people there explain you all the history step by step is a Must SEE.
+The Guayaquil Historic Park (Parque Histórico Guayaquil) is located east of the city in the suburb of Samborondón and recreates the look and atmosphere of old Guayaquil through reconstructed wooden buildings from the early 20th century, before the fires that repeatedly devastated the city. It has a wildlife zone with endemic species from the western region of Ecuador, including spider monkeys, toucans, and crocodiles.
 
-You can either drive or take the Ferry that departs from the Malecon 2000 both ways are great. Check the following Web Site, with excellent information:
-
-www.parquehistorico.com
-
-type: Hotspots
-
-
-
-
-
-tel: 283 3807
-
-openingHours: 09H00 to 04H00 PM
-
-url: [www.parquehistorico.com](http://www.parquehistorico.com)
-
-email: phg_ecuador@yahoo.com.es
+Reaching the park from the city centre by taxi takes about 20 minutes. It is a well-done and popular attraction, particularly with local families, and genuinely illuminating about what the old colonial city looked like before it was repeatedly destroyed. A ferry departs from the Malecón on some days — check current schedules.

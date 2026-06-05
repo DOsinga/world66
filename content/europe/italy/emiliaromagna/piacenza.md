@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: piacenza.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Piacenza,_piazza_dei_cavalli_01.jpg
+image_attribution: Zairon
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Piacenza_Piazza_dei_Cavalli_2.jpg
 latitude: 45.0497
 loc_type: city
 longitude: 9.6949

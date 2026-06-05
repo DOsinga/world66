@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: cremona.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Torrazzo_di_Cremona.jpg
+image_attribution: sailko
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Cremona,_torrazzo_01.JPG
 latitude: 45.1352
 loc_type: city
 longitude: 10.0244

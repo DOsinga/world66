@@ -2,8 +2,9 @@
 done:
   location_create: '2026-06-04'
 image: merano.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Merano_02.jpg
+image_attribution: Rolf Kranz
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Meran,_Panorama_(Blick_vom_Pulverturm).jpg
 latitude: 46.6704
 loc_type: city
 longitude: 11.1623

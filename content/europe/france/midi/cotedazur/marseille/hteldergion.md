@@ -1,6 +1,6 @@
 ---
-latitude: 43.2965
-longitude: 5.3698
+latitude: 43.3003
+longitude: 5.3762
 snippet: Modernist regional council building near the Old Port
 tags:
 - things_to_do

@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: waterlooplein.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_-_Waterlooplein_-_Waterlooplein_Market.jpg

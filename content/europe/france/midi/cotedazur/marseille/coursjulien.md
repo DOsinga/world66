@@ -1,16 +1,20 @@
 ---
-title: Cours Julien
-type: neighbourhood
-latitude: 43.2942
-longitude: 5.3833
-snippet: Alternative-arts square in the 6th, surrounded by bars, cafés, and street art
+latitude: 43.2913
+longitude: 5.3813
+snippet: Marseille's bohemian heart — street art, bars, terraces, and the city's best live music scene
 tags:
+- things_to_do
 - bars_and_cafes
-- neighbourhood
+title: Cours Julien
+type: poi
 ---
 
-The Cours Julien — universally called the Cours Ju — is a wide square in the 6th arrondissement that functions as the centre of Marseille's alternative and bohemian scene. Cafés, restaurants and bars line all four sides; small independent shops fill the surrounding lanes. The streets around the square are an open-air gallery of street art, repainted constantly, with major pieces commissioned alongside spontaneous tags.
+Cours Julien is a gently sloping square in the 6th arrondissement — the bohemian centre of Marseille and the gathering place for its artists, musicians, students, and anyone who finds the Vieux-Port too polished. It's not a monument or a sight; it's a place where the city goes to sit outside and stay up late.
 
-By day the square is sleepy — a place for a coffee, a market on certain days, kids playing on the central plaza. By evening it fills up with a young, mixed crowd, and the bars and music venues stay busy until the small hours. Recommended stops include Le Bistrot de Saint Ju, the long-running Wally's Bar, and the various small live music venues on the Rue Pastoret.
+The square is lined with bars and restaurants with terraces that fill from late afternoon onwards. The streets radiating off it — Rue Crudère, Rue des Trois Mages, Rue d'Aubagne — are covered in commissioned murals by local and international street artists; this is one of the densest concentrations of street art in France, none of it curated, all of it changing. Walk around for twenty minutes and you'll find pieces in wildly different styles layered over each other on the same wall.
 
-The neighbourhood is the easiest place in central Marseille to spend an evening eating cheaply and well, then drinking late, all within a few streets. Walk down to the Vieux-Port through the Plaine for an unsanitised cross-section of the city.
+La Mauvaise Réputation is the best bookshop on the square; record shops and vintage clothing stores fill the neighbouring streets. Espace Julien, a few minutes' walk east, is the main live music venue for the neighbourhood and one of the city's best mid-size stages.
+
+The nearby Place Jean Jaurès — known as La Plaine — extends the social scene eastward, with a Tuesday, Thursday, and Saturday market by day and tables spilling out of bars across the paving stones by night. Restaurants on both squares tend to be affordable, local, and good: Moroccan, Vietnamese, West African, and French bistros that change their menus weekly.
+
+Cours Julien starts late and stays late. Nothing really happens before ten in the evening.

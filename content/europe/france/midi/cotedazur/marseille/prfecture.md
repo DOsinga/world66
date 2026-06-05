@@ -1,8 +1,8 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 43.2905
-longitude: 5.3745
+latitude: 43.2910
+longitude: 5.3865
 snippet: Grand Second Empire administrative building on the Canebière
 tags:
 - things_to_do

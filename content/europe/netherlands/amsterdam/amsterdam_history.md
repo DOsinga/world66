@@ -7,7 +7,6 @@ snippet: Amsterdam's story across a thousand years in a former orphanage
 tags:
 - things_to_do
 - museum
-- canal_ring
 title: Amsterdam Museum
 type: poi
 url: www.amsterdammuseum.nl

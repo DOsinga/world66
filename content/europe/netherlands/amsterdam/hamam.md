@@ -6,7 +6,6 @@ phone: +31-20-681 48 18
 snippet: Traditional Turkish bath with massage and steam, women only most days
 tags:
 - activities
-- oud_west
 title: Hamam Zaanstraat
 type: poi
 ---

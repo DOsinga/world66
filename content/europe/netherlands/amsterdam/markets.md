@@ -4,7 +4,6 @@ longitude: 4.8932
 snippet: Amsterdam's best street markets for food and finds
 tags:
 - shopping
-- canal_ring
 title: Markets
 type: poi
 ---

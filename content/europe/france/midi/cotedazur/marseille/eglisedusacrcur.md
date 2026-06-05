@@ -1,6 +1,6 @@
 ---
-latitude: 43.2933
-longitude: 5.3842
+latitude: 43.2924
+longitude: 5.3847
 snippet: Romanesque-Byzantine church blending bold architectural styles
 tags:
 - things_to_do

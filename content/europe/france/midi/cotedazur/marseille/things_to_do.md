@@ -3,10 +3,8 @@ title: Things to Do
 type: section
 ---
 
-Marseille rewards walkers. Start at the Vieux-Port, climb up to Notre-Dame de la Garde for the views, then wander the lanes of the Panier — the oldest quarter, full of street art, small galleries, and old shutters. The Mucem (Museum of European and Mediterranean Civilisations) sits at the harbour mouth in a striking concrete lattice, with a footbridge linking it to Fort Saint-Jean and on to the striped Cathédrale de la Major.
+Marseille's sights divide between the water and the hills. The Vieux-Port is the starting point for most visits — the morning fish market on the quay, boat trips to the Château d'If and the Frioul islands, and the streets immediately around it. The quarter of Le Panier climbs the hill above the port; the [Vieille Charité](/europe/france/midi/cotedazur/marseille/vieillecharit) at its centre is one of the finest baroque courtyards in France. Further along the coast, the Corniche Kennedy runs five kilometres above the sea, passing the [Palais du Pharo](/europe/france/midi/cotedazur/marseille/palaisdupharo) and the tiny fishing port of the [Vallon des Auffes](/europe/france/midi/cotedazur/marseille/vallondesauffes) on the way.
 
-For something stranger, take a boat from the Vieux-Port to the Château d'If, the island fortress made famous by Dumas's Count of Monte Cristo. The Frioul islands next door are good for a swim and a walk. South of the city, the Calanques — limestone inlets with turquoise water — are the most spectacular stretch of coastline in Provence, with trails running between Marseille and Cassis.
+Inland, the [Palais Longchamp](/europe/france/midi/cotedazur/marseille/palaislongchamp) — a triumphal water tower housing two museums — is the most spectacular building in the city after the port. The neighbourhood below it leads down to [Cours Julien](/europe/france/midi/cotedazur/marseille/coursjulien), a bohemian square full of terraces and street art.
 
-Major museums include the Musée Cantini for 20th-century art, the Palais Longchamp for fine arts and natural history, the Marseille History Museum behind the Centre Bourse (which incorporates the excavated Greek port at the Jardin des Vestiges), and the cluster of museums inside the Vieille Charité in the Panier.
-
-The Stade Vélodrome is worth a visit if there is a match: Olympique de Marseille is one of the most passionate football clubs in France, and the atmosphere is electric.
+South of the city, the Calanques — limestone inlets with extraordinary turquoise water — are the main reason many people visit at all. Getting there takes a bus and a walk, which is rather the point.

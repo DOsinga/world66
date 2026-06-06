@@ -117,6 +117,7 @@ def location_or_section(request, path):
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
+        pois = sorted(pois, key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []

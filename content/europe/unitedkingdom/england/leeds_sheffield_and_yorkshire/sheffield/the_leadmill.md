@@ -1,6 +1,7 @@
 ---
 address: 6 Leadmill Road, Sheffield S1 4SE
 latitude: 53.3774
+loc_type: feature
 longitude: -1.4652
 snippet: Sheffield's most storied music venue, opened 1980
 tags:

@@ -1,6 +1,7 @@
 ---
 address: Rechnaya Street 133, Bakhchysarai
 latitude: 44.7487
+loc_type: feature
 longitude: 33.8820
 snippet: Only surviving palace of the Crimean khans
 tags:

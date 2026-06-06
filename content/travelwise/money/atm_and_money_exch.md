@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "ATM and Money Exchange"
 type: location
 ---

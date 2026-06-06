@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Do Not Believe Strangers!"
 type: location
 ---

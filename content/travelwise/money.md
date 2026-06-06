@@ -1,4 +1,5 @@
 ---
+loc_type: region
 title: "Money"
 type: location
 latitude: 37.400697

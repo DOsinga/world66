@@ -1,6 +1,7 @@
 ---
 address: Clarkehouse Road, Sheffield S10 2LN
 latitude: 53.3739
+loc_type: feature
 longitude: -1.5036
 snippet: 19 acres of curated gardens with restored Victorian pavilions
 tags:

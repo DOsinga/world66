@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Cash"
 type: location
 latitude: 43.806558

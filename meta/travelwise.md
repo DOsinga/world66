@@ -1,4 +1,5 @@
 ---
+loc_type: region
 title: "Travelwise"
 type: location
 ---

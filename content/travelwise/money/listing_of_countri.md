@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Listing of countries using the Euro as their currency..."
 type: location
 ---

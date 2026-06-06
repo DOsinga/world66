@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Packing Tips"
 type: location
 ---

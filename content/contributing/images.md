@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Contributing contents"
 type: location
 ---

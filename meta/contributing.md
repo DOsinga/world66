@@ -1,4 +1,5 @@
 ---
+loc_type: region
 title: "Contributing contents"
 type: location
 ---

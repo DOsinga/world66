@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "Take it away!"
 type: location
 ---

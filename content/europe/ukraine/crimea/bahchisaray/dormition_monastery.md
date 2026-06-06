@@ -1,6 +1,7 @@
 ---
 address: Mariam-Dere Valley, Bakhchysarai
 latitude: 44.7447
+loc_type: feature
 longitude: 33.9099
 snippet: Orthodox cave monastery cut into the limestone cliffs
 tags:

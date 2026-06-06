@@ -1,6 +1,7 @@
 ---
 address: Place Reine Astrid 1, 5500 Dinant
 latitude: 50.2610
+loc_type: feature
 longitude: 4.9120
 snippet: 13th-century Gothic church with a distinctive bulbous bell tower
 tags:

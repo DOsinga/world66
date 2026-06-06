@@ -1,4 +1,5 @@
 ---
+loc_type: feature
 title: "ATMs"
 type: location
 ---

@@ -1,0 +1,5 @@
+asia/india/karnataka/bidar
+asia/india/karnataka/gulbarga/gulbarga_fort
+asia/india/kerala/palakkad
+asia/india/kerala/thiruvananthapuram
+asia/india/madhyapradesh/gwalior

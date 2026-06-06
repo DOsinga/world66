@@ -1,0 +1,5 @@
+europe/italy/calabria/reggio
+europe/italy/lazio/orte
+europe/italy/lazio/sabaudia
+europe/italy/liguria/cinqueterre
+europe/italy/liguria/nerviavalley/castelvittorio

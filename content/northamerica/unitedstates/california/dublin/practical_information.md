@@ -1,7 +1,6 @@
 ---
 title: Practical Information
-type: poi
-url: www.ci.dublin.ca.us
+type: section
 ---
 
 Dublin at a Glance
@@ -127,21 +126,3 @@ $51,590,638
 ### [The City of Dublin, California](/northamerica/unitedstates/california/sanfranciscobayarea/dublin/practical_informat/the_city_of_dublin)
 
 The Official Website of Dublin, California
-
-type: Tourist information
-
-
-
-url: [www.ci.dublin.ca.us](http://www.ci.dublin.ca.us/)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

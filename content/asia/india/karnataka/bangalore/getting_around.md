@@ -1,5 +1,5 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
@@ -55,29 +55,8 @@ Bangalore, located 1000 Mts. above sea level, this city was formed by Kempegowda
 
 **Bal Bhavan **- Children's Park with its own theater and playground. Toy train and boat rides are added attractions. Closed on Mondays and the 2nd Tuesday of the month.
 
-**Contributors**
-December 02, 2006
-
-November 29, 2006
-
 ### [Modes of Transport](/asia/india/karnataka/bangalore/getting_around/modes_of_transport)
 
 Autorickshaws, also simply referred to as Autos are a popular form of public transport in Bangalore.Bangalore is well connected to the rest of the country through the Indian Railways. The Rajdhani Express connects Bangalore to New Delhi. The city is also connected to Mumbai, Chennai, Kolkata, and Hyderabad, as well as other major cities in Karnataka. Three-wheeled, black and yellow auto-rickshaws, referred to as autos, are a popular form of transport. They are metered and can accommodate up to three passengers.
 
-Taxi service within Bangalore is provided by several [more..](/asia/india/karnataka/bangalore/getting_around/modes_of_transport)
-
-
-
-[[rate it]](/asia/india/karnataka/bangalore/getting_around/modes_of_transport)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Taxi service within Bangalore is provided by several operators.

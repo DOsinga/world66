@@ -1,5 +1,5 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
@@ -32,36 +32,4 @@ Buddha Bay and the islands of Koh Som & Koh Phangan, as well as experiencing
 the most glorious of sunsets. Get in early for a beachside seat and relax with a
 cooling drink as the sun goes down!
 
-Visitors and locals alike are
-welcome to come and sample Thai &
-European [more..](/asia/thailand/kohsamui/eatingout/chailay_seafood_re)
-
-type: Thai
-
-
-
-[[rate it]](/asia/thailand/kohsamui/eatingout/chailay_seafood_re)
-
-accessibility: Beach front location
-
-tel: 0894 647 125
-
-url: [www.chailayseafood.com](http://www.chailayseafood.com)
-
-address: Bangrak Beach
-
-PriceOfMenu: 50 Baht +
-
-email:
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Visitors and locals alike are welcome to come and sample Thai and European dishes.

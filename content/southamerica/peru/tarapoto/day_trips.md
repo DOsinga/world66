@@ -1,5 +1,5 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
 ---
 
@@ -9,35 +9,12 @@ When taking a day trip, it is a good idea for travelers to check the newspaper t
 
 Those limited on time can usually get a taxi driver for the whole day and catch a couple of locations at once. A typical day that includes Bio Diversidad, lunch at a jungle cafe, and the afternoon at Las Cataratas del Ahuashiyacu might typically cost 70 soles (about $22) for the day for a group of four.
 
-**Contributors**
-December 08, 2006
-
 ### [Catarata de Ahuashiyacu](/southamerica/peru/tarapoto/day_trips/catarata_de_ahuash)
 
-Catarata de Ahuashiyacu (Laughing Waters Waterfall) is a lovely trip up the side of a mountain. A local woman in Tarapoto said that when she was teenager 30 years ago, they had to hold onto a cable that ran up the side of the mountain as they climbed over giant rocks and forged steep downhill streams in order to get to the waterfall. Nowadays, there is a nice trail that is maintained by the District of San Martin, and for a small fee, visitors help to finance the maintenence of the park. No more climbing over giant rocks here, now stairs have been cut into [more..](/southamerica/peru/tarapoto/day_trips/catarata_de_ahuash)
-
-
-
-[[rate it]](/southamerica/peru/tarapoto/day_trips/catarata_de_ahuash)
+Catarata de Ahuashiyacu (Laughing Waters Waterfall) is a lovely trip up the side of a mountain. A local woman in Tarapoto said that when she was teenager 30 years ago, they had to hold onto a cable that ran up the side of the mountain as they climbed over giant rocks and forged steep downhill streams in order to get to the waterfall. Nowadays, there is a nice trail that is maintained by the District of San Martin, and for a small fee, visitors help to finance the maintenence of the park. No more climbing over giant rocks; stairs have been cut into the slope.
 
 ### [Laguna Venecia](/southamerica/peru/tarapoto/day_trips/lamas_peru)
 
 Only about 5 km outside of [Tarapoto](/southamerica/peru/tarapoto), Laguna Venecia is one of the easiest places to visit. It is a tranquil lake with many palms and other trees and higher plants that will help one to slip back into the tropical paradise visitors came to Tarapoto for to start with. Paddle boats and swimming are a couple of activities available at Laguna Venecia, as well as a mini zoo, with friendly monkeys that can be petted and played with.
 
-At the restaurant one can buy bananas (both to eat and [more..](/southamerica/peru/tarapoto/day_trips/lamas_peru)
-
-
-
-[[rate it]](/southamerica/peru/tarapoto/day_trips/lamas_peru)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+At the restaurant one can buy bananas to eat or to feed the monkeys.

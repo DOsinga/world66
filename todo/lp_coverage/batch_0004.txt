@@ -1,5 +1,5 @@
-europe/unitedkingdom/england/oxford
-europe/unitedkingdom/england/bath
-europe/unitedkingdom/england/york
-europe/norway/lofoten
-europe/georgia/tbilisi
+asia/vietnam/ninhbinh
+asia/vietnam/phongnha
+asia/vietnam/phuquoc
+asia/india/uttaranchal/rishikesh
+asia/india/jammuandkashmir/leh

@@ -1,5 +1,5 @@
-asia/japan/okinawa
-asia/southkorea/jejuisland
-asia/indonesia/lombok/giliislands
-asia/indonesia/bali/nusapenida
-asia/indonesia/bali/canggu
+asia/india/kerala/alleppey
+asia/india/pondicherry
+asia/srilanka/mirissa
+asia/srilanka/arugambay
+asia/srilanka/nuwaraeliya

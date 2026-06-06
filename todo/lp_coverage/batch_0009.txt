@@ -1,5 +1,0 @@
-asia/srilanka/nuwaraeliya
-asia/turkey/cappadocia
-asia/turkey/izmir/ephesus
-asia/turkey/denizli/pamukkale
-asia/malaysia/sarawak/kuching

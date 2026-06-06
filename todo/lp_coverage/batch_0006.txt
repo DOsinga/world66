@@ -1,5 +1,4 @@
-asia/indonesia/rajaampat
-asia/indonesia/java/borobudur
-asia/indonesia/komodo
-asia/indonesia/lombok
-asia/thailand/kohphiphi
+asia/malaysia/sarawak/kuching
+africa/kenya/amboseli
+africa/southafrica/krugernationalpark
+northamerica/costarica/lafortunaarenalvolcano

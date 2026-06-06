@@ -1,0 +1,5 @@
+europe/georgia/tbilisi
+asia/indonesia/java/borobudur
+asia/indonesia/komodo
+asia/indonesia/lombok
+asia/thailand/kohphiphi

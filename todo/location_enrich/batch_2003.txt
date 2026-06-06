@@ -1,5 +1,5 @@
+asia/turkey/cappadocia
+asia/turkey/izmir/ephesus
+asia/turkey/denizli/pamukkale
 africa/tanzania/serengetinationalpark
 africa/kenya/nationalparksandreserves/masaimaranr
-africa/kenya/amboseli
-africa/southafrica/krugernationalpark
-africa/tanzania/zanzibar

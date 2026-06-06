@@ -1,5 +1,5 @@
-europe/france/midi/languedoc/carcassonne
-europe/croatia/dalmatia/dubrovnik
-europe/croatia/dalmatia/split
-europe/croatia/dalmatia/hvar
-europe/switzerland/zermatt
+asia/southkorea/jejuisland
+asia/indonesia/lombok/giliislands
+asia/indonesia/bali/nusapenida
+asia/indonesia/bali/canggu
+asia/indonesia/rajaampat

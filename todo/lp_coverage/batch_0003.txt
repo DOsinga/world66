@@ -1,0 +1,5 @@
+asia/southkorea/jejuisland
+asia/indonesia/lombok/giliislands
+asia/indonesia/bali/nusapenida
+asia/indonesia/bali/canggu
+asia/indonesia/rajaampat

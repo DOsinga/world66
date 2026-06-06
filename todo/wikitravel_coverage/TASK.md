@@ -71,8 +71,19 @@ location for that destination.
 9. **Link POIs from the overview.** After creating POI pages, re-read the overview and
    add markdown links wherever a POI name is mentioned.
 
-10. **Add a hero image.** If the location file has no `image:` field, invoke the
-    `find-photo` skill. Do not auto-pick without review.
+10. **Add a hero image — both the file AND the frontmatter.** Use `tools/find_photo.py`:
+    ```
+    python3 tools/find_photo.py --no-classify /<continent>/<country>/.../<slug>
+    ```
+    The path is `/europe/austria/salzkammergut` (leading slash, no `content/` prefix, no `.md`). The script prints candidate thumbnails as JSON. Pick the best by reading the thumbnail files (`thumb_path` field) and judging by relevance to the place and visual quality. Then:
+    ```
+    python3 tools/find_photo.py --select-meta '<json-of-chosen-candidate>' /<continent>/<country>/.../<slug>
+    ```
+    This **downloads the full image, resizes it, saves it next to the `.md`, AND writes the `image:`/`image_source:`/`image_license:`/`image_attribution:` frontmatter fields** — all in one call. The local image filename will be the slug (e.g. `salzkammergut.jpg`).
+
+    Do NOT manually write the `image:` frontmatter and skip the download — that leaves a broken reference. The image file must exist on disk next to the `.md`.
+
+    If `find_photo.py` finds no suitable candidate (exit code 1, empty `candidates` array), leave the hero image off entirely. Don't fabricate sources.
 
 11. **Mark done** in frontmatter:
     `python3 tools/mark_done.py wikitravel_coverage <path/to/page.md>`

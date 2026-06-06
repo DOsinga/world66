@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-06-04'
+  lp_coverage: '2026-06-05'
 image: alappuzha.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jpg

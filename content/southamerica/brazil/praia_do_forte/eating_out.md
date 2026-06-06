@@ -13,7 +13,7 @@ January 29, 2007
 
 ### Kasato
 
-This Japanese newcomer is the one standout in a decidedly sub-par field. Comprised of an airy dining room and lantern-lit garden, Kasato puts a Brazilian spin on sushi and other Japanese fare. This creative streak is also visible in their approach to vegetarian requests (never something to take for granted in restaurants), yielding results like “sushi” of sautéed enoki mushrooms atop slices of fried plantain – delicious! It also produces what is perhaps the most beautiful plate of vegetarian tempura on the planet, with a faux fan coral of fried more..
+This Japanese newcomer is the one standout in a decidedly sub-par field. Comprised of an airy dining room and lantern-lit garden, Kasato puts a Brazilian spin on sushi and other Japanese fare. This creative streak is also visible in their approach to vegetarian requests (never something to take for granted in restaurants), yielding results like “sushi” of sautéed enoki mushrooms atop slices of fried plantain – delicious! It also produces what is perhaps the most beautiful plate of vegetarian tempura on the planet, with a faux fan coral of fried okra and tropical vegetables — almost too pretty to eat.
 
 type: Japanese
 

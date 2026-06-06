@@ -13,7 +13,7 @@ All parts of the city are well served by public transport. It
  is managed by VRN, a regional traffic organisation. At the two major
  stations Hauptbahnhof (railway station) and Bismarckplatz there are
  offices to get directions or general assistance. The one-way fare
- is 3,40 DM everywhere ins more..
+ is 3,40 DM everywhere inside the city, with day passes available for travellers planning multiple rides.
 
 **Taxi**
 
@@ -27,4 +27,4 @@ Driving a car you should be warned that inside Old Town there
  are many driving and parking restrictions, which are eagerly supervised
  by the local administration. Nevertheless, since the city is not that
  big, you will find your way if you follow the direction signs (like Schloß
- to get to th more..
+ to get to the castle). Park in one of the riverside garages and walk into the centre — it's easier than fighting the one-way streets.

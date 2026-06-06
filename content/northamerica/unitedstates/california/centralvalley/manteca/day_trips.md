@@ -21,7 +21,7 @@ url: [www.nps.gov](http://www.nps.gov/yose/)
 
 ### [Old Sacramento](/northamerica/unitedstates/california/centralvalley/manteca/day_trips/old_sacramento)
 
-Just 45 minutes away via Highway 99. Old Sacramento is where the Pony Express ended its journey and was the western terminus of the transcontinental railroad. It is considered the best restoration of a Gold Rush town and water front in the West. It is also home to the largest railroad museum in the Western Hemisphere and hosts the Old Sacramento Jazz Festival every Memorial Day Weekend. You'll also find Arnold Schwarzenegger's haunts including the state Capitol that still ranks as the most opulent and ambitious restoration of a 19th-century government [more..](/northamerica/unitedstates/california/centralvalley/manteca/day_trips/old_sacramento)
+Just 45 minutes away via Highway 99. Old Sacramento is where the Pony Express ended its journey and was the western terminus of the transcontinental railroad. It is considered the best restoration of a Gold Rush town and water front in the West. It is also home to the largest railroad museum in the Western Hemisphere and hosts the Old Sacramento Jazz Festival every Memorial Day Weekend. You'll also find Arnold Schwarzenegger's haunts including the state Capitol that still ranks as the most opulent and ambitious restoration of a 19th-century government building anywhere in California.
 
 
 
@@ -77,4 +77,4 @@ url: [www.lodiwine.com](http://www.lodiwine.com)
 
 ### The Gold Country
 
-Less than 60 minutes offering everything from Angels Camp where Mark Twain dremed up his famous jumping frog contest to bustling towns where restaurants, specialty stores, and others do business in buildings that date back over 120 years to wilder times. You can enjoy Columbia State Park just outside of Sonora that is a "living museum" as well as the only "working" Gold Country town of its own complete shops. Jamestown, on the way to Sonora, offers the Jamestown Railroad State Park with operating steam engines that you can ride. Sonora itself is a more..
+Less than 60 minutes offering everything from Angels Camp where Mark Twain dremed up his famous jumping frog contest to bustling towns where restaurants, specialty stores, and others do business in buildings that date back over 120 years to wilder times. You can enjoy Columbia State Park just outside of Sonora that is a "living museum" as well as the only "working" Gold Country town of its own complete shops. Jamestown, on the way to Sonora, offers the Jamestown Railroad State Park with operating steam engines that you can ride. Sonora itself is a handsome former mining town with brick storefronts, antique shops and a couple of solid restaurants — a fine base for exploring the rest of the southern Mother Lode.

@@ -17,7 +17,7 @@ tel: 311 008
 
 **Aranysárkány (Golden Dragon)**
 
-Founded in 1977, the Golden Dragon claims to have been Hungary's first private restaurant. While sitting in the dining room, you can watch the cooks preparing your food in the open kitchen. Hungarian dishes on offer include goose, fried pigeon, and venison. The wine list includes 78 kinds of vino more..
+Founded in 1977, the Golden Dragon claims to have been Hungary's first private restaurant. While sitting in the dining room, you can watch the cooks preparing your food in the open kitchen. Hungarian dishes on offer include goose, fried pigeon, and venison. The wine list includes 78 kinds of vintage, drawn from across Hungary's regions.
 
 fax: 311 670
 
@@ -27,7 +27,7 @@ tel: 301 479
 
 **Rab Ráby**
 
-Decked out like a homestead in the Hungarian countryside, the Rab Ráby is cluttered with bells, clocks, musical instruments and farm tools. Sit on wooden benches around the candlelit tables and soak in the atmosphere. The traditional Hungarian fare is reasonably priced, and excellent. The waiter more..
+Decked out like a homestead in the Hungarian countryside, the Rab Ráby is cluttered with bells, clocks, musical instruments and farm tools. Sit on wooden benches around the candlelit tables and soak in the atmosphere. The traditional Hungarian fare is reasonably priced, and excellent. The waiters are happy to recommend a wine to go with it.
 
 address: Kucsera Ferenc u. 1
 
@@ -44,7 +44,7 @@ tel: 311 484
 
 **Vidám Szerzetesek (Merry Monks) **
 
-You'll know the place when you see a statue of a friar hoisting a plate of fish. The menu here appears in more languages than Berlitz, and the riot of foreign banknotes displayed inside bears witness to how many foreigners have visited the Merry Monks over the years. The speciality, Monk's Pleasu more..
+You'll know the place when you see a statue of a friar hoisting a plate of fish. The menu here appears in more languages than Berlitz, and the riot of foreign banknotes displayed inside bears witness to how many foreigners have visited the Merry Monks over the years. The speciality, Monk's Pleasure, is a meat-and-vegetable platter big enough to share.
 
 address: Bogdányi u. 3-5
 

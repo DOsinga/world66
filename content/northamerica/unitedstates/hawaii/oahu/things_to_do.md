@@ -18,7 +18,7 @@ perched between the majestic Ko‘olau Mountain Range and breathtaking
 Makapu‘u Beach. See dolphins dance, sealions sing, and penguins
 perform in this magical place by the sea.
 
-Included admission with the Go Oahu Card, a multi-attraction pass that allows more..
+Included admission with the Go Oahu Card, a multi-attraction pass that allows entry to dozens of Oahu sights for a single price — a worthwhile buy if you're planning to combine the park with snorkelling tours, museums or a Pearl Harbor visit.
 
 type: Other
 

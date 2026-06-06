@@ -7,7 +7,7 @@ type: section
 
 **Blarney Castle **
 
-**Padraig Mac Searraigh:** Probably one of Cork's (and indeed Ireland's) favourite attractions. Reputed to give whoever kisses it's famous stone the gift of eloquence. Personally, I think it's a load of bunk - but being a local it is perhaps a case of familiarity breeding contempt. G more..
+**Padraig Mac Searraigh:** Probably one of Cork's (and indeed Ireland's) favourite attractions. Reputed to give whoever kisses it's famous stone the gift of eloquence. Personally, I think it's a load of bunk - but being a local it is perhaps a case of familiarity breeding contempt. Go anyway: the castle grounds, gardens and views over the surrounding countryside are well worth the short trip from town.
 
 **Fota Island**
 

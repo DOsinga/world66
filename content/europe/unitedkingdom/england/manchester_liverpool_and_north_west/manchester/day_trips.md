@@ -7,7 +7,7 @@ type: section
 
 **Walking in the Peak District**
 
-East of Manchester lies the Peak District, the hilly spine of England. From Manchester there are several possibilities to visit it. It takes an hour on the train from Manchester Piccadilly Station to Buxton. Get out at any little station on the way and within twenty minutes you are on the mo [more..](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester/day_trips)
+East of Manchester lies the Peak District, the hilly spine of England. From Manchester there are several possibilities to visit it. It takes an hour on the train from Manchester Piccadilly Station to Buxton. Get out at any little station on the way and within twenty minutes you are on the moors, with sweeping views over heather, gritstone edges and dry-stone walls. Edale, Hope and New Mills are good starting points for circular walks; on a clear day you can easily put together a six-hour loop and be back in Manchester for dinner.
 
 **Manchester Airport Aviation Viewing Park **
 

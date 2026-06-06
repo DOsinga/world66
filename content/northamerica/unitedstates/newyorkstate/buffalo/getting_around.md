@@ -15,4 +15,4 @@ www.nfta.com/metro (website)
 
 ### Driving on Expressways
 
-The Buffalo Niagara region has an expressway network that connects drivers to various points relatively quickly and easily. Funnily enough, the term "Freeway" is not used in Buffalo and many other area surrounding it. If you use the term freeway, you might get a funny look from a local. more..
+The Buffalo Niagara region has an expressway network that connects drivers to various points relatively quickly and easily. Funnily enough, the term "Freeway" is not used in Buffalo and many other area surrounding it. If you use the term freeway, you might get a funny look from a local. The locals call them "expressways" or "thruways" — get the vocabulary right and asking for directions becomes a lot easier.

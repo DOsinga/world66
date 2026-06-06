@@ -22,8 +22,7 @@ January 31, 2008
 Istanbul to Kayseri. @ 18:20 pm
 Arrival @ 19: 20 pm Met on arrival and Transfer to hotel
 Check in hotel. Overnight in CAVE HOTEL
-2.DAY Breakfast
-more..
+2.DAY Breakfast, then a full day tour of Cappadocia covering Goreme Open Air Museum, the underground cities and the fairy-chimney valleys, returning to the cave hotel for the night. 3.DAY Breakfast, transfer to Kayseri airport for the return flight to Istanbul.
 
 
 
@@ -45,7 +44,7 @@ email: info@allistanbultours.com
 **Cappadocia Hot Air Balloon Tour**
 *Kapadokya/Cappadocia is one of the best places on the earth for hot air balloon tours. The Cappadocia region is the place where nature and history come together beautifully. While geographic events have formed strange rock formations, during the historical period, humans carried the signs of thousand years old civilizations with carving houses and churches within these earth pillars and decorating them with frescoes.
 
-*There are many places that are more..
+*There are many places that are best seen from above, and a sunrise balloon flight over the valleys, fairy chimneys and cave dwellings is the highlight of any trip to Cappadocia.
 
 
 
@@ -67,7 +66,7 @@ DAY 01
 **
 
 Istanbul - Cappadocia Tour 1
-**Take the morning flight from Istanbul Ataturk airport to Kayseri. Arrival and meeting at the airport just outside the arrival''s gate with a sign bearing your name and transfer to Cappadocia. In the morning, first meeting with the lunar landscape of Cappadocia: rock formations beyond belief in Devrent valley; walking in Zelve Open Air Museum: a journey in the past with its troglodyte houses; visit to Pasabag -quot;fairy chimneys-quot; where the voice of more..
+**Take the morning flight from Istanbul Ataturk airport to Kayseri. Arrival and meeting at the airport just outside the arrival''s gate with a sign bearing your name and transfer to Cappadocia. In the morning, first meeting with the lunar landscape of Cappadocia: rock formations beyond belief in Devrent valley; walking in Zelve Open Air Museum: a journey in the past with its troglodyte houses; visit to Pasabag -quot;fairy chimneys-quot; where the voice of the wind has carved the most striking rock pillars in the region. Overnight in Cappadocia.
 
 
 
@@ -97,7 +96,7 @@ Join in the first day tour of Cappadocia including Devrent, Zelve, Monk Valley, 
 
 DAY 03
 09:30
-Cappadocia Tour 2 - external more..
+Cappadocia Tour 2 - external valleys including Ihlara, Selime Monastery and Derinkuyu underground city. Return to hotel for the night.
 
 
 
@@ -259,7 +258,7 @@ itinerary
 
 **DAY 02**
 Cappadocia Tours Day 2
-Begin the day in Devrent Valley, followed by Zelve Open Air Museum, one of the most impressive monastery complexes in the area. Next, visit Pasabag (also known as Monk''s Valley), followed by a short drive to Avanos, a village situated on the banks of Kizilirmak River, famous for its more..
+Begin the day in Devrent Valley, followed by Zelve Open Air Museum, one of the most impressive monastery complexes in the area. Next, visit Pasabag (also known as Monk''s Valley), followed by a short drive to Avanos, a village situated on the banks of Kizilirmak River, famous for its red-clay pottery workshops where you can watch potters at the wheel.
 
 
 
@@ -292,7 +291,7 @@ DAY 02
 
 **Visiting;
 **Zelve Open air museum where three canyons meet in the Valley.
-Then visit Devrent Valley to more..
+Then visit Devrent Valley to see its surreal rock formations and the camel-shaped fairy chimney, before continuing on to Pasabag and Avanos for pottery.
 
 
 
@@ -323,7 +322,7 @@ DAY 02
 
 **Visiting;
 **Zelve Open air museum where three canyons meet in the Valley.
-Then visit Devrent more..
+Then visit Devrent Valley with its camel-shaped rock, Pasabag's fairy chimneys and the pottery town of Avanos.
 
 
 
@@ -349,7 +348,7 @@ Day Tour From Istanbul** **to Cappadocia By Plane**
 **09:30** Full Day Cappadocia Tour
 
 **Visiting;**
-Zelve open air museum where three canyons meet in the valley.Then visit Devrent more..
+Zelve open air museum where three canyons meet in the valley. Then visit Devrent Valley, Pasabag fairy chimneys and Avanos pottery town before returning to the airport in the evening.
 
 
 
@@ -394,7 +393,7 @@ Arrive in Kayseri, meet in the airport. Transfer to Cappadocia and join in the f
 DAY 02
 09:30
 **Cappadocia Tour 2
-**After having the breakfast in the hotel, you will join in the second day tour of Cappadocia more..
+**After having the breakfast in the hotel, you will join in the second day tour of Cappadocia covering Ihlara Valley, Selime Monastery and Derinkuyu underground city before returning to the hotel.
 
 
 

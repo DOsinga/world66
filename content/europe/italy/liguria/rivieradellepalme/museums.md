@@ -22,7 +22,7 @@ MUSEO DEL VETRO E DELL’ARTE
  number of workshops, the activity of
  promotion and cultural research is entrusted to
  the Istituto per lo Studio del Vetro e dell’Arte
- Vetraria, which more..
+ Vetraria, which curates the museum and its collection of historic glasswork.
 
 type: general
 
@@ -45,7 +45,7 @@ The Museo Civico della Ceramica «Manlio
  around eighty pots, dating from the eighteenth
  and nineteenth centuries, including eighteenth-century
  majolica ware from Savona with
- anthropomorphic more..
+ anthropomorphic decoration that gives a vivid sense of the region's ceramic tradition.
 
 type: general
 
@@ -67,7 +67,7 @@ fortress the Pinacoteca Civica of Savona
  Outstanding among these is the Crucifixion by
  Donato de’ Bardi, the earliest example of a
  painting on canvas in Italy. The works of other
- Lombard artists, such as more..
+ Lombard artists, such as Vincenzo Foppa and his followers, round out the early collection.
 
 type: general
 
@@ -87,7 +87,7 @@ The museum of the Treasury of the Shrine of
  ornaments of various kinds, built up through
  bequests and donations. Some of these are
  extremely interesting, such as the Ecce Homo,
- a polychrome wooden bust more..
+ a polychrome wooden bust attributed to a sixteenth-century Ligurian master.
 
 type: general
 
@@ -108,7 +108,7 @@ The civic museums of Savona are located in
  one: its fusion of the exhibition space and the
  archeological site allows visitors to follow the
  age-old history of the hill in close contact with
- the pottery, metal and more..
+ the pottery, metal and stone artefacts displayed in their original setting.
 
 type: general
 
@@ -129,7 +129,7 @@ The civic archeological museum of Finale
  examples of «Finale stone,» a type of
  limestone dating from the Tertiary period.
  After a review of the karst phenomena and
- caves in the more..
+ caves in the surrounding hills, the exhibition continues with prehistoric finds drawn from those caves.
 
 type: general
 
@@ -152,7 +152,7 @@ ARCHEOLOGICAL MUSEUM “DON
  Cesare Queirolo, the curious figure of a priest-cum-
  archeologist who carried out a great deal
  of research in the Vado area in the second half
- of the nineteenth century, more..
+ of the nineteenth century, gathering the inscriptions, coins and household finds that fill the museum today.
 
 type: general
 
@@ -175,7 +175,7 @@ CIVICA PINACOTECA DI VILLA
  Vado,» which was held by the commune for
  the first time in 1951, at the urging of the
  Provincial Guild of Painters and Sculptors.
- Another section houses a selection of the more..
+ Another section houses a selection of the family's own art collection, on permanent display.
 
 type: general
 
@@ -199,7 +199,7 @@ NATURAL HISTORY MUSEUM OF
  icthyological section presents examples of the
  gulf’s most significant marine life, while a
  wide range of local medicinal herbs can be
- seen in the botanical section. more..
+ seen in the botanical section. A geological room rounds out the visit with minerals and fossils from the surrounding mountains.
 
 type: general
 
@@ -220,7 +220,7 @@ Visit the museums of Albenga to discover the
  houses epigraphs and sculptures from the
  ancient Roman town of Albingaunum, while
  the large and austere reception room on the
- second more..
+ second floor is given over to medieval finds from the cathedral district.
 
 type: general
 
@@ -242,7 +242,7 @@ MUSEUM OF THE TOWER CLOCK
  mechanisms, wheels and hands. The majority
  of the clocks made by the Bergallo family can
  still be seen on the fronts of town halls and
- noble houses and on the bell more..
+ noble houses and on the bell towers of churches across Liguria.
 
 type: general
 
@@ -264,6 +264,6 @@ MUSEUM OF THE OLIVE AND OF
  and important that it constituted the area’s
  principal resource.
  The «Arnasca,» an olive with the savor of
- more..
+ the mountain terraces, takes pride of place in the displays.
 
 type: general

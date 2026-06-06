@@ -55,6 +55,5 @@ Holwerd harbour. There is also a direct bus from Groningen.
 For the Ferry to [** Schiermonnikoog island**](/europe/netherlands/waddenislands/schiermonnikoog_is/getting_there),
 drive to Lauwersoog harbour, or take a direct train from Amsterdam to Leeuwarden > direct bus to
 Lauwersoog harbour. There is also a direct bus from Groningen.
-more..
 
 type: By Sea

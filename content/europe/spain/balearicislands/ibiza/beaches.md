@@ -25,12 +25,12 @@ Port des Turrent is for the more active amoung the daylight crew. It’s a beaut
 
 **Cala de Boix**
 
-This is a very beautiful and special beach especially because it has black sand. It is the place to go when you are a natural-lover or want to avoid the crowd. The beach itself can get very hot indeed under the burning sun, so wear some feet protection. The restaurants, situated on the beach, are [more..](/europe/spain/balearicislands/ibiza/beaches/caladeboix)
+This is a very beautiful and special beach especially because it has black sand. It is the place to go when you are a natural-lover or want to avoid the crowd. The beach itself can get very hot indeed under the burning sun, so wear some feet protection. The restaurants, situated on the beach, are simple chiringuitos serving fresh fish and sangria — a good excuse to linger after a swim.
 
 **S'Aigua Blanca**
 
 A splendid beach, not in the least because there is not much building upon the sand.
- Occasionally, the party crowd comes over to this spot to enjoy the total freedom that rules the beach. Although it is not officially recognized as a nudist beach, feel free to peel off all clothes for a good swi [more..](/europe/spain/balearicislands/ibiza/beaches/saiguablanca)
+ Occasionally, the party crowd comes over to this spot to enjoy the total freedom that rules the beach. Although it is not officially recognized as a nudist beach, feel free to peel off all clothes for a good swim — no one will bat an eyelid.
 
 **Cala Xarraca**
 
@@ -52,11 +52,11 @@ Cala Benirras is a known for its fine sand and extremely clear water. It offers 
 
 This beach, packed with both buildings and people, attracts lots of tourists. Only one motto
  rules on Ibiza's busiest beach: watch and being watched! The beach is packed with little restaurants and small bars. There are elaborate
- aquatic sports facilities. Although you don't come over to Ibiza more..
+ aquatic sports facilities. Although you don't come over to Ibiza for the peace and quiet, this beach is convenient if you want everything within walking distance of the town.
 
 **Ses Salinas**
 
-The coolest beach of the island. It has a beautiful broad extending beach where you can choose from five beach-bars, all presenting their own sort of modern music. During day-time, the motley party-crowd tries to sleep off its hangover, in order to make it through the next night. When you go furt [more..](/europe/spain/balearicislands/ibiza/beaches/sessalinas)
+The coolest beach of the island. It has a beautiful broad extending beach where you can choose from five beach-bars, all presenting their own sort of modern music. During day-time, the motley party-crowd tries to sleep off its hangover, in order to make it through the next night. When you go further along the dunes, the beach quietens down and turns nudist.
 
 **Cala de Boix**
 
@@ -66,7 +66,7 @@ A very beautiful and special beach. Special because it has black sand. It is the
 **S'Aigua Blanca**
 
 A splendid beach, not in the least because there is not much building upon the sand.
- Occasionally, the party crowd comes over to this spot to enjoy the total freedom that rules the beach. Although it is not officially recognised as a nudist beach, feel free to peel off all clothes for a good swi [more..](/europe/spain/balearicislands/ibiza/beaches/saiguablanca1)
+ Occasionally, the party crowd comes over to this spot to enjoy the total freedom that rules the beach. Although it is not officially recognised as a nudist beach, feel free to peel off all clothes for a good swim — no one will mind.
 
 **Cala Xarraca**
 
@@ -76,8 +76,8 @@ This beach, surrounded by impressive cliffs, houses only a few restaurants and h
 
 **San Antonio**
 
-At just a couple of passes from the busy town centre this is probably the busiest beach of the island. Not a good place to meet, but perfect for an accidentally “bump into”. It’s a perfect place to recuperate from the night before, relax and get some color, but be careful not to doze off in [more..](/europe/spain/balearicislands/ibiza/beaches/sanantonio)
+At just a couple of passes from the busy town centre this is probably the busiest beach of the island. Not a good place to meet, but perfect for an accidentally “bump into”. It’s a perfect place to recuperate from the night before, relax and get some color, but be careful not to doze off in the sun — you'll pay for it the next night.
 
 **Playa Des Cavallet **
 
-On the south of the island you’ll find Playa Des Cavallet. Don’t worry to much about what to wear here, it’s the island's official nudist beach. With its array of dunes and the long white strip of sand it’s one of the most beautiful beaches on the island. As might be suspected it’s also more..
+On the south of the island you’ll find Playa Des Cavallet. Don’t worry to much about what to wear here, it’s the island's official nudist beach. With its array of dunes and the long white strip of sand it’s one of the most beautiful beaches on the island. As might be suspected it’s also a popular spot with the gay crowd, and the chiringuitos at either end keep the music going well into the afternoon.

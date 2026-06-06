@@ -46,7 +46,7 @@ address: Glockengasse (pedestrian precinct)
 
 **Zum Moselaner**
 
-This is the only, but a really outstanding Thai restaurant. It is located close to the river Mosel in Zewen in a former club home, about 3 km out of the city direction to Luxembourg. You need preferably a car to reach it. The food is really authentic. Spices are imported partly directly from Thai more..
+This is the only, but a really outstanding Thai restaurant. It is located close to the river Mosel in Zewen in a former club home, about 3 km out of the city direction to Luxembourg. You need preferably a car to reach it. The food is really authentic. Spices are imported partly directly from Thailand, which makes a noticeable difference to the curries and soups.
 
 address: Oberkirch 30, Trier-Zewen
 
@@ -65,7 +65,7 @@ tel: +49 651 43 000
 **ASTARIX**
 
 A student restaurant with a 20 years old tradition. Great food, small prices. Cosy atmosphere. (Yes, even the older looking folks are students, still) In summertime you can sit outside. You will find it behind the theatre or just ask, everyone knows. 
- ** mimar:** For students there more..
+ ** mimar:** For students there is no better place — big portions, low prices and a relaxed crowd that often sticks around for a few beers after dinner.
 
 **Frankenturm**
 

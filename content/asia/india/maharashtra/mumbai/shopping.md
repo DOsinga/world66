@@ -11,11 +11,11 @@ Shopping is one of the many enjoyable things in Mumbai. Without any doubt, you c
 
 Fashion Street, which is located opposite VSNL and also adjoining to Cross Maidan is very famous for its readymade garments. It has at least 130 to 140 shops and you will find the latest fashion at the cheapest rates. It is a very popular area with collegians and teenagers. There are also several shoe and jewellery shops. Sometimes, you will bump into one of Bollywood’s celebrities.
  
- [more..](/asia/india/maharashtra/mumbai/shopping/fashionstreet)
+ Bargaining is expected and a smile and a firm price go further than haggling tactics.
 
 **Chor Bazar**
 
-Simply meaning is thieves market. You will find each and every type of article, such as antiques, hardware, tools, wooden carvings, statues, figures, silver coins, engines, you name it and they’ll probably have it and sell it a reasonable price. Practise your bargain skills. Because it is centrally located you can easily spend hours here. Some vendors are also accepting credit cards (but then you need more bargaining skills). Maybe you will find an old piece of antique belonging to the Maharaja's or a reproduction of it. Check it out for yourself! more..
+Simply meaning is thieves market. You will find each and every type of article, such as antiques, hardware, tools, wooden carvings, statues, figures, silver coins, engines, you name it and they’ll probably have it and sell it a reasonable price. Practise your bargain skills. Because it is centrally located you can easily spend hours here. Some vendors are also accepting credit cards (but then you need more bargaining skills). Maybe you will find an old piece of antique belonging to the Maharaja's or a reproduction of it. Check it out for yourself!
 
 address: Mutton Street, Opp. Shafi Masjid,
 
@@ -38,7 +38,7 @@ tel: +91-22-3462272
 
 **Book Stores**
 
-**BOOK STORES** more..
+**BOOK STORES**
 
 **ENSIGN BOOK STORES**
 

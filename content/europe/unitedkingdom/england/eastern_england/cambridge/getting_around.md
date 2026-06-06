@@ -19,11 +19,11 @@ The Duxford branch of the Imperial War Museum is located about 15 miles from Cam
 
 **claus or claas**
 
-**Cabco** 01223 312444 **Camtax** 01223 313131 **Panther Taxis** 01223 715715 **3A's** 01223 301301 **A1 Taxis** 01223 359123 **Abba Taxis** 01223 322322 **Cambridge Cabs** 01223 423344 **Dial-'A'-Cab** 01223 576452 **Falcon 5 Star** 01223 414999 **Granta Executive Cars** 01223 421826 **Intercity Taxis** 01223 312233 **Regency Taxis** 01223 311388 more..
+**Cabco** 01223 312444 **Camtax** 01223 313131 **Panther Taxis** 01223 715715 **3A's** 01223 301301 **A1 Taxis** 01223 359123 **Abba Taxis** 01223 322322 **Cambridge Cabs** 01223 423344 **Dial-'A'-Cab** 01223 576452 **Falcon 5 Star** 01223 414999 **Granta Executive Cars** 01223 421826 **Intercity Taxis** 01223 312233 **Regency Taxis** 01223 311388.
 
 **Punt Hire**
 
-Scudamore's is the largest punt hire company, based off Granta Place. The hire punts both for the Backs and to take to Granchester, including overnight punts (approximately &pound;25). Their phone number is 01223 359750. more..
+Scudamore's is the largest punt hire company, based off Granta Place. They hire punts both for the Backs and to take to Granchester, including overnight punts (approximately &pound;25). Their phone number is 01223 359750.
 
 **Cycles for Hire**
 
@@ -32,7 +32,7 @@ Scudamore's is the largest punt hire company, based off Granta Place. The hire p
  
  Name
  Location
- Phone number more..
+ Phone number
 
 **Taxi firms**
 
@@ -74,14 +74,10 @@ Scudamore's is the largest punt hire company, based off Granta Place. The hire p
  
  **Regency Taxis**
  01223 311388
- 
- 
- 
- more..
 
 **Punt Hire**
 
-Scudamore's is the largest punt hire company, based off Granta Place. The hire punts both for the Backs and to take to Granchester, including overnight punts (approximately &pound;25). Their phone number is 01223 359750. more..
+Scudamore's is the largest punt hire company, based off Granta Place. They hire punts both for the Backs and to take to Granchester, including overnight punts (approximately &pound;25). Their phone number is 01223 359750.
 
 **Cycles for Hire**
 
@@ -90,4 +86,4 @@ Scudamore's is the largest punt hire company, based off Granta Place. The hire p
  
  Name
  Location
- Phone number more..
+ Phone number

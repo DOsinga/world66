@@ -34,8 +34,8 @@ PriceOfMenu: entries run from $9-23
 
 Nepenthe is a wonderful eclectic oasis on the ocean side of California Highway 1 in the heart of Big Sur.
 The restaurant features decks cantilevered out over a cliff overlooking the Pacific Ocean and flanked by the majestic Santa Lucia Mountains. Nepenthe has been a favorite of poets, artists, and travelers since its opening in April, 1949.
-Restaurant fare ranges from the famous Ambrosia Burger through salmon and yellow fin to the 8 oz. Nepenthe Steak filet mignon
-Sitting on the terrace, enjoying a glass of wine, an Ambrosia Burger, or one more..
+Restaurant fare ranges from the famous Ambrosia Burger through salmon and yellow fin to the 8 oz. Nepenthe Steak filet mignon.
+Sitting on the terrace, enjoying a glass of wine, an Ambrosia Burger, or one of the seasonal specials while the Pacific churns 250 metres below is one of those quintessential Big Sur experiences worth lingering over.
 
 type: American
 

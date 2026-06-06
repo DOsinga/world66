@@ -35,7 +35,7 @@ email: smashuttle@gmail.com
 *JULIO TOURS* cordially invites you to take advantage of the many historical and interesting sights around San Miguel de Allende and its surrounding Towns.
 Your travel arrangements will be provided by *Julio Cesar Tovar* a highly regarded Tour Guide since 2000.
 I warranty a memorable experience as you will be learning about this wonderful and historic Town from Federally Licensed and Bilingual Guides while comfortably seated in the latest model vehicles.
-You will be picked up at your home at a designated hour (or you can decide more..
+You will be picked up at your home at a designated hour (or you can decide on a different pickup point) and returned at the end of the day. Custom itineraries to Atotonilco, Dolores Hidalgo, Guanajuato and the surrounding wine country are all available.
 
 
 
@@ -67,7 +67,7 @@ Leon, Queretaro, Mexico City & Guadalajara Airports.
 We are able to offer
 24 hour service
 Same price whatever time of day
-Reliable more..
+Reliable, English-speaking drivers and clean, modern vehicles for both transfers and day excursions.
 
 
 

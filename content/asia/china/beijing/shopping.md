@@ -14,13 +14,13 @@ China is an interesting place to go shopping, and Beijing has a long history as 
 
 **Panjiayuan flee market **
 
-Big outdoor market with antiques (fake and real), ceramics including figurines of the cultural revolution, traditional paintings, minority clothes, old books etc. The right place to purchase and bargain for presents, any kind of souvenir or just something useless for your cup board. Open every we more..
+Big outdoor market with antiques (fake and real), ceramics including figurines of the cultural revolution, traditional paintings, minority clothes, old books etc. The right place to purchase and bargain for presents, any kind of souvenir or just something useless for your cup board. Open every weekend, busiest in the early morning hours when serious collectors do their hunting.
 
 **Wangfujing Market Street**
 
 
  
- This is the largest and busiest market street in Beijing, known not only in China but also abroad. Its southern end connects to the East Chang’an Avenue where the Beijing Hotel is located and its northern end to Jinyu Hutong where the Palace Hotel stands. Lining the street are many old sto more..
+ This is the largest and busiest market street in Beijing, known not only in China but also abroad. Its southern end connects to the East Chang’an Avenue where the Beijing Hotel is located and its northern end to Jinyu Hutong where the Palace Hotel stands. Lining the street are many old stores selling silk, tea, jade and traditional Chinese medicine, alongside modern department stores and brand-name boutiques.
 
 **Xidan Market Street**
 
@@ -28,7 +28,7 @@ Big outdoor market with antiques (fake and real), ceramics including figurines o
  
  Located just on the western side of the central axis of the city and north of West Chang’an Avenue, this street became a high street about 80 years ago with six small shops. 
  
- Now it has become an all-function shopping mall with department stores, shopping centers, specialized stores, boo more..
+ Now it has become an all-function shopping mall with department stores, shopping centers, specialized stores, bookshops, restaurants and cinemas all packed into a short stretch.
 
 **Qianmen Market Street and Dashilan**
 
@@ -37,11 +37,11 @@ Big outdoor market with antiques (fake and real), ceramics including figurines o
  To the south of Tian’anmen Square and Qianmen Gate is a straight street running due south. This is the Qianmen market street, the oldest market street in Beijing with a history of five centuries. An east-west lane opening onto the street on its western side is the famous Dashilan.
  
  
- Most more..
+ Most of the long-established shops here date back to the Qing dynasty and still sell traditional silk, tea, herbal medicine and snacks.
 
 **Liulichang Culture Street**
 
-Located in the southwestern part of the city, Liulichang is a traditional market of old and rare books, antiques, paintings, calligraphy and arts & crafts. It is one of two streets that still keep the appearance of a Qing Dynasty market street (the other is Suzhou Street in the Summer Palace, mai more..
+Located in the southwestern part of the city, Liulichang is a traditional market of old and rare books, antiques, paintings, calligraphy and arts & crafts. It is one of two streets that still keep the appearance of a Qing Dynasty market street (the other is Suzhou Street in the Summer Palace, mainly a reconstruction). It is the place to come for ink stones, brushes, rubbings and antiquarian books.
 
 **Dongsi Market Area**
 

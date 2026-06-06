@@ -38,13 +38,13 @@ PriceOfMenu: 25-50 pesos
 
 email:
 
-### [Salvadores](/northamerica/mexico/ixtapazihuatanejo/eating_out/salvadores)
+### Salvadores
 
 Four white plastic tables under a faded blue awning. A small bar with 4 stools. A shelf of paperback books for tourists to borrow. And a man named Salvador with a smile that won't quit. That's Salvadores.
 
 Located next to the canal in the Madera neighborhood of Zihuatanejo, Salvadores is a "hole-in-the-wall" restaurant. Actually, it's *outside* the wall. The tables and bar are on the patio, the kitchen inside.
 
-Salvadores offers breakfast, lunch, and dinner. The also have a variety of drinks at the bar, including beer and hard liquor. All day long you can enjoy [more..](/northamerica/mexico/ixtapazihuatanejo/eating_out/salvadores)
+Salvadores offers breakfast, lunch, and dinner. They also have a variety of drinks at the bar, including beer and hard liquor. All day long you can enjoy honest, inexpensive Mexican home cooking — fish tacos, chiles rellenos, whatever the catch of the morning happened to be — with Salvador himself usually working the bar.
 
 type: Mexican
 
@@ -56,7 +56,7 @@ address: Calle Adelita
 
 PriceOfMenu: $2-$8 USD
 
-### [Tamales Y Atoles Any's](/northamerica/mexico/ixtapazihuatanejo/eating_out/tamales_y_atoles_a)
+### Tamales Y Atoles Any's
 
 The family owned and operated Tamales Y Atoles Any's has served
 traditional and authentic Mexican food for almost 20 years. Located in
@@ -71,7 +71,7 @@ but the biggest apetite.
 
 In addition to tamales the menu includes tostadas, tacos, enchiladas, soups, and much more.
 
-Pozole, a [more..](/northamerica/mexico/ixtapazihuatanejo/eating_out/tamales_y_atoles_a)
+Pozole, the rich hominy and pork stew that's a staple across Guerrero, is on the menu most evenings and is reason enough to make the trip.
 
 type: Mexican
 

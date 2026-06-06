@@ -22,6 +22,6 @@ Forest Beach attractions: miles of beautiful shoreline, a renowned tennis center
 
 ### Sea Pines Plantation – The Pearl of Hilton Head Island
 
-Hilton Head Island is one of the nicest places to vacation, regardless of what time of year you decide to stay. And I must inform you that a stay in Sea Pines Plantation must be top on your list. The island is home to more than 40,000 full time residents and over 2.2 million vacationers each year. With an average temperature around 70 degrees and so many outdoor activities available, this is a vacation that will keep you active and healthy. more..
+Hilton Head Island is one of the nicest places to vacation, regardless of what time of year you decide to stay. And I must inform you that a stay in Sea Pines Plantation must be top on your list. The island is home to more than 40,000 full time residents and over 2.2 million vacationers each year. With an average temperature around 70 degrees and so many outdoor activities available, this is a vacation that will keep you active and healthy. Between the golf, the tennis, the cycling paths threading through the live oaks, and miles of beach to walk, you'll struggle to fit it all into a single trip.
 
 type: Hotspots

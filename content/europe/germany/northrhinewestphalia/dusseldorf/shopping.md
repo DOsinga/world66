@@ -22,19 +22,19 @@ In the days of Jan Wellem already, fashion trends were created in Düsseldorf. V
 
 **Altstadt **
 
-The Old Town (Altstadt), known to most for its cheek-by-jowl line-up of over 260 pubs as a centre of conviviality, is also home to small boutiques and avant-garde shops. Being so close to the Kö, it is ideal for a stroll after or in between that experience. The Altstadt is also where numerous mu [more..](/europe/germany/northrhinewestphalia/dusseldorf/shopping/altstadt)
+The Old Town (Altstadt), known to most for its cheek-by-jowl line-up of over 260 pubs as a centre of conviviality, is also home to small boutiques and avant-garde shops. Being so close to the Kö, it is ideal for a stroll after or in between that experience. The Altstadt is also where numerous museums, galleries and one-off design shops are tucked in among the bars.
 
 **Karlstadt **
 
-Karlstadt, with its architecture dating mainly from the eighteenth century, is an integral monument to city expansion in the Baroque era and one of Düsseldorf's most beautiful quarters. With its dense accumulation of antique-shops, galleries and art dealers, especially in Bilker Straße, it is t [more..](/europe/germany/northrhinewestphalia/dusseldorf/shopping/karlstadt)
+Karlstadt, with its architecture dating mainly from the eighteenth century, is an integral monument to city expansion in the Baroque era and one of Düsseldorf's most beautiful quarters. With its dense accumulation of antique-shops, galleries and art dealers, especially in Bilker Straße, it is the place to come for serious browsing — expect serious prices too.
 
 **Schadowstrasse **
 
-The high-street with the biggest turnover in Germany. Predominantly characterised by large department and clothier's stores, it leads directly into Königsallee. The Schadow-Arkaden, a world of shopping and an experience in itself with its huge array of garments on offer, is a fitting entrée to [more..](/europe/germany/northrhinewestphalia/dusseldorf/shopping/schadowstrasse)
+The high-street with the biggest turnover in Germany. Predominantly characterised by large department and clothier's stores, it leads directly into Königsallee. The Schadow-Arkaden, a world of shopping and an experience in itself with its huge array of garments on offer, is a fitting entrée to the more upscale boutiques waiting around the corner on the Kö.
 
 **South Central **
 
-Extending from the southern end of the Kö to Friedrichstrasse is the shopping mile of the 'City Süd'. A wide range of shops selling books and other media, home electronics and all items of daily use jostle with numerous 'in' rendezvous, pubs and restaurants for all tastes, an ambience that attr [more..](/europe/germany/northrhinewestphalia/dusseldorf/shopping/southcentral)
+Extending from the southern end of the Kö to Friedrichstrasse is the shopping mile of the 'City Süd'. A wide range of shops selling books and other media, home electronics and all items of daily use jostle with numerous 'in' rendezvous, pubs and restaurants for all tastes, an ambience that attracts both Düsseldorfers running errands and visitors making a day of it.
 
 **Markets **
 
@@ -43,8 +43,8 @@ Düsseldorf’s many flea markets and jumble sales are heaven to bargain hunters
 
 **Königsallee **
 
-The 'Kö' is one of the world's famous malls. On the eastern side of its chestnut and plane-tree lined ornamental canal, many exclusive ladies' and men's fashion shops are situated, as are antique shops and booksellers. People visibly enjoy seeing and being seen here as they take time off between [more..](/europe/germany/northrhinewestphalia/dusseldorf/shopping/knigsallee)
+The 'Kö' is one of the world's famous malls. On the eastern side of its chestnut and plane-tree lined ornamental canal, many exclusive ladies' and men's fashion shops are situated, as are antique shops and booksellers. People visibly enjoy seeing and being seen here as they take time off between purchases at one of the pavement cafés under the trees.
 
 **After-hours-shopping **
 
-Düsseldorf’s central station is right in the city centre and is what experts call the ‘most modern and best organized junction on the continent’. Every day tens of thousands of commuters pour into the business metropolis from the Rhine-Ruhr region. The large food market in central station more..
+Düsseldorf’s central station is right in the city centre and is what experts call the ‘most modern and best organized junction on the continent’. Every day tens of thousands of commuters pour into the business metropolis from the Rhine-Ruhr region. The large food market in central station stays open into the late evening, when the rest of the city has already shut its doors — handy for picking up provisions after a long day.

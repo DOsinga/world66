@@ -75,4 +75,3 @@ the ferry terminal.
 
 *More detailed information on history and environment of the Slufter
 area can be found at http://www.coastalguide.org/dune/texel/slufter.html*
-more..

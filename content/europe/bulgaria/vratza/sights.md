@@ -31,6 +31,6 @@ address: Stefanaki Savov street
 
 ### Passage Vratsata
 
-Only half a kilometer from Vratza city is located Vratsata – a narrow and rocky gorge. The incredible nature here will charge you with magic energy and strength. When a person sees the precipitous, 200 to 400 meters high rock needles, walls and edges, he has the feeling that they touch the sky. The cliffs are conventionally divided into several parts – east, central and south. The central edge of Vratsata is the most incredible rock rib. Its bottom is at about 300 meters above the sea level and the edge leads to the topmost part of the central massif. The more..
+Only half a kilometer from Vratza city is located Vratsata – a narrow and rocky gorge. The incredible nature here will charge you with magic energy and strength. When a person sees the precipitous, 200 to 400 meters high rock needles, walls and edges, he has the feeling that they touch the sky. The cliffs are conventionally divided into several parts – east, central and south. The central edge of Vratsata is the most incredible rock rib. Its bottom is at about 300 meters above the sea level and the edge leads to the topmost part of the central massif. The gorge is also one of Bulgaria's main rock-climbing destinations, with hundreds of bolted routes across the walls.
 
 type: Hotspots

@@ -20,7 +20,7 @@ The author covers not only the history and culture of Hua
 Hin, but local festivals, celebrations and sights that are begging to
 be seen. Three easily referenced sections break the information into
 bite sized chunks. With a section on history, a section for tourist
-information and more..
+information and a section devoted to detailed maps and walking routes, it is a solid all-round companion for a Hua Hin trip.
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/756601746/ref=ase_osingacom?v=glance&s=books)
 

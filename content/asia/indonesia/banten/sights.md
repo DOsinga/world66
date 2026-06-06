@@ -89,7 +89,7 @@ crocodiles and the Javanese rhinoceros. The crocodiles and the Javanese
 rhinoceros are rare seen but we never know.
 
 The
-best time to [more..](/asia/indonesia/banten/sights/ujung_kulon_nation)
+best time to visit is during the dry season between April and October.
 
 type: Parks, Gardens and Zoos
 
@@ -107,7 +107,7 @@ Ski, Speed Boat, Para Sailing and other aquatic sport, those types of
 activities can be found here, as well as sunset view from the beach and
 an old lighthouse at Cikoneng. A lot of hotels from jasmine to
 international 5 stars can be tourist best choices to stay. Anyer is a
-popular more..
+popular weekend escape for Jakartans, who come for the calm waters and seafood restaurants along the coast road.
 
 type: Hotspots
 

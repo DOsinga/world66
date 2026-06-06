@@ -22,7 +22,7 @@ worth it. However the ambience is one of the best to be had if you are
 looking for gently bulging sofas amongst rustling palms.
 
 West-facing and located directly on the beach, Le Masoandro Restaurant
-& Bar more..
+& Bar is also one of the best spots in town to catch the sunset over the Mozambique Channel.
 
 type: Seafood
 

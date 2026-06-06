@@ -15,7 +15,7 @@ Your best starting point for planning your holiday in the Lofoten Islands.
 
 Contents: 
 
-Accommodation, Lofoten Islands Activities / outings in Lofoten, Chartered Boats and Coaches Communications in Lofoten, Courses, conferences, meetings, incentives in Lofoten, Cruise Agents / more..
+Accommodation, Lofoten Islands Activities / outings in Lofoten, Chartered Boats and Coaches Communications in Lofoten, Courses, conferences, meetings, incentives in Lofoten, Cruise Agents and tour operators, transport timetables, maps and practical advice for getting from island to island.
 
 Fax: 0047 76074898
 

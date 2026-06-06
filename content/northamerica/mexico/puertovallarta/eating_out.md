@@ -42,7 +42,7 @@ wider view of the ocean and nearby coast.
 Most places with views like this have disappointing food, the thought
 being that you're really just there for the view - but Le Kliff has
 some wonderful, inventive dishes. We enjoyed fire-roasted lobster and
-wonderful ceviche on our last visit, as well as [more..](/northamerica/mexico/puertovallarta/le_kliff_restaurante_bar)
+wonderful ceviche on our last visit, as well as a delicate huachinango (red snapper) grilled with local herbs. Reserve a sunset table on one of the lower palapas for the best view.
 
 type: Mexican
 
@@ -68,7 +68,7 @@ If you spend one evening outside of Puerto Vallarta while visiting Banderas Bay,
 
 The show begins at 8 p.m. with you and a few select others sitting at the counter around M. Le Fort's kitchen sipping kir royale and eating housemade paté. You have a sheet of recipes for the evening's meal to reference as Gilles begins to work his magic.
 
-After preparing the three courses for the evening, you'll adjourn to the dining room to taste the creations. The Le Forts pour two more kinds of wine selected to [more..](/northamerica/mexico/puertovallarta/ecole_de_cuisine_le_fort)
+After preparing the three courses for the evening, you'll adjourn to the dining room to taste the creations. The Le Forts pour two more kinds of wine selected to match the dishes, and the evening winds down with cheese, dessert and unhurried conversation around a single shared table.
 
 type: French
 

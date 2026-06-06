@@ -37,17 +37,17 @@ Very Khoruzhey 6, tel. 231 79 00. Open 08:00 - 19:00. Closed Mon.
 10 minutes’ drive on the highway extending from Masherova tel. 296 72 25.
 
 
- Buy just about anything you can imagine, Radios, shoes made by *nice*, they look like nike. Sports fans can buy *San Fransico 59er* hats, or *New York Raider* shirts. Also there are food more..
+ Buy just about anything you can imagine, Radios, shoes made by *nice*, they look like nike. Sports fans can buy *San Fransico 59er* hats, or *New York Raider* shirts. Also there are food stalls selling cheap meals to keep you going while you browse.
 
 **Artists Market**
 
 Lenina, a short walk from McDonalds, it is halfway between the Metro stops Kupalovskaya and Nemiga.
 
 
- Here you can barter for handcrafted items, paintings, *matroshka*(nesting dolls), etc. If you are staying a while it is possible to get an artist to make a set of nesting dolls [more..](/europe/belarus/minsk/shopping/artistsmarket)
+ Here you can barter for handcrafted items, paintings, *matroshka*(nesting dolls), etc. If you are staying a while it is possible to get an artist to make a set of nesting dolls to your own design, painted with portraits or scenes of your choice.
 
 **Outdoor Art Market**
 
-Located half-way between Oktiabrskaya and Pobedy Square metro stations and tucked away behind the monstrocity of the War museum this is truly a wonderful little market. Some local crafts, but mostly paintings are somewhat tailored to local tastes (still-life, nature, etc.), but there are a more..
+Located half-way between Oktiabrskaya and Pobedy Square metro stations and tucked away behind the monstrocity of the War museum this is truly a wonderful little market. Some local crafts, but mostly paintings somewhat tailored to local tastes (still-life, nature, etc.), with a few genuine surprises among the stalls if you take the time to look.
 
 address: Located beside Great Patriotic War Museum on Oktiabrskaya square

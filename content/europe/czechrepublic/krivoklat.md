@@ -23,7 +23,7 @@ Charles IV also made use of the castle during the 14th century.
 There are now daily tours of the grounds and interior. Located
 aproximately an hour and a half from [Prague](/europe/czechrepublic/prague), Křivoklát Castle has
 many things to see including a library consisting of over 24,000 books
-and rare manuscripts, torture device more..
+and rare manuscripts, a collection of medieval torture devices in the old prison tower, and a Gothic chapel that is among the best preserved in Bohemia.
 
 type: Castles
 

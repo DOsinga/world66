@@ -29,7 +29,7 @@ address: Vodickova, Nove Mesto
 The Staropramen Brewery has its own attached pub - Na Verandách. This is a spot not to be missed. Not only can you taste a range of excellent and varied Staropramen beers (from yeasty to granat to classic), but you can also enjoy a fine meal either inside the stylish bar or outside 'on the veranda'.
 
 The food is top quality and is very reasonably priced. I highly recommend the garlic baguettes and the chicken breast stuffed with roquefort cheese and ham, served with Greek dipping sauce.
-The only failing of this establishment is that some of their staff seem a more..
+The only failing of this establishment is that some of their staff seem a touch indifferent — easy to forgive once the first beer arrives.
 
 
 
@@ -61,7 +61,7 @@ address: Jilska 4
 
 ### @café Inflagranti Třeboň
 
-**Cheapest **internet in Třeboň, 5 PC , café, beer, tea, kokteils and more...
+**Cheapest **internet in Třeboň, 5 PC, café, beer, tea, cocktails and more.
 
 ***Open usualy from 8 - 17.***
 
@@ -79,7 +79,7 @@ address: Chelčického 1, Třeboň, Czech Republic
 
 ***@café Inflagranti Třeboň***
 
-Cheapest internet in Třeboň,5 pc , café, beer, kokteils and more..
+Cheapest internet in Třeboň, 5 pc, café, beer, cocktails and more.
 
 open usualy from 8 - 17
 

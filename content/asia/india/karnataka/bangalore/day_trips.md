@@ -56,7 +56,7 @@ Hogenakkal water falls is on river Kaveri in Dharmapuri district of TamilNadu st
 
 The best time to visit Hogenakkal is just after monsoon but in summer you can enjoy the water falls as well as the breath taking coracle ride! The crocodile park is another place to see. There is a hanging bridge from where you will get a distant view of the falls.
 
-Some snaps more..
+Some snaps and travel notes can be found on the contributor's blog linked below.
 
 
 

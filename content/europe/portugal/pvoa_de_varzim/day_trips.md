@@ -19,7 +19,7 @@ A small historic and picturesque town that belongs to Póvoa de Varzim, Rates is
 
 Visiting Porto from Póvoa de Varzim is as easy as buying a metro ticket and enjoying the ride to the historic centre of [Porto](/europe/portugal/oporto), a world heritage site. Travel time using the express metro is about 49 minutes, but it takes about one hour on a normal one. By motorway, you should simply use the A28 motorway, it ends in Porto and it takes less than 30 minutes to reach the city located less than 28 km away.
 
-It may take some more time, if using the light metro system, but it a comfortable, cheap and useful way of travel and used by many [more..](/europe/portugal/pvoa_de_varzim/day_trips/porto)
+It may take some more time, if using the light metro system, but it a comfortable, cheap and useful way of travel and used by many locals making the same trip.
 
 
 

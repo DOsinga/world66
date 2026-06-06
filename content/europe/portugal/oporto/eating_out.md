@@ -24,7 +24,7 @@ address: Rua do Bonjardim 724
 
 **Majestic Café**
 
-This cafe and restaurant fascinates with its wonderful old interior, you feel like in the 1920's. Sit down and relax, read the newspaper, enjoy a snack at lunchtime or an old port in the afternoon (sometimes they have just opened a vintage port and they offer a glass for 5 Euro). Roada:</ more..
+This cafe and restaurant fascinates with its wonderful old interior, you feel like in the 1920's. Sit down and relax, read the newspaper, enjoy a snack at lunchtime or an old port in the afternoon (sometimes they have just opened a vintage port and they offer a glass for 5 Euro). One of Porto's classic Belle Époque cafés — worth a visit just for the room.
 
 address: Rua de santa catarina 112, 4000-442 Porto
 

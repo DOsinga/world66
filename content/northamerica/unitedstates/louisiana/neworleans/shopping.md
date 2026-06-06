@@ -26,7 +26,7 @@ address: 333 Canal Street, New Orleans LA, 70130
 
 ### [Keil’s Antiques](/northamerica/unitedstates/louisiana/neworleans/shopping/keils_antiques)
 
-If you find something amazing at this fantastic French Quarter antique shop -- which is pretty much a guarantee, don't worry -- you can always have it shipped home. Whatever you purchase on any of the three floors of this antique lover's paradise will be well worth the cost to FedEx it right to your door. The types of items for sale at this 1899 antique shop are limitless. You will find everything from art and estate jewelry to 18th-19th century furniture, chandeliers, lights, and more. Even if you don’t plan to make a purchase, visit stop by anyway. [more..](/northamerica/unitedstates/louisiana/neworleans/shopping/keils_antiques)
+If you find something amazing at this fantastic French Quarter antique shop -- which is pretty much a guarantee, don't worry -- you can always have it shipped home. Whatever you purchase on any of the three floors of this antique lover's paradise will be well worth the cost to FedEx it right to your door. The types of items for sale at this 1899 antique shop are limitless. You will find everything from art and estate jewelry to 18th-19th century furniture, chandeliers, lights, and more. Even if you don’t plan to make a purchase, stop by anyway — the three floors of the old Royal Street building are a museum-grade tour through nineteenth-century Louisiana taste.
 
 type: Antiques
 

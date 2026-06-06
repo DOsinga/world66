@@ -26,7 +26,7 @@ You can find a map of the bus-routes on the following site:
 **
 Timetables (in German) you can look up at:
 **www.kvg-braunschweig.de/go.asp**
-(Click "Fahrpläne" in the menu on the left and then more..
+(Click "Fahrpläne" in the menu on the left and then choose your line or stop to see the timetable.)
 
 
 

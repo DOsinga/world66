@@ -22,7 +22,7 @@ showers, for a small fee. The beach is sandy but there are small
 rocky cliffs nearby, with pagodas. A sightseeing path starts here
 and winds down the coast. You can find a castle right next to the
 beach. The entrance fee is 5 RMB, but it looks better from the
-outside than in. more..
+outside than in.
 
 
 
@@ -38,7 +38,7 @@ There are a lot of people, but the water is much nicer than the Qingdao
 side of the bay. The beach is named for the golden sand, which
 was very refreshing. There's a roped-in swimming area, and
 lifeguards sitting on boats about 200 meters out. All in all, a
-great day trip. But more..
+great day trip, but expect the return ferry to be packed if you leave with the late-afternoon crowd.
 
 
 

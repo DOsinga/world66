@@ -37,6 +37,6 @@ email:
 **Crveni krst** was a concentration camp located in the Serbian city of Niš, and operated by the Nazi Germans during the Second World War.
 
 It is estimated that around 30,000 persons went through this camp,
-and an estimated 12,000 persons where executed on the location of Bubanj. Many of the other inmates were transferred to other camps like Sajmište concentration camp or other camps around Europe. The camp victims included the Jews, Roma, but mostly members of the Yugoslav Communist Party and their sympathisers, [more..](/europe/serbia/nis/sights/nis_concentration)
+and an estimated 12,000 persons where executed on the location of Bubanj. Many of the other inmates were transferred to other camps like Sajmište concentration camp or other camps around Europe. The camp victims included the Jews, Roma, but mostly members of the Yugoslav Communist Party and their sympathisers, alongside Serbian partisans and political prisoners from across the region.
 
 type: Memorials

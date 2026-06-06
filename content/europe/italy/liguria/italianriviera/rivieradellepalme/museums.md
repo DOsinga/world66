@@ -13,7 +13,7 @@ fortress the Pinacoteca Civica of Savona
  The collection is organized on a chronological
  basis that follows the development of the
  schools represented. In the sections devoted to
- painting we find some more..
+ painting we find some outstanding early works, including Donato de' Bardi's Crucifixion, the earliest known painting on canvas in Italy.
 
 **TREASURY OF THE SHRINE OF NOSTRA**
 
@@ -23,7 +23,7 @@ The museum of the Treasury of the Shrine of
  the Shrine immediately after the miraculous
  apparition. It was set up in 1959 by the Fine
  Arts Service of Liguria and has recently
- undergone a restora more..
+ undergone a restoration that has made it much more visitor-friendly, with liturgical silver and vestments now well displayed.
 
 **COLLECTIONS OF THE PRIAMÀR -SAVONA**
 
@@ -34,7 +34,7 @@ The civic museums of Savona are located in
  Nuovo houses the Museo Archeologico,
  displaying finds that cover a span of time from
  the Middle Bronze Age, the period of the
- earliest frequentation of th more..
+ earliest frequentation of the Priamàr hill, all the way through to the nineteenth century.
 
 **MUSEO «MANLIO TRUCCO» -ALBISOLA**
 
@@ -44,7 +44,7 @@ The Museo Civico della Ceramica «Manlio
  pottery, from Savona and Albisola. They
  include a group of around forty majolica
  pharmacy vessels with blue monochrome
- decorations, dating from the seventeenth and more..
+ decorations, dating from the seventeenth and eighteenth centuries.
 
 **CIVIC ARCHEOLOGICAL MUSEUM **
 
@@ -54,7 +54,7 @@ The civic archeological museum of Finale
  collections ranging from the geology of the
  Quaternary period up to the Middle Ages and
  the Modern Age. In the first section we find a
- reconstruction of the Finale more..
+ reconstruction of the Finale region's landscape, with its characteristic karst caves and limestone formations.
 
 **MUSEO DEL VETRO E DELL’ARTE**
 
@@ -67,7 +67,7 @@ MUSEO DEL VETRO E DELL’ARTE
  popularity and reputation were on a par with
  those of Murano all over Europe. «Altare
  means Glass,» and therefore craftsmanship, art
- and culture: a more..
+ and culture: a heritage the museum preserves through its collection of historic pieces and working demonstrations.
 
 **ARCHEOLOGICAL MUSEUM **
 
@@ -80,7 +80,7 @@ ARCHEOLOGICAL MUSEUM “DON
  of considerable importance, both politically as
  the seat of a Municipium and economically, in
  its role as a trade emporium.
- An echo of t more..
+ An echo of that splendor still reverberates through the rooms of the museum, with its Roman inscriptions, coins and household finds.
 
 **CIVICA PINACOTECA **
 
@@ -93,7 +93,7 @@ CIVICA PINACOTECA DI VILLA
  residence of the De Mari family,
  which includes a library and an art gallery.
  The latter is divided into several different
- sections: one of thes more..
+ sections: one of these is devoted to the works that won the «Premio Vado» art competition, held by the commune since 1951.
 
 **NATURAL HISTORY MUSEUM **
 
@@ -107,7 +107,7 @@ NATURAL HISTORY MUSEUM OF
  sections. The zoological one, with its butterfly
  collection, is the most fascinating: here the
  visitor can admire the golden eagle, various
- species of duck, stor more..
+ species of duck, stork, albatross and humming bird, along with a marvellous specimen of the quetzal.
 
 **THE MUSEUMS OF ALBENGA**
 
@@ -117,7 +117,7 @@ Visit the museums of Albenga to discover the
  to admire the Palazzo Vecchio del Comune,
  with its loggia decorated with a large fifteenth-century
  fresco of the Crucifixion in which
- Roman, medieval an more..
+ Roman, medieval and Byzantine marble carvings, along with a first-century mosaic floor, are on display.
 
 **MUSEUM OF THE TOWER CLOCK**
 
@@ -129,7 +129,7 @@ MUSEUM OF THE TOWER CLOCK
  in the ward of Bardino Nuovo. The museum
  contains examples of clocks produced by the
  Fabbrica Artigiana Bergallo, run by a family of
- clockm more..
+ clockmakers since 1860.
 
 **MUSEUM OF THE OLIVE **
 
@@ -140,4 +140,4 @@ MUSEUM OF THE OLIVE AND OF
  seventeenth century testifying to the presence
  of the prized Pignola variety of olive in the
  Arnasco region. Since time immemorial the
- local population, e more..
+ local population, employed chiefly in agriculture, has built its rural calendar around the olive harvest.

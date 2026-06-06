@@ -43,7 +43,7 @@ that touches your heart.
 
 Many of the houses there are the holiday accomodations owned by wealthy
 Malaysians or Singaporeans who do not live in the area. Many of
-these houses are empty, which just adds to the more..
+these houses are empty, which just adds to the slightly eerie, abandoned-hill-station atmosphere of the place.
 
 type: Other
 

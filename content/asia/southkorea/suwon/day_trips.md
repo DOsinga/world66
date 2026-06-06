@@ -15,7 +15,7 @@ Enjoy the world's best indoor and outdoor water park(Caribbean Bay)in Everland.
 
 Feel the speed (Speedway) all here in Everland.
 
-Everland, featuring three distinct parks, has strengthened its position as the leader in leisure culture, providing one of a kind pleasure and happiness to everyone starting from the young and elder to families and more..
+Everland, featuring three distinct parks, has strengthened its position as the leader in leisure culture, providing one of a kind pleasure and happiness to everyone starting from the young and elder to families and groups of friends.
 
 
 

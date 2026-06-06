@@ -7,7 +7,7 @@ type: section
 
 **Sean na Mbads**
 
-Intimate rustic pub at the end of a winding country road, a mere 30 mins drive from the city centre. Marvellous pub food (with extensive menu) plus a restaurant with the most superb home made fare. Great pub and wonderfully reasonable grub. Say hello to Ben, the resident black labrador. Take more..
+Intimate rustic pub at the end of a winding country road, a mere 30 mins drive from the city centre. Marvellous pub food (with extensive menu) plus a restaurant with the most superb home made fare. Great pub and wonderfully reasonable grub. Say hello to Ben, the resident black labrador. Take the coast road back into Cork after dinner — it's a lovely drive.
 
 address: Ringabella, Co, Cork
 

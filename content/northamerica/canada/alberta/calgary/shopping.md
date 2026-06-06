@@ -35,12 +35,12 @@ A street of shops, services, restaurants and galleries just south of downtown, a
 
 **Willow Park Village . **
 
-Over 60 shops and services in a walk-about atmosphere. Fashions, Accessories, Services, plus Specialty Gift Stores and Restaurants. Parking in front of stores. Accessible from Anderson C-Train station. Tel: 403-215-0380 Address: Corner of Macleod Trail and Willow Park Drive, 10816 Macle more..
+Over 60 shops and services in a walk-about atmosphere. Fashions, Accessories, Services, plus Specialty Gift Stores and Restaurants. Parking in front of stores. Accessible from Anderson C-Train station. Tel: 403-215-0380 Address: Corner of Macleod Trail and Willow Park Drive, 10816 Macleod Trail South, Calgary Alberta.
 
 **Downtown On 8th . **
 
 Calgary's largest shopping area encompasses Bankers Hall, The Bay, Eaton Centre, TD Square, Scotia Centre, Penny Lane and the outdoor Stephen Avenue pedestrian mall with street level boutiques. You'll find fashion, souvenirs, nightclubs, cafes, antiques, florists and cinemas. 
- Address: City cent [more..](/northamerica/canada/alberta/calgary/shopping/downtownon8th)
+ Address: City centre, around 8th Avenue SW between 1st Street SE and 4th Street SW.
 
 **Inglewood . **
 
@@ -55,4 +55,4 @@ Marked by the Marda Loop sign hanging above 33 Ave SW, just east of Crowchild Tr
 
 **signal hill center**
 
-Near Calgary’s western outskirts, this centre has several factory outlets: Roots, Jacob, Club Monaco, Cotton Ginny and Danier. Also Pier 1 Imports, Mikasa dinnerware, Indigo books and music, The Shoe Company, Winners, smaller boutiques and restaurants. Tel: 1 403 245-4447 Address: Corner of Sar more..
+Near Calgary’s western outskirts, this centre has several factory outlets: Roots, Jacob, Club Monaco, Cotton Ginny and Danier. Also Pier 1 Imports, Mikasa dinnerware, Indigo books and music, The Shoe Company, Winners, smaller boutiques and restaurants. Tel: 1 403 245-4447 Address: Corner of Sarcee Trail and Richmond Road SW, Calgary Alberta.

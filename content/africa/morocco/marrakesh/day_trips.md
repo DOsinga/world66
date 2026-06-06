@@ -9,7 +9,7 @@ Marrakesh is an ideal starting point to make daytrips to the Atlas mountains. Th
 
 **Berber Tours**
 
-Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due t more..
+Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due to their proximity to the dunes of the Sahara.
 
 email: admin@berbertours.net
 
@@ -19,7 +19,7 @@ Tel: 212-68-51-50-87
 
 **Berber Tours**
 
-Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due t more..
+Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due to their proximity to the dunes of the Sahara.
 
 Address: Ave. Mohamed V
 
@@ -33,7 +33,7 @@ Tel: 212-68-51-50-87
 
 **Berber Tours**
 
-Although based in Zagor, Berber Tours operates as far north as Fez, as far west as Rabat, and as far south as Agadir taking in all of southern Morocco with its 4x4 tours. Its camel treks are organized from either Zagora or M'hamid which are both in the southeastern part of the country. more..
+Although based in Zagor, Berber Tours operates as far north as Fez, as far west as Rabat, and as far south as Agadir taking in all of southern Morocco with its 4x4 tours. Its camel treks are organized from either Zagora or M'hamid which are both in the southeastern part of the country. Itineraries range from overnight desert trips to longer multi-day expeditions across the dunes.
 
 Address: Ave. Mohamed V
 
@@ -47,7 +47,7 @@ Tel: 212-68-51-50-87
 
 **Ourika **
 
-[Ourika](/africa/morocco/ourika) is one of the charming mountain valleys south of the city. Excellent day-trip. A whole lot cooler than downtown Marrakesh.** samir:** I would like to see it** charles zalber:** one one the most flabergasti [more..](/africa/morocco/marrakesh/daytrips/ourika)
+[Ourika](/africa/morocco/ourika) is one of the charming mountain valleys south of the city. Excellent day-trip. A whole lot cooler than downtown Marrakesh.** samir:** I would like to see it** charles zalber:** one of the most flabergasting valleys in the Atlas — green, terraced and dotted with Berber villages.
 
 **Imlil**
 

@@ -27,13 +27,13 @@ tel: 212.753.4000
 
 **9th Street Shops and more**
 
-Ready to shop? Enter 9th Street westward and see shop after shop, most of which do not open before 2pm. Check out witchcraft, candles, incense, books, music and magic at Enchantments. Mind the black cat. Or, if beautiful handicrafts are more your speed, stop by the terrific Clayworks Pottery or t more..
+Ready to shop? Enter 9th Street westward and see shop after shop, most of which do not open before 2pm. Check out witchcraft, candles, incense, books, music and magic at Enchantments. Mind the black cat. Or, if beautiful handicrafts are more your speed, stop by the terrific Clayworks Pottery or the cluster of small jewellery and vintage clothing boutiques further west — the strip rewards browsing more than a checklist.
 
 **UNCLE SAM'S ARMY NAVY OUTFITTERS **
 
 UNCLE SAM'S "YOUR FASHIONABLE ARMY NAVY STORE"
 
-A "fashion-forward" Army Navy retail store for all ages.This store is Cool, they currently stock Military clothing from all over the world, infact 26 different countires currently instock. Pick up a VINTAGE tshirt off their famous $5 rack, or a 1 more..
+A "fashion-forward" Army Navy retail store for all ages.This store is Cool, they currently stock Military clothing from all over the world, infact 26 different countires currently instock. Pick up a VINTAGE tshirt off their famous $5 rack, or rummage the bins of surplus jackets, fatigues and accessories piled to the ceiling.
 
 address: 37 West 8th Street
 

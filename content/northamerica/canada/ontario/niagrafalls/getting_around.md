@@ -40,7 +40,7 @@ Here is a rough list of services:
 
 ---Greyhound of Canada...similar to that of Coach Canada.
 
-Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME DAY returns on Toronto day trips. Check with [more..](/northamerica/canada/ontario/niagrafalls/getting_around/greater_niagara_fa)
+Note that Coach Canada (Trentway Wagar) offers a number of lower rates for SAME DAY returns on Toronto day trips. Check with the terminal staff or the carrier's website before booking — the discount can be substantial if you're back the same evening.
 
 
 
@@ -95,7 +95,7 @@ Leaving Lundy's Lane at Garner Rd on the half hour from 9:30 a.m. to 1:30 a.m.--
 Leaving Downtown on the hour from 9:00 a.m. to 2:00 a.m.-- return leaving Clifton Hill 10 minutes to the hour--last Bus 1:50 a.m.
 
 **Summer
-**June 23 to more..
+**June 23 to early September the Falls Shuttle runs hourly until late into the night — check the current Niagara Transit timetable for exact times, as the summer schedule expands considerably.
 
 
 

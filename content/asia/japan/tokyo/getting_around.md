@@ -10,4 +10,4 @@ The Tokyo subway system is without a doubt the most efficient way to get around 
 
 **Tokyo, other things to see**
 
-Besides the areas in Tokyo described on your website, you musn't forget to add: Odaiba, the fairly new shooping center in the middle of the harbor, with an excellent view of the skyline of Tokyo. Take a boat from Asakusa, the famous Sumida River Cruise (not that spectacular, but hey, do DO have k more..
+Besides the areas in Tokyo described on your website, you musn't forget to add: Odaiba, the fairly new shooping center in the middle of the harbor, with an excellent view of the skyline of Tokyo. Take a boat from Asakusa, the famous Sumida River Cruise (not that spectacular, but hey, you do get a relaxing change of pace and a different angle on the city).

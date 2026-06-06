@@ -12,7 +12,7 @@ Beyond the basics
 
 ### Bass Pro Shops
 
-America's most unique outdoors sporting goods store. Where else do you enter a store by passing through a 56-foot replica of the General Sherman--theworld's largest tree by volume--that's in Sequoia National Park? You can spend hours just meandering through the 120,000 square foot store marveling bellow a 30-foot soaring replica of Yosemite's El Capitan as well as trout swimming in a pond, view numerous murals depcting the great Nortern California outdoors and enjoying more than 3,500 area artifacts, antiques, pictures, mounts and memorabilia plus pictorial and more..
+America's most unique outdoors sporting goods store. Where else do you enter a store by passing through a 56-foot replica of the General Sherman--theworld's largest tree by volume--that's in Sequoia National Park? You can spend hours just meandering through the 120,000 square foot store marveling bellow a 30-foot soaring replica of Yosemite's El Capitan as well as trout swimming in a pond, view numerous murals depcting the great Nortern California outdoors and enjoying more than 3,500 area artifacts, antiques, pictures, mounts and memorabilia plus pictorial displays of California's hunting and fishing heritage.
 
 type: Speciality shops
 

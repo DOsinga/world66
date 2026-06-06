@@ -13,7 +13,7 @@ An Amazon tour is to see the forest, listen to the birds (spot a few) and with m
 
 **Amazon Cruise on the Manatee Explorer**
 
-Amazon Cruises on board the Manatee Amazon Explorer, designed for riverboat cruises and Amazon adventures, yet featuring the comforts and advantages of a cruise ship with modern technology, is the result of 20 years of experience running expeditions others have never conceived possible. [more..](/southamerica/ecuador/amazonbasin/tours_and_excursio/amazon_cruise_on_t)
+Amazon Cruises on board the Manatee Amazon Explorer, designed for riverboat cruises and Amazon adventures, yet featuring the comforts and advantages of a cruise ship with modern technology, is the result of 20 years of experience running expeditions others have never conceived possible. The boat offers multi-day itineraries through the rainforest with guided jungle walks, canoe excursions and visits to indigenous communities.
 
 address: Av. Juan Leon Mera N24-15 y Wilson, Quito - Ecuador
 

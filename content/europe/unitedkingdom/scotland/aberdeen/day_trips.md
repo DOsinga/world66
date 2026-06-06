@@ -18,7 +18,7 @@ troughs levelled with rock from local quarries. The course was
 nicknamed the “Ascot of the North”.
 
 The Observatory was purchased and renovated in the 1990s by the
-local authority. It’s open daily 10 - [more..](/europe/unitedkingdom/scotland/aberdeen/day_trips/pitfour_obsservato)
+local authority. It is open daily from morning until late afternoon during the summer months; check locally for current hours.
 
 
 
@@ -33,7 +33,7 @@ and birds.
 Forvie’s Curse, according to local
 folklore, tells of three sisters who were set adrift in a leaky boat so that they
 could not inherit. The sisters placed a curse on Forvie, saying the it
-should only contain thistle and sand. The curse resulted in a [more..](/europe/unitedkingdom/scotland/aberdeen/day_trips/forvie_nature_rese)
+should only contain thistle and sand. The curse resulted in a great sandstorm in the 1400s that buried the village of Forvie for good — the ruined chapel poking out of the dunes is all that remains.
 
 
 

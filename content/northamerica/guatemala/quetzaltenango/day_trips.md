@@ -25,7 +25,7 @@ email: patricia@adrenalinatours.com
 
 ### Volcan Chicabal
 
-The majority of inhabitants of San Martín Sacatepéquez are indigenous from the Mam tribe. For them, the Laguna Chicabal is sacred and miraculous. The shape of the Laguna and the fog that shrouds the volcano only serve to enhance the mysticism of the place. Maya priests perform traditional sacrificial ceremonies on the shore using candles, flowers and holy crosses. Our local guides will take you to the Chicabal Lagoon to experience the ancient beauty first hand. You can learn about the Maya religion, Maya culture and about the different plants and animals. During the hike you more..
+The majority of inhabitants of San Martín Sacatepéquez are indigenous from the Mam tribe. For them, the Laguna Chicabal is sacred and miraculous. The shape of the Laguna and the fog that shrouds the volcano only serve to enhance the mysticism of the place. Maya priests perform traditional sacrificial ceremonies on the shore using candles, flowers and holy crosses. Our local guides will take you to the Chicabal Lagoon to experience the ancient beauty first hand. You can learn about the Maya religion, Maya culture and about the different plants and animals. During the hike you'll pass through cloud forest and farmland before descending the steep stairway to the crater rim. Wear sturdy shoes and bring a jacket — the lagoon sits at around 2,700 m and the weather turns quickly.
 
 
 

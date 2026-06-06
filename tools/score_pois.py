@@ -94,22 +94,31 @@ def open_db():
     return conn
 
 
-def embed_texts(texts):
-    """Embed a list of texts using the same model as indexer.py."""
+def get_embedding_config(conn):
+    """Read model name and dimension from the DB config table."""
+    model = conn.execute("SELECT value FROM config WHERE key='embedding_model'").fetchone()
+    dim = conn.execute("SELECT value FROM config WHERE key='embedding_dim'").fetchone()
+    return (model[0] if model else "openai:text-embedding-3-small",
+            int(dim[0]) if dim else 512)
+
+
+def embed_texts(texts, model, dim):
+    """Embed a list of texts using the same model and dimension as the index."""
     from openai import OpenAI
     client = OpenAI()
-    resp = client.embeddings.create(model="text-embedding-3-small", input=texts)
+    model_name = model[len("openai:"):] if model.startswith("openai:") else model
+    resp = client.embeddings.create(model=model_name, input=texts, dimensions=dim)
     vecs = [np.array(d.embedding, dtype=np.float32) for d in resp.data]
-    # Normalise to unit vectors (indexer does the same)
     return [v / np.linalg.norm(v) for v in vecs]
 
 
-def load_ideal_embeddings():
+def load_ideal_embeddings(conn):
     """Return {tag: unit_vector} for each scoring tag."""
+    model, dim = get_embedding_config(conn)
     tags = list(TAG_IDEALS.keys())
     texts = [TAG_IDEALS[t] for t in tags]
-    print(f"Embedding {len(tags)} ideal descriptions...")
-    vecs = embed_texts(texts)
+    print(f"Embedding {len(tags)} ideal descriptions (model={model}, dim={dim})...")
+    vecs = embed_texts(texts, model, dim)
     return dict(zip(tags, vecs))
 
 
@@ -143,12 +152,14 @@ def load_embedding(conn, db_path):
     return np.frombuffer(row[0], dtype=np.float32).copy()
 
 
-def score_poi(poi_embedding, tag, ideal_embeddings):
-    """Return cosine similarity of the POI embedding to the ideal for tag."""
-    ideal = ideal_embeddings.get(tag)
-    if ideal is None:
-        return None
-    return float(np.dot(poi_embedding, ideal))
+def score_poi_all_tags(poi_embedding, poi_tags, ideal_embeddings):
+    """Return {tag: score} for every scoring tag the POI carries."""
+    scores = {}
+    for tag in poi_tags:
+        ideal = ideal_embeddings.get(tag)
+        if ideal is not None:
+            scores[tag] = round(float(np.dot(poi_embedding, ideal)), 4)
+    return scores
 
 
 def resolve_file_path(db_path):
@@ -169,10 +180,10 @@ def load_poi_tags(file_path):
     return []
 
 
-def write_score(file_path, score):
-    """Write (or update) the score field in a POI's frontmatter."""
+def write_scores(file_path, scores):
+    """Write (or update) the scores dict in a POI's frontmatter."""
     post = frontmatter.load(file_path)
-    post.metadata["score"] = round(score, 4)
+    post.metadata["scores"] = scores
     with open(file_path, "wb") as f:
         frontmatter.dump(post, f)
 
@@ -192,7 +203,7 @@ def main():
     if not has_emb:
         sys.exit("embeddings table not found in search.db — run indexer.py first")
 
-    ideal_embeddings = load_ideal_embeddings()
+    ideal_embeddings = load_ideal_embeddings(conn)
 
     db_paths = find_poi_paths(conn, args.path)
     if not db_paths:
@@ -203,26 +214,24 @@ def main():
     for db_path in db_paths:
         file_path = resolve_file_path(db_path)
         tags = load_poi_tags(file_path)
-        scoring_tag = pick_scoring_tag(tags)
-        if not scoring_tag:
-            skipped_no_tag += 1
-            continue
+        scores = {}
+        if tags:
+            poi_emb = load_embedding(conn, db_path)
+            if poi_emb is None:
+                skipped_no_emb += 1
+                continue
+            scores = score_poi_all_tags(poi_emb, tags, ideal_embeddings)
 
-        poi_emb = load_embedding(conn, db_path)
-        if poi_emb is None:
-            skipped_no_emb += 1
-            continue
-
-        s = score_poi(poi_emb, scoring_tag, ideal_embeddings)
-        if s is None:
+        if not scores:
             skipped_no_tag += 1
             continue
 
         if args.dry_run:
             title = frontmatter.load(file_path).metadata.get("title", db_path)
-            print(f"  {s:.4f}  [{scoring_tag}]  {title}")
+            scores_str = "  ".join(f"{t}={s:.4f}" for t, s in sorted(scores.items()))
+            print(f"  {title}: {scores_str}")
         else:
-            write_score(file_path, s)
+            write_scores(file_path, scores)
             scored += 1
 
     if not args.dry_run:

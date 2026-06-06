@@ -16,6 +16,7 @@ Checks:
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
+  broken_link              markdown link to /<path> doesn't resolve  [report]
 
 Exits non-zero if any unfixable issues remain after fixes are applied.
 """
@@ -238,6 +239,7 @@ class Page:
     path: Path
     page_type: str
     meta: dict
+    body: str = ""
 
 
 def check_md_inside_own_dir(pages: list[Page]) -> list[Issue]:
@@ -367,6 +369,52 @@ def _make_slug_rename_fixer(path: Path, new_slug: str) -> Callable[[], bool]:
     return do
 
 
+# Markdown link: [text](url) — excludes images (![...]) via negative lookbehind
+MD_LINK_RE = re.compile(r"(?<!\!)\[[^\]]*\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
+
+
+def _build_path_index() -> set[Path]:
+    """All real .md file paths under content/, as Path objects."""
+    return {p for p in CONTENT_DIR.rglob("*.md")}
+
+
+def _url_resolves(url: str, path_index: set[Path]) -> bool:
+    """Mimic guide/models.load_page: try content/<url>.md and content/<url>/<slug>.md."""
+    # Strip query string and fragment
+    url = url.split("#", 1)[0].split("?", 1)[0]
+    url = url.lstrip("/")
+    if not url:
+        return False
+    slug = url.rsplit("/", 1)[-1] if "/" in url else url
+    candidates = [
+        CONTENT_DIR / f"{url}.md",
+        CONTENT_DIR / url / f"{slug}.md",
+    ]
+    return any(c in path_index for c in candidates)
+
+
+def check_broken_links(pages: list[Page]) -> list[Issue]:
+    """Find internal markdown links to /<path> that don't resolve."""
+    path_index = _build_path_index()
+    issues = []
+    for p in pages:
+        seen: set[str] = set()
+        for m in MD_LINK_RE.finditer(p.body):
+            url = m.group(1).strip()
+            # Only check internal links starting with /
+            if not url.startswith("/"):
+                continue
+            if url in seen:
+                continue
+            seen.add(url)
+            if not _url_resolves(url, path_index):
+                issues.append(Issue(
+                    path=p.path, check="broken_link",
+                    message=f"link to {url!r} does not resolve",
+                ))
+    return issues
+
+
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
@@ -375,6 +423,7 @@ CHECKS = [
     check_continent_misplaced,
     check_country_misplaced,
     check_non_canonical_section,
+    check_broken_links,
 ]
 
 
@@ -400,6 +449,7 @@ def collect_parse_issues() -> tuple[list[Issue], list[Page]]:
             path=path,
             page_type=post.metadata.get("type", "location"),
             meta=post.metadata,
+            body=post.content,
         ))
     return parse_issues, pages
 

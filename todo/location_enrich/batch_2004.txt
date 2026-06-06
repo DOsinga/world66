@@ -1,5 +1,0 @@
-africa/tanzania/zanzibar
-australiaandpacific/australia/queensland/goldcoast
-australiaandpacific/frenchpolynesia/tahiti
-southamerica/peru/machupicchu
-asia/jordan/deadsea

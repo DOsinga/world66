@@ -1,5 +1,0 @@
-europe/italy/dolomites
-europe/greece/zakynthos
-europe/croatia/dalmatia/dubrovnik
-europe/croatia/dalmatia/split
-europe/croatia/dalmatia/hvar

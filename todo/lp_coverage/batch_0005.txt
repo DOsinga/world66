@@ -1,5 +1,0 @@
-asia/india/kerala/alleppey
-asia/india/pondicherry
-asia/srilanka/mirissa
-asia/srilanka/arugambay
-asia/srilanka/nuwaraeliya

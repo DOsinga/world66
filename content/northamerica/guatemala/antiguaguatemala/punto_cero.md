@@ -10,7 +10,7 @@ snippet: Rooftop bar one block from Central Park with cheap drinks and fast Wi-F
 tags:
 - bars_and_cafes
 - nightlife
-- nightlife_and_ente
+- nightlife_and_entertainment
 title: Punto Cero
 type: poi
 ---

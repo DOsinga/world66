@@ -1,5 +1,5 @@
 ---
-title: "Bienvenidos a Macondo" Sign
+title: "\"Bienvenidos a Macondo\" Sign"
 type: poi
 latitude: 10.589
 longitude: -74.187

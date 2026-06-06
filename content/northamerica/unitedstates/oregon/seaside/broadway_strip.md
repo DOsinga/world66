@@ -3,7 +3,7 @@ title: "Broadway Strip"
 type: poi
 latitude: 45.9947
 longitude: -123.9258
-snippet: The main drag from the highway to the beach: salt-water taffy, bumper cars, surf rentals, and the full seaside resort experience
+snippet: "The main drag from the highway to the beach: salt-water taffy, bumper cars, surf rentals, and the full seaside resort experience"
 tags:
   - things_to_do
   - sight

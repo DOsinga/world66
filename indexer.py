@@ -3,6 +3,7 @@ import hashlib
 import json
 import os
 import time
+from datetime import datetime
 from pathlib import Path
 
 import apsw
@@ -13,6 +14,14 @@ import yaml
 
 CONTENT_DIR = Path("content")
 DB_PATH = Path("search.db")
+LOG_PATH = Path("indexer.log")
+
+
+def log(msg):
+    line = f"{datetime.now().strftime('%H:%M:%S')}  {msg}"
+    print(line, flush=True)
+    with LOG_PATH.open("a") as f:
+        f.write(line + "\n")
 
 DEFAULT_LOCAL_MODEL = "mlx-community/Qwen3-Embedding-4B-4bit-DWQ"
 DEFAULT_OPENAI_MODEL = "openai:text-embedding-3-small"
@@ -87,14 +96,21 @@ def _openai_model_name():
 
 def _embed_openai_batch(texts):
     """Embed a batch of texts via OpenAI. Returns list of unit vectors of EMBEDDING_DIM."""
+    from openai import RateLimitError
     client = _get_openai_client()
-    # text-embedding-3-* support Matryoshka via the `dimensions` parameter.
-    resp = client.embeddings.create(
-        model=_openai_model_name(),
-        input=texts,
-        dimensions=EMBEDDING_DIM,
-    )
-    return [np.array(d.embedding, dtype=np.float32) for d in resp.data]
+    delay = 5
+    while True:
+        try:
+            resp = client.embeddings.create(
+                model=_openai_model_name(),
+                input=texts,
+                dimensions=EMBEDDING_DIM,
+            )
+            return [np.array(d.embedding, dtype=np.float32) for d in resp.data]
+        except RateLimitError:
+            log(f"  rate limit hit, retrying in {delay}s...")
+            time.sleep(delay)
+            delay = min(delay * 2, 60)
 
 
 # ----- Shared ----------------------------------------------------------------
@@ -204,10 +220,15 @@ def extract(path):
 def index_file(conn, path):
     rel = str(path.relative_to(CONTENT_DIR))
     mtime = path.stat().st_mtime
-    h = file_hash(path)
 
     row = conn.execute("SELECT mtime, hash FROM meta WHERE path=?", (rel,)).fetchone()
-    content_changed = not row or row[0] != mtime or row[1] != h
+    # Skip hashing if mtime matches — avoids reading file contents for unchanged files
+    if row and row[0] == mtime:
+        content_changed = False
+        h = row[1]
+    else:
+        h = file_hash(path)
+        content_changed = not row or row[1] != h
 
     title = body = page_type = None
     if content_changed:
@@ -252,24 +273,34 @@ def _log_progress(i, total, t0, last_log):
 def embed_pending(conn, pending):
     if not pending:
         return
-    print(f"Embedding {len(pending)} files via {EMBEDDING_MODEL}...")
+    log(f"Embedding {len(pending)} files via {EMBEDDING_MODEL}...")
     t0 = time.time()
     last_log = t0
 
     if is_openai(EMBEDDING_MODEL):
         for i in range(0, len(pending), OPENAI_BATCH_SIZE):
+            batch_num = i // OPENAI_BATCH_SIZE + 1
+            total_batches = (len(pending) + OPENAI_BATCH_SIZE - 1) // OPENAI_BATCH_SIZE
             chunk = pending[i:i + OPENAI_BATCH_SIZE]
             paths = [p for p, _ in chunk]
             texts = [t for _, t in chunk]
             vectors = _embed_openai_batch(texts)
+            conn.execute("BEGIN")
             for path, vec in zip(paths, vectors):
                 _store_embedding(conn, path, _truncate_normalize(vec))
+            conn.execute("COMMIT")
             done = min(i + OPENAI_BATCH_SIZE, len(pending))
-            last_log = _log_progress(done, len(pending), t0, last_log)
+            elapsed = time.time() - t0
+            rate = done / elapsed if elapsed else 0
+            eta = (len(pending) - done) / rate if rate else 0
+            log(f"  batch {batch_num}/{total_batches}  ({done}/{len(pending)} docs, {rate:.1f}/s, eta {eta/60:.1f} min)")
+            last_log = time.time()
     else:
         for i, (path, text) in enumerate(pending, 1):
             vec = _embed_local(text)
+            conn.execute("BEGIN")
             _store_embedding(conn, path, vec)
+            conn.execute("COMMIT")
             last_log = _log_progress(i, len(pending), t0, last_log)
 
 
@@ -288,10 +319,14 @@ def run():
 
     pending = []
     total = 0
+    LOG_PATH.unlink(missing_ok=True)
+    log("Phase 1/2: indexing files...")
     conn.execute("BEGIN")
     try:
         for path in CONTENT_DIR.rglob("*.md"):
             total += 1
+            if total % 1000 == 0:
+                log(f"  {total} files scanned, {len(pending)} pending embeddings...")
             result = index_file(conn, path)
             if result:
                 pending.append(result)
@@ -301,17 +336,14 @@ def run():
         conn.execute("ROLLBACK")
         raise
 
+    log(f"Phase 1/2 done: {total} files indexed, {len(pending)} need embeddings")
+
     if pending:
-        conn.execute("BEGIN")
-        try:
-            embed_pending(conn, pending)
-            conn.execute("COMMIT")
-        except Exception:
-            conn.execute("ROLLBACK")
-            raise
+        log("Phase 2/2: embedding...")
+        embed_pending(conn, pending)
 
     conn.close()
-    print(f"Indexed {total} files; {len(pending)} (re)embedded")
+    log(f"Done. Indexed {total} files; {len(pending)} (re)embedded")
 
 
 def main():

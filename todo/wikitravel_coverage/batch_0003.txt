@@ -1,5 +1,0 @@
-africa/namibia/etosha
-africa/uganda/bwindi
-southamerica/brazil/fernando_de_noronha
-europe/france/midi/luberon
-europe/france/midi/verdongorge

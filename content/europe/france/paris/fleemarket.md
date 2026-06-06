@@ -3,6 +3,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.8986
 longitude: 2.3431
+scores:
+  market: 0.4301
 snippet: World's largest flea market at Porte de Clignancourt
 tags:
 - shopping

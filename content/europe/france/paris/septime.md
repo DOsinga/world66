@@ -4,6 +4,8 @@ latitude: 48.852731
 longitude: 2.378919
 opening_hours: Mon–Fri lunch and dinner; closed Sat–Sun
 price_range: €60–90 tasting menu
+scores:
+  restaurant: 0.4723
 snippet: The most celebrated of Paris's new-wave bistros
 tags:
 - eating_out

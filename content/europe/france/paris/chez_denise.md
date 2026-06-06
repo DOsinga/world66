@@ -2,8 +2,11 @@
 address: 5 Rue des Prouvaires, 75001 Paris
 latitude: 48.862277
 longitude: 2.346388
-opening_hours: Mon–Fri noon–5am; closed Sat–Sun (open Sat nights for pre-arranged bookings)
+opening_hours: Mon–Fri noon–5am; closed Sat–Sun (open Sat nights for pre-arranged
+  bookings)
 price_range: €25–40
+scores:
+  restaurant: 0.3807
 snippet: All-night Les Halles bistro serving Paris market workers since 1954
 tags:
 - eating_out

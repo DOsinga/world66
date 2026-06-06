@@ -4,6 +4,9 @@ admission: Palace €21; Gardens free (weekdays) or €10 (fountain shows)
 latitude: 48.804791
 longitude: 2.120148
 opening_hours: Tue–Sun 9am–5:30pm (park until sunset); closed Mon
+scores:
+  architecture: 0.2497
+  sight: 0.2277
 snippet: The Sun King's palace, 45 minutes from Paris by RER
 tags:
 - things_to_do

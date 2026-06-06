@@ -3,6 +3,8 @@ address: 43 Rue des Abbesses, 75018 Paris
 latitude: 48.884127
 longitude: 2.337879
 opening_hours: Daily 11am–10pm
+scores:
+  bar: 0.434
 snippet: Neighbourhood wine shop and bar in the heart of Montmartre
 tags:
 - bars_and_cafes

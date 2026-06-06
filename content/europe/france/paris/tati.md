@@ -3,6 +3,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.8831
 longitude: 2.3491
+scores:
+  market: 0.3793
+  sight: 0.232
 snippet: Legendary Paris bargain store, now closed since 2020
 tags:
 - shopping

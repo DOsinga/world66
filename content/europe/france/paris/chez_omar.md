@@ -4,6 +4,8 @@ latitude: 48.861821
 longitude: 2.359042
 opening_hours: Mon–Sat noon–2:30pm, 7pm–11:30pm; Sun dinner only
 price_range: €20–35
+scores:
+  restaurant: 0.4266
 snippet: Legendary Marais couscous restaurant, no reservations, always a queue
 tags:
 - eating_out

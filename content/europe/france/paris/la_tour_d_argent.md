@@ -7,6 +7,8 @@ longitude: 2.354915
 opening_hours: Tue–Sat noon–2pm and 7:30pm–10pm; closed Sun–Mon
 phone: +33 1 43 54 23 31
 price_per_night: €200+ per person
+scores:
+  sight: 0.2486
 snippet: Historic rooftop restaurant famous for its numbered pressed duck
 tags:
 - eating_out

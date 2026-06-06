@@ -4,6 +4,8 @@ latitude: 48.869218
 longitude: 2.362791
 opening_hours: Mon–Sat 8am–2am; Sun 10am–2am
 price_range: €4–8 drinks
+scores:
+  bar: 0.3423
 snippet: The original canal-side cafe that made the Canal Saint-Martin fashionable
 tags:
 - bars_and_cafes

@@ -4,6 +4,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.8592
 longitude: 2.3418
+scores:
+  architecture: 0.3772
+  market: 0.3265
 snippet: Art Nouveau department store with stunning rooftop views
 tags:
 - shopping

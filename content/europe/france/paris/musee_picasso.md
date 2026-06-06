@@ -4,8 +4,14 @@ admission: €14; free first Sun of the month
 latitude: 48.859741
 longitude: 2.362292
 opening_hours: Tue–Fri 10:30am–6pm, Sat–Sun 9:30am–6pm; closed Mon
+scores:
+  museum: 0.4311
 snippet: World's largest public Picasso collection, in a splendid 17th-century Marais
   mansion
+story: When Picasso died in 1973 without a will, his estate was subject to French
+  inheritance tax. His heirs paid it in kind — donating artworks at a valeur fiscale
+  agreed with the state. This 'dation' arrangement, used for the first time at this
+  scale, gave France its Picasso museum from the tax liability of a single death.
 tags:
 - things_to_do
 - museum
@@ -13,7 +19,6 @@ tags:
 title: Musée Picasso Paris
 type: poi
 url: www.museepicassoparis.fr
-story: "When Picasso died in 1973 without a will, his estate was subject to French inheritance tax. His heirs paid it in kind — donating artworks at a valeur fiscale agreed with the state. This 'dation' arrangement, used for the first time at this scale, gave France its Picasso museum from the tax liability of a single death."
 ---
 
 The Musée Picasso is housed in the magnificent Hôtel Salé, a 17th-century mansion in the Marais, and holds the largest public collection of Picasso's work in the world: over 5,000 drawings, engravings, paintings, sculptures, and ceramics spanning his entire career from the Blue Period to Cubism to his final years.

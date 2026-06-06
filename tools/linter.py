@@ -301,8 +301,12 @@ def check_continent_misplaced(pages: list[Page]) -> list[Issue]:
 
 
 def check_country_misplaced(pages: list[Page]) -> list[Issue]:
-    """Files directly under a continent dir should be country locations."""
-    # First find continent slugs
+    """Non-section children of a continent dir should be country locations.
+
+    Section files at the continent root (`africa/books.md`, `asia/people.md`,
+    etc.) are legitimate continent-wide sections per CONTINENTS.md and are
+    skipped.
+    """
     continent_dirs = set()
     for p in pages:
         if (p.page_type == "location"
@@ -313,8 +317,9 @@ def check_country_misplaced(pages: list[Page]) -> list[Issue]:
     for p in pages:
         if p.path.parent not in continent_dirs:
             continue
-        # Skip the continent self-file if any landed here by mistake
         if p.path.parent.name == p.path.stem:
+            continue
+        if p.page_type == "section":
             continue
         if p.page_type != "location" or p.meta.get("loc_type") != "country":
             issues.append(Issue(

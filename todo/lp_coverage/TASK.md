@@ -99,10 +99,20 @@ location for that destination.
 9. **Link POIs from the overview.** After creating POI pages, re-read the overview and
    add markdown links wherever a POI name is mentioned.
 
-10. **Add hero images to the location and all sub-locations.** Every location and
-    sub-location page must have an `image:` field. Use the `find-photo` skill for each
-    one that is missing it. Do not auto-pick without review. Do not leave any page —
-    including child city or region pages — without an image.
+10. **Add hero images to the location and all sub-locations — both the file AND the frontmatter.**
+    Every location and sub-location page should have a working `image:`. Use `tools/find_photo.py`:
+    ```
+    python3 tools/find_photo.py --no-classify /<content-path>
+    ```
+    The path is `/europe/italy/campania/amalfi` (leading slash, no `content/` prefix, no `.md`). The script prints candidate thumbnails as JSON. Pick the best by reading the `thumb_path` files. Then:
+    ```
+    python3 tools/find_photo.py --select-meta '<json-of-chosen-candidate>' /<content-path>
+    ```
+    This **downloads the image, resizes it, saves it next to the `.md`, AND writes the `image:`/`image_source:`/`image_license:`/`image_attribution:` frontmatter fields** — all in one call. The local image filename will be the slug.
+
+    Do NOT write `image:` frontmatter manually without doing the download — that leaves a broken reference (the .md points at a file that isn't on disk).
+
+    If `find_photo.py` returns no candidate for a page (exit code 1, empty `candidates` array), leave that page's hero image off. Don't fabricate sources.
 
 11. **Mark done** in frontmatter:
     `python3 tools/mark_done.py lp_coverage <path/to/page.md>`

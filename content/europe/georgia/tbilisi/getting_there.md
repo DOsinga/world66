@@ -3,8 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Tbilisi is the main travel hub of Georgia and has the best transport facilities of the country. The main bus station is located at Didube station - reached from the center by metro. Buses and taxis leave for Vladikavkaz in Russia, and even [Moscow](/europe/russia/moscow) - this may take up to five days.
+**By air:** Tbilisi International Airport (TBS) is about 18 km east of the city centre. It connects to most major European hubs (Frankfurt, Istanbul, Vienna, Warsaw, Amsterdam, London) as well as the Gulf and the broader former-Soviet region. The journey from the airport to the centre takes 30–40 minutes by taxi, which costs 25–35 GEL by meter. There is also a regular express train service from the airport to the central railway station.
 
-There are trains to [Armenia](/europe/armenia) but they are very slow. The night train to [Yerevan](/europe/armenia/yerevan) takes 15 hours on a good day. A bed in a coupe costs 12 dollar.
+**By train:** Night trains run to [Yerevan](/europe/armenia/yerevan) (about 9–12 hours) and daytime services to [Batumi](/europe/georgia/batumi) on the Black Sea coast (about 5 hours). The main railway station is at Didube, accessible by metro from the city centre.
 
-The airport is some 15 km from the center. A taxi costs you between 5 and 10 dollar - count on the latter unless you drive a very hard bargain or can pose as a local.
+**By bus/marshrutka:** Minibuses (marshrutkas) to all parts of Georgia depart from Didube bus station. International bus services run to Istanbul (around 20 hours), Yerevan, and Baku.
+
+**By road:** The Georgian Military Highway north via the Dariali Gorge crosses into Russia at Lars. The border is open but occasionally closes for security reasons. Roads to Armenia and Azerbaijan are straightforward.

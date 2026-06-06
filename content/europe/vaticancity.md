@@ -8,7 +8,7 @@ image_attribution: Diliff
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg
 latitude: 41.9029
-loc_type: city
+loc_type: country
 longitude: 12.4534
 title: Vatican City
 type: location

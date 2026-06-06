@@ -373,54 +373,56 @@ def _make_slug_rename_fixer(path: Path, new_slug: str) -> Callable[[], bool]:
 MD_LINK_RE = re.compile(r"(?<!\!)\[[^\]]*\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
 
 
-def _build_path_index() -> set[Path]:
-    """All real .md file paths under content/, as Path objects."""
-    return {p for p in CONTENT_DIR.rglob("*.md")}
+def _nfc(s: str) -> str:
+    """Normalize string to Unicode NFC.
 
-
-def _build_stem_index() -> dict[Path, set[str]]:
-    """For each dir under content/, the set of .md stems anywhere beneath it.
-
-    Used to resolve tag-routed URLs like /city/nav_slug/poi_slug where the POI
-    file may live deeper in the city tree (e.g. content/city/poi.md) and the
-    nav_slug segment is the tag that collects it.
+    HFS+ on macOS stores filenames in NFD (combining accents); markdown URLs
+    typically use NFC (precomposed chars). Same visual character, different
+    bytes. Normalize both sides before comparison.
     """
-    idx: dict[Path, set[str]] = {}
+    import unicodedata
+    return unicodedata.normalize("NFC", s)
+
+
+def _build_path_index() -> set[str]:
+    """All real .md file paths under content/, as NFC-normalized strings."""
+    return {_nfc(str(p)) for p in CONTENT_DIR.rglob("*.md")}
+
+
+def _build_stem_index() -> dict[str, set[str]]:
+    """For each dir under content/ (as NFC string), the set of .md stems
+    anywhere beneath it."""
+    idx: dict[str, set[str]] = {}
     for f in CONTENT_DIR.rglob("*.md"):
         d = f.parent
+        stem = _nfc(f.stem)
         while d != CONTENT_DIR.parent:
-            idx.setdefault(d, set()).add(f.stem)
+            idx.setdefault(_nfc(str(d)), set()).add(stem)
             if d == CONTENT_DIR:
                 break
             d = d.parent
     return idx
 
 
-def _url_resolves(url: str, path_index: set[Path],
-                  stem_index: dict[Path, set[str]]) -> bool:
-    """Resolve a link the way guide/views.py does: direct page lookup OR
-    tag-routed URL (/city/nav_slug/poi_slug where poi exists anywhere under
-    city tagged with nav_slug)."""
+def _url_resolves(url: str, path_index: set[str],
+                  stem_index: dict[str, set[str]]) -> bool:
+    """Resolve a link the way guide/views.py does."""
+    from urllib.parse import unquote
     url = url.split("#", 1)[0].split("?", 1)[0]
-    url = url.lstrip("/")
+    url = _nfc(unquote(url)).lstrip("/")
     if not url:
         return False
     slug = url.rsplit("/", 1)[-1] if "/" in url else url
-    # Direct lookup mimicking load_page
-    if (CONTENT_DIR / f"{url}.md") in path_index:
+    if _nfc(str(CONTENT_DIR / f"{url}.md")) in path_index:
         return True
-    if (CONTENT_DIR / url / f"{slug}.md") in path_index:
+    if _nfc(str(CONTENT_DIR / url / f"{slug}.md")) in path_index:
         return True
-    # Tag-routed: walk back through prefix splits, treat trailing segment as
-    # poi slug. We don't verify the actual tag — we just check the slug exists
-    # somewhere beneath the candidate city prefix. False positives are rare
-    # since slugs are reasonably unique within a city tree.
     parts = url.split("/")
     if len(parts) < 3:
         return False
     poi_slug = parts[-1]
     for city_len in range(len(parts) - 2, 0, -1):
-        city_dir = CONTENT_DIR / "/".join(parts[:city_len])
+        city_dir = _nfc(str(CONTENT_DIR / "/".join(parts[:city_len])))
         if city_dir not in stem_index:
             continue
         if poi_slug in stem_index[city_dir]:

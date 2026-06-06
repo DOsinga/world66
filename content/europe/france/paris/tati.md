@@ -9,8 +9,6 @@ scores:
 snippet: Legendary Paris bargain store, now closed since 2020
 tags:
 - shopping
-- sight
-- market
 - montmartre
 title: Tati
 type: poi

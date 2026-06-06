@@ -5,8 +5,9 @@ latitude: 48.855508
 longitude: 2.344988
 opening_hours: Daily 9am–7pm (Oct–Mar closes 5pm)
 scores:
-  architecture: 0.3512
-  sight: 0.3183
+  architecture: 0.3513
+  church: 0.456
+  sight: 0.3182
 snippet: The most breathtaking Gothic interior in Paris, a chapel made of stained
   glass
 story: Louis IX paid the Latin Emperor of Constantinople 135,000 livres tournois for
@@ -18,6 +19,7 @@ tags:
 - sight
 - architecture
 - latin_quarter
+- church
 title: Sainte-Chapelle
 type: poi
 url: www.sainte-chapelle.fr

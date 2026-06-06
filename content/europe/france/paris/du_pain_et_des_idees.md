@@ -8,7 +8,6 @@ scores:
 snippet: Paris's most celebrated bakery, worth a detour for the croissants alone
 tags:
 - eating_out
-- market
 title: Du Pain et des Idées
 type: poi
 url: www.dupainetdesidees.com

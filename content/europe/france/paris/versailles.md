@@ -6,12 +6,14 @@ longitude: 2.120148
 opening_hours: Tue–Sun 9am–5:30pm (park until sunset); closed Mon
 scores:
   architecture: 0.2288
+  historic: 0.3076
   sight: 0.2677
 snippet: The Sun King's palace, 45 minutes from Paris by RER
 tags:
 - things_to_do
 - sight
 - architecture
+- historic
 title: Palace of Versailles
 type: poi
 url: en.chateauversailles.fr

@@ -4,7 +4,8 @@ latitude: 48.863859
 longitude: 2.337047
 opening_hours: Gardens open daily 8am–10:30pm (8pm in winter)
 scores:
-  architecture: 0.2687
+  architecture: 0.2688
+  park: 0.4875
   sight: 0.3006
 snippet: Arcaded garden palace with Buren's striped columns and excellent cafes
 story: On the evening of 12 July 1789, a young journalist named Camille Desmoulins
@@ -16,6 +17,7 @@ tags:
 - sight
 - architecture
 - leshalles
+- park
 title: Palais Royal Gardens
 type: poi
 ---

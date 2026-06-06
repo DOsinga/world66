@@ -9,9 +9,6 @@ scores:
 snippet: Grand Haussmann-era department store with a stunning glass dome
 tags:
 - shopping
-- sight
-- architecture
-- market
 title: Au Printemps
 type: poi
 ---

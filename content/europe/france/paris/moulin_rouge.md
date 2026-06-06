@@ -7,10 +7,13 @@ longitude: 2.332356
 opening_hours: Shows at 9pm and 11pm nightly
 phone: +33 1 53 09 82 82
 price: Show only from €87; dinner and show from €195
+scores:
+  sight: 0.325
 snippet: the original Belle Époque cabaret, still spectacular
 tags:
 - things_to_do
 - montmartre
+- sight
 title: Moulin Rouge
 type: poi
 url: www.moulinrouge.fr

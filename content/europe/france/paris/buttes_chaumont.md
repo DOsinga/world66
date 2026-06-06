@@ -7,12 +7,12 @@ latitude: 48.878396
 longitude: 2.381201
 opening_hours: Daily 7am–10pm (summer), 7am–dusk (winter)
 scores:
-  sight: 0.3442
+  park: 0.4091
 snippet: Dramatic cliffs, waterfalls, and a hilltop temple in a quarry-turned-park
 tags:
 - things_to_do
-- sight
 - belleville
+- park
 title: Parc des Buttes-Chaumont
 type: poi
 ---

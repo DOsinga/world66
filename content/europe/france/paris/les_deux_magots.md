@@ -5,7 +5,7 @@ longitude: 2.333338
 opening_hours: Daily 7:30am–1am
 phone: +33 1 45 48 55 25
 scores:
-  sight: 0.3075
+  sight: 0.3074
 snippet: The other great Saint-Germain literary cafe, across from Café de Flore
 tags:
 - bars_and_cafes

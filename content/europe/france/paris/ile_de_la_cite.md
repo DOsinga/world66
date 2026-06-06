@@ -2,12 +2,10 @@
 latitude: 48.8547
 longitude: 2.3475
 scores:
-  market: 0.3421
-  sight: 0.3806
+  sight: 0.3804
 tags:
 - things_to_do
 - sight
-- market
 - latin_quarter
 title: Île de la Cité
 type: poi

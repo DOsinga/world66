@@ -3,9 +3,7 @@ address: Place des Vosges, 75004 Paris
 latitude: 48.855455
 longitude: 2.362468
 scores:
-  market: 0.4514
-  museum: 0.1964
-  sight: 0.3794
+  sight: 0.3792
 snippet: Paris's oldest planned square, a Marais masterpiece since 1612
 story: Victor Hugo lived at No. 6 Place des Vosges from 1832 to 1848, where he wrote
   Les Misérables and Ruy Blas. When he was exiled to Guernsey after Louis-Napoleon's
@@ -14,8 +12,6 @@ story: Victor Hugo lived at No. 6 Place des Vosges from 1832 to 1848, where he w
 tags:
 - things_to_do
 - sight
-- museum
-- market
 - le_marais
 title: Place des Vosges
 type: poi

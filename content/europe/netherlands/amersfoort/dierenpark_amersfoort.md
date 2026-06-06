@@ -1,10 +1,12 @@
 ---
 latitude: 52.1495
 longitude: 5.345
+scores:
+  nature: 0.1993
 snippet: Family-friendly zoo with spacious enclosures and rare tigers
 tags:
 - things_to_do
-- landmark
+- nature
 title: DierenPark Amersfoort
 type: poi
 ---

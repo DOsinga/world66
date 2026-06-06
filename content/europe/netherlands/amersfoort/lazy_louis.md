@@ -5,9 +5,12 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.1539
 longitude: 5.3872
+scores:
+  bar: 0.2909
 snippet: Amersfoort's best live jazz café with a summer garden
 tags:
 - bars_and_cafes
+- bar
 title: Lazy Louis Jazz Café
 type: poi
 ---

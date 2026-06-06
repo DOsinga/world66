@@ -378,36 +378,71 @@ def _build_path_index() -> set[Path]:
     return {p for p in CONTENT_DIR.rglob("*.md")}
 
 
-def _url_resolves(url: str, path_index: set[Path]) -> bool:
-    """Mimic guide/models.load_page: try content/<url>.md and content/<url>/<slug>.md."""
-    # Strip query string and fragment
+def _build_stem_index() -> dict[Path, set[str]]:
+    """For each dir under content/, the set of .md stems anywhere beneath it.
+
+    Used to resolve tag-routed URLs like /city/nav_slug/poi_slug where the POI
+    file may live deeper in the city tree (e.g. content/city/poi.md) and the
+    nav_slug segment is the tag that collects it.
+    """
+    idx: dict[Path, set[str]] = {}
+    for f in CONTENT_DIR.rglob("*.md"):
+        d = f.parent
+        while d != CONTENT_DIR.parent:
+            idx.setdefault(d, set()).add(f.stem)
+            if d == CONTENT_DIR:
+                break
+            d = d.parent
+    return idx
+
+
+def _url_resolves(url: str, path_index: set[Path],
+                  stem_index: dict[Path, set[str]]) -> bool:
+    """Resolve a link the way guide/views.py does: direct page lookup OR
+    tag-routed URL (/city/nav_slug/poi_slug where poi exists anywhere under
+    city tagged with nav_slug)."""
     url = url.split("#", 1)[0].split("?", 1)[0]
     url = url.lstrip("/")
     if not url:
         return False
     slug = url.rsplit("/", 1)[-1] if "/" in url else url
-    candidates = [
-        CONTENT_DIR / f"{url}.md",
-        CONTENT_DIR / url / f"{slug}.md",
-    ]
-    return any(c in path_index for c in candidates)
+    # Direct lookup mimicking load_page
+    if (CONTENT_DIR / f"{url}.md") in path_index:
+        return True
+    if (CONTENT_DIR / url / f"{slug}.md") in path_index:
+        return True
+    # Tag-routed: walk back through prefix splits, treat trailing segment as
+    # poi slug. We don't verify the actual tag — we just check the slug exists
+    # somewhere beneath the candidate city prefix. False positives are rare
+    # since slugs are reasonably unique within a city tree.
+    parts = url.split("/")
+    if len(parts) < 3:
+        return False
+    poi_slug = parts[-1]
+    for city_len in range(len(parts) - 2, 0, -1):
+        city_dir = CONTENT_DIR / "/".join(parts[:city_len])
+        if city_dir not in stem_index:
+            continue
+        if poi_slug in stem_index[city_dir]:
+            return True
+    return False
 
 
 def check_broken_links(pages: list[Page]) -> list[Issue]:
     """Find internal markdown links to /<path> that don't resolve."""
     path_index = _build_path_index()
+    stem_index = _build_stem_index()
     issues = []
     for p in pages:
         seen: set[str] = set()
         for m in MD_LINK_RE.finditer(p.body):
             url = m.group(1).strip()
-            # Only check internal links starting with /
             if not url.startswith("/"):
                 continue
             if url in seen:
                 continue
             seen.add(url)
-            if not _url_resolves(url, path_index):
+            if not _url_resolves(url, path_index, stem_index):
                 issues.append(Issue(
                     path=p.path, check="broken_link",
                     message=f"link to {url!r} does not resolve",

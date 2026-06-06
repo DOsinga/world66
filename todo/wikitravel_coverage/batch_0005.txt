@@ -1,5 +1,0 @@
-asia/japan/kagoshima/yakushima
-asia/japan/hokkaido/shiretoko
-asia/southkorea/seoraksan
-africa/ethiopia/simienmountains
-europe/iceland/snaefellsnes

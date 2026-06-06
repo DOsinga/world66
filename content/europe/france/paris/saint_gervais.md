@@ -4,7 +4,7 @@ longitude: 2.3548
 scores:
   architecture: 0.2709
   church: 0.435
-  sight: 0.242
+  sight: 0.2421
 tags:
 - things_to_do
 - sight

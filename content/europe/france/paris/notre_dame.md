@@ -7,6 +7,7 @@ longitude: 2.35005
 scores:
   architecture: 0.4445
   church: 0.5116
+  landmark: 0.4714
   sight: 0.3971
 snippet: Gothic masterpiece at the heart of Paris, reopened after the 2019 fire
 story: All road distances in France are measured from a bronze octagonal marker set
@@ -19,6 +20,7 @@ tags:
 - architecture
 - latin_quarter
 - church
+- landmark
 title: Notre-Dame Cathedral
 type: poi
 ---

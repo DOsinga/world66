@@ -101,6 +101,14 @@ TAG_IDEALS = {
         "where the stories are compelling, and where understanding what happened here changes "
         "how you see the present."
     ),
+    "landmark": (
+        "One of the world's great landmarks — a palace, monument, or iconic site of such "
+        "extraordinary fame and cultural significance that it is a primary reason to visit the "
+        "city or country. It may be a royal palace of breathtaking scale and grandeur, a "
+        "triumphal arch, a world-famous tower, or a historic royal residence. Millions visit "
+        "each year, and it is listed among the most important cultural heritage sites on earth. "
+        "No serious visit to the destination is complete without seeing it."
+    ),
     "nature": (
         "A natural feature or landscape of outstanding scenic beauty — a beach, coastline, "
         "waterfall, gorge, forest, volcanic landscape, or wildlife habitat that draws visitors "
@@ -113,7 +121,7 @@ TAG_IDEALS = {
 # Order in which to pick a scoring tag from a POI's tag list.
 # First match wins.
 SCORING_TAG_PRIORITY = [
-    "museum", "church", "architecture", "sight", "historic",
+    "landmark", "museum", "church", "architecture", "sight", "historic",
     "restaurant", "bar", "market", "neighbourhood", "park", "nature",
 ]
 

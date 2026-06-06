@@ -6,7 +6,7 @@ opening_hours: Gardens open daily 8am–10:30pm (8pm in winter)
 scores:
   architecture: 0.2688
   park: 0.4875
-  sight: 0.3006
+  sight: 0.3005
 snippet: Arcaded garden palace with Buren's striped columns and excellent cafes
 story: On the evening of 12 July 1789, a young journalist named Camille Desmoulins
   jumped on a table in the Palais Royal gardens and called the crowd to arms with

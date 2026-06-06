@@ -5,6 +5,7 @@ done:
 latitude: 48.85826
 longitude: 2.294501
 scores:
+  landmark: 0.5031
   sight: 0.4724
 snippet: Iron lattice icon of Paris with sweeping city views
 story: 'Gustave Eiffel was so vilified by Paris intellectuals when the tower was proposed

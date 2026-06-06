@@ -5,7 +5,7 @@ longitude: 2.333175
 opening_hours: Daily noon–4am
 phone: +33 1 42 61 71 14
 scores:
-  bar: 0.5236
+  bar: 0.5235
 snippet: Legendary 1911 cocktail bar that invented the Bloody Mary
 tags:
 - bars_and_cafes

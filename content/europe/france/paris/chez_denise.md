@@ -6,7 +6,7 @@ opening_hours: Mon–Fri noon–5am; closed Sat–Sun (open Sat nights for pre-a
   bookings)
 price_range: €25–40
 scores:
-  restaurant: 0.4672
+  restaurant: 0.4673
 snippet: All-night Les Halles bistro serving Paris market workers since 1954
 tags:
 - eating_out

@@ -7,7 +7,8 @@ opening_hours: Daily 9am–7pm (Oct–Mar closes 5pm)
 scores:
   architecture: 0.3513
   church: 0.456
-  sight: 0.3182
+  landmark: 0.4068
+  sight: 0.3183
 snippet: The most breathtaking Gothic interior in Paris, a chapel made of stained
   glass
 story: Louis IX paid the Latin Emperor of Constantinople 135,000 livres tournois for
@@ -20,6 +21,7 @@ tags:
 - architecture
 - latin_quarter
 - church
+- landmark
 title: Sainte-Chapelle
 type: poi
 url: www.sainte-chapelle.fr

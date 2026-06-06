@@ -5,7 +5,7 @@ longitude: 2.351738
 opening_hours: Daily noon–2pm, 7:30–10pm
 price_range: €50–80
 scores:
-  restaurant: 0.555
+  restaurant: 0.5551
 snippet: The last remaining Michelin-starred bouillon in Paris, dating from 1912
 tags:
 - eating_out

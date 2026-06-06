@@ -8,6 +8,7 @@ longitude: 2.338028
 opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
 scores:
   architecture: 0.2758
+  landmark: 0.4808
   museum: 0.5293
   sight: 0.3694
 snippet: The world's largest and most visited art museum
@@ -25,6 +26,7 @@ tags:
 - sight
 - architecture
 - leshalles
+- landmark
 title: Louvre Museum
 type: poi
 url: www.louvre.fr

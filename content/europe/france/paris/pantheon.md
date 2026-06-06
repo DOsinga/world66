@@ -8,7 +8,8 @@ longitude: 2.346051
 opening_hours: Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)
 scores:
   architecture: 0.3106
-  sight: 0.3292
+  landmark: 0.3636
+  sight: 0.3293
 snippet: Neoclassical mausoleum with Voltaire, Hugo, and Foucault's pendulum
 story: When Voltaire's remains were brought to the Panthéon in 1791, the procession
   stretched for three kilometres through Paris. Rousseau was transferred alongside
@@ -19,6 +20,7 @@ tags:
 - sight
 - architecture
 - latin_quarter
+- landmark
 title: The Panthéon
 type: poi
 url: www.paris-pantheon.fr

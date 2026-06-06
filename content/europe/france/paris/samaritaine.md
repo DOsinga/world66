@@ -5,8 +5,8 @@ done:
 latitude: 48.8592
 longitude: 2.3418
 scores:
-  architecture: 0.3772
-  market: 0.3265
+  architecture: 0.3595
+  market: 0.4477
 snippet: Art Nouveau department store with stunning rooftop views
 tags:
 - shopping

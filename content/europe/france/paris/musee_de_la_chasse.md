@@ -2,7 +2,7 @@
 latitude: 48.86
 longitude: 2.355
 scores:
-  museum: 0.4749
+  museum: 0.4842
 story: 'The Musée de la Chasse was redesigned in the 2000s by François Pinault with
   a curatorial philosophy deliberately at odds with its subject: the rooms contain
   hunting trophies and taxidermy, but the staging — baroque lighting, mirrored surfaces,

@@ -5,7 +5,7 @@ latitude: 48.850649
 longitude: 2.344203
 opening_hours: Wed–Mon 9:30am–6:15pm; closed Tue
 scores:
-  museum: 0.4708
+  museum: 0.4544
 snippet: Medieval art museum in Gallo-Roman baths, home to the Lady and the Unicorn
   tapestries
 story: The Lady and the Unicorn tapestries were discovered in 1841 by the novelist

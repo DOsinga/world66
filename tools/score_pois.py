@@ -32,48 +32,81 @@ CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 # A POI's score is its cosine similarity to the ideal for its primary scoring tag.
 TAG_IDEALS = {
     "museum": (
-        "world-renowned museum with outstanding permanent collections, "
-        "major exhibitions, and deep cultural or scientific significance"
+        "A world-class museum housing extraordinary permanent collections of art, history, "
+        "science, or culture. Drawing millions of visitors annually, it is one of the great "
+        "cultural institutions of its city or country — with blockbuster temporary exhibitions, "
+        "deep scholarly collections, and works or artefacts of global renown. Visiting is a "
+        "highlight of any trip and an experience that stays with you long after."
     ),
     "sight": (
-        "iconic landmark or attraction of great historical, architectural, "
-        "or natural significance, visited by travellers from around the world"
+        "An iconic, unmissable landmark that defines the city and appears on every traveller's "
+        "list. Whether a great monument, a famous square, a celebrated viewpoint, or a historic "
+        "district, it carries deep historical or cultural meaning and offers an experience — a "
+        "view, a moment, a sense of place — that cannot be found anywhere else. Instantly "
+        "recognisable, visited by millions, yet still capable of leaving a strong impression."
     ),
     "architecture": (
-        "extraordinary building or structure celebrated for its architectural "
-        "design, engineering, or historical importance"
+        "A building or structure of outstanding architectural significance — celebrated for its "
+        "design, construction, or historical importance. It may be a cathedral, a palace, a "
+        "modernist landmark, or an engineering marvel, but in every case it is a work that "
+        "architects, historians, and curious travellers seek out specifically for what it "
+        "represents in the story of human building."
     ),
     "restaurant": (
-        "exceptional restaurant with distinctive local cuisine, outstanding "
-        "quality, and a strong reputation among food lovers"
+        "A restaurant that serious food lovers make a point of visiting — not just good for the "
+        "neighbourhood, but genuinely outstanding: a kitchen with a clear point of view, "
+        "ingredients handled with skill and care, dishes that are memorable long after the meal. "
+        "It may be a celebrated fine-dining address, a beloved neighbourhood bistro, or a "
+        "specialist spot doing one thing exceptionally well. Booking ahead is usually necessary."
     ),
     "bar": (
-        "legendary bar, pub, or cocktail lounge with a unique atmosphere, "
-        "excellent drinks, and strong local or international following"
+        "A bar, pub, or drinks venue with a genuine identity — the kind of place that earns "
+        "loyal regulars and draws visitors who care about what they drink. Whether it is a "
+        "storied wine bar, a creative cocktail lounge, a neighbourhood tavern with exceptional "
+        "natural wines, or a beer institution, it is known for quality, character, and "
+        "atmosphere. A destination in its own right, not just somewhere to pass the time."
     ),
     "market": (
-        "vibrant food or flea market that is a genuine local institution, "
-        "known for fresh produce, street food, or unique goods"
+        "A market that is a genuine institution — a place where locals actually shop, eat, and "
+        "meet, not a tourist replica. It may be a covered food hall with outstanding produce "
+        "stalls and lunch counters, a sprawling flea market famous for antiques and brocante, "
+        "or a street market that has anchored a neighbourhood for generations. The energy, "
+        "smells, and variety make it one of the most vivid experiences a city offers."
     ),
     "neighbourhood": (
-        "fascinating urban neighbourhood with a distinct character, rich history, "
-        "lively street life, and things to see and do"
+        "A neighbourhood with a strong, distinct identity that rewards exploration on foot — "
+        "its own architecture, history, street life, cafés, and independent shops. It may be "
+        "an old artisan quarter, a bohemian district, a former immigrant neighbourhood that "
+        "shaped the city's culture, or a waterfront area undergoing reinvention. Spending a "
+        "half-day wandering here gives a truer sense of the city than most tourist sights."
     ),
     "park": (
-        "beautiful park, garden, or green space that is a major attraction "
-        "in its own right, loved by locals and visitors alike"
+        "A park, garden, or green space that is a significant destination in its own right — "
+        "not just a place to sit, but somewhere with character, history, and things to discover. "
+        "It might be a formal royal garden, a wild urban forest, a botanical garden with "
+        "exceptional collections, or a beloved public park that defines a neighbourhood's "
+        "identity. Locals treat it as an extension of their living room."
     ),
     "church": (
-        "magnificent church, cathedral, mosque, or religious building of great "
-        "architectural beauty or spiritual and historical significance"
+        "A church, cathedral, basilica, or religious building of major architectural or "
+        "spiritual significance — one of the great sacred spaces of its city or tradition. "
+        "Its scale, decoration, stained glass, or history set it apart from the hundreds of "
+        "other churches in the region. Whether Gothic, Baroque, Byzantine, or Modernist, "
+        "it is a building that demands time and attention."
     ),
     "historic": (
-        "historic site, monument, or place with deep historical significance "
-        "and compelling stories worth exploring"
+        "A historic site, monument, or place where something of lasting importance happened — "
+        "a battlefield, a palace, a revolutionary square, an ancient ruin, a place of memory. "
+        "Its significance goes beyond architecture: it is somewhere the past feels close, "
+        "where the stories are compelling, and where understanding what happened here changes "
+        "how you see the present."
     ),
     "nature": (
-        "stunning natural attraction — beach, waterfall, canyon, forest, or "
-        "coastline — that draws visitors for its scenic beauty"
+        "A natural feature or landscape of outstanding scenic beauty — a beach, coastline, "
+        "waterfall, gorge, forest, volcanic landscape, or wildlife habitat that draws visitors "
+        "specifically for its natural qualities. It may be famous worldwide or a local treasure, "
+        "but in either case it offers an encounter with the natural world that is genuinely "
+        "moving, beautiful, or adventurous."
     ),
 }
 

@@ -5,7 +5,7 @@ latitude: 48.873779
 longitude: 2.295037
 opening_hours: Daily 10am–11pm (Apr–Sep), 10am–10:30pm (Oct–Mar)
 scores:
-  sight: 0.3485
+  sight: 0.43
 snippet: Napoleon's triumphal arch with panoramic views over twelve converging avenues
 story: 'Napoleon never passed through his own arch in triumph. He commissioned it
   in 1806 after Austerlitz, but construction was slow and the arch was only completed

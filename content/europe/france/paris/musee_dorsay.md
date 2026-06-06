@@ -7,7 +7,7 @@ latitude: 48.859918
 longitude: 2.326585
 opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
 scores:
-  museum: 0.4359
+  museum: 0.4896
 snippet: World-class Impressionist art in a grand railway station
 story: 'The station closed for passenger service in 1939, too short for modern trains.
   For decades it awaited demolition — plans included a luxury hotel, even a parking

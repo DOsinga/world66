@@ -4,7 +4,7 @@ latitude: 48.853891
 longitude: 2.338072
 opening_hours: Mon–Thu 7pm–2am; Fri–Sat 7pm–4am; closed Sun
 scores:
-  bar: 0.5689
+  bar: 0.5492
 snippet: Paris's best cocktail bar, hidden behind an unmarked door in Saint-Germain
 tags:
 - bars_and_cafes

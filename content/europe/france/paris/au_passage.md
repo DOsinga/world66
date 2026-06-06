@@ -5,7 +5,7 @@ longitude: 2.372208
 opening_hours: Mon–Sat dinner only from 7pm; closed Sun
 price_range: €25–45
 scores:
-  restaurant: 0.4182
+  restaurant: 0.4851
 snippet: Natural wine bar and small plates, the template for a Paris evening
 tags:
 - eating_out

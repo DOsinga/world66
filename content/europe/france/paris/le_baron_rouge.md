@@ -5,7 +5,7 @@ longitude: 2.374241
 opening_hours: Tue–Sat 10am–2pm, 5–10pm; Sun 10am–3pm; closed Mon
 price_range: €5–10 a glass
 scores:
-  bar: 0.5154
+  bar: 0.5083
 snippet: Legendary wine bar outside Marché d'Aligre, serving from the barrel
 tags:
 - bars_and_cafes

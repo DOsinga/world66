@@ -4,7 +4,7 @@ latitude: 48.852184
 longitude: 2.381226
 opening_hours: Mon–Fri 4pm–midnight; Sat noon–midnight; closed Sun
 scores:
-  bar: 0.4218
+  bar: 0.4993
 snippet: Natural wine cave and bar from the Septime team in the 11th arrondissement
 tags:
 - bars_and_cafes

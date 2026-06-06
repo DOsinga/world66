@@ -2,8 +2,8 @@
 latitude: 48.86
 longitude: 2.37
 scores:
-  park: 0.2762
-  sight: 0.177
+  park: 0.3375
+  sight: 0.2604
 story: The Petite Ceinture was opened in 1852, the same year that Haussmann began
   demolishing medieval Paris to build his wide boulevards. For half a century it was
   the city's main passenger railway; by 1934 it had been entirely replaced by the

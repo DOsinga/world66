@@ -3,9 +3,9 @@ address: 64, boulevard Haussmann, 8th Arrondissement
 latitude: 48.875
 longitude: 2.318
 scores:
-  architecture: 0.2436
-  market: 0.3118
-  sight: 0.1563
+  architecture: 0.2275
+  market: 0.4047
+  sight: 0.2624
 snippet: Grand Haussmann-era department store with a stunning glass dome
 tags:
 - shopping

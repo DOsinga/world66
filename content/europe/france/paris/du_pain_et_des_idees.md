@@ -4,7 +4,7 @@ latitude: 48.8712
 longitude: 2.3629
 opening_hours: Mon–Fri 6:45am–8pm; closed Sat–Sun
 scores:
-  market: 0.351
+  market: 0.4274
 snippet: Paris's most celebrated bakery, worth a detour for the croissants alone
 tags:
 - eating_out

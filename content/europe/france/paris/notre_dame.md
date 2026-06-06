@@ -5,8 +5,8 @@ done:
 latitude: 48.852937
 longitude: 2.35005
 scores:
-  architecture: 0.4096
-  sight: 0.3539
+  architecture: 0.4445
+  sight: 0.3971
 snippet: Gothic masterpiece at the heart of Paris, reopened after the 2019 fire
 story: All road distances in France are measured from a bronze octagonal marker set
   in the pavement in front of Notre-Dame — the Point Zéro des Routes de France. The

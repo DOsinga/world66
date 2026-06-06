@@ -7,9 +7,9 @@ latitude: 48.861147
 longitude: 2.338028
 opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
 scores:
-  architecture: 0.2862
-  museum: 0.4815
-  sight: 0.3584
+  architecture: 0.2758
+  museum: 0.5293
+  sight: 0.3694
 snippet: The world's largest and most visited art museum
 story: 'The Mona Lisa is displayed behind bulletproof glass not because of theft —
   though it was famously stolen in 1911 and missing for two years — but because in

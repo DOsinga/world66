@@ -4,7 +4,7 @@ latitude: 48.850553
 longitude: 2.374483
 opening_hours: Tue–Sun 8am–1pm; closed Mon
 scores:
-  market: 0.4649
+  market: 0.6071
 snippet: The best food market in Paris, loud and sprawling around Place d'Aligre
 tags:
 - eating_out

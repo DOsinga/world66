@@ -7,7 +7,7 @@ latitude: 48.886806
 longitude: 2.343015
 opening_hours: Basilica daily 6am–10:30pm; dome 9am–8:30pm (May–Sep), 9am–5pm (Oct–Apr)
 scores:
-  sight: 0.3317
+  sight: 0.4182
 snippet: White-domed basilica with Paris's best hilltop views
 story: Sacré-Cœur was built as an act of national penance after the Franco-Prussian
   War, but it was also explicitly meant to atone for the Paris Commune of 1871 — the

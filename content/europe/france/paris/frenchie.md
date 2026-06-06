@@ -5,7 +5,7 @@ longitude: 2.347792
 opening_hours: Mon–Fri dinner only; closed weekends
 price_range: €70–90 set menu
 scores:
-  restaurant: 0.4272
+  restaurant: 0.5179
 snippet: Influential small bistro that helped launch Paris's neo-bistro movement
 tags:
 - eating_out

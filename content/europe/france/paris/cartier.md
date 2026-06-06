@@ -4,7 +4,7 @@ done:
 latitude: 48.8682
 longitude: 2.3297
 scores:
-  museum: 0.2855
+  museum: 0.3235
 snippet: Legendary jeweller's flagship on Place Vendome
 tags:
 - shopping

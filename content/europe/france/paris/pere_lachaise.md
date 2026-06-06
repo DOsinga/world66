@@ -7,7 +7,7 @@ latitude: 48.86113
 longitude: 2.394009
 opening_hours: Mon–Fri 8am–6pm, Sat from 8:30am, Sun from 9am (closes 5:30pm Nov–Mar)
 scores:
-  sight: 0.2584
+  sight: 0.3417
 snippet: Paris's famous cemetery with Wilde, Morrison, and Chopin
 story: 'Père Lachaise was struggling commercially when Napoleon''s prefect of Paris
   hit on a scheme to attract custom: he had the remains of Molière, La Fontaine, Héloïse

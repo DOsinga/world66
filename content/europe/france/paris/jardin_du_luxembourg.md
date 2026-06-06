@@ -4,7 +4,7 @@ latitude: 48.846442
 longitude: 2.337006
 opening_hours: Daily 7:30am–dusk
 scores:
-  sight: 0.2009
+  sight: 0.2869
 snippet: The great Left Bank garden, beloved by students, families, and chess players
 tags:
 - things_to_do

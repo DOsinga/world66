@@ -4,7 +4,7 @@ done:
 latitude: 48.8986
 longitude: 2.3431
 scores:
-  market: 0.4301
+  market: 0.5708
 snippet: World's largest flea market at Porte de Clignancourt
 tags:
 - shopping

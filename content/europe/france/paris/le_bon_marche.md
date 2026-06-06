@@ -4,7 +4,7 @@ latitude: 48.851958
 longitude: 2.329191
 phone: +33 1 44 39 80 00
 scores:
-  market: 0.4046
+  market: 0.5721
 snippet: Paris's oldest department store, renowned for fashion and its vast food hall
 tags:
 - shopping

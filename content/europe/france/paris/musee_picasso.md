@@ -5,7 +5,7 @@ latitude: 48.859741
 longitude: 2.362292
 opening_hours: Tue–Fri 10:30am–6pm, Sat–Sun 9:30am–6pm; closed Mon
 scores:
-  museum: 0.4311
+  museum: 0.4722
 snippet: World's largest public Picasso collection, in a splendid 17th-century Marais
   mansion
 story: When Picasso died in 1973 without a will, his estate was subject to French

@@ -1,10 +1,12 @@
 ---
-category: Sight
 done:
   location_cleanup: '2026-04-08'
 latitude: 36.1261
 longitude: -5.3455
 snippet: Spectacular grotto inside the Rock used as a concert venue
+tags:
+- things_to_do
+- sight
 title: St Michael's Cave
 type: poi
 ---

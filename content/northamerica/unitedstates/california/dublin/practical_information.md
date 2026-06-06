@@ -123,6 +123,6 @@ Capital Improvements
 
 $51,590,638
 
-### [The City of Dublin, California](/northamerica/unitedstates/california/sanfranciscobayarea/dublin/practical_informat/the_city_of_dublin)
+### The City of Dublin, California
 
 The Official Website of Dublin, California

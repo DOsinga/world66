@@ -50,13 +50,13 @@ January 21, 2010
 
 January 29, 2010
 
-### [Hogenakkal Water Falls - India's Niagara](/asia/india/karnataka/bangalore/day_trips/hogenakkal_water_f)
+### Hogenakkal Water Falls - India's Niagara
 
 Hogenakkal water falls is on river Kaveri in Dharmapuri district of TamilNadu state, a southern state of India. It is just 175Km from Bangalore city and is well connected with a two lane road. From Bangalore take Hosur-Krishnagiri-Dharmapuri-Hogenakkal route, the roads are in good condition.
 
 The best time to visit Hogenakkal is just after monsoon but in summer you can enjoy the water falls as well as the breath taking coracle ride! The crocodile park is another place to see. There is a hanging bridge from where you will get a distant view of the falls.
 
-Some snaps [more..](/asia/india/karnataka/bangalore/day_trips/hogenakkal_water_f)
+Some snaps more..
 
 
 

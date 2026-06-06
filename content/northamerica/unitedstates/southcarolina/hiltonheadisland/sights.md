@@ -20,8 +20,8 @@ Spanning the beach front from Shipyard to Sea Pines, Forest Beach is the site of
 
 Forest Beach attractions: miles of beautiful shoreline, a renowned tennis center, miniature golf and amusements, shopping and churches all within easy walking distance. Shipyard is located between Sea Pines and Palmetto Dunes in the midst of the resort oriented southern half of Hilton Head. The homes and villas are built around a challenging 27 hole golf course, and all are a a short distance from the Atlantic Ocean beach, a world class racquet club, and the Crown Plaza Resort Hotel. Shipyard guests have less than a 10 minute ride to almost all of Hilton Head's recreational facilities, restaurants and shopping centers.
 
-### [Sea Pines Plantation – The Pearl of Hilton Head Island
+### Sea Pines Plantation – The Pearl of Hilton Head Island
 
-Hilton Head Island is one of the nicest places to vacation, regardless of what time of year you decide to stay. And I must inform you that a stay in Sea Pines Plantation must be top on your list. The island is home to more than 40,000 full time residents and over 2.2 million vacationers each year. With an average temperature around 70 degrees and so many outdoor activities available, this is a vacation that will keep you active and healthy. more..](/northamerica/unitedstates/southcarolina/hiltonheadisland/sights/sea_pines_plantati)
+Hilton Head Island is one of the nicest places to vacation, regardless of what time of year you decide to stay. And I must inform you that a stay in Sea Pines Plantation must be top on your list. The island is home to more than 40,000 full time residents and over 2.2 million vacationers each year. With an average temperature around 70 degrees and so many outdoor activities available, this is a vacation that will keep you active and healthy. more..
 
 type: Hotspots

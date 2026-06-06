@@ -10,7 +10,7 @@ url: www.ticrk.ru
 **Contributors**
 October 15, 2006
 
-### [Tourist Information Center of Republic of Karelia](/europe/russia/karelia/practical_informat/tourist_informatio)
+### Tourist Information Center of Republic of Karelia
 
 Clients are offered Internet information, as well as printed materials such as maps, brochures, leaflets.
 

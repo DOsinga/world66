@@ -16,7 +16,7 @@ title: Irkutsk
 type: location
 ---
 
-Irkutsk calls itself the Paris of Siberia, which is a stretch, but the nickname gestures at something real. It is a city of pastel 18th-century administrative buildings, ornate wooden houses carved with patterns that look almost like lace, and an educated, cultured population shaped by centuries of forced intellectual exile. The city sits on the Angara River, 60 kilometres from [Lake Baikal](/europe/russia/baikal) — which makes it the natural base for exploring the world's deepest lake, but there is more than enough in Irkutsk itself to justify a couple of days.
+Irkutsk calls itself the Paris of Siberia, which is a stretch, but the nickname gestures at something real. It is a city of pastel 18th-century administrative buildings, ornate wooden houses carved with patterns that look almost like lace, and an educated, cultured population shaped by centuries of forced intellectual exile. The city sits on the Angara River, 60 kilometres from [Lake Baikal](/europe/russia/irkutsk) — which makes it the natural base for exploring the world's deepest lake, but there is more than enough in Irkutsk itself to justify a couple of days.
 
 The city was founded in 1661 as a Cossack fort and rapidly became the main centre of the Russian trade route to China. Merchants, missionaries, and eventually exiles passed through. After the failed Decembrist uprising of 1825, Tsar Nicholas I sent the surviving conspirators to Siberia; many settled in Irkutsk, building French-furnished houses and founding reading societies that gave the city its progressive reputation. Their former homes survive as the [Decembrist Museums](/europe/russia/irkutsk/decembrist_museum).
 

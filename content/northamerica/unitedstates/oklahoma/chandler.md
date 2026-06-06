@@ -14,7 +14,7 @@ title: Chandler
 type: location
 ---
 
-Chandler is a small town on [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m) in central [Oklahoma](/northamerica/unitedstates/oklahoma), serving as the county seat of Lincoln County. It is one of the better-preserved stops along the historic highway, with a downtown that still feels like a mid-century road trip.
+Chandler is a small town on Route 66 in central [Oklahoma](/northamerica/unitedstates/oklahoma), serving as the county seat of Lincoln County. It is one of the better-preserved stops along the historic highway, with a downtown that still feels like a mid-century road trip.
 
 The [Route 66 Interpretive Center](/northamerica/unitedstates/oklahoma/chandler/route_66_interpretive_center), housed in a restored 1934 Art Deco armory, traces the history of the Mother Road through Chandler and beyond — one of the better roadside museums on the whole highway. The town is also the birthplace of composer Roy Harris, known for his distinctly American symphonies. A few miles east on the old alignment, the [Seaba Station Motorcycle Museum](/northamerica/unitedstates/oklahoma/chandler/seaba_station_motorcycle_museum) occupies a restored 1921 filling station and holds a good collection of vintage bikes.
 

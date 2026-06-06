@@ -55,4 +55,4 @@ famed banana wine.
 **
 **
 
-Minor corrections by [giorgio](/world/member/giorgio) on 29 March 05
+Minor corrections by giorgio on 29 March 05

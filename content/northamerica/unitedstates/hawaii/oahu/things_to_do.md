@@ -8,7 +8,7 @@ url: www.sealifeparkhawaii.com
 
 There's more to do and see on Oahu than bars and beaches. From hiking and horseback riding to entertaining and/or educational theme parks, you'll find something for everyone on the most crowded - er, populated - island in Hawaii.
 
-### [Sea Life Park by Dolphin Discovery](/northamerica/unitedstates/hawaii/oahu/thingstodo/sea_life_park_by_d)
+### Sea Life Park by Dolphin Discovery
 
 At Sea Life Park, Hawai‘i’s marine life comes
 alive in a dazzling display that will entertain and delight. Located
@@ -18,7 +18,7 @@ perched between the majestic Ko‘olau Mountain Range and breathtaking
 Makapu‘u Beach. See dolphins dance, sealions sing, and penguins
 perform in this magical place by the sea.
 
-Included admission with the Go Oahu Card, a multi-attraction pass that allows [more..](/northamerica/unitedstates/hawaii/oahu/thingstodo/sea_life_park_by_d)
+Included admission with the Go Oahu Card, a multi-attraction pass that allows more..
 
 type: Other
 

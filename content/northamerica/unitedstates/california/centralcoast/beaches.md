@@ -11,7 +11,7 @@ Created by JenPete@REMOVEaol.com on 01/7/2005.
 
 **all**
 
-[Avila Beach
+Avila Beach
 
 Among the most popular beaches in San Luis Obispo County is Avila Beach. This family-friendly beach is generally among the safest swim beaches on the Central Coast, with relatively small waves and typically warm weather.
 
@@ -27,7 +27,7 @@ Oceano State Vehicular Recreation Area is a sandy stretch of beach and dune area
 
 Guadalupe Dunes Preserve
 
-Guadalupe Dunes Preserve, accessed from Highway 166 west of Guadalupe in Santa Barbara County, offers fantastic opportunities for solitude, but very dangerous swimming conditions. Visitors enjoy long walks on this windswept beach where crashing waves are particularly picturesque shortly before winter storms. Whale sightings off the beach are not uncommon. A kiosk at the end of Highway 166 seeks donations, but there is no required fee to access this stretch of beach. The road is closed once the beach lot is full. Wait for someone to come out or take a logn walk along the paved road to the beach. This beach is not accessible after dark. more..](/northamerica/unitedstates/california/centralcoast/beaches/avila_beach)
+Guadalupe Dunes Preserve, accessed from Highway 166 west of Guadalupe in Santa Barbara County, offers fantastic opportunities for solitude, but very dangerous swimming conditions. Visitors enjoy long walks on this windswept beach where crashing waves are particularly picturesque shortly before winter storms. Whale sightings off the beach are not uncommon. A kiosk at the end of Highway 166 seeks donations, but there is no required fee to access this stretch of beach. The road is closed once the beach lot is full. Wait for someone to come out or take a logn walk along the paved road to the beach. This beach is not accessible after dark. more..
 
 Point Sal Beach
 

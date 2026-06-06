@@ -13,7 +13,7 @@ As the city consists of separate villages, sometimes a far cry off from one anot
 **Contributors**
 August 14, 2006
 
-### [Salzgitter By Bus (KVG)](/europe/germany/lowersaxony/salzgitter/getting_around/salzgitter_by_bus)
+### Salzgitter By Bus (KVG)
 
 The main part of the busses in Salzgitter are run by the regional bus company KVG ("*Kraftverkehrsgesellschaft mbH Braunschweig*").
 A KVG branch office is located at Salzgitter-Lebenstedt.
@@ -26,7 +26,7 @@ You can find a map of the bus-routes on the following site:
 **
 Timetables (in German) you can look up at:
 **www.kvg-braunschweig.de/go.asp**
-(Click "Fahrpläne" in the menu on the left and then [more..](/europe/germany/lowersaxony/salzgitter/getting_around/salzgitter_by_bus)
+(Click "Fahrpläne" in the menu on the left and then more..
 
 
 

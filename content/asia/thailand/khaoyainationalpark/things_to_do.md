@@ -14,11 +14,11 @@ Khao Yai national park is one of the most accessible national parks of Thailand.
 **Contributors**
 February 21, 2011
 
-### [Hiking Tours Thailand TonTan Travel](/asia/thailand/khaoyainationalpark/things_to_do/hiking_tours_thail)
+### Hiking Tours Thailand TonTan Travel
 
 Khao Yai national park is a great place for hiking. There is an extensive network of trails that are not strenuous, but bring you closer to nature and offer you the chance to encounter great wildlife like macaques, gibbons, elephants, hornbills, pythons, crocodiles, deer, lots of birds and lots more.
 
-However, trails are not always well-marked and wildlife can be hard to spot. Therefore, tours are recommendable. TonTan Travel runs tours in the park from 1 to 3 or more days. Besides hiking you will visit the major sights like the beautiful waterfalls and a night safari [more..](/asia/thailand/khaoyainationalpark/things_to_do/hiking_tours_thail)
+However, trails are not always well-marked and wildlife can be hard to spot. Therefore, tours are recommendable. TonTan Travel runs tours in the park from 1 to 3 or more days. Besides hiking you will visit the major sights like the beautiful waterfalls and a night safari more..
 
 type: Hiking
 
@@ -34,11 +34,11 @@ address: Thailand
 
 email: tours@tontantravel.com
 
-### [Birding Tours Thailand TonTan Travel](/asia/thailand/khaoyainationalpark/things_to_do/birding_tours_thai)
+### Birding Tours Thailand TonTan Travel
 
 With far over 300 bird species, Khao Yai is a paradise for birders. Highlights include 4 hornbill species of which the Great Hornbill and the Oriental Pied Hornbill are relatively easy to spot, Siamese Firebacks, Silver Pheasants, Coral-billed Ground-Cuckoos, Parakeets, Barbets, Kingfishers, Eagles, Sunbirds, Pittas, and lots more.
 
-TonTan Travel runs birding tours in Khao Yai. You will be accompanied by the Dutch nature photographer, Ton Smits who has lots of experience in birds & wildlife spotting. Multi-day tours are recommendable to cover a significant part of the park and [more..](/asia/thailand/khaoyainationalpark/things_to_do/birding_tours_thai)
+TonTan Travel runs birding tours in Khao Yai. You will be accompanied by the Dutch nature photographer, Ton Smits who has lots of experience in birds & wildlife spotting. Multi-day tours are recommendable to cover a significant part of the park and more..
 
 type: Other
 
@@ -56,7 +56,7 @@ address: Thailand
 
 email: tours@tontantravel.com
 
-### [Photo Tours Thailand TonTan Travel](/asia/thailand/khaoyainationalpark/things_to_do/photo_tours_thaila)
+### Photo Tours Thailand TonTan Travel
 
 Photo tours in Khao Yai are a great combination of learning more about photography and discovering the wonders of nature.
 

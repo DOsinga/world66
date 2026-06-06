@@ -12,7 +12,7 @@ New Orleans is one of the most unique cities in the world and the shopping scene
 **Contributors**
 June 07, 2008
 
-### [Canal Place](/northamerica/unitedstates/louisiana/neworleans/shopping/canal_place)
+### Canal Place
 
 Located near the Aquarium of the Americas, Canal Place is an excellent place to shop upscale designer fashions such as BCBG, Coach, Kenneth Cole, and Ann Taylor as well as unique arts and crafts by local artists at Rhino Gallery. This shopping destination is also home to Canal Place Cinema, the Southern Repertory Theater, the Wyndham New Orleans at Canal Place and Saks Fifth Avenue. Hours: Monday-Saturday 10:00 a.m.-7:00 p.m., Sunday 12:00 p.m.-6:00 p.m.
 
@@ -38,7 +38,7 @@ url: [www.keilsantiques.com](http://www.keilsantiques.com)
 
 address: 325 Royal Street
 
-### [Community Flea Market](/northamerica/unitedstates/louisiana/neworleans/shopping/community_flea_mar)
+### Community Flea Market
 
 Even if it's a little stick outside, you will soon forget about the humidity after visiting one or two vendors' tables at this open-air market. Open daily from 7:00 a.m.-8:00 p.m., Community Flea Market sells everything from art, jewelry, handbags, vintage clothing and other items to T-shirts, collectibles, and tons of new items.
 
@@ -52,7 +52,7 @@ url: [www.frenchmarket.org](http://www.frenchmarket.org)
 
 address: 1200 Block of North Peters, French Quarter
 
-### [Garden District Book Shop](/northamerica/unitedstates/louisiana/neworleans/shopping/garden_district_bo)
+### Garden District Book Shop
 
 This is one of Anne Rice's favorite bookstores, so it must be awesome. Garden District Book Shop is small, but it's packed with books of all kinds such as cookbooks, fiction titles, non-fiction titles, history titles, and more by national, regional, and local authors. Also on the menu -- limited editions of Anne Rice's work along with autographed copies of some of her books. Garden District Book Shop is located in the historic property called the *Rink*.
 
@@ -68,7 +68,7 @@ address: 2727 Prytania Street
 
 email: gdkrewe@aol.com
 
-### [Funky Monkey](/northamerica/unitedstates/louisiana/neworleans/shopping/funky_monkey)
+### Funky Monkey
 
 The name of this kitschy cool consignment shop isn't the only thing that super fun about Funky Monkey. Besides vintage gear and one of a kind Couture, Funky Monkey also sells custom tees, handmade costumes, and wacky accessories. Funky Monkey is open Monday-Saturday 11:00 a.m.-6 p.m., Sunday 12 p.m.-5 p.m.
 

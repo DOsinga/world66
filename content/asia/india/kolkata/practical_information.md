@@ -25,7 +25,7 @@ Visit Our Link –
 
 http://www.savaari.com/user/kolkata-car-rentals/car-rentals-kolkata.php
 
-### [Looking for Kolkata Tour Packages](/asia/india/kolkata/practical_informat/looking_for_kolkat)
+### Looking for Kolkata Tour Packages
 
 Indian Destination offers you Kolkata Tour Packages, Car Rentals in Kolkata, MICE in Kolkata and other Kolkata travel services requirement to visit various places of tourist interest in Kolkata. We will be pleased to serve you for all your tour and travels related requirements.
 

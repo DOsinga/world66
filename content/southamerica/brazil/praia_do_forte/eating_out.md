@@ -11,9 +11,9 @@ As in most tourist meccas, the restaurants in PdF don’t seem to be counting on
 **Contributors**
 January 29, 2007
 
-### [Kasato](/southamerica/brazil/praia_do_forte/eating_out/kasato)
+### Kasato
 
-This Japanese newcomer is the one standout in a decidedly sub-par field. Comprised of an airy dining room and lantern-lit garden, Kasato puts a Brazilian spin on sushi and other Japanese fare. This creative streak is also visible in their approach to vegetarian requests (never something to take for granted in restaurants), yielding results like “sushi” of sautéed enoki mushrooms atop slices of fried plantain – delicious! It also produces what is perhaps the most beautiful plate of vegetarian tempura on the planet, with a faux fan coral of fried [more..](/southamerica/brazil/praia_do_forte/eating_out/kasato)
+This Japanese newcomer is the one standout in a decidedly sub-par field. Comprised of an airy dining room and lantern-lit garden, Kasato puts a Brazilian spin on sushi and other Japanese fare. This creative streak is also visible in their approach to vegetarian requests (never something to take for granted in restaurants), yielding results like “sushi” of sautéed enoki mushrooms atop slices of fried plantain – delicious! It also produces what is perhaps the most beautiful plate of vegetarian tempura on the planet, with a faux fan coral of fried more..
 
 type: Japanese
 

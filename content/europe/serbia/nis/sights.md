@@ -12,7 +12,7 @@ Nis was wery known in the Roman era,as Naisus, with it's luxurious suburb Median
 
 Constantin was born here in 274 A.C. and he was recognized, by both Catolic and Ortodox Churches as a Saint, along with his mother Helena.
 
-### [The Skull Tower](/europe/serbia/nis/sights/the_skull_tower)
+### The Skull Tower
 
 The Skull Tower is a unique world monument. It is a tower built of the skulls of Serbian rebels for freedom. The Turks built this monument after Čegar battle.
 

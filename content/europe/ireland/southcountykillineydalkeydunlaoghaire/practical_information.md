@@ -14,7 +14,7 @@ A useful website for South County Dublin visitors is http://www.hidden-dublin.co
 **Contributors**
 December 29, 2009
 
-### [Hidden Dublin Humorous Guide](/europe/ireland/southcountykillineydalkeydunlaoghaire/practical_informat/hidden_dublin_humo)
+### Hidden Dublin Humorous Guide
 
 A humorous constantly updated guide to Dublin is called Hidden Dublin http://www.hidden-dublin.com
 

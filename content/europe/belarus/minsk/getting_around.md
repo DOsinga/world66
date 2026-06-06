@@ -13,7 +13,8 @@ The Metro goes fast and it is reliable. It isn't hard to buy tokens or a month l
 
 **Buses, Trolleys, Trams**
 
-If you are traveling to many places around Minsk you will probably have to ride something instead of the metro. Minsk has 12 tram lines, 56 trolley routes and over 100 bus routes. Buses, trolleys and trams run from 05:35 to 00:55 seven days a week. Avoid peak hours if you value your limbs (08:00 [more..](/europe/belarus/minsk/gettingaround/busestrolleystrams)
+If you are traveling to many places around Minsk you will probably have to ride something instead of the metro.
+ Minsk has 12 tram lines, 56 trolley routes and over 100 bus routes. Buses, trolleys and trams run from 05:35 to 00:55 seven days a week. Avoid peak hours if you value your limbs (08:00 more..
 
 **Taxis**
 

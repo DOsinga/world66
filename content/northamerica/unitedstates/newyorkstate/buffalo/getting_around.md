@@ -13,6 +13,6 @@ NFTA Metro information can be reached three ways:
 info@nfta.com (e-mail)
 www.nfta.com/metro (website)
 
-### [Driving on Expressways
+### Driving on Expressways
 
-The Buffalo Niagara region has an expressway network that connects drivers to various points relatively quickly and easily. Funnily enough, the term "Freeway" is not used in Buffalo and many other area surrounding it. If you use the term freeway, you might get a funny look from a local. more..](/northamerica/unitedstates/newyorkstate/buffalo/getting_around/driving)
+The Buffalo Niagara region has an expressway network that connects drivers to various points relatively quickly and easily. Funnily enough, the term "Freeway" is not used in Buffalo and many other area surrounding it. If you use the term freeway, you might get a funny look from a local. more..

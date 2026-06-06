@@ -7,13 +7,17 @@ type: section
 
 The souqs of Marrakesh are a lot like a mall. But a very arabic, and somewhat medieval mall. There is some system in this madness, however. Here we would like to give you a few hints regarding where to find what in the Medina.
 
- Starting from the Jma el Fna, there are two major lanes going north. Coming from the Jma, you have the Rue Mouassin on your left, and the Rue Souq Smarine on your right. Along these you will find many touristic shops and boutiques, most of them will be specialized in either carpets, leather, silver or antiques. These are just resellers.
 
- When you look more closely and go into the side streets you can find the different trades. Going north on the Rue Souq Smarine you find the following trades: Textiles, Wool, Apothecary stalls (on Rehba Qadima), Carpets, Jewellery and Leather. After the Leather souq, you are almost at the Almoravid Koubba and it is time to turn right. Now you find blacksmith, carpenters, dyers and slipper makers. This is where prices are really low since you are quite a way from the Jma.
+ Starting from the Jma el Fna, there are two major lanes going north. Coming from the Jma, you have the Rue Mouassin on your left, and the Rue Souq Smarine on your right. Along these you will find many touristic shops and boutiques, most of them will be specialized in either carpets, leather, silver or antiques. These are just resellers.
 
- The streets are a bit dirtier here, and people are really at work, so sparks may be flying. This is both the place to get the best bargains, and the place to have a unique experience.
 
- 
+ When you look more closely and go into the side streets you can find the different trades. Going north on the Rue Souq Smarine you find the following trades: Textiles, Wool, Apothecary stalls (on Rehba Qadima), Carpets, Jewellery and Leather. After the Leather souq, you are almost at the Almoravid Koubba and it is time to turn right. Now you find blacksmith, carpenters, dyers and slipper makers. This is where prices are really low since you are quite a way from the Jma.
+
+
+ The streets are a bit dirtier here, and people are really at work, so sparks may be flying. This is both the place to get the best bargains, and the place to have a unique experience.
+
+
+ 
 
 **all**
 
@@ -21,7 +25,7 @@ The souqs of Marrakesh are a lot like a mall. But a very arabic, and somewhat me
 
 Boutique Lac Iriqi offers for purchase some of the finest Berber carpets, ceramics, and finely made silver merchandise in Southern Morocco.
 
-Morocco's history and the story of Moroccan weaving begin with the Berbers, the indigenous people of North Africa who had inhabited Morocco for centuries [more..](/africa/morocco/marrakesh/shopping/boutique_lac_iriqi)
+Morocco's history and the story of Moroccan weaving begin with the Berbers, the indigenous people of North Africa who had inhabited Morocco for centuries more..
 
 bookingurl: [www.berbertours.net](http://www.berbertours.net)
 

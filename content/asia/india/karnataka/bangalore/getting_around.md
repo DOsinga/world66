@@ -55,7 +55,7 @@ Bangalore, located 1000 Mts. above sea level, this city was formed by Kempegowda
 
 **Bal Bhavan **- Children's Park with its own theater and playground. Toy train and boat rides are added attractions. Closed on Mondays and the 2nd Tuesday of the month.
 
-### [Modes of Transport](/asia/india/karnataka/bangalore/getting_around/modes_of_transport)
+### Modes of Transport
 
 Autorickshaws, also simply referred to as Autos are a popular form of public transport in Bangalore.Bangalore is well connected to the rest of the country through the Indian Railways. The Rajdhani Express connects Bangalore to New Delhi. The city is also connected to Mumbai, Chennai, Kolkata, and Hyderabad, as well as other major cities in Karnataka. Three-wheeled, black and yellow auto-rickshaws, referred to as autos, are a popular form of transport. They are metered and can accommodate up to three passengers.
 

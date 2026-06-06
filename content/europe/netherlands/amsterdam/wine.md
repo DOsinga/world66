@@ -25,7 +25,7 @@ pc: 1017 HN Amsterdam
 The Wijnwinkel Quinta (wine shop) is of course not a reason to visit Amsterdam, but once you are already here and you like for example portwine, well, then you should not miss this little shop. Vintage and Tawnies back till the 40s - a great choice!
 
 
- The house brand is Quinta do Castelhino, [more..](/europe/netherlands/amsterdam/shopping/wine/wijnwinkelquinta)
+ The house brand is Quinta do Castelhino, more..
 
 **Wijn Antiquariat**
 

@@ -15,15 +15,18 @@ Edmonton features a wide variety of restaurants for you to sample and enjoy.
 
 **Seasons Grill**
 
-Nestled in the Best Western Cedar Park Inn, the first thing you notice about Seasons Grill is the warm atmosphere. The extensive renovations have turned this hide-away restaurant into a cozy gathering hot spot that is gentle on both the eyes and ears. Your Palate is amply awarded with the fine se [more..](/northamerica/canada/alberta/edmonton/restaurants/seasonsgrill)
+Nestled in the Best Western Cedar Park Inn, the first thing you notice about Seasons Grill is the warm atmosphere. The extensive renovations have turned this hide-away restaurant into a cozy gathering hot spot that is gentle on both the eyes and ears. Your Palate is amply awarded with the fine se more..
 
 **Royal Coach Dining Room . **
 
-The Royal Coach Dining Room at the Chateau Louis Hotel offers a varied menu including creative buffets, a Sunday brunch and a Sunday evening Ukrainian Buffet.  Tel: 1 780 452-7770 Fax: 1 780 454-3436 Toll Free: 1-800-661-9843 (W. Can, NWT, Yukon)  Address: 11727 Kingsway Edmonton AB T5G 3A1 [more..](/northamerica/canada/alberta/edmonton/restaurants/royalcoachdiningroom)
+The Royal Coach Dining Room at the Chateau Louis Hotel offers a varied menu including creative buffets, a Sunday brunch and a Sunday evening Ukrainian Buffet. 
+ Tel: 1 780 452-7770 Fax: 1 780 454-3436
+ Toll Free: 1-800-661-9843 (W. Can, NWT, Yukon) 
+ Address: 11727 Kingsway Edmonton AB T5G 3A1 more..
 
 **Continental Treat . **
 
-This charming restaurant located in the heart of Old Strathcona, features light international and seafood entrées in a room filled with antiques. Specialties include steamed mussels, chicken neptune, lamb and wiener schnitzel. Mon to Thu 11 am - 11 pm; Fri & Sat 11:30 am - midnight; Sun 5 pm - 1 [more..](/northamerica/canada/alberta/edmonton/restaurants/continentaltreat)
+This charming restaurant located in the heart of Old Strathcona, features light international and seafood entrées in a room filled with antiques. Specialties include steamed mussels, chicken neptune, lamb and wiener schnitzel. Mon to Thu 11 am - 11 pm; Fri & Sat 11:30 am - midnight; Sun 5 pm - 1 more..
 
 **Four Rooms . **
 
@@ -39,11 +42,11 @@ Situated in a historic home circa 1929, this handsome restaurant serves up a fus
 
 **Packrat Louie Kitchen & Bar . **
 
-This south side eatery serves generous portions of fresh market and Swiss cuisine in a friendly and open environment. Popular dishes include wood-oven roasted half chicken marinated in mustard pesto with spaetzle, and braised lamb shanks with garlic mashed potatoes. Main course prices range from [more..](/northamerica/canada/alberta/edmonton/restaurants/packratlouiekitchenbar)
+This south side eatery serves generous portions of fresh market and Swiss cuisine in a friendly and open environment. Popular dishes include wood-oven roasted half chicken marinated in mustard pesto with spaetzle, and braised lamb shanks with garlic mashed potatoes. Main course prices range from more..
 
 **Pradera . **
 
-Regional specialties and a fusion of international þavours inspire the enticing menu at this handsome restaurant in the Westin Hotel. Dinner selections include an Alberta game appetizer, Atlantic salmon en papillote, lightly smoked Alberta prime rib, roast rack of lamb in a dijon herb mustard cr [more..](/northamerica/canada/alberta/edmonton/restaurants/pradera)
+Regional specialties and a fusion of international þavours inspire the enticing menu at this handsome restaurant in the Westin Hotel. Dinner selections include an Alberta game appetizer, Atlantic salmon en papillote, lightly smoked Alberta prime rib, roast rack of lamb in a dijon herb mustard cr more..
 
 **Red Ox Inn . **
 
@@ -55,7 +58,11 @@ This intimate spot is renowned for its internationally inspired cuisine. Sample 
 
 **Bo'diddly's Pub & Grill (4) . **
 
-Casual Pub atmosphere specializing in appetizers. Featuring billiards, chess, NTN, etc.  Tel: 1 780 476-1918  Address: 4274 137 Avenue Edmonton Alberta  
+Casual Pub atmosphere specializing in appetizers. Featuring billiards, chess, NTN, etc.
+ 
+ Tel: 1 780 476-1918 
+ Address: 4274 137 Avenue Edmonton Alberta 
+ 
 
 **Characters . **
 
@@ -63,7 +70,7 @@ This elegant dining room boasts freshly scrubbed brick walls, polished hardwood 
 
 **Cocoa's Restaurant And Lounge . **
 
-Exciting options for varied tastes, the flavors of Alberta are the focus at this attractive restaurant in the Delta Edmonton Centre Suite Hotel. Among the dinner selections are lobster bisque with aged cheddar toast and endive, spinach and grapefruit salad,bison sirloin steak and linguine with cl [more..](/northamerica/canada/alberta/edmonton/restaurants/cocoasrestaurantandlounge)
+Exciting options for varied tastes, the flavors of Alberta are the focus at this attractive restaurant in the Delta Edmonton Centre Suite Hotel. Among the dinner selections are lobster bisque with aged cheddar toast and endive, spinach and grapefruit salad,bison sirloin steak and linguine with cl more..
 
 **De Vine's . **
 

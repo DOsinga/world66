@@ -92,7 +92,7 @@ From Mumbai: Panvel - Pen - Ratnagiri - Kankawali - Malvan
 
 [[rate it]](/asia/india/maharashtra/konkan/beaches/tarkarli)
 
-### [Kunkeshwar Beach](/asia/india/maharashtra/konkan/beaches/kunkeshwar_beach)
+### [Kunkeshwar Beach](/asia/india/maharashtra/konkan/deogad/kunkeshwar_temple)
 
 Kunkeshwar Beach is one of the famous beach in the Konkan are, which is get addressed from the Kunkeshwar Temple situated on the Beach. this Temple situated in the Deogad in Sindhudurg district.
 

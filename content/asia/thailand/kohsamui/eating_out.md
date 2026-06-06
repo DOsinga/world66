@@ -19,7 +19,7 @@ Daaraadat restaurant is a part of the Punnpreeda Hip resort on Bangrak beach in 
 
 Located on Mae Nam beach, Sankala Fine Cuisine is a part of the famous Kirikayan Luxury Pool Villas and Spa, which is a luxury resort. Sankala Fine Cuisine offers fine dining at affordable prices. Set in tropical modern style, the restaurant has an exotic garden filled with fragrant flowers and other tropical trees and plants. Sankala offers its guests both authentic Thai cuisine and an international menu. Recommended for guests at Sankala are the signature Sankala salad, which is a fine mix of seafood served with chopped fruits, Red Snapper Martado, beef topped with cheese and mashed potato, and Sankala&rsquo;s famous Tiramisu. If you would like to have some wine, then you can choose your own wine from their chilled walk in wine cellar.
 
-### [Chailay Seafood Restaurant & Beach Bar](/asia/thailand/kohsamui/eatingout/chailay_seafood_re)
+### Chailay Seafood Restaurant & Beach Bar
 
 ***Authentic Thai food at authentic Thai prices served in a stunning
 location.***

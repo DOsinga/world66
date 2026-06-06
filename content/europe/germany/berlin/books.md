@@ -7,7 +7,7 @@ A handful of guidebooks and one good history to read before you go.
 
 ### [Lonely Planet Berlin](/europe/germany/berlin/books/lonely_planet_berl)
 
-### [Berlin (Eyewitness Travel Guides)](/europe/germany/berlin/books/berlin_eyewitness)
+### Berlin (Eyewitness Travel Guides)
 
 As Berlin is laid out on an epic scale, this travel guide is organized
 so that you can take in as much of the city as possible. It will guide
@@ -18,7 +18,7 @@ the 3-D aerial views of Berlin's most interesting districts and a huge
 selection of hotels, restaurants, shops and entertainment venues makes
 this guide the ultimate travel guide.
 
-### [Time Out Berlin (Time Out Guides)](/europe/germany/berlin/books/time_out_berlin_t)
+### Time Out Berlin (Time Out Guides)
 
 Now in its seventh edition, *Time Out Berlin* contains a
 comprehensive overview and detailed lists of the nonstop nightlife; a
@@ -28,11 +28,11 @@ and parks of majestic Potsdam. Extensively revised and rewritten, with
 all listing details rechecked, with candid reviews of where to stay,
 play, party, and dine, *Time Out Berlin* helps visitors on short or long trips experience the essence of this world-class city.
 
-### [Berlin Made Easy: The Best Sights and Walks of Berlin (Open Road Travel Guides)](/europe/germany/berlin/books/berlin_made_easy)
+### Berlin Made Easy: The Best Sights and Walks of Berlin (Open Road Travel Guides)
 
 **Paperback:** 128 pages **Publisher:** Open Road (October 11, 2005)
 
-### [Eyewitness Top 10 Travel Guides: Berlin (Eyewitness Travel Top 10)](/europe/germany/berlin/books/eyewitness_top_10)
+### Eyewitness Top 10 Travel Guides: Berlin (Eyewitness Travel Top 10)
 
 A better value than all the competition, these pocket travel guides
 offer travelers the insight of local experts to easily plan the perfect
@@ -44,15 +44,15 @@ vacation, searching for the finest cuisine or the least expensive
 places to eat, the most luxurious hotels or the best deals on places to
 stay, the best family options.
 
-### [Fodor's Berlin, 1st Edition: The Guide for All Budgets Where to Stay, Eat, and Explore On and Off the Beaten Path (Fodor's Gold Guides)](/europe/germany/berlin/books/fodors_berlin_1s)
+### Fodor's Berlin, 1st Edition: The Guide for All Budgets Where to Stay, Eat, and Explore On and Off the Beaten Path (Fodor's Gold Guides)
 
 **Paperback:** 272 pages **Publisher:** Fodor's (February 5, 2002)
 
-### [Berlin Insideout City Guide](/europe/germany/berlin/books/berlin_insideout_c)
+### Berlin Insideout City Guide
 
 **Hardcover:** 64 pages **Publisher:** The Map Group; 2.00 edition (April 28, 2006)
 
-### [The Rough Guide To Berlin](/europe/germany/berlin/books/the_rough_guide_to)
+### The Rough Guide To Berlin
 
 **Paperback:** 368 pages **Publisher:** Rough Guides; 7th edition (August 1, 2005)
 

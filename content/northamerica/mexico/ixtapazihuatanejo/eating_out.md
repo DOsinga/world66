@@ -16,7 +16,7 @@ The specialty in the area is seafood. Zihuatanejo has an active fleet of pangas,
 **Contributors**
 July 03, 2005
 
-### [La Casa Cafe](/northamerica/mexico/ixtapazihuatanejo/eating_out/la_casa_cafe)
+### La Casa Cafe
 
 La Casa Cafe is an inexpensive, tropical courtyard patio with great organic house coffee, cappuccino's, latte, expresso & frappe's. Extensive menu of both American & Mexican food served by friendly wait staff & owners who are very informative of the area.
 

@@ -47,4 +47,4 @@ Lots of pretty good squash courts, as well as in- and outdoor tennis. It's cool 
  tel: +31-20-5633333
 
 
- ** Roada:** It's a [more..](/europe/netherlands/amsterdam/activities/squash/borchlandamstelborgh)
+ ** Roada:** It's a more..

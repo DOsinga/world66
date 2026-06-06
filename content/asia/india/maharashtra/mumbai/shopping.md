@@ -9,17 +9,20 @@ Shopping is one of the many enjoyable things in Mumbai. Without any doubt, you c
 
 **Fashion Street**
 
-Fashion Street, which is located opposite VSNL and also adjoining to Cross Maidan is very famous for its readymade garments. It has at least 130 to 140 shops and you will find the latest fashion at the cheapest rates. It is a very popular area with collegians and teenagers. There are also several shoe and jewellery shops. Sometimes, you will bump into one of Bollywood’s celebrities.  [more..](/asia/india/maharashtra/mumbai/shopping/fashionstreet)
+Fashion Street, which is located opposite VSNL and also adjoining to Cross Maidan is very famous for its readymade garments. It has at least 130 to 140 shops and you will find the latest fashion at the cheapest rates. It is a very popular area with collegians and teenagers. There are also several shoe and jewellery shops. Sometimes, you will bump into one of Bollywood’s celebrities.
+ 
+ [more..](/asia/india/maharashtra/mumbai/shopping/fashionstreet)
 
 **Chor Bazar**
 
-Simply meaning is thieves market. You will find each and every type of article, such as antiques, hardware, tools, wooden carvings, statues, figures, silver coins, engines, you name it and they’ll probably have it and sell it a reasonable price. Practise your bargain skills. Because it is centrally located you can easily spend hours here. Some vendors are also accepting credit cards (but then you need more bargaining skills). Maybe you will find an old piece of antique belonging to the Maharaja's or a reproduction of it. Check it out for yourself! [more..](/asia/india/maharashtra/mumbai/shopping/chorbazaar)
+Simply meaning is thieves market. You will find each and every type of article, such as antiques, hardware, tools, wooden carvings, statues, figures, silver coins, engines, you name it and they’ll probably have it and sell it a reasonable price. Practise your bargain skills. Because it is centrally located you can easily spend hours here. Some vendors are also accepting credit cards (but then you need more bargaining skills). Maybe you will find an old piece of antique belonging to the Maharaja's or a reproduction of it. Check it out for yourself! more..
 
 address: Mutton Street, Opp. Shafi Masjid,
 
 **Mini Market**
 
-Dealing in old glass wares, brasswares, wooden carvings, old paintings, antiques, silver coins, ivory jewellery and figures. 
+Dealing in old glass wares, brasswares, wooden carvings, old paintings, antiques, silver coins, ivory jewellery and figures.
+ 
 
 address: 33/31, Mutton Street,
 
@@ -35,15 +38,18 @@ tel: +91-22-3462272
 
 **Book Stores**
 
-**BOOK STORES** [more..](/asia/india/maharashtra/mumbai/shopping/copy_of_bookstores)
+**BOOK STORES** more..
 
 **ENSIGN BOOK STORES**
 
-LINKING ROAD 
+LINKING ROAD
+ 
 
-KHAR 
+KHAR
+ 
 
-MUMBAI-400052 
+MUMBAI-400052
+ 
 
 TEL:- 26464317
 

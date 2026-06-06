@@ -15,7 +15,7 @@ url: [website.lineone.net](http://website.lineone.net/~mr.miller/walks_in_torrid
 
 **Quinag**
 
-This is about the most northerly of the mountains of Torridonian sandstone and it is shaped like a Y and thus fairly noticeable. it's possible to start high up on the road for the stalk of the Y and to follow both arms in a reasonably timed walk. The views from here of both Torridonian and other peaks are slendid and immensely memorable. [more..](/europe/unitedkingdom/scotland/torridonian_highlands/things_to_do/quinag)
+This is about the most northerly of the mountains of Torridonian sandstone and it is shaped like a Y and thus fairly noticeable. it's possible to start high up on the road for the stalk of the Y and to follow both arms in a reasonably timed walk. The views from here of both Torridonian and other peaks are slendid and immensely memorable. more..
 
 url: [www.walkingbritain.co.uk](http://www.walkingbritain.co.uk/walks/walks7/w317.shtml)
 

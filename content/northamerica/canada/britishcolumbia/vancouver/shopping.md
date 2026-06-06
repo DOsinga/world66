@@ -11,7 +11,7 @@ You have money? Vancouver has places for you to shop. From the high-end trendy s
 
 **Granville Island Market**
 
-Another fine location to visit for people-watching and shopping on the waterfront in a wide variety of specialty shops. Great place to sit and enjoy a drink while watching the ships and boats sail past. Catch a mini ferry from English Bay and find yourself in a little community of arts & craft st [more..](/northamerica/canada/britishcolumbia/vancouver/shopping/granvilleislandmarket)
+Another fine location to visit for people-watching and shopping on the waterfront in a wide variety of specialty shops. Great place to sit and enjoy a drink while watching the ships and boats sail past. Catch a mini ferry from English Bay and find yourself in a little community of arts & craft st more..
 
 **Chinatown**
 

@@ -12,7 +12,7 @@ experience not to be missed while in town.
 **Contributors**
 August 11, 2005
 
-### [Beach 2](/asia/china/shandong_province/qingdao/beaches/beach_2)
+### Beach 2
 
 Cleaner than beach 1, this beach is suitable for swimming as long as
 your standards aren't too high. It's far less crowded than beach
@@ -22,13 +22,13 @@ showers, for a small fee. The beach is sandy but there are small
 rocky cliffs nearby, with pagodas. A sightseeing path starts here
 and winds down the coast. You can find a castle right next to the
 beach. The entrance fee is 5 RMB, but it looks better from the
-outside than in. [more..](/asia/china/shandong_province/qingdao/beaches/beach_2)
+outside than in. more..
 
 
 
 [[rate it]](/asia/china/shandong_province/qingdao/beaches/beach_2)
 
-### [Golden Beach](/asia/china/shandong_province/qingdao/beaches/golden_beach)
+### Golden Beach
 
 This beach is actually in Hong Dao, on the other side of the bay.
 You can go to the port and take a ferry for 9 RMB (each way). It
@@ -38,13 +38,13 @@ There are a lot of people, but the water is much nicer than the Qingdao
 side of the bay. The beach is named for the golden sand, which
 was very refreshing. There's a roped-in swimming area, and
 lifeguards sitting on boats about 200 meters out. All in all, a
-great day trip. But [more..](/asia/china/shandong_province/qingdao/beaches/golden_beach)
+great day trip. But more..
 
 
 
 [[rate it]](/asia/china/shandong_province/qingdao/beaches/golden_beach)
 
-### [Beach 1](/asia/china/shandong_province/qingdao/beaches/beach_1)
+### Beach 1
 
 The most popular beach in town, this beach is frequently overflowing
 with people. It is right near Zhongshan Park and the
@@ -56,7 +56,7 @@ plenty of people-watching to be done here.
 
 [[rate it]](/asia/china/shandong_province/qingdao/beaches/beach_1)
 
-### [Beach 6](/asia/china/shandong_province/qingdao/beaches/beach_6)
+### Beach 6
 
 Right near the end of Zhongshan Lu, this beach is the nearest to
 downtown. It's also by far the dirtiest, with reports of trash in

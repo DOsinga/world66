@@ -21,7 +21,7 @@ based in the Lofoten Islands**
 
 
 
-**Now you can stay at selected accommodations in the Lofoten Islands and enjoy one of the world's most beautiful archipelagos, while at the same time experiencing the autumn's most amazin [more..](/europe/norway/lofotenislands/things_to_do/orca_safari_from)
+**Now you can stay at selected accommodations in the Lofoten Islands and enjoy one of the world's most beautiful archipelagos, while at the same time experiencing the autumn's most amazin more..
 
 bookingurl: [www.orca-lofoten.com](http://www.orca-lofoten.com)
 
@@ -35,7 +35,7 @@ address: ORCA-LOFOTEN.COM, C/O SVINØYA A/S
 
 WINTER IN LOFOTEN** 
 
-A cluster of islands reaches out for more than 100 miles along the North Norwegian coastline. The southernmost islands lie approximately 60 miles north of the Arctic Circle and almost 70 miles from the mainland. The group of islands is called LOFOTEN. Why n [more..](/europe/norway/lofotenislands/things_to_do/winter_events_in_l)
+A cluster of islands reaches out for more than 100 miles along the North Norwegian coastline. The southernmost islands lie approximately 60 miles north of the Arctic Circle and almost 70 miles from the mainland. The group of islands is called LOFOTEN. Why n more..
 
 bookingurl: [www.lofoten-winter.com](http://www.lofoten-winter.com)
 

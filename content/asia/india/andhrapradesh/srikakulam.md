@@ -16,4 +16,4 @@ The district headquarters, Srikakulam town (formerly known as Chicacole), sits o
 
 The climate is tropical, with hot summers from February to June, a monsoon season through October, and pleasant weather from December to February when temperatures drop to around 19 degrees at night. Light cotton clothing is all you need year-round.
 
-Srikakulam is well connected by rail on the Howrah-Chennai line, and the nearest airport is at [Visakhapatnam](/asia/india/andhrapradesh/vishakhapatnam), about 115 kilometers to the south. Visitors from the eastern Indian states — Odisha, West Bengal — will find it an easy and rewarding detour.
+Srikakulam is well connected by rail on the Howrah-Chennai line, and the nearest airport is at [Visakhapatnam](/asia/india/andhrapradesh/visakhapatnam), about 115 kilometers to the south. Visitors from the eastern Indian states — Odisha, West Bengal — will find it an easy and rewarding detour.

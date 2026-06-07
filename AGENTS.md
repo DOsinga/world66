@@ -26,6 +26,8 @@ python3 manage.py runserver 8066
 
 `content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections, sections contain individual points of interest.
 
+**POIs always live flat in the city directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same city folder, not inside an `eating_out/` subfolder.
+
 ### Images
 
 Pages can have a hero image via frontmatter:

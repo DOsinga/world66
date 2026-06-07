@@ -29,7 +29,7 @@ Helicopters offer a birds-eye view of the best sights in the area, with tours fo
 **Contributors**
 December 23, 2009
 
-### [Niagara Falls Whirlpool Boat Tours](/northamerica/canada/ontario/niagrafalls/things_to_do/niagara_falls_whir)
+### Niagara Falls Whirlpool Boat Tours
 
 Experience class 5 rapids at Devil's Hole, the 360 degree rotation at Hamilton's Turn, and the amazing scenery of the Niagara Canyon on a Whirlpool Boat Tour. Covered boast also available for those that don't care to get wet.
 
@@ -52,7 +52,7 @@ url: [www.niagarafallslive.com](http://www.niagarafallslive.com/niagara_falls_wh
 
 address: 61 Melville Street in Niagara on the Lake, Ontario, Canada or 3050 Niagara Parkway, Niagara Falls, Ontario, Canada
 
-### [White Water Walk](/northamerica/canada/ontario/niagrafalls/things_to_do/white_water_walk)
+### White Water Walk
 
 Stunning views are available along this 1000 foot boardwalk that runs along the Great Gorge.
 
@@ -78,7 +78,7 @@ address: 4330 Niagara Parkway, Niagara Falls, Ontario, Canada
 
 email: npinfo@niagaraparks.com
 
-### [Journey Behind the Falls](/northamerica/canada/ontario/niagrafalls/things_to_do/journey_behind_the)
+### Journey Behind the Falls
 
 Spectacular views from behind the Falls! You will first take a 150 foot descent down to the tunnels leading to the viewing portals below and behind the sheet of water. From there the upper and lower observation decks are available for additional viewing.
 
@@ -100,7 +100,7 @@ url: [www.niagarafallslive.com](http://www.niagarafallslive.com/journey_behind_t
 
 address: Queen Victory Park near Horseshoe Falls
 
-### [Niagara Freefall](/northamerica/canada/ontario/niagrafalls/things_to_do/niagara_freefall)
+### Niagara Freefall
 
 Experience the adventure of skydiving in the controlled environment of an indoor wind tunnel. Guests will receive 25 minutes of pre-flight and safety training prior to their dive, and all equipment is provided.
 
@@ -118,7 +118,7 @@ address: 6357 Stanley Avenue, Niagara Falls, Ontario, Canada
 
 email: freefall@ican.net
 
-### [Things to do and Niagar Falls Holiday info](/northamerica/canada/ontario/niagrafalls/things_to_do/things_to_do_and_n)
+### Things to do and Niagar Falls Holiday info
 
 Niagara falls offers one of the most incredible scenic experiences in
 the world. The magnificence of the Falls inspires many to visit the

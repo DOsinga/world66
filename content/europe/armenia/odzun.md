@@ -14,7 +14,7 @@ title: Odzun
 type: location
 ---
 
-Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat_3), it sits on the left bank of the gorge.
+Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat), it sits on the left bank of the gorge.
 
 While tourist crowds visiting those two monasteries largely bypass it, the [Odzun Church](/europe/armenia/odzun/odzun_church) — an 8th-century basilica built on the foundations of a 6th-century church — is one of the finest in Armenia and well worth a visit. It was built as a tribute to the Supreme Katholikos Hovhannes Odzunetsi (John of Odzun), who was born in the village.
 

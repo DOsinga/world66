@@ -1,7 +1,7 @@
 ---
 title: Saint Kitts and Nevis
 type: location
-loc_type: city
+loc_type: country
 latitude: 17.3
 longitude: -62.73
 ---

@@ -2,7 +2,7 @@
 latitude: 34.9924
 longitude: 135.6837
 snippet: The "Moss Temple" — 120 species of moss carpeting one of Japan's most famous gardens
-story: To enter Saihō-ji you must first sit through a session of *shakyō* — sutra-copying — with a brush and ink, then deliver the finished page to the abbot. The reservation must be made by postcard, weeks in advance. The barrier is deliberate: it keeps the daily numbers low enough to protect the moss.
+story: "To enter Saihō-ji you must first sit through a session of *shakyō* — sutra-copying — with a brush and ink, then deliver the finished page to the abbot. The reservation must be made by postcard, weeks in advance. The barrier is deliberate: it keeps the daily numbers low enough to protect the moss."
 tags:
 - things_to_do
 - temple

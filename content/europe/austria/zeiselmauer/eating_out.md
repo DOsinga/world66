@@ -12,7 +12,7 @@ url: www.zumlustigenbauern.at
 **Contributors**
 December 28, 2006
 
-### [Gasthof zum Lustigen Bauern](/europe/austria/zeiselmauer/eating_out/gasthof_zum_lustig)
+### Gasthof zum Lustigen Bauern
 
 **
 ** T his is a real traditional Austrian restaurant. They offer excellent food and wines from the region.

@@ -21,7 +21,7 @@ subject: Travel
 
 **The Voices of Marrakesh**
 
-** Yael:** Inspiring! Canetti autobiographical account of his short stay in Marrakesh manages to convay the uncompromising tension of being an outsider and trying to penetrate a foreign culture. The brief but intense inviews in the Marrakesh life give way to long spells of resignat [more..](/africa/morocco/marrakesh/books/thevoicesofmarrakesh)
+** Yael:** Inspiring! Canetti autobiographical account of his short stay in Marrakesh manages to convay the uncompromising tension of being an outsider and trying to penetrate a foreign culture. The brief but intense inviews in the Marrakesh life give way to long spells of resignation, as the narrator accepts how little he will ever truly understand of the city.
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/0826402135 /ref=ase_osingacom?v=glance&s=books)
 

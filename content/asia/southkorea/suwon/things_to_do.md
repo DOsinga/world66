@@ -7,7 +7,7 @@ title: Things to do
 type: poi
 ---
 
-### [Korean Archery](/asia/southkorea/suwon/thingstodo/korean_archery)
+### Korean Archery
 
 Opportunities are presented to experience the culture of old times by practicing traditional Korean archery wearing traditional costumes at the military exercise grounds of Hwaseong Fortress.
 

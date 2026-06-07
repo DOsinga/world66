@@ -15,7 +15,7 @@ If you are going to Old Providence you fist have to arribe to San Andres, since 
 
 It is possible to go by boat but it is not always easy to find out when the boats are leaving. The greatest way to get there is to hitch a ride on a boat going in that direction.
 
-### [Old Providence](/southamerica/colombia/sanandresandprovidencia/gettingthere/islapalmacolombia)
+### Old Providence
 
 Can be reached by sea, via San Andres. There are daily freight boats, taking about 8 hours for the 75km. One could also get flights from Bogota, also via San Andres.
 

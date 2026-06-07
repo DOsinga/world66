@@ -2,12 +2,7 @@
 latitude: 27.543
 longitude: 89.749
 snippet: Mountain pass at 3100m with 108 memorial chortens and Himalayan views
-story: Dochu La pass, on the road between Thimphu and Punakha, is marked by 108
-  chortens built by the royal family to commemorate Bhutanese soldiers killed in a
-  2003 military operation that cleared Indian separatist militants who had established
-  camps in southern Bhutan. On clear winter mornings — usually November to February
-  — the ridge offers a panoramic view of the high Himalayan peaks: Masagang, Tsendagang,
-  Terigang, Jejekangphu, and others.
+story: "Dochu La pass, on the road between Thimphu and Punakha, is marked by 108 chortens built by the royal family to commemorate Bhutanese soldiers killed in a 2003 military operation that cleared Indian separatist militants who had established camps in southern Bhutan. On clear winter mornings — usually November to February — the ridge offers a panoramic view of the high Himalayan peaks: Masagang, Tsendagang, Terigang, Jejekangphu, and others."
 tags:
 - day_trips
 - sight

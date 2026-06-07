@@ -1,6 +1,7 @@
 ---
 address: Church Street, Sheffield S1 1HA
 latitude: 53.3830
+loc_type: feature
 longitude: -1.4694
 snippet: 13th-century parish church promoted to cathedral in 1914
 tags:

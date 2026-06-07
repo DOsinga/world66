@@ -25,4 +25,4 @@ The food is very good. Brussels rivals Paris for density of serious restaurants,
 
 A warning: Brussels has a reputation for street crime higher than most Western European capitals. The main stations (Midi/Zuid and Nord) and the arc of streets between them are genuinely sketchy after dark. Stick to the historic centre, Ixelles, Saint-Gilles, and the EU district at night, and watch your bag on the metro.
 
-Two nights is the minimum; three or four is better, especially if a festival is on. Brussels is also well placed as a base for [Bruges](/europe/belgium/bruges), [Ghent](/europe/belgium/gent), and [Antwerp](/europe/belgium/antwerp), all within an hour by train.
+Two nights is the minimum; three or four is better, especially if a festival is on. Brussels is also well placed as a base for [Bruges](/europe/belgium/bruges), [Ghent](/europe/belgium/ghent), and [Antwerp](/europe/belgium/antwerp), all within an hour by train.

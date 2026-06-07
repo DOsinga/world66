@@ -1,7 +1,7 @@
 ---
 title: "The Ark"
 type: poi
-tags: [things_to_do, sights, fortress, historic]
+tags: [things_to_do, fortress, historic]
 latitude: 39.7757
 longitude: 64.4147
 snippet: "Ancient mud-brick citadel and seat of the Bukharan emirs"

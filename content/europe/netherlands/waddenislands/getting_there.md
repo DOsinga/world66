@@ -42,9 +42,9 @@ Write up on 24 February 05
 
 Minor corrections on 13 March 05
 
-### [Ferry crossings
+### Ferry crossings
 
-For the Ferry to ** Texel island**](/europe/netherlands/waddenislands/getting_there/ferry_crossings), drive to Den Helder harbour, or take a direct train from Amsterdam.
+For the Ferry to ** Texel island**, drive to Den Helder harbour, or take a direct train from Amsterdam.
 
 For the Ferries to **[Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there) & [Terschelling island](/europe/netherlands/waddenislands/terschelling/getting_there)**, drive to Harlingen harbour, or take a direct train from Amsterdam to Leeuwarden > change train to Harlingen harbour .
 
@@ -55,6 +55,5 @@ Holwerd harbour. There is also a direct bus from Groningen.
 For the Ferry to [** Schiermonnikoog island**](/europe/netherlands/waddenislands/schiermonnikoog_is/getting_there),
 drive to Lauwersoog harbour, or take a direct train from Amsterdam to Leeuwarden > direct bus to
 Lauwersoog harbour. There is also a direct bus from Groningen.
-[more..](/europe/netherlands/waddenislands/getting_there/ferry_crossings)
 
 type: By Sea

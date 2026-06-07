@@ -89,7 +89,7 @@ crocodiles and the Javanese rhinoceros. The crocodiles and the Javanese
 rhinoceros are rare seen but we never know.
 
 The
-best time to [more..](/asia/indonesia/banten/sights/ujung_kulon_nation)
+best time to visit is during the dry season between April and October.
 
 type: Parks, Gardens and Zoos
 
@@ -97,7 +97,7 @@ type: Parks, Gardens and Zoos
 
 [[rate it]](/asia/indonesia/banten/sights/ujung_kulon_nation)
 
-### [Agung Yoga](/asia/indonesia/banten/sights/agung_yoga)
+### Agung Yoga
 
 **Anyer** is a beach town in Banten. It is located at Anyer, 38 km from Serang
 City. The beach is facing the West, so we can see the view of Mt.
@@ -107,7 +107,7 @@ Ski, Speed Boat, Para Sailing and other aquatic sport, those types of
 activities can be found here, as well as sunset view from the beach and
 an old lighthouse at Cikoneng. A lot of hotels from jasmine to
 international 5 stars can be tourist best choices to stay. Anyer is a
-popular [more..](/asia/indonesia/banten/sights/agung_yoga)
+popular weekend escape for Jakartans, who come for the calm waters and seafood restaurants along the coast road.
 
 type: Hotspots
 

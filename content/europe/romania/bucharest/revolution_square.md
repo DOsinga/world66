@@ -1,6 +1,7 @@
 ---
 address: Piața Revoluției, Calea Victoriei, Bucharest
 latitude: 44.4406
+loc_type: feature
 longitude: 26.0965
 snippet: Where Ceaușescu gave his final speech in December 1989
 tags:

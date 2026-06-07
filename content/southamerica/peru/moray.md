@@ -17,7 +17,7 @@ title: Moray
 type: location
 ---
 
-Moray is a small archaeological site and village in the Sacred Valley of [Peru](/southamerica/peru), about 50 km northwest of [Cusco](/southamerica/peru/cusco), sitting on a high plateau at around 3,500 metres above sea level. It is famous for its extraordinary Inca agricultural terraces — a series of enormous concentric rings carved into natural sinkholes in the hillside. Each level creates a slightly different microclimate, and the Incas are believed to have used them as a kind of open-air laboratory to study the effects of altitude and temperature on different crops.
+Moray is a small archaeological site and village in the Sacred Valley of [Peru](/southamerica/peru), about 50 km northwest of [Cusco](/southamerica/peru/cuzco), sitting on a high plateau at around 3,500 metres above sea level. It is famous for its extraordinary Inca agricultural terraces — a series of enormous concentric rings carved into natural sinkholes in the hillside. Each level creates a slightly different microclimate, and the Incas are believed to have used them as a kind of open-air laboratory to study the effects of altitude and temperature on different crops.
 
 The [Moray Terraces](/southamerica/peru/moray/moray_terraces) are the main draw, but the area rewards a slower visit. Just a few kilometres east lies the village of Maras and its remarkable [Salineras de Maras](/southamerica/peru/moray/salineras_de_maras) — thousands of small salt evaporation pools still harvested by local families using pre-Inca methods. The salt is naturally pink, carrying a trace of minerals from the mountain springs. Together, Moray and Maras make a satisfying half-day excursion from Cusco, far quieter than Ollantaytambo or Pisac.
 

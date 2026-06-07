@@ -1,6 +1,7 @@
 ---
 address: Piața Foișorul de Foc 5, Bucharest
 latitude: 44.4403
+loc_type: feature
 longitude: 26.1206
 snippet: 1890 fire-watch tower, now Bucharest's small firefighting museum
 tags:

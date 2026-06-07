@@ -8,7 +8,7 @@ To the west of Gardenstown there is a nice sandy beach and to the east heading t
 **Contributors**
 February 19, 2006
 
-### [Gardenstown Beach](/europe/unitedkingdom/scotland/gardenstown/beaches/gardenstown_beach)
+### Gardenstown Beach
 
 To the west of Gardenstown there is a nice sandy beach with a path up the cliffs to the ruined church of St John founded in 1004.
 

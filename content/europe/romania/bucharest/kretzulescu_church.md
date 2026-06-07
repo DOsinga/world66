@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei 47, Bucharest
 latitude: 44.4381
+loc_type: feature
 longitude: 26.0966
 snippet: 1722 Brâncovenesc-style church on Revolution Square
 tags:

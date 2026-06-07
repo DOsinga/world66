@@ -1,0 +1,5 @@
+northamerica/unitedstates/utah/bearlake
+northamerica/unitedstates/utah/zion
+northamerica/unitedstates/utah/zionnationalpark
+northamerica/unitedstates/vermont/bennington
+northamerica/unitedstates/vermont/woodstock

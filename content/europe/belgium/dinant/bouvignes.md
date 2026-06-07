@@ -1,6 +1,7 @@
 ---
 address: Bouvignes-sur-Meuse, 5500 Dinant
 latitude: 50.2667
+loc_type: feature
 longitude: 4.9000
 snippet: Tiny medieval town on the opposite bank from Dinant
 tags:

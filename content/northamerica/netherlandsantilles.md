@@ -1,7 +1,7 @@
 ---
 title: "Netherlands Antilles"
 type: location
-loc_type: region
+loc_type: country
 latitude: 12.2000
 longitude: -69.0000
 ---

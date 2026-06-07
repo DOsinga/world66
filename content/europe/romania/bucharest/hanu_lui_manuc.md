@@ -1,6 +1,7 @@
 ---
 address: Strada Franceză 62-64, Bucharest
 latitude: 44.4291
+loc_type: feature
 longitude: 26.1006
 snippet: 19th-century caravanserai turned restaurant in the Old Centre
 tags:

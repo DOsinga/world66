@@ -1,0 +1,5 @@
+northamerica/unitedstates/kansas/tallgrassprairie
+northamerica/unitedstates/massachusetts/pittsfield
+northamerica/unitedstates/minnesota/eaglebend
+northamerica/unitedstates/missouri/branson
+northamerica/unitedstates/missouri/buckner

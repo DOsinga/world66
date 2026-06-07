@@ -7,7 +7,7 @@ tags:
 - nature
 title: Taï National Park
 type: poi
-story: Taï National Park is one of the last large tracts of primary tropical rainforest in West Africa — the vast forests that once covered much of the region have been reduced to this 5,400 square kilometre UNESCO World Heritage Site. It is home to western chimpanzees famous among primatologists for their tool use: they crack nuts with stones, a behaviour studied since the 1970s that helped reshape the understanding of what separates human intelligence from that of other primates.
+story: "Taï National Park is one of the last large tracts of primary tropical rainforest in West Africa — the vast forests that once covered much of the region have been reduced to this 5,400 square kilometre UNESCO World Heritage Site. It is home to western chimpanzees famous among primatologists for their tool use: they crack nuts with stones, a behaviour studied since the 1970s that helped reshape the understanding of what separates human intelligence from that of other primates."
 ---
 
 Taï National Park protects one of West Africa's most important remaining areas of primary rainforest, stretching across a vast area about 100km north of San-Pédro. The park is a UNESCO World Heritage Site and home to an exceptional diversity of wildlife, including forest elephants, pygmy hippopotamuses, leopards, and eleven species of primate — most famously a population of chimpanzees known for their tool-using behaviour.

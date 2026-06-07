@@ -3,7 +3,7 @@ address: 1-1 Chiyoda, Chiyoda, Tokyo
 admission: Free (east gardens); palace grounds by advance reservation only
 latitude: 35.685175
 longitude: 139.753442
-opening_hours: East Garden: Tue–Sun 9am–4pm; closed Mon and palace-designated days
+opening_hours: "East Garden: Tue–Sun 9am–4pm; closed Mon and palace-designated days"
 snippet: The emperor's residence, surrounded by moats and ancient pine gardens
 tags:
 - things_to_do

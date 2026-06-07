@@ -7,7 +7,7 @@ tags:
   - sight
   - swimming
   - diving
-  - nightlife
+  - bars_and_cafes
 latitude: 13.4980
 longitude: 120.9810
 sources:

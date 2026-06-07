@@ -1,5 +1,0 @@
-europe/spain/andalucia/almeria
-europe/spain/andalucia/vejer
-europe/spain/andalucia/whitevillages/arcos_de_la_frontera
-europe/spain/andalucia/whitevillages/setenil_de_las_bodegas
-europe/spain/aragon/torla

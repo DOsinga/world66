@@ -1,17 +1,19 @@
 ---
 done:
   link_coverage: '2026-06-07'
+  location_create: '2026-06-04'
+image: siguenza.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Sig%C3%BCenza,_Espa%C3%B1a,_2015-12-28,_DD_112.JPG
 latitude: 41.0692
 loc_type: city
 longitude: -2.6392
 sources:
 - https://en.wikipedia.org/wiki/Sig%C3%BCenza
+- https://en.wikivoyage.org/wiki/Sig%C3%BCenza
 title: Sigüenza
 type: location
-image: siguenza.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Santa_Mar%C3%ADa,_Sig%C3%BCenza,_Espa%C3%B1a,_2015-12-28,_DD_112.JPG
-image_license: CC BY-SA 4.0
-image_attribution: Diego Delso
 ---
 
 Sigüenza is one of the great small towns of inland Spain: a stony, compact medieval place in the high country north of Guadalajara, crowned by a bishop's castle and anchored by a fortress-like cathedral. It is close enough to Madrid for a long day trip, but it feels far removed from the capital's orbit. The air is cooler up here, the streets are quiet, and the old town still has the severe dignity of a Castilian episcopal seat.

@@ -1,5 +1,0 @@
-europe/france/east/lorraine/epinal
-europe/france/midi/basqueregion/saintjeandeluz
-europe/france/midi/camargue
-europe/france/midi/ceret
-europe/france/midi/cevennes/ales

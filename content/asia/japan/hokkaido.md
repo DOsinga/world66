@@ -22,3 +22,4 @@ Hokkaido is the northernmost of the four big islands that make up Japan. It is r
 
 [Sapporo](/asia/japan/hokkaido/sapporo)
 [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan)
+[Shiretoko](/asia/japan/hokkaido/shiretoko)

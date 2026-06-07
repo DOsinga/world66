@@ -1,6 +1,7 @@
 ---
 done:
   link_coverage: '2026-06-07'
+  location_create: '2026-06-04'
 image: savona.jpg
 image_attribution: Basilico
 image_license: CC BY-SA 3.0
@@ -10,6 +11,7 @@ loc_type: city
 longitude: 8.4772
 sources:
 - https://en.wikipedia.org/wiki/Savona
+- https://en.wikivoyage.org/wiki/Savona
 - https://www.visitsavona.com/en/what-to-see-in-savona/towers-fortress/priamar-fortress
 - https://www.visitsavona.com/en/what-to-see-in-savona/religious-buildings/sistine-chapel
 title: Savona

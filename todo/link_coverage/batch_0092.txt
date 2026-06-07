@@ -1,5 +1,0 @@
-southamerica/bolivia/uyuni
-southamerica/brazil/blumenau
-southamerica/brazil/congonhas
-southamerica/brazil/ilhagrande
-southamerica/brazil/itacare

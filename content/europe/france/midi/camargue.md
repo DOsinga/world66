@@ -1,24 +1,24 @@
 ---
+country: France
 done:
-  link_coverage: '2026-06-07'
+  wikitravel_coverage: '2026-06-05'
 image: camargue.jpg
 image_attribution: Norbert Nagel, Mörfelden-Walldorf, Germany
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Horses_in_the_Camargue_1.jpg
-latitude: 43.5408
-loc_type: region
-longitude: 4.5147
+latitude: 43.5
+loc_type: feature
+longitude: 4.65
 sources:
 - https://en.wikipedia.org/wiki/Camargue
-- https://www.parc-camargue.fr/
 title: Camargue
 type: location
 ---
 
-The Camargue is the wide, salt-edged delta where the Rhone breaks into lagoons, reed beds, rice fields, and pale Mediterranean light. It begins just south of [Arles](/europe/france/midi/provence/arles) and feels very different from the stone villages inland: flatter, windier, wilder, and ruled by birds, bulls, horses, and water.
+The Camargue is one of the great European wildernesses — a vast delta where the Rhône meets the Mediterranean, spreading into 930 square kilometres of salt lagoons, rice paddies, reed beds, and marshland. It is home to [wild white horses](/europe/france/midi/camargue/camargue_white_horses), [black bulls](/europe/france/midi/camargue/camargue_bulls), and the [largest flamingo colony](/europe/france/midi/camargue/flamingo_colony) in Europe. The landscape is flat, ancient, and unlike anything else in France.
 
-The classic images are real enough: white Camargue horses in the marshes, black bulls in the manades, and flamingos feeding in the shallow lagoons. The best introduction is the [Parc Ornithologique du Pont de Gau](/europe/france/midi/camargue/parc_ornithologique_du_pont_de_gau), where you can see flamingos at close range, then a slow drive or cycle toward the [Etang de Vaccares](/europe/france/midi/camargue/etang_de_vaccares) and the [Phare de la Gacholle](/europe/france/midi/camargue/phare_de_la_gacholle).
+The regional park covers most of the delta, with the town of [Arles](/europe/france/midi/provence/arles) marking the northern edge and the village of [Saintes-Maries-de-la-Mer](/europe/france/midi/camargue/saintes_maries_de_la_mer) at the southern tip. Between them, the land belongs largely to birds and cattle. The [Étang de Vaccarès](/europe/france/midi/camargue/etang_de_vaccares) is the largest lagoon, strictly protected, where wading birds congregate in extraordinary numbers. To the west, the medieval walled town of [Aigues-Mortes](/europe/france/midi/camargue/aigues_mortes) rises from the salt marshes. Salt is harvested industrially at [Salin-de-Giraud](/europe/france/midi/camargue/salt_pans_salin_de_giraud) on the eastern edge, where the pans turn vivid pink in late summer.
 
-[Saintes-Maries-de-la-Mer](/europe/france/midi/camargue/saintes_maries_de_la_mer) is the seaside base, lively in summer and famous for its gypsy pilgrimage. [Aigues-Mortes](/europe/france/midi/camargue/aigues_mortes) is the walled medieval set-piece on the western edge, while [Salin-de-Giraud](/europe/france/midi/camargue/salin_de_giraud) and the salt pans show the harsher industrial side of the delta.
+Spring and autumn are the best times to visit, when migratory birds pass through in large numbers and the light has that particular quality of the Provençal coast without the crowds. The [Parc Ornithologique de Pont de Gau](/europe/france/midi/camargue/parc_ornithologique_pont_de_gau) offers easy birdwatching close to Saintes-Maries, while the [Musée de la Camargue](/europe/france/midi/camargue/musee_de_la_camargue) near Albaron covers the human history of the delta. Gardians — local cowboys who manage the cattle on horseback — are part of a pastoral tradition that survives here when it has disappeared almost everywhere else.
 
-Do not expect a tidy national-park loop where every sight is packaged. Distances are longer than they look, roads can feel empty, and the mistral can make cycling heroic. That roughness is exactly why the Camargue works: it is one of the few corners of Provence where the landscape still feels bigger than the villages.
+[Cycling the reserve](/europe/france/midi/camargue/cycling_routes) on a spring morning, stopping to watch flamingos in the salt marshes and hearing only wind and birds, is one of those experiences that stays with you. The flat terrain and quiet roads make the Camargue one of the most rewarding cycling destinations in France.

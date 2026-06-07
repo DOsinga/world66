@@ -1,15 +1,17 @@
 ---
-latitude: 43.6467
-longitude: 4.6320
+title: "Musée de la Camargue"
+type: poi
 tags:
   - things_to_do
   - museum
-  - culture
-  - landscape
-title: "Musee de la Camargue"
-type: poi
+latitude: 43.5467
+longitude: 4.5244
+story: >
+  The museum occupies a mas — a traditional Camarguais farmhouse — that was still working as a sheep farm until the 1970s. The original sheepfold has been converted into the main exhibition space while keeping the building's agricultural character intact.
+sources:
+  - https://en.wikipedia.org/wiki/Camargue
 ---
 
-The Musee de la Camargue, housed in a former sheepfold near Arles, is the best place to understand the delta before driving into it. Exhibits explain rice farming, salt, cattle, horses, water management, and the uneasy balance between wilderness and work.
+The regional museum of the Camargue is set in an old sheep farm at Mas du Pont de Rousty, near Albaron on the western edge of the park. Its permanent collection covers the human history of the delta — the gardians who herd the black bulls, the manades (herds) of white horses, the rice and salt industries, and the drainage works that reclaimed much of the original marsh for agriculture over the past century.
 
-It is especially useful because the Camargue can otherwise seem like pure scenery. The museum makes clear that every canal, pasture, and salt flat has been shaped by people as much as by the Rhone.
+From the museum, a 3.5-kilometre trail leads through the surrounding farmland to a viewpoint over the marsh, passing through the agricultural landscape that has shaped the Camargue as much as the nature reserve. The combination of indoor exhibition and outdoor trail makes it one of the better introductions to the region before heading further south into the park proper.

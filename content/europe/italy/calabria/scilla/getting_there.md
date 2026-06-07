@@ -3,7 +3,7 @@ title: "Getting There"
 type: section
 ---
 
-Scilla sits on the Tyrrhenian coast about 25 km north of [Reggio Calabria](/europe/italy/calabria/reggio) and 9 km south of Villa San Giovanni, the main ferry port for Messina in Sicily. The A2 (Autostrada del Mediterraneo) runs along the cliffs above town with its own exit; from the exit it is a steep, switchbacked descent.
+Scilla sits on the Tyrrhenian coast about 25 km north of [Reggio Calabria](/europe/italy/calabria/reggiocalabria) and 9 km south of Villa San Giovanni, the main ferry port for Messina in Sicily. The A2 (Autostrada del Mediterraneo) runs along the cliffs above town with its own exit; from the exit it is a steep, switchbacked descent.
 
 **Trains** on the Reggio Calabria – Naples line stop at the small Scilla station several times a day. It is the easiest way to arrive without a car — the station is a five-minute walk above the centre.
 

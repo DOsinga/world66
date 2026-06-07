@@ -1,6 +1,7 @@
 ---
 address: West Bar Green, Sheffield S1 2DA
 latitude: 53.3855
+loc_type: feature
 longitude: -1.4707
 snippet: Police, fire, and ambulance history in a converted Victorian fire station
 tags:

@@ -1,6 +1,7 @@
 ---
 address: Dealul Arsenalului, Bucharest
 latitude: 44.4259
+loc_type: feature
 longitude: 26.0823
 snippet: Vast new Orthodox cathedral, largest in southeastern Europe
 tags:

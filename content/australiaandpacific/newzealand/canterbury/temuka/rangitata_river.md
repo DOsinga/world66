@@ -1,6 +1,7 @@
 ---
 address: Rangitata River, near Temuka
 latitude: -44.1167
+loc_type: feature
 longitude: 171.5500
 snippet: Major braided river north of Temuka, famous for jet boating and salmon
 tags:

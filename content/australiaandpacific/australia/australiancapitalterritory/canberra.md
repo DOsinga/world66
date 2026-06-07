@@ -21,4 +21,4 @@ Canberra is very different from most Australian capital cities. Firstly, it is r
 
 It's also fun to note that the 'mall' running between the War Memorial and Parliament looks familiar. This is because much of Canberra was designed by a US Architect and the mall in Canberra is reminiscent of the mall in Washington DC, specifically the reflecting pool between the Washington Monument and Lincoln Memorial.
 
-Orginal article by [TravellingMap](/world/member/travellingmap) on 28 January 05
+Orginal article by TravellingMap on 28 January 05

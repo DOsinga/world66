@@ -1,6 +1,7 @@
 ---
 address: Alma Street, Sheffield S3 8RY
 latitude: 53.3895
+loc_type: feature
 longitude: -1.4723
 snippet: Industrial museum on a man-made island, with a running River Don Engine
 tags:

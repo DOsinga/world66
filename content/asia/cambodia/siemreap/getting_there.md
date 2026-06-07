@@ -1,5 +1,5 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
@@ -22,22 +22,3 @@ WARNING ABOUT BUS PACKAGES FROM BANGKOK **Almost everyone who uses Bangkok Tour 
 To be fair, this is fairly normal Asian *marketing*, and the guest houses have most certainly paid the driver to deliver "guests" to their door. If you were a cash strapped guest house operator it would be pretty dispiriting watching a busload of tourists head elsehwere "on principle." Give the guest house the benefit of the doubt - it isn't them who's been ripping anyone off: it is the bus operator. But do explain to the guest house manager if you really do have a booking elsewhere. If they refuse to even allow phone calls to your chosen hotel or guest house, then sure: get your bags and show you're ready to walk.
 
 Most TAT agencies in Bangkok say the bus journey takes 8-10 hours via Poipet. Don't believe them! At best It will take 12 or more hours. Some operators are now sending people to remote border crossings; taking 18-20 hours on arriving at 2am. The Bus that takes you from Bangkok to the border is usually a good air con vehicle . Some agencies take people to a remote border at Pallin (Daung ) It is here that most problems occur. You are likely to be asked to pay $40 or more for a visa. You will certainly be delayed by 3 hours waiting for the transport (usually overcrowded minivans or pickup trucks ). You will have an uncomfortable journey on dirt roads via Battembang; with numerous long stops and at least one well rehearsed breakdown. it can take 18 hours in total. The Bangkok/Poipet/Siem Reap experience is one of the best reasons one can think of to do your homewoprk before you travel!
-
-**Contributors**
-February 24, 2007
-
-December 26, 2005
-
-April 08, 2006
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

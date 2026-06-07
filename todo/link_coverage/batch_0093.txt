@@ -1,0 +1,5 @@
+southamerica/brazil/trancoso
+southamerica/chile/atacamadesert/salardeatacama
+southamerica/chile/atacamadesert/valledelaluna
+southamerica/chile/chiloe
+southamerica/chile/coquimbo

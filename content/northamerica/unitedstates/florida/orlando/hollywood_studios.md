@@ -1,7 +1,7 @@
 ---
 latitude: 28.3575
 longitude: -81.5597
-snippet: Disney park home to Star Wars: Galaxy's Edge and Tower of Terror
+snippet: "Disney park home to Star Wars: Galaxy's Edge and Tower of Terror"
 tags:
 - things_to_do
 - landmark

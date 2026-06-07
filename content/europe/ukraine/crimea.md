@@ -26,6 +26,6 @@ The southern coast — a 180 km strip from Sevastopol to Feodosia — is the cla
 [Simferopol](/europe/ukraine/crimea/simferopol)
 [Sudak](/europe/ukraine/crimea/sudak)
 [Bahchisaray](/europe/ukraine/crimea/bahchisaray)
-[Karadag](/europe/ukraine/crimea/sevastopol/karadag)
+Karadag
 [Chersones](/europe/ukraine/crimea/sevastopol/chersones)
-[Simeiz](/europe/ukraine/crimea/yalta/simeiz)
+Simeiz

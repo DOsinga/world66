@@ -1,0 +1,5 @@
+europe/italy/liguria/savona
+europe/italy/piemonte/asti
+europe/italy/puglia/locorotondo
+europe/italy/puglia/polignano_a_mare
+europe/italy/sicily/favignana

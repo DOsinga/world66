@@ -13,7 +13,7 @@ title: Salerno
 type: location
 ---
 
-Salerno sits at the northern end of the [Amalfi Coast](/europe/italy/campania/amalfi_coast), a working Italian city that most visitors rush through on their way to Positano or Ravello. That is a mistake. Salerno has a handsome historic centre, a spectacular waterfront promenade, and a fraction of the crowds — and the prices — of its famous neighbours.
+Salerno sits at the northern end of the [Amalfi Coast](/europe/italy/campania/amalfi), a working Italian city that most visitors rush through on their way to Positano or Ravello. That is a mistake. Salerno has a handsome historic centre, a spectacular waterfront promenade, and a fraction of the crowds — and the prices — of its famous neighbours.
 
 The old town is a tangle of narrow lanes, small churches, and medieval arches centred on the [Via dei Mercanti](via_dei_mercanti), once the main commercial street and still lined with shops and cafes. Above it all, perched on a rocky spur, the [Castello di Arechi](castello_di_arechi) commands views across the entire Gulf of Salerno. The city's greatest claim to history is the [Schola Medica Salernitana](schola_medica_salernitana), founded in the ninth century and considered the first medical school in Europe — a place where Greek, Latin, Arabic, and Jewish scholars worked side by side long before that was fashionable. The [Giardino della Minerva](giardino_della_minerva), a medieval botanical garden terraced into the hillside, is directly connected to this medical tradition.
 

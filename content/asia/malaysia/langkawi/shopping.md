@@ -29,4 +29,4 @@ from Tanjung Rhu area) where you can find thousands of local
 handicrafts from all over Malaysia and not forgetting the Oriental
 Village located at the Burau Bay area.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 29 March 05
+Minor corrections by giorgio on 29 March 05

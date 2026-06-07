@@ -2,12 +2,7 @@
 latitude: 27.4738
 longitude: 89.6387
 snippet: The only post office in the world that makes stamps with your face on them
-story: Bhutan's postage stamps have been collectors' items since the 1970s, when
-  the country began issuing unusually creative designs — including three-dimensional
-  stamps, scented stamps, and stamps pressed into vinyl records. The Bhutan Postal
-  Museum documents this philatelic history and also offers a service unique in the
-  world: you can have your own photograph turned into a genuine, valid Bhutanese postage
-  stamp within a few hours.
+story: "Bhutan's postage stamps have been collectors' items since the 1970s, when the country began issuing unusually creative designs — including three-dimensional stamps, scented stamps, and stamps pressed into vinyl records. The Bhutan Postal Museum documents this philatelic history and also offers a service unique in the world: you can have your own photograph turned into a genuine, valid Bhutanese postage stamp within a few hours."
 tags:
 - things_to_do
 - museum

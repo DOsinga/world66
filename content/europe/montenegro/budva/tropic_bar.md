@@ -6,7 +6,6 @@ longitude: 18.8355
 tags:
   - bars_and_cafes
   - bar
-  - nightlife
 snippet: Well-known bar below the old town walls, open-air with music until late
 ---
 

@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - wine
 - excursion
-- tours_and_excursio
+- tours_and_excursions
 title: Albariño Wines and Celtic Sites of the Salnés Valley
 type: poi
 ---

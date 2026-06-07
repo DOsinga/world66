@@ -7,7 +7,7 @@ snippet: Resort island south of Singapore with beaches, cable car, and attractio
 tags:
 - things_to_do
 - excursion
-- tours_and_excursio
+- tours_and_excursions
 title: Sentosa Island
 type: poi
 ---

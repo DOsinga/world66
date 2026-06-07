@@ -1,0 +1,5 @@
+europe/spain/canaryislands/lanzarote/timanfaya
+europe/spain/canaryislands/tenerife/teide
+europe/spain/catalonia/castello_de_ampurias
+europe/spain/catalonia/priorat
+europe/spain/centralspain/talaveradelareina

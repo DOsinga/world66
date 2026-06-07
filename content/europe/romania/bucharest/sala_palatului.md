@@ -1,6 +1,7 @@
 ---
 address: Strada Ion Câmpineanu 28, Bucharest
 latitude: 44.4391
+loc_type: feature
 longitude: 26.0950
 snippet: Socialist-era congress hall used for major concerts
 tags:

@@ -19,7 +19,7 @@ The Hamilton Street Railway is the primary provider of public transportation for
 
 Service operates frequently on virtually all lines, all days of the week. Check schedules for verification of trip times.
 
-The Hamilton Street Railway also operates semi-regular service into the City of Burlington's bus terminal, allowing passengers to link up with Burlington Transit and Oakville Transit bus service and additional service offered by GO Transit [more..](/northamerica/canada/ontario/hamilton/getting_around/hamilton_street_ra)
+The Hamilton Street Railway also operates semi-regular service into the City of Burlington's bus terminal, allowing passengers to link up with Burlington Transit and Oakville Transit bus service and additional service offered by GO Transit into the broader Greater Toronto Area.
 
 
 

@@ -1,6 +1,7 @@
 ---
 address: Le Prieuré 25, 5500 Dinant
 latitude: 50.2618
+loc_type: feature
 longitude: 4.9130
 snippet: Fortress 100m above the Meuse, reached by cable car or 408 steps
 tags:

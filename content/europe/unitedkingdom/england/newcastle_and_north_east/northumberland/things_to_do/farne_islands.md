@@ -1,10 +1,9 @@
 ---
-metadata:
-  category: Sight
-  latitude: 55.6167
-  longitude: -1.6558
-  title: Farne Islands
-  type: poi
+category: Sight
+latitude: 55.6167
+longitude: -1.6558
+title: Farne Islands
+type: poi
 ---
 
 The Farne Islands, a scattered archipelago of basalt outcrops lying two to five miles off the Northumberland coast, are one of England's great wildlife spectacles. In summer the islands are crammed with nesting seabirds — puffins, guillemots, razorbills, terns, and shags — in densities that make the experience almost overwhelming. Grey seals haul out here year-round.

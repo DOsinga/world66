@@ -7,7 +7,7 @@ longitude: 44.4864
 snippet: Armenia's main international airport near Yerevan
 tags:
 - practical_information
-- practical_informat
+- practical_information
 title: Zvartnots International Airport
 type: poi
 ---

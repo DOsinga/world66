@@ -20,4 +20,4 @@ Dagestan went through decades of political and militant Islamist unrest in the 1
 ## Destinations in Dagestan
 
 - [Derbent](/europe/russia/dagestan/derbent)
-- [Tabasaran](/europe/russia/dagestan/tabasaran)
+- Tabasaran

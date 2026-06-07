@@ -1,15 +1,16 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  lp_coverage: '2026-06-05'
   poi_cleanup: '2026-04-19'
 image: lofotenislands.jpg
 image_attribution: Ximonic (Simo Räsänen)
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cirrus_front_over_Austnesfjorden,_Austvågøya,_Lofoten,_Norway,_2015_April.jpg
+loc_type: region
 score: 0.89
 title: Lofoten islands
 type: location
-loc_type: region
 ---
 
 The **Lofoten Islands** extend dramatically out into the Atlantic Ocean, off the coast of Northern Norway. This string of islands was home to the richest seasonal Cod fishing in Norway, and picturesque old fishing villages are nested beneath the steep mountains, at the edge of the crystal clear waters. 

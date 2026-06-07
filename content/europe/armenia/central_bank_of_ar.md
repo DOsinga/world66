@@ -4,7 +4,7 @@ longitude: 44.510407
 snippet: Currency exchange rates and financial regulations for travelers
 tags:
 - practical_information
-- practical_informat
+- practical_information
 title: Central Bank of Armenia
 type: poi
 ---

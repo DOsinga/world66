@@ -1,6 +1,7 @@
 ---
 address: Bakhchysarai old town
 latitude: 44.7498
+loc_type: feature
 longitude: 33.8772
 snippet: 17th-century neighbourhood mosque in the old quarter
 tags:

@@ -21,7 +21,7 @@ island as a giant stage.
 The festival has a long and rich tradition.
 Over a period of more than twenty years, the festival has grown from a
 small street festival into a highly valued, multi-disciplinary
-festival. Be sure to catch it when [more..](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
+festival. Be sure to catch it when you are in the area — bookings for accommodation on the island fill up months in advance.
 
 
 

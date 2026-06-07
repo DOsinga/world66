@@ -11,7 +11,7 @@ url: www.valgelaev.ee
 zipcode: '76805'
 ---
 
-### [Valge Laev (eng. White Ship)](/europe/estonia/paldiski/eatingout/valge_laev_eng_w)
+### Valge Laev (eng. White Ship)
 
 We are glad to invite you to new hotel-restaurant White Ship. It is situated in the center of sea town Paldiski (address Rae str. 32).
 

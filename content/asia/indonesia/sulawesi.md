@@ -22,5 +22,5 @@ Rantepao is the best place to explore the Tana Toraja. The town itself is not sp
 
 ## Destinations in Sulawesi
 
-[Manado](/world/asia/indonesia/sulawesi/manado)
-[Makassar](/world/asia/indonesia/sulawesi/makassar)
+Manado
+Makassar

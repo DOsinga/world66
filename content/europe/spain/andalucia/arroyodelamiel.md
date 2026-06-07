@@ -19,4 +19,4 @@ The town's name means "Honey Stream" in Spanish, a reference to the small arroyo
 
 The old centre around Plaza de la Iglesia is quiet and pleasant — a few good restaurants, a 17th-century church, and the kind of shaded square where you can drink coffee without being handed an English menu. Down the hill toward Benalmádena Pueblo, the remarkable Stupa of Enlightenment rises above the hillside, the largest Buddhist stupa in the Western world, built with the blessing of the Dalai Lama and consecrated in 2003.
 
-Arroyo de la Miel has its own Cercanías station on the Málaga–Fuengirola line. [Málaga](/europe/spain/andalucia/mlaga) is 25 minutes away, and the airport 15 minutes. It makes a practical base for exploring the Costa del Sol without committing to one of the big resort hotels on the seafront.
+Arroyo de la Miel has its own Cercanías station on the Málaga–Fuengirola line. [Málaga](/europe/spain/andalucia/malaga) is 25 minutes away, and the airport 15 minutes. It makes a practical base for exploring the Costa del Sol without committing to one of the big resort hotels on the seafront.

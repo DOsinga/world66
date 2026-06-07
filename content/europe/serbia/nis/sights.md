@@ -12,7 +12,7 @@ Nis was wery known in the Roman era,as Naisus, with it's luxurious suburb Median
 
 Constantin was born here in 274 A.C. and he was recognized, by both Catolic and Ortodox Churches as a Saint, along with his mother Helena.
 
-### [The Skull Tower](/europe/serbia/nis/sights/the_skull_tower)
+### The Skull Tower
 
 The Skull Tower is a unique world monument. It is a tower built of the skulls of Serbian rebels for freedom. The Turks built this monument after Čegar battle.
 
@@ -37,6 +37,6 @@ email:
 **Crveni krst** was a concentration camp located in the Serbian city of Niš, and operated by the Nazi Germans during the Second World War.
 
 It is estimated that around 30,000 persons went through this camp,
-and an estimated 12,000 persons where executed on the location of Bubanj. Many of the other inmates were transferred to other camps like Sajmište concentration camp or other camps around Europe. The camp victims included the Jews, Roma, but mostly members of the Yugoslav Communist Party and their sympathisers, [more..](/europe/serbia/nis/sights/nis_concentration)
+and an estimated 12,000 persons where executed on the location of Bubanj. Many of the other inmates were transferred to other camps like Sajmište concentration camp or other camps around Europe. The camp victims included the Jews, Roma, but mostly members of the Yugoslav Communist Party and their sympathisers, alongside Serbian partisans and political prisoners from across the region.
 
 type: Memorials

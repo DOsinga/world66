@@ -15,7 +15,7 @@ It is also a restaurant with *lunch of the day* and a big sallad buffé.
 
 **Getting there:** Bus to Ersta Sjukhus.
 
-**Open:** Monday - Sunday 1 [more..](/europe/sweden/stockholm/bars_and_cafes/caf_ersta)
+**Open:** Monday - Sunday from late morning until early evening.
 
 PC: http://www.ersta.se/ersta_for_alla/1_ersta_cafe-restaurang.htm
 
@@ -29,7 +29,7 @@ Built in 1867 as a summerhouse, this yellow wooden house is now a café. It is p
 
 **Open** all year. mon: closed, tues-fri: 12-21, sat-sun: 12-18.
 
-**Getting there:** T: *Bredäng*, and [more..](/europe/sweden/stockholm/bars_and_cafes/caf_lyran)
+**Getting there:** T: *Bredäng*, and then a short walk down towards the water.
 
 tel: 08-646 80 50
 

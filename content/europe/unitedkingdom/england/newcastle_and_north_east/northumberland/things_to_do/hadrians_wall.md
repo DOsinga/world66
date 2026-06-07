@@ -1,10 +1,9 @@
 ---
-metadata:
-  category: Sight
-  latitude: 55.0284
-  longitude: -2.2913
-  title: Hadrian's Wall
-  type: poi
+category: Sight
+latitude: 55.0284
+longitude: -2.2913
+title: Hadrian's Wall
+type: poi
 ---
 
 Hadrian's Wall was built by the Romans in the early 2nd century AD, stretching 73 miles from Wallsend on the Tyne to Bowness-on-Solway on the Irish Sea — the northern frontier of the entire Roman Empire. The most dramatic surviving section runs through Northumberland, where the wall follows the crest of the Whin Sill escarpment across open moorland, offering views across two countries.

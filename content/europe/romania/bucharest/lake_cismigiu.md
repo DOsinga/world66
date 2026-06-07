@@ -1,6 +1,7 @@
 ---
 address: Cișmigiu Gardens, Bucharest
 latitude: 44.4379
+loc_type: feature
 longitude: 26.0903
 snippet: The serpentine lake inside Cișmigiu Gardens
 tags:

@@ -1,0 +1,5 @@
+europe/france/midi/luberon/gordes
+europe/france/midi/luberon/menerbes
+europe/france/poitoucharentes/poitiers
+europe/france/sainttropez
+europe/germany/bavaria/altoetting

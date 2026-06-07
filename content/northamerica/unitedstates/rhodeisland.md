@@ -23,4 +23,4 @@ Come in the summer for the beaches and the sailing; come in early October for th
 - [Narragansett](/northamerica/unitedstates/rhodeisland/narragansett)
 - [Warwick](/northamerica/unitedstates/rhodeisland/warwick)
 - [Coventry](/northamerica/unitedstates/rhodeisland/coventry)
-- [North Smithfield](/northamerica/unitedstates/rhodeisland/north_smithfield)
+- North Smithfield

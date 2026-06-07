@@ -1,6 +1,7 @@
 ---
 address: Strada Constantin Mille 4, Bucharest
 latitude: 44.4377
+loc_type: feature
 longitude: 26.0962
 snippet: Veteran indie club for live music and DJ sets
 tags:

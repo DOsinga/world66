@@ -6,7 +6,7 @@ author: "Stanley Bruce"
 
 The Bard o' the Broch, published in 2004 details the heritage of the Broch, a wealth of historical information complimented with photogrphs and poems, first edition just about sold out. It has a map at the back showing you where all the historic place are, without it we wouldn't have had a clue.
 
-### [Bard o' The Broch](/europe/unitedkingdom/scotland/fraserburgh/books/bard_o_the_broch)
+### Bard o' The Broch
 
 Local best selling book, an essential guide for tourists, shows all the interesting well kept secrets o' the Broch. Many photos, poems and historic facts complimented with photographs. First edition sold out.
 

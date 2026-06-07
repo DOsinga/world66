@@ -1,7 +1,7 @@
 ---
 latitude: -22.5683
 longitude: 17.0856
-snippet: 'Ink Palace': the German-era parliament building, set in gardens
+snippet: "'Ink Palace': the German-era parliament building, set in gardens"
 tags:
 - things_to_do
 - architecture

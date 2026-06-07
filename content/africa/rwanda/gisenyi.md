@@ -14,7 +14,7 @@ title: Gisenyi
 type: location
 ---
 
-Gisenyi (now officially called Rubavu) sits at the northern end of [Lake Kivu](/africa/rwanda/gisenyi/lake_kivu) on Rwanda's western border, directly across from the Congolese city of [Goma](/africa/rwanda/gisenyi/goma_border). It's the main launch point for excursions to [Volcanoes National Park](/africa/rwanda/volcanoesnationalpark), where mountain gorillas roam the forested slopes of the Virunga volcanoes — and light aircraft flights over the volcanic craters leave from here too.
+Gisenyi (now officially called Rubavu) sits at the northern end of [Lake Kivu](/africa/rwanda/gisenyi/lake_kivu) on Rwanda's western border, directly across from the Congolese city of [Goma](/africa/rwanda/gisenyi/goma_border). It's the main launch point for excursions to [Volcanoes National Park](/africa/rwanda/ruhengeri/volcanoes_national_park), where mountain gorillas roam the forested slopes of the Virunga volcanoes — and light aircraft flights over the volcanic craters leave from here too.
 
 The town itself is pleasant and unhurried, with a lakeside promenade and beaches that are popular with Rwandans on weekends. Lake Kivu offers swimming, kayaking, and boat trips to small islands. The setting is striking: the lake is hemmed in by steep green hills, and on a clear day Nyiragongo's cone is visible smoking across the border.
 

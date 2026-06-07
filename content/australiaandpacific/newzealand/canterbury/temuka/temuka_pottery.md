@@ -1,6 +1,7 @@
 ---
 address: King Street, Temuka
 latitude: -44.2440
+loc_type: feature
 longitude: 171.2790
 snippet: Site of the famous Temuka Pottery, which produced New Zealand's domestic earthenware
 tags:

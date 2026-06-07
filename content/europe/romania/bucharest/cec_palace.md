@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei 13, Bucharest
 latitude: 44.4318
+loc_type: feature
 longitude: 26.0985
 snippet: Belle Epoque banking palace with an enormous glass dome
 tags:

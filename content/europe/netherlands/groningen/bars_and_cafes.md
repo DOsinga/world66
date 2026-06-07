@@ -58,7 +58,7 @@ address: O.K. i.h. Jatstraat
 
 ### [De Drie Gezusters](/europe/netherlands/groningen/bars_and_cafes/de_drie_gezusters)
 
-In the centre of Groningen on the Grote Markt you'll find ‘The 3 Gezusters’ (also called 'the 3' by locals). ‘The 3 Gezusters’ is the largest cafe in the Netherlands. This large cafe is split up into 12 smaller cafes and dancing areas, every area has its own name. All of these areas are interconnected. When here for the first time, it’s like a labyrinth. In ‘The 3 Gezusters’, for every different person there's a place he or she will like. Some of the cafes are small and cozy but other places are crowded and noisy. There are also 4 dancing areas [more..](/europe/netherlands/groningen/bars_and_cafes/de_drie_gezusters)
+In the centre of Groningen on the Grote Markt you'll find ‘The 3 Gezusters’ (also called 'the 3' by locals). ‘The 3 Gezusters’ is the largest cafe in the Netherlands. This large cafe is split up into 12 smaller cafes and dancing areas, every area has its own name. All of these areas are interconnected. When here for the first time, it’s like a labyrinth. In ‘The 3 Gezusters’, for every different person there's a place he or she will like. Some of the cafes are small and cozy but other places are crowded and noisy. There are also 4 dancing areas spinning everything from pop to dance to Dutch sing-along — easy to spend the whole night here without leaving the building.
 
 
 

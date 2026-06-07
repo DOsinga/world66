@@ -14,7 +14,7 @@ title: Sapulpa
 type: location
 ---
 
-Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m), Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.
+Located on Historic Route 66, Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.
 
 Not just a bedroom community of [Tulsa](/northamerica/unitedstates/oklahoma/tulsa), Sapulpa has a long history in glass and pottery. The **Frankoma Pottery** company on Frankoma Road attracts visitors for plant tours and its retail outlet.
 

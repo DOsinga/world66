@@ -1,6 +1,7 @@
 ---
 address: Piața Universității, Bucharest
 latitude: 44.4356
+loc_type: feature
 longitude: 26.1023
 snippet: Major central square ringed by the university, theatre, and four statues
 tags:

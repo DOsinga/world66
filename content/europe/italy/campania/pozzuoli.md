@@ -1,7 +1,7 @@
 ---
 done:
   location_create: '2026-06-04'
-image: Campi_Flegrei.JPG
+image: pozzuoli.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Campi_Flegrei.JPG
 latitude: 40.8241

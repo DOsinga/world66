@@ -1,7 +1,7 @@
 ---
 done:
   location_create: '2026-06-04'
-image: Greyerz-02.jpg
+image: gruyeres.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Greyerz-02.jpg
 latitude: 46.5835

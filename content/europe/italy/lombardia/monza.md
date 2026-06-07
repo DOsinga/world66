@@ -1,7 +1,7 @@
 ---
 done:
   location_create: '2026-06-04'
-image: MonzaVillaReale.JPG
+image: monza.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:MonzaVillaReale.JPG
 latitude: 45.5843

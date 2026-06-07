@@ -1,6 +1,7 @@
 ---
 address: Șoseaua Kiseleff 3, Bucharest
 latitude: 44.4544
+loc_type: feature
 longitude: 26.0839
 snippet: Painted icons, woven textiles, and a basement of Communist propaganda
 tags:

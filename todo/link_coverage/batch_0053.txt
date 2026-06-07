@@ -1,0 +1,5 @@
+europe/ireland/glengarriff
+europe/ireland/kilkenny/tholsel
+europe/ireland/wexford_town
+europe/italy/abruzzo/abruzzonationalpark
+europe/italy/abruzzo/gransasso

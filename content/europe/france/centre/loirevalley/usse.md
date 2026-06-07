@@ -13,4 +13,4 @@ If you are a prince searching for your Sleeping Beauty, look no further. It is h
 
 The Château d'Ussé was built from the fifteenth century onward, with later additions in the seventeenth century giving it the romantic silhouette it has today. The interior can be visited, and includes period furnishings and a sequence of rooms dedicated to the Sleeping Beauty legend, complete with wax figures enacting the story. The formal gardens were redesigned by Le Nôtre, the landscape architect responsible for Versailles.
 
-The château sits at the confluence of the Indre and Loire rivers, with [Villandry](/europe/france/centre/loirevalley/villandry) a short drive to the east and [Azay-le-Rideau](/europe/france/centre/loirevalley/azay_le_rideau) even closer. It makes a natural stop on any tour of the Loire châteaux.
+The château sits at the confluence of the Indre and Loire rivers, with [Villandry](/europe/france/centre/loirevalley/villandry) a short drive to the east and [Azay-le-Rideau](/europe/france/centre/loirevalley/azaylerideau) even closer. It makes a natural stop on any tour of the Loire châteaux.

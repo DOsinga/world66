@@ -2,7 +2,7 @@
 latitude: 61.4833
 longitude: -6.7833
 snippet: Sheer 470-metre sea cliff on Suðuroy's east coast, one of the Faroe Islands' most dramatic
-story: Beinisvørð means "straight cliff" in Faroese, which understates what it is — a vertical wall of basalt dropping 470 metres to the sea. On still days, the updrafts off the cliff face carry fulmars and gannets to eye level with people standing at the top. The cliff is also one of the few Faroese locations where weather can be experienced in two directions simultaneously: sunshine on the plateau and cloud boiling up from the sea below.
+story: "Beinisvørð means \"straight cliff\" in Faroese, which understates what it is — a vertical wall of basalt dropping 470 metres to the sea. On still days, the updrafts off the cliff face carry fulmars and gannets to eye level with people standing at the top. The cliff is also one of the few Faroese locations where weather can be experienced in two directions simultaneously: sunshine on the plateau and cloud boiling up from the sea below."
 tags:
 - things_to_do
 - sight

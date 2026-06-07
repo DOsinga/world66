@@ -1,6 +1,7 @@
 ---
 address: Strada Vasile Adamache 11, Bucharest
 latitude: 44.4319
+loc_type: feature
 longitude: 26.1095
 snippet: 1846 Polish synagogue, decorated with Moorish frescoes
 tags:

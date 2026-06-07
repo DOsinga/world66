@@ -1,6 +1,7 @@
 ---
 address: Piața Revoluției, Bucharest
 latitude: 44.4389
+loc_type: feature
 longitude: 26.0974
 snippet: Controversial monument to victims of the 1989 revolution
 tags:

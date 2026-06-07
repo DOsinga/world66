@@ -20,4 +20,4 @@ The [Merry Cemetery](/europe/romania/sapinta/things_to_do/merry_cemetery)'s wood
 
 Săpânța is also home to the [Săpânța-Peri Monastery](/europe/romania/sapinta/things_to_do/sapanta_peri_monastery), which claims the tallest wooden church in the world — a 78-metre spire built entirely of oak, completed in 2003 as a deliberate revival of the Maramureș wooden church tradition. The village itself is a quiet farming settlement in the rolling hills of Maramureș, a region where traditional wooden architecture, haystacks, and horse-drawn carts still define the landscape.
 
-Getting here requires a car or a tour from [Sighetu Marmației](/europe/romania/sighetulmarmatiei), which is about 18 kilometres to the south.
+Getting here requires a car or a tour from [Sighetu Marmației](/europe/romania/sighet), which is about 18 kilometres to the south.

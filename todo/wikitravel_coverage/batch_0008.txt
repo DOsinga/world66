@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/outerhebrides
+europe/iceland/westfjords
+asia/cambodia/kampot
+asia/taiwan/jiufen
+asia/indonesia/java/mountbromo

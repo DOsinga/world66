@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/centralcoast/felton
+northamerica/unitedstates/california/deserts/ridgecrest
+northamerica/unitedstates/california/losangeles/hermosabeach
+northamerica/unitedstates/california/losangeles/venice
+northamerica/unitedstates/california/orangecounty/sanclemente

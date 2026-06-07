@@ -1,0 +1,5 @@
+africa/gabon/loango
+africa/ghana/cape_three_points
+africa/ivorycoast/zanzan
+africa/kenya/lakes/lakebogorianationalreserve
+africa/lesotho/sehlabathebenationalpark

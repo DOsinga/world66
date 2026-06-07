@@ -1,0 +1,5 @@
+europe/unitedkingdom/scotland/stirling
+europe/unitedkingdom/wales/carmarthen
+europe/unitedkingdom/wales/llandudno
+northamerica/britishvirginislands/virgingorda
+northamerica/canada/britishcolumbia/vancouver/coquitlam

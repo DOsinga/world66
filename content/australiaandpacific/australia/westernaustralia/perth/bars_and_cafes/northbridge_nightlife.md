@@ -3,7 +3,6 @@ title: "Northbridge Nightlife"
 type: poi
 tags:
   - bars_and_cafes
-  - nightlife
 latitude: -31.9466
 longitude: 115.8603
 ---

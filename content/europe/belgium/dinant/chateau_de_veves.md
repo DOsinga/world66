@@ -1,6 +1,7 @@
 ---
 address: Rue de Furfooz 3, 5561 Celles
 latitude: 50.2253
+loc_type: feature
 longitude: 4.9933
 snippet: Picture-book medieval castle in the village of Celles
 tags:

@@ -9,7 +9,7 @@ Sights for San Miguel de Allende coming soon.
 
 [Airport Tranfers](/northamerica/mexico/sanmigueldeallende)
 
-### [Sanmiguelada](/northamerica/mexico/sanmigueldeallende/sights/sanmiguelada)
+### Sanmiguelada
 
 Local event that takes place the third weekend in
 September. Sanmiguelada is "the running of the bulls" similar to

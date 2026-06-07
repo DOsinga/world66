@@ -1,0 +1,5 @@
+asia/indonesia/lombok/banyumulek
+asia/indonesia/lombok/sukarara
+asia/indonesia/maluku/tidore
+asia/indonesia/sulawesi/tanatoraja
+asia/indonesia/sumatra/gununglesuer

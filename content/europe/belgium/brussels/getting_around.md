@@ -9,4 +9,4 @@ Walking is by far the best way to explore the historic centre, the Sablon, the R
 
 Taxis are plentiful but expensive by Belgian standards. The main taxi ranks are at the Bourse, the Grand-Place, and the main stations. Ride-hailing apps also operate.
 
-The main train stations — **Bruxelles-Midi/Brussel-Zuid**, **Bruxelles-Central**, and **Bruxelles-Nord** — are all connected by metro and tram. For intercity travel to [Bruges](/europe/belgium/bruges), [Ghent](/europe/belgium/gent), or [Antwerp](/europe/belgium/antwerp), trains run frequently from all three and take 30–60 minutes.
+The main train stations — **Bruxelles-Midi/Brussel-Zuid**, **Bruxelles-Central**, and **Bruxelles-Nord** — are all connected by metro and tram. For intercity travel to [Bruges](/europe/belgium/bruges), [Ghent](/europe/belgium/ghent), or [Antwerp](/europe/belgium/antwerp), trains run frequently from all three and take 30–60 minutes.

@@ -1,0 +1,5 @@
+northamerica/saintvincentandthegrenadines/stvincentisland
+northamerica/thecaribbean/caymanislands/caymanbrac
+northamerica/thecaribbean/caymanislands/littlecayman
+northamerica/thecaribbean/cuba/guama
+northamerica/thecaribbean/grenada/grandetangforestreserve

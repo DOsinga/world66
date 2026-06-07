@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-08'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-21'
 image: margaritaisland.jpg

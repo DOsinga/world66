@@ -11,6 +11,10 @@ tags:
 - neighbourhood
 title: Woodstock
 type: neighbourhood
+image: woodstock.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Methodist_Church_Woodstock_sa.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Axxter99
 ---
 
 Woodstock is a working-class neighbourhood to the east of the city centre that has gone through a slow gentrification over the past two decades. Old warehouses now house design studios, the Old Biscuit Mill complex (home to the Saturday Neighbourgoods Market), galleries and a thick concentration of restaurants — many of the city's most ambitious kitchens are based here.

@@ -11,6 +11,10 @@ tags:
 - neighbourhood
 title: De Waterkant
 type: neighbourhood
+image: de_waterkant.jpg
+image_source: https://commons.wikimedia.org/wiki/File:De_Waterkant_36.jpg
+image_license: CC BY-SA 3.0
+image_attribution: HelenOnline
 ---
 
 De Waterkant is a small, tidy historic neighbourhood wedged between Bo-Kaap, Green Point and the Waterfront, characterised by pastel-painted Cape Georgian and Victorian cottages. Originally a coloured working-class district, it was largely depopulated under apartheid Group Areas legislation and later restored as one of Cape Town's most fashionable inner-city neighbourhoods.

@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Bo-Kaap
 type: neighbourhood
+image: bokaap.jpg
+image_source: https://commons.wikimedia.org/wiki/File:15-37_Pentz_Street,_Bo-Kaap_(01).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Moheen Reeyad
 ---
 
 One of Cape Town's most photogenic and historically rich neighbourhoods, Bo-Kaap climbs the slopes of Signal Hill in a cascade of brightly painted houses and narrow cobbled streets. The area has been home to the Cape Malay community since the 1760s, when freed slaves and political exiles from Southeast Asia settled here. Islam took root early — the Auwal Mosque, founded in 1794, is the oldest mosque in South Africa and still holds services today.

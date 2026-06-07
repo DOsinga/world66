@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-08'
   location_create: '2026-06-04'
 image: sanpedrodeatacama.jpg
 image_attribution: Diego Delso

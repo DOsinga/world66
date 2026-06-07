@@ -1,5 +1,0 @@
-northamerica/thecaribbean/haiti/portdepaix
-northamerica/thecaribbean/haiti/saintmarc
-northamerica/thecaribbean/puertorico/mayaguez
-northamerica/turksandcaicosislands/westcaicos
-northamerica/unitedstates/alaska/girdwood

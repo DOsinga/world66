@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/sanfranciscobayarea
-northamerica/unitedstates/colorado/breckenridge
-northamerica/unitedstates/colorado/mesaverde
-northamerica/unitedstates/colorado/silverton
-northamerica/unitedstates/connecticut/mystic

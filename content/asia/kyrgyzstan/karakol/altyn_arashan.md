@@ -3,6 +3,7 @@ title: Altyn-Arashan Hot Springs
 type: poi
 tags:
   - things_to_do
+  - day_trips
   - sight
 latitude: 42.3833
 longitude: 78.5167

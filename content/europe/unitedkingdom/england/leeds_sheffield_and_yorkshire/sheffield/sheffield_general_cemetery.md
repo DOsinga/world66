@@ -1,6 +1,7 @@
 ---
 address: Cemetery Road, Sheffield S11 8FT
 latitude: 53.3717
+loc_type: feature
 longitude: -1.4858
 snippet: Atmospheric Victorian garden cemetery on the slopes of Highfield
 tags:

@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei, Bucharest
 latitude: 44.4421
+loc_type: feature
 longitude: 26.0940
 snippet: Bucharest's most historic boulevard, lined with palaces, churches, and cafés
 tags:

@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: eurekasprings.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Eurekaandsuch_291.jpg

@@ -1,0 +1,5 @@
+northamerica/elsalvador/lalibertad
+northamerica/elsalvador/launion
+northamerica/elsalvador/sanvicente
+northamerica/guatemala/antigua
+northamerica/guatemala/lakeatitlan/panajachel

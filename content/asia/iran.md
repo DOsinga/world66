@@ -51,4 +51,4 @@ However, before getting ready to the travel you should know some specific requir
  
  
  [Tehran](/asia/iran/tehran)
- [Qum](/asia/iran/qum)
+ [Qom](/asia/iran/qom)

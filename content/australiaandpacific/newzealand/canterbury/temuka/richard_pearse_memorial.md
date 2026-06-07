@@ -1,6 +1,7 @@
 ---
 address: Main Waitohi Road, Waitohi, near Temuka
 latitude: -44.2167
+loc_type: feature
 longitude: 171.1833
 snippet: Memorial to Temuka's pioneer aviator at his family farm site
 tags:

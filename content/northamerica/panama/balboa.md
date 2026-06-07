@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: balboa.jpg
 image_attribution: DiegoPan
 image_license: CC BY-SA 3.0

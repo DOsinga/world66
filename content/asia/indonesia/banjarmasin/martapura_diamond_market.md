@@ -7,7 +7,7 @@ tags:
 - market
 title: Martapura Gem Market
 type: poi
-story: Martapura, 40km east of Banjarmasin, sits on one of the world's oldest diamond mining areas — artisanal alluvial mining here dates back at least four centuries. The Borneo diamonds are generally small and of varying quality, but the gem market in Martapura has a genuine trading culture around them: sellers carry stones in small envelopes, buyers examine them with loupes, and the negotiation is earnest. The diamonds are often sold alongside coloured gemstones — amethyst, yellow sapphire, and garnets — all mined in the same river gravels.
+story: "Martapura, 40km east of Banjarmasin, sits on one of the world's oldest diamond mining areas — artisanal alluvial mining here dates back at least four centuries. The Borneo diamonds are generally small and of varying quality, but the gem market in Martapura has a genuine trading culture around them: sellers carry stones in small envelopes, buyers examine them with loupes, and the negotiation is earnest. The diamonds are often sold alongside coloured gemstones — amethyst, yellow sapphire, and garnets — all mined in the same river gravels."
 ---
 
 The gem market in Martapura is one of the most unusual shopping experiences in Kalimantan. The town has been a diamond-trading centre for centuries, and the main market — the Pasar Batu Permata — is dedicated almost entirely to the trade in rough and cut stones. Stalls sell diamonds, sapphires, amethysts, and other gems mined from the river deposits of South Kalimantan.

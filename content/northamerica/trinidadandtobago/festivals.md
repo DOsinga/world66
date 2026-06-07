@@ -11,8 +11,8 @@ These include Hosay, Pagwah or Holi, Divali, Eid-Ul-Fitr, Corpus Christi and Eas
 **Contributors**
 August 05, 2005
 
-### [Carnival
+### Carnival
 
 Music, dance, fun and excitement bring together both locals and tourists in what is said to be one of the most important and heated events taking place in Trinidad & Tobago; in fact, it’s one of the country’s main highlights, attracting people from all over the globe.
 
-Carnival celebrations begin right after Christmas and culminate in the two days preceding Ash Wednesday. They include non-stop large open-air parties or concerts (*fetes*), parades, theatrical performances, costume displays and contests and, of course, the national music, more..](/northamerica/trinidadandtobago/festivals/carnival)
+Carnival celebrations begin right after Christmas and culminate in the two days preceding Ash Wednesday. They include non-stop large open-air parties or concerts (*fetes*), parades, theatrical performances, costume displays and contests and, of course, the national music — calypso and soca — booming from every corner of Port of Spain.

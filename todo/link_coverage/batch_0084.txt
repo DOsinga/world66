@@ -1,0 +1,5 @@
+northamerica/unitedstates/hawaii/poipu
+northamerica/unitedstates/idaho/pocatello
+northamerica/unitedstates/idaho/teton_valley/driggs
+northamerica/unitedstates/iowa/davenport
+northamerica/unitedstates/kansas/salina

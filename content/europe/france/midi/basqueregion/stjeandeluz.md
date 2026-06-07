@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-07'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
 image: stjeandeluz.jpg

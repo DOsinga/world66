@@ -13,7 +13,7 @@ Morocco has a rich festival calendar mixing Islamic religious events, Berber sea
 
 **Marrakech Popular Arts Festival (July, Marrakech)** — A week of traditional Moroccan folk arts: Gnaoua musicians, Amazigh dancers, acrobats, and storytellers from across the country performing in Djemaa el-Fna and the nearby gardens. See the [Marrakech Popular Arts Festival](/africa/morocco/festivals/marrakech_folklore) entry.
 
-**Tan-Tan Moussem (biennial, Tan-Tan)** — A UNESCO-listed gathering of nomadic Saharan tribes in the deep south: camel trading, the Guedra trance dance, music, and fantasia horseback displays. One of the most authentic cultural events in the country, if you can get there. See the [Tan-Tan Moussem](/africa/morocco/festivals/camel_festival_jul.md) entry.
+**Tan-Tan Moussem (biennial, Tan-Tan)** — A UNESCO-listed gathering of nomadic Saharan tribes in the deep south: camel trading, the Guedra trance dance, music, and fantasia horseback displays. One of the most authentic cultural events in the country, if you can get there. See the Tan-Tan Moussem entry.
 
 **Almond Blossom Festival (February, Tafraoute)** — The valleys around [Tafraoute](/africa/morocco/tafraoute) are planted with almond trees that bloom in late January and February. The festival is a low-key local celebration of the blossom season, with music and market activity. Timing depends on the bloom, which varies year to year.
 

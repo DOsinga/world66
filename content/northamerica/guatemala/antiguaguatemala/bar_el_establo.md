@@ -3,7 +3,7 @@ title: "Bar El Establo"
 type: poi
 snippet: Antigua stalwart with cheap drinks and a reliably good crowd
 tags:
-  - nightlife
+  - bars_and_cafes
   - bar
 latitude: 14.5579
 longitude: -90.7337

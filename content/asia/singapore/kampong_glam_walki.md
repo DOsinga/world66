@@ -4,7 +4,7 @@ longitude: 103.8595
 snippet: Self-guided walk through Singapore's Malay-Arab heritage quarter
 tags:
 - things_to_do
-- tours_and_excursio
+- tours_and_excursions
 title: Kampong Glam Walking Tour
 type: poi
 ---

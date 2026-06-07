@@ -2,7 +2,7 @@
 snippet: Spanish dominates; English less common than expected
 tags:
 - practical_information
-- practical_informat
+- practical_information
 title: Language
 type: poi
 ---

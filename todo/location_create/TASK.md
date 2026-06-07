@@ -60,11 +60,19 @@ The `snippet` and `pois` fields are **candidates and reference data, not content
     - `shopping.md`, `beaches.md`, `day_trips.md`, `books.md` where relevant
     - Skip any section that would be a placeholder — LOCATIONS.md prefers no section over a stub.
 
-11. **Add a hero image.**
-    - First, check the Triposo `pois[]` for an `image{}` whose `source_id` is `wikipedia` — that points to a Wikimedia Commons file with proper attribution.
-    - Otherwise, find a Wikimedia Commons image clearly of the place and clearly CC-licensed.
-    - Set `image:`, `image_source:` (Commons file URL), `image_license:` (e.g. `CC BY-SA 4.0`) in the location's frontmatter.
-    - Skip if you cannot confidently find one. Don't fabricate sources.
+11. **Add a hero image — both the file AND the frontmatter.** Use `tools/find_photo.py`:
+    ```
+    python3 tools/find_photo.py --no-classify <content-path>
+    ```
+    The path is `/europe/switzerland/lucerne` (leading slash, no `content/` prefix, no `.md`). The script prints candidate thumbnails as JSON. Pick the best by reading the thumbnail files (`thumb_path` field) and judging by relevance to the place and visual quality. Then:
+    ```
+    python3 tools/find_photo.py --select-meta '<json-of-chosen-candidate>' <content-path>
+    ```
+    This **downloads the full image, resizes it, saves it next to the `.md`, AND writes the `image:`/`image_source:`/`image_license:`/`image_attribution:` frontmatter fields.** All in one call. The local image filename will be the slug (e.g. `lucerne.jpg`).
+
+    Do NOT manually write the `image:` frontmatter and skip the download — that leaves a broken reference. The image file must exist on disk next to the `.md`.
+
+    If `find_photo.py` finds no suitable candidate (exit code 1, empty `candidates` array), leave the hero image off entirely. Don't fabricate sources.
 
 12. **Add internal links from the overview.** Re-read the overview and add markdown links wherever a POI name is mentioned, e.g. `[Saint Ursus Cathedral](/europe/switzerland/solothurn/saint_ursus_cathedral)`. The overview is the only page with no built-in path to individual POIs.
 
@@ -83,7 +91,7 @@ Run this checklist:
 - [ ] `python3 tools/grep_obscura.py` was run; obscura matches are inspiration only
 - [ ] Each new POI has coordinates that match its actual location
 - [ ] Major `things_to_do` POIs have a `story:` field
-- [ ] Hero image set with `image_source` and `image_license`, or explicitly skipped because none was confident
+- [ ] Hero image: the actual `.jpg` file exists next to the `.md` AND the frontmatter has `image:`/`image_source:`/`image_license:` (use `tools/find_photo.py` — don't write the frontmatter without saving the file)
 - [ ] Sections created only where they add real content
 - [ ] Overview text contains markdown links to the major POIs
 - [ ] `done: { location_create: <today> }` set on the main location file

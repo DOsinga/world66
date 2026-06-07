@@ -4,7 +4,7 @@ type: poi
 tags: [things_to_do, sight, altstadt]
 latitude: 50.1081
 longitude: 8.6822
-story: The Greek inscription across the centre of the bridge — ΠΛΕΩΝ ΕΠΙ ΟΙΝΟΠΑ ΠΟΝΤΟΝ — is from the Odyssey: "sailing across the wine-dark sea". Goethe quoted the same line and it has nothing very specific to do with the Main, but every generation of city engineers has insisted on putting it back during the rebuilds.
+story: "The Greek inscription across the centre of the bridge — ΠΛΕΩΝ ΕΠΙ ΟΙΝΟΠΑ ΠΟΝΤΟΝ — is from the Odyssey: \"sailing across the wine-dark sea\". Goethe quoted the same line and it has nothing very specific to do with the Main, but every generation of city engineers has insisted on putting it back during the rebuilds."
 ---
 
 The Iron Footbridge crosses the Main between the Römerberg and Sachsenhausen, and is the single most photographed view in Frankfurt: skyline towers on one side, the apple wine quarter on the other, and the river running underneath. Built in 1869, blown up by the retreating Wehrmacht in March 1945, rebuilt in 1946 with its original girders fished out of the river, and weighed down today by tens of thousands of padlocks left by lovers.

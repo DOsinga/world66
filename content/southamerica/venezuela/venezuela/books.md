@@ -6,6 +6,5 @@ title: Books
 type: poi
 ---
 
-### [Funeral Music and Customs in Venezuela
+### Funeral Music and Customs in Venezuela
 
-](/southamerica/venezuela/books/funeralmusicandcustomsinvenezuela)

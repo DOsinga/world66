@@ -9,6 +9,7 @@ longitude: -71.2183
 snippet: Multi-floor nightclub on the Grande Allée strip
 tags:
 - bars_and_cafes
+- bar
 title: Dagobert
 type: poi
 url: www.dagobert.ca

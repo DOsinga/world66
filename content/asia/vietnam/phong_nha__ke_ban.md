@@ -2,6 +2,11 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-21'
+  wikitravel_coverage: '2026-06-05'
+image: phong_nha__ke_ban.jpg
+image_attribution: Edgardo W. Olivera from Montevideo, Uruguay
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Parque_Nacional_Phong_Nha_-_Ke_Bang,_Vietnam_(41309962172).jpg
 latitude: 17.5553
 loc_type: city
 longitude: 106.1123

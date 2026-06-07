@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-07'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-20'

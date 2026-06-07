@@ -1,6 +1,7 @@
 ---
 address: Quai de Meuse, 5500 Dinant
 latitude: 50.2597
+loc_type: feature
 longitude: 4.9131
 snippet: River cruises south from Dinant to Anseremme, Freÿr, and Hastière
 tags:

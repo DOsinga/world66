@@ -122,7 +122,7 @@ ribs, etc. The order takes up to 30 minutes to be served but it is worth the wai
 
 Adjacent to the restaurant is Kai's, a bar
 featuring live bands almost nightly and Karlo's Coffee Station, a
-lovely coffee shop. There's also a piano bar [more..](/asia/philippines/mindanaoisland/davao/eating_out/jacks_ridge)
+lovely coffee shop. There's also a piano bar that draws a relaxed evening crowd, making Jack's Ridge a one-stop spot for dinner and drinks with a view.
 
 type: Local
 

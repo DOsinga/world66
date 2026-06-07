@@ -7,7 +7,7 @@ type: poi
 
 **BHALWAL CHAK 6 NB**
 
-### [Faisal khalid gondal](/asia/pakistan/sargodha/eating_out/faisal_khalid_gond)
+### Faisal khalid gondal
 
 Queen's restaurant
 

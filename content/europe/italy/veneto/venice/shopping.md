@@ -20,7 +20,7 @@ from white to black truffles, whole and in paste. English and French
 spoken, they deliver all over the world even in the USA with wine
 custom duty included in the shipment fee.
 
-What [more..](/europe/italy/veneto/venice/shopping/i_tre_mercanti)
+Whatever Italian regional specialty you're after, this is the place to find it.
 
 type: Speciality shops
 

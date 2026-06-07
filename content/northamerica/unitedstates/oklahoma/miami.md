@@ -14,7 +14,7 @@ title: Miami
 type: location
 ---
 
-Miami — pronounced "My-AM-uh" by the locals, not like the Florida city — sits in the far northeast corner of Oklahoma, right on historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m). With a population of around 14,000, it is one of the first Route 66 towns you hit when entering the state from the east, and it carries that roadside heritage proudly.
+Miami — pronounced "My-AM-uh" by the locals, not like the Florida city — sits in the far northeast corner of Oklahoma, right on historic Route 66. With a population of around 14,000, it is one of the first Route 66 towns you hit when entering the state from the east, and it carries that roadside heritage proudly.
 
 The town is the seat of Ottawa County and the headquarters of several Native American tribes, including the Miami Tribe of Oklahoma, who gave the city its name. That dual identity — Route 66 Americana layered on top of deep Indigenous history — gives Miami more texture than most small Oklahoma towns.
 

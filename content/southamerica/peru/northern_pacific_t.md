@@ -10,9 +10,9 @@ type: location
 loc_type: region
 ---
 
-The province of Jaén is very diverse, from the hustle and bustle of steamy hot capital [Jaén](/southamerica/peru/northern_pacific_t/jan), its refreshing or ice cold rivers, to the isolated cool mountain towns like [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa). Climates differ as much in rainfall as in temperature. Close to the Andean peaks on road to [Chiclayo](/southamerica/peru/chiclayo) it’s pretty dry, while the cloud forests of Huamantanga hardly ever see a day without rain.
+The province of Jaén is very diverse, from the hustle and bustle of steamy hot capital Jaén, its refreshing or ice cold rivers, to the isolated cool mountain towns like [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa). Climates differ as much in rainfall as in temperature. Close to the Andean peaks on road to [Chiclayo](/southamerica/peru/chiclayo) it’s pretty dry, while the cloud forests of Huamantanga hardly ever see a day without rain.
 
-Isolated as it used to be, the trip to Chiclayo now takes about six hours. Though still a poor province with numerous social conflicts, the [city of Jaén](/southamerica/peru/northern_pacific_t/jan/jan) has seen an economical boom. With a base of rice and coffee production in the province, its economy depends on transportation and selling agricultural supplies.
+Isolated as it used to be, the trip to Chiclayo now takes about six hours. Though still a poor province with numerous social conflicts, the city of Jaén has seen an economical boom. With a base of rice and coffee production in the province, its economy depends on transportation and selling agricultural supplies.
 
 At the crossroads of the transandean highway [Chiclayo](/southamerica/peru/chiclayo)-[Iquitos](/southamerica/peru/iquitos) and a road to [Ecuador](/southamerica/ecuador) via the more tranquil province and city of [San ignacio](/southamerica/peru/san_ignacio), it does have a big potential as a tourist destination.
 

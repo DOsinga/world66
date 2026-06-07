@@ -5,6 +5,8 @@ done:
 latitude: 52.550092
 longitude: 13.422373
 phone: +49 30 446 4135
+scores:
+  eating_out: 0.4496
 snippet: Greek restaurant in Prenzlauer Berg
 tags:
 - eating_out

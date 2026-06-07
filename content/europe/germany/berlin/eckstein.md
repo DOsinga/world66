@@ -2,6 +2,8 @@
 address: Pappelallee 73, Prenzlauer Berg
 latitude: 52.543885
 longitude: 13.415162
+scores:
+  bars_and_cafes: 0.5237
 snippet: Cosy corner café for coffee and early beers
 tags:
 - bars_and_cafes

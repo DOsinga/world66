@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.491468
 longitude: 13.393203
+scores:
+  bars_and_cafes: 0.4601
 snippet: Kreuzberg dive with nightly live jazz, funk, and soul
 tags:
 - bars_and_cafes

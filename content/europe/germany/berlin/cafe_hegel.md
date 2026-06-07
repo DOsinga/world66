@@ -3,6 +3,8 @@ address: Kantstraße 146, Charlottenburg
 latitude: 52.505428
 longitude: 13.323307
 opening_hours: Daily 6pm-3am
+scores:
+  bars_and_cafes: 0.5656
 snippet: Cosy Charlottenburg bar with Russian food and live music
 tags:
 - bars_and_cafes

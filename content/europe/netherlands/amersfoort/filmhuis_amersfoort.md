@@ -3,6 +3,8 @@ address: Groenmarkt 8
 latitude: 52.1571
 longitude: 5.3905
 phone: 033-4655550
+scores:
+  bars_and_cafes: 0.6741
 snippet: Art-house cinema with a grand-café bar on the Groenmarkt
 tags:
 - bars_and_cafes

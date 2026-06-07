@@ -1,12 +1,15 @@
 ---
-title: Museum Vrolik
-type: poi
 latitude: 52.3547
-longitude: 4.9170
+longitude: 4.917
+scores:
+  museum: 0.7166
+  things_to_do: 0.6307
 tags:
 - things_to_do
 - museum
 - oost
+title: Museum Vrolik
+type: poi
 ---
 
 A medical collection that ranges from fascinating to deeply unsettling. Founded by the Vrolik family — father and son anatomists who spent much of the 18th and 19th centuries assembling a vast collection of preserved human and animal specimens — the museum is now part of the Amsterdam University Medical Center.

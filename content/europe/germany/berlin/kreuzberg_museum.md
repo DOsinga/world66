@@ -3,7 +3,10 @@ address: Adalbertstraße 95a, Kreuzberg
 category: Museum
 latitude: 52.503591
 longitude: 13.425348
-snippet: "Local history from squatters to gentrification"
+scores:
+  museum: 0.6691
+  things_to_do: 0.4291
+snippet: Local history from squatters to gentrification
 tags:
 - things_to_do
 - kreuzberg

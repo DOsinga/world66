@@ -7,6 +7,9 @@ latitude: 52.513531
 longitude: 13.414606
 opening_hours: Tue-Sun 10am-6pm
 phone: +49 30 308660
+scores:
+  museum: 0.7263
+  things_to_do: 0.6254
 snippet: Berlin's city history museum in a neo-Gothic Spree-side building
 tags:
 - things_to_do

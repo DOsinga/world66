@@ -4,6 +4,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.540292
 longitude: 13.414078
+scores:
+  architecture: 0.6429
+  things_to_do: 0.5105
 snippet: Sprawling former brewery turned cultural village
 tags:
 - things_to_do

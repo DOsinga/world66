@@ -1,13 +1,17 @@
 ---
 latitude: 52.159
 longitude: 5.3853
+scores:
+  landmark: 0.6596
+  things_to_do: 0.7267
 snippet: Rare medieval gate controlling both land and water traffic since 1425
-story: >
-  The Koppelpoort was built in two phases: the land gate came first in 1380, and the
-  water gate was added in 1425. The wooden treadwheels that raise the sluices work
-  on the same principle as a medieval crane — two people walking inside the wheel
-  provide the leverage. The mechanism still works today, and on special open days you
-  can try it yourself.
+story: 'The Koppelpoort was built in two phases: the land gate came first in 1380,
+  and the water gate was added in 1425. The wooden treadwheels that raise the sluices
+  work on the same principle as a medieval crane — two people walking inside the wheel
+  provide the leverage. The mechanism still works today, and on special open days
+  you can try it yourself.
+
+  '
 tags:
 - things_to_do
 - landmark

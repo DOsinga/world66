@@ -1,12 +1,15 @@
 ---
-title: Electric Ladyland
-type: poi
 latitude: 52.3743
 longitude: 4.8819
+scores:
+  museum: 0.736
+  things_to_do: 0.6357
 tags:
 - things_to_do
 - museum
 - jordaan
+title: Electric Ladyland
+type: poi
 ---
 
 The world's only museum of fluorescent art, crammed into a basement on the Tweede Leliedwarsstraat in the Jordaan. This is a one-man operation — artist Nick Padalino has spent decades collecting fluorescent minerals, paints, and artworks, and he guides visitors through the darkened rooms himself, switching UV lights on and off to reveal hidden colours in rocks, art, and everyday objects.

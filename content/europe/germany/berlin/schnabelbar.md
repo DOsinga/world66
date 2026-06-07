@@ -5,6 +5,8 @@ done:
 latitude: 52.501583
 longitude: 13.418888
 opening_hours: Sun-Thu from 9pm, Fri-Sat 10pm-late
+scores:
+  bars_and_cafes: 0.4264
 snippet: Sleek design bar in the heart of Kreuzberg
 tags:
 - bars_and_cafes

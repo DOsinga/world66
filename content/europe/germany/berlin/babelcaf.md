@@ -5,6 +5,8 @@ done:
 latitude: 52.531551
 longitude: 13.428822
 phone: +49 (0)30 424 75 52
+scores:
+  eating_out: 0.4652
 snippet: Relaxed Prenzlauer Berg spot with African-inspired dishes
 tags:
 - eating_out

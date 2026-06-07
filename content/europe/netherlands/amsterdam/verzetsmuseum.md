@@ -1,13 +1,16 @@
 ---
-title: Verzetsmuseum (Resistance Museum)
-type: poi
 latitude: 52.3601
 longitude: 4.9126
+scores:
+  museum: 0.6729
+  things_to_do: 0.6482
 tags:
 - things_to_do
 - museum
 - plantage
 - oost
+title: Verzetsmuseum (Resistance Museum)
+type: poi
 ---
 
 One of Amsterdam's best and most moving museums, telling the story of the Dutch resistance during the German occupation of 1940–45. The exhibition avoids simple heroics — it presents the full spectrum of responses to occupation, from active resistance to collaboration to the passive compliance of the majority. Personal stories, original documents, photographs, and objects bring the period to life in a way that textbooks rarely achieve.

@@ -5,6 +5,8 @@ done:
 latitude: 52.3556
 longitude: 4.8952
 neighbourhood: De Pijp
+scores:
+  things_to_do: 0.6855
 snippet: Amsterdam's largest daily street market with 300+ stalls
 tags:
 - things_to_do

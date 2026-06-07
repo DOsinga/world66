@@ -5,6 +5,8 @@ done:
 email: info@sandsation.de
 latitude: 52.5251
 longitude: 13.3692
+scores:
+  things_to_do: 0.6273
 snippet: Summer sand sculpture festival near the Hauptbahnhof
 tags:
 - things_to_do

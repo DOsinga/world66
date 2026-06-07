@@ -1,11 +1,13 @@
 ---
 latitude: 52.3676
 longitude: 4.9041
+scores:
+  things_to_do: 0.6226
+snippet: Drag stolen bikes from Amsterdam's canals with a hook
 tags:
 - things_to_do
 - cycling
 title: Canal fishing
-snippet: "Drag stolen bikes from Amsterdam's canals with a hook"
 type: poi
 ---
 

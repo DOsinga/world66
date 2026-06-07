@@ -5,6 +5,8 @@ done:
 latitude: 52.525576
 longitude: 13.393958
 opening_hours: Daily 9am-midnight, Fri-Sat later
+scores:
+  bars_and_cafes: 0.4113
 snippet: All-day cafe-bar on Oranienburger Strasse near the Hackesche Höfe
 tags:
 - bars_and_cafes

@@ -5,6 +5,8 @@ done:
 latitude: 52.506994
 longitude: 13.322756
 phone: 030 310 10 906
+scores:
+  bars_and_cafes: 0.4186
 snippet: Late-night live jazz and soul bar in Charlottenburg
 tags:
 - bars_and_cafes

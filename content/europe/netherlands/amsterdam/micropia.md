@@ -1,13 +1,16 @@
 ---
-title: Micropia
-type: poi
 latitude: 52.3662
 longitude: 4.9165
+scores:
+  museum: 0.7317
+  things_to_do: 0.6316
 tags:
 - things_to_do
 - museum
 - plantage
 - oost
+title: Micropia
+type: poi
 ---
 
 The world's first zoo for microbes, right next to [Artis Zoo](/europe/netherlands/amsterdam/artis). Micropia makes the invisible visible: bacteria, viruses, fungi, and other microorganisms are presented through live cultures, microscopes, and interactive displays. You can see the microbes living on your own body, watch fungi decompose matter in real time, and learn why most microorganisms are not just harmless but essential.

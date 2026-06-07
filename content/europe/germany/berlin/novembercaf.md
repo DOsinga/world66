@@ -5,6 +5,8 @@ done:
 latitude: 52.538102
 longitude: 13.417376
 phone: +49 (0)30 442 84 25
+scores:
+  eating_out: 0.545
 snippet: Beloved Prenzlauer Berg cafe for lazy breakfasts
 tags:
 - eating_out

@@ -3,6 +3,8 @@ address: Wiener Straße 22, Kreuzberg
 latitude: 52.497355
 longitude: 13.431448
 phone: +49 30 6156570
+scores:
+  bars_and_cafes: 0.5705
 snippet: Low-key Kreuzberg bar with 200 whiskies
 tags:
 - bars_and_cafes

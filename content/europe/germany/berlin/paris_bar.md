@@ -3,6 +3,8 @@ address: Kantstraße 152, Charlottenburg
 latitude: 52.50538
 longitude: 13.326315
 opening_hours: Daily noon-1am
+scores:
+  bars_and_cafes: 0.6886
 snippet: Legendary artists' brasserie in Charlottenburg since the 1950s
 tags:
 - bars_and_cafes

@@ -2,7 +2,9 @@
 address: Belforter Str. 18, Prenzlauer Berg
 latitude: 52.531784
 longitude: 13.419283
-snippet: "Relaxed Prenzlauer Berg bar away from the Kastanienallee crowds"
+scores:
+  bars_and_cafes: 0.5305
+snippet: Relaxed Prenzlauer Berg bar away from the Kastanienallee crowds
 tags:
 - bars_and_cafes
 - prenzlauerberg

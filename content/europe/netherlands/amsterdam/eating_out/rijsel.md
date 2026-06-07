@@ -1,11 +1,14 @@
 ---
-title: Rijsel
-type: poi
 latitude: 52.3607
 longitude: 4.9128
+scores:
+  eating_out: 0.6075
+  restaurant: 0.7763
 tags:
-  - eating_out
-  - restaurant
+- eating_out
+- restaurant
+title: Rijsel
+type: poi
 ---
 
 A long-running favourite on Mauritskade, east of the Amstel, that has become the kind of place Amsterdammers recommend without hesitation. The food is modern French-Belgian — brasserie classics done with care and without fuss: steak tartare, moules, grilled fish, a few thoughtful vegetable dishes. The room is warm and unpretentious, the wine list reasonable.

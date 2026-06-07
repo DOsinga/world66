@@ -1,11 +1,14 @@
 ---
 latitude: 52.1567
 longitude: 5.3842
+scores:
+  landmark: 0.6534
+  things_to_do: 0.6626
+snippet: The Netherlands' only female traffic light figure
 story: One morning in December 2000, the traffic light outside city hall showed a
   woman instead of the usual male figure. Nobody knew who put her there. The city
   council decided she could stay, and Sofie — as she came to be known — has since
   been installed at every intersection between the station and the city centre.
-snippet: The Netherlands' only female traffic light figure
 tags:
 - things_to_do
 - landmark

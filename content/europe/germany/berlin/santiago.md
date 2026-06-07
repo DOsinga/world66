@@ -5,6 +5,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.523983
 longitude: 13.416
+scores:
+  eating_out: 0.5338
 snippet: Laid-back Prenzlauer Berg bar with tapas and cocktails
 tags:
 - eating_out

@@ -6,6 +6,9 @@ done:
 latitude: 52.459421
 longitude: 13.289041
 phone: +49 30 8325000
+scores:
+  museum: 0.6346
+  things_to_do: 0.499
 snippet: Working farm estate and open-air agriculture museum
 tags:
 - things_to_do

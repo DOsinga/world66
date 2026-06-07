@@ -1,6 +1,8 @@
 ---
 latitude: 52.3676
 longitude: 4.8945
+scores:
+  bars_and_cafes: 0.6194
 snippet: Relaxed coffeeshop in central Amsterdam with a good-natured atmosphere
 tags:
 - bars_and_cafes

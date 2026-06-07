@@ -2,6 +2,8 @@
 address: Korte Leidsedwarsstraat 145-147
 latitude: 52.362973
 longitude: 4.885241
+scores:
+  bars_and_cafes: 0.549
 snippet: Relaxed Leidseplein coffeeshop with terrace and pool table
 tags:
 - bars_and_cafes

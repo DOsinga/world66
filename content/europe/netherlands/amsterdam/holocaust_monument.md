@@ -1,13 +1,16 @@
 ---
-title: National Holocaust Monument
-type: poi
 latitude: 52.3653
 longitude: 4.9148
+scores:
+  sight: 0.6862
+  things_to_do: 0.6834
 tags:
 - things_to_do
 - sight
 - plantage
 - oost
+title: National Holocaust Monument
+type: poi
 ---
 
 Opened in 2021 in the heart of Amsterdam's former Jewish quarter, this memorial consists of 102,163 bricks, each engraved with the name of a Dutch Jewish, Sinti, or Roma victim of the Holocaust. The bricks are arranged in the shape of Hebrew characters spelling "In Memoriam" — a pattern visible only from above.

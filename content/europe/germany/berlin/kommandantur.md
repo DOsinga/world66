@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.53462
 longitude: 13.419376
+scores:
+  bars_and_cafes: 0.4849
 snippet: Low-key neighbourhood bar near Kollwitzplatz
 tags:
 - bars_and_cafes

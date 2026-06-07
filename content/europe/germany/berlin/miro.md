@@ -3,6 +3,8 @@ address: Raumerstr. 28-29
 connections: S Prenzlauer Allee
 latitude: 52.54143
 longitude: 13.423664
+scores:
+  eating_out: 0.465
 snippet: Anatolian restaurant in Prenzlauer Berg with excellent grilled lamb
 tags:
 - eating_out

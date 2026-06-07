@@ -1,11 +1,13 @@
 ---
+latitude: 52.3752
+longitude: 4.8818
+scores:
+  things_to_do: 0.7272
+snippet: Self-guided stroll through Amsterdam's most charming neighborhood
 tags:
 - things_to_do
 title: Jordaan Walk
 type: poi
-latitude: 52.3752
-longitude: 4.8818
-snippet: "Self-guided stroll through Amsterdam's most charming neighborhood"
 ---
 
 A 90-minute walk from Dam Square into the heart of the Jordaan, one of Amsterdam's most photogenic neighborhoods. Head west along the canals, passing the Anne Frank House on Prinsengracht, then wander into the narrow streets and along the smaller canals that define the Jordaan.

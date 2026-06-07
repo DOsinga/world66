@@ -3,6 +3,8 @@ address: Lychenerstraße 37
 connections: U Eberswalder Str
 latitude: 52.543621
 longitude: 13.417245
+scores:
+  eating_out: 0.3648
 tags:
 - eating_out
 - prenzlauerberg

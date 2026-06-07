@@ -1,13 +1,16 @@
 ---
-title: Oudemanhuispoort
-type: poi
 latitude: 52.3698
 longitude: 4.8953
+scores:
+  sight: 0.6039
+  things_to_do: 0.6284
 tags:
 - things_to_do
 - sight
 - centrum
 - canal_ring
+title: Oudemanhuispoort
+type: poi
 ---
 
 A covered passageway between Kloveniersburgwal and Oudezijds Achterburgwal, lined on both sides with second-hand book stalls. The passage dates from the 18th century — it was originally part of an almshouse for elderly men — and the book market has been here since at least the 1880s. Vincent van Gogh browsed these stalls during his brief time in Amsterdam.

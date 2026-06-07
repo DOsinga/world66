@@ -5,6 +5,8 @@ done:
 latitude: 52.505492
 longitude: 13.324232
 opening_hours: Open around the clock
+scores:
+  bars_and_cafes: 0.6099
 snippet: Legendary 24-hour café, good at any hour since 1978
 tags:
 - bars_and_cafes

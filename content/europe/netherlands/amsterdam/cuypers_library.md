@@ -1,12 +1,15 @@
 ---
-title: Cuypers Library
-type: poi
-latitude: 52.3600
+latitude: 52.36
 longitude: 4.8852
+scores:
+  sight: 0.6478
+  things_to_do: 0.7023
 tags:
 - things_to_do
 - sight
 - museum_quarter
+title: Cuypers Library
+type: poi
 ---
 
 Hidden inside the [Rijksmuseum](/europe/netherlands/amsterdam/rijksmuseum), the Cuypers Library is the oldest and largest art history research library in the Netherlands. The reading room is spectacular — a soaring vaulted space designed by Pierre Cuypers (the same architect who designed the museum itself and Centraal Station), with ornate ironwork balconies, spiral staircases, and natural light pouring through the glass ceiling.

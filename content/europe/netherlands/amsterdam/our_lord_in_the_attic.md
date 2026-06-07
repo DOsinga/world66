@@ -5,6 +5,9 @@ longitude: 4.89929
 neighbourhood: Centre
 opening_hours: Mon–Sat 10:00–17:00, Sun 13:00–17:00
 phone: 020 6246604
+scores:
+  museum: 0.6381
+  things_to_do: 0.698
 snippet: Secret Catholic church hidden in a Golden Age canal house
 tags:
 - things_to_do

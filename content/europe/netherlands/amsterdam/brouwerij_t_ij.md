@@ -1,11 +1,13 @@
 ---
-title: Brouwerij 't IJ
-type: poi
 latitude: 52.3664
 longitude: 4.9263
+scores:
+  bars_and_cafes: 0.7949
 tags:
 - bars_and_cafes
 - oost
+title: Brouwerij 't IJ
+type: poi
 ---
 
 A craft brewery housed in a former municipal bathhouse, right next to the De Gooyer windmill — one of the last remaining wooden windmills in Amsterdam. The combination of fresh beer and a 300-year-old windmill makes this one of the most atmospheric places to drink in the city.

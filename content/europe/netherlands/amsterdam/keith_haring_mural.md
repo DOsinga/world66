@@ -1,17 +1,21 @@
 ---
-title: Keith Haring Mural
-type: poi
 latitude: 52.3625
 longitude: 4.8835
+scores:
+  sight: 0.654
+  things_to_do: 0.6057
+story: 'Haring painted the mural in 1986 on the wall of a former warehouse, working
+  with local youth. When the building was converted into apartments, the mural was
+  covered with metal sheeting. It remained hidden for nearly 30 years until its rediscovery
+  and restoration in 2018.
+
+  '
 tags:
 - things_to_do
 - sight
 - museum_quarter
-story: >
-  Haring painted the mural in 1986 on the wall of a former warehouse, working with
-  local youth. When the building was converted into apartments, the mural was covered
-  with metal sheeting. It remained hidden for nearly 30 years until its rediscovery
-  and restoration in 2018.
+title: Keith Haring Mural
+type: poi
 ---
 
 A massive mural by American pop artist Keith Haring, painted in 1986 and hidden behind metal sheeting for almost three decades before being rediscovered and restored in 2018. The mural covers the side of a building near the Stedelijk Museum and features Haring's characteristic bold lines and dancing figures in orange and black.

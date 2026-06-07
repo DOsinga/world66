@@ -4,6 +4,8 @@ connections: U Spichernstr.
 latitude: 52.498627
 longitude: 13.328707
 phone: +49 30 8831582
+scores:
+  things_to_do: 0.6276
 snippet: Top-tier cabaret in a mirrored Dutch tent
 tags:
 - things_to_do

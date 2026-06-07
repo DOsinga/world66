@@ -3,6 +3,8 @@ address: Schönhauser Allee 36, 10435 Berlin
 latitude: 52.540377
 longitude: 13.414
 phone: +49 30 44315155
+scores:
+  bars_and_cafes: 0.4382
 snippet: Salsa nights with lessons at the Kulturbrauerei
 tags:
 - bars_and_cafes

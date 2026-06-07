@@ -1,6 +1,9 @@
 ---
 latitude: 52.1495
 longitude: 5.345
+scores:
+  landmark: 0.6193
+  things_to_do: 0.5901
 snippet: Family-friendly zoo with spacious enclosures and rare tigers
 tags:
 - things_to_do

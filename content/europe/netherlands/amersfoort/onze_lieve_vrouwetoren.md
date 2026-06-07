@@ -1,7 +1,10 @@
 ---
 latitude: 52.1552
 longitude: 5.3872
-snippet: "Medieval tower standing alone after its church was blown up in 1787"
+scores:
+  landmark: 0.6649
+  things_to_do: 0.6915
+snippet: Medieval tower standing alone after its church was blown up in 1787
 story: In 1787, the ammunition stored in the church attached to this tower exploded,
   obliterating the building entirely. The tower survived and has stood alone on its
   square ever since — a steeple without a church.

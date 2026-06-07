@@ -1,6 +1,8 @@
 ---
 latitude: 52.3602
 longitude: 4.9222
+scores:
+  things_to_do: 0.6288
 snippet: Local shopping street in Amsterdam Oost near Tropenmuseum
 tags:
 - things_to_do

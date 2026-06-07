@@ -1,13 +1,16 @@
 ---
-title: Six Collection
-type: poi
 latitude: 52.3665
 longitude: 4.8931
+scores:
+  museum: 0.7085
+  things_to_do: 0.7224
 tags:
 - things_to_do
 - museum
 - centrum
 - canal_ring
+title: Six Collection
+type: poi
 ---
 
 A private art collection displayed in the canal house where the Six family has lived since the 17th century. The highlight is Rembrandt's portrait of Jan Six I, painted in 1654 and considered one of his finest works — looser and more intimate than his formal commissions. The painting has never left the house.

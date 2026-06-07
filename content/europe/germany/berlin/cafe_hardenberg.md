@@ -3,11 +3,13 @@ address: Hardenbergstraße 10, Charlottenburg
 latitude: 52.5068
 longitude: 13.3306
 opening_hours: Daily 9am-1am
+scores:
+  bars_and_cafes: 0.4851
+snippet: Long-running student café near TU Berlin, cheap and unhurried
 tags:
 - bars_and_cafes
 - charlottenburg
 title: Café Hardenberg
-snippet: Long-running student café near TU Berlin, cheap and unhurried
 type: poi
 ---
 

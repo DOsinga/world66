@@ -6,6 +6,8 @@ latitude: 52.36806
 longitude: 4.895347
 neighbourhood: Rembrandtplein
 phone: 020-6255771
+scores:
+  bars_and_cafes: 0.7693
 snippet: Grand cafe with riverside terraces on the Amstel
 tags:
 - bars_and_cafes

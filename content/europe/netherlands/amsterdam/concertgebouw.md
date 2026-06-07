@@ -4,6 +4,8 @@ category: Architecture
 latitude: 52.353451
 longitude: 4.881961
 neighbourhood: Museum Quarter
+scores:
+  things_to_do: 0.5966
 snippet: World-class concert hall with free Wednesday lunchtime concerts
 tags:
 - things_to_do

@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.1585
 longitude: 5.3856
+scores:
+  bars_and_cafes: 0.6214
 snippet: Amersfoort's last brewery, with local beers and pub atmosphere
 tags:
 - bars_and_cafes

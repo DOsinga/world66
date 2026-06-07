@@ -5,6 +5,8 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 52.540496
 longitude: 13.412553
+scores:
+  eating_out: 0.8125
 snippet: Berlin's most famous currywurst stand since 1930
 tags:
 - eating_out

@@ -1,16 +1,19 @@
 ---
-title: Café Papeneiland
-type: poi
 latitude: 52.3808
 longitude: 4.8815
+scores:
+  bars_and_cafes: 0.7778
+story: 'A tunnel in the basement once connected the café to a clandestine Catholic
+  church across the canal, allowing worshippers to attend Mass in secret during the
+  Reformation, when Catholic services were officially banned. The tunnel was rediscovered
+  during renovations in 2012.
+
+  '
 tags:
 - bars_and_cafes
 - jordaan
-story: >
-  A tunnel in the basement once connected the café to a clandestine Catholic church
-  across the canal, allowing worshippers to attend Mass in secret during the
-  Reformation, when Catholic services were officially banned. The tunnel was
-  rediscovered during renovations in 2012.
+title: Café Papeneiland
+type: poi
 ---
 
 A classic brown café on the corner of Prinsengracht and Brouwersgracht, dating from 1642 and widely considered to serve the best apple pie in Amsterdam. The interior is everything a Dutch café should be: Delft blue tiles, dark wood panelling, sand on the floor, and a stove in the corner. The window tables overlooking the canal junction are among the best seats in the city.

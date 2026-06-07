@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.534734
 longitude: 13.418328
+scores:
+  bars_and_cafes: 0.4812
 snippet: Laid-back bar on Prenzlauer Berg's Knaackstrasse
 tags:
 - bars_and_cafes

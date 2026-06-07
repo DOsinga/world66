@@ -2,6 +2,8 @@
 address: Gleimstr. 23
 latitude: 52.547332
 longitude: 13.411093
+scores:
+  eating_out: 0.5466
 snippet: Relaxed Prenzlauer Berg cafe-bar on Gleimstrasse
 tags:
 - eating_out

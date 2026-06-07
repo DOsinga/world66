@@ -3,6 +3,8 @@ address: Wiener Straße 13, Kreuzberg
 latitude: 52.498304
 longitude: 13.428535
 opening_hours: Mon-Sat from 6pm, Sun from 4pm, open end
+scores:
+  bars_and_cafes: 0.4678
 snippet: Unpretentious Kreuzberg neighbourhood pub for evening beers
 tags:
 - bars_and_cafes

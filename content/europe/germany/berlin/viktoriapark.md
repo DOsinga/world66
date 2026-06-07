@@ -2,6 +2,9 @@
 address: Kreuzbergstraße, Kreuzberg
 latitude: 52.487875
 longitude: 13.377969
+scores:
+  sight: 0.6796
+  things_to_do: 0.5131
 snippet: Hilltop park in Kreuzberg with city views and a beer garden
 tags:
 - things_to_do

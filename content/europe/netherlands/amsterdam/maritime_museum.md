@@ -2,9 +2,11 @@
 address: Kattenburgerplein 1
 latitude: 52.373173
 longitude: 4.916201
-snippet: "VOC-era warehouse with replica ships and maritime art"
 neighbourhood: Plantage
 opening_hours: Tues–Sun 10:00–17:00, also Monday June–September
+scores:
+  things_to_do: 0.7054
+snippet: VOC-era warehouse with replica ships and maritime art
 tags:
 - things_to_do
 - plantage

@@ -4,6 +4,8 @@ connections: Tram 13
 latitude: 52.540618
 longitude: 13.414039
 phone: +49 (0)30 44 04 72 27
+scores:
+  eating_out: 0.5011
 snippet: Laid-back Prenzlauer Berg café in a historic malthouse
 tags:
 - eating_out

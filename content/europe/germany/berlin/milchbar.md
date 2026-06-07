@@ -3,10 +3,12 @@ address: Manteuffelstraße 40, Kreuzberg
 latitude: 52.499285
 longitude: 13.43171
 opening_hours: Daily 5pm-4am, Fri-Sat until 6am
+scores:
+  bars_and_cafes: 0.3676
+snippet: Kreuzberg late-night bar with pinball and themed parties
 tags:
 - bars_and_cafes
 - kreuzberg
-snippet: "Kreuzberg late-night bar with pinball and themed parties"
 title: Milchbar
 type: poi
 ---

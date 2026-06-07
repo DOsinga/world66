@@ -3,6 +3,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.3679
 longitude: 4.9011
+scores:
+  things_to_do: 0.6259
 snippet: Daily flea market on the old Jewish quarter square since 1886
 tags:
 - things_to_do

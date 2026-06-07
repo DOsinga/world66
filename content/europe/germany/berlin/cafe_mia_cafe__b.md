@@ -6,6 +6,8 @@ email: hotspot@cafe-mia.de
 latitude: 52.546321
 longitude: 13.417785
 phone: 030 2847 8570
+scores:
+  eating_out: 0.3439
 snippet: Color-changing cafe-bar in Prenzlauer Berg
 tags:
 - eating_out

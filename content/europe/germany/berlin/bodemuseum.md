@@ -5,6 +5,9 @@ latitude: 52.521324
 longitude: 13.394021
 opening_hours: Tue-Sun 10am-6pm
 phone: +49 30 266424242
+scores:
+  museum: 0.7247
+  things_to_do: 0.6973
 snippet: Sculptures, Byzantine art, and coins on Museum Island
 tags:
 - things_to_do

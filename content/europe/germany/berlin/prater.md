@@ -5,6 +5,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.540245
 longitude: 13.409511
+scores:
+  eating_out: 0.6835
 snippet: Berlin's oldest beer garden, open since 1852 in Prenzlauer Berg
 tags:
 - eating_out

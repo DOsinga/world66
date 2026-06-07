@@ -6,6 +6,8 @@ latitude: 52.362185
 longitude: 4.88382
 neighbourhood: Leidseplein
 phone: +31 (0)20 626 45 21
+scores:
+  bars_and_cafes: 0.7158
 snippet: Legendary live music venue in a converted church
 tags:
 - bars_and_cafes

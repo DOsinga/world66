@@ -6,6 +6,8 @@ done:
 latitude: 52.490825
 longitude: 13.387304
 phone: +49 (0)30 - 693 70 25
+scores:
+  bars_and_cafes: 0.4497
 snippet: Berlin's oldest gay club, running themed nights in Kreuzberg since the 1970s
 tags:
 - bars_and_cafes

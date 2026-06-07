@@ -4,6 +4,8 @@ latitude: 52.496502
 longitude: 13.421275
 opening_hours: Daily 10am-2am
 phone: +49 30 6188765
+scores:
+  bars_and_cafes: 0.567
 snippet: Canal-side Kreuzberg cafe with a sunny terrace
 tags:
 - bars_and_cafes

@@ -4,6 +4,8 @@ connections: U+S Zoologischer Garten, bus 149
 latitude: 52.506069
 longitude: 13.328471
 phone: +49 (0)30 -  3124529
+scores:
+  things_to_do: 0.5749
 snippet: Intimate Charlottenburg fringe theatre popular with Berlin students
 tags:
 - things_to_do

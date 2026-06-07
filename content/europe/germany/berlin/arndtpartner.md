@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 52.527661
 longitude: 13.40112
+scores:
+  things_to_do: 0.5463
 snippet: Contemporary art gallery on Berlin's gallery-lined Auguststrasse
 tags:
 - things_to_do

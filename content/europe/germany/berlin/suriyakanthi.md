@@ -6,6 +6,8 @@ done:
 latitude: 52.533927
 longitude: 13.420524
 phone: +49 (0)30  442 53 01
+scores:
+  eating_out: 0.4995
 snippet: Long-running Sri Lankan restaurant near Senefelderplatz in Prenzlauer Berg
 tags:
 - eating_out

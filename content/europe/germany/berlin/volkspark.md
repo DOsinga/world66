@@ -4,6 +4,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.5283
 longitude: 13.4325
+scores:
+  sight: 0.6486
+  things_to_do: 0.6034
 snippet: Berlin's oldest park, famous fountain, WWII rubble hills
 tags:
 - things_to_do

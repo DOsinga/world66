@@ -1,12 +1,15 @@
 ---
-title: Museum Het Schip
-type: poi
 latitude: 52.3892
 longitude: 4.8703
+scores:
+  architecture: 0.7333
+  things_to_do: 0.6211
 tags:
 - things_to_do
 - architecture
 - oud_west
+title: Museum Het Schip
+type: poi
 ---
 
 A museum dedicated to the Amsterdam School, the exuberant early 20th-century architectural movement that gave the city some of its most distinctive housing blocks. The museum is housed in Het Schip ("The Ship"), a social housing complex designed by Michel de Klerk in 1919 — a building so elaborately decorated that it scandalized the city council, who thought working-class housing should be plain and functional.

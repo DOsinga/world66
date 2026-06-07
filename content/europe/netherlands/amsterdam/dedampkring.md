@@ -2,8 +2,10 @@
 address: Handboogstraat 29
 latitude: 52.367752
 longitude: 4.890505
-opening_hours: "Sun–Thu 10:00–01:00, Fri–Sat 10:00–02:00"
-snippet: "Flamboyantly decorated coffeeshop with an Ali Baba interior"
+opening_hours: Sun–Thu 10:00–01:00, Fri–Sat 10:00–02:00
+scores:
+  bars_and_cafes: 0.6666
+snippet: Flamboyantly decorated coffeeshop with an Ali Baba interior
 tags:
 - bars_and_cafes
 - canal_ring

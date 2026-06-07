@@ -4,6 +4,8 @@ connections: U Görlitzer Bahnhof
 latitude: 52.4935
 longitude: 13.4305
 phone: +49 (0)30 - 611 33 30
+scores:
+  bars_and_cafes: 0.433
 snippet: Kreuzberg club with eclectic DJs and a late-night crowd
 tags:
 - bars_and_cafes

@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.375156
 longitude: 4.884081
+scores:
+  museum: 0.6594
 snippet: The preserved hiding place where Anne Frank wrote her diary
 tags:
 - museums

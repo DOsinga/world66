@@ -6,6 +6,9 @@ latitude: 52.507628
 longitude: 13.390364
 opening_hours: Daily 9am-10pm
 phone: +49 30 2537250
+scores:
+  museum: 0.6634
+  things_to_do: 0.5829
 snippet: Escape stories and Cold War artifacts at the former crossing
 tags:
 - things_to_do

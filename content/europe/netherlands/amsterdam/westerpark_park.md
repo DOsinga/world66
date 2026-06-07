@@ -4,6 +4,9 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.3876
 longitude: 4.8695
+scores:
+  park: 0.7288
+  things_to_do: 0.4306
 snippet: Converted gasworks park with restaurants, cinema, and festivals
 tags:
 - things_to_do

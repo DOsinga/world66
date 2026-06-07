@@ -3,6 +3,8 @@ address: Grimmstraße 1, Kreuzberg
 latitude: 52.495819
 longitude: 13.41078
 opening_hours: Daily 10am-1am
+scores:
+  bars_and_cafes: 0.6707
 snippet: Sprawling Kreuzberg café-bar near the Admiralbrücke, open all day.
 tags:
 - bars_and_cafes

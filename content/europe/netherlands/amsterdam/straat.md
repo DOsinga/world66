@@ -1,12 +1,15 @@
 ---
-title: STRAAT
-type: poi
 latitude: 52.4024
 longitude: 4.8999
+scores:
+  museum: 0.6911
+  things_to_do: 0.6929
 tags:
 - things_to_do
 - museum
 - amsterdam_noord
+title: STRAAT
+type: poi
 ---
 
 A street art museum in a vast former warehouse at the NDSM wharf in Amsterdam-Noord. The collection features over 150 large-scale works by artists from more than 30 countries, painted directly on the walls of the industrial space. The scale is immense — many pieces are several storeys high — and the quality is consistently impressive, ranging from photorealistic portraits to abstract murals to politically charged installations.

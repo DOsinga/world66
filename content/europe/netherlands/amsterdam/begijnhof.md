@@ -1,13 +1,16 @@
 ---
-title: Begijnhof
-type: poi
-latitude: 52.3690
+latitude: 52.369
 longitude: 4.8895
+scores:
+  sight: 0.6385
+  things_to_do: 0.6929
 tags:
 - things_to_do
 - sight
 - centrum
 - canal_ring
+title: Begijnhof
+type: poi
 ---
 
 A hidden medieval courtyard in the heart of Amsterdam, reached through an unmarked door off the Spui. Step through and the city noise disappears — you are in a tranquil garden surrounded by 17th- and 18th-century houses, a chapel, and one of the oldest wooden houses in the Netherlands (dating from around 1420).

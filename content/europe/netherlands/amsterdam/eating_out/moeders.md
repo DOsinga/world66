@@ -1,12 +1,15 @@
 ---
-title: Moeders
-type: poi
 latitude: 52.3762
 longitude: 4.8735
+scores:
+  eating_out: 0.695
+  restaurant: 0.7116
 tags:
-  - eating_out
-  - restaurant
-  - jordaan
+- eating_out
+- restaurant
+- jordaan
+title: Moeders
+type: poi
 ---
 
 A Jordaan institution whose walls are covered floor to ceiling in framed photographs of mothers — brought in over the years by customers who responded to an opening-week request. The food is old-fashioned Dutch: stamppot, hutspot, boiled beef, pea soup, and other dishes that take seriously the idea of cooking the way Dutch grandmothers did.

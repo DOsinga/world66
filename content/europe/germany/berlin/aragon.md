@@ -3,6 +3,9 @@ address: Diedenhoferstr. 6
 connections: U Senefelderplatz
 latitude: 52.534149
 longitude: 13.417241
+scores:
+  eating_out: 0.4423
+  restaurant: 0.6928
 snippet: Spanish tapas spot near Wasserturm park
 tags:
 - eating_out

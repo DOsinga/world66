@@ -6,6 +6,8 @@ done:
 latitude: 52.531783
 longitude: 13.416215
 phone: +49 (0)30 442 76 56
+scores:
+  eating_out: 0.5708
 snippet: Old Prenzlauer Berg pub with history on its walls.
 tags:
 - eating_out

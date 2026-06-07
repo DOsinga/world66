@@ -3,6 +3,9 @@ address: Kalverstraat 92
 latitude: 52.370431
 longitude: 4.890429
 phone: 020 5231822
+scores:
+  museum: 0.742
+  things_to_do: 0.7252
 snippet: Amsterdam's story across a thousand years in a former orphanage
 tags:
 - things_to_do

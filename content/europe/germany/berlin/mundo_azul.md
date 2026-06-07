@@ -6,6 +6,8 @@ email: info@mundoazul.de
 latitude: 52.536568
 longitude: 13.410214
 phone: +49 30 49853834
+scores:
+  things_to_do: 0.4332
 snippet: International children's bookstore with five languages
 tags:
 - things_to_do

@@ -5,6 +5,8 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 52.535498
 longitude: 13.416688
+scores:
+  eating_out: 0.6255
 snippet: Alsatian-Swiss-German cooking on Kollwitzplatz
 tags:
 - eating_out

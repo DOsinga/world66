@@ -1,6 +1,8 @@
 ---
 latitude: 52.339179
 longitude: 4.851305
+scores:
+  things_to_do: 0.6222
 snippet: Year-round ice skating rink near the Olympic Stadium
 tags:
 - things_to_do

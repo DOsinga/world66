@@ -4,6 +4,8 @@ connections: U Eberswalder Straße
 latitude: 52.536997
 longitude: 13.415879
 phone: +49 (0)30 442 60 26
+scores:
+  eating_out: 0.4782
 snippet: Prenzlauer Berg café with Sunday puppet shows
 tags:
 - eating_out

@@ -5,6 +5,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 52.539424
 longitude: 13.413668
+scores:
+  eating_out: 0.466
 snippet: Bar-restaurant in the Kulturbrauerei complex
 tags:
 - eating_out

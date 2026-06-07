@@ -2,6 +2,8 @@
 address: Kastanienallee 13, Prenzlauer Berg
 latitude: 52.53905
 longitude: 13.409965
+scores:
+  bars_and_cafes: 0.5637
 snippet: Long-running Prenzlauer Berg bar on the neighbourhood's main strip
 tags:
 - bars_and_cafes

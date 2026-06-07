@@ -5,6 +5,8 @@ done:
 latitude: 52.50648
 longitude: 13.321904
 opening_hours: Daily 9am-1am
+scores:
+  bars_and_cafes: 0.5903
 snippet: Relaxed Charlottenburg cafe with all-day breakfast
 tags:
 - bars_and_cafes

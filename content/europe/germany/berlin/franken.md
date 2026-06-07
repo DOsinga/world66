@@ -3,6 +3,8 @@ address: Oranienstraße 19, Kreuzberg
 latitude: 52.500591
 longitude: 13.422369
 opening_hours: Daily 7pm-late (earlier in summer)
+scores:
+  bars_and_cafes: 0.5295
 snippet: Unpretentious Kreuzberg corner Kneipe on Oranienstraße
 tags:
 - bars_and_cafes

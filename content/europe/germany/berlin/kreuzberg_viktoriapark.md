@@ -3,6 +3,9 @@ address: Kreuzbergstraße, Kreuzberg
 category: Sight
 latitude: 52.487875
 longitude: 13.377969
+scores:
+  sight: 0.6888
+  things_to_do: 0.6341
 snippet: Berlin's only hill, with waterfall and beer garden
 tags:
 - things_to_do

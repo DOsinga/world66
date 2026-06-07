@@ -10,6 +10,8 @@ latitude: 52.375156
 longitude: 4.884081
 neighbourhood: The Jordaan
 opening_hours: Daily 9:00–22:00 (varies by season). Closed Yom Kippur
+scores:
+  things_to_do: 0.7253
 snippet: Walk through the actual rooms where Anne Frank hid
 tags:
 - things_to_do

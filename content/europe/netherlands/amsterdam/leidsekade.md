@@ -1,7 +1,9 @@
 ---
 latitude: 52.3624
 longitude: 4.8822
-snippet: "Quiet canalside escape from the bustle of Leidseplein"
+scores:
+  things_to_do: 0.5975
+snippet: Quiet canalside escape from the bustle of Leidseplein
 tags:
 - things_to_do
 - leidseplein

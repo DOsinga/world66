@@ -4,7 +4,9 @@ connections: U Hansaplatz, S Bellevue, bus 341, 123
 latitude: 52.515166
 longitude: 13.348384
 phone: +49 (0)30 3974740
-snippet: "Legendary Berlin youth theatre with politically sharp productions since 1969"
+scores:
+  things_to_do: 0.531
+snippet: Legendary Berlin youth theatre with politically sharp productions since 1969
 tags:
 - things_to_do
 - berlinmitte

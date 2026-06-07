@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: cookstown.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Church_Street,_Cookstown_-_geograph.org.uk_-_5952146.jpg

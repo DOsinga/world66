@@ -1,5 +1,0 @@
-asia/israel/tiberias
-asia/japan/honshu/okayama
-asia/japan/shikoku/ehime
-asia/kazakhstan/pavlodar
-asia/malaysia/borneo

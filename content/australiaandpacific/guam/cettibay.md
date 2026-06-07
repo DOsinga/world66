@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: cettibay.jpg
 image_attribution: Daderot
 image_license: CC0

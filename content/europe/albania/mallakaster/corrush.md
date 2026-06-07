@@ -1,6 +1,6 @@
 ---
 done:
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 latitude: 40.443911
 loc_type: city
 longitude: 19.800563

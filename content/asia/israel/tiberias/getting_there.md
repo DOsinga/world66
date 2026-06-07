@@ -1,9 +1,8 @@
 ---
-title: Getting There
+title: "Getting There"
 type: section
 ---
 
-Buses connect Tiberias with Tel Aviv, Jerusalem, Haifa, Nazareth, and other towns in the Galilee. The central bus station is uphill from the lakefront; taxis are useful if you arrive with bags or in the heat of the day.
+Tiberias is about 130 kilometres north of Tel Aviv. There is no train service directly to Tiberias — the nearest stations are Haifa or Beit She'an, from which Egged buses continue to the lake. Direct express buses run from Tel Aviv's central bus station and take about two and a half hours. From Haifa, the journey is about 90 minutes by bus.
 
-The nearest railway stations are not in Tiberias itself. Travellers coming by train usually connect through Haifa, Afula, or Beit Shean and continue by bus. Driving is straightforward, with Route 90 running along the western side of the Sea of Galilee.
-
+If you are driving, Tiberias is reached via Highway 77 from the west or Highway 90 along the Jordan Valley from the south. Parking near the promenade can be tight in summer.

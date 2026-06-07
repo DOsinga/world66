@@ -1,14 +1,17 @@
 ---
-title: Tomb of Maimonides
+title: "Tomb of Maimonides"
 type: poi
-tags: [things_to_do, sight, pilgrimage]
+tags:
+  - things_to_do
+  - sight
 latitude: 32.7900
-longitude: 35.5400
+longitude: 35.5372
 story: >
-  According to tradition, Maimonides died in Egypt in 1204 and asked to be buried in the Land of Israel. The tomb in Tiberias became a place where scholars, pilgrims, and ordinary travellers fold philosophy, medicine, and devotion into one stop.
+  Maimonides — Rabbi Moses ben Maimon, the greatest Jewish philosopher of the medieval period — died in Egypt in 1204. The tradition that his remains were brought to Tiberias rests on a single medieval legend: that his coffin was placed on a camel and the camel instructed to walk until it refused to move, which it did at this spot on the Tiberias hillside. Whether the story is true or not, Jews have been coming to pray at this site for eight centuries.
+sources:
+  - https://en.wikipedia.org/wiki/Tomb_of_Maimonides
 ---
 
-The Tomb of Maimonides is the most important Jewish pilgrimage site in central Tiberias. Maimonides, known as the Rambam, was a philosopher, physician, legal scholar, and one of the towering figures of medieval Jewish thought.
+The tomb of Maimonides — the 12th-century philosopher, physician, and codifier of Jewish law — is the most visited site in Tiberias. An Egyptian-born Sephardic Jew whose works include the Mishneh Torah and the Guide for the Perplexed, Maimonides shaped Jewish thought more profoundly than almost any other figure, and his tomb draws scholars and ordinary pilgrims alike.
 
-The modern complex is simple rather than ancient-looking, but the stop matters because of who is remembered here. Nearby tombs traditionally associated with other sages make the area a small circuit for visitors interested in rabbinic history.
-
+The tomb is enclosed in a small structure with a separate prayer room adjacent. Visitors will usually find people praying, reading psalms, or simply sitting quietly. The site is modest in scale but carries genuine religious weight. The [Maimonides Heritage Center](/asia/israel/tiberias/maimonides_heritage_center) next door provides an introduction to his life and work, useful for those who want context before visiting the tomb.

@@ -1,9 +1,8 @@
 ---
-title: When to Go
+title: "When to Go"
 type: section
 ---
 
-Spring and autumn are the comfortable seasons, with mild weather and clearer walking conditions around the Sea of Galilee. Winter can be pleasant too, though rain may make trails muddy.
+Tiberias sits in a deep valley well below sea level, giving it a climate that diverges from the rest of Israel. Summers (June–September) are extremely hot and humid — consistently above 35°C — and the heat makes sightseeing uncomfortable in the middle of the day. Spring and autumn are the most pleasant times, with temperatures in the mid-20s and reliable sunshine.
 
-July and August are hot, humid, and busy. If you come then, do the ruins and viewpoints early, retreat indoors at midday, and return to the lakefront in the evening.
-
+Winter (December–February) is mild by Israeli standards — rarely cold enough for frost — and the lake is popular for swimming. The Kinneret (Sea of Galilee) water level is at its highest in late winter and spring after the rains, which affects the appearance of the shoreline dramatically. Passover brings large numbers of Israeli visitors; Lag BaOmer draws particular crowds to the tomb sites.

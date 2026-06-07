@@ -3,8 +3,9 @@ category: Sight
 latitude: 52.501729
 longitude: 13.445731
 scores:
+  activities: 0.5536
   sight: 0.6867
-  things_to_do: 0.6978
+  sightseeing: 0.6513
 snippet: Iconic red-brick bridge spanning East and West Berlin
 tags:
 - things_to_do

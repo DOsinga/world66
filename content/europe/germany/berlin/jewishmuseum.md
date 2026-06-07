@@ -7,8 +7,9 @@ latitude: 52.502728
 longitude: 13.394471
 opening_hours: Mon 10am-10pm, Tue-Sun 10am-8pm
 scores:
+  activities: 0.6134
   museum: 0.6834
-  things_to_do: 0.5764
+  sightseeing: 0.6497
 snippet: Libeskind's jagged zinc building embodies disrupted Jewish history
 tags:
 - things_to_do

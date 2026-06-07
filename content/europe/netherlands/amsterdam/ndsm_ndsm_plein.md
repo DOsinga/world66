@@ -3,7 +3,8 @@ category: Square
 latitude: 52.4024
 longitude: 4.8999
 scores:
-  things_to_do: 0.6024
+  activities: 0.6435
+  sightseeing: 0.6213
 snippet: Former shipyard turned sprawling arts and festival complex
 tags:
 - things_to_do

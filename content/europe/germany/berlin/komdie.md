@@ -4,7 +4,8 @@ connections: U Uhlandstraße, bus 109, 110
 latitude: 52.5023
 longitude: 13.3258
 scores:
-  things_to_do: 0.5602
+  activities: 0.5779
+  sightseeing: 0.5616
 snippet: Long-running boulevard comedy theatre on the Ku'damm
 tags:
 - things_to_do

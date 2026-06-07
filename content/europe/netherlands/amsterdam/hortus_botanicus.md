@@ -9,7 +9,8 @@ longitude: 4.907778
 neighbourhood: Oost
 opening_hours: Weekdays 9:00–17:00, weekends 11:00–17:00 (closes 16:00 in winter)
 scores:
-  things_to_do: 0.5609
+  activities: 0.5826
+  sightseeing: 0.6164
 snippet: One of the world's oldest botanical gardens, founded in 1638
 tags:
 - things_to_do

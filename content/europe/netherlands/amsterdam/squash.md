@@ -1,6 +1,8 @@
 ---
 latitude: 52.3676
 longitude: 4.9041
+scores:
+  activities: 0.576
 snippet: Squash courts and clubs across Amsterdam
 tags:
 - activities

@@ -2,8 +2,9 @@
 latitude: 52.3625
 longitude: 4.8835
 scores:
+  activities: 0.6012
   sight: 0.654
-  things_to_do: 0.6057
+  sightseeing: 0.645
 story: 'Haring painted the mural in 1986 on the wall of a former warehouse, working
   with local youth. When the building was converted into apartments, the mural was
   covered with metal sheeting. It remained hidden for nearly 30 years until its rediscovery

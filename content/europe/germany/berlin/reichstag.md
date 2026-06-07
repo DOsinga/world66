@@ -2,8 +2,9 @@
 latitude: 52.5186
 longitude: 13.3762
 scores:
+  activities: 0.5761
   architecture: 0.6525
-  things_to_do: 0.6457
+  sightseeing: 0.6411
 snippet: Parliament building with Norman Foster's glass dome open to the public
 story: 'In 1994 the artist Christo and his wife Jeanne-Claude wrapped the entire Reichstag
   building in silver fabric — 100,000 square metres of polypropylene. Ten days and

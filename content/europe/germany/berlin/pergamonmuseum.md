@@ -6,8 +6,9 @@ longitude: 13.396517
 opening_hours: Daily 10am-6pm, Thu until 8pm
 phone: +49 30 266424242
 scores:
+  activities: 0.6204
   museum: 0.738
-  things_to_do: 0.8227
+  sightseeing: 0.7199
 snippet: Ancient world reconstructions including the Ishtar Gate
 story: 'The Pergamon Altar was excavated by German archaeologist Carl Humann in what
   is now Turkey between 1878 and 1886. The Ottoman Empire had been using the marble

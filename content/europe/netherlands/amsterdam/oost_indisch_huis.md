@@ -2,8 +2,9 @@
 latitude: 52.3706
 longitude: 4.8965
 scores:
+  activities: 0.5999
   sight: 0.6339
-  things_to_do: 0.6595
+  sightseeing: 0.6248
 story: 'The VOC (Dutch East India Company), founded in 1602, is often called history''s
   first multinational corporation. At its peak it employed 50,000 people, maintained
   a private army, and had the power to wage war, negotiate treaties, and establish

@@ -4,9 +4,10 @@ latitude: 48.863859
 longitude: 2.337047
 opening_hours: Gardens open daily 8am–10:30pm (8pm in winter)
 scores:
+  activities: 0.6075
   architecture: 0.6344
   sight: 0.6503
-  things_to_do: 0.5867
+  sightseeing: 0.6311
 snippet: Arcaded garden palace with Buren's striped columns and excellent cafes
 story: On the evening of 12 July 1789, a young journalist named Camille Desmoulins
   jumped on a table in the Palais Royal gardens and called the crowd to arms with

@@ -2,8 +2,9 @@
 latitude: 52.5195
 longitude: 13.4837
 scores:
+  activities: 0.6006
   museum: 0.6481
-  things_to_do: 0.5631
+  sightseeing: 0.6203
 snippet: The secret police's own headquarters, preserved exactly as they left it
 story: 'When the East German regime fell in late 1989, the Stasi — which had employed
   one informer for every 63 citizens, the densest surveillance apparatus in history

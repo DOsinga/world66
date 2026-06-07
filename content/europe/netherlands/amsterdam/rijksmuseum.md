@@ -10,7 +10,8 @@ neighbourhood: Museum Quarter
 opening_hours: Daily 9:00–18:00 (closed 1 January)
 phone: +31 (0)20 6747047
 scores:
-  things_to_do: 0.8518
+  activities: 0.5904
+  sightseeing: 0.7277
 snippet: Dutch Golden Age masterworks in a grand 1885 building
 tags:
 - things_to_do

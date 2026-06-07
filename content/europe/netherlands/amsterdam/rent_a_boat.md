@@ -6,6 +6,8 @@ email: info@boaty.nl
 latitude: 52.348729
 longitude: 4.894117
 phone: 06-27149493
+scores:
+  activities: 0.6241
 snippet: Electric boat rental for self-guided tours of Amsterdam's canals
 tags:
 - activities

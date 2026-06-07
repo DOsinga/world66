@@ -5,8 +5,9 @@ done:
 latitude: 52.540292
 longitude: 13.414078
 scores:
+  activities: 0.6647
   architecture: 0.6429
-  things_to_do: 0.5105
+  sightseeing: 0.6328
 snippet: Sprawling former brewery turned cultural village
 tags:
 - things_to_do

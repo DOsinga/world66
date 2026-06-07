@@ -1,9 +1,11 @@
 ---
-address: "Korte Leidsedwarsstraat, Amsterdam"
+address: Korte Leidsedwarsstraat, Amsterdam
 latitude: 52.363958
 longitude: 4.882758
-phone: "+31-20-620 66 31"
-snippet: "Squash and fitness club a block from Leidseplein, with sauna"
+phone: +31-20-620 66 31
+scores:
+  activities: 0.6164
+snippet: Squash and fitness club a block from Leidseplein, with sauna
 tags:
 - activities
 - sport

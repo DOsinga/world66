@@ -2,8 +2,9 @@
 latitude: 52.5183
 longitude: 13.43
 scores:
+  activities: 0.5898
   architecture: 0.6872
-  things_to_do: 0.5877
+  sightseeing: 0.6427
 snippet: Grand Stalinist boulevard showcasing monumental 1950s socialist architecture
 tags:
 - things_to_do

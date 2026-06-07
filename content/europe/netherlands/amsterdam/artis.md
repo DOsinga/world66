@@ -5,7 +5,8 @@ longitude: 4.916546
 neighbourhood: Plantage
 opening_hours: Daily 9:00–17:00
 scores:
-  things_to_do: 0.5195
+  activities: 0.604
+  sightseeing: 0.6354
 snippet: One of Europe's oldest zoos, founded 1838, with a fine aquarium
 tags:
 - things_to_do

@@ -2,7 +2,8 @@
 latitude: 48.8569
 longitude: 2.3537
 scores:
-  things_to_do: 0.6512
+  activities: 0.5781
+  sightseeing: 0.6383
 tags:
 - things_to_do
 - le_marais

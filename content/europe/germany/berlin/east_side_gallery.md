@@ -4,8 +4,9 @@ category: Sight
 latitude: 52.50525
 longitude: 13.44085
 scores:
+  activities: 0.5923
   sight: 0.6487
-  things_to_do: 0.6839
+  sightseeing: 0.6326
 snippet: 1.3 km of Berlin Wall murals, including the famous Brezhnev kiss
 story: 'The famous "fraternal kiss" image — Brezhnev and Honecker locked in a socialist
   embrace — was painted by Russian artist Dmitri Vrubel from a 1979 photograph taken

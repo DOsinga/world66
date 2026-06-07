@@ -121,6 +121,8 @@ def location_or_section(request, path):
 
         def _poi_score(p):
             scores = p.meta.get("scores") or {}
+            if nav_tag == "things_to_do":
+                return max(scores.get("sightseeing", 0.0), scores.get("activities", 0.0))
             if nav_tag in scores:
                 return scores[nav_tag]
             return max(scores.values(), default=0.0)

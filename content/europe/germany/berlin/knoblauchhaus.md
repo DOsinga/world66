@@ -6,8 +6,9 @@ longitude: 13.406992
 opening_hours: Tue-Sun 10am-6pm
 phone: +49 30 240020
 scores:
+  activities: 0.5614
   museum: 0.5833
-  things_to_do: 0.4615
+  sightseeing: 0.5857
 snippet: Biedermeier townhouse tracing bourgeois Berlin life across three centuries
 tags:
 - things_to_do

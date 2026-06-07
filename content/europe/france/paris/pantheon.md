@@ -7,9 +7,10 @@ latitude: 48.846195
 longitude: 2.346051
 opening_hours: Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)
 scores:
+  activities: 0.568
   architecture: 0.6553
-  sight: 0.6646
-  things_to_do: 0.6783
+  sight: 0.6647
+  sightseeing: 0.6695
 snippet: Neoclassical mausoleum with Voltaire, Hugo, and Foucault's pendulum
 story: When Voltaire's remains were brought to the Panthéon in 1791, the procession
   stretched for three kilometres through Paris. Rousseau was transferred alongside

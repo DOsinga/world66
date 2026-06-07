@@ -4,8 +4,9 @@ latitude: 52.1518
 longitude: 5.384
 phone: 033-4633034
 scores:
+  activities: 0.613
   architecture: 0.7168
-  things_to_do: 0.5262
+  sightseeing: 0.6821
 snippet: Rietveld-designed exhibition space, De Stijl architecture
 tags:
 - things_to_do

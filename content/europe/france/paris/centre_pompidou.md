@@ -7,10 +7,11 @@ latitude: 48.860496
 longitude: 2.352422
 opening_hours: Wed–Mon 11am–9pm (Thu until 11pm); closed Tue
 scores:
+  activities: 0.6262
   market: 0.6999
   museum: 0.6891
   sight: 0.6814
-  things_to_do: 0.6222
+  sightseeing: 0.6712
 snippet: Europe's largest modern art museum in an inside-out building
 story: When the Centre Pompidou was proposed in the early 1970s, the Beaubourg neighbourhood
   was one of the most densely populated slums in Paris, marked for demolition. The

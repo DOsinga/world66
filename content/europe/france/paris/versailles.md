@@ -5,9 +5,10 @@ latitude: 48.804791
 longitude: 2.120148
 opening_hours: Tue–Sun 9am–5:30pm (park until sunset); closed Mon
 scores:
+  activities: 0.5951
   architecture: 0.6144
   sight: 0.6338
-  things_to_do: 0.7582
+  sightseeing: 0.6537
 snippet: The Sun King's palace, 45 minutes from Paris by RER
 tags:
 - things_to_do

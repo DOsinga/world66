@@ -2,8 +2,9 @@
 latitude: 52.3726
 longitude: 4.9003
 scores:
+  activities: 0.6216
   sight: 0.6653
-  things_to_do: 0.7194
+  sightseeing: 0.6592
 story: 'The upstairs anatomy theatre is where Rembrandt painted "The Anatomy Lesson
   of Dr. Nicolaes Tulp" in 1632 — one of his most famous works. Public dissections
   were popular events in 17th-century Amsterdam, and tickets were sold to spectators.

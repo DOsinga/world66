@@ -5,8 +5,9 @@ done:
 latitude: 52.3876
 longitude: 4.8695
 scores:
+  activities: 0.6329
   park: 0.7288
-  things_to_do: 0.4306
+  sightseeing: 0.6166
 snippet: Converted gasworks park with restaurants, cinema, and festivals
 tags:
 - things_to_do

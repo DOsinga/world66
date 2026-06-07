@@ -7,8 +7,9 @@ latitude: 48.878396
 longitude: 2.381201
 opening_hours: Daily 7am–10pm (summer), 7am–dusk (winter)
 scores:
-  sight: 0.672
-  things_to_do: 0.6933
+  activities: 0.5918
+  sight: 0.6721
+  sightseeing: 0.6502
 snippet: Dramatic cliffs, waterfalls, and a hilltop temple in a quarry-turned-park
 tags:
 - things_to_do

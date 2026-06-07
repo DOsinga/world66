@@ -4,8 +4,9 @@ category: Museum
 latitude: 52.503591
 longitude: 13.425348
 scores:
+  activities: 0.6014
   museum: 0.6691
-  things_to_do: 0.4291
+  sightseeing: 0.6269
 snippet: Local history from squatters to gentrification
 tags:
 - things_to_do

@@ -7,7 +7,8 @@ latitude: 52.369102
 longitude: 4.900853
 neighbourhood: Waterlooplein
 scores:
-  things_to_do: 0.6048
+  activities: 0.603
+  sightseeing: 0.6491
 snippet: Combined city hall and opera house on the Amstel
 tags:
 - things_to_do

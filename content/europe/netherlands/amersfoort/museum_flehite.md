@@ -4,8 +4,9 @@ latitude: 52.1568
 longitude: 5.3856
 phone: 033-4619987
 scores:
+  activities: 0.6189
   museum: 0.7066
-  things_to_do: 0.6529
+  sightseeing: 0.6704
 snippet: Regional history museum in three medieval canal houses
 sources:
 - https://en.wikipedia.org/wiki/Museum_Flehite

@@ -2,8 +2,9 @@
 latitude: 52.5139
 longitude: 13.3788
 scores:
-  sight: 0.674
-  things_to_do: 0.6778
+  activities: 0.6075
+  sight: 0.6741
+  sightseeing: 0.67
 snippet: 2,711 concrete stelae rippling across a five-acre field in the heart of the
   city
 story: 'The memorial spent seventeen years in planning and argument. The American

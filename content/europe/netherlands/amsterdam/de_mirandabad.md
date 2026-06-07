@@ -1,8 +1,10 @@
 ---
 address: De Mirandabad 9
 latitude: 52.3391
-longitude: 4.8930
-snippet: "Subtropical swimming paradise with wave pool and outdoor sunbathing"
+longitude: 4.893
+scores:
+  activities: 0.5951
+snippet: Subtropical swimming paradise with wave pool and outdoor sunbathing
 tags:
 - activities
 title: De Mirandabad

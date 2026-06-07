@@ -2,8 +2,9 @@
 latitude: 52.3733
 longitude: 4.884
 scores:
+  activities: 0.5873
   sight: 0.7267
-  things_to_do: 0.6858
+  sightseeing: 0.7076
 story: 'Unveiled in 1987, it was the first monument in the world to commemorate gay
   men and lesbians who were persecuted for their sexuality. The pink triangle, originally
   forced on gay prisoners in Nazi concentration camps, was reclaimed as a symbol of

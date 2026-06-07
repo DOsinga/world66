@@ -5,7 +5,8 @@ latitude: 52.369367
 longitude: 4.901237
 neighbourhood: Waterlooplein
 scores:
-  things_to_do: 0.6817
+  activities: 0.5882
+  sightseeing: 0.6215
 snippet: Rembrandt's home and studio, with nearly all his etchings
 tags:
 - things_to_do

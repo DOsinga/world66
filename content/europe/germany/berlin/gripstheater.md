@@ -5,7 +5,8 @@ latitude: 52.515166
 longitude: 13.348384
 phone: +49 (0)30 3974740
 scores:
-  things_to_do: 0.531
+  activities: 0.627
+  sightseeing: 0.578
 snippet: Legendary Berlin youth theatre with politically sharp productions since 1969
 tags:
 - things_to_do

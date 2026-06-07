@@ -2,8 +2,9 @@
 latitude: 52.159
 longitude: 5.3853
 scores:
+  activities: 0.6166
   landmark: 0.6596
-  things_to_do: 0.7267
+  sightseeing: 0.6646
 snippet: Rare medieval gate controlling both land and water traffic since 1425
 story: 'The Koppelpoort was built in two phases: the land gate came first in 1380,
   and the water gate was added in 1425. The wooden treadwheels that raise the sluices

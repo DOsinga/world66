@@ -5,7 +5,8 @@ longitude: 4.916201
 neighbourhood: Plantage
 opening_hours: Tues–Sun 10:00–17:00, also Monday June–September
 scores:
-  things_to_do: 0.7054
+  activities: 0.59
+  sightseeing: 0.6313
 snippet: VOC-era warehouse with replica ships and maritime art
 tags:
 - things_to_do

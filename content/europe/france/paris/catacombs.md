@@ -7,9 +7,10 @@ latitude: 48.833801
 longitude: 2.332409
 opening_hours: Tue–Sun 9:45am–8:30pm; closed Mon
 scores:
+  activities: 0.6139
   museum: 0.6828
   sight: 0.6404
-  things_to_do: 0.8004
+  sightseeing: 0.6316
 snippet: Six million Parisians' bones arranged in underground quarry tunnels
 story: The bones were transferred to the quarry tunnels between 1786 and 1788 from
   the Saints-Innocents cemetery, which had been so full for so long that corpses were

@@ -3,7 +3,8 @@ category: Street
 latitude: 52.3724
 longitude: 4.8981
 scores:
-  things_to_do: 0.6709
+  activities: 0.6081
+  sightseeing: 0.61
 snippet: Amsterdam's oldest canal, from red lights to university calm
 tags:
 - things_to_do

@@ -7,8 +7,9 @@ longitude: 13.390364
 opening_hours: Daily 9am-10pm
 phone: +49 30 2537250
 scores:
+  activities: 0.5983
   museum: 0.6634
-  things_to_do: 0.5829
+  sightseeing: 0.6567
 snippet: Escape stories and Cold War artifacts at the former crossing
 tags:
 - things_to_do

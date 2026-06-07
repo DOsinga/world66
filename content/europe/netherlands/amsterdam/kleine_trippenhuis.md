@@ -2,8 +2,9 @@
 latitude: 52.3714
 longitude: 4.8989
 scores:
+  activities: 0.5861
   sight: 0.6842
-  things_to_do: 0.7169
+  sightseeing: 0.6735
 story: 'Legend has it that the coachman of the Trip brothers, who built the enormous
   Trippenhuis across the canal, once sighed that he would be happy with a house as
   wide as the Trippenhuis''s front door. His employers obliged — and built him this

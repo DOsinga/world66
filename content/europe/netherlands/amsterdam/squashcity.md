@@ -4,6 +4,8 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 52.3833
 longitude: 4.8898
+scores:
+  activities: 0.5914
 snippet: Squash courts and sauna near Central Station
 tags:
 - activities

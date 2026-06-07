@@ -3,6 +3,8 @@ address: Zaanstraat 88, 1013 RW Amsterdam
 latitude: 52.37308
 longitude: 4.892453
 phone: +31-20-681 48 18
+scores:
+  activities: 0.6184
 snippet: Traditional Turkish bath with massage and steam, women only most days
 tags:
 - activities

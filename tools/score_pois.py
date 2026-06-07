@@ -117,12 +117,22 @@ TAG_IDEALS = {
         "but in either case it offers an encounter with the natural world that is genuinely "
         "moving, beautiful, or adventurous."
     ),
-    "things_to_do": (
-        "An unmissable attraction — a museum, monument, historic site, viewpoint, or experience "
-        "that any visitor to this destination should prioritise. It carries real cultural weight, "
-        "historical significance, or a wow factor that makes it a highlight of the trip. From "
-        "world-famous landmarks to hidden gems only locals know, it is something you would "
-        "actively regret missing and enthusiastically recommend to others."
+    "sightseeing": (
+        "An iconic sight, monument, museum, or landmark that travellers seek out specifically to "
+        "see. Whether a world-famous cathedral, a great art museum, a historic palace, a "
+        "celebrated viewpoint, or an architectural masterpiece — it is somewhere you go to witness "
+        "or contemplate something of exceptional beauty, historical significance, or cultural fame. "
+        "The experience is primarily visual and contemplative: you are there to see, to understand, "
+        "and to be moved. Recognised worldwide, frequently photographed, and central to any "
+        "serious visit to the destination."
+    ),
+    "activities": (
+        "An experience you participate in rather than simply observe — a show, performance, "
+        "market, guided tour, workshop, food experience, or hands-on cultural activity. The value "
+        "is in doing, not just seeing. Whether it is watching a traditional theatrical performance, "
+        "browsing a famous street market, joining a local cooking class, cycling through historic "
+        "streets, or attending a festival — it offers active engagement with the destination's "
+        "culture, food, or daily life rather than passive contemplation of a static sight."
     ),
     "eating_out": (
         "An outstanding restaurant or dining experience that serious food lovers seek out. "
@@ -315,7 +325,10 @@ def main():
             if poi_emb is None:
                 skipped_no_emb += 1
                 continue
-            scores = score_poi_all_tags(poi_emb, tags, ideal_embeddings, trained_weights)
+            effective_tags = list(tags)
+            if "things_to_do" in tags:
+                effective_tags += ["sightseeing", "activities"]
+            scores = score_poi_all_tags(poi_emb, effective_tags, ideal_embeddings, trained_weights)
 
         if not scores:
             skipped_no_tag += 1

@@ -5,6 +5,8 @@ done:
 latitude: 52.386
 longitude: 4.871
 phone: +31-20-681 48 18
+scores:
+  activities: 0.6325
 snippet: Turkish bathhouse on Zaanstraat with massage and steam rooms
 tags:
 - activities

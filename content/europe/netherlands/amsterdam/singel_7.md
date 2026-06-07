@@ -2,8 +2,9 @@
 latitude: 52.3778
 longitude: 4.9006
 scores:
+  activities: 0.6025
   sight: 0.6483
-  things_to_do: 0.6468
+  sightseeing: 0.6197
 story: 'The facade is barely a metre wide, though the house widens considerably behind
   the front wall. Amsterdam''s 17th-century property taxes were based on canal frontage,
   so narrow facades were a form of tax avoidance. Several houses along the canals

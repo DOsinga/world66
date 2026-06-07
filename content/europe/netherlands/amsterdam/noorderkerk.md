@@ -3,7 +3,8 @@ latitude: 52.379629
 longitude: 4.886399
 neighbourhood: The Jordaan
 scores:
-  things_to_do: 0.5221
+  activities: 0.5675
+  sightseeing: 0.5871
 snippet: Dutch Reformed church whose Saturday market is the Jordaan's best
 tags:
 - things_to_do

@@ -5,9 +5,10 @@ latitude: 48.855508
 longitude: 2.344988
 opening_hours: Daily 9am–7pm (Oct–Mar closes 5pm)
 scores:
+  activities: 0.595
   architecture: 0.6756
   sight: 0.6591
-  things_to_do: 0.7984
+  sightseeing: 0.7067
 snippet: The most breathtaking Gothic interior in Paris, a chapel made of stained
   glass
 story: Louis IX paid the Latin Emperor of Constantinople 135,000 livres tournois for

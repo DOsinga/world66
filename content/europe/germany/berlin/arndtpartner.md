@@ -5,7 +5,8 @@ done:
 latitude: 52.527661
 longitude: 13.40112
 scores:
-  things_to_do: 0.5463
+  activities: 0.592
+  sightseeing: 0.609
 snippet: Contemporary art gallery on Berlin's gallery-lined Auguststrasse
 tags:
 - things_to_do

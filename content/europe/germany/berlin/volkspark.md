@@ -5,8 +5,9 @@ done:
 latitude: 52.5283
 longitude: 13.4325
 scores:
+  activities: 0.6003
   sight: 0.6486
-  things_to_do: 0.6034
+  sightseeing: 0.6178
 snippet: Berlin's oldest park, famous fountain, WWII rubble hills
 tags:
 - things_to_do

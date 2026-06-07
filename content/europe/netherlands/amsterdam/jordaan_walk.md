@@ -2,7 +2,8 @@
 latitude: 52.3752
 longitude: 4.8818
 scores:
-  things_to_do: 0.7272
+  activities: 0.659
+  sightseeing: 0.6844
 snippet: Self-guided stroll through Amsterdam's most charming neighborhood
 tags:
 - things_to_do

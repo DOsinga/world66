@@ -5,7 +5,8 @@ latitude: 52.374362
 longitude: 4.898073
 neighbourhood: Centre
 scores:
-  things_to_do: 0.7133
+  activities: 0.5677
+  sightseeing: 0.6546
 snippet: Amsterdam's oldest building, a Gothic church in the red-light district
 tags:
 - things_to_do

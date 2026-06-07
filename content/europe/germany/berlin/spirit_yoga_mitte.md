@@ -5,7 +5,8 @@ latitude: 52.52787
 longitude: 13.40159
 phone: 030 27908503
 scores:
-  things_to_do: 0.5363
+  activities: 0.6138
+  sightseeing: 0.5702
 snippet: Well-regarded central Berlin yoga studio with 35+ weekly Vinyasa classes
 tags:
 - things_to_do

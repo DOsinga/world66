@@ -2,8 +2,9 @@
 latitude: 48.8598
 longitude: 2.3513
 scores:
-  sight: 0.6483
-  things_to_do: 0.6377
+  activities: 0.5902
+  sight: 0.6484
+  sightseeing: 0.6406
 tags:
 - things_to_do
 - sight

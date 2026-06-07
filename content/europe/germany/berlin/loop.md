@@ -4,7 +4,8 @@ latitude: 52.5328
 longitude: 13.3828
 opening_hours: 'only during exhibitions: Wed-Sat 2pm-6pm'
 scores:
-  things_to_do: 0.6343
+  activities: 0.6401
+  sightseeing: 0.6224
 snippet: Contemporary art gallery with club-night exhibition openings
 tags:
 - things_to_do

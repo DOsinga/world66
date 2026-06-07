@@ -2,8 +2,9 @@
 latitude: 52.3672
 longitude: 4.901
 scores:
+  activities: 0.6004
   museum: 0.6589
-  things_to_do: 0.6123
+  sightseeing: 0.6149
 story: 'Founded in 1616 by Sephardic Jews who had fled the Spanish and Portuguese
   Inquisitions, Ets Haim ("Tree of Life") is a UNESCO Memory of the World site. Its
   collection includes manuscripts carried by refugees across Europe, some dating back

@@ -3,7 +3,8 @@ category: Street
 latitude: 52.3516
 longitude: 4.8751
 scores:
-  things_to_do: 0.5026
+  activities: 0.6028
+  sightseeing: 0.5785
 snippet: Oud-Zuid neighbourhood street with cheese, flowers, and local cafes
 tags:
 - things_to_do

@@ -7,9 +7,10 @@ latitude: 48.855399
 longitude: 2.315765
 opening_hours: Tue–Sun 10am–6:30pm; closed Mon
 scores:
+  activities: 0.6163
   museum: 0.7292
   sight: 0.6525
-  things_to_do: 0.7156
+  sightseeing: 0.6991
 snippet: The Thinker and monumental bronzes in an elegant mansion garden
 story: Rodin lived in the Hôtel Biron for the last decade of his life by paying rent
   in sculpture — the French state accepted individual pieces as payment for his studio

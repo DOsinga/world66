@@ -27,7 +27,7 @@ WEIGHTS_PATH = Path(__file__).resolve().parent / "scorer_weights.json"
 
 # Only train ML models for the nav-level tags.
 # Fine-grained tags (museum, sight, restaurant, bar, etc.) use cosine similarity.
-TRAIN_TAGS = {"things_to_do", "eating_out", "bars_and_cafes"}
+TRAIN_TAGS = {"eating_out", "bars_and_cafes"}
 
 # Tags with too few labels fall back to cosine similarity (see score_pois.py).
 MIN_LABELS = 10

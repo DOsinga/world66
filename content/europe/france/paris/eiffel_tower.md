@@ -5,9 +5,10 @@ done:
 latitude: 48.85826
 longitude: 2.294501
 scores:
+  activities: 0.5915
   landmark: 0.7516
   sight: 0.7362
-  things_to_do: 0.6975
+  sightseeing: 0.7241
 snippet: Iron lattice icon of Paris with sweeping city views
 story: 'Gustave Eiffel was so vilified by Paris intellectuals when the tower was proposed
   that a petition signed by 300 artists and writers called it a "blot on the cityscape"

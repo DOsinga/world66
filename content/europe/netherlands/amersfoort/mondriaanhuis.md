@@ -4,8 +4,9 @@ latitude: 52.1547
 longitude: 5.3904
 phone: 033-4620180
 scores:
+  activities: 0.5683
   museum: 0.6384
-  things_to_do: 0.5796
+  sightseeing: 0.6703
 snippet: Mondrian's birthplace, tracing his path to abstract art
 story: 'Piet Mondriaan was born in this house in 1872, the second son of a strict
   Calvinist schoolmaster. He spent his first two years in Amersfoort before the family

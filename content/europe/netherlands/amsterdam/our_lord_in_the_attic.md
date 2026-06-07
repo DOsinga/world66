@@ -6,8 +6,9 @@ neighbourhood: Centre
 opening_hours: Mon–Sat 10:00–17:00, Sun 13:00–17:00
 phone: 020 6246604
 scores:
+  activities: 0.6084
   museum: 0.6381
-  things_to_do: 0.698
+  sightseeing: 0.6562
 snippet: Secret Catholic church hidden in a Golden Age canal house
 tags:
 - things_to_do

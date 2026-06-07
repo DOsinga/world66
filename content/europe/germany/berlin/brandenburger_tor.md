@@ -2,8 +2,9 @@
 latitude: 52.5163
 longitude: 13.3777
 scores:
+  activities: 0.5609
   sight: 0.7039
-  things_to_do: 0.7861
+  sightseeing: 0.68
 snippet: Berlin's defining symbol, closed to Napoleon and opened to jubilant crowds
   in 1989
 story: 'For 28 years the Brandenburg Gate stood in the middle of the death strip between

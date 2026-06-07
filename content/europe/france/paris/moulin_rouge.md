@@ -8,7 +8,8 @@ opening_hours: Shows at 9pm and 11pm nightly
 phone: +33 1 53 09 82 82
 price: Show only from €87; dinner and show from €195
 scores:
-  things_to_do: 0.7266
+  activities: 0.6531
+  sightseeing: 0.6669
 snippet: the original Belle Époque cabaret, still spectacular
 tags:
 - things_to_do

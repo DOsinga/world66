@@ -2,8 +2,9 @@
 latitude: 52.3661
 longitude: 4.8952
 scores:
+  activities: 0.6212
   architecture: 0.6858
-  things_to_do: 0.803
+  sightseeing: 0.69
 story: 'Abraham Tuschinski, a Polish-Jewish immigrant, opened the theatre in 1921
   and envisioned it as a palace where everyone — rich and poor — could experience
   beauty. He was murdered in Auschwitz in 1942. The theatre was briefly renamed during

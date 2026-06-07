@@ -2,8 +2,9 @@
 latitude: 48.8527
 longitude: 2.347
 scores:
+  activities: 0.6063
   sight: 0.6695
-  things_to_do: 0.6774
+  sightseeing: 0.6544
 story: Shakespeare and Company has operated a 'Tumbleweed Hotel' for traveling writers
   since the 1950s — travellers can sleep among the shelves in exchange for reading
   a book a day, working a shift in the shop, and writing a single-page autobiographical

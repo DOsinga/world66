@@ -2,8 +2,9 @@
 latitude: 52.3547
 longitude: 4.917
 scores:
+  activities: 0.5803
   museum: 0.7166
-  things_to_do: 0.6307
+  sightseeing: 0.6348
 tags:
 - things_to_do
 - museum

@@ -5,7 +5,8 @@ latitude: 52.504968
 longitude: 13.335294
 opening_hours: open round the clock
 scores:
-  things_to_do: 0.5324
+  activities: 0.6157
+  sightseeing: 0.6742
 snippet: 1960s shopping tower with a giant water clock at Breitscheidplatz
 tags:
 - things_to_do

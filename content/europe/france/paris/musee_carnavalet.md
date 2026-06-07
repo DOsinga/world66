@@ -5,8 +5,9 @@ latitude: 48.857108
 longitude: 2.362128
 opening_hours: Tue–Sun 10am–6pm; closed Mon
 scores:
+  activities: 0.63
   museum: 0.7252
-  things_to_do: 0.6462
+  sightseeing: 0.6791
 snippet: Free history museum tracing Paris from the Stone Age to the 20th century
 story: Marcel Proust's cork-lined bedroom from his apartment on Boulevard Haussmann
   is in the Carnavalet — he had the walls lined with cork to block noise while writing

@@ -6,7 +6,8 @@ latitude: 52.505422
 longitude: 13.367427
 opening_hours: Mo-Fr 10am -7pm, Sa 10am -4pm
 scores:
-  things_to_do: 0.5127
+  activities: 0.5902
+  sightseeing: 0.6325
 snippet: Long-running contemporary art gallery on Potsdamer Strasse
 tags:
 - things_to_do

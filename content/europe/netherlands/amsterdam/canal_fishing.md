@@ -2,7 +2,8 @@
 latitude: 52.3676
 longitude: 4.9041
 scores:
-  things_to_do: 0.6226
+  activities: 0.655
+  sightseeing: 0.6202
 snippet: Drag stolen bikes from Amsterdam's canals with a hook
 tags:
 - things_to_do

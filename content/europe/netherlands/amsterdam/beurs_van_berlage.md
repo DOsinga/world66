@@ -5,7 +5,8 @@ latitude: 52.375022
 longitude: 4.896265
 neighbourhood: Centrum
 scores:
-  things_to_do: 0.5304
+  activities: 0.6007
+  sightseeing: 0.6411
 snippet: Founding monument of modern Dutch architecture, now a concert venue
 tags:
 - things_to_do

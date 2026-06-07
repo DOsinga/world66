@@ -2,8 +2,9 @@
 latitude: 52.1567
 longitude: 5.3842
 scores:
+  activities: 0.582
   landmark: 0.6534
-  things_to_do: 0.6626
+  sightseeing: 0.6712
 snippet: The Netherlands' only female traffic light figure
 story: One morning in December 2000, the traffic light outside city hall showed a
   woman instead of the usual male figure. Nobody knew who put her there. The city

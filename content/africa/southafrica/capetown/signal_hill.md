@@ -1,15 +1,25 @@
 ---
-title: "Signal Hill"
-type: poi
 category: Viewpoint
 latitude: -33.9162
 longitude: 18.4019
+neighbourhood: Bo-Kaap
+scores:
+  activities: 0.5319
+  sight: 0.6712
+  sightseeing: 0.6433
 snippet: Lookout hill with views over the city and Atlantic seaboard
+story: The Noon Gun, fired daily at 12:00 from a battery just below Signal Hill's
+  summit, has marked the hour for Cape Town since 1806. Originally a signal to ships
+  in the harbour to adjust their chronometers, it is one of the oldest continuously
+  running time signals in the world. You can hike up to the battery, or just listen
+  for the bang from anywhere in central Cape Town.
 tags:
 - things_to_do
 - sight
 - outdoor
-story: The Noon Gun, fired daily at 12:00 from a battery just below Signal Hill's summit, has marked the hour for Cape Town since 1806. Originally a signal to ships in the harbour to adjust their chronometers, it is one of the oldest continuously running time signals in the world. You can hike up to the battery, or just listen for the bang from anywhere in central Cape Town.
+- bo_kaap
+title: Signal Hill
+type: poi
 ---
 
 Signal Hill is the lower rounded hill at the western end of Lion's Head, easily reached by road and a popular spot for sunset. The view sweeps from the harbour and central city to the right, across to Robben Island offshore, and down the Atlantic seaboard past Sea Point and Camps Bay to the left.

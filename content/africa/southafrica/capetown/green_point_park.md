@@ -1,14 +1,21 @@
 ---
-title: "Green Point Urban Park"
-type: poi
 category: Park
 latitude: -33.9056
 longitude: 18.4097
+neighbourhood: Green Point
+scores:
+  activities: 0.5996
+  park: 0.7522
+  sight: 0.6376
+  sightseeing: 0.609
 snippet: Modern public park around the World Cup stadium with biodiversity garden
 tags:
 - things_to_do
 - sight
 - park
+- green_point
+title: Green Point Urban Park
+type: poi
 ---
 
 Green Point Park was laid out in 2010 around the new World Cup stadium, on land formerly occupied by a golf course. It is one of the few well-designed contemporary public parks in Cape Town, with a free-to-enter biodiversity garden of indigenous fynbos, water features, a children's playground and a network of well-used jogging paths.

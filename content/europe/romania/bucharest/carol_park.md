@@ -1,6 +1,7 @@
 ---
 address: Calea Șerban Vodă, Bucharest
 latitude: 44.4203
+loc_type: feature
 longitude: 26.0978
 snippet: 1906 park with the Mausoleum of Romanian Heroes
 tags:

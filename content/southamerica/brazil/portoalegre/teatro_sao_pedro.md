@@ -5,7 +5,7 @@ snippet: Porto Alegre's 19th-century opera house, still performing after nearly 
 tags:
 - things_to_do
 - sight
-story: The Teatro São Pedro opened in 1858 and has had a turbulent history: it was nearly demolished twice, served as a warehouse during lean periods, and was finally restored in the 1980s to something approaching its original grandeur. The restoration revealed original frescoes that had been painted over, including a ceiling that nobody had seen for generations.
+story: "The Teatro São Pedro opened in 1858 and has had a turbulent history: it was nearly demolished twice, served as a warehouse during lean periods, and was finally restored in the 1980s to something approaching its original grandeur. The restoration revealed original frescoes that had been painted over, including a ceiling that nobody had seen for generations."
 title: Teatro São Pedro
 type: poi
 ---

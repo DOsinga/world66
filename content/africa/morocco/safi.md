@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
+image: safi.jpg
+image_attribution: hansbirger on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/110608682@N04/31087469701
 latitude: 32.265078
 loc_type: city
 longitude: -9.230554

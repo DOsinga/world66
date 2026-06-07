@@ -13,7 +13,7 @@ title: Petrópolis
 type: location
 ---
 
-Petrópolis sits in the Serra da Estrela mountains about 65 kilometres north of [Rio de Janeiro](/southamerica/brazil/rio_de_janeiro), at around 800 metres above sea level. The cooler altitude made it the summer capital of Brazil from the days of Emperor Pedro II until 1962 — when the heat in Rio became unbearable, the government simply moved uphill. Today it is a city of over 300,000 people, but the imperial-era centre retains a distinct character: tree-lined avenues, canals running alongside the main streets, and a scattering of 19th-century buildings.
+Petrópolis sits in the Serra da Estrela mountains about 65 kilometres north of [Rio de Janeiro](/southamerica/brazil/riodejaneiro), at around 800 metres above sea level. The cooler altitude made it the summer capital of Brazil from the days of Emperor Pedro II until 1962 — when the heat in Rio became unbearable, the government simply moved uphill. Today it is a city of over 300,000 people, but the imperial-era centre retains a distinct character: tree-lined avenues, canals running alongside the main streets, and a scattering of 19th-century buildings.
 
 The [Museu Imperial](/southamerica/brazil/petropolis/museu_imperial), housed in Pedro II's summer palace on the Rua da Imperatriz, is the main attraction. The neoclassical building is beautifully maintained and furnished as it was during the emperor's time — you enter in felt slippers to protect the floors. The collection includes the imperial crown and sceptre. A short walk away, the [Palácio de Cristal](/southamerica/brazil/petropolis/palacio_de_cristal) — a prefabricated cast-iron and glass pavilion shipped from France in 1884 — is the most elegant building in the city.
 

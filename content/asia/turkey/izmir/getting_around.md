@@ -1,5 +1,5 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
@@ -61,18 +61,3 @@ visitor does not have stressing budget limitations it is an advisable
 means of transportation. You should of course remmeber to provide for
 that the taxi-driver turns on the "taksimetre" showing how much you
 should pay.
-
-**Contributors**
-December 06, 2006
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).

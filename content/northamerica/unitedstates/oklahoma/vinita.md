@@ -10,7 +10,7 @@ title: Vinita
 type: location
 ---
 
-Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m) in Craig County, Vinita is a small city of around 6,500 people in northeastern Oklahoma's Green Country. It was one of the first towns established in Indian Territory after the Civil War, and that layered history — Cherokee Nation, railroad, Route 66 — gives it more texture than a glance suggests.
+Located on Historic Route 66 in Craig County, Vinita is a small city of around 6,500 people in northeastern Oklahoma's Green Country. It was one of the first towns established in Indian Territory after the Civil War, and that layered history — Cherokee Nation, railroad, Route 66 — gives it more texture than a glance suggests.
 
 The historic downtown has the Hotel Vinita and a handful of antique shops and small businesses worth a browse. The [Eastern Trails Museum](/northamerica/unitedstates/oklahoma/vinita/eastern_trails_museum) covers the town's Native American and frontier history honestly and for free. [Clanton's Cafe](/northamerica/unitedstates/oklahoma/vinita/clantons_cafe) has been feeding Route 66 travelers since 1927 and remains the best meal in town — order the chicken fried steak. The [Will Rogers Monument](/northamerica/unitedstates/oklahoma/vinita/will_rogers_monument) in the town centre marks the connection to Oklahoma's most famous son, who grew up in the region.
 

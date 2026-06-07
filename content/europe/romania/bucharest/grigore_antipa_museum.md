@@ -1,6 +1,7 @@
 ---
 address: Șoseaua Kiseleff 1, Bucharest
 latitude: 44.4531
+loc_type: feature
 longitude: 26.0846
 snippet: Excellent natural history museum with the mounted skeleton of Deinotherium
 tags:

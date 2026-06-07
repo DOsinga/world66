@@ -1,6 +1,7 @@
 ---
 address: Temuka Domain, Temuka
 latitude: -44.2480
+loc_type: feature
 longitude: 171.2831
 snippet: Picturesque cricket and recreation ground
 tags:

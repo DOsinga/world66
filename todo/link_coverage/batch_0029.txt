@@ -1,0 +1,5 @@
+asia/pakistan/azad_kashmir/rawalacoat/khaigala
+asia/pakistan/hunzavalley/gojal_valley/khyber
+asia/pakistan/hunzavalley/gojal_valley/moorkhoun
+asia/pakistan/jhelum/jhelum_railway_station
+asia/philippines/negrosisland/dumaguete

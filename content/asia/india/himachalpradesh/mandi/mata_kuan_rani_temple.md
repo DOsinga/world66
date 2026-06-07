@@ -3,7 +3,7 @@ title: "Mata Kuan Rani Temple"
 type: poi
 latitude: 31.7200
 longitude: 76.9200
-snippet: 'Princess of the Well' temple by the riverbank
+snippet: "'Princess of the Well' temple by the riverbank"
 tags: [things_to_do, sight, temple]
 ---
 

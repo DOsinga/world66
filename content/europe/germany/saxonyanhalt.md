@@ -18,7 +18,7 @@ Eisleben, the city where Martin Luther was born and died,
 
 ## Destinations in Saxony-Anhalt
 
-[Halle](/world/europe/germany/saxonyanhalt/halle)
-[Magdeburg](/world/europe/germany/saxonyanhalt/magdeburg)
-[Dessau](/world/europe/germany/saxonyanhalt/dessau)
-[Wernigerode](/world/europe/germany/saxonyanhalt/wernigerode)
+Halle
+Magdeburg
+Dessau
+Wernigerode

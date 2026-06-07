@@ -17,4 +17,4 @@ The park also has a 1871 lighthouse, three former Coast Guard stations, and an e
 
 ## Destinations in Sleeping Bear
 
-[Empire](/northamerica/unitedstates/michigan/sleepingbear/etown)
+Empire

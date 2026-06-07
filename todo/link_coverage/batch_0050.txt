@@ -1,0 +1,5 @@
+europe/germany/bavaria/burghausen
+europe/germany/thuringia/ilmenau
+europe/germany/thuringia/sonneberg
+europe/greece/crete/heraklion
+europe/greece/crete/malia

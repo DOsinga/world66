@@ -55,7 +55,7 @@ In ancient times the importance of
 this strategic corridor was immense. It was of crucial importance to the
 Crusaders and other foreign invaders in their conquest of the coast. Conflict
 over the Crac des Chevaliers continued through the ages. It was a fierce and
-bloody dispute, but [more..](/asia/syria/homs/sights/carc_des_chevalier)
+bloody dispute, but the castle has survived remarkably well — its concentric walls, vaulted halls and chapel make it one of the finest surviving Crusader fortresses in the world.
 
 type: Castles
 

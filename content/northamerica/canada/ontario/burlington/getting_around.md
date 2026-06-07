@@ -13,7 +13,7 @@ GO Transit also operates regional services throughout the area.
 **Contributors**
 December 21, 2005
 
-### [Burlington Transit](/northamerica/canada/ontario/burlington/getting_around/burlington_transit)
+### Burlington Transit
 
 14 local routes operate through the day, serving Burlington.
 

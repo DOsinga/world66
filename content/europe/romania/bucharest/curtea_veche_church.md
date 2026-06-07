@@ -1,6 +1,7 @@
 ---
 address: Strada Franceză 33, Bucharest
 latitude: 44.4302
+loc_type: feature
 longitude: 26.1009
 snippet: Oldest church in Bucharest, dating from 1559
 tags:

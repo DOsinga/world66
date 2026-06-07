@@ -3,7 +3,6 @@ title: Setor Marista
 type: poi
 tags:
   - bars_and_cafes
-  - nightlife
 latitude: -16.7032
 longitude: -49.2760
 ---

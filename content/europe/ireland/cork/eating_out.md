@@ -7,7 +7,7 @@ type: section
 
 **Sean na Mbads**
 
-Intimate rustic pub at the end of a winding country road, a mere 30 mins drive from the city centre. Marvellous pub food (with extensive menu) plus a restaurant with the most superb home made fare. Great pub and wonderfully reasonable grub. Say hello to Ben, the resident black labrador. Take [more..](/europe/ireland/cork/eatingout/seannambads)
+Intimate rustic pub at the end of a winding country road, a mere 30 mins drive from the city centre. Marvellous pub food (with extensive menu) plus a restaurant with the most superb home made fare. Great pub and wonderfully reasonable grub. Say hello to Ben, the resident black labrador. Take the coast road back into Cork after dinner — it's a lovely drive.
 
 address: Ringabella, Co, Cork
 
@@ -45,7 +45,8 @@ tel: (021) 4275395
 
 **Bombay Palace **
 
-Good Indian restaurant  
+Good Indian restaurant 
+ 
 
 address: 14/15 Cook st Cork
 
@@ -61,7 +62,8 @@ tel: (021) 4271871
 
 **Fellini Restaurant **
 
-Reasonable good Italian place. 
+Reasonable good Italian place.
+ 
 
 address: 4 Careys la Cork
 
@@ -69,7 +71,9 @@ tel: (021) 4276083
 
 **The Ivory Tower**
 
-World Class Cuisine: Imaginative international menus served in a relaxed atmosphere. Optimal quality. Anyone who likes food and finds themselves in Cork MUST try the Ivory Tower.  
+World Class Cuisine: Imaginative international menus served in a relaxed atmosphere. Optimal quality. Anyone who likes food and finds themselves in Cork MUST try the Ivory Tower.
+ 
+ 
 
 address: Exchange Buildings, Princes St. Cork
 

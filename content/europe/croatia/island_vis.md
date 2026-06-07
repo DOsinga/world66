@@ -10,7 +10,7 @@ title: Island Vis
 type: location
 ---
 
-Vis is the most remote of [Croatia's](/europe/croatia) major Adriatic islands, lying about two hours by ferry from [Split](/europe/croatia/split). For decades it was a Yugoslav military base, closed to foreigners until 1989, and that enforced isolation is precisely what makes it special today. While closer islands like [Hvar](/europe/croatia/hvarska) and [Brac](/europe/croatia/brac) have been heavily developed for tourism, Vis retains a quiet, unhurried character that feels like the Dalmatian coast of thirty years ago.
+Vis is the most remote of [Croatia's](/europe/croatia) major Adriatic islands, lying about two hours by ferry from [Split](/europe/croatia/split). For decades it was a Yugoslav military base, closed to foreigners until 1989, and that enforced isolation is precisely what makes it special today. While closer islands like [Hvar](/europe/croatia/hvar) and [Brac](/europe/croatia/brac) have been heavily developed for tourism, Vis retains a quiet, unhurried character that feels like the Dalmatian coast of thirty years ago.
 
 The island has two main towns. [Vis town](/europe/croatia/island_vis/vis_town) on the eastern side has a long waterfront promenade, the remains of the Greek-Roman [Issa archaeological site](/europe/croatia/island_vis/issa_archaeological), and several excellent seafood restaurants along the harbour. [Komiža](/europe/croatia/island_vis/komiza) on the western coast is a traditional fishing village built around a deep bay, and the starting point for boat trips to the [Blue Cave](/europe/croatia/island_vis/blue_cave) on the nearby island of Biševo — a sea cave where sunlight enters through an underwater opening and turns the water an electric, luminous blue.
 

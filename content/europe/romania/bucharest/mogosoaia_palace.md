@@ -1,6 +1,7 @@
 ---
 address: Strada Valea Parcului 1, Mogoșoaia
 latitude: 44.4868
+loc_type: feature
 longitude: 25.9750
 snippet: Brâncovenesc-style palace and gardens 15 km outside Bucharest
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Northern Mariana Islands
 type: location
-loc_type: region
+loc_type: country
 latitude: 15.18
 longitude: 145.75
 ---

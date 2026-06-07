@@ -7,7 +7,7 @@ title: Eating Out
 type: poi
 ---
 
-### [Café-Restaurant Bonifas](/europe/luxembourg/nospelt/eatingout/cafrestaurant_b)
+### Café-Restaurant Bonifas
 
 Very good restaurant with a mixture of french and local cuisine.
 

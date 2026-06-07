@@ -15,7 +15,7 @@ Enjoying a delighful home made meal, prepared by our first class chefs in a genu
 
 **Svinøya Rorbuer** in Svolvær offers visitors a unique dining experience... 
 
-Our old quayside warehouse from 1828 has been turned into an exquisite restaurant: **"Børsen Spiseri"**. The old trading atmosphere that once prevailed in these premises has been maintai [more..](/europe/norway/lofotenislands/eating_out/brsen_spiseri)
+Our old quayside warehouse from 1828 has been turned into an exquisite restaurant: **"Børsen Spiseri"**. The old trading atmosphere that once prevailed in these premises has been maintained through careful restoration of the timber walls and floors, and the menu leans heavily on fresh local fish — cod, halibut and stockfish in particular — prepared in a traditional Lofoten style.
 
 bookingurl: [www.svinoya.no/borsen.htm](http://www.svinoya.no/borsen.htm)
 

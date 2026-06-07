@@ -1,6 +1,7 @@
 ---
 address: Chufut-Kale, Bakhchysarai
 latitude: 44.7411
+loc_type: feature
 longitude: 33.9244
 snippet: Cliff-top medieval cave city of the Karaim Jews
 tags:

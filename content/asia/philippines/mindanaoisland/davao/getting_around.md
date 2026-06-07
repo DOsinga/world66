@@ -1,18 +1,6 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Juna avenue, Matina [A view from South Hills Subdivision](/asia/philippines/cebu/a_view_from_south)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Getting around Davao is straightforward and cheap. Jeepneys cover most of the city on fixed routes — flag one down, hop on, pass your fare up to the driver. Taxis are metered, plentiful, and reliable; for short hops the fare is rarely more than a few hundred pesos. Tricycles and motorcycle "habal-habal" handle the last mile in residential neighbourhoods and on the outskirts. For trips to Samal Island or the suburbs along the coast, hire a van or rent a car at the airport.

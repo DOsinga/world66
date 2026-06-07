@@ -7,11 +7,7 @@ tags:
   - sight
 latitude: 23.1430
 longitude: 79.7940
-story: "Dhuandhar" means "smoke cascade" in Hindi — a reference to the mist and spray
-  that hang perpetually above the falls. The Narmada River, sacred to Hindus, makes
-  a dramatic entrance here into the Marble Rocks gorge. The name encapsulates the
-  sensory experience: the roar of the falls is audible before the waterfall is visible,
-  and the spray-cloud catches the light at sunrise and sunset.
+story: "\"Dhuandhar\" means \"smoke cascade\" in Hindi — a reference to the mist and spray that hang perpetually above the falls. The Narmada River, sacred to Hindus, makes a dramatic entrance here into the Marble Rocks gorge. The name encapsulates the sensory experience: the roar of the falls is audible before the waterfall is visible, and the spray-cloud catches the light at sunrise and sunset."
 ---
 
 Dhuandhar Falls sits at the entry to the Bhedaghat gorge, where the Narmada drops about 10 metres over a rocky ledge in a wide curtain of white water. The falls are best seen from the cliffs on either bank, where viewpoints give a full perspective on the width and power of the drop. A ropeway crosses just above the falls and gives an aerial view directly over the cascade.

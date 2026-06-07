@@ -17,4 +17,4 @@ More an afternoon trip than a full day out, the riverside beach at Buena Esperan
 
 ### Jaén – Bagua Chica – Santa Rosa – Puentosillos – Jaén
 
-From Jaén you can visit all these places in a day if you move at a decent pace. Take a minibus to Bagua Chica (5–10 soles) — not to be confused with Bagua Grande. From Bagua Chica, continue to [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa) and on to [Puentosillos](/southamerica/peru/northern_pacific_t/jan/santa_rosa/puentosillos). Ask locally about horses if you want to reach the cave system near Puentosillos.
+From Jaén you can visit all these places in a day if you move at a decent pace. Take a minibus to Bagua Chica (5–10 soles) — not to be confused with Bagua Grande. From Bagua Chica, continue to [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa) and on to [Puentosillos](/southamerica/peru/northern_pacific_t/jan/santa_rosa/walk_to_puentosillos). Ask locally about horses if you want to reach the cave system near Puentosillos.

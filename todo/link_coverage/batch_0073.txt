@@ -1,0 +1,5 @@
+northamerica/dominica
+northamerica/elsalvador/apaneca
+northamerica/elsalvador/cerroverdenationalpark
+northamerica/elsalvador/costadelsol
+northamerica/elsalvador/elimposiblenationalpark

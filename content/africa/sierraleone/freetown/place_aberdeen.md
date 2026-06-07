@@ -5,7 +5,6 @@ snippet: "Long-running Aberdeen bar and venue, music most nights"
 tags:
   - bars_and_cafes
   - bar
-  - nightlife
   - aberdeen
 neighbourhood: Aberdeen
 latitude: 8.4862

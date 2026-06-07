@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-29'
+  lp_coverage: '2026-06-05'
 image: oxford.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Museum_of_Oxford_(5652685943).jpg

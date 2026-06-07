@@ -13,7 +13,7 @@ title: St. Johann in Tirol
 type: location
 ---
 
-St. Johann in Tirol is a market town in the Kitzbühel Alps, about ten kilometres east of its more famous neighbour [Kitzbühel](/europe/austria/kitzbuhel). It serves as the commercial centre of the district and offers a more affordable, less glamorous alternative for skiing and hiking in the same mountains.
+St. Johann in Tirol is a market town in the Kitzbühel Alps, about ten kilometres east of its more famous neighbour [Kitzbühel](/europe/austria/kitzbuehel). It serves as the commercial centre of the district and offers a more affordable, less glamorous alternative for skiing and hiking in the same mountains.
 
 In winter, the town's own [ski area](/europe/austria/st_johann_in_tirol/ski_area) is modest but well-suited to families and intermediate skiers, with easy access to the larger Kitzbühel and SkiWelt networks — collectively the biggest interconnected ski area in Austria at 279 kilometres. In summer, the surrounding valleys are excellent for hiking and cycling, with well-marked trails through alpine meadows and up to mountain huts. The [Kitzbüheler Horn](/europe/austria/st_johann_in_tirol/kitzbuheler_horn), accessible by cable car, gives panoramic views over the Wilder Kaiser range, and in June is carpeted with wildflowers.
 

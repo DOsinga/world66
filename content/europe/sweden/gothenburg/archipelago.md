@@ -2,7 +2,7 @@
 latitude: 57.638056
 longitude: 11.813056
 snippet: Car-free archipelago of rocky islands accessible by ferry from Gothenburg
-story: The southern Gothenburg archipelago islands — Styrsö, Donsö, Brännö, and Vrångö — are all car-free, which creates an unusual experience: Swedish island communities in the 21st century where all transport is by boat, bicycle, or foot. The ferry from Saltholmen takes 25 to 40 minutes depending on the island. Brännö has a traditional midsummer dance that has been running every Friday evening in summer for over a century, in a dance pavilion that dates to the 1880s.
+story: "The southern Gothenburg archipelago islands — Styrsö, Donsö, Brännö, and Vrångö — are all car-free, which creates an unusual experience: Swedish island communities in the 21st century where all transport is by boat, bicycle, or foot. The ferry from Saltholmen takes 25 to 40 minutes depending on the island. Brännö has a traditional midsummer dance that has been running every Friday evening in summer for over a century, in a dance pavilion that dates to the 1880s."
 tags:
 - things_to_do
 - beach

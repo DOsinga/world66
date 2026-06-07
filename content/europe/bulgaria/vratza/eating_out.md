@@ -17,7 +17,7 @@ If you prefer **Fast Food**, try the **"CITY Grill House"**, **McBrothers**, and
 **Contributors**
 June 20, 2006
 
-### ["Chaika"](/europe/bulgaria/vratza/eating_out/chaika)
+### "Chaika"
 
 Restaurant with 105 sitting places, a summer garden with 250 sheltered places. The restaurant offers a wide variety of dishes from the modern world kitchen, as well as specialties from the Old Bulgarian kitchen.Family parties and business meetings can be organized.
 
@@ -33,7 +33,7 @@ address: Vratzata defile
 
 email: chaika_hotel@abv.bg
 
-### [Hemus](/europe/bulgaria/vratza/eating_out/hemus)
+### Hemus
 
 One of the good restaurants in Vratza city
 

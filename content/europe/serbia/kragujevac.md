@@ -11,7 +11,7 @@ url: www.balkanika.rs
 
 Nightlife, entrainment, bars, pubs...
 
-### [BALKANIKA rakija bar](/europe/serbia/kragujevac/nightlife_and_ente/balkanika_rakija_b)
+### BALKANIKA rakija bar
 
 Unique rakija bar in town...
 

@@ -4,7 +4,7 @@ type: poi
 latitude: 44.490560
 longitude: 11.343580
 snippet: Burial church of Saint Dominic, with a tomb sculpted by Michelangelo and others
-story: The Arca di San Domenico has contributions from three different generations of master sculptors: Nicola Pisano carved the main reliefs in the 1260s, Niccolò dell'Arca added the canopy in the 1470s, and a young Michelangelo finished an angel and two saints for it in 1494, in his earliest known major commission.
+story: "The Arca di San Domenico has contributions from three different generations of master sculptors: Nicola Pisano carved the main reliefs in the 1260s, Niccolò dell'Arca added the canopy in the 1470s, and a young Michelangelo finished an angel and two saints for it in 1494, in his earliest known major commission."
 tags:
 - things_to_do
 - sight

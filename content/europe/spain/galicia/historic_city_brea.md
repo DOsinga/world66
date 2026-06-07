@@ -6,7 +6,7 @@ longitude: -8.5457
 snippet: Santiago makes an excellent base for Galicia day trips
 tags:
 - things_to_do
-- tours_and_excursio
+- tours_and_excursions
 title: Day Trips from Santiago de Compostela
 type: poi
 ---

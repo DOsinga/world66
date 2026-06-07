@@ -1,0 +1,5 @@
+asia/indonesia/aceh/banda_aceh
+asia/indonesia/bali/amed
+asia/indonesia/bali/nusalembongan
+asia/indonesia/banten/anak_krakatau
+asia/indonesia/flores/labuan_bajo

@@ -5,7 +5,7 @@ type: poi
 
 The Mulberry countryside is famous for the fried chicken houses. Namely Gebhardt's Chicken, Chicken Annie's, and Chicken Mary's.
 
-### [Gebhardt's Chicken](/northamerica/unitedstates/kansas/mulberry_kansas/eating_out/gebhardts_chicken)
+### Gebhardt's Chicken
 
 This is famous for its fried chicken.
 

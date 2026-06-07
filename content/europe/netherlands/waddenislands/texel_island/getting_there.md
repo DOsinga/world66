@@ -46,5 +46,4 @@ up to 250 or 550 cm in length including passengers: € 12,20 or 24,50 - 17,50 o
 Check for more details and most recent rates: http://www.teso.nl/en_index3.htm
 
 **Itenary form**
-For individualized information, Teso ferry company offers a handy *Itenary *form. Please check the website below to get your personalized print-out.
-[more..](/europe/netherlands/waddenislands/texel_island/getting_there/ferry_den_helder_h)
+For individualized information, Teso ferry company offers a handy *Itinerary* form. Please check the website below to get your personalized print-out.

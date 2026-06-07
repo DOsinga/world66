@@ -8,7 +8,7 @@ snippet: Classic three-week trek up the Baltoro glacier to the foot of K2
 tags:
 - things_to_do
 - outdoor
-story: The trek to K2 Base Camp follows the Baltoro Glacier — one of the longest glaciers outside the polar regions — through Concordia, a meeting point of glaciers ringed by four of the world's fourteen 8,000-metre peaks: K2, Broad Peak, Gasherbrum I and Gasherbrum II. There is no comparable concentration of giant mountains anywhere else on the planet.
+story: "The trek to K2 Base Camp follows the Baltoro Glacier — one of the longest glaciers outside the polar regions — through Concordia, a meeting point of glaciers ringed by four of the world's fourteen 8,000-metre peaks: K2, Broad Peak, Gasherbrum I and Gasherbrum II. There is no comparable concentration of giant mountains anywhere else on the planet."
 ---
 
 The trek to K2 Base Camp begins at the village of Askole, three hours' jeep ride beyond Shigar from Skardu, and follows the Baltoro Glacier for roughly two weeks of walking. The Concordia camp at the heart of the route gives 360-degree views of more eight-thousanders than any other point on earth.

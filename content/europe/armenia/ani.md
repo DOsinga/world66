@@ -9,7 +9,7 @@ score: 0.52
 loc_type: feature
 ---
 
-**Note:** Ani is located in Turkey (Kars province), just across the Akhurian River from the Armenian border. It is not accessible from the Armenian side, as the Turkish-Armenian border remains closed. Visitors must reach it from [Kars](/asia/turkey/kars) in eastern Turkey.
+**Note:** Ani is located in Turkey (Kars province), just across the Akhurian River from the Armenian border. It is not accessible from the Armenian side, as the Turkish-Armenian border remains closed. Visitors must reach it from [Kars](/asia/turkey/kars__ani) in eastern Turkey.
 
 Ani was the medieval capital of the Bagratid Armenian kingdom from 961 to 1045 AD, a city of perhaps 100,000–200,000 people that rivalled Constantinople in its day. It was known as "the city of a thousand and one churches." Today it is a UNESCO World Heritage Site and one of the most extraordinary ruined cities in the world — vast, haunting, and largely unrestored.
 

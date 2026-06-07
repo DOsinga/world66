@@ -12,6 +12,6 @@ It was the beaches that spearheaded the development of holidaymaking in Baška, 
 Today, the purpose of the beach is just the same as it was a century ago, but now with features that ensure each visitor a safe and carefree stay.
 A Beach Bylaw laid down by the Baška Municipality sets out the way in which the beaches should be used and order maintained on them:
 
-### [Vela Luka](/europe/croatia/baka/beaches/vela_luka)
+### Vela Luka
 
 A beach, farther away from Baska, is accessible by boat or by an hour hike or so (bring lots of water!). On the opposite side of it, there is Mala Luka. Both have crystal clear blue waters, hills on either side, and on Vela Luka, there is a small restaurant. This is a great place to relax and get away from most of the crowds. If you do decide to hike, be prepared with (again) water, sunscreen, some food, a map, etc. so you do not get lost!

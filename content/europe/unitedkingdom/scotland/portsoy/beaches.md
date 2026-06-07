@@ -8,7 +8,7 @@ Nice beach at Portsoy beside the caravan site, however a much more spectacular b
 **Contributors**
 January 30, 2006
 
-### [Sandend Beach](/europe/unitedkingdom/scotland/portsoy/beaches/sandend_beach)
+### Sandend Beach
 
 A magnificent stretch of beach, popular with the locals unknown to most of the tourists.
 

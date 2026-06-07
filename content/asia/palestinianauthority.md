@@ -1,7 +1,7 @@
 ---
 title: Palestinian Authority
 type: location
-loc_type: region
+loc_type: country
 latitude: 31.9
 longitude: 35.2
 ---

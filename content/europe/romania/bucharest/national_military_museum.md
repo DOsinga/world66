@@ -1,6 +1,7 @@
 ---
 address: Strada Mircea Vulcănescu 125-127, Bucharest
 latitude: 44.4496
+loc_type: feature
 longitude: 26.0578
 snippet: National Military Museum, with weapons, uniforms, and an aircraft hangar
 tags:

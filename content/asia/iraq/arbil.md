@@ -19,5 +19,5 @@ Erbil functions as the main base for travellers visiting the Kurdistan Region. I
 
 ## Destinations in Arbil
 
-- [Al Sulaymaniah](/asia/iraq/arbil/al_sulaymaniah) — the region's second city, with a different political tradition and a strong cultural scene
+- [Sulaymaniyah](/asia/iraq/sulaymaniyah) — the region's second city, with a different political tradition and a strong cultural scene
 - [Duhok](/asia/iraq/duhok) — northern Kurdistan, near the Turkish border, mountain scenery

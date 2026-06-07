@@ -1,13 +1,13 @@
 ---
+title: "Uganda Wildlife Education Centre"
+type: poi
 latitude: 0.051778
 longitude: 32.477527
 tags:
-- things_to_do
-- landmark
-title: Zoo
-type: poi
+  - things_to_do
+  - sight
 ---
 
-The Entebbe Zoo run by a chimp-loving British zoologist has become a ramshackle orphanage for animals rescued after being illegally taken from the wild.
+Better known to most visitors as Entebbe Zoo, the Uganda Wildlife Education Centre sits on the shore of Lake Victoria and functions as much as a rescue facility as a zoo. Many of its animals were confiscated from the illegal wildlife trade or rehabilitated after being orphaned.
 
-The zoo is making diligent efforts to improve their quality and variety of wildlife. It's possible to watch feeding of lions and crocodiles, and the zoo has also added two rhinos to their collection of other animals. It has several bird observatories and a large collection of African grey parrots, a particulary popular bird to be captured illegally because of it's ability to mimick almost any sound.
+You can see lions, rhinos, chimpanzees, shoebills and a noisy collection of African grey parrots, with scheduled feedings through the day. The grounds are leafy and walkable, and it is an easy stop on the way to or from the airport.

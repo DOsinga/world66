@@ -1,34 +1,13 @@
 ---
-accessibility: easy, frontage
-address: 159 Bui Vien St Hochiminh City
-phone: 0908443968
-tags:
-- bars_and_cafes
-- bar
-title: Alan Hartcourt
+title: "River Bar"
 type: poi
+address: "159 Bui Vien Street, District 1"
+tags:
+  - bars_and_cafes
+  - bar
+  - pham_ngu_lao
 ---
 
-RIVER BAR
+A small bar on Bui Vien, the spine of Saigon's backpacker district in Pham Ngu Lao. The street is at its loudest after about 9pm, when plastic stools spill across the pavement and the bars compete on volume; River Bar has traded on a simpler, more relaxed feel than its neighbours.
 
-159 Bui Vien Street Dist 1
-
-Hochiminh City
-
-The bar is located right in the backpacker area of Saigon. The
-nightlife here is crowded and bustling, especially after 9pm. River
-Bar's owner is Ms. Truc Giang, a charming hostess. Together with Giang,
-you can see many beautiful Vietnamese girls hang around. It is becoming
-a famous pick-up place in Saigon. I like the simple atmosphere and the
-easy decor. A good place to relax after a hard long day (doing whatever
-in Vietnam).
-
-
-
-
-
-accessibility: easy, frontage
-
-tel: 0908443968
-
-address: 159 Bui Vien St Hochiminh City
+If it is still open, it is the kind of place to sit out front with a cold beer and watch the street go by rather than a destination in itself. Bui Vien changes fast, so check before making the trip.

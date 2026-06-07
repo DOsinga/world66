@@ -4,9 +4,8 @@ longitude: -115.5742
 tags:
 - bars_and_cafes
 - bar
-- park
 title: Banff Park Lodge Terrace Lounge
 type: poi
 ---
 
-Relaxed hotel lounge at 222 Lynx Street with a pianist performing Monday through Saturday. A quieter option for a drink away from the Banff Avenue bustle.
+A relaxed hotel lounge on Lynx Street, a block off the main Banff Avenue strip. Wood-panelled, fireplace-warm, and on most evenings there is a pianist playing in the corner. A quiet place for a drink after a day in the mountains.

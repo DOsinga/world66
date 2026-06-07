@@ -1,29 +1,11 @@
 ---
-accessibility: PH - BORI- ANDONI SLAND
-address: Ekede/Ikuru/Ilotombi
-email: gogoabelujile@gmail.com
-phone: 08038355499
-tags:
-- things_to_do
-title: Andoni Elephants Reserve
+title: "Andoni Elephants Reserve"
 type: poi
-url: visitandoni.com
+tags:
+  - things_to_do
+  - sight
 ---
 
-The popular Andoni Elephants Reserve located among the Niger Delta barrier islands in southeastern part of Port Harcourt is acclaimed as Nigeria's most fascinating island best kept secret for the last remaining elephants population.
-The beach is the longest in the state measuring about 20miles suitable for ecotourism activties.
-WELCOME TO OBOLO NATION!
+A reserve among the Niger Delta barrier islands southeast of Port Harcourt, in the Obolo (Andoni) area. It protects one of the last remaining populations of forest elephants in the region and stretches along roughly 20 miles of beach — a long, empty shoreline that lends itself to low-key ecotourism rather than polished safari.
 
-type: Trekking
-
-
-
-accessibility: PH - BORI- ANDONI SLAND
-
-tel: 08038355499
-
-url: [visitandoni.com](http://visitandoni.com)
-
-address: Ekede/Ikuru/Ilotombi
-
-email: gogoabelujile@gmail.com
+Getting there is part of the experience: it is a journey through creeks and island communities, not a quick drive. Conditions are basic, but for travellers already in Rivers State who want to see a side of the Delta most visitors miss, it is the obvious trip.

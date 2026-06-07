@@ -1,11 +1,11 @@
 ---
-address: Wynn Las Vegas
 latitude: 36.126622
 longitude: -115.165404
 tags:
 - things_to_do
-title: Le Reve - Aquatic Spectacular
+- sight
+title: Le Reve - The Dream
 type: poi
 ---
 
-Featuring aerial acrobatics, provocative choreography, and artistic athleticism, Le Reve ('the dream') immerses the audience into a world of fantasy through magnificent live music and elaborate special effects. A cast of 85 performs outrageous antics and daring feats of agility in, on, and above water.
+The resident water-stage spectacle at the Wynn, performed in a theatre-in-the-round built around a million-gallon pool. A cast of around eighty dives, swims and flies above the water through a sequence of dreamlike vignettes set to live music. Vegas has plenty of aquatic shows; Le Reve is one of the better ones, partly because every seat is close to the action.

@@ -1,11 +1,11 @@
 ---
-title: "DesBarres Manor Inn"
+title: DesBarres Manor Inn
 type: poi
-address: "90 Church Street, Guysborough"
-phone: "(902) 533-2099"
-url: "https://www.desbarresmanor.com"
+tags:
+- eating_out
+- restaurant
 latitude: 45.3942
 longitude: -61.4972
 ---
 
-Contemporary Canadian cuisine with an East Coast flair, served in an intimate dining room inside an 1837 heritage inn. The original hearth provides fireside dining in cooler months; in summer, french doors open to a grand deck overlooking six acres of landscaped grounds. Extensive wine list.
+Contemporary Canadian cooking with an East Coast accent, served inside an 1837 heritage inn on Church Street in Guysborough. The dining room keeps an open hearth for cooler months; in summer the french doors open onto a deck looking out over the grounds. The wine list is unusually deep for a village this size.

@@ -1,9 +1,11 @@
 ---
-title: "Bear Foot Bistro ."
+latitude: 50.1146
+longitude: -122.9540
+tags:
+- eating_out
+- restaurant
+title: Bearfoot Bistro
 type: poi
-type: "general"
 ---
 
-Artists in residence creating while you dine. Sensational fusion cuisine. Award winning wine list. Secluded cigar room offering the largest selection of Cuban cigars in BC, or order cigars online. Located in the heart of Whistler Village adjoining the Listel Whistler Hotel. Reservations recommended.  Tel: 1 (604) 932-2289
-
-type: general
+One of Whistler Village's signature dining rooms, attached to the Listel Hotel. Bearfoot leans theatrical — champagne sabring at the door, a vodka-tasting ice room kept at minus thirty, and one of the largest wine cellars in British Columbia. The food is contemporary Canadian with French technique, heavy on game and local seafood. Reserve ahead, especially in ski season.

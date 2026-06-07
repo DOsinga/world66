@@ -1,20 +1,12 @@
 ---
-address: 102 Suong Nguyet Anh, Ben Thanh Ward, District 1, Ho Chi Minh City
-phone: (+84 8) 39 252 599
+title: VIBE Billiards & Lounge
+type: poi
 tags:
 - bars_and_cafes
 - bar
-- neighbourhood
-title: VIBE Billiards & Lounge
-type: poi
+- district_1
+address: 102 Suong Nguyet Anh, Ben Thanh Ward, District 1
+neighbourhood: District 1
 ---
 
-VIBE - Saigon's most premium billiards lounge in town has a unique combination of high-class professional billiards & spacious lounge.
-
-At VIBE, guests can choose not only tasty foods and drinks but also customize the billiard table lights from the special lighting system which is exclusively designed for VIBE.
-
-
-
-tel: (+84 8) 39 252 599
-
-address: 102 Suong Nguyet Anh, Ben Thanh Ward, District 1, Ho Chi Minh City
+A billiards lounge in District 1 pitched somewhere between a sports bar and a late-night hangout, with professional tables, theatrical table lighting and a full kitchen and bar. The crowd skews young and local, and weekends get busy. Worth confirming it is still trading under this name before you head over.

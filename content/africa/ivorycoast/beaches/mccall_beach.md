@@ -1,6 +1,11 @@
 ---
-title: "Bassam beach, Abidjan"
+title: "Bassam Beach"
 type: poi
+tags:
+  - beaches
+  - sight
 ---
 
-Bassam is about 45 minutes away from Abidjan city, so it's possible to do a day trip from the city. The beach is nice there and full of hawkers selling souvenir. It is a nice place to spend an afternoon.
+Grand-Bassam is about 45 minutes from Abidjan, which makes its beach an easy day trip from the city. The sand is wide and the surf strong, and the old colonial quarter just inland is a UNESCO World Heritage site worth a wander while you are there.
+
+Expect hawkers selling carvings, beads and snacks along the shore. A relaxed afternoon stop more than a swimming destination — the currents can be rough.

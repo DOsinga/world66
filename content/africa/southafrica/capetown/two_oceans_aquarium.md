@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - sight
 - victoria__alfred
+- waterfront
 title: Two Oceans Aquarium
 type: poi
 ---

@@ -1,7 +1,8 @@
 ---
 image: va_waterfront.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Cape_Town_V%26A_Waterfront_02.jpg
+image_attribution: Dietmar Rabich
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Waterfront,_Hafen,_Schiffe_--_2024_--_2878.jpg
 latitude: -33.9042
 longitude: 18.4213
 scores:
@@ -13,6 +14,7 @@ snippet: Cape Town's working harbour redeveloped into a waterfront precinct of m
 tags:
 - things_to_do
 - neighbourhood
+- waterfront
 title: Victoria & Alfred Waterfront
 type: neighbourhood
 ---

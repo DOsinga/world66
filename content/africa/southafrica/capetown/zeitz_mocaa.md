@@ -18,6 +18,7 @@ tags:
 - museum
 - art
 - victoria__alfred
+- waterfront
 title: Zeitz MOCAA
 type: poi
 ---

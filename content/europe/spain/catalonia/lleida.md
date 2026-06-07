@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: lleida.jpg
 image_attribution: Jorge Franganillo from Barcelona, Spain
 image_license: CC BY 2.0

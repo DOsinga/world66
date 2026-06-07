@@ -3,10 +3,8 @@ title: Getting Around
 type: section
 ---
 
-Kamakura's central area and the western temples (Great Buddha, Hase-dera) are most efficiently covered using the Enoden — the small single-track tram that runs along the coast from Kamakura Station to Fujisawa, stopping at Hase and other points in the western valley. A 1-day Enoden pass is good value if you plan to use it more than twice.
+The Enoden (Enoshima Electric Railway) is Kamakura's charming coastal tramway, running from Kamakura Station to Fujisawa with stops at Hase (for the Great Buddha and Hase-dera), Yuigahama (for the beach), and Inamuragasaki. A single ride costs around 250 yen; a day pass covering unlimited rides is good value if you plan to use it multiple times.
 
-City buses fill in the gaps, running to the eastern temples (Hōkoku-ji, Zuisen-ji) and the hillside areas not served by rail. Taxi is easy and inexpensive by Japanese standards.
+Buses from the east side of Kamakura Station serve the Kencho-ji and Tsurugaoka Hachimangu area. Taxis are available but the streets around the main sights can be clogged on weekends.
 
-The best way to move between the northern temple cluster (Kita-Kamakura) and the central city is on foot — it takes about 25 minutes on the main road, or longer on the hillside trails. Walking is the only way to see the Zeniarai Benzaiten shrine.
-
-Cycling is a popular option for the flatter parts of town; bike rental is available near Kamakura Station.
+Walking is the best way to get between the northern temples and the centre. Kita-Kamakura to Tsurugaoka Hachimangu takes about 30 minutes on foot through the valley. The Daibutsu Hiking Trail connects the Great Buddha area with Kita-Kamakura via forested ridgelines — plan two to three hours and wear shoes you can walk in.

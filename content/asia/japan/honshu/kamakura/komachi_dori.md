@@ -1,15 +1,13 @@
 ---
-latitude: 35.3217
-longitude: 139.5524
+title: Komachi-dori
+type: poi
 tags:
   - things_to_do
   - neighbourhood
-title: Komachi-dōri
-type: poi
+latitude: 35.3186
+longitude: 139.5522
 ---
 
-Komachi-dōri is the main shopping street that runs north from Kamakura Station toward Tsurugaoka Hachimangū, lined with souvenir shops, snack stalls, and small restaurants in a mix of traditional and contemporary storefronts. This is where most visitors eat and shop, and it is reliably lively even on weekday afternoons.
+The main shopping street of Kamakura, running north from the station to the first torii gate of Tsurugaoka Hachimangu. On a busy day the narrow pedestrian lane is so packed it barely moves, lined with shops selling ningyo-yaki (Buddha-shaped pancakes filled with red bean paste), rice crackers, ceramics, antiques, local craft beer, and every form of Daibutsu souvenir imaginable.
 
-The street specialises in Kamakura's traditional crafts and sweets: lacquerware, wooden carvings, and particularly the local sweet varieties — kibi mochi (rice cake), dove-shaped biscuits (hato sabure), and matcha-flavoured everything. There are also good spots for warm street food: grilled skewers, taiyaki (fish-shaped cake filled with red bean paste), freshly made warabi mochi.
-
-Komachi-dōri is busier and more tourist-oriented than the parallel back streets, which are quieter and have some worthwhile small restaurants and cafes.
+It is cheerfully commercial, but not entirely devoid of character — a few older specialty shops persist between the tourist tat, and the street is genuinely lively. Worth walking end-to-end at least once. The parallel street to the east, Wakamiya-oji, is wider, quieter, and tree-lined.

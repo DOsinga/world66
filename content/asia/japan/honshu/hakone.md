@@ -1,23 +1,23 @@
 ---
-done:
-  location_create: '2026-06-04'
-latitude: 35.237
-loc_type: city
-longitude: 139.0493
-sources:
-- https://en.wikipedia.org/wiki/Hakone,_Kanagawa
 title: Hakone
 type: location
+loc_type: city
+latitude: 35.2
+longitude: 139.02
+done:
+  add_missing_places: 2026-06-05
 image: hakone.jpg
-image_source: https://commons.wikimedia.org/wiki/File:161223_Owakudani_Station_Hakone_Japan03s3.jpg
-image_license: CC BY 2.5
-image_attribution: 663highland
+image_source: https://commons.wikimedia.org/wiki/File:AshiNoKo.jpg
+image_license: Public domain
+image_attribution: Fg2
 ---
 
-Hakone is a mountain resort town in Kanagawa Prefecture, about 80 kilometres southwest of Tokyo, and one of the most popular weekend escapes from the capital. It sits inside the ancient caldera of Mount Hakone, a complex volcano whose last major eruption was 3,000 years ago — though smaller geothermal activity continues, most visibly at Ōwakudani, the sulphurous valley where black eggs are boiled in volcanic hot springs. On a clear day, and especially in the early morning before the haze builds, you get a view of Mount Fuji across Lake Ashi that appears on every Japan travel poster.
+Hakone is Japan's most celebrated hot spring resort and, on a clear day, one of the finest places in the country to view Mount Fuji. Nestled inside a collapsed volcanic caldera in the mountains west of Tokyo, the town is essentially a giant natural spa: geothermal steam rises from hillside vents, the lake at the caldera's centre reflects the sky, and every ryokan (traditional inn) seems to have hot spring water piped directly into the bath.
 
-The town itself is distributed across a mountainous landscape with no single centre. Visitors typically navigate it by a combination of the Hakone Tozan railway (the steepest standard-gauge mountain railway in Japan), a cable car, a ropeway that passes directly over the Ōwakudani vents, and a sightseeing boat on Lake Ashi. This circuit — train up the mountain, cable car to the ropeway, ropeway over the caldera, boat across the lake — is the standard Hakone experience, and it works well. The views are excellent; the transport itself is half the attraction.
+The landscape is volcanic and dramatic. Lake Ashi sits in the crater bowl, its shores lined with pines and the occasional torii gate rising from the water. Above it, the volcano's complex geology is most visible at Owakudani, a raw gash in the hillside still fuming with sulphurous gas, where vendors sell kuro tamago — hard-boiled eggs blackened by the mineral-rich hot spring water and said to extend your life by seven years per egg. The caldera walls form the mountain ring of Mount Hakone around the lake.
 
-Beyond the scenic circuit, Hakone has an unusually good museum district. The [Hakone Open-Air Museum](/asia/japan/honshu/hakone/hakone_open_air_museum) is Japan's oldest sculpture park, with a Picasso gallery and a collection of large-scale works by Rodin, Moore, and others displayed in a hillside landscape with fine mountain views. The [Okada Museum of Art](/asia/japan/honshu/hakone/okada_museum_of_art) houses one of the best collections of Japanese, Chinese, and Korean ceramics and paintings in a purpose-built building. The [Pola Museum of Art](/asia/japan/honshu/hakone/pola_museum_of_art) focuses on Impressionism and Japanese oil painting in a striking modern building in the forest above Miyanoshita.
+Getting around Hakone is half the pleasure. The Hakone Free Pass, sold from Odawara or Shinjuku, covers unlimited use of every transport in the area: the cog railway up to Gora, the cable car over the volcanic peaks to the lake, the scenic ropeway over Owakudani, and the replica pirate galleons that cross Lake Ashi. Using all of them in sequence is one of the more enjoyable half-days of transport in Japan.
 
-The onsen (hot spring) culture is central to the Hakone experience. The hot spring resorts at Miyanoshita, Yumoto, and other small villages have been welcoming urban visitors since the Edo period, and a soak after a day of sightseeing is not optional so much as structurally part of the visit. Some onsen are attached to the larger hotels; others are public bath houses open to day visitors.
+Hakone sits at the base of the original Tokaido highway between Edo (Tokyo) and Kyoto, and the Hakone Barrier that controlled traffic on that road in the Edo period is partly reconstructed on the lakeshore. Writers, artists, and weary urbanites have been coming here to recover since the 19th century. The Fujiya Hotel in Miyanoshita, opened in 1878 as Japan's first Western-style resort hotel, still receives guests.
+
+Most visitors come from Tokyo on day trips or overnight stays. An overnight in a good ryokan — with kaiseki dinner, hot spring bathing before bed, and the possibility of a Fuji view in the early morning light — is one of Japan's signature travel experiences. Book well ahead for weekends and national holidays.

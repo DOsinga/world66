@@ -1,26 +1,21 @@
 ---
-done:
-  location_create: '2026-06-04'
-image: gyeongju.jpg
-image_attribution: Wikimedia Commons
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Anapji_Pond-Gyeongju-Korea-2006-09.jpg
-latitude: 35.838
-loc_type: city
-longitude: 129.2267
-sources:
-- https://en.wikipedia.org/wiki/Gyeongju
-- https://en.wikivoyage.org/wiki/Gyeongju
 title: Gyeongju
 type: location
+loc_type: city
+latitude: 35.8562
+longitude: 129.2247
+done:
+  add_missing_places: 2026-06-05
+image: gyeongju.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Basile Morin
 ---
 
-*Asia > South Korea > Gyeongju*
+Gyeongju was the capital of the Silla Kingdom for nearly a thousand years — from 57 BC to AD 935 — and is often called the 'museum without walls'. The modern city of 250,000 people sits on a landscape so saturated with ancient tombs, temples, shrines, palaces, and Buddhist art that UNESCO has designated the entire historic area a World Heritage Site. It is the closest thing Korea has to a Kyoto or Rome: a living city where daily life takes place among 1,500 years of mostly intact civilization.
 
-Gyeongju is one of Asia's great open-air museums, a city where you can stumble across a royal tomb while walking to a convenience store. For nearly a thousand years this was the capital of the Silla kingdom, one of the most powerful dynasties in Korean history, and the landscape still bears the marks of that reign — burial mounds, temple ruins, stone pagodas, and ponds that have survived intact since the seventh century.
+The Silla kingdom unified the Korean peninsula in AD 668, bringing the Three Kingdoms period to an end, and presided over a golden age of Buddhist art and culture that produced some of the finest stone carving and metalwork in East Asia. Gold crowns, jade ornaments, and exquisite celadon ceramics recovered from the royal tombs are now in the Gyeongju National Museum — and the tombs themselves, great green grass mounds rising from the city centre, are still there.
 
-The city works on a different scale from Seoul or Busan. There are no skyscrapers competing with the burial mounds, and the historic core around [Daereungwon tumuli park](/asia/southkorea/gyeongju/daereungwon) and [Cheomseongdae observatory](/asia/southkorea/gyeongju/cheomseongdae) rewards slow walking. The hills around the city are threaded with temple paths leading to places like [Bulguksa](/asia/southkorea/gyeongju/bulguksa) and [Seokguram](/asia/southkorea/gyeongju/seokguram), both UNESCO World Heritage Sites. These aren't just picturesque ruins — they are still active religious centres, and arriving early in the morning you will find monks going about their day entirely undisturbed by the tourist traffic below.
+The heart of the historic city is Daereungwon tomb complex, where dozens of burial mounds cluster together in a park south of downtown. The Cheomseongdae observatory, built in the 7th century, is the oldest surviving astronomical observatory in Asia. Donggung Palace and Wolji Pond, the Silla court's pleasure garden, has been restored and is spectacular at night when it is lit up and reflects in the water. Bulguksa temple and Seokguram grotto in the mountains outside the city are among the greatest works of Buddhist architecture in the world.
 
-What makes Gyeongju unusual among Korean cities is how well the old and new coexist. Locals eat and shop around the same central mounds that the Silla kings are buried under. The [Gyeongju National Museum](/asia/southkorea/gyeongju/gyeongju_national_museum) holds the best collection of Silla artefacts in existence, including the extraordinary Emille Bell, cast in the eighth century and said to carry within its tone the cry of a child sacrificed during its making. On warm evenings, [Anapji Pond](/asia/southkorea/gyeongju/anapji_pond) reflects the illuminated pavilions on its shore in a scene that has looked much the same for thirteen centuries.
-
-Gyeongju makes an easy day trip from Busan (50 minutes by KTX) but deserves at least two days. The sites are spread across the city and its surroundings, and the further ones — Seokguram grotto, [Girimsa temple](/asia/southkorea/gyeongju/girimsa), [Golgulsa](/asia/southkorea/gyeongju/golgulsa) with its outdoor sunabi martial arts demonstrations — need their own separate visits.
+Gyeongju sits at the southeastern corner of the Korean peninsula, easily reached from Busan by rail or by the KTX bullet train from Seoul (about two hours). It is a manageable city to explore, flat enough to cycle most of the central sights, with the mountain temples accessible by taxi or local bus. Despite its historical weight, it retains an authentically Korean city feel rather than the over-polished character of a purely tourist town.

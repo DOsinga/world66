@@ -1,20 +1,14 @@
 ---
-title: "Bulguksa"
+title: Bulguksa Temple
 type: poi
 tags:
   - things_to_do
   - sight
-  - architecture
-latitude: 35.7895
-longitude: 129.3318
-story: >
-  Bulguksa was completed in 774 under the patronage of Prime Minister Kim Daeseong, who according to tradition built this temple for his parents in his current life and a second temple — Seokguram — for his parents from a previous life. When Japanese forces invaded in 1592, they looted the temple and burned it to the ground. Most of what visitors see today dates from a restoration completed in 1973, guided partly by photographs taken by Japanese surveyors during the colonial period.
-sources:
-  - https://en.wikipedia.org/wiki/Bulguksa
+latitude: 35.7900
+longitude: 129.3322
+story: "The two stone pagodas in Bulguksa's main courtyard — Dabotap and Seokgatap — were built by a craftsman named Asadal, who came from Baekje kingdom to construct them. Legend says his wife Asanyeo waited for him at the temple gate for so long that, when she finally threw herself into the reflection pond in grief, the pond came to be called the Shadow Reflection Pond. Asadal never received permission to enter and see the finished work."
 ---
 
-Bulguksa sits on the lower slopes of Tohamsan Mountain some 16 kilometres east of the city centre, a complex of wooden halls, stone terraces, and elegant bridges that represents the pinnacle of Silla Buddhist architecture. Two stone staircases — Cheongungyo and Baegungyo — ascend to the main Jahamun Gate in a sequence that was meant to symbolise the passage from the earthly world into a Buddhist paradise.
+One of the most celebrated Buddhist temples in Korea, founded in the 8th century during the Silla period's golden age and a UNESCO World Heritage Site. The temple climbs the forested lower slopes of Tohamsan mountain through a series of terraces connected by stone stairways and bridges — the Blue Cloud and White Cloud bridges leading to the main hall are original Silla construction, over 1,200 years old and too precious to walk on.
 
-Within the main courtyard stand two of Korea's most celebrated stone pagodas side by side: the three-storey Seokgatap, severe and austere, and the more elaborate Dabotap with its intricate stone lattice. A wooden printing block of the Dharani Sutra was discovered inside Seokgatap during a 1966 restoration — now believed to be the world's oldest surviving printed document. The halls beyond contain gilt bronze Buddhist statues designated national treasures. The temple is still active, and the earliest morning visitors will find monks conducting services inside.
-
-Getting there is straightforward: city bus no. 10 or 11 from Gyeongju train station takes about 40 minutes. Come early to avoid the tour groups that arrive mid-morning.
+The two stone pagodas in the main courtyard are masterpieces of Silla stonework: the three-storey Seokgatap (simple and serene) and the complex multi-tiered Dabotap (found on the ten-won coin). The golden main hall, Daeungjeon, was reconstructed after the Japanese invasions of the 1590s but houses a gilded Shakyamuni Buddha original to the Silla period. Admission around 6,000 won.

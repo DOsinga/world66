@@ -1,8 +1,10 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
 ---
 
-Gyeongju has four distinct seasons and can be visited year-round, but spring and autumn are the best times. April brings cherry blossoms to the tumuli parks and the paths around Banwolseong, and the city fills with Korean families and school groups. October and November turn the maple forests around Girimsa and the mountain temples a brilliant orange-red — the autumn foliage season is the city's most photogenic.
+Spring (late March to May) is the finest season: cherry blossoms line the paths between the tomb mounds and around the temple precincts, the weather is mild, and the light for photography is superb. The Gyeongju Cherry Blossom Festival in April draws large crowds but the city handles them better than many Korean destinations.
 
-Summer (July–August) is hot, humid, and at times very crowded. Some temple areas, particularly Bulguksa, can feel overwhelmed with visitors. Winter is cold but clear, and the sites are quieter; snow on the burial mounds makes for striking photography. The illuminated Anapji Pond is worth visiting any time of year after dark.
+Autumn (October–November) is the second best period, with maples turning red in the mountain temple valleys. Summer is hot and humid; the city is still very much worth visiting but prepare for the heat. Winter is cold but clear, and the city sees far fewer visitors — Bulguksa in light snow is particularly beautiful.
+
+The Gyeongju Historic Festival in late September or early October features traditional performances, archery, and cultural events tied to Silla history.

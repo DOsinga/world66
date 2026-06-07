@@ -3,10 +3,6 @@ title: When to Go
 type: section
 ---
 
-Autumn (late October to mid-November) is arguably the best time to visit Hakone, when the beech and maple forests turn red and gold, the air is clear, and Mount Fuji is visible most mornings. Spring (late March to early April) brings cherry blossoms — particularly atmospheric around Lake Ashi and along the Tozan railway line.
+Autumn (October–November) is the most beautiful season in Hakone, when the maple trees around the lake and on the mountain slopes turn red and gold. Spring cherry blossoms are spectacular around the lake in late March and April. Both periods are very popular and accommodation books out weeks or months in advance.
 
-Summer (July–August) is warm, humid, and crowded. The views of Fuji are frequently obscured by haze, and the resort fills with Tokyo families. If you must visit in summer, aim for a weekday.
-
-Winter (December–February) is cold, sometimes snowy, and much quieter. Fuji views are excellent in the cold clear air. The onsen are at their most appealing when the weather is cold.
-
-Weekends year-round are crowded; if possible, visit Monday to Thursday.
+Summer is warm and often misty — Mount Fuji is frequently cloud-covered from June through August, and the rainy season in June can be grey. Winter brings cold, clear days that offer the best Fuji views; the mountain is snow-capped and dramatic. Midweek visits at any time of year are significantly quieter than weekends. The ropeway closes periodically when wind or volcanic gas levels at Owakudani are high — check before visiting.

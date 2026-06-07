@@ -1,8 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Gyeongju is most easily reached from Busan or Daegu. The KTX (high-speed train) stops at Singyeongju Station, about 8 kilometres from the city centre, with connections from Seoul in roughly two hours and from Busan in about 25 minutes. Regular intercity trains use the older Gyeongju Station in the city centre; the journey from Busan takes about an hour. Bus connections are good: express buses from Seoul, Busan, Daegu, and other major cities use the Gyeongju intercity bus terminal.
+From Seoul, the KTX bullet train runs to Singyeongju Station (a new station about 8 km west of the city) in roughly two hours; a shuttle bus or taxi connects the station to the city centre. Some trains from Seoul continue to Gyeongju Station (the older central station) on the Mugunghwa or ITX services, taking about three hours but arriving more centrally.
 
-There is no commercial airport. Gimhae Airport in Busan (about 60 kilometres away) is the nearest international gateway, with buses and trains connecting from there.
+From Busan, Gyeongju is about 40 minutes by train or one hour by bus — it makes an easy day trip from Korea's second city. Express buses from Seoul's Gangnam terminal reach Gyeongju in about three to three and a half hours.
+
+The Gyeongju Bus Terminal is in the centre of town near most accommodation. Gyeongju Station (the old station) is a short walk from the historic centre. Singyeongju KTX Station requires a connecting bus or taxi.

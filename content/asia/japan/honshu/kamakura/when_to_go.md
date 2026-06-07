@@ -3,12 +3,8 @@ title: When to Go
 type: section
 ---
 
-Spring and autumn are the best seasons. Cherry blossom season (late March to early April) is beautiful — the avenue leading to Tsurugaoka Hachimangū is lined with cherry trees, and the hiking trails pass through flowering groves. Autumn colour (mid-November to early December) is equally good, with maples turning in the temple gardens.
+Kamakura is beautiful year-round but the timing matters. Spring brings cherry blossoms in late March and April, drawing enormous crowds from Tokyo. The hydrangea season in June is one of Kamakura's most distinctive events — Meigetsu-in is famous for its ajisai (hydrangeas), and the rainy season's grey light suits the temple gardens perfectly. Autumn foliage in November is spectacular around the great Zen temples.
 
-June is hydrangea season in Kamakura, and particularly at Meigetsu-in temple (the "hydrangea temple"), where the path to the main hall is lined with them. It overlaps with the rainy season, which means wet days but fewer tourists.
+Summer (July–August) is hot and humid, and the beaches at Yuigahama and Zaimokuza fill with Tokyo surfers and families. Winter is quiet, crisp, and often clear — Mount Fuji is visible from higher points in the city on cloudless winter mornings.
 
-Summer (July–August) is warm, humid, and extremely crowded — the beach at Yuigahama attracts enormous numbers of day-trippers from Tokyo. The temples are manageable in the mornings.
-
-Winter (December–February) is cool and clear. Fuji is sometimes visible from the hills. Crowds are thin, which makes it one of the better times for temple-hopping.
-
-Weekends year-round are crowded; if you can visit on a weekday, the difference is significant.
+Weekday visits are significantly more pleasant than weekends, when the narrow streets and popular sites become genuinely crowded. Public holidays and the cherry blossom period are peak-of-peak times to avoid.

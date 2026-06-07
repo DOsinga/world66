@@ -1,19 +1,14 @@
 ---
-title: "Gyeongju National Museum"
+title: Gyeongju National Museum
 type: poi
 tags:
   - things_to_do
   - museum
-latitude: 35.8289
-longitude: 129.2279
-story: >
-  The museum's most famous object is the Divine Bell of King Seongdeok, cast in 771 CE and weighing nearly 19 tonnes — the largest bell in Korea. Its sound carries so far and so clearly that it was once used to signal curfews across the entire capital. The bell's haunting tone allegedly contains the cry of a child sacrificed during its casting, and Koreans call it the Emille Bell after the word for "mother" in the child's supposed dying call.
-sources:
-  - https://en.wikipedia.org/wiki/Gyeongju_National_Museum
+latitude: 35.8290
+longitude: 129.2284
+story: "The Sacred Bell of Great King Seongdeok, cast in 771 AD and now displayed outside the museum entrance, is the largest surviving bronze bell in Korea at 3.75 metres tall. The bell is famous for its sound quality — contemporary accounts describe it as audible for miles — and for a legend that the bell's tone contains the cry of a child sacrificed to make it ring true. The legend is false, but the bell's tone, on the rare occasions it is struck, is genuinely extraordinary."
 ---
 
-The Gyeongju National Museum holds the finest collection of Silla artefacts in the world, including thousands of objects excavated from the royal burial mounds that still dot the city. The main building covers Silla history chronologically from its founding in 57 BCE through to the dynasty's absorption into the Goryeo kingdom in 935 CE.
+The essential repository for Gyeongju's archaeological wealth, displaying artefacts recovered from the royal tombs and surrounding sites: gold crowns, gold earrings, jade necklaces, bronze mirrors, and celadon ceramics that represent the highest achievements of Silla craftsmanship. The gold crown gallery alone — with five different royal crowns and the gold belts, shoes, and sword fittings that accompanied them — justifies the visit.
 
-Among the highlights are the gold crowns found inside the royal tumuli — intricate constructions of sheet gold decorated with spangles and comma-shaped jade pendants that are unique to Silla culture. The museum also displays golden earrings, belts, and sword fittings of extraordinary craftsmanship, along with Buddhist bronzes and celadon ceramics. The outdoor garden contains stone lanterns, pagodas, and the famous Emille Bell, whose resonance you can hear demonstrated on certain days.
-
-The museum is free and well laid out with English-language labels. Allow at least two hours. It is a short walk from Cheomseongdae and the tumuli parks.
+Outdoor sculpture includes the Sacred Bell of King Seongdeok and Buddhist stone carvings from temples throughout the region. The main building holds permanent exhibitions on Silla culture and a gallery of art from Buddhist temples. Admission free; closed Mondays.

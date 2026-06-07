@@ -1,18 +1,14 @@
 ---
-title: "Bunhwangsa Temple"
+title: Bunhwangsa
 type: poi
 tags:
   - things_to_do
   - sight
-  - architecture
-latitude: 35.8409
-longitude: 129.2337
-story: >
-  The monk Wonhyo, one of the most influential figures in the history of Korean Buddhism, lived and worked at Bunhwangsa in the seventh century. He broke his monastic vows, fathered a child with a princess, and became known as Sosung — a "wild monk." Rather than abandoning him, the Buddhist establishment embraced his interpretation that enlightenment could be reached by ordinary people outside the monastery, a teaching that helped Buddhism spread throughout Korean society.
-sources:
-  - https://en.wikipedia.org/wiki/Bunhwangsa
+latitude: 35.8406
+longitude: 129.2336
+story: "The monk Wonhyo, one of the most influential thinkers in Korean Buddhist history, was associated with Bunhwangsa. He supposedly achieved enlightenment here after accidentally spending the night in a tomb — when he reached for water in the dark and drank it, then discovered in the morning he'd drunk from a bowl sitting in a skull, he realised that reality is constructed by the mind. He subsequently wrote prolifically and became Korea's first Buddhist saint."
 ---
 
-Bunhwangsa was built in 634 CE under Queen Seondeok and was once one of the grandest temples in Silla. Today the original buildings are gone, but the site is anchored by a remarkable stone pagoda — the oldest surviving pagoda in Korea — built not from wood but from carefully cut bricks of dark andesite. It originally stood nine storeys tall; only three remain after Japanese troops used the upper section for target practice during the Imjin War.
+One of the oldest surviving Buddhist structures in Korea: a three-storey stone pagoda built in 634 AD from andesite blocks cut to resemble brick, standing about 9 metres tall in what was once a much larger temple complex. The pagoda originally had nine storeys, reduced by war damage and Japanese colonial demolition. Four stone lion guardians sit at its base; small carved Buddha reliefs mark each storey.
 
-The pagoda's doorways are guarded by fierce stone guardians carved in relief, and the surrounding grounds contain an unusual nine-dragon well, stone lions, and various inscribed memorial stones. Bunhwangsa is a working temple with a small number of resident monks, and the atmosphere is quieter and less touristed than Bulguksa. It stands at the edge of the historic centre, about a ten-minute walk from Anapji Pond.
+The temple grounds also contain a stone well where the monk Wonhyo is said to have purified himself. The complex is active and uncrowded; less visited than Bulguksa but more atmospheric for a contemplative visit. Near the National Museum. Admission around 1,500 won.

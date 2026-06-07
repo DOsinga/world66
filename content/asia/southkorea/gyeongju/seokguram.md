@@ -1,20 +1,14 @@
 ---
-title: "Seokguram Grotto"
+title: Seokguram Grotto
 type: poi
 tags:
   - things_to_do
   - sight
-  - architecture
-latitude: 35.7948
+latitude: 35.7950
 longitude: 129.3492
-story: >
-  The central Buddha figure at Seokguram was carved from a single block of granite and measures 3.5 metres tall. It faces east toward the sea, and on the spring equinox the rising sun's first rays pass directly through the entrance and strike the crystal in the Buddha's forehead — a precise astronomical alignment that the eighth-century architects built into the grotto's orientation.
-sources:
-  - https://en.wikipedia.org/wiki/Seokguram
+story: "Seokguram was lost to the outside world for centuries until a Korean postman sheltering from a storm stumbled upon it in 1909. Japanese administrators subsequently restored it, though they filled the interior with concrete in a well-intentioned but structurally damaging intervention that Korean conservators spent decades trying to correct. The grotto now has an artificial chamber installed to regulate humidity."
 ---
 
-Seokguram is a man-made stone grotto on the summit of Tohamsan, built in the same building campaign as Bulguksa in the eighth century and listed as a UNESCO World Heritage Site alongside it. The main chamber holds a seated granite Buddha of rare serenity and technical accomplishment, surrounded by carved relief figures of bodhisattvas, guardian deities, and disciples on the circular granite walls.
+A UNESCO World Heritage granite grotto 750 metres above sea level on Tohamsan mountain, housing one of the supreme works of Buddhist art in East Asia: a seated stone Buddha 3.5 metres tall, carved with extraordinary technical mastery in the 8th century. The figure sits at the centre of a domed rotunda whose walls are lined with carved relief figures — bodhisattvas, disciples, guardian kings — in a theological programme of exceptional sophistication.
 
-Access is tightly controlled to preserve the stone: visitors view the Buddha through a glass partition from a short corridor. This can feel slightly clinical, but it also prevents the deterioration that occurred in the 1960s when the chamber was mistakenly sealed with concrete, trapping moisture and damaging some carvings. The grotto is reached by a forest path from the car park at Tohamsan — about 700 metres uphill — and the views over the sea from the summit are themselves worth the climb.
-
-Buses to Bulguksa continue to the Seokguram car park. The two sites are usually combined in a single trip from Gyeongju.
+The grotto faces east, aligned to receive the first rays of the rising sun on the sea horizon. A glass partition now separates visitors from the inner chamber to protect the humidity-sensitive stone, which diminishes the intimacy of the experience but doesn't diminish the impact of the art. About 3 km up the mountain from Bulguksa by road or forest path. Admission around 6,000 won; combined ticket with Bulguksa available.

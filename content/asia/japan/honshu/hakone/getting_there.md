@@ -3,8 +3,8 @@ title: Getting There
 type: section
 ---
 
-Hakone is most easily reached from Tokyo using the Odakyu Romancecar express, which runs directly from Shinjuku Station to Hakone-Yumoto in about 85 minutes, comfortable and reserved seating. The journey past the Kanto Plain and into the mountains is pleasant. The Hakone Free Pass (purchased from Odakyu) covers the Romancecar fare plus unlimited rides on the Tozan railway, cable car, ropeway, and sightseeing boats within Hakone — it is excellent value for a full-day visit.
+From Tokyo, the most convenient route is the Romancecar limited express train operated by Odakyu from Shinjuku Station directly to Hakone-Yumoto in about 85 minutes. This is a reserved-seat train; booking in advance (especially for weekends) is recommended. Alternatively, take the Odakyu limited express to Odawara and change to the Hakone Tozan Line for Hakone-Yumoto and Gora.
 
-Alternatively, you can take a JR Shinkansen to Odawara and switch to the Tozan line from there — this is useful if you have a JR Pass.
+The JR Shinkansen stops at Odawara, which is the gateway to Hakone from the bullet train network. From Odawara, the Hakone Tozan Line reaches Hakone-Yumoto in 15 minutes.
 
-From Osaka, Kyoto, or Nagoya, take the Shinkansen to Odawara and proceed as above. Hakone is also sometimes done as a day trip from Kyoto, which is long but doable.
+The Hakone Free Pass is the most economical way to visit: sold by Odakyu from Shinjuku or at Odawara Station, it covers the round-trip from Shinjuku or Odawara plus unlimited use of all local transport in the Hakone area for two or three days.

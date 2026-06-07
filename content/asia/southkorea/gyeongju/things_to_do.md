@@ -1,6 +1,6 @@
 ---
-title: "Things to Do"
+title: Things to Do
 type: section
 ---
 
-Gyeongju's sights span a thousand years of Silla history and are spread across the city and its surrounding hills. The central cluster around the royal burial mounds and Cheomseongdae observatory can be covered on foot; the temple complexes to the east — Bulguksa, Seokguram, Girimsa — each require a separate trip by bus or taxi.
+Gyeongju's sights divide into three zones: the historic city centre (royal tombs, Cheomseongdae, Wolji Pond), the mountain area southeast of the city (Bulguksa temple, Seokguram grotto), and the surrounding area (the National Museum, Gyochon traditional village, outlying royal tombs). The central sights are walkable or cycleable; the mountain temples require a bus or taxi. Allow at least two days for a proper visit.

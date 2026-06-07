@@ -1,15 +1,23 @@
 ---
+done:
+  location_create: '2026-06-04'
+image: nis.jpg
+image_attribution: MrPanyGoff
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ni%C5%A1_Fortress,_Ni%C5%A1,_Serbia.jpg
+latitude: 43.3199
+loc_type: city
+longitude: 21.8959
+sources:
+- https://en.wikipedia.org/wiki/Ni%C5%A1
 title: Niš
 type: location
-loc_type: city
-latitude: 43.3209
-longitude: 21.8954
 ---
 
-Niš is Serbia's third-largest city and one of the oldest in the Balkans — a place that has been continuously inhabited since the Stone Age and served as the capital of the Roman Empire under Naissus. Constantine the Great, who legalised Christianity across the empire, was born here around 274 AD, and the city has never quite let that fact go unmentioned.
+Niš is Serbia's third-largest city and one of the oldest in the Balkans, sitting in a wide valley where the Nišava river carves a path through the hills of southeastern Serbia. It was the Roman city of Naissus, birthplace of the Emperor Constantine the Great around 272 AD, and you don't have to look hard to feel that weight of history — there are Roman ruins just outside the centre, an Ottoman fortress on the riverbank, and a tower of human skulls on the eastern approach to town. Not your typical city break, but entirely unforgettable.
 
-Today Niš is an energetic university city with a relaxed pace compared to Belgrade and a compact old town that rewards wandering. The Turkish fortress on the Nišava River is the natural centre: a large, well-preserved complex of walls and gates surrounding a park and café terraces. On the road to the fortress stands the Skull Tower, a genuinely disturbing monument — a stone pillar studded with the embedded skulls of Serbian rebels killed by Ottoman forces after the 1809 Battle of Čegar. There is nothing else quite like it in Europe.
+The city lives with its past in an unusually honest way. The [Crveni Krst concentration camp](/europe/serbia/nis/crveni_krst_concentration_camp), a meticulously preserved Nazi detention facility from the Second World War, stands at the northern edge of town as a museum and memorial. The [Skull Tower](/europe/serbia/nis/skull_tower), built from the skulls of Serbian rebels killed at the Battle of Čegar in 1809, is a structure that manages to be both deeply disturbing and oddly moving. These are not comfortable attractions, but they belong in the guide of any traveller who wants to understand what this part of Europe has been through.
 
-The city also has a sobering World War II history: the Crveni Krst (Red Cross) concentration camp on the edge of town was used by the Nazis to hold Jews, Roma, and political prisoners, many of whom were executed on the Bubanj hill just outside the city. Both sites are maintained as memorials and are worth visiting.
+Beyond the grim history, Niš has a lively, unpretentious energy. Kazandžijsko Sokače — the old coppersmiths' alley — is now the city's best strip for cafes, traditional kafanas, and evening drinking. The university gives the city a young population and a coffee culture that punches above its weight. The Nišava promenade fills up in summer with walkers and cyclists. Food is straightforward and excellent: grilled meats, slow-cooked stews, earthy local wines from the Niš-area vineyards to the south.
 
-*Europe > Serbia > Niš*
+For travellers heading through southern Serbia on the way to Bulgaria, North Macedonia, or Greece, Niš makes a genuinely rewarding stop rather than a fuel-and-coffee break on the motorway. The main sights can be done in a day; staying overnight means you can catch some of the evening atmosphere that characterises Serbian cities at their best.

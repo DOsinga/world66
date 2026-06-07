@@ -1,13 +1,22 @@
 ---
-title: "Antigua Guatemala"
-type: location
+done:
+  location_create: '2026-06-04'
+image: antiguaguatemala.jpg
+image_attribution: Chad Davis
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_Arch_-_Antigua_Guatemala_Feb_2020.jpg
+latitude: 14.5575
 loc_type: city
-latitude: 14.5590
-longitude: -90.7345
+longitude: -90.7333
+sources:
+- https://en.wikipedia.org/wiki/Antigua_Guatemala
+- https://en.wikivoyage.org/wiki/Antigua_Guatemala
+title: Antigua Guatemala
+type: location
 ---
 
-Antigua Guatemala is one of the best-preserved Spanish colonial cities in the Americas and, arguably, the most beautiful city in Central America. The UNESCO-listed historic centre is a grid of cobblestone streets lined with low brightly painted buildings, ornate Baroque churches, and ruined convents that were cracked and collapsed by a devastating 1773 earthquake — and left that way, their roofless facades becoming some of the most evocative ruins on the continent. Set in a highland valley at 1,500 metres surrounded by three volcanoes, the city has a near-perfect climate and a scale that makes it easy to walk everywhere.
+Antigua Guatemala is the most complete surviving colonial city in Central America, and one of the best-preserved in the hemisphere. Founded in 1543 as the capital of Spanish Guatemala, it was shattered by earthquakes in 1773 and never fully rebuilt — which is the reason it looks the way it does today: an extraordinary grid of streets lined with ochre and terracotta facades, ruined convents open to the sky, and baroque churches whose façades were rebuilt while their naves stand roofless behind them. In 1979 UNESCO listed it as a World Heritage Site.
 
-The Plaza de Armas is the natural starting point, ringed by the Palace of the Captains General, the Ayuntamiento, and the Cathedral of Santiago, inaugurated in 1680. The [Cathedral](/northamerica/guatemala/antiguaguatemala/cathedral)'s restored facade conceals the vast, ruined nave behind it — enter from the south portal and explore the atmospheric wreckage. Several fine colonial mansions have been restored nearby: [Casa Popenoe](/northamerica/guatemala/antiguaguatemala/casapopeone) and [Casa de los Leones](/northamerica/guatemala/antiguaguatemala/casadelosleones) are the best examples of the austere outer wall giving way to a garden patio interior. The ruined [El Carmen Church](/northamerica/guatemala/antiguaguatemala/elcarmen), the [Santa Clara Convent](/northamerica/guatemala/antiguaguatemala/santaclara), and the [Capuchin Convent](/northamerica/guatemala/antiguaguatemala/capucinconvent) all reward a wander through their crumbling arches and overgrown cloisters.
+The city is small and walkable. Everything of importance lies within a few blocks of the [Plaza Mayor](/northamerica/guatemala/antiguaguatemala/plazadearmas) (also called the Plaza de Armas), the central square flanked by the [Palacio de los Capitanes Generales](/northamerica/guatemala/antiguaguatemala/casadelosleones), the old town hall, and the ruined [Cathedral](/northamerica/guatemala/antiguaguatemala/cathedral). From here you can walk to the [Iglesia de La Merced](/northamerica/guatemala/antiguaguatemala/mercedchurch) — with its extraordinary wedding-cake stucco facade — the [Convento de las Capuchinas](/northamerica/guatemala/antiguaguatemala/capucinconvent), and the [Arco de Santa Catalina](/northamerica/guatemala/antiguaguatemala/elcarmen), the arch that straddled the street so that cloistered nuns could cross between their convent and the church without being seen. The ruins of [Casa Popenoe](/northamerica/guatemala/antiguaguatemala/casapopeone) tell a stranger story: this restored colonial house is where the botanist who introduced Guatemalan avocados to California lived.
 
-Beyond the monuments, Antigua is a hub for Spanish language schools, volcano trekking (the active Pacaya and imposing Acatenango are day trips from the city), and the liveliest Semana Santa processions in the region. The colourful market, the cathedral steps in the evening, and the long pedestrian stretch of 5a Avenida Norte give the city its daily life. It is crowded with travellers — sometimes uncomfortably so in high season — but the quality of the colonial fabric is so extraordinary that it is worth it.
+Three volcanoes surround the city. Volcán de Agua, the near-perfect cone directly to the south, is visible from almost everywhere in Antigua. Volcán Acatenango and the actively erupting Volcán de Fuego stand to the west and southwest; on clear evenings you can see the glow of Fuego's eruptions from the city streets. Climbing Acatenango overnight — camping near the summit to watch Fuego erupt at dawn — is one of the great experiences of Guatemala. The town fills with travellers doing this, which is part of its character: Antigua is emphatically on the gringo trail, with language schools, yoga studios, and coffee shops catering to long-term residents. But the colonial city beneath all this is the real thing.

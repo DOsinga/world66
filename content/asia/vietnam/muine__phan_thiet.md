@@ -10,7 +10,7 @@ title: Mui Ne - Phan Thiet
 type: location
 ---
 
-Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/ho_chi_minh_city), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.
+Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/hochiminhcity), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.
 
 The real character of Mui Ne comes from the contrast between the beach resort strip and the [working fishing village](/asia/vietnam/muine__phan_thiet/fishing_village) at the far end. The small harbour is picturesque, and few tourists venture past the famous [red](/asia/vietnam/muine__phan_thiet/red_sand_dunes) and [white sand dunes](/asia/vietnam/muine__phan_thiet/white_sand_dunes) that roll for hectares behind the village. The [Fairy Stream](/asia/vietnam/muine__phan_thiet/fairy_stream) — a shallow waterway cutting between sandstone cliffs in shades of rust and orange — makes for an unusual hour of walking. On the western edge of town, the [Po Shanu Cham Towers](/asia/vietnam/muine__phan_thiet/po_shanu_towers) are 9th-century Hindu ruins with sweeping coastal views.
 

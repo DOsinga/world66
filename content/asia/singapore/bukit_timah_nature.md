@@ -5,7 +5,7 @@ snippet: Primary rainforest and Singapore's highest point in the city centre
 tags:
 - things_to_do
 - walk
-- tours_and_excursio
+- tours_and_excursions
 title: Bukit Timah Nature Reserve
 type: poi
 ---

@@ -1,6 +1,7 @@
 ---
 address: Piața Arcului de Triumf, Bucharest
 latitude: 44.4672
+loc_type: feature
 longitude: 26.0781
 snippet: Romania's triumphal arch on Șoseaua Kiseleff
 tags:

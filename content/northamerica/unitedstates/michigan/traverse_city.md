@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: traverse_city.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Traverse_County_Courthouse.jpg

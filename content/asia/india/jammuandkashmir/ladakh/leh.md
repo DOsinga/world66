@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
+  lp_coverage: '2026-06-05'
   poi_cleanup: '2026-04-19'
 image: leh.jpg
 image_attribution: Kiran Jonnalagadda from Bangalore, India

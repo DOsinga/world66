@@ -1,7 +1,7 @@
 ---
 title: "Red Onion"
 type: poi
-tags: [eating_out, restaurant, restaurant]
+tags: [eating_out, restaurant]
 latitude: 7.8465
 longitude: 98.2985
 ---

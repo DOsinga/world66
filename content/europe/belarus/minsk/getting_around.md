@@ -9,12 +9,13 @@ There are many ways to travel around Minsk. The fastest and easiest type of publ
 
 **Metro**
 
-The Metro goes fast and it is reliable. It isn't hard to buy tokens or a month long pass. The only problem is the large amount of people that use the metro. Riding the metro will answer all of your questions about how sardines feel in their can. To ride it just go to the teller buy a token, then [more..](/europe/belarus/minsk/gettingaround/metro)
+The Metro goes fast and it is reliable. It isn't hard to buy tokens or a month long pass. The only problem is the large amount of people that use the metro. Riding the metro will answer all of your questions about how sardines feel in their can. To ride it just go to the teller, buy a token, then drop it into the turnstile at the entrance to the platform.
 
 **Buses, Trolleys, Trams**
 
-If you are traveling to many places around Minsk you will probably have to ride something instead of the metro. Minsk has 12 tram lines, 56 trolley routes and over 100 bus routes. Buses, trolleys and trams run from 05:35 to 00:55 seven days a week. Avoid peak hours if you value your limbs (08:00 [more..](/europe/belarus/minsk/gettingaround/busestrolleystrams)
+If you are traveling to many places around Minsk you will probably have to ride something instead of the metro.
+ Minsk has 12 tram lines, 56 trolley routes and over 100 bus routes. Buses, trolleys and trams run from 05:35 to 00:55 seven days a week. Avoid peak hours if you value your limbs (08:00 to 09:30 and 17:00 to 19:00 are the worst).
 
 **Taxis**
 
-Getting around by taxi is a cheap, relatively hassle-free way to see the city. Though it’s possible to find honest taxi drivers by flagging a taxi down on the street, it’s more reliable to phone ahead for one. Taxis are marked by black checkered strip on the sides of the car. Most are banana [more..](/europe/belarus/minsk/gettingaround/taxis)
+Getting around by taxi is a cheap, relatively hassle-free way to see the city. Though it’s possible to find honest taxi drivers by flagging a taxi down on the street, it’s more reliable to phone ahead for one. Taxis are marked by black checkered strip on the sides of the car. Most are banana-yellow Volgas with a meter; ask the driver to reset it before you set off.

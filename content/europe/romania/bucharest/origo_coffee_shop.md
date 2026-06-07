@@ -1,6 +1,7 @@
 ---
 address: Strada Lipscani 9, Bucharest
 latitude: 44.4322
+loc_type: feature
 longitude: 26.1005
 snippet: Specialty coffee roaster and bar in the Old Centre
 tags:

@@ -1,6 +1,7 @@
 ---
 address: 55 Norfolk Street, Sheffield S1 1DA
 latitude: 53.3811
+loc_type: feature
 longitude: -1.4667
 snippet: Thrust-stage theatre, home of the World Snooker Championship since 1977
 tags:

@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei 12, Bucharest
 latitude: 44.4315
+loc_type: feature
 longitude: 26.0972
 snippet: Romanian gold treasures and a full-scale cast of Trajan's Column
 tags:

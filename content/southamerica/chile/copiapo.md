@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: copiapo.jpg
 image_attribution: CARLOS TEIXIDOR CADENAS
 image_license: CC BY-SA 4.0

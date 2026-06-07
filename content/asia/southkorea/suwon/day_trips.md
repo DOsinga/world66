@@ -7,7 +7,7 @@ url: "eng.everland.com"
 zipcode: "449-715"
 ---
 
-### [Everland](/asia/southkorea/suwon/daytrips/everland)
+### Everland
 
 Experience more than 40 of the latest attractions, one of a kind Wild Safari World, beauty of the four-season flower festival and rose festival, the lands first and longest sledge field (Festival World) here at Everland.
 
@@ -15,7 +15,7 @@ Enjoy the world's best indoor and outdoor water park(Caribbean Bay)in Everland.
 
 Feel the speed (Speedway) all here in Everland.
 
-Everland, featuring three distinct parks, has strengthened its position as the leader in leisure culture, providing one of a kind pleasure and happiness to everyone starting from the young and elder to families and [more..](/asia/southkorea/suwon/daytrips/everland)
+Everland, featuring three distinct parks, has strengthened its position as the leader in leisure culture, providing one of a kind pleasure and happiness to everyone starting from the young and elder to families and groups of friends.
 
 
 

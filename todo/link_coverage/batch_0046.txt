@@ -1,0 +1,5 @@
+europe/france/centre/limousin/limoges
+europe/france/centre/limousin/tulle
+europe/france/centre/loirevalley/montsoreau
+europe/france/east/alsace/riquewihr
+europe/france/east/lorraine/conslagrandville

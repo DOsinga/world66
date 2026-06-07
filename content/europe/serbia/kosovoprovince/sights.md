@@ -4,7 +4,7 @@ title: Sights in Kosovo province
 type: poi
 ---
 
-### [Bixha](/europe/serbia/kosovoprovince/sights/bixha)
+### Bixha
 
 Ferizaj is in Kosova
 

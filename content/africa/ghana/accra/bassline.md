@@ -3,7 +3,6 @@ title: "Bassline"
 type: poi
 tags:
   - bars_and_cafes
-  - nightlife
 latitude: 5.6330
 longitude: -0.1494
 snippet: "East Legon live music venue with strong Afrobeats, highlife, and jazz nights"

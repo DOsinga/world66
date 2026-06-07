@@ -1,5 +1,5 @@
 ---
-title: 'Ene'io Botanical Garden
+title: "'Ene'io Botanical Garden"
 type: poi
 tags:
 - things_to_do

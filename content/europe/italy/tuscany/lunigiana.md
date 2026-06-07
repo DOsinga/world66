@@ -13,4 +13,4 @@ Lunigiana is the quiet, hilly corner of northern Tuscany that most visitors driv
 
 The historical centre of the area is Pontremoli, a handsome town straddling the Magra river, but small towns like Fivizzano, Bagnone, and Villafranca in Lunigiana all reward a slow visit. The castles of the Malaspina family dot the hilltops throughout the region -- Verrucola above Fivizzano and Piagnaro in Pontremoli are the most impressive.
 
-Lunigiana is well placed for day trips. [La Spezia](/world/europe/italy/tuscany/lunigiana/la_spezia) and the Cinque Terre are just to the west, Parma is an hour north through the Cisa pass, and Pisa, Lucca, and Florence are all reachable within a couple of hours.
+Lunigiana is well placed for day trips. La Spezia and the Cinque Terre are just to the west, Parma is an hour north through the Cisa pass, and Pisa, Lucca, and Florence are all reachable within a couple of hours.

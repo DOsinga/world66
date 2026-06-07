@@ -11,7 +11,7 @@ Assured and guaranteed delivery of Gifts and flowers to Kolkata, Howrah, Calcutt
 
 More information about Kolkata Shopping coming soon. Feel free to add and edit.
 
-### [anamika](/asia/india/kolkata/shopping/anamika)
+### anamika
 
 http://www.spainflorist.com
 Send gifts to Spain, Online delivery of flowers to Spain, gift to Spain, chocolates, cakes, watches, teddy, sweets, fresh fruits, dry fruits.
@@ -29,7 +29,7 @@ address: raj nagar, jhau talla
 
 email: manamika25@gmail.com
 
-### [anamika](/asia/india/kolkata/shopping/anamika_1)
+### anamika
 
 http://www.amourfleurs.com
 Send gifts to France, Online delivery of flowers to France, gift to France, chocolates, cakes, watches, teddy, sweets, fresh fruits, dry fruits.

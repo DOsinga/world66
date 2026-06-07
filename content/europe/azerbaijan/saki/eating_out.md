@@ -37,7 +37,7 @@ There is a good Turkish bakery next to the New Bazaar, where you can eat local p
 **Contributors**
 December 05, 2006
 
-### [Farrukh](/europe/azerbaijan/saki/eating_out/farrukh)
+### Farrukh
 
 **You can eat very delicious meal in my company.Our meal prepared in home.Bo APPETITE**
 

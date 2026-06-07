@@ -3,6 +3,7 @@ title: Przhevalsky Museum
 type: poi
 tags:
   - things_to_do
+  - day_trips
   - museum
 latitude: 42.5036
 longitude: 78.4108

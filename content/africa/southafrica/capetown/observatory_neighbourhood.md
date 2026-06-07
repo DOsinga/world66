@@ -1,13 +1,17 @@
 ---
-title: "Observatory"
-type: poi
-category: Neighbourhood
 latitude: -33.9385
 longitude: 18.4717
-snippet: Bohemian student suburb of Victorian cottages, vegan cafés and live-music bars
+scores:
+  activities: 0.6248
+  neighbourhood: 0.724
+  sightseeing: 0.6284
+snippet: Bohemian student suburb of Victorian cottages, vegan cafés and live-music
+  bars
 tags:
 - things_to_do
 - neighbourhood
+title: Observatory
+type: neighbourhood
 ---
 
 Observatory — universally known as "Obs" — is the city's traditional bohemian student suburb, with rows of brightly painted Victorian semis, vegetarian cafés, second-hand bookshops, head shops, live-music bars and a multicultural population that has long resisted the homogenisation of central Cape Town. It is right next to the University of Cape Town and a short train ride from the centre.

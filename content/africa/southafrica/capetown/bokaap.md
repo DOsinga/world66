@@ -4,6 +4,7 @@ longitude: 18.412881
 snippet: Colourful historic Cape Malay quarter on Signal Hill
 tags:
 - things_to_do
+- neighbourhood
 title: Bo-Kaap
 type: neighbourhood
 ---

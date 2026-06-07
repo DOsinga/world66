@@ -8,6 +8,8 @@ tags:
   - architecture
 latitude: 45.4311
 longitude: 12.3355
+snippet: "Longhena's great Baroque votive church at the mouth of the Grand Canal"
+neighbourhood: Dorsoduro
 story: >
   The Salute was built as a votive church — a thank-offering to the Virgin for delivering Venice from the plague of 1630–31, which had killed a third of the city's population. Every year on 21 November, Venetians cross a temporary pontoon bridge over the Grand Canal to attend Mass here. The procession has continued without interruption since 1631.
 ---

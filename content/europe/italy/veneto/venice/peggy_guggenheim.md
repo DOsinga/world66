@@ -7,8 +7,10 @@ latitude: 45.425
 longitude: 12.3253
 opening_hours: Wed–Mon 10:00–18:00; closed Tue
 snippet: Venice's premier modern art collection on the Grand Canal
+neighbourhood: Dorsoduro
 tags:
 - things_to_do
+- dorsoduro
 - museum
 title: Peggy Guggenheim Collection
 type: poi

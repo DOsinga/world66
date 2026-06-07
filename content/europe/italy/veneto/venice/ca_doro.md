@@ -9,6 +9,8 @@ tags:
   - museum
 latitude: 45.4402
 longitude: 12.3353
+snippet: "Finest Venetian Gothic palace on the Grand Canal, originally gilded gold"
+neighbourhood: Cannaregio
 story: >
   The Ca' d'Oro — House of Gold — gets its name from the gilding that once covered the elaborate Gothic facade. By the 15th century the gold leaf was all gone, worn away or stripped, and the building has been white and terracotta ever since. The facade we see today is still considered the most beautiful in Venice, but it was designed to be far more dazzling than it currently appears.
 ---

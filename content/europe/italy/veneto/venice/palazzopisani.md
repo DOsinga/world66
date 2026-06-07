@@ -9,9 +9,8 @@ phone: +39 041 5285343
 snippet: Gothic palace on the Grand Canal with Tiepolo frescoes
 tags:
 - things_to_do
-- palace
 - architecture
-- history
+- sight
 title: Palazzo Pisani Moretta
 type: poi
 url: www.pisanimoretta.com

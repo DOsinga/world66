@@ -6,9 +6,10 @@ latitude: 45.444
 longitude: 12.3331
 opening_hours: Mon–Sat 17:00–23:30; closed Sun
 snippet: Natural-wine bar with cicchetti on the Cannaregio canal
+neighbourhood: Cannaregio
 tags:
-- One Day in Venice
 - bars_and_cafes
+- cannaregio
 - bar
 title: Vino Vero
 type: poi

@@ -2,12 +2,7 @@
 latitude: 48.3615
 longitude: 10.9003
 snippet: Large Renaissance basilica at the southern end of Maximilianstrasse
-story: The Basilica of Saints Ulrich and Afra is one of the more unusual churches
-  in Germany: it was built as two separate churches — one Catholic, one Lutheran —
-  sharing the same building complex. The arrangement dates from the Peace of Augsburg
-  (1555), the treaty signed in this city that first established the principle of cuius
-  regio, eius religio — the religion of the ruler determines the religion of the
-  realm. The two communities used the church simultaneously for centuries.
+story: "The Basilica of Saints Ulrich and Afra is one of the more unusual churches in Germany: it was built as two separate churches — one Catholic, one Lutheran — sharing the same building complex. The arrangement dates from the Peace of Augsburg (1555), the treaty signed in this city that first established the principle of cuius regio, eius religio — the religion of the ruler determines the religion of the realm. The two communities used the church simultaneously for centuries."
 tags:
 - things_to_do
 - architecture

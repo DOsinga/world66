@@ -9,4 +9,4 @@ type: section
 
 **By boat:** The classic crossing of Lake Victoria to Bukoba on the **MV Victoria** runs overnight several times a week. Cabins are basic but adequate, and the passage at sunrise — with the lake mist clearing as you approach the western shore — is one of the most atmospheric journeys in East Africa. Buy tickets at the port a day or two in advance.
 
-**By road from the Serengeti:** Mwanza's airport is the easiest access point for the western corridor of the [Serengeti](/africa/tanzania/serengeti). The Ndabaka Gate is about 145 km east of the city, around three hours by road.
+**By road from the Serengeti:** Mwanza's airport is the easiest access point for the western corridor of the [Serengeti](/africa/tanzania/serengetinationalpark). The Ndabaka Gate is about 145 km east of the city, around three hours by road.

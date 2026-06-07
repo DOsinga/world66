@@ -19,4 +19,4 @@ Makarska itself is the main town and a popular tourist destination, with a palm-
 ## Destinations on the Makarska Riviera
 
 [Gradac](/europe/croatia/makarskariviera/gradac)
-[Podaca](/europe/croatia/makarskariviera/podaca)
+Podaca

@@ -1,0 +1,5 @@
+africa/niger/dosso
+africa/niger/maradi
+africa/nigeria/crossrivernationalpark
+africa/nigeria/sokoto
+africa/rwanda/butare

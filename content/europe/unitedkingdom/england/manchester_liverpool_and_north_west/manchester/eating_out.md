@@ -7,10 +7,10 @@ Quite frankly speaking, Manchester comes close to being the Walhallah of food. N
 
 ## Categories
 
-[Vegetarian](/europe/unitedkingdom/england/manchester/eatingout?subsection=Vegetarian)
-[Asian](/europe/unitedkingdom/england/manchester/eatingout?subsection=Asian)
+Vegetarian
+Asian
 
-[Italian](/europe/unitedkingdom/england/manchester/eatingout?subsection=Italian)
-[Indian](/europe/unitedkingdom/england/manchester/eatingout?subsection=Indian)
+Italian
+Indian
 
-[English](/europe/unitedkingdom/england/manchester/eatingout?subsection=English)
+English

@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei 12, Bucharest
 latitude: 44.4325
+loc_type: feature
 longitude: 26.0974
 snippet: 18th-century church holding the preserved arm of Saint Cyprian
 tags:

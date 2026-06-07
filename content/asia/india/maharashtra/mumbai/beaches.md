@@ -23,7 +23,7 @@ On the West(very close to the station).. there is a bus depot. Board the bus(far
 
 If you take the bus, then get off at the Kalamb stop and walk towards the beach (narrow road).
 
-If you want to laze just [more..](/asia/india/maharashtra/mumbai/beaches/kalamb)
+If you want to laze just spread out a sheet on the sand, watch the fishing boats come in and enjoy the quiet that Mumbai's better-known beaches have long since lost.
 
 
 

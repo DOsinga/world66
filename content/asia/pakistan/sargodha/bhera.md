@@ -2,7 +2,7 @@
 title: "Bhera"
 type: poi
 tags:
-  - sights
+  - things_to_do
   - historic_site
   - day_trip
 latitude: 32.482001

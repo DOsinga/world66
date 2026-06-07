@@ -1,6 +1,7 @@
 ---
 address: Rue Grande, 5500 Dinant
 latitude: 50.2611
+loc_type: feature
 longitude: 4.9115
 snippet: Famously hard honey biscuits from Dinant, pressed into decorative moulds
 tags:

@@ -10,7 +10,7 @@ title: Shirdi
 type: location
 ---
 
-Shirdi is a small pilgrimage town in Maharashtra, about 90 km from [Nasik](/asia/india/maharashtra/nasik), known almost entirely for one thing: the Sai Baba temple complex. Sai Baba of Shirdi was a saint who lived here in the late 19th and early 20th century, and whose teachings drew followers from both Hindu and Muslim communities. That cross-faith appeal survives today — the temple draws millions of devotees of both religions each year.
+Shirdi is a small pilgrimage town in Maharashtra, about 90 km from [Nasik](/asia/india/maharashtra/nashik), known almost entirely for one thing: the Sai Baba temple complex. Sai Baba of Shirdi was a saint who lived here in the late 19th and early 20th century, and whose teachings drew followers from both Hindu and Muslim communities. That cross-faith appeal survives today — the temple draws millions of devotees of both religions each year.
 
 Thursday is the most sacred day. A special Aarti (prayer ceremony) is performed in the temple, and crowds swell noticeably. If you want a quieter visit, come on another day of the week.
 

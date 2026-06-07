@@ -11,7 +11,7 @@ Connauht Place is the main shopping area. The complex, popularly referred to as 
 
 **Chandni Chowk**
 
-Chandni Chowk was the eyes and ears of the Mughal's commercial instincts and is today one of the country's best known wholesale markets for textiles, electronic goods and watches. The entire area was designed by Jahanara Begum, Shah Jahan's favourite daughter and was then inhabited by the well-to [more..](/asia/india/delhi/shopping/chandnichowk)
+Chandni Chowk was the eyes and ears of the Mughal's commercial instincts and is today one of the country's best known wholesale markets for textiles, electronic goods and watches. The entire area was designed by Jahanara Begum, Shah Jahan's favourite daughter and was then inhabited by the well-to-do nobles of the Mughal court. Today the narrow lanes are packed with jewellers, sari shops, spice stalls and street food.
 
 **Government Emporium**
 

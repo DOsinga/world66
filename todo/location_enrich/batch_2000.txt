@@ -1,0 +1,5 @@
+europe/italy/liguria/italianriviera/thecinqueterre
+europe/italy/campania/amalfi
+europe/italy/campania/pompeii
+europe/greece/corfu
+europe/greece/crete

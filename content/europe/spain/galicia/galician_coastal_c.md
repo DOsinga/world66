@@ -6,7 +6,7 @@ longitude: -8.724721
 snippet: Hands-on cooking, island boats, and Albariño in Rías Baixas
 tags:
 - food
-- tours_and_excursio
+- tours_and_excursions
 title: Galician Coastal Cooking and Wine Tour
 type: poi
 ---

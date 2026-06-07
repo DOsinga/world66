@@ -17,7 +17,7 @@ It sounds like a complicated trip, but it´s actually quite relaxed. If you leav
 
 From [Chiclayo](/southamerica/peru/chiclayo) you can take a direct bus to San Ignacio with Turismo Adrianzen. Their office is at Balta and Parque San Carlos. They charge 25 soles. It's a night bus, leaving at 8 pm and arriving at 6 am in San Ignacio. However, these buses are of very low comfort (they don't even have TV).
 
-From [Jaén](/southamerica/peru/northern_pacific_t/jan) you can take a collectivo to San Ignacio for 12 soles. Coming from Chiclayo, it might be a better idea to take a bus to [Jaén](/southamerica/peru/northern_pacific_t/jan) with Civa or Lineas, then take this colectivo.
+From Jaén you can take a collectivo to San Ignacio for 12 soles. Coming from Chiclayo, it might be a better idea to take a bus to Jaén with Civa or Lineas, then take this colectivo.
 
 **Contributors**
 May 09, 2006

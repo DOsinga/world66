@@ -1,20 +1,10 @@
 ---
-title: "Getting Around in Cape Town"
+title: Getting Around
 type: section
 ---
 
-The **Cape Town Transportation** system is undemanding and makes traveling easy, even for first-time visitors. Some of the more affordable choices for getting around in Cape Town include:
+The MyCiti bus is Cape Town's modern rapid transit system, with air-conditioned articulated buses running on dedicated lanes. It covers the city centre, the V&A Waterfront, Sea Point, Camps Bay, Green Point, Bloubergstrand and the airport. Fares are paid with a myconnect card (available at stations and some shops). The system is reliable, clean and straightforward to use — the best option for most tourist journeys.
 
-**Getting around by Public Buses**
+Uber and Bolt operate throughout the city and are generally the most practical option for point-to-point travel, including at night. Metered taxis exist but are less common than in other African cities — phone bookings or hotel-arranged taxis are safer than flagging one down. The minibus taxis that serve most of the population are cheap but follow informal routes that require local knowledge; not recommended for first-time visitors.
 
-Though the public transport system does have a bus service which runs according to a schedule, buses aren’t recommended for long journeys. Most buses tend to move slowly and there are too many stoppages. The public buses pick-up people from the nearby suburban railway stations, adding hours to the total, transit time. However, the bus route along the suburban rail-line of Simons Town is recommended. This is a bus route worth exploring with the waves often breaking-off the surrounding cliff and drenching the customers.
-
-**Getting around by Rental Cars**
-
-A good idea is to hire a car for the day. Such rentals are easily available for a small security deposit. However, you need to have a valid driver's license. Car rentals can be ordered from the main airport itself or from the desk of any hotel.
-
-**Getting around by Taxi/Cabs**
-If you are apprehensive about driving in Cape Town, using its Minibus Taxi service is recommended. This taxi service has become endemic to Cape Town and is often interpreted as a defining feature of this city. The Minibus is economical and travels to every part of the city. However, if you are in a hurry and finding a taxi becomes difficult, you can opt for a private cab. These are the more expensive and luxurious than the Minibus service and can be easily ordered through a phone call.
-
-**Contributors**
-March 13, 2010
+Metrorail suburban trains connect the city centre to Simon's Town (along False Bay), Stellenbosch and other suburbs, but the network has suffered from vandalism, unreliable service and safety concerns. The Simon's Town line is the most used by visitors and is generally manageable during daylight hours. For visiting the Cape Peninsula, the V&A Waterfront and the wine country, renting a car for a day or two gives you the most flexibility.

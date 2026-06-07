@@ -2,12 +2,7 @@
 latitude: 5.5539
 longitude: -73.3562
 snippet: Sacred Muisca well wrapped in a love-and-incest origin legend
-story: The Muisca told a story about Hunzahúa, the chief who gave Tunja (then Hunza)
-  its name: he fell in love with his own sister Noncetá, and the two of them were
-  driven out of the city under a curse. As they fled, the chicha (corn beer) the
-  sister was carrying overflowed and formed this very well — which the Muisca then
-  considered sacred. When the Spanish arrived they tried to drain it looking for
-  gold; centuries of sediment have refilled it but the depression remains.
+story: "The Muisca told a story about Hunzahúa, the chief who gave Tunja (then Hunza) its name: he fell in love with his own sister Noncetá, and the two of them were driven out of the city under a curse. As they fled, the chicha (corn beer) the sister was carrying overflowed and formed this very well — which the Muisca then considered sacred. When the Spanish arrived they tried to drain it looking for gold; centuries of sediment have refilled it but the depression remains."
 tags:
 - things_to_do
 - sight

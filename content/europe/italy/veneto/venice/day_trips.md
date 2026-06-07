@@ -11,7 +11,7 @@ May 25, 2008
 
 ### [Lido Island](/europe/italy/veneto/venice/day_trips/walks_inside_venic)
 
-This 11-mile long sandbar has two large public beaches as well as hotels, shops, and restaurants. The beaches and this area of the Adriatic Sea are clean and the water is warm. Swimming is safe enough for small children. Other areas of the island comprise private beaches, three settlements, and roughly 20,000 lucky residents. Lido is also home to the Venice Film Festival ( *www.labiennale.org*) which takes place during the first week of September and it is also home to the only golf course in Venice - The Venice Golf Club ( *www.circologolfvenezia.it*). [more..](/europe/italy/veneto/venice/day_trips/walks_inside_venic)
+This 11-mile long sandbar has two large public beaches as well as hotels, shops, and restaurants. The beaches and this area of the Adriatic Sea are clean and the water is warm. Swimming is safe enough for small children. Other areas of the island comprise private beaches, three settlements, and roughly 20,000 lucky residents. Lido is also home to the Venice Film Festival ( *www.labiennale.org*) which takes place during the first week of September and it is also home to the only golf course in Venice - The Venice Golf Club ( *www.circologolfvenezia.it*). To get there, hop on a vaporetto from San Marco; the ride takes about ten minutes.
 
 
 
@@ -21,7 +21,7 @@ address: Lido Tourist Office: Gran Viale 6
 
 ### [Chioggia](/europe/italy/veneto/venice/day_trips/chioggia)
 
-Located around a two-hour ride by boat from Venice is the City of Chioggia. Chioggia is considered the second most important city in the Venetian lagoon. Venice is, of course, the first. Chioggia features several notable canals, some worthy structures (although many are crumbling), and a more relaxed environment than Venice. An added benefit -- the boat on the way to Chioggia stops at Alberoni and Pellestrina. Both areas are popular for their beaches. To get to Chioggia, take a bus from the Lido (*www.actv.it*). From central Venice, take the #1 vaporetto to the Lido. [more..](/europe/italy/veneto/venice/day_trips/chioggia)
+Located around a two-hour ride by boat from Venice is the City of Chioggia. Chioggia is considered the second most important city in the Venetian lagoon. Venice is, of course, the first. Chioggia features several notable canals, some worthy structures (although many are crumbling), and a more relaxed environment than Venice. An added benefit -- the boat on the way to Chioggia stops at Alberoni and Pellestrina. Both areas are popular for their beaches. To get to Chioggia, take a bus from the Lido (*www.actv.it*). From central Venice, take the #1 vaporetto to the Lido, then catch the connecting bus down the length of the island.
 
 
 

@@ -1,17 +1,18 @@
 ---
 done:
+  link_coverage: '2026-06-07'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-04'
+image: blumenal.jpg
+image_attribution: charles242
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Foto_a%C3%A9rea_Blumenau.jpg
 latitude: -26.9194
+loc_type: city
 longitude: -49.0661
+score: 0.48
 title: Blumenau
 type: location
-score: 0.48
-loc_type: city
-image: blumenal.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Foto_a%C3%A9rea_Blumenau.jpg
-image_license: CC BY 3.0
-image_attribution: charles242
 ---
 
 Blumenau is one of Brazil's most distinctive cities — a place where German heritage runs so deep that the streets, the architecture, and the beer halls could almost convince you that you had somehow landed in Bavaria. Founded in 1850 by German pharmacist Hermann Bruno Otto Blumenau, who led a group of settlers into the Itajaí Valley in what is now Santa Catarina state, the city grew into a thriving industrial and cultural hub that never forgot where it came from.

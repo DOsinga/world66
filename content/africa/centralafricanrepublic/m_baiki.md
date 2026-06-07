@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-05'
 latitude: 3.8667
 longitude: 17.9833
 title: M'Baïki

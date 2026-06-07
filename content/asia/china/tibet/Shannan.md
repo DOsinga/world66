@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: Shannan.jpg
 image_attribution: Unknown
 image_license: CC BY-SA 2.0

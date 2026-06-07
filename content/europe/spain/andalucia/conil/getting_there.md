@@ -3,7 +3,7 @@ title: Getting There
 type: section
 ---
 
-Conil has no train station. The nearest rail connection is [Jerez de la Frontera](/europe/spain/andalucia/jerez) or [Cádiz](/europe/spain/andalucia/cadiz), both served by Renfe from Seville and Málaga.
+Conil has no train station. The nearest rail connection is [Jerez de la Frontera](/europe/spain/andalucia/jerezdelafrontera) or [Cádiz](/europe/spain/andalucia/cadiz), both served by Renfe from Seville and Málaga.
 
 **By bus** is the standard approach. Comes y Va and other operators run regular services between Cádiz bus station and Conil (around 45 minutes). There are also direct buses from Seville, though frequency varies by season. The Conil bus stop is on Avenida de la Playa, a short walk from the old town and beaches.
 

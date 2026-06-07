@@ -1,6 +1,7 @@
 ---
 address: Calea Văcărești, Bucharest
 latitude: 44.4002
+loc_type: feature
 longitude: 26.1325
 snippet: Abandoned Communist reservoir turned protected urban wetland
 tags:

@@ -33,7 +33,7 @@ The very word Belarus should inspire visions of beauty and kindness, if it does 
 [Minsk](/europe/belarus/minsk)
 [Brest](/europe/belarus/brest)
 [Vitebsk](/europe/belarus/vitebsk)
-[Grodno](/europe/belarus/grodno)
+[Grodno](/europe/belarus/hrodna_grodno)
 [Gomel](/europe/belarus/gomel)
 [Slutsk](/europe/belarus/slutsk)
 [Pinsk](/europe/belarus/pinsk)

@@ -1,6 +1,7 @@
 ---
 address: Pont Charles de Gaulle, 5500 Dinant
 latitude: 50.2596
+loc_type: feature
 longitude: 4.9131
 snippet: Bridge decorated with painted saxophones from across the EU
 tags:

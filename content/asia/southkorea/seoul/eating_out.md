@@ -7,9 +7,9 @@ Seoul is quite a metropolis so whatever type of cuisine you're looking for, ther
 
 ## Categories
 
-[Vegetarian](/asia/southkorea/seoul/eatingout?subsection=Vegetarian)
-[Korean](/asia/southkorea/seoul/eatingout?subsection=Korean)
+Vegetarian
+Korean
 
-[Italian](/asia/southkorea/seoul/eatingout?subsection=Italian%20)
+Italian
 
-[French](/asia/southkorea/seoul/eatingout?subsection=French)
+French

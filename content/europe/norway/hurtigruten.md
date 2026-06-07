@@ -16,4 +16,4 @@ Cabins are comfortable and you want one with windows. Even if you are only going
 
 ## Destinations in Hurtigruten
 
-[The Hurtigruten boats](/europe/norway/hurtigruten/the_hurtigruten_bo)
+The Hurtigruten boats

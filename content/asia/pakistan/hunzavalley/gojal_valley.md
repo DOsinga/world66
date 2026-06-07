@@ -27,4 +27,4 @@ The main villages along the highway are **Gulmit** (the traditional capital), **
 - [Hussaini / Sisuni](/asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni)
 - [Shishkat](/asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal)
 - [Moorkhoun](/asia/pakistan/hunzavalley/gojal_valley/moorkhoun)
-- [Chapursan Valley](/asia/pakistan/hunzavalley/gojal_valley/chipurson_gojal_1)
+- Chapursan Valley

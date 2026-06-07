@@ -14,7 +14,7 @@ title: Lake Elmenteita
 type: location
 ---
 
-Lake Elmenteita is a shallow soda lake in the Rift Valley, sitting between [Lake Nakuru](/africa/kenya/lakes/lakenakuru) and [Lake Naivasha](/africa/kenya/lakes/lakenaivasha) along the floor of the Great Rift. It is part of the Kenya Lake System UNESCO World Heritage Site and one of the less-visited lakes in the valley, which is precisely its appeal. Flamingos frequent the alkaline waters, though not in the vast numbers you will see at Lake Nakuru or Lake Bogoria.
+Lake Elmenteita is a shallow soda lake in the Rift Valley, sitting between [Lake Nakuru](/africa/kenya/nationalparksandreserves/lakenakurunp) and [Lake Naivasha](/africa/kenya/lakes/lakenaivasha) along the floor of the Great Rift. It is part of the Kenya Lake System UNESCO World Heritage Site and one of the less-visited lakes in the valley, which is precisely its appeal. Flamingos frequent the alkaline waters, though not in the vast numbers you will see at Lake Nakuru or Lake Bogoria.
 
 The real advantage of Elmenteita is that it is not a national park, so you can walk freely around the [shoreline](/africa/kenya/lakes/lakeelmenteita/lake_shoreline) without paying park fees or being confined to a vehicle. The surrounding grasslands support gazelle, zebra, and pelicans, and the [Kariandusi](/africa/kenya/lakes/lakeelmenteita/kariandusi) prehistoric site — an important Stone Age excavation — lies just nearby. The lake is also a significant breeding ground for great white pelicans, which nest on the small islands and rocky outcrops.
 

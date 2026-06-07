@@ -1,15 +1,24 @@
 ---
-title: "Kirstenbosch National Botanical Garden"
-type: poi
 category: Park
 latitude: -33.9879
 longitude: 18.4324
+scores:
+  activities: 0.6005
+  park: 0.7173
+  sight: 0.6526
+  sightseeing: 0.6538
 snippet: World-class botanical garden on Table Mountain's eastern slopes
+story: Kirstenbosch was founded in 1913 on land bequeathed by Cecil Rhodes, and was
+  the first botanical garden in the world dedicated to a country's indigenous flora
+  — in this case the Cape Floristic Region, one of only six floral kingdoms in the
+  world. The centenary Tree Canopy Walkway, opened in 2014, snakes 130 metres through
+  the upper canopy at heights of up to 12 metres.
 tags:
 - things_to_do
 - sight
 - park
-story: Kirstenbosch was founded in 1913 on land bequeathed by Cecil Rhodes, and was the first botanical garden in the world dedicated to a country's indigenous flora — in this case the Cape Floristic Region, one of only six floral kingdoms in the world. The centenary Tree Canopy Walkway, opened in 2014, snakes 130 metres through the upper canopy at heights of up to 12 metres.
+title: Kirstenbosch National Botanical Garden
+type: poi
 ---
 
 Kirstenbosch is one of the great botanical gardens of the world, set against the eastern flanks of Table Mountain with vast lawns, indigenous fynbos, ancient cycads, and meticulously labelled plantings of South Africa's extraordinary endemic flora. In spring (September–October) the gardens are at their best, with the Cape's wildflower season at full throttle.

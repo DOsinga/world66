@@ -1,13 +1,18 @@
 ---
-title: "Iziko Planetarium and Digital Dome"
-type: poi
 category: Planetarium
 latitude: -33.9289
 longitude: 18.4153
+neighbourhood: City Bowl
+scores:
+  activities: 0.6288
+  sightseeing: 0.6408
 snippet: Refurbished digital planetarium next door to the South African Museum
 tags:
 - things_to_do
 - science
+- city_bowl
+title: Iziko Planetarium and Digital Dome
+type: poi
 ---
 
 The Iziko Planetarium, attached to the South African Museum in the Company's Garden, has been completely rebuilt as a digital dome — one of the most advanced in the southern hemisphere. The 8K full-dome projection system delivers a much sharper experience than the old optical projector it replaced.

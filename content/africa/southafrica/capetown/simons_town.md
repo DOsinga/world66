@@ -1,14 +1,18 @@
 ---
-title: "Simon's Town"
-type: poi
 category: Town
 latitude: -34.1928
 longitude: 18.4308
-snippet: Naval town with Victorian high street, naval museum, and access to Boulders Beach
+scores:
+  activities: 0.5594
+  sightseeing: 0.6319
+snippet: Naval town with Victorian high street, naval museum, and access to Boulders
+  Beach
 tags:
 - things_to_do
 - day_trips
 - history
+title: Simon's Town
+type: poi
 ---
 
 Simon's Town is the historic Royal Navy base on the False Bay side of the peninsula, with a Victorian main street still lined with naval-themed shops, pubs and small museums. It has been the South African Navy's main base since the British handed over the dockyard in 1957, and the harbour is dominated by grey warships and frigates.

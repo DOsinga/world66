@@ -1,13 +1,19 @@
 ---
-title: "Cape Town Stadium"
-type: poi
 category: Stadium
 latitude: -33.9036
 longitude: 18.4108
+neighbourhood: Green Point
+scores:
+  architecture: 0.6852
+  sight: 0.6574
 snippet: 55,000-seat 2010 World Cup stadium between the city and the sea
 tags:
+- things_to_do
 - sight
 - architecture
+- green_point
+title: Cape Town Stadium
+type: poi
 ---
 
 The Cape Town Stadium was built for the 2010 FIFA World Cup, designed by gmp Architects with a translucent roof and a sculpted bowl shape that responds to its tight site between Signal Hill and the harbour. The stadium has been criticised for its post-World Cup underuse, but on rugby and football match days it pulls a vibrant crowd.

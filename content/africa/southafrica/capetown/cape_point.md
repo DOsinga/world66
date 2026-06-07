@@ -1,15 +1,21 @@
 ---
-title: "Cape Point and Cape of Good Hope"
-type: poi
 category: Nature Reserve
 latitude: -34.3568
 longitude: 18.4972
+scores:
+  activities: 0.5854
+  sightseeing: 0.6495
 snippet: Wind-blown headland at the tip of the Cape Peninsula
+story: Cape Point is famously, and incorrectly, called the southernmost point of Africa
+  — that honour actually belongs to Cape Agulhas, 150 km further east. What Cape Point
+  genuinely is is the dramatic southwestern tip of the peninsula and one of the most
+  photographed clifftop lighthouses in the world.
 tags:
 - things_to_do
 - day_trips
 - outdoor
-story: Cape Point is famously, and incorrectly, called the southernmost point of Africa — that honour actually belongs to Cape Agulhas, 150 km further east. What Cape Point genuinely is is the dramatic southwestern tip of the peninsula and one of the most photographed clifftop lighthouses in the world.
+title: Cape Point and Cape of Good Hope
+type: poi
 ---
 
 Cape Point and the adjoining Cape of Good Hope are the dramatic, weather-beaten tip of the Cape Peninsula, an hour and a half south of central Cape Town. The reserve covers about 7,750 hectares of fynbos, dunes, beaches and rocky coast, and is home to baboons, eland, ostrich and the endemic bontebok.

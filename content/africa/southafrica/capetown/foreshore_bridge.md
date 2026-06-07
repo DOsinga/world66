@@ -1,14 +1,24 @@
 ---
-title: "Foreshore Freeway Bridge"
-type: poi
 category: Curiosity
 latitude: -33.9181
 longitude: 18.4267
+neighbourhood: Green Point
+scores:
+  architecture: 0.6409
+  sight: 0.6543
 snippet: Half-finished concrete flyover abandoned mid-construction since the 1970s
+story: Construction on the Foreshore Freeway began in the 1970s as part of an ambitious
+  motorway plan that would have driven elevated highways right through the historic
+  centre. Funding collapsed, the project was abandoned, and the central section of
+  the flyover has never been connected — it ends in mid-air, looking out over the
+  Foreshore at exactly the height of a passing seabird.
 tags:
+- things_to_do
 - sight
 - architecture
-story: Construction on the Foreshore Freeway began in the 1970s as part of an ambitious motorway plan that would have driven elevated highways right through the historic centre. Funding collapsed, the project was abandoned, and the central section of the flyover has never been connected — it ends in mid-air, looking out over the Foreshore at exactly the height of a passing seabird.
+- green_point
+title: Foreshore Freeway Bridge
+type: poi
 ---
 
 The Foreshore Freeway Bridge is one of the more peculiar features of central Cape Town: a wide concrete flyover whose central span was never completed, leaving the road to end abruptly in mid-air above the Foreshore traffic. It has stood unfinished for more than fifty years, despite repeated revival attempts.

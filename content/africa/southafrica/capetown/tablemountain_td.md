@@ -3,11 +3,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: -33.959063
 longitude: 18.403872
+scores:
+  activities: 0.5767
+  landmark: 0.6534
+  sightseeing: 0.6426
 snippet: Cape Town's iconic flat-topped mountain with cable car
 tags:
 - things_to_do
-- landmark
-- story
+- sight
 title: Table Mountain
 type: poi
 ---

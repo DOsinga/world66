@@ -1,13 +1,19 @@
 ---
-title: "Long Street"
-type: poi
 category: Street
 latitude: -33.9237
 longitude: 18.4148
+neighbourhood: City Bowl
+scores:
+  activities: 0.615
+  sight: 0.6588
+  sightseeing: 0.6138
 snippet: Bohemian central street of antique shops, bookshops, bars and Victorian balconies
 tags:
 - things_to_do
 - sight
+- city_bowl
+title: Long Street
+type: poi
 ---
 
 Long Street is the most characterful of central Cape Town's streets, lined with cast-iron balconied Victorian buildings, antique stores, bookshops, backpacker hostels and a thick concentration of bars, restaurants and clubs. By day it is gently scruffy; by night it is the loudest strip in the city centre.

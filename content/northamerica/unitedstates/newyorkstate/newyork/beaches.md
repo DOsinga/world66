@@ -1,29 +1,6 @@
 ---
-title: "Beaches"
+title: Beaches
 type: section
 ---
 
-Coney Island
-
-Jones Beach State Park is a hugh sandy beach located just outside of New York City on Long Island on the Atlantic Ocean. It is a great place to spend a day if you enjoy swimming or relaxing on the sand with none of the commercialization of Coney Island.
-
-**Contributors**
-February 02, 2008
-
-## Destinations in New York
-
-- [Brooklyn](/northamerica/unitedstates/newyorkstate/newyork/brooklyn)
-
-- [Queens](/northamerica/unitedstates/newyorkstate/newyork/queens)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+New York is a beach city in summer — you just have to know where to look. The classic destinations are **Coney Island** in Brooklyn, with its boardwalk, Nathan's hot dogs and Cyclone roller coaster, and the quieter **Rockaway Beach** in Queens, reachable on the A train. For something less crowded and considerably more pleasant, ride the Long Island Rail Road out to **Jones Beach State Park**: a long, wide stretch of Atlantic sand with a working bandshell, plenty of room, and none of the commercial frenzy of Coney Island. Further east on Long Island are the Hamptons and Montauk, where the water is cleaner and the surf is real.

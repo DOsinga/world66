@@ -10,7 +10,7 @@ title: Adel
 type: location
 ---
 
-Adel is the county seat of Dallas County, a small town of about 6,000 people sitting just west of [Des Moines](/northamerica/unitedstates/iowa/des_moines) along the Raccoon River. The historic [courthouse square](/northamerica/unitedstates/iowa/adel/dallas_county_courthouse) anchors a compact downtown with a handful of independent shops, a couple of restaurants, and the kind of unhurried pace that makes a real contrast with the state capital twenty minutes down the road.
+Adel is the county seat of Dallas County, a small town of about 6,000 people sitting just west of [Des Moines](/northamerica/unitedstates/iowa/desmoines) along the Raccoon River. The historic [courthouse square](/northamerica/unitedstates/iowa/adel/dallas_county_courthouse) anchors a compact downtown with a handful of independent shops, a couple of restaurants, and the kind of unhurried pace that makes a real contrast with the state capital twenty minutes down the road.
 
 The town's biggest draw is the [Annual Sweet Corn Festival](/northamerica/unitedstates/iowa/adel/sweet_corn_festival) in August — over seven tonnes of free sweet corn, a parade that is the largest in the county, and a craft fair that takes over the square. If you happen to be in central Iowa in late summer, it is worth timing a visit around it. Outside of festival season, the [Raccoon River Valley Trail](/northamerica/unitedstates/iowa/adel/raccoon_river_valley_trail) is the main attraction: a 90-mile paved trail for cycling and walking that passes through Adel and connects several small towns across Dallas County.
 

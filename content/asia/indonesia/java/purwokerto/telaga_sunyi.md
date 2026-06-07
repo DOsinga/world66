@@ -4,7 +4,7 @@ type: poi
 tags: [things_to_do, nature, sight]
 latitude: -7.3080
 longitude: 109.2160
-story: "Telaga Sunyi" means "quiet lake" in Javanese, and the name is well earned — the walk through forest to reach it filters out most of the weekend crowds who stay at the main resort area below.
+story: "\"Telaga Sunyi\" means \"quiet lake\" in Javanese, and the name is well earned — the walk through forest to reach it filters out most of the weekend crowds who stay at the main resort area below."
 ---
 
 Telaga Sunyi is a small natural lake set in the forest about 2 km above the main Baturraden resort, reached by a walking trail that branches off from the Lokawisata park. The walk takes 30–45 minutes through secondary montane forest, passing streams and patches of fern-covered slope, and the lake itself sits in a shallow depression surrounded by trees. The water is dark and still; the atmosphere, especially on weekday mornings, lives up to the name.

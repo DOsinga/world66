@@ -514,7 +514,7 @@ def update_frontmatter(md_path: Path, filename: str, source_url: str, license_st
     """Update the markdown file's frontmatter with image fields.
 
     If the file already has duplicate image_* keys from an older write,
-    run `python3 tools/check_frontmatter.py --fix` first to clean them up.
+    run `python3 tools/linter.py --fix` first to clean them up.
     """
     post = frontmatter.load(md_path)
     post['image'] = filename

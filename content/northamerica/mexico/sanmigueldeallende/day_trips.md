@@ -10,7 +10,7 @@ url: "www.geocities.com"
 ******
 **
 
-### [Transport & Tours in San Miguel de Allende](/northamerica/mexico/sanmigueldeallende/day_trips/transport__tours)
+### Transport & Tours in San Miguel de Allende
 
 Provides day trips and private transportation to and from San Miguel de Allende.
 
@@ -30,12 +30,12 @@ address: Prol. Pila Seca 21, San Miguel de Allende, Gto.
 
 email: smashuttle@gmail.com
 
-### [AIRPORT TRANSPORTATION & TOURS IN SAN MIGUEL DE ALLENDE](/northamerica/mexico/sanmigueldeallende/day_trips/airport_transporta)
+### AIRPORT TRANSPORTATION & TOURS IN SAN MIGUEL DE ALLENDE
 
 *JULIO TOURS* cordially invites you to take advantage of the many historical and interesting sights around San Miguel de Allende and its surrounding Towns.
 Your travel arrangements will be provided by *Julio Cesar Tovar* a highly regarded Tour Guide since 2000.
 I warranty a memorable experience as you will be learning about this wonderful and historic Town from Federally Licensed and Bilingual Guides while comfortably seated in the latest model vehicles.
-You will be picked up at your home at a designated hour (or you can decide [more..](/northamerica/mexico/sanmigueldeallende/day_trips/airport_transporta)
+You will be picked up at your home at a designated hour (or you can decide on a different pickup point) and returned at the end of the day. Custom itineraries to Atotonilco, Dolores Hidalgo, Guanajuato and the surrounding wine country are all available.
 
 
 
@@ -49,7 +49,7 @@ address: San Miguel de Allende, Guanajuato
 
 email: tovarjuliocesar@hotmail.com
 
-### [Day trip](/northamerica/mexico/sanmigueldeallende/day_trips/day_trip)
+### Day trip
 
 **Airport Transfers / tours mexico ( san Miguel de allende)**
 
@@ -67,7 +67,7 @@ Leon, Queretaro, Mexico City & Guadalajara Airports.
 We are able to offer
 24 hour service
 Same price whatever time of day
-Reliable [more..](/northamerica/mexico/sanmigueldeallende/day_trips/day_trip)
+Reliable, English-speaking drivers and clean, modern vehicles for both transfers and day excursions.
 
 
 

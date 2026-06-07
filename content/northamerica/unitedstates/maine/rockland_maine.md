@@ -16,4 +16,4 @@ The [Farnsworth Art Museum](/northamerica/unitedstates/maine/rockland_maine/farn
 
 Walk out along the [mile-long granite breakwater](/northamerica/unitedstates/maine/rockland_maine/rockland_breakwater) to the Rockland Breakwater Lighthouse for one of the finest views on the Maine coast. The breakwater takes about 20 minutes each way and the walk itself is the attraction — the harbor on one side, open bay on the other. The [Maine Lighthouse Museum](/northamerica/unitedstates/maine/rockland_maine/maine_lighthouse_museum) downtown covers the state's extensive lighthouse history with a surprisingly large collection of original Fresnel lenses.
 
-The Maine State Ferry connects Rockland to Vinalhaven and North Haven, two island communities worth a day trip. The town is also a natural base for [Camden](/northamerica/unitedstates/maine/camden_maine), a prettier but more tourist-polished harbor town a few miles up the coast.
+The Maine State Ferry connects Rockland to Vinalhaven and North Haven, two island communities worth a day trip. The town is also a natural base for Camden, a prettier but more tourist-polished harbor town a few miles up the coast.

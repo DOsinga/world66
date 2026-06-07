@@ -13,4 +13,4 @@ Benaulim and Varca are the nearest beaches to the south (2km and 5km respectivel
 
 [Old Goa](/asia/india/goa/oldgoa) (30km north) is the UNESCO World Heritage site at the heart of Portuguese colonial Goa: the Basilica of Bom Jesus, the Se Cathedral, and a cluster of churches and convents that are the most impressive surviving monuments of Portugal's Asian empire. A full morning is barely enough.
 
-[Palolem](/asia/india/goa/palolem) (around 45km south) is a crescent-shaped beach that is widely considered one of the most beautiful in Goa — more sheltered, cleaner, and more dramatically scenic than Colva. The drive takes about an hour by scooter on the NH66, or longer via the back roads.
+[Palolem](/asia/india/goa/palolim) (around 45km south) is a crescent-shaped beach that is widely considered one of the most beautiful in Goa — more sheltered, cleaner, and more dramatically scenic than Colva. The drive takes about an hour by scooter on the NH66, or longer via the back roads.

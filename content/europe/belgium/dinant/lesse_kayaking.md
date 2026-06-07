@@ -1,6 +1,7 @@
 ---
 address: Anseremme, 5500 Dinant
 latitude: 50.2383
+loc_type: feature
 longitude: 4.9056
 snippet: Half-day kayak descent of the River Lesse from Houyet
 tags:

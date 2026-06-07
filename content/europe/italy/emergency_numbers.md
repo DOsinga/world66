@@ -5,7 +5,7 @@ snippet: Italy's essential emergency phone numbers for police, fire, and ambulan
 tags:
 - practical_info
 - safety
-- practical_informat
+- practical_information
 title: Emergency Numbers
 type: poi
 ---

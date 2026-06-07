@@ -9,4 +9,4 @@ The inter-island ferries, which are free to pedestrians, not only provide access
 
 There is a small airport at Mariehamn.
 
-Minor corrections by [davidx](/world/member/davidx) on 18 December 04
+Minor corrections by davidx on 18 December 04

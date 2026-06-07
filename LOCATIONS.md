@@ -89,6 +89,8 @@ Only where relevant (coastal cities).
 
 Climate, seasons, best times to visit, events worth timing a trip around.
 
+For non-country locations (regions, cities, features), only add a `when_to_go` section when the place is **substantially different** from its parent country — a high-altitude city, a tropical island off a temperate coast, a place with unique events worth timing a visit around. Amsterdam doesn't need its own when_to_go when the Netherlands has one; Quito does, because the equatorial mountains override Ecuador's general climate story.
+
 ### Getting There (`getting_there.md`)
 
 How to arrive — airports, train stations, bus connections.

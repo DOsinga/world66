@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-22'
+  lp_coverage: '2026-06-05'
 image: ninh_binh.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Tam_Coc_by_Tuan_Mai_%22007%22_(8888350545).jpg

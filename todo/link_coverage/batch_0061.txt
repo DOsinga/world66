@@ -1,0 +1,5 @@
+europe/norway/voss
+europe/poland/rzeszow
+europe/portugal/batalha
+europe/portugal/ponte_da_barca
+europe/portugal/sesimbra

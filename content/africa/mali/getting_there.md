@@ -21,7 +21,7 @@ Overland entry into Mali carries significant risk. Most Western governments advi
 
 The most viable land crossing historically was from [Senegal](/africa/senegal) via Kayes, on the railway line from Dakar. The Dakar–Bamako railway is functional but slow and unreliable; the journey takes two to three days. The road from the Senegalese border to Kayes is paved but security has deteriorated.
 
-Border crossings from [Burkina Faso](/africa/burkinafaso) in the south, and from [Guinea](/africa/guinea) and [Côte d'Ivoire](/africa/cotedivoire) in the southwest, were used by travellers historically. All should be considered high-risk at present. The routes through the north — from [Algeria](/africa/algeria), [Niger](/africa/niger), or [Mauritania](/africa/mauritania) — are effectively closed to independent travellers due to jihadist activity.
+Border crossings from [Burkina Faso](/africa/burkinafaso) in the south, and from [Guinea](/africa/guineeconakry) and [Côte d'Ivoire](/africa/ivorycoast) in the southwest, were used by travellers historically. All should be considered high-risk at present. The routes through the north — from [Algeria](/africa/algeria), [Niger](/africa/niger), or [Mauritania](/africa/mauritania) — are effectively closed to independent travellers due to jihadist activity.
 
 If you are travelling overland despite the risks, go with a local guide who has current intelligence, travel in convoy where possible, and avoid night driving.
 

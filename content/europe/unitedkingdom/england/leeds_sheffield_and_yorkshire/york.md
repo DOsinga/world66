@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-12'
+  lp_coverage: '2026-06-05'
   poi_cleanup: '2026-04-21'
 image: york.jpg
 image_attribution: wwwuppertal on Flickr

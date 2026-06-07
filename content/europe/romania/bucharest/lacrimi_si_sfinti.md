@@ -1,6 +1,7 @@
 ---
 address: Strada Șepcari 16, Bucharest
 latitude: 44.4321
+loc_type: feature
 longitude: 26.1018
 snippet: Modern Romanian cuisine in a stripped-back Old Centre interior
 tags:

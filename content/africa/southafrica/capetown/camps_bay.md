@@ -2,7 +2,6 @@
 category: Beach
 latitude: -33.9509
 longitude: 18.3779
-neighbourhood: Camps Bay
 scores:
   activities: 0.5808
   sightseeing: 0.6296
@@ -10,7 +9,6 @@ snippet: White-sand Atlantic beach below the Twelve Apostles
 tags:
 - things_to_do
 - beach
-- camps_bay_neighbourhood
 title: Camps Bay
 type: poi
 ---

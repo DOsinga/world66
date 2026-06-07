@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-06
+  location_create: '2026-06-04'
   location_enrich: '2026-06-03'
 image: springfield.jpg
 image_attribution: Meagan Davis

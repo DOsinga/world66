@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: ashtarak.jpg
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/74089637@N00/2975046670

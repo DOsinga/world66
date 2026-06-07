@@ -3,7 +3,7 @@ title: O2 Academy Brixton
 type: poi
 tags:
   - things_to_do
-  - nightlife
+  - bars_and_cafes
 snippet: "One of London's best mid-size live music venues, ornate 1929 theatre"
 address: 211 Stockwell Road, London SW9 9SL
 phone: 020 7771 3000

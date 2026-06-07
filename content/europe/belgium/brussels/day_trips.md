@@ -7,7 +7,7 @@ linked_locations:
   - europe/belgium/antwerp
 ---
 
-Brussels is extremely well placed for day trips into Belgium and beyond. Three of the country's great cities are within an hour by train: [Bruges](/europe/belgium/bruges), with its medieval canal network and chocolate shops; [Ghent](/europe/belgium/gent), which has much of Bruges' beauty with fewer tourists; and [Antwerp](/europe/belgium/antwerp), with its diamond trade, Rubens museums, and excellent nightlife.
+Brussels is extremely well placed for day trips into Belgium and beyond. Three of the country's great cities are within an hour by train: [Bruges](/europe/belgium/bruges), with its medieval canal network and chocolate shops; [Ghent](/europe/belgium/ghent), which has much of Bruges' beauty with fewer tourists; and [Antwerp](/europe/belgium/antwerp), with its diamond trade, Rubens museums, and excellent nightlife.
 
 **Waterloo** (20 km south) is where Napoleon's army was finally broken in June 1815. The battlefield is well preserved, and the Lion's Mound — a conical earthwork raised on the spot where the Prince of Orange was wounded — gives a panoramic view across the fields where the fighting was heaviest. A small museum covers the campaign in detail.
 

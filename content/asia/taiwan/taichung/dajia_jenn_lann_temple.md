@@ -4,7 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 24.3470
 longitude: 120.6230
-story: 'Every spring, the Dajia Mazu pilgrimage sets out from this temple and walks 340 kilometres in nine days, carrying the temple's image of Mazu through dozens of towns to her sister temple in Xingang. It is the largest religious procession in Taiwan, joined by hundreds of thousands of devotees, and is on the UNESCO list of Intangible Cultural Heritage.'
+story: "Every spring, the Dajia Mazu pilgrimage sets out from this temple and walks 340 kilometres in nine days, carrying the temple's image of Mazu through dozens of towns to her sister temple in Xingang. It is the largest religious procession in Taiwan, joined by hundreds of thousands of devotees, and is on the UNESCO list of Intangible Cultural Heritage."
 ---
 
 The Jenn Lann Temple in Dajia, about thirty kilometres north of central Taichung, is the most important Mazu temple in central Taiwan and one of the busiest religious sites in the country. The current building is mostly twentieth-century reconstruction of a temple founded in 1730, with a heavily decorated facade and the standard Mazu interior arrangement.

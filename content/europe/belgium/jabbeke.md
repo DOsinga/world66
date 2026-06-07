@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-06-03'
+image: jabbeke.jpg
+image_attribution: flamenc
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Jabbeke_-_Carrer_Major.jpg
 latitude: 51.191219
 loc_type: city
 longitude: 3.100769

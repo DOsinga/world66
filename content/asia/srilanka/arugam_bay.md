@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+  lp_coverage: '2026-06-05'
 image: arugam_bay.jpg
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Arugam_Bay.jpg

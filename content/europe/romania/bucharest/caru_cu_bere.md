@@ -1,6 +1,7 @@
 ---
 address: Strada Stavropoleos 5, Bucharest
 latitude: 44.4321
+loc_type: feature
 longitude: 26.0981
 snippet: Historic beer hall with stained glass and traditional Romanian food
 tags:

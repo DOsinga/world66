@@ -21,7 +21,7 @@ They have toilets, free WiFi, free Internet, Email, MSN and Skype *(see *De Koog
 Beach-Inn is open from early April to September.
 
 Note:
-Beach-Inn's home page being in [more..](/europe/netherlands/waddenislands/texel_island/beaches/strand_kiosk_beach)
+Beach-Inn's home page is in Dutch; see the link below for current opening hours and weather conditions.
 
 
 

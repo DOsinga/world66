@@ -11,4 +11,4 @@ Komarna is well placed for day trips along the coast and into Herzegovina.
 
 **[Dubrovnik](/europe/croatia/dubrovnik)** — An hour's drive south. The walled old town needs no introduction.
 
-**Mostar** — 65 km inland in [Bosnia-Herzegovina](/europe/bosniaherzegovina). The UNESCO-listed Old Bridge and the Ottoman old town are the highlights. Try ćevapčići while you are there.
+**Mostar** — 65 km inland in [Bosnia-Herzegovina](/europe/bosniaandherzegovina). The UNESCO-listed Old Bridge and the Ottoman old town are the highlights. Try ćevapčići while you are there.

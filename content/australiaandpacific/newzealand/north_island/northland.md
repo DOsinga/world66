@@ -15,5 +15,5 @@ Places in Northland include:
 
 - [Whangarei](/australiaandpacific/newzealand/whangarei) — the region's largest city
 - [Mangawhai Heads](/australiaandpacific/newzealand/mangawhaiheads) — a beach settlement near the small town of Mangawhai in south Northland
-- [Bay of Islands](/australiaandpacific/newzealand/bayofislands) — the historic heart of the region, including [Kerikeri](/australiaandpacific/newzealand/kerikeri) and [Russell](/australiaandpacific/newzealand/romanticrussell)
+- [Bay of Islands](/australiaandpacific/newzealand/bayofislands) — the historic heart of the region, including [Kerikeri](/australiaandpacific/newzealand/kerikeri) and Russell
 - [Kaitaia](/australiaandpacific/newzealand/north_island/northland/kaitaia) — the main town of the Far North

@@ -25,7 +25,7 @@ The second is an excursion to the bird sanctuary of the **Grote Vlak** and to Te
 starting from the ferry terminal, but large parts are closed from March
 1st to September 1st).*
 
-### [De Koog > De Slufter > De Koog
+### De Koog > De Slufter > De Koog
 
 **By bus + on foot**, *12 kms, at ease: 4 to 5 hrs of walking
 
@@ -75,4 +75,3 @@ the ferry terminal.
 
 *More detailed information on history and environment of the Slufter
 area can be found at http://www.coastalguide.org/dune/texel/slufter.html*
-more..](/europe/netherlands/waddenislands/texel_island/day_trips/de_koog__the_muy)

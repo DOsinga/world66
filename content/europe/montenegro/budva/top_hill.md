@@ -6,7 +6,6 @@ longitude: 18.8488
 tags:
   - bars_and_cafes
   - bar
-  - nightlife
 snippet: Montenegro's most famous open-air nightclub, with Adriatic views from a hilltop above Budva
 ---
 

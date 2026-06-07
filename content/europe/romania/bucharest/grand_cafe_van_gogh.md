@@ -1,6 +1,7 @@
 ---
 address: Strada Smârdan 9, Bucharest
 latitude: 44.4326
+loc_type: feature
 longitude: 26.1005
 snippet: Comfortable Old Centre café with terrace, good for breakfast or coffee breaks
 tags:

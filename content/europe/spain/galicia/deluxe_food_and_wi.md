@@ -5,7 +5,7 @@ snippet: Multi-day tour through all four Galician wine regions
 tags:
 - things_to_do
 - tour
-- tours_and_excursio
+- tours_and_excursions
 title: Deluxe Food and Wine Tour of Galicia
 type: poi
 ---

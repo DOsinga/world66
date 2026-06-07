@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
+image: pontianak.jpg
+image_attribution: baka_neko_baka
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Equator_Pontianak_Monument.jpg
 latitude: -0.02269
 loc_type: city
 longitude: 109.344749

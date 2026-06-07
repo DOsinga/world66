@@ -2,7 +2,7 @@
 latitude: 51.2165
 longitude: -4.0145
 snippet: Britain's highest sea cliff — a 1,043ft climb on the coast path
-story: Great Hangman is the highest hog's-back sea cliff in mainland Britain. The peculiar name has nothing to do with executions: it most likely comes from the Celtic "an maen", meaning "the stone". A man and his cow are said to have fallen from the cliff together in the 16th century, which is probably where the folk etymology started.
+story: "Great Hangman is the highest hog's-back sea cliff in mainland Britain. The peculiar name has nothing to do with executions: it most likely comes from the Celtic \"an maen\", meaning \"the stone\". A man and his cow are said to have fallen from the cliff together in the 16th century, which is probably where the folk etymology started."
 tags:
 - things_to_do
 - nature

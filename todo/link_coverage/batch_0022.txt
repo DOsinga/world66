@@ -1,5 +1,0 @@
-asia/india/mizoram/aizawl
-asia/india/orissa/bhitarkanika
-asia/india/sikkim/chaggutsomgolake
-asia/india/tamilnadu/trichy
-asia/india/tripura

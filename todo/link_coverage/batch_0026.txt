@@ -1,5 +1,0 @@
-asia/iran/qum
-asia/iran/rasht
-asia/iran/semnan
-asia/iraq/arbil/al_sulaymaniah
-asia/iraq/arbil/kurdistan_museum

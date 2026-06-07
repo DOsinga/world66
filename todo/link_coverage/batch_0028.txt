@@ -1,5 +1,0 @@
-asia/malaysia/sibu
-asia/maldives/south_male_atoll/bolifushi
-asia/nepal/kathmandu/hanuman_dhoka
-asia/nepal/kathmandu/kumari_ghar
-asia/pakistan/azad_kashmir/mirpur/rajoa

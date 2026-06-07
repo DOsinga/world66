@@ -2,8 +2,7 @@
 title: "Berberati Airport"
 type: poi
 tags:
-  - things_to_do
-  - sight
+  - getting_there
 latitude: 4.2222
 longitude: 15.7861
 sources:

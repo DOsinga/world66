@@ -15,7 +15,7 @@ There are several places in Pennsylvania that are within easy driving distance o
 
 **New York**
 
-[New York City](/northamerica/unitedstates/newyorkstate/newyork/jones_beach_state) is just one hour and forty-five minutes away, but be prepared for an extra forty-five minutes of traffic. Still, if you have your heart set on seeing the Empire State Building, the Statue of Liberty, Rockefeller Center and the Ellis Island Immigration Center, then it's definitely worth the round trip.
+New York City is just one hour and forty-five minutes away, but be prepared for an extra forty-five minutes of traffic. Still, if you have your heart set on seeing the Empire State Building, the Statue of Liberty, Rockefeller Center and the Ellis Island Immigration Center, then it's definitely worth the round trip.
 
 **Washington, D.C.**
 

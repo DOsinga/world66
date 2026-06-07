@@ -24,7 +24,7 @@ In the northwest of Kansas,
 
 ## Destinations in Kansas
 
-[Lawrence](/world/northamerica/unitedstates/kansas/lawrence)
-[Mulberry, Kansas](/world/northamerica/unitedstates/kansas/mulberry_kansas)
-[McPherson](/world/northamerica/unitedstates/kansas/mcpherson)
-[Kansas City](/world/northamerica/unitedstates/kansas/kansascity)
+Lawrence
+Mulberry, Kansas
+McPherson
+Kansas City

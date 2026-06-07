@@ -9,7 +9,7 @@ type: poi
 
 Flensburg offers a variety of restaurants - regional as well as international. You won't find anything really exotic though. If it's not German, it's probably Italian, Greek or Yugoslavian.
 
-### [Taverne Nafplion](/europe/germany/schleswigholstein/flensburg/eatingout/tavernenafplion)
+### Taverne Nafplion
 
 Recommended for its good Greek food and its especially friendly atmosphere.
 
@@ -23,7 +23,7 @@ address: Süderfischer Straße 3/ 24937 Flensburg
 
 tel: 0461-22539
 
-### [Café Restaurant Bellevue](/europe/germany/schleswigholstein/flensburg/eatingout/cafrestaurantbellevue)
+### Café Restaurant Bellevue
 
 very central, nice view over the fjord
 

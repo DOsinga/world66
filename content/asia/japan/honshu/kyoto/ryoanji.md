@@ -2,7 +2,7 @@
 latitude: 35.0344
 longitude: 135.7184
 snippet: Kyoto's most famous Zen rock garden
-story: From any angle on the viewing veranda, you can see fourteen of Ryōan-ji's fifteen stones — never all fifteen at once. The arrangement was deliberate: in Buddhist symbolism, only enlightenment lets you see the whole.
+story: "From any angle on the viewing veranda, you can see fourteen of Ryōan-ji's fifteen stones — never all fifteen at once. The arrangement was deliberate: in Buddhist symbolism, only enlightenment lets you see the whole."
 tags:
 - things_to_do
 - temple

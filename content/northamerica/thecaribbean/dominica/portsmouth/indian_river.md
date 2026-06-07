@@ -2,7 +2,7 @@
 latitude: 15.5667
 longitude: -61.4667
 snippet: Atmospheric mangrove boat trip through jungle tunnels
-story: The Indian River's guides were so central to its reputation that Dominica's government formally licensed them as an official guide association — one of the Caribbean's early examples of community-controlled ecotourism. Pirates of the Caribbean: Dead Man's Chest filmed scenes here in 2006, drawn by the same otherworldly atmosphere visitors come to see.
+story: "The Indian River's guides were so central to its reputation that Dominica's government formally licensed them as an official guide association — one of the Caribbean's early examples of community-controlled ecotourism. Pirates of the Caribbean: Dead Man's Chest filmed scenes here in 2006, drawn by the same otherworldly atmosphere visitors come to see."
 tags:
 - things_to_do
 - sight

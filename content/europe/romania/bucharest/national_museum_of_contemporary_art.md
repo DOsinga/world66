@@ -1,6 +1,7 @@
 ---
 address: Strada Izvor 2-4, Bucharest
 latitude: 44.4280
+loc_type: feature
 longitude: 26.0870
 snippet: Romanian and international contemporary art in a wing of the Parliament Palace
 tags:

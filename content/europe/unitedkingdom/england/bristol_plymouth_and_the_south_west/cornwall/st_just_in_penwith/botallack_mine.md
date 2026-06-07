@@ -7,7 +7,7 @@ tags:
   - historic_site
 latitude: 50.14
 longitude: -5.690833333333334
-story: Botallack's Crown Mines are among the most photographed industrial monuments in Britain, but the photographs never quite capture what makes them strange: the engine houses are built on a shelf of cliff directly above the sea, and the miners working in the shafts below could hear the Atlantic breaking over their heads. The mines extended more than a mile out under the seabed, following the tin and copper lodes as they ran beneath the ocean floor.
+story: "Botallack's Crown Mines are among the most photographed industrial monuments in Britain, but the photographs never quite capture what makes them strange: the engine houses are built on a shelf of cliff directly above the sea, and the miners working in the shafts below could hear the Atlantic breaking over their heads. The mines extended more than a mile out under the seabed, following the tin and copper lodes as they ran beneath the ocean floor."
 ---
 
 The Crown Mines at Botallack are two engine houses perched on the cliff face above the sea, the most dramatic survivors of the Cornish mining landscape that is now a UNESCO World Heritage Site. The buildings — the Crowns Stamps Engine House and the Crowns Whim Engine House — stand on a narrow ledge between the cliff face and the water, their foundations set directly on the rock. They are reached by a short steep path from the Botallack National Trust car park.

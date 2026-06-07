@@ -1,0 +1,5 @@
+australiaandpacific/newzealand/south_island/otago/arrowtown
+australiaandpacific/newzealand/south_island/west_coast/greymouth
+australiaandpacific/newzealand/south_island/west_coast/okarito
+australiaandpacific/tuvalu/funafuti
+australiaandpacific/tuvalu/funafutiatoll

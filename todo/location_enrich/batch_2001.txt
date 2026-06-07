@@ -1,0 +1,5 @@
+europe/greece/meteora
+europe/spain/canaryislands/tenerife
+europe/spain/balearicislands/menorca
+europe/france/midi/languedoc/carcassonne
+europe/switzerland/zermatt

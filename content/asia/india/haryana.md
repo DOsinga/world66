@@ -22,6 +22,6 @@ www.haryana-online.com
 ## Destinations in Haryana
 
 [Gurgaon](/asia/india/haryana/gurgaon)
-[Gurgaon](/asia/india/haryana/copy_of_gurgaon)
+Gurgaon
 [Sirsa](/asia/india/haryana/sirsa)
 [Ambala](/asia/india/haryana/ambala)

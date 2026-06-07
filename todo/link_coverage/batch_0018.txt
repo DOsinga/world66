@@ -1,0 +1,5 @@
+asia/china/guangdong/shantou
+asia/china/shanxiprovince/wutaishan
+asia/china/xinjiangprovince/burqin
+asia/india/gujarat/champaner
+asia/india/gujarat/dwarka

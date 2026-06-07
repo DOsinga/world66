@@ -19,7 +19,7 @@ You can still see true Balinese culture in one of the remoter villages that stre
 
 ## Destinations in Bali
 
-[Kuta](/world/asia/indonesia/bali/kuta)
-[Ubud](/world/asia/indonesia/bali/ubud)
-[Denpasar](/world/asia/indonesia/bali/denpasar)
-[Sanur](/world/asia/indonesia/bali/sanur)
+Kuta
+Ubud
+Denpasar
+Sanur

@@ -6,7 +6,6 @@ longitude: -39.0595
 tags:
   - bars_and_cafes
   - bar
-  - nightlife
 sources:
   - https://en.wikipedia.org/wiki/Porto_Seguro
 ---

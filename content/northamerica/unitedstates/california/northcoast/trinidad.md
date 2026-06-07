@@ -20,4 +20,4 @@ The setting is the main attraction. Trinidad Bay is sheltered by Trinidad Head, 
 
 The beaches around Trinidad are outstanding. College Cove, reached by a short trail from the headland, is a protected sandy beach backed by cliffs and small waterfalls. Moonstone Beach and Luffenholtz Beach are within a few minutes' drive. The coast here is rugged and beautiful, with sea stacks, tide pools, and dense forest running down almost to the waterline.
 
-Trinidad makes a good base for exploring the redwood parks — [Patrick's Point State Park](/northamerica/unitedstates/california/northcoast/patricks_point_state_park) is just to the north, and the old-growth groves of Prairie Creek and Redwood National Park are within easy reach.
+Trinidad makes a good base for exploring the redwood parks — Patrick's Point State Park is just to the north, and the old-growth groves of Prairie Creek and Redwood National Park are within easy reach.

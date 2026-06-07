@@ -14,7 +14,7 @@ title: Isle of Coll
 type: location
 ---
 
-Coll is one of Scotland's Inner Hebrides — thirteen miles long, three miles wide, and home to about 150 people. It sits northwest of [Mull](/europe/unitedkingdom/scotland/mull), just north of neighbouring Tiree, and is rockier and wilder than its flatter sibling.
+Coll is one of Scotland's Inner Hebrides — thirteen miles long, three miles wide, and home to about 150 people. It sits northwest of [Mull](/europe/unitedkingdom/scotland/isle_of_mull), just north of neighbouring Tiree, and is rockier and wilder than its flatter sibling.
 
 The draw here is solitude. Coll has white-sand beaches that you will often have entirely to yourself ([Feall Bay and Crossapol Beach](/europe/unitedkingdom/scotland/isle_of_coll/feall_bay) are the pick), moorland full of wading birds protected by the [RSPB reserve](/europe/unitedkingdom/scotland/isle_of_coll/rspb_reserve), and clear night skies that earned the island [Dark Sky](/europe/unitedkingdom/scotland/isle_of_coll/dark_sky) status. Walking, cycling, bird-watching, and simply staring at the Atlantic are the main activities. The island was once home to Mairi Hedderwick, author of the Katie Morag children's books — the fictional Isle of Struay is essentially Coll.
 

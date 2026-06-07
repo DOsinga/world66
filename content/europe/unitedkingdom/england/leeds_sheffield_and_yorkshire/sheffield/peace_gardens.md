@@ -1,6 +1,7 @@
 ---
 address: Pinstone Street, Sheffield S1 2HH
 latitude: 53.3798
+loc_type: feature
 longitude: -1.4694
 snippet: Central public square with cascading fountains beside Town Hall
 tags:

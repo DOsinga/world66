@@ -1,6 +1,7 @@
 ---
 address: Șoseaua Kiseleff 2, Bucharest
 latitude: 44.4549
+loc_type: feature
 longitude: 26.0854
 snippet: Geological collection with Romanian minerals, fossils, and gold nuggets
 tags:

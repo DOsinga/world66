@@ -14,7 +14,7 @@ February 02, 2009
 
 January 31, 2008
 
-### [Tours in Cappadocia](/asia/turkey/cappadocia/day_trips/tours_in_cappadoci)
+### Tours in Cappadocia
 
 **3 DAYS 2 NIGHTS CAPPADOCIA TOUR BY PLANE **
 
@@ -22,8 +22,7 @@ January 31, 2008
 Istanbul to Kayseri. @ 18:20 pm
 Arrival @ 19: 20 pm Met on arrival and Transfer to hotel
 Check in hotel. Overnight in CAVE HOTEL
-2.DAY Breakfast
-[more..](/asia/turkey/cappadocia/day_trips/tours_in_cappadoci)
+2.DAY Breakfast, then a full day tour of Cappadocia covering Goreme Open Air Museum, the underground cities and the fairy-chimney valleys, returning to the cave hotel for the night. 3.DAY Breakfast, transfer to Kayseri airport for the return flight to Istanbul.
 
 
 
@@ -37,7 +36,7 @@ address: Klodfarer Caddesi No : 3/36 Sultanahmet - Istanbul - Turkey
 
 email: info@allistanbultours.com
 
-### [Cappadocia Hot Air Balloon Tour](/asia/turkey/cappadocia/day_trips/cappadocia_hot_air)
+### Cappadocia Hot Air Balloon Tour
 
 ****
 
@@ -45,7 +44,7 @@ email: info@allistanbultours.com
 **Cappadocia Hot Air Balloon Tour**
 *Kapadokya/Cappadocia is one of the best places on the earth for hot air balloon tours. The Cappadocia region is the place where nature and history come together beautifully. While geographic events have formed strange rock formations, during the historical period, humans carried the signs of thousand years old civilizations with carving houses and churches within these earth pillars and decorating them with frescoes.
 
-*There are many places that are [more..](/asia/turkey/cappadocia/day_trips/cappadocia_hot_air)
+*There are many places that are best seen from above, and a sunrise balloon flight over the valleys, fairy chimneys and cave dwellings is the highlight of any trip to Cappadocia.
 
 
 
@@ -59,7 +58,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Cappadocia, Pamukkale, Didym, Milet, Priene, Ephesus 5 days](/asia/turkey/cappadocia/day_trips/cappadocia_pamukk)
+### Cappadocia, Pamukkale, Didym, Milet, Priene, Ephesus 5 days
 
 itinerary
 
@@ -67,7 +66,7 @@ DAY 01
 **
 
 Istanbul - Cappadocia Tour 1
-**Take the morning flight from Istanbul Ataturk airport to Kayseri. Arrival and meeting at the airport just outside the arrival''s gate with a sign bearing your name and transfer to Cappadocia. In the morning, first meeting with the lunar landscape of Cappadocia: rock formations beyond belief in Devrent valley; walking in Zelve Open Air Museum: a journey in the past with its troglodyte houses; visit to Pasabag -quot;fairy chimneys-quot; where the voice of [more..](/asia/turkey/cappadocia/day_trips/cappadocia_pamukk)
+**Take the morning flight from Istanbul Ataturk airport to Kayseri. Arrival and meeting at the airport just outside the arrival''s gate with a sign bearing your name and transfer to Cappadocia. In the morning, first meeting with the lunar landscape of Cappadocia: rock formations beyond belief in Devrent valley; walking in Zelve Open Air Museum: a journey in the past with its troglodyte houses; visit to Pasabag -quot;fairy chimneys-quot; where the voice of the wind has carved the most striking rock pillars in the region. Overnight in Cappadocia.
 
 
 
@@ -81,7 +80,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Cappadocia, Pamukkale - Ephesus by Bus](/asia/turkey/cappadocia/day_trips/cappadocia_pamukk_1)
+### Cappadocia, Pamukkale - Ephesus by Bus
 
 itinerary
 DAY 01
@@ -97,7 +96,7 @@ Join in the first day tour of Cappadocia including Devrent, Zelve, Monk Valley, 
 
 DAY 03
 09:30
-Cappadocia Tour 2 - external [more..](/asia/turkey/cappadocia/day_trips/cappadocia_pamukk_1)
+Cappadocia Tour 2 - external valleys including Ihlara, Selime Monastery and Derinkuyu underground city. Return to hotel for the night.
 
 
 
@@ -111,7 +110,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@turkeytouristguides.com
 
-### [Cappadocia - 2 Days 1 Night by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__2_day_2)
+### Cappadocia - 2 Days 1 Night by Plane
 
 Day 01
 Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kayseri, transfer to Cappadocia and join in first day tour of Cappadocia (lunch is included) after the tour 
@@ -120,7 +119,7 @@ Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kays
 
 address: Prof.K.Ismail Gurkan Cd.No:2A Sultanahmet
 
-### [Cappadocia - 2 Days 1 Night by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__2_day_4)
+### Cappadocia - 2 Days 1 Night by Plane
 
 Day 01
 Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kayseri, transfer to Cappadocia and join in first day tour of Cappadocia (lunch is included) after the tour 
@@ -133,14 +132,14 @@ address: prof. k. ismail gurkan caddesi No:2/A Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - 3 Days 2 Nights by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__3_day_1)
+### Cappadocia - 3 Days 2 Nights by Plane
 
 Day 01
 Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kayseri, transfer to Cappadocia and join in first day tour of Cappadocia (lunch is included) after the tour 
 
 address: prof. k.ismail gurkan cd. no:2\a Sultanahmet
 
-### [Cappadocia - 3 Days 2 Nights by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__3_day_3)
+### Cappadocia - 3 Days 2 Nights by Plane
 
 Day 01
 Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kayseri, transfer to Cappadocia and join in first day tour of Cappadocia (lunch is included) after the tour 
@@ -153,7 +152,7 @@ address: prof. k. ismail gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - 4 Days 3 Nights by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__4_day)
+### Cappadocia - 4 Days 3 Nights by Plane
 
 Day 01
 Transfer to Istanbul airport for morning or afternoon flight to Kayseri, transfer to Cappadocia, check-in hotel, free day and stay the night.
@@ -169,7 +168,7 @@ address: prof. k. gurkan cd. no:2\a Sultanahmet
 
 email: info
 
-### [Cappadocia - 4 Days 3 Nights by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__4_day_1)
+### Cappadocia - 4 Days 3 Nights by Plane
 
 Day 01
 Transfer to Istanbul airport for morning or afternoon flight to Kayseri, transfer to Cappadocia, check-in hotel, free day and stay the night.
@@ -185,7 +184,7 @@ address: prof.k. gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - Pamukkale - Ephesus 5 Nights 4 Days by Bus](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk)
+### Cappadocia - Pamukkale - Ephesus 5 Nights 4 Days by Bus
 
 Day 01
 Transfer to bus station and depart from Istanbul by night bus to Cappadocia.
@@ -201,7 +200,7 @@ address: prof. k. gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - Pamukkale - Ephesus 6 Nights 5 Days by Bus](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk_1)
+### Cappadocia - Pamukkale - Ephesus 6 Nights 5 Days by Bus
 
 Day 01
 Transfer to bus station and depart from Istanbul by night bus to Cappadocia.
@@ -220,7 +219,7 @@ address: prof. k. gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - Pamukkale - Ephesus 3 Nights 4 Days by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk_2)
+### Cappadocia - Pamukkale - Ephesus 3 Nights 4 Days by Plane
 
 Day 01
 Early morning transfer to Istanbul airport for flight to Kayseri. Arrive in Kayseri, transfer to Cappadocia and join in first day tour of Cappadocia (lunch is included) after the tour 
@@ -233,7 +232,7 @@ address: prof. k. gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia - Pamukkale - Ephesus 4 Nights 5 Days by Plane](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk_3)
+### Cappadocia - Pamukkale - Ephesus 4 Nights 5 Days by Plane
 
 Day 01
 Transfer to Istanbul airport for morning or afternoon flight to Kayseri, transfer to Cappadocia, check-in hotel, free day and stay the night.
@@ -249,7 +248,7 @@ address: prof. k. gurkan cd. no:2\a Sultanahmet
 
 email: info@packagetoursturkey.com
 
-### [Cappadocia Tours 3 days / 2 nights by air](/asia/turkey/cappadocia/day_trips/cappadocia_tours_3)
+### Cappadocia Tours 3 days / 2 nights by air
 
 itinerary
 
@@ -259,7 +258,7 @@ itinerary
 
 **DAY 02**
 Cappadocia Tours Day 2
-Begin the day in Devrent Valley, followed by Zelve Open Air Museum, one of the most impressive monastery complexes in the area. Next, visit Pasabag (also known as Monk''s Valley), followed by a short drive to Avanos, a village situated on the banks of Kizilirmak River, famous for its [more..](/asia/turkey/cappadocia/day_trips/cappadocia_tours_3)
+Begin the day in Devrent Valley, followed by Zelve Open Air Museum, one of the most impressive monastery complexes in the area. Next, visit Pasabag (also known as Monk''s Valley), followed by a short drive to Avanos, a village situated on the banks of Kizilirmak River, famous for its red-clay pottery workshops where you can watch potters at the wheel.
 
 
 
@@ -271,7 +270,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Cappadocia Tour 4 Day Tour / By Bus](/asia/turkey/cappadocia/day_trips/cappadocia_tour_4)
+### Cappadocia Tour 4 Day Tour / By Bus
 
 itinerary
 
@@ -292,7 +291,7 @@ DAY 02
 
 **Visiting;
 **Zelve Open air museum where three canyons meet in the Valley.
-Then visit Devrent Valley to [more..](/asia/turkey/cappadocia/day_trips/cappadocia_tour_4)
+Then visit Devrent Valley to see its surreal rock formations and the camel-shaped fairy chimney, before continuing on to Pasabag and Avanos for pottery.
 
 
 
@@ -304,7 +303,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Cappadocia Tour 4 Day Tour / By Bus](/asia/turkey/cappadocia/day_trips/cappadocia_tour_4_1)
+### Cappadocia Tour 4 Day Tour / By Bus
 
 itinerary
 
@@ -323,7 +322,7 @@ DAY 02
 
 **Visiting;
 **Zelve Open air museum where three canyons meet in the Valley.
-Then visit Devrent [more..](/asia/turkey/cappadocia/day_trips/cappadocia_tour_4_1)
+Then visit Devrent Valley with its camel-shaped rock, Pasabag's fairy chimneys and the pottery town of Avanos.
 
 
 
@@ -335,7 +334,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Istanbul Cappadocia Day Trip](/asia/turkey/cappadocia/day_trips/istanbul_cappadoci)
+### Istanbul Cappadocia Day Trip
 
 **itinerary
 
@@ -349,7 +348,7 @@ Day Tour From Istanbul** **to Cappadocia By Plane**
 **09:30** Full Day Cappadocia Tour
 
 **Visiting;**
-Zelve open air museum where three canyons meet in the valley.Then visit Devrent [more..](/asia/turkey/cappadocia/day_trips/istanbul_cappadoci)
+Zelve open air museum where three canyons meet in the valley. Then visit Devrent Valley, Pasabag fairy chimneys and Avanos pottery town before returning to the airport in the evening.
 
 
 
@@ -361,7 +360,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@allistanbultours.com
 
-### [Ephesus - Milet, Priene, Didyma by Bus](/asia/turkey/cappadocia/day_trips/ephesus__milet_p)
+### Ephesus - Milet, Priene, Didyma by Bus
 
 DAY 01
 19:00
@@ -382,7 +381,7 @@ address: Binbirdirek mah. Klodfarer Caddesi No: 3/36 Sultanahmet - Istanbul
 
 email: info@turkeytouristguides.com
 
-### [Cappadocia - Pamukkale - Ephesus by Flight](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk_5)
+### Cappadocia - Pamukkale - Ephesus by Flight
 
 DAY 01
 05:00
@@ -394,7 +393,7 @@ Arrive in Kayseri, meet in the airport. Transfer to Cappadocia and join in the f
 DAY 02
 09:30
 **Cappadocia Tour 2
-**After having the breakfast in the hotel, you will join in the second day tour of Cappadocia [more..](/asia/turkey/cappadocia/day_trips/cappadocia__pamuk_5)
+**After having the breakfast in the hotel, you will join in the second day tour of Cappadocia covering Ihlara Valley, Selime Monastery and Derinkuyu underground city before returning to the hotel.
 
 
 

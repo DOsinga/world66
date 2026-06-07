@@ -1,5 +1,5 @@
 ---
-title: Napoleon's Toulon: The Battle of 1793
+title: "Napoleon's Toulon: The Battle of 1793"
 type: poi
 tags: [things_to_do, sight, historic]
 latitude: 43.1237

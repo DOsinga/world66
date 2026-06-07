@@ -29,7 +29,7 @@ The main tourist attraction in the town of Juodkrante (the second biggest town i
 
 A Hill of Witches (also sometimes called Jonas (John) Hill) is a tree-covered slope of the old parabolic dunes. In 1979 an exposition of wooden sculptures of ancient Lithuanian mithological creatures was opened on this hill. Nowadays it has become very popular. It's almost as much visited as the Parnidis Dune in Nida.
 
-The exposition starts in the main street of Juodkrante and then you take [more..](/europe/lithuania/nidaandtheneringapeninsula/sights/juodkrante_a_hill)
+The exposition starts in the main street of Juodkrante and then you take a forest path uphill, with new sculptures appearing around every bend — bring the kids.
 
 type: general
 
@@ -41,7 +41,7 @@ type: general
 
 The Dead Dunes (also called the Gray Dunes or the Pyramidical Dunes) are one of the most fascinating sights in Neringa National Park. 
 
-These dunes are situated in the Nagliai Nature Reserve. It is highly protected and supervised. Noone can enter this Reserve. Although there is one special route, made for tourists by the Neringa goverment. Take this route and you will see what you have never seen before. There is a viewing platform in the dunes where you can look around. The Sea and the Lagoon are both seen from there. It is also possible to take a walk around these dunes. [more..](/europe/lithuania/nidaandtheneringapeninsula/sights/pervalka_the_dead)
+These dunes are situated in the Nagliai Nature Reserve. It is highly protected and supervised. Noone can enter this Reserve. Although there is one special route, made for tourists by the Neringa goverment. Take this route and you will see what you have never seen before. There is a viewing platform in the dunes where you can look around. The Sea and the Lagoon are both seen from there. It is also possible to take a walk around these dunes, but stick to the marked path — the sand is fragile and the rangers take protection seriously.
 
 type: general
 

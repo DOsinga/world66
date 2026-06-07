@@ -1,6 +1,7 @@
 ---
 address: Calea Victoriei 49-53, Bucharest
 latitude: 44.4402
+loc_type: feature
 longitude: 26.0955
 snippet: Romanian and European art in the former Royal Palace on Revolution Square
 tags:

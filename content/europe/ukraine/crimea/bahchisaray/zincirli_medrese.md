@@ -1,6 +1,7 @@
 ---
 address: Eski-Yurt, Bakhchysarai
 latitude: 44.7478
+loc_type: feature
 longitude: 33.9078
 snippet: 1500 madrasa with the chain that gave the building its name
 tags:

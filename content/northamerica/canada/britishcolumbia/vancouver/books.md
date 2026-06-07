@@ -3,13 +3,14 @@ title: "Books"
 type: section
 ---
 
-It never hurts to read about an area either before you visit it, or when you get back home and want to learn more about what you saw. 
+It never hurts to read about an area either before you visit it, or when you get back home and want to learn more about what you saw.
+ 
 
 **all**
 
 **Moon Handbooks: Vancouver**
 
-Moon Handbooks: Vancouver unlocks the magic of this alluring city. From museums rich with regional culture to the vast range of recreation opportunities, this guide covers it all. At your fingertips are numerous options for skiing, biking, kayaking, and hiking, as well as the many festivals and e [more..](/northamerica/canada/britishcolumbia/vancouver/books/moonhandbooksvancouver)
+Moon Handbooks: Vancouver unlocks the magic of this alluring city. From museums rich with regional culture to the vast range of recreation opportunities, this guide covers it all. At your fingertips are numerous options for skiing, biking, kayaking, and hiking, as well as the many festivals and events that fill the city's calendar year-round.
 
 [](http://www.amazon.com/exec/obidos/tg/detail/-/1566911982/ref=ase_osingacom?v=glance&s=books)
 

@@ -18,4 +18,4 @@ The largest and most popular of the Balearics, Majorca is an island of startling
 [Puerto de Soller](/europe/spain/balearicislands/mallorca/puertodesoller)
 [Porto Cristo](/europe/spain/balearicislands/mallorca/portocristo)
 [Puerto de Alcudia](/europe/spain/balearicislands/mallorca/puertodealcudia)
-[Palma](/europe/spain/balearicislands/mallorca/palma_1)
+[Palma](/europe/spain/balearicislands/mallorca/palma1)

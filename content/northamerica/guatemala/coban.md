@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
+image: coban.jpg
+image_attribution: Gobierno de Guatemala
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:GAG_1841.jpg
 latitude: 15.4667
 loc_type: city
 longitude: -90.3667

@@ -1,0 +1,5 @@
+africa/tunisia/tamerza
+africa/zambia/livingstone
+africa/zimbabwe/hwange
+africa/zimbabwe/manapools
+asia/cambodia/kampot

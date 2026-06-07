@@ -7,4 +7,4 @@ type: section
 
 **By bus** — Upper Egypt Travel and Go Bus operate services from Cairo (roughly 6–7 hours), Luxor (3–4 hours), and Aswan (5–6 hours). Buses are comfortable and air-conditioned; book tickets in advance during peak season.
 
-**By ferry** — A fast ferry crosses to [Sharm el-Sheikh](/africa/egypt/sharm_el_sheikh) several times a week, taking around 1.5 hours. The service is reliable in calm conditions but can be cancelled in rough weather.
+**By ferry** — A fast ferry crosses to [Sharm el-Sheikh](/africa/egypt/sharmelsheikh) several times a week, taking around 1.5 hours. The service is reliable in calm conditions but can be cancelled in rough weather.

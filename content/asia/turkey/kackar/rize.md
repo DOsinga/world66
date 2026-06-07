@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-03'
+image: rize.jpg
+image_attribution: DDohler
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Rize.jpg
 latitude: 40.956962
 loc_type: city
 longitude: 40.884428

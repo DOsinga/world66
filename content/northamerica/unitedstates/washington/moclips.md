@@ -16,7 +16,7 @@ title: Moclips
 type: location
 ---
 
-Moclips is a tiny, windswept beach community on Washington's North Beach peninsula, about 20 miles north of [Ocean Shores](/northamerica/unitedstates/washington/oceanshores). It sits where the Moclips River meets the Pacific, and the name comes from the Quinault word meaning "a place where young girls go to perform their puberty ceremony." Today it is one of the quietest spots on Washington's coast, attracting beachcombers and people who want to stare at the ocean without a crowd.
+Moclips is a tiny, windswept beach community on Washington's North Beach peninsula, about 20 miles north of [Ocean Shores](/northamerica/unitedstates/washington/ocean_shores). It sits where the Moclips River meets the Pacific, and the name comes from the Quinault word meaning "a place where young girls go to perform their puberty ceremony." Today it is one of the quietest spots on Washington's coast, attracting beachcombers and people who want to stare at the ocean without a crowd.
 
 The [beach](/northamerica/unitedstates/washington/moclips/moclips_beach) here is broad and wild, littered with driftwood and largely empty even in summer. Low tide reveals tide pools and the remains of a ghost forest — ancient Sitka spruce stumps exposed by erosion, standing like sculptures in the sand. You can walk for miles along the shoreline toward Pacific Beach to the south or up toward the Quinault Indian Reservation to the north. Razor clamming is popular in season, and winter storms bring dramatic surf and the occasional glass float.
 

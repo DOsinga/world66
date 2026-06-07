@@ -1,0 +1,5 @@
+northamerica/unitedstates/pennsylvania/newhope
+northamerica/unitedstates/rhodeisland/warwick
+northamerica/unitedstates/southdakota/bellefourche
+northamerica/unitedstates/southdakota/pierre
+northamerica/unitedstates/southdakota/rapidcity

@@ -1,6 +1,7 @@
 ---
 address: Rue Adolphe Sax 37, 5500 Dinant
 latitude: 50.2618
+loc_type: feature
 longitude: 4.9109
 snippet: Birthplace and small museum of saxophone inventor Adolphe Sax
 tags:

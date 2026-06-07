@@ -1,6 +1,7 @@
 ---
 address: King Street, Temuka
 latitude: -44.2440
+loc_type: feature
 longitude: 171.2790
 snippet: Preserved Victorian and Edwardian shopfronts along King Street
 tags:

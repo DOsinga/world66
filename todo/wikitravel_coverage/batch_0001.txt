@@ -1,0 +1,5 @@
+europe/austria/salzkammergut
+europe/austria/wachau
+europe/norway/sognefjorden
+europe/georgia/svaneti
+asia/taiwan/tarokogorge

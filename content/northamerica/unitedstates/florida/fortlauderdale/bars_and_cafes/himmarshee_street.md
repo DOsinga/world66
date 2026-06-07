@@ -4,7 +4,6 @@ type: poi
 tags:
   - bars_and_cafes
   - neighbourhood
-  - nightlife
 latitude: 26.1221
 longitude: -80.1448
 ---

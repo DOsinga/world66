@@ -24,7 +24,7 @@ The Quinebaug and Shetucket Rivers Valley in northeastern Connecticut has been c
 
 ## Destinations in Connecticut
 
-[Hartford](/world/northamerica/unitedstates/connecticut/hartford)
-[Stanford](/world/northamerica/unitedstates/connecticut/stanford)
-[New Haven](/world/northamerica/unitedstates/connecticut/newhaven)
-[Hamden](/world/northamerica/unitedstates/connecticut/hamden)
+Hartford
+Stanford
+New Haven
+Hamden

@@ -22,4 +22,4 @@ Perth is a wonderful place for animal lovers. In addition to the small, but char
 
 It's clean, it's beautiful, but by far its best attraction is the great weather and beautiful beaches.
 
-Minor corrections by [Pat Boland](/world/member/pat_boland) on 04 March 05
+Minor corrections by Pat Boland on 04 March 05

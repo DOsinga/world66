@@ -13,4 +13,4 @@ Puerto Aventuras sits almost exactly between [Playa del Carmen](/northamerica/me
 
 [Playa del Carmen](/northamerica/mexico/playadelcarmen) is 20 km north. The Fifth Avenue pedestrian strip is enjoyable for an evening's wandering, with better restaurant and bar options than you'll find in Puerto Aventuras itself. The town also has the main ferry terminal for [Cozumel](/northamerica/mexico/cozumel), where the wall diving is some of the best in the Caribbean.
 
-[Cobá](/northamerica/mexico/cobá) is about 45 km inland — a large Maya city set in forest, with a pyramid you can still climb for a view over the canopy. Combine it with a cenote stop in either direction.
+Cobá is about 45 km inland — a large Maya city set in forest, with a pyramid you can still climb for a view over the canopy. Combine it with a cenote stop in either direction.

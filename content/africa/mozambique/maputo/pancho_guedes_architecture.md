@@ -11,7 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Polana
-story: **Amancio "Pancho" Guedes** (1925–2015) designed more than 500 buildings in Maputo, almost all of them between 1950 and 1974, in a wildly individual style that mixed Le Corbusier with surrealism, Antoni Gaudí and African mask traditions. He called his work "Stiloguedes." A handful of his buildings have been demolished, but most still stand and define the look of central Maputo more than any other architect.
+story: "**Amancio \"Pancho\" Guedes** (1925–2015) designed more than 500 buildings in Maputo, almost all of them between 1950 and 1974, in a wildly individual style that mixed Le Corbusier with surrealism, Antoni Gaudí and African mask traditions. He called his work \"Stiloguedes.\" A handful of his buildings have been demolished, but most still stand and define the look of central Maputo more than any other architect."
 ---
 
 Maputo is, among other things, an open-air museum of **Pancho Guedes** architecture. The Mozambican-Portuguese architect designed more than 500 buildings in the city between the 1950s and 1974, in a wildly inventive style of his own. Several of them are within easy walking distance of each other in the upper Baixa and Polana — visiting them in sequence is one of the more rewarding ways to spend a couple of hours.

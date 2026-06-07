@@ -5,7 +5,7 @@ snippet: The modern stadium of Grêmio — one of Brazil's best football arenas
 tags:
 - things_to_do
 - sight
-story: When Grêmio moved from their old Olímpico stadium to the new Arena in 2012, it was a genuinely sad day for many fans: the Olímpico, opened in 1954, had been one of the great football cathedrals of South America. The Arena is a better stadium by every technical measure. The old stadium was demolished in 2014, which felt to many like the end of something irreplaceable — though the Arena has built its own history since.
+story: "When Grêmio moved from their old Olímpico stadium to the new Arena in 2012, it was a genuinely sad day for many fans: the Olímpico, opened in 1954, had been one of the great football cathedrals of South America. The Arena is a better stadium by every technical measure. The old stadium was demolished in 2014, which felt to many like the end of something irreplaceable — though the Arena has built its own history since."
 title: Arena do Grêmio
 type: poi
 ---

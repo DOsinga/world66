@@ -7,7 +7,7 @@ phone: '20046860'
 snippet: Sports bar with 18 screens overlooking the marina
 tags:
 - bars_and_cafes
-- nightlife
+- bar
 title: All Stars Sports Cafe
 type: poi
 ---

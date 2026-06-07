@@ -3,7 +3,6 @@ title: Carrer 1er de Maig (Sin Street)
 type: poi
 tags:
   - bars_and_cafes
-  - nightlife
 latitude: 41.2375
 longitude: 1.8113
 snippet: The town's main bar-and-club street, two short blocks long

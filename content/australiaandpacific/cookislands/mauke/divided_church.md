@@ -2,7 +2,7 @@
 latitude: -20.1667
 longitude: -157.3417
 snippet: 19th-century coral-block church divided in half by feuding villages
-story: When the church was built in 1882, the two villages of Areora and Ngatiarua could not agree on anything — windows, doors, colour of the interior. Rather than start a war, they finished the building together but then split it: each village painted, decorated, and worshipped in its own half, even installing two pulpits. They still hold a single combined service, then go back to ignoring each other's choices.
+story: "When the church was built in 1882, the two villages of Areora and Ngatiarua could not agree on anything — windows, doors, colour of the interior. Rather than start a war, they finished the building together but then split it: each village painted, decorated, and worshipped in its own half, even installing two pulpits. They still hold a single combined service, then go back to ignoring each other's choices."
 tags:
 - things_to_do
 - sight

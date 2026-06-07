@@ -18,6 +18,6 @@ In order to arrive at the higher southern part of the Ardèche, the pass of Escr
 
 ## Destinations in Ardeche
 
-[Uzes](/world/europe/france/midi/ardeche/uzes)
-[Villeneuf-de-Berg](/world/europe/france/midi/ardeche/villeneufdeberg)
-[Gorges-du-tarn](/world/europe/france/midi/ardeche/gorgesdutarn)
+Uzes
+Villeneuf-de-Berg
+Gorges-du-tarn

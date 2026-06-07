@@ -1,0 +1,5 @@
+northamerica/guatemala/panajachel
+northamerica/honduras/bayislands/guanaja
+northamerica/mexico/bacalar
+northamerica/mexico/cholula
+northamerica/mexico/lapaz

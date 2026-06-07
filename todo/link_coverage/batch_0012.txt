@@ -1,0 +1,5 @@
+africa/morocco/ceuta
+africa/morocco/nador
+africa/mozambique/gorongosa
+africa/mozambique/gorongosagamereserve
+africa/mozambique/mozambiqueisland

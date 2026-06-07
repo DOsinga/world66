@@ -1,6 +1,7 @@
 ---
 address: Bulevardul Mihai Bravu, Bucharest
 latitude: 44.4458
+loc_type: feature
 longitude: 26.1259
 snippet: Vast, chaotic open-air market — Bucharest at its rawest
 tags:

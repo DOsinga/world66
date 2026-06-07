@@ -7,7 +7,7 @@ Hidden above the flat fields of [Malaysia](/asia/malaysia), with wet-soaked temp
 
 **Time Tunnel Gallery**
 
-An uncommon blend of past and present, the Time Tunnel Gallery seeks to entertain without the use of artifacts or hands-on exhibits. Instead it traces the origin of Cameron Highlands through photography. This impressive collection highlights prominent families and [historical](/asia/malaysia/cameronhighlands/history) events. Boldly displayed, these pictures help to explain the city and its traditions. It also has the distinction of being the only museum of its kind in the entire country. Families are encouraged to visit. It’s an ideal way to pass the hours.
+An uncommon blend of past and present, the Time Tunnel Gallery seeks to entertain without the use of artifacts or hands-on exhibits. Instead it traces the origin of Cameron Highlands through photography. This impressive collection highlights prominent families and historical events. Boldly displayed, these pictures help to explain the city and its traditions. It also has the distinction of being the only museum of its kind in the entire country. Families are encouraged to visit. It’s an ideal way to pass the hours.
 
 **Cameron Tringkap Bee Farm**
 

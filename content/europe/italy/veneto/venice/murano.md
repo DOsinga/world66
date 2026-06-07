@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4557
 longitude: 12.3547
+snippet: "Glassmaking island 15 minutes from Venice — furnaces, a glass museum, and a Byzantine church"
 story: >
   In 1291 the Venetian Republic ordered all glassmakers to move their furnaces from Venice to Murano, ostensibly for fire safety. In practice it was also a way to keep the secrets of Venetian glassmaking contained — the techniques for producing cristallo (clear glass), lattimo (milk glass), and millefiori (thousand flowers) were trade secrets worth protecting. Glassmakers who tried to leave the Republic faced serious consequences.
 ---

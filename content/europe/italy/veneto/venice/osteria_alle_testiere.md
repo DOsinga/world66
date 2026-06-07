@@ -8,6 +8,8 @@ tags:
   - seafood
 latitude: 45.4368
 longitude: 12.3413
+snippet: "Nine-table Castello gem — Venice's hardest reservation for seafood purists"
+neighbourhood: Castello
 ---
 
 Alle Testiere is a tiny restaurant — nine tables — in a calle near Santi Giovanni e Paolo, run by chef Bruno Gavagnin and sommelier Luca di Vita. It has been one of Venice's most celebrated small restaurants since the 1990s, consistently praised for cooking that is simple, impeccably sourced, and focused entirely on the seafood of the Venetian lagoon.

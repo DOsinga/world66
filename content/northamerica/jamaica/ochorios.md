@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-06-04'
+  location_enrich: '2026-06-05'
 image: ochorios.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:JM-ocho_rios-hafen-01.jpg

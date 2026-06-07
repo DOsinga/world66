@@ -1,7 +1,8 @@
 ---
 image: green_point.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Cape_Town_Stadium_from_above_2010.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Green_Point_Stadium_-_South_Africa_(4029380846).jpg
+image_attribution: South African Tourism
 latitude: -33.9047
 longitude: 18.4105
 snippet: Residential neighbourhood between the Waterfront and Sea Point, anchored by the 2010 World Cup stadium

@@ -1,7 +1,8 @@
 ---
 image: city_bowl.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Cape_Town_from_Signal_Hill_2.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cape_Town_City_Bowl_and_Table_Mountain_at_dawn.jpg
+image_attribution: Daniel Case
 latitude: -33.9249
 longitude: 18.4206
 snippet: Cape Town's historic centre, cupped between Table Mountain and the harbour

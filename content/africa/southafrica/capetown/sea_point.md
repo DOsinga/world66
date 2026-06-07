@@ -1,7 +1,8 @@
 ---
 image: sea_point.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Sea_Point_aerial_2015.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Sea_Point,_Cape_Town_South_Africa.jpg
+image_attribution: Hilton1949
 latitude: -33.9173
 longitude: 18.3872
 snippet: Densely populated seaside suburb of art deco blocks and the city's best promenade walk

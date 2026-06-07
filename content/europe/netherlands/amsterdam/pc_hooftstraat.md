@@ -6,7 +6,7 @@ neighbourhood: Oud-Zuid
 snippet: Amsterdam's premier luxury fashion shopping street
 tags:
 - shopping
-- museum_quarter
+- oud_zuid
 title: PC Hooftstraat
 type: poi
 ---

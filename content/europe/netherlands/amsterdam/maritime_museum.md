@@ -8,7 +8,6 @@ opening_hours: Tues–Sun 10:00–17:00, also Monday June–September
 tags:
 - things_to_do
 - plantage
-- oost
 title: Scheepvaartmuseum (Maritime Museum)
 type: poi
 ---

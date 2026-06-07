@@ -1,8 +1,8 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-latitude: 43.2933
-longitude: 5.3756
+latitude: 43.2963
+longitude: 5.3767
 snippet: Neoclassical courthouse with grand columns on Place Monthyon
 tags:
 - things_to_do

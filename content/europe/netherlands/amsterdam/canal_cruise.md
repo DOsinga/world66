@@ -4,7 +4,6 @@ longitude: 4.897165
 snippet: Hour-long boat tour through Amsterdam's UNESCO-listed canals
 tags:
 - tours_and_excursions
-- canal_ring
 title: Canal Cruise
 type: poi
 ---

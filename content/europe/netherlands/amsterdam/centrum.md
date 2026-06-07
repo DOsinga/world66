@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: centrum.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Dam_Square_2024.jpg

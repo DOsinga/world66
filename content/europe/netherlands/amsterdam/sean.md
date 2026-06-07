@@ -6,7 +6,6 @@ longitude: 4.886274
 snippet: Chain of stylish coffeeshops across the city
 tags:
 - drugs
-- jordaan
 title: De Rokerij
 type: poi
 ---

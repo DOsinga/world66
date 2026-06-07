@@ -7,7 +7,6 @@ longitude: 4.8898
 snippet: Squash courts and sauna near Central Station
 tags:
 - activities
-- canal_ring
 title: Squash City
 type: poi
 ---

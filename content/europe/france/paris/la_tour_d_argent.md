@@ -7,15 +7,11 @@ longitude: 2.354915
 opening_hours: Tue–Sat noon–2pm and 7:30pm–10pm; closed Sun–Mon
 phone: +33 1 43 54 23 31
 price_per_night: €200+ per person
-scores:
-  restaurant: 0.5044
-  sight: 0.3303
 snippet: Historic rooftop restaurant famous for its numbered pressed duck
 tags:
 - eating_out
 - sight
 - latin_quarter
-- restaurant
 title: La Tour d'Argent
 type: poi
 url: www.tourdargent.com

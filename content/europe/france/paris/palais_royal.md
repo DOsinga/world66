@@ -3,23 +3,15 @@ address: Place du Palais-Royal, 75001 Paris
 latitude: 48.863859
 longitude: 2.337047
 opening_hours: Gardens open daily 8am–10:30pm (8pm in winter)
-scores:
-  architecture: 0.2688
-  park: 0.4875
-  sight: 0.3005
 snippet: Arcaded garden palace with Buren's striped columns and excellent cafes
-story: On the evening of 12 July 1789, a young journalist named Camille Desmoulins
-  jumped on a table in the Palais Royal gardens and called the crowd to arms with
-  a cockade of green leaves in his hat. Two days later, they stormed the Bastille.
-  The Palais Royal was the effective headquarters of the French Revolution.
 tags:
 - things_to_do
 - sight
 - architecture
 - leshalles
-- park
 title: Palais Royal Gardens
 type: poi
+story: "On the evening of 12 July 1789, a young journalist named Camille Desmoulins jumped on a table in the Palais Royal gardens and called the crowd to arms with a cockade of green leaves in his hat. Two days later, they stormed the Bastille. The Palais Royal was the effective headquarters of the French Revolution."
 ---
 
 The Palais Royal gardens are the most elegant public space in Paris — a rectangular garden enclosed by arcaded galleries housing jewellers, specialist shops, restaurants, and galleries. The colonnaded walks were originally 18th-century promenades; today they shelter some excellent restaurants and the kind of shops (toy soldiers, vintage medals, handmade shoes) that have been displaced from the rest of central Paris by luxury retail.

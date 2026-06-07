@@ -6,29 +6,22 @@ done:
 latitude: 48.861147
 longitude: 2.338028
 opening_hours: Mon, Thu, Sat–Sun 9am–6pm; Wed, Fri 9am–9:45pm; closed Tue
-scores:
-  architecture: 0.2758
-  landmark: 0.4808
-  museum: 0.5293
-  sight: 0.3694
 snippet: The world's largest and most visited art museum
-story: 'The Mona Lisa is displayed behind bulletproof glass not because of theft —
-  though it was famously stolen in 1911 and missing for two years — but because in
-  1956 a visitor threw acid at the lower half of the painting. The thief, an Italian
-  handyman named Vincenzo Peruggia, hid in a closet overnight, walked out with the
-  painting under his coat, and kept it in his apartment in Florence for more than
-  two years before being caught.
-
-  '
 tags:
 - things_to_do
 - museum
 - sight
 - architecture
 - leshalles
-- landmark
 title: Louvre Museum
 type: poi
+story: >
+  The Mona Lisa is displayed behind bulletproof glass not because of theft —
+  though it was famously stolen in 1911 and missing for two years — but
+  because in 1956 a visitor threw acid at the lower half of the painting.
+  The thief, an Italian handyman named Vincenzo Peruggia, hid in a closet
+  overnight, walked out with the painting under his coat, and kept it in
+  his apartment in Florence for more than two years before being caught.
 url: www.louvre.fr
 ---
 

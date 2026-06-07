@@ -4,11 +4,10 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 48.845616
 longitude: 2.309585
-scores:
-  market: 0.5539
 snippet: Paris's oldest department store, founded 1852
 tags:
 - shopping
+- museum
 - market
 - saint_germain
 title: Au Bon Marché

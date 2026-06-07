@@ -2,14 +2,9 @@
 address: Zevenhuizen 1A
 latitude: 52.1564
 longitude: 5.3906
-scores:
-  bar: 0.3071
-  historic: 0.2525
-snippet: Amersfoort's oldest cafe, dating back to 1522
 tags:
 - bars_and_cafes
-- bar
-- historic
+snippet: Amersfoort's oldest cafe, dating back to 1522
 title: In Den Grooten Slock
 type: poi
 ---

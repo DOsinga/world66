@@ -7,13 +7,11 @@ longitude: 2.34032
 opening_hours: Mon–Fri noon–2:30pm and 7pm–11pm; Sat 7pm–11pm; closed Sun
 phone: +33 1 44 32 00 32
 price_per_night: €50–80 per person
-scores:
-  restaurant: 0.5655
 snippet: Michelin-starred French-Asian fusion on the Left Bank
 tags:
 - eating_out
+- museum
 - saint_germain
-- restaurant
 title: Ze Kitchen Galerie
 type: poi
 url: www.zekitchengalerie.fr

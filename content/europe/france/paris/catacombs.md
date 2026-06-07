@@ -6,15 +6,7 @@ done:
 latitude: 48.833801
 longitude: 2.332409
 opening_hours: Tue–Sun 9:45am–8:30pm; closed Mon
-scores:
-  museum: 0.3656
-  sight: 0.2809
 snippet: Six million Parisians' bones arranged in underground quarry tunnels
-story: The bones were transferred to the quarry tunnels between 1786 and 1788 from
-  the Saints-Innocents cemetery, which had been so full for so long that corpses were
-  simply stacked above ground around the surrounding neighbourhood. The move was carried
-  out at night, by torchlight, in solemn procession, with priests chanting the office
-  of the dead.
 tags:
 - things_to_do
 - museum
@@ -22,6 +14,7 @@ tags:
 title: The Catacombs
 type: poi
 url: www.catacombes.paris.fr
+story: "The bones were transferred to the quarry tunnels between 1786 and 1788 from the Saints-Innocents cemetery, which had been so full for so long that corpses were simply stacked above ground around the surrounding neighbourhood. The move was carried out at night, by torchlight, in solemn procession, with priests chanting the office of the dead."
 ---
 
 Beneath the streets of the 14th arrondissement lie the ossuary galleries of the Paris Catacombs: 2 kilometres of former limestone quarry tunnels lined with the bones of approximately 6 million Parisians, transferred here in the late 18th century when the city's overflowing cemeteries became a public health crisis.

@@ -1,18 +1,10 @@
 ---
-latitude: 48.8527
-longitude: 2.347
-scores:
-  sight: 0.339
-story: Shakespeare and Company has operated a 'Tumbleweed Hotel' for traveling writers
-  since the 1950s — travellers can sleep among the shelves in exchange for reading
-  a book a day, working a shift in the shop, and writing a single-page autobiographical
-  note to leave in the store's archive. Thousands of writers have passed through.
-tags:
-- things_to_do
-- sight
-- latin_quarter
 title: Shakespeare and Company
 type: poi
+tags: [things_to_do, sight, latin_quarter]
+latitude: 48.8527
+longitude: 2.3470
+story: "Shakespeare and Company has operated a 'Tumbleweed Hotel' for traveling writers since the 1950s — travellers can sleep among the shelves in exchange for reading a book a day, working a shift in the shop, and writing a single-page autobiographical note to leave in the store's archive. Thousands of writers have passed through."
 ---
 
 Shakespeare and Company is the most famous English-language bookshop in the world — partly because of its extraordinary literary history, partly because it sits directly across the Seine from Notre-Dame in one of the most atmospheric positions any bookshop has ever occupied. The current shop was founded by George Whitman in 1951 as a continuation of the original Shakespeare and Company run by Sylvia Beach, who published James Joyce's Ulysses in 1922.

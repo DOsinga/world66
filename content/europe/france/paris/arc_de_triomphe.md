@@ -4,23 +4,20 @@ admission: €13; free for under-18s and EU residents under 26
 latitude: 48.873779
 longitude: 2.295037
 opening_hours: Daily 10am–11pm (Apr–Sep), 10am–10:30pm (Oct–Mar)
-scores:
-  landmark: 0.476
-  sight: 0.43
 snippet: Napoleon's triumphal arch with panoramic views over twelve converging avenues
-story: 'Napoleon never passed through his own arch in triumph. He commissioned it
-  in 1806 after Austerlitz, but construction was slow and the arch was only completed
-  in 1836, fifteen years after his death on Saint Helena. When his remains were brought
-  back to Paris in 1840, the funeral cortège was ceremonially routed through the completed
-  arch — the only time Napoleon ever passed beneath it.
-
-  '
 tags:
 - things_to_do
 - landmark
 - sight
 title: Arc de Triomphe
 type: poi
+story: >
+  Napoleon never passed through his own arch in triumph. He commissioned it
+  in 1806 after Austerlitz, but construction was slow and the arch was only
+  completed in 1836, fifteen years after his death on Saint Helena. When his
+  remains were brought back to Paris in 1840, the funeral cortège was
+  ceremonially routed through the completed arch — the only time Napoleon
+  ever passed beneath it.
 url: www.paris-arc-de-triomphe.fr
 ---
 

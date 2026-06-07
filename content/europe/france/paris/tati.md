@@ -3,12 +3,11 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.8831
 longitude: 2.3491
-scores:
-  market: 0.4771
-  sight: 0.2899
 snippet: Legendary Paris bargain store, now closed since 2020
 tags:
 - shopping
+- sight
+- market
 - montmartre
 title: Tati
 type: poi

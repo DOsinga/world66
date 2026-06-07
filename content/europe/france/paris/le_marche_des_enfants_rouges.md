@@ -4,11 +4,10 @@ latitude: 48.862985
 longitude: 2.362019
 opening_hours: Tue–Sat 8:30am–8pm (closes 1pm Tue–Wed afternoons); Sun 8:30am–5pm;
   closed Mon
-scores:
-  market: 0.6224
 snippet: Paris's oldest covered market, stellar multicultural lunch spot
 tags:
 - eating_out
+- sight
 - market
 - le_marais
 title: Marché des Enfants Rouges

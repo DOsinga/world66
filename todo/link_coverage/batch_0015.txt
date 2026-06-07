@@ -1,5 +1,0 @@
-africa/tanzania/kigoma
-africa/tanzania/zanzibar/matemwe
-africa/togo/fazao
-africa/togo/glidji
-africa/togo/keran

@@ -6,6 +6,7 @@ snippet: Hilltop park in Kreuzberg with city views and a beer garden
 tags:
 - things_to_do
 - sight
+- kreuzberg
 title: Viktoriapark
 type: poi
 ---

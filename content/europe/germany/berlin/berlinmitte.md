@@ -2,9 +2,16 @@
 done:
   city_tag_migration: '2026-04-14'
   location_cleanup: '2026-04-16'
+image: berlinmitte.jpg
+image_attribution: Chainwit.
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2023_Berliner_Dom_-_Westfassade_--_04.jpg
 latitude: 52.533217
 longitude: 13.359796
 score: 0.71
+tags:
+- things_to_do
+- neighbourhood
 title: Berlin Mitte
 type: neighbourhood
 ---

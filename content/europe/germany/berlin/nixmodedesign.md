@@ -9,6 +9,7 @@ opening_hours: Tue-Fri noon-8pm, Sat noon-6pm
 snippet: Local designer fashion in the Heckmann Höfe courtyard
 tags:
 - shopping
+- berlinmitte
 title: NIX Mode-Design
 type: poi
 ---

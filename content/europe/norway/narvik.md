@@ -14,7 +14,7 @@ title: Narvik
 type: location
 ---
 
-Narvik is a port city on the Ofotfjord in northern Nordland county, opposite the [Lofoten Islands](/europe/norway/lofoten). The city of around 18,000 people owes its existence to the iron ore mines of northern Sweden — it was founded in 1887 as the Atlantic shipping port for the Kiruna and Gällivare mines and is still one of the world's northernmost ice-free ports. Narvik sits at one of Norway's narrowest points, just a few kilometres between the ocean and the Swedish border.
+Narvik is a port city on the Ofotfjord in northern Nordland county, opposite the [Lofoten Islands](/europe/norway/lofotenislands). The city of around 18,000 people owes its existence to the iron ore mines of northern Sweden — it was founded in 1887 as the Atlantic shipping port for the Kiruna and Gällivare mines and is still one of the world's northernmost ice-free ports. Narvik sits at one of Norway's narrowest points, just a few kilometres between the ocean and the Swedish border.
 
 The dramatic terrain — mountains dropping steeply into deep fjord valleys — makes Narvik excellent for outdoor pursuits. Alpine skiing at [Narvikfjellet](/europe/norway/narvik/narvikfjellet) is superb, with runs that descend almost to sea level, and the same cable car carries summer visitors up for a midnight-sun view across the Ofotfjord. The **Ofotbanen railway** to Sweden is one of the great rail journeys of Europe; the [Ofotbanen](/europe/norway/narvik/ofotbanen) line winds spectacularly through tunnels and bridges up to the border. In summer, the midnight sun lights up hiking, fishing, and mountaineering. From late autumn to winter, [killer whale safaris](/europe/norway/narvik/whale_safari) follow the herring into the fjords.
 

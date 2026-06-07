@@ -14,7 +14,7 @@ Antwerp is well placed for half-day or day visits to the other historic Flemish 
 
 [Ghent](/europe/belgium/ghent) — 50 minutes by train. Quieter, older, with the great Van Eyck altarpiece in Saint Bavo's Cathedral and a perfectly preserved medieval centre. Often cited as the most attractive city in Belgium.
 
-[Bruges](/europe/belgium/brugge) — 90 minutes by train. The most famous Belgian destination, picture-postcard medieval. Best done as an early start or an overnight.
+[Bruges](/europe/belgium/bruges) — 90 minutes by train. The most famous Belgian destination, picture-postcard medieval. Best done as an early start or an overnight.
 
 **Mechelen** — 25 minutes by train. The often-overlooked smaller cathedral city between Antwerp and Brussels, with the country's largest cathedral and an excellent toy museum.
 

@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-16'
   location_cleanup: 2026-04-02
   location_enrich: '2026-05-21'
+  lp_coverage: '2026-06-05'
   poi_cleanup: '2026-04-21'
 image: dubrovnik.jpg
 image_attribution: Diego Delso

@@ -259,19 +259,9 @@ def location_or_section(request, path):
     })
 
 
-def search(request):
-    query = request.GET.get("q", "").strip()
-    has_db = SEARCH_DB.is_file()
-    return render(request, "guide/search.html", {
-        "query": query,
-        "has_db": has_db,
-    })
-
-
-def search_api(request):
-    query = request.GET.get("q", "").strip()
+def _search_results(query):
     if not query or not SEARCH_DB.is_file():
-        return JsonResponse({"results": []})
+        return []
 
     conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -303,6 +293,24 @@ def search_api(request):
     finally:
         conn.close()
 
+    return results
+
+
+def search(request):
+    query = request.GET.get("q", "").strip()
+    if request.GET.get("format", "").lower() == "json":
+        return JsonResponse({"results": _search_results(query)})
+
+    has_db = SEARCH_DB.is_file()
+    return render(request, "guide/search.html", {
+        "query": query,
+        "has_db": has_db,
+    })
+
+
+def search_api(request):
+    query = request.GET.get("q", "").strip()
+    results = _search_results(query)
     return JsonResponse({"results": results})
 
 

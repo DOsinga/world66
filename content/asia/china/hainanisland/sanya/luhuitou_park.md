@@ -2,11 +2,7 @@
 latitude: 18.2272
 longitude: 109.4963
 snippet: Hilltop park with a giant deer sculpture and panoramic views over the city
-story: The park takes its name from a Li ethnic legend: a young hunter chased a deer
-  across all of Hainan until they reached this very headland. Cornered on the cliff,
-  the deer turned its head and transformed into a beautiful woman, who became the
-  hunter's wife. The 12-metre granite sculpture at the summit commemorates the moment
-  of transformation — a deer mid-turn, looking back over its shoulder.
+story: "The park takes its name from a Li ethnic legend: a young hunter chased a deer across all of Hainan until they reached this very headland. Cornered on the cliff, the deer turned its head and transformed into a beautiful woman, who became the hunter's wife. The 12-metre granite sculpture at the summit commemorates the moment of transformation — a deer mid-turn, looking back over its shoulder."
 tags:
 - things_to_do
 - sight

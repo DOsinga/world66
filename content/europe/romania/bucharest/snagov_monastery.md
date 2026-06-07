@@ -1,6 +1,7 @@
 ---
 address: Snagov Island, Snagov Lake
 latitude: 44.7050
+loc_type: feature
 longitude: 26.1864
 snippet: Island monastery 40 km north, traditional burial place of Vlad the Impaler
 tags:

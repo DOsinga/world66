@@ -4,7 +4,7 @@ type: poi
 tags:
   - things_to_do
   - neighbourhood
-  - nightlife
+  - bars_and_cafes
 latitude: 10.6517
 longitude: -61.5247
 snippet: "Port of Spain's nightlife and restaurant neighbourhood"

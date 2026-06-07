@@ -1,0 +1,5 @@
+europe/austria/ossiachersee
+europe/austria/salzkammergut
+europe/azerbaijan/lenkoran
+europe/azerbaijan/yardimli
+europe/belarus/mogilev

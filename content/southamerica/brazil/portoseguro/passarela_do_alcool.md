@@ -6,7 +6,6 @@ longitude: -39.0590
 tags:
   - things_to_do
   - bars_and_cafes
-  - nightlife
 story: "The pedestrian boulevard takes its name from the dozens of cachaça stalls that line both sides at night, each one mixing flavoured *cachaças* — passion fruit, ginger, cinnamon, kiwi — in plastic cups and competing for customers with free tasting samples."
 ---
 

@@ -1,6 +1,7 @@
 ---
 address: Rue des Jardins 37a, 5537 Annevoie
 latitude: 50.3340
+loc_type: feature
 longitude: 4.8930
 snippet: 18th-century water gardens 15 km north of Dinant
 tags:

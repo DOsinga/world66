@@ -1,7 +1,7 @@
 ---
 title: The Caribbean
 type: location
-loc_type: region
+loc_type: country
 latitude: 17.0
 longitude: -66.0
 ---

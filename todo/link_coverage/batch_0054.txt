@@ -1,0 +1,5 @@
+europe/italy/abruzzo/lanciano
+europe/italy/abruzzo/majella
+europe/italy/abruzzo/montesilvano
+europe/italy/basilicata/costa_di_maratea/acquafredda
+europe/italy/calabria/palmi

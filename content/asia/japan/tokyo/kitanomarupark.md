@@ -2,7 +2,7 @@
 title: "Kitanomaru Park"
 type: poi
 tags:
-  - sights
+  - things_to_do
   - park
   - nature
 latitude: 35.692036

@@ -13,7 +13,7 @@ title: Tarutao
 type: location
 ---
 
-Tarutao National Marine Park is a group of 51 islands in the Andaman Sea, just a few kilometres from the Malaysian island of Langkawi. Unlike [Phuket](/asia/thailand/phuket) or [Koh Phi Phi](/asia/thailand/koh_phi_phi), Tarutao has been kept largely free of large-scale development — outside of Ko Lipe, the only accommodation is national park bungalows and camping.
+Tarutao National Marine Park is a group of 51 islands in the Andaman Sea, just a few kilometres from the Malaysian island of Langkawi. Unlike [Phuket](/asia/thailand/phuket) or [Koh Phi Phi](/asia/thailand/kohphiphi), Tarutao has been kept largely free of large-scale development — outside of Ko Lipe, the only accommodation is national park bungalows and camping.
 
 [Ko Tarutao](/asia/thailand/tarutao/ko_tarutao) itself is the largest and wildest, with jungle-covered mountains, mangrove-lined creeks, and long empty beaches. During World War II the island served as a prison colony; the prisoners, left without supplies, turned to piracy in the Strait of Malacca before British forces put a stop to it. The ruins of the camp at [Talo Wao Bay](/asia/thailand/tarutao/talo_wao_bay) and the long sweep of [Pante Malacca Beach](/asia/thailand/tarutao/pante_malacca_beach) by the headquarters are the main draws.
 

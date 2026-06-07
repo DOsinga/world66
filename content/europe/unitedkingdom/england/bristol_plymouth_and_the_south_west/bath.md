@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-12'
+  lp_coverage: '2026-06-05'
 image: bath.jpg
 image_attribution: Julian Herzog (Website)
 image_license: CC BY 4.0

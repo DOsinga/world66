@@ -5,7 +5,7 @@ linked_locations:
   - northamerica/unitedstates/louisiana/newOrleans
 ---
 
-[New Orleans](/northamerica/unitedstates/louisiana/newOrleans) — 80km east, about 1 hour — is the obvious base for this region and an easy day trip in either direction; most visitors use New Orleans as their anchor and treat Donaldsonville as a stop on the River Road rather than an overnight destination, but it works both ways.
+[New Orleans](/northamerica/unitedstates/louisiana/neworleans) — 80km east, about 1 hour — is the obvious base for this region and an easy day trip in either direction; most visitors use New Orleans as their anchor and treat Donaldsonville as a stop on the River Road rather than an overnight destination, but it works both ways.
 
 **Thibodaux** (40km south on Bayou Lafourche) is the main town in Cajun Lafourche Parish — the E.D. White Historic Site (home of a former US Chief Justice) is here, and the town has a genuine Cajun character without being set up for tourism.
 

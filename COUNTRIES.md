@@ -23,7 +23,7 @@ How do you arrive? Major international airports and which cities they serve, hub
 
 How do you travel within the country? Trains, buses, domestic flights, car rental, ferries. What's reliable, what's rough. Is driving practical or terrifying? Are there passes or cards worth buying? Give the big picture so a traveler can plan their route.
 
-### Practical Information (`practical_informat.md`)
+### Practical Information (`practical_information.md`)
 
 The nuts and bolts:
 
@@ -68,10 +68,6 @@ Reading recommendations — fiction, travel writing, history. A few well-describ
 
 Only where health is a real planning concern — tropical countries, places with altitude, countries with specific vaccination requirements. Don't create this for western Europe or Japan. Do create it for countries with malaria risk, yellow fever requirements, serious altitude, or unreliable medical facilities.
 
-### Top 5 Must Do's (`top_5_must_dos.md`)
-
-Our most opinionated page. Five experiences, numbered, each with a substantial paragraph. Mix different types of activity. See STYLE.md for how to write these.
-
 ## Sections that don't belong on country pages
 
 These are too specific for a whole country and belong on city or region pages:
@@ -86,6 +82,7 @@ These are too specific for a whole country and belong on city or region pages:
 - **Tours & Excursions** — almost always spam or empty
 - **Webcams** — obsolete
 - **Budget/Family/Senior Travel Ideas** — legacy empty sections
+- **Top 5 Must Do's** — fold the standout experiences into the overview instead
 
 ## Principles
 

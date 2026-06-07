@@ -1,7 +1,7 @@
 ---
 title: Central African Republic
 type: location
-loc_type: region
+loc_type: country
 latitude: 6.6
 longitude: 20.9
 ---

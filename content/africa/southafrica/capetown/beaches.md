@@ -8,7 +8,7 @@ Beach (for the penguins!) and Blouberg beach for the views of Table
 Mountain. The warmer seas are within False Bay. The western
 coast (the Atlantic Ocean) receives the cold currents from the south.
 
-### [Noordhoek beach](/africa/southafrica/capetown/beaches/natasha_melbourne)
+### Noordhoek beach
 
 Don't leave Cape Town if you haven't taken a coastal north toward
 houtbay, stop in a little place called Noordhoek beach. A huge stretch

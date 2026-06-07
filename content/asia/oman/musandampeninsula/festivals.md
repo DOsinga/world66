@@ -40,7 +40,7 @@ attracting people from all over the area, celebrates the natural beauty
 brought on by the monsoons. The festival features shopping, music, arts
 and more, making it well worth the journey from the Musandam.
 
-### [Martin Hill](/asia/oman/musandampeninsula/festivals/martin_hill)
+### Martin Hill
 
 **The Sohar Music Festival **is held during 3 weekends in late Oct./early November. It provides a platform for both local and international musicians performing music from a variety of genres. Further details are available from the festival's website.
 

@@ -1,6 +1,7 @@
 ---
 address: Bulevardul Primăverii 50, Bucharest
 latitude: 44.4651
+loc_type: feature
 longitude: 26.0985
 snippet: Ceaușescu's astonishingly kitsch private mansion, now a museum
 tags:

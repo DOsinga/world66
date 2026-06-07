@@ -1,0 +1,5 @@
+europe/greece/crete/spinalonga
+europe/greece/kalamata/mystras
+europe/greece/nafplio
+europe/greece/sparta
+europe/greece/zakinthos/agiossostislithakia

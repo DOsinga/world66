@@ -1,6 +1,7 @@
 ---
 address: Ōpihi River, near Temuka
 latitude: -44.2819
+loc_type: feature
 longitude: 171.3489
 snippet: South Canterbury's premier salmon and trout fishing river
 tags:

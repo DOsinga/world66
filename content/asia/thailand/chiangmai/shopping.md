@@ -11,10 +11,10 @@ Chiang Mai is a very good place for shopping. Umbrellas made of sa paper, hilltr
 
 Bor Sang Village is located at Highway 1006. This road serves as the location to the largest amount and the most popular of handicraft factories . and shops in Chiang Mai.
 
-It begins at the Chiang Mai - Sankampaeng intersection and continues to the Sankampaeng district at k.m. 13. It is lined o [more..](/asia/thailand/chiangmai/shopping/borsangvillage)
+It begins at the Chiang Mai - Sankampaeng intersection and continues to the Sankampaeng district at k.m. 13. It is lined on both sides with workshops producing the painted paper umbrellas Bor Sang is famous for, along with silk weavers, silverware studios, lacquerware shops and woodcarvers — you can usually watch the craftspeople at work and buy direct.
 
 **Night Bazaar**
 
 The Night Bazaar on Chang Klang Road is the city's most famous shopping location and is a must for all visitors. It is a lively area with department stores, shops and stall vendors.
 
- It begins to come to life in the early evening and buzzes till midnight, but a few shops are open all day. If [more..](/asia/thailand/chiangmai/shopping/nightbazaar)
+ It begins to come to life in the early evening and buzzes till midnight, but a few shops are open all day. Expect hill-tribe textiles, knock-off watches, silver jewellery, T-shirts, paintings and food stalls in roughly equal measure — and expect to bargain hard.

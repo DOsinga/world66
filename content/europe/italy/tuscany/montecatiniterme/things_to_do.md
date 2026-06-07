@@ -11,7 +11,7 @@ There are scores of hiking trails throughout the hills surrounding Montecatini T
 
 **Biking**
 
-You can rent a bicycle from most any [hotel](/europe/italy/tuscany/montecatiniterme/accommodation)and head out to the same paths in the hills that are good for hiking. If you want something more challenging you can rent a proper mountain bike and head to the trickier paths. If you ask at the Astoria hotel, you'll find information on the local mountain biking club.
+You can rent a bicycle from most any hoteland head out to the same paths in the hills that are good for hiking. If you want something more challenging you can rent a proper mountain bike and head to the trickier paths. If you ask at the Astoria hotel, you'll find information on the local mountain biking club.
 
 **Jogging**
 
@@ -33,6 +33,6 @@ The Sesana Race Track of Montecatini Terme is excellent for a bit of fun and som
 
 You'll find several municipal clubs in the area that offer indoor and outdoor swimming, tennis courts and trapshooting. These are open to the public for a fee. Stop in at the Hotel Mediterraneo for more information or call them at +39 0572 71321.
 
-**[For Kids](/europe/italy/tuscany/montecatiniterme/family_travel_idea)**
+**For Kids**
 
 If you're traveling with children, there are several activities that cater to the young. There's a miniature golf course that's always popular with both the young and the young at heart. In nearby Collodi, just northwest of Montecatini Terme, is the Parco di Pinnochio, which offers playgrounds and a fairytale theme park. Finally, in Montecatini itself is Termeland, a pay as you play park located on Via Bicchierai.

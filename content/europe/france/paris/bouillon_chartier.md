@@ -5,6 +5,8 @@ longitude: 2.3441
 opening_hours: Daily 11:30am–midnight
 phone: +33 1 47 70 86 29
 price_range: €15–25 for a full meal
+scores:
+  eating_out: 0.8247
 snippet: A Belle \u00c9poque workers' canteen serving cheap French classics since
   1896
 tags:

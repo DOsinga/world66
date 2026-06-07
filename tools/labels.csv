@@ -1,0 +1,1108 @@
+path,tag,rating,title
+europe/france/paris/louvre.md,museum,5,Louvre Museum
+europe/france/paris/musee_dorsay.md,museum,5,Musée d'Orsay
+europe/france/paris/centre_pompidou.md,museum,4,Centre Pompidou
+europe/france/paris/musee_rodin.md,museum,4,Musée Rodin
+europe/france/paris/musee_picasso.md,museum,4,Musée Picasso Paris
+europe/france/paris/musee_de_cluny.md,museum,4,Musée de Cluny
+europe/france/paris/musee_carnavalet.md,museum,3,Musée Carnavalet
+europe/france/paris/musee_de_la_chasse.md,museum,3,Musée de la Chasse et de la Nature
+europe/france/paris/chantilly.md,museum,4,Chantilly
+europe/france/paris/catacombs.md,museum,3,The Catacombs
+europe/france/paris/eiffel_tower.md,landmark,5,Eiffel Tower
+europe/france/paris/arc_de_triomphe.md,landmark,4,Arc de Triomphe
+europe/france/paris/versailles.md,landmark,5,Palace of Versailles
+europe/france/paris/louvre.md,landmark,5,Louvre Museum
+europe/france/paris/notre_dame.md,landmark,5,Notre-Dame Cathedral
+europe/france/paris/sacre_coeur.md,landmark,3,Sacré-Cœur Basilica
+europe/france/paris/pantheon.md,landmark,3,The Panthéon
+europe/france/paris/sainte_chapelle.md,landmark,4,Sainte-Chapelle
+europe/france/paris/notre_dame.md,church,5,Notre-Dame Cathedral
+europe/france/paris/sainte_chapelle.md,church,5,Sainte-Chapelle
+europe/france/paris/sacre_coeur.md,church,4,Sacré-Cœur Basilica
+europe/france/paris/saint_gervais.md,church,3,Church of Saint-Gervais-et-Saint-Protais
+europe/france/paris/bistrot_paul_bert.md,restaurant,5,Bistrot Paul Bert
+europe/france/paris/benoit.md,restaurant,5,Benoit
+europe/france/paris/septime.md,restaurant,5,Septime
+europe/france/paris/le_grand_vefour.md,restaurant,5,Le Grand Véfour
+europe/france/paris/chez_josephine.md,restaurant,4,Chez Josephine (Dumonet)
+europe/france/paris/frenchie.md,restaurant,4,Frenchie
+europe/france/paris/au_passage.md,restaurant,4,Au Passage
+europe/france/paris/chez_omar.md,restaurant,4,Chez Omar
+europe/france/paris/chez_denise.md,restaurant,4,Chez Denise
+europe/france/paris/brasserie_lipp.md,restaurant,4,Brasserie Lipp
+europe/france/paris/la_tour_d_argent.md,restaurant,4,La Tour d'Argent
+europe/france/paris/ze_kitchen_galerie.md,restaurant,3,Ze Kitchen Galerie
+europe/france/paris/prescription_cocktail_club.md,bar,5,Prescription Cocktail Club
+europe/france/paris/le_baron_rouge.md,bar,5,Le Baron Rouge
+europe/france/paris/le_comptoir_general.md,bar,4,Le Comptoir Général
+europe/france/paris/septime_cave.md,bar,4,Septime La Cave
+europe/france/paris/aux_deux_amis.md,bar,4,Aux Deux Amis
+europe/france/paris/cave_des_abbesses.md,bar,3,Cave des Abbesses
+europe/france/paris/chez_prune.md,bar,3,Chez Prune
+europe/france/paris/la_fontaine_de_belleville.md,bar,2,La Fontaine de Belleville
+europe/france/paris/le_marche_des_enfants_rouges.md,market,5,Marché des Enfants Rouges
+europe/france/paris/marche_beauvau.md,market,5,Marché Beauvau and Marché d'Aligre
+europe/france/paris/fleemarket.md,market,4,Marché aux Puces de Saint-Ouen
+europe/france/paris/marhca_aux_puces_d.md,market,3,Flea Market at Vanves
+europe/france/paris/le_bon_marche.md,market,3,Le Bon Marché
+europe/france/paris/eiffel_tower.md,sight,5,Eiffel Tower
+europe/france/paris/notre_dame.md,sight,5,Notre-Dame Cathedral
+europe/france/paris/place_des_vosges.md,sight,5,Place des Vosges
+europe/france/paris/sainte_chapelle.md,sight,5,Sainte-Chapelle
+europe/france/paris/versailles.md,sight,5,Palace of Versailles
+europe/france/paris/the_village_of_giv.md,sight,5,Giverny — Monet's Gardens
+europe/france/paris/arc_de_triomphe.md,sight,4,Arc de Triomphe
+europe/france/paris/sacre_coeur.md,sight,4,Sacré-Cœur Basilica
+europe/france/paris/pere_lachaise.md,sight,4,Père Lachaise Cemetery
+europe/france/paris/pantheon.md,sight,4,The Panthéon
+europe/france/paris/palais_royal.md,sight,3,Palais Royal Gardens
+europe/france/paris/cafe_de_flore.md,sight,3,Café de Flore
+europe/france/paris/les_deux_magots.md,sight,2,Les Deux Magots
+europe/france/paris/stravinsky_fountain.md,sight,2,Stravinsky Fountain
+europe/france/paris/jardin_du_luxembourg.md,park,5,Jardin du Luxembourg
+europe/france/paris/buttes_chaumont.md,park,4,Parc des Buttes-Chaumont
+europe/france/paris/palais_royal.md,park,3,Palais Royal Gardens
+europe/france/paris/notre_dame.md,architecture,5,Notre-Dame Cathedral
+europe/france/paris/sainte_chapelle.md,architecture,5,Sainte-Chapelle
+europe/france/paris/versailles.md,architecture,5,Palace of Versailles
+europe/france/paris/pantheon.md,architecture,4,The Panthéon
+europe/france/paris/louvre.md,architecture,4,Louvre Museum
+europe/france/paris/tour_saint_jacques.md,architecture,3,Tour Saint-Jacques
+europe/france/paris/saint_gervais.md,architecture,2,Church of Saint-Gervais-et-Saint-Protais
+europe/unitedkingdom/england/london/british_museum.md,museum,5,British Museum
+europe/unitedkingdom/england/london/national_gallery.md,museum,5,National Gallery
+europe/unitedkingdom/england/london/natural_history_museum.md,museum,5,Natural History Museum
+europe/unitedkingdom/england/london/victoria_and_albert_museum.md,museum,5,Victoria and Albert Museum
+europe/unitedkingdom/england/london/sir_john_soanes_museum.md,museum,5,Sir John Soane's Museum
+europe/unitedkingdom/england/london/science_museum.md,museum,4,Science Museum
+europe/unitedkingdom/england/london/churchill_war_rooms.md,museum,4,Churchill War Rooms
+europe/unitedkingdom/england/london/leighton_house.md,museum,4,Leighton House Museum
+europe/unitedkingdom/england/london/design_museum.md,museum,3,Design Museum
+europe/unitedkingdom/england/london/the_photographers_gallery.md,museum,3,The Photographers' Gallery
+europe/unitedkingdom/england/london/tower_of_london.md,sight,5,Tower of London
+europe/unitedkingdom/england/london/houses_of_parliament.md,sight,5,Houses of Parliament and Big Ben
+europe/unitedkingdom/england/london/trafalgar_square.md,sight,4,Trafalgar Square
+europe/unitedkingdom/england/london/highgate_cemetery.md,sight,4,Highgate Cemetery
+europe/unitedkingdom/england/london/shakespeares_globe.md,sight,4,Shakespeare's Globe
+europe/unitedkingdom/england/london/buckingham_palace.md,sight,4,Buckingham Palace
+europe/unitedkingdom/england/london/sky_garden.md,sight,2,Sky Garden
+europe/unitedkingdom/england/london/london_eye.md,landmark,4,London Eye
+europe/unitedkingdom/england/london/tower_of_london.md,landmark,5,Tower of London
+europe/unitedkingdom/england/london/houses_of_parliament.md,landmark,5,Houses of Parliament and Big Ben
+europe/unitedkingdom/england/london/borough_market.md,market,5,Borough Market
+europe/unitedkingdom/england/london/columbia_road_flower_market.md,market,5,Columbia Road Flower Market
+europe/unitedkingdom/england/london/brick_lane.md,market,4,Brick Lane
+europe/unitedkingdom/england/london/portobello_road_market.md,market,4,Portobello Road Market
+europe/unitedkingdom/england/london/camden_market.md,market,3,Camden Market
+europe/unitedkingdom/england/london/covent_garden.md,market,3,Covent Garden
+europe/unitedkingdom/england/london/rochelle_canteen.md,restaurant,5,Rochelle Canteen
+europe/unitedkingdom/england/london/lyles.md,restaurant,5,Lyle's
+europe/unitedkingdom/england/london/gymkhana.md,restaurant,5,Gymkhana
+europe/unitedkingdom/england/london/the_quality_chop_house.md,restaurant,5,The Quality Chop House
+europe/unitedkingdom/england/london/bao.md,restaurant,4,BAO
+europe/unitedkingdom/england/london/mangal_2.md,restaurant,4,Mangal 2
+europe/unitedkingdom/england/london/india_club.md,restaurant,4,India Club
+europe/unitedkingdom/england/london/rasa.md,restaurant,3,Rasa
+europe/unitedkingdom/england/london/happiness_forgets.md,bar,5,Happiness Forgets
+europe/unitedkingdom/england/london/the_french_house.md,bar,5,The French House
+europe/unitedkingdom/england/london/prospect_of_whitby.md,bar,4,Prospect of Whitby
+europe/unitedkingdom/england/london/fabric.md,bar,4,Fabric
+europe/unitedkingdom/england/london/bar_termini.md,bar,4,Bar Termini
+europe/unitedkingdom/england/london/bermondsey_beer_mile.md,bar,4,Bermondsey Beer Mile
+europe/unitedkingdom/england/london/st_pauls_cathedral.md,architecture,5,St Paul's Cathedral
+europe/unitedkingdom/england/london/houses_of_parliament.md,architecture,5,Houses of Parliament and Big Ben
+europe/unitedkingdom/england/london/westminster_abbey.md,architecture,5,Westminster Abbey
+europe/unitedkingdom/england/london/leadenhall_market.md,architecture,4,Leadenhall Market
+europe/unitedkingdom/england/london/tower_of_london.md,architecture,4,Tower of London
+europe/unitedkingdom/england/london/kew_gardens.md,park,5,Kew Gardens
+europe/unitedkingdom/england/london/hyde_park.md,park,4,Hyde Park
+europe/unitedkingdom/england/london/hampton_court_palace.md,park,4,Hampton Court Palace
+europe/unitedkingdom/england/london/westminster_abbey.md,church,5,Westminster Abbey
+europe/unitedkingdom/england/london/windsor_castle.md,church,4,Windsor Castle
+europe/italy/lazio/rome/galleria_borghese.md,museum,5,Galleria Borghese
+europe/italy/lazio/rome/vatican_museums_and_sistine.md,museum,5,Vatican Museums & Sistine Chapel
+europe/italy/lazio/rome/capitoline_museums.md,museum,5,Capitoline Museums
+europe/italy/lazio/rome/castel_santangelo.md,museum,4,Castel Sant'Angelo
+europe/italy/lazio/rome/baths_of_caracalla.md,museum,4,Baths of Caracalla
+europe/italy/lazio/rome/centrale_montemartini.md,museum,4,Centrale Montemartini
+europe/italy/lazio/rome/domus_aurea.md,museum,4,Domus Aurea
+europe/italy/lazio/rome/capuchin_crypt.md,museum,4,Capuchin Crypt
+europe/italy/lazio/rome/galleria_spada.md,museum,4,Galleria Spada
+europe/italy/lazio/rome/barracco_museum.md,museum,3,Barracco Museum
+europe/italy/lazio/rome/museum_of_roman_civilization.md,museum,3,Museum of Roman Civilization
+europe/italy/lazio/rome/pantheon.md,church,5,Pantheon
+europe/italy/lazio/rome/st_peters_basilica_and_vatican.md,church,5,St. Peter's Basilica & Vatican
+europe/italy/lazio/rome/il_gesu.md,church,4,Il Gesù
+europe/italy/lazio/rome/san_pietro_in_vincoli.md,church,4,San Pietro in Vincoli
+europe/italy/lazio/rome/sant_ignazio.md,church,4,Sant'Ignazio
+europe/italy/lazio/rome/scala_sancta.md,church,2,Scala Sancta
+europe/italy/lazio/rome/roman_forum.md,sight,5,Roman Forum
+europe/italy/lazio/rome/trevi_fountain.md,sight,5,Trevi Fountain
+europe/italy/lazio/rome/colosseum.md,sight,5,Colosseum
+europe/italy/lazio/rome/spanish_steps.md,sight,4,Spanish Steps
+europe/italy/lazio/rome/via_appia_antica.md,sight,4,Via Appia Antica
+europe/italy/lazio/rome/pyramid_of_cestius.md,sight,4,Pyramid of Cestius
+europe/italy/lazio/rome/protestant_cemetery.md,sight,3,Protestant Cemetery
+europe/italy/lazio/rome/aventine_keyhole.md,sight,4,Aventine Keyhole
+europe/italy/lazio/rome/roscioli_salumeria_con_cucina.md,restaurant,5,Roscioli Salumeria con Cucina
+europe/italy/lazio/rome/armando_al_pantheon.md,restaurant,5,Armando al Pantheon
+europe/italy/lazio/rome/pizzarium.md,restaurant,5,Pizzarium
+europe/italy/lazio/rome/felice_a_testaccio.md,restaurant,5,Felice a Testaccio
+europe/italy/lazio/rome/da_cesare_al_casaletto.md,restaurant,5,Da Cesare al Casaletto
+europe/italy/lazio/rome/santo_palato.md,restaurant,5,Santo Palato
+europe/italy/lazio/rome/pizzeria_da_remo.md,restaurant,4,Pizzeria Da Remo
+europe/italy/lazio/rome/checchino_dal_1887.md,restaurant,4,Checchino dal 1887
+europe/italy/lazio/rome/perilli_a_testaccio.md,restaurant,4,Perilli a Testaccio
+europe/italy/lazio/rome/trattoria_monti.md,restaurant,4,Trattoria Monti
+europe/italy/lazio/rome/da_baffetto.md,restaurant,3,Da Baffetto
+europe/italy/lazio/rome/sant_eustachio_il_caffe.md,bar,5,Sant'Eustachio il Caffè
+europe/italy/lazio/rome/pimms_good.md,bar,5,Pimm's Good
+europe/italy/lazio/rome/rimessa_roscioli.md,bar,4,Rimessa Roscioli
+europe/italy/lazio/rome/il_sorpasso.md,bar,4,Il Sorpasso
+europe/italy/lazio/rome/ma_che_siete_venuti_a_fa.md,bar,4,Ma Che Siete Venuti a Fà
+europe/italy/lazio/rome/fafiuche.md,bar,3,Fafiuche
+europe/italy/lazio/rome/bar_san_calisto.md,bar,2,Bar San Calisto
+europe/italy/lazio/rome/mercato_di_testaccio.md,market,5,Mercato di Testaccio
+europe/italy/lazio/rome/porta_portese_flea_market.md,market,4,Porta Portese Flea Market
+europe/italy/lazio/rome/campo_de_fiori_market.md,market,4,Campo de' Fiori Market
+europe/italy/lazio/rome/volpetti.md,market,5,Volpetti
+europe/italy/lazio/rome/roman_forum.md,landmark,5,Roman Forum
+europe/italy/lazio/rome/pantheon.md,landmark,5,Pantheon
+europe/italy/lazio/rome/st_peters_basilica_and_vatican.md,landmark,5,St. Peter's Basilica & Vatican
+europe/italy/lazio/rome/trevi_fountain.md,landmark,4,Trevi Fountain
+europe/spain/catalonia/barcelona/sagrada_familia.md,architecture,5,Sagrada Família
+europe/spain/catalonia/barcelona/casa_batllo.md,architecture,5,Casa Batlló
+europe/spain/catalonia/barcelona/parc_guell.md,architecture,5,Parc Güell
+europe/spain/catalonia/barcelona/pavello_mies_van_der_rohe.md,architecture,5,Pavelló Mies van der Rohe
+europe/spain/catalonia/barcelona/palau_guell.md,architecture,4,Palau Güell
+europe/spain/catalonia/barcelona/casa_calvet.md,architecture,3,Casa Calvet
+europe/spain/catalonia/barcelona/sagrada_familia.md,sight,5,Sagrada Família
+europe/spain/catalonia/barcelona/passeig_de_gracia.md,sight,4,Passeig de Gràcia
+europe/spain/catalonia/barcelona/camp_nou.md,sight,3,Camp Nou
+europe/spain/catalonia/barcelona/tickets.md,restaurant,5,Tickets
+europe/spain/catalonia/barcelona/quimet_quimet.md,restaurant,5,Quimet & Quimet
+europe/spain/catalonia/barcelona/bar_pinotxo.md,restaurant,5,Bar Pinotxo
+europe/spain/catalonia/barcelona/la_cova_fumada.md,restaurant,4,La Cova Fumada
+europe/spain/catalonia/barcelona/la_pepita.md,restaurant,4,La Pepita
+europe/spain/catalonia/barcelona/cerveceria_catalana.md,restaurant,4,Cervecería Catalana
+europe/spain/catalonia/barcelona/el_xampanyet.md,restaurant,4,El Xampanyet
+europe/spain/catalonia/barcelona/bar_celta_pulperia.md,restaurant,3,Bar Celta Pulpería
+europe/germany/berlin/pergamonmuseum.md,museum,5,Pergamon Museum
+europe/germany/berlin/jewish_museum_berlin.md,museum,5,Jewish Museum Berlin
+europe/germany/berlin/stasi_museum.md,museum,5,Stasi Museum
+europe/germany/berlin/checkpoint_charlie_museum.md,museum,4,Checkpoint Charlie Museum
+europe/germany/berlin/bode_museum.md,museum,4,Bode Museum
+europe/germany/berlin/broehan_museum.md,museum,3,Bröhan Museum
+europe/germany/berlin/kreuzberg_museum.md,museum,2,Kreuzberg Museum
+europe/germany/berlin/markisches_museum.md,museum,3,Märkisches Museum
+europe/germany/berlin/domaene_dahlem.md,museum,2,Domäne Dahlem
+europe/germany/berlin/brandenburg_gate.md,sight,5,Brandenburg Gate
+europe/germany/berlin/memorial_to_the_murdered_jews_of_europe.md,sight,5,Memorial to the Murdered Jews of Europe
+europe/germany/berlin/east_side_gallery.md,sight,4,East Side Gallery
+europe/germany/berlin/olympiastadion.md,sight,3,Olympiastadion
+europe/germany/berlin/oberbaumbruecke.md,sight,3,Oberbaumbrücke
+europe/germany/berlin/viktoriapark.md,sight,2,Viktoriapark
+europe/germany/berlin/reichstag.md,architecture,5,Reichstag
+europe/germany/berlin/karl_marx_allee.md,architecture,4,Karl-Marx-Allee
+europe/germany/berlin/kulturbrauerei.md,architecture,3,Kulturbrauerei
+europe/germany/berlin/brandenburg_gate.md,landmark,5,Brandenburg Gate
+europe/germany/berlin/memorial_to_the_murdered_jews_of_europe.md,landmark,5,Memorial to the Murdered Jews of Europe
+europe/germany/berlin/reichstag.md,landmark,4,Reichstag
+europe/netherlands/amsterdam/anne_frank_house.md,museum,5,Anne Frank House
+europe/netherlands/amsterdam/verzetsmuseum.md,museum,4,Verzetsmuseum (Resistance Museum)
+europe/netherlands/amsterdam/our_lord_in_the_attic.md,museum,4,Our Lord in the Attic
+europe/netherlands/amsterdam/six_collection.md,museum,4,Six Collection
+europe/netherlands/amsterdam/amsterdam_museum.md,museum,3,Amsterdam Museum
+europe/netherlands/amsterdam/micropia.md,museum,3,Micropia
+europe/netherlands/amsterdam/straat.md,museum,3,STRAAT
+europe/netherlands/amsterdam/electric_ladyland.md,museum,2,Electric Ladyland
+europe/netherlands/amsterdam/museum_het_schip.md,architecture,4,Museum Het Schip
+europe/netherlands/amsterdam/theater_tuschinski.md,architecture,4,Theater Tuschinski
+europe/netherlands/amsterdam/westerpark.md,park,3,Westerpark
+europe/austria/vienna/kunsthistorisches_museum.md,museum,5,Kunsthistorisches Museum
+europe/austria/vienna/belvedere_palace.md,museum,5,Belvedere Palace
+europe/austria/vienna/albertina.md,museum,5,Albertina
+europe/austria/vienna/hofburg_palace.md,museum,5,Hofburg Palace
+europe/austria/vienna/leopold_museum.md,museum,4,Leopold Museum
+europe/austria/vienna/klosterneuburg_abbey.md,museum,4,Klosterneuburg Abbey
+europe/austria/vienna/haus_der_musik.md,museum,3,Haus der Musik
+europe/austria/vienna/josephinum.md,museum,3,Josephinum
+europe/austria/vienna/dom_museum.md,museum,3,Dom Museum
+europe/austria/vienna/mozarthaus.md,museum,3,Mozarthaus
+europe/austria/vienna/karlskirche.md,architecture,5,Karlskirche
+europe/austria/vienna/belvedere_palace.md,architecture,5,Belvedere Palace
+europe/austria/vienna/hofburg_palace.md,architecture,4,Hofburg Palace
+europe/austria/vienna/hundertwasserhaus.md,architecture,4,Hundertwasserhaus
+europe/austria/vienna/loos_american_bar.md,architecture,4,Loos American Bar
+europe/austria/vienna/klosterneuburg_abbey.md,architecture,4,Klosterneuburg Abbey
+europe/austria/vienna/hofburg_palace.md,landmark,5,Hofburg Palace
+europe/austria/vienna/belvedere_palace.md,landmark,5,Belvedere Palace
+europe/austria/vienna/karlskirche.md,landmark,4,Karlskirche
+europe/austria/vienna/karmelitermarkt.md,market,4,Karmelitermarkt
+europe/czechrepublic/prague/old_town_square.md,sight,5,Old Town Square
+europe/czechrepublic/prague/charles_bridge.md,sight,5,Charles Bridge
+europe/czechrepublic/prague/prague_castle.md,sight,5,Prague Castle
+europe/czechrepublic/prague/jewish_quarter.md,sight,5,Jewish Quarter
+europe/czechrepublic/prague/vyšehrad.md,sight,3,Vyšehrad
+europe/czechrepublic/prague/prague_castle.md,landmark,5,Prague Castle
+europe/czechrepublic/prague/charles_bridge.md,landmark,4,Charles Bridge
+europe/hungary/budapest/szechenyi_baths.md,sight,5,Széchenyi Baths
+europe/hungary/budapest/ruin_bars.md,bar,5,Ruin Bars
+europe/hungary/budapest/great_market_hall.md,market,5,Great Market Hall
+europe/hungary/budapest/hungarian_parliament.md,landmark,5,Hungarian Parliament Building
+europe/hungary/budapest/fishermans_bastion.md,sight,4,Fisherman's Bastion
+europe/hungary/budapest/buda_castle.md,landmark,4,Buda Castle
+europe/portugal/lisbon/time_out_market.md,market,5,Time Out Market
+europe/portugal/lisbon/lx_factory.md,market,4,LX Factory
+europe/portugal/lisbon/feira_da_ladra.md,market,4,Feira da Ladra
+europe/portugal/lisbon/pasteis_de_belem.md,restaurant,5,Pastéis de Belém
+europe/portugal/lisbon/cervejaria_ramiro.md,restaurant,5,Cervejaria Ramiro
+europe/portugal/lisbon/taberna_da_rua_das_flores.md,restaurant,4,Taberna da Rua das Flores
+europe/portugal/lisbon/belem_tower.md,landmark,5,Belém Tower
+europe/portugal/lisbon/jeronimos_monastery.md,landmark,5,Jerónimos Monastery
+europe/portugal/lisbon/jeronimos_monastery.md,architecture,5,Jerónimos Monastery
+europe/portugal/lisbon/castelo_de_sao_jorge.md,historic,4,Castelo de São Jorge
+europe/italy/tuscany/florence/uffizi_gallery.md,museum,5,Uffizi Gallery
+europe/italy/tuscany/florence/galleria_dellaccademia.md,museum,5,Accademia Gallery
+europe/italy/tuscany/florence/bargello.md,museum,4,Bargello
+europe/italy/tuscany/florence/museo_dell_opera.md,museum,4,Museo dell'Opera del Duomo
+europe/italy/tuscany/florence/santa_croce.md,church,5,Santa Croce
+europe/italy/tuscany/florence/duomo.md,landmark,5,Florence Cathedral (Duomo)
+europe/italy/tuscany/florence/ponte_vecchio.md,sight,5,Ponte Vecchio
+europe/italy/tuscany/florence/piazza_della_signoria.md,sight,4,Piazza della Signoria
+europe/italy/veneto/venice/st_marks_basilica.md,church,5,St Mark's Basilica
+europe/italy/veneto/venice/doges_palace.md,museum,5,Doge's Palace
+europe/italy/veneto/venice/peggy_guggenheim.md,museum,5,Peggy Guggenheim Collection
+europe/italy/veneto/venice/frari.md,church,4,Santa Maria Gloriosa dei Frari
+europe/italy/veneto/venice/rialto_market.md,market,5,Rialto Market
+europe/italy/veneto/venice/harry_cipriani.md,bar,4,Harry's Bar Cipriani
+europe/italy/veneto/venice/st_marks_basilica.md,landmark,5,St Mark's Basilica
+europe/italy/veneto/venice/grand_canal.md,sight,5,Grand Canal
+europe/denmark/copenhagen/noma.md,restaurant,5,Noma
+europe/denmark/copenhagen/geranium.md,restaurant,5,Geranium
+europe/denmark/copenhagen/hart_bageri.md,restaurant,4,Hart Bageri
+europe/denmark/copenhagen/torvehallerne.md,market,5,Torvehallerne
+europe/denmark/copenhagen/tivoli.md,sight,5,Tivoli Gardens
+europe/denmark/copenhagen/ny_carlsberg_glyptotek.md,museum,5,Ny Carlsberg Glyptotek
+europe/denmark/copenhagen/statens_museum_for_kunst.md,museum,4,Statens Museum for Kunst
+europe/denmark/copenhagen/nationalmuseet.md,museum,4,Nationalmuseet
+europe/sweden/stockholm/vasa_museum.md,museum,5,Vasa Museum
+europe/sweden/stockholm/skansen.md,museum,4,Skansen
+europe/sweden/stockholm/abba_museum.md,museum,3,ABBA Museum
+europe/sweden/stockholm/gamla_stan.md,sight,5,Gamla Stan
+europe/sweden/stockholm/fotografiska.md,museum,4,Fotografiska
+europe/sweden/stockholm/moderna_museet.md,museum,4,Moderna Museet
+europe/sweden/stockholm/oyster_bar.md,restaurant,4,Oyster Bar
+europe/poland/krakow/auschwitz_birkenau.md,historic,5,Auschwitz-Birkenau
+europe/poland/krakow/wawel_castle.md,landmark,5,Wawel Castle
+europe/poland/krakow/main_market_square.md,sight,5,Main Market Square
+europe/poland/krakow/cloth_hall.md,market,4,Cloth Hall
+europe/poland/krakow/kazimierz.md,neighbourhood,4,Kazimierz
+europe/poland/krakow/old_synagogue.md,museum,4,Old Synagogue
+europe/russia/moscow/red_square_krasna.md,sight,5,Red Square
+europe/russia/moscow/tretyakov_gallery.md,museum,5,Tretyakov Gallery
+europe/russia/moscow/st_basils_cathedral.md,church,5,St Basil's Cathedral
+europe/russia/moscow/the_kremlin.md,landmark,5,Moscow Kremlin
+europe/russia/moscow/pushkin_museum.md,museum,4,Pushkin Museum of Fine Arts
+asia/turkey/istanbul/hagia_sofia.md,landmark,5,Hagia Sophia
+asia/turkey/istanbul/topkapi_palace.md,landmark,5,Topkapı Palace
+asia/turkey/istanbul/grand_bazaar.md,market,5,Grand Bazaar
+asia/turkey/istanbul/spice_bazaar.md,market,5,Spice Bazaar
+asia/turkey/istanbul/blue_mosque.md,church,5,Blue Mosque
+asia/turkey/istanbul/kariye_mosque.md,church,4,Chora Church
+asia/turkey/istanbul/bosphorus.md,sight,5,Bosphorus
+asia/turkey/istanbul/karakoy_gulluoglu.md,restaurant,4,Karaköy Güllüoğlu
+asia/turkey/istanbul/mikla.md,restaurant,5,Mikla
+asia/turkey/istanbul/ciya_sofrasi.md,restaurant,5,Çiya Sofrası
+asia/japan/tokyo/tsukiji_outer_market.md,market,5,Tsukiji Outer Market
+asia/japan/tokyo/senso_ji.md,sight,5,Sensō-ji Temple
+asia/japan/tokyo/teamlab.md,museum,4,teamLab Borderless
+asia/japan/tokyo/edo_tokyo_museum.md,museum,4,Edo-Tokyo Museum
+asia/japan/tokyo/meiji_shrine.md,sight,4,Meiji Shrine
+asia/japan/tokyo/shinjuku_golden_gai.md,bar,5,Shinjuku Golden Gai
+asia/japan/tokyo/ueno_park.md,park,4,Ueno Park
+asia/japan/honshu/kyoto/fushimi_inari.md,sight,5,Fushimi Inari Taisha
+asia/japan/honshu/kyoto/kinkakuji.md,sight,5,Kinkaku-ji (Golden Pavilion)
+asia/japan/honshu/kyoto/nishiki_market.md,market,5,Nishiki Market
+asia/japan/honshu/kyoto/arashiyama.md,sight,5,Arashiyama Bamboo Grove
+asia/japan/honshu/kyoto/gion.md,neighbourhood,5,Gion
+asia/japan/honshu/kyoto/pontocho.md,neighbourhood,4,Pontocho Alley
+asia/japan/honshu/kyoto/kyoto_national_museum.md,museum,4,Kyoto National Museum
+asia/thailand/bangkok/grand_palace.md,landmark,5,Grand Palace
+asia/thailand/bangkok/wat_pho.md,sight,5,Wat Pho
+asia/thailand/bangkok/chatuchak_market.md,market,5,Chatuchak Weekend Market
+asia/thailand/bangkok/jay_fai.md,restaurant,5,Jay Fai
+asia/thailand/bangkok/or_tor_kor_market.md,market,4,Or Tor Kor Market
+asia/thailand/bangkok/wat_arun.md,sight,4,Wat Arun
+asia/thailand/bangkok/nahm.md,restaurant,5,Nahm
+asia/vietnam/hanoi/hoan_kiem_lake.md,sight,4,Hoan Kiem Lake
+asia/vietnam/hanoi/old_quarter.md,neighbourhood,5,Old Quarter
+asia/vietnam/hanoi/hoa_lo_prison.md,museum,4,Hoa Lo Prison (Hanoi Hilton)
+asia/vietnam/hanoi/vietnam_museum_of_ethnology.md,museum,5,Vietnam Museum of Ethnology
+asia/vietnam/hanoi/bun_cha_huong_lien.md,restaurant,4,Bún Chả Hương Liên
+asia/vietnam/hanoi/cha_ca_la_vong.md,restaurant,5,Chả Cá Lã Vọng
+asia/vietnam/hanoi/dong_xuan_market.md,market,4,Đồng Xuân Market
+asia/china/beijing/forbidden_city.md,landmark,5,Forbidden City
+asia/china/beijing/great_wall.md,landmark,5,Great Wall
+asia/china/beijing/temple_of_heaven.md,sight,5,Temple of Heaven
+asia/china/beijing/summer_palace.md,sight,4,Summer Palace
+asia/china/beijing/palace_museum.md,museum,5,Palace Museum (Forbidden City)
+asia/china/beijing/798_art_district.md,neighbourhood,4,798 Art District
+asia/china/beijing/capital_museum.md,museum,3,Capital Museum
+asia/china/beijing/peking_duck_da_dong.md,restaurant,5,Da Dong Roast Duck
+asia/china/shanghai/the_bund.md,sight,5,The Bund
+asia/china/shanghai/yuyuan_garden.md,sight,4,Yu Garden
+asia/china/shanghai/shanghai_museum.md,museum,5,Shanghai Museum
+asia/china/shanghai/french_concession.md,neighbourhood,5,French Concession
+asia/china/shanghai/din_tai_fung.md,restaurant,4,Din Tai Fung
+africa/egypt/cairo/pyramids.md,landmark,5,Pyramids of Giza
+africa/egypt/cairo/egyptian_museum.md,museum,5,Egyptian Museum
+africa/egypt/cairo/khan_el_khalili.md,market,5,Khan el-Khalili
+africa/egypt/cairo/ibn_tulun_mosque.md,church,4,Ibn Tulun Mosque
+africa/egypt/cairo/coptic_cairo.md,historic,4,Coptic Cairo
+africa/egypt/cairo/national_museum_of_egyptian_civilization.md,museum,4,National Museum of Egyptian Civilization
+africa/southafrica/capetown/table_mountain.md,landmark,5,Table Mountain
+africa/southafrica/capetown/robben_island.md,historic,5,Robben Island
+africa/southafrica/capetown/kirstenbosch.md,park,5,Kirstenbosch National Botanical Garden
+africa/southafrica/capetown/bo_kaap.md,neighbourhood,4,Bo-Kaap
+africa/southafrica/capetown/old_biscuit_mill.md,market,5,Old Biscuit Mill
+africa/southafrica/capetown/the_test_kitchen.md,restaurant,5,The Test Kitchen
+africa/southafrica/capetown/la_colombe.md,restaurant,5,La Colombe
+africa/southafrica/capetown/v_and_a_waterfront.md,sight,3,V&A Waterfront
+northamerica/unitedstates/newyorkstate/newyork/moma.md,museum,5,MoMA
+northamerica/unitedstates/newyorkstate/newyork/metropolitan_museum.md,museum,5,Metropolitan Museum of Art
+northamerica/unitedstates/newyorkstate/newyork/natural_history_museum.md,museum,5,American Museum of Natural History
+northamerica/unitedstates/newyorkstate/newyork/whitney_museum.md,museum,4,Whitney Museum of American Art
+northamerica/unitedstates/newyorkstate/newyork/central_park.md,park,5,Central Park
+northamerica/unitedstates/newyorkstate/newyork/brooklyn_bridge.md,sight,5,Brooklyn Bridge
+northamerica/unitedstates/newyorkstate/newyork/highline.md,sight,4,The High Line
+northamerica/unitedstates/newyorkstate/newyork/chelsea_market.md,market,4,Chelsea Market
+northamerica/unitedstates/newyorkstate/newyork/smorgasburg.md,market,5,Smorgasburg
+northamerica/unitedstates/newyorkstate/newyork/per_se.md,restaurant,5,Per Se
+northamerica/unitedstates/newyorkstate/newyork/eleven_madison_park.md,restaurant,5,Eleven Madison Park
+northamerica/unitedstates/newyorkstate/newyork/di_fara.md,restaurant,5,Di Fara Pizza
+northamerica/unitedstates/newyorkstate/newyork/katz_deli.md,restaurant,4,Katz's Deli
+northamerica/unitedstates/newyorkstate/newyork/wd_50.md,restaurant,4,wd~50
+northamerica/unitedstates/illinois/chicago/art_institute.md,museum,5,Art Institute of Chicago
+northamerica/unitedstates/illinois/chicago/field_museum.md,museum,4,Field Museum
+northamerica/unitedstates/illinois/chicago/millennium_park.md,sight,4,Millennium Park
+northamerica/unitedstates/illinois/chicago/chicago_riverwalk.md,sight,3,Chicago Riverwalk
+northamerica/unitedstates/illinois/chicago/deep_dish_pizza_lou_malnatis.md,restaurant,4,Lou Malnati's
+northamerica/unitedstates/illinois/chicago/alinea.md,restaurant,5,Alinea
+northamerica/unitedstates/california/losangeles/j_paul_getty_center.md,museum,5,Getty Center
+northamerica/unitedstates/california/losangeles/lacma.md,museum,4,LACMA
+northamerica/unitedstates/california/losangeles/the_broad.md,museum,4,The Broad
+northamerica/unitedstates/california/losangeles/grand_central_market.md,market,5,Grand Central Market
+northamerica/unitedstates/california/losangeles/republique.md,restaurant,5,République
+northamerica/unitedstates/california/losangeles/bestia.md,restaurant,5,Bestia
+northamerica/mexico/mexicocity/national_museum_of_anthropology.md,museum,5,National Museum of Anthropology
+northamerica/mexico/mexicocity/frida_kahlo_museum.md,museum,5,Frida Kahlo Museum (Casa Azul)
+northamerica/mexico/mexicocity/palacio_de_bellas_artes.md,landmark,5,Palacio de Bellas Artes
+northamerica/mexico/mexicocity/mercado_de_la_merced.md,market,4,Mercado de la Merced
+northamerica/mexico/mexicocity/mercado_roma.md,market,4,Mercado Roma
+northamerica/mexico/mexicocity/pujol.md,restaurant,5,Pujol
+northamerica/mexico/mexicocity/contramar.md,restaurant,5,Contramar
+northamerica/mexico/mexicocity/quintonil.md,restaurant,5,Quintonil
+northamerica/mexico/mexicocity/el_cardenal.md,restaurant,4,El Cardenal
+southamerica/brazil/riodejaneiro/christ_the_redeemer.md,landmark,5,Christ the Redeemer
+southamerica/brazil/riodejaneiro/sugarloaf_mountain.md,landmark,5,Sugarloaf Mountain
+southamerica/brazil/riodejaneiro/ipanema_beach.md,sight,4,Ipanema Beach
+southamerica/brazil/riodejaneiro/lapa.md,neighbourhood,4,Lapa
+southamerica/brazil/riodejaneiro/central_do_brasil.md,sight,3,Central do Brasil
+southamerica/argentina/buenosaires/recoleta_cemetery.md,sight,5,Recoleta Cemetery
+southamerica/argentina/buenosaires/el_ateneo_grand_splendid.md,sight,5,El Ateneo Grand Splendid
+southamerica/argentina/buenosaires/la_boca.md,neighbourhood,3,La Boca
+southamerica/argentina/buenosaires/don_julio.md,restaurant,5,Don Julio
+southamerica/argentina/buenosaires/el_preferido_de_palermo.md,restaurant,4,El Preferido de Palermo
+southamerica/peru/lima/central_restaurant.md,restaurant,5,Central
+southamerica/peru/lima/maido.md,restaurant,5,Maido
+southamerica/peru/lima/la_mar.md,restaurant,5,La Mar
+southamerica/peru/lima/huaca_pucllana.md,historic,5,Huaca Pucllana
+southamerica/peru/lima/larco_museum.md,museum,5,Larco Museum
+southamerica/peru/lima/san_francisco_catacombs.md,church,4,San Francisco and its Catacombs
+australiaandpacific/australia/newsouthwales/sydney/opera_house.md,landmark,5,Sydney Opera House
+australiaandpacific/australia/newsouthwales/sydney/harbour_bridge.md,landmark,5,Sydney Harbour Bridge
+australiaandpacific/australia/newsouthwales/sydney/bondi_beach.md,sight,4,Bondi Beach
+australiaandpacific/australia/newsouthwales/sydney/art_gallery_of_nsw.md,museum,4,Art Gallery of NSW
+australiaandpacific/australia/newsouthwales/sydney/sydney_fish_market.md,market,4,Sydney Fish Market
+australiaandpacific/australia/newsouthwales/sydney/quay.md,restaurant,5,Quay
+australiaandpacific/australia/victoria/melbourne/national_gallery_victoria.md,museum,4,National Gallery of Victoria
+australiaandpacific/australia/victoria/melbourne/queen_victoria_market.md,market,5,Queen Victoria Market
+australiaandpacific/australia/victoria/melbourne/attica.md,restaurant,5,Attica
+australiaandpacific/australia/victoria/melbourne/type_coffee.md,bar,3,Type Coffee
+africa/kenya/nairobi/nairobi_national_museum.md,museum,4,Nairobi National Museum
+africa/kenya/nairobi/david_sheldrick_wildlife_trust.md,nature,5,David Sheldrick Wildlife Trust
+africa/kenya/nairobi/carnivore.md,restaurant,4,Carnivore
+africa/kenya/nairobi/karura_forest.md,park,4,Karura Forest
+africa/morocco/marrakech/djemaa_el_fna.md,sight,5,Djemaa el-Fna
+africa/morocco/marrakech/souks.md,market,5,Medina Souks
+africa/morocco/marrakech/saadian_tombs.md,historic,4,Saadian Tombs
+africa/morocco/marrakech/bahia_palace.md,sight,4,Bahia Palace
+africa/morocco/marrakech/le_jardin_secret.md,park,3,Le Jardin Secret
+europe/netherlands/amsterdam/rijksmuseum.md,museum,5,Rijksmuseum
+europe/netherlands/amsterdam/van_gogh_museum.md,museum,5,Van Gogh Museum
+europe/netherlands/amsterdam/stedelijk_museum.md,museum,4,Stedelijk Museum
+europe/netherlands/amsterdam/amsterdam_moco_museum.md,museum,3,Moco Museum
+europe/netherlands/utrecht/centraal_museum.md,museum,4,Centraal Museum
+europe/netherlands/rotterdam/depot_boijmans.md,museum,5,Depot Boijmans Van Beuningen
+europe/netherlands/rotterdam/kunsthal.md,museum,4,Kunsthal
+europe/netherlands/rotterdam/markthal.md,market,5,Markthal
+europe/netherlands/rotterdam/cube_houses.md,architecture,4,Cube Houses
+europe/netherlands/rotterdam/erasmusbrug.md,sight,4,Erasmusbrug
+europe/netherlands/amersfoort/koppelpoort.md,sight,4,Koppelpoort
+europe/netherlands/amersfoort/koppelpoort.md,historic,4,Koppelpoort
+europe/netherlands/amersfoort/mondriaanhuis.md,museum,3,Mondriaanhuis
+europe/netherlands/amersfoort/museum_flehite.md,museum,3,Museum Flehite
+europe/netherlands/amersfoort/restaurant_de_witte.md,restaurant,4,Restaurant De Witte
+europe/netherlands/amersfoort/de_drie_ringen.md,bar,3,De Drie Ringen
+europe/netherlands/amersfoort/in_den_grooten_slock.md,bar,4,In Den Grooten Slock
+europe/netherlands/amersfoort/in_den_grooten_slock.md,historic,4,In Den Grooten Slock
+europe/netherlands/amersfoort/lazy_louis.md,bar,3,Lazy Louis Jazz Café
+asia/singapore/national_museum_of_singapore.md,museum,4,National Museum of Singapore
+asia/singapore/gardens_by_the_bay.md,sight,5,Gardens by the Bay
+asia/singapore/hawker_centres.md,market,5,Hawker Centres
+asia/singapore/atlas_bar.md,bar,5,Atlas Bar
+asia/singapore/burnt_ends.md,restaurant,5,Burnt Ends
+asia/singapore/national_gallery_singapore.md,museum,4,National Gallery Singapore
+asia/india/delhi/red_fort.md,landmark,5,Red Fort
+asia/india/delhi/qutb_minar.md,landmark,5,Qutb Minar
+asia/india/delhi/national_museum_delhi.md,museum,4,National Museum Delhi
+asia/india/delhi/india_gate.md,sight,4,India Gate
+asia/india/maharashtra/mumbai/chhatrapati_shivaji_museum.md,museum,4,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+asia/india/maharashtra/mumbai/gateway_of_india.md,landmark,4,Gateway of India
+asia/india/maharashtra/mumbai/dharavi.md,neighbourhood,3,Dharavi
+asia/unitedarabemirates/dubai/dubai_museum.md,museum,3,Dubai Museum
+asia/unitedarabemirates/dubai/burj_khalifa.md,landmark,5,Burj Khalifa
+asia/unitedarabemirates/dubai/gold_souk.md,market,4,Gold Souk
+asia/unitedarabemirates/dubai/spice_souk.md,market,4,Spice Souk
+africa/egypt/cairo/al_azhar_mosque.md,things_to_do,4,Al-Azhar Mosque
+africa/egypt/cairo/azhar_park.md,things_to_do,3,Al-Azhar Park
+africa/egypt/cairo/blue_mosque.md,things_to_do,3,Blue Mosque
+africa/egypt/cairo/cairo_tower.md,things_to_do,3,Cairo Tower
+africa/egypt/cairo/citadel_of_saladin.md,things_to_do,4,Citadel of Saladin
+africa/egypt/cairo/city_of_the_dead.md,things_to_do,4,City of the Dead
+africa/egypt/cairo/coptic_museum.md,things_to_do,3,Coptic Museum
+africa/egypt/cairo/deserttrips.md,things_to_do,2,Desert Trips
+africa/egypt/cairo/egyptian_museum.md,things_to_do,5,Egyptian Museum
+africa/egypt/cairo/gayer_anderson_museum.md,things_to_do,4,Gayer-Anderson Museum
+africa/egypt/cairo/grand_egyptian_museum.md,things_to_do,5,Grand Egyptian Museum
+africa/egypt/cairo/hanging_church.md,things_to_do,4,Hanging Church (Al-Mu'allaqa)
+africa/egypt/cairo/horsebackriding.md,things_to_do,2,Horseback Riding
+africa/egypt/cairo/ibn_tulun_mosque.md,things_to_do,5,Ibn Tulun Mosque
+africa/egypt/cairo/mohammed_ali_mosque.md,things_to_do,4,Mohammed Ali Mosque
+africa/kenya/nairobi/bomas_of_kenya.md,things_to_do,3,Bomas of Kenya
+africa/kenya/nairobi/david_sheldrick_wildlife_trust.md,things_to_do,5,David Sheldrick Wildlife Trust
+africa/kenya/nairobi/giraffe_centre.md,things_to_do,4,Giraffe Centre
+africa/kenya/nairobi/giraffe_manor.md,things_to_do,3,Giraffe Manor
+africa/kenya/nairobi/kangemi_slum_tour.md,things_to_do,2,Kangemi Slum Tour
+africa/kenya/nairobi/karen_blixen_museum.md,things_to_do,3,Karen Blixen Museum
+africa/kenya/nairobi/kenyatta_international_conference_centre.md,things_to_do,2,Kenyatta International Conference Centre
+africa/kenya/nairobi/kibera_tours.md,things_to_do,3,Kibera Community Tours
+africa/kenya/nairobi/kitengela_glass.md,things_to_do,3,Kitengela Glass
+africa/kenya/nairobi/kuona_trust.md,things_to_do,2,Kuona Trust Arts Centre
+africa/kenya/nairobi/nairobi_animal_orphanage.md,things_to_do,3,Nairobi Animal Orphanage
+africa/kenya/nairobi/nairobi_city_park.md,things_to_do,2,Nairobi City Park
+africa/kenya/nairobi/nairobi_national_museum.md,things_to_do,4,Nairobi National Museum
+africa/kenya/nairobi/nairobi_national_park.md,things_to_do,5,Nairobi National Park
+africa/kenya/nairobi/ngong_hills.md,things_to_do,3,Ngong Hills
+africa/southafrica/capetown/archives.md,things_to_do,2,ARCHIVES
+africa/southafrica/capetown/bloubergstrand.md,things_to_do,4,Bloubergstrand
+africa/southafrica/capetown/boulders_beach.md,things_to_do,5,Boulder's Beach
+africa/southafrica/capetown/camps_bay.md,things_to_do,4,Camps Bay
+africa/southafrica/capetown/cape_point.md,things_to_do,5,Cape Point and Cape of Good Hope
+africa/southafrica/capetown/cape_town_city_hall.md,things_to_do,3,Cape Town City Hall
+africa/southafrica/capetown/castle_good_hope.md,things_to_do,4,Castle of Good Hope
+africa/southafrica/capetown/cecil_rhodes_memorial.md,things_to_do,3,Rhodes Memorial
+africa/southafrica/capetown/chapmans_peak.md,things_to_do,4,Chapman's Peak Drive
+africa/southafrica/capetown/clifton_beaches.md,things_to_do,4,Clifton Beaches
+africa/southafrica/capetown/companys_garden.md,things_to_do,3,Company's Garden
+africa/southafrica/capetown/de_waterkant.md,things_to_do,3,De Waterkant
+africa/southafrica/capetown/devils_peak.md,things_to_do,3,Devil's Peak
+africa/southafrica/capetown/district_six_museum.md,things_to_do,5,District Six Museum
+africa/southafrica/capetown/grand_parade.md,things_to_do,3,Grand Parade
+asia/china/beijing/beihai_park.md,things_to_do,4,Beihai Park
+asia/china/beijing/beijing_acrobatics.md,things_to_do,3,Beijing Acrobatics Show
+asia/china/beijing/beijing_art_museum.md,things_to_do,4,China Art Museum (NAMOC)
+asia/china/beijing/beijing_capital_museum.md,things_to_do,3,Capital Museum
+asia/china/beijing/beijing_natural_history.md,things_to_do,3,Zhoukoudian Peking Man Site
+asia/china/beijing/beijing_opera.md,things_to_do,4,Peking Opera at the Chang'an Grand Theatre
+asia/china/beijing/beijing_zoo.md,things_to_do,3,Beijing Zoo
+asia/china/beijing/birds_nest.md,things_to_do,4,Bird's Nest (National Stadium)
+asia/china/beijing/confucius_temple.md,things_to_do,4,Confucius Temple and Imperial Academy
+asia/china/beijing/drum_tower.md,things_to_do,4,Drum Tower and Bell Tower
+asia/china/beijing/forbidden_city.md,things_to_do,5,Forbidden City
+asia/china/beijing/great_wall_mutianyu.md,things_to_do,5,Great Wall of China (Mutianyu)
+asia/china/beijing/hutong_cycling.md,things_to_do,3,Hutong Cycling
+asia/china/beijing/jingshan_park.md,things_to_do,4,Jingshan Park
+asia/china/beijing/jinshanling.md,things_to_do,5,Great Wall at Jinshanling
+asia/china/hongkong/central_escalator.md,things_to_do,3,Central-Mid-Levels Escalator
+asia/china/hongkong/che_kung_temple.md,things_to_do,2,Che Kung Temple
+asia/china/hongkong/cheung_sha_beach.md,things_to_do,3,Cheung Sha Beach
+asia/china/hongkong/chungking_mansions.md,things_to_do,4,Chungking Mansions
+asia/china/hongkong/clock_tower.md,things_to_do,3,Clock Tower
+asia/china/hongkong/dragons_back_trail.md,things_to_do,5,Dragon's Back Trail
+asia/china/hongkong/fringe_club.md,things_to_do,3,Fringe Club
+asia/china/hongkong/hong_kong_disneyland.md,things_to_do,3,Hong Kong Disneyland
+asia/china/hongkong/hong_kong_museum_of_history.md,things_to_do,3,Hong Kong Museum of History
+asia/china/hongkong/hong_kong_park.md,things_to_do,3,Hong Kong Park
+asia/china/hongkong/hongkongisland/fringe_club.md,things_to_do,3,Fringe Club
+asia/china/hongkong/hongkongisland/hong_kong_park.md,things_to_do,3,Hong Kong Park
+asia/china/hongkong/hongkongisland/man_mo_temple.md,things_to_do,4,Man Mo Temple
+asia/china/hongkong/kowloon_park.md,things_to_do,3,Kowloon Park
+asia/china/hongkong/kowloon_walled_city_park.md,things_to_do,4,Kowloon Walled City Park
+asia/china/shanghai/1933_slaughterhouse.md,things_to_do,4,1933 Slaughterhouse
+asia/china/shanghai/bund_sightseeing_tunnel.md,things_to_do,2,Bund Sightseeing Tunnel
+asia/china/shanghai/disneyland.md,things_to_do,3,Shanghai Disneyland
+asia/china/shanghai/french_concession.md,things_to_do,5,French Concession
+asia/china/shanghai/jade_buddha_temple.md,things_to_do,4,Jade Buddha Temple
+asia/china/shanghai/jewish_refugees_museum.md,things_to_do,3,Shanghai Jewish Refugees Museum
+asia/china/shanghai/jingan_temple.md,things_to_do,4,Jing'an Temple
+asia/china/shanghai/longhua_temple.md,things_to_do,3,Longhua Temple and Pagoda
+asia/china/shanghai/m50.md,things_to_do,3,M50 Art District
+asia/china/shanghai/nanjing_road.md,things_to_do,3,Nanjing Road
+asia/china/shanghai/old_town.md,things_to_do,4,Old Town and Yuyuan Bazaar
+asia/china/shanghai/oriental_pearl.md,things_to_do,3,Oriental Pearl Tower
+asia/china/shanghai/peoples_square.md,things_to_do,3,People's Square
+asia/china/shanghai/power_station_of_art.md,things_to_do,4,Power Station of Art
+asia/china/shanghai/propaganda_poster_centre.md,things_to_do,4,Shanghai Propaganda Poster Art Centre
+asia/india/delhi/agrasen_ki_baoli.md,things_to_do,4,Agrasen ki Baoli
+asia/india/delhi/ansal_plaza.md,things_to_do,1,Ansal Plaza
+asia/india/delhi/bahaitemple.md,things_to_do,4,Bahai Temple
+asia/india/delhi/chandnichowk.md,things_to_do,5,Chandni Chowk
+asia/india/delhi/craftmuseum.md,things_to_do,4,Craft Museum
+asia/india/delhi/dollsmuseum.md,things_to_do,3,Dolls Museum
+asia/india/delhi/gandhimuseum.md,things_to_do,4,Gandhi Smriti
+asia/india/delhi/hauz_khas_village.md,things_to_do,3,Hauz Khas Village
+asia/india/delhi/humayunstomb.md,things_to_do,5,Humayun's Tomb
+asia/india/delhi/indiagate.md,things_to_do,4,India Gate
+asia/india/delhi/jamamasjid.md,things_to_do,5,Jama Masjid
+asia/india/delhi/jantarmantar.md,things_to_do,4,Jantar Mantar
+asia/india/delhi/lodhigardens.md,things_to_do,4,Lodhi Gardens
+asia/india/delhi/mughalgardens.md,things_to_do,3,Mughal Gardens
+asia/india/delhi/national_museum.md,things_to_do,5,National Museum
+asia/india/karnataka/bangalore/attara_kacheri.md,things_to_do,2,Attara Kacheri
+asia/india/karnataka/bangalore/bangalore_palace.md,things_to_do,3,Bangalore Palace
+asia/india/karnataka/bangalore/basavanagudi.md,things_to_do,3,Basavanagudi
+asia/india/karnataka/bangalore/cubbonmusuem.md,things_to_do,3,Government Museum
+asia/india/karnataka/bangalore/cubbonpark.md,things_to_do,3,Cubbon Park
+asia/india/karnataka/bangalore/freedom_park.md,things_to_do,2,Freedom Park
+asia/india/karnataka/bangalore/fridaymosque.md,things_to_do,2,Jumma Masjid
+asia/india/karnataka/bangalore/hal_aerospace_museum.md,things_to_do,3,HAL Aerospace Museum
+asia/india/karnataka/bangalore/indiranagar.md,things_to_do,3,Indiranagar
+asia/india/karnataka/bangalore/iskcon_temple_bangalore.md,things_to_do,3,ISKCON Temple
+asia/india/karnataka/bangalore/jawaharlal_nehru_planetarium.md,things_to_do,2,Jawaharlal Nehru Planetarium
+asia/india/karnataka/bangalore/koramangala.md,things_to_do,2,Koramangala
+asia/india/karnataka/bangalore/lal_bagh_botanical_garden.md,things_to_do,4,Lal Bagh Botanical Garden
+asia/india/karnataka/bangalore/malleshwaram.md,things_to_do,3,Malleshwaram
+asia/india/karnataka/bangalore/map_museum.md,things_to_do,4,Museum of Art & Photography
+asia/india/maharashtra/mumbai/bandra.md,things_to_do,3,Bandra
+asia/india/maharashtra/mumbai/banganga_tank.md,things_to_do,4,Banganga Tank
+asia/india/maharashtra/mumbai/chhatrapati_shivaji_museum.md,things_to_do,5,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+asia/india/maharashtra/mumbai/chhatrapati_shivaji_terminus.md,things_to_do,5,Chhatrapati Shivaji Maharaj Terminus
+asia/india/maharashtra/mumbai/colaba.md,things_to_do,4,Colaba
+asia/india/maharashtra/mumbai/dharavi.md,things_to_do,3,Dharavi
+asia/india/maharashtra/mumbai/dhobi_ghat.md,things_to_do,4,Dhobi Ghat
+asia/india/maharashtra/mumbai/elephantacaves.md,things_to_do,5,Elephanta Caves
+asia/india/maharashtra/mumbai/gatewayofindia.md,things_to_do,5,Gateway of India
+asia/india/maharashtra/mumbai/gilbert_hill.md,things_to_do,3,Gilbert Hill
+asia/india/maharashtra/mumbai/haji_ali.md,things_to_do,4,Haji Ali Dargah
+asia/india/maharashtra/mumbai/hanginggardens.md,things_to_do,2,Hanging Gardens
+asia/india/maharashtra/mumbai/kalamb.md,things_to_do,2,Kalamb Beach
+asia/india/maharashtra/mumbai/kanhericaves.md,things_to_do,4,Kanheri Caves
+asia/india/maharashtra/mumbai/magazeongardens.md,things_to_do,1,Mazagon Gardens
+asia/israel/telaviv/allenby_street.md,things_to_do,3,Allenby Street
+asia/israel/telaviv/anu_museum.md,things_to_do,5,ANU — Museum of the Jewish People
+asia/israel/telaviv/azrieli_towers.md,things_to_do,3,Azrieli Towers
+asia/israel/telaviv/beach.md,things_to_do,5,Tel Aviv Beach
+asia/israel/telaviv/ben_gurion_house.md,things_to_do,2,Ben Gurion House
+asia/israel/telaviv/bialik_house.md,things_to_do,2,Bialik House
+asia/israel/telaviv/caesarea.md,things_to_do,5,Caesarea
+asia/israel/telaviv/carmel_market.md,things_to_do,4,Carmel Market
+asia/israel/telaviv/charles_clore_park.md,things_to_do,3,Charles Clore Park
+asia/israel/telaviv/clock_tower.md,things_to_do,3,Jaffa Clock Tower
+asia/israel/telaviv/dizengoff_square.md,things_to_do,3,Dizengoff Square
+asia/israel/telaviv/dizengoff_street.md,things_to_do,3,Dizengoff Street
+asia/israel/telaviv/eretz_israel_museum.md,things_to_do,3,Eretz Israel Museum
+asia/israel/telaviv/gan_hagat.md,things_to_do,2,Gan HaGat (Wine Press Garden)
+asia/israel/telaviv/great_synagogue.md,things_to_do,3,Great Synagogue
+asia/japan/honshu/kyoto/arashiyama_bamboo.md,things_to_do,5,Arashiyama Bamboo Grove
+asia/japan/honshu/kyoto/botanical_garden.md,things_to_do,3,Kyoto Botanical Garden
+asia/japan/honshu/kyoto/byodoin.md,things_to_do,5,Byōdō-in
+asia/japan/honshu/kyoto/chionin.md,things_to_do,4,Chion-in
+asia/japan/honshu/kyoto/daitokuji.md,things_to_do,4,Daitoku-ji
+asia/japan/honshu/kyoto/eikando.md,things_to_do,4,Eikan-dō Zenrin-ji
+asia/japan/honshu/kyoto/fushimi_inari.md,things_to_do,5,Fushimi Inari-taisha
+asia/japan/honshu/kyoto/ginkakuji.md,things_to_do,4,Ginkaku-ji (Silver Pavilion)
+asia/japan/honshu/kyoto/gion_matsuri.md,things_to_do,4,Gion Matsuri
+asia/japan/honshu/kyoto/hanami_koji.md,things_to_do,4,Hanamikōji
+asia/japan/honshu/kyoto/heian_shrine.md,things_to_do,4,Heian Shrine
+asia/japan/honshu/kyoto/higashi_honganji.md,things_to_do,3,Higashi Hongan-ji
+asia/japan/honshu/kyoto/honenin.md,things_to_do,4,Hōnen-in
+asia/japan/honshu/kyoto/honnoji.md,things_to_do,3,Honnō-ji
+asia/japan/honshu/kyoto/imperial_palace.md,things_to_do,4,Kyoto Imperial Palace
+asia/japan/honshu/osaka/abeno_harukas.md,things_to_do,3,Abeno Harukas
+asia/japan/honshu/osaka/den_den_town.md,things_to_do,3,Den Den Town
+asia/japan/honshu/osaka/dojima_rice.md,things_to_do,2,Dojima Rice Exchange Site
+asia/japan/honshu/osaka/expo_commemoration_park.md,things_to_do,3,Expo '70 Commemoration Park
+asia/japan/honshu/osaka/gate_tower_building.md,things_to_do,3,Gate Tower Building
+asia/japan/honshu/osaka/glico_man.md,things_to_do,4,Glico Running Man Sign
+asia/japan/honshu/osaka/hokoku_shrine.md,things_to_do,2,Hokoku Shrine
+asia/japan/honshu/osaka/hozenji_yokocho.md,things_to_do,4,Hozenji Yokocho
+asia/japan/honshu/osaka/isshinji_temple.md,things_to_do,3,Isshin-ji Temple
+asia/japan/honshu/osaka/kuromon_ichiba.md,things_to_do,4,Kuromon Ichiba Market
+asia/japan/honshu/osaka/maishima.md,things_to_do,2,Maishima Incineration Plant
+asia/japan/honshu/osaka/museum_oriental_ceramics.md,things_to_do,4,Museum of Oriental Ceramics
+asia/japan/honshu/osaka/nakanoshima_library.md,things_to_do,3,Osaka Prefectural Nakanoshima Library
+asia/japan/honshu/osaka/nakanoshima_park.md,things_to_do,3,Nakanoshima Park
+asia/japan/honshu/osaka/namba_grand_kagetsu.md,things_to_do,3,Namba Grand Kagetsu
+asia/japan/tokyo/bairindo.md,things_to_do,2,Bairindo
+asia/japan/tokyo/gallerytom.md,things_to_do,2,Gallery TOM
+asia/japan/tokyo/gotokuji.md,things_to_do,4,Gotokuji Temple
+asia/japan/tokyo/hachikostatue.md,things_to_do,3,Hachiko Statue
+asia/japan/tokyo/idemitsu_museum.md,things_to_do,3,Idemitsu Museum of Arts
+asia/japan/tokyo/japanwarmuseum.md,things_to_do,3,Japan War Museum
+asia/japan/tokyo/jimbocho.md,things_to_do,4,Jimbōchō Book Town
+asia/japan/tokyo/kabukiza.md,things_to_do,5,Kabuki-za
+asia/japan/tokyo/kaminarimon.md,things_to_do,4,Kaminarimon Gate
+asia/japan/tokyo/kandamyojin.md,things_to_do,3,Kanda Myojin
+asia/japan/tokyo/kitanomarupark.md,things_to_do,3,Kitanomaru Park
+asia/japan/tokyo/meguro_parasitological_museum.md,things_to_do,4,Meguro Parasitological Museum
+asia/japan/tokyo/meijishrine.md,things_to_do,5,Meiji Shrine
+asia/japan/tokyo/omoide_yokocho.md,things_to_do,5,Omoide Yokocho
+asia/japan/tokyo/roppongi_art_triangle.md,things_to_do,4,Roppongi Art Triangle
+asia/singapore/asian_civilisation.md,things_to_do,4,Asian Civilisations Museum
+asia/singapore/bukit_timah_nature.md,things_to_do,4,Bukit Timah Nature Reserve
+asia/singapore/changigolfclub.md,things_to_do,2,Changi Golf Club
+asia/singapore/chinatown_lightup.md,things_to_do,3,Chinatown Light-Up
+asia/singapore/chingay_parade_of.md,things_to_do,3,Chingay Parade
+asia/singapore/funan_the_digitali.md,things_to_do,1,Funan
+asia/singapore/islands/pulau_ubin/chek_jawa_wetlands.md,things_to_do,4,Chek Jawa Wetlands
+asia/singapore/islands/pulau_ubin/quarry_lakes.md,things_to_do,3,Quarry Lakes
+asia/singapore/islands/pulau_ubin/ubin_village.md,things_to_do,4,Ubin Village
+asia/singapore/islands/pulauhantu/coral_lagoon.md,things_to_do,3,Coral Lagoon
+asia/singapore/islands/sentosa/fort_siloso.md,things_to_do,3,Fort Siloso
+asia/singapore/islands/sentosa/ifly_singapore.md,things_to_do,3,iFly Singapore
+asia/singapore/islands/sentosa/palawan_beach.md,things_to_do,3,Palawan Beach
+asia/singapore/islands/sentosa/resorts_world_sentosa.md,things_to_do,3,Resorts World Sentosa
+asia/singapore/islands/sentosa/sea_aquarium.md,things_to_do,3,S.E.A. Aquarium
+africa/egypt/cairo/alfibey.md,eating_out,4,Alfi Bey
+africa/egypt/cairo/chinois.md,eating_out,2,Chinois
+africa/egypt/cairo/damario.md,eating_out,2,Da Mario
+africa/egypt/cairo/deliriumtremens.md,eating_out,2,Delirium Tremens
+africa/egypt/cairo/didosaldente.md,eating_out,2,Dido's Al Dente
+africa/egypt/cairo/felfella.md,eating_out,4,Felfella
+africa/egypt/cairo/kandahar.md,eating_out,2,Kandahar
+africa/egypt/cairo/laubergine.md,eating_out,3,L'Aubergine
+africa/egypt/cairo/lechateau.md,eating_out,3,Le Chateau
+africa/egypt/cairo/lestrefles.md,eating_out,3,Les Trefles
+africa/egypt/cairo/madura.md,eating_out,2,Madura
+africa/egypt/cairo/marcopolo.md,eating_out,2,Marco Polo
+africa/egypt/cairo/nilebukhara.md,eating_out,2,Nile Bukhara
+africa/egypt/cairo/pasharestaurant.md,eating_out,3,Pasha Restaurant
+africa/egypt/cairo/phillies.md,eating_out,2,Phillies
+africa/kenya/nairobi/about_thyme.md,eating_out,4,About Thyme
+africa/kenya/nairobi/carnivore_restaurant.md,eating_out,4,Carnivore Restaurant
+africa/kenya/nairobi/java_house.md,eating_out,3,Java House
+africa/kenya/nairobi/tamambo_restaurant.md,eating_out,3,Tamambo Karen Restaurant
+africa/kenya/nairobi/tamarind_restaurant.md,eating_out,4,Tamarind Restaurant
+africa/southafrica/capetown/old_biscuit_mill.md,eating_out,5,Old Biscuit Mill
+asia/china/beijing/da_dong.md,eating_out,5,Da Dong Roast Duck
+asia/china/beijing/quanjude.md,eating_out,4,Quanjude Roast Duck
+asia/china/beijing/sichuan_hotpot.md,eating_out,4,Sichuan Hotpot
+asia/china/hongkong/dim_sum_breakfast.md,eating_out,5,Dim Sum at a Local Teahouse
+asia/china/hongkong/jimmys_kitchen.md,eating_out,3,Jimmy's Kitchen
+asia/china/hongkong/tai_chi_lei_yue_mun.md,eating_out,4,Lei Yue Mun Seafood Village
+asia/china/hongkong/the_peninsula.md,eating_out,4,The Peninsula
+asia/china/hongkong/wonton_noodle_soup.md,eating_out,4,Wonton Noodle Soup
+asia/china/shanghai/dintaifung.md,eating_out,4,Din Tai Fung
+asia/china/shanghai/jia_jia_tang_bao.md,eating_out,5,Jia Jia Tang Bao
+asia/china/shanghai/lao_zheng_xing.md,eating_out,4,Lao Zheng Xing
+asia/china/shanghai/lost_heaven.md,eating_out,4,Lost Heaven
+asia/india/karnataka/bangalore/alibaba_cafe_and_r.md,eating_out,2,AliBaba Cafe and Restaurant
+asia/india/karnataka/bangalore/brahmin_coffee_bar.md,eating_out,5,Brahmin's Coffee Bar
+asia/india/karnataka/bangalore/empire_restaurant.md,eating_out,3,Empire Restaurant
+asia/india/karnataka/bangalore/koshys.md,eating_out,5,Koshy's
+asia/india/karnataka/bangalore/mtr_mavalli_tiffi.md,eating_out,5,MTR (Mavalli Tiffin Rooms)
+asia/india/karnataka/bangalore/nagarjuna_restaurant.md,eating_out,4,Nagarjuna Restaurant
+asia/india/karnataka/bangalore/sahib_sindh_sultan.md,eating_out,3,Sahib Sindh Sultan
+asia/india/karnataka/bangalore/vidyarthi_bhavan.md,eating_out,5,Vidyarthi Bhavan
+asia/india/karnataka/bangalore/vv_puram_food_street.md,eating_out,4,VV Puram Food Street
+asia/japan/honshu/osaka/hozenji_yokocho.md,eating_out,4,Hozenji Yokocho
+asia/japan/honshu/osaka/kuromon_ichiba.md,eating_out,4,Kuromon Ichiba Market
+asia/japan/honshu/osaka/obachan_kitchen.md,eating_out,5,Okonomiyaki in Osaka
+asia/japan/honshu/osaka/takoyaki.md,eating_out,5,Takoyaki in Osaka
+asia/japan/honshu/osaka/yoshimoto_infty.md,eating_out,4,Osaka Kushikatsu
+asia/japan/tokyo/afuri.md,eating_out,4,AFURI
+asia/japan/tokyo/depachika.md,eating_out,5,Depachika (Department Store Food Halls)
+asia/japan/tokyo/hamacho_restaurant.md,eating_out,4,Tokyo Convenience Stores (Konbini)
+asia/japan/tokyo/ichiran_ramen.md,eating_out,4,Ichiran Ramen
+asia/japan/tokyo/izakaya_toraichi.md,eating_out,5,The Tokyo Izakaya Experience
+asia/japan/tokyo/kanda_yabu_soba.md,eating_out,4,Kanda Yabu Soba
+asia/japan/tokyo/sushi_dai.md,eating_out,5,Sushi Dai
+asia/japan/tokyo/tempura_kondo.md,eating_out,5,Tempura Kondo
+asia/japan/tokyo/tsukiji_outer_market.md,eating_out,5,Tsukiji Outer Market
+asia/japan/tokyo/yurakucho_yakitori.md,eating_out,4,Yurakucho Yakitori Alley
+asia/singapore/islands/pulau_ubin/ubin_seafood.md,eating_out,3,Ubin Seafood
+asia/southkorea/seoul/korean_bbq.md,eating_out,5,Korean Barbecue in Mapo and Hongdae
+asia/southkorea/seoul/noryangjin_fish.md,eating_out,4,Noryangjin Fish Market
+asia/southkorea/seoul/pojangmacha.md,eating_out,4,Pojangmacha Street Food Tents
+asia/taiwan/taipei/addiction_aquatic_development.md,eating_out,4,Addiction Aquatic Development
+asia/taiwan/taipei/din_tai_fung.md,eating_out,5,Din Tai Fung (Xinyi flagship)
+asia/taiwan/taipei/fuhang_soy_milk.md,eating_out,4,Fuhang Soy Milk
+asia/taiwan/taipei/orchid_restaurant.md,eating_out,4,Mountain and Sea House (Shanhai Lou)
+asia/taiwan/taipei/raohe_pepper_bun.md,eating_out,4,Fuzhou Shizu Pepper Buns
+asia/taiwan/taipei/smoothie_house.md,eating_out,3,Smoothie House (Ice Monster)
+asia/taiwan/taipei/yongkang_beef_noodle.md,eating_out,4,Yongkang Beef Noodle
+asia/thailand/bangkok/akbar.md,eating_out,2,Akbar
+asia/thailand/bangkok/baan_chiang.md,eating_out,3,Baan Chiang
+asia/thailand/bangkok/delhis_delights.md,eating_out,2,Delhi's Delights
+asia/thailand/bangkok/fireplace_grill.md,eating_out,3,Fireplace Grill
+asia/thailand/bangkok/gallery_cafe.md,eating_out,2,Gallery Cafe
+asia/thailand/bangkok/hemlock.md,eating_out,3,Hemlock
+asia/thailand/bangkok/le_banyan.md,eating_out,3,Le Banyan
+asia/thailand/bangkok/le_bouchon.md,eating_out,3,Le Bouchon
+asia/thailand/bangkok/marche.md,eating_out,2,Marche
+asia/thailand/bangkok/mrs_balbirs.md,eating_out,2,Mrs. Balbir's
+asia/thailand/bangkok/sarah.md,eating_out,2,Sarah
+asia/thailand/huahin/a1_restaurant.md,eating_out,3,A1 Restaurant
+asia/thailand/huahin/all_seasons_restau.md,eating_out,2,All Seasons Restaurant
+asia/thailand/huahin/annas.md,eating_out,2,Anna's
+asia/thailand/huahin/baan_kru_on_the_be.md,eating_out,3,Baan Kru on the Beach
+asia/thailand/huahin/coconut_grove.md,eating_out,2,Coconut Grove
+asia/thailand/huahin/fuji_japanese_rest.md,eating_out,2,Fuji Japanese Restaurant
+asia/thailand/huahin/hagi_japanese_rest.md,eating_out,2,Hagi Japanese Restaurant
+asia/thailand/huahin/hua_hin_balcony_re.md,eating_out,3,Coco@51
+asia/thailand/huahin/hua_hin_night_market.md,eating_out,4,Hua Hin Night Market
+asia/thailand/huahin/ketsarin_restauran.md,eating_out,3,Ketsarin Restaurant Hua Hin
+asia/thailand/huahin/la_grappa.md,eating_out,2,La Grappa
+asia/thailand/huahin/la_mer.md,eating_out,3,La Mer Restaurant
+asia/thailand/huahin/la_mer_restaurant.md,eating_out,3,Coco@51
+asia/thailand/huahin/la_villa_restauran.md,eating_out,2,La Villa Restaurant Hua Hin
+asia/thailand/huahin/lets_sea.md,eating_out,4,Let's Sea
+asia/turkey/istanbul/balık_ekmek.md,eating_out,5,Balık Ekmek Boats (Eminönü)
+asia/turkey/istanbul/ciya_sofrasi.md,eating_out,5,Çiya Sofrası
+asia/turkey/istanbul/karakoy_lokantasi.md,eating_out,4,Karaköy Lokantası
+asia/turkey/istanbul/sanamet_mutfak.md,eating_out,3,Sanamet Mutfak
+asia/unitedarabemirates/abudhabi/al_dhafra.md,eating_out,3,Al Dhafra
+asia/unitedarabemirates/abudhabi/automatic_restaurant.md,eating_out,3,Automatic Restaurant
+asia/unitedarabemirates/abudhabi/calicut_paragon.md,eating_out,4,Calicut Paragon
+asia/unitedarabemirates/abudhabi/cipriani.md,eating_out,4,Cipriani
+asia/unitedarabemirates/abudhabi/city_palace_restau.md,eating_out,2,City Palace Restaurant
+asia/unitedarabemirates/abudhabi/coya.md,eating_out,4,Coya
+asia/unitedarabemirates/abudhabi/india_palace.md,eating_out,3,India Palace
+asia/unitedarabemirates/abudhabi/lebanese_flower.md,eating_out,4,Lebanese Flower
+asia/unitedarabemirates/abudhabi/mezlai.md,eating_out,5,Mezlai
+asia/unitedarabemirates/abudhabi/yas_bay_waterfront.md,eating_out,2,Yas Bay Waterfront
+asia/unitedarabemirates/abudhabi/zuma.md,eating_out,4,Zuma
+asia/unitedarabemirates/dubai/al_ustad_special_kabab.md,eating_out,5,Al Ustad Special Kabab
+asia/unitedarabemirates/dubai/aquarium_restauran.md,eating_out,2,Aquarium Restaurant
+asia/unitedarabemirates/dubai/bu_qtair.md,eating_out,5,Bu Qtair
+asia/unitedarabemirates/dubai/camoon_restaurant.md,eating_out,3,Camoon Restaurant & Cafe
+asia/unitedarabemirates/dubai/logma.md,eating_out,4,Logma
+asia/unitedarabemirates/dubai/ravi_restaurant.md,eating_out,5,Ravi Restaurant
+asia/unitedarabemirates/dubai/the_pointe.md,eating_out,2,The Pointe
+asia/unitedarabemirates/dubai/traiteur.md,eating_out,4,Traiteur
+asia/vietnam/hanoi/banh_mi_25.md,eating_out,4,Banh Mi 25
+asia/vietnam/hanoi/bun_cha_huong_lien.md,eating_out,5,Bun Cha Huong Lien
+asia/vietnam/hanoi/bun_thang_ba_duc.md,eating_out,4,Bun Thang Ba Duc
+asia/vietnam/hanoi/cha_ca_la_vong.md,eating_out,5,Cha Ca La Vong
+asia/vietnam/hanoi/pho_10_ly_quoc_su.md,eating_out,5,Pho 10 Ly Quoc Su
+asia/vietnam/hanoi/pho_thin.md,eating_out,4,Pho Thin
+asia/vietnam/hanoi/quan_an_ngon.md,eating_out,4,Quan An Ngon
+asia/vietnam/hochiminhcity/anan_saigon.md,eating_out,5,Ănăn Saigon
+asia/vietnam/hochiminhcity/banh_mi_huynh_hoa.md,eating_out,5,Bánh Mì Huỳnh Hoa
+asia/vietnam/hochiminhcity/beauty_salon_263.md,eating_out,3,Vo Van Tan Street (District 3 Restaurant Row)
+asia/vietnam/hochiminhcity/com_tam.md,eating_out,4,Cơm Tấm Nguyễn Văn Cừ
+asia/vietnam/hochiminhcity/derek_chan.md,eating_out,3,Pho Ngheu Huong Thanh
+asia/vietnam/hochiminhcity/hoi_an.md,eating_out,3,Hoi An Restaurant
+asia/vietnam/hochiminhcity/mimosa_88_bui_vie.md,eating_out,2,Mimosa Restaurant
+asia/vietnam/hochiminhcity/mimosa_88_bui_vie_1.md,eating_out,4,Bun Bo Hue Ngoc Huong
+asia/vietnam/hochiminhcity/oceania.md,eating_out,2,Oceania
+asia/vietnam/hochiminhcity/pho_24.md,eating_out,3,Pho 24
+asia/vietnam/hochiminhcity/pho_hoa.md,eating_out,4,Phở Hòa
+asia/vietnam/hochiminhcity/temple_club.md,eating_out,3,Temple Club
+australiaandpacific/australia/newsouthwales/sydney/cafe191.md,eating_out,2,Cafe 191
+australiaandpacific/australia/newsouthwales/sydney/carlosplace.md,eating_out,2,Carlo's Place
+australiaandpacific/australia/newsouthwales/sydney/chinese_noodle_res.md,eating_out,3,Chinese Noodle Restaurant
+australiaandpacific/australia/newsouthwales/sydney/fish_market.md,eating_out,4,Sydney Fish Market
+australiaandpacific/australia/newsouthwales/sydney/manlypier.md,eating_out,2,Manly Pier Restaurant
+australiaandpacific/australia/newsouthwales/sydney/satang_thai.md,eating_out,3,Satang Thai
+australiaandpacific/australia/newsouthwales/sydney/starofsiam.md,eating_out,2,Star of Siam
+australiaandpacific/australia/newsouthwales/sydney/sydneytower.md,eating_out,2,Sydney Tower Restaurant
+australiaandpacific/australia/newsouthwales/sydney/villacaprese.md,eating_out,2,Villa Caprese
+australiaandpacific/australia/victoria/melbourne/centro_citta.md,eating_out,3,Centro Citta
+australiaandpacific/australia/victoria/melbourne/chin_chin.md,eating_out,4,Chin Chin
+australiaandpacific/australia/victoria/melbourne/flower_drum.md,eating_out,5,Flower Drum
+australiaandpacific/australia/victoria/melbourne/lygon_street.md,eating_out,3,Lygon Street
+australiaandpacific/australia/victoria/melbourne/pellegrinis.md,eating_out,5,Pellegrini's Espresso Bar
+australiaandpacific/australia/victoria/melbourne/richmond_victoria_street.md,eating_out,4,"Victoria Street, Richmond"
+australiaandpacific/australia/victoria/melbourne/supper_inn.md,eating_out,4,Supper Inn
+australiaandpacific/australia/victoria/melbourne/tipo_00.md,eating_out,4,Tipo 00
+europe/austria/vienna/figlmueller.md,eating_out,5,Figlmüller
+europe/austria/vienna/karmelitermarkt.md,eating_out,4,Karmelitermarkt
+europe/austria/vienna/naschmarkt.md,eating_out,5,Naschmarkt
+europe/austria/vienna/plachuttas.md,eating_out,4,Plachutta
+europe/austria/vienna/skopik_lohn.md,eating_out,3,Skopik & Lohn
+europe/austria/vienna/steirereck.md,eating_out,5,Steirereck
+europe/austria/vienna/zum_schwarzen_kameel.md,eating_out,4,Zum Schwarzen Kameel
+europe/czechrepublic/prague/lokál_dlouhá.md,eating_out,4,Lokál Dlouhá
+europe/denmark/copenhagen/noma.md,eating_out,5,Noma
+europe/denmark/copenhagen/smørrebrod.md,eating_out,5,Smørrebrød at Schonnemann
+europe/denmark/copenhagen/torvehallerne.md,eating_out,4,Torvehallerne
+europe/finland/helsinki/old_market_hall.md,eating_out,4,Vanha Kauppahalli (Old Market Hall)
+europe/finland/helsinki/olo_restaurant.md,eating_out,4,Olo
+europe/finland/helsinki/ravintola_sea_horse.md,eating_out,4,Sea Horse
+europe/finland/helsinki/savotta.md,eating_out,3,Savotta
+europe/finland/helsinki/story_market_hall.md,eating_out,3,Story (Old Market Hall)
+europe/finland/helsinki/teurastamo.md,eating_out,3,Teurastamo
+europe/france/alpes/lyon/bouchon_lyonnais.md,eating_out,5,Bouchons Lyonnais
+europe/france/alpes/valence/maison_pic.md,eating_out,5,Maison Pic
+europe/france/alpes/valence/suisse_et_bordeaux.md,eating_out,2,Café Suisse et Bordeaux
+europe/france/midi/cotedazur/marseille/chezfonfon.md,eating_out,5,Chez Fonfon
+europe/france/paris/au_passage.md,eating_out,4,Au Passage
+europe/france/paris/benoit.md,eating_out,4,Benoit
+europe/france/paris/bistrot_paul_bert.md,eating_out,5,Bistrot Paul Bert
+europe/france/paris/bouillon_chartier.md,eating_out,4,Bouillon Chartier
+europe/france/paris/chez_denise.md,eating_out,4,Chez Denise (La Tour de Montlhéry)
+europe/france/paris/chez_josephine.md,eating_out,4,Chez Josephine (Dumonet)
+europe/france/paris/chez_omar.md,eating_out,4,Chez Omar
+europe/france/paris/du_pain_et_des_idees.md,eating_out,5,Du Pain et des Idées
+europe/france/paris/frenchie.md,eating_out,5,Frenchie
+europe/france/paris/la_tour_d_argent.md,eating_out,4,La Tour d'Argent
+europe/france/paris/le_grand_vefour.md,eating_out,4,Le Grand Véfour
+europe/france/paris/le_marche_des_enfants_rouges.md,eating_out,4,Marché des Enfants Rouges
+europe/france/paris/marche_beauvau.md,eating_out,4,Marché Beauvau and Marché d'Aligre
+europe/france/paris/septime.md,eating_out,5,Septime
+europe/france/paris/ze_kitchen_galerie.md,eating_out,3,Ze Kitchen Galerie
+europe/germany/bavaria/munich/alte_pinakothek_restaurant.md,eating_out,3,Café Klenze
+europe/germany/bavaria/munich/augustiner_braustuben.md,eating_out,5,Augustiner Bräustuben
+europe/germany/berlin/aragon.md,eating_out,2,Aragon
+europe/germany/berlin/babelcaf.md,eating_out,3,Babel Café
+europe/germany/berlin/belluno.md,eating_out,2,Belluno
+europe/germany/berlin/cafanitawronski.md,eating_out,3,Café Anita Wronski
+europe/germany/berlin/cafe_mia_cafe__b.md,eating_out,2,Cafe MIA
+europe/germany/berlin/ellopia.md,eating_out,2,Ellopia
+europe/germany/berlin/fridakahlo.md,eating_out,2,Frida Kahlo
+europe/germany/berlin/gugelhof.md,eating_out,4,Gugelhof
+europe/germany/berlin/konnopeke.md,eating_out,4,Konnopke's
+europe/germany/berlin/lampion.md,eating_out,2,Lampion
+europe/germany/berlin/malzcafcaf.md,eating_out,2,Malzcafé Café
+europe/germany/berlin/metzereck.md,eating_out,3,Metzer Eck
+europe/germany/berlin/miro.md,eating_out,2,Miro
+europe/germany/berlin/novembercaf.md,eating_out,3,November Café
+europe/germany/berlin/prater.md,eating_out,5,Prater
+europe/germany/hamburg/oberhafen_kantine.md,eating_out,4,Oberhafen-Kantine
+europe/greece/athens/bairaktaris.md,eating_out,4,Bairaktaris
+europe/greece/athens/diporto.md,eating_out,5,Diporto
+europe/greece/athens/klimataria.md,eating_out,4,Klimataria
+africa/egypt/cairo/abdel_kader.md,bars_and_cafes,4,Abdel Kader
+africa/egypt/cairo/deals.md,bars_and_cafes,2,Deals
+africa/egypt/cairo/fishawy.md,bars_and_cafes,5,Fishawy Café
+africa/egypt/cairo/jazz_club.md,bars_and_cafes,3,The Jazz Club
+africa/egypt/cairo/the_promenade.md,bars_and_cafes,3,The Promenade
+africa/kenya/nairobi/brew_bistro.md,bars_and_cafes,3,Brew Bistro
+africa/kenya/nairobi/java_house.md,bars_and_cafes,3,Java House
+africa/kenya/nairobi/mercury_lounge.md,bars_and_cafes,3,Mercury Lounge
+asia/china/beijing/great_leap_brewing.md,bars_and_cafes,4,Great Leap Brewing
+asia/china/beijing/lao_she_teahouse.md,bars_and_cafes,4,Lao She Teahouse
+asia/china/hongkong/carnegies_bar.md,bars_and_cafes,2,Carnegie's Bar
+asia/china/hongkong/hush_hong_kong.md,bars_and_cafes,3,Hush Hong Kong
+asia/china/hongkong/lan_kwai_fong.md,bars_and_cafes,4,Lan Kwai Fong
+asia/china/hongkong/shelter.md,bars_and_cafes,4,Shelter
+asia/china/shanghai/bar_rouge.md,bars_and_cafes,3,Bar Rouge
+asia/china/shanghai/free_soul.md,bars_and_cafes,2,Free Soul
+asia/china/shanghai/manner_coffee.md,bars_and_cafes,4,Manner Coffee
+asia/china/shanghai/omalleys.md,bars_and_cafes,2,O'Malley's
+asia/china/shanghai/peace_hotel_jazz.md,bars_and_cafes,4,Peace Hotel Jazz Bar
+asia/china/shanghai/speak_low.md,bars_and_cafes,5,Speak Low
+asia/india/karnataka/bangalore/church_street_social.md,bars_and_cafes,3,"Social, Church Street"
+asia/india/karnataka/bangalore/the_permit_room.md,bars_and_cafes,4,The Permit Room
+asia/india/karnataka/bangalore/toit_brewpub.md,bars_and_cafes,4,Toit
+asia/india/maharashtra/mumbai/leopoldcafe.md,bars_and_cafes,4,Leopold Cafe
+asia/israel/telaviv/berotschild.md,bars_and_cafes,3,Be'Rotschild
+asia/israel/telaviv/cafe_noir.md,bars_and_cafes,3,Cafe Noir
+asia/israel/telaviv/cafeneto.md,bars_and_cafes,2,Cafe Neto
+asia/israel/telaviv/lilienblum_street.md,bars_and_cafes,3,Lilienblum Street
+asia/israel/telaviv/nachlat_binyamin_s.md,bars_and_cafes,3,Nachlat Binyamin Street Bars
+asia/israel/telaviv/norman.md,bars_and_cafes,3,Norman
+asia/israel/telaviv/temptation.md,bars_and_cafes,2,Temptation
+asia/japan/tokyo/artyfartys.md,bars_and_cafes,3,Arty Farty
+asia/japan/tokyo/bar_bourbon_street.md,bars_and_cafes,2,Bar Bourbon Street
+asia/japan/tokyo/bear_pond_espresso.md,bars_and_cafes,4,Bear Pond Espresso
+asia/japan/tokyo/birdland.md,bars_and_cafes,4,Birdland
+asia/japan/tokyo/bodyandsoul.md,bars_and_cafes,4,Body and Soul
+asia/japan/tokyo/castillo.md,bars_and_cafes,2,Castillo
+asia/japan/tokyo/ginza_budo_no_ki.md,bars_and_cafes,3,Ginza Budo-no-ki
+asia/japan/tokyo/lexingtonqueen.md,bars_and_cafes,2,Lexington Queen
+asia/japan/tokyo/lion_beer_hall.md,bars_and_cafes,4,Lion Sapporo Beer Hall
+asia/japan/tokyo/liquidroom.md,bars_and_cafes,3,Liquidroom
+asia/japan/tokyo/new_york_bar.md,bars_and_cafes,5,New York Bar
+asia/japan/tokyo/nihonshu_center.md,bars_and_cafes,3,Japan Sake and Shochu Information Center
+asia/japan/tokyo/omoide_yokocho.md,bars_and_cafes,5,Omoide Yokocho
+asia/japan/tokyo/pitinn.md,bars_and_cafes,4,Pit Inn
+asia/japan/tokyo/roppongipitinn.md,bars_and_cafes,3,Roppongi Pit Inn
+asia/singapore/cafbusybody.md,bars_and_cafes,2,Café Busybody
+asia/singapore/cafevenezia.md,bars_and_cafes,2,Cafe Venezia
+asia/singapore/lamsnoodle.md,bars_and_cafes,2,Lam's Noodle
+asia/singapore/le_pont_de_vie.md,bars_and_cafes,2,Le Pont de Vie
+asia/singapore/lush.md,bars_and_cafes,2,Lush
+asia/singapore/prince_of_wales.md,bars_and_cafes,2,Prince of Wales
+asia/singapore/roof_bar.md,bars_and_cafes,3,Roof Bar
+asia/singapore/stanleys_pub.md,bars_and_cafes,2,Stanley's Pub
+asia/singapore/the_gashaus.md,bars_and_cafes,2,The Gashaus
+asia/singapore/the_roof_bar_sunde.md,bars_and_cafes,3,The Roof Bar Sundeck Terrace
+asia/singapore/topten.md,bars_and_cafes,2,Top Ten
+asia/singapore/traderscafe.md,bars_and_cafes,2,Traders Cafe
+asia/singapore/wala_wala_cafe_and.md,bars_and_cafes,3,Wala Wala Cafe and Bar
+asia/taiwan/taipei/fika_fika_cafe.md,bars_and_cafes,4,Fika Fika Cafe
+asia/taiwan/taipei/indulge_bistro.md,bars_and_cafes,4,Indulge Experimental Bistro
+asia/taiwan/taipei/red_house_gay_district.md,bars_and_cafes,3,Red House Bar District
+asia/thailand/bangkok/brown_sugar.md,bars_and_cafes,4,Brown Sugar
+asia/thailand/bangkok/la_havana.md,bars_and_cafes,2,La Havana
+asia/thailand/bangkok/la_rueda.md,bars_and_cafes,2,La Rueda
+asia/thailand/bangkok/rock_pub.md,bars_and_cafes,3,Rock Pub
+asia/thailand/bangkok/the_barbican.md,bars_and_cafes,2,The Barbican
+asia/turkey/istanbul/caferaga_medrese.md,bars_and_cafes,4,Caferağa Medrese
+asia/turkey/istanbul/jazz_cafe_istanbul.md,bars_and_cafes,3,Jazz Café Istanbul
+asia/turkey/istanbul/riddim.md,bars_and_cafes,2,Riddim Café & Bar
+asia/unitedarabemirates/abudhabi/al_meylas.md,bars_and_cafes,3,Al Meylas
+asia/unitedarabemirates/abudhabi/cafe_arabia.md,bars_and_cafes,2,Café Arabia
+asia/unitedarabemirates/abudhabi/ray_yas_west.md,bars_and_cafes,3,Ray's Bar
+asia/unitedarabemirates/abudhabi/yas_bay_waterfront.md,bars_and_cafes,2,Yas Bay Waterfront
+asia/unitedarabemirates/abudhabi/zuma.md,bars_and_cafes,4,Zuma
+asia/unitedarabemirates/dubai/arabic_coffee_house.md,bars_and_cafes,4,Al Fahidi Coffee Houses
+asia/unitedarabemirates/dubai/atmosphere.md,bars_and_cafes,4,At.mosphere
+asia/unitedarabemirates/dubai/cabana_dubai.md,bars_and_cafes,3,Zero Gravity Dubai
+asia/vietnam/hanoi/bia_hoi_corner.md,bars_and_cafes,5,Bia Hoi Corner
+asia/vietnam/hanoi/cafe_giang.md,bars_and_cafes,5,Cafe Giang
+asia/vietnam/hanoi/cafe_pho_co.md,bars_and_cafes,4,Cafe Pho Co
+asia/vietnam/hanoi/pasteur_street_brewing.md,bars_and_cafes,4,Pasteur Street Brewing
+asia/vietnam/hanoi/tadioto.md,bars_and_cafes,3,Tadioto
+asia/vietnam/hochiminhcity/allez_boo.md,bars_and_cafes,2,Allez Boo
+asia/vietnam/hochiminhcity/bui_vien_street.md,bars_and_cafes,2,Bui Vien Street
+asia/vietnam/hochiminhcity/cafe_343.md,bars_and_cafes,2,Cafe 343
+asia/vietnam/hochiminhcity/caravelle_hotel_bar.md,bars_and_cafes,4,Caravelle Hotel (Saigon Bar)
+asia/vietnam/hochiminhcity/cloudburst_bar.md,bars_and_cafes,2,Cloudburst Bar
+asia/vietnam/hochiminhcity/enigma.md,bars_and_cafes,2,Enigma
+asia/vietnam/hochiminhcity/mgm.md,bars_and_cafes,1,MGM
+asia/vietnam/hochiminhcity/q_bar.md,bars_and_cafes,3,Q Bar
+asia/vietnam/hochiminhcity/rex_hotel_rooftop.md,bars_and_cafes,4,Rex Hotel Rooftop Bar
+asia/vietnam/hochiminhcity/vietnamese_coffee.md,bars_and_cafes,5,Vietnamese Coffee Culture
+asia/vietnam/hochiminhcity/window_3.md,bars_and_cafes,3,Window’s Garden Cafe
+australiaandpacific/australia/newsouthwales/sydney/arq.md,bars_and_cafes,3,ARQ
+australiaandpacific/australia/newsouthwales/sydney/bar_cleveland.md,bars_and_cafes,2,Bar Cleveland
+australiaandpacific/australia/newsouthwales/sydney/gilligans.md,bars_and_cafes,1,Gilligans
+australiaandpacific/australia/newsouthwales/sydney/henry_henry_eating.md,bars_and_cafes,2,Henry Henry
+australiaandpacific/australia/newsouthwales/sydney/opera_bar.md,bars_and_cafes,5,Opera Bar
+australiaandpacific/australia/newsouthwales/sydney/pontoon.md,bars_and_cafes,2,Pontoon
+australiaandpacific/australia/newsouthwales/sydney/the_sheaf.md,bars_and_cafes,3,The Sheaf
+australiaandpacific/australia/newsouthwales/sydney/the_tea_gardens.md,bars_and_cafes,2,The Tea Gardens
+australiaandpacific/australia/newsouthwales/sydney/three_wise_monkeys.md,bars_and_cafes,2,Three Wise Monkeys
+australiaandpacific/australia/victoria/melbourne/bennetts_lane.md,bars_and_cafes,5,Bennett's Lane
+australiaandpacific/australia/victoria/melbourne/campari_house.md,bars_and_cafes,3,Campari House
+australiaandpacific/australia/victoria/melbourne/cookie.md,bars_and_cafes,3,Cookie
+australiaandpacific/australia/victoria/melbourne/nemesis.md,bars_and_cafes,2,Nemesis
+australiaandpacific/australia/victoria/melbourne/proud_mary.md,bars_and_cafes,4,Proud Mary
+australiaandpacific/australia/victoria/melbourne/rooftop_bar.md,bars_and_cafes,3,Rooftop Bar
+australiaandpacific/australia/victoria/melbourne/section_8.md,bars_and_cafes,4,Section 8
+australiaandpacific/australia/victoria/melbourne/the_pod.md,bars_and_cafes,2,The Pod
+europe/austria/vienna/cafe_central.md,bars_and_cafes,5,Café Central
+europe/austria/vienna/cafe_hawelka.md,bars_and_cafes,5,Café Hawelka
+europe/austria/vienna/cafe_landtmann.md,bars_and_cafes,4,Café Landtmann
+europe/austria/vienna/cafe_pruckel.md,bars_and_cafes,4,Café Prückel
+europe/austria/vienna/cafe_sacher.md,bars_and_cafes,5,Café Sacher
+europe/austria/vienna/cafeberg.md,bars_and_cafes,3,Cafe Berg
+europe/austria/vienna/loos_american_bar.md,bars_and_cafes,5,Loos American Bar
+europe/austria/vienna/palmenhaus.md,bars_and_cafes,4,Palmenhaus
+europe/czechrepublic/prague/café_savoy.md,bars_and_cafes,4,Café Savoy
+europe/czechrepublic/prague/lokál_dlouhá.md,bars_and_cafes,4,Lokál Dlouhá
+europe/czechrepublic/prague/u_fleku.md,bars_and_cafes,5,U Fleků
+europe/denmark/copenhagen/charlie_scotts_bar.md,bars_and_cafes,3,Charlie Scott's Bar
+europe/denmark/copenhagen/coffee_collective.md,bars_and_cafes,5,Coffee Collective
+europe/denmark/copenhagen/jazzhouse.md,bars_and_cafes,4,Jazzhouse Copenhagen
+europe/denmark/copenhagen/laekkerbar.md,bars_and_cafes,4,Lækkerbar
+europe/denmark/copenhagen/meatpacking_district.md,bars_and_cafes,4,Meatpacking District
+europe/denmark/copenhagen/stereo_bar.md,bars_and_cafes,3,Stereo Bar
+europe/denmark/copenhagen/vega.md,bars_and_cafes,4,Vega
+europe/finland/helsinki/cafe_engel.md,bars_and_cafes,4,Café Engel
+europe/finland/helsinki/karl_fazer_cafe.md,bars_and_cafes,4,Karl Fazer Café
+europe/finland/helsinki/regatta_kahvila.md,bars_and_cafes,4,Café Regatta
+europe/finland/helsinki/teurastamo.md,bars_and_cafes,3,Teurastamo
+europe/france/midi/cotedazur/marseille/lacaravelle.md,bars_and_cafes,4,La Caravelle
+europe/france/paris/aux_deux_amis.md,bars_and_cafes,5,Aux Deux Amis
+europe/france/paris/brasserie_lipp.md,bars_and_cafes,4,Brasserie Lipp
+europe/france/paris/cafe_de_flore.md,bars_and_cafes,4,Café de Flore
+europe/france/paris/cave_des_abbesses.md,bars_and_cafes,4,Cave des Abbesses
+europe/france/paris/chez_prune.md,bars_and_cafes,4,Chez Prune
+europe/france/paris/harrys_bar.md,bars_and_cafes,5,Harry's New York Bar
+europe/france/paris/la_fontaine_de_belleville.md,bars_and_cafes,4,La Fontaine de Belleville
+europe/france/paris/le_baron_rouge.md,bars_and_cafes,5,Le Baron Rouge
+europe/france/paris/le_comptoir_general.md,bars_and_cafes,4,Le Comptoir Général
+europe/france/paris/les_deux_magots.md,bars_and_cafes,3,Les Deux Magots
+europe/france/paris/prescription_cocktail_club.md,bars_and_cafes,4,Prescription Cocktail Club
+europe/france/paris/septime_cave.md,bars_and_cafes,4,Septime La Cave
+europe/germany/bavaria/munich/alte_pinakothek_restaurant.md,bars_and_cafes,3,Café Klenze
+europe/germany/bavaria/munich/augustiner_braustuben.md,bars_and_cafes,5,Augustiner Bräustuben
+europe/germany/bavaria/munich/beergardens.md,bars_and_cafes,5,Beer Gardens
+europe/germany/bavaria/munich/chinese_tower_beer_garden.md,bars_and_cafes,4,Chinese Tower Beer Garden
+europe/germany/bavaria/munich/gartnerplatz.md,bars_and_cafes,4,Gärtnerplatz
+europe/germany/bavaria/munich/havanaclub.md,bars_and_cafes,2,Havana Club
+europe/germany/bavaria/munich/hofbraeuhaus.md,bars_and_cafes,4,Hofbräuhaus am Platzl
+europe/germany/bavaria/munich/salvatorkeller.md,bars_and_cafes,3,Salvator-Keller
+europe/germany/bavaria/munich/taxisgarten.md,bars_and_cafes,4,Taxisgarten
+europe/germany/berlin/acud.md,bars_and_cafes,3,Acud
+europe/germany/berlin/amsterdamcaf.md,bars_and_cafes,2,Amsterdam Café
+europe/germany/berlin/bergmann103.md,bars_and_cafes,3,Bergmann 103
+europe/germany/berlin/cafe_anfall.md,bars_and_cafes,2,Café Anfall
+europe/germany/berlin/cafe_bar_mitte.md,bars_and_cafes,2,Café Bar Mitte
+europe/germany/berlin/cafe_hardenberg.md,bars_and_cafes,3,Café Hardenberg
+europe/germany/berlin/cafe_hegel.md,bars_and_cafes,2,Café Hegel
+europe/germany/berlin/cafe_orange.md,bars_and_cafes,2,Café Orange
+europe/germany/berlin/cafe_savigny.md,bars_and_cafes,4,Café Savigny
+europe/germany/berlin/cox_orange.md,bars_and_cafes,2,Cox Orange
+europe/germany/berlin/die_rote_harfe.md,bars_and_cafes,3,Die Rote Harfe
+europe/germany/berlin/eckstein.md,bars_and_cafes,3,Eckstein
+europe/germany/berlin/franken.md,bars_and_cafes,2,Franken
+europe/germany/berlin/junctionbar.md,bars_and_cafes,3,Junction Bar
+europe/germany/berlin/kapelle_cafe_bar.md,bars_and_cafes,2,Kapelle Café Bar
+europe/germany/hamburg/altes_maedchen.md,bars_and_cafes,4,Altes Mädchen
+europe/germany/hamburg/down_under.md,bars_and_cafes,2,Down Under
+europe/germany/hamburg/gruenspan.md,bars_and_cafes,3,Grünspan
+europe/germany/hamburg/strandperle.md,bars_and_cafes,5,Strandperle
+europe/greece/athens/a_for_athens.md,bars_and_cafes,5,A for Athens Rooftop Bar
+europe/greece/athens/six_dogs.md,bars_and_cafes,4,Six d.o.g.s.
+europe/hungary/budapest/angelika.md,bars_and_cafes,4,Angelika
+europe/hungary/budapest/bar_domby.md,bars_and_cafes,3,Bar Domby
+europe/hungary/budapest/cafe_eklektika.md,bars_and_cafes,3,Cafe Eklektika
+europe/hungary/budapest/cafe_gerbeaud.md,bars_and_cafes,5,Café Gerbeaud
+europe/hungary/budapest/for_sale_bar.md,bars_and_cafes,4,For Sale Bar
+europe/hungary/budapest/instant_fogas.md,bars_and_cafes,4,Instant-Fogas
+europe/hungary/budapest/new_york_cafe.md,bars_and_cafes,5,New York Cafe
+europe/hungary/budapest/piaf.md,bars_and_cafes,3,Piaf
+europe/hungary/budapest/szabo_ervin_library_cafe.md,bars_and_cafes,4,Szabó Ervin Library
+europe/hungary/budapest/szimpla_kert.md,bars_and_cafes,5,Szimpla Kert
+europe/hungary/budapest/szoda_bar.md,bars_and_cafes,3,Szoda Bar
+europe/ireland/dublin/doheny_and_nesbitt.md,bars_and_cafes,4,Doheny & Nesbitt
+europe/ireland/dublin/kehoes_pub.md,bars_and_cafes,5,Kehoe's
+europe/ireland/dublin/kitty_kiernans_pub.md,bars_and_cafes,3,Kitty Kiernan's Pub
+europe/ireland/dublin/mulligans.md,bars_and_cafes,5,Mulligans
+europe/ireland/dublin/the_stags_head.md,bars_and_cafes,5,The Stag's Head
+europe/italy/lazio/rome/bar_san_calisto.md,bars_and_cafes,5,Bar San Calisto
+europe/italy/lazio/rome/caffe_sant_eustachio.md,bars_and_cafes,4,Caffè Sant'Eustachio
+europe/italy/lazio/rome/club_picasso.md,bars_and_cafes,2,Club Picasso
+europe/italy/lazio/rome/fafiuche.md,bars_and_cafes,4,Fafiuche
+europe/italy/lazio/rome/il_sorpasso.md,bars_and_cafes,4,Il Sorpasso
+europe/italy/lazio/rome/la_botticella.md,bars_and_cafes,3,La Botticella
+europe/italy/lazio/rome/ma_che_siete_venuti_a_fa.md,bars_and_cafes,5,Ma Che Siete Venuti a Fà
+europe/italy/lazio/rome/pimms_good.md,bars_and_cafes,3,Pimm's Good
+europe/italy/lazio/rome/rimessa_roscioli.md,bars_and_cafes,5,Rimessa Roscioli
+europe/italy/lazio/rome/santeustachioilcaffe.md,bars_and_cafes,5,Sant'Eustachio il Caffè
+europe/italy/lazio/rome/tazza_doro.md,bars_and_cafes,5,La Casa del Caffè Tazza d'Oro
+europe/italy/lazio/rome/traste.md,bars_and_cafes,3,Traste
+europe/italy/lombardia/milan/bar_basso.md,bars_and_cafes,5,Bar Basso
+europe/italy/lombardia/milan/bar_luce.md,bars_and_cafes,4,Bar Luce
+europe/italy/lombardia/milan/camparino_in_galleria.md,bars_and_cafes,5,Camparino in Galleria
+europe/italy/lombardia/milan/cantine_isola.md,bars_and_cafes,4,Cantine Isola
+europe/italy/tuscany/florence/caffe_rivoire.md,bars_and_cafes,4,Caffè Rivoire
+europe/italy/tuscany/florence/enoteca_pitti_gola.md,bars_and_cafes,4,Pitti Gola e Cantina

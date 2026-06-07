@@ -6,6 +6,10 @@ latitude: 48.854144
 longitude: 2.332631
 opening_hours: Daily 7:30am–1:30am
 phone: +33 1 45 48 55 26
+scores:
+  architecture: 0.6209
+  bars_and_cafes: 0.7314
+  sight: 0.666
 snippet: Iconic Saint-Germain literary cafe since the 1940s
 tags:
 - bars_and_cafes

@@ -4,6 +4,9 @@ latitude: 48.863617
 longitude: 2.372249
 opening_hours: Tue–Sat noon–11pm; closed Sun–Mon
 price_range: €5–8 glasses of wine
+scores:
+  bar: 0.7287
+  bars_and_cafes: 0.7675
 snippet: Standing-room natural wine bar on Oberkampf, the beating heart of the 11th
 tags:
 - bars_and_cafes

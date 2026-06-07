@@ -4,6 +4,9 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 48.845616
 longitude: 2.309585
+scores:
+  market: 0.777
+  museum: 0.647
 snippet: Paris's oldest department store, founded 1852
 tags:
 - shopping

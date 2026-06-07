@@ -3,6 +3,9 @@ address: 6th arrondissement, Paris
 latitude: 48.846442
 longitude: 2.337006
 opening_hours: Daily 7:30am–dusk
+scores:
+  sight: 0.6434
+  things_to_do: 0.5886
 snippet: The great Left Bank garden, beloved by students, families, and chess players
 tags:
 - things_to_do

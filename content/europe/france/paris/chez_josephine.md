@@ -4,6 +4,9 @@ latitude: 48.846823
 longitude: 2.328918
 opening_hours: Mon–Fri lunch and dinner; closed Sat–Sun
 price_range: €30–55
+scores:
+  eating_out: 0.796
+  restaurant: 0.7638
 snippet: Legendary Left Bank bistro where Hemingway and Picasso once ate
 tags:
 - eating_out

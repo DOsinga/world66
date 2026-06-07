@@ -3,6 +3,8 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.8682
 longitude: 2.3297
+scores:
+  museum: 0.6617
 snippet: Legendary jeweller's flagship on Place Vendome
 tags:
 - shopping

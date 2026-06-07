@@ -6,6 +6,9 @@ latitude: 48.866217
 longitude: 2.338015
 opening_hours: Mon–Fri noon–1:30pm and 7:30pm–9:30pm; closed Sat–Sun
 phone: +33 1 42 96 56 27
+scores:
+  eating_out: 0.7594
+  sight: 0.6721
 snippet: Two-starred Empire-era restaurant beneath the Palais-Royal arcades
 tags:
 - eating_out

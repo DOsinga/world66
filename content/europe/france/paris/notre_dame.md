@@ -4,7 +4,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.852937
 longitude: 2.35005
+scores:
+  architecture: 0.7222
+  sight: 0.6985
+  things_to_do: 0.826
 snippet: Gothic masterpiece at the heart of Paris, reopened after the 2019 fire
+story: All road distances in France are measured from a bronze octagonal marker set
+  in the pavement in front of Notre-Dame — the Point Zéro des Routes de France. The
+  cathedral took 170 years to build, from 1163 to 1345, and was so massive that all
+  of Paris's medieval streets were oriented around it.
 tags:
 - things_to_do
 - sight
@@ -12,7 +20,6 @@ tags:
 - latin_quarter
 title: Notre-Dame Cathedral
 type: poi
-story: "All road distances in France are measured from a bronze octagonal marker set in the pavement in front of Notre-Dame — the Point Zéro des Routes de France. The cathedral took 170 years to build, from 1163 to 1345, and was so massive that all of Paris's medieval streets were oriented around it."
 ---
 
 Notre-Dame is the Gothic masterpiece at the heart of Paris and the country's symbolic centre — all road distances in France are measured from its forecourt. Its first stone was laid in 1163 and the cathedral took 170 years to complete. The flying buttresses on its eastern end are particularly beautiful at dusk.

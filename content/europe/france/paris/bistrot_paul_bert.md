@@ -4,6 +4,9 @@ latitude: 48.853107
 longitude: 2.379823
 opening_hours: Tue–Sat lunch and dinner; closed Sun–Mon
 price_range: €35–55
+scores:
+  eating_out: 0.827
+  restaurant: 0.7766
 snippet: The platonic ideal of the Paris bistro, unchanged for decades
 tags:
 - eating_out

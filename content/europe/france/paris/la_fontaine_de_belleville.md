@@ -3,6 +3,9 @@ address: 31 Rue Juliette Dodu, 75010 Paris
 latitude: 48.873038
 longitude: 2.369249
 opening_hours: Mon–Fri 8am–11pm; Sat–Sun 9am–11pm
+scores:
+  bar: 0.6676
+  bars_and_cafes: 0.7674
 snippet: Third-wave coffee roaster and cafe at the corner of Canal Saint-Martin
 tags:
 - bars_and_cafes

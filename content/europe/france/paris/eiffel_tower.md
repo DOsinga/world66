@@ -4,14 +4,18 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 48.85826
 longitude: 2.294501
+scores:
+  landmark: 0.7516
+  sight: 0.7362
+  things_to_do: 0.6975
 snippet: Iron lattice icon of Paris with sweeping city views
-story: >
-  Gustave Eiffel was so vilified by Paris intellectuals when the tower was
-  proposed that a petition signed by 300 artists and writers called it a
-  "blot on the cityscape" and demanded it be demolished after the 1889
-  Exposition. Eiffel had the last laugh: the tower was saved because it
-  served as a radio transmission mast, and it went on to become the most
-  recognisable structure on earth.
+story: 'Gustave Eiffel was so vilified by Paris intellectuals when the tower was proposed
+  that a petition signed by 300 artists and writers called it a "blot on the cityscape"
+  and demanded it be demolished after the 1889 Exposition. Eiffel had the last laugh:
+  the tower was saved because it served as a radio transmission mast, and it went
+  on to become the most recognisable structure on earth.
+
+  '
 tags:
 - things_to_do
 - sight

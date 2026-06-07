@@ -4,6 +4,8 @@ admission: €12.50
 latitude: 49.076405
 longitude: 1.533498
 opening_hours: Late Mar–early Nov, daily 9:30am–6pm
+scores:
+  sight: 0.621
 snippet: Monet's house and the water lily gardens that inspired his masterworks
 tags:
 - day_trips

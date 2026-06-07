@@ -1,6 +1,10 @@
 ---
 latitude: 48.8547
 longitude: 2.3475
+scores:
+  market: 0.671
+  sight: 0.6902
+  things_to_do: 0.7399
 tags:
 - things_to_do
 - sight

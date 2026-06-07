@@ -1,5 +1,5 @@
 ---
-title: "Destinations"
+title: "Day Trips from Istria"
 type: section
 linked_locations:
   - europe/croatia/pula
@@ -14,5 +14,3 @@ linked_locations:
 ---
 
 The west coast has the major historic towns and the busiest beaches. The interior — the Mirna and Raša valleys — has the wine, the truffles, and the hill towns. Pick a base on either side and you can cover the rest as day trips.
-</content>
-</invoke>

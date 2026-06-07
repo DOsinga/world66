@@ -1,0 +1,5 @@
+europe/italy/tuscany/montepulciano
+europe/italy/veneto/borca_di_cadore
+europe/italy/veneto/castelfrancoveneto
+europe/italy/veneto/portogruaro
+europe/italy/veneto/vodo_di_cadore

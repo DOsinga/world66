@@ -28,4 +28,4 @@ Even further south are the Yaeyama islands, Ishigaki and Iriomote; both great pl
 [Miyako Island](/asia/japan/ryukyuislands/miyakoisland)
 [Tokashiki Island](/asia/japan/ryukyuislands/tokashikiisland)
 [Iriomote Island](/asia/japan/ryukyuislands/iriomoteisland)
-[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland/okinawa_island)
+[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland)

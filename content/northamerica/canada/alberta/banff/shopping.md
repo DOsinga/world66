@@ -11,7 +11,7 @@ Banff has some gorgeous little crafty shops and jewelery and of course art and p
 
 **Cascade Plaza . **
 
-Promoted as "Banff's Great Indoors", this is the largest retail complex in the Canadian Rockies. Inside is a diverse range of over 50 shops, restaurants, food court and other services on four levels. The architecturally interesting interior features a spacious multi-storey atrium crowned by an im [more..](/northamerica/canada/alberta/banff/shopping/cascadeplaza)
+Promoted as "Banff's Great Indoors", this is the largest retail complex in the Canadian Rockies. Inside is a diverse range of over 50 shops, restaurants, food court and other services on four levels. The architecturally interesting interior features a spacious multi-storey atrium crowned by an impressive skylight, with mountain-view balconies on the upper levels.
 
 **Sundance Mall . **
 

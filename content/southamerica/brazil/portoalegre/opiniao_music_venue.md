@@ -5,7 +5,7 @@ snippet: Porto Alegre's most storied live music venue, in the heart of Cidade Ba
 tags:
 - bars_and_cafes
 - bar
-story: Opinião opened in 1971, during the military dictatorship, and became immediately important: it was one of the few spaces in Porto Alegre where musicians could perform work that was politically uncomfortable, partly because the venue's owner had good connections and partly because the military's cultural censors in Rio Grande do Sul were not always paying close attention. Several musicians who later became nationally famous played their first significant shows here.
+story: "Opinião opened in 1971, during the military dictatorship, and became immediately important: it was one of the few spaces in Porto Alegre where musicians could perform work that was politically uncomfortable, partly because the venue's owner had good connections and partly because the military's cultural censors in Rio Grande do Sul were not always paying close attention. Several musicians who later became nationally famous played their first significant shows here."
 title: Opinião
 type: poi
 ---

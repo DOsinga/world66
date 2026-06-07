@@ -1,0 +1,5 @@
+europe/bulgaria/valleyoftheroses
+europe/bulgaria/vidin
+europe/croatia/brela
+europe/croatia/istria
+europe/croatia/novigrad

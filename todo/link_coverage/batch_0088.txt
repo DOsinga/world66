@@ -1,0 +1,5 @@
+northamerica/unitedstates/southdakota/spearfish
+northamerica/unitedstates/tennessee/greatsmokymountains
+northamerica/unitedstates/tennessee/greatsmokymountainsnationalpark
+northamerica/unitedstates/texas/amarillo/canyon
+northamerica/unitedstates/texas/corpuschristi

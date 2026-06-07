@@ -10,5 +10,5 @@ Santiago is a great place to be if you want a good meal, but don't have too much
 ### Display all
 or display just:
 
-[Eat cheap](/europe/spain/galicia/santiagodecompostela/eatingout?subsection=Eat%20cheap)
-[Galician](/europe/spain/galicia/santiagodecompostela/eatingout?subsection=Galician)
+Eat cheap
+Galician

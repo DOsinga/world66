@@ -21,7 +21,7 @@ The Balearic Islands are an autonomous province of Spain about 100km off the eas
 [Santa Eulalia](/europe/spain/balearicislands/ibiza/santaeulalia)
 [San Antonio Abad](/europe/spain/balearicislands/ibiza/sanantonioabad)
 [Puerto de Soller](/europe/spain/balearicislands/mallorca/puertodesoller)
-[Palma](/europe/spain/balearicislands/mallorca/palma_1)
+[Palma](/europe/spain/balearicislands/mallorca/palma1)
 [Puerto de Alcudia](/europe/spain/balearicislands/mallorca/puertodealcudia)
 [Porto Cristo](/europe/spain/balearicislands/mallorca/portocristo)
 [Menorca](/europe/spain/balearicislands/menorca)

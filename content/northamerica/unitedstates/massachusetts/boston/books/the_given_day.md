@@ -1,7 +1,7 @@
 ---
 author: Dennis Lehane
 isbn: "978-0688163181"
-snippet: Boston in 1919: police strike, race riot, Spanish flu, and a young Babe Ruth
+snippet: "Boston in 1919: police strike, race riot, Spanish flu, and a young Babe Ruth"
 tags:
 - books
 title: The Given Day

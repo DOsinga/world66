@@ -1,0 +1,5 @@
+northamerica/unitedstates/virginia/yorktown
+northamerica/unitedstates/washington/olympicnationalpark
+northamerica/unitedstates/washington/olympicpeninsula
+northamerica/unitedstates/washington/seattle/universityofwashington
+northamerica/unitedstates/wyoming/grandteton

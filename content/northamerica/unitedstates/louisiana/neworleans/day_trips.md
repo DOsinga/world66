@@ -14,7 +14,7 @@ June 07, 2008
 
 ### [Baton Rouge](/northamerica/unitedstates/louisiana/neworleans/day_trips/baton_rouge)
 
-If you can manage it, please do visit the State Capitol -- Baton Rouge, during your visit to New Orleans. Located roughly 80 miles northwest of New Orleans, Baton Rouge features beautiful state capitol grounds and an educational planetarium to explore, the Louisiana State Museum, the *USS Kidd*, the Old State Capitol, the Shaw Center for the Arts, Rural Life Museum and Windrush Gardens, and much more. If you're planning an overnight visit, the Marriot Baton Rouge (www.marriott.com) and Embassy Suites (www.embassysuites.com) are excellent places to stay. [more..](/northamerica/unitedstates/louisiana/neworleans/day_trips/baton_rouge)
+If you can manage it, please do visit the State Capitol -- Baton Rouge, during your visit to New Orleans. Located roughly 80 miles northwest of New Orleans, Baton Rouge features beautiful state capitol grounds and an educational planetarium to explore, the Louisiana State Museum, the *USS Kidd*, the Old State Capitol, the Shaw Center for the Arts, Rural Life Museum and Windrush Gardens, and much more. If you're planning an overnight visit, the Marriot Baton Rouge (www.marriott.com) and Embassy Suites (www.embassysuites.com) are excellent places to stay.
 
 
 
@@ -28,7 +28,7 @@ email: info@brac.org
 
 ### [St. Francisville](/northamerica/unitedstates/louisiana/neworleans/day_trips/st_francisville)
 
-Located in St. Francisville, roughly 25 miles north of Baton Rouge and *roughly* 110 miles from New Orleans, is a collection of plantation homes that must be seen to be believed. Some visitors spend the night here and others come here for the day to explore the Rosedown Plantation and Gardens, the Myrtles (also home to a B&B), Oakley House and Audubon State Historic Site and Butler Greenwood Plantation. Antique shopping is popular here as well as a number of historic walking tours. If you want to check out something kind of weird (and maybe a little [more..](/northamerica/unitedstates/louisiana/neworleans/day_trips/st_francisville)
+Located in St. Francisville, roughly 25 miles north of Baton Rouge and *roughly* 110 miles from New Orleans, is a collection of plantation homes that must be seen to be believed. Some visitors spend the night here and others come here for the day to explore the Rosedown Plantation and Gardens, the Myrtles (also home to a B&B), Oakley House and Audubon State Historic Site and Butler Greenwood Plantation. Antique shopping is popular here as well as a number of historic walking tours. If you want to check out something kind of weird (and maybe a little spooky), the Myrtles is widely billed as one of the most haunted houses in America — the evening ghost tour is worth the detour.
 
 
 

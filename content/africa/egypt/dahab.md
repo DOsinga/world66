@@ -12,7 +12,7 @@ title: Dahab
 type: location
 ---
 
-Dahab is the Sinai's laid-back antidote to the package-tour glitz of [Sharm el Sheikh](/africa/egypt/sharm_el_sheikh). Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Backpackers discovered it in the 1980s, and the vibe has never fully shaken that easygoing DNA, even as proper restaurants and dive centers have moved in.
+Dahab is the Sinai's laid-back antidote to the package-tour glitz of [Sharm el Sheikh](/africa/egypt/sharmelsheikh). Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Backpackers discovered it in the 1980s, and the vibe has never fully shaken that easygoing DNA, even as proper restaurants and dive centers have moved in.
 
 The town stretches along the coast in two main parts. [Assalah](/africa/egypt/dahab/assalah), the old Bedouin village, is where you will find budget camps, cafes with floor cushions, and the unmistakable smell of shisha. Masbat Bay, the tourist waterfront, runs south along a pedestrian promenade lined with restaurants and dive shops, all facing the sea. There is no real separation between the two -- you walk from one to the other in fifteen minutes.
 

@@ -2,7 +2,7 @@
 title: "Japan War Museum"
 type: poi
 tags:
-  - sights
+  - things_to_do
   - museum
 address: "3-1-1 Kudankita"
 latitude: 35.694912

@@ -1,0 +1,5 @@
+europe/belarus/pinsk
+europe/bosniaandherzegovina/neum
+europe/bulgaria/gabrovo
+europe/bulgaria/gornaoryahovica
+europe/bulgaria/nesebar

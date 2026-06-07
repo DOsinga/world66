@@ -1,6 +1,7 @@
 ---
 address: Strada Constantin Aristia 8, Bucharest
 latitude: 44.4402
+loc_type: feature
 longitude: 26.0982
 snippet: 19th-century painter's house, kept exactly as he left it
 tags:

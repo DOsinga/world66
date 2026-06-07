@@ -2,7 +2,7 @@
 latitude: -16.5134
 longitude: -68.1135
 snippet: The most acclaimed restaurant in Bolivia, founded by Claus Meyer to prove that high-altitude, landlocked Bolivia has a serious culinary culture.
-story: Gustu was founded in 2013 by Danish chef Claus Meyer (co-founder of Noma) specifically as a restaurant in an unlikely location — both to prove that high-altitude, landlocked Bolivia had a sophisticated culinary culture worth celebrating, and as a training program for young Bolivians. It became one of Latin America's acclaimed restaurants not by importing technique but by investigating local ingredients: Amazonian herbs, Andean tubers, highland fish, native quinoa.
+story: "Gustu was founded in 2013 by Danish chef Claus Meyer (co-founder of Noma) specifically as a restaurant in an unlikely location — both to prove that high-altitude, landlocked Bolivia had a sophisticated culinary culture worth celebrating, and as a training program for young Bolivians. It became one of Latin America's acclaimed restaurants not by importing technique but by investigating local ingredients: Amazonian herbs, Andean tubers, highland fish, native quinoa."
 tags:
 - eating_out
 - restaurant

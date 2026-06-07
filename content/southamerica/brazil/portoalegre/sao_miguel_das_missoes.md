@@ -3,7 +3,7 @@ snippet: UNESCO-listed Jesuit mission ruins — one of the most haunting sites i
 tags:
 - day_trips
 - sight
-story: The Jesuit missions of the 17th and 18th centuries were among the most ambitious social experiments in the Americas: self-governing indigenous communities organised by Jesuit priests according to utopian principles, producing art, music, and architecture of remarkable quality. When the Jesuits were expelled from South America in 1767, the missions were abandoned and the indigenous communities scattered. What remains at São Miguel das Missões is the skeleton of one of the greatest architectural achievements of colonial South America.
+story: "The Jesuit missions of the 17th and 18th centuries were among the most ambitious social experiments in the Americas: self-governing indigenous communities organised by Jesuit priests according to utopian principles, producing art, music, and architecture of remarkable quality. When the Jesuits were expelled from South America in 1767, the missions were abandoned and the indigenous communities scattered. What remains at São Miguel das Missões is the skeleton of one of the greatest architectural achievements of colonial South America."
 title: São Miguel das Missões
 type: poi
 ---

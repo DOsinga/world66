@@ -1,0 +1,4 @@
+asia/nepal/annapurna
+asia/nepal/khumbu
+africa/rwanda/volcanoesnationalpark
+africa/botswana/chobenationalpark

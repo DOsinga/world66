@@ -4,7 +4,7 @@ type: poi
 latitude: -15.800
 longitude: -47.861
 snippet: Vast esplanade where the three branches of government meet
-story: Niemeyer designed the plaza specifically so that no single building dominates: the Congress, the Planalto Palace (executive), and the Supreme Federal Court (judiciary) face each other across a great empty square. Two huge statues by Bruno Giorgi stand on it — *Os Candangos* honours the migrant workers who built the city in just 41 months. Each year on Brazil's national days, ceremonial soldiers raise the world's largest free-flying flag — 286 square metres, the size of a basketball court — from the mast in the centre.
+story: "Niemeyer designed the plaza specifically so that no single building dominates: the Congress, the Planalto Palace (executive), and the Supreme Federal Court (judiciary) face each other across a great empty square. Two huge statues by Bruno Giorgi stand on it — *Os Candangos* honours the migrant workers who built the city in just 41 months. Each year on Brazil's national days, ceremonial soldiers raise the world's largest free-flying flag — 286 square metres, the size of a basketball court — from the mast in the centre."
 tags:
 - things_to_do
 - landmark

@@ -31,7 +31,7 @@ The overview is the most important page. It should make someone want to visit �
 
 ## Sections
 
-Every location has sections as children. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.
+Every location has sections - they are separate md files in the location folder. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.
 
 ### Things to Do (`things_to_do.md`)
 
@@ -53,11 +53,11 @@ For longer text, use a YAML block scalar (`story: >`).
 
 ### Eating Out (`eating_out.md`)
 
-Specific restaurants, trattorias, street food stalls.
+Specific restaurants, trattorias, street food stalls, gelaterias.
 
 ### Bars and Cafes (`bars_and_cafes.md`)
 
-Bars, cafes, gelaterias, and nightlife. Do not use a separate `nightlife` section — nightlife POIs go here.
+Bars, cafes, and nightlife. Do not use a separate `nightlife` section — nightlife POIs go here.
 
 ### Shopping (`shopping.md`)
 
@@ -132,7 +132,7 @@ tags:
   - art_deco
 ```
 
-This POI will appear on the Things to Do page, on the South Beach neighbourhood page, and can be filtered by Museum. The `art_deco` tag links it to the Art Deco District POI's page if one exists.
+This POI will appear on the Things to Do page, on the South Beach neighbourhood page, and can be filtered by Museum. The `art_deco` tag is for filtering.
 
 ### Section tags
 
@@ -163,7 +163,9 @@ These tags become filter buttons on section pages. The recognised category tags 
 
 For large cities, create neighbourhood POIs (with `type: neighbourhood` in the tags). Then tag other POIs with the neighbourhood's **slug** to make them appear on the neighbourhood page. For example, if you have a `south_beach.md` neighbourhood POI, tag restaurants and sights in that area with `south_beach`.
 
-The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page.
+The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page. 
+
+When a large city has over 3 neighbourhoods they should all have images, so they render nicely.
 
 ```yaml
 # A restaurant in South Beach
@@ -196,7 +198,7 @@ latitude: 41.9009
 longitude: 12.4833
 ```
 
-Do not publish a POI without coordinates. If you cannot determine them, leave the file out.
+Do not publish a POI without coordinates. If you cannot determine them, leave the file out. Don't make up coordinates. Check and double check.
 
 ## Sources
 
@@ -212,6 +214,7 @@ sources:
 
 - **The overview is king.** A great overview with no sections is better than a thin overview with ten empty sections.
 - **Delete empty sections.** A page that says "We currently have no X" is worse than no page at all.
+- We need section.md files to show the pois for a section. In order for pois tagged things_to_do to show up in the guide, there needs to be a section.
 - **Quality over completeness.** A city with a good overview, solid things to do, and a couple of well-written sections is well-served. Don't create stub sections just to fill the list.
 - **Link generously.** Every neighbourhood, nearby city, or day trip mentioned should link to its page if one exists.
 - **Be specific.** Name the restaurant and the dish. Include the address, the hours, the price. Vague advice is useless.
@@ -221,7 +224,5 @@ sources:
 | City | Path | Notes |
 |------|------|-------|
 | Milan | `europe/italy/lombardia/milan` | Original `things_to_do` implementation |
-| Rome | `europe/italy/lazio/rome` | Category filters, story fields, neighbourhood POIs |
-| Florence | `europe/italy/tuscany/florence` | Category filters |
-| Venice | `europe/italy/veneto/venice` | Category filters |
-| Naples | `europe/italy/campania/naples` | Category filters |
+| Amsterdam | `europe/netherlands/amsterdam` | Category filters, story fields, neighbourhood POIs |
+| Paris | `europe/france/Paris/  | Category filters, story fields, neighbourhood POIs |

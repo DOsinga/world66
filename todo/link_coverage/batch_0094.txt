@@ -1,5 +1,0 @@
-southamerica/chile/sanpedrodeatacama
-southamerica/colombia/armenia
-southamerica/peru/huacachina
-southamerica/peru/puno
-southamerica/peru/sacredvalley

@@ -14,7 +14,7 @@ title: Niagara-on-the-Lake
 type: location
 ---
 
-Niagara-on-the-Lake is a small, immaculate town at the mouth of the Niagara River where it meets Lake Ontario, about 20km north of [Niagara Falls](/northamerica/canada/ontario/niagarafalls). With its tree-lined streets, heritage buildings, and manicured gardens, it has a distinctly British feel — a legacy of its role as the first capital of Upper Canada.
+Niagara-on-the-Lake is a small, immaculate town at the mouth of the Niagara River where it meets Lake Ontario, about 20km north of [Niagara Falls](/northamerica/canada/ontario/niagrafalls). With its tree-lined streets, heritage buildings, and manicured gardens, it has a distinctly British feel — a legacy of its role as the first capital of Upper Canada.
 
 The town is home to the Shaw Festival, one of Canada's premier theatre companies, which runs productions on three stages from April through October. The main street, Queen Street, is lined with boutiques, bakeries, and restaurants that cater to a well-heeled weekend crowd.
 

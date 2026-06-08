@@ -3,24 +3,12 @@ address: Jagadamba Junction
 latitude: 17.712378
 longitude: 83.303004
 tags:
-- shopping
+  - shopping
+  - market
 title: Lepakshi Emporium
 type: poi
 ---
 
-**Lepakshi** is where you will find hand crafted wonders from all over the state. Run by the Governament Lepakshi offers wide variety of choice in hand crafted items not only from Andhra Pradesh but different parts of India too.
+Lepakshi is the Andhra Pradesh government's handicrafts emporium, and the Visakhapatnam branch at Jagadamba Junction is one of the better places to buy regional crafts without bargaining anxiety. The stock runs to Kondapalli wooden toys, Nirmal lacquerware, Kalamkari painted textiles, Etikoppaka lacquer items, and Dharmavaram silk — the fixed prices are fair and the quality is reliably authentic, unlike the tourist-market alternatives.
 
-Lepakshi Emporium is situated in the Heart of the Business district i.e Jagadamba Junction.
-
-**Contributors**
-August 02, 2005
-
-August 02, 2005
-
-type: Speciality shops
-
-
-
-
-
-address: Jagadamba Junction
+It's not the cheapest option in the city, but for Kalamkari fabric or a carved wooden piece, the government provenance means you're getting the real thing. Worth an hour if you're interested in Andhra crafts.

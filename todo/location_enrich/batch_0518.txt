@@ -1,5 +1,0 @@
-northamerica/unitedstates/colorado/buenavista
-northamerica/canada/saskatchewan/saskatoon
-northamerica/unitedstates/northcarolina/raleigh
-australiaandpacific/newzealand/south_island/west_coast/buller
-northamerica/unitedstates/southcarolina/myrtlebeach

@@ -1,5 +1,0 @@
-europe/faroeislands/suuroy/hov
-europe/azerbaijan/nagornokarabakh/stepanakert
-northamerica/unitedstates/texas/midland
-europe/poland/sopot
-asia/india/tamilnadu/nagore

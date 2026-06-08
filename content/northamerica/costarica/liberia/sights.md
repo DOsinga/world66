@@ -22,7 +22,7 @@ url: [www.guachipelin.com](http://www.guachipelin.com/english/hotel.php)
 
 email: info@guachipelin.com
 
-### [Monkey Head Island](/northamerica/costarica/liberia/sights/monkey_head_island)
+### Monkey Head Island
 
 This islet, off Peninsula Papagayo has a very interesting shape. When viewed from the shore, it looks like a gorilla or monkey head.
 

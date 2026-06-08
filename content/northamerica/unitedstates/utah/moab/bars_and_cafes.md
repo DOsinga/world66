@@ -1,25 +1,14 @@
 ---
-address: 200 South, 100 West, Moab UT
-closing_time: 1 am
-latitude: 38.570197
-longitude: -109.552357
-phone: 435-259-6666
 title: Bars and Cafes
-type: poi
+type: section
 ---
 
-Okay, you are in Utah, so nightlife is a bit, er, "reserved". But there are places to wallow in pagan excess. First, remember that most joints that serve booze are "private clubs" here behind the Zion Curtain, and you will need to buy a membership. Once you have a membership, you can go in and order drinks to your heart's content.
+Utah's liquor laws have been liberalised in recent years, and Moab now has a proper bar scene by the standards of a small Western town. The main options are clustered on N. Main Street.
 
-### [Rio Bar and Grill](/northamerica/unitedstates/utah/moab/nightlife_and_ente/rio_bar_and_grill)
+**Woody's Tavern** on N. Main is the oldest bar in Moab and the most reliably local-feeling: a no-frills place where guides, gear shop employees, and long-term residents drink alongside tourists. Pool tables, cheap beer, cold air conditioning.
 
-The Rio is a nice place to unwind after a day of hiking or biking. Several pool tables, lots of space to spread out, a bar, tables, and all the comforts needed for casual beer swilling, sports viewing, and jawboning about the day with your pals. Membership is of course required...
+**Moab Brewery** doubles as the best drinking spot in town, with a full range of locally brewed beers and a patio that fills in the evenings. The Scorpion Pale Ale and Dead Horse Amber are reliable choices.
 
-type: Pool and billiards
+**The Spoke on Center** is a more recent addition — a bike-themed bar near the centre of town that attracts the mountain biking crowd and has a good selection of craft beers.
 
-
-
-ClosingTime: 1 am
-
-tel: 435-259-6666
-
-address: 200 South, 100 West, Moab UT
+For coffee, **Love Muffin Cafe** on N. Main is the local favourite: strong coffee, good baked goods, a patio, and tables where guides plan their days over espresso and breakfast burritos. Opens early.

@@ -1,5 +1,0 @@
-europe/norway/lofotenislands/rost
-asia/mongolia/gungaluut
-northamerica/canada/quebec/longueuil
-europe/greece/kalamata
-europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury

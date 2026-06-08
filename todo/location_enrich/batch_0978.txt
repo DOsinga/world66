@@ -1,8 +1,0 @@
-europe/switzerland/grindelwald
-africa/liberia/monrovia
-asia/india/maharashtra/vengurla
-asia/india/madhyapradesh/jabalpur
-asia/japan/kyushu/kitakyushu
-europe/albania/saranda
-europe/russia/krasnodar
-southamerica/peru/chachapoyas

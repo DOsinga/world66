@@ -1,5 +1,0 @@
-northamerica/mexico/barradenavidad
-asia/vietnam/hoabinh
-africa/cameroon/bafoussam
-europe/portugal/almada
-europe/france/east/burgundy/lormes

@@ -1,6 +1,6 @@
 ---
-latitude: 32.6634
-longitude: 130.7019
+latitude: 32.8050
+longitude: 130.7095
 snippet: Modest wooden home of the writer who introduced Japan to the West
 story: 'Lafcadio Hearn — known in Japan as Koizumi Yakumo — was an Irish-Greek writer
   who arrived in Japan in 1890 and never left. He married a samurai''s daughter, became

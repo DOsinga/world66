@@ -1,5 +1,0 @@
-northamerica/unitedstates/washington/woodinville
-australiaandpacific/newzealand/north_island/waikato/waitomo
-africa/kenya/thecoast/malindi
-asia/oman/ibri
-europe/poland/oswiecim

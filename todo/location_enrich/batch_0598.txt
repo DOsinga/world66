@@ -1,5 +1,0 @@
-asia/southkorea/chonju
-europe/finland/hameenlinna
-europe/belarus/brest
-asia/india/lakshadweep/kavaratti
-europe/italy/emiliaromagna/ravenna

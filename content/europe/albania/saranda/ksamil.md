@@ -1,31 +1,18 @@
 ---
-address: KSAMIL SARANDA ALBANIA
-email: meritan.celiku@yahoo.com
 latitude: 39.77268
 longitude: 20.004481
-phone: 00355-692539586
 tags:
+- things_to_do
 - beaches
-title: TANI'S BAR & GUESTHOUSE
+title: Ksamil
 type: poi
-url: www.united-albania.com
-zipcode: '9706'
+story: Ksamil was a farming and fishing village until the 1990s, when the fall of
+  communism opened Albania's beaches to development. The tiny islands just offshore
+  — reachable by swimming or a short kayak — were once entirely uninhabited and used
+  only by shepherds. They now have beach bars, but the water between them is still
+  extraordinary.
 ---
 
-***[TANI'S BAR & GUESTHOUSE](/europe/albania/saranda/beaches/ksamil)*** is a friendly place with music, **fluent English spoken** and great atmosphere. It is within 2 min. walk from **Ksamil's bay and islands**, great for **snorkelling **and **beach parties**. ***TANI'S BAR & GUESTHOUSE*** is famous for cheap prices on** booze** and **accommodation**, the variety of **draught beer** and **cocktails**. It is located **100 m** from the **second tarmac square** with the **post office** on the way to the football pitch. It has a beer garden and a back garden which is** great for camping**. TANI'S BAR & GUESTHOUSE is the "Cheap booze-and-holiday Disney Land". Come and see for yourself! You will be most welcome!
+Ksamil is a beach village 14 km south of Saranda with the best beaches in the immediate area: small sandy coves with water that shifts from turquoise to deep blue, and three small islands just offshore that can be reached by swimming or kayak. It is very popular in July and August — package holiday crowds from across the Balkans fill the beach bars and sunbeds — but outside peak season it is much more manageable.
 
-type: general
-
-
-
-
-
-email: meritan.celiku@yahoo.com
-
-url: [www.united-albania.com](http://www.united-albania.com/zoihotel/hotel_english.html)
-
-zipcode: 9706
-
-address: KSAMIL SARANDA ALBANIA
-
-tel: 00355-692539586
+The main beaches are within walking distance of each other. The islands are the real draw: they are close enough to swim to from the shore, and the water between them is strikingly clear. Boat trips around the islands, snorkelling, and kayak rental are available from beach operators. Ksamil is most easily reached by taxi or minibus from Saranda.

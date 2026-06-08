@@ -1,10 +1,12 @@
 ---
-latitude: 44.803658
-longitude: 13.949771
+latitude: 44.873
+longitude: 13.85
 snippet: Intact Roman arena from the 1st century, still hosting events
 tags:
 - things_to_do
 - sight
+story: >
+  The Pula Arena is the only Roman amphitheatre in the world that has preserved all four side towers intact. Napoleon's general, Marmont, governed Pula in the early 19th century and seriously proposed dismantling the arena stone by stone and reassembling it in a park in Paris — the plan was only abandoned after local protests.
 title: Amphitheatre
 type: poi
 ---

@@ -1,5 +1,0 @@
-asia/china/shenzhen
-northamerica/unitedstates/delaware/newcastle
-europe/slovakia/b_a_n_s_k
-africa/guineeconakry/nzerekore
-northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach

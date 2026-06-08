@@ -1,18 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-**all**
+Ronda has a solid local restaurant scene concentrated around the historic centre. The local speciality is rabo de toro — oxtail stew — which appears on almost every traditional menu and is particularly good in autumn after the September bullfights, when the meat comes fresh from the ring. Serrano ham from the Serranía de Ronda mountains and local Ronda wines, which have been gaining recognition, are also worth trying.
 
-**Peking**
-
-Not far from Plaza de Espana, Peking has good Chinese food at a reasonable price.  
-
-address: calle Los Remedios
-
-**Don Miguel **
-
-Across from the Parador on Plaza de Espana, Don Miguel has good food and a stunning view, although it is a bit expensive.  
-
-address: Plaza de Espana
+The Parador restaurant on Plaza de España has the most spectacular gorge-edge setting of any restaurant in Spain, and the food is reasonable for the price, though the terrace rather than the kitchen is the real reason to go.

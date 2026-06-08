@@ -5,8 +5,13 @@ latitude: -28.177643
 longitude: 153.544623
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-01'
 score: 0.49
-loc_type: city
+loc_type: region
+sources:
+  - https://en.wikipedia.org/wiki/Tweed_Shire
+  - https://en.wikipedia.org/wiki/Tweed_Heads
+  - https://en.wikipedia.org/wiki/Murwillumbah
 ---
 
 The Tweed Shire occupies the far north-eastern corner of New South Wales, wedged between the Gold Coast and Byron Shire — and frequently overlooked by travellers rushing between the two. That oversight is the visitor's gain. The Tweed contains the largest subtropical rainforest remnant in the region and sits at the heart of the world's largest extinct shield volcano, the Wollumbin caldera. Many of the rainforest images used to promote the wider Northern Rivers region were actually shot in the Tweed's World Heritage-listed national parks.

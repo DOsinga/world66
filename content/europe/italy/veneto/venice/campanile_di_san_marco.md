@@ -7,6 +7,8 @@ tags:
   - sight
 latitude: 45.4341
 longitude: 12.3388
+snippet: "Venice's tallest tower — 98 metres, a lift, and the best view in the city"
+neighbourhood: San Marco
 story: >
   The original campanile stood for nearly a thousand years before it collapsed suddenly on 14 July 1902, folding straight down into its own footprint without damaging the basilica beside it. Venice rebuilt it exactly as it was — "com'era, dov'era" (as it was, where it was) — and reopened it in 1912. The new campanile is an exact copy of the old one.
 ---

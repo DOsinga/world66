@@ -11,6 +11,7 @@ snippet: Art nouveau and art deco collection opposite Charlottenburg Palace
 tags:
 - things_to_do
 - museum
+- charlottenburg
 title: Bröhan Museum
 type: poi
 url: www.broehan-museum.de

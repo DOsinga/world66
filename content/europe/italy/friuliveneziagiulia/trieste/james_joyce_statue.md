@@ -7,7 +7,7 @@ longitude: 13.772905
 snippet: Bronze of Joyce mid-stride on the bridge where he once walked
 tags:
 - things_to_do
-- landmark
+- sight
 title: James Joyce Statue
 type: poi
 ---

@@ -2,7 +2,10 @@
 title: Torre de la Calahorra
 type: poi
 snippet: "Almohad tower with convivencia museum and the best view of the Mezquita."
-tags: [things_to_do, landmark, history, museum]
+tags:
+  - things_to_do
+  - sight
+  - museum
 address: Puente Romano s/n
 latitude: 37.8754
 longitude: -4.7771

@@ -1,5 +1,0 @@
-europe/italy/lombardia/san_donato_milanese
-northamerica/unitedstates/california/northcoast/mendocino
-europe/slovenia/portoroz
-northamerica/jamaica/negril
-asia/india/maharashtra/aurangabad

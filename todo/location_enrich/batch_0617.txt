@@ -1,5 +1,0 @@
-northamerica/unitedstates/delaware/newark
-europe/unitedkingdom/scotland/arran/whiting_bay
-europe/france/east/alsace/ungersheim
-europe/croatia/samobor
-europe/switzerland/lugano

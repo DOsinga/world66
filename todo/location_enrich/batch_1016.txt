@@ -1,5 +1,0 @@
-europe/unitedkingdom/scotland/crovie
-northamerica/unitedstates/newyorkstate/jamestown_and_surr
-europe/spain/castellon/san_mateu
-africa/morocco/mohammedia
-asia/vietnam/cat_ba_island

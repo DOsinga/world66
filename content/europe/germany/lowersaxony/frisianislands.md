@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 53.712386
+loc_type: region
 longitude: 7.23402
+score: 0.55
 title: Frisian Islands
 type: location
-score: 0.55
-loc_type: region
 ---
 
 The East Frisian Islands lie before the North Sea coast like a string of pearls, attracting thousands of visitors every year. They consist of seven islands: Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog and Wangerooge.

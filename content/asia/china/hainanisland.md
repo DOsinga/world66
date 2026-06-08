@@ -1,6 +1,9 @@
 ---
 done:
   location_cleanup: '2026-04-16'
+image: hainanisland.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:%E4%B8%89%E4%BA%9A%E5%A4%A7%E5%B0%8F%E6%B4%9E%E5%A4%A9%E6%99%AF%E5%8C%BA%E9%A3%8E%E5%85%89_-_panoramio_(20).jpg
 latitude: 19.160286
 loc_type: region
 longitude: 109.628891

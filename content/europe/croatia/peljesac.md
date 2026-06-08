@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: peljesac.jpg
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:J36_059_Pelje%C5%A1ac.jpg
 latitude: 42.904567
+loc_type: region
 longitude: 17.47521
+score: 0.64
 title: Pelješac
 type: location
-score: 0.64
-loc_type: region
 ---
 
 The Pelješac peninsula is the second largest in Croatia, stretching 85 kilometres along the south Dalmatian coast in immediate proximity to [Dubrovnik](/europe/croatia/dubrovnik). Although it is attached to the mainland — making it easy to reach — it has all the characteristics of a typical Dalmatian island: unspoiled nature, crystal-clear bays, and traditional stone villages where the pace of life has barely changed.

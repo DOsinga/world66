@@ -9,6 +9,7 @@ snippet: Long-running contemporary art gallery on Potsdamer Strasse
 tags:
 - things_to_do
 - art
+- schoneberg
 title: Raab Galerie
 type: poi
 ---

@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/escondido
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives
-southamerica/brazil/santarem
-europe/malta/naxxar
-europe/france/east/franchecomte/loue_valley

@@ -1,5 +1,0 @@
-asia/india/maharashtra/konkan/vijaydurga
-africa/morocco/eljadida
-europe/unitedkingdom/scotland/greenock
-northamerica/unitedstates/california/san_ysidro
-europe/poland/poznan

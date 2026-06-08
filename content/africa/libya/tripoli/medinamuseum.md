@@ -2,7 +2,7 @@
 title: "Medina Museum"
 type: poi
 tags:
-  - museums
+  - things_to_do
   - museum
 snippet: "Small museum of Libyan life inside the old medina"
 latitude: 32.8972

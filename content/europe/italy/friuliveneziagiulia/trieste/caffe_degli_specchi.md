@@ -5,8 +5,8 @@ latitude: 45.649243
 longitude: 13.767681
 opening_hours: Daily 08:00–23:00
 tags:
-- One Day in Trieste
 - bars_and_cafes
+- cafe
 title: Caffè degli Specchi
 type: poi
 ---

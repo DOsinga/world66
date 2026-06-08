@@ -1,10 +1,6 @@
 ---
-title: "Things to do in TAUNSA SHARIF"
+title: Things to Do
 type: section
 ---
 
-[When u come to taunsa, there is nothing much to in city except to go to bank of sanghar river or parl along side chashma right bank canal.More than half of the area is mountains and barren mountains poses spectacular view from town. Villaes include mangrotha, sokar , kot qaisrani, and vohova. Major tribes include buzdar, qaisrani and Malghani](/asia/pakistan/taunsa_sharif).
-
-       **              Buzdar is huge cast in that city. Because they are also called main caste of Balooch. Because Buzdar is Brave nation. so Taunsa is known as City.**
-
-** **
+Taunsa Sharif is primarily a pilgrimage town, and the shrine of Hazrat Syed Ahmad Sultan is the reason most visitors come. The Taunsa Barrage on the Indus, a few kilometres south, is the other major draw — both for its engineering importance and for the rare Indus dolphins that live beneath it.

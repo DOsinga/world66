@@ -1,5 +1,0 @@
-europe/belgium/soignies
-europe/romania/hunedoara
-northamerica/unitedstates/northcarolina/ocracokeisland
-northamerica/unitedstates/georgia/augusta
-europe/germany/saxonyanhalt/dessau

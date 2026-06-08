@@ -1,12 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-31'
+image: casella_railway.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ferrovia_Genova-Casella.jpg
 latitude: 44.55
+loc_type: city
 longitude: 8.97
+score: 0.44
+sources:
+- https://en.wikipedia.org/wiki/Scrivia
+- https://en.wikipedia.org/wiki/Casella,_Liguria
+- https://en.wikipedia.org/wiki/Torriglia
 title: Scrivia Valley
 type: location
-score: 0.44
-loc_type: city
 ---
 
 The Scrivia Valley runs inland from [Genoa](/europe/italy/liguria/genoa) through a corridor of hills and chestnut woods toward the Giovi pass, which for centuries marked the boundary between the Ligurian Republic and the Holy Roman Empire. It's a quiet, workaday valley — more weekend retreat for Genoese than international tourist destination — but that's part of its appeal.

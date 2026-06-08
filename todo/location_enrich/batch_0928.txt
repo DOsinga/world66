@@ -1,5 +1,0 @@
-northamerica/unitedstates/rhodeisland/providence
-europe/unitedkingdom/england/lakedistrict/coniston_1
-asia/southkorea/seoul
-africa/comoros/ngazidja
-asia/india/uttarpradesh/rishikesh

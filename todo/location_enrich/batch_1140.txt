@@ -1,5 +1,0 @@
-europe/switzerland/zurich
-europe/ireland/aranislands/inisoirr
-africa/nigeria/zumarock
-europe/unitedkingdom/england/lakedistrict/windermere
-europe/unitedkingdom/england/eastern_england/walthamcross

@@ -1,16 +1,21 @@
 ---
-title: Gaborone
-type: location
-latitude: -24.6581
-longitude: 25.9089
 done:
   location_cleanup: 2026-04-07
-score: 0.42
+  location_enrich: '2026-05-29'
+image: gaborone.jpg
+image_attribution: Iulus Ascanius at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:BotswanaParliament.jpg
+latitude: -24.6581
 loc_type: city
+longitude: 25.9089
+score: 0.42
+title: Gaborone
+type: location
 ---
 
 Gaborone is the capital of Botswana, a young city that grew rapidly after the country's independence from Britain in 1966. Named after Chief Gaborone, a 19th-century Tswana leader who settled here with his people, it has all the infrastructure of a modern capital — hotels, restaurants, cinemas, a casino, and good international connections — without the chaos of many African cities.
 
-The city itself doesn't have a great number of traditional tourist sights, but the National Museum near the centre is worth a visit for its collections of traditional crafts and southern African fine art. Kgale Hill, at the western end of the city, offers a good half-day hike with excellent views over the city and surroundings — look for black eagles and baboons on the rocky slopes.
+The city's most compelling sight is the [Three Dikgosi Monument](/africa/botswana/gaborone/three_dikgosi_monument), a set of three 5.4-metre bronze statues in the Central Business District commemorating the chiefs who sailed to London in 1895 and talked the British into keeping their territory out of Cecil Rhodes's hands. The [National Museum and Art Gallery](/africa/botswana/gaborone/national_museum_and_art_gallery) on Independence Road holds good collections of traditional crafts and southern African fine art. [Kgale Hill](/africa/botswana/gaborone/kgale_hill), at the western edge of the city, offers a half-day hike with fine views and reliable baboon encounters.
 
-Gaborone is best used as a base for exploring the surrounding region. The Mokolodi Nature Reserve, 15 km south of the city, is home to white rhino, giraffe, zebra, and various antelope — guided drives and bush walks are available. The Gaborone Game Reserve within the city limits is a smaller option for a quick wildlife fix. Longer excursions take you to the Okavango Delta and Chobe National Park to the north, which require more planning but are among the greatest wildlife experiences in Africa.
+Gaborone works well as a base for wildlife. The [Gaborone Game Reserve](/africa/botswana/gaborone/gaborone_game_reserve) sits within the city limits, and [Mokolodi Nature Reserve](/africa/botswana/gaborone/mokolodi_nature_reserve) — 10 km south — has white rhino, giraffe, and leopard on 30 square kilometres of protected bush. Longer excursions reach the [Okavango Delta](/africa/botswana/okavangodelta) and [Chobe](/africa/botswana/chobe) to the north, both among the greatest wildlife experiences in Africa.

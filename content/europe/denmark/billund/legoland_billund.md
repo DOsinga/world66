@@ -6,6 +6,8 @@ latitude: 55.7349
 longitude: 9.1305
 opening_hours: Late March to late October; hours vary by season
 snippet: The original Lego theme park, open since 1968
+story: >
+  When Legoland opened on 7 June 1968, the Lego Group had no theme park expertise whatsoever — the park was built by the same family firm that made the bricks. Over a million visitors came in the first year, more than the entire population of Denmark's second city. The Miniland model of Copenhagen city hall, built from 1.5 million bricks, took craftsmen over two years to complete.
 tags:
 - things_to_do
 - theme_park

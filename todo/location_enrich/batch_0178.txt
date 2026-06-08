@@ -1,5 +1,0 @@
-northamerica/unitedstates/alaska/juneau
-asia/philippines/masbate
-asia/nepal/butwal
-europe/germany/northrhinewestphalia/moers
-europe/germany/hessen/fulda

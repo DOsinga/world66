@@ -1,5 +1,0 @@
-europe/netherlands/waddenislands/texel_island/de_koog
-europe/spain/balearicislands/mallorca/calaratjada
-asia/vietnam/sapa
-europe/portugal/viseu
-africa/mozambique/xaixai

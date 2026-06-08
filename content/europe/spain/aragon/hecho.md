@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 42.7384
 longitude: -0.7503
 title: Hecho
 type: location
 score: 0.5
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Valle_de_Hecho
+  - https://en.wikipedia.org/wiki/Abbey_of_San_Pedro_de_Siresa
 ---
 
 Hecho (also written Echo) is a stone village in the Hecho Valley, one of the western Pyrenean valleys that cuts north from [Jaca](/europe/spain/aragon/jaca) toward the French border. It is quiet, unhurried, and genuinely old-feeling — narrow streets, slate roofs, and a pace of life that has little to do with the coast.

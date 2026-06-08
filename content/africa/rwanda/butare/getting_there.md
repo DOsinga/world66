@@ -1,9 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-There are frequent buses from [Kigali](/africa/rwanda/kigali) which take 2,5-3 hours. One should book in advance.
+Butare sits on Rwanda's main southern road, with frequent buses and minibuses from Kigali via Muhanga. The trip usually takes three to four hours depending on traffic and stops.
 
-**Contributors**
-July 27, 2007
+From Butare, buses and shared transport continue toward Nyamagabe, [Nyungwe National Park](/africa/rwanda/nyungwe_national_park), and the western border around Cyangugu. Roads are paved, but the hills make journeys slower than the map suggests.

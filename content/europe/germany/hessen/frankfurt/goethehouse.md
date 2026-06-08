@@ -9,6 +9,7 @@ snippet: Reconstructed birthplace of Germany's greatest poet
 tags:
 - things_to_do
 - museum
+- altstadt
 title: Goethe House
 type: poi
 ---

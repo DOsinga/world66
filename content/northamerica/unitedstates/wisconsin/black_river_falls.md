@@ -1,14 +1,22 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
+image: black_river_falls.jpg
+image_attribution: Royalbroil
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Black_River_Falls_Wisconsin_Downtown2_WIS54.jpg
 latitude: 44.295215
+loc_type: city
 longitude: -90.848414
 score: 0.34
 title: Black River Falls
 type: location
-loc_type: city
 ---
 
-The City of Black River falls is a historic and friendly community in the heart of west central Wisconsin and is the County Seat for Jackson County, designated in 1853. The City is centrally located in Jackson County with the villages of Melrose, Taylor, Histon, Alma Center and Merrillan within a 15 mile radius. A good network of County Trunk Roads and State Highways link the villages to each other and to the city.
-In 1872, Black River Falls became the first village in the state to establish a free city Library. The new Public Library, located at 222 Fillmore Street, is the home of the Jackson County History Room. The Jackson County Historical Society is active in the historical preservation in the county. A new Historical Society Museum is located in the original Carnegie Library building, and another Historical Society building is located at 13 South 1 st Street.
+Black River Falls is a small city in Jackson County, west-central Wisconsin, sitting on Interstate 94 between Minneapolis and Madison. It's the county seat and the main gateway to the [Black River State Forest](/northamerica/unitedstates/wisconsin/black_river_falls/black_river_state_forest), a 68,000-acre expanse of mixed forest and wetlands that's the primary reason most visitors stop here.
+
+The outdoor draw is real: the state forest has an extensive network of ATV and snowmobile trails, the Black River offers paddling and fishing, and [Wazee Lake](/northamerica/unitedstates/wisconsin/black_river_falls/wazee_lake) — a former iron mine pit that filled with groundwater to remarkable depths — is one of the Midwest's best inland scuba diving sites. The water clarity in Wazee is extraordinary, with visibility extending down to submerged mine structures 30 metres below.
+
+Downtown is modest but genuine: a Main Street of older storefronts housing a couple of antique shops and local businesses, the Carnegie Library building housing the [Jackson County Historical Society Museum](/northamerica/unitedstates/wisconsin/black_river_falls/jackson_county_historical_society), and the quiet, unhurried atmosphere of a small Wisconsin city going about its business. The Ho-Chunk Nation has a significant presence in Jackson County and operates a casino resort outside town that brings in visitors from the surrounding region.

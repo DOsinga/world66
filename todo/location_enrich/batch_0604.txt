@@ -1,5 +1,0 @@
-europe/italy/tuscany/florenceprovince/florentinearea/pratolino
-europe/spain/spanishcostas/alicante
-europe/spain/blanes
-asia/bhutan/gelephu
-northamerica/unitedstates/newmexico/zuni

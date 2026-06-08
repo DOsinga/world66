@@ -1,5 +1,0 @@
-europe/spain/galicia/vigo
-europe/russia/khabarovsk
-europe/germany/badenwrttemberg/karlsruhe
-asia/indonesia/maluku/kei_islands
-africa/mauritania/kiffa

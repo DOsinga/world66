@@ -1,24 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-23'
 latitude: 52.131478
+loc_type: city
 longitude: 11.640079
+score: 0.46
 title: Magdeburg
 type: location
-score: 0.46
-loc_type: city
 ---
 
-Magdeburg, located at the banks of the river Elbe, is one of the most famous eastern German cities - mainly because of its cathedral and the "Magdeburg Rider". The city of Magdeburg possesses a long history as a center of trade and culture. This, along with the city's extremely favorable location from a military strategic point of view, allowed "Magadaburg" on the cathedral hill to quickly develop into a booming, pulsating merchant haven. It was Otto I, who brought Magdeburg to the level of archbishopric.
+Magdeburg sits on the Elbe in Saxony-Anhalt — one of the most historically important cities in Germany and, by most measures, one of the least visited by foreign tourists. The city's significance comes in waves: Otto I, who founded the Holy Roman Empire, chose it as his residence and capital in the 10th century; it was devastated twice, once in the Thirty Years' War (the Sack of Magdeburg in 1631 killed most of the population) and again in the Allied bombing of January 1945; and it rebuilt itself both times.
 
+The [Magdeburg Cathedral](/europe/germany/saxonyanhalt/magdeburg/magdeburg_cathedral), begun in 1209, is the oldest Gothic cathedral in German-speaking lands and contains the tomb of Otto I. The [Romanesque Monastery of Our Lady](/europe/germany/saxonyanhalt/magdeburg/kloster_unser_lieben_frauen) is the city's other great medieval monument, now serving as a museum and concert hall. The [Magdeburger Reiter](/europe/germany/saxonyanhalt/magdeburg/magdeburger_reiter) — a 13th-century equestrian statue considered the first free-standing such monument north of the Alps — stands in the Old Market Square (though a copy; the original is in the [Kulturhistorisches Museum](/europe/germany/saxonyanhalt/magdeburg/kulturhistorisches_museum)).
 
- Impressive architectural structures attest to the power, influence, and ability of the men who decreed their construction. Among them is the Gothic cathedral, the Romanesque cloister of "Our Beloved Lady", and the city hall with the "Magdeburg Rider", the first free-standing equestrian monument, dating back approximately 750 years.
+On a different register entirely, the [Grüne Zitadelle](/europe/germany/saxonyanhalt/magdeburg/gruene_zitadelle) by Friedensreich Hundertwasser is a deliberately outrageous piece of architecture — a pink apartment complex covered in trees and golden domes, Hundertwasser's last building before his death in 2000 and one of the most remarkable buildings in eastern Germany.
 
-
- Many well-known and other lesser known personalities left their mark on Magdeburg. Telemann and Wagner represent the music tradition of the city, while entrepreneurs and engineers like Wolf and Gruson built up Magdeburg's reputation around the turn of the century as a center of industry and a model for city planning and construction. The names of Bruno Taut and Johannes Goederitz are called as deputy here.
-
-
- Unfortunately, though, the evolution of this city on the Elbe did not always continue along the same path. Phases of economic growth and cultural advancement were suddenly interrupted by moments of destruction, death, and resignation. Tilly's troops brought incredible destruction to Magdeburg during the Thirty Years War. On May 10, 1631, the city was razed to the ground. No one could ever imagine that such a terrible tragedy would befall the citizens of Magdeburg a second time, but several centuries later, on January 16, 1945, the city was once again reduced to rubble -this time, by British-American air attacks toward the end of World War II.
-
-
- Today, Magdeburg is a city with 235.000 inhabitants and a remarkably well rebuilt heart of the city, that boasts splendid facades and many charming, quaint corners.
+Magdeburg is also the birthplace of Georg Philipp Telemann (1681) and the workplace of Otto von Guericke, who conducted the famous vacuum-sphere experiment here in 1654 that demonstrated the power of atmospheric pressure using two metal hemispheres and sixteen horses. The city is not a place to linger for weeks, but its compressed medieval-imperial-scientific history repays a day or two of serious attention.

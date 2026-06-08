@@ -3,11 +3,11 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
 latitude: 27.752773
+loc_type: region
 longitude: -15.597083
 score: 0.64
 title: Maspalomas
 type: location
-loc_type: region
 ---
 
 Maspalomas is the southernmost point of Gran Canaria and the centre of the island's main resort strip. The defining feature is the dune field: 250 hectares of golden sand blown into ridges and hollows, meeting a long beach at the sea's edge. Behind the dunes is a small freshwater lagoon and a palm oasis — a nature reserve surrounded by hotels.

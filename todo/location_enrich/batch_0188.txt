@@ -1,5 +1,0 @@
-asia/india/andhrapradesh/bhadrachalam
-europe/ukraine/kharkiv
-northamerica/unitedstates/delaware/middletown
-southamerica/ecuador/quito
-northamerica/thecaribbean/cuba/havana

@@ -5,7 +5,7 @@ longitude: 9.665254
 phone: 035 251233
 snippet: "Underground tours of aqueducts, cisterns and bomb shelters"
 tags:
-- tours_and_excursio
+- tours_and_excursions
 title: Under the Ground of Città Alta
 type: poi
 url: www.nottole.it

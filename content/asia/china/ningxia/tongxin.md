@@ -1,14 +1,16 @@
 ---
-latitude: 36.9840
+done:
+  location_enrich: '2026-05-17'
+latitude: 36.984
 loc_type: city
-longitude: 105.9020
+longitude: 105.902
 sources:
 - https://en.wikivoyage.org/wiki/Ningxia
 title: Tongxin
 type: location
 ---
 
-Tongxin is a county town in central Ningxia, midway between Yinchuan and Guyuan on the road south through the province. It is not on most itineraries, but it contains one of the oldest surviving mosques in China: the Tongxin Mosque, a Ming dynasty structure built in the late 14th century that has escaped the alterations and destructions that have befallen most historic Islamic architecture in the northwest.
+Tongxin is a county town in central Ningxia, midway between Yinchuan and Guyuan on the road south through the province. It is not on most itineraries, but it contains one of the oldest surviving mosques in China: the [Tongxin Great Mosque](/asia/china/ningxia/tongxin/tongxin_great_mosque), a Ming dynasty structure built in the late 14th century that has escaped the alterations and destructions that have befallen most historic Islamic architecture in the northwest.
 
 The mosque is a rare example of a fully Chinese architectural vocabulary applied to Islamic worship — timber-framed halls, traditional tiled roofs, and courtyard layout, with no domes or minarets but instead the forms of a classical Chinese temple complex. The prayer hall interior, however, is unmistakably Islamic in its decoration, with Arabic calligraphy on the walls and a qibla niche oriented toward Mecca. The building survived the Cultural Revolution because the community concealed its religious function, reportedly representing it to authorities as a storehouse.
 

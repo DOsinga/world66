@@ -3,12 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-You can get to Novgorod by rail or air from [St Petersburg](/europe/russia/stpetersburg) or [Moscow](/europe/russia/moscow). The town is about 160 km southeast of St Petersburg.
+Novgorod is about 160 km southeast of [St Petersburg](/europe/russia/stpetersburg) and around 550 km from [Moscow](/europe/russia/moscow). The most common approach is by bus from St Petersburg: frequent services depart from the Obvodnogo Kanala bus station and take about 3 hours. Several daily departures run from early morning to evening.
 
- You can take the bus No 2 from the Bus Station, Naberezhnaya Obvodnovo Kanala 36, which runs every two hours. In total the journey takes three hours.
-
- There are also excursion buses, leaving from Nevskiy Prospekt 33. Tickets are available at the kiosk at the Gostiniy Dvor.
-
-Tours are in Russian, however the interpreters will be provided upon request. Besides, if you wish to take a tour which is in English you can joing the regular tours organized by the hotel you are staying in. Unfortunately, the ticket price will be much higher.
-
- The best prices for the tickets to Novgorod can be obtained at the Priceline.com. The connection to the site is provided at the Links section.
+By train, services connect Novgorod to both Moscow and St Petersburg, though the train journey from St Petersburg (via Chudovo) is slower than the bus. From Moscow, overnight trains are the most practical option. There is a small airport south of the city, but scheduled commercial flights have been very limited — most visitors arrive overland.

@@ -1,5 +1,0 @@
-northamerica/unitedstates/ohio/oxford
-asia/uzbekistan/shakhrisabz
-australiaandpacific/australia/queensland/cairns
-europe/france/centre/loirevalley/le_blanc
-northamerica/unitedstates/california/highsierra/tahoecity

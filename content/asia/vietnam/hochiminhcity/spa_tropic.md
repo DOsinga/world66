@@ -1,29 +1,12 @@
 ---
-address: 187B Hai Ba Trung, District 3, Ho Chi Minh City
-email: info@spatropic.com
-phone: (848) 822-8895
-tags:
-- things_to_do
-title: Spa Tropic
+title: "Spa Tropic"
 type: poi
-url: www.spatropic.com
+tags:
+  - things_to_do
+  - spa
+latitude: 10.7840
+longitude: 106.6869
+snippet: "Long-established luxury spa in a villa in District 3"
 ---
 
-Until recently, Vietnam had few luxury spas. But 2002 saw the arrival of HCMC's Spa Tropic , housed in a palm-shaded villa perfumed with jasmine and lemongrass. Tasteful gamelan music plays in the treatment rooms, where the skilled staff administers a full range of services, from body polishes and mud masks to reflexology. It has quickly become popular with Japanese visitors and shiatsu-craving expats.
-
-**Contributors**
-June 25, 2005
-
-type: Spa and Sauna
-
-
-
-
-
-tel: (848) 822-8895
-
-url: [www.spatropic.com](http://www.spatropic.com/)
-
-address: 187B Hai Ba Trung, District 3, Ho Chi Minh City
-
-email: info@spatropic.com
+Spa Tropic occupies a palm-shaded villa in District 3 and has been one of the city's better-regarded luxury spas since its opening in 2002. Treatments include body polishes, mud masks, and reflexology, carried out in tiled rooms with gamelan music playing softly in the background. Popular with Japanese visitors and resident expats. Prices are above the local average but well below European equivalents.

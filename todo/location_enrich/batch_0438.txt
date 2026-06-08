@@ -1,5 +1,0 @@
-europe/spain/balearicislands/mallorca/valdemossa
-asia/china/manzhouli
-northamerica/unitedstates/ohio/cincinnati
-northamerica/unitedstates/wisconsin/sheboygan
-europe/germany/bavaria/murnau_am_staffelsee

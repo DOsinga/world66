@@ -8,10 +8,9 @@ opening_hours: Mon, Wed–Sat 08:00–23:00; Sun 09:00–23:00; closed Tue
 phone: +39 040 363 538
 snippet: Grand 1914 literary café where Joyce once held court
 tags:
-- James Joyce
-- Literature
-- One Day in Trieste
 - bars_and_cafes
+- cafe
+- historic_house
 title: Caffè San Marco
 type: poi
 ---

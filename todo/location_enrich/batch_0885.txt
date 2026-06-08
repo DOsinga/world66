@@ -1,5 +1,0 @@
-northamerica/unitedstates/mississippi/jackson
-europe/ukraine/kyiv
-northamerica/unitedstates/montana/butte
-northamerica/unitedstates/georgia/atlanta
-europe/georgia/gonio

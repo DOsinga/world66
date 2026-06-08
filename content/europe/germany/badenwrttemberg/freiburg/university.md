@@ -2,7 +2,9 @@
 title: "University of Freiburg"
 type: poi
 tags:
-  - sights
+  - things_to_do
+  - sight
+  - architecture
 latitude: 47.99588
 longitude: 7.84628
 snippet: "One of Germany's oldest universities, founded in 1457"

@@ -1,12 +1,15 @@
 ---
-title: Bohol
-type: location
-latitude: 9.880782
-longitude: 124.206461
 done:
   location_cleanup: 2026-04-07
-score: 0.67
+image: bohol.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol_Philippines.jpg
+latitude: 9.880782
 loc_type: region
+longitude: 124.206461
+score: 0.67
+title: Bohol
+type: location
 ---
 
 Bohol is one of the most rewarding islands in the Visayas, a two-hour ferry ride from [Cebu](/asia/philippines/cebu). It has a rare combination of natural oddities, colonial history, and some of the best diving in the Philippines, all packed into an island small enough to explore in a few days.

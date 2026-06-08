@@ -1,10 +1,14 @@
 ---
 title: "Natural History Museum"
 type: poi
-category: Museum
+tags:
+  - things_to_do
+  - museum
 snippet: "Campus museum of Northern California ecology and fossils"
 latitude: 40.8749
 longitude: -124.0769
+sources:
+  - https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Humboldt
 ---
 
 The Natural History Museum at Cal Poly Humboldt (formerly Humboldt State University) is a small but rewarding collection focused on the ecology and geology of Northern California. Exhibits cover local wildlife, tide pool ecosystems, and regional fossils. It's free to enter and worth a stop if you're already walking the campus. The adjacent Redwood Park trailhead is just a few minutes away.

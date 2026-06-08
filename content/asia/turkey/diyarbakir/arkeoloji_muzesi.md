@@ -6,6 +6,7 @@ longitude: 40.2285
 snippet: Neolithic to Ottoman artifacts from the upper Tigris valley
 tags:
 - things_to_do
+- museum
 title: Diyarbakır Arkeoloji Müzesi
 type: poi
 ---

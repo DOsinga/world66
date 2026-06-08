@@ -3,6 +3,6 @@ title: "Things to Do"
 type: section
 ---
 
-The old town of La Pigna is the highlight — a steep medieval quarter of narrow lanes, archways, and stone staircases that climbs from the waterfront to the Santuario della Madonna della Costa at the top. The concathedral of San Siro, one of the oldest religious buildings in Liguria, sits at its edge.
+Sanremo's best sights divide into two categories: the Belle Époque resort — casino, promenades, grand hotels — and the medieval old town of La Pigna, which is nearly the opposite in character. Spend a morning in the alleys of the old town and an evening on the waterfront and you will have seen the two faces of the place.
 
-Down on the seafront, the Casino Municipale is worth a look for its Art Nouveau architecture even if you do not gamble. The flower market (Mercato dei Fiori) is one of the largest in Europe, though it operates in the early morning hours and is geared to the trade rather than tourists.
+The town also rewards following specific interests: cycling (the coastal path and the Milan–Sanremo route), music history (the festival, the Ariston), and the curious footnote that one of the world's great scientific philanthropists chose to spend his last years and die here. Villa Nobel, Alfred Nobel's residence, is a genuinely worthwhile museum and quieter than the more obvious sights.

@@ -1,7 +1,9 @@
 ---
 title: "Queen's University"
 type: poi
-category: Architecture
+tags:
+  - things_to_do
+  - architecture
 latitude: 44.2253
 longitude: -76.4951
 snippet: Handsome 1841 limestone campus with a public art gallery

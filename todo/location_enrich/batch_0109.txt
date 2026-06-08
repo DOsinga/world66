@@ -1,5 +1,0 @@
-africa/libya/tripoli
-asia/malaysia/sitiawan
-asia/india/maharashtra/dhule
-northamerica/unitedstates/maine/boothbay_harbor
-europe/portugal/santarem

@@ -1,5 +1,0 @@
-asia/india/rajasthan/jaisalmer
-europe/norway/bodo
-europe/norway/kristiansund
-europe/france/centre/auvergne/vichy
-europe/germany/hessen/giessen

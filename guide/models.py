@@ -54,7 +54,7 @@ def _load_md(path):
     """Load and parse a markdown file. Returns (meta, body) or None.
 
     Raises on invalid frontmatter — content is expected to be valid.
-    Run `python3 tools/check_frontmatter.py` to find and fix broken files.
+    Run `python3 tools/linter.py` to find and fix broken files.
     """
     if not path.is_file():
         return None
@@ -301,8 +301,8 @@ def load_page(path):
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
     for md_file in [
-        CONTENT_DIR / path / f"{slug}.md",
         CONTENT_DIR / f"{path}.md",
+        CONTENT_DIR / path / f"{slug}.md",
     ]:
         if md_file.is_file():
             return _load_page_from_file(md_file, path)

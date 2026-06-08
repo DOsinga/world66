@@ -1,5 +1,4 @@
 ---
-category: Sight
 done:
   poi_cleanup: '2026-04-20'
 latitude: 26.9124
@@ -7,10 +6,16 @@ longitude: 70.9101
 snippet: Living sandstone fort rising from the Thar Desert
 tags:
 - things_to_do
-- sights
-- story
+- sight
+- architecture
 title: Jaisalmer Fort
 type: poi
+story: >
+  The fort's defenders practised jauhar — collective self-immolation — when defeat
+  was inevitable, so that women and children could not be taken captive. This happened
+  at least three times in the fort's history. The most documented occurrence was in
+  1294, when the Mongol general Ulugh Khan besieged the city; the women lit a massive
+  pyre inside the fort walls while the men rode out to die in battle.
 ---
 
 The fort rises 76 metres from the desert plain on a hill called Trikuta. Built in 1156 by Rawal Jaisal, it is one of the few living forts in the world -- several thousand people still live inside, along with temples, havelis, restaurants, and guest houses. The sandstone is so particular in its yellow-gold colour that the fort is known as Sonar Quila, the Golden Fort.

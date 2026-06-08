@@ -2,8 +2,10 @@
 title: "Freiburger Münster"
 type: poi
 snippet: Gothic cathedral with a climbable 116-metre tower
+story: "Look up at the gargoyles on the south side and you will find one with its bare backside pointing toward town. Local legend says the stonemason carved it that way as revenge after the council refused his final payment."
 tags:
-  - sights
+  - things_to_do
+  - sight
   - architecture
 latitude: 47.99502
 longitude: 7.85240

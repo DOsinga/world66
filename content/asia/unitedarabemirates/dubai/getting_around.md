@@ -1,18 +1,14 @@
 ---
-title: "Getting Around in Dubai"
+title: "Getting Around"
 type: section
 ---
 
-**Dubai transportation** is now even more convenient, thanks to the introduction of the Metro line. Following are some guidelines for getting around in Dubai.
+**Metro:** The Dubai Metro (Red and Green lines) is clean, cheap, and efficient. The Red Line is most useful for visitors, running from the airport through Downtown, past the Mall of the Emirates, and out to Marina/JBR. Trains run from 5am to midnight (1am on Fridays) with frequent service. Payment is via the Nol smart card, available from station machines; single fares run 3–8.5 AED depending on zones. Women and children have a dedicated "Gold Class" cabin at the front of each train.
 
-**By Metro
+**Taxis:** Taxis are metered, generally reliable, and driven by trained and licensed drivers. The flag fall is 5 AED (weekdays), 5.5 AED (evenings/Fridays), plus 1.75–1.97 AED per kilometre. Tipping is not obligatory. Ride-hailing apps (Uber, Careem) are legal and well-integrated. In practice, taxis are the most practical way to reach attractions not on the Metro line.
 
-**Dubai&rsquo;s transportation industry received a boost after the introduction of the 32 mile long Metro line in 2009. The Metro connects to the extensive Dubai coastline and also stops at major locations like the International airport and the Burj Khalifa. A single ticket will cost you around AED 8. However, the metro-line does not provide services to the old city center. The frequency of the trains is good, with a train every 7 minutes. If you want to go to Palm Jumeriah or Atlantis Hotel, then you should take the monorail.
+**Tram:** The Dubai Tram serves the Al Sufouh corridor from Dubai Marina to Dubai Internet City, connecting to the Metro at two points and to the Palm Monorail. Useful for reaching JBR beach and Marina Walk.
 
-**By Bus
+**Abra:** The traditional wooden water taxis that cross Dubai Creek between Deira and Bur Dubai charge 1 AED per crossing and run continuously from early morning until midnight. An essential Creek experience and genuinely the most useful transport link in the old city.
 
-**Dubai Public Transport is a viable option for budget travelers. You can check out the maps of the bus network online. Do not worry about the hygiene aspect, as the buses are quite clean. However, infrequency might cause a problem to the tourists. Taking a bus is a good option if you want to go to the Dubai suburbs. You will require a swipe card to make payments. The swipe card will cost you around AED 20. This particular card can be used for 10 journeys. You can get these cards from all the bus depots or the bus driver.
-
-**By Taxi
-
-**Taxis are one of the most convenient modes of transport in Dubai. You can easily get taxis outside shopping malls or hotels. Taxi fares are relatively expensive during the peak hours. Taxi fares usually start from AED 1.60. Avoid the unmarked taxis, as they do not have meters installed.
+**Car hire:** Driving in Dubai is on the right. Roads are generally good, petrol is cheap, and GPS navigation is reliable. Parking is metered in tourist areas and malls but free at many residential streets. The main complication is traffic: the Sheikh Zayed Road corridor experiences significant congestion during morning and evening rush hours.

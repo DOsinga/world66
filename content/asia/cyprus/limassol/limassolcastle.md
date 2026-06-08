@@ -1,13 +1,16 @@
 ---
-latitude: 34.672249
-longitude: 33.041671
+latitude: 34.6722
+longitude: 33.0417
 tags:
-- things_to_do
-- landmark
+  - things_to_do
+  - sight
+  - architecture
 title: Limassol Castle
 type: poi
+story: >
+  According to tradition — somewhat embellished by later chroniclers — Richard the Lionheart married Berengaria of Navarre in a chapel within this castle complex in 1191, after capturing Cyprus from its Byzantine ruler Isaac Komnenos. This made Limassol the site of the only royal wedding ever held in Cyprus, and made Berengaria the only English queen consort who never set foot in England.
 ---
 
-The castle is situated near the old harbour and it is build in typical 12th century structure. At a later date it is restored by the Venetians. Although the structure is not very impressive today, it is still of its own historical importance. And there is a quite interesting medieval museum inside, which is worth a visit. Opening Hours: Mon - Fri from 7.30am till 5pm, Sat from 9am till 5pm. Entrance is free. Tel.: (05) 330 419
+Limassol Castle dates in its present form mainly to the 14th century, built by the Lusignan dynasty that ruled Cyprus for three centuries, though the site has been fortified since Byzantine times. The Venetians later strengthened it, and it served as a prison under British colonial rule. The exterior is unpretentious — a solid rectangular keep rather than a dramatic fortress — but the interior houses the Cyprus Medieval Museum, which is considerably more interesting than the building suggests.
 
-type: Castles
+The Medieval Museum contains an excellent collection of Byzantine and Frankish art, armour, pottery, and carved stone from across Cyprus. Particular highlights include the Byzantine silver plates found at Lambousa and a series of carved marble reliefs from the Lusignan period. The castle is centrally located and makes a natural starting point for a walk through the old town toward the Folk Art Museum and the area around Agiou Andreou Street.

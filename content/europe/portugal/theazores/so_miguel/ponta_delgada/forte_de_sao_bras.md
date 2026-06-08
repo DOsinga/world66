@@ -8,6 +8,7 @@ story: The fort was built in the late 16th century to defend against pirate raid
   making the islands a tempting target.
 tags:
 - things_to_do
+- sight
 - landmark
 title: Forte de São Brás
 type: poi

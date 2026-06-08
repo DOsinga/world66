@@ -5,6 +5,7 @@ longitude: 88.3513
 snippet: "Traditional Bengali cuisine in an old-world setting"
 tags:
 - eating_out
+- restaurant
 title: Aheli
 type: poi
 ---

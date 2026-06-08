@@ -1,21 +1,22 @@
 ---
 done:
-  city_tag_migration: '2026-04-17'
-  location_cleanup: '2026-04-08'
-  poi_cleanup: '2026-04-20'
+  city_tag_migration: ‘2026-04-17’
+  location_cleanup: ‘2026-04-08’
+  location_enrich: '2026-05-21'
+  poi_cleanup: ‘2026-04-20’
+image: darwin.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:DarwinOct172024_02.jpg
 latitude: -12.46044
+loc_type: city
 longitude: 130.841047
 score: 0.53
 title: Darwin
 type: location
-loc_type: city
 ---
 
-Darwin, the compromising city? The capital of the sparsely populated Northern Territory is in two minds. On the one hand, the tropical city shows her characteristics as gateway to Asia. The city has a cosmopolitan bunch of inhabitants from all sorts of ethnic backgrounds. On the other hand, it is northern part of Australia and although Darwin is not reached that easily, it still belongs to this subcontinent.
+Darwin is the capital of Australia’s Northern Territory and the country’s most northerly city. It sits closer to Bali than to Sydney, and it shows — the food is heavily Southeast Asian, the population is unusually cosmopolitan, and the wet season brings monsoonal downpours that make the Top End’s dry season feel like a different world. Darwin is not a city most Australians know well, which means it surprises visitors who expect a dusty frontier town and find instead a functioning, lively city with good museums, strong food, and easy access to some of the most remarkable landscapes on earth.
 
+The city was flattened twice in the 20th century — first by Japanese bombing raids in 1942, then by Cyclone Tracy on Christmas Eve 1974, which destroyed 70 percent of buildings and killed 71 people. The [Darwin WWII Oil Storage Tunnels](/australiaandpacific/australia/northernterritory/darwin/darwin_wwii_oil_tunnels) and the Museum and Art Gallery’s Cyclone Tracy exhibition both address this history without sentimentality. [Fannie Bay Gaol](/australiaandpacific/australia/northernterritory/darwin/fanniebaygaol), the old prison, fills in the rest of the colonial story.
 
- 
- When cyclone Tracy razed the city in 1975, it nearly vanished. However, these days Darwin is back as ever before and has turned into a modern energetic city. The city has a sparkling nightlife and extensive shopping areas. You can walk the city main sights in a day but you’ll need some extra days when you want to see the museums, the harbour site and the beaches. Darwin has two weird but very famous annual events, the Beer Can Regatta (vessels constructed almost entirely of beer cans race on Darwin Harbour), and the Mud Crab Tying Championships. Check out for yourself.
-
-
- A lot of travellers use Darwin as their starting point for their trips to the nature parks in the vicinity, such as the Lichtfield National Park, the Mary River Wetfields and the famous [Kakadu National Park](/australiaandpacific/australia/northernterritory/kakadunationalpark), that stretches out for a many kilometres between Darwin and Alice Springs.
+For wildlife, Darwin has [Crocosaurus Cove](/australiaandpacific/australia/northernterritory/darwin/crocosaurus_cove) right in the city centre — saltwater crocodiles in a park on Mitchell Street, with the optional Cage of Death swim. Most travellers use Darwin as a base for [Kakadu National Park](/australiaandpacific/australia/northernterritory/kakadunationalpark), which begins about 150 km to the east and contains some of the world’s most important Aboriginal rock art. Litchfield National Park, an hour south, is less visited and has excellent swimming holes in waterfalls that don’t have crocodiles in them — a distinction that matters in the Top End.

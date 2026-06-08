@@ -7,6 +7,7 @@ longitude: 8.736
 snippet: Corsican classics near the market with a good wine list
 tags:
 - eating_out
+- restaurant
 title: Le Bilboq
 type: poi
 ---

@@ -6,6 +6,8 @@ longitude: -124.1012
 snippet: Pioneering ecological wastewater marsh with superb birding
 tags:
 - things_to_do
+- sight
+- wildlife
 title: Arcata Marsh and Wildlife Sanctuary
 type: poi
 ---

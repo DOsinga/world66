@@ -1,6 +1,5 @@
 ---
 address: 1400 S Lake Shore Dr, Chicago, IL 60605
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 41.8663
@@ -8,6 +7,9 @@ longitude: -87.617
 opening_hours: 9:00 AM - 5:00 PM daily
 phone: 312-922-9410
 snippet: Home to Sue, the world's most complete T. Rex skeleton
+tags:
+- things_to_do
+- museum
 title: Field Museum
 type: poi
 url: www.fieldmuseum.org

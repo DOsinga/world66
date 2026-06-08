@@ -5,6 +5,7 @@ longitude: 6.2103
 phone: +41 22 752 38 08
 snippet: Late-night dance club near the lake
 tags:
+- bars_and_cafes
 - things_to_do
 - nightlife
 title: Le Trois-Huit

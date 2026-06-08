@@ -1,7 +1,7 @@
 ---
 address: Near Kyrenia Gate, North Nicosia
-latitude: 35.224893
-longitude: 33.322473
+latitude: 35.181
+longitude: 33.3622
 snippet: 17th-century Dervish sanctuary turned ethnographic museum
 tags:
 - things_to_do

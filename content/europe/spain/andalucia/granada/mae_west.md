@@ -5,9 +5,8 @@ latitude: 37.1692
 longitude: -3.5988
 snippet: Long-running Granada nightclub in the Centro Comercial Neptuno
 tags:
-- going_out
+- bars_and_cafes
 - bar
-- albaicin
 title: Mae West
 type: poi
 ---

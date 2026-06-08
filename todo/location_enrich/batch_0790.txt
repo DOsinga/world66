@@ -1,5 +1,0 @@
-asia/indonesia/bintan/tanjung_pinang
-europe/latvia/liepaja
-africa/ethiopia/debre_damo
-europe/bosniaandherzegovina/sarajevo
-australiaandpacific/australia/westernaustralia/karratha

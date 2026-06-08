@@ -1,22 +1,14 @@
 ---
-address: 276 Le Thanh Ton, district 1. HCMC.
-price: VND30,000-35,000
-tags:
-- eating_out
-- restaurant
-- market
-title: Pho Ngheu Huong Thanh Eatery
+title: "Pho Ngheu Huong Thanh"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - vietnamese
+  - street_food
+latitude: 10.7742
+longitude: 106.6979
+snippet: "Unusual pho with clams rather than beef — a local specialty near Ben Thanh Market"
 ---
 
-Tried Pho 24 or Pho 2000 in Saigon. Want to try something unconventional. Pho with clams. I was wondering with some friends along the street near the ben thanh market and bump into this eatery called Pho Ngheu Huong Thanh. Wow, pho with clams. Never heard of it before. Tried the spicy soup with clams and yes, yes. It taste really good and we like the clams fried with lemon grass and chili and its not hot at all and goes so well with bread. Drank their signature beverage called this Green Ocean and man, it was refreshing.
-
-type: Chinese
-
-
-
-
-
-address: 276 Le Thanh Ton, district 1. HCMC.
-
-PriceOfMenu: VND30,000-35,000
+A small eatery near Ben Thanh Market serving phở nghêu — a variant of the famous noodle soup made with clams rather than the usual beef or chicken. The clam broth is lighter and more delicate than the standard versions, with a pleasant oceanic sweetness. The clams fried with lemongrass and chilli are also worth ordering alongside. An offbeat alternative for those who have eaten their fill of beef phở and want to understand how adaptable the dish is.

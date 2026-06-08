@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/san_jose
-northamerica/unitedstates/georgia/andersonville
-asia/iran/gonbad_kavous
-europe/italy/lombardia/lagodigarda/peschiera
-africa/gambia/juffure

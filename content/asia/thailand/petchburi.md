@@ -1,12 +1,19 @@
 ---
-title: Petchburi
-type: location
-latitude: 13.1095
-longitude: 99.9397
 done:
   location_cleanup: 2026-04-06
-score: 0.51
+  location_enrich: '2026-05-31'
+image: phra_nakhon_khiri.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Phra_Nakhon_Khiri_Historical_Park.jpg
+latitude: 13.1095
 loc_type: city
+longitude: 99.9397
+score: 0.51
+sources:
+- https://en.wikipedia.org/wiki/Phetchaburi
+- https://en.wikivoyage.org/wiki/Phetchaburi
+title: Petchburi
+type: location
 ---
 
 Phetchaburi is one of Thailand's oldest cities, with roots stretching back to the Dvaravati kingdom over a thousand years ago. Unlike the beach towns further south, this is a place where Thai history sits in plain sight -- hilltop palaces, centuries-old cave temples, and monastery murals that rank among the finest in the country.

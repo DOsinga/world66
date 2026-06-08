@@ -1,5 +1,0 @@
-northamerica/mexico/acapulco
-australiaandpacific/newzealand/south_island/otago/invercargill
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley
-southamerica/brazil/tubaro
-europe/romania/tirgujiu

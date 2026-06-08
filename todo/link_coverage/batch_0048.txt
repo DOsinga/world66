@@ -1,0 +1,5 @@
+europe/france/midi/cotedazur/collioure
+europe/france/midi/dordogne/pujols
+europe/france/midi/dordogne/saintcirqlapopie
+europe/france/midi/dordogne/villeneuvesurlot
+europe/france/midi/languedoc/castres

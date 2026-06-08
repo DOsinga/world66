@@ -1,11 +1,23 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
-latitude: -6.0042
-longitude: -77.6789
-snippet: One of the world's tallest waterfalls, deep in Amazonian jungle
 title: Gocta Falls
 type: poi
+tags:
+  - things_to_do
+  - nature
+  - sight
+latitude: -6.0042
+longitude: -77.6789
+done:
+  poi_cleanup: '2026-04-20'
+story: >
+  Gocta's existence as a major waterfall was effectively unknown outside the local
+  communities until 2005, when a German engineer named Stefan Ziemendorff measured
+  it during a survey and reported it as one of the tallest falls in the world. Local
+  people had known about it for generations but kept it quiet — there was a belief
+  that a mermaid guarded the falls and that publicising the location would bring
+  misfortune. The village elders were eventually persuaded to allow access, and
+  within a few years Gocta had become northern Peru's second most visited attraction
+  after Kuélap.
 ---
 
 The 770-metre Gocta Falls drops in two stages through cloud forest in the Chachapoyas region — one of the tallest waterfalls in the world, and barely known outside Peru until 2005.

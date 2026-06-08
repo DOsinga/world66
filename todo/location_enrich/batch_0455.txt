@@ -1,5 +1,0 @@
-northamerica/unitedstates/newmexico/truth_or_consequences
-asia/nepal/nagarkot
-europe/estonia/vsu
-northamerica/dominicanrepublic/puertoplata/sosua
-southamerica/argentina/laplata

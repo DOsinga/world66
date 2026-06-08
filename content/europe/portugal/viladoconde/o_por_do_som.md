@@ -5,7 +5,8 @@ longitude: -8.7441
 phone: 96 508 22 4
 snippet: Laid-back bar with sunset views near the castle
 tags:
-- bars_and_cafes
+  - bars_and_cafes
+  - bar
 title: O Por do Som
 type: poi
 ---

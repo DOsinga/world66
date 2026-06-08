@@ -7,7 +7,7 @@ longitude: 9.9946
 snippet: Geology, fossils, and Swabian wildlife in a compact museum
 tags:
 - things_to_do
-- museums
+- museum
 title: Natural History Collection
 type: poi
 ---

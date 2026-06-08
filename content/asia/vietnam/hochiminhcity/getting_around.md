@@ -3,14 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-Ho Chi Minh city centre is compact enough to be walkable, except for the hot and humid climate, which almost guarantee you will arrive at your destination a little wet!
+**Grab** is the essential tool for getting around Ho Chi Minh City. The app works perfectly, prices are fixed before you confirm, and drivers find you by GPS. Both car and motorbike options are available; the motorbike (GrabBike) is faster in traffic and half the price. Standard metered taxis (Mai Linh and Vinasun are the two reliable companies) are safe; avoid unmarked taxis without meters.
 
-**Crossing the Road**
+**On foot:** District 1 is compact enough to cover on foot in the early morning and evening. Crossing the street is the famous challenge — step off the pavement, walk steadily at a constant pace, and let the motorbikes flow around you. Do not hesitate or stop suddenly. The technique is genuinely learnable in a few attempts.
 
-For first time visitors, this can seem quite daunting, but, in fact, its very easy. Make sure there are no cars, buses, or trucks coming, and then just launch out into the sea of motorbikes coming along the road. Don't stop (that will confuse them) and don't walk too quickly, and they will all just weave around you. Be confident - you will reach the other side of the road quite safely!
+**Metro:** Metro Line 1 opened in 2024, connecting Bến Thành station in central District 1 to the eastern suburbs (Thủ Đức). Extensions are planned but not yet complete. The line is clean, cheap, and air-conditioned — useful for reaching destinations along its route.
 
-**Taxis**
+**Bicycle rental** is available in the Pham Ngu Lao area for those who want to explore at their own pace; the city is flat and manageable on a bicycle if you travel outside peak hours.
 
-There are plenty of taxis in HCM. All that I used had meters, and were willing to use them. Flag-fall is around 13,000 to 14,000 Dong - around 85cents US.
-
-The taxi fare to the airport was just short of 60,000 Dong.
+**Xe ôm** (motorbike taxis) are fast and cheap for short hops but require agreeing a price before you get on — the Grab motorbike option removes this negotiation and is usually preferred.

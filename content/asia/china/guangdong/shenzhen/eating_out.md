@@ -1,24 +1,10 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Laurel http://www.laurelgroup.com.cn/ 3/Fl. Tian'an Cyber Park Chamber Club, Che Gong Miao, Fu Tian 389-5138
+Shenzhen's food scene reflects the city's character: cosmopolitan, fast-moving, and drawing from every corner of China. Because most of the population arrived as migrants from other provinces, you'll find regional Chinese cuisine here that's harder to track down in more homogeneous cities — Sichuan hot pot, Hunanese dry-pot, Cantonese dim sum, and Guizhou sour fish soup all coexist within a few blocks.
 
-Tandoor Fine Indian Cuisine, 1/F. Shenzhen Development Center, Renmin Nan Rd. (0755)228-1808
+Cantonese cooking dominates the background, as befits a city in Guangdong province. Good dim sum is available throughout the day rather than just at breakfast and lunch. The Futian and Nanshan districts have the densest concentration of decent restaurants; the area around OCT-LOFT has a good mix of independent cafes and casual international options.
 
-Shenzhen Indian Kitchen No. 42 Zhen Hua Rd., Futian District, Shenzhen (0755)332-7822
-
-- - |
-- |
-- |
-- |
-- |
-- [Galapagos tours & cruises](http://www.galapagoscruise.com.ec)
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The cheapest eating is in the food courts of major malls — MixC, Coastal City, and Coco Park — offering reliable food at reasonable prices with English-language picture menus. Street food along the lanes of Dongmen in Luohu is excellent and cheap: skewers, stinky tofu, and bing (stuffed flatbreads) are the staples.

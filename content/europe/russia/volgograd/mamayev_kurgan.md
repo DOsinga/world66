@@ -4,9 +4,11 @@ done:
 latitude: 48.7422
 longitude: 44.5317
 snippet: Monumental WWII memorial topped by The Motherland Calls statue
+story: >
+  At the height of the battle, the hill changed hands repeatedly, sometimes multiple times in a single day. After months of fighting, the soil became so saturated with metal shrapnel and bullets that it took years after the war for grass to grow on the hilltop. Even today, construction work in the area regularly unearths unexploded ordnance and human remains.
 tags:
-- things_to_do
-- landmark
+  - things_to_do
+  - sight
 title: Mamayev Kurgan
 type: poi
 ---

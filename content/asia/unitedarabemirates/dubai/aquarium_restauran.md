@@ -1,14 +1,14 @@
 ---
-address: Dubai Creek Golf & Yacht Club
+address: Dubai Creek Golf and Yacht Club, Garhoud
 latitude: 25.241692
 longitude: 55.333316
+tags:
+- eating_out
+- restaurant
 title: Aquarium Restaurant
 type: poi
 ---
 
-This restaurant offeres speciality seafood from all over the word, flown-in and as fresh as is possible. The major attraction to this restaurant, however are the views. Diners enjoy unparralelled views of Dubai's Creek and the city's lush green park beyond from the first floor restaurant. There is also the added novelty of the Aquarium itself; over ten feet in diameter and from floor to celing, this monsterous marine tank houses it's own live corral and a plethora of unusual and colourful fish (for display only, not for the menu). It is so large that it reqires it's own scuba diver to clean it!
+The Aquarium Restaurant at Dubai Creek Golf and Yacht Club sits on the first floor of the distinctive clubhouse, with panoramic views of Dubai Creek and the adjacent park through floor-to-ceiling windows. The menu centres on seafood flown in from international sources, and the restaurant's signature feature is a large floor-to-ceiling marine tank that runs the length of the dining room.
 
-**Contributors**
-September 05, 2006
-
-type: Seafood
+The setting is more impressive than the food, which is competent rather than exceptional, but the Creek views at dusk make it one of the more scenic spots for a dinner splurge. Booking ahead is advisable at weekends.

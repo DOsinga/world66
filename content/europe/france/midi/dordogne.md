@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 45.14292
+loc_type: region
 longitude: 0.632126
 score: 0.65
 title: Dordogne
 type: location
-loc_type: region
 ---
 
 The Dordogne is known to the French as the Perigord. It is divided into four regions: the black perigord, the purple perigord, the green and the whit. 

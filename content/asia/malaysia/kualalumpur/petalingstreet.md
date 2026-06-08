@@ -6,6 +6,8 @@ longitude: 101.6977
 snippet: KL's Chinatown market street for bargains and street food
 tags:
 - shopping
+- chinatown
+- market
 title: Petaling Street
 type: poi
 ---

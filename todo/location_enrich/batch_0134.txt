@@ -1,5 +1,0 @@
-africa/tunisia/skanes
-northamerica/unitedstates/alabama/montgomery
-asia/indonesia/irianjaya/baliemvalley
-europe/greece/chalkis
-northamerica/canada/manitoba/thompson

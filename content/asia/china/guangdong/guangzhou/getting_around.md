@@ -3,17 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-**Airport:**
+Guangzhou's metro system is the practical backbone of the city — extensive, cheap, and easy to navigate with English signage at all stations. Lines connect the airport, the main rail stations, and all the major tourist areas. A single journey rarely costs more than 9 yuan; you tap in and out with a stored-value card or pay cash at the gates.
 
-Guangzhou Baiyun International Airport provides MORE THAN 20 international airlines and regional airlines, flying to more than 70 cities at home and abroad.
-**Bus service:**
-including motorbuses, trolleybuses, and buses for special lines.
-There is no conductor on these buses, and the price of a ticket is 1 yuan (RMB), but the prices for some long lines are 2-4 yuan (RMB).
+Taxis are plentiful and relatively cheap by international standards. Flag fall is around 12 yuan, and most central journeys cost 20–40 yuan. Very few drivers speak English, so have your destination written in Chinese characters.
 
-**Subway service:**
-No. 1 subway line is made up of 16 stations. It begins from Guangzhou East Railway Station in the east to Xilang in the west. The prices are 2-6 yuan (RMB). The whole journey will cost 32 minutes.
+Ride-hailing apps (DiDi is the dominant one) work well and can be used with a foreign credit card and an international phone number. This is often easier than hailing a taxi.
 
-**Taxi service:**
-The original price is 7 yuan (RMB), 2.2~2.6 yuan (RMB) for per kilometer.
-
-**Note**: You don't have to pay tips in Guangzhou, but if u prefered, it's a pleasure.
+The Pearl River ferry service links the southern bank (Haizhu and Panyu) with the northern bank and is a scenic alternative to the metro for short river crossings. Bikes and e-bikes are widely rented through apps and are useful for exploring Shamian Island and the Yuexiu park area.

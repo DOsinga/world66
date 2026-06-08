@@ -1,6 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Abu Dhabi's restaurant scene reflects its cosmopolitan population. Independent restaurants away from the hotels are generally cheaper and more interesting than the big hotel venues. Lebanese, Indian, Filipino, and Pakistani restaurants cluster in the older parts of the city near the Corniche, while international hotel dining is concentrated on the waterfront.
+Abu Dhabi's restaurant scene reflects its population — roughly four-fifths expatriate — and the best food tends to be the everyday Lebanese, Indian, Filipino, Pakistani, and Iranian restaurants tucked into the older parts of town, not the hotel-branded fine dining. That said, the new generation of high-end restaurants on Al Maryah Island and inside the cultural-district hotels has lifted the top end considerably.
+
+Cuisine to seek out: Emirati specialities (machboos, harees, luqaimat dumplings), Lebanese mezze done well, Iranian saffron rice with kabab koobideh, and the South Indian thali tradition brought by Kerala migrants. Alcohol is served only in hotel-licensed venues — see Bars and Cafes.

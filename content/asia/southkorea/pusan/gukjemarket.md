@@ -6,6 +6,8 @@ longitude: 129.028192
 snippet: Sprawling traditional market with great street food alleys
 tags:
 - things_to_do
+- shopping
+- market
 title: Gukje Market
 type: poi
 ---

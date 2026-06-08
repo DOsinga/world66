@@ -4,10 +4,9 @@ latitude: 8.4780
 longitude: 124.6470
 snippet: Neighborhood bar with live acoustic music on weekends
 tags:
-- things_to_do
-- bar
-- nightlife
-- live_music
+  - bars_and_cafes
+  - bar
+  - live_music
 title: 8th Street Bar & Grill
 type: poi
 ---

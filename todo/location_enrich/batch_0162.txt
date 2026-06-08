@@ -1,5 +1,0 @@
-europe/italy/sardinia/portoferro
-europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham
-northamerica/costarica/samara
-europe/netherlands/monickendam
-northamerica/panama/lossantos

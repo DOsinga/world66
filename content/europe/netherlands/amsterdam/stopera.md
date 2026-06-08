@@ -10,7 +10,6 @@ snippet: Combined city hall and opera house on the Amstel
 tags:
 - things_to_do
 - waterlooplein
-- canal_ring
 title: Stopera
 type: poi
 ---

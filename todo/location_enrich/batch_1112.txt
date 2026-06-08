@@ -1,5 +1,0 @@
-europe/spain/la_mancha/toledo
-northamerica/dominicanrepublic/luperon
-europe/channelislands/guernsey/st_peter_port
-northamerica/canada/britishcolumbia/courtenay
-europe/slovenia/koper

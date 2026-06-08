@@ -5,8 +5,10 @@ latitude: 47.99496
 longitude: 7.85218
 snippet: Striking 16th-century merchants' hall on the main square
 tags:
-- sights
-title: Kaufhaus
+- things_to_do
+- sight
+- architecture
+title: Historisches Kaufhaus
 type: poi
 ---
 

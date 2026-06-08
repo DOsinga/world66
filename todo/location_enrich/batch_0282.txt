@@ -1,5 +1,0 @@
-australiaandpacific/australia/victoria/warrnambool
-northamerica/elsalvador/lapalma
-europe/poland/trojmiasto
-northamerica/guatemala/quezaltenango
-africa/tunisia/makthar

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: 35.681991
 longitude: 139.43624
 title: Kunitachi, Tokyo

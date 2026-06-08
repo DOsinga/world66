@@ -1,5 +1,0 @@
-northamerica/unitedstates/indiana/bloomington
-northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788
-australiaandpacific/australia/queensland/gladstone
-northamerica/antiguaandbarbuda/barbuda
-africa/morocco/goulimime

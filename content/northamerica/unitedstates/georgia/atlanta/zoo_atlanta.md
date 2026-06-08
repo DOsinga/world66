@@ -6,7 +6,7 @@ phone: (404) 624-5678
 snippet: One of only four US zoos with giant pandas
 tags:
 - things_to_do
-- landmark
+- sight
 title: Zoo Atlanta
 type: poi
 ---

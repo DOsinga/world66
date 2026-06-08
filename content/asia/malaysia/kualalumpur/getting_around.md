@@ -3,4 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-The public transport system within KL is efficient and comfortable. New expressways, a remodelled rail network and the new train station have all contributed to a reduction in traffic congestion whereas buses and city trains transport large numbers of people as well. Travellers will probably find the Light Rail (LRT) the easiest to use as it is frequent and fast. The long anticipated Monorail (PRT)is yet to open. Taxis are also a cheap alternative for getting around. Kuala Lumpur is also served by the country's largest seaport, Port Klang.
+KL's rail network covers most of what travellers care about. The **LRT** (Light Rail Transit) runs on two lines through the centre; the **MRT** added two cross-town lines that connect Bukit Bintang, KLCC, and the suburbs; the **Monorail** loops through Chinatown, Bukit Bintang, and the Golden Triangle. A single rechargeable **Touch 'n Go** card works on all of them and the KTM Komuter commuter trains as well. Stations are well marked in English.
+
+**Grab** (the local Uber equivalent) is cheap, reliable, and the easiest way to cover the gaps the rail network leaves — many of the bigger malls, embassies, and residential neighbourhoods are not within easy walking distance of a station. Allow extra time at rush hours (5-7 pm); KL traffic is notorious. Walking around the colonial core and KLCC is fine but pavements are uneven and the heat punishing — most locals take taxis even for short hops.

@@ -6,9 +6,10 @@ latitude: 45.439
 longitude: 12.3348
 opening_hours: Mon–Sat 08:00–14:30; closed Sun
 snippet: Tiny Rialto bacaro famous for its baccalà mantecato cicchetti
+neighbourhood: San Polo
 tags:
-- 48 Hours in Venice
 - bars_and_cafes
+- san_polo
 - bar
 title: Bar All'Arco
 type: poi

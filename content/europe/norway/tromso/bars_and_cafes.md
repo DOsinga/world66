@@ -3,49 +3,12 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Tromso, Norway’s hottest ski town, features
-no shortage of eclectic bars and cafes for you to frequent after a long day on
-the slopes or hiking in the mountains. Make sure to bring
-cash, as not all the small cafes take credit cards. Most all these bars and cafés are located in
-downtown Tromso, and are popular with the locals. If you get lost trying to
-find one of these cafes, just ask someone on the street. Here are World 66’s
-top selections:
+Tromsø has a surprisingly lively bar scene for a city of 75,000 people at 70 degrees North. Most of the action is concentrated in the city centre, within a short walk of the harbour and the cathedral.
 
-**Bla Rock Music Bar**
+**Ølhallen** at Storgata 4 is the most storied drinking establishment in town — a pub attached to the Mack Brewery, which claims to be the world's northernmost brewery. The pub has been here since 1928, and while the brewery itself has since moved production south, the tap list still features Mack beers alongside the usual Norwegian selection. The room is plain and the beer is cold; no frills, no apology.
 
-Do you enjoy rock n’ roll? Bla Rock is the place for you.
-Featuring a wide array of local and international beer on tap, you’re sure to love
-this loud venue, decorated with pictures of musicians and rock n’ roll artwork.
-Snacks consist of the American hamburger, salads, tortillas, fries, salads, and
-other light fares. On the weekends you can catch a concert by local Tromso
-musicians, and occasionally international players. Finally, menu offers many
-cheap meals for the broke skier!
+**Blå Rock Cafe** on Strandgata is the city's rock music bar, with a good selection of beers on tap and live music on weekends. It is loud, unpretentious, and popular with a broad mix of locals.
 
-**Aquarius Hotel Bar**
+**Risø** and **Driv** are among the better options for cocktails and evening drinks in a more relaxed atmosphere. Driv is particularly popular with students from the university. Most Tromsø bars stay open until 3am on weekends, and in summer the midnight daylight makes the evenings feel strange and extended in a pleasant way.
 
-Everyone
-is welcome at Tromo’s newest modern bar, attached to the Clarion Hotel Bryggen.
-Here you can watch one of Tromso’s hottest chefs prepare a traditional Norway meal
-with veal, crepes and salads, or if you want just chips and snacks, Aquarius
-has those as well. This fully licensed bar also features a cute love seat in the
-shape of red-hot lips, perfect for you and your significant other.
-
-**Apenbar**
-
-Who says you can’t find delicious Spanish tapas in this freezing northern
-city? Not Apenbar! Here you can partake in tapas, “tiny dishes”, featuring
-meats, vegetables, eggs, sweet sauces, and cheeses. Tapas are numerous and
-range in price to serve the budget traveler and those wanting to try a more
-expensive, rich option. Don’t miss out on the desserts and local beer. The
-romantic setting is ideal for couples wanting to unwind after a long day on the
-slopes.
-
-**Grunder**
-
-Grunder is most known for its wide range of cocktail selection. Here you
-can find a drink made with your favorite alcohol, no matter how obscure. Grunder takes pride in using all it’s liquor
-in their famous (and large cocktails). Come here during the middle of the week
-if you want to partake in the restaurant’s quizzes and themed games. In the
-evenings, while enjoying a dinner of roasted eggplant and veal, you can listen
-to Norway’s
-hottest up-and-coming musicians as well as international artists.
+For coffee, the city centre has several good independent cafes. **Kaffebønna** near Stortorget is reliable for a proper espresso.

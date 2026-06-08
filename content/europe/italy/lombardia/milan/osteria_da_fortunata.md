@@ -6,7 +6,10 @@ address: "Naviglio Grande 45, 20144 Milan"
 opening_hours: "Daily 12:00–15:00, 19:00–23:00"
 latitude: 45.4506
 longitude: 9.1721
-tags: ["3 Days in Milan"]
+tags:
+  - eating_out
+  - restaurant
+  - navigli
 snippet: "Canalside osteria with fresh-made pasta and tiramisù worth returning for"
 ---
 

@@ -7,7 +7,7 @@ longitude: -76.5339
 snippet: Top-rated South American zoo focused on Colombian fauna
 tags:
 - things_to_do
-- landmark
+- sight
 title: Zoológico de Cali
 type: poi
 ---

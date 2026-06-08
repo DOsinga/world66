@@ -11,7 +11,7 @@ THE ONLY COMMERCIAL ADDS PAPER IN BELGAUM, SPREADING BUSINESS LINKS TO ALL THE B
 
 OPRETED BY AJIT /VISHAL
 
-### [sanghvi creations](/asia/india/karnataka/belgaum/shopping/sanghvi_creations)
+### sanghvi creations
 
 exclusive ladies dresses
 

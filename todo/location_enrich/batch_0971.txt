@@ -1,5 +1,0 @@
-africa/botswana/maun
-asia/philippines/cavite
-northamerica/unitedstates/washington/kirkland
-asia/myanmar/amarapura
-asia/saudiarabia/khamis

@@ -1,14 +1,11 @@
 ---
-latitude: 11.228404
-longitude: 124.994104
-tags:
-- sights
-title: Taoist Temple
+title: "Cebu Taoist Temple"
 type: poi
+latitude: 10.3338
+longitude: 123.8877
+tags:
+- things_to_do
+- sight
 ---
 
-The Cebuano's Chinese heritage is very visible and one of the more popular destinations in the city is the Taoist Temple, located at the highest elevation of the Beverly Hills Subdivision. 
- 
- Devotees, meanwhile, go to the Heavenly Temple of Charity at the Peace Valley in the Lahug district.
-
-type: general
+Perched at the highest point of the Beverly Hills Subdivision, this temple complex built by the Chinese-Filipino community in 1972 offers some of the best views over Cebu City. Visitors climb 81 steps (one for each chapter of the Taoist text *Tao Te Ching*) to reach the main hall, decorated with dragon motifs, red lanterns, and incense burners. Dress modestly — shoulders and knees covered. A jeepney from the city goes partway; from there it's a short walk or habal-habal ride uphill.

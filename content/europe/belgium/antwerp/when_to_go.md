@@ -3,16 +3,12 @@ title: "When to Go"
 type: section
 ---
 
-Like most of Belgium, Antwerp´s climate is typically mild throughout the year, with extreme temperatures uncommon. That said, temperatures can dip below zero during the winter, with snow a possibility, and summer days can reach 30 degrees or above on occasion. Throughout much of the year, however, gray skies and rainy days are common, and spring and autumn in the city are chilly though not biting cold. Antwerp is increasingly gaining a reputation for its arts and cultural scene, as well as its nightlife, and inclement weather does little to stop visitors and locals alike from enjoying themselves in Antwerp.
+Antwerp's weather is North Sea standard — mild summers, cool wet winters, plenty of grey skies in between. There is no bad time to visit; pick by what you want from the city.
 
-**Summer in Antwerp**
+**Summer** (June–August) brings the best weather: temperatures in the low to mid-20s°C, long evenings on the café terraces, and the city's outdoor festivals. The **Sinksenfoor** funfair runs at the Spoor Oost in late May/early June. **Antwerp Pride** is the second weekend in August. **Linkerwoofer** and **Laundry Day** are the main summer music festivals. July and August can also see sudden heavy showers — pack accordingly.
 
-The months of July and August are typically the hottest of the year in Antwerp, but sunseekers should note that they are also generally the wettest months. Temperatures hover around the mid 20s, occasionally reaching the low 30s, and sunny days can be quickly followed by strong bursts of rainfall. Summer is also the busiest tourist season in Antwerp, although the city remains relatively untouched by the mass tourism that has blighted many European cities. The pavement cafe bars and Antwerp´s public squares throng with people enjoying a Belgian beer and plates of mussels and fries, and the clubs and bars heave with partiers after dark, particularly on weekend nights.
+**Christmas and New Year** is the second peak season. The **Christmas Market** at Steenplein and Grote Markt runs through December, with an ice rink, mulled wine, food stalls, and craft sellers. Hotels fill ahead. The lighting on the Cathedral and old town is particularly good.
 
-**Winter in the City**
+**Spring and autumn** are quieter, cheaper, and good for museum-focused trips. April brings the cherry blossoms in the city parks; October brings the leaf colour. Both seasons are good for the long museum visits (KMSKA, Plantin-Moretus) that the city specialises in.
 
-While temperatures can drop below zero in the months of December through to February, winter is one of the nicest times to visit Antwerp. Throughout December, the magnificent Grote Market is transformed into a winter wonderland, with a mammoth Christmas market offering the chance to buy presents and decorations while sipping a warming mulled wine and nibbling on delicious foods such as locally produced cheeses and sausages. December also sees an open air ice-skating rink installed at the market, which is hugely popular with all ages.
-
-**Cultural Highlights**
-
-The home of legendary painter Rubens, Antwerp has a great cultural scene, with museums and galleries to be found across the city. The annual Museum Night, held each August, sees the city´s galleries and handsome churches throw open their doors after hours to allow night owls a nocturnal visit. August also sees the Grote Markt host the famous Rubens Market - with traders dressed in 16th Century period dress to sell prints and other arty objects.
+**Winter (January–February)** is genuinely quiet. The advantage is empty museums and short queues at the Cathedral. The disadvantage is short cold days. Bring layers.

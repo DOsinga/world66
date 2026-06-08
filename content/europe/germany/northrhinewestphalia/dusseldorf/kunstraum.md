@@ -1,24 +1,16 @@
 ---
-address: Himmelgeister Strasse 107 E, D-40225 Düsseldorf (Southwest)
-opening_hours: Tue, Fri 17-22 and Sat, Sun 14-18 hrs.
+address: "Himmelgeister Strasse 107 E, D-40225 Düsseldorf"
+latitude: 51.2070
+longitude: 6.7649
+opening_hours: "Tue, Fri 17-22; Sat, Sun 14-18"
 phone: +49 (0)211 33 02 37
 tags:
 - things_to_do
-- landmark
-title: Kunstraum
+- museum
+title: Kunstraum Düsseldorf
 type: poi
 ---
 
-Modern art galery
+Kunstraum Düsseldorf is a non-commercial artist-run space in the southern part of the city that has been operating since 1967. It focuses on contemporary and experimental art, with a particular interest in giving space to work that doesn't fit neatly into commercial gallery formats — installation, performance documentation, video, and process-based work.
 
-type: Museums
-
-
-
-
-
-address: Himmelgeister Strasse 107 E, D-40225 Düsseldorf (Southwest)
-
-tel: +49 (0)211 33 02 37
-
-openings: Tue, Fri 17-22 and Sat, Sun 14-18 hrs.
+The programme changes regularly and tends to feature emerging local artists alongside occasional international guests. The venue is relatively off the tourist trail, which makes it popular with the city's art crowd.

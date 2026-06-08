@@ -1,5 +1,0 @@
-southamerica/paraguay/asuncion
-europe/poland/pszczyna
-asia/brunei/bangar
-europe/france/east/alsace/schirmeck
-africa/mauritania/ayounalatrous

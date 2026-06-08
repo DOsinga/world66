@@ -1,7 +1,9 @@
 ---
 title: "Acrocorinth"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 37.8966
 longitude: 22.8884
 snippet: Towering ancient fortress with views across the Gulf of Corinth

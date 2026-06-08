@@ -1,21 +1,17 @@
 ---
-address: next to station
-latitude: 52.954411
-longitude: 0.853495
+address: Koningin Astridplein 26
+latitude: 51.2178
+longitude: 4.4214
 tags:
 - things_to_do
-- park
+- sight
 title: Antwerp Zoo
 type: poi
-url: www.zooantwerpen.be
+url: https://www.zooantwerpen.be
+snippet: One of the world's oldest zoos, in Belle Époque buildings beside Central Station
+story: "Founded in 1843 in what was then the edge of the city, Antwerp Zoo is one of the oldest in the world. The historic enclosures — Egyptian Temple for the elephants, Moorish Palace for the giraffes — are protected monuments in their own right and have been kept even as the animals have moved to larger spaces."
 ---
 
-Located right next door to the central station, this is a classic city zoo. Tigers, gorillas and elephants and much more.
+Right next to Central Station, Antwerp Zoo is one of the oldest in the world (founded 1843) and one of the most architecturally interesting. The original enclosures — including an Egyptian Temple built for the elephants and a Moorish Palace for the giraffes — are protected monuments and worth seeing in their own right. The zoo has been modernised in waves; some of the older display spaces have been replaced with larger natural enclosures.
 
-type: Parks, Gardens and Zoos
-
-
-
-url: [www.zooantwerpen.be](http://www.zooantwerpen.be)
-
-address: next to station
+Highlights include gorillas, white tigers, okapis, and the breeding programmes for endangered species. Allow three to four hours. The location next to the station makes it an easy first stop in the city; combined tickets with the affiliated Planckendael safari park outside the city are good value for a longer day.

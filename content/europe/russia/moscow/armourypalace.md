@@ -1,5 +1,10 @@
 ---
 category: Sight
+latitude: 55.7506
+longitude: 37.6146
+tags:
+- things_to_do
+- museum
 title: Armoury Palace
 type: poi
 ---

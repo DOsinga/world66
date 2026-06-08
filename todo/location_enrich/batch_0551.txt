@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/oceanside
-africa/egypt/dendara
-europe/unitedkingdom/england/eastern_england/ely
-northamerica/unitedstates/kansas/lawrence
-australiaandpacific/australia/queensland/sunshinecoast

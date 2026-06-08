@@ -1,5 +1,0 @@
-northamerica/dominicanrepublic/puertoplata/cabarete
-northamerica/unitedstates/maryland/oceancity
-northamerica/canada/britishcolumbia/richmond
-europe/poland/lublin
-europe/armenia/vayots_dzor_marz/jermuk

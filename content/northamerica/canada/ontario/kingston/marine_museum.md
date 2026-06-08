@@ -1,8 +1,10 @@
 ---
 title: "Marine Museum of the Great Lakes"
 type: poi
+tags:
+  - things_to_do
+  - museum
 snippet: "Great Lakes shipping history with a sleepable icebreaker"
-category: Museum
 latitude: 44.2273
 longitude: -76.4818
 ---

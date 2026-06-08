@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: 49.24338
+loc_type: city
 longitude: -122.972545
+score: 0.44
 title: Burnaby
 type: location
-score: 0.44
-loc_type: city
 ---
 
-Burnaby lies just east of Vancouver, bordered by the Burrard Inlet from the north, Burnaby Mtn. from the east, and the Fraser River from the south. It is probably Vancouver's loveliest suburb, with a few pretty hills like Capitol Hill and Burnaby Heigths, and a chain of small lakes - Deer Lake, Squint Lake and Burnaby Lake (rowing competitions are held there). 
+Burnaby lies just east of Vancouver, bordered by the Burrard Inlet to the north, Burnaby Mountain to the east, and the Fraser River to the south. It is often overlooked in favour of its more famous neighbour, but Burnaby has its own distinct character: [Deer Lake Park](/northamerica/canada/britishcolumbia/burnaby/deer_lake_park) with its heritage house art gallery, [Burnaby Lake Regional Park](/northamerica/canada/britishcolumbia/burnaby/burnaby_lake_regional_park) for wildlife watching, and [Simon Fraser University](/northamerica/canada/britishcolumbia/burnaby/simon_fraser_university) perched dramatically on top of [Burnaby Mountain](/northamerica/canada/britishcolumbia/burnaby/burnaby_mountain_park).
 
-North Burnaby has a large Italian community which is evident when taking a stroll along East Hastings, in the Heights shopping district. Burnaby has some industry in the Central Valley, a few Hollywood production studios (MGM with its roaring lion at Boundary and Henning), and the largest shopping mall in Greater Vancouver - Metrotown Centre, with over 200 shops under one roof. We also have our own academic reply to UBC - Simon Fraser University (known as SFU) on top of Burnaby Mtn, established in the mid-60s. 
+North Burnaby has a large Italian community concentrated along East Hastings in the [Burnaby Heights](/northamerica/canada/britishcolumbia/burnaby/burnaby_heights) shopping district — Italian delis, espresso bars, and family restaurants that have been trading for decades. [Metrotown](/northamerica/canada/britishcolumbia/burnaby/metrotown) in the south is the largest shopping mall in Greater Vancouver, with over 400 stores and a busy SkyTrain station.
 
-For panoramic views of Vancouver, the North Shore Mountains, Indian Arm, Belcarra, Port Moody and as far as Vancouver Island, go to a viewpoint on Burnaby Mtn (make a left on Centennial Way when going up to SFU). It's definitely worth it. Make sure the sky is not overcast and come closer to sunset time. Sunsets can be out of this world, if there's no rain!
+The views from Burnaby Mountain — over Vancouver, the North Shore Mountains, Indian Arm, and on clear days as far as Vancouver Island — are among the best in the Lower Mainland. Come close to sunset when the light is right and the city below starts to illuminate. The [Burnaby Art Gallery](/northamerica/canada/britishcolumbia/burnaby/burnaby_art_gallery) at Ceperley House, overlooking Deer Lake, is one of the better art spaces in the Vancouver region and is often overlooked by visitors focused on the downtown scene.

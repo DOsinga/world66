@@ -5,6 +5,8 @@ latitude: 45.466
 longitude: 9.1706
 opening_hours: Tue–Sun 08:15–19:00; closed Mon
 snippet: Leonardo's Last Supper in a UNESCO church
+story: >
+  The Last Supper almost did not survive the 20th century. In August 1943, Allied bombs destroyed the surrounding refectory walls — but sandbagged scaffolding erected around the painting held, and the fresco survived. The empty roofless ruin stood open to the elements for two years before rebuilding began. The painting had already suffered centuries of deterioration from Leonardo's experimental technique; the bomb damage added another layer of trauma to a work that has never stopped being at risk.
 tags:
 - things_to_do
 - sight

@@ -1,13 +1,14 @@
 ---
-latitude: 50.068168
-longitude: 8.957556
+latitude: 49.7597
+longitude: 6.6432
+snippet: 11th-century priory next to the Porta Nigra, now housing the Stadtmuseum
 tags:
-- things_to_do
-- museum
+  - things_to_do
+  - museum
 title: Simeonstift
 type: poi
 ---
 
-Adjoining the Porta Nigra is the 11th century Simeons's College (Simeonstift), residence of priests who read mass in the two churches of St. Simeon (Porta Nigra). The building has a unique two-storied cloister around the courtyard (Brunnenhof) and contains today a restaurant and the Municipal Musum (fee) with the Coptic, medieval, and early modern collections; some statues are exhibited in the south wing of the cloister (upper story), whose floor still rests on the original oak beam floor from 1060.
+Directly adjoining the Porta Nigra, the Simeonstift was built in the 11th century as a collegiate foundation whose priests served the two churches built inside the Roman gate. The building has a remarkable two-storey Romanesque cloister around a courtyard (the Brunnenhof), whose upper floor still rests on the original oak beam floor from 1060.
 
-type: general
+Today the Simeonstift houses the Stadtmuseum Simeonstift Trier, the city museum, with collections covering Coptic art, medieval sculpture, and the early modern period. The Brunnenhof restaurant in the courtyard is a pleasant place for lunch after a morning of Roman monuments.

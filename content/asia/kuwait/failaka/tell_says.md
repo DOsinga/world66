@@ -4,6 +4,7 @@ type: poi
 snippet: "Four-thousand-year-old Dilmun trading post on Failaka Island"
 tags:
 - things_to_do
+- sight
 latitude: 29.4410
 longitude: 48.3260
 ---

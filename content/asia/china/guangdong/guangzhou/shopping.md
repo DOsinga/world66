@@ -3,30 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-**
-Guangzhou Friendship Store**
-369,Huanshi Dong Road,Guangzhou 83576628
+Guangzhou is one of China's great shopping cities. The Shangxiajiu pedestrian street in the Liwan district is the oldest commercial area, lined with traditional shopfronts selling tea, preserved meats, and Cantonese snacks alongside modern clothing shops. Beijing Road in Yuexiu district is the main retail spine of the city centre, with department stores and international brands.
 
-**Garden Hotel ShoppingArcade**
-368,Huanshi Dong Road 82228989
-
-**World Trade Center**
-371-375,Huanshi Dong Road,1-3F,World Trade Center Building 87650028 **
-
-Yi An Plaza**
-33,Jian She Liu Ma Road,Guangzhou 87650028 **
-
-Teem Plaza**
-208,Tian He Road,Guangzhou 85592818 **
-
-Citic Plaza**
-233,Tian He Bei Road,Guangzhou 87520789**
-
-Guangzhou Merchandise Building**
-295,Beijing Road,Guangzhou 83322348
-
-**Xin Da Xin Department Store**
-4,Zhong Shan Wu Road,Guangzhou 83322811
-
-**Contributors**
-August 02, 2005
+For wholesale and specialist goods, the city has sprawling market zones: the flower market in Fangcun, the electronics and computer markets near Tianhe, and the enormous clothing wholesale markets around Zhanxi Road. The Canton Fair's Pazhou Exhibition Complex hosts the world's largest trade fair twice a year (April and October), but its wholesale showrooms are open year-round to buyers. Qingping Market near Shamian Island remains the place for traditional medicines and dried goods.

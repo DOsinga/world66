@@ -7,6 +7,7 @@ snippet: Brunel's Victorian masterpiece spanning the Avon Gorge above Bristol
 tags:
 - things_to_do
 - landmark
+- clifton
 title: Clifton Suspension Bridge
 type: poi
 ---

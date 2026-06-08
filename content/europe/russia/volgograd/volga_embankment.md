@@ -1,10 +1,12 @@
 ---
-category: Neighbourhood
 done:
   poi_cleanup: '2026-04-20'
 latitude: 48.708
 longitude: 44.5178
 snippet: Wide riverside promenade and summer gathering place
+tags:
+  - things_to_do
+  - sight
 title: Volga Embankment
 type: poi
 ---

@@ -1,6 +1,11 @@
 ---
 latitude: 56.1567
 longitude: 15.591
+story: >
+  The wooden statue of the beggar Rosenbom outside the church door is said to be
+  a likeness of a real sailor — a bosun who lost his legs in battle and spent his
+  last years begging at the church door. Naval custom still has officers saluting
+  him as they pass.
 tags:
 - things_to_do
 - sight
@@ -11,4 +16,4 @@ type: poi
 
 The Admiralty Church — formally the Royal Church of the Admiralty, Ulrica Pia — is the largest wooden church in Sweden and one of the most evocative buildings in Karlskrona. Built in 1685 to serve the sailors and dockyard workers who could not fit into the city's stone churches, it is a cavernous timber construction with a warm, maritime atmosphere: ship models hang from the ceiling, and the pews are worn smooth by generations of naval men. Outside the entrance stands Rosenbom, a carved wooden beggar figure who has been collecting alms for poor sailors since the 17th century.
 
-story: "The wooden statue of the beggar Rosenbom outside the church door is said to be a likeness of a real sailor — a bosun who lost his legs in battle and spent his last years begging at the church door. Naval custom still has officers saluting him as they pass."
+The church is part of the UNESCO World Heritage naval city and is open to visitors throughout the year. Its interior — vast wooden barrel vaults, hanging ship models, painted panels — feels entirely different from a stone church. It was designed for practicality, not grandeur, and that honesty is what makes it so memorable.

@@ -3,14 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-Eating out in Glasgow is something that is a lot bettter then say twenty years ago, when the traditional fish'n'chips like meals where the rule. Although these places still can be found, especially around the docks (you can recognize them by the signs 'all meals under two pounds'), nowadays you can do much better. 
+Glasgow's food scene has transformed in the past twenty years. The city now has a serious restaurant culture, strong in Scottish cooking with good Italian, Asian, and Indian representation. The West End and Merchant City have the greatest concentration of good restaurants; Byres Road and Ashton Lane in the West End are the most reliable streets.
 
-**all**
+Scottish ingredients — langoustines, scallops, venison, lamb, Aberdeen Angus beef, oatmeal, good dairy — are used with increasing confidence by a generation of chefs who don't feel the need to pretend they're cooking French food. Look for haggis, neeps, and tatties done well (better than you expect), smoked fish from the west coast, and Cullen skink (smoked haddock chowder) as a starter.
 
-**Cul de sac**
-
-Downstairs from the Attic, and upstairs from its similarly named restaurant, this a cool bar both in its Ashton Lane location and its clientele. This being another pub popular with the student crowd, the place is usually very busy, with loud upbeat music in the background, and a slightly larger c [more..](/europe/unitedkingdom/scotland/glasgow/eatingout/culdesac)
-
-address: 44 Ashton Lane
-
-tel: (0141) 3348899
+Indian food is also exceptional in Glasgow, concentrated in the Southside's "Curry Mile" on Clarkston Road and on Sauchiehall Street — the city's Pakistani and Indian communities have been here since the 1960s and the cooking reflects serious tradition rather than Anglicised adaptation.

@@ -7,7 +7,7 @@ type: section
 
 **Tanjung Keling**
 
-Tanjung Keling is about ten kilometers from Malacca. It has a stretch of white sandy beach set within a coconut palm grove. There are a number of things to do here. Among them are picnicking, swimming and canoeing. North of the beach is the Tanjong Keling Mosque, with its unique octagonal minaret [more..](/asia/malaysia/melaka/beaches/tanjungkeling)
+Tanjung Keling is about ten kilometers from Malacca. It has a stretch of white sandy beach set within a coconut palm grove. There are a number of things to do here. Among them are picnicking, swimming and canoeing. North of the beach is the Tanjong Keling Mosque, with its unique octagonal minaret blending Sumatran, Chinese and Hindu architectural influences.
 
 **Tanjung Bidara **
 
@@ -15,4 +15,4 @@ Tanjung Bidara, thirty-five kilometers from the town of Malacca, commands a magn
 
 **Pantai Kundur**
 
-Pantai Kundur, a small fishing village, is approximately seventeen kilometers from Malacca. This beach is a favorite spot for swimming and picnicking, but it is perhaps best known for its graceful form of night-fishing. Fishermen suspend their nets from poles near their kelongs (houses built on s [more..](/asia/malaysia/melaka/beaches/pantaikundur)
+Pantai Kundur, a small fishing village, is approximately seventeen kilometers from Malacca. This beach is a favorite spot for swimming and picnicking, but it is perhaps best known for its graceful form of night-fishing. Fishermen suspend their nets from poles near their kelongs (houses built on stilts over the water) and lower lanterns to attract fish at night.

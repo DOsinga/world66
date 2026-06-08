@@ -6,6 +6,7 @@ snippet: "Fairy-tale cliffside cafe with Red Sea views and shisha"
 tags:
 - bars_and_cafes
 - cafe
+- hadaba
 title: Farsha Cafe
 type: poi
 url: farshacafe.com

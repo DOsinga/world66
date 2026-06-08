@@ -4,6 +4,9 @@ longitude: 99.5038
 snippet: WWII Death Railway bridge, now a pedestrian landmark
 tags:
 - things_to_do
+- historic
+- sight
+story: "The bridge was made famous worldwide by Pierre Boulle's 1952 novel and David Lean's 1957 film — but both changed key facts. In the film, the British prisoners build the bridge and then blow it up. In reality, Allied POWs built the bridge under Japanese orders; it was Allied bombers who later destroyed sections of it. The curved replacement spans, visibly different from the original straight ones, mark where the bombs hit."
 title: Bridge on the River Kwai
 type: poi
 ---

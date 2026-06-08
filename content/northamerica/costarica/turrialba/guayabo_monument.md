@@ -8,6 +8,9 @@ snippet: Costa Rica's most important pre-Columbian archaeological site
 story: Guayabo's stone aqueducts, built around 1000 CE, still carry water today —
   a remarkable feat of pre-Columbian engineering that remained functional for over
   a millennium.
+tags:
+  - things_to_do
+  - sight
 title: Guayabo National Monument
 type: poi
 ---

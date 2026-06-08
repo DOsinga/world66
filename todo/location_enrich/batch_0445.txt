@@ -1,5 +1,0 @@
-europe/germany/lowersaxony/bad_bentheim
-northamerica/canada/britishcolumbia/parksville
-northamerica/unitedstates/california/sanjose
-northamerica/unitedstates/colorado/leadville
-africa/ethiopia/omoriver

@@ -47,7 +47,7 @@ def geosearch(lat: float, lng: float, radius: int = 10000, limit: int = 500) -> 
 
         url = f"{API_URL}?{urllib.parse.urlencode(params)}"
         req = urllib.request.Request(url, headers={"User-Agent": "World66Bot/1.0"})
-        with urllib.request.urlopen(req) as resp:
+        with urllib.request.urlopen(req, timeout=15) as resp:
             data = json.loads(resp.read())
 
         for item in data.get("query", {}).get("geosearch", []):
@@ -86,7 +86,7 @@ def geosearch(lat: float, lng: float, radius: int = 10000, limit: int = 500) -> 
             }
             url = f"{API_URL}?{urllib.parse.urlencode(params)}"
             req = urllib.request.Request(url, headers={"User-Agent": "World66Bot/1.0"})
-            with urllib.request.urlopen(req) as resp:
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 data = json.loads(resp.read())
             for pid, page in data.get("query", {}).get("pages", {}).items():
                 descriptions[int(pid)] = {

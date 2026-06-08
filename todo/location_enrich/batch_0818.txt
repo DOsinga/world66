@@ -1,5 +1,0 @@
-europe/germany/hessen/darmstadt
-europe/austria/st_johann_in_tirol
-northamerica/unitedstates/tennessee/johnson_city
-northamerica/unitedstates/utah/parkcity
-europe/italy/basilicata/melfi

@@ -9,7 +9,7 @@ story: The bathhouse was discovered in 1973 during building work and is one of t
   garrisoned troops here from around AD 90.
 tags:
 - things_to_do
-- sights
+- sight
 - historic_site
 title: Roman Bathhouse
 type: poi

@@ -4,6 +4,8 @@ done:
 latitude: 49.4958
 longitude: 0.1066
 snippet: Perret's soaring concrete tower with 12,768 stained glass panels
+story: >
+  Perret was 72 years old when he began designing this church and considered it the culmination of his life's work in reinforced concrete. He is buried inside the building he designed. The 12,768 pieces of coloured glass were selected so that no two adjacent pieces are the same colour — a constraint Perret imposed on the glass artist Marguerite Huré, who spent three years working on the commission.
 tags:
 - things_to_do
 - architecture

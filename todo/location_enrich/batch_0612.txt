@@ -1,5 +1,0 @@
-asia/india/madhyapradesh/khajuraho
-africa/southafrica/drakensberg/northern_drakensberg
-europe/azerbaijan/naxcivan/shahbuz
-northamerica/canada/quebec/granby
-southamerica/peru/paracas

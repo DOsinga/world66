@@ -1,5 +1,0 @@
-northamerica/canada/alberta/grande_prairie
-northamerica/unitedstates/northcarolina/holden_beach
-northamerica/unitedstates/newhampshire/concord
-europe/russia/stpetersburg
-europe/italy/basilicata/maratea

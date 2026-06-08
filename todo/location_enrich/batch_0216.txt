@@ -1,5 +1,0 @@
-asia/china/zhejiang/wenzhou
-northamerica/unitedstates/california/deserts/barstow
-europe/bulgaria/starazagora
-northamerica/unitedstates/louisiana/monroe
-northamerica/unitedstates/california/goldcountry/nevadacity

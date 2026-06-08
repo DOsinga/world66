@@ -1,5 +1,0 @@
-asia/pakistan/sheikhu_pura
-northamerica/unitedstates/pennsylvania/state_college
-northamerica/unitedstates/nevada/rachel
-europe/finland/rovaniemi
-europe/russia/ural/ekaterinburg

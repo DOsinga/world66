@@ -4,6 +4,12 @@ done:
 latitude: 45.7035
 longitude: 9.663
 snippet: Massive Venetian walls with panoramic views over Bergamo
+story: >
+  Venice spent the equivalent of an entire year's state revenue constructing these
+  walls between 1561 and 1590 — a defensive investment triggered by the Ottoman
+  threat to the eastern Mediterranean. The irony is that the walls were never tested
+  in battle. By the time they were finished, the age of siege warfare they were built
+  to resist was already passing.
 tags:
 - things_to_do
 - landmark

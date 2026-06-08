@@ -1,19 +1,13 @@
 ---
 title: Day Trips
 type: section
+linked_locations:
+  - europe/france/midi/provence/aixenprovence
+  - europe/france/midi/cotedazur/toulon
+  - europe/france/midi/provence/avignon
+  - europe/france/midi/provence/arles
 ---
 
-**Marseille day trips **can be both exciting and relaxing, depending on which direction you head. Here's a look at some of the towns that can easily be visited from Marseille and the attractions they have to offer.
+Marseille is well placed for day trips in every direction. **Aix-en-Provence**, the elegant fountain-filled university town, is 30 minutes by train. **Cassis** to the east, a small Provençal port at the end of the Calanques, makes a perfect coastal day out — boat tours of the calanques leave from the harbour. The **Camargue** to the west, with its flamingos, white horses and salt pans, is reachable by train or car for a longer day. **Avignon** with its papal palace is 90 minutes north by TGV. **Arles**, in the Camargue, has the best Roman remains in southern France.
 
-**Aubagne** - Distance: 19.9 km
-
-If you want to begin your Marseille day trips with places that are close by, there's no better place to start than Aubagne. Located just 20 minutes from Marseille, Aubagne is not the major tourist destination that characterizes other cities in Provence. Its claim to fame is its distinction as the birthplace of French author Marcel Pagnol. You can visit his home and the gallery that houses figurines based on his characters. The clock tower that was built circa 1900 is also of interest, as is the church of Saint Sauveur. Even better are the nature walks that can be had through the Garlaban and the Chaine de la Sainte Baume (location of the Holy Cave where Mary Magdalene was said to have lived out her last years).
-
-**[Aix-en Provence](/europe/france/midi/provence/aixenprovence) **- Distance: 31.8 km
-
-The city of art and fountains is a great place to visit and is conveniently just 23 minutes from Marseille. See the thermal springs that were popular in Roman times and then take a walking tour to see all of the fountains. The best include the Fountain of the Four Dolphins, King Rene Fountain, and a hot water fountain that dates **- Distance: 63.5 km
-
-Toulon is another city famous for its fountains, the most famous of which is the Fountain of the Dolphin. The city is just a 40 minute drive from Marseille, and is well worth the trip. Toulon Cathedral, after all, is a national monument of France. You can also visit the Toulon Opera or the Gardens of Alexander I. The Provencal market takes place each morning, and you can cap your trip off with a cable car ride to the top of Mount Faron.
-
-**Contributors**
-February 22, 2010
+For walkers, the trails into the [Calanques National Park](/europe/france/midi/cotedazur/marseille/calanques) start from inside the city and the south-eastern suburbs, so a full-day hike along the coast to Cassis is doable as a day trip (and the train brings you back). The hilltop village of **Aubagne**, birthplace of Marcel Pagnol, is a short trip on the Aubagne tram and a good base for walks in the Garlaban hills he wrote about.

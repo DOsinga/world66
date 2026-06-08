@@ -1,0 +1,6 @@
+---
+title: "Things to Do"
+type: section
+---
+
+Leeds has a strong museum and cultural offer for a city of its size, and much of it is free. The [Royal Armouries](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/royalarmouries) and the [Thackray Museum of Medicine](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/thackray_museum) are both of national standing. The [Leeds Art Gallery](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/leedsartgallery) and the Henry Moore Institute, which connects to it, represent the city's strong tradition in sculpture. Away from the museums, the Victorian buildings are the main draw: [Kirkstall Abbey](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/kirkstallabbey), the [Victorian Arcades](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/victorianarcades), and the [Corn Exchange](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/corn_exchange) are all worth lingering in. [Kirkgate Market](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/kirkgate_market) and [Roundhay Park](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds/roundhay_park) round out the picture — the market for a sense of everyday Leeds, the park for scale and green space.

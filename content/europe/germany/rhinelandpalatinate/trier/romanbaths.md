@@ -1,6 +1,6 @@
 ---
-latitude: 48.376154
-longitude: 8.935487
+latitude: 49.7497
+longitude: 6.6423
 tags:
 - things_to_do
 - architecture
@@ -46,4 +46,3 @@ Going to the baths was an important part of Roman life, and, besides some smalle
  
  The Barbara Baths (fee) were built in the second century as the then largest Roman baths. The extensive ruins were used as a castle in the Middle Ages, then torn down and recycled as building material until the remains were used for constructing the Jesuit College in 1610. Only the foundations and the subterranean service tunnels have survived, but the technical details of the sewer systems, the furnaces, the pools, and the heating system can be studied better than in the other two baths. Although only one third of the original facility has been excavated, a tour of the passageways takes a surprisingly long time.
 
-type: general

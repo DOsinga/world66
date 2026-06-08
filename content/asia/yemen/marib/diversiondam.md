@@ -1,7 +1,7 @@
 ---
 title: "Diversion Dam"
 type: poi
-tags: [things_to_do]
+tags: [things_to_do, sight]
 latitude: 15.3875
 longitude: 45.2780
 snippet: "Ancient dam predating the Great Marib Dam by millennia"

@@ -1,19 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
 latitude: -23.853606
+loc_type: city
 longitude: 35.547171
+score: 0.45
 title: Tofo
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Tofo Beach, about 22 km east of [Inhambane](/africa/mozambique/inhambane), is one of Mozambique's most visited destinations and the undisputed capital of whale shark diving. The beach is a broad crescent of white sand, the surf is consistent, and the marine life in the bay is extraordinary.
 
-The main draw is the whale sharks: from October to March, seasonal plankton blooms attract dozens — often 30 or more — of these gentle giants to the surface just offshore. Several established dive centres run daily snorkelling and diving excursions. No previous diving experience is needed to swim alongside them. Manta rays are present year-round at cleaning stations on the reef, and humpback whales pass through from June to November.
+The main draw is the [whale sharks](/africa/mozambique/tofo/whale_shark_diving): from October to March, seasonal plankton blooms attract dozens — often 30 or more — of these gentle giants to the surface just offshore. Several established dive centres run daily snorkelling and diving excursions. No previous diving experience is needed to swim alongside them. [Manta rays](/africa/mozambique/tofo/manta_ray_diving) are present year-round at cleaning stations on the reef, and [humpback whales](/africa/mozambique/tofo/humpback_whales) pass through from June to November.
 
-Beyond marine life, Tofo has developed a comfortable backpacker and mid-range scene. There are surf schools, yoga retreats, good seafood restaurants, and lively beach bars. It's popular with young South Africans, which gives it a fun if occasionally boisterous atmosphere in peak season (July–August and December–January).
+Beyond marine life, Tofo has developed a comfortable backpacker and mid-range scene. There are [surf schools](/africa/mozambique/tofo/surfing), yoga retreats, good seafood restaurants, and lively beach bars. [Loggerhead and leatherback turtles](/africa/mozambique/tofo/turtle_point) nest on the northern beach from October to February. The [Barra Peninsula](/africa/mozambique/tofo/barra_peninsula) is an easy day trip with its own lighthouse and quieter beaches. The town is popular with young South Africans, which gives it a fun if occasionally boisterous atmosphere in peak season (July–August and December–January).
 
 Getting to Tofo from Inhambane is easy — chapas (shared minibuses) run the route regularly. From Maputo, it's about a 5–6 hour drive, or fly to Inhambane airport and take a taxi or chapa.
 

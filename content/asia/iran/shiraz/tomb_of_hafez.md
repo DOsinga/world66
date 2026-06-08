@@ -10,7 +10,7 @@ story: >
   had become as poor as Timur could see. Timur apparently found this charming.
 tags:
 - things_to_do
-- landmark
+- sight
 title: Tomb of Hafez
 type: poi
 ---

@@ -1,5 +1,0 @@
-asia/israel/acre
-europe/italy/liguria/genoa
-europe/serbiaandmontenegro/sokobanja
-europe/poland/wieliczka
-northamerica/thecaribbean/cuba/vinales

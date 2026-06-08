@@ -9,8 +9,8 @@ longitude: 13.713103
 opening_hours: Check website for current hours
 snippet: White seaside castle built for a Habsburg archduke
 tags:
-- One Day in Trieste
 - things_to_do
+- sight
 - architecture
 title: Miramare Castle
 type: poi

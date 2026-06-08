@@ -5,11 +5,10 @@ latitude: 37.192
 longitude: -3.5994
 snippet: Extravagant Baroque Carthusian monastery north of Granada's centre
 tags:
-- historic sites
-- churches
+- things_to_do
 - sight
 - architecture
-- albaicin
+- religious
 title: La Cartuja
 type: poi
 ---

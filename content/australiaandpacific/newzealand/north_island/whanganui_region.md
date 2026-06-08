@@ -1,12 +1,12 @@
 ---
-title: Manawatu-Whanganui Region
-type: location
-latitude: -39.93
-longitude: 175.05
 done:
   location_cleanup: 2026-04-09
-score: 0.51
+latitude: -39.93
 loc_type: region
+longitude: 175.05
+score: 0.51
+title: Manawatu-Whanganui Region
+type: location
 ---
 
 The Manawatu-Whanganui region stretches across the lower half of the North Island's west coast, a broad swath of farmland, river valleys, and volcanic country that most tourists drive straight through. That is a mistake. The landscape here is shaped by two powerful rivers, and the towns along them have a quiet, unpretentious character that rewards anyone willing to slow down.

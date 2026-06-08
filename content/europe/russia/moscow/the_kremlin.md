@@ -3,6 +3,9 @@ address: The Kremlin
 category: Sight
 latitude: 55.751621
 longitude: 37.618122
+tags:
+- things_to_do
+- sight
 title: The Kremlin
 type: poi
 url: www.kreml.ru

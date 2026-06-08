@@ -1,5 +1,0 @@
-asia/kazakhstan/kyzylorda
-europe/belarus/minsk
-europe/germany/lowersaxony/hameln
-northamerica/unitedstates/florida/marianna
-northamerica/unitedstates/california/centralcoast/solvang

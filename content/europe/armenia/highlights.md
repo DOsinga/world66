@@ -11,7 +11,7 @@ type: section
 
 **[Echmiadzin](/europe/armenia/echmiadzin)** — The world's oldest cathedral (301 AD, though much rebuilt), seat of the Armenian Apostolic Church. The treasury holds relics including the Holy Lance of Longinus and a piece of Noah's Ark. The nearby early Christian churches of Hripsime and Gayane are outstanding.
 
-**[Haghpat](/europe/armenia/haghpat_3) and [Sanahin](/europe/armenia/sanahin_1)** — Twin UNESCO-listed monastery complexes in the Debed gorge in northern Armenia. Both 10th-century, both set in villages above the canyon, both excellent. Sanahin has the added curiosity of a small museum to the Mikoyan brothers, one a Soviet MiG aircraft designer, the other a Politburo member.
+**[Haghpat](/europe/armenia/haghpat) and [Sanahin](/europe/armenia/sanahin_1)** — Twin UNESCO-listed monastery complexes in the Debed gorge in northern Armenia. Both 10th-century, both set in villages above the canyon, both excellent. Sanahin has the added curiosity of a small museum to the Mikoyan brothers, one a Soviet MiG aircraft designer, the other a Politburo member.
 
 **[Lake Sevan](/europe/armenia/gegharkunik_marz)** — A vast alpine lake at 2,000 metres, covering about 5% of Armenia's total area. On a clear day the turquoise water and white beaches look improbably Caribbean. The medieval monastery of Sevanavank sits on the peninsula. The largest khachkar cemetery in the world is at Noratus, nearby.
 

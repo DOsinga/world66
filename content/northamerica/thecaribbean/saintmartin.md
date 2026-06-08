@@ -1,17 +1,18 @@
 ---
-title: Saint-Martin
-type: location
-latitude: 18.0731
-longitude: -63.0822
-image: saintmartin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Philipsburg,_St._Martin_(16276741515).jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/53301297@N00">Paul
-  Sableman</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.61
+  location_enrich: '2026-05-31'
+image: saintmartin.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/53301297@N00">Paul
+  Sableman</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Philipsburg,_St._Martin_(16276741515).jpg
+latitude: 18.0731
 loc_type: city
+longitude: -63.0822
+score: 0.61
+title: Saint-Martin
+type: location
 ---
 
 Saint-Martin is the French half of a 37-square-mile island it shares peacefully with the Dutch territory of Sint Maarten. Together they form the smallest landmass in the world divided between two sovereign nations. The French side is slightly larger — 21 square miles to the Dutch 16 — and holds the capital Marigot and the gastronomic hub of Grand Case.

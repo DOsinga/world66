@@ -1,5 +1,0 @@
-northamerica/canada/novascotia/capebreton
-asia/india/bihar/bhagalpur
-europe/portugal/evora
-northamerica/unitedstates/colorado/boulder
-africa/ethiopia/mekele

@@ -15,4 +15,4 @@ The palace complex was first built around 1900 BC and rebuilt several times afte
 
 The site you visit today is partly Sir Arthur Evans's early 20th-century reconstruction, which is controversial among archaeologists but makes the place genuinely legible to visitors. The vivid frescoes of bull-leapers and blue dolphins give the ruins a colour they would otherwise lack. Come early or late — this is among the most visited sites in Greece and the midday heat and tour groups can be overwhelming.
 
-Knossos sits 5km south of [Heraklion](/europe/greece/crete/heraklion), easily reached by city bus from the port or the old town.
+Knossos sits 5km south of [Iraklion](/europe/greece/crete/iraklion), easily reached by city bus from the port or the old town.

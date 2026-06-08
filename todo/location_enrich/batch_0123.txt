@@ -1,5 +1,0 @@
-europe/italy/emiliaromagna/bologna
-europe/germany/schleswigholstein/lubeck
-europe/denmark/lohals
-northamerica/canada/ontario/stcatharines
-europe/unitedkingdom/northernireland/dungannon

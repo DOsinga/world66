@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: small_isles.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Eigg-and-Rum-from-mainland.jpg
 latitude: 56.9326
+loc_type: region
 longitude: -6.2857
+score: 0.51
 title: Small Isles
 type: location
-score: 0.51
-loc_type: region
 ---
 
 The Small Isles are four islands — Rum, Eigg, Muck, and Canna — lying just south of [Skye](/europe/unitedkingdom/scotland/skye) in the Inner Hebrides. Together they form one of the quietest corners of Scotland, with barely a thousand people between them and no cars on some of the islands at all.

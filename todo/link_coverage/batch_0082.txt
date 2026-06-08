@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/bocaraton
+northamerica/unitedstates/florida/evergladesnationalpark
+northamerica/unitedstates/florida/floridakeys
+northamerica/unitedstates/florida/palmharbor
+northamerica/unitedstates/florida/spacecoastarea/canaveralnationalseashore

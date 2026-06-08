@@ -22,4 +22,4 @@ The cities are modest but pleasant. [Omaha](/northamerica/unitedstates/nebraska/
 - [Scottsbluff](/northamerica/unitedstates/nebraska/scottsbluff)
 - [Ponca](/northamerica/unitedstates/nebraska/ponca)
 - [Valentine](/northamerica/unitedstates/nebraska/valentine)
-- [Grand Island](/northamerica/unitedstates/nebraska/grand_island)
+- Grand Island

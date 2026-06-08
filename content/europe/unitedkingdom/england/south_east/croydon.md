@@ -1,4 +1,6 @@
 ---
+done:
+  location_enrich: '2026-05-31'
 latitude: 51.371305
 longitude: -0.101957
 score: 0.3

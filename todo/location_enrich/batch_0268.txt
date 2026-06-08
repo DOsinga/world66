@@ -1,5 +1,0 @@
-europe/switzerland/basel
-europe/germany/thuringia/erfurt
-northamerica/thecaribbean/cuba/santiagodecuba
-northamerica/bahamas/freeport
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton

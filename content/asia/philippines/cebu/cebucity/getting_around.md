@@ -3,8 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-Hi All,
+**Jeepneys** are the cheapest way to get around — they run fixed routes for a few pesos a ride. The routes can be confusing for newcomers, but downtown to Ayala Center and Colon to SM City are well-served. **Grab** (the Southeast Asian equivalent of Uber) is convenient and air-conditioned; this is what most visitors use. Standard taxis are metered but drivers sometimes refuse the meter — agree on a price before getting in.
 
-We have just returned from a 6 days stay in Cebu and we had a fabulous time there, mainly because of our private tour guide, Ramel whom we met by chance at the airport. He offered to ferry us to our Hotel (Marriots) at 250 pesos. We enquired more about Cebu from him and the next thing we knew, we hired him everyday for our tours. We went for a day's trip to Bohol too! Please do contact this gujy if you need a pleasant (he doesn't smoke, respects women), safe, and most of all HONEST guide! He can be reached at 0915-5475501. By the way, he speaks English. Enjoy your trip!
-
-Lee , Singapore
+**Habal-habal** (motorcycle taxis) are used for short hops and in areas where jeepneys don't go. For the Mactan beaches and airport, a Grab car is the easiest option.

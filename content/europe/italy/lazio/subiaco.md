@@ -1,12 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-31'
+image: sacro_speco.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Subiaco_-_Sacro_Speco_(Monastero_di_San_Benedetto).jpg
 latitude: 41.926715
+loc_type: city
 longitude: 13.094432
+score: 0.52
 title: Subiaco
 type: location
-score: 0.52
-loc_type: city
 ---
 
 Subiaco is a small town about 70 km east of [Rome](/europe/italy/lazio/rome), tucked into a valley of the Simbruini Mountains. It has been a favourite retreat for more than two millennia: Nero built himself a villa here after the fire of Rome, and Saint Benedict came here to live as a hermit in the sixth century, founding the monastic tradition that would shape medieval Europe.

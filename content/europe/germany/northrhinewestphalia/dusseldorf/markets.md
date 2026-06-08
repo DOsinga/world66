@@ -1,12 +1,13 @@
 ---
-latitude: 51.510997
-longitude: 7.094995
+latitude: 51.2167
+longitude: 6.7749
 tags:
 - shopping
-title: Markets
+- market
+title: Flea Markets
 type: poi
 ---
 
-Düsseldorf’s many flea markets and jumble sales are heaven to bargain hunters. The most popular ones are at Aachener Platz (each Saturday) and the monthly ‘Radschläger-Markt’ at the central market on Ulmenstraße. They attract countless visitors from Düsseldorf and the region.
+Düsseldorf has a lively flea market scene. The most popular is the Saturday market at Aachener Platz, a good-sized outdoor market where vendors sell vintage furniture, vinyl records, clothing, books, and general bric-a-brac. It runs weekly and draws both serious dealers and casual browsers from across the city.
 
-type: Book shops
+The monthly Radschläger-Markt on Ulmenstraße is larger and more festive, with food stalls, live music, and a broader range of goods. For antiques and collectibles, the specialist dealers concentrated in Karlstadt to the south of the Altstadt are worth checking before the weekend markets.

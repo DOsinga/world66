@@ -1,36 +1,14 @@
 ---
-accessibility: On the street Level
-address: 88 Bui Vien St,HCMC
-latitude: 10.765741
-longitude: 106.690757
-phone: '8.377544'
-price: $1-$5 U.S.
-tags:
-- eating_out
-- restaurant
-- neighbourhood
-title: Mimosa, 88 Bui Vien, District !
+title: "Bun Bo Hue Ngoc Huong"
 type: poi
+tags:
+  - eating_out
+  - restaurant
+  - vietnamese
+  - street_food
+latitude: 10.7661
+longitude: 106.6912
+snippet: "Street stall serving bun bo Hue — the spicier, richer cousin of pho from the former imperial capital"
 ---
 
-Mimosa is a locally run restaurant, very clean, with an excellent chef. I tried many dishes of different ethnicities and all were well prepared, Western and Asian.
-The prices range from 18k Dong, ( less than $1 ) to about 100K Dong, $5.00 for meals
-A bottle of Da Lat Wine is $3,5.
-A breakfast omelet, 2-3 eggs with stir fired vegetables folded and French Baguette is 24k dong. $1.20, very good.
-You can use your Visa Card, No Minimum purchase when I was there, August 2010.
-Right in Backpacker's Haven, just around the corner of De Tham St.
-
-David C.
-Seattle, Wa.
-
-type: Local
-
-
-
-accessibility: On the street Level
-
-tel: 8.377544
-
-address: 88 Bui Vien St,HCMC
-
-PriceOfMenu: $1-$5 U.S.
+Bún bò Huế — the spicy lemongrass-and-chilli beef noodle soup from the ancient capital Hue — is one of the great underrated dishes in Vietnamese cooking, richer and more complex than phở with its shrimp paste underpinning and thick round noodles. This stall near the Pham Ngu Lao backpacker area serves a version that regulars consider among the best in District 1. A bowl costs around 50,000 đồng and is best eaten in the morning before 10AM when the broth is freshest.

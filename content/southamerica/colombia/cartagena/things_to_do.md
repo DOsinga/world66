@@ -1,18 +1,10 @@
 ---
-title: "Things to Do in Cartagena"
+title: Things to Do in Cartagena
 type: section
 ---
 
-Visitors looking for **Cartagena Things to Do **will not be disappointed. Cartagena receives more tourist visitors than any other destination in Colombia, and with good reason. A beautiful colonial city whose walled historic center is a UNESCO World Heritage Site, the city is also blessed with fine beaches and year-round hot, sunny weather. The city is surrounded by stunning natural beauty spots, and visitors can slide around in mud baths or toast themselves on near-deserted tropical islands. The calm, clear waters are perfect for swimming, snorkeling and water sports, and Cartagena is packed with schools offering scuba diving courses.
+Cartagena has more to do than most visitors can fit into a short stay. The walled city is a UNESCO World Heritage Site and best explored on foot — walk the [city walls](/southamerica/colombia/cartagena/city_walls), look closely at the colonial [door knockers](/southamerica/colombia/cartagena/door_knockers), and allow time to get lost in the residential lanes of [San Diego](/southamerica/colombia/cartagena/santa_catalina_section).
 
-**Sightseeing in Cartagena**
+The [Castillo de San Felipe de Barajas](/southamerica/colombia/cartagena/castillo_de_san_fe) is the most impressive fortress in the Spanish Americas and should not be missed. The [Palace of the Inquisition](/southamerica/colombia/cartagena/palace_of_the_inqu) and the [Iglesia de San Pedro Claver](/southamerica/colombia/cartagena/iglesia_san_pedro_claver) round out the essential historical sights. For panoramic views, take a taxi up to [Convento de la Popa](/southamerica/colombia/cartagena/convento_de_la_popa).
 
-If you're planning to do a lot of sightseeing in Cartagena, you'll want to set your alarm. The early morning is the best time to take in the many sights of the city, as the intense heat of the afternoon can make walking around feel sticky and uncomfortable. Your first port of call should be the historic center, which is home to some of the best-preserved colonial buildings to be found anywhere in the country. Start at the Plaza de Bolivar, with its statue of South American hero Simon Bolivar, and take in the neighboring cathedral, before exploring the winding cobbled streets and squares, taking in the handsome architecture and stopping for a cooling drink at one of the many bars and cafes.
-
-**Beaches in Cartagena**
-
-Sun lovers heading to Cartagena will not be disappointed. The city itself is home to some decent beaches, such as those at Bocagrande and Marbella, and there are countless idyllic islands to be found within a quick bus or boat ride from the city center. Scores of tour operators run day trips out to the picture-perfect islets of the Parque Nacional Corales del Rosario, where there is endless opportunity for beach-hopping. Nature lovers will be stunned by the abundance and diversity of the flora, fauna and birdlife.
-
-**Watersports in Cartagena**
-
-Cartagena is a popular destination with watersports enthusiasts, particularly among those looking to try their hands at scuba diving. It is possible to take a scuba diving course here for a fraction of the price of other Caribbean destinations, and divers can feast their eyes on schools of colorful fish and other weird and wonderful marine life. For those looking for something a little more laid-back, snorkeling is a fun, inexpensive and family-friendly way to admire the underwater view. Snorkel equipment can be bought or hired at any of the beaches in and around Cartagena.
+Outside the city, day trips to the [Islas del Rosario](/southamerica/colombia/cartagena/islas_del_rosario) for snorkelling, [Playa Blanca](/southamerica/colombia/cartagena/playa_blanca) for the best Caribbean beach, and the [Volcán del Totumo](/southamerica/colombia/cartagena/volcan_totumo) mud baths are all popular. The early morning hours are the best time for sightseeing before the heat sets in.

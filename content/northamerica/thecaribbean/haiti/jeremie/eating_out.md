@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Cap Sud in located in Jeremie. Close to the airport in Jeremie. The food is very good and the music is great. They also have a small eatery at the Jeremie airport. Give it a try and enjoy!
+Eating out in Jérémie is informal — mostly small restaurants in private homes, beachside grill shacks, and a couple of slightly more established places near the centre and airport. Local specialties to look for are seafood (lambi and red snapper), griot (fried pork), and the famous Grand'Anse cocoa and breadfruit, which turn up in everything from the morning porridge to dessert.

@@ -3,12 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-To explore the city is by foot and the second best way is also by foot. Besides giving you the opportunity to roam the narrow streets and the piazzas, it is the quickest way too: you can cross the city in approximately an hour. Sometimes it might be quicker to take a short-cut across the water instead of following the bends of the bridges and alleys. One way of doing this is taking the “vaporetto”, or waterbus. They leave frequently and cover important parts of the city. The tickets, which can be purchased at the landing stages and at shops which show the ACTV sign, costs about € 5,- (valid for one hour) . If you plan to use the “vaporetto” more often, it might be an idea to buy a 24-hour ticket (€ 10,50) or a three-day pass (€ 22,-). 
+Walking is how Venice works. The city is small enough to cross in about 45 minutes, and the main routes between the key points are signposted — follow the yellow signs pointing to San Marco, Rialto, Ferrovia (the train station), and Piazzale Roma. Getting lost is not a disaster; it is an experience, and the network of alleys always returns you to a canal or a campo that you can navigate from.
 
+The vaporetto (water bus) is the main public transport on the canals. Line 1 runs the length of the Grand Canal between Piazzale Roma and San Marco, stopping at every landing stage — the essential route for first-time visitors, best done slowly in daylight. Lines 2, 5, 6, and others are faster or serve the lagoon islands. Tickets must be validated before boarding. A single ticket costs around €9.50; a 24-hour pass costs €25, 72 hours €40. If you plan to use the vaporetto more than twice in a day the pass is worth it.
 
+The traghetto is a stripped-down gondola that crosses the Grand Canal at several points for about €2 — you stand in the boat, it takes 90 seconds, and it is the cheapest way to cross the canal where there is no bridge nearby. Look for the green signs. Water taxis are fast and expensive — a short trip within Venice can cost €30–50.
 
-
-
-The Canale Grande can be crossed by “traghetto”, a gondala used for efficiency purposes. It is the cheapest way to get into a gondola (40 cents only!). The tragehetto is marked with a green signpost. 
-
-If you feel like doing the canals the touristy way, you can hire a gondola for 50 minutes for the price of €60,-. Prices go up after sunset and make sure you confirm the price before sitting back and watching the gondoliere do all the work for you. A little bargaining might help.
+Gondolas are for hire at stands throughout the city. The official rate is around €80 for 30 minutes (more after 7pm). Agree the price and route before you get in.

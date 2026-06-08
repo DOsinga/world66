@@ -1,5 +1,0 @@
-northamerica/unitedstates/ohio/mentor
-europe/spain/cantabria/comillas
-asia/cyprus/nicosia
-europe/france/centre/saintecroixenja
-europe/greece/lesbos/skalakalloni

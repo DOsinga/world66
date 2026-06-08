@@ -1,5 +1,0 @@
-asia/saudiarabia/hail
-europe/faroeislands/nolsoy
-asia/india/andhrapradesh/wargal
-asia/unitedarabemirates/fujairah
-europe/switzerland/chur

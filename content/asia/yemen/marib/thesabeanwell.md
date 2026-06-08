@@ -6,6 +6,7 @@ longitude: 45.27
 snippet: Ancient square well near the Sabean temples
 tags:
 - things_to_do
+- sight
 title: The Sabean Well
 type: poi
 ---

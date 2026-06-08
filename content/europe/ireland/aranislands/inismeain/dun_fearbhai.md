@@ -6,7 +6,7 @@ longitude: -9.572
 snippet: Unusual square-shaped stone fort on Inis Meáin's eastern cliffs
 tags:
 - things_to_do
-- landmark
+- sight
 title: Dún Fearbhaí
 type: poi
 ---

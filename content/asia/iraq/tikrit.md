@@ -1,11 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-11'
-image: tikrit.jpg
-image_attribution: Jeffrey Allan Backowski II
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Gates_of_Tikrit_Saddam_Hussein%27s_hometown.jpg
+  location_enrich: '2026-05-16'
 latitude: 34.615807
 loc_type: city
 longitude: 43.678606

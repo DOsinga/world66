@@ -3,11 +3,12 @@ address: Uhlandstrasse 20-25
 email: info@antik-stilbruch.de
 latitude: 52.504261
 longitude: 13.325343
-phone: "+49 30 312 83 04"
-snippet: "Polished Biedermeier furniture and vintage jewellery in Charlottenburg"
+phone: +49 30 312 83 04
+snippet: Polished Biedermeier furniture and vintage jewellery in Charlottenburg
 tags:
 - shopping
-title: "Stilbruch Antiquit\xE4ten & Schmuck"
+- charlottenburg
+title: Stilbruch Antiquitäten & Schmuck
 type: poi
 url: www.antik-stilbruch.de
 zipcode: '10623'

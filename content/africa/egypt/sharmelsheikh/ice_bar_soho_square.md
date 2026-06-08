@@ -10,6 +10,7 @@ snippet: Sub-zero ice bar in the desert with walls, stools, and glasses made fro
 tags:
 - bars_and_cafes
 - bar
+- soho_square
 title: Ice Bar at Soho Square
 type: poi
 url: soho-sharm.com

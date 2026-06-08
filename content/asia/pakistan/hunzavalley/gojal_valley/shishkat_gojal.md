@@ -1,12 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 36.373
+loc_type: city
 longitude: 74.849
+score: 0.34
 title: Shishkat
 type: location
-score: 0.34
-loc_type: city
+image: shishkat_gojal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Attabad_Lake,_Shishkat_Hunza.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Farhan1629
 ---
 
 Shishkat — also known as Nazimabad Shishkat — is the first village of the [Gojal Valley](/asia/pakistan/hunzavalley/gojal_valley) that travellers encounter when coming north from Central Hunza along the Karakoram Highway. It is a compact community of around 2,160 people in some 220 households, sitting at the threshold between the more densely settled middle Hunza and the wilder upper reaches of Gojal.
@@ -15,4 +20,4 @@ The village is predominantly Burushaski-speaking, though Wakhi and Domaaki-speak
 
 The site also carries historical weight: the flat ground around Shishkat was once the battlefield between the Wakhi communities of upper Gojal and the combined forces of the Nagar and Hunza states — a chapter of the old rivalries that shaped this mountain frontier before the British arrived.
 
-For travellers passing through on the KKH, Shishkat is easy to miss, but it rewards a short stop. The village has a distinctly different character from the better-known stops further north like [Passu](/asia/pakistan/hunzavalley/gojal_valley/passu) — quieter, less visited, and genuinely off the tourist circuit.
+For travellers passing through on the KKH, Shishkat is easy to miss, but it rewards a short stop. The village has a distinctly different character from the better-known stops further north like [Passu](/asia/pakistan/hunzavalley/gojal_valley/passu) — quieter, less visited, and genuinely off the tourist circuit. [Attabad Lake](/asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal/attabad_lake) lies just south, and [Gulmit](/asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal/gulmit_and_gojal_villages) is a short distance north.

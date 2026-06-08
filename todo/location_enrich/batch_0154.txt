@@ -1,5 +1,0 @@
-northamerica/unitedstates/arizona/tempe
-europe/spain/puigcerd
-northamerica/unitedstates/colorado/canon_city
-europe/malta/dingli
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/taunton

@@ -7,8 +7,8 @@ longitude: -87.659
 phone: 773-549-0203
 snippet: Legendary Wrigleyville venue that launched the Pumpkins
 tags:
-- nightlife
-- music
+- bars_and_cafes
+- bar
 title: Metro
 type: poi
 url: www.metrochicago.com

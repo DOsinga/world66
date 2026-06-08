@@ -1,5 +1,0 @@
-northamerica/nicaragua/popoyo_beach
-europe/spain/galicia/lacoruna
-asia/iran/qom
-europe/france/midi/dordogne/sarlat
-asia/vietnam/ninh_binh

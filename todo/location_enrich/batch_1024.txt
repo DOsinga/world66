@@ -1,5 +1,0 @@
-northamerica/unitedstates/michigan/berrien_springs
-asia/india/tamilnadu/kovilpatti
-northamerica/thecaribbean/haiti/jacmel
-europe/spain/catalonia/roses
-asia/israel/nethanya

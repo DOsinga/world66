@@ -1,6 +1,6 @@
 ---
-latitude: 32.6306
-longitude: 130.7164
+latitude: 32.7956
+longitude: 130.7383
 snippet: "Edo-era strolling garden with miniature Tokaido landscapes"
 tags:
 - things_to_do

@@ -6,6 +6,7 @@ phone: 957 29 00 64
 snippet: Classic Cordoban bar by the Almodóvar gate
 tags:
 - bars_and_cafes
+- bar
 title: Casa Rubio
 type: poi
 ---

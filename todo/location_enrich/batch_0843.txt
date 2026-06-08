@@ -1,5 +1,0 @@
-africa/zambia/lusaka
-northamerica/canada/alberta/reddeer
-europe/france/normandybrittany/caen
-northamerica/unitedstates/oklahoma/boley
-northamerica/unitedstates/california/centralvalley/visalia

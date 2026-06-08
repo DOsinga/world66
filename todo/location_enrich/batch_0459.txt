@@ -1,5 +1,0 @@
-europe/france/centre/auvergne/salers
-europe/unitedkingdom/england/suffolk/ipswich
-northamerica/unitedstates/california/shastacascade/quincy
-northamerica/elsalvador/sansalvador
-africa/algeria/bousaada

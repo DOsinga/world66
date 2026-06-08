@@ -1,5 +1,0 @@
-europe/finland/kemijarvi
-europe/italy/sardinia/oristano
-northamerica/unitedstates/wisconsin/parkfalls
-europe/lithuania/palanga
-northamerica/mexico/villahermosa

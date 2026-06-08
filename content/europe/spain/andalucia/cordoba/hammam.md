@@ -4,7 +4,7 @@ latitude: 37.8772
 longitude: -4.7783
 tags:
 - things_to_do
-- landmark
+- sight
 title: Hammam Al Ándalus
 snippet: "Candlelit Arab baths near the Mezquita"
 type: poi

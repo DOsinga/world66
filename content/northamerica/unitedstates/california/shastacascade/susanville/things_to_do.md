@@ -1,20 +1,6 @@
 ---
-title: Things to do in Susanville
-type: poi
+title: Things to Do
+type: section
 ---
 
-### [Railroad Depot](/northamerica/unitedstates/california/shastacascade/susanville/thingstodo/railroaddepot)
-
-601 Richmond Rd. 96130 530/257-3252
-
-type: general
-
-
-
-[[rate it]](/northamerica/unitedstates/california/shastacascade/susanville/thingstodo/railroaddepot)
-
-### [Lassen Historical Museum](/northamerica/unitedstates/california/shastacascade/susanville/thingstodo/lassenhistoricalmuseum)
-
-70 N. Weatherlow St. 96130 530/257-3292
-
-type: general
+Susanville punches above its weight for outdoor recreation. The town sits at the edge of a dramatic volcanic landscape, and the surrounding Lassen County high desert offers remarkable variety: a vast alpine lake, a trail through a river canyon cut by ancient lava flows, and one of California's most accessible active volcanic parks just over an hour away. For a small city built largely around prisons and ranching, the natural endowment is extraordinary.

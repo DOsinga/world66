@@ -7,6 +7,7 @@ tags:
 - park
 title: Botanic Gardens
 type: poi
+story: "The Victoria amazonica water lily, native to the Guianas and Amazon, holds the record for the world's largest floating leaves — up to three metres across, capable of supporting a small child. The Botanic Gardens' lily ponds are one of the easiest places anywhere to see them in flower."
 ---
 
 One hundred and twenty acres of palms, orchids, lotus lilies, and tropical hardwoods on the southeastern edge of the city. The gardens were established in 1879 and are still a genuinely pleasant place — wide paths, old trees, a pond with manatees, and a small zoo at one end. Go in the morning before the heat builds. There is almost always a cool breeze off the nearby canals. The giant Victoria amazonica water lilies, in flower from around October to April, are worth timing a visit around.

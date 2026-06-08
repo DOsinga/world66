@@ -13,7 +13,7 @@ The Sarajevo Film Festival in its 2006 edition will offer its audience and film 
 
 More information: http://www.sff.ba/2006/eng/
 
-### [International Festival Sarajevo Winter](/europe/bosniaandherzegovina/festivals/international_fest)
+### International Festival Sarajevo Winter
 
 Member of EFA since 1995. Sarajevo Winter Festival, celebrating its 20th anniversary in 2004, is a prestigious gathering of artists from all over the world. It is a gateway to a myriad of cultural expressions, mirroring the city's character as a crossroads between cultures and civilisations.
 

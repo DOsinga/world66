@@ -3,12 +3,15 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
+image: ischia.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ischia_da_procida.jpg
 latitude: 40.734205
+loc_type: region
 longitude: 13.947125
 score: 0.7
 title: Ischia
 type: location
-loc_type: region
 ---
 
 *Europe > Italy > Campania > Ischia*

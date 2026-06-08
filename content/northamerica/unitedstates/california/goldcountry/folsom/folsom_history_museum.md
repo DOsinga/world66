@@ -2,6 +2,8 @@
 title: Folsom History Museum
 type: poi
 snippet: "Gold Rush, Pony Express, and first long-distance electrical transmission in a historic Wells Fargo vault"
+story: >
+  Folsom was one of twenty stations on the original Pony Express route, established in April 1860. Riders carrying mail from St Joseph, Missouri, would end their Sacramento Valley leg at this town before handing off to boats for the final stretch to Sacramento. The whole service lasted only 18 months before the transcontinental telegraph made it obsolete, but the Folsom leg is commemorated in a bronze rider near the museum entrance.
 tags:
 - things_to_do
 - museum

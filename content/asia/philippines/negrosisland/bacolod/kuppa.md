@@ -4,6 +4,9 @@ latitude: 10.671517
 longitude: 122.956728
 phone: '034-4336562'
 snippet: Quiet neighbourhood café near St. John's Institute with good coffee
+tags:
+  - bars_and_cafes
+  - bar
 title: 'Kuppa Coffee & Tea'
 type: poi
 ---

@@ -1,5 +1,0 @@
-asia/india/arunachalpradesh/itanagar
-europe/greece/cephalonia/fiskardo
-asia/malaysia/sintok
-europe/portugal/nazare
-northamerica/unitedstates/virginia/lexington

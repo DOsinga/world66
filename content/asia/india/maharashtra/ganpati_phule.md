@@ -1,15 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-14'
+  location_enrich: '2026-05-22'
+image: ganpati_phule.jpg
+image_attribution: Dmpendse (talk) (Uploads)
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:A_Beach_at_GanapatiPule.jpg
 latitude: 17.1449
+loc_type: city
 longitude: 73.2668
+score: 0.41
 title: Ganpatipule
 type: location
-score: 0.41
-loc_type: city
 ---
 
-Ganpatipule is a small coastal town on Maharashtra's Konkan coast, about 350 kilometres south of Mumbai. It sits on a crescent-shaped bay backed by coconut palms, with a long sandy beach that is remarkably clean and uncrowded by Indian standards. The town is best known for the Swayambhu Ganpati Temple, a hilltop shrine housing a naturally formed Ganesh idol that draws Hindu pilgrims from across western India.
+Ganpatipule is a small coastal town on Maharashtra's Konkan coast, about 350 kilometres south of Mumbai. It sits on a crescent-shaped bay backed by coconut palms, with a [long sandy beach](/asia/india/maharashtra/ganpati_phule/ganpatipule_beach) that is remarkably clean and uncrowded by Indian standards. The town is best known for the [Swayambhu Ganpati Temple](/asia/india/maharashtra/ganpati_phule/swayambhu_ganpati_temple), a hilltop shrine housing a naturally formed Ganesh idol that draws Hindu pilgrims from across western India.
 
 The beach runs for several kilometres, curving gently around the bay. The water is clear enough for swimming most of the year, though the monsoon months (June to September) bring rough seas. Behind the beach, the low laterite hills of the Western Ghats foothills are covered in cashew and mango plantations. It is a quiet, unhurried place — the kind of small Indian beach town where the day revolves around temple visits, long walks on the sand, and fresh fish for dinner.
 

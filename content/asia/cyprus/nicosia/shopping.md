@@ -1,10 +1,8 @@
 ---
-title: "Shopping"
+title: Shopping
 type: section
 ---
 
-Main shopping area within the ancient city walls is on Ledra Street, a narrow ending at an army post, on the Green Line. The street is lined with many small shops, and some rather good footwear outlets. Several handicraft shops sell silver, copper and lace.
+The main shopping street in the old city is Ledra Street, a pedestrian zone running from Eleftheria Square south through the heart of the walled city. It mixes international chains with small independent shops selling leather goods, jewellery, ceramics, and traditional Cypriot crafts. Nearby Onasagorou Street is similar in character. The Cyprus Handicraft Centre, near the Laiki Ytonia, is the best place to find quality traditional items — lacework, silverware, carved gourd, and embroidery — at fair prices.
 
-  For more attractive shop windows, stroll along Evagoras Ave., where you will find Stefanel, Benetton, Woolworth and Marks&Spencer.
-
- At the corner of Digheni Street and Theodotou Street, south-east of the old city, you will find the open market
+The main modern shopping district is along Makarios III Avenue in the new city, with European chain stores and shopping centres. For food and produce, the open-air market near Digheni Street on the south side of the old city is worth a visit; there's also a colourful flea market on weekends.

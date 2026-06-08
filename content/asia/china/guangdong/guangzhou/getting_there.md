@@ -3,34 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Computer Repair and TECHNOLOGY Consultancy in Guangzhou
+Guangzhou Baiyun International Airport (CAN) is one of China's busiest, with direct flights from most major Asian cities and increasing connections to Europe and North America. The airport metro (Line 3 extension) connects to the city centre in about 45 minutes.
 
-We provide computer repair and IT consultancy services in Guangzhou.
+The high-speed rail connection from [Hong Kong](/asia/china/hongkong) West Kowloon Station takes around 50 minutes to Guangzhou South station — one of the fastest and most convenient inter-city rail connections in Asia. Guangzhou also sits on the main Beijing–Guangzhou high-speed rail corridor and has excellent rail connections to Shanghai (about 8 hours by high-speed), Chengdu, and Kunming.
 
-We can help you:
-
-1. Resolve Virus/Trojan/Spyware problems
-
-2. Setup your wired/wireless networks
-
-3. Speed up your machines by doing simple maintenance work
-
-4. Install ANY new software or hardware
-
-5. Recover deleted files
-
-6. Burn audio/video discs
-
-7. Create websites
-
-8. etc....
-
-We will have a technician to your house and your problem resolved within 24 hours. Thats our guarantee to you.
-
-All our technicians speak fluent ENGLISH. (we also have a few that speak spanish, japanese, korean, etc.)
-
-Please call 13926000614 to setup an appointment. Down to the Wire IT Consultants.
-
-Call us Today!! You may have mail waiting!
-
-Visit http://www.dttwire.com for more information.
+Within the Pearl River Delta, intercity buses connect Guangzhou to Shenzhen, Zhuhai, and Macau frequently throughout the day. Ferry services to [Macau](/asia/china/macau) and Hong Kong operate from the Nansha and Zhoutouzui terminals.

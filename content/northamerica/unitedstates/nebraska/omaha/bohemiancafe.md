@@ -4,7 +4,7 @@ latitude: 41.2423
 longitude: -95.9377
 snippet: No-frills Czech and Hungarian comfort food since 1924
 tags:
-- things_to_do
+- eating_out
 - restaurant
 title: Bohemian Cafe
 type: poi

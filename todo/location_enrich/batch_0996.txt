@@ -1,8 +1,0 @@
-asia/thailand/ayutthaya
-europe/iceland/selfoss
-southamerica/ecuador/aluasi__railway_t
-asia/iran/khoram_abad
-asia/malaysia/melaka
-europe/armenia/kotayk_marz/hrazdan
-europe/spain/catalonia/girona
-southamerica/peru/huanchaco

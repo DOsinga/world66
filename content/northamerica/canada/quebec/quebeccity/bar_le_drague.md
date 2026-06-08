@@ -9,6 +9,7 @@ phone: (418) 649-7212
 snippet: Québec City's main LGBTQ+ bar with multi-level layout
 tags:
 - bars_and_cafes
+- bar
 title: Bar Le Drague
 type: poi
 url: www.ledrague.com

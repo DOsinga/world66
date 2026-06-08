@@ -5,7 +5,7 @@ longitude: -84.1458
 snippet: Massive granite dome with the world's largest bas-relief carving
 tags:
 - things_to_do
-- landmark
+- sight
 title: Stone Mountain Park
 type: poi
 url: www.stonemountainpark.com

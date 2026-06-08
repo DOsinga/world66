@@ -1,7 +1,9 @@
 ---
 title: "Via del Capo"
 type: poi
-category: Sight
+tags:
+  - things_to_do
+  - sight
 latitude: 40.6224
 longitude: 14.3669
 snippet: "Clifftop road with the best views of Vesuvius and the bay"

@@ -3,7 +3,8 @@ latitude: 56.95578
 longitude: 24.11307
 snippet: Grand Baroque building housing Latvian art from the 18th century on
 tags:
-- things_to_do
+  - things_to_do
+  - museum
 title: Latvian National Museum of Art
 type: poi
 ---

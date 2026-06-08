@@ -1,7 +1,9 @@
 ---
-latitude: 37.7800
+done:
+  location_enrich: '2026-05-17'
+latitude: 37.78
 loc_type: feature
-longitude: 111.3400
+longitude: 111.34
 sources:
 - https://en.wikivoyage.org/wiki/Shanxi
 title: Beiwudang Mountain

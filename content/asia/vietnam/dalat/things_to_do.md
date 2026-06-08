@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Dalat sits at 1500m in the Central Highlands, which gives it a completely different feel from lowland Vietnam. The surrounding hills are covered in pine forests, flower farms, and strawberry plots. Lake Tuyen Lam to the south is the base for the Truc Lam Pagoda — the most impressive Buddhist site in the city — and the Valley of Love is a popular, if touristy, park. The ethnic minority villages in the surrounding mountains are worth seeking out for a more authentic experience.
+Dalat rewards slow exploration. The city's French colonial architecture, highland scenery, and quirky landmarks make it unlike anywhere else in Vietnam. The lake at the centre, the Crazy House a short walk away, and the cable car up to Truc Lam Pagoda cover the essential sights. Beyond the city, Langbiang Mountain offers a half-day trek with panoramic views over the Central Highlands, while the canyoning and motorbike tours that leave from the city centre push into waterfalls and minority villages that most visitors never reach.

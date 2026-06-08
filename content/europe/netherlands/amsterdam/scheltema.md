@@ -4,7 +4,6 @@ type: poi
 snippet: "Amsterdam's largest bookshop across six floors"
 tags:
 - shopping
-- canal_ring
 address: Koningsplein 20
 latitude: 52.3661
 longitude: 4.8833

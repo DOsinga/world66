@@ -2,11 +2,11 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 44.5
+loc_type: region
 longitude: 6.5
+score: 0.62
 title: Southern Alps
 type: location
-score: 0.62
-loc_type: region
 ---
 
 The Southern Alps cover the three French departments with "Alpes" in their name: Alpes-Maritimes, Hautes-Alpes and Alpes-de-Haute-Provence. These are the mountains of Provence — drier, sunnier and more Mediterranean in character than the glaciated peaks of Savoie to the north.

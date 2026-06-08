@@ -6,7 +6,8 @@ latitude: 56.9504
 longitude: 24.1069
 snippet: Latvian War Museum tracing eight centuries of conflict
 tags:
-- things_to_do
+  - things_to_do
+  - museum
 title: Museum of War
 type: poi
 ---

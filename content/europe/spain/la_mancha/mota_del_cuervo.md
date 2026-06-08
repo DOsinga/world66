@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-14'
-  location_enrich: '2026-05-12'
+  location_enrich: '2026-05-16'
 image: mota_del_cuervo.jpg
 image_attribution: Meson de Don Quijote
 image_license: Public domain

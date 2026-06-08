@@ -1,5 +1,0 @@
-europe/russia/ural/south_ural/chelyabinsk
-europe/italy/tuscany/viareggio
-northamerica/unitedstates/newyorkstate/troy
-europe/spain/galicia/o_ribeiro
-europe/france/centre/loirevalley/ancenis

@@ -1,5 +1,0 @@
-europe/norway/stokmarknes
-southamerica/brazil/pomerode
-northamerica/unitedstates/ohio/lima
-europe/spain/catalonia/reus
-northamerica/canada/quebec/hull

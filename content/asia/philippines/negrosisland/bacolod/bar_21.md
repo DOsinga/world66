@@ -6,7 +6,8 @@ latitude: 10.6804
 longitude: 122.9509
 snippet: Upscale cocktail bar and restaurant on Lacson Street
 tags:
-- food_and_drink
+- bars_and_cafes
+- bar
 title: Bar 21 / 21 Restaurant
 type: poi
 ---

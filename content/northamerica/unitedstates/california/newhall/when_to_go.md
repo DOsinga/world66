@@ -1,6 +1,8 @@
 ---
-title: "When to Go in Newhall"
+title: "When to Go"
 type: section
 ---
 
-awesomeee!!!! the only one i've tried on this list is the one in dubai. it's nice! but you can really noctie the difference between real snow and man made snow, specially when u fall on ur face. LOL again, great post johnny! i want to try the one in afganistan too!!!
+Newhall has a classic Southern California climate — warm and dry almost year-round. Spring (March through May) is the most pleasant time to visit, when temperatures are mild and the chaparral hillsides around the Santa Clarita Valley are briefly green. Summers are hot, with temperatures frequently exceeding 100°F (38°C) in July and August; outdoor activities are best in the early morning.
+
+The William S. Hart Museum closes periodically for maintenance, so check ahead if that is the main reason for your visit. The Melody Ranch studio tours depend on the production schedule and are typically offered on weekends from spring through autumn.

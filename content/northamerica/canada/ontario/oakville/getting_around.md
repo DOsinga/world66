@@ -3,6 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Oakville Transit is the local carrier for the City of Oakville, and radiates from a number of terminals in the City of Oakville, and neighbouring cities.
+Oakville Transit runs local bus routes connecting the main residential and commercial areas, with hubs at Oakville GO Station, Trafalgar Road, and the Uptown Core. The network is useful for getting between the station and central areas but is not frequent enough to rely on for exploring the whole town.
 
-Most air travel for persons visiting Oakville is by the Lester Pearson International Airport near Malton in the City of Mississauga. Many national and international carriers operate into this airport, and it is one of the busiest airports in Canada.
+Most visitors use a car. The town is spread out — Old Oakville and the waterfront, Bronte Village, the Uptown Core, and the Ford manufacturing district are all distinct zones separated by suburban thoroughfares. A car makes it much easier to move between them.
+
+The waterfront trail and the Sixteen Mile Creek trail system are well-maintained and good for cycling, connecting several parks and the lake shore.

@@ -7,9 +7,8 @@ longitude: 9.1797
 opening_hours: Mon–Sat 09:00–14:00, 17:00–21:00; closed Sun
 snippet: Family-run wine bar in Chinatown with superb Lombard wines by the glass
 tags:
-- things_to_do
-- bar
-- 48 Hours in Milan
+  - bars_and_cafes
+  - bar
 title: Cantine Isola
 type: poi
 ---

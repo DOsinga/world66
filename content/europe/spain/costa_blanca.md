@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: costa_blanca.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Playa_El_Fosa_de_Calpe.jpg
 latitude: 38.3452
+loc_type: region
 longitude: -0.481
+score: 0.64
 title: Costa Blanca
 type: location
-score: 0.64
-loc_type: region
 ---
 
 The Costa Blanca stretches along the Alicante coast from Dénia in the north to Torrevieja in the south, its name — "white coast" — coming from the pale sand and the limestone cliffs that punctuate the shoreline. It is one of Spain's most popular beach holiday regions, drawing millions of visitors a year with reliable sunshine and warm Mediterranean water.

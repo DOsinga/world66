@@ -3,9 +3,9 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 14.6249
 longitude: -90.5553
-snippet: Pre-classic Maya ruins surrounded by modern Guatemala City
 tags:
-- things_to_do
+  - things_to_do
+  - sight
 title: Kaminaljuyú
 type: poi
 ---

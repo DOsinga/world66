@@ -5,7 +5,7 @@ latitude: -33.0237
 longitude: -71.6293
 snippet: Chile's premier naval museum on Cerro Artillería
 tags:
-- sights
+- things_to_do
 - museum
 ---
 

@@ -4,9 +4,11 @@ done:
 latitude: 32.648
 longitude: 51.6713
 snippet: Isfahan's Armenian cathedral with frescoed interior and manuscript museum
+neighbourhood: New Julfa
 tags:
 - things_to_do
 - landmark
+- new_julfa
 title: Vank Cathedral
 type: poi
 ---

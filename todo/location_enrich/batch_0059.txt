@@ -1,8 +1,0 @@
-africa/niger/arlit
-europe/switzerland/murren
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham
-europe/belgium/brussels
-africa/mauritius/souillac
-asia/pakistan/dera_ghazi_khan
-europe/germany/berlin
-northamerica/canada/britishcolumbia/victoria

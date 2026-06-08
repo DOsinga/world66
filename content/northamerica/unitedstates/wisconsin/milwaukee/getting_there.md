@@ -3,20 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Milwaukee is positioned in the center of the Midwest, in the southeast corner of Wisconsin, on Lake Michigan’s western Shore. Milwaukee is conveniently located near the intersection of interstates 94 and 43. Milwaukee is a regular stop for Amtrak and Greyhound. 
+Milwaukee Mitchell International Airport handles domestic routes throughout the US and some international connections. It is located about 10 kilometres south of downtown. The airport bus (MCTS Route 80) links it to downtown in about 30 minutes; a taxi or rideshare costs around $25–35.
 
+By train, Amtrak’s Hiawatha Service runs between Milwaukee and Chicago Union Station roughly hourly, with the journey taking about 90 minutes. This is the easiest way to arrive from Chicago, and the train deposits you at Milwaukee Intermodal Station in the heart of downtown. The Empire Builder (Chicago to Seattle/Portland) also stops at Milwaukee once daily in each direction.
 
-
-*Mitchell International Airport Serves:*
-
-Mitchell’s 16 airlines offer roughly 220 daily departures (plus 220 daily arrivals). Approximately 90 cities are served nonstop or direct from Mitchell International. It is the largest airport in Wisconsin.
-
-
-
-Midwest Airlines 
-
-414-570-4000 
-
-1-800-452-2022 
-
-Personal attention, wide leather seats and baked-onboard chocolate chip cookies - all at competitive fares - have earned Milwaukee's hometown airline its reputation as "The best care in the air."
+By road, Milwaukee sits at the junction of interstates 43 and 94. Chicago is about 90 minutes by car; Madison is 75 minutes to the west.

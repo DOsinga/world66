@@ -1,17 +1,7 @@
 ---
-title: "Things to do in Anapa"
+title: "Things to Do"
 type: section
 ---
 
-Some places woth visiting in vicinity of Anapa
+Anapa is primarily a beach resort, and the beaches are the main event. Beyond swimming and sunbathing, the town has the [Gorgippia Archaeological Museum](/europe/russia/the_black_sea_coas/anapa/gorgippia_museum), built on the site of the ancient Greek colony whose ruins still lie beneath the modern city. Day trips to the [Abrau-Dyurso winery](/europe/russia/the_black_sea_coas/anapa/abrau_dyurso), 25 km east, offer wine tasting at one of Russia's oldest sparkling wine producers. The [Utrish Nature Reserve](/europe/russia/the_black_sea_coas/anapa/utrish_reserve) to the southeast protects a rare stretch of juniper and wild pistachio forest along a rocky coastline that contrasts sharply with the sandy beaches around the town.
 
-**Utrishsky delphinarium**
-
-The delphinarium is located near to Anapa on the cape Bolshoy (Big) Utrish.
-
-The open-sea performances of dolphins and fur seals give a lot of joy to children and adults. **Abrau-D'urso**
-
-A small town Abrau-D'urso located between Anapa and Novorossiysk is famous for its champagne and wine. Wine production has been existed here since the 19th century. Champagne from Abrau-D'urso is rewarded with 64 international medals.
-
-**Contributors**
-September 23, 2006

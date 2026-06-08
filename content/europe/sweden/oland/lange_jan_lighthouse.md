@@ -5,9 +5,8 @@ latitude: 56.1935
 longitude: 16.3918
 snippet: Historic Baltic lighthouse and prime birdwatching spot
 tags:
-- history
-- nature
-- viewpoint
+- things_to_do
+- sight
 title: Lange Jan Lighthouse
 type: poi
 ---

@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/stafford
+europe/unitedkingdom/england/eastern_england/bury_st_edmunds
+europe/unitedkingdom/england/eastern_england/letchworth
+europe/unitedkingdom/england/eastern_england/peterborough
+europe/unitedkingdom/england/eastern_england/stevenage

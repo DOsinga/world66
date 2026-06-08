@@ -4,7 +4,7 @@ longitude: 8.7367
 snippet: "Ajaccio's main square with Napoleon statue and evening cafes"
 tags:
 - things_to_do
-- landmark
+- sight
 title: Place Foch
 type: poi
 ---

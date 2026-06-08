@@ -7,7 +7,8 @@ longitude: 24.112717
 opening_hours: Wed-Sun 10:00-17:00, closed Mon-Tue
 snippet: Latvia's main natural history museum, free on Sundays
 tags:
-- things_to_do
+  - things_to_do
+  - museum
 title: Museum of Nature
 type: poi
 ---

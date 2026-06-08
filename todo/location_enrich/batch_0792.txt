@@ -1,5 +1,0 @@
-europe/austria/kufstein
-europe/unitedkingdom/england/newcastle_and_north_east/sunderland
-europe/france/nord/arras
-northamerica/unitedstates/michigan/petoskey
-northamerica/unitedstates/arkansas/van_buren

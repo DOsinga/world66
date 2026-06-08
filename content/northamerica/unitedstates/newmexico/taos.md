@@ -2,19 +2,20 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
 latitude: 36.4072
+loc_type: city
 longitude: -105.5733
 score: 0.63
 title: Taos
 type: location
-loc_type: city
 ---
 
-For a town in the middle of nowhere, Taos has a lot going for it. From the numerous art galleries and shops in town to the magnificent ancient dwellings of Taos Pueblo, Taos has plenty to offer for nearly every lifestyle. 
+For a town in the middle of nowhere, Taos has a lot going for it. From the numerous art galleries and shops around [Taos Plaza](/northamerica/unitedstates/newmexico/taos/taos_plaza) to the magnificent ancient dwellings of [Taos Pueblo](/northamerica/unitedstates/newmexico/taos/taos_pueblo), the place has a depth that takes time to appreciate.
 
-An extra hour and a half northeast of Santa Fe, Taos is home of the oldest inhabited structures in North America at Taos Pueblo. The Red Willow culture has been calling the pueblo home since the mid 1200s, and many members of the tribe still live in the adobe buildings of the pueblo year round. There's a small fee to get in to the pueblo, and another if you plan on bringing a camera, but all proceeds go directly to the reservation and its people. 
+[Taos Pueblo](/northamerica/unitedstates/newmexico/taos/taos_pueblo) is about four kilometres north of town — a UNESCO World Heritage Site and one of the oldest continuously inhabited communities in North America. The Red Willow culture has been calling the pueblo home since around 1000 CE, and many members of the tribe still live in the traditional multi-storied adobe buildings year round. There's an entry fee and a photography fee on top of that, but all proceeds go directly to the pueblo community.
 
-If you're in to art, Rancho de Taos, the main part of town, has plenty of galleries and local shops to keep you happy. Most of the galleries showcase local artists, and both painting and photography are popular occupations for the residents. Most of the emphasis is on the outdoors and the surroundings, but its difficult for it to not be considering the location of the town. 
+The art scene is substantial. Taos became an artist colony in 1898, when two painters whose wagon broke down decided to stay, and it has attracted serious artists ever since. The [Harwood Museum](/northamerica/unitedstates/newmexico/taos/harwood_museum) and the [Blumenschein House](/northamerica/unitedstates/newmexico/taos/blumenschein_house) are the best starting points for understanding the Taos art tradition. The [Mabel Dodge Luhan House](/northamerica/unitedstates/newmexico/taos/mabel_dodge_luhan_house) — where D.H. Lawrence and Georgia O'Keeffe stayed — is still operating as a bed and breakfast.
 
-There are numerous outdoor marvels as well. From the Rio Grande Gorge to the Southern Rockies, hikers, climbers, and outdoor enthusiasts should have no problem finding all sorts of activities in the area. There is a visitors center on the south road into town with tons of information, as well as different places in town to find info about all the activities, shopping and sightseeing to be done in Taos and the surrounding Circle of Enchantment.
+The outdoors is as compelling as the culture. The [Rio Grande Gorge](/northamerica/unitedstates/newmexico/taos/rio_grande_gorge) drops nearly 200 metres into the high desert west of town, and [Taos Ski Valley](/northamerica/unitedstates/newmexico/taos/taos_ski_valley) is one of the most challenging ski mountains in the American Southwest. A visitor centre on the south road into town has maps and information about the full range of activities in what locals call the Circle of Enchantment.

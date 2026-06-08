@@ -1,5 +1,0 @@
-europe/estonia/noarootsi
-northamerica/canada/quebec/montreal
-europe/unitedkingdom/england/south_east/eastbourne
-southamerica/chile/valparaiso
-northamerica/mexico/nuevarosita

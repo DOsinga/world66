@@ -1,5 +1,0 @@
-europe/france/normandybrittany/roscoff
-europe/italy/tuscany/chianciano_terme
-europe/unitedkingdom/england/norfolk/lenwade_great_wit
-europe/italy/lombardia/lagodigarda/sirmione
-asia/thailand/surin_province/surin

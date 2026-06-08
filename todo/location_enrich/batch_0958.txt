@@ -1,5 +1,0 @@
-asia/japan/honshu/koyasan
-europe/germany/thuringia/naumburg
-asia/china/shenyang
-southamerica/brazil/cumbuco
-africa/mauritius/rosehill

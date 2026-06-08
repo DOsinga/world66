@@ -1,12 +1,15 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: gower.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Rhossili.beach.arp.750pix.jpg
 latitude: 51.5756
+loc_type: region
 longitude: -4.1503
+score: 0.56
 title: Gower
 type: location
-score: 0.56
-loc_type: region
 ---
 
 The **Gower Peninsula** was the first area in the UK to be designated an Area of Outstanding Natural Beauty, and it deserves the title. It juts out west from [Swansea](/europe/unitedkingdom/wales/swansea), a compact stretch of dramatic cliffs, wide sand beaches, and green farmland that rivals Pembrokeshire and the Lleyn Peninsula for coastal scenery — in a much smaller area.

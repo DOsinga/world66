@@ -1,5 +1,0 @@
-northamerica/unitedstates/connecticut/newhaven
-europe/germany/northrhinewestphalia/bochum
-northamerica/unitedstates/oklahoma/ada
-europe/italy/tuscany/forte_dei_marmi
-northamerica/unitedstates/newyorkstate/rochester

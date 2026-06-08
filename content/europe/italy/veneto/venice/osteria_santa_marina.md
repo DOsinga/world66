@@ -4,9 +4,10 @@ latitude: 45.4408
 longitude: 12.339
 opening_hours: Tue–Sat 12:30–14:30, 19:30–22:00; closed Sun–Mon
 snippet: "Modern Venetian seafood with near-Michelin presentation at accessible prices"
+neighbourhood: Castello
 tags:
-- 48 Hours in Venice
 - eating_out
+- castello
 - restaurant
 title: L'Osteria di Santa Marina
 type: poi

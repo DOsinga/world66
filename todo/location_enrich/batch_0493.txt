@@ -1,5 +1,0 @@
-europe/spain/galicia/redondela
-northamerica/unitedstates/newmexico/farmington
-europe/norway/grimstad
-europe/spain/la_mancha/almagro
-europe/unitedkingdom/england/south_east/twickenham

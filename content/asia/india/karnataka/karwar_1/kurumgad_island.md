@@ -4,6 +4,7 @@ longitude: 74.0833
 snippet: Quiet island with a Shiva temple and empty beaches
 tags:
 - things_to_do
+- sight
 title: Kurumgad Island
 type: poi
 ---

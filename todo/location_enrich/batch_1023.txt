@@ -1,5 +1,0 @@
-northamerica/unitedstates/maryland/montgomerycounty/rockville
-europe/sweden/stockholm
-europe/norway/harstad
-australiaandpacific/vanuatu/tanna
-asia/philippines/butuan

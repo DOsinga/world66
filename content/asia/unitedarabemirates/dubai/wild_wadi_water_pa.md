@@ -1,41 +1,15 @@
 ---
-accessibility: 11.00 am to 6:00 pm or later
-address: Jumeriah Beach Road
-category: Sight
+address: Jumeirah Beach Road, next to Burj Al Arab
 latitude: 25.225155
 longitude: 55.257922
+tags:
+- things_to_do
+- sight
+- jumeirah
 title: Wild Wadi Water Park
 type: poi
-url: www.sigmahotels-dubai.com
 ---
 
-Wild Wadi Waterpark is a water
-theme park covering an area of 12 acres
-and comprises of around 30 different
-rides and slides. Wild Wadi is located on
-the Jumeirah Beach Road next to
-the Jumeirah Beach Hotel and Burj Al Arab hotel,
-and about a 20 minute drive from the center
-of Dubai.
-This
-water park has been designed like an Arabian wadi (oasis) and many of the rides and attractions interconnect.
-Once you enter the park, you
-will be given access to all the water rides, as
-well as the use of rubber rings, lifejackets and
-body boards. The water park has 90 lifeguards on
-duty, keeping you safe while you are having fun.
-Wild Wadi's variety of rides suit kids of all ages,
-make it a favourite water sports area in Dubai.
-Open everyday from 11:00 am to between 6:00 and 9:00 PM, depending on the time of year, the entrance fee is 160 AED for adults and 125 AED for children (children must be under 1.1 meters tall to get the child rate).
+Wild Wadi is a 12-acre waterpark on Jumeirah Beach Road, immediately adjacent to the Burj Al Arab and Jumeirah Beach Hotel. The park is themed around an Arabian wadi (desert oasis) and the 30-plus rides and slides are mostly interconnected — once you enter, you ride continuously without exiting and re-queuing for each attraction separately.
 
-type: Swimming
-
-
-
-
-
-accessibility: 11.00 am to 6:00 pm or later
-
-url: [www.sigmahotels-dubai.com](http://www.sigmahotels-dubai.com/wild-wadi-waterpark.html)
-
-address: Jumeriah Beach Road
+The signature ride is the Jumeirah Sceirah, a free-fall slide that reaches 80km/h and is one of the fastest slides outside North America. The lazy river and wave pool suit younger children; the more intense rides are for older kids and adults. Tickets are sold in half-day and full-day formats. The park is smaller than Aquaventure on the Palm and less crowded, which many visitors prefer.

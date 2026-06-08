@@ -5,6 +5,7 @@ longitude: -71.2023
 snippet: All-you-can-eat mussels bistro in Lower Town
 tags:
 - eating_out
+- restaurant
 title: L'Ardoise
 type: poi
 ---

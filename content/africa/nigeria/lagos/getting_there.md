@@ -1,12 +1,10 @@
 ---
-title: "Getting There in Lagos"
+title: Getting There
 type: section
 ---
 
-MapNTL.com is Nigeria’s most popular online mapping portal, offering a range of free, useful services to assist with everyday life. Key features include interactive street-level map of Lagos , driving direction to businesses, places, landmarks, cities, Nigeria 's Highway mapping data. Online point-to-point driving directions and routing services to guide visitors to different categories of businesses is provided.
+**By air**: Murtala Muhammed International Airport (LOS) in Ikeja is the main entry point, with direct flights from most of West Africa, the Middle East, Europe and a handful of US cities. The international and domestic terminals are about a kilometre apart and you change buildings to switch. The airport is on the mainland; transfers to Victoria Island take 45 minutes in clean traffic and well over two hours in evening rush. Pre-book a transfer; do not negotiate with the touts in the arrivals hall.
 
-MapNTL recently launched Nigeria's first Mapvertising platform allowing businesses to leverage the compelling visual power of map and geograpy to connect with theur customers. Using an advanced API, advertisers in Lagos can now mark the location of their businesses using their coprorate logo or compaign pictures. With this development, users of MapNTL.com can easily see where a particular business is located by looking for its distinct logo. The location of all branches/outlets of Zenith bank, Oceanic Bank, UBA, FCMB, Tantalizers, Mr Biggs, ETB, GTB, Tastee Fried Chicken, etc are all marked on MapNTL.com's interactive map using their corporate logos.
+**By road**: the main land entries are from Cotonou (Benin) in the west (the bus journey is about three hours plus border, with delays unpredictable) and from Ibadan in the north (about 2.5 hours on the toll road). Long-distance buses arrive at chaotic motor parks at Iddo, Ojota, and Mile 2 — and from there you take a taxi.
 
-The site contains a powerful spatial search engine that allows vistors to search for any of the over 50,000 businesses in Lagos with its database and get accurate driving direction to these business locations. Routes can be generated using street names (e.g Ikorodu Road to Admiralty Road , Lekki) or Suburb (e.g from Agege to Lekki Phase I) or Business name (e.g Zenith Bank - Awolowo Rd , Ikoyi to Tantalizers, Itire Rd , Lawanson)
-
-For Enquiry, contact [info@mapntl.com](/africa/nigeria/lagos) or +44792996752
+**By boat**: there are scheduled ferries from Cotonou to Lagos Lagoon but the route is intermittent and used mostly by locals.

@@ -1,8 +1,10 @@
 ---
-category: Sight
 latitude: 26.8787
 longitude: 70.5465
 snippet: Desert rides ending under star-filled skies
+tags:
+- things_to_do
+- sight
 title: Camel Safari
 type: poi
 ---

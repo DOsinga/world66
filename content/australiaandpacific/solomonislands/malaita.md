@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-04'
 latitude: -8.955169
 longitude: 160.951441
 title: Malaita

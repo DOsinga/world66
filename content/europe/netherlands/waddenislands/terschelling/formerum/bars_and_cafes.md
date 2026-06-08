@@ -3,4 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-**De Koffiemolen** — A working windmill that doubles as a café. Stop for coffee and cranberry pie while admiring the collection of over 50 antique coffee mills and other traditional tools inside.
+The [Koffiemolen](/europe/netherlands/waddenislands/terschelling/formerum/koffiemolen) windmill is the obvious stop for coffee and cranberry pie, with its collection of antique coffee mills inside. The [Wrakkenmuseum](/europe/netherlands/waddenislands/terschelling/formerum/wrakkenmuseum) also runs a small café on the museum's terrace.

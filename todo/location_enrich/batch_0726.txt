@@ -1,5 +1,0 @@
-asia/philippines/zamboanga
-australiaandpacific/fiji/vitilevu/nadi
-europe/sweden/falkenberg
-northamerica/unitedstates/indiana/tell_city
-africa/ghana/akosombo

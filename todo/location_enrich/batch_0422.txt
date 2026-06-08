@@ -1,5 +1,0 @@
-europe/france/midi/basqueregion/bayonne
-northamerica/unitedstates/hawaii/kauai
-europe/unitedkingdom/england/eastern_england/grays
-europe/norway/kragero
-asia/indonesia/sumatra/pulausamosir

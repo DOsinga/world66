@@ -1,26 +1,18 @@
 ---
-latitude: 56.970606
-longitude: 24.227771
+address: Sergeja Eizenšteina iela 6, Riga
+latitude: 56.9706
+longitude: 24.2278
+opening_hours: Tue-Sun 10:00-18:00, closed Mon
+snippet: The best car museum in the Baltics, with Soviet limousines used by Communist leaders
 tags:
-- things_to_do
-title: Motor Museum.
+  - things_to_do
+  - museum
+title: Riga Motor Museum
 type: poi
+story: >
+  Among the exhibits is the ZIL limousine used by Leonid Brezhnev, preserved exactly as it was after he crashed it on the grounds of the Kremlin — he was an enthusiastic but reckless driver. The dent is still there.
 ---
 
-Eizensteina 6, tel.: 7097170. Open 10-18. Closed Mon. Admission: 1Ls. (Taxi (recommended) or bus N 21 from Brivibas to the Pansionats stop in Mezciems).
+The Riga Motor Museum is one of the best car museums in the Baltic states, with a collection that goes well beyond the usual parade of polished vehicles. The centrepiece is a remarkable hall of Soviet-era cars: state limousines, military vehicles, and the personal cars of Communist leaders, including a ZIL belonging to Brezhnev and a Rolls-Royce used by the Latvian head of state.
 
-type: Museums
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The museum is out of the centre — take a taxi or bus 21 from Brīvības iela to the Pansionāts stop in Mežciems — but enthusiasts and anyone curious about Soviet history will find it worth the detour. A newer wing covers the broader history of the automobile. Allow about two hours.

@@ -1,10 +1,12 @@
 ---
-category: Neighbourhood
 done:
   poi_cleanup: '2026-04-19'
 latitude: 37.563
 longitude: -122.3255
 snippet: Walkable grid of restaurants, cafes, and independent shops
+tags:
+  - things_to_do
+  - neighbourhood
 title: Downtown San Mateo
 type: poi
 ---

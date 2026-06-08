@@ -1,10 +1,12 @@
 ---
-category: Museum
 done:
   poi_cleanup: '2026-04-20'
 latitude: 48.7239
 longitude: 44.5133
 snippet: Immersive circular painting of the Battle of Stalingrad
+tags:
+  - things_to_do
+  - museum
 title: Stalingrad Battle Panorama Museum
 type: poi
 ---

@@ -1,8 +1,11 @@
 ---
 address: Royal Hospital, Military Road, Kilmainham
+admission: Free (permanent collection)
 latitude: 53.343883
 longitude: -6.296987
-snippet: "Ireland's national museum for modern and contemporary art"
+opening_hours: Tue–Fri 11:30–17:30, Sat 10:00–17:30, Sun 12:00–17:30, closed Mon
+phone: +353 1 612 9900
+snippet: Ireland's national museum for modern and contemporary art, in a 17th-century building
 tags:
 - things_to_do
 - museum

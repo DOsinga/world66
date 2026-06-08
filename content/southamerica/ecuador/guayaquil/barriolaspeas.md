@@ -3,8 +3,9 @@ latitude: -2.1894
 longitude: -79.9232
 snippet: Colorful colonial neighborhood at the foot of Santa Ana hill
 tags:
-- sights
-title: Barrio las Peñas
+- things_to_do
+- neighbourhood
+title: Barrio Las Peñas
 type: poi
 ---
 

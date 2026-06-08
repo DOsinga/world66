@@ -1,8 +1,0 @@
-australiaandpacific/newzealand/north_island/manawatu
-northamerica/unitedstates/rhodeisland/coventry
-europe/sweden/trollhttan
-europe/spain/spanishcostas/benidorm
-asia/iraq/arbil
-asia/vietnam/hue
-europe/poland/zakopane
-northamerica/unitedstates/texas/houston

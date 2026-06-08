@@ -8,6 +8,8 @@ tags:
   - museum
 latitude: 45.4377
 longitude: 12.3271
+snippet: "Tintoretto's greatest cycle — 60 paintings covering every wall and ceiling"
+neighbourhood: San Polo
 story: >
   In 1564, the confraternity held a competition to decorate the ceiling of the Sala dell'Albergo. Tintoretto was supposed to submit a preparatory drawing like the other competitors. Instead he installed the finished painting overnight and unveiled it on the morning of the competition. He won the commission and spent the next 23 years decorating the entire building.
 ---

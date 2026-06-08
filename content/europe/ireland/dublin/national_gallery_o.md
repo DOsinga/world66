@@ -1,8 +1,11 @@
 ---
 address: Merrion Square West & Clare Street
+admission: Free (permanent collection)
 latitude: 53.3408
 longitude: -6.2523
-snippet: "Free national collection of Irish art and European masters"
+opening_hours: Mon–Sat 09:15–17:30 (Thu until 20:30), Sun 11:00–17:30
+phone: +353 1 661 5133
+snippet: Free national collection of Irish art and European masters
 tags:
 - things_to_do
 - museum

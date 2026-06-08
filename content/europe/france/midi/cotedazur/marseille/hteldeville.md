@@ -1,7 +1,7 @@
 ---
 address: Quai du Port, Marseille
-latitude: 43.2963
-longitude: 5.3697
+latitude: 43.2981
+longitude: 5.3698
 snippet: 17th-century city hall on the Old Port, decorated by Pierre Puget
 tags:
 - things_to_do

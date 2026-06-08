@@ -6,6 +6,7 @@ longitude: 88.357254
 snippet: Ancient potters' quarter where clay festival idols take shape
 tags:
 - things_to_do
+- neighbourhood
 title: Kumartuli
 type: poi
 ---

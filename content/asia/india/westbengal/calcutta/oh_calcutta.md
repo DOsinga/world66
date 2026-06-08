@@ -5,6 +5,7 @@ longitude: 88.3504
 snippet: Upscale Bengali fusion cuisine in an elegant setting
 tags:
 - eating_out
+- restaurant
 title: Oh! Calcutta
 type: poi
 ---

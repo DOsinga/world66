@@ -8,10 +8,10 @@ Krasnoyarsk region offers many interesting options for those who prefer active t
 **Contributors**
 September 23, 2006
 
-### [Travel along the Yenisey](/europe/russia/krasnoyarsk_region/things_to_do/travel_along_the_y)
+### Travel along the Yenisey
 
 One can take the steam-ship cruise on the river Yenisey from **Krasnoyarsk** to the northern **port Dudinka**. Such travel will enable you to admire the beauty of the Siberia nature and study the local cultural monuments.
 The oldest city of the Eastern Siberia **Yeniseisk** which had been founded in 1619, is located to the north from **Krasnoyarsk** on the coast of the Yenisey. The great number of ancient Russian architecture mon&shy;uments was preserved there.
-One of the oldest monasteries in Siberia [more..](/europe/russia/krasnoyarsk_region/things_to_do/travel_along_the_y)
+One of the oldest monasteries in Siberia, the Spaso-Preobrazhensky monastery, still stands here and is worth a visit for its onion-domed churches and quiet riverside setting.
 
 type: Other

@@ -1,12 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-05-31'
+image: weaverville_joss_house.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Weaverville_Joss_House_State_Historic_Park.jpg
 latitude: 40.743375
+loc_type: city
 longitude: -122.928237
+score: 0.35
+sources:
+- https://en.wikipedia.org/wiki/Weaverville,_California
+- https://en.wikipedia.org/wiki/Weaverville_Joss_House_State_Historic_Park
+- https://en.wikipedia.org/wiki/Trinity_Alps_Wilderness
+- https://en.wikipedia.org/wiki/Trinity_Lake
 title: Weaverville
 type: location
-score: 0.35
-loc_type: city
 ---
 
 Weaverville is a small mountain town in Trinity County, about an hour west of Redding on Highway 299. It sits at around 2,000 feet in the Trinity Alps, surrounded by thick forest and clear rivers. The town has been here since the Gold Rush and still has the look of a well-preserved 19th-century mining settlement, with a compact historic downtown of brick and wood-frame buildings.

@@ -6,7 +6,8 @@ latitude: 17.2523
 longitude: -88.7671
 snippet: National museum in a restored Victorian colonial jail
 tags:
-- museums
+- things_to_do
+- museum
 - history
 title: Museum of Belize
 type: poi

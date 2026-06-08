@@ -6,6 +6,7 @@ opening_hours: Tu-Fr 2pm -7pm, Sa 11am -5pm
 snippet: Berlin gallery showing international works by emerging artists
 tags:
 - shopping
+- berlinmitte
 title: Eigen + Art
 type: poi
 ---

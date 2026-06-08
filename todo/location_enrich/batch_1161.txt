@@ -1,5 +1,0 @@
-northamerica/unitedstates/georgia/americus
-europe/ukraine/zovkva
-southamerica/venezuela/san_cristobal
-asia/palestinianauthority/jerico
-europe/greece/tinos

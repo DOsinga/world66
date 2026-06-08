@@ -1,5 +1,0 @@
-europe/romania/vama_veche
-europe/albania/elbasan
-europe/croatia/gorski_kotar
-europe/italy/sardinia/costasmeralda/portorotondo
-europe/italy/veneto/padova

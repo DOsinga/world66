@@ -1,5 +1,0 @@
-asia/myanmar/kalaw
-europe/armenia/gegharkunik_marz
-northamerica/unitedstates/utah/huntsville
-europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan
-europe/spain/northernspain/burgos

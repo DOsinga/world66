@@ -1,24 +1,15 @@
 ---
+address: Anglikāņu iela 2a, Riga
+latitude: 56.9479
+longitude: 24.1053
+snippet: The only Anglican church in Latvia, built for British merchants in the 1850s
 tags:
-- things_to_do
-title: St. Saviour's.
+  - things_to_do
+  - sight
+title: St Saviour's Anglican Church
 type: poi
 ---
 
-Anglikanu 2a.
+St Saviour's is the only Anglican church in Latvia, built in 1857 to serve the sizeable community of British merchants who traded in Riga during its years as a major Baltic port. It's a modest neo-Gothic red brick building tucked into a courtyard just off the river, easily overlooked but pleasant to find.
 
-type: Churches
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Services are still held in English on Sundays. The church also functions as a cultural space, hosting occasional concerts and community events. The interior is small and simply furnished, with some original 19th-century fittings.

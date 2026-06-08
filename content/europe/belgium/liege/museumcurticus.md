@@ -6,7 +6,8 @@ latitude: 50.6471
 longitude: 5.5835
 snippet: Archaeology and decorative arts in a patrician mansion
 tags:
-- museums
+- things_to_do
+- museum
 title: Grand Curtius Museum
 type: poi
 ---

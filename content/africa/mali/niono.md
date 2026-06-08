@@ -1,12 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-22'
+image: niono.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Africa._French_West_Africa._Another_new_villiage_is_Riziam,_near_the_new_Niono_cotton_region._Still_under..._-_NARA_-_541639.tif
 latitude: 14.25152
+loc_type: city
 longitude: -5.978334
+score: 0.25
 title: Niono
 type: location
-score: 0.25
-loc_type: city
 ---
 
-Niono is considered the Venice of Africa. The town is navigabel by boat. The mud brick houses, and the mud brick mosque, as impressive as the one in [Djenne](/africa/mali/djenne), give this Venice a real African feel. Niono can be visited as a daytrip from [Segou](/africa/mali/segou) or on the road from [Segou](/africa/mali/segou) to [Timbuktu](/africa/mali/timbuktu). In this last case, you have to realise that getting transportation will be harder when you split up the trip.
+Niono is a town in the Ségou Region of Mali, about 55 kilometres northwest of [Segou](/africa/mali/segou), set in the flat irrigated landscape of the [Office du Niger](/africa/mali/niono/office_du_niger) agricultural scheme. The surrounding countryside is laced with irrigation canals, producing rice on land that would otherwise be dry Sahel — a striking and unexpected landscape in this part of Mali.
+
+The town's main sight is its [Great Mosque](/africa/mali/niono/great_mosque_of_niono), a notable example of Sudano-Sahelian mud-brick architecture with the characteristic tapering minarets and protruding wooden toron beams of the tradition. While less famous than the Grand Mosque at [Djenné](/africa/mali/djenne), it is architecturally impressive and worth the visit. Niono is most practically seen as a day trip from Segou, or as a stop on the road north toward [Timbuktu](/africa/mali/timbuktu) — though note that transport becomes less frequent beyond Niono and the security situation in the region should be checked carefully before travelling further north.

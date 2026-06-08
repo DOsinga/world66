@@ -5,7 +5,8 @@ latitude: 7.2088
 longitude: 79.8386
 snippet: Grand Catholic church with vivid painted ceiling
 tags:
-- religious
+- things_to_do
+- sight
 - architecture
 title: St. Mary's Church
 type: poi

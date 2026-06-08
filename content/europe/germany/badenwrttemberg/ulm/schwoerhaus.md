@@ -2,7 +2,8 @@
 title: "Schwoerhaus"
 type: poi
 tags:
-  - sights
+  - things_to_do
+  - sight
 address: "Weinhof 12, 89073 Ulm"
 latitude: 48.396278
 longitude: 9.990312

@@ -6,6 +6,7 @@ longitude: -4.782
 snippet: Medieval lanes, rare synagogue, and Maimonides' birthplace
 tags:
 - things_to_do
+- neighbourhood
 title: Judería (Jewish Quarter)
 type: neighbourhood
 ---

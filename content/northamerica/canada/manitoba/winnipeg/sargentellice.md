@@ -1,15 +1,10 @@
 ---
+latitude: 49.8952
+longitude: -97.1760
 tags:
 - eating_out
-title: Sargent/ellice
+title: Sargent and Ellice Avenues
 type: poi
 ---
 
-These two streets bring together a variety of cultures forming
-Winnipeg's ethnic melting pot and offering some of the city's great
-ethnic restaurants.
-
-**Contributors**
-March 30, 2005
-
-type: African
+Two parallel streets in the West End that together form one of Winnipeg's most diverse dining corridors. Filipino restaurants, Vietnamese pho houses, Indian grocers, and African-Caribbean takeouts sit side by side. This is where the city's newer immigrant communities have settled, and the food reflects it — cheaper and more authentic than the tourist-facing restaurant strips, and well worth the short bus ride from downtown.

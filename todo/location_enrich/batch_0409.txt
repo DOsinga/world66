@@ -1,5 +1,0 @@
-northamerica/unitedstates/wisconsin/madison
-northamerica/unitedstates/montana/bigfork
-asia/india/uttaranchal/auli
-europe/unitedkingdom/england/gloucestershire/gloucester
-europe/ireland/waterford

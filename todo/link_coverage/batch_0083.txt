@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/tampabayarea/pinellastrail
-northamerica/unitedstates/florida/thepanhandle/apalachicola
-northamerica/unitedstates/florida/titusville
-northamerica/unitedstates/georgia/plains
-northamerica/unitedstates/georgia/springermountain

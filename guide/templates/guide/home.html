@@ -12,7 +12,7 @@
 
 {% block hero %}
 <div class="home-hero">
-  <img src="/content-image/asia.jpg" class="home-hero-bg" alt="Mt. Fuji, Japan">
+  <img src="/content-image/europe/faroeislands/streymoy/saksun.jpg" class="home-hero-bg" alt="Saksun, Faroe Islands">
   <div class="home-hero-veil"></div>
   <div class="home-hero-body">
     <h1 class="home-hero-title">Explore<br>the world.</h1>
@@ -23,15 +23,29 @@
     </div>
   </div>
   <div class="home-hero-foot">
-    <div class="home-hero-stat"><span class="home-hero-stat-n">20,000+</span><span class="home-hero-stat-l">destinations</span></div>
-    <div class="home-hero-stat"><span class="home-hero-stat-n">7</span><span class="home-hero-stat-l">continents</span></div>
-    <div class="home-hero-stat"><span class="home-hero-stat-n">Open</span><span class="home-hero-stat-l">source &amp; content</span></div>
-    <div class="home-hero-stat"><span class="home-hero-stat-n">No ads</span><span class="home-hero-stat-l">ever</span></div>
+    <div class="home-hero-promise">The honest travel guide — no ads, no paid links, no algorithm. 20,000 destinations, free to read and free to copy. Always.</div>
   </div>
 </div>
 {% endblock %}
 
 {% block wide_content %}
+<div class="home-contribute">
+  <div class="home-contribute-img">
+    <img src="/content-image/southamerica.jpg" alt="Machu Picchu, Peru">
+  </div>
+  <div class="home-contribute-panel">
+    <p class="home-contribute-kicker">Open source travel guide</p>
+    <h2 class="home-contribute-title">Help us build it.</h2>
+    <p class="home-contribute-body">The guide is written by agents — and anyone can put their agent to work. Fork the repo, run <code>/todo</code>, open a PR. All content is Creative Commons, all code is on GitHub.</p>
+    <div class="home-contribute-steps">
+      <div class="home-contribute-step"><span>1</span> Fork &amp; clone the repo</div>
+      <div class="home-contribute-step"><span>2</span> Start your agent, run <code>/todo</code></div>
+      <div class="home-contribute-step"><span>3</span> The skill opens a PR automatically</div>
+    </div>
+    <a href="/about#contribute" class="home-contribute-cta">How it works →</a>
+  </div>
+</div>
+
 <div class="wide-block home-continents-section" id="destinations">
   <div class="home-section-label">Explore by continent</div>
   <div class="home-continent-grid">
@@ -54,23 +68,6 @@
       </div>
     </a>
     {% endfor %}
-  </div>
-</div>
-
-<div class="home-contribute">
-  <div class="home-contribute-img">
-    <img src="/content-image/southamerica.jpg" alt="Machu Picchu, Peru">
-  </div>
-  <div class="home-contribute-panel">
-    <p class="home-contribute-kicker">Open source travel guide</p>
-    <h2 class="home-contribute-title">Help us build it.</h2>
-    <p class="home-contribute-body">The guide is written by agents — and anyone can put their agent to work. Fork the repo, run <code>/todo</code>, open a PR. All content is Creative Commons, all code is on GitHub.</p>
-    <div class="home-contribute-steps">
-      <div class="home-contribute-step"><span>1</span> Fork &amp; clone the repo</div>
-      <div class="home-contribute-step"><span>2</span> Start your agent, run <code>/todo</code></div>
-      <div class="home-contribute-step"><span>3</span> The skill opens a PR automatically</div>
-    </div>
-    <a href="/about#contribute" class="home-contribute-cta">How it works →</a>
   </div>
 </div>
 {% endblock %}

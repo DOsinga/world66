@@ -1752,31 +1752,13 @@ img { max-width: 100%; height: auto; }
   backdrop-filter: blur(6px);
 }
 
-.home-hero-stat {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-  padding: 18px 32px;
-  border-right: 1px solid rgba(255,255,255,0.12);
-}
-.home-hero-stat:last-child { border-right: none; }
-
-.home-hero-stat-n {
-  font-family: var(--display-font);
-  font-weight: 400;
-  font-variation-settings: "opsz" 144;
-  font-size: 20px;
-  letter-spacing: -0.02em;
-  color: #fff;
-}
-
-.home-hero-stat-l {
+.home-hero-promise {
+  padding: 16px 40px;
   font-family: var(--label-font);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 0.10em;
-  color: rgba(255,255,255,0.55);
+  font-size: 13px;
+  color: rgba(255,255,255,0.70);
+  letter-spacing: 0.01em;
+  line-height: 1.5;
 }
 
 /* Section label above continent grid */

@@ -448,6 +448,8 @@ def load_featured_cities():
                 meta, body = r
                 if meta.get("type") != "location":
                     continue
+                if float(meta.get("score", 0) or 0) < 0.70:
+                    continue
                 image = meta.get("image", "")
                 if not image:
                     continue

@@ -30,7 +30,7 @@
 
 {% block wide_content %}
 <div class="wide-block home-continents-section" id="destinations">
-  <h2 class="home-section-label">Explore 20,000 destinations</h2>
+  <h2 class="home-section-label">Every continent. Every country.</h2>
   <div class="home-continent-grid">
     {% for c in continents %}
     <div class="home-continent-card">
@@ -72,7 +72,7 @@
 
 {% if featured_cities %}
 <div class="wide-block home-cities-section">
-  <h2 class="home-section-label">100s of cities worth exploring</h2>
+  <h2 class="home-section-label">Remarkable cities worth exploring</h2>
   <div class="home-city-grid">
     {% for city in featured_cities %}
     <a href="{{ city.page.get_absolute_url }}" class="home-city-card">

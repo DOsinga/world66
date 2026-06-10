@@ -2213,9 +2213,6 @@ img { max-width: 100%; height: auto; }
   filter: grayscale(20%);
 }
 
-.about-team-photo--cartoon {
-  filter: grayscale(60%) contrast(0.95);
-}
 
 .about-team-photo img {
   width: 100%;

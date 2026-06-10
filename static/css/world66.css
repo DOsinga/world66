@@ -1680,18 +1680,18 @@ img { max-width: 100%; height: auto; }
   position: absolute;
   inset: 0;
   background: linear-gradient(
-    to bottom,
-    rgba(0,0,0,0.04) 0%,
-    rgba(0,0,0,0.08) 30%,
-    rgba(0,0,0,0.55) 62%,
-    rgba(0,0,0,0.82) 100%
+    to right,
+    rgba(0,0,0,0.88) 0%,
+    rgba(0,0,0,0.70) 30%,
+    rgba(0,0,0,0.25) 60%,
+    rgba(0,0,0,0.00) 100%
   );
 }
 
 .home-hero-body {
   position: relative;
-  padding: 0 64px 56px;
-  max-width: 640px;
+  padding: 0 64px;
+  max-width: 620px;
 }
 
 .home-hero-title {
@@ -1767,6 +1767,9 @@ img { max-width: 100%; height: auto; }
 
 /* Continent cards section */
 .home-continents-section {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
   padding-top: 64px;
   padding-bottom: 0;
 }
@@ -1784,8 +1787,14 @@ img { max-width: 100%; height: auto; }
   overflow: hidden;
   border-radius: 4px;
   background: var(--ink);
-  text-decoration: none;
   color: #fff;
+  cursor: pointer;
+}
+
+.home-continent-stretch {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
 }
 
 .home-continent-img {
@@ -1813,6 +1822,7 @@ img { max-width: 100%; height: auto; }
 .home-continent-overlay {
   position: absolute;
   inset: 0;
+  z-index: 2;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -1826,6 +1836,7 @@ img { max-width: 100%; height: auto; }
   font-size: clamp(18px, 1.6vw, 24px);
   letter-spacing: -0.02em;
   color: #fff;
+  text-decoration: none;
   line-height: 1.1;
   margin-bottom: 10px;
 }
@@ -1839,11 +1850,23 @@ img { max-width: 100%; height: auto; }
 .home-continent-countries li {
   width: 50%;
   font-size: 12px;
-  color: rgba(255,255,255,0.70);
   padding: 2px 8px 2px 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.home-continent-countries li a {
+  color: rgba(255,255,255,0.70);
+  text-decoration: none;
+  position: relative;
+  z-index: 3;
+  transition: color 0.15s;
+}
+
+.home-continent-countries li a:hover {
+  color: #fff;
+  text-decoration: underline;
 }
 
 .home-continent-more {
@@ -1851,11 +1874,84 @@ img { max-width: 100%; height: auto; }
   font-style: italic;
 }
 
+/* Story POI cards */
+.home-stories-section {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 56px;
+  padding-bottom: 80px;
+}
+
+.home-story-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 16px;
+}
+
+.home-story-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--paper-2);
+  border-radius: 4px;
+  padding: 22px 18px 18px;
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.2s;
+  min-height: 260px;
+}
+
+.home-story-card:hover {
+  background: #ddd5c0;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.home-story-category {
+  font-family: var(--label-font);
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+
+.home-story-title {
+  font-family: var(--display-font);
+  font-size: 15px;
+  font-weight: 400;
+  font-variation-settings: "opsz" 144;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  color: var(--ink);
+  margin-bottom: 10px;
+}
+
+.home-story-text {
+  font-size: 12px;
+  line-height: 1.6;
+  color: rgba(19,18,17,0.60);
+  flex: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  margin-bottom: 14px;
+}
+
+.home-story-location {
+  font-family: var(--label-font);
+  font-size: 10px;
+  color: var(--mute);
+  margin-top: auto;
+}
+
 /* Contribute section — split image + panel */
 
 @media (max-width: 900px) {
-  .home-hero-body { padding: 0 24px 36px; max-width: 100%; }
+  .home-hero-body { padding: 0 24px; max-width: 100%; }
   .home-continent-grid { grid-template-columns: repeat(2, 1fr); }
+  .home-story-grid { grid-template-columns: repeat(2, 1fr); }
   .wide-block { padding-left: 20px; padding-right: 20px; }
 }
 

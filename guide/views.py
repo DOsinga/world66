@@ -22,7 +22,8 @@ def about(request):
 
 
 def home(request):
-    from .models import load_continents
+    import random
+    from .models import load_continents, load_story_pois
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -45,7 +46,9 @@ def home(request):
             'total': len(countries),
             'image_url': image_url,
         })
-    return render(request, "guide/home.html", {'continents': continents})
+    all_story_pois = load_story_pois()
+    story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
+    return render(request, "guide/home.html", {'continents': continents, 'story_pois': story_pois})
 
 
 def location_or_section(request, path):

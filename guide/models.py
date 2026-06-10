@@ -392,6 +392,43 @@ def load_tag_index():
 
 
 @lru_cache(maxsize=1)
+def load_story_pois():
+    """Return all POIs tagged 'story' with their parent location title. Cached for the process lifetime; caller randomises."""
+    result = []
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        r = _load_md(md_file)
+        if not r:
+            continue
+        meta, body = r
+        if meta.get("type") != "poi":
+            continue
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        if "story" not in raw_tags:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        page = _load_page_from_file(md_file, url_path)
+        if not page:
+            continue
+        parent_path = "/".join(url_path.split("/")[:-1])
+        parent = load_page(parent_path) if parent_path else None
+        result.append({
+            "page": page,
+            "story": meta.get("story", "") or body[:400],
+            "snippet": meta.get("snippet", ""),
+            "location": parent.title if parent else "",
+        })
+    return result
+
+
+@lru_cache(maxsize=1)
 def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []

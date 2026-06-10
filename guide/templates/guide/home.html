@@ -31,15 +31,16 @@
   <div class="home-section-label">Explore by continent</div>
   <div class="home-continent-grid">
     {% for c in continents %}
-    <a href="{{ c.page.get_absolute_url }}" class="home-continent-card">
+    <div class="home-continent-card">
+      <a href="{{ c.page.get_absolute_url }}" class="home-continent-stretch" aria-label="{{ c.page.title }}"></a>
       {% if c.image_url %}<img src="{{ c.image_url }}" alt="{{ c.page.title }}" class="home-continent-img">{% endif %}
       <div class="home-continent-veil"></div>
       <div class="home-continent-overlay">
-        <div class="home-continent-name">{{ c.page.title }}</div>
+        <a href="{{ c.page.get_absolute_url }}" class="home-continent-name">{{ c.page.title }}</a>
         {% if c.countries %}
         <ul class="home-continent-countries">
           {% for country in c.countries %}
-          <li>{{ country.title }}</li>
+          <li><a href="{{ country.get_absolute_url }}">{{ country.title }}</a></li>
           {% endfor %}
           {% if c.total > 8 %}
           <li class="home-continent-more">+{{ c.total|add:"-8" }} more</li>
@@ -47,8 +48,24 @@
         </ul>
         {% endif %}
       </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% if story_pois %}
+<div class="wide-block home-stories-section">
+  <div class="home-section-label">Stories worth reading</div>
+  <div class="home-story-grid">
+    {% for poi in story_pois %}
+    <a href="{{ poi.page.get_absolute_url }}" class="home-story-card">
+      {% if poi.page.category %}<div class="home-story-category">{{ poi.page.category }}</div>{% endif %}
+      <div class="home-story-title">{{ poi.page.title }}</div>
+      {% if poi.story %}<p class="home-story-text">{{ poi.story }}</p>{% endif %}
+      <div class="home-story-location">{{ poi.location }}</div>
     </a>
     {% endfor %}
   </div>
 </div>
+{% endif %}
 {% endblock %}

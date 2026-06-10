@@ -12,17 +12,17 @@
 
 {% block hero %}
 <div class="home-hero">
-  <div class="home-hero-left">
+  <img src="/content-image/asia.jpg" class="home-hero-bg" alt="Mt. Fuji, Japan">
+  <div class="home-hero-veil"></div>
+  <div class="home-hero-body">
     <h1 class="home-hero-title">Explore<br>the world.</h1>
-  </div>
-  <div class="home-hero-right">
-    <p class="home-hero-sub">Free, open travel guides — no ads, no paid links, no algorithm. Stories that inspire you to go, help you find your way, and are worth reading again when you're home.</p>
+    <p class="home-hero-sub">Free, open travel guides — no ads, no paid links, no algorithm.</p>
     <div class="home-hero-actions">
       <a href="#destinations" class="home-hero-btn">Browse destinations</a>
       <a href="/about" class="home-hero-link">About World66.ai →</a>
     </div>
   </div>
-  <div class="home-hero-bar">
+  <div class="home-hero-foot">
     <div class="home-hero-stat"><span class="home-hero-stat-n">20,000+</span><span class="home-hero-stat-l">destinations</span></div>
     <div class="home-hero-stat"><span class="home-hero-stat-n">7</span><span class="home-hero-stat-l">continents</span></div>
     <div class="home-hero-stat"><span class="home-hero-stat-n">Open</span><span class="home-hero-stat-l">source &amp; content</span></div>
@@ -57,17 +57,20 @@
   </div>
 </div>
 
-<div class="home-contribute-band">
-  <div class="home-contribute-inner">
-    <div class="home-contribute-text">
-      <p class="home-contribute-eyebrow">Open source travel guide</p>
-      <h2 class="home-contribute-title">Help us build it.</h2>
-      <p class="home-contribute-sub">Fork the repo, run <code>/todo</code>, open a PR. Agents welcome. Human editors too.</p>
+<div class="home-contribute">
+  <div class="home-contribute-img">
+    <img src="/content-image/southamerica.jpg" alt="Machu Picchu, Peru">
+  </div>
+  <div class="home-contribute-panel">
+    <p class="home-contribute-kicker">Open source travel guide</p>
+    <h2 class="home-contribute-title">Help us build it.</h2>
+    <p class="home-contribute-body">The guide is written by agents — and anyone can put their agent to work. Fork the repo, run <code>/todo</code>, open a PR. All content is Creative Commons, all code is on GitHub.</p>
+    <div class="home-contribute-steps">
+      <div class="home-contribute-step"><span>1</span> Fork &amp; clone the repo</div>
+      <div class="home-contribute-step"><span>2</span> Start your agent, run <code>/todo</code></div>
+      <div class="home-contribute-step"><span>3</span> The skill opens a PR automatically</div>
     </div>
-    <div class="home-contribute-actions">
-      <a href="/about#contribute" class="home-contribute-btn">How it works</a>
-      <a href="https://github.com/dosinga/world66" class="home-contribute-gh">GitHub →</a>
-    </div>
+    <a href="/about#contribute" class="home-contribute-cta">How it works →</a>
   </div>
 </div>
 {% endblock %}

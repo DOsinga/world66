@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4850
 longitude: 12.4167
+snippet: "Colourful fishing island 40 minutes from Venice, famous for lace and seafood"
 story: >
   The theory most often repeated about Burano's colourful houses — that fishermen painted them in bright colours so they could spot their homes through the lagoon mist — may or may not be true. What is certain is that each house colour must be officially approved by the local authority, and the waiting list for a permit to change your colour can be years long.
 ---

@@ -1,22 +1,25 @@
 ---
 done:
+  link_coverage: '2026-06-07'
   location_create: '2026-06-04'
 image: savona.jpg
-image_attribution: Mstyslav Chernov
+image_attribution: Basilico
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Harbor_of_Savona,_Riviera_di_Ponente_(Mediterranean_Sea),_Liguria,_Italy.jpg
-latitude: 44.3083
+image_source: https://commons.wikimedia.org/wiki/File:Fortezza_del_Priamar_dalle_alture_Savonesi.JPG
+latitude: 44.3091
 loc_type: city
-longitude: 8.4821
+longitude: 8.4772
 sources:
 - https://en.wikipedia.org/wiki/Savona
 - https://en.wikivoyage.org/wiki/Savona
+- https://www.visitsavona.com/en/what-to-see-in-savona/towers-fortress/priamar-fortress
+- https://www.visitsavona.com/en/what-to-see-in-savona/religious-buildings/sistine-chapel
 title: Savona
 type: location
 ---
 
-Savona is a working port city on the Ligurian coast, the capital of its province, and one of the more underappreciated towns on the Italian Riviera. It lacks the manicured prettiness of Portofino or Cinque Terre, but it has a well-preserved medieval and Renaissance centre, a remarkable fortified headland, and a curiosity that stops visitors in their tracks: a genuine Sistine Chapel, built in the same decade as the Vatican one, decorated by Flemish painters, and almost entirely unknown outside Italy.
+Savona is the workaday port city of western [Liguria](/europe/italy/liguria), easier to underestimate than to dislike. Cruise ships dock below the old harbour, ferries come and go, and the medieval core sits a few streets inland with arcades, towers, bakeries, and the kind of daily life that has not been polished smooth for visitors.
 
-The [Fortezza del Priamar](/europe/italy/liguria/savona/fortezza_del_priamar) occupies a promontory above the port, a massive sixteenth-century Genoese fortification that now houses several museums and offers fine views over the Ligurian coast. The old city centre spreads inland from the port, with the cathedral and its adjacent [Cappella Sistina](/europe/italy/liguria/savona/cappella_sistina) at its heart. Savona's Sistine Chapel was built around 1480 for the family of Pope Sixtus IV — the Savona-born pope who also commissioned the Vatican version — and is decorated with an extraordinary cycle of Flemish paintings by artists brought in from the Low Countries.
+The city’s best sight is the [Priamar Fortress](/europe/italy/liguria/savona/priamar_fortress), a massive Genoese citadel on the headland above the sea. It is a reminder that Savona was once a serious rival to Genoa, not just another Riviera town. The smaller surprises are closer to the old streets: the [Savona Sistine Chapel](/europe/italy/liguria/savona/sistine_chapel), the [Cathedral of Santa Maria Assunta](/europe/italy/liguria/savona/cathedral), and the harbour-side [Torre Leon Pancaldo](/europe/italy/liguria/savona/torre_leon_pancaldo).
 
-The city was an important Genoese subject town for much of its history, a relationship that was often more antagonistic than cooperative. The Genoese demolished the original medieval town and built the Priamar fortress on top of the ruins as a deliberate act of domination — a history that still colours local identity. Today Savona serves mainly as a port for cruise ships and ferries to Corsica and Sardinia, which means it gets a steady flow of passengers but relatively few people who actually slow down to explore it. Those who do are generally glad they did.
+Savona makes sense as a base if you want Liguria without Cinque Terre crowds. [Albisola and Albissola](/europe/italy/liguria/albisolaandalbissola) are just west along the coast, the Riviera delle Palme starts nearby, and trains run easily to [Genoa](/europe/italy/liguria/genoa), Finale Ligure, and the French-border towns.

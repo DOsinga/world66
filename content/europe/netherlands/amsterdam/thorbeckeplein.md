@@ -4,7 +4,6 @@ latitude: 52.3659
 longitude: 4.8975
 tags:
 - rembrandtplein
-- canal_ring
 title: Thorbeckeplein
 type: poi
 snippet: "Canalside square with Sunday art market and terrace cafes"

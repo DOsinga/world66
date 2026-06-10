@@ -7,6 +7,8 @@ tags:
   - sight
 latitude: 45.4330
 longitude: 12.3490
+snippet: "Venice's medieval shipyard — the largest industrial complex in the pre-modern world"
+neighbourhood: Castello
 story: >
   At its peak in the 15th and 16th centuries, the Arsenale could produce a complete warship in a day. The operation was essentially an industrial assembly line — one of the earliest in the world — with galleys moving through a sequence of workshops, each adding a component. When Henry III of France visited in 1574, the shipwrights built and launched a galley during the banquet held in his honour.
 ---

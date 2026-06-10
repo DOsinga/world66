@@ -1,6 +1,7 @@
 ---
 done:
   link_coverage: '2026-06-08'
+  location_create: '2026-06-04'
 image: llandudno.jpg
 image_attribution: Photograph by Mike Peel (www.mikepeel.net).
 image_license: CC BY-SA 4.0

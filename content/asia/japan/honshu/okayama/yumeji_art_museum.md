@@ -1,15 +1,12 @@
 ---
 title: Yumeji Art Museum
 type: poi
-tags:
-  - things_to_do
-  - museum
+tags: [things_to_do, museum, art]
 latitude: 34.6708
-longitude: 133.9340
-sources:
-  - https://en.wikipedia.org/wiki/Yumeji_Art_Museum
+longitude: 133.9344
 ---
 
-The Yumeji Art Museum is dedicated to Takehisa Yumeji (1884–1934), an artist and poet born in Okayama who became one of the most beloved illustrators in early 20th-century Japan. His paintings, prints, and book covers typically feature young women with large, melancholic eyes and a romantic, slightly decadent atmosphere drawn from Japanese Art Nouveau and the bohemian culture of the Taishō period. The style is distinctive enough that the "Yumeji style" entered the Japanese vocabulary as a type.
+The Yumeji Art Museum is devoted to Takehisa Yumeji, a painter and designer known for lyrical images of women in the Taisho period. His work sits somewhere between fine art, illustration, and commercial design, which makes the museum more approachable than many single-artist collections.
 
-The museum holds a large collection of his original works alongside personal effects and historical documents, and is set in a garden with a characteristic late-Meiji residential building. The displays are thoughtful and well-documented in English. For visitors unfamiliar with Yumeji, the museum provides a useful introduction to a significant figure in Japanese popular visual culture who is largely unknown outside Japan. The museum is near Kōraku-en and easily combined with the castle district.
+It is close to Korakuen and works well as a gentle add-on after the garden. The shop is also a good place to understand why Yumeji's style still feels popular rather than merely historical.
+

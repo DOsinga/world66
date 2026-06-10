@@ -6,7 +6,7 @@ longitude: 12.332509
 snippet: Venice's main waterway, best seen from vaporetto No. 1
 tags:
 - things_to_do
-- landmark
+- sight
 title: The Grand Canal
 type: poi
 ---

@@ -8,6 +8,8 @@ tags:
   - architecture
 latitude: 45.4403
 longitude: 12.3486
+snippet: "Venice's largest church — burial place of the doges, with Verrocchio's Colleoni outside"
+neighbourhood: Castello
 story: >
   Bartolomeo Colleoni, the mercenary general whose bronze equestrian statue stands outside this church, left a fortune to Venice on condition that a monument be erected in his honour in Piazza San Marco. The Senate wanted the money but not the statue in their most prestigious square. They resolved the problem by placing it here, outside the Scuola Grande di San Marco instead. Technically they kept their promise.
 ---

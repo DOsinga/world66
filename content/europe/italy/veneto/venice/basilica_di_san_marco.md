@@ -8,6 +8,8 @@ tags:
   - architecture
 latitude: 45.4345
 longitude: 12.3397
+snippet: "Byzantine masterpiece with 8,000 square metres of gold mosaics"
+neighbourhood: San Marco
 story: >
   The four bronze horses above the entrance are copies — the originals were looted from Constantinople during the Fourth Crusade in 1204 and are now inside the basilica's museum. Venice's greatest church was built to house stolen relics and decorated with stolen art. The Venetians called this acquisizione rather than theft.
 ---

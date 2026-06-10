@@ -1,5 +1,0 @@
-europe/spain/la_mancha/siguenza
-europe/spain/murcia/cartagena
-europe/spain/spanishcostas/lasamericas
-europe/spain/spanishcostas/loscristianos
-europe/spain/spanishcostas/losgigantes

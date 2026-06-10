@@ -7,6 +7,8 @@ tags:
   - sight
 latitude: 45.4441
 longitude: 12.3225
+snippet: "The world's first ghetto — established 1516, with five synagogues and a museum"
+neighbourhood: Cannaregio
 story: >
   The word "ghetto" entered European languages from this neighbourhood. It comes from the Venetian word geto (foundry) — there was a copper foundry here before the Jews arrived. When the Venetian Senate confined the Jewish population to this island in 1516, the area became the Ghetto Nuovo. The word, with its meaning transformed by centuries of forced segregation, spread from Venice to every other language in the world.
 ---

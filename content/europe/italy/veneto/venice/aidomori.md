@@ -4,8 +4,10 @@ latitude: 45.4390
 longitude: 12.3340
 phone: 00 39 041 522 5401
 snippet: Tiny old-school bacaro by the Rialto market
+neighbourhood: San Polo
 tags:
 - bars_and_cafes
+- san_polo
 - bar
 title: Ai do Mori
 type: poi

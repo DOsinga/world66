@@ -1,6 +1,7 @@
 ---
 done:
   link_coverage: '2026-06-08'
+  location_create: '2026-06-04'
 image: stirling.jpg
 image_attribution: DeFacto
 image_license: CC BY-SA 4.0

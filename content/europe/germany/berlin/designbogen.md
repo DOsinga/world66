@@ -7,6 +7,7 @@ phone: 030-31017803
 snippet: Design shop under S-Bahn arches in Charlottenburg
 tags:
 - shopping
+- charlottenburg
 title: designbogen
 type: poi
 url: www.designbogen.de

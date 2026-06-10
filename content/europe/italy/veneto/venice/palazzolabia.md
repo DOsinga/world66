@@ -7,9 +7,12 @@ longitude: 12.327037
 opening_hours: Wed-Fri, 3pm-4pm
 phone: +39 041 5242812
 snippet: RAI-owned palace with Tiepolo's Antony and Cleopatra frescoes
+neighbourhood: Cannaregio
 tags:
 - things_to_do
-- palace
+- cannaregio
+- sight
+- architecture
 title: Palazzo Labia
 type: poi
 ---

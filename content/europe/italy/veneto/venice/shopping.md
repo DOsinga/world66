@@ -3,61 +3,10 @@ title: "Shopping"
 type: section
 ---
 
-Don't expect to find any mega malls or massive department stores during your Venice vacation. What you will find are interesting markets, unique shopping streets, antique shops, and bookstores. Venice is known for glass and lace, so you will also find thousands of places to buy glassware and dozens of lace vendors centered on Piazza San Marco. Continue reading through the listings below to find out where to buy what in Venice!
+Venice is not a place for department stores or shopping centres — there are none. What it has instead is a density of small independent shops and specialist traders, scattered through the calli and campi of all six sestieri.
 
-**Contributors**
-May 25, 2008
+The Rialto market is the best starting point: the daily fish and produce market on the San Polo bank gives way to a ring of small shops selling food, wine, and Venetian specialities. The streets east of the Rialto bridge, toward Campo San Bartolomio, hold most of the practical shops serving locals — hardware, pharmacies, the kind of thing that keeps a city running.
 
-### [I tre Mercanti](/europe/italy/veneto/venice/shopping/i_tre_mercanti)
+Glass is the obvious purchase. The best Murano glass comes from the island itself, where you can watch it being made in the furnaces. In Venice proper, quality varies enormously — the cheap imported glass filling the tourist shops near San Marco is not the same as the work of the historic Murano glassmakers. For masks, the same caveat applies: hand-made papier-mâché and leather masks made in Venice are a different object entirely from the mass-produced imports.
 
-**I Tre Mercanti**
-
-In this shop you will find the best italian food from all over the
-country, **more than 100 sauces for pasta** and over 100 different italian
-wines chose from the best wineyards. Huge selection of **olive oil** from
-all the regions,** Balsamic Vinegar up to 50 years old**. **Truffle **paradise
-from white to black truffles, whole and in paste. English and French
-spoken, they deliver all over the world even in the USA with wine
-custom duty included in the shipment fee.
-
-Whatever Italian regional specialty you're after, this is the place to find it.
-
-type: Speciality shops
-
-
-
-[[rate it]](/europe/italy/veneto/venice/shopping/i_tre_mercanti)
-
-tel: +390415222901
-
-url: [www.itremercanti.it](http://www.itremercanti.it)
-
-address: Ponte della Guerra, Saint Mark
-
-email: info@itremercanti.it
-
-### [Rialto Market](/europe/italy/veneto/venice/shopping/rialto_market)
-
-A must to-do in Venice would be to visit the Rialto Market. Located right by the Rialto Bridge, you can find everything from silk ties to classic jewelry. An amazing sight to see would be the beauty of all the carefully crafted Venetian glass and masks. Everything is affordable comparable to most countries in Europe and as it is a smaller market, you won't end the day with aching feet!
-
-type: Markets
-
-
-
-[[rate it]](/europe/italy/veneto/venice/shopping/rialto_market)
-
-accessibility: Easy. Starts at Rialto Bridge
-
-### [Bottega Veneta](/europe/italy/veneto/venice/shopping/bottega_veneta)
-
-This is the flagship Bottega Veneta outlet, so you can purchase the highly desirable Bottega Veneta leather bags for a lot cheaper than you can anywhere else in the world. This world-renowned designer boutique also sells shoes, wallets, accessories, and belts.
-
-type: Speciality shops
-
-
-
-tel: +39 041 5228489
-
-url: [www.bottegaveneta.com](http://www.bottegaveneta.com)
-
-address: Calle Vallaresso, San Marco 1337
+The area around Campo San Barnaba in Dorsoduro and the streets north of Campo Santa Margherita have a cluster of interesting small shops — antiques, vintage, art books, locally made goods. The Mercerie, the shopping street connecting Piazza San Marco to the Rialto, is the main commercial artery and carries a mix of jewellery, fashion, and souvenirs.

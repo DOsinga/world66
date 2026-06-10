@@ -5,6 +5,7 @@ longitude: 13.383593
 opening_hours: Tu-Sa 11am -6pm
 tags:
 - shopping
+- berlinmitte
 title: Galerie Neu
 type: poi
 ---

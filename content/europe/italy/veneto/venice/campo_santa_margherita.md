@@ -7,9 +7,7 @@ longitude: 12.3233
 snippet: Venice's liveliest square, best at sunset with a Spritz
 tags:
 - things_to_do
-- market
-- square
-- cafe
+- neighbourhood
 title: Campo Santa Margherita
 type: neighbourhood
 ---

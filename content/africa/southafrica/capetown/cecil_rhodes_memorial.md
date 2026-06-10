@@ -1,14 +1,18 @@
 ---
-title: "Rhodes Memorial"
-type: poi
 category: Monument
 latitude: -33.954
 longitude: 18.4571
+scores:
+  activities: 0.5343
+  sight: 0.668
+  sightseeing: 0.6577
 snippet: Granite memorial on Devil's Peak with sweeping view over the Cape Flats
 tags:
 - things_to_do
 - sight
 - history
+title: Rhodes Memorial
+type: poi
 ---
 
 The Rhodes Memorial is a granite Greek-revival temple on the eastern slopes of Devil's Peak, completed in 1912 in memory of Cecil John Rhodes — diamond magnate, Cape colony prime minister, and an increasingly contested historical figure. The design, by Herbert Baker, draws on the Temple of Segesta in Sicily, with eight Doric columns and a long flight of stairs guarded by sculpted bronze lions.

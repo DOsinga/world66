@@ -1,5 +1,0 @@
-africa/tunisia/beja
-africa/tunisia/gabes
-africa/tunisia/kerkennahislands
-africa/tunisia/lamarsa
-africa/tunisia/medenine

@@ -7,6 +7,8 @@ tags:
   - sight
 latitude: 45.4334
 longitude: 12.3318
+snippet: "Venice's great opera house — Verdi's Rigoletto and Traviata both premiered here"
+neighbourhood: San Marco
 story: >
   La Fenice — "the phoenix" — has burned down twice. The first fire, in 1836, left only the outer walls standing; it was rebuilt within a year. The second, in January 1996, destroyed the entire interior; investigation revealed arson by electricians trying to avoid a contract penalty. The theatre reopened in 2003, rebuilt exactly as it had been. The phoenix lives up to its name.
 ---

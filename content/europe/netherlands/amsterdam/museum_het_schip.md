@@ -6,7 +6,7 @@ longitude: 4.8703
 tags:
 - things_to_do
 - architecture
-- oud_west
+- westerpark
 ---
 
 A museum dedicated to the Amsterdam School, the exuberant early 20th-century architectural movement that gave the city some of its most distinctive housing blocks. The museum is housed in Het Schip ("The Ship"), a social housing complex designed by Michel de Klerk in 1919 — a building so elaborately decorated that it scandalized the city council, who thought working-class housing should be plain and functional.

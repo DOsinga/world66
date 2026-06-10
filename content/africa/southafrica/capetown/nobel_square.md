@@ -1,13 +1,20 @@
 ---
-title: "Nobel Square"
-type: poi
 category: Square
 latitude: -33.9046
 longitude: 18.4214
+neighbourhood: V&A Waterfront
+scores:
+  activities: 0.5421
+  sight: 0.6595
+  sightseeing: 0.65
 snippet: Waterfront square honouring South Africa's four Nobel Peace Prize laureates
 tags:
 - things_to_do
 - sight
+- victoria__alfred
+- waterfront
+title: Nobel Square
+type: poi
 ---
 
 Nobel Square sits on the V&A Waterfront and is dedicated to South Africa's four Nobel Peace Prize laureates: Albert Luthuli, Desmond Tutu, F.W. de Klerk and Nelson Mandela. The four life-size bronze statues, by Claudette Schreuders, stand on a low platform with a brief inscription explaining each laureate's contribution.

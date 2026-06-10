@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-07'
   location_create: '2026-06-04'
 image: montepulciano.jpg
 image_attribution: Qbert88

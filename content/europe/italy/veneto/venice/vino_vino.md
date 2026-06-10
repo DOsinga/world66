@@ -5,8 +5,10 @@ latitude: 45.434829
 longitude: 12.334025
 phone: +39 041 2417688
 snippet: Encyclopaedic wine bar near La Fenice with 350 wines
+neighbourhood: San Marco
 tags:
 - bars_and_cafes
+- san_marco
 - bar
 title: Vino Vino
 type: poi

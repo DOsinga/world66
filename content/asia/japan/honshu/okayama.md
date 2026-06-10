@@ -1,23 +1,24 @@
 ---
 done:
-  location_create: '2026-06-04'
-image: okayama.jpg
-image_attribution: Martin Falbisoner
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Okayama_Castle,_November_2016_-01.jpg
-latitude: 34.666
+  link_coverage: '2026-06-07'
+latitude: 34.65
 loc_type: city
-longitude: 133.9231
+longitude: 133.9167
 sources:
 - https://en.wikipedia.org/wiki/Okayama
+- https://en.wikipedia.org/wiki/Okayama_Castle
+- https://en.wikipedia.org/wiki/K%C5%8Draku-en
+- https://en.wikipedia.org/wiki/Okayama_Station
 title: Okayama
 type: location
+image: okayama.jpg
+image_source: https://commons.wikimedia.org/wiki/File:250505_Korakuen_Okayama_Japan06s3.jpg
+image_license: CC BY-SA 4.0
+image_attribution: 663highland
 ---
 
-Okayama is a city of about 700,000 on the San'yō coast of western Honshu, well-positioned on the shinkansen line between Hiroshima and Osaka. It is best known for [Kōraku-en](/asia/japan/honshu/okayama/korakuen), considered one of Japan's three finest traditional gardens, and [Okayama Castle](/asia/japan/honshu/okayama/okayama_castle) immediately across the Asahi River from it — the two make a natural pairing for a morning visit. The castle's distinctive black-lacquered exterior gave it the historical nickname "Crow Castle," a counterpart to Himeji's white "Heron Castle" an hour to the east.
+Okayama is the calm, practical hinge between western Honshu and Shikoku. Most travellers first meet it as a Shinkansen stop or the place where trains peel south across the Seto Ohashi Bridge, but the city is worth more than a platform change.
 
-The garden and castle are the main attractions, but the city has a reasonable concentration of smaller museums within walking distance of the castle district. The [Okayama Orient Museum](/asia/japan/honshu/okayama/okayama_orient_museum) has one of Japan's better collections of ancient Middle Eastern art, accumulated through the city's pre-war connections to archaeological excavations in the region. The [Yumeji Art Museum](/asia/japan/honshu/okayama/yumeji_art_museum) displays the delicate, Art Nouveau-influenced illustrations of Takehisa Yumeji, a romantic artist born in Okayama who became famous in early 20th-century Japan for his melancholic beauties.
+The central pair is excellent: black-walled [Okayama Castle](/asia/japan/honshu/okayama/okayama_castle), nicknamed Crow Castle, faces [Korakuen](/asia/japan/honshu/okayama/korakuen) across the Asahi River. Together they make one of the easiest and most rewarding castle-and-garden visits in Japan. Around them sit compact museums, quiet canals, and enough good food to make an overnight stop feel sensible rather than dutiful.
 
-Okayama is one of Japan's sunniest cities by annual sunshine hours — a local boast repeated frequently — and the surrounding Okayama Prefecture produces exceptional peaches (Okayama White Peach) and muscat grapes. The Kibiji district west of the city, a flat cycling plain dotted with ancient burial mounds, Kibitsu Shrine, and flooded rice paddies, is among the most pleasant cycling routes in western Japan and easy to reach by local train from Okayama Station.
-
-The city serves well as a base for day trips. [Kurashiki](/asia/japan/honshu/okayama/kurashiki) with its preserved Bikan historical district of white-walled storehouses is 15 minutes by train and is often more visited than Okayama itself. The island of Naoshima, one hour by ferry from Uno port (30 minutes by train south of Okayama), is Japan's most celebrated contemporary art island, with Tadao Ando-designed museums and site-specific art installations across the whole island.
+Okayama also has a folk-tale identity. The story of Momotaro, the Peach Boy, is everywhere: statues at [Okayama Station](/asia/japan/honshu/okayama/okayama_station), sweets in souvenir shops, and peach motifs around town. Use the city as a base for Kurashiki, Naoshima, or Kotohira on [Shikoku](/asia/japan/shikoku), but give its own garden, castle, and museums a full day.

@@ -10,7 +10,6 @@ snippet: Grand cafe with riverside terraces on the Amstel
 tags:
 - bars_and_cafes
 - rembrandtplein
-- canal_ring
 title: De Jaren
 type: poi
 ---

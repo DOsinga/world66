@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: eastern_docklands.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:COLLECTIE%20TROPENMUSEUM%20Afscheepsteiger%20Tarakan%2014%20TMnr%2010010382.jpg

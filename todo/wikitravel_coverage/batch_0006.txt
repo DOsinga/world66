@@ -1,5 +1,0 @@
-asia/vietnam/hagiang
-asia/malaysia/perhentianislands
-europe/unitedkingdom/scotland/cairngorms
-europe/iceland/jokulsarlon
-southamerica/brazil/jericoacoara

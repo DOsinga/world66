@@ -6,7 +6,6 @@ snippet: "Former shipyard turned sprawling arts and festival complex"
 tags:
 - things_to_do
 - ndsm
-- amsterdam_noord
 title: NDSM Plein
 type: poi
 ---

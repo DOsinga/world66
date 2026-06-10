@@ -1,5 +1,4 @@
 ---
-hide_from_city: true
 image: rembrandtplein.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:NieuwRembrandtplein.JPG

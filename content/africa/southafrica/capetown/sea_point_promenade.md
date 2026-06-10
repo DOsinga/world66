@@ -1,14 +1,20 @@
 ---
-title: "Sea Point Promenade"
-type: poi
 category: Park
 latitude: -33.9219
 longitude: 18.3825
+neighbourhood: Sea Point
+scores:
+  activities: 0.6193
+  sight: 0.6483
+  sightseeing: 0.636
 snippet: Long Atlantic seafront promenade with public art and tidal pools
 tags:
 - things_to_do
 - sight
 - outdoor
+- sea_point
+title: Sea Point Promenade
+type: poi
 ---
 
 The Sea Point Promenade runs for about three kilometres along the Atlantic shoreline from Mouille Point in the north to Bantry Bay in the south, a wide flat path that has become Cape Town's most democratic public space. Dog-walkers, joggers, families, fishermen, public-art installations and weekend crowds all share it without much friction.

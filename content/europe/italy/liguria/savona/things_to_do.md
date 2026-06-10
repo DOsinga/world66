@@ -3,4 +3,4 @@ title: Things to Do
 type: section
 ---
 
-Savona's main sights cluster around the old port and the Priamar headland. The Cappella Sistina is the highlight, but the fortress complex, the cathedral, and the municipal art gallery fill a full day. The waterfront and harbour area offer good walking between sights.
+Savona’s sights cluster between the harbour, the old centre, and the Priamar headland, so you can see the essentials on foot. Start at the fortress for the view, drop into the cathedral quarter for the Sistine Chapel and cathedral, then finish around the port when the evening passeggiata begins.

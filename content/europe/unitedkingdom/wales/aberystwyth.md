@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-05'
   poi_cleanup: '2026-04-20'
 image: aberystwyth.jpg
 image_license: CC BY-SA 3.0

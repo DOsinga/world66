@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4923
 longitude: 12.4183
+snippet: "Almost-abandoned lagoon island with an 11th-century cathedral and extraordinary Byzantine mosaics"
 story: >
   Torcello was once one of the most important cities in northern Italy, with a population that may have reached 20,000 in the early medieval period. Then the lagoon silted up, malaria arrived, and the inhabitants left — some for Venice, some for Burano. By the 18th century Torcello had fewer than a hundred residents. Today it has about 20. What remains is the cathedral and a silence remarkable for being so close to one of the world's most visited cities.
 ---

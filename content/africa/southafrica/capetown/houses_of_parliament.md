@@ -1,14 +1,20 @@
 ---
-title: "Houses of Parliament"
-type: poi
 category: Historic Site
 latitude: -33.9261
 longitude: 18.4192
+neighbourhood: City Bowl
+scores:
+  activities: 0.5681
+  sight: 0.618
+  sightseeing: 0.6015
 snippet: Seat of the South African parliament, on the edge of the Company's Garden
 tags:
 - things_to_do
 - sight
 - history
+- city_bowl
+title: Houses of Parliament
+type: poi
 ---
 
 The Houses of Parliament occupy a sober neoclassical complex along Government Avenue, with the original 1884 building now joined by twentieth-century additions. The South African legislature has met here since 1910, although the executive branch sits in Pretoria — Cape Town gets parliament, Pretoria gets the cabinet.

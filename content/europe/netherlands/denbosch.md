@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-15'
 image: denbosch.jpg
-image_attribution: Herman de Ruiter (1870-1949)
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:%27s-Hertogenbosch_briefkaart.jpg
+image_attribution: Phillip Capper
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:%27s-Hertogenbosch_Marktplein_-_Den_Bosch_Markt.jpg
 latitude: 51.6889
 loc_type: city
 longitude: 5.3031

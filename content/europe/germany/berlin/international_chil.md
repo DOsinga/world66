@@ -9,6 +9,7 @@ phone: (030)49853834
 snippet: Independent multilingual children's bookshop in Prenzlauer Berg
 tags:
 - shopping
+- prenzlauerberg
 title: International Children's Book Shop
 type: poi
 url: www.mundoazul.de

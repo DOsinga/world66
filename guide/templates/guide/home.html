@@ -78,9 +78,17 @@
     <div id="city-card-panel" class="home-city-card-panel"></div>
   </div>
 </div>
+<script type="application/json" id="home-city-data">{{ cities_json|safe }}</script>
+{% endif %}
+{% endblock %}
+
+{% block extra_js %}
+{% if cities_json %}
 <script>
 (function() {
-  var cities = {{ cities_json|safe }};
+  var el = document.getElementById('home-city-data');
+  if (!el) return;
+  var cities = JSON.parse(el.textContent);
   var map = L.map('city-map', {
     center: [20, 10], zoom: 2,
     scrollWheelZoom: false,
@@ -94,8 +102,8 @@
 
   var panel = document.getElementById('city-card-panel');
   var activeMarker = null;
-  var dot = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
-  var dotActive = { radius: 7, fillColor: '#131211', color: '#fff', weight: 2, fillOpacity: 1.0 };
+  var dot       = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
+  var dotActive = { radius: 7, fillColor: '#131211', color: '#fff', weight: 2,   fillOpacity: 1.0  };
 
   function closePanel() {
     panel.classList.remove('active');

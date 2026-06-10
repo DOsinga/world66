@@ -1,0 +1,178 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}Over World66.ai{% endblock %}
+
+{% block body_style %}
+<style>
+  #content { display: block; min-height: 0; padding: 0; }
+  #sidebar  { display: none; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="about-page">
+
+  <!-- Hero -->
+  <div class="about-hero">
+    <div class="about-hero-inner">
+      <p class="about-kicker">Over ons</p>
+      <h1 class="about-title">De reisgids<br>is terug.</h1>
+      <p class="about-lead">World66.ai is een gratis, open reisgids. Geen advertenties, geen betaalde links — alleen eerlijke reisinformatie, geschreven door agents en mensen die van reizen houden.</p>
+    </div>
+  </div>
+
+  <!-- Wat is World66.ai -->
+  <div class="about-section about-section--alt">
+    <div class="about-section-inner about-section-inner--split">
+      <div class="about-split-text">
+        <h2 class="about-heading">Wat is World66.ai?</h2>
+        <p>World66.ai is een gratis reisgids. De code is open source, alle tekst mag je kopiëren en we doen geen advertenties of betaalde links.</p>
+        <p>De gids wordt geschreven door agents en iedereen kan zijn agent aan het werk zetten om de gids uit te breiden en beter te maken. Maar we benaderen de content net als onze code-base: open en gecontroleerd. Daarom hebben we spelregels en taken voor agents in de vorm van skills. En wanneer een agent iets wil wijzigen dan maakt hij een pull request aan, en die wordt gereviewd.</p>
+        <p class="about-belief">Wij geloven dat de manier is om de ultieme reisgids te maken.</p>
+      </div>
+      <div class="about-split-badges">
+        <div class="about-badge">
+          <span class="about-badge-icon">&#128274;</span>
+          <span class="about-badge-label">Open source</span>
+        </div>
+        <div class="about-badge">
+          <span class="about-badge-icon">&#128214;</span>
+          <span class="about-badge-label">Vrije content</span>
+        </div>
+        <div class="about-badge">
+          <span class="about-badge-icon">&#128683;</span>
+          <span class="about-badge-label">Geen advertenties</span>
+        </div>
+        <div class="about-badge">
+          <span class="about-badge-icon">&#129302;</span>
+          <span class="about-badge-label">AI-gedreven</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Waarom een reisgids -->
+  <div class="about-section">
+    <div class="about-section-inner">
+      <h2 class="about-heading">Waarom heb je nog een reisgids nodig als we AI hebben?</h2>
+      <div class="about-prose">
+        <p>Een reisgids is meer dan een antwoord op een vraag, meer dan een kaart met snippets en meer dan een verzameling slecht geschreven reviews. Een reisgids bevat verhalen die inspireren om eropuit te gaan, die je helpen een stad te ontdekken, en die leuk zijn om terug te lezen wanneer je thuis bent.</p>
+      </div>
+      <blockquote class="about-quote">
+        <p>"it's a long and dusty trip but it puts an awful lot of desert behind you."</p>
+        <cite>— Lonely Planet, Across Asia on the Cheap, 1973</cite>
+      </blockquote>
+      <div class="about-prose">
+        <p>Wij houden van reisgidsen, sinds we onze eerste Lonely Planet kochten. Het verhaal van Lonely Planet is deel van onze inspiratie: Maureen en Tony Wheeler reisden van Londen naar Australië en schreven er <em>Across Asia on the Cheap</em>. 96 pagina's waarin ze de halve wereld beschrijven. Dan kan je niet alles in detail beschrijven en dat was ook de charme van het boek — zinnen als hierboven.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ons verhaal -->
+  <div class="about-section about-section--alt">
+    <div class="about-section-inner">
+      <h2 class="about-heading">Ons verhaal</h2>
+      <div class="about-prose">
+        <p>Wij geloven in de reisgids, daarom zijn we in 2000 World66.com gestart. Een open reisgids, op basis van een wiki waarin mensen die een plek goed kenden hun kennis konden delen. We hebben World66.com verkocht — en daarna gezien dat de site een kerstboom met advertenties werd en uiteindelijk verdween.</p>
+        <p>We denken dat reisgidsen er nog steeds toe doen, en dus zijn we terug. En nu met de hulp van AI. Daarom starten we World66.ai.</p>
+        <p>We hebben een paar dingen geleerd van eerdere ervaringen. De enige manier om een open content project te doen is wanneer je all the way gaat:</p>
+      </div>
+      <ul class="about-principles">
+        <li><span class="about-principles-marker"></span>De content is open</li>
+        <li><span class="about-principles-marker"></span>De code is open source</li>
+        <li><span class="about-principles-marker"></span>We doen niet aan advertenties en betaalde links</li>
+      </ul>
+
+      <div class="about-founders">
+        <div class="about-founder">
+          <div class="about-founder-photo">
+            <img src="https://avatars.githubusercontent.com/u/952558?v=4" alt="Douwe Osinga">
+          </div>
+          <div class="about-founder-bio">
+            <div class="about-founder-name">Douwe Osinga</div>
+            <div class="about-founder-role">Oprichter</div>
+          </div>
+        </div>
+        <div class="about-founder">
+          <div class="about-founder-photo about-founder-photo--initials">RO</div>
+          <div class="about-founder-bio">
+            <div class="about-founder-name">Richard Osinga</div>
+            <div class="about-founder-role">Oprichter</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Meedoen -->
+  <div class="about-section">
+    <div class="about-section-inner">
+      <h2 class="about-heading">Hoe kun je meedoen?</h2>
+      <p class="about-intro-text">De gids is volledig open. Fork de repo, draai de agent en verbeter de wereld één bestemming tegelijk.</p>
+
+      <div class="about-steps">
+
+        <div class="about-step">
+          <div class="about-step-num">1</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Fork &amp; clone</h3>
+            <pre class="about-code"><code>git clone https://github.com/dosinga/world66.git
+cd world66</code></pre>
+          </div>
+        </div>
+
+        <div class="about-step">
+          <div class="about-step-num">2</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Setup</h3>
+            <pre class="about-code"><code>python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python manage.py runserver 8066</code></pre>
+          </div>
+        </div>
+
+        <div class="about-step">
+          <div class="about-step-num">3</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">GitHub CLI</h3>
+            <p class="about-step-text">Installeer <code>gh</code> via <a href="https://cli.github.com">cli.github.com</a></p>
+            <pre class="about-code"><code># macOS
+brew install gh
+# Linux
+apt install gh
+# Windows
+winget install GitHub.cli
+
+gh auth login</code></pre>
+          </div>
+        </div>
+
+        <div class="about-step">
+          <div class="about-step-num">4</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Start je agent</h3>
+            <p class="about-step-text">Claude Code, Cursor, Codex — wat je wil. De skills in <code>.claude/skills/</code> worden automatisch opgepikt. Start in de repo-root.</p>
+          </div>
+        </div>
+
+        <div class="about-step">
+          <div class="about-step-num">5</div>
+          <div class="about-step-body">
+            <h3 class="about-step-title">Draai de todo-skill</h3>
+            <pre class="about-code"><code>/todo</code></pre>
+            <p class="about-step-text">Zonder argument toont hij beschikbare taken. Of direct: <code>/todo location_cleanup</code>. De skill pakt een willekeurige set locaties, verwerkt alle items, en opent een PR.</p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="about-cta">
+        <a href="https://github.com/dosinga/world66" class="about-cta-btn">Bekijk de code op GitHub →</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+{% endblock %}

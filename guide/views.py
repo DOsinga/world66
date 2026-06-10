@@ -17,6 +17,10 @@ from .models import (
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
+def about(request):
+    return render(request, "guide/about.html")
+
+
 def home(request):
     from .models import load_continents
     continents_raw = load_continents()

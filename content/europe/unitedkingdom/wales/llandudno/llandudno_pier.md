@@ -4,15 +4,14 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - historic
+  - architecture
 latitude: 53.3317
 longitude: -3.825
-story: >
-  Llandudno Pier was built in 1878 by the contractor J.E. Dowson, and at the time of its completion it was the longest pier in Wales at 700 metres. It has survived storms, fire, and ship collisions largely intact. In 1896, the paddle steamer Prince of Wales collided with the pier during a storm and smashed through the structure — the gap was repaired, but the ship's bell was kept in Llandudno as a souvenir.
-sources:
-  - https://en.wikipedia.org/wiki/Llandudno_Pier
+snippet: One of the most complete surviving Victorian seaside piers in Britain, opened in 1878
 ---
 
-Llandudno Pier stretches 700 metres out into the North Shore bay and is one of the finest surviving Victorian piers in Britain — Grade II* listed and still in daily use. The pier head has a traditional pavilion with amusements and a cafe, and on a clear day the view back to shore takes in the full sweep of the bay, the Great Orme rising on one side and the Little Orme on the other, with the green hills of Snowdonia behind.
+Llandudno Pier is one of the finest surviving Victorian piers in Britain, and the longest in Wales at 700 metres. It was opened in 1878 to designs by James Brunlees, replacing an earlier and shorter structure that had been destroyed by a storm in 1859. The pier has avoided the fires and demolitions that have damaged or destroyed many of its contemporaries, and the original ironwork, decking, kiosks and ornamental shelters are still in place.
 
-Walking the pier is free, and it is one of the best ways to take in Llandudno's Victorian character. The cast-iron structure creaks pleasantly underfoot, and the ornamental lampposts and railings have been carefully maintained. At the pier head, fishing is allowed from the lower deck. In summer, occasional boat trips operate from the pier to various points along the North Wales coast.
+The pier carries shops, ice-cream stalls, an amusement arcade, and a few cafés. The original Pier Pavilion theatre at the seaward end was demolished after a fire in 1994 and has not been replaced, leaving an open viewing deck where the theatre stood. The walk to the end and back takes about 40 minutes and gives the best perspective on the Llandudno seafront and the [Great Orme](/europe/unitedkingdom/wales/llandudno/great_orme) rising behind.
+
+Entry to the pier is free. It is at the northern end of the [North Shore Promenade](/europe/unitedkingdom/wales/llandudno/north_shore_promenade), at the foot of the Great Orme.

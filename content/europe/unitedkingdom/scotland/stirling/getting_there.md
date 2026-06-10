@@ -3,8 +3,10 @@ title: Getting There
 type: section
 ---
 
-Stirling is exceptionally well-connected by rail. Trains from Edinburgh Waverley take 50–55 minutes, from Glasgow Queen Street about 30–35 minutes, and from Perth about 30 minutes. ScotRail runs frequent services throughout the day. The station is a five-minute walk from the town centre and about fifteen minutes from the base of the castle hill.
+**By train.** Stirling railway station is on the main Glasgow Queen Street to Aberdeen line, with frequent ScotRail services from Edinburgh (50 minutes), Glasgow (30 minutes), and Perth (35 minutes). The station is a short walk from the old town and the castle.
 
-By car, Stirling is at the junction of the M9 and M80 motorways, making it easily accessible from both Edinburgh and Glasgow. The M9 connects to the A9 north toward Perth and Inverness. Parking in the town centre can be tight, particularly on summer weekends; there are pay-and-display car parks near the castle.
+**By car.** Stirling sits at the intersection of the M9 motorway from Edinburgh (45 minutes) and Glasgow (45 minutes), and the A9 trunk road north to Perth (40 minutes) and Inverness. There are several large pay-and-display car parks within walking distance of the city centre — Castleview, at the foot of the castle rock, is the most convenient for sightseeing.
 
-By coach, Scottish Citylink and various operators run services from Edinburgh, Glasgow, Perth, and other Scottish cities. The bus station is close to the railway station.
+**By bus.** Stirling bus station is opposite the railway station and is served by Citylink coaches from Edinburgh, Glasgow, Inverness and Aberdeen, plus regional services across central Scotland. The journey from Edinburgh takes about 70 minutes.
+
+There is no airport at Stirling. The nearest international airports are Edinburgh (50 km south-east) and Glasgow (45 km south-west), both about an hour by bus or train.

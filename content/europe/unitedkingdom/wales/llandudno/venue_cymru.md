@@ -4,13 +4,13 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - theatre
 latitude: 53.3219
 longitude: -3.8172
-sources:
-  - https://en.wikipedia.org/wiki/Venue_Cymru
+snippet: The principal theatre and conference centre of north Wales, with a 1,500-seat auditorium
 ---
 
-Venue Cymru is the main arts and entertainment complex in North Wales — a theatre, conference centre, and arena rolled into one glass-and-steel building on the Llandudno promenade. The main theatre seats around 1,500 and hosts touring West End productions, classical concerts, comedy nights, and major pop and rock acts. For a town of Llandudno's size, the quality and variety of the programme is impressive.
+Venue Cymru is the main performing arts venue in north Wales — a 1,500-seat theatre and conference centre on the Llandudno seafront opposite the cricket ground. It opened in its current form in 2006 after a substantial rebuild of an earlier 1990 venue, and now hosts West End touring productions, opera, ballet, concerts and major children's shows.
 
-The building sits right on the seafront near the start of the pier. There is also a smaller studio space for more intimate performances. If you are planning a visit around a show, it is worth checking the programme in advance — the theatre attracts top-quality touring productions and books up well ahead.
+The auditorium is conventional in its layout but unusually well-equipped for a regional venue, with a large fly tower that allows full-scale touring productions. The complex also includes a smaller studio theatre, two cinema screens, a year-round programme of conferences and trade fairs, and a beachfront restaurant.
+
+The venue is on the promenade about two-thirds of the way along the bay from the pier, and is easily walkable from anywhere in central Llandudno.

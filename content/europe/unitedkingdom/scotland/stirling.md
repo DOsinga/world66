@@ -1,24 +1,26 @@
 ---
 done:
+  link_coverage: '2026-06-08'
   location_create: '2026-06-04'
 image: stirling.jpg
 image_attribution: DeFacto
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Statue_of_Robert_the_Bruce,_Stirling_Castle.jpg
-latitude: 56.1195
+latitude: 56.1165
 loc_type: city
-longitude: -3.9389
+longitude: -3.9369
 sources:
 - https://en.wikipedia.org/wiki/Stirling
-- https://en.wikivoyage.org/wiki/Stirling
 title: Stirling
 type: location
 ---
 
-Stirling has been called the brooch that clasps the Highlands to the Lowlands, and the description holds. The town sits at the point where the Scottish plain narrows between the Ochil Hills and the Fintry and Campsie Fells, creating a natural bottleneck through which almost every army that ever moved into or out of the Highlands was obliged to pass. The result is a history written in blood: the battles of Stirling Bridge (1297) and Bannockburn (1314), the executions on the castle esplanade, the slow accretion of a city around a rock that made military sense before it made economic sense.
+Stirling sits at the narrowest crossing point of the River Forth, where the Lowlands meet the Highlands, and that geography has shaped its entire history. Whoever held Stirling held the road north — which is why two of Scotland's most decisive battles, Stirling Bridge in 1297 and Bannockburn in 1314, were fought within a few miles of the city. The volcanic crag rising above the river carries one of the finest castles in Britain, and the old town that tumbles down the hill below it is among the most evocative in Scotland.
 
-The [Castle of Stirling](/europe/unitedkingdom/scotland/stirling/stirling_castle) dominates everything. Built on a volcanic plug even more commanding than Edinburgh's, it served as a royal residence for the Stuart dynasty and was the birthplace of James II. The great hall, the royal apartments, and the recently restored unicorn tapestries make it one of the finest Renaissance palaces in Britain, though most visitors come for the views across the carse to the Highland edge rather than the interior. The walk up through the old town from the station, past the [Argyll's Lodging](/europe/unitedkingdom/scotland/stirling/argylls_lodging), the [Church of the Holy Rude](/europe/unitedkingdom/scotland/stirling/church_of_holy_rude), and Mar's Wark, covers a thousand years of Scottish history in twenty minutes.
+The city is small and easy to cover on foot. From the railway station it is a steady climb up Spittal Street and Broad Street to the castle gate, passing the medieval [Church of the Holy Rude](/europe/unitedkingdom/scotland/stirling/church_of_the_holy_rude), where the infant James VI was crowned in 1567, and the Renaissance facade of [Mar's Wark](/europe/unitedkingdom/scotland/stirling/mars_wark). [Stirling Castle](/europe/unitedkingdom/scotland/stirling/stirling_castle) itself dominates everything and deserves at least half a day; the restored Great Hall and Royal Palace give a vivid sense of the Stewart court at its grandest.
 
-Below the castle hill, the modern town is pleasant enough — a compact commercial centre with some good cafés and an active student population from the University of Stirling. The [National Wallace Monument](/europe/unitedkingdom/scotland/stirling/national_wallace_monument) on Abbey Craig, a dramatic Victorian tower visible from most of the town, draws visitors with a different kind of patriotism to the castle. The [Bannockburn Heritage Centre](/europe/unitedkingdom/scotland/stirling/bannockburn) to the south is worth visiting for its unexpectedly sophisticated treatment of the 1314 battle.
+The two great battlefields lie within easy reach. The [Wallace Monument](/europe/unitedkingdom/scotland/stirling/wallace_monument), a Victorian tower on Abbey Craig east of the city, marks where William Wallace watched the English army cross the Forth before defeating it in 1297. The [Bannockburn Heritage Centre](/europe/unitedkingdom/scotland/stirling/bannockburn_heritage_centre) two miles south uses immersive technology to recreate Robert the Bruce's victory of 1314 — the battle that effectively secured Scottish independence for the next three centuries. Both sites are unmissable for anyone with an interest in Scottish history.
 
-Stirling makes a natural base for exploring the Trossachs and Loch Lomond, the Ochil Hills, and the Bridge of Allan. It is also directly on the road to [Edinburgh](/europe/unitedkingdom/scotland/edinburgh) and [Glasgow](/europe/unitedkingdom/scotland/glasgow), both under an hour away by train.
+Beyond the castle and the battles, Stirling rewards slow wandering. The [Old Town Jail](/europe/unitedkingdom/scotland/stirling/old_town_jail) gives the best rooftop view in the city, [Cambuskenneth Abbey](/europe/unitedkingdom/scotland/stirling/cambuskenneth_abbey) sits in a quiet meadow across the Forth, and the [Stirling Smith Art Gallery and Museum](/europe/unitedkingdom/scotland/stirling/stirling_smith) holds the oldest football in the world, found in the rafters of the Queen's bedchamber. The university campus a couple of miles north occupies the parkland of [Airthrey Castle](/europe/unitedkingdom/scotland/stirling/airthrey_castle), and the elegant Victorian suburb of [Bridge of Allan](/europe/unitedkingdom/scotland/stirling/bridge_of_allan) makes a pleasant short walk or bus ride.
+
+*Europe > United Kingdom > Scotland > Stirling*

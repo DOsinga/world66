@@ -5,17 +5,13 @@ tags:
   - things_to_do
   - sight
   - architecture
-  - museum
 latitude: 56.1218
 longitude: -3.9437
-sources:
-  - https://en.wikipedia.org/wiki/Argyll%27s_Lodging
-story: >
-  The lodging takes its name from Archibald Campbell, 9th Earl of Argyll, who owned it in the 1660s and 1670s. Campbell was a complex and ultimately tragic figure in Scottish history — a prominent Covenanter who was eventually executed in 1685 for opposition to the Catholic James VII. He led an ill-fated invasion of Scotland in that year to support the Monmouth Rebellion, was captured, and beheaded at Edinburgh. His fine town house in Stirling survived him by several centuries.
+snippet: A 17th-century Renaissance town-house below Stirling Castle, the finest of its kind in Scotland
 ---
 
-Argyll's Lodging is the most complete and best-preserved example of a seventeenth-century urban great house in Scotland, standing below the castle at the top of Castle Wynd. Built progressively from the late sixteenth century, the current range of buildings dates mainly from the 1630s, when Sir William Alexander and later the Earl of Argyll extended and remodelled it into a substantial courtyard residence fit for the Scottish aristocracy.
+Argyll's Lodging is the most complete 17th-century townhouse in Scotland, sitting on Castle Wynd in the angle between the road to the castle and the Church of the Holy Rude. The core of the building dates to about 1630, but the present configuration is the work of Archibald Campbell, 9th Earl of Argyll, who extended it after 1670 into a grand four-sided house around a small inner court.
 
-The building is unusual in surviving largely intact when so many similar town houses were demolished or converted beyond recognition in subsequent centuries. Historic Environment Scotland administers it and has restored and refurnished several rooms to reflect their seventeenth-century appearance, with period furniture, textiles, and fittings. The great hall and the dining room are the most impressive spaces.
+The principal rooms have been restored to look as they did in the 1680s, with painted ceilings, carved overmantels, and 17th-century textiles. The High Dining Room, the My Lady's Closet and the Drawing Room give a vivid picture of how a Scottish aristocrat at the top of his game would have lived — although the 9th Earl himself was executed for treason in 1685, only fifteen years after completing the house.
 
-The lodging is often included in a castle visit since it is directly on the route up Castle Wynd; it can also be visited independently. Allow thirty to forty-five minutes.
+It is run by Historic Environment Scotland and admission is included with the Stirling Castle ticket. Allow 40 minutes to an hour. The entry is from Castle Wynd and is easy to miss; look for the iron gate next to the [Church of the Holy Rude](/europe/unitedkingdom/scotland/stirling/church_of_the_holy_rude).

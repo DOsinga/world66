@@ -3,8 +3,10 @@ title: Getting There
 type: section
 ---
 
-Llandudno has its own railway station on the North Wales Coast Line, with direct services to Chester and Crewe, and from there connections to Manchester, London, and the rest of the national rail network. The journey from Chester takes around 50 minutes. Llandudno Junction, a few minutes further down the line, is the main interchange station, where you can connect to the Conwy Valley line into Snowdonia or services heading west towards Holyhead and the Irish ferry.
+**By train.** Llandudno is on a branch off the main North Wales Coast Line. Direct services run from Manchester Piccadilly (about 2 hours) and from Chester (1 hour). For London, you change at Chester or Crewe — the total journey from London Euston is about 3 hours 30 minutes. The branch terminates at Llandudno station, a 10-minute walk from the centre.
 
-By road, Llandudno is reached from the east via the A55 dual carriageway, which follows the North Wales coast from Chester. From the south, the A470 from Cardiff and mid-Wales brings you to Llandudno Junction, and from there the A546 into town. Liverpool and Manchester are both around 90 minutes by road.
+**By car.** The A55 expressway runs along the north Wales coast and takes you from Chester to the Llandudno turn-off in about 40 minutes. From Manchester or Liverpool allow about 90 minutes; from London via Birmingham and the M6, about 4–5 hours. The town has plenty of pay-and-display car parks within walking distance of the seafront.
 
-There is no airport near Llandudno; the nearest useful airports are Liverpool John Lennon (about 90 minutes) and Manchester (about 90 minutes to two hours depending on traffic). Anglesey Airport has limited services. For visitors from Ireland, the Holyhead ferry port is around 40 minutes west along the A55.
+**By bus.** TrawsCymru services connect Llandudno with Caernarfon, Bangor and the rest of the north Wales coast. Coach services from Manchester and London (National Express, Megabus) stop at Llandudno Junction station, with onward local buses to the town centre.
+
+There is no airport at Llandudno. Manchester Airport is the nearest international hub, about 90 minutes by train via Crewe.

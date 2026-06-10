@@ -27,3 +27,8 @@ clean
 /location_ratings.json
 design/
 /passports/
+/bulk-merge.sh
+/logs/
+/plans/
+/docs/brainstorms/
+/docs/plans/

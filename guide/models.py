@@ -405,7 +405,8 @@ def load_story_pois():
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):
             raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
-        if "story" not in raw_tags or "books" in raw_tags:
+        tag_set = set(raw_tags)
+        if "story" not in tag_set or tag_set & {"books", "getting_there", "hotel", "accommodation"}:
             continue
         rel = md_file.relative_to(CONTENT_DIR)
         parts = list(rel.parts)
@@ -425,6 +426,51 @@ def load_story_pois():
             "snippet": meta.get("snippet", ""),
             "location": parent.title if parent else "",
         })
+    return result
+
+
+@lru_cache(maxsize=1)
+def load_featured_cities():
+    """Return depth-3 location pages (continent/country/city) that have images. Caller randomises."""
+    result = []
+    for cont_dir in sorted(CONTENT_DIR.iterdir()):
+        if not cont_dir.is_dir():
+            continue
+        for country_dir in sorted(cont_dir.iterdir()):
+            if not country_dir.is_dir():
+                continue
+            for city_file in sorted(country_dir.iterdir()):
+                if not city_file.is_file() or city_file.suffix != ".md":
+                    continue
+                r = _load_md(city_file)
+                if not r:
+                    continue
+                meta, body = r
+                if meta.get("type") != "location":
+                    continue
+                image = meta.get("image", "")
+                if not image:
+                    continue
+                stem = city_file.stem
+                if stem == country_dir.name:
+                    url_path = f"{cont_dir.name}/{country_dir.name}"
+                else:
+                    url_path = f"{cont_dir.name}/{country_dir.name}/{stem}"
+                for candidate in [f"{url_path}/{image}", f"{cont_dir.name}/{country_dir.name}/{image}"]:
+                    if (CONTENT_DIR / candidate).is_file():
+                        image_url = f"/content-image/{candidate}"
+                        break
+                else:
+                    continue
+                page = _load_page_from_file(city_file, url_path)
+                if not page:
+                    continue
+                country = load_page(f"{cont_dir.name}/{country_dir.name}")
+                result.append({
+                    "page": page,
+                    "image_url": image_url,
+                    "country": country.title if country else "",
+                })
     return result
 
 

@@ -23,7 +23,7 @@ def about(request):
 
 def home(request):
     import random
-    from .models import load_continents, load_story_pois
+    from .models import load_continents, load_story_pois, load_featured_cities
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -48,7 +48,13 @@ def home(request):
         })
     all_story_pois = load_story_pois()
     story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
-    return render(request, "guide/home.html", {'continents': continents, 'story_pois': story_pois})
+    all_cities = load_featured_cities()
+    featured_cities = random.sample(all_cities, min(12, len(all_cities)))
+    return render(request, "guide/home.html", {
+        'continents': continents,
+        'story_pois': story_pois,
+        'featured_cities': featured_cities,
+    })
 
 
 def location_or_section(request, path):

@@ -7,16 +7,16 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Traveler100" title
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:MoraineLakeP01.jpg
 latitude: 61.066692
+loc_type: country
 longitude: -107.991707
 quick_facts:
-  Population: "40 million"
-  Currency: Canadian dollar (CAD)
   Coastline: Longest in the world at 243,000 km
-  Lakes: "More than all other countries combined"
-score: 0.44
+  Currency: Canadian dollar (CAD)
+  Lakes: More than all other countries combined
+  Population: 40 million
+score: 0.93
 title: Canada
 type: location
-loc_type: country
 ---
 
 Canada is the second largest country in the world. Although Canada is quite sparsely populated, it has some major cosmopolitan cities, such as [Toronto](/northamerica/canada/ontario/toronto) Toronto , [Montreal](/northamerica/canada/quebec/montreal) Montreal and [Vancouver](/northamerica/canada/britishcolumbia/vancouver) Vancouver that offer anything a traveler could want. 

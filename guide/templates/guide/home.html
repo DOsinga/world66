@@ -57,13 +57,31 @@
 
 {% if story_pois %}
 <div class="wide-block home-stories-section">
-  <h2 class="home-section-label">1,000 stories worth reading</h2>
+  <h2 class="home-section-label">Stories worth travelling for</h2>
   <div class="home-story-grid">
     {% for poi in story_pois %}
     <a href="{{ poi.page.get_absolute_url }}" class="home-story-card">
       <div class="home-story-title">{{ poi.page.title }}</div>
       {% if poi.story %}<p class="home-story-text">{{ poi.story }}</p>{% endif %}
       <div class="home-story-location">{{ poi.location }}</div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if featured_cities %}
+<div class="wide-block home-cities-section">
+  <h2 class="home-section-label">100s of cities worth exploring</h2>
+  <div class="home-city-grid">
+    {% for city in featured_cities %}
+    <a href="{{ city.page.get_absolute_url }}" class="home-city-card">
+      <img src="{{ city.image_url }}" alt="{{ city.page.title }}" class="home-city-img">
+      <div class="home-city-veil"></div>
+      <div class="home-city-overlay">
+        <div class="home-city-name">{{ city.page.title }}</div>
+        {% if city.country %}<div class="home-city-country">{{ city.country }}</div>{% endif %}
+      </div>
     </a>
     {% endfor %}
   </div>

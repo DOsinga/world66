@@ -1658,6 +1658,12 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 /* Full-bleed hero with destination photo */
+.home-hero-outer {
+  padding: 0 40px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .home-hero {
   position: relative;
   height: 88vh;
@@ -1665,6 +1671,7 @@ img { max-width: 100%; height: auto; }
   overflow: hidden;
   display: flex;
   align-items: flex-end;
+  border-radius: 8px;
 }
 
 .home-hero-bg {
@@ -1681,9 +1688,9 @@ img { max-width: 100%; height: auto; }
   inset: 0;
   background: linear-gradient(
     to right,
-    rgba(0,0,0,0.88) 0%,
-    rgba(0,0,0,0.70) 30%,
-    rgba(0,0,0,0.25) 60%,
+    rgba(0,0,0,0.72) 0%,
+    rgba(0,0,0,0.50) 30%,
+    rgba(0,0,0,0.16) 60%,
     rgba(0,0,0,0.00) 100%
   );
 }
@@ -1754,15 +1761,17 @@ img { max-width: 100%; height: auto; }
   transform: translateX(4px);
 }
 
-/* Section label above continent grid */
+/* Section headings above continent grid and story grid */
 .home-section-label {
-  font-family: var(--label-font);
-  font-size: 10px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--mute);
-  margin-bottom: 24px;
+  font-family: var(--display-font);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144;
+  font-size: clamp(28px, 3vw, 44px);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--ink);
+  margin: 0 0 32px;
+  border-bottom: none;
 }
 
 /* Continent cards section */
@@ -1907,24 +1916,15 @@ img { max-width: 100%; height: auto; }
   color: var(--ink);
 }
 
-.home-story-category {
-  font-family: var(--label-font);
-  font-size: 9px;
-  text-transform: uppercase;
-  letter-spacing: 0.10em;
-  color: var(--accent);
-  margin-bottom: 10px;
-}
-
 .home-story-title {
   font-family: var(--display-font);
-  font-size: 15px;
+  font-size: clamp(18px, 1.5vw, 22px);
   font-weight: 400;
   font-variation-settings: "opsz" 144;
-  letter-spacing: -0.01em;
-  line-height: 1.25;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
   color: var(--ink);
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 .home-story-text {
@@ -1949,6 +1949,7 @@ img { max-width: 100%; height: auto; }
 /* Contribute section — split image + panel */
 
 @media (max-width: 900px) {
+  .home-hero-outer { padding: 0 16px; }
   .home-hero-body { padding: 0 24px; max-width: 100%; }
   .home-continent-grid { grid-template-columns: repeat(2, 1fr); }
   .home-story-grid { grid-template-columns: repeat(2, 1fr); }

@@ -11,24 +11,26 @@
 {% endblock %}
 
 {% block hero %}
-<div class="home-hero">
-  <img src="/content-image/europe/faroeislands/streymoy/saksun.jpg" class="home-hero-bg" alt="Saksun, Faroe Islands">
-  <div class="home-hero-veil"></div>
-  <div class="home-hero-body">
-    <h1 class="home-hero-title">The world is ours to explore</h1>
-    <p class="home-hero-sub">Free, open travel guide — no ads, no paid links. Written by humans and AI together.</p>
-    <nav class="home-hero-nav">
-      <a href="#destinations" class="home-hero-navlink">Start browsing</a>
-      <a href="/about" class="home-hero-navlink">Our story</a>
-      <a href="/about#contribute" class="home-hero-navlink">How you can help</a>
-    </nav>
+<div class="home-hero-outer">
+  <div class="home-hero">
+    <img src="/content-image/europe/faroeislands/streymoy/saksun.jpg" class="home-hero-bg" alt="Saksun, Faroe Islands">
+    <div class="home-hero-veil"></div>
+    <div class="home-hero-body">
+      <h1 class="home-hero-title">The world is ours to explore</h1>
+      <p class="home-hero-sub">Free, open travel guide — no ads, no paid links. Written by humans and AI together.</p>
+      <nav class="home-hero-nav">
+        <a href="#destinations" class="home-hero-navlink">Start browsing</a>
+        <a href="/about" class="home-hero-navlink">Our story</a>
+        <a href="/about#contribute" class="home-hero-navlink">How you can help</a>
+      </nav>
+    </div>
   </div>
 </div>
 {% endblock %}
 
 {% block wide_content %}
 <div class="wide-block home-continents-section" id="destinations">
-  <div class="home-section-label">Explore by continent</div>
+  <h2 class="home-section-label">Explore 20,000 destinations</h2>
   <div class="home-continent-grid">
     {% for c in continents %}
     <div class="home-continent-card">
@@ -55,11 +57,10 @@
 
 {% if story_pois %}
 <div class="wide-block home-stories-section">
-  <div class="home-section-label">Stories worth reading</div>
+  <h2 class="home-section-label">1,000 stories worth reading</h2>
   <div class="home-story-grid">
     {% for poi in story_pois %}
     <a href="{{ poi.page.get_absolute_url }}" class="home-story-card">
-      {% if poi.page.category %}<div class="home-story-category">{{ poi.page.category }}</div>{% endif %}
       <div class="home-story-title">{{ poi.page.title }}</div>
       {% if poi.story %}<p class="home-story-text">{{ poi.story }}</p>{% endif %}
       <div class="home-story-location">{{ poi.location }}</div>

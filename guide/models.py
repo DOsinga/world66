@@ -405,7 +405,7 @@ def load_story_pois():
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):
             raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
-        if "story" not in raw_tags:
+        if "story" not in raw_tags or "books" in raw_tags:
             continue
         rel = md_file.relative_to(CONTENT_DIR)
         parts = list(rel.parts)

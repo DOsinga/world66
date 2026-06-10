@@ -46,14 +46,25 @@ def home(request):
             'total': len(countries),
             'image_url': image_url,
         })
+    import json
     all_story_pois = load_story_pois()
     story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
     all_cities = load_featured_cities()
-    featured_cities = random.sample(all_cities, min(12, len(all_cities)))
+    cities_json = json.dumps([
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+        }
+        for c in all_cities if c['lat'] and c['lng']
+    ])
     return render(request, "guide/home.html", {
         'continents': continents,
         'story_pois': story_pois,
-        'featured_cities': featured_cities,
+        'cities_json': cities_json,
     })
 
 

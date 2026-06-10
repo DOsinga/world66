@@ -472,6 +472,8 @@ def load_featured_cities():
                     "page": page,
                     "image_url": image_url,
                     "country": country.title if country else "",
+                    "lat": meta.get("latitude"),
+                    "lng": meta.get("longitude"),
                 })
     return result
 

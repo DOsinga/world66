@@ -70,21 +70,60 @@
 </div>
 {% endif %}
 
-{% if featured_cities %}
+{% if cities_json %}
 <div class="wide-block home-cities-section">
-  <h2 class="home-section-label">Remarkable cities worth exploring</h2>
-  <div class="home-city-grid">
-    {% for city in featured_cities %}
-    <a href="{{ city.page.get_absolute_url }}" class="home-city-card">
-      <img src="{{ city.image_url }}" alt="{{ city.page.title }}" class="home-city-img">
-      <div class="home-city-veil"></div>
-      <div class="home-city-overlay">
-        <div class="home-city-name">{{ city.page.title }}</div>
-        {% if city.country %}<div class="home-city-country">{{ city.country }}</div>{% endif %}
-      </div>
-    </a>
-    {% endfor %}
+  <h2 class="home-section-label">Remarkable destinations, mapped</h2>
+  <div class="home-city-map-wrap">
+    <div id="city-map"></div>
+    <div id="city-card-panel" class="home-city-card-panel"></div>
   </div>
 </div>
+<script>
+(function() {
+  var cities = {{ cities_json|safe }};
+  var map = L.map('city-map', {
+    center: [20, 10], zoom: 2,
+    scrollWheelZoom: false,
+    zoomControl: true,
+    attributionControl: true
+  });
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
+    subdomains: 'abcd', maxZoom: 19
+  }).addTo(map);
+
+  var panel = document.getElementById('city-card-panel');
+  var activeMarker = null;
+  var dot = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
+  var dotActive = { radius: 7, fillColor: '#131211', color: '#fff', weight: 2, fillOpacity: 1.0 };
+
+  function closePanel() {
+    panel.classList.remove('active');
+    if (activeMarker) { activeMarker.setStyle(dot); activeMarker = null; }
+  }
+
+  cities.forEach(function(city) {
+    var m = L.circleMarker([city.lat, city.lng], dot).addTo(map);
+    m.on('click', function(e) {
+      L.DomEvent.stopPropagation(e);
+      if (activeMarker && activeMarker !== m) activeMarker.setStyle(dot);
+      m.setStyle(dotActive);
+      activeMarker = m;
+      panel.innerHTML =
+        '<button class="city-card-close" aria-label="Close">&times;</button>' +
+        '<div class="city-card-photo"><img src="' + city.image + '" alt="' + city.title + '"></div>' +
+        '<div class="city-card-body">' +
+          '<div class="city-card-name">' + city.title + '</div>' +
+          '<div class="city-card-country">' + (city.country || '') + '</div>' +
+          '<a href="' + city.url + '" class="city-card-link">Explore ' + city.title + ' →</a>' +
+        '</div>';
+      panel.classList.add('active');
+      panel.querySelector('.city-card-close').onclick = closePanel;
+    });
+  });
+
+  map.on('click', closePanel);
+})();
+</script>
 {% endif %}
 {% endblock %}

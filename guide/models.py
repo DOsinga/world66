@@ -298,21 +298,9 @@ def load_page_from_branch(path, branch):
 
 def load_page(path):
     """Load a page by its URL path."""
-    slug = path.rsplit("/", 1)[-1] if "/" in path else path
-
-    for md_file in [
-        CONTENT_DIR / f"{path}.md",
-        CONTENT_DIR / path / f"{slug}.md",
-    ]:
-        if md_file.is_file():
-            return _load_page_from_file(md_file, path)
-
-    if "/" in path:
-        parent_path, slug = path.rsplit("/", 1)
-        md_file = CONTENT_DIR / parent_path / f"{slug}.md"
-        if md_file.is_file():
-            return _load_page_from_file(md_file, path)
-
+    md_file = CONTENT_DIR / f"{path}.md"
+    if md_file.is_file():
+        return _load_page_from_file(md_file, path)
     return None
 
 

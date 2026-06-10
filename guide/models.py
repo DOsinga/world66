@@ -429,52 +429,104 @@ def load_story_pois():
     return result
 
 
+_CITY_SCORE_THRESHOLDS = {
+    "africa": 0.52,
+    "caribbean": 0.44,
+    "centralamerica": 0.46,
+    "southamerica": 0.48,
+    "middleeast": 0.46,
+    "australiaandpacific": 0.50,
+    "asia": 0.60,
+    "northamerica": 0.60,
+    "europe": 0.65,
+}
+
+
 @lru_cache(maxsize=1)
 def load_featured_cities():
-    """Return depth-3 location pages (continent/country/city) that have images. Caller randomises."""
+    """Return location pages at city level (depth 3 or 4). Score threshold varies by continent."""
     result = []
+
+    def _try_city(city_file, cont_name, country_name, state_name=None):
+        r = _load_md(city_file)
+        if not r:
+            return
+        meta, body = r
+        if meta.get("type") != "location":
+            return
+        score = float(meta.get("score", 0) or 0)
+        threshold = _CITY_SCORE_THRESHOLDS.get(cont_name, 0.60)
+        if score < threshold:
+            return
+        image = meta.get("image", "")
+        if not image:
+            return
+        # At depth-3 (no state_name), skip entries that are state/province containers —
+        # i.e. pages whose corresponding directory holds child location pages (cities).
+        # Those cities are already captured at depth-4.
+        if not state_name:
+            sub = city_file.parent / city_file.stem
+            if sub.is_dir():
+                for child in sorted(sub.iterdir()):
+                    if child.is_file() and child.suffix == ".md":
+                        child_r = _load_md(child)
+                        if child_r and child_r[0].get("type") == "location":
+                            return  # this is a state/region page, not a city
+                        break
+        stem = city_file.stem
+        if state_name:
+            if stem == state_name:
+                url_path = f"{cont_name}/{country_name}/{state_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{state_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{state_name}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        else:
+            if stem == country_name:
+                url_path = f"{cont_name}/{country_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        for candidate in image_candidates:
+            if (CONTENT_DIR / candidate).is_file():
+                image_url = f"/content-image/{candidate}"
+                break
+        else:
+            return
+        page = _load_page_from_file(city_file, url_path)
+        if not page:
+            return
+        country = load_page(f"{cont_name}/{country_name}")
+        result.append({
+            "page": page,
+            "image_url": image_url,
+            "country": country.title if country else "",
+            "lat": meta.get("latitude"),
+            "lng": meta.get("longitude"),
+            "score": score,
+        })
+
     for cont_dir in sorted(CONTENT_DIR.iterdir()):
         if not cont_dir.is_dir():
             continue
         for country_dir in sorted(cont_dir.iterdir()):
             if not country_dir.is_dir():
                 continue
-            for city_file in sorted(country_dir.iterdir()):
-                if not city_file.is_file() or city_file.suffix != ".md":
-                    continue
-                r = _load_md(city_file)
-                if not r:
-                    continue
-                meta, body = r
-                if meta.get("type") != "location":
-                    continue
-                if float(meta.get("score", 0) or 0) < 0.70:
-                    continue
-                image = meta.get("image", "")
-                if not image:
-                    continue
-                stem = city_file.stem
-                if stem == country_dir.name:
-                    url_path = f"{cont_dir.name}/{country_dir.name}"
-                else:
-                    url_path = f"{cont_dir.name}/{country_dir.name}/{stem}"
-                for candidate in [f"{url_path}/{image}", f"{cont_dir.name}/{country_dir.name}/{image}"]:
-                    if (CONTENT_DIR / candidate).is_file():
-                        image_url = f"/content-image/{candidate}"
-                        break
-                else:
-                    continue
-                page = _load_page_from_file(city_file, url_path)
-                if not page:
-                    continue
-                country = load_page(f"{cont_dir.name}/{country_dir.name}")
-                result.append({
-                    "page": page,
-                    "image_url": image_url,
-                    "country": country.title if country else "",
-                    "lat": meta.get("latitude"),
-                    "lng": meta.get("longitude"),
-                })
+            for entry in sorted(country_dir.iterdir()):
+                if entry.is_file() and entry.suffix == ".md":
+                    # depth-3: continent/country/city.md
+                    _try_city(entry, cont_dir.name, country_dir.name)
+                elif entry.is_dir():
+                    # depth-4: continent/country/state/city.md
+                    for city_file in sorted(entry.iterdir()):
+                        if city_file.is_file() and city_file.suffix == ".md":
+                            _try_city(city_file, cont_dir.name, country_dir.name, entry.name)
     return result
 
 

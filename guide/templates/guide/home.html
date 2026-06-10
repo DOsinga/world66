@@ -72,10 +72,12 @@
 
 {% if cities_json %}
 <div class="wide-block home-cities-section">
-  <h2 class="home-section-label">Remarkable destinations, mapped</h2>
+  <h2 class="home-section-label">Around the world in in-depth destination guides</h2>
+  <p class="home-section-sub">Our top 1,000 destinations — <a href="/search">search all 20,000 →</a></p>
   <div class="home-city-map-wrap">
     <div id="city-map"></div>
-    <div id="city-card-panel" class="home-city-card-panel"></div>
+    <div id="city-card-panel" class="home-city-card-panel pos-bl"></div>
+    <button id="map-mode-btn" class="map-mode-btn">Explore the map</button>
   </div>
 </div>
 <script type="application/json" id="home-city-data">{{ cities_json|safe }}</script>
@@ -87,8 +89,9 @@
 <script>
 (function() {
   var el = document.getElementById('home-city-data');
-  if (!el) return;
+  if (!el || typeof L === 'undefined') return;
   var cities = JSON.parse(el.textContent);
+
   var map = L.map('city-map', {
     center: [20, 10], zoom: 2,
     scrollWheelZoom: false,
@@ -100,37 +103,179 @@
     subdomains: 'abcd', maxZoom: 19
   }).addTo(map);
 
+  var CORNERS = ['bl', 'br', 'tr', 'tl'];
+  var cornerIdx = 0;
   var panel = document.getElementById('city-card-panel');
-  var activeMarker = null;
-  var dot       = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
-  var dotActive = { radius: 7, fillColor: '#131211', color: '#fff', weight: 2,   fillOpacity: 1.0  };
+  var dotActive = { radius: 7, fillColor: '#b8532b', color: '#fff', weight: 2, fillOpacity: 0.95 };
+  var currentMarker = null;
 
-  function closePanel() {
+  function closeCard() {
     panel.classList.remove('active');
-    if (activeMarker) { activeMarker.setStyle(dot); activeMarker = null; }
+    if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
   }
 
-  cities.forEach(function(city) {
-    var m = L.circleMarker([city.lat, city.lng], dot).addTo(map);
-    m.on('click', function(e) {
-      L.DomEvent.stopPropagation(e);
-      if (activeMarker && activeMarker !== m) activeMarker.setStyle(dot);
-      m.setStyle(dotActive);
-      activeMarker = m;
-      panel.innerHTML =
-        '<button class="city-card-close" aria-label="Close">&times;</button>' +
-        '<div class="city-card-photo"><img src="' + city.image + '" alt="' + city.title + '"></div>' +
-        '<div class="city-card-body">' +
-          '<div class="city-card-name">' + city.title + '</div>' +
-          '<div class="city-card-country">' + (city.country || '') + '</div>' +
-          '<a href="' + city.url + '" class="city-card-link">Explore ' + city.title + ' →</a>' +
-        '</div>';
-      panel.classList.add('active');
-      panel.querySelector('.city-card-close').onclick = closePanel;
+  function openCard(city) {
+    if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
+    currentMarker = L.circleMarker([city.lat, city.lng], dotActive).addTo(map);
+    var corner = CORNERS[cornerIdx % CORNERS.length];
+    cornerIdx++;
+    // Set non-active state + new content, then double-rAF to ensure the browser
+    // commits opacity:0 before we add 'active' and start the fade-in transition.
+    panel.className = 'home-city-card-panel pos-' + corner;
+    panel.innerHTML =
+      '<button class="city-card-close" aria-label="Close">&times;</button>' +
+      '<div class="city-card-photo"><img src="' + city.image + '" alt="' + city.title + '" loading="lazy"></div>' +
+      '<div class="city-card-body">' +
+        '<div class="city-card-name">' + city.title + '</div>' +
+        '<div class="city-card-country">' + (city.country || '') + '</div>' +
+        '<a href="' + city.url + '" class="city-card-link">Explore →</a>' +
+      '</div>';
+    requestAnimationFrame(function() {
+      requestAnimationFrame(function() {
+        panel.classList.add('active');
+        panel.querySelector('.city-card-close').onclick = function() { closeCard(); if (!isExploring) pauseCycle(10000); };
+      });
     });
-  });
+  }
 
-  map.on('click', closePanel);
+  // Explore mode
+  var exploreLayer = L.layerGroup().addTo(map);
+  var isExploring = false;
+  var modeBtn = document.getElementById('map-mode-btn');
+  var dot = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
+  map.dragging.disable();
+
+  function updateExploreDots() {
+    exploreLayer.clearLayers();
+    var bounds = map.getBounds();
+    cities.forEach(function(city) {
+      if (!bounds.contains([city.lat, city.lng])) return;
+      var m = L.circleMarker([city.lat, city.lng], dot);
+      m.on('click', function(e) { L.DomEvent.stopPropagation(e); openCard(city); });
+      exploreLayer.addLayer(m);
+    });
+  }
+
+  function enterExploreMode() {
+    if (isExploring) return;
+    isExploring = true;
+    clearTimeout(cycleTimer); userPaused = true; clearTimeout(pauseTimer);
+    closeCard();
+    map.dragging.enable();
+    map.flyTo([curLat, curLng], 5, { duration: 1.2 });
+    modeBtn.textContent = 'Back to auto-play';
+    setTimeout(updateExploreDots, 1300);
+  }
+
+  function exitExploreMode() {
+    if (!isExploring) return;
+    isExploring = false;
+    exploreLayer.clearLayers();
+    map.dragging.disable();
+    map.flyTo([20, 10], 2, { duration: 1.2 });
+    modeBtn.textContent = 'Explore the map';
+    userPaused = false;
+    scheduleNext(1400);
+  }
+
+  modeBtn.onclick = function() {
+    if (isExploring) exitExploreMode(); else enterExploreMode();
+  };
+
+  map.on('moveend', function() { if (isExploring) updateExploreDots(); });
+  map.on('click', function() { closeCard(); });
+
+  var cycleCities = cities.filter(function(c) { return c.score >= 0.70; });
+  // Shuffle
+  for (var i = cycleCities.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = cycleCities[i]; cycleCities[i] = cycleCities[j]; cycleCities[j] = tmp;
+  }
+  // Start near Dakar (west Africa) — use Île de Gorée as surrogate if Dakar isn't in the set
+  var startTitles = ['Dakar', 'Ile de Gorée', 'Île de Gorée'];
+  for (var si = 0; si < startTitles.length; si++) {
+    var found = false;
+    for (var i = 0; i < cycleCities.length; i++) {
+      if (cycleCities[i].title === startTitles[si]) {
+        var tmp = cycleCities[0]; cycleCities[0] = cycleCities[i]; cycleCities[i] = tmp;
+        found = true; break;
+      }
+    }
+    if (found) break;
+  }
+
+  var cycleIdx = 0, cycleTimer = null, pauseTimer = null, userPaused = false, cycleStarted = false;
+  var MIN_JUMP_M = 900000, MAX_JUMP_M = 5000000;
+  var prevLat = null, prevLng = null;
+
+  function pauseCycle(ms) {
+    userPaused = true;
+    clearTimeout(pauseTimer);
+    pauseTimer = setTimeout(function() { userPaused = false; }, ms);
+  }
+
+  // Normalize longitude difference to [-180, 180] to handle the dateline correctly
+  function dlng(from, to) { var d = to - from; while (d > 180) d -= 360; while (d < -180) d += 360; return d; }
+
+  var curLat = 14.7, curLng = -17.4; // start near Dakar
+
+  function pickNext() {
+    var scored = [];
+    for (var i = cycleIdx; i < cycleCities.length; i++) {
+      var city = cycleCities[i];
+      var d = map.distance([curLat, curLng], [city.lat, city.lng]);
+      scored.push({ i: i, city: city, dist: d });
+    }
+    var inRange = scored.filter(function(s) { return s.dist >= MIN_JUMP_M && s.dist <= MAX_JUMP_M; });
+    if (!inRange.length) inRange = scored.filter(function(s) { return s.dist >= MIN_JUMP_M; });
+    if (!inRange.length) inRange = scored;
+
+    inRange.forEach(function(s) {
+      var cosAngle = 0;
+      if (prevLat !== null) {
+        var dx1 = dlng(prevLng, curLng), dy1 = curLat - prevLat;
+        var dx2 = dlng(curLng, s.city.lng), dy2 = s.city.lat - curLat;
+        var mag = Math.sqrt((dx1*dx1 + dy1*dy1) * (dx2*dx2 + dy2*dy2));
+        if (mag > 0) cosAngle = (dx1*dx2 + dy1*dy2) / mag;
+      }
+      s.score = 1 - cosAngle;
+    });
+
+    inRange.sort(function(a, b) { return a.score - b.score; });
+    var topN = inRange.slice(0, Math.min(3, inRange.length));
+    var chosen = topN[Math.floor(Math.random() * topN.length)];
+    var tmp = cycleCities[cycleIdx]; cycleCities[cycleIdx] = cycleCities[chosen.i]; cycleCities[chosen.i] = tmp;
+    prevLat = curLat; prevLng = curLng;
+    curLat = chosen.city.lat; curLng = chosen.city.lng;
+    var city = cycleCities[cycleIdx];
+    cycleIdx = (cycleIdx + 1) % cycleCities.length;
+    return { city: city, dist: chosen.dist };
+  }
+
+  function scheduleNext(delay) {
+    clearTimeout(cycleTimer);
+    cycleTimer = setTimeout(function() {
+      if (userPaused || !cycleCities.length) { scheduleNext(500); return; }
+      var picked = pickNext();
+      openCard(picked.city);
+      scheduleNext(3500);
+    }, delay || 0);
+  }
+
+  function startCycle() {
+    if (cycleStarted) return;
+    cycleStarted = true;
+    scheduleNext(600);
+  }
+
+  if ('IntersectionObserver' in window) {
+    var obs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) { if (entry.isIntersecting) { startCycle(); obs.disconnect(); } });
+    }, { threshold: 0.4 });
+    obs.observe(document.getElementById('city-map'));
+  } else {
+    setTimeout(startCycle, 1500);
+  }
 })();
 </script>
 {% endif %}

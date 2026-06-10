@@ -58,6 +58,7 @@ def home(request):
             'country': c['country'],
             'lat': float(c['lat']),
             'lng': float(c['lng']),
+            'score': c['score'],
         }
         for c in all_cities if c['lat'] and c['lng']
     ])

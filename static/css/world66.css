@@ -360,80 +360,82 @@ img { max-width: 100%; height: auto; }
 
 /* Search results page */
 .search-page-form {
-  display: flex;
-  gap: 8px;
-  margin-bottom: 20px;
-  max-width: 500px;
+  margin-bottom: 12px;
+  max-width: 640px;
 }
 
 .search-page-form input[type="search"] {
-  flex: 1;
-  padding: 8px 12px;
-  font-size: 15px;
-  border: 1px solid var(--border);
-  border-radius: 3px;
-  font-family: inherit;
+  width: 100%;
+  padding: 14px 20px;
+  font-size: 18px;
+  border: 2px solid var(--paper-2);
+  border-radius: 8px;
+  font-family: var(--body-font);
+  background: var(--paper);
+  color: var(--ink);
+  box-sizing: border-box;
+  transition: border-color 0.15s;
 }
 
 .search-page-form input[type="search"]:focus {
   outline: none;
-  border-color: var(--accent-ink);
-}
-
-.search-page-form button {
-  padding: 8px 18px;
-  font-size: 14px;
-  background: var(--red);
-  color: #fff;
-  border: none;
-  border-radius: 3px;
-  cursor: pointer;
-  font-family: inherit;
-}
-
-.search-page-form button:hover {
-  background: var(--red-dark);
+  border-color: var(--accent);
 }
 
 .search-count {
-  color: var(--text-light);
-  margin-bottom: 10px;
-  font-size: 14px;
+  font-size: 13px;
+  color: var(--mute);
+  margin-bottom: 24px;
 }
 
 .search-results {
   list-style: none;
   padding: 0;
+  max-width: 640px;
 }
 
 .search-results li {
+  border-bottom: 1px solid var(--paper-2);
+}
+
+.search-results li a {
   display: flex;
   align-items: baseline;
-  gap: 8px;
-  padding: 6px 0;
-  border-bottom: 1px solid #f0f0f0;
+  gap: 10px;
+  padding: 14px 0;
+  text-decoration: none;
+  color: var(--ink);
+  transition: color 0.12s;
+}
+
+.search-results li a:hover { color: var(--accent); }
+
+.search-result-title {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.search-result-location {
+  font-size: 13px;
+  color: var(--mute);
+  flex: 1;
 }
 
 .search-result-type {
   font-size: 11px;
-  color: var(--text-light);
+  color: var(--mute);
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.search-result-location {
-  color: var(--text-light);
-  font-size: 13px;
-  margin-left: 4px;
-}
-
-.search-result-location::before {
-  content: "\2014\00a0";
+  letter-spacing: 0.06em;
+  background: var(--paper-2);
+  padding: 2px 7px;
+  border-radius: 3px;
+  white-space: nowrap;
 }
 
 .search-no-results {
-  color: var(--text-light);
-  font-style: italic;
+  color: var(--mute);
+  font-size: 15px;
+  margin-top: 24px;
 }
 
 /* Logo */
@@ -1770,8 +1772,40 @@ img { max-width: 100%; height: auto; }
   letter-spacing: -0.02em;
   line-height: 1.1;
   color: var(--ink);
-  margin: 0 0 32px;
+  margin: 0 0 8px;
   border-bottom: none;
+}
+
+.home-section-sub {
+  font-size: 14px;
+  color: var(--mute);
+  margin: 0 0 28px;
+}
+.home-section-sub a { color: var(--accent); text-decoration: none; }
+.home-section-sub a:hover { text-decoration: underline; }
+
+.map-mode-btn {
+  position: absolute;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 900;
+  background: var(--paper);
+  border: none;
+  border-radius: 20px;
+  padding: 9px 20px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: var(--label-font);
+  cursor: pointer;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  color: var(--ink);
+  white-space: nowrap;
+  transition: background 0.15s, box-shadow 0.15s;
+}
+.map-mode-btn:hover {
+  background: var(--paper-2);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.22);
 }
 
 /* Continent cards section */
@@ -1972,17 +2006,23 @@ img { max-width: 100%; height: auto; }
   position: absolute;
   bottom: 24px;
   left: 24px;
+  top: auto;
+  right: auto;
   width: 256px;
   background: var(--paper);
   border-radius: 6px;
   box-shadow: 0 6px 28px rgba(0,0,0,0.18);
   overflow: hidden;
   opacity: 0;
-  transform: translateY(10px);
-  transition: opacity 0.2s ease, transform 0.2s ease;
+  transform: translateY(6px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
   pointer-events: none;
   z-index: 900;
 }
+.home-city-card-panel.pos-bl { bottom: 24px; left: 24px; top: auto; right: auto; }
+.home-city-card-panel.pos-br { bottom: 24px; right: 24px; top: auto; left: auto; }
+.home-city-card-panel.pos-tr { top: 24px; right: 24px; bottom: auto; left: auto; transform: translateY(-6px); }
+.home-city-card-panel.pos-tl { top: 24px; left: 24px; bottom: auto; right: auto; transform: translateY(-6px); }
 
 .home-city-card-panel.active {
   opacity: 1;

@@ -12,25 +12,29 @@
 
 {% block hero %}
 <div class="home-hero">
-  <div class="home-hero-text">
+  <div class="home-hero-left">
     <h1 class="home-hero-title">Explore<br>the world.</h1>
-    <p class="home-hero-sub">A free, open travel guide — no ads, no paid links. Stories that inspire, written by agents and travellers.</p>
-    <div class="home-hero-stats">
-      <div class="home-hero-stat"><span class="home-hero-stat-n">20k+</span><span class="home-hero-stat-l">Destinations</span></div>
-      <div class="home-hero-stat"><span class="home-hero-stat-n">7</span><span class="home-hero-stat-l">Continents</span></div>
-      <div class="home-hero-stat"><span class="home-hero-stat-n">Open</span><span class="home-hero-stat-l">Source &amp; content</span></div>
-    </div>
-    <a href="/about" class="home-about-link">About World66.ai →</a>
   </div>
-  <div class="home-map-wrap">
-    <div id="world-map" class="home-map"></div>
+  <div class="home-hero-right">
+    <p class="home-hero-sub">Free, open travel guides — no ads, no paid links, no algorithm. Stories that inspire you to go, help you find your way, and are worth reading again when you're home.</p>
+    <div class="home-hero-actions">
+      <a href="#destinations" class="home-hero-btn">Browse destinations</a>
+      <a href="/about" class="home-hero-link">About World66.ai →</a>
+    </div>
+  </div>
+  <div class="home-hero-bar">
+    <div class="home-hero-stat"><span class="home-hero-stat-n">20,000+</span><span class="home-hero-stat-l">destinations</span></div>
+    <div class="home-hero-stat"><span class="home-hero-stat-n">7</span><span class="home-hero-stat-l">continents</span></div>
+    <div class="home-hero-stat"><span class="home-hero-stat-n">Open</span><span class="home-hero-stat-l">source &amp; content</span></div>
+    <div class="home-hero-stat"><span class="home-hero-stat-n">No ads</span><span class="home-hero-stat-l">ever</span></div>
   </div>
 </div>
 {% endblock %}
 
 {% block wide_content %}
-<div class="wide-block home-continents-section">
-<div class="home-continent-grid">
+<div class="wide-block home-continents-section" id="destinations">
+  <div class="home-section-label">Explore by continent</div>
+  <div class="home-continent-grid">
     {% for c in continents %}
     <a href="{{ c.page.get_absolute_url }}" class="home-continent-card">
       {% if c.image_url %}<img src="{{ c.image_url }}" alt="{{ c.page.title }}" class="home-continent-img">{% endif %}
@@ -52,15 +56,18 @@
     {% endfor %}
   </div>
 </div>
-{% endblock %}
 
-{% block extra_js %}
-<script>
-var W66_CONTINENTS = [
-  {% for c in continents %}
-  {slug: "{{ c.page.slug }}", title: "{{ c.page.title|escapejs }}", url: "{{ c.page.get_absolute_url }}"},
-  {% endfor %}
-];
-initContinentMap('world-map', W66_CONTINENTS);
-</script>
+<div class="home-contribute-band">
+  <div class="home-contribute-inner">
+    <div class="home-contribute-text">
+      <p class="home-contribute-eyebrow">Open source travel guide</p>
+      <h2 class="home-contribute-title">Help us build it.</h2>
+      <p class="home-contribute-sub">Fork the repo, run <code>/todo</code>, open a PR. Agents welcome. Human editors too.</p>
+    </div>
+    <div class="home-contribute-actions">
+      <a href="/about#contribute" class="home-contribute-btn">How it works</a>
+      <a href="https://github.com/dosinga/world66" class="home-contribute-gh">GitHub →</a>
+    </div>
+  </div>
+</div>
 {% endblock %}

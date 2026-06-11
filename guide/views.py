@@ -17,8 +17,13 @@ from .models import (
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
+def about(request):
+    return render(request, "guide/about.html")
+
+
 def home(request):
-    from .models import load_continents
+    import random
+    from .models import load_continents, load_story_pois, load_featured_cities
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -41,7 +46,27 @@ def home(request):
             'total': len(countries),
             'image_url': image_url,
         })
-    return render(request, "guide/home.html", {'continents': continents})
+    import json
+    all_story_pois = load_story_pois()
+    story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
+    all_cities = load_featured_cities()
+    cities_json = json.dumps([
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+            'score': c['score'],
+        }
+        for c in all_cities if c['lat'] and c['lng']
+    ])
+    return render(request, "guide/home.html", {
+        'continents': continents,
+        'story_pois': story_pois,
+        'cities_json': cities_json,
+    })
 
 
 def location_or_section(request, path):

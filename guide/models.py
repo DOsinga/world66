@@ -392,6 +392,145 @@ def load_tag_index():
 
 
 @lru_cache(maxsize=1)
+def load_story_pois():
+    """Return all POIs tagged 'story' with their parent location title. Cached for the process lifetime; caller randomises."""
+    result = []
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        r = _load_md(md_file)
+        if not r:
+            continue
+        meta, body = r
+        if meta.get("type") != "poi":
+            continue
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
+        tag_set = set(raw_tags)
+        if "story" not in tag_set or tag_set & {"books", "getting_there", "hotel", "accommodation"}:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        page = _load_page_from_file(md_file, url_path)
+        if not page:
+            continue
+        parent_path = "/".join(url_path.split("/")[:-1])
+        parent = load_page(parent_path) if parent_path else None
+        result.append({
+            "page": page,
+            "story": meta.get("story", "") or body[:400],
+            "snippet": meta.get("snippet", ""),
+            "location": parent.title if parent else "",
+        })
+    return result
+
+
+_CITY_SCORE_THRESHOLDS = {
+    "africa": 0.52,
+    "caribbean": 0.44,
+    "centralamerica": 0.46,
+    "southamerica": 0.48,
+    "middleeast": 0.46,
+    "australiaandpacific": 0.50,
+    "asia": 0.60,
+    "northamerica": 0.60,
+    "europe": 0.65,
+}
+
+
+@lru_cache(maxsize=1)
+def load_featured_cities():
+    """Return location pages at city level (depth 3 or 4). Score threshold varies by continent."""
+    result = []
+
+    def _try_city(city_file, cont_name, country_name, state_name=None):
+        r = _load_md(city_file)
+        if not r:
+            return
+        meta, body = r
+        if meta.get("type") != "location":
+            return
+        score = float(meta.get("score", 0) or 0)
+        threshold = _CITY_SCORE_THRESHOLDS.get(cont_name, 0.60)
+        if score < threshold:
+            return
+        image = meta.get("image", "")
+        if not image:
+            return
+        # At depth-3 (no state_name), skip entries that are state/province containers —
+        # i.e. pages whose corresponding directory holds child location pages (cities).
+        # Those cities are already captured at depth-4.
+        if not state_name:
+            sub = city_file.parent / city_file.stem
+            if sub.is_dir():
+                for child in sorted(sub.iterdir()):
+                    if child.is_file() and child.suffix == ".md":
+                        child_r = _load_md(child)
+                        if child_r and child_r[0].get("type") == "location":
+                            return  # this is a state/region page, not a city
+                        break
+        stem = city_file.stem
+        if state_name:
+            if stem == state_name:
+                url_path = f"{cont_name}/{country_name}/{state_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{state_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{state_name}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        else:
+            if stem == country_name:
+                url_path = f"{cont_name}/{country_name}"
+            else:
+                url_path = f"{cont_name}/{country_name}/{stem}"
+            image_candidates = [
+                f"{url_path}/{image}",
+                f"{cont_name}/{country_name}/{image}",
+            ]
+        for candidate in image_candidates:
+            if (CONTENT_DIR / candidate).is_file():
+                image_url = f"/content-image/{candidate}"
+                break
+        else:
+            return
+        page = _load_page_from_file(city_file, url_path)
+        if not page:
+            return
+        country = load_page(f"{cont_name}/{country_name}")
+        result.append({
+            "page": page,
+            "image_url": image_url,
+            "country": country.title if country else "",
+            "lat": meta.get("latitude"),
+            "lng": meta.get("longitude"),
+            "score": score,
+        })
+
+    for cont_dir in sorted(CONTENT_DIR.iterdir()):
+        if not cont_dir.is_dir():
+            continue
+        for country_dir in sorted(cont_dir.iterdir()):
+            if not country_dir.is_dir():
+                continue
+            for entry in sorted(country_dir.iterdir()):
+                if entry.is_file() and entry.suffix == ".md":
+                    # depth-3: continent/country/city.md
+                    _try_city(entry, cont_dir.name, country_dir.name)
+                elif entry.is_dir():
+                    # depth-4: continent/country/state/city.md
+                    for city_file in sorted(entry.iterdir()):
+                        if city_file.is_file() and city_file.suffix == ".md":
+                            _try_city(city_file, cont_dir.name, country_dir.name, entry.name)
+    return result
+
+
+@lru_cache(maxsize=1)
 def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []

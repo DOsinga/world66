@@ -14,14 +14,10 @@ import yaml
 
 CONTENT_DIR = Path("content")
 DB_PATH = Path("search.db")
-LOG_PATH = Path("indexer.log")
 
 
 def log(msg):
-    line = f"{datetime.now().strftime('%H:%M:%S')}  {msg}"
-    print(line, flush=True)
-    with LOG_PATH.open("a") as f:
-        f.write(line + "\n")
+    print(f"{datetime.now().strftime('%H:%M:%S')}  {msg}", flush=True)
 
 DEFAULT_LOCAL_MODEL = "mlx-community/Qwen3-Embedding-4B-4bit-DWQ"
 DEFAULT_OPENAI_MODEL = "openai:text-embedding-3-small"
@@ -99,7 +95,7 @@ def _embed_openai_batch(texts):
     from openai import RateLimitError
     client = _get_openai_client()
     delay = 5
-    while True:
+    for _ in range(8):
         try:
             resp = client.embeddings.create(
                 model=_openai_model_name(),
@@ -111,6 +107,7 @@ def _embed_openai_batch(texts):
             log(f"  rate limit hit, retrying in {delay}s...")
             time.sleep(delay)
             delay = min(delay * 2, 60)
+    raise RuntimeError("OpenAI rate limit: gave up after 8 retries")
 
 
 # ----- Shared ----------------------------------------------------------------
@@ -137,7 +134,7 @@ def init_db(conn):
             page_type UNINDEXED, url_path UNINDEXED, location UNINDEXED
         )
     """)
-    conn.execute("CREATE TABLE IF NOT EXISTS meta (path TEXT PRIMARY KEY, mtime REAL, hash TEXT)")
+    conn.execute("CREATE TABLE IF NOT EXISTS meta (path TEXT PRIMARY KEY, hash TEXT)")
     conn.execute("CREATE TABLE IF NOT EXISTS config (key TEXT PRIMARY KEY, value TEXT)")
     conn.execute(f"""
         CREATE VIRTUAL TABLE IF NOT EXISTS embeddings USING vec0(
@@ -219,16 +216,9 @@ def extract(path):
 
 def index_file(conn, path):
     rel = str(path.relative_to(CONTENT_DIR))
-    mtime = path.stat().st_mtime
-
-    row = conn.execute("SELECT mtime, hash FROM meta WHERE path=?", (rel,)).fetchone()
-    # Skip hashing if mtime matches — avoids reading file contents for unchanged files
-    if row and row[0] == mtime:
-        content_changed = False
-        h = row[1]
-    else:
-        h = file_hash(path)
-        content_changed = not row or row[1] != h
+    row = conn.execute("SELECT hash FROM meta WHERE path=?", (rel,)).fetchone()
+    h = file_hash(path)
+    content_changed = not row or row[0] != h
 
     title = body = page_type = None
     if content_changed:
@@ -240,7 +230,7 @@ def index_file(conn, path):
             "INSERT INTO docs(path, title, body, page_type, url_path, location) VALUES(?,?,?,?,?,?)",
             (rel, title, body, page_type, url_path, location),
         )
-        conn.execute("INSERT OR REPLACE INTO meta(path, mtime, hash) VALUES(?,?,?)", (rel, mtime, h))
+        conn.execute("INSERT OR REPLACE INTO meta(path, hash) VALUES(?,?)", (rel, h))
 
     if not content_changed:
         has_embedding = conn.execute("SELECT 1 FROM embeddings WHERE path=?", (rel,)).fetchone()
@@ -319,7 +309,6 @@ def run():
 
     pending = []
     total = 0
-    LOG_PATH.unlink(missing_ok=True)
     log("Phase 1/2: indexing files...")
     conn.execute("BEGIN")
     try:

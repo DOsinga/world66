@@ -2428,6 +2428,8 @@ img { max-width: 100%; height: auto; }
   transition: background 0.15s;
 }
 .about-cta-btn:hover { background: var(--accent-ink); color: #fff; text-decoration: none; }
+.about-cta-btn--discord { background: #5865F2; margin-left: 12px; }
+.about-cta-btn--discord:hover { background: #4752c4; }
 
 @media (max-width: 900px) {
   .about-hero,

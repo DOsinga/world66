@@ -24,9 +24,21 @@ python3 manage.py runserver 8066
 
 ## Content structure
 
-`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file. The hierarchy nests as deep as it needs to: continents contain countries, countries contain regions and cities, cities contain sections.
+`content/` contains a hierarchical world guide. Each item is a markdown file with YAML frontmatter. If an item has children, they live in a directory with the same slug as the file.
 
-**POIs always live flat in the city directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same city folder, not inside an `eating_out/` subfolder.
+The hierarchy is at most four levels deep:
+
+```
+continent → country → [region] → city or feature
+```
+
+The region level is optional and only used for large countries (roughly 100+ locations). If a country uses regions, **every** city and feature lives inside one — nothing sits directly at the country level. Regions contain cities, features, and their own POIs (things that belong to the region but not to any one city).
+
+`loc_type` values: `continent`, `country`, `region`, `city`, `feature`. See LOCATIONS.md for the full rules.
+
+**Features** (Cinque Terre, Ardeche, Loire Valley, Normandy, Yellowstone) are named areas that are destinations in themselves but not settlements. They live inside a region alongside cities. Cities nearby tag into a feature using `tags: [feature_slug]`.
+
+**POIs always live flat in the city or feature directory** — never in a section subdirectory. A section like `eating_out.md` is just a filter page; POIs tagged `eating_out` live alongside it in the same folder, not inside an `eating_out/` subfolder.
 
 ### Images
 

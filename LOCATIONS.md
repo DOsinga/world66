@@ -4,21 +4,61 @@ Location pages cover cities, towns, and regions. They are where travelers find s
 
 ## Location types (`loc_type`)
 
-Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a state, a national park from a neighbourhood. Without it, batch workflows and rendering can't tell a leaf settlement apart from a region with no city children.
+Every page with `type: location` also carries a `loc_type` field that describes what kind of place it is. This is what distinguishes a city from a region, a national park from a city. Without it, batch workflows and rendering can't tell a leaf settlement apart from a regional container.
 
 | Value | Use for | Example paths |
 |-------|---------|---------------|
 | `continent` | The seven top-level continent pages | `europe`, `asia` |
 | `country` | Sovereign states and territories with their own page | `europe/france`, `asia/japan` |
-| `region` | Administrative regions, states, provinces, counties, multi-town areas | `europe/italy/lazio`, `northamerica/unitedstates/california` |
-| `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
-| `feature` | Natural features and named attractions that aren't settlements: national parks, lakes, mountains, monuments, archaeological sites, theme parks | `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
-
-A page is a `region` when it contains other locations as children (e.g. an Italian region with cities inside it). A page is a `city` when it is a leaf — no child locations, just sections and POIs. A `feature` is also a leaf but represents a single point of interest large enough to have its own page, not a place where people live.
+| `region` | The single grouping level directly below a country in large countries. For the US these are states; for other countries they are editorial or administrative groupings. Regions **contain** cities and features. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
+| `city` | Cities, towns, villages — actual settlements | `europe/france/south/paris`, `asia/india/delhi` |
+| `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. Features have their own POIs and cities nearby can tag into them. | `europe/france/south/ardeche`, `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone` |
 
 City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
 
 Neighbourhoods and districts within cities are not locations — they use `type: neighbourhood` and live in the parent city's directory. See [Neighbourhood tags](#neighbourhood-tags) below.
+
+## The region level
+
+Regions are the single intermediate level between a country and its cities. Use them for countries that have enough locations to warrant grouping (roughly 100 or more cities and features).
+
+**The rule is absolute: if a country uses regions, every city and every feature lives inside a region. No cities or features sit directly at the country level.**
+
+For the United States, regions are states (`california`, `texas`). For France, Italy, and similarly sized countries, they are editorial or administrative groupings (`south`, `tuscany`). The word "region" is used for all of them regardless of their political status.
+
+What a region page looks like:
+- Overview describing the area and what makes it worth visiting as a whole
+- Its own POIs for things that belong to the region but not to any specific city (a viewpoint on a mountain pass, a monument between towns)
+- Child cities and features visible in the sidebar
+
+What a region page does **not** have:
+- `eating_out`, `bars_and_cafes`, or `shopping` sections — those belong on city pages
+- Child regions — there is no third level. A region cannot contain another region.
+
+## Features and city–feature links
+
+A feature is a named area worth visiting that is not itself a settlement: Cinque Terre, the Ardèche gorge, Normandy, Côte d'Azur, Loire Valley, Big Sur, Yellowstone. Features sit inside their parent region alongside cities.
+
+**Features can have their own POIs** — the hiking trailhead, the viewpoint, the specific beach, the small village too tiny for its own city page.
+
+**Cities link to features via `tags`**. A city that is closely associated with a feature adds the feature's slug to its tags list:
+
+```yaml
+# content/europe/italy/liguria/riomaggiore.md
+title: Riomaggiore
+type: location
+loc_type: city
+tags:
+  - cinque_terre
+```
+
+This is the same tag mechanism used for neighbourhood and section membership. The feature page can then surface its tagged cities. A city may tag into more than one feature if it genuinely sits within both.
+
+The distinction between a feature and a city:
+- **Feature**: you go *to* the area (Cinque Terre, Ardeche, Loire Valley, Normandy). The area is the draw; cities within it are the places you sleep.
+- **City**: you go *to* the place itself. It stands alone as a destination.
+
+Some places work as both — Avignon is a city but could also tag into Provence. Use judgement: if the place has a mayor and a post office, it's a city; if it's primarily a landscape or named area, it's a feature.
 
 ## The overview page
 

@@ -208,6 +208,18 @@ def location_or_section(request, path):
     top_locations = locations[:9]
     more_locations = sorted(locations, key=lambda loc: loc.title)
 
+    # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
+    linked_locations = []
+    if page.meta.get('loc_type') == 'feature':
+        tag_index = load_tag_index()
+        linked_locations = sorted(
+            [p for p in tag_index.get(page.slug, []) if p.page_type == 'location'],
+            key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
+        )
+        for loc in linked_locations:
+            loc_img = _image_path(loc, branch)
+            loc.image_url = f'/content-image/{loc_img}{branch_qs}' if loc_img else None
+
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
     if page.page_type in NAV_TYPES:
@@ -281,6 +293,7 @@ def location_or_section(request, path):
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
         "inline_sections": inline_sections,
+        "linked_locations": linked_locations,
     })
 
 

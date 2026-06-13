@@ -15,7 +15,7 @@ quick_facts:
   Drives On: Left
   Fastest Sprinters: Most 100 m world records of any nation
   Blue Mountain Coffee: Grown above 900 m, among world's priciest
-score: 0.7
+score: 0.60
 loc_type: country
 ---
 

@@ -15,7 +15,7 @@ quick_facts:
   English: "Official language — Pijin widely spoken"
   Languages Spoken: "70+"
   WWII Wrecks in Iron Bottom Sound: "200+"
-score: 0.46
+score: 0.43
 loc_type: country
 ---
 

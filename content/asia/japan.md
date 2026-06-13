@@ -13,7 +13,7 @@ quick_facts:
   Currency: Yen
   Islands: "~7,000"
   Vending Machines: "5.5 million"
-score: 0.92
+score: 0.97
 title: Japan
 type: location
 loc_type: country

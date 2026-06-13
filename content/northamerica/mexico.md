@@ -10,7 +10,7 @@ quick_facts:
   Population: 129 million
   Spanish: Essential outside tourist zones
   UNESCO World Heritage Sites: 35 — most in the Americas
-score: 0.91
+score: 0.93
 title: Mexico
 type: location
 ---

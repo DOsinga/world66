@@ -15,7 +15,7 @@ quick_facts:
   Language: "French"
   Rainforest Cover: "88%"
   National Parks: "13"
-score: 0.36
+score: 0.46
 loc_type: country
 ---
 

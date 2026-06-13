@@ -14,7 +14,7 @@ quick_facts:
   First African Republic: "independence in 1847"
 done:
   country_cleanup: 2026-03-31
-score: 0.22
+score: 0.30
 loc_type: country
 ---
 

@@ -15,7 +15,7 @@ quick_facts:
   Currency: US Dollar
   Rock Islands: "300+ mushroom-shaped limestone islets"
   Marine Protected Area: "80% of its ocean territory"
-score: 0.78
+score: 0.59
 loc_type: country
 ---
 

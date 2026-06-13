@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro
   Area: "2.1 km² — world's 2nd smallest country"
   Millionaires: "1 in 3 residents"
-score: 0.79
+score: 0.41
 loc_type: country
 ---
 

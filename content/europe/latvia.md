@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€)
   Forest Cover: "Over 50% of land area"
   Art Nouveau in Riga: "800+ buildings — Europe's densest"
-score: 0.51
+score: 0.61
 loc_type: country
 ---
 

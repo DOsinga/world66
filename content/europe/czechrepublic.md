@@ -16,7 +16,7 @@ quick_facts:
   Budget Beer: "~$2 for a half-litre in a pub"
   Beer Consumption: "Highest per capita in the world"
   Castles: "Over 2,000 — more per square km than anywhere"
-score: 0.51
+score: 0.80
 loc_type: country
 ---
 

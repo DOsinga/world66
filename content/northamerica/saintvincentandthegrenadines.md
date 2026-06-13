@@ -1,4 +1,5 @@
 ---
+score: 0.47
 title: Saint Vincent and the Grenadines
 type: location
 loc_type: country

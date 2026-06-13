@@ -16,7 +16,7 @@ latitude: -51.7963
 longitude: -59.5236
 title: Falkland Islands
 type: location
-score: 0.53
+score: 0.43
 loc_type: country
 ---
 

@@ -16,7 +16,7 @@ quick_facts:
   US Military Land: "27% of the island"
   Chamorro Settlement: "3,500+ years"
   Closest Major City: Manila (2,500 km)
-score: 0.54
+score: 0.40
 loc_type: country
 ---
 

@@ -14,7 +14,7 @@ quick_facts:
   Night Markets: "300+ across the island"
 done:
   country_cleanup: 2026-03-30
-score: 0.71
+score: 0.79
 loc_type: country
 ---
 

@@ -14,7 +14,7 @@ image_license: Public domain
 image_attribution: 'User: (WT-shared) CONOCER at  wts wikivoyage'
 done:
   country_cleanup: 2026-03-29
-score: 0.47
+score: 0.81
 loc_type: country
 ---
 

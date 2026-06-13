@@ -15,7 +15,7 @@ quick_facts:
   Public Access: Closed since 2013
   Nesting Seabirds Per Year: "3 million"
   Oldest Known Wild Bird: Wisdom the albatross, banded 1956
-score: 0.4
+score: 0.09
 loc_type: country
 ---
 

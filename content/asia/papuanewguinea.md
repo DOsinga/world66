@@ -14,7 +14,7 @@ quick_facts:
   English: "Official language (plus Tok Pisin)"
   Languages Spoken: "Over 800"
   Highland Contact: "Some communities first contacted in the 1930s"
-score: 0.43
+score: 0.51
 title: Papua New Guinea
 type: location
 loc_type: country

@@ -1,4 +1,5 @@
 ---
+score: 0.49
 title: São Tomé and Príncipe
 type: location
 loc_type: country

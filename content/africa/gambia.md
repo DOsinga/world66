@@ -14,7 +14,7 @@ quick_facts:
   Width at Widest: "48 km"
 done:
   country_cleanup: 2026-03-30
-score: 0.47
+score: 0.43
 loc_type: country
 ---
 

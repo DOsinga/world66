@@ -16,7 +16,7 @@ quick_facts:
   Tourist Fee: "$100/night"
 title: Bhutan
 type: location
-score: 0.81
+score: 0.71
 loc_type: country
 ---
 

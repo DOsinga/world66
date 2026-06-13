@@ -11,7 +11,7 @@ quick_facts:
   Size: "1.6 km long"
   Breeding Seabirds: "Over 1 million"
   Public Access: Prohibited without special permit
-score: 0.13
+score: 0.04
 loc_type: country
 ---
 

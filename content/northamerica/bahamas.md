@@ -15,7 +15,7 @@ quick_facts:
   Currency: Bahamian dollar (pegged 1:1 to USD)
   Islands and Cays: "~700 islands, only 30 inhabited"
   Dean's Blue Hole: "World's deepest at 202 m"
-score: 0.72
+score: 0.57
 loc_type: country
 ---
 

@@ -15,7 +15,7 @@ quick_facts:
   Currency: Euro
   Castles Per Capita: Among the highest in Europe
   Spiš Castle: Largest castle complex in Central Europe
-score: 0.59
+score: 0.63
 loc_type: country
 ---
 

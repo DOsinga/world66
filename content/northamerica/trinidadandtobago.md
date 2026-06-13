@@ -1,4 +1,5 @@
 ---
+score: 0.53
 title: Trinidad and Tobago
 type: location
 loc_type: country

@@ -8,7 +8,7 @@ quick_facts:
   Currency: US dollar (adopted 2001)
   Smallest Central American Country: "21,041 km²"
   Volcanoes: "23, including several active ones"
-score: 0.36
+score: 0.53
 loc_type: country
 ---
 

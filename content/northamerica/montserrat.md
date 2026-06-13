@@ -15,7 +15,7 @@ latitude: 16.7425
 longitude: -62.1874
 title: Montserrat
 type: location
-score: 0.54
+score: 0.34
 loc_type: country
 ---
 

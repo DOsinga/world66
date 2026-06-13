@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$5–7"
   Wieliczka Salt Mine: Carved chapels 135 m underground
   European Bison: Last wild herd in Białowieża Forest
-score: 0.55
+score: 0.80
 loc_type: country
 ---
 

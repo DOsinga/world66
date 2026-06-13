@@ -15,7 +15,7 @@ quick_facts:
   Currency: Australian Dollar
   Bounty Mutineer Descendants: Most of the population
   Phone Book: World's only one listing nicknames
-score: 0.47
+score: 0.34
 loc_type: country
 ---
 

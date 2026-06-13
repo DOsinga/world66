@@ -16,7 +16,7 @@ quick_facts:
   Currency: New Zealand Dollar
   Ocean Visibility: Up to 100 metres
   Niueans in New Zealand: "~25,000 — 15× the home population"
-score: 0.55
+score: 0.36
 loc_type: country
 ---
 

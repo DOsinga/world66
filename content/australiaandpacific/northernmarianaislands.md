@@ -1,4 +1,5 @@
 ---
+score: 0.38
 title: Northern Mariana Islands
 type: location
 loc_type: country

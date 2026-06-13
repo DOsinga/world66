@@ -13,7 +13,7 @@ quick_facts:
   Calendar: "13 months"
   Never Colonized: Only country in Africa
   Coffee Origin: Born here
-score: 0.44
+score: 0.76
 loc_type: country
 ---
 

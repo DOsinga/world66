@@ -12,7 +12,7 @@ quick_facts:
   Language: "French"
   Congo River: Deepest in the world
   Land Area: "Larger than all of Western Europe combined"
-score: 0.15
+score: 0.38
 loc_type: country
 ---
 

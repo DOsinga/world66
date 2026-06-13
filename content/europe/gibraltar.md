@@ -14,7 +14,7 @@ quick_facts:
   Currency: Gibraltar Pound (£)
   Total Area: "6.5 km² — smaller than most airports"
   Barbary Macaques: Only wild monkeys in Europe
-score: 0.62
+score: 0.37
 title: Gibraltar
 type: location
 loc_type: country

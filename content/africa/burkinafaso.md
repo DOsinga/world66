@@ -13,7 +13,7 @@ quick_facts:
   Language: "French essential"
   Meaning of Name: Land of Upright People
   FESPACO: Africa's largest film festival
-score: 0.22
+score: 0.29
 loc_type: country
 ---
 

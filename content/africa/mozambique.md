@@ -14,7 +14,7 @@ quick_facts:
   Bazaruto Archipelago: "Africa's largest marine park"
 done:
   country_cleanup: 2026-03-29
-score: 0.4
+score: 0.59
 loc_type: country
 ---
 

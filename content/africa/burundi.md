@@ -13,7 +13,7 @@ quick_facts:
   Languages: "French & Kirundi"
   Nile Source Claim: Southernmost
   Drumming Tradition: UNESCO heritage
-score: 0.25
+score: 0.28
 loc_type: country
 ---
 

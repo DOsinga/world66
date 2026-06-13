@@ -10,7 +10,7 @@ quick_facts:
   Access: Military only — no public visits
   Coral Species: "100+"
   Battle of Wake Island: Marines held out 15 days after Pearl Harbor
-score: 0.23
+score: 0.04
 loc_type: country
 ---
 

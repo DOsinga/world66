@@ -10,7 +10,7 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg
 latitude: 39.0
 longitude: 35.0
-score: 0.53
+score: 0.93
 title: Turkey
 type: location
 quick_facts:

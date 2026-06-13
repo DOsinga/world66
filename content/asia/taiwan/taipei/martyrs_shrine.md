@@ -1,14 +1,15 @@
 ---
 address: 139 Beian Road, Zhongshan District, Taipei
 latitude: 25.0827
-longitude: 121.5320
+longitude: 121.532
+score: 7.2
 snippet: Imperial-style memorial with an hourly changing-of-the-guard
 tags:
 - things_to_do
 - sight
+- shilin
 title: Martyrs' Shrine
 type: poi
-score: 7.2
 ---
 
 The Martyrs' Shrine, in a wooded park near the Grand Hotel, is a 1969 copy in miniature of the Hall of Supreme Harmony in Beijing's Forbidden City — sweeping yellow tile roofs, red columns, and a single broad ceremonial hall housing the spirit tablets of the 390,000 Republic of China soldiers killed in the Xinhai Revolution, the Sino-Japanese War, and the Chinese Civil War.

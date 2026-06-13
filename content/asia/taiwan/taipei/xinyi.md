@@ -1,14 +1,16 @@
 ---
+image: xinyi.jpg
+image_attribution: Chensiyuan, edit by DXR
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg
 latitude: 25.0353
 longitude: 121.5654
-snippet: Taipei's gleaming financial and shopping district, anchored by Taipei 101
+neighbourhood: Xinyi
 tags:
 - things_to_do
 - neighbourhood
-neighbourhood: Xinyi
 title: Xinyi District
-type: poi
-score: 6.9
+type: neighbourhood
 ---
 
 Xinyi is Taipei's most ambitious and cleanest neighbourhood: a planned grid of office towers, malls, hotels, and elevated walkways built largely from the 1990s onwards on land that until the late 20th century was farmland. **Taipei 101** dominates the skyline; around its base spread the city's most luxurious shopping malls, including ATT 4 Fun, Breeze, and the Mitsukoshi cluster at Taipei City Hall MRT.

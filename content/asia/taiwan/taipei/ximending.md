@@ -1,14 +1,16 @@
 ---
 latitude: 25.0421
 longitude: 121.5066
-snippet: Taipei's teen fashion and youth-culture district
+neighbourhood: Ximending
 tags:
 - things_to_do
 - neighbourhood
-neighbourhood: Ximending
 title: Ximending
-type: poi
-score: 7.5
+type: neighbourhood
+image: ximending.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ximenting_Day_view_201506.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Connie Ma from United States of America
 ---
 
 Ximending is a pedestrianised grid of streets just west of Taipei Main Station, and the closest thing the city has to Tokyo's Harajuku — a dense weave of small streetwear shops, K-pop merch stores, cosplay outfitters, tattoo parlours, cheap restaurants and old single-screen cinemas. It is the centre of Taipei's youth culture and the busiest pedestrian area in the city, particularly on weekends.

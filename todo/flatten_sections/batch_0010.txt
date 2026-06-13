@@ -1,0 +1,5 @@
+northamerica/unitedstates/illinois/urbanachampaign
+northamerica/unitedstates/northcarolina/chapelhill
+africa/angola/catumbela
+europe/france/east/burgundy/maillylechateau
+europe/greece/skiathos

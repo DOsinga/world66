@@ -1,0 +1,5 @@
+europe/germany/badenwrttemberg/heidelberg
+europe/germany/bavaria/schongau
+europe/germany/saxonyanhalt/dessau
+europe/latvia/jurmala
+europe/norway/tonsberg

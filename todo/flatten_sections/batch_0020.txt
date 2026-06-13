@@ -1,0 +1,5 @@
+northamerica/unitedstates/hawaii/lanai
+northamerica/unitedstates/illinois/collinsville
+northamerica/unitedstates/northcarolina/ocracokeisland
+northamerica/unitedstates/oregon/florence
+southamerica/colombia/barranquilla

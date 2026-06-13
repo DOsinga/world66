@@ -1,0 +1,5 @@
+europe/croatia/samobor
+europe/france/east/champagne/hautvillers
+europe/france/midi/cotedazur/cagne
+europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres
+europe/germany/bavaria/rothenburg

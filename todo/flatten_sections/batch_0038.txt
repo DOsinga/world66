@@ -1,0 +1,5 @@
+northamerica/unitedstates/newhampshire/durham
+northamerica/unitedstates/newyorkstate/troy
+northamerica/unitedstates/virginia/virginiabeach
+northamerica/unitedstates/wyoming/saratoga
+southamerica/brazil/bonito

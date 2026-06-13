@@ -1,0 +1,5 @@
+northamerica/thecaribbean/virginislands/stjohn
+northamerica/thecaribbean/virginislands/stthomas
+northamerica/unitedstates/california/inlandempire/riverside
+northamerica/unitedstates/delaware/newark
+northamerica/unitedstates/maine/doverfoxcroft

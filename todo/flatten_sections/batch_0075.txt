@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/dublin
+northamerica/unitedstates/california/losangeles
+northamerica/unitedstates/southdakota/aberdeen
+southamerica/brazil/praia_do_forte
+southamerica/venezuela/falcn

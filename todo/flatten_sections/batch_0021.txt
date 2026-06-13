@@ -1,0 +1,5 @@
+africa/ivorycoast/man
+asia/china/yunnanprovince/lijiang
+asia/india/goa/colva
+asia/india/tamilnadu/kanchipuram
+asia/indonesia/sumba

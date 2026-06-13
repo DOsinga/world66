@@ -1,0 +1,5 @@
+europe/germany/badenwrttemberg/friedrichshafen
+europe/italy/lazio/viterbo
+europe/italy/lombardia/san_donato_milanese
+europe/romania/valcea
+europe/slovenia/portoroz

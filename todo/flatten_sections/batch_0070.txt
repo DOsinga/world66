@@ -1,0 +1,5 @@
+europe/lithuania/nidaandtheneringapeninsula
+europe/spain/canaryislands/grancanaria/las_palmas
+northamerica/mexico/ixtapazihuatanejo
+northamerica/mexico/yucatan/saltodeagua
+northamerica/unitedstates/idaho/sunvalley

@@ -1,0 +1,5 @@
+africa/morocco/tafraoute
+africa/mozambique/massingir
+asia/india/orissa/sambalpur
+asia/india/rajasthan/rajsamand
+asia/kuwait/ahmadi

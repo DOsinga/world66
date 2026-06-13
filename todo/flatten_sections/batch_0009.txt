@@ -1,0 +1,5 @@
+europe/spain/ceuta
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury
+northamerica/thecaribbean/guadeloupe/grandeterre
+northamerica/unitedstates/alaska/homer
+northamerica/unitedstates/arizona/tombstone

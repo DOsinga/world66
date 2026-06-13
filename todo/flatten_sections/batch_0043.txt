@@ -1,0 +1,5 @@
+europe/croatia/jelsa
+europe/france/alpes/sixt_fercheval
+europe/france/centre/richelieu
+europe/france/east/alsace/ungersheim
+europe/greece/andros

@@ -1,0 +1,5 @@
+asia/iran
+asia/japan/kyushu/fukuoka_city
+asia/pakistan/mandi_bahauddin_1
+asia/pakistan/sialkot
+europe

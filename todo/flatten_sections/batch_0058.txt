@@ -1,0 +1,5 @@
+asia/indonesia/sumatra/bukitlawang
+asia/nepal/dhulikel
+asia/vietnam/hanoi
+europe/france/centre/loirevalley/ancenis
+europe/montenegro/kotor

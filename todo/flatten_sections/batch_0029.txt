@@ -1,0 +1,5 @@
+asia/indonesia/cirebon
+asia/indonesia/sulawesi/makassar
+asia/japan/honshu/tsukuba
+asia/japan/honshu/yokohama
+asia/philippines/tuguegaraocity

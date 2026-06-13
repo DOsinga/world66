@@ -1,0 +1,5 @@
+europe/netherlands/amsterdam
+europe/netherlands/waddenislands/texel_island/oudeschild
+europe/romania/curtea_de_arges
+europe/romania/sapinta
+europe/spain/andalucia/gaucin

@@ -1,0 +1,5 @@
+africa/mauritius/chamarel
+africa/morocco/dakhla
+asia/india/maharashtra/lonavala
+asia/japan/honshu/nagahama
+asia/nepal/patan

@@ -1,0 +1,5 @@
+southamerica/argentina/larioja
+africa/angola/massoulo
+europe/azerbaijan/naxcivan/ordubad
+europe/croatia
+europe/france

@@ -1,0 +1,5 @@
+northamerica/unitedstates/washington/okanogan
+southamerica/argentina/patagonia/calafate
+southamerica/brazil/angradosreis
+southamerica/chile/copiapo
+southamerica/colombia/tobia

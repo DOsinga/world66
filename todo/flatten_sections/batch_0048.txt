@@ -1,0 +1,5 @@
+northamerica/unitedstates/louisiana/donaldsonville
+northamerica/unitedstates/nevada/gerlach
+northamerica/unitedstates/oklahoma/ada
+northamerica/unitedstates/pennsylvania/carlisle
+northamerica/unitedstates/washington/cathlamet

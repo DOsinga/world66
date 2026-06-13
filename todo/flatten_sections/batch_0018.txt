@@ -1,0 +1,5 @@
+europe/spain/catalonia/lleida
+europe/sweden/helsingborg
+europe/sweden/kiruna
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth
+northamerica/belize/san_pedro

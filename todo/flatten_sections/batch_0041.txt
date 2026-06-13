@@ -1,0 +1,5 @@
+asia/pakistan/azad_kashmir/bagh
+asia/pakistan/kamra
+asia/saudiarabia/jubail
+asia/srilanka/unawatuna
+asia/vietnam/cuchi

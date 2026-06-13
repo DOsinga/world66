@@ -1,0 +1,5 @@
+australiaandpacific/australia/westernaustralia/albany
+europe/croatia/brac
+northamerica/unitedstates/michigan/traverse_city
+northamerica/unitedstates/newhampshire/littleton
+asia/philippines/paranuaque

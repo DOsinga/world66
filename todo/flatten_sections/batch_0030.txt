@@ -1,0 +1,5 @@
+asia/philippines/vigan
+asia/turkey/ayvalik
+asia/turkmenistan/ashgabat
+europe/albania/gjirokaster
+europe/belgium/wervik

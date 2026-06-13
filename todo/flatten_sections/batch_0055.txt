@@ -1,0 +1,5 @@
+europe/lithuania/vilnius
+europe/unitedkingdom/northernireland/cookstown
+northamerica/mexico/banamichi
+northamerica/unitedstates/california/centralvalley/reedley
+northamerica/unitedstates/california/sanfrancisco

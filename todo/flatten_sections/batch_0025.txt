@@ -1,0 +1,5 @@
+northamerica/mexico/islamujeres
+northamerica/unitedstates/california/highsierra/bridgeport
+northamerica/unitedstates/california/olympic_valley
+northamerica/unitedstates/georgia/valdosta
+northamerica/unitedstates/missouri/springfield

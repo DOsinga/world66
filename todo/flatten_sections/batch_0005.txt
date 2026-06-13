@@ -1,0 +1,5 @@
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate
+northamerica/canada/britishcolumbia/nelson
+northamerica/unitedstates/maine/kennebunkport
+northamerica/unitedstates/newyorkstate/rochester
+southamerica/colombia/bucaramanga

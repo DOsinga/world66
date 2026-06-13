@@ -1,0 +1,5 @@
+australiaandpacific/australia/queensland/clontarf
+australiaandpacific/australia/southaustralia/mount_gambier
+australiaandpacific/marshallislands/kwajaleinatoll
+australiaandpacific/solomonislands/malaita
+europe/croatia/rabisland

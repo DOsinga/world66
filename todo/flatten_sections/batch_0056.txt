@@ -1,0 +1,5 @@
+northamerica/unitedstates/california/shastacascade/oroville
+northamerica/unitedstates/maine/eastport
+northamerica/unitedstates/massachusetts/boston
+northamerica/unitedstates/pennsylvania/johnstown
+northamerica/unitedstates/wyoming/star_valley_afton

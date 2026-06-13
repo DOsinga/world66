@@ -1,0 +1,5 @@
+asia/india/andhrapradesh/vemulawada
+asia/india/karnataka/karwar_1
+asia/india/manipur/churachandpur
+asia/indonesia/nias/gununsitoli
+asia/japan/kunitachi_tokyo

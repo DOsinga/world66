@@ -1,0 +1,5 @@
+northamerica/unitedstates/newmexico/angelfire
+northamerica/unitedstates/northdakota/williston
+northamerica/unitedstates/ohio/kent
+southamerica/argentina/puertoiguazu
+africa/angola/soyo

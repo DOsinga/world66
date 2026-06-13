@@ -1,0 +1,5 @@
+europe/netherlands/friesland/holwerd
+europe/spain/galicia/muros
+europe/sweden/smaaland
+northamerica/canada/newfoundland/lanseauxmeadows
+northamerica/panama/colon

@@ -1,0 +1,5 @@
+europe/germany/badenwrttemberg/konstanz
+europe/germany/northrhinewestphalia/bochum
+europe/italy/emiliaromagna/bellaria
+europe/norway/spitsbergen/longyearbyen
+europe/portugal/figueiradafoz

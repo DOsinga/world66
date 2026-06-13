@@ -1,0 +1,5 @@
+northamerica/thecaribbean/guadeloupe/ladesirade
+northamerica/unitedstates/california/shastacascade/susanville
+northamerica/unitedstates/california/willows
+northamerica/unitedstates/florida/big_pine_key
+northamerica/unitedstates/kansas/nicodemus

@@ -1,0 +1,5 @@
+asia/thailand/phuket/surin
+europe/belgium/soignies
+europe/croatia/kraljevica
+europe/czechrepublic/ceskykrumlov
+europe/france/around_paris/fontainebleau

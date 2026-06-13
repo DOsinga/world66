@@ -1,0 +1,5 @@
+northamerica/canada/ontario/embrun
+northamerica/costarica/liberia
+northamerica/elsalvador
+northamerica/guatemala/quetzaltenango
+northamerica/thecaribbean/martinique

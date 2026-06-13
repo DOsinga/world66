@@ -1,0 +1,5 @@
+northamerica/bermuda/southampton
+northamerica/canada/alberta/coldlake
+northamerica/jamaica/oracabessa
+northamerica/nicaragua/boaco
+northamerica/panama/portobelo

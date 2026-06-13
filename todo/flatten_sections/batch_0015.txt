@@ -1,0 +1,5 @@
+asia/philippines/koronadalcity
+asia/philippines/makati
+asia/philippines/negrosisland/negros_oriental
+asia/syria/homs
+asia/turkey/cappadocia/goreme

@@ -1,0 +1,5 @@
+northamerica/unitedstates/southcarolina/hiltonheadisland
+northamerica/unitedstates/utah/sterling
+africa/ivorycoast
+asia/india/karnataka/belgaum
+asia/india/manipur/khongjom

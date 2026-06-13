@@ -1,0 +1,5 @@
+europe/croatia/zagreb
+europe/france/midi/southern_alps/annot
+europe/italy/tuscany/massa
+europe/italy/umbria/magione
+europe/montenegro/sveti_stefan

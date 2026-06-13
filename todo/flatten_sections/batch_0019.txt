@@ -1,0 +1,5 @@
+northamerica/costarica
+northamerica/mexico/sanblas
+northamerica/unitedstates/california/centralcoast/monterey
+northamerica/unitedstates/florida/tequesta
+northamerica/unitedstates/georgia/augusta

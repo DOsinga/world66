@@ -1,0 +1,5 @@
+europe/romania/baiamare
+europe/russia/ural/south_ural/chelyabinsk
+europe/spain/galicia/o_ribeiro
+europe/switzerland/champery
+europe/unitedkingdom/wales/aberystwyth

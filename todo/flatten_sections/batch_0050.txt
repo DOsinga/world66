@@ -1,0 +1,5 @@
+southamerica/frenchguiana/devilsisland
+southamerica/peru/kuelap
+africa/congokinshasa/kananga
+africa/madagascar/toamasina
+africa/tunisia/ghomrassen

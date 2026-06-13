@@ -1,0 +1,5 @@
+asia/iran/tehran
+australiaandpacific/australia/westernaustralia/perth
+europe/greece/thessaloniki
+asia/thailand
+europe/sweden/ystad

@@ -11,7 +11,7 @@ story: The museum's collection includes the Dancing Girl, a 4,500-year-old bronz
 tags:
 - things_to_do
 - museum
-- dilli_haat
+- lutyens
 title: National Museum
 type: poi
 ---

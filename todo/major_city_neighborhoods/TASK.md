@@ -2,7 +2,9 @@
 
 ## Goal
 
-Every major world city should aim for **around 10 neighbourhood POIs**, each with a hero image, and **around 20 other POIs** (across all sections) tagged with each neighbourhood's slug. These are targets, not hard minimums — a city with 6 well-chosen neighbourhoods is fine, and a neighbourhood with 12 well-tagged POIs is better than a neighbourhood with 20 thin ones. The goal is that neighbourhood pages become genuinely useful browsing surfaces.
+Every major world city should have **around 10 neighbourhood POIs**, each with a hero image, and **at least 10–20 POIs tagged** with each neighbourhood's slug. The 20-POI target is the goal; 10 is the minimum before a neighbourhood page is considered done. A city with 6 well-chosen neighbourhoods is fine, but each neighbourhood must have enough tagged POIs to be a genuinely useful browsing surface.
+
+**These are major world cities. Thin coverage is not acceptable.** If a neighbourhood only has 3–5 POIs, keep adding until you reach at least 10. Use `wiki_geosearch.py`, your knowledge of the city, and any POIs already in the directory that haven't been tagged yet.
 
 ## For each city in the batch
 
@@ -13,10 +15,10 @@ Every major world city should aim for **around 10 neighbourhood POIs**, each wit
 find content/<path> -name "*.md" | xargs grep -l "type: neighbourhood"
 
 # Count POIs tagged with a specific neighbourhood slug
-grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md"
+grep -rl "<neighbourhood_slug>" content/<path>/ --include="*.md" | wc -l
 ```
 
-Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps, not replacing what's there.
+Note which neighbourhoods already exist and how many POIs each collects. You'll be filling gaps, not replacing what's there. **Any neighbourhood with fewer than 10 tagged POIs needs more work.**
 
 ### 2. Plan the neighbourhood set
 
@@ -24,7 +26,7 @@ Research the city's neighbourhoods. Look for the 10–15 most characterful, visi
 
 Each neighbourhood needs:
 - A distinct character or identity worth describing
-- Enough attractions, restaurants, and bars to collect 20+ POIs
+- Enough attractions, restaurants, and bars to collect 10–20+ POIs
 - A recognisable name (preferably the one locals use)
 
 ### 3. Create missing neighbourhood POIs
@@ -77,7 +79,7 @@ neighbourhood: Shilin   # ← never do this
 
 Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
 
-**Target: each neighbourhood page should collect around 20 POIs.** If an existing neighbourhood has fewer, add more where there are real things worth covering — but don't pad with weak POIs just to hit a number.
+**Minimum: each neighbourhood page should collect at least 10 tagged POIs. Target: 20.** If an existing neighbourhood has fewer than 10, you must add more POIs — real things worth covering, not padding.
 
 ### 5. Check section balance
 
@@ -95,10 +97,10 @@ Also check for legacy section subdirectories (`eating_out/`, `things_to_do/`, et
 
 ### 6. Create new POIs if needed
 
-If a neighbourhood doesn't have enough POIs to reach 20, add them. Use:
+If a neighbourhood doesn't have enough POIs to reach the minimum of 10, add them. Use:
 
 ```bash
-python3 tools/wiki_geosearch.py <lat> <lng> --radius 2000 --limit 20 --json
+python3 tools/wiki_geosearch.py <lat> <lng> --radius 2000 --limit 30 --json
 python3 tools/grep_obscura.py <country> <city>
 ```
 
@@ -106,11 +108,13 @@ Focus POIs on the neighbourhood's character. A museum district should have museu
 
 Every new POI (`type: poi`) must include a `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city — if the city already has a 9.0 for its most iconic sight, score new POIs relative to that. `type: neighbourhood` files do **not** get a score.
 
-### 6. Update the city overview
+**After adding POIs, re-run the count for each neighbourhood.** If any neighbourhood is still under 10, keep going.
+
+### 7. Update the city overview
 
 If the overview mentions neighbourhoods by name, add markdown links to the neighbourhood POI pages. This is the only direct path from the overview text to a neighbourhood POI.
 
-### 7. Commit
+### 8. Commit
 
 One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tagged`
 
@@ -120,7 +124,7 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood POI has an image (sourced via `find-photo`)
 - [ ] Each neighbourhood POI has accurate coordinates
 - [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
-- [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
+- [ ] **Each neighbourhood collects at least 10 POIs (target 20) via its slug tag** — run `grep -rl "<slug>" content/<city_path>/ --include="*.md" | wc -l` for each neighbourhood
 - [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 - [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs

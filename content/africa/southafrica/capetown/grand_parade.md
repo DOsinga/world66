@@ -2,7 +2,7 @@
 category: Square
 latitude: -33.9258
 longitude: 18.4244
-neighbourhood: City Bowl
+score: 6.8
 scores:
   activities: 0.6214
   sight: 0.7201
@@ -14,7 +14,6 @@ tags:
 - city_bowl
 title: Grand Parade
 type: poi
-score: 6.8
 ---
 
 The Grand Parade is the large open square in front of City Hall, between the Castle of Good Hope and Darling Street. It has served variously as a parade ground, a market and an event space since the seventeenth century. The Wednesday and Saturday flea market draws a mixed local crowd; the square itself is heavily used as an informal taxi terminus for the rest of the week.

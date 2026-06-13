@@ -2,6 +2,7 @@
 category: Museum
 latitude: -33.9247
 longitude: 18.4198
+score: 8.2
 scores:
   activities: 0.6174
   museum: 0.7232
@@ -12,9 +13,9 @@ tags:
 - things_to_do
 - museum
 - art
+- city_bowl
 title: Old Town House and Michaelis Collection
 type: poi
-score: 8.2
 ---
 
 The Old Town House on the north side of Greenmarket Square is a small, perfectly proportioned Cape Baroque building from 1755, originally the city hall and watch-house. It now holds the Michaelis Collection of seventeenth-century Dutch and Flemish art, donated to the city by Sir Max Michaelis in 1914.

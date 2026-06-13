@@ -2,7 +2,7 @@
 category: Museum
 latitude: -33.9289
 longitude: 18.415
-neighbourhood: City Bowl
+score: 8.0
 scores:
   activities: 0.5975
   museum: 0.7488
@@ -14,7 +14,6 @@ tags:
 - city_bowl
 title: Iziko South African Museum
 type: poi
-score: 8.0
 ---
 
 The Iziko South African Museum is the country's main natural history collection, with strong displays on Karoo dinosaurs, southern African mammals, sharks, and a famous whale well with full skeletons of southern right and humpback whales suspended overhead. The rock-art gallery upstairs contains a collection of San paintings removed from the field for preservation — one of the most important such collections in the world.

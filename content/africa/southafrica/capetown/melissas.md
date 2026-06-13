@@ -2,6 +2,7 @@
 address: 94 Kloof Street, Gardens
 latitude: -33.9206
 longitude: 18.4073
+score: 5.8
 scores:
   activities: 0.5987
   eating_out: 0.7234
@@ -10,9 +11,9 @@ snippet: Cape Town deli-café institution with multiple branches, good for a day
 tags:
 - eating_out
 - restaurant
+- green_point
 title: Melissa's
 type: poi
-score: 5.8
 ---
 
 Melissa's began as a single shop on Kloof Street in the mid-1990s and has become one of Cape Town's most recognised food brands without losing its neighbourhood-deli character. The menu covers breakfast, lunch and light dinners, with a strong selection of salads, quiches, sandwiches and South African home-cooking staples. The retail section stocks a good range of local preserves, cheeses and specialty groceries.

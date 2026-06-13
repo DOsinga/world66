@@ -2,7 +2,7 @@
 category: Curiosity
 latitude: -33.9181
 longitude: 18.4267
-neighbourhood: Green Point
+score: 5.9
 scores:
   architecture: 0.6409
   sight: 0.6543
@@ -19,7 +19,6 @@ tags:
 - green_point
 title: Foreshore Freeway Bridge
 type: poi
-score: 5.9
 ---
 
 The Foreshore Freeway Bridge is one of the more peculiar features of central Cape Town: a wide concrete flyover whose central span was never completed, leaving the road to end abruptly in mid-air above the Foreshore traffic. It has stood unfinished for more than fifty years, despite repeated revival attempts.

@@ -2,7 +2,7 @@
 category: Viewpoint
 latitude: -33.9162
 longitude: 18.4019
-neighbourhood: Bo-Kaap
+score: 7.4
 scores:
   activities: 0.5319
   sight: 0.6712
@@ -18,9 +18,9 @@ tags:
 - sight
 - outdoor
 - bo_kaap
+- bokaap
 title: Signal Hill
 type: poi
-score: 7.4
 ---
 
 Signal Hill is the lower rounded hill at the western end of Lion's Head, easily reached by road and a popular spot for sunset. The view sweeps from the harbour and central city to the right, across to Robben Island offshore, and down the Atlantic seaboard past Sea Point and Camps Bay to the left.

@@ -2,7 +2,7 @@
 category: Park
 latitude: -33.9278
 longitude: 18.4169
-neighbourhood: City Bowl
+score: 8.5
 scores:
   activities: 0.62
   park: 0.7404
@@ -20,7 +20,6 @@ tags:
 - city_bowl
 title: Company's Garden
 type: poi
-score: 8.5
 ---
 
 The Company's Garden is the long, leafy spine that runs through the centre of Cape Town from Government Avenue down to St George's Cathedral. It is the city's oldest public space, ringed by most of its main museums — the National Gallery, the Iziko South African Museum, the Slave Lodge, the Jewish Museum — and a useful navigational reference for first-time visitors.

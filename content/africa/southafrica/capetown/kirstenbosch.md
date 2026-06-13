@@ -2,6 +2,7 @@
 category: Park
 latitude: -33.9879
 longitude: 18.4324
+score: 9.5
 scores:
   activities: 0.6005
   park: 0.7173
@@ -17,9 +18,9 @@ tags:
 - things_to_do
 - sight
 - park
+- newlands
 title: Kirstenbosch National Botanical Garden
 type: poi
-score: 9.5
 ---
 
 Kirstenbosch is one of the great botanical gardens of the world, set against the eastern flanks of Table Mountain with vast lawns, indigenous fynbos, ancient cycads, and meticulously labelled plantings of South Africa's extraordinary endemic flora. In spring (September–October) the gardens are at their best, with the Cape's wildflower season at full throttle.

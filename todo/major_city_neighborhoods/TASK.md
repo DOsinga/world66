@@ -90,6 +90,8 @@ python3 tools/grep_obscura.py <country> <city>
 
 Focus POIs on the neighbourhood's character. A museum district should have museums; a dining neighbourhood needs restaurants; a creative district needs galleries and bars. See the `location_enrich` TASK.md for POI writing standards.
 
+Every new POI (`type: poi`) must include a `score` field (float, 1.0–10.0). Calibrate against existing scored POIs in the same city — if the city already has a 9.0 for its most iconic sight, score new POIs relative to that. `type: neighbourhood` files do **not** get a score.
+
 ### 6. Update the city overview
 
 If the overview mentions neighbourhoods by name, add markdown links to the neighbourhood POI pages. This is the only direct path from the overview text to a neighbourhood POI.
@@ -106,6 +108,7 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
 - [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
+- [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs
 
 ## Reference implementations
 

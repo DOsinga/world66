@@ -62,17 +62,17 @@ Key rules:
 
 For every POI that sits geographically within a neighbourhood, add the neighbourhood's slug to its `tags` list.
 
-```yaml
-# Before
-tags:
-  - eating_out
-  - restaurant
+> ⚠️ **ONLY modify `tags:` — nothing else.** Do NOT add a `neighbourhood:` key, a `neighbourhood_name:` key, or any other display field. The slug in `tags:` is the only thing needed. Adding `neighbourhood: Shilin` or similar is wrong and will be rejected in review.
 
-# After
+```yaml
+# CORRECT — slug added to tags only
 tags:
-  - eating_out
-  - south_bank
-  - restaurant
+- things_to_do
+- museum
+- shilin
+
+# WRONG — do not add this
+neighbourhood: Shilin   # ← never do this
 ```
 
 Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
@@ -121,6 +121,7 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood POI has accurate coordinates
 - [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
 - [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
+- [ ] No `neighbourhood:` key anywhere — only the slug in `tags:` (run `grep -r "^neighbourhood:" content/<city_path>/` to verify zero results)
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 - [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs
 - [ ] `eating_out` has at least 10–15 POIs for a major city (add restaurants if thin)

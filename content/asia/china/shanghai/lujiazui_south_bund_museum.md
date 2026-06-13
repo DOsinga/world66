@@ -1,0 +1,14 @@
+---
+title: Riverside Museum of Contemporary Art (RoCA)
+type: poi
+tags:
+- things_to_do
+- museum
+- lujiazui
+latitude: 31.2348
+longitude: 121.5050
+---
+
+A privately operated contemporary art space in the Lujiazui area with a rotating programme of exhibitions focused on international contemporary art and design. The museum has less fixed identity than the Power Station of Art or Rockbund but fills an exhibition calendar with accessible and well-presented shows.
+
+The location, in a riverside development accessible from the central Lujiazui tower cluster, makes it a logical add-on to an observation deck or museum visit in the area. Admission charged; check the current programme before visiting. The building's riverside position gives some of the district's better views of the Bund from mid-level height.

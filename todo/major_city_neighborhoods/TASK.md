@@ -79,7 +79,21 @@ Use the `wiki_geosearch` results and your knowledge of the city to assign POIs t
 
 **Target: each neighbourhood page should collect around 20 POIs.** If an existing neighbourhood has fewer, add more where there are real things worth covering — but don't pad with weak POIs just to hit a number.
 
-### 5. Create new POIs if needed
+### 5. Check section balance
+
+Before adding POIs, look at how many the city has in each section:
+
+```bash
+grep -rl "eating_out" content/<city_path> --include="*.md" | xargs grep -l "type: poi" | wc -l
+grep -rl "bars_and_cafes" content/<city_path> --include="*.md" | xargs grep -l "type: poi" | wc -l
+grep -rl "things_to_do" content/<city_path> --include="*.md" | xargs grep -l "type: poi" | wc -l
+```
+
+A major city should have at least 10–15 restaurants and 10+ bars/cafes. If a section is thin, adding POIs there is just as important as neighbourhood tagging. **Amsterdam, for example, has only 3 eating_out POIs — a city that size needs 15–20 good restaurants documented.**
+
+Also check for legacy section subdirectories (`eating_out/`, `things_to_do/`, etc. that are *directories* rather than `.md` files). If any exist, move their POIs flat to the city directory and add the right tags before continuing.
+
+### 6. Create new POIs if needed
 
 If a neighbourhood doesn't have enough POIs to reach 20, add them. Use:
 
@@ -109,6 +123,8 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 - [ ] Every new POI has a `score` field (1.0–10.0), calibrated against existing city POIs
+- [ ] `eating_out` has at least 10–15 POIs for a major city (add restaurants if thin)
+- [ ] No legacy section subdirectories remain (any `eating_out/`, `things_to_do/` *directories* have been flattened)
 
 ## Reference implementations
 

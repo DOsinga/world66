@@ -1,10 +1,12 @@
 ---
 latitude: 40.4239
 longitude: -3.6898
-snippet: "Over 450 wax figures from Spanish and world history"
+neighbourhood: Huertas
+snippet: Over 450 wax figures from Spanish and world history
 tags:
 - things_to_do
 - museum
+- huertas
 title: Wax Museum
 type: poi
 ---

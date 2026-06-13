@@ -1,12 +1,13 @@
 ---
-title: "StreetXO"
-type: poi
-latitude: 40.4250
+latitude: 40.425
 longitude: -3.6877
+neighbourhood: Salamanca
 tags:
-  - eating_out
-  - salamanca
-  - restaurant
+- eating_out
+- salamanca
+- restaurant
+title: StreetXO
+type: poi
 ---
 
 The young, loud, deliberately provocative second restaurant of three-Michelin-starred Madrid chef Dabiz Muñoz, perched on the rooftop of the Galería Canalejas shopping centre. The cooking is Asian fusion cranked to the limit — Iberian pork dumplings with kimchi, lobster carpaccio with chilli oil and katsuobushi, foie gras with passion-fruit, all served on bare metal counters by a kitchen brigade in red SWAT-team boilersuits.

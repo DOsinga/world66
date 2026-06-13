@@ -1,12 +1,14 @@
 ---
 address: Plaza de Oriente
-latitude: 40.4180
+latitude: 40.418
 longitude: -3.7143
-phone: "+34 91 454 88 00"
+neighbourhood: Sol and Centro
+phone: +34 91 454 88 00
 snippet: Europe's largest royal palace, still used for state ceremonies
 tags:
 - things_to_do
 - landmark
+- sol
 title: Palacio Real
 type: poi
 url: www.patrimonionacional.es

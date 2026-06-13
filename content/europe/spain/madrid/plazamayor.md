@@ -1,10 +1,12 @@
 ---
 latitude: 40.4155
 longitude: -3.7074
+neighbourhood: Sol and Centro
 snippet: Grand arcaded square at the heart of old Madrid
 tags:
 - things_to_do
 - landmark
+- sol
 title: Plaza Mayor
 type: poi
 ---

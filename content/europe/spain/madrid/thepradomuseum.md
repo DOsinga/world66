@@ -2,11 +2,13 @@
 address: Paseo del Prado
 latitude: 40.4138
 longitude: -3.6922
+neighbourhood: Retiro
 phone: 91 420 36 63
 snippet: Spain's premier art museum with unrivalled Goya and Velazquez
 tags:
 - things_to_do
 - museum
+- retiro
 title: The Prado Museum
 type: poi
 ---

@@ -1,10 +1,12 @@
 ---
 latitude: 40.4429
 longitude: -3.7328
-snippet: "Pre-Columbian art and Inca gold in the Moncloa district"
+neighbourhood: Argüelles
+snippet: Pre-Columbian art and Inca gold in the Moncloa district
 tags:
 - things_to_do
 - museum
+- arguelles
 title: Museo de América
 type: poi
 ---

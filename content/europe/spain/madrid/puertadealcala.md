@@ -1,10 +1,12 @@
 ---
 latitude: 40.4199
 longitude: -3.6886
-snippet: "Neoclassical triumphal gate marking Madrid's historic eastern entrance"
+neighbourhood: Retiro
+snippet: Neoclassical triumphal gate marking Madrid's historic eastern entrance
 tags:
 - things_to_do
 - landmark
+- retiro
 title: Puerta de Alcala
 type: poi
 ---

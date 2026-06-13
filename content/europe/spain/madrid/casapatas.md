@@ -1,11 +1,13 @@
 ---
-title: "Casa Patas"
-type: poi
 latitude: 40.4112
 longitude: -3.7029
+neighbourhood: La Latina
 tags:
-  - bars_and_cafes
-  - eating_out
+- bars_and_cafes
+- eating_out
+- la_latina
+title: Casa Patas
+type: poi
 ---
 
 A long-running flamenco tablao and tapas restaurant in Lavapiés, in business since 1979 and considered one of the most authentic flamenco venues in Madrid — a working performance space rather than a tourist circus. The crowd is a mix of Spanish enthusiasts and travellers; the dancers and musicians on the small wooden stage are first-rate.

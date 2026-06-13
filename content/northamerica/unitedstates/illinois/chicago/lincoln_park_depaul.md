@@ -1,12 +1,13 @@
 ---
-title: DePaul University Neighborhood
-type: poi
+latitude: 41.9247
+longitude: -87.6554
+score: 6.0
 tags:
 - things_to_do
 - sight
 - lincoln_park
-latitude: 41.9247
-longitude: -87.6554
+title: DePaul University Neighborhood
+type: poi
 ---
 
 DePaul University's Lincoln Park campus sits in the western part of the neighbourhood, anchoring the area around Fullerton, Belden, and Racine with a student population that keeps the surrounding blocks active with cafés, bookstores, and affordable restaurants. The campus itself — a compact mix of late 19th-century and mid-20th-century buildings — is worth walking through.

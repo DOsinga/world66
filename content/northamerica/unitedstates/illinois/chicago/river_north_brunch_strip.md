@@ -1,12 +1,13 @@
 ---
-title: Hubbard Street Dining
-type: poi
+latitude: 41.8892
+longitude: -87.6344
+score: 6.5
 tags:
 - things_to_do
 - restaurant
 - river_north
-latitude: 41.8892
-longitude: -87.6344
+title: Hubbard Street Dining
+type: poi
 ---
 
 Hubbard Street west of Michigan Avenue and the surrounding blocks (Illinois, Ohio, Ontario Streets) form Chicago's densest restaurant district outside of Fulton Market — upscale-casual dining aimed at the neighborhood's high-end residential and hotel population. The price point is generally higher than comparable streets in other neighbourhoods; the quality varies considerably but the best options are genuinely excellent.

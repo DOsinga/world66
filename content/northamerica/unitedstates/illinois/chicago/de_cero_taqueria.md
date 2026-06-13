@@ -1,12 +1,13 @@
 ---
-title: La Paloma Taqueria
-type: poi
 latitude: 41.8571
 longitude: -87.6695
+score: 5.5
 tags:
 - eating_out
 - restaurant
 - pilsen
+title: La Paloma Taqueria
+type: poi
 ---
 
 One of the neighbourhood's most reliable taquerias — a counter-service spot on West 26th Street where the tortillas are made fresh throughout the day and the fillings (carnitas, barbacoa, al pastor, lengua) are prepared from whole cuts rather than pre-packaged. The salsas come in varying intensities of heat and are all worth trying.

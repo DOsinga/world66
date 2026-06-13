@@ -1,12 +1,13 @@
 ---
-title: Pilsen Community Garden and Neighborhood Parks
-type: poi
+latitude: 41.8537
+longitude: -87.6701
+score: 5.5
 tags:
 - things_to_do
 - park
 - pilsen
-latitude: 41.8537
-longitude: -87.6701
+title: Pilsen Community Garden and Neighborhood Parks
+type: poi
 ---
 
 Pilsen has developed a network of community gardens and pocket parks since the 1990s, many established through the work of local community organisations and maintained by neighbourhood residents. The gardens are concentrated in vacant lots throughout the residential streets and serve multiple functions: food production, youth programming, and neighbourhood beautification.

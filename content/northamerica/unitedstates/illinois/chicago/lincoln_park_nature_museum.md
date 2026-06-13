@@ -1,12 +1,13 @@
 ---
-title: Peggy Notebaert Nature Museum
-type: poi
+latitude: 41.9248
+longitude: -87.637
+score: 7.0
 tags:
 - things_to_do
 - museum
 - lincoln_park
-latitude: 41.9248
-longitude: -87.6370
+title: Peggy Notebaert Nature Museum
+type: poi
 ---
 
 A natural history museum at the north end of Lincoln Park with a focus on the ecosystems of the Chicago region — prairie, dunes, river, and lake. The most popular exhibit is the Judy Istock Butterfly Haven, a large indoor greenhouse where dozens of butterfly species fly freely among native plants year-round.

@@ -1,12 +1,13 @@
 ---
-title: Chicago Children's Museum
-type: poi
+latitude: 41.8916
+longitude: -87.6121
+score: 7.0
 tags:
 - things_to_do
 - museum
 - old_town
-latitude: 41.8916
-longitude: -87.6121
+title: Chicago Children's Museum
+type: poi
 ---
 
 The Chicago Children's Museum at Navy Pier is technically in the Streeterville neighbourhood, but it is the closest major children's museum to Old Town and the most visited museum for families on the North Side. The museum focuses on hands-on learning through play, with exhibits on construction, water, art-making, and science for children from infants through pre-teens.

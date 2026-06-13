@@ -1,12 +1,13 @@
 ---
-title: Chicago Theatre
-type: poi
+latitude: 41.8855
+longitude: -87.6266
+score: 7.5
 tags:
 - things_to_do
 - entertainment
 - the_loop
-latitude: 41.8855
-longitude: -87.6266
+title: Chicago Theatre
+type: poi
 ---
 
 A 1921 French baroque movie palace on State Street that is one of the city's most recognisable landmarks — the sign above the marquee, red letters on white, is among the most photographed in Chicago. The theatre now operates as a live music and entertainment venue, hosting everything from concerts and comedy to television tapings.

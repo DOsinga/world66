@@ -1,12 +1,13 @@
 ---
-title: 18th Street (Pilsen Commercial Strip)
-type: poi
+latitude: 41.8577
+longitude: -87.6694
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - pilsen
-latitude: 41.8577
-longitude: -87.6694
+title: 18th Street (Pilsen Commercial Strip)
+type: poi
 ---
 
 The main commercial street of Chicago's largest Mexican-American neighbourhood, 18th Street in Pilsen runs for about a mile through taquerias, Mexican bakeries (panaderías), quinceañera dress shops, and the kind of everyday commercial strip that predates gentrification. The street is what it is: working-class, functional, and entirely unpretentious.

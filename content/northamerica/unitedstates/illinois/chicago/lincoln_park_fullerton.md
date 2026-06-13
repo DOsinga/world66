@@ -1,12 +1,13 @@
 ---
-title: Fullerton Beach and Lakefront
-type: poi
+latitude: 41.9268
+longitude: -87.6352
+score: 7.0
 tags:
 - things_to_do
 - sight
 - lincoln_park
-latitude: 41.9268
-longitude: -87.6352
+title: Fullerton Beach and Lakefront
+type: poi
 ---
 
 The lakefront in the Lincoln Park neighbourhood, accessible from multiple points, offers the best stretch of accessible public beach in the north-side neighbourhoods. Fullerton Beach and the nearby North Avenue Beach are both served by the park's running and cycling paths and have summer lifeguards.

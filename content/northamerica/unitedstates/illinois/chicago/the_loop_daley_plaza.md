@@ -1,12 +1,13 @@
 ---
-title: Daley Plaza and Picasso Sculpture
-type: poi
+latitude: 41.8843
+longitude: -87.6294
+score: 7.5
 tags:
 - things_to_do
 - sight
 - the_loop
-latitude: 41.8843
-longitude: -87.6294
+title: Daley Plaza and Picasso Sculpture
+type: poi
 ---
 
 The public square in front of Chicago City Hall holds an untitled 50-foot steel sculpture by Pablo Picasso, installed in 1967. The Picasso was the first major public sculpture in the Loop and remains one of the most discussed works of public art in American urban history — a gift from the artist who refused payment, depicting an animal (possibly a baboon, possibly a woman's head) that the city initially received with considerable ambivalence.

@@ -1,12 +1,13 @@
 ---
-title: Twin Anchors Tavern
-type: poi
+latitude: 41.9122
+longitude: -87.636
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - old_town
-latitude: 41.9122
-longitude: -87.6360
+title: Twin Anchors Tavern
+type: poi
 ---
 
 A Chicago tavern and rib joint that has been operating on Sedgwick Street in Old Town since 1932 and is one of the most venerated neighbourhood institutions on the North Side. Twin Anchors is famous for its baby back ribs — slow-cooked, served with a proprietary sauce, and priced significantly below the downtown steakhouses.

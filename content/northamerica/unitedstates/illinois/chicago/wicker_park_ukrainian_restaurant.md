@@ -1,12 +1,13 @@
 ---
-title: Reckless Records
-type: poi
+latitude: 41.9091
+longitude: -87.6773
+score: 6.5
 tags:
 - things_to_do
 - shopping
 - wicker_park
-latitude: 41.9091
-longitude: -87.6773
+title: Reckless Records
+type: poi
 ---
 
 A vinyl and CD record store on Milwaukee Avenue that is one of the most carefully curated and knowledgeable independent music retailers in the Midwest. Reckless stocks new and used vinyl across all genres, with particular depth in indie rock, soul, jazz, and electronic music — the staff are genuine music people who make the browsing experience unusual in the current retail climate.

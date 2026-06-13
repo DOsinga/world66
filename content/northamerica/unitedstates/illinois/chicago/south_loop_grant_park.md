@@ -1,12 +1,13 @@
 ---
-title: Grant Park
-type: poi
+latitude: 41.8758
+longitude: -87.6189
+score: 8.5
 tags:
 - things_to_do
 - park
 - south_loop
-latitude: 41.8758
-longitude: -87.6189
+title: Grant Park
+type: poi
 ---
 
 Chicago's primary civic park, stretching along the lakefront from Randolph Street south to Roosevelt Road, Grant Park is where the city holds its large outdoor events: Lollapalooza, the Chicago Jazz Festival, the Chicago Blues Festival, and the election night celebrations that have made it politically famous. The park is effectively the city's front lawn — open, formal in layout, and bookended by the Art Institute to the north and the Museum Campus to the south.

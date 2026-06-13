@@ -1,12 +1,13 @@
 ---
-title: South Wabash Avenue (Antique Row)
-type: poi
+latitude: 41.8755
+longitude: -87.6262
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - south_loop
-latitude: 41.8755
-longitude: -87.6262
+title: South Wabash Avenue (Antique Row)
+type: poi
 ---
 
 The stretch of South Wabash Avenue from Congress Parkway south has traditionally housed Chicago's antique and art dealer district, with a concentration of dealers in American and European antiques, vintage furniture, and mid-century design. The scale and quality range from auction house operations to one-room dealers in everything from vintage lighting to 19th-century portraits.

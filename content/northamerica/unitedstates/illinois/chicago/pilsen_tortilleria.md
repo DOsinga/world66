@@ -1,12 +1,13 @@
 ---
-title: Tortillería Sabinas
-type: poi
+latitude: 41.8552
+longitude: -87.6712
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - pilsen
-latitude: 41.8552
-longitude: -87.6712
+title: Tortillería Sabinas
+type: poi
 ---
 
 A working tortilla factory in Pilsen that sells directly to the public — masa ground in-house, tortillas pressed and baked on a continuous belt visible through the front window, and sold by the kilo for prices that reflect the industrial scale of production. The warm corn tortillas purchased here are among the best available in Chicago.

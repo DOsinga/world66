@@ -1,12 +1,13 @@
 ---
-title: North Halsted and Clark (Old Town South)
-type: poi
+latitude: 41.909
+longitude: -87.6352
+score: 6.0
 tags:
 - things_to_do
 - bars_and_cafes
 - old_town
-latitude: 41.9090
-longitude: -87.6352
+title: North Halsted and Clark (Old Town South)
+type: poi
 ---
 
 The southern end of Old Town, where North Halsted and Clark Streets converge near Division Street, holds the densest concentration of Old Town's bars and restaurants. This block anchors the neighbourhood's nightlife and is where most visitors to the Second City end up before and after shows.

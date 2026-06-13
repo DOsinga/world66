@@ -1,12 +1,13 @@
 ---
-title: The Billy Goat Tavern Area
-type: poi
+latitude: 41.8881
+longitude: -87.625
+score: 7.0
 tags:
 - things_to_do
 - bars_and_cafes
 - river_north
-latitude: 41.8881
-longitude: -87.6250
+title: The Billy Goat Tavern Area
+type: poi
 ---
 
 The Billy Goat Tavern on Lower Michigan Avenue (below street level, accessed via a ramp off Michigan) is the inspiration for the Saturday Night Live "Cheeseborger, cheeseborger" sketch and has been a Chicago press institution since the 1930s. The tavern is genuinely underground — in the lower level of the double-decker Michigan Avenue bridge approach — and the atmosphere is deliberately no-frills.

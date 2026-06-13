@@ -1,12 +1,13 @@
 ---
-title: Flat Iron Arts Building
-type: poi
+latitude: 41.9053
+longitude: -87.678
+score: 7.5
 tags:
 - things_to_do
 - art
 - wicker_park
-latitude: 41.9053
-longitude: -87.6780
+title: Flat Iron Arts Building
+type: poi
 ---
 
 A triangular artist loft building at the intersection of Milwaukee, North, and Damen — the commercial heart of Wicker Park — housing studios and galleries on multiple floors. The Flat Iron has been an artist building since the 1980s and its presence anchors the art-world identity of the neighbourhood even as surrounding blocks have gentrified.

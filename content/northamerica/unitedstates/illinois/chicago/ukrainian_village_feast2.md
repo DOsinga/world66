@@ -1,12 +1,13 @@
 ---
-title: Epiphany Catholic Church
-type: poi
+latitude: 41.8951
+longitude: -87.6763
+score: 6.0
 tags:
 - things_to_do
 - sight
 - ukrainian_village
-latitude: 41.8951
-longitude: -87.6763
+title: Epiphany Catholic Church
+type: poi
 ---
 
 A 1885 Gothic Revival Catholic church on Paulina Street that served the neighbourhood's Polish immigrant community before transitioning to its current Latino congregation. The church building — modest by the standards of Polish Catholic churches elsewhere in Chicago, but with good Victorian Gothic detailing — is one of the older standing religious buildings in the neighbourhood.

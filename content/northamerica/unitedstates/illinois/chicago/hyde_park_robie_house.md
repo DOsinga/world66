@@ -1,12 +1,13 @@
 ---
-title: Robie House
-type: poi
+latitude: 41.7894
+longitude: -87.5996
+score: 8.5
 tags:
 - things_to_do
 - architecture
 - hyde_park
-latitude: 41.7894
-longitude: -87.5996
+title: Robie House
+type: poi
 ---
 
 Frank Lloyd Wright's 1910 Robie House is the most architecturally significant building in Hyde Park and one of the most important houses in American architectural history — the definitive expression of the Prairie Style, with its horizontal lines, cantilevered roof overhangs, art glass windows, and integration of built-in furniture into a unified architectural concept.

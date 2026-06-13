@@ -1,12 +1,13 @@
 ---
-title: Ida Noyes Hall and Quadrangles
-type: poi
+latitude: 41.7909
+longitude: -87.5985
+score: 6.5
 tags:
 - things_to_do
 - sight
 - hyde_park
-latitude: 41.7909
-longitude: -87.5985
+title: Ida Noyes Hall and Quadrangles
+type: poi
 ---
 
 The main quadrangles of the University of Chicago, designed from 1891 onward in consistent neo-Gothic limestone, form one of the most visually coherent academic landscapes in the world. The sequence of connected quadrangles between 57th and 59th Streets is modeled on Oxford and Cambridge and remains substantially as built.

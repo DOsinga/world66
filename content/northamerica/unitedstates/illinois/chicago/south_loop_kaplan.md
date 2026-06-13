@@ -1,12 +1,13 @@
 ---
-title: Soldier Field
-type: poi
+latitude: 41.8623
+longitude: -87.6167
+score: 7.5
 tags:
 - things_to_do
 - entertainment
 - south_loop
-latitude: 41.8623
-longitude: -87.6167
+title: Soldier Field
+type: poi
 ---
 
 Home of the Chicago Bears NFL team and one of the most architecturally controversial renovations in American sports — a 1924 neoclassical colonnade surrounding a 2003 modern steel stadium bowl that architectural critics consistently describe as a badly designed intervention. The resulting structure is simultaneously an interesting architectural problem and a functional 61,000-seat stadium.

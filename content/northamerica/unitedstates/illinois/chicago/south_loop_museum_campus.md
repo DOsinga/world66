@@ -1,12 +1,13 @@
 ---
-title: Museum Campus Chicago
-type: poi
+latitude: 41.8665
+longitude: -87.6143
+score: 9.0
 tags:
 - things_to_do
 - sight
 - south_loop
-latitude: 41.8665
-longitude: -87.6143
+title: Museum Campus Chicago
+type: poi
 ---
 
 A lakefront park south of the Loop that clusters three of Chicago's major cultural institutions: the Field Museum, the Shedd Aquarium, and the Adler Planetarium. The campus was created in 1998 by rerouting Lake Shore Drive west, giving the museum buildings direct pedestrian access to the lakefront and to each other.

@@ -1,12 +1,13 @@
 ---
-title: Swedish-American Museum
-type: poi
+latitude: 41.9686
+longitude: -87.6545
+score: 6.0
 tags:
 - things_to_do
 - museum
 - lakeview
-latitude: 41.9686
-longitude: -87.6545
+title: Swedish-American Museum
+type: poi
 ---
 
 A small museum in Andersonville, at the north end of the Lakeview district, documenting the history of Swedish and Scandinavian immigration to Chicago from the 1840s through the 20th century. The Andersonville neighbourhood was the centre of Chicago's Swedish community for most of the early 20th century; the commercial street (Clark Street) retains Swedish-named businesses and a Swedish bakery that have been operating for decades.

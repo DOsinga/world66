@@ -1,12 +1,13 @@
 ---
-title: Ukrainian National Museum
-type: poi
+latitude: 41.896
+longitude: -87.6726
+score: 6.5
 tags:
 - things_to_do
 - museum
 - ukrainian_village
-latitude: 41.8960
-longitude: -87.6726
+title: Ukrainian National Museum
+type: poi
 ---
 
 A small but serious institution on the edge of Ukrainian Village, the Ukrainian National Museum houses a collection of Ukrainian folk art, historical documents, and contemporary work documenting the history of Ukrainians in Chicago and the broader American diaspora. The collection includes pysanky (decorated Easter eggs), traditional textiles, woodwork, and ceramics from across the historical Ukrainian regions.

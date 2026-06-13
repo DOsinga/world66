@@ -1,12 +1,13 @@
 ---
-title: Jackson Park
-type: poi
+latitude: 41.7876
+longitude: -87.58
+score: 7.5
 tags:
 - things_to_do
 - park
 - hyde_park
-latitude: 41.7876
-longitude: -87.5800
+title: Jackson Park
+type: poi
 ---
 
 The 543-acre park on the lakefront east of Hyde Park was the site of the 1893 World's Columbian Exposition — the White City — and still holds several surviving structures from that event, including the Palace of Fine Arts (now the Museum of Science and Industry). The Japanese garden on the Wooded Island is a surviving element of the Exposition's landscaping, designed by Frederick Law Olmsted.

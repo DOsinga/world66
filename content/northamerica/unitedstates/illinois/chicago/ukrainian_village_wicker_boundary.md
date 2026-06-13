@@ -1,12 +1,13 @@
 ---
-title: Division Street (Ukrainian Village/Wicker Park)
-type: poi
+latitude: 41.9033
+longitude: -87.6763
+score: 6.5
 tags:
 - things_to_do
 - bars_and_cafes
 - ukrainian_village
-latitude: 41.9033
-longitude: -87.6763
+title: Division Street (Ukrainian Village/Wicker Park)
+type: poi
 ---
 
 Division Street on the boundary between Ukrainian Village and Wicker Park is one of the most historically resonant streets in Chicago's working-class immigrant history. Nelson Algren, who lived here for decades, wrote Chicago: City on the Shoulders of the World as a love letter to Division Street and its Polish-immigrant tavern culture. The street is no longer Polish, but the bars — cheaper and less fashionable than those on nearby Milwaukee and Damen — retain a character that echoes Algren's descriptions.

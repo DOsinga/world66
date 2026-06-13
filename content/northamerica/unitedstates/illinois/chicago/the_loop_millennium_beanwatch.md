@@ -1,12 +1,13 @@
 ---
-title: Millennium Park Surrounding Area
-type: poi
+latitude: 41.8827
+longitude: -87.6217
+score: 8.0
 tags:
 - things_to_do
 - sight
 - the_loop
-latitude: 41.8827
-longitude: -87.6217
+title: Millennium Park Surrounding Area
+type: poi
 ---
 
 Beyond Cloud Gate and the Jay Pritzker Pavilion, Millennium Park contains several elements worth seeking out: the Crown Fountain — two 50-foot towers projecting video portraits of Chicagoans — is an interactive water installation best appreciated in summer when visitors wade in the reflecting pool between them. The Lurie Garden, at the south end of the park, is a prairie landscape designed by Piet Oudolf and at its best in late summer when the native grasses and perennials peak.

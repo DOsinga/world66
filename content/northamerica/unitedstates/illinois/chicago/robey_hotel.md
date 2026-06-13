@@ -1,11 +1,12 @@
 ---
-title: The Robey
-type: poi
 latitude: 41.9106
 longitude: -87.6773
+score: 6.5
 tags:
 - bars_and_cafes
 - wicker_park
+title: The Robey
+type: poi
 ---
 
 A boutique hotel in a 1929 art deco bank building at the six-corners intersection, notable primarily for its rooftop bar — one of the better outdoor drinking venues on the North Side, with views across the flat Chicago grid and, on clear days, the downtown skyline. The bar is open to non-guests.

@@ -1,12 +1,13 @@
 ---
-title: Halsted Street (Lakeview)
-type: poi
+latitude: 41.9437
+longitude: -87.649
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - lakeview
-latitude: 41.9437
-longitude: -87.6490
+title: Halsted Street (Lakeview)
+type: poi
 ---
 
 Halsted Street through the Lakeview district — from Belmont south through Boystown to Addison — is one of Chicago's most continuously active commercial streets, combining the LGBT nightlife of Boystown with a broader restaurant and bar scene that spills in both directions. The section between Belmont and Roscoe is the most varied, with independent restaurants, cafés, and bars that draw from the full Lakeview demographic.

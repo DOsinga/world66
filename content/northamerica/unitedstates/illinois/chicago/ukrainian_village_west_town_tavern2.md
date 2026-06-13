@@ -1,12 +1,13 @@
 ---
-title: Chicago Avenue (Ukrainian Village Spine)
-type: poi
+latitude: 41.8964
+longitude: -87.6745
+score: 6.0
 tags:
 - things_to_do
 - restaurant
 - ukrainian_village
-latitude: 41.8964
-longitude: -87.6745
+title: Chicago Avenue (Ukrainian Village Spine)
+type: poi
 ---
 
 Chicago Avenue runs through the heart of Ukrainian Village and is its main commercial street — a functional strip of restaurants, bars, grocery stores, and neighbourhood services that has been gentrifying slowly since the 1990s without losing its working-class character. The stretch from Damen west to Western Avenue has the most interest for visitors.

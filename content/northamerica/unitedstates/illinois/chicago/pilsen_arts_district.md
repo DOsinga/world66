@@ -1,12 +1,13 @@
 ---
-title: Pilsen Arts District
-type: poi
+latitude: 41.8558
+longitude: -87.6671
+score: 7.5
 tags:
 - things_to_do
 - art
 - pilsen
-latitude: 41.8558
-longitude: -87.6671
+title: Pilsen Arts District
+type: poi
 ---
 
 Pilsen has developed since the 1990s into one of Chicago's most active artist communities, with studios and galleries concentrated in the former industrial buildings near the elevated rail lines. The second Friday of each month — Pilsen Art Walk — brings galleries open late for a coordinated walking tour, drawing visitors from across the city.

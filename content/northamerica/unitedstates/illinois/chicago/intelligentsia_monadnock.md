@@ -1,11 +1,12 @@
 ---
-title: Intelligentsia Coffee (River North)
-type: poi
 latitude: 41.8936
 longitude: -87.6287
+score: 6.0
 tags:
 - bars_and_cafes
 - river_north
+title: Intelligentsia Coffee (River North)
+type: poi
 ---
 
 Chicago's most influential specialty coffee roaster, founded in 1995 and credited with helping establish the city's serious coffee culture. The River North location on West Randolph Street is the most central of several Chicago outlets, serving single-origin espresso, pour-overs, and cold brew to a neighbourhood crowd of tech workers, agency people, and coffee obsessives.

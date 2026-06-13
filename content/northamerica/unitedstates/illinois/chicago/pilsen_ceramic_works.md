@@ -1,12 +1,13 @@
 ---
-title: Chicago Printmakers Collaborative
-type: poi
+latitude: 41.8566
+longitude: -87.6671
+score: 6.0
 tags:
 - things_to_do
 - art
 - pilsen
-latitude: 41.8566
-longitude: -87.6671
+title: Chicago Printmakers Collaborative
+type: poi
 ---
 
 A printmaking studio and gallery in Pilsen that offers open studio access to printmakers and exhibitions of print-based art in a gallery space at the front of the building. The Chicago Printmakers Collaborative is part of the concentration of working artists' studios in Pilsen that has developed since the 1990s, and represents the neighbourhood's tradition of affordable studio space that has attracted visual artists from the University of Illinois at Chicago and the School of the Art Institute.

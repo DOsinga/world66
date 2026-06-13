@@ -1,12 +1,13 @@
 ---
-title: Kingsley Café District (Armitage/Halsted)
-type: poi
+latitude: 41.9186
+longitude: -87.6488
+score: 6.5
 tags:
 - things_to_do
 - restaurant
 - lincoln_park
-latitude: 41.9186
-longitude: -87.6488
+title: Kingsley Café District (Armitage/Halsted)
+type: poi
 ---
 
 The Armitage/Halsted intersection in Lincoln Park is the commercial anchor of the neighbourhood's restaurant and boutique district — a cluster of independent restaurants, wine bars, and upscale casual dining that has been Lincoln Park's social centre for dining since the 1990s. The area runs roughly from Armitage Avenue south along Halsted, with offshoots down Webster and Belden.

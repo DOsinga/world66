@@ -1,12 +1,13 @@
 ---
-title: Upper and Lower Wacker Drive
-type: poi
+latitude: 41.8874
+longitude: -87.634
+score: 7.5
 tags:
 - things_to_do
 - sight
 - river_north
-latitude: 41.8874
-longitude: -87.6340
+title: Upper and Lower Wacker Drive
+type: poi
 ---
 
 A two-level street running along the south bank of the Chicago River, Wacker Drive is one of the most significant pieces of urban engineering in American history and one of the few examples of a successful double-decker urban thoroughfare. The upper level carries general traffic; the lower level carries commercial delivery trucks and has become celebrated as a location for film car chases.

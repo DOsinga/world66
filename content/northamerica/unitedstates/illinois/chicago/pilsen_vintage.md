@@ -1,12 +1,13 @@
 ---
-title: Pilsen Vintage and Antique District
-type: poi
+latitude: 41.8571
+longitude: -87.669
+score: 6.5
 tags:
 - things_to_do
 - shopping
 - pilsen
-latitude: 41.8571
-longitude: -87.6690
+title: Pilsen Vintage and Antique District
+type: poi
 ---
 
 A concentration of vintage clothing shops, antique dealers, and furniture resellers has developed in Pilsen alongside the arts community, occupying storefront spaces along 18th Street and the cross streets between Halsted and Western. The prices are lower than comparable shops in Wicker Park or Lakeview, reflecting Pilsen's working-class neighbourhood economy.

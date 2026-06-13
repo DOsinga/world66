@@ -1,12 +1,13 @@
 ---
-title: East Village (Ukrainian Village East)
-type: poi
+latitude: 41.9011
+longitude: -87.6695
+score: 6.5
 tags:
 - things_to_do
 - bars_and_cafes
 - ukrainian_village
-latitude: 41.9011
-longitude: -87.6695
+title: East Village (Ukrainian Village East)
+type: poi
 ---
 
 The eastern edge of Ukrainian Village, where it borders Wicker Park near Damen Avenue, has developed a concentration of cafés, cocktail bars, and restaurants that bridges the character of the two neighbourhoods. This zone — sometimes called East Village by local real estate marketing — has newer arrivals operating alongside the Ukrainian Village institutions.

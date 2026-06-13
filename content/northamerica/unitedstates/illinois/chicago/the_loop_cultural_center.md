@@ -1,12 +1,13 @@
 ---
-title: Chicago Cultural Center
-type: poi
+latitude: 41.8835
+longitude: -87.6249
+score: 8.0
 tags:
 - things_to_do
 - museum
 - the_loop
-latitude: 41.8835
-longitude: -87.6249
+title: Chicago Cultural Center
+type: poi
 ---
 
 A free art exhibition space occupying one of Chicago's most spectacular interiors — a 1897 building constructed as the city's main public library, with two vast Tiffany glass domes, one in the Preston Bradley Hall and one in the Randolph Street room. The domes are among the finest examples of art glass in the United States.

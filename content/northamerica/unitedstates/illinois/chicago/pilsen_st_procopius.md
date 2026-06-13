@@ -1,12 +1,13 @@
 ---
-title: St. Procopius Catholic Church
-type: poi
+latitude: 41.854
+longitude: -87.6646
+score: 6.5
 tags:
 - things_to_do
 - sight
 - pilsen
-latitude: 41.8540
-longitude: -87.6646
+title: St. Procopius Catholic Church
+type: poi
 ---
 
 A 1883 Czech Gothic Revival church that is one of the surviving architectural monuments to Pilsen's original Bohemian immigrant community. The church is named after a 10th-century Bohemian saint; its Gothic nave and stained glass are among the most impressive of Chicago's immigrant community churches.

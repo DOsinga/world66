@@ -1,12 +1,13 @@
 ---
-title: Museum of Contemporary Art Chicago
-type: poi
+latitude: 41.8971
+longitude: -87.6219
+score: 8.0
 tags:
 - things_to_do
 - museum
 - river_north
-latitude: 41.8971
-longitude: -87.6219
+title: Museum of Contemporary Art Chicago
+type: poi
 ---
 
 The largest contemporary art museum in the US, the MCA occupies a 1996 building by Josef Paul Kleihues on Chicago Avenue just north of the Magnificent Mile. The permanent collection focuses on art from 1945 onward, with particular depth in conceptual, performance, and video work. The scale of the collection and building means the museum can mount ambitious survey exhibitions without the compromises required at smaller institutions.

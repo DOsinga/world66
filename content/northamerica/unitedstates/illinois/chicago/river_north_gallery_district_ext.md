@@ -1,12 +1,13 @@
 ---
-title: River North Gallery District
-type: poi
+latitude: 41.8933
+longitude: -87.6326
+score: 7.0
 tags:
 - things_to_do
 - art
 - river_north
-latitude: 41.8933
-longitude: -87.6326
+title: River North Gallery District
+type: poi
 ---
 
 The commercial art gallery district of Chicago concentrates in River North along Superior, Ontario, and Erie Streets west of Michigan Avenue, with approximately 50 galleries ranging from established blue-chip operations to younger spaces focused on emerging artists. The district developed in the 1970s and remains the primary market for contemporary art in Chicago.

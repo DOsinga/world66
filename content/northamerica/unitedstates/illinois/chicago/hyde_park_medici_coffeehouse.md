@@ -1,12 +1,13 @@
 ---
-title: Medici on 57th
-type: poi
+latitude: 41.7928
+longitude: -87.5993
+score: 6.0
 tags:
 - things_to_do
 - restaurant
 - hyde_park
-latitude: 41.7928
-longitude: -87.5993
+title: Medici on 57th
+type: poi
 ---
 
 Hyde Park's most established neighbourhood restaurant, operating in its current form since 1962 and as a coffee house since the 1950s. The Medici is a low-cost, high-density space that has served as the de facto common room for the University of Chicago for six decades — wood booths scarred with student carvings, beer and wine, a menu that covers everything from breakfast through late-night burgers.

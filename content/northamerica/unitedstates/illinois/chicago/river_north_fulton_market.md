@@ -1,12 +1,13 @@
 ---
-title: Fulton Market District
-type: poi
+latitude: 41.8862
+longitude: -87.6475
+score: 8.0
 tags:
 - things_to_do
 - restaurant
 - river_north
-latitude: 41.8862
-longitude: -87.6475
+title: Fulton Market District
+type: poi
 ---
 
 Chicago's most concentrated restaurant district, the Fulton Market neighbourhood on the western edge of the Near West Side has transformed since 2010 from a meat-packing district into the location of more nationally recognised restaurants per square block than anywhere else in the Midwest. Fulton Market proper is on the border between River North and West Loop, but is most easily approached from the River North side.

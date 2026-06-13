@@ -1,12 +1,13 @@
 ---
-title: Wicker Park Greens and Community Garden
-type: poi
+latitude: 41.9076
+longitude: -87.6758
+score: 5.5
 tags:
 - things_to_do
 - park
 - wicker_park
-latitude: 41.9076
-longitude: -87.6758
+title: Wicker Park Greens and Community Garden
+type: poi
 ---
 
 The Wicker Park Community Garden at Schiller and Damen is one of the original community gardens in Chicago's North Side, operating since the 1970s when the neighbourhood was considerably more distressed than it is today. The garden has been maintained through the neighbourhood's transformation and now operates as a community resource for residents of the surrounding condominium buildings.

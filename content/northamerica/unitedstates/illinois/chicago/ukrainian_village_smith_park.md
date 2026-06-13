@@ -1,12 +1,13 @@
 ---
-title: Smith Park and Surroundings
-type: poi
+latitude: 41.898
+longitude: -87.6804
+score: 5.5
 tags:
 - things_to_do
 - park
 - ukrainian_village
-latitude: 41.8980
-longitude: -87.6804
+title: Smith Park and Surroundings
+type: poi
 ---
 
 Smith Park at Loomis and Ohio is the main green space in Ukrainian Village, a modest neighbourhood park with a field house, playground, and outdoor basketball courts that serves the residential blocks around it. The park reflects the neighbourhood's working-class character — functional, well-maintained, community-used rather than visitor-facing.

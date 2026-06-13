@@ -1,12 +1,13 @@
 ---
-title: Pipers Alley and iO Theater
-type: poi
+latitude: 41.9118
+longitude: -87.636
+score: 7.0
 tags:
 - things_to_do
 - entertainment
 - old_town
-latitude: 41.9118
-longitude: -87.6360
+title: Pipers Alley and iO Theater
+type: poi
 ---
 
 iO Theater (formerly ImprovOlympic) at Pipers Alley on North Wells is the second of Chicago's legendary improv comedy institutions, the training ground for Tina Fey, Mike Myers, and dozens of other performers who went on to build careers in American comedy. Where Second City performs scripted sketch shows with improvised segments, iO specializes in long-form improvisation — the Harold format developed by Del Close and Charna Halpern.

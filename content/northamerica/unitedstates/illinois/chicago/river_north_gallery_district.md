@@ -1,12 +1,13 @@
 ---
-title: River North Gallery District
-type: poi
 latitude: 41.8922
 longitude: -87.6349
+score: 7.5
 tags:
 - things_to_do
 - art
 - river_north
+title: River North Gallery District
+type: poi
 ---
 
 The largest concentration of commercial art galleries in the United States outside New York — more than sixty galleries clustered along West Superior Street, West Huron Street, and North Franklin Street. The galleries range from blue-chip contemporary spaces showing established names to newer venues focused on emerging artists. Most are free to enter.

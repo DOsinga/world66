@@ -1,12 +1,13 @@
 ---
-title: The Berghoff Restaurant
-type: poi
+latitude: 41.8799
+longitude: -87.6292
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - the_loop
-latitude: 41.8799
-longitude: -87.6292
+title: The Berghoff Restaurant
+type: poi
 ---
 
 A German-American restaurant on Adams Street that has been in continuous operation since 1898 — one of the oldest continuously operating restaurants in Chicago and a genuine Loop institution that has survived the neighbourhood's shifts with its character largely intact. The Berghoff serves traditional German and Austro-Hungarian dishes (schnitzel, sauerbraten, roast pork) alongside its own brand of German lager, brewed continuously since Prohibition.

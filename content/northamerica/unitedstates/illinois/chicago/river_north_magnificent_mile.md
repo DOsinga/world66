@@ -1,12 +1,13 @@
 ---
-title: Magnificent Mile (N Michigan Ave)
-type: poi
+latitude: 41.896
+longitude: -87.6239
+score: 9.0
 tags:
 - things_to_do
 - shopping
 - river_north
-latitude: 41.8960
-longitude: -87.6239
+title: Magnificent Mile (N Michigan Ave)
+type: poi
 ---
 
 The stretch of North Michigan Avenue from the Chicago River north to Oak Street, known as the Magnificent Mile, is Chicago's main luxury shopping street — a mile of department stores, flagship brand stores, and the vertical mall towers that define Chicago's retail landscape. The Water Tower (the 1869 standpipe that survived the Great Chicago Fire) stands in the middle of the strip at Pearson Street.

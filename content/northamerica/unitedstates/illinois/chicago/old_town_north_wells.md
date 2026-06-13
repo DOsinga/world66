@@ -1,12 +1,13 @@
 ---
-title: North Wells Street
-type: poi
+latitude: 41.9127
+longitude: -87.6358
+score: 7.5
 tags:
 - things_to_do
 - restaurant
 - old_town
-latitude: 41.9127
-longitude: -87.6358
+title: North Wells Street
+type: poi
 ---
 
 The main commercial street of Old Town runs for about eight blocks from Division Street north to North Avenue, lined with independent restaurants, pubs, boutiques, and bars that have kept the street populated through several decades of neighbourhood change. The character is unpretentious urban — not trendy, not tourist-facing, just a functioning neighbourhood commercial strip.

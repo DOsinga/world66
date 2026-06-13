@@ -1,12 +1,13 @@
 ---
-title: Chicago History Museum
-type: poi
+latitude: 41.9212
+longitude: -87.6319
+score: 8.5
 tags:
 - things_to_do
 - museum
 - lincoln_park
-latitude: 41.9212
-longitude: -87.6319
+title: Chicago History Museum
+type: poi
 ---
 
 The main civic history museum of Chicago, at the south end of Lincoln Park at Clark and North Avenue. The collection documents Chicago's history from its founding as a trading post through the Great Chicago Fire of 1871, the transformation into an industrial metropolis, and the 20th-century social history of the city's immigrant communities and labor movements.

@@ -1,12 +1,13 @@
 ---
-title: Steppenwolf Theatre
-type: poi
+latitude: 41.9131
+longitude: -87.635
+score: 8.5
 tags:
 - things_to_do
 - entertainment
 - old_town
-latitude: 41.9131
-longitude: -87.6350
+title: Steppenwolf Theatre
+type: poi
 ---
 
 One of America's most significant regional theatre companies, Steppenwolf was founded in 1974 and has been based in a purpose-built complex on Halsted Street in Old Town since 1991. The ensemble includes Gary Sinise, John Malkovich, Laurie Metcalf, and other actors who built their careers here; the company's reputation for intense, physical ensemble performance shaped American regional theatre.

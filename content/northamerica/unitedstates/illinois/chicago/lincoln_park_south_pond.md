@@ -1,12 +1,13 @@
 ---
-title: North Pond Restaurant and Lagoon
-type: poi
+latitude: 41.923
+longitude: -87.6379
+score: 6.5
 tags:
 - things_to_do
 - restaurant
 - lincoln_park
-latitude: 41.9230
-longitude: -87.6379
+title: North Pond Restaurant and Lagoon
+type: poi
 ---
 
 North Pond Restaurant occupies a 1912 Arts and Crafts shelter house on a small island in Lincoln Park's lagoon, accessible by a footbridge, and serves refined American cuisine in one of the most unusual settings in Chicago. The food is excellent — farm-to-table before the phrase existed, with a menu that tracks seasonal produce from local farms — and the location, surrounded by water and park, makes it unlike any other restaurant in the city.

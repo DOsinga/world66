@@ -1,12 +1,13 @@
 ---
-title: Silver Room Block Party
-type: poi
+latitude: 41.9088
+longitude: -87.6769
+score: 7.0
 tags:
 - things_to_do
 - entertainment
 - wicker_park
-latitude: 41.9088
-longitude: -87.6769
+title: Silver Room Block Party
+type: poi
 ---
 
 The Silver Room on Milwaukee Avenue has been a Wicker Park boutique retail and community gathering space since 1997, hosting music events, pop-up markets, and the annual Silver Room Block Party in summer — a free music festival on Milwaukee Avenue that has become one of the neighbourhood's major annual events. The store carries independent fashion, accessories, and vinyl records alongside a rotating cast of small designers.

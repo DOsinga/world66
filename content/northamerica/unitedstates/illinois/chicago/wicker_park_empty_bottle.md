@@ -1,12 +1,13 @@
 ---
-title: Empty Bottle
-type: poi
+latitude: 41.9013
+longitude: -87.6851
+score: 7.0
 tags:
 - things_to_do
 - entertainment
 - wicker_park
-latitude: 41.9013
-longitude: -87.6851
+title: Empty Bottle
+type: poi
 ---
 
 Chicago's essential independent music venue, the Empty Bottle on Western Avenue has been programming local, national, and international indie, experimental, jazz, and electronic music since 1992. The room holds about 400 people; the booking has been consistently ahead of the curve, putting artists on stage before wider recognition.

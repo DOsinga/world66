@@ -1,12 +1,13 @@
 ---
-title: Boystown (Halsted Street)
-type: poi
+latitude: 41.9437
+longitude: -87.649
+score: 8.0
 tags:
 - things_to_do
 - entertainment
 - lakeview
-latitude: 41.9437
-longitude: -87.6490
+title: Boystown (Halsted Street)
+type: poi
 ---
 
 Chicago's established gay neighbourhood runs along Halsted Street in the Lakeview district, centred on the stretch from Belmont to Addison. The area has been officially recognized since 1997 with rainbow pylon markers along Halsted, and contains the highest concentration of LGBT-oriented bars, restaurants, and businesses in the Midwest.

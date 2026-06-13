@@ -1,13 +1,16 @@
 ---
-title: Billy Goat Tavern
-type: poi
 latitude: 41.8896
 longitude: -87.6278
+score: 7.5
+story: The Billy Goat was the inspiration for John Belushi's famous "Cheezborger,
+  Cheezborger, no Pepsi — Coke!" Saturday Night Live sketch from 1978, which was itself
+  based on the real behaviour of the tavern's original owner, Billy Sianis.
 tags:
 - bars_and_cafes
 - eating_out
 - river_north
-story: The Billy Goat was the inspiration for John Belushi's famous "Cheezborger, Cheezborger, no Pepsi — Coke!" Saturday Night Live sketch from 1978, which was itself based on the real behaviour of the tavern's original owner, Billy Sianis.
+title: Billy Goat Tavern
+type: poi
 ---
 
 A legendary dive bar in a below-street-level space under Michigan Avenue, accessible from Hubbard Street or through a tunnel from the Magnificent Mile. The Billy Goat has been the newspaper industry's unofficial canteen since the Chicago Tribune moved nearby in the 1930s — the walls are covered with framed Tribune and Sun-Times front pages.

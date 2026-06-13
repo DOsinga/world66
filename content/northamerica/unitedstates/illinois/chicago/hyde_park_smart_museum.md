@@ -1,12 +1,13 @@
 ---
-title: Smart Museum of Art
-type: poi
+latitude: 41.7921
+longitude: -87.5985
+score: 7.0
 tags:
 - things_to_do
 - museum
 - hyde_park
-latitude: 41.7921
-longitude: -87.5985
+title: Smart Museum of Art
+type: poi
 ---
 
 The University of Chicago's fine arts museum, with a permanent collection of over 15,000 works spanning ancient Greece through contemporary art. The Smart is small relative to the Art Institute but unusually strong in its areas of focus: European modernism, ancient Asian works, and 20th-century American art. The photography collection is particularly good.

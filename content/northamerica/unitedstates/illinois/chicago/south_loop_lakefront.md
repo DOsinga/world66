@@ -1,12 +1,13 @@
 ---
-title: South Loop Lakefront (Burnham Park)
-type: poi
+latitude: 41.8618
+longitude: -87.614
+score: 7.0
 tags:
 - things_to_do
 - park
 - south_loop
-latitude: 41.8618
-longitude: -87.6140
+title: South Loop Lakefront (Burnham Park)
+type: poi
 ---
 
 The lakefront south of the Museum Campus continues in Burnham Park, with the lakefront running path, beach areas, and the Soldier Field stadium complex. The 12th Street Beach is the closest swimming beach to the South Loop residential neighbourhood and is significantly less crowded than the north-side beaches.

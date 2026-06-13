@@ -1,12 +1,13 @@
 ---
-title: Old Town Triangle District
-type: poi
 latitude: 41.9125
 longitude: -87.6345
+score: 7.0
 tags:
 - things_to_do
 - sight
 - old_town
+title: Old Town Triangle District
+type: poi
 ---
 
 The historic core of Old Town — a triangle of Victorian-era rowhouses and coach houses bounded by North Avenue, Clark Street, and Ogden Avenue. The neighbourhood developed in the 1860s and retains an unusually intact collection of 19th-century residential architecture, particularly the wood-frame Italianate and Queen Anne houses along Crilly Court and the surrounding streets.

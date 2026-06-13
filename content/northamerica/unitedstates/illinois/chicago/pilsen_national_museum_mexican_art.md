@@ -1,12 +1,13 @@
 ---
-title: National Museum of Mexican Art
-type: poi
+latitude: 41.8557
+longitude: -87.6747
+score: 8.0
 tags:
 - things_to_do
 - museum
 - pilsen
-latitude: 41.8557
-longitude: -87.6747
+title: National Museum of Mexican Art
+type: poi
 ---
 
 The only national Latino museum in the US accredited by the American Alliance of Museums, the National Museum of Mexican Art in Pilsen is free to visit and houses over 10,000 objects documenting Mexican and Mexican-American art and culture from pre-Columbian times to the present. The permanent collection is encyclopaedic: Aztec artifacts, colonial painting and sculpture, folk art from all regions of Mexico, and contemporary Chicano art.

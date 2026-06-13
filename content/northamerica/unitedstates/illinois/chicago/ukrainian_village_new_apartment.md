@@ -1,12 +1,13 @@
 ---
-title: Oakley and Cortez (Residential Streets)
-type: poi
+latitude: 41.8985
+longitude: -87.6766
+score: 5.0
 tags:
 - things_to_do
 - sight
 - ukrainian_village
-latitude: 41.8985
-longitude: -87.6766
+title: Oakley and Cortez (Residential Streets)
+type: poi
 ---
 
 The blocks around Oakley and Cortez in the heart of Ukrainian Village contain some of the most intact early 20th-century residential architecture in Chicago — workers' two-flats, three-flats, and small apartment buildings from 1900 to 1920, built by and for the neighbourhood's Eastern European immigrant working class. The brick construction, bay windows, decorative cornices, and modest front gardens are characteristic of Chicago's pre-war residential vernacular.

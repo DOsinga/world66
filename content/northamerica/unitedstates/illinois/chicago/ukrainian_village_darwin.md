@@ -1,12 +1,13 @@
 ---
-title: Darwin's Restaurant (Ukrainian Village Dining)
-type: poi
+latitude: 41.8973
+longitude: -87.6745
+score: 5.5
 tags:
 - things_to_do
 - restaurant
 - ukrainian_village
-latitude: 41.8973
-longitude: -87.6745
+title: Darwin's Restaurant (Ukrainian Village Dining)
+type: poi
 ---
 
 Ukrainian Village's restaurant scene has developed around the neighbourhood's established Eastern European character, with Ukrainian and Polish restaurants alongside newer BYOB spots that opened as the neighbourhood attracted younger residents and creative professionals. The area around Chicago Avenue and Damen has the densest concentration.

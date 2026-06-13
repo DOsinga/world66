@@ -1,12 +1,13 @@
 ---
-title: Diversey Harbor and Lakefront
-type: poi
+latitude: 41.932
+longitude: -87.6357
+score: 6.5
 tags:
 - things_to_do
 - park
 - lakeview
-latitude: 41.9320
-longitude: -87.6357
+title: Diversey Harbor and Lakefront
+type: poi
 ---
 
 Diversey Harbor, accessible from the lakefront path at Diversey Parkway, is a full-service marina at the east end of the Lakeview neighbourhood. The harbour offers kayak and paddleboard rentals, a boathouse café, and the lakefront path access that connects the neighbourhood to the parks to the north and south.

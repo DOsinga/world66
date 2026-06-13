@@ -1,12 +1,13 @@
 ---
-title: Columbia College Chicago (Museum Block)
-type: poi
+latitude: 41.872
+longitude: -87.624
+score: 6.0
 tags:
 - things_to_do
 - museum
 - south_loop
-latitude: 41.8720
-longitude: -87.6240
+title: Columbia College Chicago (Museum Block)
+type: poi
 ---
 
 Columbia College Chicago's main campus in the South Loop includes several galleries and cultural facilities accessible to the public. The Museum of Contemporary Photography on Michigan Avenue (free admission) has one of the strongest photography collections in the Midwest and programmes serious curatorial exhibitions. The Glass Curtain Gallery on Wabash shows student and emerging professional work.

@@ -1,12 +1,13 @@
 ---
-title: Union Station
-type: poi
+latitude: 41.8786
+longitude: -87.6401
+score: 7.5
 tags:
 - things_to_do
 - sight
 - the_loop
-latitude: 41.8786
-longitude: -87.6401
+title: Union Station
+type: poi
 ---
 
 Chicago's main intercity rail terminus, designed by Daniel Burnham and completed in 1925, with one of the most spectacular waiting rooms in American railroad architecture — the Great Hall, a 220-foot barrel-vaulted hall with marble floors, Roman columns, and skylights that has been used as a film location more often than any other interior in Chicago. The Untouchables, Home Alone 2, and The Dark Knight Rises all filmed here.

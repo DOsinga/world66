@@ -1,13 +1,14 @@
 ---
-title: Holy Trinity Orthodox Cathedral
-type: poi
 latitude: 41.9019
 longitude: -87.6714
+score: 6.5
 tags:
 - things_to_do
 - sight
 - architecture
 - ukrainian_village
+title: Holy Trinity Orthodox Cathedral
+type: poi
 ---
 
 A Byzantine-style Orthodox cathedral on North Leavitt Street, built in 1903 and funded in part by a $4,000 personal donation from Tsar Nicholas II — a fact commemorated by a plaque inside. The cathedral serves as the spiritual anchor of Chicago's Ukrainian community and is one of the most architecturally striking religious buildings on the North Side.

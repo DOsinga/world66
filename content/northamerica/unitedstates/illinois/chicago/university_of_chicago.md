@@ -1,13 +1,14 @@
 ---
-title: University of Chicago Campus
-type: poi
 latitude: 41.7886
 longitude: -87.5987
+score: 8.5
 tags:
 - things_to_do
 - architecture
 - sight
 - hyde_park
+title: University of Chicago Campus
+type: poi
 ---
 
 One of the finest Gothic Revival university campuses in the country — a compact, pedestrian-friendly grid of quadrangles, limestone buildings, gargoyles, and covered walkways that could plausibly be mistaken for Oxford. The university was founded in 1890 with Rockefeller money and has produced more economics Nobel laureates than any other institution.

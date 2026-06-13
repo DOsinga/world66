@@ -1,12 +1,13 @@
 ---
-title: Ukrainian Village Bakeries and Delis
-type: poi
+latitude: 41.8972
+longitude: -87.6748
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - ukrainian_village
-latitude: 41.8972
-longitude: -87.6748
+title: Ukrainian Village Bakeries and Delis
+type: poi
 ---
 
 Ukrainian Village maintains several Eastern European food businesses that have been operating continuously since the neighbourhood's founding — Ukrainian and Polish delicatessens, a Lithuanian bakery, and specialty grocery stores that stock products from the diaspora communities. These businesses serve the neighbourhood's remaining Eastern European elderly population as well as a newer generation of community members interested in culinary heritage.

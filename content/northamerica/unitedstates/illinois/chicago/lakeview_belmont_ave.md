@@ -1,12 +1,13 @@
 ---
-title: Belmont Avenue (Punk/Alternative Scene)
-type: poi
+latitude: 41.9395
+longitude: -87.6538
+score: 7.0
 tags:
 - things_to_do
 - shopping
 - lakeview
-latitude: 41.9395
-longitude: -87.6538
+title: Belmont Avenue (Punk/Alternative Scene)
+type: poi
 ---
 
 The stretch of Belmont Avenue in Lakeview between Sheffield and Halsted has been Chicago's centre for punk, goth, and alternative subculture since the 1980s — record shops, vintage clothing stores, tattoo parlours, head shops, and the kind of youth retail that has survived the neighbourhood's gentrification around it. The density of alternative retail on this block is unusual and worth seeing even if the specific shops change.

@@ -1,13 +1,14 @@
 ---
-title: Pilsen Mural District
-type: poi
 latitude: 41.8565
 longitude: -87.6638
+score: 8.0
 tags:
 - things_to_do
 - art
 - sight
 - pilsen
+title: Pilsen Mural District
+type: poi
 ---
 
 Pilsen's streets serve as one of Chicago's largest outdoor galleries — dozens of building-scale murals covering entire facades along 16th Street, 18th Street, and the streets between them. The tradition of public muralism here descends from the Mexican muralistas and has been continuously active since the 1970s, when Mexican-American artists began claiming this space from the neighbourhood's older Eastern European immigrant population.

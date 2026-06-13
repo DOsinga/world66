@@ -1,12 +1,13 @@
 ---
-title: Chicago Architecture Foundation River Cruise
-type: poi
+latitude: 41.8871
+longitude: -87.6249
+score: 8.5
 tags:
 - things_to_do
 - sight
 - river_north
-latitude: 41.8871
-longitude: -87.6249
+title: Chicago Architecture Foundation River Cruise
+type: poi
 ---
 
 The Chicago Architecture Foundation's riverboat cruise, departing from the Michigan Avenue bridge on the main branch of the Chicago River, is the single best introduction to the city's architectural history. The 90-minute tour passes approximately 50 buildings visible from the river — including many mid-century modernist towers not easily appreciated from street level — with professional architectural commentary.

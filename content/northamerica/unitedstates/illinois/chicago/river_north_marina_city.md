@@ -1,12 +1,13 @@
 ---
-title: Marina City Towers
-type: poi
+latitude: 41.8858
+longitude: -87.6281
+score: 8.0
 tags:
 - things_to_do
 - sight
 - river_north
-latitude: 41.8858
-longitude: -87.6281
+title: Marina City Towers
+type: poi
 ---
 
 Two corncob-shaped concrete towers on the Chicago River, completed in 1967 by Bertrand Goldberg, are one of the most recognized architectural images in Chicago — the album cover for the Wilco record Yankee Hotel Foxtrot and the image of the city in thousands of photographs since. The towers are mixed-use from bottom to top: parking wrapped around the base, offices and retail at the bottom, condominiums from mid-tower to the top.

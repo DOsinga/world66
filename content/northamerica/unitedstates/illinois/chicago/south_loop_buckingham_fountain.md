@@ -1,12 +1,13 @@
 ---
-title: Buckingham Fountain
-type: poi
+latitude: 41.8758
+longitude: -87.6189
+score: 8.5
 tags:
 - things_to_do
 - sight
 - south_loop
-latitude: 41.8758
-longitude: -87.6189
+title: Buckingham Fountain
+type: poi
 ---
 
 The most recognisable fountain in Chicago and one of the largest in the world, Buckingham Fountain in Grant Park was donated to the city by Kate Buckingham in 1927 and designed in the style of Versailles's Latona Fountain but four times the size. The fountain operates from mid-April through mid-October, with a nightly light-and-water show at 9 pm adding color and music to the display.

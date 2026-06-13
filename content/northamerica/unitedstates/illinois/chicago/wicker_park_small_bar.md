@@ -1,12 +1,13 @@
 ---
-title: The Small Bar
-type: poi
+latitude: 41.9073
+longitude: -87.6772
+score: 5.5
 tags:
 - things_to_do
 - bars_and_cafes
 - wicker_park
-latitude: 41.9073
-longitude: -87.6772
+title: The Small Bar
+type: poi
 ---
 
 A deliberately modest neighbourhood bar on Division Street in Wicker Park that has been a community institution since 2008, known for an excellent selection of draft craft beers, a functioning jukebox, and a no-bullshit atmosphere that has remained consistent through the considerable changes to the surrounding neighbourhood. The kind of bar that becomes a default rather than a destination — worth knowing about if you are staying in the area.

@@ -1,12 +1,13 @@
 ---
-title: Old Town Neighborhood Walk
-type: poi
+latitude: 41.911
+longitude: -87.6358
+score: 6.5
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 41.9110
-longitude: -87.6358
+title: Old Town Neighborhood Walk
+type: poi
 ---
 
 Old Town occupies a small area just north of downtown, bounded by Division Street to the south and Armitage to the north. It has been continuously popular since the 1960s when the Second City comedy club established its current address here, and has retained more of its 19th-century residential architecture than most comparable Chicago neighbourhoods.

@@ -1,12 +1,13 @@
 ---
-title: Obama Presidential Center (site)
-type: poi
 latitude: 41.7908
 longitude: -87.6073
+score: 7.5
 tags:
 - things_to_do
 - sight
 - hyde_park
+title: Obama Presidential Center (site)
+type: poi
 ---
 
 The future site of the Obama Presidential Center, currently under construction in Jackson Park at the southern edge of Hyde Park, scheduled to open in 2025. The complex will include the presidential library, a museum, a public garden, and community facilities designed by Tod Williams Billie Tsien Architects. The surrounding Jackson Park was designed by Frederick Law Olmsted for the 1893 World's Columbian Exposition and has significant historical and landscape value.

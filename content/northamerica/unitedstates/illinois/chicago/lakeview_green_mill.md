@@ -1,12 +1,13 @@
 ---
-title: Green Mill Cocktail Lounge
-type: poi
+latitude: 41.9659
+longitude: -87.6551
+score: 8.0
 tags:
 - things_to_do
 - bars_and_cafes
 - lakeview
-latitude: 41.9659
-longitude: -87.6551
+title: Green Mill Cocktail Lounge
+type: poi
 ---
 
 A jazz bar on Broadway in Uptown (the northern end of Lakeview) that has been open since 1907 and is the longest-continuously-operating cocktail lounge in Chicago. The Green Mill has some claim to being the most historically significant jazz venue in the Midwest: Al Capone had a booth in the back room from which he could watch both entrances, and the lounge's tunnel to the street was used during Prohibition.

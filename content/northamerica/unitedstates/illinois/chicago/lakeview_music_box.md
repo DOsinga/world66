@@ -1,12 +1,13 @@
 ---
-title: Music Box Theatre
-type: poi
+latitude: 41.9385
+longitude: -87.6587
+score: 7.5
 tags:
 - things_to_do
 - entertainment
 - lakeview
-latitude: 41.9385
-longitude: -87.6587
+title: Music Box Theatre
+type: poi
 ---
 
 An independent cinema from 1929 that has survived as one of Chicago's finest movie houses, the Music Box shows arthouse, foreign, and independent films alongside classic revivals. The interior is the main attraction: twinkling fiber-optic stars on the ceiling, painted clouds, Moorish architectural details, and original organ pipes that are played live before special screenings.

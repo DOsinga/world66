@@ -1,12 +1,13 @@
 ---
-title: Wrigley Field
-type: poi
+latitude: 41.9484
+longitude: -87.6553
+score: 9.5
 tags:
 - things_to_do
 - sight
 - lakeview
-latitude: 41.9484
-longitude: -87.6553
+title: Wrigley Field
+type: poi
 ---
 
 The second-oldest Major League Baseball park still in use, Wrigley Field opened in 1914 and is the home of the Chicago Cubs. The park is a civic landmark independent of any interest in baseball — its ivy-covered outfield walls, manually operated scoreboard, and brick exterior are widely photographed, and the neighbourhood built up around it (Wrigleyville) is one of Chicago's most distinctive.

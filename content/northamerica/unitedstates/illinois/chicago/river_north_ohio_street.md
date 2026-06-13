@@ -1,12 +1,13 @@
 ---
-title: Ohio Street Corridor
-type: poi
+latitude: 41.892
+longitude: -87.6311
+score: 6.0
 tags:
 - things_to_do
 - shopping
 - river_north
-latitude: 41.8920
-longitude: -87.6311
+title: Ohio Street Corridor
+type: poi
 ---
 
 The Ohio and Ontario Street corridor in River North holds a concentration of design showrooms, furniture stores, and interior design businesses that serves Chicago's interior design industry — a sector of the economy that is concentrated in the neighbourhood given its proximity to the Merchandise Mart, the world's largest commercial building and wholesale design center, across the river.

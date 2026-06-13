@@ -1,12 +1,13 @@
 ---
-title: Burton Place and Residential Streets
-type: poi
+latitude: 41.9106
+longitude: -87.6367
+score: 5.5
 tags:
 - things_to_do
 - sight
 - old_town
-latitude: 41.9106
-longitude: -87.6367
+title: Burton Place and Residential Streets
+type: poi
 ---
 
 The residential streets of Old Town between North Avenue and Armitage contain some of Chicago's most intact 19th-century urban fabric: three-flats, workers' cottages, and small commercial buildings from the 1870s to 1900s, many rebuilt after the Great Chicago Fire of 1871. Menomonee, Eugenie, and Schiller Streets are particularly good for the concentration of surviving frame and brick domestic architecture.

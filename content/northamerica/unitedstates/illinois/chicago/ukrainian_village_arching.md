@@ -1,12 +1,13 @@
 ---
-title: Ukrainian Village Architecture Walk
-type: poi
+latitude: 41.8987
+longitude: -87.6733
+score: 7.0
 tags:
 - things_to_do
 - sight
 - ukrainian_village
-latitude: 41.8987
-longitude: -87.6733
+title: Ukrainian Village Architecture Walk
+type: poi
 ---
 
 Ukrainian Village has some of the most intact late 19th and early 20th-century residential streetscapes on Chicago's North Side — workers' cottages, two-flats, and three-flats built from the 1880s through the 1920s for the neighbourhood's Eastern European immigrant working class, largely unaltered by later development.

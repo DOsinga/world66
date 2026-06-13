@@ -4,13 +4,14 @@ category: Cafe
 latitude: 45.469
 longitude: 9.1975
 opening_hours: Mon–Sat 08:00–20:00; Sun 10:00–19:00
+score: 6.4
 snippet: Historic 1817 patisserie on Milan's premier fashion street
 tags:
 - eating_out
 - cafe
+- quadrilatero
 title: Pasticceria Cova
 type: poi
-score: 6.4
 ---
 
 A historic patisserie and tearoom founded in 1817 on Via Monte Napoleone, Milan's most famous fashion street. Famous for its millefoglie, panettone, and some of the best espresso in the city. The interior — marble counters, mirrored walls, and immaculate service — has changed little since the 19th century.

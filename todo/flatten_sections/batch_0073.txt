@@ -1,5 +1,0 @@
-europe/italy
-europe/norway/ndalsnes
-europe/serbia/nis
-europe/unitedkingdom/scotland/cullen
-europe/unitedkingdom/wales

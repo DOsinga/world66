@@ -1,5 +1,5 @@
-europe/croatia/zagreb
-europe/france/midi/southern_alps/annot
-europe/italy/tuscany/massa
-europe/italy/umbria/magione
-europe/montenegro/sveti_stefan
+europe/sweden/uppsala
+europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham
+europe/unitedkingdom/england/south_east/canterbury
+northamerica/canada/britishcolumbia/sidney
+northamerica/mexico/tulum

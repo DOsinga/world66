@@ -1,5 +1,5 @@
-australiaandpacific/australia/queensland/clontarf
-australiaandpacific/australia/southaustralia/mount_gambier
-australiaandpacific/marshallislands/kwajaleinatoll
-australiaandpacific/solomonislands/malaita
-europe/croatia/rabisland
+europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi
+europe/lithuania/vilnius
+europe/unitedkingdom/northernireland/cookstown
+northamerica/mexico/banamichi
+northamerica/unitedstates/california/centralvalley/reedley

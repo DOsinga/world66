@@ -1,5 +1,5 @@
-europe/germany/bavaria/romanticroad/donauwrth
-europe/germany/bavaria/romanticroad/peiting
-europe/germany/northrhinewestphalia/altena
-europe/greece/eleusis
-europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi
+northamerica/unitedstates/california/sanfrancisco
+northamerica/unitedstates/california/shastacascade/oroville
+northamerica/unitedstates/maine/eastport
+northamerica/unitedstates/massachusetts/boston
+northamerica/unitedstates/pennsylvania/johnstown

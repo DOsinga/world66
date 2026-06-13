@@ -1,5 +1,5 @@
-europe/spain/andalucia/manilva
-europe/spain/catalonia/besal
-europe/spain/centralspain/salamanca
-europe/switzerland/lugano
-europe/ukraine/nikolaev
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield
+europe/unitedkingdom/northernireland/ballymena
+europe/unitedkingdom/scotland/crieff
+europe/unitedkingdom/scotland/jedburgh
+northamerica/costarica/potrero

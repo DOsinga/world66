@@ -1,5 +1,5 @@
-northamerica/unitedstates/newmexico/angelfire
-northamerica/unitedstates/northdakota/williston
-northamerica/unitedstates/ohio/kent
-southamerica/argentina/puertoiguazu
-africa/angola/soyo
+africa/centralafricanrepublic/berberati
+africa/centralafricanrepublic/m_baiki
+africa/egypt/heliopolis
+africa/egypt/safaga
+africa/morocco/tiznit

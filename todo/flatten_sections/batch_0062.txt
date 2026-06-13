@@ -1,5 +1,5 @@
-africa/morocco/tafraoute
-africa/mozambique/massingir
-asia/india/orissa/sambalpur
-asia/india/rajasthan/rajsamand
-asia/kuwait/ahmadi
+asia/yemen/baraqish
+australiaandpacific/australia/victoria/portland
+australiaandpacific/marshallislands/bikiniatoll
+europe/armenia/aragatsotn_marz/ashtarak
+europe/croatia/krkisland/punat

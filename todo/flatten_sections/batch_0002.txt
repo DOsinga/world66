@@ -1,5 +1,5 @@
-northamerica/unitedstates/washington/seattle
 europe/switzerland/vevey
 northamerica/unitedstates/connecticut/newhaven
 northamerica/unitedstates/florida/fortlauderdale
 northamerica/unitedstates/california/northcoast/healdsburg
+australiaandpacific/australia/westernaustralia/albany

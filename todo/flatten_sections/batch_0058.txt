@@ -1,5 +1,5 @@
-asia/indonesia/sumatra/bukitlawang
-asia/nepal/dhulikel
-asia/vietnam/hanoi
-europe/france/centre/loirevalley/ancenis
-europe/montenegro/kotor
+northamerica/panama/colon
+northamerica/thecaribbean/puertorico/sanjuan
+northamerica/unitedstates/maryland/baltimore
+northamerica/unitedstates/mississippi/oxford
+northamerica/unitedstates/oklahoma/ardmore

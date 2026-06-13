@@ -1,5 +1,5 @@
-asia/pakistan/azad_kashmir/bagh
-asia/pakistan/kamra
-asia/saudiarabia/jubail
-asia/srilanka/unawatuna
-asia/vietnam/cuchi
+australiaandpacific/australia/rockhampton
+australiaandpacific/australia/victoria/oakleigh
+europe/armenia/sevanavank
+europe/croatia/jelsa
+europe/france/alpes/sixt_fercheval

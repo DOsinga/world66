@@ -1,5 +1,5 @@
-northamerica/unitedstates/arizona/kayenta
-northamerica/unitedstates/colorado/idaho_springs
-northamerica/unitedstates/iowa/idagrove
-northamerica/unitedstates/newjersey/princeton
-northamerica/unitedstates/oklahoma/oklahomacity
+northamerica/mexico/yucatan/saltodeagua
+northamerica/unitedstates/idaho/sunvalley
+northamerica/unitedstates/southcarolina/hiltonheadisland
+northamerica/unitedstates/utah/sterling
+asia/india/karnataka/belgaum

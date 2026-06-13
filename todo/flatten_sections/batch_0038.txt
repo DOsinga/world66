@@ -1,5 +1,5 @@
-northamerica/unitedstates/newhampshire/durham
-northamerica/unitedstates/newyorkstate/troy
-northamerica/unitedstates/virginia/virginiabeach
-northamerica/unitedstates/wyoming/saratoga
-southamerica/brazil/bonito
+southamerica/ecuador/otavalo
+southamerica/ecuador/portoviejo
+africa/kenya/centralhighlands/isiolo
+africa/morocco/errachidia
+africa/rwanda/chyangugu

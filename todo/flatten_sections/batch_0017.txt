@@ -1,5 +1,5 @@
-europe/germany/badenwrttemberg/konstanz
-europe/germany/northrhinewestphalia/bochum
-europe/italy/emiliaromagna/bellaria
 europe/norway/spitsbergen/longyearbyen
 europe/portugal/figueiradafoz
+europe/spain/catalonia/lleida
+europe/sweden/helsingborg
+europe/sweden/kiruna

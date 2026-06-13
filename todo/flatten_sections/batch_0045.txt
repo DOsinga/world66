@@ -1,5 +1,5 @@
-europe/spain/andalucia/zufre
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract
-europe/unitedkingdom/england/newcastle_and_north_east/northumberland
-europe/unitedkingdom/scotland/arran/whiting_bay
-europe/unitedkingdom/scotland/callander
+northamerica/nicaragua/boaco
+northamerica/panama/portobelo
+northamerica/thecaribbean/guadeloupe/ladesirade
+northamerica/unitedstates/california/shastacascade/susanville
+northamerica/unitedstates/california/willows

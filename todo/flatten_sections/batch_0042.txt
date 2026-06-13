@@ -1,5 +1,5 @@
-australiaandpacific/americansamoa/alega
-australiaandpacific/australia/queensland/goldcoast/springbrook
-australiaandpacific/australia/rockhampton
-australiaandpacific/australia/victoria/oakleigh
-europe/armenia/sevanavank
+europe/france/centre/richelieu
+europe/france/east/alsace/ungersheim
+europe/greece/andros
+europe/ireland/clare/lough_derg
+europe/italy/abruzzo/santo_stefano_di_sessanio

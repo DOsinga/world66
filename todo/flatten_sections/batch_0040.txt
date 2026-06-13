@@ -1,5 +1,5 @@
-africa/morocco/errachidia
-africa/rwanda/chyangugu
-asia/india/andhrapradesh/hyderabad
-asia/kazakhstan/semipalatinsk
-asia/malaysia/cherating
+asia/saudiarabia/jubail
+asia/srilanka/unawatuna
+asia/vietnam/cuchi
+australiaandpacific/americansamoa/alega
+australiaandpacific/australia/queensland/goldcoast/springbrook

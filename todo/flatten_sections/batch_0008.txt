@@ -1,5 +1,5 @@
-europe/germany/badenwrttemberg/friedrichshafen
-europe/italy/lazio/viterbo
 europe/italy/lombardia/san_donato_milanese
 europe/romania/valcea
 europe/slovenia/portoroz
+europe/spain/ceuta
+europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury

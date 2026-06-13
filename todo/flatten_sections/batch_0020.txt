@@ -1,5 +1,5 @@
-northamerica/unitedstates/hawaii/lanai
-northamerica/unitedstates/illinois/collinsville
-northamerica/unitedstates/northcarolina/ocracokeisland
-northamerica/unitedstates/oregon/florence
 southamerica/colombia/barranquilla
+africa/ivorycoast/man
+asia/china/yunnanprovince/lijiang
+asia/india/goa/colva
+asia/india/tamilnadu/kanchipuram

@@ -1,5 +1,5 @@
-europe/sweden/uppsala
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham
-europe/unitedkingdom/england/south_east/canterbury
-northamerica/canada/britishcolumbia/sidney
-northamerica/mexico/tulum
+southamerica/argentina/larioja
+africa/angola/massoulo
+europe/azerbaijan/naxcivan/ordubad
+europe/spain/canaryislands/grancanaria/las_palmas
+northamerica/mexico/ixtapazihuatanejo

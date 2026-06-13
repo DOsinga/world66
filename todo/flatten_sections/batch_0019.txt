@@ -1,5 +1,5 @@
-northamerica/costarica
-northamerica/mexico/sanblas
-northamerica/unitedstates/california/centralcoast/monterey
-northamerica/unitedstates/florida/tequesta
 northamerica/unitedstates/georgia/augusta
+northamerica/unitedstates/hawaii/lanai
+northamerica/unitedstates/illinois/collinsville
+northamerica/unitedstates/northcarolina/ocracokeisland
+northamerica/unitedstates/oregon/florence

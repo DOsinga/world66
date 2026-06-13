@@ -1,5 +1,5 @@
-northamerica/mexico/islamujeres
-northamerica/unitedstates/california/highsierra/bridgeport
-northamerica/unitedstates/california/olympic_valley
-northamerica/unitedstates/georgia/valdosta
-northamerica/unitedstates/missouri/springfield
+northamerica/unitedstates/newmexico/angelfire
+northamerica/unitedstates/northdakota/williston
+northamerica/unitedstates/ohio/kent
+southamerica/argentina/puertoiguazu
+africa/angola/soyo

@@ -1,5 +1,5 @@
-europe/ukraine/donetsk
 europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford
 africa/algeria/tiziouzou
 asia/india/maharashtra/aurangabad
-europe/azerbaijan/naxcivan
+europe/germany/badenwrttemberg/friedrichshafen
+europe/italy/lazio/viterbo

@@ -1,5 +1,5 @@
-europe/france/east/burgundy/beaune
 europe/russia/novosibirsk
 northamerica/unitedstates/newjersey/toms_river
 europe/bulgaria/blagoevgrad
 europe/italy/campania/ischia/forio
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate

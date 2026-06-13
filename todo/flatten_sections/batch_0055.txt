@@ -1,5 +1,5 @@
-europe/lithuania/vilnius
-europe/unitedkingdom/northernireland/cookstown
-northamerica/mexico/banamichi
-northamerica/unitedstates/california/centralvalley/reedley
-northamerica/unitedstates/california/sanfrancisco
+northamerica/unitedstates/wyoming/star_valley_afton
+southamerica/colombia/buga
+southamerica/colombia/gorgona
+southamerica/venezuela/paraguan_peninsu
+africa/angola/saurimo

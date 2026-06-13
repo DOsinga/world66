@@ -1,5 +1,5 @@
-australiaandpacific/australia/newsouthwales/the_tweed
-australiaandpacific/australia/tasmania/northwest/devonport_tasmania
-europe/croatia/trogir
 europe/france/alpes/stetienne
 europe/france/aquitaine/montdemarsan
+europe/germany/badenwrttemberg/konstanz
+europe/germany/northrhinewestphalia/bochum
+europe/italy/emiliaromagna/bellaria

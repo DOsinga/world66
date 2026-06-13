@@ -1,5 +1,5 @@
-southamerica/brazil/florianopolis
-southamerica/ecuador/cuenca
-southamerica/ecuador/otavalo
-southamerica/ecuador/portoviejo
-africa/kenya/centralhighlands/isiolo
+asia/india/andhrapradesh/hyderabad
+asia/kazakhstan/semipalatinsk
+asia/malaysia/cherating
+asia/pakistan/azad_kashmir/bagh
+asia/pakistan/kamra

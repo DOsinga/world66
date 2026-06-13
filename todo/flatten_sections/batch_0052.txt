@@ -1,5 +1,5 @@
-asia/jordan/amman
-asia/malaysia/cameronhighlands
-asia/pakistan/gilgit
-asia/philippines/corregidor
-asia/philippines/iba
+europe/croatia/rabisland
+europe/germany/bavaria/romanticroad/donauwrth
+europe/germany/bavaria/romanticroad/peiting
+europe/germany/northrhinewestphalia/altena
+europe/greece/eleusis

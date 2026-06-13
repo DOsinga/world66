@@ -1,5 +1,5 @@
-asia/philippines/vigan
-asia/turkey/ayvalik
-asia/turkmenistan/ashgabat
-europe/albania/gjirokaster
-europe/belgium/wervik
+europe/france/midi/cotedazur/cagne
+europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres
+europe/germany/bavaria/rothenburg
+europe/germany/mecklenburgwesternpomerania/warnemunde
+europe/germany/thuringia/oberhof

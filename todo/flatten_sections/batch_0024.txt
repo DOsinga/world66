@@ -1,5 +1,5 @@
-europe/romania/baiamare
-europe/russia/ural/south_ural/chelyabinsk
-europe/spain/galicia/o_ribeiro
-europe/switzerland/champery
-europe/unitedkingdom/wales/aberystwyth
+northamerica/mexico/islamujeres
+northamerica/unitedstates/california/highsierra/bridgeport
+northamerica/unitedstates/california/olympic_valley
+northamerica/unitedstates/georgia/valdosta
+northamerica/unitedstates/missouri/springfield

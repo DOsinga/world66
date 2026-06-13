@@ -1,5 +1,5 @@
-northamerica/panama/panamacity
-northamerica/thecaribbean/barbados/christchurch
 northamerica/unitedstates/florida/winterhaven
 northamerica/unitedstates/newhampshire/hanover
 northamerica/unitedstates/newyorkstate/hudson
+northamerica/unitedstates/southcarolina/greenville
+northamerica/unitedstates/vermont/manchester

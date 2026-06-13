@@ -1,5 +1,5 @@
-asia/kyrgyzstan/karakol
-asia/pakistan/multan
-asia/philippines/southern_leyte/maasin_city
-asia/qatar/zubara
-asia/thailand/surat_thani
+europe/croatia/zagreb
+europe/france/midi/southern_alps/annot
+europe/italy/tuscany/massa
+europe/italy/umbria/magione
+europe/montenegro/sveti_stefan

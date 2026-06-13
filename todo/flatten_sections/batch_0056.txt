@@ -1,5 +1,5 @@
-northamerica/unitedstates/california/shastacascade/oroville
-northamerica/unitedstates/maine/eastport
-northamerica/unitedstates/massachusetts/boston
-northamerica/unitedstates/pennsylvania/johnstown
-northamerica/unitedstates/wyoming/star_valley_afton
+asia/india/uttarpradesh/lucknow
+asia/indonesia/sumatra/bukitlawang
+asia/nepal/dhulikel
+asia/vietnam/hanoi
+europe/france/centre/loirevalley/ancenis

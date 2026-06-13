@@ -1,5 +1,5 @@
-asia/indonesia/cirebon
-asia/indonesia/sulawesi/makassar
-asia/japan/honshu/tsukuba
-asia/japan/honshu/yokohama
-asia/philippines/tuguegaraocity
+asia/turkmenistan/ashgabat
+europe/albania/gjirokaster
+europe/belgium/wervik
+europe/croatia/samobor
+europe/france/east/champagne/hautvillers

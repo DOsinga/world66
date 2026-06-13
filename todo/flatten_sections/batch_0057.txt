@@ -1,5 +1,5 @@
-southamerica/colombia/buga
-southamerica/colombia/gorgona
-southamerica/venezuela/paraguan_peninsu
-africa/angola/saurimo
-asia/india/uttarpradesh/lucknow
+europe/montenegro/kotor
+europe/netherlands/friesland/holwerd
+europe/spain/galicia/muros
+europe/sweden/smaaland
+northamerica/canada/newfoundland/lanseauxmeadows

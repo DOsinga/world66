@@ -1,5 +1,5 @@
-northamerica/unitedstates/washington/okanogan
-southamerica/argentina/patagonia/calafate
-southamerica/brazil/angradosreis
-southamerica/chile/copiapo
-southamerica/colombia/tobia
+africa/madagascar/toamasina
+africa/tunisia/ghomrassen
+asia/india/andhrapradesh/vemulawada
+asia/india/karnataka/karwar_1
+asia/india/manipur/churachandpur

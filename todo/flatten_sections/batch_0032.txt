@@ -1,5 +1,5 @@
-europe/germany/mecklenburgwesternpomerania/warnemunde
-europe/germany/thuringia/oberhof
-europe/italy/liguria/italianriviera/rivieradellepalme/garlenda
-europe/italy/marche/ancona
-europe/latvia/daugavpils
+europe/norway/tvedestrand
+europe/romania/bran
+europe/spain/andalucia/arroyodelamiel
+europe/spain/andalucia/manilva
+europe/spain/catalonia/besal

@@ -1,5 +1,5 @@
-northamerica/bermuda/southampton
-northamerica/canada/alberta/coldlake
-northamerica/jamaica/oracabessa
-northamerica/nicaragua/boaco
-northamerica/panama/portobelo
+northamerica/unitedstates/florida/big_pine_key
+northamerica/unitedstates/kansas/nicodemus
+northamerica/unitedstates/louisiana/donaldsonville
+northamerica/unitedstates/nevada/gerlach
+northamerica/unitedstates/oklahoma/ada

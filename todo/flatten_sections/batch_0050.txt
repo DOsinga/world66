@@ -1,5 +1,5 @@
-southamerica/frenchguiana/devilsisland
-southamerica/peru/kuelap
-africa/congokinshasa/kananga
-africa/madagascar/toamasina
-africa/tunisia/ghomrassen
+asia/indonesia/nias/gununsitoli
+asia/japan/kunitachi_tokyo
+asia/jordan/amman
+asia/pakistan/gilgit
+asia/philippines/corregidor

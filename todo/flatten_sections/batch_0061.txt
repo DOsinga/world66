@@ -1,5 +1,5 @@
-southamerica/peru/laketiticacaarea
-southamerica/peru/tingo
-africa/burkinafaso/tibl
-africa/libya/ghadhames
-africa/malawi/chintheche
+asia/kyrgyzstan/karakol
+asia/pakistan/multan
+asia/philippines/southern_leyte/maasin_city
+asia/qatar/zubara
+asia/thailand/surat_thani

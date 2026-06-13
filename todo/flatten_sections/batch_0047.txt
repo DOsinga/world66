@@ -1,5 +1,5 @@
-northamerica/thecaribbean/guadeloupe/ladesirade
-northamerica/unitedstates/california/shastacascade/susanville
-northamerica/unitedstates/california/willows
-northamerica/unitedstates/florida/big_pine_key
-northamerica/unitedstates/kansas/nicodemus
+northamerica/unitedstates/pennsylvania/carlisle
+northamerica/unitedstates/washington/cathlamet
+northamerica/unitedstates/washington/okanogan
+southamerica/argentina/patagonia/calafate
+southamerica/brazil/angradosreis

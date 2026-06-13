@@ -1,5 +1,5 @@
-europe/ukraine/poltava
-europe/unitedkingdom/england/eastern_england/luton
-europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield
-europe/unitedkingdom/northernireland/ballymena
-europe/unitedkingdom/scotland/crieff
+northamerica/costarica/san_vito
+northamerica/panama/contadora
+northamerica/thecaribbean/puertorico/gurabo
+northamerica/thecaribbean/virginislands/stjohn
+northamerica/thecaribbean/virginislands/stthomas

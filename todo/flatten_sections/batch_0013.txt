@@ -1,5 +1,5 @@
-northamerica/unitedstates/southcarolina/greenville
-northamerica/unitedstates/vermont/manchester
 southamerica/brazil/juiz_de_fora
 africa/cameroon/limbe
 africa/gambia/bakau
+africa/mauritius/chamarel
+africa/morocco/dakhla

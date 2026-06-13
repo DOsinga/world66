@@ -1,5 +1,5 @@
-africa/djibouti/djibouticity
 africa/kenya/thecoast/southofmombasa
 europe/france/around_paris/meaux
 europe/spain/basque_country_euskadi/laguardia
 europe/spain/centralspain/cuenca
+europe/ukraine/donetsk

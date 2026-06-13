@@ -1,5 +1,5 @@
-southamerica/argentina/larioja
-africa/angola/massoulo
-europe/azerbaijan/naxcivan/ordubad
-europe/croatia
-europe/france
+asia/india/manipur/khongjom
+asia/japan/kyushu/fukuoka_city
+asia/pakistan/mandi_bahauddin_1
+asia/pakistan/sialkot
+europe/norway/ndalsnes

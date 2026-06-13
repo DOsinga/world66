@@ -1,5 +1,5 @@
-africa/nigeria/zaria
-asia/china/liaoning/dalian
-asia/china/tibet/Shannan
-asia/india
-asia/indonesia/banten
+asia/japan/honshu/tsukuba
+asia/japan/honshu/yokohama
+asia/philippines/tuguegaraocity
+asia/philippines/vigan
+asia/turkey/ayvalik

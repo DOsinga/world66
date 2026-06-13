@@ -1,5 +1,5 @@
-europe/italy/tuscany/forte_dei_marmi
-europe/italy/tuscany/viareggio
 northamerica/jamaica/negril
 northamerica/jamaica/ochorios
 northamerica/panama/balboa
+northamerica/panama/panamacity
+northamerica/thecaribbean/barbados/christchurch

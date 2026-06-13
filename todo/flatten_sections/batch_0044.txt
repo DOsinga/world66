@@ -1,5 +1,5 @@
-europe/ireland/clare/lough_derg
-europe/italy/abruzzo/santo_stefano_di_sessanio
-europe/romania/hunedoara
-europe/romania/transylvania/maramures_land
-europe/russia/staraya_ladoga
+europe/unitedkingdom/scotland/arran/whiting_bay
+europe/unitedkingdom/scotland/callander
+northamerica/bermuda/southampton
+northamerica/canada/alberta/coldlake
+northamerica/jamaica/oracabessa

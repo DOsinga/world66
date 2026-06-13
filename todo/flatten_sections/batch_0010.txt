@@ -1,5 +1,5 @@
-northamerica/unitedstates/illinois/urbanachampaign
-northamerica/unitedstates/northcarolina/chapelhill
 africa/angola/catumbela
 europe/france/east/burgundy/maillylechateau
 europe/greece/skiathos
+europe/italy/tuscany/forte_dei_marmi
+europe/italy/tuscany/viareggio

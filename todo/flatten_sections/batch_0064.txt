@@ -1,5 +1,5 @@
-asia/yemen/baraqish
-australiaandpacific/australia/victoria/portland
-australiaandpacific/marshallislands/bikiniatoll
-europe/armenia/aragatsotn_marz/ashtarak
-europe/croatia/krkisland/punat
+europe/netherlands/amsterdam
+europe/netherlands/waddenislands/texel_island/oudeschild
+europe/romania/curtea_de_arges
+europe/romania/sapinta
+europe/spain/andalucia/gaucin

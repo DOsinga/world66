@@ -1,5 +1,5 @@
-europe/croatia/jelsa
-europe/france/alpes/sixt_fercheval
-europe/france/centre/richelieu
-europe/france/east/alsace/ungersheim
-europe/greece/andros
+europe/romania/hunedoara
+europe/romania/transylvania/maramures_land
+europe/russia/staraya_ladoga
+europe/spain/andalucia/zufre
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract

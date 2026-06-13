@@ -1,5 +1,5 @@
-europe/lithuania/panevezys
-europe/netherlands/almelo
-europe/norway/tvedestrand
-europe/romania/bran
-europe/spain/andalucia/arroyodelamiel
+europe/spain/centralspain/salamanca
+europe/switzerland/lugano
+europe/ukraine/nikolaev
+europe/ukraine/poltava
+europe/unitedkingdom/england/eastern_england/luton

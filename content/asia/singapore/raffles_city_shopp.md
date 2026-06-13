@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 1.2937
 longitude: 103.8526
+score: 4.7
 snippet: Major mall above City Hall MRT with dining and retail
 tags:
 - things_to_do
 - shopping
+- bugis
 title: Raffles City Shopping Centre
 type: poi
-score: 4.7
 ---
 
 A large shopping complex directly above City Hall MRT station, making it one of the most accessible malls in the city. The building connects to several major landmarks -- Raffles Hotel is next door, and the Esplanade theatres are a short walk via the CityLink underground passage.

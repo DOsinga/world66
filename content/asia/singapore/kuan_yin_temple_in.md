@@ -1,14 +1,15 @@
 ---
 latitude: 1.299
 longitude: 103.8519
+score: 7.6
 snippet: Singapore's most popular Chinese temple since 1884
 tags:
 - things_to_do
 - sight
 - sights
+- bugis
 title: Kuan Yin Temple
 type: poi
-score: 7.6
 ---
 
 The Kuan Yin Temple on Waterloo Street is Singapore's most popular Chinese temple, dedicated to the Goddess of Mercy. Built in 1884, it draws steady streams of worshippers throughout the year, with many coming from Malaysia, Thailand, and China.

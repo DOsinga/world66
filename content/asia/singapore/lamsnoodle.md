@@ -2,12 +2,13 @@
 address: 399 River Valley Road
 latitude: 1.295348
 longitude: 103.830221
+score: 4.9
 snippet: Casual noodle cafe in River Valley serving Hong Kong-style dishes
 tags:
 - bars_and_cafes
+- orchard_road
 title: Lam's Noodle
 type: poi
-score: 4.9
 ---
 
 A neighbourhood noodle shop on River Valley Road serving Hong Kong-style wonton noodles, congee, and baked goods. The kind of place that fills up at breakfast and lunch with regulars who have been coming for years. Order the wonton noodle soup and a milk tea.

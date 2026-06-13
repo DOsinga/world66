@@ -3,14 +3,15 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 1.2494
 longitude: 103.8303
+score: 7.1
 snippet: Resort island south of Singapore with beaches, cable car, and attractions
 tags:
 - things_to_do
 - excursion
 - tours_and_excursions
+- sentosa
 title: Sentosa Island
 type: poi
-score: 7.1
 ---
 
 A small island just off Singapore's southern shore, connected to the mainland by a bridge, monorail, and cable car. Once a British military base, it has been developed into a resort destination with beaches, theme parks, and the massive Resorts World complex.

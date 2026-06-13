@@ -2,13 +2,14 @@
 address: 01-07 Fountain Court, CHIJMES, 30 Victoria Street
 latitude: 1.2937
 longitude: 103.8523
+score: 4.0
 snippet: Popular Top-40 disco at the CHIJMES complex
 tags:
 - nightlife
 - club
+- clarke_quay
 title: China Jump
 type: poi
-score: 4.0
 ---
 
 China Jump was one of Singapore's most popular nightclubs, located in the CHIJMES complex on Victoria Street. The venue played Top-40 music to a young crowd and was known for long queues on weekend nights. Doors typically opened around 10pm.

@@ -3,13 +3,14 @@ address: 42 Waterloo Street
 latitude: 1.298427
 longitude: 103.850822
 phone: '62388682'
+score: 4.8
 snippet: Courtyard cocktail bar in an old villa near Bras Basah
 tags:
 - bars_and_cafes
 - bar
+- bugis
 title: Le Pont de Vie
 type: poi
-score: 4.8
 ---
 
 Le Pont de Vie is a cocktail bar set in the garden courtyard of an old villa, attached to the French restaurant of the same name at 42 Waterloo Street. Most people come for the cocktails — classics done well, with some less familiar options — and the unusually relaxed atmosphere of drinking outside under the stars in the middle of the city.

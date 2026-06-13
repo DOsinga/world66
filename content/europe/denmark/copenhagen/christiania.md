@@ -8,6 +8,10 @@ tags:
 - things_to_do
 title: Christiania
 type: neighbourhood
+image: christiania.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Freetown_Christiania_-_main_entrance.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Franklin Heijnen
 ---
 
 A self-proclaimed "free state" on a former military base, Christiania has been home to a commune since 1971. The area is full of hand-built houses, workshops, music venues, and organic eateries. It remains one of Copenhagen's most distinctive and controversial neighbourhoods, with its future perpetually under political debate.

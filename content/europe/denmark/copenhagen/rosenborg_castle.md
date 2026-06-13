@@ -1,11 +1,19 @@
 ---
+latitude: 55.686
+longitude: 12.5773
+score: 9.1
+story: The crown jewels of Denmark have been kept at Rosenborg since 1775 — the only
+  time they left was in 1943 when a Danish civil servant hid them in a bank vault
+  to keep them from the German occupiers. The vault was hidden inside a false wall;
+  the Germans never found it. The jewels are on display in the basement, including
+  the sword of state and the ampullae of coronation oil.
+tags:
+- things_to_do
+- museum
+- sight
+- latin_quarter
 title: Rosenborg Castle
 type: poi
-tags: [things_to_do, museum, sight]
-latitude: 55.6860
-longitude: 12.5773
-story: "The crown jewels of Denmark have been kept at Rosenborg since 1775 — the only time they left was in 1943 when a Danish civil servant hid them in a bank vault to keep them from the German occupiers. The vault was hidden inside a false wall; the Germans never found it. The jewels are on display in the basement, including the sword of state and the ampullae of coronation oil."
-score: 9.1
 ---
 
 Rosenborg Castle is a Renaissance palace built by King Christian IV in the early 17th century, sitting in the middle of the King's Garden (Kongens Have) just north of the city centre. Christian IV used it as his summer residence and filled it with his personal collections; after his death the castle became a repository for the Danish crown's most prized possessions, and it still is.

@@ -1,11 +1,18 @@
 ---
-title: Kongens Nytorv
-type: poi
-tags: [things_to_do, sight]
 latitude: 55.6795
 longitude: 12.5863
-story: "The equestrian statue of Christian V in the centre of Kongens Nytorv was erected in 1688 and is made of lead covered in gilt — the original plan was for solid bronze, but the cost was prohibitive. During student initiation at the Royal Danish Academy of Fine Arts (whose building flanks the square), first-year students were traditionally required to dance naked around the statue. The tradition has been discontinued."
 score: 6.9
+story: The equestrian statue of Christian V in the centre of Kongens Nytorv was erected
+  in 1688 and is made of lead covered in gilt — the original plan was for solid bronze,
+  but the cost was prohibitive. During student initiation at the Royal Danish Academy
+  of Fine Arts (whose building flanks the square), first-year students were traditionally
+  required to dance naked around the statue. The tradition has been discontinued.
+tags:
+- things_to_do
+- sight
+- harbourfront
+title: Kongens Nytorv
+type: poi
 ---
 
 Kongens Nytorv — The King's New Square — is Copenhagen's largest public square, at the eastern end of Strøget where it meets Nyhavn. It is a broad, handsome space dominated by the equestrian statue of Christian V and ringed by some of the most important buildings in the city: the Royal Danish Theatre, the Hotel d'Angleterre, the French Embassy, and the Academy of Fine Arts.

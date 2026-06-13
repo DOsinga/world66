@@ -1,10 +1,15 @@
 ---
+image: harbourfront.jpg
+image_attribution: Jorge Láscar from Melbourne, Australia
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Havnegade_21-27_from_Havnebussen_2014.jpg
+latitude: 55.676
+longitude: 12.587
+tags:
+- things_to_do
+- neighbourhood
 title: Copenhagen Harbourfront
-type: poi
-tags: [things_to_do, sight, neighbourhood]
-latitude: 55.6760
-longitude: 12.5870
-score: 7.0
+type: neighbourhood
 ---
 
 Copenhagen's inner harbour has been transformed over the past three decades from an industrial waterway into a swimming and cycling destination. The water is clean enough to swim in — remarkable for a major city — and several floating harbour baths (Havnebadet) are open in summer, including the popular Islands Brygge baths with their pools and diving platforms on the south harbour.

@@ -1,10 +1,15 @@
 ---
-title: Latin Quarter
-type: poi
-tags: [things_to_do, neighbourhood]
+image: latin_quarter.jpg
+image_attribution: RhinoMind
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Badstuerock.JPG
 latitude: 55.6808
 longitude: 12.5745
-score: 7.2
+tags:
+- things_to_do
+- neighbourhood
+title: Latin Quarter
+type: neighbourhood
 ---
 
 The Latin Quarter is the medieval heart of Copenhagen, the neighbourhood around the Round Tower and the old University buildings north of Strøget. It takes its name from the university students who historically studied and lived here — the lecture halls were conducted in Latin. The streets — Fiolstræde, Larslejsstræde, Studiestræde — are narrow and mostly pedestrianised, lined with independent bookshops, secondhand clothing stores, cafes, and small restaurants.

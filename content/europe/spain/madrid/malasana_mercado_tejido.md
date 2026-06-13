@@ -1,12 +1,13 @@
 ---
-title: Mercado del Tejido
-type: poi
+latitude: 40.4254
+longitude: -3.7047
+score: 6.5
 tags:
 - things_to_do
 - shopping
 - malasana
-latitude: 40.4254
-longitude: -3.7047
+title: Mercado del Tejido
+type: poi
 ---
 
 Malasaña's vintage market, held on weekends in and around the neighbourhood, is one of the best places in Madrid to shop for second-hand clothing, vinyl records, antique furniture, and handmade craft goods. The area around Calle del Espíritu Santo and Calle de la Palma concentrates independent vintage shops that are open through the week.

@@ -1,12 +1,13 @@
 ---
-title: Madrid Pride (Orgullo)
-type: poi
+latitude: 40.4224
+longitude: -3.6987
+score: 8.5
 tags:
 - things_to_do
 - entertainment
 - chueca
-latitude: 40.4224
-longitude: -3.6987
+title: Madrid Pride (Orgullo)
+type: poi
 ---
 
 Every July, Chueca becomes the centre of one of the largest Pride celebrations in the world. Madrid's Orgullo draws upwards of two million people to the neighbourhood over eight or nine days, with the main parade on the first Saturday of July running from Atocha through Chueca and back. The scale is extraordinary: streets closed for days, temporary stages throughout the neighbourhood, continuous outdoor partying.

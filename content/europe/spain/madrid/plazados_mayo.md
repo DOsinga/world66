@@ -1,13 +1,17 @@
 ---
-title: Plaza del Dos de Mayo
-type: poi
 latitude: 40.4271
 longitude: -3.7037
+score: 8.0
+story: The square commemorates the Dos de Mayo Uprising of 1808, when the people of
+  Madrid rose against Napoleon's occupation. The neighbourhood is named after Manuela
+  Malasaña, a 15-year-old seamstress executed by French troops that day for allegedly
+  carrying a concealed weapon — in fact a pair of scissors for her trade.
 tags:
 - things_to_do
 - landmark
 - malasana
-story: The square commemorates the Dos de Mayo Uprising of 1808, when the people of Madrid rose against Napoleon's occupation. The neighbourhood is named after Manuela Malasaña, a 15-year-old seamstress executed by French troops that day for allegedly carrying a concealed weapon — in fact a pair of scissors for her trade.
+title: Plaza del Dos de Mayo
+type: poi
 ---
 
 The social heart of Malasaña — a wide, tree-lined square with a monument to the 1808 uprising at its centre and café terraces around the edges. During the day it functions as a neighbourhood square; from late afternoon it becomes the meeting point for Malasaña's bohemian, alternative crowd.

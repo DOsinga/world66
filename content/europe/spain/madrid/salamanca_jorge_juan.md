@@ -1,12 +1,13 @@
 ---
-title: Calle de Jorge Juan (Restaurant Street)
-type: poi
+latitude: 40.4232
+longitude: -3.682
+score: 7.5
 tags:
 - things_to_do
 - restaurant
 - salamanca
-latitude: 40.4232
-longitude: -3.6820
+title: Calle de Jorge Juan (Restaurant Street)
+type: poi
 ---
 
 The main dining street of the Salamanca district, Calle de Jorge Juan concentrates some of the best-regarded restaurants in Madrid — not the most expensive or formally ambitious, but consistently high-quality cooking with the Salamanca clientele's preferences: excellent raw materials, Basque influences, strong wine lists.

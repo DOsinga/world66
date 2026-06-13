@@ -1,12 +1,13 @@
 ---
-title: El Tigre
-type: poi
+latitude: 40.4208
+longitude: -3.6992
+score: 7.0
 tags:
 - things_to_do
 - bars_and_cafes
 - chueca
-latitude: 40.4208
-longitude: -3.6992
+title: El Tigre
+type: poi
 ---
 
 A Chueca institution famous — or notorious — for the scale of the free tapas that arrive with every drink ordered. El Tigre's house deal: order a beer or wine, receive a plate of jamón, cheese, croquetas, or assorted fried food that could stand as a meal. The practice of giving free food with drinks is common in Madrid but El Tigre takes it further than any other establishment.

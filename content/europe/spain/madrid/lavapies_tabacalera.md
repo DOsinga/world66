@@ -1,12 +1,13 @@
 ---
-title: Tabacalera
-type: poi
+latitude: 40.4067
+longitude: -3.7018
+score: 7.5
 tags:
 - things_to_do
 - entertainment
 - lavapies
-latitude: 40.4067
-longitude: -3.7018
+title: Tabacalera
+type: poi
 ---
 
 A former tobacco factory and now one of Madrid's most creative alternative cultural spaces, Tabacalera occupies a large 18th-century industrial building on Calle Embajadores. Parts are managed as a self-organised arts centre where local collectives run workshops, exhibitions, performances, and parties; a section managed by the Culture Ministry holds formal exhibitions.

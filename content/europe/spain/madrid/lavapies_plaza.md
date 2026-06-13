@@ -1,12 +1,13 @@
 ---
-title: Plaza de Lavapiés
-type: poi
+latitude: 40.4082
+longitude: -3.7026
+score: 7.5
 tags:
 - things_to_do
 - sight
 - lavapies
-latitude: 40.4082
-longitude: -3.7026
+title: Plaza de Lavapiés
+type: poi
 ---
 
 The central square and social hub of Madrid's most ethnically diverse neighbourhood, Plaza de Lavapiés is surrounded by bars, grocery stalls selling international produce, and the constant movement of residents from Spain, South Asia, North Africa, sub-Saharan Africa, and China — a mix that makes it unlike anywhere else in central Madrid.

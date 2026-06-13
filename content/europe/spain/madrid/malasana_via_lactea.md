@@ -1,12 +1,13 @@
 ---
-title: La Vía Láctea
-type: poi
+latitude: 40.4258
+longitude: -3.7048
+score: 7.5
 tags:
 - things_to_do
 - bars_and_cafes
 - malasana
-latitude: 40.4258
-longitude: -3.7048
+title: La Vía Láctea
+type: poi
 ---
 
 The last surviving bar from the Movida madrileña — the post-Franco cultural explosion of the late 1970s — La Vía Láctea has been on Calle de Velarde since 1979 and has barely changed. The interior is a shrine to Movida culture: walls covered in concert posters, portraits of rock stars, and accumulated iconography from four decades of bohemian Madrid nightlife.

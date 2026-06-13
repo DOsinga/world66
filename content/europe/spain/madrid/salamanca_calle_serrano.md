@@ -1,12 +1,13 @@
 ---
-title: Calle Serrano (Shopping)
-type: poi
+latitude: 40.4271
+longitude: -3.6836
+score: 8.0
 tags:
 - things_to_do
 - shopping
 - salamanca
-latitude: 40.4271
-longitude: -3.6836
+title: Calle Serrano (Shopping)
+type: poi
 ---
 
 Madrid's luxury shopping street, running north from Retiro through the heart of the Salamanca district. Serrano is where Spain's old money buys clothes — flagship stores for international luxury brands (Louis Vuitton, Loewe, Cartier) alternate with established Spanish houses and upscale department stores, including the El Corte Inglés on Goya and the Agatha Ruiz de la Prada boutique further north.

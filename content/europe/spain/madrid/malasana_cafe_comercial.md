@@ -1,12 +1,13 @@
 ---
-title: Café Comercial
-type: poi
+latitude: 40.4271
+longitude: -3.7027
+score: 7.5
 tags:
 - things_to_do
 - restaurant
 - malasana
-latitude: 40.4271
-longitude: -3.7027
+title: Café Comercial
+type: poi
 ---
 
 One of Madrid's oldest and most beloved cafés, Café Comercial at Glorieta de Bilbao dates from 1887 and has been a gathering point for writers, bohemians, and ordinary madrileños ever since. The interior is the real thing — marble-topped tables, dark wood booths, mirrors on the walls, a high ceiling — and the clientele remains pleasantly mixed between students, old men reading newspapers, and tourists who know where to look.

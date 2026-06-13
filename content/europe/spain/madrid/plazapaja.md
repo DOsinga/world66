@@ -1,12 +1,13 @@
 ---
-title: Plaza de la Paja
-type: poi
 latitude: 40.4127
 longitude: -3.7121
+score: 7.5
 tags:
 - things_to_do
 - landmark
 - lalatina
+title: Plaza de la Paja
+type: poi
 ---
 
 The finest medieval square in Madrid — a sloping, irregularly shaped space that was the commercial and civic heart of the city before Habsburg construction shifted everything eastward. The square is ringed by some of the oldest buildings in the capital: the Chapel of the Bishop (Capilla del Obispo), the church of San Andrés, and the garden of the Prince of Anglona, all dating from the 15th and 16th centuries.

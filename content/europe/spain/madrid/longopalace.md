@@ -1,13 +1,14 @@
 ---
-title: Longoria Palace
-type: poi
 latitude: 40.4254
 longitude: -3.6948
+score: 7.5
 tags:
 - things_to_do
 - architecture
 - sight
 - chueca
+title: Longoria Palace
+type: poi
 ---
 
 A spectacular Modernista palace built in 1902 for financier Javier González Longoria, now serving as the headquarters of the Society of Authors and Publishers (SGAE). The building is one of the finest examples of Catalan Art Nouveau architecture in Madrid — its undulating iron facade, sinuous stone ornamentation, and green-tiled cupola look as if they arrived from Barcelona by mistake.

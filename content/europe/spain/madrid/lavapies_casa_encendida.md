@@ -1,12 +1,13 @@
 ---
-title: La Casa Encendida
-type: poi
+latitude: 40.4071
+longitude: -3.702
+score: 7.5
 tags:
 - things_to_do
 - museum
 - lavapies
-latitude: 40.4071
-longitude: -3.7020
+title: La Casa Encendida
+type: poi
 ---
 
 A contemporary arts centre housed in a beautifully restored 1920s building on the Ronda de Valencia, La Casa Encendida programmes exhibitions, cinema, music, and community projects with a deliberately progressive and socially engaged focus. It is a genuine cultural resource for Lavapiés rather than a touristic attraction, with many events free or low-priced.

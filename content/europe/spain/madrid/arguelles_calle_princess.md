@@ -1,12 +1,13 @@
 ---
-title: Calle de la Princesa
-type: poi
+latitude: 40.4263
+longitude: -3.7142
+score: 7.0
 tags:
 - things_to_do
 - shopping
 - arguelles
-latitude: 40.4263
-longitude: -3.7142
+title: Calle de la Princesa
+type: poi
 ---
 
 The main commercial street of Arguelles, running north from Plaza de España through the heart of the district. Calle de la Princesa has a different character from central Madrid's major shopping streets — less tourist-facing, more student and residential, with the presence of the Complutense University campus drawing a younger crowd.

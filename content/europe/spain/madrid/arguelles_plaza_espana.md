@@ -1,12 +1,13 @@
 ---
-title: Plaza de España
-type: poi
+latitude: 40.4237
+longitude: -3.7122
+score: 8.0
 tags:
 - things_to_do
 - sight
 - arguelles
-latitude: 40.4237
-longitude: -3.7122
+title: Plaza de España
+type: poi
 ---
 
 The large square at the western end of Gran Vía has been undergoing renovation for years and reopened in phases since 2021. The centrepiece is a 1927 monument to Cervantes with bronze figures of Don Quixote and Sancho Panza — familiar from the posters but worth seeing in person. The square is flanked by two of Madrid's original skyscrapers: the Torre de Madrid and the Edificio España, both from the 1950s.

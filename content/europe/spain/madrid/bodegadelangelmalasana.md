@@ -1,12 +1,13 @@
 ---
-title: Café Pepe Botella
-type: poi
 latitude: 40.4253
 longitude: -3.7062
+score: 6.5
 tags:
 - bars_and_cafes
 - eating_out
 - malasana
+title: Café Pepe Botella
+type: poi
 ---
 
 One of the classic Malasaña neighbourhood bars, on Calle San Andrés near Plaza del Dos de Mayo. Named after the bar that Madrileños long ago nicknamed after an infamous collaborator from the Napoleonic period, Pepe Botella has the high ceilings, zinc bar, and lived-in quality of a bar that has survived several decades of changing fashions.

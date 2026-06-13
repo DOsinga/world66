@@ -1,12 +1,13 @@
 ---
-title: Calle de Hortaleza (Dining Strip)
-type: poi
+latitude: 40.4219
+longitude: -3.6978
+score: 7.0
 tags:
 - things_to_do
 - restaurant
 - chueca
-latitude: 40.4219
-longitude: -3.6978
+title: Calle de Hortaleza (Dining Strip)
+type: poi
 ---
 
 The main restaurant street of Chueca runs from the Gran Vía end of the neighbourhood north toward Alonso Martínez, concentrating international restaurants, gay-friendly bars, and café-restaurants that fill for dinner until midnight. The middle section around Calle de Augusto Figueroa is the densest part.

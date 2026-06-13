@@ -1,12 +1,13 @@
 ---
-title: Alonso Martínez Square
-type: poi
+latitude: 40.4284
+longitude: -3.6968
+score: 7.0
 tags:
 - things_to_do
 - bars_and_cafes
 - chueca
-latitude: 40.4284
-longitude: -3.6968
+title: Alonso Martínez Square
+type: poi
 ---
 
 The large traffic square at the top of the Chueca district, Alonso Martínez functions as a meeting point for nightlife in three directions — Chueca to the south, Malasaña to the west, and the Justicia neighbourhood to the east. The terrace bars surrounding the square are among the busiest in the city on warm evenings.

@@ -1,12 +1,13 @@
 ---
-title: Centro Cultural Conde Duque
-type: poi
+latitude: 40.4265
+longitude: -3.7096
+score: 7.5
 tags:
 - things_to_do
 - entertainment
 - arguelles
-latitude: 40.4265
-longitude: -3.7096
+title: Centro Cultural Conde Duque
+type: poi
 ---
 
 A former military barracks from the early 18th century, converted into one of Madrid's larger cultural centres and spanning an enormous courtyard complex. The Conde Duque hosts concerts, theatre, exhibitions, and festivals throughout the year; it is one of the main venues for the Veranos de la Villa programme — the city's summer arts festival — and for the Suma Flamenca festival in June.

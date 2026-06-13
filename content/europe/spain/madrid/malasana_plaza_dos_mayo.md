@@ -1,12 +1,13 @@
 ---
-title: Plaza del Dos de Mayo
-type: poi
+latitude: 40.4267
+longitude: -3.7038
+score: 8.0
 tags:
 - things_to_do
 - sight
 - malasana
-latitude: 40.4267
-longitude: -3.7038
+title: Plaza del Dos de Mayo
+type: poi
 ---
 
 The central square of Malasaña and the neighbourhood's symbolic heart, named for the uprising of 2 May 1808 against Napoleon's occupying forces — the event that kicked off the Peninsular War and is commemorated in Goya's paintings at the Prado. A ruined arch and artillery pieces in the square mark the barracks that stood here at the time.

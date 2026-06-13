@@ -1,13 +1,14 @@
 ---
-title: Church of San Andrés
-type: poi
 latitude: 40.4122
 longitude: -3.7129
+score: 7.5
 tags:
 - things_to_do
 - sight
 - architecture
 - lalatina
+title: Church of San Andrés
+type: poi
 ---
 
 A 16th-century parish church on the Plaza de San Andrés, notable for its attached Chapel of San Isidro — Madrid's patron saint is buried in a separate crypt connected to the church. The chapel (added in the 17th century by Pedro de la Torre) has an exceptionally ornate Baroque cupola and houses the relics of the saint, which become the focus of the annual Fiestas de San Isidro each May.

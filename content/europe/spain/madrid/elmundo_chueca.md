@@ -1,13 +1,14 @@
 ---
-title: El Tigre
-type: poi
 latitude: 40.4208
 longitude: -3.6969
+score: 6.0
 tags:
 - bars_and_cafes
 - eating_out
 - bar
 - chueca
+title: El Tigre
+type: poi
 ---
 
 A legendary Chueca bar on Calle Infantas famous for the extraordinary generosity of its free tapas — order a beer or wine (around €3) and receive a plate of mixed tapas the size of a small meal: croquetas, mini-bocadillos, tortilla, patatas bravas, all piled up without ceremony. The quantity and variety of the free food is significantly better than most bars that charge for the same.

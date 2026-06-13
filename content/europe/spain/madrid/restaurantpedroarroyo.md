@@ -1,11 +1,12 @@
 ---
-title: Platea Madrid
-type: poi
 latitude: 40.4245
 longitude: -3.6887
+score: 7.0
 tags:
 - eating_out
 - salamanca
+title: Platea Madrid
+type: poi
 ---
 
 A converted cinema on Plaza de Colón that has been turned into one of Madrid's most spectacular food halls — a multi-storey space with a stage at the bottom, tiered balconies running around the former auditorium, and thirty-odd food and drink counters operated by some of Madrid's best-known chefs and restaurant groups. The setting is theatrical: you eat at high tables overlooking the main floor while performances occasionally happen on the stage below.

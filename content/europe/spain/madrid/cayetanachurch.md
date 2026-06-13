@@ -1,13 +1,14 @@
 ---
-title: San Cayetano Church
-type: poi
 latitude: 40.4094
 longitude: -3.7066
+score: 6.5
 tags:
 - things_to_do
 - sight
 - architecture
 - lavapies
+title: San Cayetano Church
+type: poi
 ---
 
 An 18th-century Churrigueresque church on Calle Embajadores with an extraordinarily ornate Baroque facade — the kind of extreme decorative stonework where every surface seems to sprout with figures, foliage, and architectural flourishes. Designed by José Benito de Churriguera and Pedro de Ribera, the facade is considered one of the finest examples of the Churrigueresque style in Madrid.

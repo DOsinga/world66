@@ -1,12 +1,13 @@
 ---
-title: Cine Doré (Filmoteca Española)
-type: poi
+latitude: 40.4117
+longitude: -3.7012
+score: 8.0
 tags:
 - things_to_do
 - entertainment
 - lavapies
-latitude: 40.4117
-longitude: -3.7012
+title: Cine Doré (Filmoteca Española)
+type: poi
 ---
 
 A modernista cinema building from 1922 that is now the home of the Filmoteca Española, the Spanish national film archive, showing classic and world cinema at prices well below commercial cinemas. The programme is eclectic and curated — retrospectives, country focuses, restored prints — and the cinema is one of the genuinely pleasurable cultural institutions in central Madrid.

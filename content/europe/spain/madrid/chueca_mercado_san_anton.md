@@ -1,12 +1,13 @@
 ---
-title: Mercado de San Antón
-type: poi
+latitude: 40.4229
+longitude: -3.6975
+score: 7.5
 tags:
 - things_to_do
 - shopping
 - chueca
-latitude: 40.4229
-longitude: -3.6975
+title: Mercado de San Antón
+type: poi
 ---
 
 A three-storey covered market on Calle Augusto Figueroa that was rebuilt in 2011 and is now one of the better gastronomic markets in central Madrid. The ground floor has traditional stalls — meat, fish, charcuterie, olives, cheese — that serve the neighbourhood. The upper floors have restaurants and food bars where you can eat at tables, including a rooftop terrace.

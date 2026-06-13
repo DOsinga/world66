@@ -1,12 +1,13 @@
 ---
-title: Fundación MAPFRE
-type: poi
+latitude: 40.4222
+longitude: -3.6875
+score: 7.5
 tags:
 - things_to_do
 - museum
 - salamanca
-latitude: 40.4222
-longitude: -3.6875
+title: Fundación MAPFRE
+type: poi
 ---
 
 A private foundation running high-quality art exhibitions in two spaces, the main one near the Retiro at Paseo de Recoletos 23. The exhibitions are large-scale, well-resourced, and typically focused on modern and contemporary photography and art — comparable in ambition to the major private foundations in other European capitals.

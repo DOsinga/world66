@@ -1,12 +1,13 @@
 ---
-title: Plaza de Colón
-type: poi
 latitude: 40.425
 longitude: -3.6889
+score: 7.0
 tags:
 - things_to_do
 - landmark
 - salamanca
+title: Plaza de Colón
+type: poi
 ---
 
 A large roundabout and cultural space at the northern end of the Paseo de Recoletos, marking the gateway between the Salamanca and Chueca neighbourhoods. The square is anchored by the Monument to Columbus (a tall Gothic column with Columbus at the top) and surrounded by the Torres de Colón — twin 1970s skyscrapers connected at the top by a distinctive horizontal bridge.

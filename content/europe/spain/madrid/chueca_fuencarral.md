@@ -1,12 +1,13 @@
 ---
-title: Calle de Fuencarral
-type: poi
+latitude: 40.4221
+longitude: -3.7003
+score: 7.5
 tags:
 - things_to_do
 - shopping
 - chueca
-latitude: 40.4221
-longitude: -3.7003
+title: Calle de Fuencarral
+type: poi
 ---
 
 The main shopping street of Chueca and Malasaña, running from Gran Vía north through both neighbourhoods. In the Chueca section it concentrates independent fashion boutiques, gay-friendly bars, and street-wear shops that give the street its character: neither chain-store uniform nor boutique-exclusive, but a workable mix that serves the neighbourhood's mixed demographics.

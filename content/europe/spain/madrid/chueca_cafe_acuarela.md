@@ -1,12 +1,13 @@
 ---
-title: Café Acuarela
-type: poi
+latitude: 40.4225
+longitude: -3.6994
+score: 6.5
 tags:
 - things_to_do
 - bars_and_cafes
 - chueca
-latitude: 40.4225
-longitude: -3.6994
+title: Café Acuarela
+type: poi
 ---
 
 A Chueca café institution since the 1990s, Café Acuarela on Calle de Gravina has the exuberant décor of a baroque antique shop — religious imagery, old paintings, elaborate chandeliers, theatrical candelabras — and operates as a gay-friendly café from mid-afternoon to the small hours. The atmosphere is camp, welcoming, and quite unlike anything else in central Madrid.

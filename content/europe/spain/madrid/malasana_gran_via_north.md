@@ -1,12 +1,13 @@
 ---
-title: Gran Vía (Northern End)
-type: poi
+latitude: 40.4233
+longitude: -3.7058
+score: 7.5
 tags:
 - things_to_do
 - sight
 - malasana
-latitude: 40.4233
-longitude: -3.7058
+title: Gran Vía (Northern End)
+type: poi
 ---
 
 The northern section of Gran Vía, from Callao to Glorieta de Bilbao, marks the southern boundary of Malasaña and shows a different face from the commercial circus further east. The theatres here — Teatro Lara, Teatro Apolo — have been running since the early 20th century and still put on productions of genuine quality. The building facades along this stretch include some of the best examples of early 20th-century Madrid commercial architecture, including the Telefónica building at number 28, built 1929 and for decades the tallest building in Spain.

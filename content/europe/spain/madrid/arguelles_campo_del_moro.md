@@ -1,12 +1,13 @@
 ---
-title: Campo del Moro
-type: poi
+latitude: 40.4181
+longitude: -3.7165
+score: 8.0
 tags:
 - things_to_do
 - sight
 - arguelles
-latitude: 40.4181
-longitude: -3.7165
+title: Campo del Moro
+type: poi
 ---
 
 The formal gardens immediately below the Palacio Real, laid out in the English landscape style in the 19th century and occupying the slope that descends from the palace to the Manzanares river. The name comes from the Almoravid army that camped here in 1109, though the gardens themselves date from successive royal redesigns in the 19th century.

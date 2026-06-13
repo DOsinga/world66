@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Phoenix Park Area
 type: neighbourhood
+image: phoenix_park_area.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Deer_by_papal_cross.jpg
+image_license: Public domain
+image_attribution: self
 ---
 
 Phoenix Park, on the northwest edge of the centre, is one of the largest enclosed urban parks in Europe, more than twice the size of London's Hyde Park combined with the city's other royal parks. Herds of fallow deer have roamed its grasslands since the seventeenth century, and visitors can often walk right up to them.

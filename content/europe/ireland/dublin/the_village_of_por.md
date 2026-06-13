@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Portmarnock
 type: neighbourhood
+image: the_village_of_por.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Portmarnock_beach.jpg
+image_license: CC BY 2.5
+image_attribution: Rorser at English Wikipedia
 ---
 
 Portmarnock sits on a peninsula north of Dublin, named after the fifth-century missionary St Marnock, who converted the local Celts to Christianity and blessed the Druid Well, which became the Holy Well. The ruins of his church are still visible in the graveyard off Strand Road.

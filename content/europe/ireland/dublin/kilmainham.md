@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Kilmainham
 type: neighbourhood
+image: kilmainham.jpg
+image_source: https://commons.wikimedia.org/wiki/File:RHKilmainhan.jpg
+image_license: CC BY-SA 2.0
+image_attribution: William Murphy
 ---
 
 Kilmainham, on the western approach to the city, is a quiet residential district that holds two of Dublin's most powerful sights. Kilmainham Gaol, a grim grey prison opened in 1796, is where leaders of the 1916 Easter Rising were executed, and its guided tour is among the most moving historical experiences in Ireland.

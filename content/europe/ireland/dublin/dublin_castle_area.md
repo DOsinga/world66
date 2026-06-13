@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Dublin Castle Area
 type: neighbourhood
+image: dublin_castle_area.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dublin_-_Dublin_Castle_-_20180925052318.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jowaria
 ---
 
 The ground around Dublin Castle is where the city began, on the ridge above the dark pool, the dubh linn, that gave Dublin its name. The castle itself was the seat of British rule in Ireland for seven centuries and now hosts state ceremonies; its State Apartments and the small but dazzling Chester Beatty Library of manuscripts and Islamic art are both well worth a visit.

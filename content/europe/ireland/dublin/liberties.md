@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: The Liberties
 type: neighbourhood
+image: liberties.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dublin_GuinnessBrewery_SaintJamesGate_220_IMG_20250804_2043.jpg
+image_license: CC0
+image_attribution: Karlunun
 ---
 
 The Liberties, just west of the medieval core, takes its name from the manorial liberties that once lay outside the city's jurisdiction. It has long been a proud, tight-knit working-class quarter, and its skyline is dominated by the brewery that made it famous.

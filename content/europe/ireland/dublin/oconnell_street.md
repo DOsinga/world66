@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: O'Connell Street
 type: neighbourhood
+image: oconnell_street.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Long_exposure_O%27Connell_Street_Dublin_looking_towards_the_Spire.jpg
+image_license: CC BY 2.0
+image_attribution: John Flanagan
 ---
 
 O'Connell Street is Dublin's great central thoroughfare, a broad boulevard running north from the Liffey, lined with monuments and pierced by the gleaming 120-metre stainless-steel Spire. At its heart stands the General Post Office, headquarters of the 1916 Easter Rising and still pocked with bullet marks, now home to a museum on the rebellion.

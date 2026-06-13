@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Georgian Dublin
 type: neighbourhood
+image: georgian_dublin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Flowers_In_Merrion_Square_Park_in_Dublin.jpg
+image_license: CC BY-SA 2.0
+image_attribution: William Murphy
 ---
 
 Georgian Dublin, spread around Merrion Square and Fitzwilliam Square on the southeast side of the centre, preserves the city's most graceful eighteenth-century streetscapes. Rows of red-brick townhouses with fanlight windows and brightly painted front doors line the squares, their private gardens now mostly opened as public parks.

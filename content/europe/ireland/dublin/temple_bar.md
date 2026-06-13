@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: Temple Bar
 type: neighbourhood
+image: temple_bar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2008-05-23_The_Temple_Bar,_Dublin,_Ireland.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Gordon Leggett
 ---
 
 Temple Bar is the warren of cobbled lanes on the south bank of the Liffey that the city markets as its cultural quarter. By day it is a pleasant tangle of galleries, vintage shops, and brunch spots; by night it fills with stag parties and the amplified roar of pub bands, and a pint here costs more than almost anywhere else in Ireland.

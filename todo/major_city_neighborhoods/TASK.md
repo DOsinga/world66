@@ -60,7 +60,7 @@ Key rules:
 
 ### 4. Tag existing POIs with the neighbourhood slug
 
-For every POI that sits geographically within a neighbourhood, add the neighbourhood's slug to its `tags` list. Also add `neighbourhood: Name` as a display field.
+For every POI that sits geographically within a neighbourhood, add the neighbourhood's slug to its `tags` list.
 
 ```yaml
 # Before
@@ -73,7 +73,6 @@ tags:
   - eating_out
   - south_bank
   - restaurant
-neighbourhood: South Bank
 ```
 
 Use the `wiki_geosearch` results and your knowledge of the city to assign POIs to neighbourhoods accurately. If a POI is clearly in a specific area, tag it — don't leave POIs unassigned.
@@ -106,7 +105,6 @@ One commit per city: `Neighbourhoods: City Name — N neighbourhoods, M POIs tag
 - [ ] Each neighbourhood POI has accurate coordinates
 - [ ] Each neighbourhood POI has only `things_to_do` and `neighbourhood` in tags
 - [ ] Each neighbourhood collects as many POIs as possible (target ~20) via its slug tag
-- [ ] Tagged POIs also have `neighbourhood: Name` display field set
 - [ ] City overview links to neighbourhood POI pages where neighbourhoods are named
 
 ## Reference implementations

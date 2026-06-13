@@ -7,14 +7,15 @@ done:
 latitude: 45.4396
 longitude: 9.2042
 opening_hours: Mon, Wed–Fri 10:00–19:00; Sat–Sun 10:00–21:00; closed Tue
+score: 8.9
 snippet: Koolhaas-designed contemporary art complex in a converted distillery
 tags:
 - things_to_do
 - museum
+- porta_romana
 title: Fondazione Prada
 type: poi
 url: www.fondazioneprada.org
-score: 8.9
 ---
 
 A contemporary art foundation in a converted 1910s distillery south of the city centre, opened in 2015. The complex includes multiple pavilions designed by Rem Koolhaas — including the gold-leafed "Haunted House" and a striking tower — housing a rotating programme of exhibitions and a permanent collection of modern and contemporary art.

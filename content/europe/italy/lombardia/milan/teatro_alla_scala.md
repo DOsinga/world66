@@ -5,14 +5,15 @@ done:
 latitude: 45.4674
 longitude: 9.1895
 opening_hours: 'Museum: daily 09:00–17:30; performances vary'
+score: 8.1
 snippet: World-famous opera house, home to Verdi and Puccini premieres
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
+- centro_storico
 title: Teatro alla Scala
 type: poi
 url: www.teatroallascala.org
-score: 8.1
 ---
 
 One of the world's most famous opera houses, opened in 1778 and home to legendary premieres by Verdi, Puccini, and others. The season traditionally opens on December 7 (Sant'Ambrogio day, Milan's patron saint) with a major performance. Getting tickets for headline operas requires booking months in advance through the official site.

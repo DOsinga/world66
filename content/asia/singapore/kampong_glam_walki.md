@@ -1,13 +1,14 @@
 ---
 latitude: 1.3027
 longitude: 103.8595
+score: 8.0
 snippet: Self-guided walk through Singapore's Malay-Arab heritage quarter
 tags:
 - things_to_do
 - tours_and_excursions
+- kampong_glam
 title: Kampong Glam Walking Tour
 type: poi
-score: 8.0
 ---
 
 Kampong Glam takes its name from the gelam tree, a eucalyptus relative that once grew thickly here. The village is long gone — shophouses from the colonial era line the streets now — but the neighbourhood remains the heart of Singapore's Malay and Arab community.

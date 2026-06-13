@@ -2,12 +2,13 @@
 address: 32A Pagoda Street(Chinatown)
 latitude: 1.283055
 longitude: 103.844957
+score: 4.9
 snippet: Open-air rooftop bar with 360-degree Chinatown skyline views
 tags:
 - bars_and_cafes
+- chinatown
 title: The Roof Bar Sundeck Terrace
 type: poi
-score: 4.9
 ---
 
 It's located at 32A Pagoda Street in Chinatown(Singapore).The place is open air. Open daily except Sundays. It's got the best 360 degree view of the chinatown and the city district skyline. It's even better when the lights come on at night.

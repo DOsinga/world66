@@ -1,12 +1,13 @@
 ---
 latitude: 1.3127
 longitude: 103.8524
+score: 7.5
 snippet: Hindu kavadi procession through Little India each January
 tags:
 - festivals
+- little_india
 title: Thaipusam
 type: poi
-score: 7.5
 ---
 
 Thaipusam is a Hindu festival celebrated in Singapore, Malaysia, southern India, and Sri Lanka. It commemorates the devotion of Idumban, a devotee of Lord Subramaniam, and the belief holds that anyone carrying a kavadi in fulfillment of a vow will have their wishes granted.

@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.175
 longitude: 121.4493
-neighbourhood: French Concession
 snippet: Shanghai's oldest temple, with a 10th-century pagoda — once visited as Longhua
   Cemetery
 story: The 40-metre Longhua Pagoda has stood here since 977 AD, making it one of the

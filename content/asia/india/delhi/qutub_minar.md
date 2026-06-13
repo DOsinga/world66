@@ -1,7 +1,6 @@
 ---
 latitude: 28.5244
 longitude: 77.1855
-neighbourhood: Mehrauli
 sources:
 - https://en.wikipedia.org/wiki/Qutb_Minar
 - https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi

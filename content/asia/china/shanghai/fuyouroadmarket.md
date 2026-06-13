@@ -2,7 +2,6 @@
 address: Fangbang Lu, near intersection with Henan Lu, Huangpu District
 latitude: 31.2274
 longitude: 121.49
-neighbourhood: Old Town
 snippet: Four-storey antiques market with flexible prices
 tags:
 - shopping

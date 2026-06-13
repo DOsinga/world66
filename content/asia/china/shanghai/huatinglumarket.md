@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.2153
 longitude: 121.4506
-neighbourhood: French Concession
 snippet: Bustling street market for cheap clothes and knock-off brands
 tags:
 - shopping

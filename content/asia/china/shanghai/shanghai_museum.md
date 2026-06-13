@@ -3,7 +3,6 @@ address: 201 People's Avenue, Huangpu District
 category: Museum
 latitude: 31.2297
 longitude: 121.4747
-neighbourhood: City Center (Renmin Square)
 opening_hours: 9 am – 5 pm, closed Mondays
 snippet: World-class bronzes and ceramics in a building shaped like a ding vessel
 tags:

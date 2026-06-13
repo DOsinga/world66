@@ -1,7 +1,6 @@
 ---
 latitude: 40.4199
 longitude: -3.6886
-neighbourhood: Retiro
 snippet: Neoclassical triumphal gate marking Madrid's historic eastern entrance
 tags:
 - things_to_do

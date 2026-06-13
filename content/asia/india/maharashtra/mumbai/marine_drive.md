@@ -1,7 +1,6 @@
 ---
 latitude: 18.9437
 longitude: 72.8236
-neighbourhood: Fort
 story: 'The Art Deco buildings that line Marine Drive were built in a rush in the
   1930s and 1940s, after a slum clearance exercise freed the land. The city commissioned
   designs in the international Art Deco style, resulting in a three-kilometre seafront

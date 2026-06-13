@@ -1,7 +1,6 @@
 ---
 latitude: 40.4078
 longitude: -3.7077
-neighbourhood: La Latina
 story: The market traces its origin to the 15th century, when this was the rastro
   — the trail of blood — left by carts hauling slaughtered animals down to the city
   tannery. The leather workshops are long gone, but the name and the chaotic Sunday

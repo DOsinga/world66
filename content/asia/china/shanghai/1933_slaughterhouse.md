@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2545
 longitude: 121.4938
-neighbourhood: Hongkou
 snippet: Escher-like 1933 abattoir, now a creative office and event space
 story: 'The British architect Balfours designed the building as a humane abattoir:
   the cattle were walked up gently sloping ramps to give the meat (and the animals)

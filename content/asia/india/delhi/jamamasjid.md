@@ -3,7 +3,6 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 28.650682
 longitude: 77.232961
-neighbourhood: Old Delhi
 snippet: India's largest mosque with tower views over Old Delhi
 tags:
 - things_to_do

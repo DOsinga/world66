@@ -1,7 +1,6 @@
 ---
 latitude: 40.415
 longitude: -3.7008
-neighbourhood: Huertas
 tags:
 - bars_and_cafes
 - eating_out

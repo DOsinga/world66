@@ -1,7 +1,6 @@
 ---
 latitude: 28.599514
 longitude: 77.225978
-neighbourhood: Lodhi Colony
 snippet: Upmarket shopping enclave popular with Delhi's diplomats
 tags:
 - shopping

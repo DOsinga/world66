@@ -2,7 +2,6 @@
 address: 1028 N Rush St, Chicago, IL 60611
 latitude: 41.9016
 longitude: -87.6281
-neighbourhood: Old Town
 phone: 312-266-8999
 snippet: Old-school Gold Coast steakhouse with enormous portions
 tags:

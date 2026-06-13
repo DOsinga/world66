@@ -2,7 +2,6 @@
 category: Cafe
 latitude: 31.215
 longitude: 121.4592
-neighbourhood: French Concession
 snippet: Local Shanghainese specialty-coffee chain — the city's third-wave coffee
   story in espresso form
 tags:

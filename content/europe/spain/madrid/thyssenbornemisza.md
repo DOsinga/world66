@@ -1,7 +1,6 @@
 ---
 latitude: 40.416
 longitude: -3.6949
-neighbourhood: Retiro
 story: The collection was assembled over two generations by the German-Hungarian Thyssen-Bornemisza
   barons. When in the 1990s the heirs offered to sell it abroad, the Spanish government
   — encouraged by Carmen Cervera, the Spanish wife of the late Baron — bought it outright

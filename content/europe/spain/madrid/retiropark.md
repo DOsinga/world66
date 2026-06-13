@@ -2,7 +2,6 @@
 address: Calle Ruiz de Alarcon 23
 latitude: 40.4153
 longitude: -3.6844
-neighbourhood: Retiro
 snippet: Madrid's grand park with rowboats and Crystal Palace
 tags:
 - things_to_do

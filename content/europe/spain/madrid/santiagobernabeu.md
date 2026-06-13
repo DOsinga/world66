@@ -1,7 +1,6 @@
 ---
 latitude: 40.453
 longitude: -3.6883
-neighbourhood: Chamberí
 tags:
 - things_to_do
 - sight

@@ -1,7 +1,6 @@
 ---
 latitude: 40.4361
 longitude: -3.6822
-neighbourhood: Salamanca
 tags:
 - things_to_do
 - salamanca

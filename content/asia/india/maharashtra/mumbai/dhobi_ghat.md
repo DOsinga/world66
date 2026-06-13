@@ -1,7 +1,6 @@
 ---
 latitude: 18.9637
 longitude: 72.8356
-neighbourhood: Lower Parel
 story: 'Dhobi Ghat was established in the early 19th century and has operated continuously
   ever since, making it the world''s largest outdoor laundry. The 731 washing pens
   are inherited and traded within families of washermen (dhobis), who collectively

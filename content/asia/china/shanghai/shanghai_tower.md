@@ -5,7 +5,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.2336
 longitude: 121.5055
-neighbourhood: Lujiazui
 snippet: China's tallest building with a twisting glass facade and 118th-floor views
 tags:
 - things_to_do

@@ -1,7 +1,6 @@
 ---
 latitude: 28.562718
 longitude: 77.224568
-neighbourhood: Hauz Khas Village
 snippet: South Delhi's pioneer mall in Khel Gaon Marg, with shops and restaurants
 tags:
 - things_to_do

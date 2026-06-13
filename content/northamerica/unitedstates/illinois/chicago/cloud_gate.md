@@ -2,7 +2,6 @@
 address: Millennium Park, 201 E Randolph St, Chicago, IL 60602
 latitude: 41.8826
 longitude: -87.6233
-neighbourhood: The Loop
 snippet: Anish Kapoor's mirror-polished bean sculpture at the heart of Millennium
   Park
 sources:

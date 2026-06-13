@@ -3,7 +3,6 @@ address: Outer Ring Rd.
 category: Sight
 latitude: 28.5535
 longitude: 77.2588
-neighbourhood: Hauz Khas Village
 snippet: Delhi's iconic lotus-shaped Bahai House of Worship, free and open to all
 tags:
 - things_to_do

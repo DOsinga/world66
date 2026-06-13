@@ -2,7 +2,6 @@
 title: "Bar Rouge"
 type: poi
 snippet: "Glamorous Bund rooftop bar facing the Pudong skyline"
-neighbourhood: "The Bund"
 address: "7th Floor, Bund 18, 18 Zhongshan East 1st Road"
 latitude: 31.2381
 longitude: 121.4906

@@ -1,7 +1,6 @@
 ---
 latitude: 28.6116
 longitude: 77.2196
-neighbourhood: South Extension and INA
 sources:
 - https://en.wikipedia.org/wiki/National_Museum,_New_Delhi
 story: The museum's collection includes the Dancing Girl, a 4,500-year-old bronze

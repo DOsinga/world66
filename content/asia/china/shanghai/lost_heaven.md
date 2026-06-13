@@ -3,7 +3,6 @@ address: 17 Yan'an East Road, Huangpu District (Bund branch)
 category: Restaurant
 latitude: 31.2401
 longitude: 121.4904
-neighbourhood: The Bund
 snippet: Atmospheric Yunnan restaurant with two Shanghai branches, including one off
   the Bund
 tags:

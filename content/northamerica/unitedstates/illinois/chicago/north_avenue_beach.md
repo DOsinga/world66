@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.9112
 longitude: -87.6264
-neighbourhood: Lincoln Park
 phone: 773-327-2706
 snippet: Chicago's most popular beach, with skyline views and summer volleyball
 tags:

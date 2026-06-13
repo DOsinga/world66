@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2347
 longitude: 121.4744
-neighbourhood: The Bund
 snippet: The busiest shopping street in China, running from the Bund to People's Square
 tags:
 - things_to_do

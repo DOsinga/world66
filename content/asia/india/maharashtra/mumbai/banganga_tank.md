@@ -1,7 +1,6 @@
 ---
 latitude: 18.9542
 longitude: 72.7972
-neighbourhood: Malabar Hill
 story: 'According to legend, the tank was created when Lord Rama''s arrow struck the
   ground and the waters of the Ganges sprang up — hence "Banganga" (arrow of the Ganga).
   The tank is believed to be one of the oldest surviving structures in Mumbai, predating

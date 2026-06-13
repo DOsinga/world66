@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2296
 longitude: 121.4744
-neighbourhood: City Center (Renmin Square)
 snippet: Central public square on the site of the old British race course
 story: From 1862 to 1949 this was the Shanghai Race Course — the second-largest racetrack
   in the British Empire. After the Communist takeover, the track was bulldozed, the

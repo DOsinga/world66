@@ -1,7 +1,6 @@
 ---
 latitude: 40.4216
 longitude: -3.6917
-neighbourhood: Retiro
 tags:
 - bars_and_cafes
 - eating_out

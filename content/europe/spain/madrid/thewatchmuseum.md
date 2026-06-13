@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 40.4199
 longitude: -3.696
-neighbourhood: Huertas
 snippet: Small collection of antique clocks and watches
 tags:
 - things_to_do

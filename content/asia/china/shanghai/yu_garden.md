@@ -3,7 +3,6 @@ address: 218 Anren Street, Huangpu District
 category: Sight
 latitude: 31.2272
 longitude: 121.4922
-neighbourhood: Old Town
 opening_hours: 8:30 am – 5 pm, daily
 snippet: Exquisite Ming dynasty garden hidden inside the Old Town
 tags:

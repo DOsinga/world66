@@ -3,7 +3,6 @@ address: 170 Anyuan Road, Putuo District
 category: Sight
 latitude: 31.2461
 longitude: 121.4438
-neighbourhood: Jing'an
 opening_hours: 8 am – 4:30 pm, daily
 snippet: Active monastery housing two exquisite Burmese jade Buddhas
 tags:

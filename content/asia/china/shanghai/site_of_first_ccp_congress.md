@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2208
 longitude: 121.476
-neighbourhood: Xintiandi
 snippet: Shikumen house where the Chinese Communist Party was founded in July 1921
 tags:
 - things_to_do

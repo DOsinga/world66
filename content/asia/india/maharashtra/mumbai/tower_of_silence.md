@@ -1,7 +1,6 @@
 ---
 latitude: 18.9554
 longitude: 72.8044
-neighbourhood: Malabar Hill
 tags:
 - things_to_do
 - sight

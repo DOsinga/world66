@@ -1,7 +1,6 @@
 ---
 latitude: 28.593286
 longitude: 77.250647
-neighbourhood: Nizamuddin
 snippet: Mughal garden tomb and prototype for the Taj Mahal
 tags:
 - things_to_do

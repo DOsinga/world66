@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2531
 longitude: 121.5039
-neighbourhood: Hongkou
 snippet: On the site of the Hongkew ghetto where 20,000 Jews escaped the Holocaust
 story: From 1938 to 1941, Shanghai was the only major port in the world that required
   no visa to enter — which made it a haven of last resort for some 20,000 Central

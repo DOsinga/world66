@@ -1,7 +1,6 @@
 ---
 latitude: 40.425
 longitude: -3.6877
-neighbourhood: Salamanca
 tags:
 - eating_out
 - salamanca

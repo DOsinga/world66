@@ -2,7 +2,6 @@
 address: Calle de la Princesa 20, Madrid
 latitude: 40.42728
 longitude: -3.7135
-neighbourhood: Malasaña
 phone: 91 54 75 302
 snippet: House of Alba's private palace with a remarkable art collection
 tags:

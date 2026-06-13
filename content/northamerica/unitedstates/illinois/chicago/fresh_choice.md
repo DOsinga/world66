@@ -2,7 +2,6 @@
 address: 1534 N Wells St, Chicago, IL 60610
 latitude: 41.9102
 longitude: -87.635
-neighbourhood: Lincoln Park
 phone: 312-664-7065
 snippet: Healthy made-to-order food in Old Town
 tags:

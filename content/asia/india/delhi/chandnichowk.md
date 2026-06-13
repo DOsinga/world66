@@ -1,7 +1,6 @@
 ---
 latitude: 28.655983
 longitude: 77.232194
-neighbourhood: Old Delhi
 snippet: Old Delhi's chaotic, sensory-overload Mughal-era bazaar
 tags:
 - things_to_do

@@ -2,7 +2,6 @@
 address: 1601 N Clark St, Chicago, IL 60614
 latitude: 41.912
 longitude: -87.6313
-neighbourhood: Lincoln Park
 opening_hours: Mon-Sat 9:30 AM - 4:30 PM, Sun 12:00 PM - 5:00 PM
 phone: 312-642-4600
 snippet: Chicago's official history museum in Lincoln Park, covering everything from

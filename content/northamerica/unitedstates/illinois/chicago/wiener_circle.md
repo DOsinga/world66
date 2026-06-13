@@ -2,7 +2,6 @@
 address: 2622 N Clark St, Chicago, IL 60614
 latitude: 41.9302
 longitude: -87.6439
-neighbourhood: Lincoln Park
 phone: 773-477-7444
 snippet: Late-night hot dogs served with legendary verbal abuse
 tags:

@@ -1,7 +1,6 @@
 ---
 latitude: 28.589325
 longitude: 77.212568
-neighbourhood: Defence Colony
 snippet: Late Mughal garden tomb, Delhi's last great imperial monument
 tags:
 - things_to_do

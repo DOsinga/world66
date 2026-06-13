@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2236
 longitude: 121.4452
-neighbourhood: Jing'an
 snippet: Gold-roofed Buddhist temple at the heart of the West Nanjing Road shopping
   district
 tags:

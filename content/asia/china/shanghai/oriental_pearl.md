@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 31.2397
 longitude: 121.4998
-neighbourhood: Lujiazui
 snippet: Iconic 1990s TV tower with observation deck and history museum
 tags:
 - things_to_do

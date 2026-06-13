@@ -3,7 +3,6 @@ address: Lodhi Road, New Delhi
 category: Sight
 latitude: 28.5933
 longitude: 77.2197
-neighbourhood: Lodhi Colony
 snippet: Mughal-era tombs in a leafy central Delhi park
 tags:
 - things_to_do

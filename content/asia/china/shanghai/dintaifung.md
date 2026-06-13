@@ -3,7 +3,6 @@ address: Multiple branches; Xintiandi original at 123 Xingye Lu
 category: Restaurant
 latitude: 31.2208
 longitude: 121.4744
-neighbourhood: Xintiandi
 snippet: Taiwanese xiaolongbao chain — pricey but reliable for newcomers to soup dumplings
 tags:
 - eating_out

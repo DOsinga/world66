@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 18.917651
 longitude: 72.827717
-neighbourhood: Colaba
 snippet: Iconic 1871 bar on Colaba Causeway, famous from Shantaram
 tags:
 - bars_and_cafes

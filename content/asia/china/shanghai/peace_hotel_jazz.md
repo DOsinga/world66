@@ -2,7 +2,6 @@
 title: "Peace Hotel Jazz Bar"
 type: poi
 snippet: "Legendary Art Deco jazz bar with octogenarian musicians playing 1930s Shanghai standards"
-neighbourhood: "The Bund"
 address: "20 Nanjing East Road, Huangpu District"
 latitude: 31.2391
 longitude: 121.4894

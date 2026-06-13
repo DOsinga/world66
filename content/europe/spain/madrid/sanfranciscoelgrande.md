@@ -1,7 +1,6 @@
 ---
 latitude: 40.4116
 longitude: -3.7146
-neighbourhood: La Latina
 tags:
 - things_to_do
 - la_latina

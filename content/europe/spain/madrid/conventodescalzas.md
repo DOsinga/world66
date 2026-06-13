@@ -1,7 +1,6 @@
 ---
 latitude: 40.4183
 longitude: -3.7062
-neighbourhood: Sol and Centro
 story: The convent was founded in 1559 by Juana of Austria, daughter of Charles V
   and at one point regent of Spain, who used it as a retirement home for high-born
   widows from the Habsburg court. The artworks they left behind — Titian, Rubens,

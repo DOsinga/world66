@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.215
 longitude: 121.4347
-neighbourhood: French Concession
 snippet: Privately curated collection of over 6,000 Mao-era propaganda posters in
   a residential basement
 story: The collection survives largely because its founder, Yang Pei Ming, started

@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2418
 longitude: 121.4925
-neighbourhood: The Bund
 snippet: Kitsch fibre-optic light show in a tube under the Huangpu River
 story: The tunnel was built in 2000 to connect the Bund and Pudong by foot — but rather
   than a simple walkway, the engineers decided on a pod train running through a tunnel

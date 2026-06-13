@@ -1,7 +1,6 @@
 ---
 latitude: 40.4193
 longitude: -3.6929
-neighbourhood: Retiro
 tags:
 - things_to_do
 - sight

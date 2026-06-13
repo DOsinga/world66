@@ -1,7 +1,6 @@
 ---
 latitude: 40.4233
 longitude: -3.7124
-neighbourhood: Sol and Centro
 tags:
 - things_to_do
 - sight

@@ -1,7 +1,6 @@
 ---
 latitude: 28.6271
 longitude: 77.2166
-neighbourhood: Lutyens' Delhi
 snippet: 18th-century astronomical instruments in the heart of New Delhi
 tags:
 - things_to_do

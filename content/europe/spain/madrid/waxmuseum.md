@@ -1,7 +1,6 @@
 ---
 latitude: 40.4239
 longitude: -3.6898
-neighbourhood: Huertas
 snippet: Over 450 wax figures from Spanish and world history
 tags:
 - things_to_do

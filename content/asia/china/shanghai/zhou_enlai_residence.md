@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2155
 longitude: 121.4523
-neighbourhood: French Concession
 snippet: Wartime headquarters of the Communist delegation to Shanghai, 1946-47
 tags:
 - things_to_do

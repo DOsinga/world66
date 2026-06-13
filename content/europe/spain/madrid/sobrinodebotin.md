@@ -1,7 +1,6 @@
 ---
 latitude: 40.414
 longitude: -3.7099
-neighbourhood: La Latina
 story: The Guinness Book of Records lists Botín as the oldest continuously operating
   restaurant in the world — open since 1725. Goya is said to have worked here as a
   dishwasher; Hemingway sent Jake Barnes there for cochinillo asado in the final chapter

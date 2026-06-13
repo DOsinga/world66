@@ -2,7 +2,6 @@
 category: Sight
 latitude: 31.2107
 longitude: 121.4671
-neighbourhood: French Concession
 snippet: Maze of shikumen lanes turned into craft shops, cafes and small boutiques
 tags:
 - things_to_do

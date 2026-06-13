@@ -1,7 +1,6 @@
 ---
 latitude: 40.4112
 longitude: -3.7029
-neighbourhood: La Latina
 tags:
 - bars_and_cafes
 - eating_out

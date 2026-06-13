@@ -3,7 +3,6 @@ address: 5700 S Lake Shore Dr, Chicago, IL 60637
 category: Museum
 latitude: 41.7907
 longitude: -87.5831
-neighbourhood: Hyde Park
 phone: 773-684-1414
 snippet: Massive hands-on science museum in a 1893 World's Fair building
 tags:

@@ -1,7 +1,6 @@
 ---
 latitude: 28.617112
 longitude: 77.20965
-neighbourhood: Lutyens' Delhi
 snippet: Lutyens' grand circular seat of Indian democracy
 tags:
 - things_to_do

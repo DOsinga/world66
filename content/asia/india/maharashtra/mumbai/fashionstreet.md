@@ -1,7 +1,6 @@
 ---
 latitude: 18.9348
 longitude: 72.8276
-neighbourhood: Fort
 snippet: Bustling open-air market for cheap clothes and shoes
 tags:
 - shopping

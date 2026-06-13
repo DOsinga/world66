@@ -1,7 +1,6 @@
 ---
 latitude: 40.4172
 longitude: -3.7045
-neighbourhood: Sol and Centro
 story: Casa Labra was the meeting place where Pablo Iglesias and a small group of
   typesetters founded the Spanish Socialist Workers' Party (PSOE) on 2 May 1879 —
   Spain's oldest surviving political party, still in government today. The plaque

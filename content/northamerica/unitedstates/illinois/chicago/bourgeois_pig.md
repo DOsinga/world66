@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.9258
 longitude: -87.6331
-neighbourhood: Lincoln Park
 phone: 773-883-5282
 snippet: Parisian-themed Lincoln Park cafe with literary-named sandwiches and vintage
   charm

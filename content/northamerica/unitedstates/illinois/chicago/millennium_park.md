@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.8826
 longitude: -87.6226
-neighbourhood: The Loop
 opening_hours: 6:00 AM - 11:00 PM daily
 phone: 312-742-1168
 snippet: Chicago's landmark park with the Bean and Pritzker Pavilion

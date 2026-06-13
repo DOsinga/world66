@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 31.1946
 longitude: 121.4756
-neighbourhood: The Bund
 opening_hours: 11 am – 7 pm, closed Mondays
 snippet: Vast contemporary art museum in a converted power station
 tags:

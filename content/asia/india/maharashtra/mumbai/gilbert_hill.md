@@ -1,7 +1,6 @@
 ---
 latitude: 19.1275
 longitude: 72.8475
-neighbourhood: Andheri
 story: 'The basalt column at Gilbert Hill is geologically identical to the basalt
   cliffs of the Giant''s Causeway in Northern Ireland and the Deccan Plateau — all
   formed by the same enormous volcanic event roughly 66 million years ago. The hill

@@ -1,7 +1,6 @@
 ---
 latitude: 40.4168
 longitude: -3.7038
-neighbourhood: Sol and Centro
 story: The clock above the Casa de Correos is the one that marks the start of the
   new year for the whole of Spain. Madrileños gather here on New Year's Eve to eat
   one grape on each of the twelve chimes — a tradition supposedly invented by Alicante

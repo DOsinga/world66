@@ -2,7 +2,6 @@
 category: Sight
 latitude: 28.612933
 longitude: 77.229493
-neighbourhood: Lutyens' Delhi
 snippet: Lutyens war memorial and eternal flame at the heart of New Delhi
 tags:
 - things_to_do

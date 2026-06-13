@@ -2,7 +2,6 @@
 address: 1616 N Wells St, Chicago, IL 60614
 latitude: 41.9115
 longitude: -87.6351
-neighbourhood: Old Town
 phone: 312-337-3992
 snippet: The legendary improv comedy theatre that launched Aykroyd, Belushi, and Colbert
 sources:

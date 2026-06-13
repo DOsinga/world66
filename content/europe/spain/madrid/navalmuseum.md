@@ -2,7 +2,6 @@
 address: Paseo del Prado 5
 latitude: 40.417526
 longitude: -3.692381
-neighbourhood: Retiro
 snippet: Spain's maritime history from Columbus to Trafalgar
 tags:
 - things_to_do

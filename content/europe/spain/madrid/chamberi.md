@@ -1,7 +1,6 @@
 ---
 latitude: 40.4344
 longitude: -3.7036
-neighbourhood: Chamberí
 story: When Madrid widened its metro trains in 1966, the curved platforms of Chamberí
   could not be extended without rebuilding the tunnels, so the station was simply
   closed. Trains kept passing through for the next forty years to a darkened, sealed

@@ -2,7 +2,6 @@
 address: 111 S Michigan Ave, Chicago, IL 60603
 latitude: 41.8796
 longitude: -87.6237
-neighbourhood: The Loop
 opening_hours: Thu-Mon 11:00 AM - 5:00 PM, closed Tue-Wed
 phone: 312-443-3600
 snippet: One of the finest art museums in the world, anchored by the lions on Michigan

@@ -2,7 +2,6 @@
 address: 3535 N Clark St, Chicago, IL 60657
 latitude: 41.9461
 longitude: -87.6555
-neighbourhood: Lakeview and Wrigleyville
 phone: 773-832-9040
 snippet: Goose Island brewpub next to Wrigley Field, 50-plus beers on tap.
 tags:

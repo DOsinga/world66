@@ -1,7 +1,6 @@
 ---
 latitude: 40.4225
 longitude: -3.7053
-neighbourhood: Malasaña
 story: The interior is covered floor-to-dome in frescoes by Luca Giordano and Francisco
   Rizi — a near-continuous painted skin of saints, angels, and architectural illusions.
   Locals know it as the Sistine Chapel of Madrid, and most visitors leave wondering

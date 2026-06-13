@@ -2,7 +2,6 @@
 address: 111 E Wacker Dr, Chicago, IL 60601
 latitude: 41.8861
 longitude: -87.6257
-neighbourhood: The Loop
 opening_hours: 9:00 AM - 6:00 PM daily
 phone: 312-922-3432
 snippet: The best starting point for understanding Chicago's extraordinary built environment

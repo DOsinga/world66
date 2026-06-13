@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2334
 longitude: 121.4705
-neighbourhood: City Center (Renmin Square)
 snippet: Vast scale model showing the entire city as it was, is, and will be
 story: The centrepiece is a 600-square-metre scale model of central Shanghai, kept
   updated as buildings rise. The buildings under construction are sometimes represented

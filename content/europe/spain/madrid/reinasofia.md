@@ -1,7 +1,6 @@
 ---
 latitude: 40.408
 longitude: -3.6946
-neighbourhood: Retiro
 story: Picasso painted Guernica in just a few weeks in 1937 for the Spanish Pavilion
   at the Paris World's Fair, in response to the Nazi bombing of the Basque town. He
   stipulated that it could not return to Spain until democracy was restored — and

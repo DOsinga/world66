@@ -1,7 +1,6 @@
 ---
 latitude: 40.4167
 longitude: -3.7069
-neighbourhood: Sol and Centro
 tags:
 - bars_and_cafes
 - eating_out

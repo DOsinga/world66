@@ -3,7 +3,6 @@ address: 579 Fuxing Middle Road, Huangpu District
 category: Bar
 latitude: 31.2151
 longitude: 121.467
-neighbourhood: French Concession
 snippet: Hidden four-floor speakeasy cocktail bar with a different mood per floor
 tags:
 - bars_and_cafes

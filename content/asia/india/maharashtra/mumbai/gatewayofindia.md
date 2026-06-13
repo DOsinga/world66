@@ -1,7 +1,6 @@
 ---
 latitude: 18.922
 longitude: 72.8346
-neighbourhood: Colaba
 snippet: Iconic waterfront arch marking Britain's arrival and departure
 tags:
 - things_to_do

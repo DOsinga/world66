@@ -2,7 +2,6 @@
 address: 3159 N Southport Ave, Chicago, IL 60657
 latitude: 41.9396
 longitude: -87.6634
-neighbourhood: Lakeview and Wrigleyville
 phone: 773-525-2508
 snippet: Intimate indie music venue in a converted Schlitz brewery
 tags:

@@ -3,7 +3,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 28.6095
 longitude: 77.2435
-neighbourhood: Lutyens' Delhi
 snippet: Massive Mughal-era citadel on Delhi's oldest inhabited site
 tags:
 - things_to_do

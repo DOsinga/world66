@@ -1,7 +1,6 @@
 ---
 latitude: 18.9267
 longitude: 72.8325
-neighbourhood: Colaba
 story: 'The museum building itself — designed by George Wittet and opened in 1923
   — is one of the finest examples of Indo-Saracenic architecture in India. Wittet
   also designed the Gateway of India. The museum''s central dome draws on Mughal and

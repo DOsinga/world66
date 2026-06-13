@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 18.9281
 longitude: 72.8334
-neighbourhood: Fort
 snippet: Grand 1833 neoclassical building housing the Asiatic Society library
 tags:
 - things_to_do

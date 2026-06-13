@@ -2,7 +2,6 @@
 address: 3330 N Clark St, Chicago, IL 60657
 latitude: 41.9428
 longitude: -87.6568
-neighbourhood: Lakeview and Wrigleyville
 phone: 773-248-4606
 snippet: Middle Eastern hookah lounge with curtained booths and belly dancers
 tags:

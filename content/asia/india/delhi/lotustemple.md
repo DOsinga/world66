@@ -2,7 +2,6 @@
 category: Sight
 latitude: 28.553359
 longitude: 77.258601
-neighbourhood: Hauz Khas Village
 snippet: Stunning Bahá'í house of worship open to all faiths for meditation
 tags:
 - hauz_khas_village

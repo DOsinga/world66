@@ -2,7 +2,6 @@
 address: Plaza de Murillo 2
 latitude: 40.4109
 longitude: -3.6901
-neighbourhood: Retiro
 snippet: Eighteenth-century botanical garden next door to the Prado
 tags:
 - things_to_do

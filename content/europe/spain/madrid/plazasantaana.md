@@ -1,7 +1,6 @@
 ---
 latitude: 40.4152
 longitude: -3.7008
-neighbourhood: Huertas
 snippet: Madrid's literary square, ringed by historic bars and tapas taverns
 tags:
 - things_to_do

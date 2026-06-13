@@ -1,7 +1,6 @@
 ---
 latitude: 18.9401
 longitude: 72.8355
-neighbourhood: Fort
 story: 'The station was designed by F.W. Stevens and opened in 1887 as Victoria Terminus,
   to celebrate Queen Victoria''s Golden Jubilee. Stevens deliberately blended Italian
   Gothic with Indian Saracenic and Venetian Gothic elements — the result was so idiosyncratic

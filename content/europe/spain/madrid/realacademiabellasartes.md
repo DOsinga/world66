@@ -1,7 +1,6 @@
 ---
 latitude: 40.4179
 longitude: -3.7008
-neighbourhood: Huertas
 tags:
 - things_to_do
 - museum

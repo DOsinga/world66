@@ -2,7 +2,6 @@
 address: Plaza de Oriente
 latitude: 40.418
 longitude: -3.7143
-neighbourhood: Sol and Centro
 phone: +34 91 454 88 00
 snippet: Europe's largest royal palace, still used for state ceremonies
 tags:

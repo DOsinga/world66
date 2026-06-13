@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2434
 longitude: 121.4575
-neighbourhood: Jing'an
 snippet: Modern science museum at Jing'an Sculpture Park, child-friendly and ambitious
 tags:
 - things_to_do

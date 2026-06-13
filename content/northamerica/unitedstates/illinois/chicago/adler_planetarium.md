@@ -2,7 +2,6 @@
 address: 1300 S Lake Shore Dr, Chicago, IL 60605
 latitude: 41.8663
 longitude: -87.6071
-neighbourhood: South Loop
 opening_hours: 9:00 AM - 4:00 PM daily
 phone: 312-922-7827
 snippet: America's first planetarium, with the best skyline view in Chicago from its

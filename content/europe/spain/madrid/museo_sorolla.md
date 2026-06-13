@@ -2,7 +2,6 @@
 address: General Martínez Campos, 37
 latitude: 40.435393
 longitude: -3.692512
-neighbourhood: Chamberí
 opening_hours: Tu-Sat 0930-2000 Sun 1000-1500
 phone: +34 91 310 1584
 snippet: Painter's own home filled with luminous Mediterranean canvases

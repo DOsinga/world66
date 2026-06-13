@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.9095
 longitude: -87.6737
-neighbourhood: Wicker Park
 phone: 773-489-3160
 snippet: Legendary Wicker Park rock venue, now permanently closed
 tags:

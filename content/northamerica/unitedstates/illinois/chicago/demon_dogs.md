@@ -4,7 +4,6 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.9255
 longitude: -87.6528
-neighbourhood: Lincoln Park
 phone: 773-281-2001
 snippet: Chicago-style hot dogs under the Fullerton L stop, walls covered in band
   memorabilia

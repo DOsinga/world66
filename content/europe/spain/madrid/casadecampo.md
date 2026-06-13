@@ -1,7 +1,6 @@
 ---
 latitude: 40.418
 longitude: -3.7474
-neighbourhood: Argüelles
 tags:
 - things_to_do
 - sight

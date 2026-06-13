@@ -2,7 +2,6 @@
 category: Museum
 latitude: 31.2174
 longitude: 121.4674
-neighbourhood: French Concession
 snippet: House where the father of modern China lived from 1918 to 1924
 tags:
 - things_to_do

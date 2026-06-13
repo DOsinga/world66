@@ -1,7 +1,6 @@
 ---
 latitude: 28.6268
 longitude: 77.2224
-neighbourhood: Lutyens' Delhi
 sources:
 - https://en.wikipedia.org/wiki/Agrasen_ki_Baoli
 story: Stepwells like this one — known as baoli or vav in different parts of India

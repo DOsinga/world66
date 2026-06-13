@@ -1,7 +1,6 @@
 ---
 latitude: 25.0421
 longitude: 121.5066
-neighbourhood: Ximending
 tags:
 - things_to_do
 - neighbourhood

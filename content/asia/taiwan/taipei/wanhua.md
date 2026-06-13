@@ -5,7 +5,6 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg
 latitude: 25.0372
 longitude: 121.499
-neighbourhood: Wanhua
 tags:
 - things_to_do
 - neighbourhood

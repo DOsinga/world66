@@ -1,7 +1,6 @@
 ---
 latitude: 25.026
 longitude: 121.5436
-neighbourhood: Da'an
 tags:
 - things_to_do
 - neighbourhood

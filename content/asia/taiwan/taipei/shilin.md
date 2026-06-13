@@ -5,7 +5,6 @@ image_license: CC BY-SA 2.0 tw
 image_source: https://commons.wikimedia.org/wiki/File:ShiLin.jpg
 latitude: 25.0884
 longitude: 121.526
-neighbourhood: Shilin
 tags:
 - things_to_do
 - neighbourhood

@@ -1,7 +1,6 @@
 ---
 latitude: 25.056
 longitude: 121.51
-neighbourhood: Datong
 tags:
 - things_to_do
 - neighbourhood

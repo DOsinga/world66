@@ -5,7 +5,6 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:%E8%87%A8%E6%BF%9F%E8%AD%B7%E5%9C%8B%E7%A6%AA%E5%AF%BA%E5%A4%A7%E9%9B%84%E5%AF%B6%E6%AE%BF%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg
 latitude: 25.056
 longitude: 121.524
-neighbourhood: Zhongshan
 tags:
 - things_to_do
 - neighbourhood

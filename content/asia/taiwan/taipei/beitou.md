@@ -1,7 +1,6 @@
 ---
 latitude: 25.1378
 longitude: 121.5024
-neighbourhood: Beitou
 tags:
 - things_to_do
 - neighbourhood

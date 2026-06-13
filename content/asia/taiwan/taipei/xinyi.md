@@ -5,7 +5,6 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg
 latitude: 25.0353
 longitude: 121.5654
-neighbourhood: Xinyi
 tags:
 - things_to_do
 - neighbourhood

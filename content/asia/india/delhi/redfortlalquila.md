@@ -1,11 +1,13 @@
 ---
 latitude: 28.6562
-longitude: 77.2410
+longitude: 77.241
+neighbourhood: Old Delhi
 snippet: Massive Mughal sandstone fortress on the Yamuna
 tags:
 - things_to_do
 - historical
 - monument
+- old_delhi
 title: Red Fort (Lal Quila)
 type: poi
 ---

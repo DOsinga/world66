@@ -1,10 +1,12 @@
 ---
 latitude: 28.617112
 longitude: 77.20965
-snippet: "Lutyens' grand circular seat of Indian democracy"
+neighbourhood: Lutyens' Delhi
+snippet: Lutyens' grand circular seat of Indian democracy
 tags:
 - things_to_do
 - landmark
+- lutyens
 title: Parliament House
 type: poi
 ---

@@ -4,11 +4,13 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 28.601
 longitude: 77.2103
+neighbourhood: Lutyens' Delhi
 snippet: Where Mahatma Gandhi spent his final days
 tags:
 - things_to_do
 - sight
 - museum
+- lutyens
 title: Gandhi Smriti
 type: poi
 ---

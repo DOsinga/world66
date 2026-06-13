@@ -3,9 +3,11 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 28.631402
 longitude: 77.219379
+neighbourhood: Lutyens' Delhi
 snippet: Delhi's colonial-era commercial hub with shops and restaurants
 tags:
 - shopping
+- lutyens
 title: Connaught Place
 type: poi
 ---

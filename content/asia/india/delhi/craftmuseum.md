@@ -3,11 +3,13 @@ address: Bhairon Road
 category: Museum
 latitude: 28.6189
 longitude: 77.2436
+neighbourhood: South Extension and INA
 phone: (0)91 11 3317641
 snippet: Outdoor and indoor display of India's traditional craft traditions
 tags:
 - things_to_do
 - museum
+- dilli_haat
 title: Craft Museum
 type: poi
 ---

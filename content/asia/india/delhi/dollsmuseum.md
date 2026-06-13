@@ -4,10 +4,12 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 28.63037
 longitude: 77.241712
+neighbourhood: Old Delhi
 snippet: Charming collection of dolls from around the world
 tags:
 - things_to_do
 - museum
+- old_delhi
 title: Dolls Museum
 type: poi
 ---

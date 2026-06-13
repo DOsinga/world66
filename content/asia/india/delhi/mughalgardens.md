@@ -1,10 +1,12 @@
 ---
 latitude: 28.526041
 longitude: 77.186508
+neighbourhood: Lutyens' Delhi
 snippet: Roses and fountains inside the President's Estate grounds
 tags:
 - things_to_do
 - parks_and_gardens
+- lutyens
 title: Mughal Gardens
 type: poi
 ---

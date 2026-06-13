@@ -3,12 +3,14 @@ address: Lodhi Road, New Delhi
 category: Sight
 latitude: 28.5933
 longitude: 77.2197
+neighbourhood: Lodhi Colony
 snippet: Mughal-era tombs in a leafy central Delhi park
-title: Lodhi Gardens
-type: poi
 tags:
 - things_to_do
 - park
+- lodhi_colony
+title: Lodhi Gardens
+type: poi
 ---
 
 A 90-acre park in the heart of South Delhi containing some of the best-preserved medieval monuments in the city. The tombs of Sayyid and Lodi dynasty rulers — including the 15th-century Bara Gumbad and Shish Gumbad — stand amid lawns, fountains, and mature trees.

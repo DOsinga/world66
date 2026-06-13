@@ -531,6 +531,58 @@ def load_featured_cities():
 
 
 @lru_cache(maxsize=1)
+def load_geo_index():
+    """Load all geo-indexed pages from search.db. Falls back to file scan if DB unavailable."""
+    db_path = Path(settings.BASE_DIR) / "search.db"
+    if db_path.is_file():
+        try:
+            import apsw
+            conn = apsw.Connection(str(db_path), flags=apsw.SQLITE_OPEN_READONLY)
+            rows = conn.execute(
+                "SELECT url_path, title, page_type, lat, lng, snippet, image, score, depth, loc_type FROM geo"
+            ).fetchall()
+            conn.close()
+            return [
+                {"path": r[0], "title": r[1], "page_type": r[2],
+                 "lat": r[3], "lng": r[4], "snippet": r[5] or "",
+                 "image": r[6] or "", "score": r[7] or 0.0,
+                 "depth": r[8], "loc_type": r[9] or ""}
+                for r in rows
+            ]
+        except Exception:
+            pass
+    # Fallback: scan content files (slow, only for dev without search.db)
+    import frontmatter as fm
+    result = []
+    for md_path in CONTENT_DIR.rglob("*.md"):
+        try:
+            post = fm.load(md_path)
+            lat = float(post.metadata.get("latitude") or "")
+            lng = float(post.metadata.get("longitude") or "")
+        except (TypeError, ValueError):
+            continue
+        rel = md_path.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        result.append({
+            "path": url_path,
+            "title": post.metadata.get("title", md_path.stem),
+            "page_type": post.metadata.get("type", "location"),
+            "lat": lat, "lng": lng,
+            "snippet": post.metadata.get("snippet", "") or "",
+            "image": post.metadata.get("image", "") or "",
+            "score": float(post.metadata.get("score") or 0),
+            "depth": len(url_path.split("/")),
+            "loc_type": post.metadata.get("loc_type", "") or "",
+        })
+    return result
+
+
+@lru_cache(maxsize=1)
 def load_continents():
     """Load top-level locations with their children (countries)."""
     continents = []

@@ -12,13 +12,272 @@ from django.utils.safestring import mark_safe
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
+    load_geo_index,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
+# Keywords for POI title/snippet matching, keyed by mood chip text.
+# Used to score cities by their POI composition when tags are absent.
+MOOD_KEYWORDS = {
+    "A slow morning with nowhere to be — coffee, a neighbourhood bakery, watching the city wake up": [
+        "cafe", "coffee", "bakery", "patisserie", "boulangerie", "brunch", "espresso", "tearoom",
+    ],
+    "Somewhere that earned its scars — old stones, half-forgotten stories, places that have outlived everyone who built them": [
+        "museum", "cathedral", "church", "castle", "palace", "fort", "ruin", "basilica",
+        "abbey", "monastery", "synagogue", "mosque", "temple", "historic",
+    ],
+    "Hungry and curious — street food, a crowded market, eating something you can't pronounce": [
+        "restaurant", "market", "kitchen", "brasserie", "bistro", "tavern", "trattoria",
+        "tapas", "sushi", "eatery", "diner", "food", "cuisine", "taqueria",
+    ],
+    "Following the art — a gallery you almost walked past, a mural on a side street, something that makes you stop": [
+        "museum", "gallery", "art", "mural", "exhibition", "painting", "sculpture",
+        "opera", "theatre", "cinema",
+    ],
+    "Out of the city noise — somewhere green, a path that goes nowhere in particular, birds instead of traffic": [
+        "park", "garden", "forest", "nature", "trail", "lake", "mountain", "beach",
+        "botanical", "reserve", "valley", "waterfall", "wildlife",
+    ],
+    "When the sun goes down — a bar with no tourists, live music somewhere, staying out later than planned": [
+        "bar", "pub", "brewery", "cocktail", "jazz", "nightclub", "lounge", "wine",
+        "distillery", "club",
+    ],
+}
+
+_NATURE_MOOD = "Out of the city noise — somewhere green, a path that goes nowhere in particular, birds instead of traffic"
+_NATURE_LOC_TYPES = {"feature", "island"}
+
 
 def about(request):
     return render(request, "guide/about.html")
+
+
+def next_up(request):
+    return render(request, "guide/next.html")
+
+
+def _safe_float(v):
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
+
+
+def page_coords_api(request):
+    path = request.GET.get("path", "").strip("/")
+    if not path:
+        return JsonResponse({"error": "path required"}, status=400)
+    page = load_page(path)
+    if not page:
+        return JsonResponse({"error": "not found"}, status=404)
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is None or lng is None:
+        return JsonResponse({"error": "no coordinates"}, status=404)
+    return JsonResponse({"lat": lat, "lng": lng, "title": page.title})
+
+
+def nearby_api(request):
+    import math
+
+    lat = _safe_float(request.GET.get("lat"))
+    lng = _safe_float(request.GET.get("lng"))
+    mode = request.GET.get("mode", "walking")
+    mood = request.GET.get("mood", "").strip()
+    exclude_path = request.GET.get("exclude", "").strip("/")
+
+    if lat is None or lng is None:
+        return JsonResponse({"error": "lat and lng required"}, status=400)
+
+    # loc_types accepted for location bands — city, island, feature; exclude region/country/continent
+    _CITY_LOC_TYPES = {"city", "island", "feature", ""}
+
+    BANDS = {
+        "walking":      {"min_km": 0,   "max_km": 2,   "types": {"poi"}},
+        "drive":        {"min_km": 0,   "max_km": 60,  "types": {"location"}},
+        "destinations": {"min_km": 60,  "max_km": 250, "types": {"location"}},
+    }
+    band = BANDS.get(mode, BANDS["walking"])
+
+    def haversine(lat1, lng1, lat2, lng2):
+        R = 6371
+        phi1, phi2 = math.radians(lat1), math.radians(lat2)
+        a = (math.sin(math.radians(lat2 - lat1) / 2) ** 2
+             + math.cos(phi1) * math.cos(phi2) * math.sin(math.radians(lng2 - lng1) / 2) ** 2)
+        return 2 * R * math.asin(math.sqrt(a))
+
+    results = []
+    for item in load_geo_index():
+        if item["page_type"] not in band["types"]:
+            continue
+        if item["page_type"] == "location" and item.get("loc_type", "") not in _CITY_LOC_TYPES:
+            continue
+        if exclude_path and item["path"] == exclude_path:
+            continue
+        d = haversine(lat, lng, item["lat"], item["lng"])
+        if band["min_km"] <= d <= band["max_km"]:
+            if d < 1:
+                label = f"{round(d * 1000)}m"
+            elif d < 10:
+                label = f"{d:.1f} km"
+            else:
+                label = f"{round(d)} km"
+            results.append({
+                "title": item["title"],
+                "url": "/" + item["path"],
+                "path_raw": item["path"],
+                "page_type": item["page_type"],
+                "loc_type": item.get("loc_type", ""),
+                "image": item["image"],
+                "score": item["score"],
+                "distance_km": d,
+                "distance_label": label,
+                "snippet": item["snippet"],
+            })
+
+    results.sort(key=lambda x: x["distance_km"])
+    limit = 60 if mood else 40
+
+    if mood and results:
+        results = _reorder_by_mood(mood, results[:limit])
+    else:
+        results = results[:40]
+
+    for r in results:
+        del r["distance_km"]
+        r.pop("loc_type", None)
+        r["image_url"] = _resolve_geo_image(r.pop("path_raw"), r.pop("image"))
+
+    return JsonResponse({"results": results[:40], "mood_active": bool(mood)})
+
+
+def _resolve_geo_image(path, image_filename):
+    if not image_filename:
+        return None
+    for candidate in [
+        f"{path}/{image_filename}",
+        f"{path.rsplit('/', 1)[0]}/{image_filename}" if "/" in path else image_filename,
+    ]:
+        if (CONTENT_DIR / candidate).is_file():
+            return f"/content-image/{candidate}"
+    return None
+
+
+def _city_poi_vibe_scores(keywords, city_paths):
+    """
+    One pass over the geo index: for each city path, count child POIs whose
+    title+snippet contains at least one keyword. Returns {path: score 0-1}.
+
+    Score = tanh(matches / SATURATION) so a city with 5+ matching POIs scores
+    near 1.0 regardless of total POI count. This prevents small towns with a
+    single matching POI from beating large cities on a ratio basis.
+    """
+    import math
+    SATURATION = 5.0
+
+    city_set = set(city_paths)
+    matches = {p: 0 for p in city_paths}
+    for item in load_geo_index():
+        if item["page_type"] != "poi":
+            continue
+        parts = item["path"].split("/")
+        for depth in range(2, len(parts)):
+            parent = "/".join(parts[:depth])
+            if parent in city_set:
+                text = (item["title"] + " " + (item.get("snippet") or "")).lower()
+                if any(kw in text for kw in keywords):
+                    matches[parent] += 1
+                break
+    return {p: math.tanh(matches[p] / SATURATION) for p in city_paths}
+
+
+def _reorder_by_mood(mood, results):
+    try:
+        import apsw
+        import numpy as np
+        import sqlite_vec
+
+        if not SEARCH_DB.is_file():
+            return results
+
+        conn = apsw.Connection(str(SEARCH_DB), flags=apsw.SQLITE_OPEN_READONLY)
+        conn.enable_load_extension(True)
+        sqlite_vec.load(conn)
+
+        # 1. Mood vector — pre-computed if it's a chip, otherwise call OpenAI
+        mood_row = conn.execute(
+            "SELECT embedding FROM embeddings WHERE path=?", (f"mood:{mood}",)
+        ).fetchone()
+
+        if mood_row:
+            mood_vec = np.frombuffer(mood_row[0], dtype=np.float32).copy()
+        else:
+            from dotenv import load_dotenv
+            load_dotenv()
+            from openai import OpenAI
+
+            resp = OpenAI().embeddings.create(
+                model="text-embedding-3-small", input=[mood], dimensions=512
+            )
+            mood_vec = np.array(resp.data[0].embedding, dtype=np.float32)
+            n = np.linalg.norm(mood_vec)
+            if n:
+                mood_vec /= n
+
+        # 2. Item vectors — batch fetch from DB (path = url_path + ".md")
+        paths = [r["url"].lstrip("/") + ".md" for r in results]
+        placeholders = ",".join("?" * len(paths))
+        rows = conn.execute(
+            f"SELECT path, embedding FROM embeddings WHERE path IN ({placeholders})", paths
+        ).fetchall()
+        conn.close()
+
+        emb_by_path = {
+            row[0]: np.frombuffer(row[1], dtype=np.float32).copy() for row in rows
+        }
+
+        # 3. POI-composition vibe scores for location results
+        location_results = [r for r in results if r.get("page_type") == "location"]
+        poi_vibe = {}
+        if location_results and mood in MOOD_KEYWORDS:
+            city_paths = [r["path_raw"] for r in location_results]
+            poi_vibe = _city_poi_vibe_scores(MOOD_KEYWORDS[mood], city_paths)
+
+        # 4. Proximity score for locations — normalized within the result set
+        loc_distances = [r["distance_km"] for r in results if r.get("page_type") == "location"]
+        if loc_distances:
+            d_min, d_max = min(loc_distances), max(loc_distances)
+            d_range = d_max - d_min if d_max > d_min else 1.0
+        else:
+            d_min = d_range = 1.0
+
+        # 5. Blend scores
+        # POIs:      0.65 * sim + 0.35 * content_score
+        # Locations: 0.35 * sim + 0.15 * content_score + 0.40 * poi_vibe + 0.10 * proximity
+        finals = []
+        for r, path in zip(results, paths):
+            vec = emb_by_path.get(path)
+            sim = float(np.dot(vec, mood_vec)) if vec is not None else 0.0
+            content_score = r.get("score") or 0.5
+            if r.get("page_type") == "location":
+                loc_type = r.get("loc_type", "")
+                if mood == _NATURE_MOOD:
+                    if loc_type in _NATURE_LOC_TYPES:
+                        pv = min(1.0, poi_vibe.get(r["path_raw"], 0.0) + 0.5)
+                    else:
+                        pv = 0.0
+                else:
+                    pv = poi_vibe.get(r["path_raw"], 0.0)
+                prox = 1.0 - (r["distance_km"] - d_min) / d_range
+                finals.append(0.35 * sim + 0.15 * content_score + 0.40 * pv + 0.10 * prox)
+            else:
+                finals.append(0.65 * sim + 0.35 * content_score)
+
+        return [r for _, r in sorted(zip(finals, results), key=lambda x: -x[0])]
+
+    except Exception:
+        return results
 
 
 def home(request):

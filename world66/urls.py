@@ -6,6 +6,9 @@ from guide import views
 urlpatterns = [
     path("", views.home, name="home"),
     path("about", views.about, name="about"),
+    path("next", views.next_up, name="next_up"),
+    path("api/nearby", views.nearby_api, name="nearby_api"),
+    path("api/page-coords", views.page_coords_api, name="page_coords_api"),
     path("search", views.search, name="search"),
     path("api/search", views.search_api, name="search_api"),
     path("tags/<str:tag>", views.tag_index, name="tag_index"),

@@ -1,0 +1,851 @@
+{% extends "guide/base.html" %}
+{% load static %}
+
+{% block title %}What's Next — World66{% endblock %}
+
+{% block body_style %}
+<style>
+  .next-app {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 48px 24px 80px;
+  }
+
+  .next-headline {
+    font-family: var(--display-font);
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 600;
+    line-height: 1.1;
+    margin-bottom: 6px;
+    color: var(--ink);
+  }
+
+  .next-sub {
+    color: var(--mute);
+    font-size: 0.95rem;
+    margin-bottom: 32px;
+  }
+
+  /* Mode toggle — pill with sliding indicator and crossfading background */
+  .mode-toggle {
+    position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    height: 72px;
+    padding: 5px;
+    margin-bottom: 28px;
+  }
+
+  .mode-toggle-bg {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    transition: opacity 0.5s ease;
+  }
+
+  /* Dark scrim so text is always readable */
+  .mode-toggle::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.38);
+    z-index: 0;
+  }
+
+  .mode-toggle-pill {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: calc(50% - 5px);
+    height: calc(100% - 10px);
+    background: rgba(255,255,255,0.22);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.35);
+    border-radius: 11px;
+    z-index: 1;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: none;
+  }
+
+  .mode-toggle.trip-active .mode-toggle-pill {
+    transform: translateX(100%);
+  }
+
+  .mode-btn {
+    flex: 1;
+    position: relative;
+    z-index: 2;
+    background: transparent;
+    border: none;
+    color: white;
+    font-family: var(--body-font);
+    font-weight: 600;
+    font-size: 0.875rem;
+    cursor: pointer;
+    letter-spacing: 0.01em;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+    transition: opacity 0.2s;
+  }
+
+  .mode-btn:not(.active) { opacity: 0.7; }
+  .mode-btn:not(.active):hover { opacity: 0.9; }
+
+  /* Starting point input area */
+  .start-panel {
+    margin-bottom: 36px;
+  }
+
+  .start-panel.hidden { display: none; }
+
+  .place-search-wrap {
+    position: relative;
+  }
+
+  .place-search-input {
+    width: 100%;
+    padding: 14px 18px;
+    font-size: 1rem;
+    font-family: var(--body-font);
+    border: 1.5px solid var(--line-2);
+    border-radius: 12px;
+    background: white;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .place-search-input:focus {
+    border-color: var(--ink);
+  }
+
+  .place-dropdown {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid var(--line-2);
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.10);
+    list-style: none;
+    z-index: 20;
+    overflow: hidden;
+    display: none;
+  }
+
+  .place-dropdown li a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 16px;
+    font-size: 0.9rem;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .place-dropdown li:last-child a { border-bottom: none; }
+
+  .place-dropdown li a:hover,
+  .place-dropdown li.active a {
+    background: var(--paper-2);
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .place-dropdown .result-location {
+    margin-left: auto;
+    font-size: 0.8rem;
+    color: var(--mute);
+    white-space: nowrap;
+  }
+
+  .chosen-place {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: var(--mute);
+  }
+
+  .chosen-place strong { color: var(--ink); }
+
+  .chosen-place button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--mute);
+    font-size: 0.8rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  .chosen-place button:hover { color: var(--accent); }
+
+  /* GPS button */
+  .gps-btn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    padding: 14px 22px;
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    font-family: var(--body-font);
+    font-weight: 500;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+
+  .gps-btn:hover { opacity: 0.85; }
+  .gps-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .gps-status {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: var(--mute);
+  }
+
+  /* Mood section */
+  .mood-section {
+    margin-bottom: 28px;
+  }
+
+  .mood-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--mute);
+    margin-bottom: 10px;
+  }
+
+  .mood-cards {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+    margin-left: -2px;
+    padding-left: 2px;
+  }
+
+  .mood-cards::-webkit-scrollbar { display: none; }
+  .mood-cards { scrollbar-width: none; }
+
+  .mood-card {
+    flex-shrink: 0;
+    width: 200px;
+    height: 185px;
+    scroll-snap-align: start;
+    border: none;
+    border-radius: 14px;
+    padding: 0;
+    cursor: pointer;
+    color: white;
+    text-align: left;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    transition: transform 0.15s, box-shadow 0.15s, outline 0s;
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .mood-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0.25) 55%, rgba(0,0,0,0.05) 100%);
+    transition: opacity 0.2s;
+    z-index: 0;
+  }
+
+  /* Dim non-selected: blur the background via ::after, keep text sharp */
+  .mood-cards.has-selection .mood-card:not(.active)::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background: inherit;
+    background-size: cover;
+    background-position: center;
+    filter: blur(3px) brightness(0.88);
+    transform: scale(1.05); /* prevent blur fringing at edges */
+  }
+
+  .mood-cards.has-selection .mood-card:not(.active)::before {
+    background: rgba(0,0,0,0.08);
+    z-index: 1;
+  }
+
+  .mood-cards.has-selection .mood-card:not(.active) span {
+    z-index: 2;
+    color: rgba(255,255,255,0.72);
+  }
+
+  .mood-cards.has-selection .mood-card:not(.active):hover::after {
+    filter: blur(1.5px) brightness(0.85);
+  }
+
+  .mood-cards.has-selection .mood-card:not(.active):hover::before {
+    background: rgba(0,0,0,0.1);
+  }
+
+  .mood-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.22); }
+
+  /* Selected: lift + shadow only — the contrast vs dimmed cards is the indicator, no ring needed */
+  .mood-card.active {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+  }
+
+  .mood-card.active::before {
+    background: linear-gradient(to top, rgba(0,0,0,0.72) 0%, rgba(0,0,0,0.12) 60%, transparent 100%);
+  }
+
+  .mood-card span {
+    position: relative;
+    z-index: 2;
+    display: block;
+    padding: 14px;
+    font-size: 0.8rem;
+    font-family: var(--body-font);
+    line-height: 1.4;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.7);
+    color: white;
+  }
+
+  .mood-active-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.78rem;
+    color: var(--accent);
+    font-weight: 500;
+    margin-left: 10px;
+  }
+
+  /* Distance band buttons */
+  .band-buttons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 40px;
+  }
+
+  .band-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 20px 12px;
+    border: 1.5px solid var(--line-2);
+    border-radius: 16px;
+    background: white;
+    cursor: pointer;
+    font-family: var(--body-font);
+    color: var(--ink);
+    transition: border-color 0.15s, background 0.15s, transform 0.1s;
+    text-align: center;
+  }
+
+  .band-btn:hover {
+    border-color: var(--ink);
+    background: var(--paper-2);
+    transform: translateY(-1px);
+  }
+
+  .band-btn.active {
+    border-color: var(--ink);
+    background: var(--ink);
+    color: var(--paper);
+    transform: translateY(-1px);
+  }
+
+  .band-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  .band-icon {
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+
+  .band-label {
+    font-weight: 600;
+    font-size: 0.85rem;
+    letter-spacing: 0.01em;
+  }
+
+  /* Results */
+  .results-area { min-height: 200px; }
+
+  .results-empty {
+    color: var(--mute);
+    font-size: 0.95rem;
+    padding: 40px 0;
+    text-align: center;
+  }
+
+  .results-loading {
+    text-align: center;
+    padding: 48px 0;
+    color: var(--mute);
+    font-size: 0.9rem;
+  }
+
+  .results-count {
+    font-size: 0.8rem;
+    color: var(--mute);
+    margin-bottom: 14px;
+  }
+
+  .results-list { list-style: none; }
+
+  .result-card {
+    display: flex;
+    gap: 14px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--line);
+    text-decoration: none;
+    color: var(--ink);
+    align-items: center;
+  }
+
+  .result-card:first-child { border-top: 1px solid var(--line); }
+  .result-card:hover .result-card-title { color: var(--accent); text-decoration: underline; }
+
+  .result-thumb {
+    flex-shrink: 0;
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+    background-color: var(--paper-3);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--display-font);
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: var(--mute);
+  }
+
+  /* City cards get a wider landscape thumb */
+  .result-card.is-location .result-thumb {
+    width: 120px;
+    height: 80px;
+    border-radius: 12px;
+  }
+
+  .result-info { flex: 1; min-width: 0; }
+
+  .result-card-context {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--mute);
+    margin-bottom: 2px;
+  }
+
+  .result-card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  .result-card-snippet {
+    font-size: 0.8rem;
+    color: var(--mute);
+    margin-top: 3px;
+    line-height: 1.4;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .result-dist {
+    display: inline-block;
+    margin-top: 5px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--mute);
+    background: var(--paper-2);
+    padding: 2px 8px;
+    border-radius: 100px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (max-width: 480px) {
+    .band-buttons { gap: 8px; }
+    .band-btn { padding: 16px 8px; }
+    .band-icon { font-size: 1.4rem; }
+    .band-label { font-size: 0.78rem; }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="next-app">
+
+  <h1 class="next-headline">What's Next?</h1>
+  <p class="next-sub">Find your next move — whether you're already there or still planning.</p>
+
+  <div class="mode-toggle" id="mode-toggle">
+    <div class="mode-toggle-bg" id="mode-bg-dream" style="background-image:url('/content-image/europe/switzerland/interlaken.jpg')"></div>
+    <div class="mode-toggle-bg" id="mode-bg-trip" style="background-image:url('/content-image/europe/netherlands/amsterdam/leidseplein.jpg'); opacity:0"></div>
+    <div class="mode-toggle-pill"></div>
+    <button class="mode-btn active" data-mode="dreaming">Still Dreaming</button>
+    <button class="mode-btn" data-mode="trip">On Trip</button>
+  </div>
+
+  <!-- Still Dreaming: city search -->
+  <div class="start-panel" id="panel-dreaming">
+    <div class="place-search-wrap">
+      <input type="text" class="place-search-input" id="place-input"
+             placeholder="Search a city or place…" autocomplete="off" />
+      <ul class="place-dropdown" id="place-dropdown"></ul>
+    </div>
+    <div class="chosen-place hidden" id="chosen-place">
+      Starting from <strong id="chosen-name"></strong>
+      <button id="clear-place">✕ change</button>
+    </div>
+  </div>
+
+  <!-- On Trip: GPS -->
+  <div class="start-panel hidden" id="panel-trip">
+    <button class="gps-btn" id="gps-btn">
+      <span>📍</span> Use my location
+    </button>
+    <span class="gps-status" id="gps-status"></span>
+  </div>
+
+  <!-- Mood / vibe input -->
+  <div class="mood-section">
+    <div class="mood-label">What's your vibe?</div>
+    <div class="mood-cards has-selection">
+      <button class="mood-card active" data-mood="" style="background-image:url('/content-image/europe.jpg')"><span>Anything goes — up for anything, no filter on vibe</span></button>
+      <button class="mood-card" data-mood="A slow morning with nowhere to be — coffee, a neighbourhood bakery, watching the city wake up" style="background-image:url('/content-image/europe/netherlands/amsterdam/jordaan.jpg')"><span>A slow morning with nowhere to be — coffee, a neighbourhood bakery, watching the city wake up</span></button>
+      <button class="mood-card" data-mood="Somewhere that earned its scars — old stones, half-forgotten stories, places that have outlived everyone who built them" style="background-image:url('/content-image/europe/italy/lazio/rome/pantheon.jpg')"><span>Somewhere that earned its scars — old stones, half-forgotten stories, places that have outlived everyone who built them</span></button>
+      <button class="mood-card" data-mood="Hungry and curious — street food, a crowded market, eating something you can't pronounce" style="background-image:url('/content-image/europe/netherlands/amsterdam/de_pijp.jpg')"><span>Hungry and curious — street food, a crowded market, eating something you can't pronounce</span></button>
+      <button class="mood-card" data-mood="Following the art — a gallery you almost walked past, a mural on a side street, something that makes you stop" style="background-image:url('/content-image/northamerica/unitedstates/california/sanfrancisco/mission.jpg')"><span>Following the art — a gallery you almost walked past, a mural on a side street, something that makes you stop</span></button>
+      <button class="mood-card" data-mood="Out of the city noise — somewhere green, a path that goes nowhere in particular, birds instead of traffic" style="background-image:url('/content-image/europe/netherlands/amsterdam/hortus_botanicus.jpg')"><span>Out of the city noise — somewhere green, a path that goes nowhere in particular, birds instead of traffic</span></button>
+      <button class="mood-card" data-mood="When the sun goes down — a bar with no tourists, live music somewhere, staying out later than planned" style="background-image:url('/content-image/europe/netherlands/amsterdam/leidseplein.jpg')"><span>When the sun goes down — a bar with no tourists, live music somewhere, staying out later than planned</span></button>
+    </div>
+  </div>
+
+  <!-- Distance band buttons -->
+  <div class="band-buttons">
+    <button class="band-btn" data-band="walking" disabled>
+      <span class="band-icon">🚶</span>
+      <span class="band-label">Walking</span>
+    </button>
+    <button class="band-btn" data-band="drive" disabled>
+      <span class="band-icon">🚗</span>
+      <span class="band-label">Drive</span>
+    </button>
+    <button class="band-btn" data-band="destinations" disabled>
+      <span class="band-icon">🚐</span>
+      <span class="band-label">Next</span>
+    </button>
+  </div>
+
+  <!-- Results -->
+  <div class="results-area" id="results-area">
+    <p class="results-empty">Pick a starting point, then choose a distance.</p>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  var currentLat = null, currentLng = null, activeBand = null, currentMood = '', currentExclude = '';
+  var searchTimer, searchController, searchSelected = -1;
+
+  var placeInput   = document.getElementById('place-input');
+  var dropdown     = document.getElementById('place-dropdown');
+  var chosenDiv    = document.getElementById('chosen-place');
+  var chosenName   = document.getElementById('chosen-name');
+  var clearBtn     = document.getElementById('clear-place');
+  var gpsBtn       = document.getElementById('gps-btn');
+  var gpsStatus    = document.getElementById('gps-status');
+  var resultsArea  = document.getElementById('results-area');
+  var bandBtns     = document.querySelectorAll('.band-btn');
+  var modeBtns     = document.querySelectorAll('.mode-btn');
+  var modeToggle   = document.getElementById('mode-toggle');
+  var modeBgDream  = document.getElementById('mode-bg-dream');
+  var modeBgTrip   = document.getElementById('mode-bg-trip');
+  var panelDream   = document.getElementById('panel-dreaming');
+  var panelTrip    = document.getElementById('panel-trip');
+  var moodCards    = document.querySelectorAll('.mood-card');
+  var moodCardsRow = document.querySelector('.mood-cards');
+
+  /* ── Mood ── */
+  function setMood(text) {
+    currentMood = text.trim();
+    moodCards.forEach(function (card) {
+      card.classList.toggle('active', card.dataset.mood === currentMood);
+    });
+    if (activeBand && currentLat !== null) fetchResults(activeBand);
+  }
+
+  moodCards.forEach(function (card) {
+    card.addEventListener('click', function () {
+      /* clicking the active non-default card deselects back to default */
+      if (card.classList.contains('active') && card.dataset.mood !== '') {
+        setMood('');
+      } else {
+        setMood(card.dataset.mood);
+      }
+    });
+  });
+
+  /* ── Mode toggle ── */
+  modeBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      modeBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var mode = btn.dataset.mode;
+      if (mode === 'dreaming') {
+        panelDream.classList.remove('hidden');
+        panelTrip.classList.add('hidden');
+        modeToggle.classList.remove('trip-active');
+        modeBgDream.style.opacity = '1';
+        modeBgTrip.style.opacity = '0';
+      } else {
+        panelDream.classList.add('hidden');
+        panelTrip.classList.remove('hidden');
+        modeToggle.classList.add('trip-active');
+        modeBgDream.style.opacity = '0';
+        modeBgTrip.style.opacity = '1';
+      }
+      clearLocation();
+    });
+  });
+
+  /* ── Location helpers ── */
+  function setLocation(lat, lng, label, excludePath) {
+    currentLat = lat;
+    currentLng = lng;
+    currentExclude = excludePath || '';
+    bandBtns.forEach(function (b) { b.disabled = false; });
+    if (activeBand) fetchResults(activeBand);
+  }
+
+  function clearLocation() {
+    currentLat = null;
+    currentLng = null;
+    activeBand = null;
+    bandBtns.forEach(function (b) { b.disabled = true; b.classList.remove('active'); });
+    resultsArea.innerHTML = '<p class="results-empty">Pick a starting point, then choose a distance.</p>';
+  }
+
+  /* ── City search (Still Dreaming) ── */
+  function runSearch(q) {
+    if (searchController) searchController.abort();
+    if (!q) { dropdown.innerHTML = ''; dropdown.style.display = 'none'; return; }
+    searchController = new AbortController();
+    fetch('/api/search?q=' + encodeURIComponent(q), { signal: searchController.signal })
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        searchSelected = -1;
+        var items = data.results.filter(function (r) { return r.page_type === 'location'; }).slice(0, 8);
+        if (!items.length) { dropdown.innerHTML = ''; dropdown.style.display = 'none'; return; }
+        dropdown.innerHTML = '';
+        items.forEach(function (item) {
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = '#';
+          a.dataset.path = item.url.replace(/^\//, '');
+          a.dataset.title = item.title;
+          var titleNode = document.createTextNode(item.title);
+          a.appendChild(titleNode);
+          if (item.location) {
+            var loc = document.createElement('span');
+            loc.className = 'result-location';
+            loc.textContent = item.location;
+            a.appendChild(loc);
+          }
+          a.addEventListener('click', function (e) {
+            e.preventDefault();
+            selectPlace(a.dataset.path, a.dataset.title);
+          });
+          li.appendChild(a);
+          dropdown.appendChild(li);
+        });
+        dropdown.style.display = 'block';
+      })
+      .catch(function (e) { if (e.name !== 'AbortError') console.error(e); });
+  }
+
+  function selectPlace(path, title) {
+    dropdown.innerHTML = '';
+    dropdown.style.display = 'none';
+    placeInput.value = '';
+    fetch('/api/page-coords?path=' + encodeURIComponent(path))
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        if (data.lat && data.lng) {
+          chosenName.textContent = title;
+          chosenDiv.classList.remove('hidden');
+          setLocation(data.lat, data.lng, title, path);
+        } else {
+          chosenDiv.classList.add('hidden');
+          resultsArea.innerHTML = '<p class="results-empty">No coordinates found for that place.</p>';
+        }
+      })
+      .catch(function () {
+        resultsArea.innerHTML = '<p class="results-empty">Could not fetch location.</p>';
+      });
+  }
+
+  placeInput.addEventListener('input', function () {
+    clearTimeout(searchTimer);
+    var q = placeInput.value.trim();
+    searchTimer = setTimeout(function () { runSearch(q); }, 180);
+  });
+
+  placeInput.addEventListener('keydown', function (e) {
+    var items = dropdown.querySelectorAll('li');
+    if (!items.length) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); searchSelected = Math.min(searchSelected + 1, items.length - 1); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); searchSelected = Math.max(searchSelected - 1, -1); }
+    else if (e.key === 'Escape') { dropdown.style.display = 'none'; searchSelected = -1; return; }
+    else if (e.key === 'Enter' && searchSelected >= 0) {
+      e.preventDefault();
+      items[searchSelected].querySelector('a').click();
+      return;
+    } else { return; }
+    items.forEach(function (li, i) { li.classList.toggle('active', i === searchSelected); });
+  });
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.place-search-wrap')) { dropdown.style.display = 'none'; searchSelected = -1; }
+  });
+
+  clearBtn.addEventListener('click', function () {
+    chosenDiv.classList.add('hidden');
+    clearLocation();
+  });
+
+  /* ── GPS (On Trip) ── */
+  gpsBtn.addEventListener('click', function () {
+    if (!navigator.geolocation) {
+      gpsStatus.textContent = 'Geolocation not supported by your browser.';
+      return;
+    }
+    gpsBtn.disabled = true;
+    gpsStatus.textContent = 'Getting your location…';
+    navigator.geolocation.getCurrentPosition(
+      function (pos) {
+        gpsBtn.disabled = false;
+        gpsStatus.textContent = 'Location found.';
+        setLocation(pos.coords.latitude, pos.coords.longitude, 'current location');
+      },
+      function (err) {
+        gpsBtn.disabled = false;
+        gpsStatus.textContent = 'Could not get location: ' + err.message;
+      }
+    );
+  });
+
+  /* ── Band buttons ── */
+  bandBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      if (!currentLat) return;
+      bandBtns.forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeBand = btn.dataset.band;
+      fetchResults(activeBand);
+    });
+  });
+
+  /* ── Fetch & render results ── */
+  function fetchResults(band) {
+    var msg = currentMood ? 'Matching your vibe…' : 'Looking around…';
+    resultsArea.innerHTML = '<p class="results-loading">' + msg + '</p>';
+    var url = '/api/nearby?lat=' + currentLat + '&lng=' + currentLng + '&mode=' + band;
+    if (currentMood) url += '&mood=' + encodeURIComponent(currentMood);
+    if (currentExclude) url += '&exclude=' + encodeURIComponent(currentExclude);
+    fetch(url)
+      .then(function (r) { return r.json(); })
+      .then(function (data) { renderResults(data.results, band, data.mood_active); })
+      .catch(function () {
+        resultsArea.innerHTML = '<p class="results-empty">Something went wrong. Try again.</p>';
+      });
+  }
+
+  function renderResults(items, band, moodActive) {
+    if (!items || !items.length) {
+      var msgs = {
+        walking: 'Nothing within walking distance.',
+        drive: 'No nearby destinations within driving range.',
+        destinations: 'No onward destinations found.',
+      };
+      resultsArea.innerHTML = '<p class="results-empty">' + (msgs[band] || 'No results.') + '</p>';
+      return;
+    }
+    var countLine = items.length + ' result' + (items.length !== 1 ? 's' : '');
+    if (moodActive) countLine += ' <span class="mood-active-badge">✦ sorted by vibe</span>';
+    var html = '<p class="results-count">' + countLine + '</p><ul class="results-list">';
+    items.forEach(function (item) {
+      var isLoc = item.page_type === 'location';
+      var thumb;
+      if (item.image_url) {
+        thumb = '<div class="result-thumb" style="background-image:url(' + esc(item.image_url) + ')"></div>';
+      } else {
+        thumb = '<div class="result-thumb">' + esc(item.title.charAt(0)) + '</div>';
+      }
+      // Context line: derive country / region from path
+      var context = '';
+      if (isLoc && item.url) {
+        var parts = item.url.replace(/^\//, '').split('/');
+        if (parts.length >= 3) {
+          // continent/country/city → show country
+          context = '<div class="result-card-context">' + esc(parts[1].replace(/_/g,' ')) + '</div>';
+        } else if (parts.length === 2) {
+          context = '<div class="result-card-context">' + esc(parts[0].replace(/_/g,' ')) + '</div>';
+        }
+      }
+      var snippet = item.snippet
+        ? '<div class="result-card-snippet">' + esc(item.snippet) + '</div>' : '';
+      html += '<li><a class="result-card' + (isLoc ? ' is-location' : '') + '" href="' + esc(item.url) + '">'
+        + thumb
+        + '<div class="result-info">'
+        + context
+        + '<div class="result-card-title">' + esc(item.title) + '</div>'
+        + snippet
+        + '<span class="result-dist">' + esc(item.distance_label) + '</span>'
+        + '</div></a></li>';
+    });
+    html += '</ul>';
+    resultsArea.innerHTML = html;
+  }
+
+  function esc(s) {
+    return String(s || '')
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+})();
+</script>
+{% endblock %}

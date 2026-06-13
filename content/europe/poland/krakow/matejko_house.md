@@ -1,13 +1,14 @@
 ---
-title: "Jan Matejko House"
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - stare_miasto
 latitude: 50.0643
 longitude: 19.9397
 score: 7.7
+tags:
+- things_to_do
+- museum
+- stare_miasto
+- kleparz
+title: Jan Matejko House
+type: poi
 ---
 
 Jan Matejko (1838-1893) was Poland's most important history painter, whose enormous canvases depicting battles, coronations, and key moments in Polish history shaped how generations of Poles visualized their past. He lived and worked in this house on Ulica Floriańska for most of his life, and it is now preserved as a museum showing his living quarters, studio, and a collection of the sketches, props, and historical objects he accumulated as research for his paintings.

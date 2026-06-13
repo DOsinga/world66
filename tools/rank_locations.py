@@ -691,13 +691,37 @@ def cmd_run(args) -> None:
     print(f'Done. {state.rounds} rounds, {state.api_calls} API calls.')
 
 
-def _print_leaderboard(state: State, rows: list[Rating]) -> None:
+def _score_bounds(state: State, min_n: int) -> tuple[float, float] | None:
+    """Return raw score bounds matching the apply command's min-n filter."""
+    rated = [r for r in state.ratings.values() if r.comparisons >= min_n]
+    if not rated:
+        return None
+    s_min = min(r.score for r in rated)
+    s_max = max(r.score for r in rated)
+    if s_max - s_min < 1e-9:
+        return None
+    return s_min, s_max
+
+
+def _display_score(r: Rating, bounds: tuple[float, float] | None, raw: bool) -> float:
+    if raw:
+        return r.score
+    if bounds is None:
+        return 0.5
+    s_min, s_max = bounds
+    return (r.score - s_min) / (s_max - s_min)
+
+
+def _print_leaderboard(state: State, rows: list[Rating], min_n: int, raw: bool) -> None:
+    bounds = _score_bounds(state, min_n) if not raw else None
+    score_label = 'raw' if raw else 'score'
     width = max((len(r.title) for r in rows), default=20)
-    header = f'{"#":>4}  {"title":<{width}}  {"score":>7}  {"var":>8}  {"n":>4}  path'
+    header = f'{"#":>4}  {"title":<{width}}  {score_label:>7}  {"var":>8}  {"n":>4}  path'
     print(header)
     print('-' * len(header))
     for i, r in enumerate(rows, 1):
-        print(f'{i:>4}  {r.title:<{width}}  {r.score:>7.3f}  {r.variance:>8.4f}  '
+        score = _display_score(r, bounds, raw)
+        print(f'{i:>4}  {r.title:<{width}}  {score:>7.3f}  {r.variance:>8.4f}  '
               f'{r.comparisons:>4}  {r.path}')
 
 
@@ -719,7 +743,7 @@ def cmd_top(args) -> None:
         sys.exit(2)
     pool = _filter_pool(state, args)
     rows = sorted(pool, key=lambda r: r.score, reverse=True)[:args.n]
-    _print_leaderboard(state, rows)
+    _print_leaderboard(state, rows, args.min_n, args.raw)
 
 
 def cmd_bottom(args) -> None:
@@ -729,7 +753,7 @@ def cmd_bottom(args) -> None:
         sys.exit(2)
     pool = _filter_pool(state, args)
     rows = sorted(pool, key=lambda r: r.score)[:args.n]
-    _print_leaderboard(state, rows)
+    _print_leaderboard(state, rows, args.min_n, args.raw)
 
 
 DEBUG_BATCH = [
@@ -890,6 +914,8 @@ def main() -> None:
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_top.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
+    p_top.add_argument('--raw', action='store_true',
+                       help='Show raw Plackett-Luce model scores instead of normalized 0-1 scores')
     p_top.set_defaults(func=cmd_top)
 
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
@@ -897,6 +923,8 @@ def main() -> None:
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_bot.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
+    p_bot.add_argument('--raw', action='store_true',
+                       help='Show raw Plackett-Luce model scores instead of normalized 0-1 scores')
     p_bot.set_defaults(func=cmd_bottom)
 
     p_stats = sub.add_parser('stats', help='Show rating state summary')
